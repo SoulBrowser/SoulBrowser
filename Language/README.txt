@@ -1,7 +1,3 @@
-Please correct the wrong translation yourself or email the corrected file.
-Thank you.
-
-
 ⭐ Language
 
 Reference 1 : values-ko  Korean
@@ -16,6 +12,7 @@ values-ja        Japanese
 values-ko        Korean
 values-pl        Poland
 values-pt        Portuguese
+values-pt-rBR    Brazilian Portuguese
 values-ro        Romania
 values-ru        Russian
 values-th        Thai
@@ -28,13 +25,13 @@ values           English
 
 ⭐ Code definition
 
-&#160; : First space
-&#8230; : ... (3 dots)
-&#60; : <
-&#62; : >
-\n : New line
-%s : Variable text
-%d : Variable number
+&#160;    : First space
+&#8230;   : ... (3 dots)
+&#60;     : <
+&#62;     : >
+\n        : New line
+%s        : Variable text
+%d        : Variable number
 
 ex)
 <string name="item">&#160;item</string>
