@@ -356,6 +356,7 @@
     <string name="cancelled">它已被取消</string>
     <string name="locale">語言</string>
     <string name="locale_restart">應用程式重新啟動，因為語言已更改</string>
+    <string name="lang_res">語言資源</string>
     <string name="file_name">文檔名稱</string>
     <string name="real_name">真正的名字</string>
     <string name="prefix">字首</string>

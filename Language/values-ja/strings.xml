@@ -356,6 +356,7 @@
     <string name="cancelled">キャンセルされました。</string>
     <string name="locale">言語</string>
     <string name="locale_restart">言語が変更されて、アプリが再起動されます。</string>
+    <string name="lang_res">言語リソース</string>
     <string name="file_name">ファイル名</string>
     <string name="real_name">本名</string>
     <string name="prefix">プレフィックス</string>

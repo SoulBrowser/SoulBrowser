@@ -356,6 +356,7 @@
     <string name="cancelled">Anulowany</string>
     <string name="locale">Język</string>
     <string name="locale_restart">Aplikacja uruchomi się ponownie, ponieważ zmienił się język.</string>
+    <string name="lang_res">Zasób językowy</string>
     <string name="file_name">Nazwa pliku</string>
     <string name="real_name">Prawdziwe imię</string>
     <string name="prefix">Prefiks</string>

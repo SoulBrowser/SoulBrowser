@@ -356,6 +356,7 @@
     <string name="cancelled">Anulat</string>
     <string name="locale">Language</string>
     <string name="locale_restart">Aplicația repornește deoarece limba s-a schimbat.</string>
+    <string name="lang_res">Resursă lingvistică</string>
     <string name="file_name">Nume fișier</string>
     <string name="real_name">Numele real</string>
     <string name="prefix">Prefix</string>

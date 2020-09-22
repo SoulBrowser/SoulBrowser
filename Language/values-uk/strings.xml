@@ -356,6 +356,7 @@
     <string name="cancelled">Скасовано</string>
     <string name="locale">Мова</string>
     <string name="locale_restart">Додаток перезапускається, оскільки мова змінилася.</string>
+    <string name="lang_res">Мовний ресурс</string>
     <string name="file_name">Назва файлу</string>
     <string name="real_name">Справжнє ім\'я</string>
     <string name="prefix">Префікс</string>

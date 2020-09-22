@@ -356,6 +356,7 @@
     <string name="cancelled">Đã hủy</string>
     <string name="locale">Ngôn ngữ</string>
     <string name="locale_restart">Ứng dụng khởi động lại vì ngôn ngữ đã thay đổi.</string>
+    <string name="lang_res">Nguồn ngôn ngữ</string>
     <string name="file_name">Tên tệp</string>
     <string name="real_name">Tên thật</string>
     <string name="prefix">Tiền tố</string>

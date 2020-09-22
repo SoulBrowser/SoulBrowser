@@ -356,6 +356,7 @@
     <string name="cancelled">ยกเลิกแล้ว</string>
     <string name="locale">ภาษา</string>
     <string name="locale_restart">แอปรีสตาร์ทเพราะภาษามีการเปลี่ยนแปลง</string>
+    <string name="lang_res">ทรัพยากรภาษา</string>
     <string name="file_name">ชื่อไฟล์</string>
     <string name="real_name">ชื่อจริง</string>
     <string name="prefix">อุปสรรค</string>

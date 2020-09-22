@@ -356,6 +356,7 @@
     <string name="cancelled">Отменено.</string>
     <string name="locale">Язык</string>
     <string name="locale_restart">Приложение перезапускается, потому что язык изменился.</string>
+    <string name="lang_res">Языковой ресурс</string>
     <string name="file_name">Имя файла</string>
     <string name="real_name">Настоящее имя</string>
     <string name="prefix">Префикс</string>

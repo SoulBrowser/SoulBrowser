@@ -356,6 +356,7 @@
     <string name="cancelled">Cancelled</string>
     <string name="locale">Language</string>
     <string name="locale_restart">The app restarts because the language has changed.</string>
+    <string name="lang_res">Language resource</string>
     <string name="file_name">File name</string>
     <string name="real_name">Real name</string>
     <string name="prefix">Prefix</string>

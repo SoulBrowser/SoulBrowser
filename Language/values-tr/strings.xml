@@ -356,6 +356,7 @@
     <string name="cancelled">İptal edildi</string>
     <string name="locale">Dil</string>
     <string name="locale_restart">Dil değiştiği için uygulama yeniden başlatılıyor.</string>
+    <string name="lang_res">Dil kaynağı</string>
     <string name="file_name">Dosya adı</string>
     <string name="real_name">Gerçek adı</string>
     <string name="prefix">Önek</string>

@@ -356,6 +356,7 @@
     <string name="cancelled">Cancelado</string>
     <string name="locale">Idioma</string>
     <string name="locale_restart">La aplicación se reinicia porque el idioma ha cambiado.</string>
+    <string name="lang_res">Recurso de idioma</string>
     <string name="file_name">Nombre del archivo</string>
     <string name="real_name">Nombre real</string>
     <string name="prefix">Prefijo</string>

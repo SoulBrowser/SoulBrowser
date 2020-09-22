@@ -356,6 +356,7 @@
     <string name="cancelled">Abgebrochen</string>
     <string name="locale">Sprache</string>
     <string name="locale_restart">Die App wird neu gestartet, da sich die Sprache geändert hat.</string>
+    <string name="lang_res">Sprachressource</string>
     <string name="file_name">Dateiname</string>
     <string name="real_name">Echter Name</string>
     <string name="prefix">Präfix</string>

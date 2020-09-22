@@ -356,6 +356,7 @@
     <string name="cancelled">Dibatalkan</string>
     <string name="locale">Bahasa</string>
     <string name="locale_restart">Aplikasi dimulai ulang karena bahasa telah berubah.</string>
+    <string name="lang_res">Sumber bahasa</string>
     <string name="file_name">Nama file</string>
     <string name="real_name">Nama asli</string>
     <string name="prefix">Awalan</string>
