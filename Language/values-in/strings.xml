@@ -562,7 +562,7 @@
     <string name="no_down_video">Tidak ada video yang dapat diunduh.</string>
     <string name="trans_report">Laporkan kesalahan terjemahan</string>
     <string name="trans_report_info">Tolong bantu terjemahkan. ❤</string>
-    <string name="trans_report_guide">[Terjemahan salah] > [Terjemahan yang benar]</string>
+    <string name="trans_report_guide">[Terjemahan salah] &#62; [Terjemahan yang benar]</string>
     <string name="tts_mode">Teks pidato</string>
     <string name="tts_on">Aktifkan TTS</string>
     <string name="tts_info_1">Ketika Anda mengklik teks yang ditampilkan di browser, itu dibaca dengan suara.</string>

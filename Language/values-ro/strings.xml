@@ -562,7 +562,7 @@
     <string name="no_down_video">Nu există videoclipuri descărcabile.</string>
     <string name="trans_report">Raportați erori de traducere</string>
     <string name="trans_report_info">Vă rugăm să ajutați la traducere. ❤</string>
-    <string name="trans_report_guide">[Traducere incorectă] > [Traducere corectă]</string>
+    <string name="trans_report_guide">[Traducere incorectă] &#62; [Traducere corectă]</string>
     <string name="tts_mode">Text la vorbire</string>
     <string name="tts_on">Activați TTS</string>
     <string name="tts_info_1">Când faceți clic pe textul afișat în browser, acesta este citit prin voce.</string>

@@ -562,7 +562,7 @@
     <string name="no_down_video">There are no downloadable videos.</string>
     <string name="trans_report">Report translation errors</string>
     <string name="trans_report_info">Please help translate. ❤</string>
-    <string name="trans_report_guide">[Incorrect translation] > [Correct translation]</string>
+    <string name="trans_report_guide">[Incorrect translation] &#62; [Correct translation]</string>
     <string name="tts_mode">Text To Speech</string>
     <string name="tts_on">Enable TTS</string>
     <string name="tts_info_1">When you click the text displayed in the browser, it is read by voice.</string>

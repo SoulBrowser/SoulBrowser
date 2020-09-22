@@ -562,7 +562,7 @@
     <string name="no_down_video">Нет загружаемых видео.</string>
     <string name="trans_report">Сообщить об ошибках перевода</string>
     <string name="trans_report_info">Пожалуйста, помогите перевести. ❤</string>
-    <string name="trans_report_guide">[Неверный перевод] > [Правильный перевод]</string>
+    <string name="trans_report_guide">[Неверный перевод] &#62; [Правильный перевод]</string>
     <string name="tts_mode">Текст в речь</string>
     <string name="tts_on">Включить TTS</string>
     <string name="tts_info_1">Когда Вы нажимаете текст, отображаемый в браузере, он читается вслух.</string>

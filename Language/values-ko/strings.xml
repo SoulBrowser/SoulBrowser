@@ -562,7 +562,7 @@
     <string name="no_down_video">다운로드 가능한 동영상이 없습니다.</string>
     <string name="trans_report">번역 오류 신고</string>
     <string name="trans_report_info">번역을 도와주세요. ❤</string>
-    <string name="trans_report_guide">[잘못된 번역] > [올바른 번역]</string>
+    <string name="trans_report_guide">[잘못된 번역] &#62; [올바른 번역]</string>
     <string name="tts_mode">텍스트 음성 지원</string>
     <string name="tts_on">TTS 사용</string>
     <string name="tts_info_1">브라우저에 표시된 문자를 클릭하면, 음성으로 읽어줍니다.</string>

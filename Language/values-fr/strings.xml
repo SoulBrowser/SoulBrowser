@@ -562,7 +562,7 @@
     <string name="no_down_video">Il n\'y a pas de vidéos téléchargeables.</string>
     <string name="trans_report">Signaler des erreurs de traduction</string>
     <string name="trans_report_info">Aidez-nous à traduire. ❤</string>
-    <string name="trans_report_guide">[Traduction incorrecte] > [Traduction correcte]</string>
+    <string name="trans_report_guide">[Traduction incorrecte] &#62; [Traduction correcte]</string>
     <string name="tts_mode">Texte pour parler</string>
     <string name="tts_on">Activer TTS</string>
     <string name="tts_info_1">Lorsque vous cliquez sur le texte affiché dans le navigateur, il est lu par la voix.</string>
