@@ -123,7 +123,6 @@
     <string name="downall_image">Zapisz wszystkie obrazy</string>
     <string name="tab_list">Lista kart</string>
     <string name="tab_item">Tab</string>
-    <string name="tab_info">Otwórz kartę</string>
     <string name="tab_tip">Jeśli otwartych jest zbyt wiele kart, przeglądarka może zwolnić.</string>
     <string name="no_image">Brak obrazów</string>
     <string name="no_title">Bez tytułu</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Bieżąca strona</string>
     <string name="blank_page">Pusta strona</string>
     <string name="page">Strona</string>
-    <string name="history_title">Historia</string>
-    <string name="history_info">Ostatnie, historia wyszukiwania</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Pliki utworzone podczas przeglądania stron internetowych (np. obrazy)</string>
     <string name="cookie">Cookie</string>
@@ -451,7 +448,7 @@
     <string name="continue_input">Kontynuuj</string>
     <string name="pip_advance">Tryb zaawansowany PIP</string>
     <string name="pip_advance_info">Niektóre urządzenia mogą nie być obsługiwane.\nTa funkcja zużywa więcej pamięci.\nZachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
-    <string name="android_oreo">Obsługiwane od Androida Oreo.</string>
+    <string name="android_oreo">Obsługiwane od Android Oreo.</string>
     <string name="secret_hist">Zapisz historię</string>
     <string name="secret_hist_info">Zapisz historię w trybie incognito. Historia w trybie incognito nie pojawia się w trybie normalnym.</string>
     <string name="secret_down">Zapisz historię pobierania</string>
@@ -530,7 +527,7 @@
     <string name="show_full">Przycisk pełnego ekranu</string>
     <string name="icon_color">Kolor przycisku</string>
     <string name="thank_you">Dziękuję</string>
-    <string name="storage_guide_1">Zaktualizowano dla Androida 10.</string>
+    <string name="storage_guide_1">Zaktualizowano dla Android 10.</string>
     <string name="storage_guide_2">W systemie Android 10 obowiązują zasady \'Scoped Storage\'.</string>
     <string name="storage_guide_3">Zainicjowano listę zapisywania i ścieżkę zapisu.</string>
     <string name="storage_guide_4">Pliki są zachowane.</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Wpisz odpowiedź.</string>
     <string name="correct_answer">Prawidłowa odpowiedź to %d.</string>
     <string name="bright_info">Może to nie mieć zastosowania, jeśli włączone jest automatyczne oświetlenie.</string>
+    <string name="subtitle">Napisy na filmie obcojęzycznym</string>
+    <string name="subtitle_info_1">Tylko pliki lokalne obsługują napisy.</string>
+    <string name="subtitle_info_2">Umieść plik napisów w tym samym folderze, co plik wideo.</string>
+    <string name="subtitle_info_3">Plik wideo i plik z napisami muszą mieć tę samą nazwę.</string>
+    <string name="subtitle_info_4">Obsługuje formaty VTT i SRT.</string>
+    <string name="subtitle_info_5">Format SRT przechodzi przez proces konwersji podczas ładowania, więc ładowanie może potrwać dłużej.</string>
+    <string name="subtitle_info_6">Zalecany jest format VTT.</string>
+    <string name="subtitle_info_7">Jeśli kodowanie nie jest zgodne z UTF-8, znaki mogą nie być wyświetlane normalnie.</string>
+    <string name="android_shot">Zrzut ekranu Android</string>
+    <string name="always_allow">Zawsze dozwolone</string>
+    <string name="always_block">Zawsze zablokowany</string>
+    <string name="block_back">Blokuj tylko w tle</string>
+    <string name="only_https">Połącz się przez HTTPS</string>
+    <string name="only_https_info">Domyślnie łączy się z HTTPS.\nWitryny, które nie obsługują HTTPS, mogą nie być w stanie się połączyć.</string>
 </resources>

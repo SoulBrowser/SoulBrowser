@@ -123,7 +123,6 @@
     <string name="downall_image">Enregistrer toutes images</string>
     <string name="tab_list">Liste onglets</string>
     <string name="tab_item">Onglet</string>
-    <string name="tab_info">Ouvrir l\'onglet</string>
     <string name="tab_tip">Si trop d\'onglets sont ouverts, le navigateur peut ralentir.</string>
     <string name="no_image">Pas image</string>
     <string name="no_title">Pas de titre</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Page actuelle</string>
     <string name="blank_page">Page blanche</string>
     <string name="page">Page</string>
-    <string name="history_title">Histoire</string>
-    <string name="history_info">Histoire récente, recherche</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Fichiers créés lors de la navigation sur le web (exemple : images)</string>
     <string name="cookie">Cookie</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Veuillez saisir la réponse.</string>
     <string name="correct_answer">La bonne réponse est %d.</string>
     <string name="bright_info">Cela peut ne pas s\'appliquer si l\'éclairage automatique est activé.</string>
+    <string name="subtitle">Les sous-titres</string>
+    <string name="subtitle_info_1">Seuls les fichiers locaux prennent en charge les sous-titres.</string>
+    <string name="subtitle_info_2">Placez le fichier de sous-titres dans le même dossier que le fichier vidéo.</string>
+    <string name="subtitle_info_3">Le fichier vidéo et le fichier de sous-titres doivent avoir le même nom.</string>
+    <string name="subtitle_info_4">Prend en charge les formats VTT et SRT.</string>
+    <string name="subtitle_info_5">Le format SRT passe par un processus de conversion lors du chargement, le chargement peut donc prendre plus de temps.</string>
+    <string name="subtitle_info_6">Le format VTT est recommandé.</string>
+    <string name="subtitle_info_7">Si le codage n\'est pas UTF-8, les caractères peuvent ne pas s\'afficher normalement.</string>
+    <string name="android_shot">Capture d\'écran Android</string>
+    <string name="always_allow">Toujours permis</string>
+    <string name="always_block">Toujours bloqué</string>
+    <string name="block_back">Bloquer uniquement en arrière-plan</string>
+    <string name="only_https">Connectez-vous avec HTTPS</string>
+    <string name="only_https_info">Par défaut, il se connecte avec HTTPS.\nLes sites qui ne prennent pas en charge HTTPS peuvent ne pas pouvoir se connecter.</string>
 </resources>

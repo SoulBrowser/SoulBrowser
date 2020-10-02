@@ -123,7 +123,6 @@
     <string name="downall_image">Сохранить все изображения</string>
     <string name="tab_list">Список вкладок</string>
     <string name="tab_item">вкладка</string>
-    <string name="tab_info">Открыть вкладку</string>
     <string name="tab_tip">Если открыто слишком много вкладок, браузер может замедляться.</string>
     <string name="no_image">Нет изображений</string>
     <string name="no_title">Без заголовка</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Текущая страница</string>
     <string name="blank_page">Пустая страница</string>
     <string name="page">Страница</string>
-    <string name="history_title">История</string>
-    <string name="history_info">Недавние, поиск по истории</string>
     <string name="cache">Кэш</string>
     <string name="cache_info">Файлы, созданные во время просмотра веб страниц (например : изображений)</string>
     <string name="cookie">Cookie</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Пожалуйста, введите ответ.</string>
     <string name="correct_answer">Правильный ответ %d.</string>
     <string name="bright_info">Это может не применяться, если включено автоматическое освещение.</string>
+    <string name="subtitle">Субтитры</string>
+    <string name="subtitle_info_1">Только локальные файлы поддерживают субтитры.</string>
+    <string name="subtitle_info_2">Поместите файл субтитров в ту же папку, что и видеофайл.</string>
+    <string name="subtitle_info_3">Видеофайл и файл субтитров должны иметь одно и то же имя.</string>
+    <string name="subtitle_info_4">Поддерживает форматы VTT и SRT.</string>
+    <string name="subtitle_info_5">Формат SRT проходит процесс преобразования при загрузке, поэтому загрузка может занять больше времени.</string>
+    <string name="subtitle_info_6">Рекомендуется формат VTT.</string>
+    <string name="subtitle_info_7">Если кодировка отличается от UTF-8, символы могут отображаться некорректно.</string>
+    <string name="android_shot">Скриншот Android</string>
+    <string name="always_allow">всегда разрешено</string>
+    <string name="always_block">Всегда заблокирован</string>
+    <string name="block_back">Блокировать только в фоновом режиме</string>
+    <string name="only_https">Подключиться по HTTPS</string>
+    <string name="only_https_info">По умолчанию он подключается по HTTPS.\nСайты, не поддерживающие HTTPS, могут не подключиться.</string>
 </resources>

@@ -123,7 +123,6 @@
     <string name="downall_image">すべての画像を保存</string>
     <string name="tab_list">タブ一覧</string>
     <string name="tab_item">タブ</string>
-    <string name="tab_info">開いているタブ</string>
     <string name="tab_tip">あまりにも多くのタブが開いている場合は、ブラウザが遅くなることがあります。</string>
     <string name="no_image">画像なし</string>
     <string name="no_title">タイトルなし</string>
@@ -184,8 +183,6 @@
     <string name="current_page">現在のページ</string>
     <string name="blank_page">空白のページ</string>
     <string name="page">ページ</string>
-    <string name="history_title">履歴</string>
-    <string name="history_info">最近履歴、 検索履歴</string>
     <string name="cache">Cache</string>
     <string name="cache_info">ウェブ閲覧中に生成されたファイル (例 : 画像)</string>
     <string name="cookie">Cookie</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">答えを入力してください。</string>
     <string name="correct_answer">正解は%dです。</string>
     <string name="bright_info">自動照明が有効になっている場合には適用されない場合があります。</string>
+    <string name="subtitle">字幕</string>
+    <string name="subtitle_info_1">ローカルファイルのみ字幕をサポートします。</string>
+    <string name="subtitle_info_2">字幕ファイルを動画ファイルと同じフォルダに入れてください。</string>
+    <string name="subtitle_info_3">動画ファイルと字幕ファイルは、名前が同じになります。</string>
+    <string name="subtitle_info_4">VTTとSRT形式をサポートします。</string>
+    <string name="subtitle_info_5">SRT形式は、ロード時に変換プロセスを経ので読み込みに時間がかかることがあります。</string>
+    <string name="subtitle_info_6">VTT形式が推奨されます。</string>
+    <string name="subtitle_info_7">エンコーディングがUTF-8ではない場合、文字が正常に表示されないことがあります。</string>
+    <string name="android_shot">Androidスクリーンショット</string>
+    <string name="always_allow">常に許可</string>
+    <string name="always_block">常にブロック</string>
+    <string name="block_back">バックグラウンドで遮断</string>
+    <string name="only_https">HTTPSに接続</string>
+    <string name="only_https_info">基本的にHTTPSに接続します。\nHTTPSをサポートしていないサイトは、リンクにならないことがあります。</string>
 </resources>

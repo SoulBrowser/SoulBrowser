@@ -123,7 +123,6 @@
     <string name="downall_image">Salva tutte immagini</string>
     <string name="tab_list">Elenco schede</string>
     <string name="tab_item">Scheda</string>
-    <string name="tab_info">Apri la scheda</string>
     <string name="tab_tip">Se sono aperte troppe schede, il browser potrebbe rallentare.</string>
     <string name="no_image">Nessuna immagine</string>
     <string name="no_title">Senza titolo</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Pagina corrente</string>
     <string name="blank_page">Pagina vuota</string>
     <string name="page">Pagina</string>
-    <string name="history_title">Cronologia</string>
-    <string name="history_info">Cronologia recente, ricerche</string>
     <string name="cache">Cache</string>
     <string name="cache_info">File creati durante la navigazione web (esempio : immagini)</string>
     <string name="cookie">Cookie</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Inserisci la risposta.</string>
     <string name="correct_answer">La risposta corretta è %d.</string>
     <string name="bright_info">Ciò potrebbe non essere applicabile se è attivata l\'illuminazione automatica.</string>
+    <string name="subtitle">Sottotitoli</string>
+    <string name="subtitle_info_1">Solo i file locali supportano i sottotitoli.</string>
+    <string name="subtitle_info_2">Metti il ​​file dei sottotitoli nella stessa cartella del file video.</string>
+    <string name="subtitle_info_3">Il file video e il file dei sottotitoli devono avere lo stesso nome.</string>
+    <string name="subtitle_info_4">Supporta i formati VTT e SRT.</string>
+    <string name="subtitle_info_5">Il formato SRT passa attraverso un processo di conversione al caricamento, quindi potrebbe richiedere più tempo per il caricamento.</string>
+    <string name="subtitle_info_6">Si consiglia il formato VTT.</string>
+    <string name="subtitle_info_7">Se la codifica non è UTF-8, i caratteri potrebbero non essere visualizzati normalmente.</string>
+    <string name="android_shot">Screenshot di Android</string>
+    <string name="always_allow">sempre permesso</string>
+    <string name="always_block">Sempre bloccato</string>
+    <string name="block_back">Blocca solo in background</string>
+    <string name="only_https">Connettiti con HTTPS</string>
+    <string name="only_https_info">Per impostazione predefinita, si connette con HTTPS.\nI siti che non supportano HTTPS potrebbero non essere in grado di connettersi.</string>
 </resources>

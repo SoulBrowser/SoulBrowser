@@ -123,7 +123,6 @@
     <string name="downall_image">Lưu tất cả hình ảnh</string>
     <string name="tab_list">Danh sách tab</string>
     <string name="tab_item">Tab</string>
-    <string name="tab_info">Mở tab</string>
     <string name="tab_tip">Nếu quá nhiều tab được mở, trình duyệt có thể chậm lại.</string>
     <string name="no_image">Không có hình ảnh</string>
     <string name="no_title">Không tiêu đề</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Trang hiện tại</string>
     <string name="blank_page">Trang trống</string>
     <string name="page">Trang</string>
-    <string name="history_title">Lịch sử</string>
-    <string name="history_info">Gần đây, tìm kiếm</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Tập tin được tạo trong quá trình duyệt web (ví dụ : hình ảnh)</string>
     <string name="cookie">Cookie</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Vui lòng nhập câu trả lời.</string>
     <string name="correct_answer">Câu trả lời đúng là %d.</string>
     <string name="bright_info">Điều này có thể không áp dụng nếu đèn tự động được kích hoạt.</string>
+    <string name="subtitle">Phụ đề</string>
+    <string name="subtitle_info_1">Chỉ các tệp cục bộ mới hỗ trợ phụ đề.</string>
+    <string name="subtitle_info_2">Đặt tệp phụ đề vào cùng thư mục với tệp video.</string>
+    <string name="subtitle_info_3">Tệp video và tệp phụ đề phải có cùng tên.</string>
+    <string name="subtitle_info_4">Hỗ trợ các định dạng VTT và SRT.</string>
+    <string name="subtitle_info_5">Định dạng SRT trải qua quá trình chuyển đổi khi tải, vì vậy có thể mất nhiều thời gian hơn để tải.</string>
+    <string name="subtitle_info_6">Định dạng VTT được khuyến khích.</string>
+    <string name="subtitle_info_7">Nếu mã hóa không phải là UTF-8, các ký tự có thể không được hiển thị bình thường.</string>
+    <string name="android_shot">Ảnh chụp màn hình Android</string>
+    <string name="always_allow">Luôn luôn cho phép</string>
+    <string name="always_block">Luôn bị chặn</string>
+    <string name="block_back">Chỉ chặn trong nền</string>
+    <string name="only_https">Kết nối với HTTPS</string>
+    <string name="only_https_info">Theo mặc định, nó kết nối với HTTPS.\nCác trang web không hỗ trợ HTTPS có thể không kết nối được.</string>
 </resources>

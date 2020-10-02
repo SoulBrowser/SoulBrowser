@@ -123,7 +123,6 @@
     <string name="downall_image">Salvar todas as imagens</string>
     <string name="tab_list">Lista de abas</string>
     <string name="tab_item">Aba</string>
-    <string name="tab_info">Abrir aba</string>
     <string name="tab_tip">Se muitas abas estiverem abertas, o navegador poderá ficar mais lento.</string>
     <string name="no_image">Sem imagens</string>
     <string name="no_title">Sem título</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Página atual</string>
     <string name="blank_page">Página em branco</string>
     <string name="page">Página</string>
-    <string name="history_title">Histórico</string>
-    <string name="history_info">Recentes, histórico de pesquisa</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Arquivos criados durante a navegação na web (ex: imagens)</string>
     <string name="cookie">Cookie</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Por favor, digite a resposta.</string>
     <string name="correct_answer">A resposta correta é %d.</string>
     <string name="bright_info">Isso pode não se aplicar se a iluminação automática estiver ativada.</string>
+    <string name="subtitle">Legendas</string>
+    <string name="subtitle_info_1">Somente arquivos locais suportam legendas.</string>
+    <string name="subtitle_info_2">Coloque o arquivo de legenda na mesma pasta do arquivo de vídeo.</string>
+    <string name="subtitle_info_3">O arquivo de vídeo e o arquivo de legenda devem ter o mesmo nome.</string>
+    <string name="subtitle_info_4">Suporta formatos VTT e SRT.</string>
+    <string name="subtitle_info_5">O formato SRT passa por um processo de conversão no carregamento, por isso pode demorar mais para carregar.</string>
+    <string name="subtitle_info_6">O formato VTT é recomendado.</string>
+    <string name="subtitle_info_7">Se a codificação não for UTF-8, os caracteres podem não ser exibidos normalmente.</string>
+    <string name="android_shot">Captura de tela do Android</string>
+    <string name="always_allow">Sempre permitido</string>
+    <string name="always_block">Sempre bloqueado</string>
+    <string name="block_back">Bloquear apenas em segundo plano</string>
+    <string name="only_https">Conecte-se com HTTPS</string>
+    <string name="only_https_info">Por padrão, ele se conecta com HTTPS.\nOs sites que não oferecem suporte a HTTPS podem não conseguir se conectar.</string>
 </resources>

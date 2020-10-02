@@ -123,7 +123,6 @@
     <string name="downall_image">保存所有圖片</string>
     <string name="tab_list">分頁列表</string>
     <string name="tab_item">分頁</string>
-    <string name="tab_info">打開分頁</string>
     <string name="tab_tip">如果打開的分頁太多，則瀏覽器可能會變慢</string>
     <string name="no_image">沒有圖片</string>
     <string name="no_title">沒有標題</string>
@@ -184,8 +183,6 @@
     <string name="current_page">當前頁</string>
     <string name="blank_page">空白頁</string>
     <string name="page">頁</string>
-    <string name="history_title">歷史</string>
-    <string name="history_info">最近歷史， 搜索歷史</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Web瀏覽期間創建的文件 (示例 : 圖片)</string>
     <string name="cookie">Cookie</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">請輸入答案</string>
     <string name="correct_answer">正確答案是%d</string>
     <string name="bright_info">如果激活了自動照明，則可能不適用</string>
+    <string name="subtitle">字幕</string>
+    <string name="subtitle_info_1">僅本地文件支持字幕</string>
+    <string name="subtitle_info_2">將字幕文件與視頻文件放在同一文件夾中</string>
+    <string name="subtitle_info_3">視頻文件和字幕文件必須具有相同的名稱</string>
+    <string name="subtitle_info_4">支持VTT和SRT格式</string>
+    <string name="subtitle_info_5">SRT格式在加載時會經歷轉換過程，因此加載時間可能會更長</string>
+    <string name="subtitle_info_6">建議使用VTT格式</string>
+    <string name="subtitle_info_7">如果編碼不是UTF-8，則字符可能無法正常顯示</string>
+    <string name="android_shot">Android屏幕截圖</string>
+    <string name="always_allow">一律允許</string>
+    <string name="always_block">一律封鎖</string>
+    <string name="block_back">僅在後台阻止</string>
+    <string name="only_https">與HTTPS連接</string>
+    <string name="only_https_info">默認情況下，它與HTTPS連接\n不支持HTTPS的站點可能無法連接</string>
 </resources>

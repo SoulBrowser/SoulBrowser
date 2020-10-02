@@ -123,7 +123,6 @@
     <string name="downall_image">Simpan semua gambar</string>
     <string name="tab_list">Daftar tab</string>
     <string name="tab_item">Tab</string>
-    <string name="tab_info">Buka tab</string>
     <string name="tab_tip">Jika terlalu banyak tab terbuka, peramban mungkin melambat.</string>
     <string name="no_image">Tidak ada gambar</string>
     <string name="no_title">Tidak ada judul</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Halaman saat ini</string>
     <string name="blank_page">Halaman kosong</string>
     <string name="page">Halaman</string>
-    <string name="history_title">History</string>
-    <string name="history_info">Terbaru, cari riwayat</string>
     <string name="cache">Cache</string>
     <string name="cache_info">File yang dibuat selama penjelajahan web (mis. gambar)</string>
     <string name="cookie">Cookie</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Silakan masukkan jawaban.</string>
     <string name="correct_answer">Jawaban yang benar adalah %d.</string>
     <string name="bright_info">Ini mungkin tidak berlaku jika pencahayaan otomatis diaktifkan.</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="subtitle_info_1">Hanya file lokal yang mendukung subtitle.</string>
+    <string name="subtitle_info_2">Letakkan file subtitle di folder yang sama dengan file video.</string>
+    <string name="subtitle_info_3">File video dan file subtitle harus memiliki nama yang sama.</string>
+    <string name="subtitle_info_4">Mendukung format VTT dan SRT.</string>
+    <string name="subtitle_info_5">Format SRT mengalami proses konversi saat dimuat, jadi mungkin perlu waktu lebih lama untuk memuat.</string>
+    <string name="subtitle_info_6">Format VTT direkomendasikan.</string>
+    <string name="subtitle_info_7">Jika pengkodean bukan UTF-8, karakter mungkin tidak ditampilkan secara normal.</string>
+    <string name="android_shot">Tangkapan layar Android</string>
+    <string name="always_allow">selalu dibolehkan</string>
+    <string name="always_block">Selalu diblokir</string>
+    <string name="block_back">Blokir hanya di latar belakang</string>
+    <string name="only_https">Terhubung dengan HTTPS</string>
+    <string name="only_https_info">Secara default terhubung dengan HTTPS.\nSitus yang tidak mendukung HTTPS mungkin tidak dapat terhubung.</string>
 </resources>

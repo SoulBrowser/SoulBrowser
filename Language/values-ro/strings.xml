@@ -123,7 +123,6 @@
     <string name="downall_image">Salvați toate imaginile</string>
     <string name="tab_list">Lista file</string>
     <string name="tab_item">Tab</string>
-    <string name="tab_info">Deschideți fila</string>
     <string name="tab_tip">Dacă sunt deschise prea multe file, browserul poate încetini.</string>
     <string name="no_image">Fără imagini</string>
     <string name="no_title">Fără titlu</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Pagina curentă</string>
     <string name="blank_page">Pagina goală</string>
     <string name="page">Pagina</string>
-    <string name="history_title">Istoric</string>
-    <string name="history_info">Istoric recent, căutare</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Fișiere create pe parcursul navigării web (de ex. imagini)</string>
     <string name="cookie">Cookie</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Vă rugăm să introduceți răspunsul.</string>
     <string name="correct_answer">Răspunsul corect este %d.</string>
     <string name="bright_info">Este posibil să nu se aplice dacă este activată iluminarea automată.</string>
+    <string name="subtitle">Subtitrări</string>
+    <string name="subtitle_info_1">Doar fișierele locale acceptă subtitrări.</string>
+    <string name="subtitle_info_2">Puneți fișierul de subtitrare în același folder cu fișierul video.</string>
+    <string name="subtitle_info_3">Fișierul video și fișierul de subtitrare trebuie să aibă același nume.</string>
+    <string name="subtitle_info_4">Suportă formate VTT și SRT.</string>
+    <string name="subtitle_info_5">Formatul SRT trece printr-un proces de conversie la încărcare, deci poate dura mai mult timp pentru încărcare.</string>
+    <string name="subtitle_info_6">Este recomandat formatul VTT.</string>
+    <string name="subtitle_info_7">Dacă codificarea nu este UTF-8, este posibil ca caracterele să nu fie afișate normal.</string>
+    <string name="android_shot">Captură de ecran Android</string>
+    <string name="always_allow">Mereu permis</string>
+    <string name="always_block">Întotdeauna blocat</string>
+    <string name="block_back">Blocați numai în fundal</string>
+    <string name="only_https">Conectați-vă cu HTTPS</string>
+    <string name="only_https_info">În mod implicit, se conectează cu HTTPS.\nEste posibil ca site-urile care nu acceptă HTTPS să nu se poată conecta.</string>
 </resources>

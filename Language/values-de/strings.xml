@@ -123,7 +123,6 @@
     <string name="downall_image">Alle Bilder speichern</string>
     <string name="tab_list">Tab-Liste</string>
     <string name="tab_item">Tab</string>
-    <string name="tab_info">Tab öffnen</string>
     <string name="tab_tip">Wenn zu viele Registerkarten geöffnet sind, wird der Browser möglicherweise langsamer.</string>
     <string name="no_image">Keine Kilder</string>
     <string name="no_title">Kein Titel</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Aktuelle Seite</string>
     <string name="blank_page">Leere Seite</string>
     <string name="page">Seite</string>
-    <string name="history_title">Verlauf</string>
-    <string name="history_info">Neuester Suchverlauf</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Dateien, die beim Surfen im internet erstellt wurden (z.B. Bilder)</string>
     <string name="cookie">Cookie</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Bitte geben Sie die Antwort ein.</string>
     <string name="correct_answer">Die richtige Antwort ist %d.</string>
     <string name="bright_info">Dies gilt möglicherweise nicht, wenn die automatische Beleuchtung aktiviert ist.</string>
+    <string name="subtitle">Untertitel</string>
+    <string name="subtitle_info_1">Nur lokale Dateien unterstützen Untertitel.</string>
+    <string name="subtitle_info_2">Legen Sie die Untertiteldatei im selben Ordner wie die Videodatei ab.</string>
+    <string name="subtitle_info_3">Die Videodatei und die Untertiteldatei müssen denselben Namen haben.</string>
+    <string name="subtitle_info_4">Unterstützt die Formate VTT und SRT.</string>
+    <string name="subtitle_info_5">Das SRT-Format durchläuft beim Laden einen Konvertierungsprozess, sodass das Laden möglicherweise länger dauert.</string>
+    <string name="subtitle_info_6">Das VTT-Format wird empfohlen.</string>
+    <string name="subtitle_info_7">Wenn die Codierung nicht UTF-8 ist, werden Zeichen möglicherweise nicht normal angezeigt.</string>
+    <string name="android_shot">Android Screenshot</string>
+    <string name="always_allow">Immer erlaubt</string>
+    <string name="always_block">Immer blockiert</string>
+    <string name="block_back">Nur im Hintergrund blockieren</string>
+    <string name="only_https">Verbinden Sie sich mit HTTPS</string>
+    <string name="only_https_info">Standardmäßig wird eine Verbindung mit HTTPS hergestellt.\nSites, die HTTPS nicht unterstützen, können möglicherweise keine Verbindung herstellen.</string>
 </resources>

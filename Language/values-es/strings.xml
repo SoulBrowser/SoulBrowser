@@ -123,7 +123,6 @@
     <string name="downall_image">Guarda todas imágenes</string>
     <string name="tab_list">Lista pestañas</string>
     <string name="tab_item">Pestaña</string>
-    <string name="tab_info">Abrir pestaña</string>
     <string name="tab_tip">Si hay demasiadas pestañas abiertas, el navegador puede ralentizarse.</string>
     <string name="no_image">No hay imágenes</string>
     <string name="no_title">Sin título</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Página actual</string>
     <string name="blank_page">Página en blanco</string>
     <string name="page">Página</string>
-    <string name="history_title">Historial</string>
-    <string name="history_info">Historial reciente, búsqueda</string>
     <string name="cache">Caché</string>
     <string name="cache_info">Archivos creados durante la navegación web (p.ej. imágenes)</string>
     <string name="cookie">Cookie</string>
@@ -658,7 +655,7 @@
     <string name="filter_search">Filtro de búsqueda</string>
     <string name="filter_info_1">El contenido definido en el filtro está bloqueado.\nSi el filtro predeterminado no es suficiente, agregue un filtro de usuario.</string>
     <string name="filter_info_2">El uso de varios filtros al mismo tiempo puede ralentizar el rendimiento del navegador.</string>
-    <string name="backup_title">Apoyo</string>
+    <string name="backup_title">Backup</string>
     <string name="backup_import">Importar</string>
     <string name="backup_export">Exportar</string>
     <string name="backup_target">Por favor seleccione un objetivo.</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Por favor ingrese la respuesta.</string>
     <string name="correct_answer">La respuesta correcta es %d.</string>
     <string name="bright_info">Es posible que esto no se aplique si la iluminación automática está activada.</string>
+    <string name="subtitle">Subtítulos</string>
+    <string name="subtitle_info_1">Solo los archivos locales admiten subtítulos.</string>
+    <string name="subtitle_info_2">Coloque el archivo de subtítulos en la misma carpeta que el archivo de video.</string>
+    <string name="subtitle_info_3">El archivo de video y el archivo de subtítulos deben tener el mismo nombre.</string>
+    <string name="subtitle_info_4">Soporta formatos VTT y SRT.</string>
+    <string name="subtitle_info_5">El formato SRT pasa por un proceso de conversión durante la carga, por lo que puede tardar más en cargarse.</string>
+    <string name="subtitle_info_6">Se recomienda el formato VTT.</string>
+    <string name="subtitle_info_7">Si la codificación no es UTF-8, es posible que los caracteres no se muestren normalmente.</string>
+    <string name="android_shot">Captura de pantalla de Android</string>
+    <string name="always_allow">Siempre permitido</string>
+    <string name="always_block">Siempre bloqueado</string>
+    <string name="block_back">Bloquear solo en segundo plano</string>
+    <string name="only_https">Conéctese con HTTPS</string>
+    <string name="only_https_info">Por defecto se conecta con HTTPS.\nEs posible que los sitios que no admitan HTTPS no puedan conectarse.</string>
 </resources>

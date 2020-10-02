@@ -123,7 +123,6 @@
     <string name="downall_image">บันทึกภาพทั้งหมด</string>
     <string name="tab_list">รายการแท็บ</string>
     <string name="tab_item">แถบ</string>
-    <string name="tab_info">เปิดแท็บ</string>
     <string name="tab_tip">หากเปิดแท็บมากเกินไปเบราว์เซอร์อาจช้าลง</string>
     <string name="no_image">ไม่มีภาพ</string>
     <string name="no_title">ไม่มีชื่อ</string>
@@ -184,8 +183,6 @@
     <string name="current_page">หน้าปัจจุบัน</string>
     <string name="blank_page">หน้าว่าง</string>
     <string name="page">หน้า</string>
-    <string name="history_title">ประวัติ</string>
-    <string name="history_info">ประวัติการค้นหาล่าสุด</string>
     <string name="cache">แคช</string>
     <string name="cache_info">ไฟล์ที่สร้างขึ้นระหว่างการท่องเว็บ (เช่นภาพ)</string>
     <string name="cookie">คุกกี้</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">โปรดป้อนคำตอบ</string>
     <string name="correct_answer">คำตอบที่ถูกต้องคือ %d</string>
     <string name="bright_info">อาจใช้ไม่ได้หากเปิดใช้งานระบบไฟอัตโนมัติ</string>
+    <string name="subtitle">คำบรรยาย</string>
+    <string name="subtitle_info_1">เฉพาะไฟล์ในเครื่องเท่านั้นที่รองรับคำบรรยาย</string>
+    <string name="subtitle_info_2">วางไฟล์คำบรรยายไว้ในโฟลเดอร์เดียวกับไฟล์วิดีโอ</string>
+    <string name="subtitle_info_3">ไฟล์วิดีโอและไฟล์คำบรรยายต้องมีชื่อเดียวกัน</string>
+    <string name="subtitle_info_4">รองรับรูปแบบ VTT และ SRT</string>
+    <string name="subtitle_info_5">รูปแบบ SRT ต้องผ่านกระบวนการแปลงเมื่อโหลดดังนั้นจึงอาจใช้เวลาโหลดนานขึ้น</string>
+    <string name="subtitle_info_6">แนะนำให้ใช้รูปแบบ VTT</string>
+    <string name="subtitle_info_7">หากการเข้ารหัสไม่ใช่ UTF-8 อักขระอาจไม่แสดงตามปกติ</string>
+    <string name="android_shot">ภาพหน้าจอ Android</string>
+    <string name="always_allow">อนุญาตเสมอ</string>
+    <string name="always_block">ถูกบล็อกเสมอ</string>
+    <string name="block_back">บล็อกเฉพาะในพื้นหลัง</string>
+    <string name="only_https">เชื่อมต่อกับ HTTPS</string>
+    <string name="only_https_info">โดยค่าเริ่มต้นจะเชื่อมต่อกับ HTTPS\nไซต์ที่ไม่รองรับ HTTPS อาจไม่สามารถเชื่อมต่อได้</string>
 </resources>

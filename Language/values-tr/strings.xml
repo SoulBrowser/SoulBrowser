@@ -123,7 +123,6 @@
     <string name="downall_image">Tüm resimleri kaydet</string>
     <string name="tab_list">Sekme listesi</string>
     <string name="tab_item">Sekme</string>
-    <string name="tab_info">Sekme aç</string>
     <string name="tab_tip">Çok fazla sekme açıksa, tarayıcı yavaşlayabilir.</string>
     <string name="no_image">Resim yok</string>
     <string name="no_title">Başlık yok</string>
@@ -184,8 +183,6 @@
     <string name="current_page">Geçerli sayfa</string>
     <string name="blank_page">Boş sayfa</string>
     <string name="page">Sayfa</string>
-    <string name="history_title">Tarihçe</string>
-    <string name="history_info">Son, arama geçmişi</string>
     <string name="cache">Önbellek</string>
     <string name="cache_info">Web\'de gezinme sırasında oluşturulan dosyalar (ör. görüntüler)</string>
     <string name="cookie">Çerez</string>
@@ -710,4 +707,18 @@
     <string name="input_answer">Lütfen cevabı girin.</string>
     <string name="correct_answer">Doğru cevap %d\'dır.</string>
     <string name="bright_info">Otomatik aydınlatma etkinleştirildiğinde bu geçerli olmayabilir.</string>
+    <string name="subtitle">Altyazılar</string>
+    <string name="subtitle_info_1">Yalnızca yerel dosyalar altyazıları destekler.</string>
+    <string name="subtitle_info_2">Altyazı dosyasını video dosyasıyla aynı klasöre koyun.</string>
+    <string name="subtitle_info_3">Video dosyası ve altyazı dosyası aynı ada sahip olmalıdır.</string>
+    <string name="subtitle_info_4">VTT ve SRT formatlarını destekler.</string>
+    <string name="subtitle_info_5">SRT biçimi, yükleme sırasında bir dönüştürme sürecinden geçer, bu nedenle yüklenmesi daha uzun sürebilir.</string>
+    <string name="subtitle_info_6">VTT formatı önerilir.</string>
+    <string name="subtitle_info_7">Kodlama UTF-8 değilse, karakterler normal şekilde görüntülenmeyebilir.</string>
+    <string name="android_shot">Android Ekran görüntüsü</string>
+    <string name="always_allow">Her zaman izin verilir</string>
+    <string name="always_block">Her zaman engellendi</string>
+    <string name="block_back">Yalnızca arka planda engelle</string>
+    <string name="only_https">HTTPS ile bağlanın</string>
+    <string name="only_https_info">Varsayılan olarak HTTPS ile bağlanır.\nHTTPS\'yi desteklemeyen siteler bağlanamayabilir.</string>
 </resources>
