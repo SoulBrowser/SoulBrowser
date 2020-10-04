@@ -700,9 +700,9 @@
     <string name="pay_fail">发生了错误\n请稍后再试</string>
     <string name="dev_greeting">开发人员问候</string>
     <string name="dev_cat">精疲力尽的猫</string>
-    <string name="dev_greet_1">我想添加更多广告\n但是我知道每个人都讨厌它\n因此，我添加了广告删除功能</string>
-    <string name="dev_greet_2">我想让所有用户满意\n但这是非常困难的\n在此应用程序中实现的功能只是许多用户请求的一小部分\n许多用户请求仍待处理</string>
-    <string name="dev_greet_3">因为我缺乏能力\n随着发展的进步，我感到自己的能力有限\n我很抱歉</string>
+    <string name="dev_greet_1">我想让所有用户满意\n但这是非常困难的\n在此应用程序中实现的功能只是许多用户请求的一小部分\n许多用户请求仍待处理</string>
+    <string name="dev_greet_2">因为我缺乏能力\n随着发展的进步，我感到自己的能力有限\n我很抱歉</string>
+    <string name="dev_greet_3">更新将持续到每个人都满意为止</string>
     <string name="prevent_pay">防止意外付款</string>
     <string name="input_answer">请输入答案</string>
     <string name="correct_answer">正确答案是%d</string>

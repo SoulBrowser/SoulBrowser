@@ -700,9 +700,9 @@
     <string name="pay_fail">A avut loc o eroare.\nVă rugăm să încercați din nou mai târziu.</string>
     <string name="dev_greeting">Salutarea dezvoltatorului</string>
     <string name="dev_cat">Pisică Epuizată</string>
-    <string name="dev_greet_1">Vreau să adaug mai multe reclame.\nDar știu că toată lumea îl urăște.\nAșa că am adăugat funcția de eliminare a anunțurilor.</string>
-    <string name="dev_greet_2">Vreau să satisfac toți utilizatorii.\nDar este foarte dificil.\nFuncțiile implementate în această aplicație reprezintă doar o fracțiune din multe cereri ale utilizatorilor.\nMulte solicitări ale utilizatorilor sunt încă în așteptare.</string>
-    <string name="dev_greet_3">Pentru că îmi lipsește capacitatea.\nPe măsură ce dezvoltarea progresează, simt limitele abilităților mele.\nImi pare foarte rau.</string>
+    <string name="dev_greet_1">Vreau să satisfac toți utilizatorii.\nDar este foarte dificil.\nFuncțiile implementate în această aplicație reprezintă doar o fracțiune din multe cereri ale utilizatorilor.\nMulte solicitări ale utilizatorilor sunt încă în așteptare.</string>
+    <string name="dev_greet_2">Pentru că îmi lipsește capacitatea.\nPe măsură ce dezvoltarea progresează, simt limitele abilităților mele.\nImi pare foarte rau.</string>
+    <string name="dev_greet_3">Actualizările vor continua până când toată lumea va fi mulțumită.</string>
     <string name="prevent_pay">Preveniți plățile accidentale</string>
     <string name="input_answer">Vă rugăm să introduceți răspunsul.</string>
     <string name="correct_answer">Răspunsul corect este %d.</string>

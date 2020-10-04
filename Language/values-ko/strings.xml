@@ -700,9 +700,9 @@
     <string name="pay_fail">오류가 발생했습니다.\n잠시 후 다시 시도해 주세요.</string>
     <string name="dev_greeting">개발자 인사말</string>
     <string name="dev_cat">지친 고양이</string>
-    <string name="dev_greet_1">저는 광고를 더 추가하고 싶습니다.\n그러나 저는 모두가 그것을 싫어한다는 것을 알고 있습니다.\n그래서 광고 제거 기능을 추가했습니다.</string>
-    <string name="dev_greet_2">저는 모든 사용자를 만족시키고 싶습니다.\n그러나 그것은 매우 어렵습니다.\n이 앱에 구현된 기능은, 많은 사용자 요청의 일부에 불과합니다.\n많은 사용자 요청이 아직 보류 중입니다.</string>
-    <string name="dev_greet_3">제 능력이 부족하기 때문입니다.\n개발이 진행됨에 따라 제 능력의 한계를 느낍니다.\n매우 죄송합니다.</string>
+    <string name="dev_greet_1">저는 모든 사용자를 만족시키고 싶습니다.\n그러나 그것은 매우 어렵습니다.\n이 앱에 구현된 기능은, 많은 사용자 요청의 일부에 불과합니다.\n많은 사용자 요청이 아직 보류 중입니다.</string>
+    <string name="dev_greet_2">제 능력이 부족하기 때문입니다.\n개발이 진행됨에 따라 제 능력의 한계를 느낍니다.\n매우 죄송합니다.</string>
+    <string name="dev_greet_3">모두가 만족할 때까지 업데이트는 계속됩니다.</string>
     <string name="prevent_pay">실수로 인한 결제 방지</string>
     <string name="input_answer">답을 입력해 주세요.</string>
     <string name="correct_answer">정답은 %d입니다.</string>

@@ -700,9 +700,9 @@
     <string name="pay_fail">Wystąpił błąd.\nSpróbuj ponownie później.</string>
     <string name="dev_greeting">Pozdrowienie programisty</string>
     <string name="dev_cat">Wyczerpany Kot</string>
-    <string name="dev_greet_1">Chcę dodać więcej reklam.\nAle wiem, że wszyscy tego nienawidzą.\nDodałem więc funkcję usuwania reklam.</string>
-    <string name="dev_greet_2">Chcę zadowolić wszystkich użytkowników.\nAle to jest bardzo trudne.\nFunkcje zaimplementowane w tej aplikacji to tylko ułamek wielu żądań użytkowników.\nWiele próśb użytkowników nadal oczekuje.</string>
-    <string name="dev_greet_3">Ponieważ brakuje mi moich umiejętności.\nWraz z postępem rozwoju odczuwam granice moich możliwości.\nBardzo mi przykro.</string>
+    <string name="dev_greet_1">Chcę zadowolić wszystkich użytkowników.\nAle to jest bardzo trudne.\nFunkcje zaimplementowane w tej aplikacji to tylko ułamek wielu żądań użytkowników.\nWiele próśb użytkowników nadal oczekuje.</string>
+    <string name="dev_greet_2">Ponieważ brakuje mi moich umiejętności.\nWraz z postępem rozwoju odczuwam granice moich możliwości.\nBardzo mi przykro.</string>
+    <string name="dev_greet_3">Aktualizacje będą kontynuowane, dopóki wszyscy nie będą zadowoleni.</string>
     <string name="prevent_pay">Zapobiegaj przypadkowym płatnościom</string>
     <string name="input_answer">Wpisz odpowiedź.</string>
     <string name="correct_answer">Prawidłowa odpowiedź to %d.</string>

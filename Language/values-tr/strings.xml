@@ -700,9 +700,9 @@
     <string name="pay_fail">Bir hata oluştu.\nLütfen daha sonra tekrar deneyiniz.</string>
     <string name="dev_greeting">Geliştirici Karşılama</string>
     <string name="dev_cat">Yorgun Kedi</string>
-    <string name="dev_greet_1">Daha fazla reklam eklemek istiyorum.\nAma herkesin bundan nefret ettiğini biliyorum.\nBen de reklam kaldırma işlevini ekledim.</string>
-    <string name="dev_greet_2">Tüm kullanıcıları memnun etmek istiyorum.\nAma çok zor.\nBu uygulamada uygulanan özellikler, birçok kullanıcı talebinin sadece bir kısmıdır.\nBirçok kullanıcı isteği hala beklemede.</string>
-    <string name="dev_greet_3">Çünkü yeteneğim eksik.\nGelişim ilerledikçe yeteneklerimin sınırlarını hissediyorum.\nÇok üzgünüm.</string>
+    <string name="dev_greet_1">Tüm kullanıcıları memnun etmek istiyorum.\nAma çok zor.\nBu uygulamada uygulanan özellikler, birçok kullanıcı talebinin sadece bir kısmıdır.\nBirçok kullanıcı isteği hala beklemede.</string>
+    <string name="dev_greet_2">Çünkü yeteneğim eksik.\nGelişim ilerledikçe yeteneklerimin sınırlarını hissediyorum.\nÇok üzgünüm.</string>
+    <string name="dev_greet_3">Herkes tatmin olana kadar güncellemeler devam edecek.</string>
     <string name="prevent_pay">Yanlışlıkla yapılan ödemeleri önleyin</string>
     <string name="input_answer">Lütfen cevabı girin.</string>
     <string name="correct_answer">Doğru cevap %d\'dır.</string>

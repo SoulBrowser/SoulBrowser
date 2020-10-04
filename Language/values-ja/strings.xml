@@ -700,9 +700,9 @@
     <string name="pay_fail">エラーが発生しました。\n後でやり直してください。</string>
     <string name="dev_greeting">開発者挨拶</string>
     <string name="dev_cat">疲れた猫</string>
-    <string name="dev_greet_1">さらに広告を追加したい。\nしかし、私は誰もがそれを嫌っていることを知っています。\n従って広告を削除機能を追加しました。</string>
-    <string name="dev_greet_2">私はすべてのユーザーを満足させたいと思います。\nしかし、それは非常に困難である。\nこのアプリに実装された機能は、多くのユーザーの要求の一部に過ぎません。\n多くのユーザーの要求がまだ保留中です。</string>
-    <string name="dev_greet_3">私の能力が不足しているためです。\n開発が進むにつれ、私の能力の限界を感じます。\n私は非常に申し訳ありません。</string>
+    <string name="dev_greet_1">私はすべてのユーザーを満足させたいと思います。\nしかし、それは非常に困難である。\nこのアプリに実装された機能は、多くのユーザーの要求の一部に過ぎません。\n多くのユーザーの要求がまだ保留中です。</string>
+    <string name="dev_greet_2">私の能力が不足しているためです。\n開発が進むにつれ、私の能力の限界を感じます。\n私は非常に申し訳ありません。</string>
+    <string name="dev_greet_3">すべてが満足するまでの更新が継続されます。</string>
     <string name="prevent_pay">ミスによる支払いを防ぐ</string>
     <string name="input_answer">答えを入力してください。</string>
     <string name="correct_answer">正解は%dです。</string>

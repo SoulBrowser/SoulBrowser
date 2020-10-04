@@ -700,9 +700,9 @@
     <string name="pay_fail">Une erreur est survenue.\nVeuillez réessayer plus tard.</string>
     <string name="dev_greeting">Message d\'accueil du développeur</string>
     <string name="dev_cat">Chat Épuisé</string>
-    <string name="dev_greet_1">Je souhaite ajouter plus d\'annonces.\nMais je sais que tout le monde le déteste.\nJ\'ai donc ajouté la fonction de suppression des publicités.</string>
-    <string name="dev_greet_2">Je veux satisfaire tous les utilisateurs.\nMais c\'est très difficile.\nLes fonctionnalités implémentées dans cette application ne représentent qu\'une fraction des nombreuses demandes des utilisateurs.\nDe nombreuses demandes d\'utilisateurs sont toujours en attente.</string>
-    <string name="dev_greet_3">Parce que je n\'ai pas mes capacités.\nAu fur et à mesure que le développement progresse, je sens les limites de mes capacités.\nJe suis vraiment désolé.</string>
+    <string name="dev_greet_1">Je veux satisfaire tous les utilisateurs.\nMais c\'est très difficile.\nLes fonctionnalités implémentées dans cette application ne représentent qu\'une fraction des nombreuses demandes des utilisateurs.\nDe nombreuses demandes d\'utilisateurs sont toujours en attente.</string>
+    <string name="dev_greet_2">Parce que je n\'ai pas mes capacités.\nAu fur et à mesure que le développement progresse, je sens les limites de mes capacités.\nJe suis vraiment désolé.</string>
+    <string name="dev_greet_3">Les mises à jour se poursuivront jusqu\'à ce que tout le monde soit satisfait.</string>
     <string name="prevent_pay">Empêcher les paiements accidentels</string>
     <string name="input_answer">Veuillez saisir la réponse.</string>
     <string name="correct_answer">La bonne réponse est %d.</string>

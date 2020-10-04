@@ -700,9 +700,9 @@
     <string name="pay_fail">Se ha producido un error.\nPor favor, inténtelo de nuevo más tarde.</string>
     <string name="dev_greeting">Saludo del desarrollador</string>
     <string name="dev_cat">Gato Agotado</string>
-    <string name="dev_greet_1">Quiero agregar más anuncios.\nPero sé que todo el mundo lo odia.\nAsí que agregué la función de eliminación de anuncios.</string>
-    <string name="dev_greet_2">Quiero satisfacer a todos los usuarios.\nPero es muy difícil.\nLas funciones implementadas en esta aplicación son solo una fracción de las muchas solicitudes de los usuarios.\nMuchas solicitudes de usuarios aún están pendientes.</string>
-    <string name="dev_greet_3">Porque carezco de mi habilidad.\nA medida que avanza el desarrollo, siento los límites de mis habilidades.\nLo siento mucho.</string>
+    <string name="dev_greet_1">Quiero satisfacer a todos los usuarios.\nPero es muy difícil.\nLas funciones implementadas en esta aplicación son solo una fracción de las muchas solicitudes de los usuarios.\nMuchas solicitudes de usuarios aún están pendientes.</string>
+    <string name="dev_greet_2">Porque carezco de mi habilidad.\nA medida que avanza el desarrollo, siento los límites de mis habilidades.\nLo siento mucho.</string>
+    <string name="dev_greet_3">Las actualizaciones continuarán hasta que todos estén satisfechos.</string>
     <string name="prevent_pay">Evite pagos accidentales</string>
     <string name="input_answer">Por favor ingrese la respuesta.</string>
     <string name="correct_answer">La respuesta correcta es %d.</string>

@@ -700,9 +700,9 @@
     <string name="pay_fail">An error has occurred.\nPlease try again later.</string>
     <string name="dev_greeting">Developer Greeting</string>
     <string name="dev_cat">Exhausted Cat</string>
-    <string name="dev_greet_1">I want to add more ads.\nBut I know everyone hates it.\nSo I added the ad removal function.</string>
-    <string name="dev_greet_2">I want to satisfy all users.\nBut it is very difficult.\nThe features implemented in this app are just a fraction of many user requests.\nMany user requests are still pending.</string>
-    <string name="dev_greet_3">Because I lack my ability.\nAs development progresses, I feel the limits of my abilities.\nI am very sorry.</string>
+    <string name="dev_greet_1">I want to satisfy all users.\nBut it is very difficult.\nThe features implemented in this app are just a fraction of many user requests.\nMany user requests are still pending.</string>
+    <string name="dev_greet_2">Because I lack my ability.\nAs development progresses, I feel the limits of my abilities.\nI am very sorry.</string>
+    <string name="dev_greet_3">Updates will continue until everyone is satisfied.</string>
     <string name="prevent_pay">Prevent accidental payments</string>
     <string name="input_answer">Please enter answer.</string>
     <string name="correct_answer">The correct answer is %d.</string>
