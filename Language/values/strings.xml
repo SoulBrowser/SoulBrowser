@@ -70,7 +70,7 @@
     <string name="delete">Delete</string>
     <string name="delete_file">Delete file</string>
     <string name="delete_record">Delete record</string>
-    <string name="delete_data">Delete records</string>
+    <string name="delete_data">Delete data</string>
     <string name="delete_all">Delete all</string>
     <string name="deleted">Deleted</string>
     <string name="swipe_delete">Swipe delete</string>
@@ -183,6 +183,7 @@
     <string name="current_page">Current page</string>
     <string name="blank_page">Blank page</string>
     <string name="page">Page</string>
+    <string name="delete_cache">Clear cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Files created during web browsing (e.g. images)</string>
     <string name="cookie">Cookie</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">Ad blocker</string>
     <string name="ads_block_info">Tracking blocking included.</string>
     <string name="filtered_image">Filtered image (%d)</string>
+    <string name="update">Update</string>
     <string name="update_fail">Update failed.</string>
     <string name="guide_ads_allow">You can register sites that are allowed Ad.</string>
     <string name="guide_pop_allow">You can register sites that are allowed popup.</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">Set as homepage</string>
     <string name="setted">Has been set.</string>
     <string name="bottom_bar">Bottom bar</string>
-    <string name="bottom_long_guide">You can freely edit the bottom bar.</string>
     <string name="down_by_url">Download by address</string>
     <string name="only_twit">Only Twitter is supported.</string>
     <string name="video_url">Video URL</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">Some sites may not be supported.</string>
     <string name="restart">Restart</string>
     <string name="down_fail_guide">The file may be damaged.</string>
-    <string name="default_filter">Default filter</string>
+    <string name="default_filter">Built-in filter</string>
     <string name="user_filter">User filter</string>
-    <string name="filter_select">Choose filter</string>
     <string name="filter_search">Search filter</string>
-    <string name="filter_info_1">The content defined in the filter is blocked.\nIf the default filter isn\'t enough, add a user filter.</string>
-    <string name="filter_info_2">Using multiple filters at the same time can slow browser performance.</string>
+    <string name="filter_info">Using multiple filters at the same time can slow browser performance.</string>
     <string name="backup_title">Back up</string>
     <string name="backup_import">Import</string>
     <string name="backup_export">Export</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">The app will restart.</string>
     <string name="reader_guide">Press and hold to select text, you can play only the selected text.</string>
     <string name="web_pull_down">Pull down browser</string>
+    <string name="pull_down_info">You can pull down the browser.\nThis is for one-handed users.</string>
     <string name="web_bring_down">Lower browser</string>
     <string name="active_function">Activate the function.</string>
     <string name="tab_loop">Tab loop</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">Dark theme</string>
     <string name="theme_system">System theme</string>
     <string name="background">Background</string>
-    <string name="ads_power">Power mode</string>
-    <string name="ads_power_info">Some content may not be displayed.</string>
     <string name="search_suggest">Search suggestions</string>
     <string name="at_bottom">At the bottom</string>
     <string name="guide_menu">Long press the icon to edit the menu.</string>
-    <string name="guide_data">If your browser slows down, clean up old data.</string>
     <string name="clean_data_info">Accumulation of stale data can slow down your browser.\nIt is a good idea to clean up your data periodically.</string>
     <string name="txt_viewer">Text viewer</string>
     <string name="purchase">Purchase</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">Put the subtitle file in the same folder as the video file.</string>
     <string name="subtitle_info_3">The video file and subtitle file must have the same name.</string>
     <string name="subtitle_info_4">Supports VTT and SRT formats.</string>
-    <string name="subtitle_info_5">SRT format goes through a conversion process on load, so it may take longer to load.</string>
+    <string name="subtitle_info_5">The loading speed of VTT format is faster.</string>
     <string name="subtitle_info_6">VTT format is recommended.</string>
     <string name="subtitle_info_7">If the encoding is not UTF-8, characters may not be displayed normally.</string>
     <string name="android_shot">Android Screenshot</string>
@@ -721,4 +718,19 @@
     <string name="block_back">Block only in the background</string>
     <string name="only_https">Connect with HTTPS</string>
     <string name="only_https_info">By default it connects with HTTPS.\nSites that do not support HTTPS may not be able to connect.</string>
+    <string name="page_home_info">When you tap the home icon</string>
+    <string name="page_start_info">When starting the app</string>
+    <string name="page_tab_info">When creating a new tab</string>
+    <string name="filter_about">About the filter</string>
+    <string name="filter_base_1">The built-in filter is useful in Korea.</string>
+    <string name="filter_base_2">However, it is relatively insufficient in countries other than Korea.</string>
+    <string name="filter_base_3">It is because it is difficult for me to check all the sites around the world.\nI am very sorry.</string>
+    <string name="filter_user_1">If the built-in filters aren\'t enough, you can add custom filters.</string>
+    <string name="filter_user_2">You can use filters written in EasyList format.</string>
+    <string name="filter_user_3">There are several types of EasyList filters. (By country, by function)</string>
+    <string name="filter_user_4">You can select and use the filter that suits you.</string>
+    <string name="filter_user_5">If there is a problem with the filter, the page may not be displayed normally.</string>
+    <string name="add_easylist">Basic EasyList filter</string>
+    <string name="size_fit">Screen fit</string>
+    <string name="size_real">Actual size</string>
 </resources>

@@ -70,7 +70,7 @@
     <string name="delete">ลบ</string>
     <string name="delete_file">ลบไฟล์</string>
     <string name="delete_record">ลบบันทึก</string>
-    <string name="delete_data">ลบบันทึก</string>
+    <string name="delete_data">ลบข้อมูล</string>
     <string name="delete_all">ลบทั้งหมด</string>
     <string name="deleted">ที่ถูกลบ</string>
     <string name="swipe_delete">ปัดลบ</string>
@@ -183,6 +183,7 @@
     <string name="current_page">หน้าปัจจุบัน</string>
     <string name="blank_page">หน้าว่าง</string>
     <string name="page">หน้า</string>
+    <string name="delete_cache">ล้างแคช</string>
     <string name="cache">แคช</string>
     <string name="cache_info">ไฟล์ที่สร้างขึ้นระหว่างการท่องเว็บ (เช่นภาพ)</string>
     <string name="cookie">คุกกี้</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">บล็อกโฆษณา</string>
     <string name="ads_block_info">มีการบล็อคการติดตาม</string>
     <string name="filtered_image">รูปภาพที่กรอง (%d)</string>
+    <string name="update">อัพเดต</string>
     <string name="update_fail">การอัปเดตล้มเหลว</string>
     <string name="guide_ads_allow">คุณสามารถลงทะเบียนไซต์ที่ได้รับอนุญาตโฆษณา</string>
     <string name="guide_pop_allow">คุณสามารถลงทะเบียนไซต์ที่อนุญาตป๊อปอัป</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">ตั้งเป็นหน้าแรก</string>
     <string name="setted">ได้มีการตั้งค่า</string>
     <string name="bottom_bar">แถบด้านล่าง</string>
-    <string name="bottom_long_guide">คุณสามารถแก้ไขแถบด้านล่างได้อย่างอิสระ</string>
     <string name="down_by_url">ดาวน์โหลดตามที่อยู่</string>
     <string name="only_twit">รองรับ Twitter เท่านั้น</string>
     <string name="video_url">URL วิดีโอ</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">บางเว็บไซต์อาจไม่รองรับ</string>
     <string name="restart">เริ่มต้นใหม่</string>
     <string name="down_fail_guide">ไฟล์อาจเสียหาย</string>
-    <string name="default_filter">ตัวกรองพื้นฐาน</string>
+    <string name="default_filter">ฟิลเตอร์ในตัว</string>
     <string name="user_filter">ตัวกรองผู้ใช้</string>
-    <string name="filter_select">การเลือกตัวกรอง</string>
     <string name="filter_search">ตัวกรองการค้นหา</string>
-    <string name="filter_info_1">เนื้อหาที่กำหนดไว้ในตัวกรองถูกบล็อก\nหากตัวกรองเริ่มต้นไม่เพียงพอให้เพิ่มตัวกรองผู้ใช้</string>
-    <string name="filter_info_2">การใช้ตัวกรองหลายตัวพร้อมกันอาจทำให้ประสิทธิภาพเบราว์เซอร์ช้าลง</string>
+    <string name="filter_info">การใช้ตัวกรองหลายตัวพร้อมกันอาจทำให้ประสิทธิภาพเบราว์เซอร์ช้าลง</string>
     <string name="backup_title">สำรอง</string>
     <string name="backup_import">นำเข้า</string>
     <string name="backup_export">ส่งออก</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">แอปรีสตาร์ท</string>
     <string name="reader_guide">กดค้างไว้เพื่อเลือกข้อความคุณสามารถเล่นเฉพาะข้อความที่เลือก</string>
     <string name="web_pull_down">ดึงเบราว์เซอร์ลง</string>
+    <string name="pull_down_info">คุณสามารถดึงเบราว์เซอร์ลง\nสำหรับผู้ใช้มือเดียว</string>
     <string name="web_bring_down">เบราว์เซอร์ที่ต่ำกว่า</string>
     <string name="active_function">เปิดใช้งานฟังก์ชั่น</string>
     <string name="tab_loop">ห่วงแท็บ</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">ธีมสีเข้ม</string>
     <string name="theme_system">ธีมระบบ</string>
     <string name="background">พื้นหลัง</string>
-    <string name="ads_power">โหมดพลังงาน</string>
-    <string name="ads_power_info">อาจไม่มีการแสดงเนื้อหาบางส่วน</string>
     <string name="search_suggest">คำแนะนำการค้นหา</string>
     <string name="at_bottom">ที่ส่วนลึกสุด</string>
     <string name="guide_menu">กดไอคอนค้างไว้เพื่อแก้ไขเมนู</string>
-    <string name="guide_data">หากเบราว์เซอร์ของคุณทำงานช้าลงให้ล้างข้อมูลเก่า</string>
     <string name="clean_data_info">การสะสมข้อมูลเก่าอาจทำให้เบราว์เซอร์ของคุณทำงานช้าลง\nเป็นความคิดที่ดีที่จะล้างข้อมูลของคุณเป็นระยะ</string>
     <string name="txt_viewer">โปรแกรมดูข้อความ</string>
     <string name="purchase">ซื้อ</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">วางไฟล์คำบรรยายไว้ในโฟลเดอร์เดียวกับไฟล์วิดีโอ</string>
     <string name="subtitle_info_3">ไฟล์วิดีโอและไฟล์คำบรรยายต้องมีชื่อเดียวกัน</string>
     <string name="subtitle_info_4">รองรับรูปแบบ VTT และ SRT</string>
-    <string name="subtitle_info_5">รูปแบบ SRT ต้องผ่านกระบวนการแปลงเมื่อโหลดดังนั้นจึงอาจใช้เวลาโหลดนานขึ้น</string>
+    <string name="subtitle_info_5">ความเร็วในการโหลดรูปแบบ VTT เร็วกว่า</string>
     <string name="subtitle_info_6">แนะนำให้ใช้รูปแบบ VTT</string>
     <string name="subtitle_info_7">หากการเข้ารหัสไม่ใช่ UTF-8 อักขระอาจไม่แสดงตามปกติ</string>
     <string name="android_shot">ภาพหน้าจอ Android</string>
@@ -721,4 +718,19 @@
     <string name="block_back">บล็อกเฉพาะในพื้นหลัง</string>
     <string name="only_https">เชื่อมต่อกับ HTTPS</string>
     <string name="only_https_info">โดยค่าเริ่มต้นจะเชื่อมต่อกับ HTTPS\nไซต์ที่ไม่รองรับ HTTPS อาจไม่สามารถเชื่อมต่อได้</string>
+    <string name="page_home_info">เมื่อคุณแตะไอคอนบ้าน</string>
+    <string name="page_start_info">เมื่อเริ่มต้นแอป</string>
+    <string name="page_tab_info">เมื่อสร้างแท็บใหม่</string>
+    <string name="filter_about">เกี่ยวกับตัวกรอง</string>
+    <string name="filter_base_1">ฟิลเตอร์ในตัวมีประโยชน์ในเกาหลี</string>
+    <string name="filter_base_2">อย่างไรก็ตามในประเทศอื่นนอกเหนือจากเกาหลียังมีไม่เพียงพอ</string>
+    <string name="filter_base_3">เป็นเพราะฉันตรวจสอบไซต์ทั้งหมดทั่วโลกได้ยาก\nฉันเสียใจมาก.</string>
+    <string name="filter_user_1">หากตัวกรองในตัวไม่เพียงพอคุณสามารถเพิ่มตัวกรองที่กำหนดเองได้</string>
+    <string name="filter_user_2">คุณสามารถใช้ตัวกรองที่เขียนในรูปแบบ EasyList</string>
+    <string name="filter_user_3">ตัวกรอง EasyList มีหลายประเภท (ตามประเทศตามฟังก์ชัน)</string>
+    <string name="filter_user_4">คุณสามารถเลือกและใช้ฟิลเตอร์ที่เหมาะกับคุณได้</string>
+    <string name="filter_user_5">หากมีปัญหากับตัวกรองหน้าอาจไม่แสดงตามปกติ</string>
+    <string name="add_easylist">ตัวกรอง EasyList พื้นฐาน</string>
+    <string name="size_fit">พอดีกับหน้าจอ</string>
+    <string name="size_real">ขนาดที่แท้จริง</string>
 </resources>

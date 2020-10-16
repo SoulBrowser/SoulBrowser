@@ -70,7 +70,7 @@
     <string name="delete">삭제</string>
     <string name="delete_file">파일 삭제</string>
     <string name="delete_record">기록 삭제</string>
-    <string name="delete_data">기록 삭제</string>
+    <string name="delete_data">데이터 삭제</string>
     <string name="delete_all">모두 삭제</string>
     <string name="deleted">삭제되었습니다.</string>
     <string name="swipe_delete">스와이프 삭제</string>
@@ -183,6 +183,7 @@
     <string name="current_page">현재 페이지</string>
     <string name="blank_page">빈 페이지</string>
     <string name="page">페이지</string>
+    <string name="delete_cache">캐시 삭제</string>
     <string name="cache">캐시</string>
     <string name="cache_info">웹 탐색 ​​중 생성된 파일 (예 : 이미지)</string>
     <string name="cookie">쿠키</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">광고 차단</string>
     <string name="ads_block_info">추적 차단 기능이 포함되어 있습니다.</string>
     <string name="filtered_image">필터링된 이미지 (%d)</string>
+    <string name="update">업데이트</string>
     <string name="update_fail">업데이트에 실패했습니다.</string>
     <string name="guide_ads_allow">광고가 허용되는 사이트를 등록할 수 있습니다.</string>
     <string name="guide_pop_allow">팝업이 허용되는 사이트를 등록할 수 있습니다.</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">홈페이지로 설정</string>
     <string name="setted">설정되었습니다.</string>
     <string name="bottom_bar">하단바</string>
-    <string name="bottom_long_guide">하단바를 자유롭게 편집할 수 있습니다.</string>
     <string name="down_by_url">주소로 다운로드</string>
     <string name="only_twit">트위터만 지원됩니다.</string>
     <string name="video_url">동영상 URL</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">일부 사이트는 지원되지 않을 수 있습니다.</string>
     <string name="restart">재시작</string>
     <string name="down_fail_guide">파일이 손상되었을 수 있습니다.</string>
-    <string name="default_filter">기본 필터</string>
+    <string name="default_filter">내장 필터</string>
     <string name="user_filter">사용자 필터</string>
-    <string name="filter_select">필터 선택</string>
     <string name="filter_search">필터 검색</string>
-    <string name="filter_info_1">필터에 정의된 콘텐츠가 차단됩니다.\n기본 필터가 충분하지 않은 경우 사용자 필터를 추가하십시오.</string>
-    <string name="filter_info_2">여러 필터를 동시에 사용하면 브라우저 성능이 느려질 수 있습니다.</string>
+    <string name="filter_info">여러 필터를 동시에 사용하면 브라우저 성능이 느려질 수 있습니다.</string>
     <string name="backup_title">백업</string>
     <string name="backup_import">불러오기</string>
     <string name="backup_export">내보내기</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">앱이 다시 시작됩니다.</string>
     <string name="reader_guide">텍스트를 길게 눌러 선택하면, 선택한 텍스트만 재생할 수 있습니다.</string>
     <string name="web_pull_down">브라우저를 당겨서 내리기</string>
+    <string name="pull_down_info">브라우저를 아래로 내릴 수 있습니다.\n한 손 사용자를 위한 기능입니다.</string>
     <string name="web_bring_down">브라우저 낮추기</string>
     <string name="active_function">기능을 활성화 해주세요.</string>
     <string name="tab_loop">탭 루프</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">어두운 테마</string>
     <string name="theme_system">시스템 테마</string>
     <string name="background">배경</string>
-    <string name="ads_power">파워 모드</string>
-    <string name="ads_power_info">일부 콘텐츠가 표시되지 않을 수 있습니다.</string>
     <string name="search_suggest">검색 제안</string>
     <string name="at_bottom">하단에</string>
     <string name="guide_menu">아이콘을 길게 누르면, 메뉴를 편집할 수 있습니다.</string>
-    <string name="guide_data">브라우저 속도가 느려지면, 오래된 데이터를 정리하십시오.</string>
     <string name="clean_data_info">오래된 데이터가 누적되면, 브라우저가 느려질 수 있습니다.\n주기적으로 데이터를 정리하는 것이 좋습니다.</string>
     <string name="txt_viewer">텍스트 뷰어</string>
     <string name="purchase">구매</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">자막 파일을 동영상 파일과 같은 폴더에 넣어주세요.</string>
     <string name="subtitle_info_3">동영상 파일과 자막 파일은 이름이 같아야 합니다.</string>
     <string name="subtitle_info_4">VTT 및 SRT 형식을 지원합니다.</string>
-    <string name="subtitle_info_5">SRT 형식은 로드 시 변환 프로세스를 거치므로, 로드하는데 더 오래 걸릴 수 있습니다.</string>
+    <string name="subtitle_info_5">VTT 형식의 로딩 속도가 더 빠릅니다.</string>
     <string name="subtitle_info_6">VTT 형식을 권장합니다.</string>
     <string name="subtitle_info_7">인코딩이 UTF-8이 아닌 경우, 문자가 정상적으로 표시되지 않을 수 있습니다.</string>
     <string name="android_shot">안드로이드 스크린샷</string>
@@ -721,4 +718,19 @@
     <string name="block_back">백그라운드에서만 차단</string>
     <string name="only_https">HTTPS로 연결</string>
     <string name="only_https_info">기본적으로 HTTPS로 연결합니다.\nHTTPS를 지원하지 않는 사이트는 연결이 안될 수 있습니다.</string>
+    <string name="page_home_info">홈 아이콘을 눌렀을 때</string>
+    <string name="page_start_info">앱을 시작할 때</string>
+    <string name="page_tab_info">새 탭을 만들 때</string>
+    <string name="filter_about">필터에 대해서</string>
+    <string name="filter_base_1">내장 필터가 한국에서는 유용합니다.</string>
+    <string name="filter_base_2">그러나 한국 이외의 국가에서는 상대적으로 부족합니다.</string>
+    <string name="filter_base_3">제가 전세계의 모든 사이트를 확인하는 것이 어려워서 그렇습니다.\n매우 죄송합니다.</string>
+    <string name="filter_user_1">내장 필터가 충분하지 않은 경우 사용자 필터를 추가하실 수 있습니다.</string>
+    <string name="filter_user_2">EasyList 형식으로 작성된 필터를 사용하실 수 있습니다.</string>
+    <string name="filter_user_3">EasyList 필터에는 여러 유형이 있습니다. (국가별, 기능별)</string>
+    <string name="filter_user_4">자신에게 맞는 필터를 선택하여 사용하실 수 있습니다.</string>
+    <string name="filter_user_5">필터에 문제가 있으면, 페이지가 정상적으로 표시되지 않을 수 있습니다.</string>
+    <string name="add_easylist">기본 EasyList 필터</string>
+    <string name="size_fit">화면 맞춤</string>
+    <string name="size_real">실제 크기</string>
 </resources>

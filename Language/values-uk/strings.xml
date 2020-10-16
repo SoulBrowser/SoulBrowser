@@ -70,7 +70,7 @@
     <string name="delete">Видалити</string>
     <string name="delete_file">Видалити файл</string>
     <string name="delete_record">Видалити запис</string>
-    <string name="delete_data">Видалення даних</string>
+    <string name="delete_data">Видалити дані</string>
     <string name="delete_all">Видалити всі</string>
     <string name="deleted">Видалено</string>
     <string name="swipe_delete">Видалення змахуванням</string>
@@ -183,6 +183,7 @@
     <string name="current_page">Поточна сторінка</string>
     <string name="blank_page">Порожня сторінка</string>
     <string name="page">Сторінка</string>
+    <string name="delete_cache">Очистити cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Файли, створені під час веб-перегляду (наприклад, зображення)</string>
     <string name="cookie">Cookie</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">Блокатор реклами</string>
     <string name="ads_block_info">Увімкнути блокування реклами.</string>
     <string name="filtered_image">Відфільтроване зображення (%d)</string>
+    <string name="update">Оновлення</string>
     <string name="update_fail">Помилка оновлення.</string>
     <string name="guide_ads_allow">Ви можете реєструвати сайти, на яких дозволено рекламу.</string>
     <string name="guide_pop_allow">Ви можете реєструвати сайти, на яких дозволені спливаючі вікна.</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">Встановити як домашню сторінку</string>
     <string name="setted">Встановлено.</string>
     <string name="bottom_bar">Нижня панель</string>
-    <string name="bottom_long_guide">Ви можете вільно редагувати нижню панель.</string>
     <string name="down_by_url">Завантажити за адресою</string>
     <string name="only_twit">Підтримується лише Twitter.</string>
     <string name="video_url">URL-адреса відео</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">Деякі сайти можуть не підтримуватися.</string>
     <string name="restart">Перезапустити</string>
     <string name="down_fail_guide">Файл може бути пошкоджений.</string>
-    <string name="default_filter">Фільтр за замовчуванням</string>
+    <string name="default_filter">Вбудований фільтр</string>
     <string name="user_filter">Фільтр користувача</string>
-    <string name="filter_select">Вибрати фільтр</string>
     <string name="filter_search">Пошук фільтра</string>
-    <string name="filter_info_1">Вміст, визначений у фільтрі, заблоковано.\nЯкщо фільтра за замовчуванням недостатньо, додайте фільтр користувача.</string>
-    <string name="filter_info_2">Використання декількох фільтрів одночасно може уповільнити роботу браузера.</string>
+    <string name="filter_info">Використання декількох фільтрів одночасно може уповільнити роботу браузера.</string>
     <string name="backup_title">Резервне копіювання</string>
     <string name="backup_import">Імпорт</string>
     <string name="backup_export">Експорт</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">Додаток перезавантажиться.</string>
     <string name="reader_guide">Натисніть і утримуйте, щоб вибрати текст. Ви можете відтворювати лише вибраний текст.</string>
     <string name="web_pull_down">Потягніть браузер</string>
+    <string name="pull_down_info">Ви можете витягнути браузер.\nЦе для користувачів однією рукою.</string>
     <string name="web_bring_down">Нижній браузер</string>
     <string name="active_function">Активуйте функцію.</string>
     <string name="tab_loop">Цикл табуляції</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">Темна тема</string>
     <string name="theme_system">Тема системи</string>
     <string name="background">Фон</string>
-    <string name="ads_power">Режим потужного блокування</string>
-    <string name="ads_power_info">Деякий вміст може не відображатися.</string>
     <string name="search_suggest">Пошукові підказки</string>
     <string name="at_bottom">Внизу</string>
     <string name="guide_menu">Тривале натискання значка для редагування меню.</string>
-    <string name="guide_data">Якщо Ваш браузер сповільнюється, очистіть застарілі дані.</string>
     <string name="clean_data_info">Накопичення застарілих даних може сповільнити роботу вашого браузера.\nРекомендуємо періодично очищати дані.</string>
     <string name="txt_viewer">Перегляд тексту</string>
     <string name="purchase">Придбання</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">Помістіть файл субтитрів у ту саму папку, що і відеофайл.</string>
     <string name="subtitle_info_3">Відеофайл та файл субтитрів повинні мати однакові назви.</string>
     <string name="subtitle_info_4">Підтримує формати VTT та SRT.</string>
-    <string name="subtitle_info_5">Формат SRT проходить процес перетворення під час завантаження, тому завантаження може зайняти більше часу.</string>
+    <string name="subtitle_info_5">Швидкість завантаження формату VTT вища.</string>
     <string name="subtitle_info_6">Рекомендується формат VTT.</string>
     <string name="subtitle_info_7">Якщо кодування не UTF-8, символи можуть не відображатися нормально.</string>
     <string name="android_shot">Знімок екрана Android</string>
@@ -721,4 +718,19 @@
     <string name="block_back">Блокувати лише у фоновому режимі</string>
     <string name="only_https">Підключіться до HTTPS</string>
     <string name="only_https_info">За замовчуванням він підключається до HTTPS.\nСайти, які не підтримують HTTPS, можливо, не зможуть підключитися.</string>
+    <string name="page_home_info">Коли ви натискаєте на піктограму будинку</string>
+    <string name="page_start_info">Під час запуску програми</string>
+    <string name="page_tab_info">При створенні нової вкладки</string>
+    <string name="filter_about">Про фільтр</string>
+    <string name="filter_base_1">Вбудований фільтр корисний у Кореї.</string>
+    <string name="filter_base_2">Однак його відносно недостатньо в інших країнах, крім Кореї.</string>
+    <string name="filter_base_3">Це тому, що мені важко перевірити всі сайти по всьому світу.\nМені дуже шкода.</string>
+    <string name="filter_user_1">Якщо вбудованих фільтрів недостатньо, ви можете додати власні фільтри.</string>
+    <string name="filter_user_2">Ви можете використовувати фільтри, написані у форматі EasyList.</string>
+    <string name="filter_user_3">Існує кілька типів фільтрів EasyList. (За країною, за функцією)</string>
+    <string name="filter_user_4">Ви можете вибрати та використовувати фільтр, який вам підходить.</string>
+    <string name="filter_user_5">Якщо є проблема з фільтром, сторінка може не відображатися нормально.</string>
+    <string name="add_easylist">Основний фільтр EasyList</string>
+    <string name="size_fit">Екран підходить</string>
+    <string name="size_real">Реальний розмір</string>
 </resources>

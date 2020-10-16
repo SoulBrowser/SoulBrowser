@@ -70,7 +70,7 @@
     <string name="delete">Sil</string>
     <string name="delete_file">Dosyayı sil</string>
     <string name="delete_record">Kaydı sil</string>
-    <string name="delete_data">Kayıtları sil</string>
+    <string name="delete_data">Verileri sil</string>
     <string name="delete_all">Hepsini sil</string>
     <string name="deleted">Silindi</string>
     <string name="swipe_delete">Kaydır sil</string>
@@ -183,6 +183,7 @@
     <string name="current_page">Geçerli sayfa</string>
     <string name="blank_page">Boş sayfa</string>
     <string name="page">Sayfa</string>
+    <string name="delete_cache">Önbelleği temizle</string>
     <string name="cache">Önbellek</string>
     <string name="cache_info">Web\'de gezinme sırasında oluşturulan dosyalar (ör. görüntüler)</string>
     <string name="cookie">Çerez</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">Ad engelleyici</string>
     <string name="ads_block_info">İzleme engelleme dahil.</string>
     <string name="filtered_image">Filtre uygulanmış resim (%d)</string>
+    <string name="update">Güncelleme</string>
     <string name="update_fail">Güncelleme başarısız oldu.</string>
     <string name="guide_ads_allow">İlana izin verilen siteleri kaydedebilirsiniz.</string>
     <string name="guide_pop_allow">Açılır pencereye izin verilen siteleri kaydedebilirsiniz.</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">Anasayfa olarak ayarla</string>
     <string name="setted">Ayarlandı.</string>
     <string name="bottom_bar">Alt çubuk</string>
-    <string name="bottom_long_guide">Alt çubuğu özgürce düzenleyebilirsiniz.</string>
     <string name="down_by_url">Adrese göre indir</string>
     <string name="only_twit">Yalnızca Twitter desteklenir.</string>
     <string name="video_url">Video linki</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">Bazı siteler desteklenmiyor olabilir.</string>
     <string name="restart">Tekrar başlat</string>
     <string name="down_fail_guide">Dosya zarar görmüş olabilir.</string>
-    <string name="default_filter">Temel filtre</string>
+    <string name="default_filter">Yerleşik filtre</string>
     <string name="user_filter">Kullanıcı filtresi</string>
-    <string name="filter_select">Filtre Seçimi</string>
     <string name="filter_search">Arama filtresi</string>
-    <string name="filter_info_1">Filtrede tanımlanan içerik engellenir.\nVarsayılan filtre yeterli değilse, bir kullanıcı filtresi ekleyin.</string>
-    <string name="filter_info_2">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
+    <string name="filter_info">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
     <string name="backup_title">Destek olmak</string>
     <string name="backup_import">İthalat</string>
     <string name="backup_export">İhracat</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">Uygulama yeniden başlatılacak.</string>
     <string name="reader_guide">Metin seçmek için basılı tutun, yalnızca seçilen metni oynatabilirsiniz.</string>
     <string name="web_pull_down">Tarayıcıyı aşağı çekin</string>
+    <string name="pull_down_info">Tarayıcıyı aşağı çekebilirsiniz.\nBu tek elli kullanıcılar içindir.</string>
     <string name="web_bring_down">Alt tarayıcı</string>
     <string name="active_function">İşlevi etkinleştirin.</string>
     <string name="tab_loop">Sekme döngüsü</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">Koyu tema</string>
     <string name="theme_system">Sistem tema</string>
     <string name="background">Arka fon</string>
-    <string name="ads_power">Güç modu</string>
-    <string name="ads_power_info">Bazı içerikler görüntülenemeyebilir.</string>
     <string name="search_suggest">Arama önerileri</string>
     <string name="at_bottom">Altta</string>
     <string name="guide_menu">Menüyü düzenlemek için simgeye uzun basın.</string>
-    <string name="guide_data">Tarayıcınız yavaşlarsa, eski verileri temizleyin.</string>
     <string name="clean_data_info">Eski verilerin biriktirilmesi tarayıcınızı yavaşlatabilir.\nVerilerinizi düzenli aralıklarla temizlemek iyi bir fikirdir.</string>
     <string name="txt_viewer">Metin görüntüleyici</string>
     <string name="purchase">Satın alma</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">Altyazı dosyasını video dosyasıyla aynı klasöre koyun.</string>
     <string name="subtitle_info_3">Video dosyası ve altyazı dosyası aynı ada sahip olmalıdır.</string>
     <string name="subtitle_info_4">VTT ve SRT formatlarını destekler.</string>
-    <string name="subtitle_info_5">SRT biçimi, yükleme sırasında bir dönüştürme sürecinden geçer, bu nedenle yüklenmesi daha uzun sürebilir.</string>
+    <string name="subtitle_info_5">VTT formatının yükleme hızı daha hızlıdır.</string>
     <string name="subtitle_info_6">VTT formatı önerilir.</string>
     <string name="subtitle_info_7">Kodlama UTF-8 değilse, karakterler normal şekilde görüntülenmeyebilir.</string>
     <string name="android_shot">Android Ekran görüntüsü</string>
@@ -721,4 +718,19 @@
     <string name="block_back">Yalnızca arka planda engelle</string>
     <string name="only_https">HTTPS ile bağlanın</string>
     <string name="only_https_info">Varsayılan olarak HTTPS ile bağlanır.\nHTTPS\'yi desteklemeyen siteler bağlanamayabilir.</string>
+    <string name="page_home_info">Ev simgesine dokunduğunuzda</string>
+    <string name="page_start_info">Uygulamayı başlatırken</string>
+    <string name="page_tab_info">Yeni bir sekme oluştururken</string>
+    <string name="filter_about">Filtre hakkında</string>
+    <string name="filter_base_1">Yerleşik filtre Kore\'de kullanışlıdır.</string>
+    <string name="filter_base_2">Ancak Kore dışındaki ülkelerde görece yetersizdir.</string>
+    <string name="filter_base_3">Çünkü dünyadaki tüm siteleri kontrol etmek benim için zor.\nÇok üzgünüm.</string>
+    <string name="filter_user_1">Yerleşik filtreler yeterli değilse, özel filtreler ekleyebilirsiniz.</string>
+    <string name="filter_user_2">EasyList formatında yazılmış filtreleri kullanabilirsiniz.</string>
+    <string name="filter_user_3">Birkaç tür EasyList filtresi vardır. (Ülkeye göre, işleve göre)</string>
+    <string name="filter_user_4">Size uygun filtreyi seçip kullanabilirsiniz.</string>
+    <string name="filter_user_5">Filtrede bir sorun varsa, sayfa normal şekilde görüntülenmeyebilir.</string>
+    <string name="add_easylist">Temel EasyList filtresi</string>
+    <string name="size_fit">Ekran uyumu</string>
+    <string name="size_real">Gerçek boyutu</string>
 </resources>

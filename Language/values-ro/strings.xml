@@ -70,7 +70,7 @@
     <string name="delete">Ștergeți</string>
     <string name="delete_file">Ștergeți fișierul</string>
     <string name="delete_record">Ștergeți înregistrarea</string>
-    <string name="delete_data">Ștergeți înregistrările</string>
+    <string name="delete_data">Ștergeți datele</string>
     <string name="delete_all">Ștergeți toate</string>
     <string name="deleted">Șters</string>
     <string name="swipe_delete">Glisați ștergerea</string>
@@ -183,6 +183,7 @@
     <string name="current_page">Pagina curentă</string>
     <string name="blank_page">Pagina goală</string>
     <string name="page">Pagina</string>
+    <string name="delete_cache">Ștergeți memoria cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Fișiere create pe parcursul navigării web (de ex. imagini)</string>
     <string name="cookie">Cookie</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">Blocator de anunțuri</string>
     <string name="ads_block_info">Blocarea de urmărire inclusă.</string>
     <string name="filtered_image">Imaginea filtrată (%d)</string>
+    <string name="update">Actualizați</string>
     <string name="update_fail">Actualizare eșuată.</string>
     <string name="guide_ads_allow">Puteți înregistra site-uri care au permis anunțul.</string>
     <string name="guide_pop_allow">Puteți înregistra site-uri care sunt autorizate.</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">Setați ca pagină de pornire</string>
     <string name="setted">A fost setat.</string>
     <string name="bottom_bar">Bara de jos</string>
-    <string name="bottom_long_guide">Puteți edita în mod liber bara de jos.</string>
     <string name="down_by_url">Descărcați prin adresă</string>
     <string name="only_twit">Doar Twitter este acceptat.</string>
     <string name="video_url">URL video</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">Este posibil ca unele site-uri să nu fie acceptate.</string>
     <string name="restart">Repornire</string>
     <string name="down_fail_guide">Fișierul poate fi deteriorat.</string>
-    <string name="default_filter">Filtrul de bază</string>
+    <string name="default_filter">Filtru încorporat</string>
     <string name="user_filter">Filtru utilizator</string>
-    <string name="filter_select">Selectarea filtrului</string>
     <string name="filter_search">Filtru de căutare</string>
-    <string name="filter_info_1">Conținutul definit în filtru este blocat.\nDacă filtrul implicit nu este suficient, adăugați un filtru utilizator.</string>
-    <string name="filter_info_2">Utilizarea mai multor filtre în același timp poate încetini performanța browserului.</string>
+    <string name="filter_info">Utilizarea mai multor filtre în același timp poate încetini performanța browserului.</string>
     <string name="backup_title">Înapoi</string>
     <string name="backup_import">Importați</string>
     <string name="backup_export">Exportați</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">Aplicația va reporni.</string>
     <string name="reader_guide">Apăsați și mențineți apăsat pentru a selecta text, puteți reda doar textul selectat.</string>
     <string name="web_pull_down">Trageți în jos browserul</string>
+    <string name="pull_down_info">Puteți trage în jos browserul.\nAceasta este pentru utilizatorii cu o singură mână.</string>
     <string name="web_bring_down">Navigator inferior</string>
     <string name="active_function">Activați funcția.</string>
     <string name="tab_loop">Bucla tab</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">Tema întunecată</string>
     <string name="theme_system">Tema sistemului</string>
     <string name="background">Fundal</string>
-    <string name="ads_power">Mod de alimentare</string>
-    <string name="ads_power_info">Este posibil ca un anumit conținut să nu fie afișat.</string>
     <string name="search_suggest">Sugestii de căutare</string>
     <string name="at_bottom">În partea de jos</string>
     <string name="guide_menu">Apăsați lung pictograma pentru a edita meniul.</string>
-    <string name="guide_data">Dacă browserul dvs. încetinește, curățați datele vechi.</string>
     <string name="clean_data_info">Acumularea de date vechi poate încetini browserul.\nEste o idee bună să vă curățați periodic datele.</string>
     <string name="txt_viewer">Vizualizator de text</string>
     <string name="purchase">Cumpărare</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">Puneți fișierul de subtitrare în același folder cu fișierul video.</string>
     <string name="subtitle_info_3">Fișierul video și fișierul de subtitrare trebuie să aibă același nume.</string>
     <string name="subtitle_info_4">Suportă formate VTT și SRT.</string>
-    <string name="subtitle_info_5">Formatul SRT trece printr-un proces de conversie la încărcare, deci poate dura mai mult timp pentru încărcare.</string>
+    <string name="subtitle_info_5">Viteza de încărcare a formatului VTT este mai rapidă.</string>
     <string name="subtitle_info_6">Este recomandat formatul VTT.</string>
     <string name="subtitle_info_7">Dacă codificarea nu este UTF-8, este posibil ca caracterele să nu fie afișate normal.</string>
     <string name="android_shot">Captură de ecran Android</string>
@@ -721,4 +718,19 @@
     <string name="block_back">Blocați numai în fundal</string>
     <string name="only_https">Conectați-vă cu HTTPS</string>
     <string name="only_https_info">În mod implicit, se conectează cu HTTPS.\nEste posibil ca site-urile care nu acceptă HTTPS să nu se poată conecta.</string>
+    <string name="page_home_info">Când atingeți pictograma Acasă</string>
+    <string name="page_start_info">La pornirea aplicației</string>
+    <string name="page_tab_info">Când creați o filă nouă</string>
+    <string name="filter_about">Despre filtru</string>
+    <string name="filter_base_1">Filtrul încorporat este util în Coreea.</string>
+    <string name="filter_base_2">Cu toate acestea, este relativ insuficient în alte țări decât Coreea.</string>
+    <string name="filter_base_3">Este pentru că îmi este greu să verific toate site-urile din întreaga lume.\nImi pare foarte rau.</string>
+    <string name="filter_user_1">Dacă filtrele încorporate nu sunt suficiente, puteți adăuga filtre personalizate.</string>
+    <string name="filter_user_2">Puteți utiliza filtre scrise în format EasyList.</string>
+    <string name="filter_user_3">Există mai multe tipuri de filtre EasyList. (După țară, după funcție)</string>
+    <string name="filter_user_4">Puteți selecta și utiliza filtrul care vi se potrivește.</string>
+    <string name="filter_user_5">Dacă există o problemă cu filtrul, este posibil ca pagina să nu fie afișată normal.</string>
+    <string name="add_easylist">Filtru EasyList de bază</string>
+    <string name="size_fit">Potrivirea ecranului</string>
+    <string name="size_real">Dimensiunea reală</string>
 </resources>

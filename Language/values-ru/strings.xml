@@ -70,7 +70,7 @@
     <string name="delete">Удалить</string>
     <string name="delete_file">Удалить файл</string>
     <string name="delete_record">Удалить запись</string>
-    <string name="delete_data">Удалить записи</string>
+    <string name="delete_data">Удалить данные</string>
     <string name="delete_all">Удалить все</string>
     <string name="deleted">Удалено</string>
     <string name="swipe_delete">Удаление свайпом</string>
@@ -183,7 +183,8 @@
     <string name="current_page">Текущая страница</string>
     <string name="blank_page">Пустая страница</string>
     <string name="page">Страница</string>
-    <string name="cache">Кэш</string>
+    <string name="delete_cache">Очистить cache</string>
+    <string name="cache">Cache</string>
     <string name="cache_info">Файлы, созданные во время просмотра веб страниц (например : изображений)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Информацию, созданную во время просмотра веб страниц (например : информация для входа)</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">Блокировщик Ad</string>
     <string name="ads_block_info">Блокировка отслеживания включена.</string>
     <string name="filtered_image">Фильтруемое изображение (%d)</string>
+    <string name="update">Обновить</string>
     <string name="update_fail">Не удалось выполнить обновление.</string>
     <string name="guide_ads_allow">Вы можете зарегистрировать сайты, на которых разрешена реклама.</string>
     <string name="guide_pop_allow">Вы можете зарегистрировать сайты, на которых разрешены popup.</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">Установить в качестве домашней страницы</string>
     <string name="setted">Установлено.</string>
     <string name="bottom_bar">Нижний бар</string>
-    <string name="bottom_long_guide">Вы можете свободно редактировать нижнюю панель.</string>
     <string name="down_by_url">Скачать по адресу</string>
     <string name="only_twit">Поддерживается только Twitter.</string>
     <string name="video_url">URL видео</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">Некоторые сайты могут не поддерживаться.</string>
     <string name="restart">Начать сначала</string>
     <string name="down_fail_guide">Файл может быть поврежден.</string>
-    <string name="default_filter">Основной фильтр</string>
+    <string name="default_filter">Встроенный фильтр</string>
     <string name="user_filter">Пользовательский фильтр</string>
-    <string name="filter_select">Выбор фильтра</string>
     <string name="filter_search">Фильтр поиска</string>
-    <string name="filter_info_1">Контент, определенный в фильтре, заблокирован.\nЕсли фильтра по умолчанию недостаточно, добавьте пользовательский фильтр.</string>
-    <string name="filter_info_2">Использование нескольких фильтров одновременно может снизить производительность браузера.</string>
+    <string name="filter_info">Использование нескольких фильтров одновременно может снизить производительность браузера.</string>
     <string name="backup_title">Резервное копирование</string>
     <string name="backup_import">Импорт</string>
     <string name="backup_export">Экспорт</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">Приложение перезапустится.</string>
     <string name="reader_guide">Нажмите и удерживайте, чтобы выбрать текст, вы можете воспроизводить только выбранный текст.</string>
     <string name="web_pull_down">Опустить браузер</string>
+    <string name="pull_down_info">Вы можете закрыть браузер.\nЭто для пользователей одной рукой.</string>
     <string name="web_bring_down">Нижний браузер</string>
     <string name="active_function">Активируйте функцию.</string>
     <string name="tab_loop">Цикл табуляции</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">Темная тема</string>
     <string name="theme_system">Системная тема</string>
     <string name="background">Задний план</string>
-    <string name="ads_power">Режим мощности</string>
-    <string name="ads_power_info">Некоторый контент может не отображаться.</string>
     <string name="search_suggest">Предложения поиска</string>
     <string name="at_bottom">Внизу</string>
     <string name="guide_menu">Нажмите и удерживайте значок, чтобы редактировать меню.</string>
-    <string name="guide_data">Если ваш браузер тормозит, удалите старые данные.</string>
     <string name="clean_data_info">Накопление устаревших данных может замедлить работу вашего браузера.\nРекомендуется периодически очищать данные.</string>
     <string name="txt_viewer">Просмотрщик текста</string>
     <string name="purchase">Покупка</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">Поместите файл субтитров в ту же папку, что и видеофайл.</string>
     <string name="subtitle_info_3">Видеофайл и файл субтитров должны иметь одно и то же имя.</string>
     <string name="subtitle_info_4">Поддерживает форматы VTT и SRT.</string>
-    <string name="subtitle_info_5">Формат SRT проходит процесс преобразования при загрузке, поэтому загрузка может занять больше времени.</string>
+    <string name="subtitle_info_5">Скорость загрузки формата VTT выше.</string>
     <string name="subtitle_info_6">Рекомендуется формат VTT.</string>
     <string name="subtitle_info_7">Если кодировка отличается от UTF-8, символы могут отображаться некорректно.</string>
     <string name="android_shot">Скриншот Android</string>
@@ -721,4 +718,19 @@
     <string name="block_back">Блокировать только в фоновом режиме</string>
     <string name="only_https">Подключиться по HTTPS</string>
     <string name="only_https_info">По умолчанию он подключается по HTTPS.\nСайты, не поддерживающие HTTPS, могут не подключиться.</string>
+    <string name="page_home_info">Когда вы нажимаете значок дома</string>
+    <string name="page_start_info">При запуске приложения</string>
+    <string name="page_tab_info">При создании новой вкладки</string>
+    <string name="filter_about">О фильтре</string>
+    <string name="filter_base_1">Встроенный фильтр пригодится в Корее.</string>
+    <string name="filter_base_2">Однако его относительно недостаточно в других странах, кроме Кореи.</string>
+    <string name="filter_base_3">Это потому, что мне сложно проверять все сайты по всему миру.\nМне очень жаль.</string>
+    <string name="filter_user_1">Если встроенных фильтров недостаточно, вы можете добавить собственные фильтры.</string>
+    <string name="filter_user_2">Вы можете использовать фильтры, написанные в формате EasyList.</string>
+    <string name="filter_user_3">Есть несколько типов фильтров EasyList. (По странам, по функциям)</string>
+    <string name="filter_user_4">Вы можете выбрать и использовать тот фильтр, который вам подходит.</string>
+    <string name="filter_user_5">Если есть проблема с фильтром, страница может отображаться некорректно.</string>
+    <string name="add_easylist">Базовый фильтр EasyList</string>
+    <string name="size_fit">Экран подходит</string>
+    <string name="size_real">Фактический размер</string>
 </resources>

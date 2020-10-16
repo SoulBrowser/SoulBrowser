@@ -70,7 +70,7 @@
     <string name="delete">削除</string>
     <string name="delete_file">ファイルを削除</string>
     <string name="delete_record">履歴の削除</string>
-    <string name="delete_data">履歴の削除</string>
+    <string name="delete_data">データの削除</string>
     <string name="delete_all">すべて削除</string>
     <string name="deleted">削除済み</string>
     <string name="swipe_delete">スワイプ削除</string>
@@ -183,6 +183,7 @@
     <string name="current_page">現在のページ</string>
     <string name="blank_page">空白のページ</string>
     <string name="page">ページ</string>
+    <string name="delete_cache">Cacheの消去</string>
     <string name="cache">Cache</string>
     <string name="cache_info">ウェブ閲覧中に生成されたファイル (例 : 画像)</string>
     <string name="cookie">Cookie</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">広告ブロック</string>
     <string name="ads_block_info">追跡ブロック機能が含まれています。</string>
     <string name="filtered_image">フィルタリングされた画像 (%d)</string>
+    <string name="update">アップデート</string>
     <string name="update_fail">更新に失敗しました。</string>
     <string name="guide_ads_allow">広告が許可されているサイトを登録することができます。</string>
     <string name="guide_pop_allow">Popupが許可されているサイトを登録することができます。</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">ホームページに設定</string>
     <string name="setted">設定されています。</string>
     <string name="bottom_bar">ボトムバー</string>
-    <string name="bottom_long_guide">下部バー自由に編集することができます。</string>
     <string name="down_by_url">アドレスでダウンロード</string>
     <string name="only_twit">ツイッターのみがサポートされます。</string>
     <string name="video_url">動画のURL</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">一部のサイトでは、サポートされないことがあります。</string>
     <string name="restart">再起動</string>
     <string name="down_fail_guide">ファイルが壊れている可能性があります。</string>
-    <string name="default_filter">デフォルトのフィルタ</string>
+    <string name="default_filter">内蔵フィルタ</string>
     <string name="user_filter">ユーザーフィルター</string>
-    <string name="filter_select">フィルタを選択</string>
     <string name="filter_search">フィルタを検索</string>
-    <string name="filter_info_1">フィルタに定義されたコンテンツがブロックされます。\nデフォルトのフィルタが十分でない場合は、ユーザーフィルタを追加します。</string>
-    <string name="filter_info_2">複数のフィルタを同時に使用すると、ブラウザーのパフォーマンスが低下することがあります。</string>
+    <string name="filter_info">複数のフィルタを同時に使用すると、ブラウザーのパフォーマンスが低下することがあります。</string>
     <string name="backup_title">バックアップ</string>
     <string name="backup_import">インポート</string>
     <string name="backup_export">エクスポート</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">アプリが再起動されます。</string>
     <string name="reader_guide">長く押して、テキストを選択すると、選択したテキストのみを再生することができます。</string>
     <string name="web_pull_down">ブラウザを引いて降り</string>
+    <string name="pull_down_info">ブラウザを低下させることができます。\n片手ユーザーのための機能です。</string>
     <string name="web_bring_down">下のブラウザ</string>
     <string name="active_function">機能を有効にしてください。</string>
     <string name="tab_loop">タブループ</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">暗いテーマ</string>
     <string name="theme_system">システムのテーマ</string>
     <string name="background">背景</string>
-    <string name="ads_power">パワーモード</string>
-    <string name="ads_power_info">一部のコンテンツが表示されないことがあります。</string>
     <string name="search_suggest">検索候補</string>
     <string name="at_bottom">下部に</string>
     <string name="guide_menu">アイコンを長押しするとメニューを編集することができます。</string>
-    <string name="guide_data">ブラウザの速度が遅くなると、古いデータを整理してください。</string>
     <string name="clean_data_info">古いデータが蓄積されると、ブラウザの速度が遅くなることがあります。\n定期的にデータを整理することをお勧め。</string>
     <string name="txt_viewer">テキストビューア</string>
     <string name="purchase">購入</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">字幕ファイルを動画ファイルと同じフォルダに入れてください。</string>
     <string name="subtitle_info_3">動画ファイルと字幕ファイルは、名前が同じになります。</string>
     <string name="subtitle_info_4">VTTとSRT形式をサポートします。</string>
-    <string name="subtitle_info_5">SRT形式は、ロード時に変換プロセスを経ので読み込みに時間がかかることがあります。</string>
+    <string name="subtitle_info_5">VTT形式の読み込み速度が速くなります。</string>
     <string name="subtitle_info_6">VTT形式が推奨されます。</string>
     <string name="subtitle_info_7">エンコーディングがUTF-8ではない場合、文字が正常に表示されないことがあります。</string>
     <string name="android_shot">Androidスクリーンショット</string>
@@ -721,4 +718,19 @@
     <string name="block_back">バックグラウンドで遮断</string>
     <string name="only_https">HTTPSに接続</string>
     <string name="only_https_info">基本的にHTTPSに接続します。\nHTTPSをサポートしていないサイトは、リンクにならないことがあります。</string>
+    <string name="page_home_info">ホームアイコンをクリックしたとき</string>
+    <string name="page_start_info">アプリを起動したとき</string>
+    <string name="page_tab_info">新しいタブを作成するときに</string>
+    <string name="filter_about">フィルタについて</string>
+    <string name="filter_base_1">内蔵フィルタが韓国では便利です。</string>
+    <string name="filter_base_2">しかし、韓国以外の国では、相対的に不足します。</string>
+    <string name="filter_base_3">私世界中のすべてのサイトを確認することが難しくそうです。\n非常に申し訳ありません。</string>
+    <string name="filter_user_1">内蔵フィルタが十分でない場合は、ユーザーのフィルタを追加することができます。</string>
+    <string name="filter_user_2">EasyList形式で作成されたフィルタを使用することができます。</string>
+    <string name="filter_user_3">EasyListフィルタは、複数の種類があります。（国別、機能別）</string>
+    <string name="filter_user_4">自分に合ったフィルタを選択して使用することができます。</string>
+    <string name="filter_user_5">フィルタに問題があれば、ページが正常に表示されないことがあります。</string>
+    <string name="add_easylist">基本EasyListフィルタ</string>
+    <string name="size_fit">画面カスタマイズ</string>
+    <string name="size_real">実際のサイズ</string>
 </resources>

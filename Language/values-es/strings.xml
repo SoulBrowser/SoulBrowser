@@ -70,7 +70,7 @@
     <string name="delete">Borrar</string>
     <string name="delete_file">Borrar archivo</string>
     <string name="delete_record">Eliminar el registro</string>
-    <string name="delete_data">Eliminar registros</string>
+    <string name="delete_data">Borrar datos</string>
     <string name="delete_all">Eliminar todos</string>
     <string name="deleted">Eliminado</string>
     <string name="swipe_delete">Deslizar eliminar</string>
@@ -183,6 +183,7 @@
     <string name="current_page">Página actual</string>
     <string name="blank_page">Página en blanco</string>
     <string name="page">Página</string>
+    <string name="delete_cache">Limpiar cache</string>
     <string name="cache">Caché</string>
     <string name="cache_info">Archivos creados durante la navegación web (p.ej. imágenes)</string>
     <string name="cookie">Cookie</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">Bloquear Ad</string>
     <string name="ads_block_info">Seguimiento de bloqueo incluido.</string>
     <string name="filtered_image">Imagen filtrada (%d)</string>
+    <string name="update">Actualizar</string>
     <string name="update_fail">Actualización fallida.</string>
     <string name="guide_ads_allow">Puede registrar sitios que están autorizados a anunciar.</string>
     <string name="guide_pop_allow">Puede registrar sitios que están permitidos popup.</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">Establecer como página de inicio</string>
     <string name="setted">Ha sido establecido.</string>
     <string name="bottom_bar">Barra inferior</string>
-    <string name="bottom_long_guide">Puede editar libremente la barra inferior.</string>
     <string name="down_by_url">Descargar por dirección</string>
     <string name="only_twit">Solo se admite Twitter.</string>
     <string name="video_url">URL del vídeo</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">Algunos sitios pueden no ser compatibles.</string>
     <string name="restart">Reiniciar</string>
     <string name="down_fail_guide">El archivo puede estar dañado.</string>
-    <string name="default_filter">Filtro básico</string>
+    <string name="default_filter">Filtro incorporado</string>
     <string name="user_filter">Filtro de usuario</string>
-    <string name="filter_select">Selección de filtro</string>
     <string name="filter_search">Filtro de búsqueda</string>
-    <string name="filter_info_1">El contenido definido en el filtro está bloqueado.\nSi el filtro predeterminado no es suficiente, agregue un filtro de usuario.</string>
-    <string name="filter_info_2">El uso de varios filtros al mismo tiempo puede ralentizar el rendimiento del navegador.</string>
+    <string name="filter_info">El uso de varios filtros al mismo tiempo puede ralentizar el rendimiento del navegador.</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Importar</string>
     <string name="backup_export">Exportar</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">La aplicación se reiniciará.</string>
     <string name="reader_guide">Mantenga presionado para seleccionar texto, solo puede reproducir el texto seleccionado.</string>
     <string name="web_pull_down">Despliegue el navegador</string>
+    <string name="pull_down_info">Puede desplegar el navegador.\nEsto es para usuarios de una mano.</string>
     <string name="web_bring_down">Navegador inferior</string>
     <string name="active_function">Activa la función.</string>
     <string name="tab_loop">Bucle de pestaña</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">Tema oscuro</string>
     <string name="theme_system">Tema sistema</string>
     <string name="background">Antecedentes</string>
-    <string name="ads_power">Modo de energía</string>
-    <string name="ads_power_info">Es posible que no se muestre parte del contenido.</string>
     <string name="search_suggest">Sugerencias de búsqueda</string>
     <string name="at_bottom">En el fondo</string>
     <string name="guide_menu">Mantenga pulsado el icono para editar el menú.</string>
-    <string name="guide_data">Si su navegador se ralentiza, limpie los datos antiguos.</string>
     <string name="clean_data_info">La acumulación de datos obsoletos puede ralentizar su navegador.\nEs una buena idea limpiar sus datos periódicamente.</string>
     <string name="txt_viewer">Visor de texto</string>
     <string name="purchase">Compra</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">Coloque el archivo de subtítulos en la misma carpeta que el archivo de video.</string>
     <string name="subtitle_info_3">El archivo de video y el archivo de subtítulos deben tener el mismo nombre.</string>
     <string name="subtitle_info_4">Soporta formatos VTT y SRT.</string>
-    <string name="subtitle_info_5">El formato SRT pasa por un proceso de conversión durante la carga, por lo que puede tardar más en cargarse.</string>
+    <string name="subtitle_info_5">La velocidad de carga del formato VTT es más rápida.</string>
     <string name="subtitle_info_6">Se recomienda el formato VTT.</string>
     <string name="subtitle_info_7">Si la codificación no es UTF-8, es posible que los caracteres no se muestren normalmente.</string>
     <string name="android_shot">Captura de pantalla de Android</string>
@@ -721,4 +718,19 @@
     <string name="block_back">Bloquear solo en segundo plano</string>
     <string name="only_https">Conéctese con HTTPS</string>
     <string name="only_https_info">Por defecto se conecta con HTTPS.\nEs posible que los sitios que no admitan HTTPS no puedan conectarse.</string>
+    <string name="page_home_info">Cuando tocas el ícono de inicio</string>
+    <string name="page_start_info">Al iniciar la aplicación</string>
+    <string name="page_tab_info">Al crear una nueva pestaña</string>
+    <string name="filter_about">Sobre el filtro</string>
+    <string name="filter_base_1">El filtro incorporado es útil en Corea.</string>
+    <string name="filter_base_2">Sin embargo, es relativamente insuficiente en países distintos de Corea.</string>
+    <string name="filter_base_3">Es porque me resulta difícil comprobar todos los sitios del mundo.\nLo siento mucho.</string>
+    <string name="filter_user_1">Si los filtros integrados no son suficientes, puede agregar filtros personalizados.</string>
+    <string name="filter_user_2">Puede utilizar filtros escritos en formato EasyList.</string>
+    <string name="filter_user_3">Hay varios tipos de filtros EasyList. (Por país, por función)</string>
+    <string name="filter_user_4">Puede seleccionar y utilizar el filtro que más le convenga.</string>
+    <string name="filter_user_5">Si hay un problema con el filtro, es posible que la página no se muestre normalmente.</string>
+    <string name="add_easylist">Filtro EasyList básico</string>
+    <string name="size_fit">Ajuste de pantalla</string>
+    <string name="size_real">Tamaño real</string>
 </resources>

@@ -70,7 +70,7 @@
     <string name="delete">Hapus</string>
     <string name="delete_file">Hapus berkas</string>
     <string name="delete_record">Hapus catatan</string>
-    <string name="delete_data">Hapus rekaman</string>
+    <string name="delete_data">Hapus data</string>
     <string name="delete_all">Hapus semua</string>
     <string name="deleted">Dihapus</string>
     <string name="swipe_delete">Geser hapus</string>
@@ -183,6 +183,7 @@
     <string name="current_page">Halaman saat ini</string>
     <string name="blank_page">Halaman kosong</string>
     <string name="page">Halaman</string>
+    <string name="delete_cache">Kosongkan cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">File yang dibuat selama penjelajahan web (mis. gambar)</string>
     <string name="cookie">Cookie</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">Pemblokir Ad</string>
     <string name="ads_block_info">Termasuk pemblokiran pelacakan.</string>
     <string name="filtered_image">Gambar yang difilter (%d)</string>
+    <string name="update">Memperbarui</string>
     <string name="update_fail">Pembaruan gagal.</string>
     <string name="guide_ads_allow">Anda dapat mendaftarkan situs yang diizinkan Ad.</string>
     <string name="guide_pop_allow">Anda dapat mendaftarkan situs yang diizinkan popup.</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">Setel sebagai homepage</string>
     <string name="setted">Telah di atur.</string>
     <string name="bottom_bar">Bilah bawah</string>
-    <string name="bottom_long_guide">Anda dapat dengan bebas mengedit bilah bawah.</string>
     <string name="down_by_url">Unduh berdasarkan alamat</string>
     <string name="only_twit">Hanya Twitter yang didukung.</string>
     <string name="video_url">URL video</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">Beberapa situs mungkin tidak didukung.</string>
     <string name="restart">Mengulang kembali</string>
     <string name="down_fail_guide">File mungkin rusak.</string>
-    <string name="default_filter">Filter dasar</string>
+    <string name="default_filter">Filter bawaan</string>
     <string name="user_filter">Filter pengguna</string>
-    <string name="filter_select">Pilihan filter</string>
     <string name="filter_search">Filter pencarian</string>
-    <string name="filter_info_1">Konten yang ditentukan dalam filter diblokir.\nJika filter default tidak cukup, tambahkan filter pengguna.</string>
-    <string name="filter_info_2">Menggunakan beberapa filter sekaligus dapat memperlambat kinerja browser.</string>
+    <string name="filter_info">Menggunakan beberapa filter sekaligus dapat memperlambat kinerja browser.</string>
     <string name="backup_title">Kembali</string>
     <string name="backup_import">Impor</string>
     <string name="backup_export">Ekspor</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">Aplikasi restart.</string>
     <string name="reader_guide">Tekan dan tahan untuk memilih teks, Anda hanya dapat memutar teks yang dipilih.</string>
     <string name="web_pull_down">Tarik ke bawah browser</string>
+    <string name="pull_down_info">Anda dapat menurunkan browser.\nIni untuk pengguna satu tangan.</string>
     <string name="web_bring_down">Browser lebih rendah</string>
     <string name="active_function">Aktifkan fungsinya.</string>
     <string name="tab_loop">Lingkaran tab</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">Tema gelap</string>
     <string name="theme_system">Tema sistem</string>
     <string name="background">Latar Belakang</string>
-    <string name="ads_power">Mode daya</string>
-    <string name="ads_power_info">Beberapa konten mungkin tidak ditampilkan.</string>
     <string name="search_suggest">Saran pencarian</string>
     <string name="at_bottom">Di dasar</string>
     <string name="guide_menu">Tekan lama ikon untuk mengedit menu.</string>
-    <string name="guide_data">Jika browser Anda melambat, bersihkan data lama.</string>
     <string name="clean_data_info">Mengumpulkan data lama dapat memperlambat browser Anda.\nSebaiknya bersihkan data Anda secara berkala.</string>
     <string name="txt_viewer">Penampil teks</string>
     <string name="purchase">Membeli</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">Letakkan file subtitle di folder yang sama dengan file video.</string>
     <string name="subtitle_info_3">File video dan file subtitle harus memiliki nama yang sama.</string>
     <string name="subtitle_info_4">Mendukung format VTT dan SRT.</string>
-    <string name="subtitle_info_5">Format SRT mengalami proses konversi saat dimuat, jadi mungkin perlu waktu lebih lama untuk memuat.</string>
+    <string name="subtitle_info_5">Kecepatan pemuatan format VTT lebih cepat.</string>
     <string name="subtitle_info_6">Format VTT direkomendasikan.</string>
     <string name="subtitle_info_7">Jika pengkodean bukan UTF-8, karakter mungkin tidak ditampilkan secara normal.</string>
     <string name="android_shot">Tangkapan layar Android</string>
@@ -721,4 +718,19 @@
     <string name="block_back">Blokir hanya di latar belakang</string>
     <string name="only_https">Terhubung dengan HTTPS</string>
     <string name="only_https_info">Secara default terhubung dengan HTTPS.\nSitus yang tidak mendukung HTTPS mungkin tidak dapat terhubung.</string>
+    <string name="page_home_info">Saat Anda mengetuk ikon beranda</string>
+    <string name="page_start_info">Saat memulai aplikasi</string>
+    <string name="page_tab_info">Saat membuat tab baru</string>
+    <string name="filter_about">Tentang filter</string>
+    <string name="filter_base_1">Filter built-in berguna di Korea.</string>
+    <string name="filter_base_2">Namun, ini relatif tidak mencukupi di negara selain Korea.</string>
+    <string name="filter_base_3">Itu karena sulit bagi saya untuk memeriksa semua situs di seluruh dunia.\nAku sangat menyesal.</string>
+    <string name="filter_user_1">Jika filter bawaan tidak cukup, Anda dapat menambahkan filter khusus.</string>
+    <string name="filter_user_2">Anda dapat menggunakan filter yang ditulis dalam format EasyList.</string>
+    <string name="filter_user_3">Ada beberapa jenis filter EasyList. (Berdasarkan negara, berdasarkan fungsi)</string>
+    <string name="filter_user_4">Anda dapat memilih dan menggunakan filter yang sesuai dengan Anda.</string>
+    <string name="filter_user_5">Jika ada masalah dengan filter, halaman mungkin tidak ditampilkan secara normal.</string>
+    <string name="add_easylist">Filter EasyList dasar</string>
+    <string name="size_fit">Kesesuaian layar</string>
+    <string name="size_real">Ukuran sebenarnya</string>
 </resources>

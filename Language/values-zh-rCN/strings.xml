@@ -70,7 +70,7 @@
     <string name="delete">删除</string>
     <string name="delete_file">删除文件</string>
     <string name="delete_record">删除记录</string>
-    <string name="delete_data">删除记录</string>
+    <string name="delete_data">删除资料</string>
     <string name="delete_all">删除所有</string>
     <string name="deleted">删除</string>
     <string name="swipe_delete">滑动删除</string>
@@ -183,7 +183,8 @@
     <string name="current_page">当前页</string>
     <string name="blank_page">空白页</string>
     <string name="page">网页</string>
-    <string name="cache">缓存</string>
+    <string name="delete_cache">清除Cache</string>
+    <string name="cache">Cache</string>
     <string name="cache_info">Web浏览期间创建的文件 (示例 : 图像)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Web浏览期间创建的信息 (示例 : 登录信息)</string>
@@ -305,6 +306,7 @@
     <string name="ads_block">广告拦截</string>
     <string name="ads_block_info">包括跟踪拦截</string>
     <string name="filtered_image">过滤的图像 (%d)</string>
+    <string name="update">更新</string>
     <string name="update_fail">更新失败</string>
     <string name="guide_ads_allow">您可以添加允许广告的网站</string>
     <string name="guide_pop_allow">您可以添加允许弹窗的网站</string>
@@ -550,7 +552,6 @@
     <string name="set_homepage">设为主页</string>
     <string name="setted">已设置</string>
     <string name="bottom_bar">底栏</string>
-    <string name="bottom_long_guide">您可以自由编辑底部栏</string>
     <string name="down_by_url">链接下载</string>
     <string name="only_twit">仅支持Twitter</string>
     <string name="video_url">视频网址</string>
@@ -649,12 +650,10 @@
     <string name="not_support_site">某些网站可能不受支持</string>
     <string name="restart">重新开始</string>
     <string name="down_fail_guide">该文件可能已损坏</string>
-    <string name="default_filter">基础过滤器</string>
+    <string name="default_filter">内置过滤器</string>
     <string name="user_filter">用户过滤器</string>
-    <string name="filter_select">过滤器选择</string>
     <string name="filter_search">搜索过滤器</string>
-    <string name="filter_info_1">过滤器中定义的内容被阻止\n如果默认过滤器还不够，请添加用户过滤器</string>
-    <string name="filter_info_2">同时使用多个过滤器会降低浏览器性能</string>
+    <string name="filter_info">同时使用多个过滤器会降低浏览器性能</string>
     <string name="backup_title">备份</string>
     <string name="backup_import">导入</string>
     <string name="backup_export">导出</string>
@@ -665,6 +664,7 @@
     <string name="app_restart">该应用程序将重新启动</string>
     <string name="reader_guide">按住以选择文本，您只能播放所选的文本</string>
     <string name="web_pull_down">下拉浏览器</string>
+    <string name="pull_down_info">您可以下拉浏览器\n这是针对单手用户的</string>
     <string name="web_bring_down">下层浏览器</string>
     <string name="active_function">激活功能</string>
     <string name="tab_loop">标签循环</string>
@@ -682,12 +682,9 @@
     <string name="theme_dark">黑暗主题</string>
     <string name="theme_system">系统主题</string>
     <string name="background">背景</string>
-    <string name="ads_power">电源模式</string>
-    <string name="ads_power_info">某些内容可能不会显示</string>
     <string name="search_suggest">搜索建议</string>
     <string name="at_bottom">在底部</string>
     <string name="guide_menu">长按图标可编辑菜单</string>
-    <string name="guide_data">如果浏览器速度变慢，请清理旧数据</string>
     <string name="clean_data_info">过时的数据积累会降低浏览器的速度\n定期清理数据是一个好主意</string>
     <string name="txt_viewer">文字检视器</string>
     <string name="purchase">采购</string>
@@ -712,7 +709,7 @@
     <string name="subtitle_info_2">将字幕文件与视频文件放在同一文件夹中</string>
     <string name="subtitle_info_3">视频文件和字幕文件必须具有相同的名称</string>
     <string name="subtitle_info_4">支持VTT和SRT格式</string>
-    <string name="subtitle_info_5">SRT格式在加载时会经历转换过程，因此加载时间可能会更长</string>
+    <string name="subtitle_info_5">VTT格式的加载速度更快</string>
     <string name="subtitle_info_6">建议使用VTT格式</string>
     <string name="subtitle_info_7">如果编码不是UTF-8，则字符可能无法正常显示</string>
     <string name="android_shot">Android屏幕截图</string>
@@ -721,4 +718,19 @@
     <string name="block_back">仅在后台阻止</string>
     <string name="only_https">与HTTPS连接</string>
     <string name="only_https_info">默认情况下，它与HTTPS连接\n不支持HTTPS的站点可能无法连接</string>
+    <string name="page_home_info">当您点击主页图标时</string>
+    <string name="page_start_info">启动应用程序时</string>
+    <string name="page_tab_info">建立新分页时</string>
+    <string name="filter_about">关于过滤器</string>
+    <string name="filter_base_1">内置过滤器在韩国很有用</string>
+    <string name="filter_base_2">但是，在韩国以外的其他国家相对不足</string>
+    <string name="filter_base_3">这是因为我很难检查世界各地的所有站点\n我非常抱歉</string>
+    <string name="filter_user_1">如果内置过滤器不够用，您可以添加自定义过滤器</string>
+    <string name="filter_user_2">您可以使用以EasyList格式编写的过滤器</string>
+    <string name="filter_user_3">EasyList过滤器有几种类型 (按国家，按功能)</string>
+    <string name="filter_user_4">您可以选择并使用适合您的过滤器</string>
+    <string name="filter_user_5">如果过滤器有问题，则该页面可能无法正常显示</string>
+    <string name="add_easylist">基本的EasyList过滤器</string>
+    <string name="size_fit">屏幕适合</string>
+    <string name="size_real">真实大小</string>
 </resources>
