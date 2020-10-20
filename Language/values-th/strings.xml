@@ -682,6 +682,8 @@
     <string name="theme_dark">ธีมสีเข้ม</string>
     <string name="theme_system">ธีมระบบ</string>
     <string name="background">พื้นหลัง</string>
+    <string name="ads_power">โหมดพลังงาน</string>
+    <string name="ads_power_info">อาจไม่มีการแสดงเนื้อหาบางส่วน</string>
     <string name="search_suggest">คำแนะนำการค้นหา</string>
     <string name="at_bottom">ที่ส่วนลึกสุด</string>
     <string name="guide_menu">กดไอคอนค้างไว้เพื่อแก้ไขเมนู</string>

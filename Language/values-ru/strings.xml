@@ -682,6 +682,8 @@
     <string name="theme_dark">Темная тема</string>
     <string name="theme_system">Системная тема</string>
     <string name="background">Задний план</string>
+    <string name="ads_power">Режим мощности</string>
+    <string name="ads_power_info">Некоторый контент может не отображаться.</string>
     <string name="search_suggest">Предложения поиска</string>
     <string name="at_bottom">Внизу</string>
     <string name="guide_menu">Нажмите и удерживайте значок, чтобы редактировать меню.</string>

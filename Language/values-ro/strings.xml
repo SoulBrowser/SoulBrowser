@@ -682,6 +682,8 @@
     <string name="theme_dark">Tema întunecată</string>
     <string name="theme_system">Tema sistemului</string>
     <string name="background">Fundal</string>
+    <string name="ads_power">Mod de alimentare</string>
+    <string name="ads_power_info">Este posibil ca un anumit conținut să nu fie afișat.</string>
     <string name="search_suggest">Sugestii de căutare</string>
     <string name="at_bottom">În partea de jos</string>
     <string name="guide_menu">Apăsați lung pictograma pentru a edita meniul.</string>

@@ -682,6 +682,8 @@
     <string name="theme_dark">Tema scuro</string>
     <string name="theme_system">Tema sistema</string>
     <string name="background">Sfondo</string>
+    <string name="ads_power">Modalità di alimentazione</string>
+    <string name="ads_power_info">Alcuni contenuti potrebbero non essere visualizzati.</string>
     <string name="search_suggest">Suggerimenti di ricerca</string>
     <string name="at_bottom">In fondo</string>
     <string name="guide_menu">Premere a lungo l\'icona per modificare il menu.</string>

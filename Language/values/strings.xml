@@ -682,6 +682,8 @@
     <string name="theme_dark">Dark theme</string>
     <string name="theme_system">System theme</string>
     <string name="background">Background</string>
+    <string name="ads_power">Power mode</string>
+    <string name="ads_power_info">Some content may not be displayed.</string>
     <string name="search_suggest">Search suggestions</string>
     <string name="at_bottom">At the bottom</string>
     <string name="guide_menu">Long press the icon to edit the menu.</string>

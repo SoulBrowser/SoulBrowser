@@ -682,6 +682,8 @@
     <string name="theme_dark">黑暗主題</string>
     <string name="theme_system">系統主題</string>
     <string name="background">背景</string>
+    <string name="ads_power">電源模式</string>
+    <string name="ads_power_info">某些內容可能不會顯示</string>
     <string name="search_suggest">搜索建議</string>
     <string name="at_bottom">在底部</string>
     <string name="guide_menu">長按圖標可編輯菜單</string>

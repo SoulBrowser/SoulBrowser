@@ -682,6 +682,8 @@
     <string name="theme_dark">Koyu tema</string>
     <string name="theme_system">Sistem tema</string>
     <string name="background">Arka fon</string>
+    <string name="ads_power">Güç modu</string>
+    <string name="ads_power_info">Bazı içerikler görüntülenemeyebilir.</string>
     <string name="search_suggest">Arama önerileri</string>
     <string name="at_bottom">Altta</string>
     <string name="guide_menu">Menüyü düzenlemek için simgeye uzun basın.</string>

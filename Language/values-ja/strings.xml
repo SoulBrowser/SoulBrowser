@@ -682,6 +682,8 @@
     <string name="theme_dark">暗いテーマ</string>
     <string name="theme_system">システムのテーマ</string>
     <string name="background">背景</string>
+    <string name="ads_power">パワーモード</string>
+    <string name="ads_power_info">一部のコンテンツが表示されないことがあります。</string>
     <string name="search_suggest">検索候補</string>
     <string name="at_bottom">下部に</string>
     <string name="guide_menu">アイコンを長押しするとメニューを編集することができます。</string>

@@ -682,6 +682,8 @@
     <string name="theme_dark">Темна тема</string>
     <string name="theme_system">Тема системи</string>
     <string name="background">Фон</string>
+    <string name="ads_power">Режим потужного блокування</string>
+    <string name="ads_power_info">Деякий вміст може не відображатися.</string>
     <string name="search_suggest">Пошукові підказки</string>
     <string name="at_bottom">Внизу</string>
     <string name="guide_menu">Тривале натискання значка для редагування меню.</string>

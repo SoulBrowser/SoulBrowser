@@ -682,6 +682,8 @@
     <string name="theme_dark">Tema gelap</string>
     <string name="theme_system">Tema sistem</string>
     <string name="background">Latar Belakang</string>
+    <string name="ads_power">Mode daya</string>
+    <string name="ads_power_info">Beberapa konten mungkin tidak ditampilkan.</string>
     <string name="search_suggest">Saran pencarian</string>
     <string name="at_bottom">Di dasar</string>
     <string name="guide_menu">Tekan lama ikon untuk mengedit menu.</string>

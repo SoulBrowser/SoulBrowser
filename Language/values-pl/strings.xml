@@ -682,6 +682,8 @@
     <string name="theme_dark">Ciemny motyw</string>
     <string name="theme_system">Systemu motyw</string>
     <string name="background">Tło</string>
+    <string name="ads_power">Tryb zasilania</string>
+    <string name="ads_power_info">Niektóre treści mogą nie być wyświetlane.</string>
     <string name="search_suggest">Sugestie wyszukiwania</string>
     <string name="at_bottom">Na dnie</string>
     <string name="guide_menu">Długo naciśnij ikonę, aby edytować menu.</string>

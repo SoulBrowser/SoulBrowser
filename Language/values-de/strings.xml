@@ -682,6 +682,8 @@
     <string name="theme_dark">Dunkles Thema</string>
     <string name="theme_system">Systemthema</string>
     <string name="background">Hintergrund</string>
+    <string name="ads_power">Power-Modus</string>
+    <string name="ads_power_info">Einige Inhalte werden möglicherweise nicht angezeigt.</string>
     <string name="search_suggest">Suchvorschläge</string>
     <string name="at_bottom">Unten</string>
     <string name="guide_menu">Drücken Sie lange auf das Symbol, um das Menü zu bearbeiten.</string>

@@ -682,6 +682,8 @@
     <string name="theme_dark">Chủ đề tối</string>
     <string name="theme_system">Chủ đề hệ thống</string>
     <string name="background">Lý lịch</string>
+    <string name="ads_power">Chế độ năng lượng</string>
+    <string name="ads_power_info">Một số nội dung có thể không được hiển thị.</string>
     <string name="search_suggest">Đề xuất tìm kiếm</string>
     <string name="at_bottom">Ở dưới cùng</string>
     <string name="guide_menu">Nhấn và giữ biểu tượng để chỉnh sửa menu.</string>
