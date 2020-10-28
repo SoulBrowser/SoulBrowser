@@ -304,7 +304,8 @@
     <string name="permission_denied">Permission denied</string>
     <string name="no_permission">No permission</string>
     <string name="ads_block">Ad blocker</string>
-    <string name="ads_block_info">Tracking blocking included.</string>
+    <string name="ads_block_info_1">Tracking blocking included.</string>
+    <string name="ads_block_info_2">At least one filter must be active to block ads.</string>
     <string name="filtered_image">Filtered image (%d)</string>
     <string name="update">Update</string>
     <string name="update_fail">Update failed.</string>
@@ -388,6 +389,8 @@
     <string name="text_preview">Adjust this text to make it look comfortable.</string>
     <string name="qrcode_title">QR code</string>
     <string name="show_qrcode">Show QR code button</string>
+    <string name="voice_title">Voice search</string>
+    <string name="show_voice">Show voice search button</string>
     <string name="show_reader">Show reader mode button</string>
     <string name="album_shortcut">Create album shortcut</string>
     <string name="album_short_info">Create an album shortcut button on the home screen.</string>
@@ -585,7 +588,7 @@
     <string name="accept_cookie">Cookies accepted (Recommended)</string>
     <string name="accept_cookie_info_1">Allows the site to store or read cookies.</string>
     <string name="accept_cookie_info_2">Some sites may not function properly if you do not accept cookies.</string>
-    <string name="block_third">Block third party cookies</string>
+    <string name="third_cookie">Third party cookies</string>
     <string name="java_script">Using JavaScript (Recommended)</string>
     <string name="java_script_info">Some browser features will not work if JavaScript is disabled.</string>
     <string name="enable_js">Enable JavaScript</string>
@@ -717,6 +720,7 @@
     <string name="android_shot">Android Screenshot</string>
     <string name="always_allow">Always allowed</string>
     <string name="always_block">Always blocked</string>
+    <string name="block_in_secret">Block only in incognito mode</string>
     <string name="block_back">Block only in the background</string>
     <string name="only_https">Connect with HTTPS</string>
     <string name="only_https_info">By default it connects with HTTPS.\nSites that do not support HTTPS may not be able to connect.</string>
@@ -724,9 +728,6 @@
     <string name="page_start_info">When starting the app</string>
     <string name="page_tab_info">When creating a new tab</string>
     <string name="filter_about">About the filter</string>
-    <string name="filter_base_1">The built-in filter is useful in Korea.</string>
-    <string name="filter_base_2">However, it is relatively insufficient in countries other than Korea.</string>
-    <string name="filter_base_3">It is because it is difficult for me to check all the sites around the world.\nI am very sorry.</string>
     <string name="filter_user_1">If the built-in filters aren\'t enough, you can add custom filters.</string>
     <string name="filter_user_2">You can use filters written in EasyList format.</string>
     <string name="filter_user_3">There are several types of EasyList filters. (By country, by function)</string>

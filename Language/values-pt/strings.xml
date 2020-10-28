@@ -304,7 +304,8 @@
     <string name="permission_denied">Permissão negada</string>
     <string name="no_permission">Sem permissão</string>
     <string name="ads_block">Bloquear Ad</string>
-    <string name="ads_block_info">Bloqueio de rastreamento incluído.</string>
+    <string name="ads_block_info_1">Bloqueio de rastreamento incluído.</string>
+    <string name="ads_block_info_2">Pelo menos um filtro deve estar ativo para bloquear anúncios.</string>
     <string name="filtered_image">Imagem filtrada (%d)</string>
     <string name="update">Atualizar</string>
     <string name="update_fail">Atualização falhou.</string>
@@ -388,6 +389,8 @@
     <string name="text_preview">Ajuste este texto para torná lo confortável.</string>
     <string name="qrcode_title">Código QR</string>
     <string name="show_qrcode">Mostrar botão código QR</string>
+    <string name="voice_title">Pesquisa por voz</string>
+    <string name="show_voice">Mostrar botão de pesquisa por voz</string>
     <string name="show_reader">Mostrar botão modo leitor</string>
     <string name="album_shortcut">Criar atalho do álbum</string>
     <string name="album_short_info">Crie um botão de atalho do álbum na tela inicial.</string>
@@ -585,7 +588,7 @@
     <string name="accept_cookie">Cookies aceitos (Recomendado)</string>
     <string name="accept_cookie_info_1">Permite que o site armazene ou leia cookies.</string>
     <string name="accept_cookie_info_2">Alguns sites podem não funcionar corretamente se você não aceitar cookies.</string>
-    <string name="block_third">Bloquear cookies de terceiros</string>
+    <string name="third_cookie">Cookies de terceiros</string>
     <string name="java_script">Usando JavaScript (Recomendado)</string>
     <string name="java_script_info">Alguns recursos do navegador não funcionarão se o JavaScript estiver desativado.</string>
     <string name="enable_js">Habilitar JavaScript</string>
@@ -717,6 +720,7 @@
     <string name="android_shot">Captura de tela do Android</string>
     <string name="always_allow">Sempre permitido</string>
     <string name="always_block">Sempre bloqueado</string>
+    <string name="block_in_secret">Bloquear apenas no modo de navegação anônima</string>
     <string name="block_back">Bloquear apenas em segundo plano</string>
     <string name="only_https">Conecte-se com HTTPS</string>
     <string name="only_https_info">Por padrão, ele se conecta com HTTPS.\nOs sites que não oferecem suporte a HTTPS podem não conseguir se conectar.</string>
@@ -724,9 +728,6 @@
     <string name="page_start_info">Ao iniciar o aplicativo</string>
     <string name="page_tab_info">Ao criar uma nova guia</string>
     <string name="filter_about">Sobre o filtro</string>
-    <string name="filter_base_1">O filtro integrado é útil na Coréia.</string>
-    <string name="filter_base_2">No entanto, é relativamente insuficiente em outros países além da Coréia.</string>
-    <string name="filter_base_3">É porque é difícil para mim verificar todos os sites ao redor do mundo.\nEu sinto muito.</string>
     <string name="filter_user_1">Se os filtros integrados não forem suficientes, você pode adicionar filtros personalizados.</string>
     <string name="filter_user_2">Você pode usar filtros escritos no formato EasyList.</string>
     <string name="filter_user_3">Existem vários tipos de filtros EasyList. (Por país, por função)</string>

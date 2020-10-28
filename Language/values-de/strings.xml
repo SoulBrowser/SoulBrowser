@@ -304,7 +304,8 @@
     <string name="permission_denied">Erlaubnis verweigert</string>
     <string name="no_permission">Keine Erlaubnis</string>
     <string name="ads_block">Ads blockieren</string>
-    <string name="ads_block_info">Tracking-Blockierung enthalten.</string>
+    <string name="ads_block_info_1">Tracking-Blockierung enthalten.</string>
+    <string name="ads_block_info_2">Zum Blockieren von Anzeigen muss mindestens ein Filter aktiv sein.</string>
     <string name="filtered_image">Gefiltertes Bild (%d)</string>
     <string name="update">Aktualisieren</string>
     <string name="update_fail">Aktualisierung fehlgeschlagen.</string>
@@ -388,6 +389,8 @@
     <string name="text_preview">Passen Sie diesen Text an, um ihn lesbarer zu machen.</string>
     <string name="qrcode_title">QR-Code</string>
     <string name="show_qrcode">Schaltfläche QR-Code anzeigen</string>
+    <string name="voice_title">Sprachsuche</string>
+    <string name="show_voice">Sprachsuchschaltfläche anzeigen</string>
     <string name="show_reader">Schaltfläche Lesemodus anzeigen</string>
     <string name="album_shortcut">Albumverknüpfung erstellen</string>
     <string name="album_short_info">Albumverknüpfung-Schaltfläche auf dem Startbildschirm erstellen.</string>
@@ -585,7 +588,7 @@
     <string name="accept_cookie">Cookies akzeptieren (Empfohlen)</string>
     <string name="accept_cookie_info_1">Ermöglicht der Seite das Speichern oder Lesen von Cookies.</string>
     <string name="accept_cookie_info_2">Einige Webseiten funktionieren möglicherweise nicht ordnungsgemäß, wenn Sie keine Cookies akzeptieren.</string>
-    <string name="block_third">Cookies von Drittanbietern blockieren</string>
+    <string name="third_cookie">Cookies von Drittanbietern</string>
     <string name="java_script">Verwenden von JavaScript (Empfohlen)</string>
     <string name="java_script_info">Einige Browserfunktionen funktionieren nicht, wenn JavaScript deaktiviert ist.</string>
     <string name="enable_js">JavaScript aktivieren</string>
@@ -717,6 +720,7 @@
     <string name="android_shot">Android Screenshot</string>
     <string name="always_allow">Immer erlaubt</string>
     <string name="always_block">Immer blockiert</string>
+    <string name="block_in_secret">Nur im Inkognito-Modus blockieren</string>
     <string name="block_back">Nur im Hintergrund blockieren</string>
     <string name="only_https">Verbinden Sie sich mit HTTPS</string>
     <string name="only_https_info">Standardmäßig wird eine Verbindung mit HTTPS hergestellt.\nSites, die HTTPS nicht unterstützen, können möglicherweise keine Verbindung herstellen.</string>
@@ -724,9 +728,6 @@
     <string name="page_start_info">Beim Starten der App</string>
     <string name="page_tab_info">Beim Erstellen einer neuen Registerkarte</string>
     <string name="filter_about">Über den Filter</string>
-    <string name="filter_base_1">Der eingebaute Filter ist in Korea nützlich.</string>
-    <string name="filter_base_2">In anderen Ländern als Korea ist dies jedoch relativ unzureichend.</string>
-    <string name="filter_base_3">Das liegt daran, dass es für mich schwierig ist, alle Websites auf der ganzen Welt zu überprüfen.\nEs tut mir sehr leid.</string>
     <string name="filter_user_1">Wenn die integrierten Filter nicht ausreichen, können Sie benutzerdefinierte Filter hinzufügen.</string>
     <string name="filter_user_2">Sie können Filter verwenden, die im EasyList-Format geschrieben sind.</string>
     <string name="filter_user_3">Es gibt verschiedene Arten von EasyList-Filtern. (Nach Land, nach Funktion)</string>

@@ -304,7 +304,8 @@
     <string name="permission_denied">ปฏิเสธการอนุญาต</string>
     <string name="no_permission">ไม่ได้รับอนุญาต</string>
     <string name="ads_block">บล็อกโฆษณา</string>
-    <string name="ads_block_info">มีการบล็อคการติดตาม</string>
+    <string name="ads_block_info_1">มีการบล็อคการติดตาม</string>
+    <string name="ads_block_info_2">ต้องใช้ตัวกรองอย่างน้อยหนึ่งรายการเพื่อบล็อกโฆษณา</string>
     <string name="filtered_image">รูปภาพที่กรอง (%d)</string>
     <string name="update">อัพเดต</string>
     <string name="update_fail">การอัปเดตล้มเหลว</string>
@@ -388,6 +389,8 @@
     <string name="text_preview">ปรับข้อความนี้เพื่อให้ดูสบายตา</string>
     <string name="qrcode_title">รหัส QR</string>
     <string name="show_qrcode">แสดงปุ่มรหัส QR</string>
+    <string name="voice_title">ค้นหาด้วยเสียง</string>
+    <string name="show_voice">แสดงปุ่มค้นหาด้วยเสียง</string>
     <string name="show_reader">ปุ่มแสดงโหมดผู้อ่าน</string>
     <string name="album_shortcut">สร้างทางลัดอัลบั้ม</string>
     <string name="album_short_info">สร้างปุ่มทางลัดอัลบั้มบนหน้าจอหลัก</string>
@@ -585,7 +588,7 @@
     <string name="accept_cookie">ยอมรับคุกกี้ (แนะนำ)</string>
     <string name="accept_cookie_info_1">อนุญาตให้ไซต์จัดเก็บหรืออ่านคุกกี้</string>
     <string name="accept_cookie_info_2">บางเว็บไซต์อาจทำงานไม่ถูกต้องหากคุณไม่ยอมรับคุกกี้</string>
-    <string name="block_third">บล็อกคุกกี้ของบุคคลที่สาม</string>
+    <string name="third_cookie">คุกกี้ของบุคคลที่สาม</string>
     <string name="java_script">ใช้จาวาสคริปต์ (แนะนำ)</string>
     <string name="java_script_info">คุณสมบัติเบราว์เซอร์บางอย่างจะไม่ทำงานหากปิดการใช้งาน JavaScript</string>
     <string name="enable_js">เปิดใช้งาน JavaScript</string>
@@ -717,6 +720,7 @@
     <string name="android_shot">ภาพหน้าจอ Android</string>
     <string name="always_allow">อนุญาตเสมอ</string>
     <string name="always_block">ถูกบล็อกเสมอ</string>
+    <string name="block_in_secret">บล็อกเฉพาะในโหมดไม่ระบุตัวตน</string>
     <string name="block_back">บล็อกเฉพาะในพื้นหลัง</string>
     <string name="only_https">เชื่อมต่อกับ HTTPS</string>
     <string name="only_https_info">โดยค่าเริ่มต้นจะเชื่อมต่อกับ HTTPS\nไซต์ที่ไม่รองรับ HTTPS อาจไม่สามารถเชื่อมต่อได้</string>
@@ -724,9 +728,6 @@
     <string name="page_start_info">เมื่อเริ่มต้นแอป</string>
     <string name="page_tab_info">เมื่อสร้างแท็บใหม่</string>
     <string name="filter_about">เกี่ยวกับตัวกรอง</string>
-    <string name="filter_base_1">ฟิลเตอร์ในตัวมีประโยชน์ในเกาหลี</string>
-    <string name="filter_base_2">อย่างไรก็ตามในประเทศอื่นนอกเหนือจากเกาหลียังมีไม่เพียงพอ</string>
-    <string name="filter_base_3">เป็นเพราะฉันตรวจสอบไซต์ทั้งหมดทั่วโลกได้ยาก\nฉันเสียใจมาก.</string>
     <string name="filter_user_1">หากตัวกรองในตัวไม่เพียงพอคุณสามารถเพิ่มตัวกรองที่กำหนดเองได้</string>
     <string name="filter_user_2">คุณสามารถใช้ตัวกรองที่เขียนในรูปแบบ EasyList</string>
     <string name="filter_user_3">ตัวกรอง EasyList มีหลายประเภท (ตามประเทศตามฟังก์ชัน)</string>

@@ -304,7 +304,8 @@
     <string name="permission_denied">У дозволі відмовлено</string>
     <string name="no_permission">Немає дозволу</string>
     <string name="ads_block">Блокатор реклами</string>
-    <string name="ads_block_info">Увімкнути блокування реклами.</string>
+    <string name="ads_block_info_1">Увімкнути блокування реклами.</string>
+    <string name="ads_block_info_2">Принаймні один фільтр повинен бути активним, щоб блокувати рекламу.</string>
     <string name="filtered_image">Відфільтроване зображення (%d)</string>
     <string name="update">Оновлення</string>
     <string name="update_fail">Помилка оновлення.</string>
@@ -388,6 +389,8 @@
     <string name="text_preview">Відрегулюйте цей текст, щоб він виглядав зручно.</string>
     <string name="qrcode_title">QR-код</string>
     <string name="show_qrcode">Показати кнопку QR-коду</string>
+    <string name="voice_title">Голосовий пошук</string>
+    <string name="show_voice">Показати кнопку голосового пошуку</string>
     <string name="show_reader">Показати кнопку режиму читання</string>
     <string name="album_shortcut">Створення ярлика альбому</string>
     <string name="album_short_info">Створіть ярлик альбому на головному екрані.</string>
@@ -585,7 +588,7 @@
     <string name="accept_cookie">Приймати файли cookie (Рекомендується)</string>
     <string name="accept_cookie_info_1">Дозволяє сайту зберігати чи читати файли cookie.</string>
     <string name="accept_cookie_info_2">Деякі сайти можуть не працювати належним чином, якщо Ви не приймаєте файли cookie.</string>
-    <string name="block_third">Блокувати сторонні файли cookie</string>
+    <string name="third_cookie">Сторонні файли cookie</string>
     <string name="java_script">Використовувати JavaScript (Рекомендується)</string>
     <string name="java_script_info">Деякі функції браузера не працюватимуть, якщо JavaScript вимкнено.</string>
     <string name="enable_js">Увімкнути JavaScript</string>
@@ -717,6 +720,7 @@
     <string name="android_shot">Знімок екрана Android</string>
     <string name="always_allow">Завжди дозволяється</string>
     <string name="always_block">Завжди заблокований</string>
+    <string name="block_in_secret">Блокувати лише в режимі анонімного перегляду</string>
     <string name="block_back">Блокувати лише у фоновому режимі</string>
     <string name="only_https">Підключіться до HTTPS</string>
     <string name="only_https_info">За замовчуванням він підключається до HTTPS.\nСайти, які не підтримують HTTPS, можливо, не зможуть підключитися.</string>
@@ -724,9 +728,6 @@
     <string name="page_start_info">Під час запуску програми</string>
     <string name="page_tab_info">При створенні нової вкладки</string>
     <string name="filter_about">Про фільтр</string>
-    <string name="filter_base_1">Вбудований фільтр корисний у Кореї.</string>
-    <string name="filter_base_2">Однак його відносно недостатньо в інших країнах, крім Кореї.</string>
-    <string name="filter_base_3">Це тому, що мені важко перевірити всі сайти по всьому світу.\nМені дуже шкода.</string>
     <string name="filter_user_1">Якщо вбудованих фільтрів недостатньо, ви можете додати власні фільтри.</string>
     <string name="filter_user_2">Ви можете використовувати фільтри, написані у форматі EasyList.</string>
     <string name="filter_user_3">Існує кілька типів фільтрів EasyList. (За країною, за функцією)</string>

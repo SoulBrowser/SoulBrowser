@@ -304,7 +304,8 @@
     <string name="permission_denied">沒有權限</string>
     <string name="no_permission">沒有權限</string>
     <string name="ads_block">廣告攔截</string>
-    <string name="ads_block_info">包括跟踪阻止</string>
+    <string name="ads_block_info_1">包括跟踪阻止</string>
+    <string name="ads_block_info_2">必須至少啟用一個過濾器才能屏蔽廣告</string>
     <string name="filtered_image">過濾的圖片 (%d)</string>
     <string name="update">更新</string>
     <string name="update_fail">更新失敗</string>
@@ -388,6 +389,8 @@
     <string name="text_preview">調整此文本以使其看起來舒適</string>
     <string name="qrcode_title">二維碼</string>
     <string name="show_qrcode">二維碼按鈕顯示</string>
+    <string name="voice_title">聲音搜索</string>
+    <string name="show_voice">顯示語音搜索按鈕</string>
     <string name="show_reader">閱讀器模式按鈕顯示</string>
     <string name="album_shortcut">創建相簿快捷方式</string>
     <string name="album_short_info">在主螢幕上創建相簿快捷方式按鈕</string>
@@ -585,7 +588,7 @@
     <string name="accept_cookie">接受Cookie（推薦）</string>
     <string name="accept_cookie_info_1">允許網站存儲或讀取Cookie。</string>
     <string name="accept_cookie_info_2">如果您不接受Cookie，則某些網站可能無法正常運行。</string>
-    <string name="block_third">阻止第三方Cookie</string>
+    <string name="third_cookie">第三方Cookie</string>
     <string name="java_script">使用JavaScript (推薦)</string>
     <string name="java_script_info">如果禁用JavaScript，則某些瀏覽器功能將無法使用</string>
     <string name="enable_js">啟用JavaScript</string>
@@ -717,6 +720,7 @@
     <string name="android_shot">Android屏幕截圖</string>
     <string name="always_allow">一律允許</string>
     <string name="always_block">一律封鎖</string>
+    <string name="block_in_secret">僅在隱身模式下屏蔽</string>
     <string name="block_back">僅在後台阻止</string>
     <string name="only_https">與HTTPS連接</string>
     <string name="only_https_info">默認情況下，它與HTTPS連接\n不支持HTTPS的站點可能無法連接</string>
@@ -724,9 +728,6 @@
     <string name="page_start_info">啟動應用程序時</string>
     <string name="page_tab_info">建立新分頁時</string>
     <string name="filter_about">關於過濾器</string>
-    <string name="filter_base_1">內置過濾器在韓國很有用</string>
-    <string name="filter_base_2">但是，在韓國以外的其他國家相對不足</string>
-    <string name="filter_base_3">因為我很難檢查世界各地的所有站點\n我非常抱歉</string>
     <string name="filter_user_1">如果內置過濾器不夠用，您可以添加自定義過濾器</string>
     <string name="filter_user_2">您可以使用以EasyList格式編寫的過濾器</string>
     <string name="filter_user_3">EasyList過濾器有幾種類型 (按國家，按功能)</string>

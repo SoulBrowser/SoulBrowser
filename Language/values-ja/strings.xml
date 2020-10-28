@@ -304,7 +304,8 @@
     <string name="permission_denied">アクセス拒否</string>
     <string name="no_permission">権限なし</string>
     <string name="ads_block">広告ブロック</string>
-    <string name="ads_block_info">追跡ブロック機能が含まれています。</string>
+    <string name="ads_block_info_1">追跡ブロック機能が含まれています。</string>
+    <string name="ads_block_info_2">広告をブロックするには、複数のフィルタが有効になっている必要があります。</string>
     <string name="filtered_image">フィルタリングされた画像 (%d)</string>
     <string name="update">アップデート</string>
     <string name="update_fail">更新に失敗しました。</string>
@@ -388,6 +389,8 @@
     <string name="text_preview">このテキストは楽に見えるように調整してください。</string>
     <string name="qrcode_title">QRコード</string>
     <string name="show_qrcode">QRコードボタンを表示</string>
+    <string name="voice_title">音声検索</string>
+    <string name="show_voice">音声検索ボタンを表示</string>
     <string name="show_reader">リーダーモードボタンを表示</string>
     <string name="album_shortcut">アルバムのショートカットを作成</string>
     <string name="album_short_info">ホーム画面にアルバムショートカットボタンを作成します。</string>
@@ -585,7 +588,7 @@
     <string name="accept_cookie">クッキー許可する（推奨）</string>
     <string name="accept_cookie_info_1">サイトからのクッキーを保存したり、読み取ることができます。</string>
     <string name="accept_cookie_info_2">クッキーを許可しない場合、一部のサイトが正常に動作しない場合があります。</string>
-    <string name="block_third">サードパーティのCookieをブロック</string>
+    <string name="third_cookie">サードパーティのCookie</string>
     <string name="java_script">JavaScriptを使用して (推奨)</string>
     <string name="java_script_info">JavaScriptが無効になっている場合、一部のブラウザの機能が動作しません。</string>
     <string name="enable_js">JavaScript有効に</string>
@@ -717,6 +720,7 @@
     <string name="android_shot">Androidスクリーンショット</string>
     <string name="always_allow">常に許可</string>
     <string name="always_block">常にブロック</string>
+    <string name="block_in_secret">シークレットモードでのみブロック</string>
     <string name="block_back">バックグラウンドで遮断</string>
     <string name="only_https">HTTPSに接続</string>
     <string name="only_https_info">基本的にHTTPSに接続します。\nHTTPSをサポートしていないサイトは、リンクにならないことがあります。</string>
@@ -724,9 +728,6 @@
     <string name="page_start_info">アプリを起動したとき</string>
     <string name="page_tab_info">新しいタブを作成するときに</string>
     <string name="filter_about">フィルタについて</string>
-    <string name="filter_base_1">内蔵フィルタが韓国では便利です。</string>
-    <string name="filter_base_2">しかし、韓国以外の国では、相対的に不足します。</string>
-    <string name="filter_base_3">私世界中のすべてのサイトを確認することが難しくそうです。\n非常に申し訳ありません。</string>
     <string name="filter_user_1">内蔵フィルタが十分でない場合は、ユーザーのフィルタを追加することができます。</string>
     <string name="filter_user_2">EasyList形式で作成されたフィルタを使用することができます。</string>
     <string name="filter_user_3">EasyListフィルタは、複数の種類があります。（国別、機能別）</string>

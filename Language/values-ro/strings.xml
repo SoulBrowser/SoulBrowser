@@ -304,7 +304,8 @@
     <string name="permission_denied">Permisul refuzat</string>
     <string name="no_permission">Fără permisiune</string>
     <string name="ads_block">Blocator de anunțuri</string>
-    <string name="ads_block_info">Blocarea de urmărire inclusă.</string>
+    <string name="ads_block_info_1">Blocarea de urmărire inclusă.</string>
+    <string name="ads_block_info_2">Cel puțin un filtru trebuie să fie activ pentru a bloca anunțurile.</string>
     <string name="filtered_image">Imaginea filtrată (%d)</string>
     <string name="update">Actualizați</string>
     <string name="update_fail">Actualizare eșuată.</string>
@@ -388,6 +389,8 @@
     <string name="text_preview">Ajustați acest text pentru a face să arate confortabil.</string>
     <string name="qrcode_title">Cod QR</string>
     <string name="show_qrcode">Afișare buton cod QR</string>
+    <string name="voice_title">Căutare vocală</string>
+    <string name="show_voice">Afișați butonul de căutare vocală</string>
     <string name="show_reader">Afișare buton modul cititor</string>
     <string name="album_shortcut">Creare scurtătură de album</string>
     <string name="album_short_info">Creați un buton pentru scurtăturile album pe ecranul de pornire.</string>
@@ -585,7 +588,7 @@
     <string name="accept_cookie">Cookie uri acceptate (Recomandate)</string>
     <string name="accept_cookie_info_1">Permite site ului să stocheze sau să citească cookie uri.</string>
     <string name="accept_cookie_info_2">Este posibil ca unele site uri să nu funcționeze corect dacă nu acceptați cookie uri.</string>
-    <string name="block_third">Blocați cookie urile terță parte</string>
+    <string name="third_cookie">Cookie-uri terță parte</string>
     <string name="java_script">Folosind JavaScript (Recomandate)</string>
     <string name="java_script_info">Unele funcții ale browserului nu vor funcționa dacă JavaScript este dezactivat.</string>
     <string name="enable_js">Permite JavaScript</string>
@@ -717,6 +720,7 @@
     <string name="android_shot">Captură de ecran Android</string>
     <string name="always_allow">Mereu permis</string>
     <string name="always_block">Întotdeauna blocat</string>
+    <string name="block_in_secret">Blocați numai în modul incognito</string>
     <string name="block_back">Blocați numai în fundal</string>
     <string name="only_https">Conectați-vă cu HTTPS</string>
     <string name="only_https_info">În mod implicit, se conectează cu HTTPS.\nEste posibil ca site-urile care nu acceptă HTTPS să nu se poată conecta.</string>
@@ -724,9 +728,6 @@
     <string name="page_start_info">La pornirea aplicației</string>
     <string name="page_tab_info">Când creați o filă nouă</string>
     <string name="filter_about">Despre filtru</string>
-    <string name="filter_base_1">Filtrul încorporat este util în Coreea.</string>
-    <string name="filter_base_2">Cu toate acestea, este relativ insuficient în alte țări decât Coreea.</string>
-    <string name="filter_base_3">Este pentru că îmi este greu să verific toate site-urile din întreaga lume.\nImi pare foarte rau.</string>
     <string name="filter_user_1">Dacă filtrele încorporate nu sunt suficiente, puteți adăuga filtre personalizate.</string>
     <string name="filter_user_2">Puteți utiliza filtre scrise în format EasyList.</string>
     <string name="filter_user_3">Există mai multe tipuri de filtre EasyList. (După țară, după funcție)</string>

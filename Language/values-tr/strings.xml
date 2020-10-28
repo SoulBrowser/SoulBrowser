@@ -304,7 +304,8 @@
     <string name="permission_denied">İzin reddedildi</string>
     <string name="no_permission">İzin yok</string>
     <string name="ads_block">Ad engelleyici</string>
-    <string name="ads_block_info">İzleme engelleme dahil.</string>
+    <string name="ads_block_info_1">İzleme engelleme dahil.</string>
+    <string name="ads_block_info_2">Reklamları engellemek için en az bir filtre etkin olmalıdır.</string>
     <string name="filtered_image">Filtre uygulanmış resim (%d)</string>
     <string name="update">Güncelleme</string>
     <string name="update_fail">Güncelleme başarısız oldu.</string>
@@ -388,6 +389,8 @@
     <string name="text_preview">Rahat görünmesi için bu metni ayarlayın.</string>
     <string name="qrcode_title">QR kod</string>
     <string name="show_qrcode">QR kod düğmesini göster</string>
+    <string name="voice_title">Sesli arama</string>
+    <string name="show_voice">Sesli arama düğmesini göster</string>
     <string name="show_reader">Okuyucu modu düğmesini göster</string>
     <string name="album_shortcut">Albüm kısayolu oluştur</string>
     <string name="album_short_info">Ana ekranda bir albüm kısayolu düğmesi oluşturun.</string>
@@ -585,7 +588,7 @@
     <string name="accept_cookie">Çerezler kabul edildi (Önerilir)</string>
     <string name="accept_cookie_info_1">Sitenin çerezleri depolamasına veya okumasına izin verir.</string>
     <string name="accept_cookie_info_2">Çerezleri kabul etmezseniz bazı siteler düzgün çalışmayabilir.</string>
-    <string name="block_third">Üçüncü taraf çerezlerini engelleme</string>
+    <string name="third_cookie">Üçüncü taraf çerezleri</string>
     <string name="java_script">JavaScript kullanma (Önerilir)</string>
     <string name="java_script_info">JavaScript devre dışı bırakılırsa bazı tarayıcı özellikleri çalışmaz.</string>
     <string name="enable_js">JavaScript etkinleştirin</string>
@@ -717,6 +720,7 @@
     <string name="android_shot">Android Ekran görüntüsü</string>
     <string name="always_allow">Her zaman izin verilir</string>
     <string name="always_block">Her zaman engellendi</string>
+    <string name="block_in_secret">Yalnızca gizli modda engelle</string>
     <string name="block_back">Yalnızca arka planda engelle</string>
     <string name="only_https">HTTPS ile bağlanın</string>
     <string name="only_https_info">Varsayılan olarak HTTPS ile bağlanır.\nHTTPS\'yi desteklemeyen siteler bağlanamayabilir.</string>
@@ -724,9 +728,6 @@
     <string name="page_start_info">Uygulamayı başlatırken</string>
     <string name="page_tab_info">Yeni bir sekme oluştururken</string>
     <string name="filter_about">Filtre hakkında</string>
-    <string name="filter_base_1">Yerleşik filtre Kore\'de kullanışlıdır.</string>
-    <string name="filter_base_2">Ancak Kore dışındaki ülkelerde görece yetersizdir.</string>
-    <string name="filter_base_3">Çünkü dünyadaki tüm siteleri kontrol etmek benim için zor.\nÇok üzgünüm.</string>
     <string name="filter_user_1">Yerleşik filtreler yeterli değilse, özel filtreler ekleyebilirsiniz.</string>
     <string name="filter_user_2">EasyList formatında yazılmış filtreleri kullanabilirsiniz.</string>
     <string name="filter_user_3">Birkaç tür EasyList filtresi vardır. (Ülkeye göre, işleve göre)</string>

@@ -304,7 +304,8 @@
     <string name="permission_denied">Izin ditolak</string>
     <string name="no_permission">Tidak ada izin</string>
     <string name="ads_block">Pemblokir Ad</string>
-    <string name="ads_block_info">Termasuk pemblokiran pelacakan.</string>
+    <string name="ads_block_info_1">Termasuk pemblokiran pelacakan.</string>
+    <string name="ads_block_info_2">Setidaknya satu filter harus aktif untuk memblokir iklan.</string>
     <string name="filtered_image">Gambar yang difilter (%d)</string>
     <string name="update">Memperbarui</string>
     <string name="update_fail">Pembaruan gagal.</string>
@@ -388,6 +389,8 @@
     <string name="text_preview">Sesuaikan teks ini agar terlihat nyaman.</string>
     <string name="qrcode_title">Kode QR</string>
     <string name="show_qrcode">Tampilan tombol kode QR</string>
+    <string name="voice_title">Pencarian suara</string>
+    <string name="show_voice">Tampilkan tombol pencarian suara</string>
     <string name="show_reader">Tampilan tombol mode pembaca</string>
     <string name="album_shortcut">Buat pintasan album</string>
     <string name="album_short_info">Buat tombol pintas album di layar beranda.</string>
@@ -585,7 +588,7 @@
     <string name="accept_cookie">Cookie diterima (Disarankan)</string>
     <string name="accept_cookie_info_1">Mengizinkan situs menyimpan atau membaca cookie.</string>
     <string name="accept_cookie_info_2">Beberapa situs mungkin tidak berfungsi dengan baik jika Anda tidak menerima cookie.</string>
-    <string name="block_third">Blokir cookie pihak ketiga</string>
+    <string name="third_cookie">Cookie pihak ketiga</string>
     <string name="java_script">Menggunakan JavaScript (Disarankan)</string>
     <string name="java_script_info">Beberapa fitur browser tidak akan berfungsi jika JavaScript dinonaktifkan.</string>
     <string name="enable_js">Aktifkan JavaScript</string>
@@ -717,6 +720,7 @@
     <string name="android_shot">Tangkapan layar Android</string>
     <string name="always_allow">selalu dibolehkan</string>
     <string name="always_block">Selalu diblokir</string>
+    <string name="block_in_secret">Blokir hanya dalam mode penyamaran</string>
     <string name="block_back">Blokir hanya di latar belakang</string>
     <string name="only_https">Terhubung dengan HTTPS</string>
     <string name="only_https_info">Secara default terhubung dengan HTTPS.\nSitus yang tidak mendukung HTTPS mungkin tidak dapat terhubung.</string>
@@ -724,9 +728,6 @@
     <string name="page_start_info">Saat memulai aplikasi</string>
     <string name="page_tab_info">Saat membuat tab baru</string>
     <string name="filter_about">Tentang filter</string>
-    <string name="filter_base_1">Filter built-in berguna di Korea.</string>
-    <string name="filter_base_2">Namun, ini relatif tidak mencukupi di negara selain Korea.</string>
-    <string name="filter_base_3">Itu karena sulit bagi saya untuk memeriksa semua situs di seluruh dunia.\nAku sangat menyesal.</string>
     <string name="filter_user_1">Jika filter bawaan tidak cukup, Anda dapat menambahkan filter khusus.</string>
     <string name="filter_user_2">Anda dapat menggunakan filter yang ditulis dalam format EasyList.</string>
     <string name="filter_user_3">Ada beberapa jenis filter EasyList. (Berdasarkan negara, berdasarkan fungsi)</string>
