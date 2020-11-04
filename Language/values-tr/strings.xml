@@ -305,7 +305,7 @@
     <string name="no_permission">İzin yok</string>
     <string name="ads_block">Ad engelleyici</string>
     <string name="ads_block_info">Reklamları engellemek için en az bir filtre etkin olmalıdır.</string>
-    <string name="do_not_trank">İzleme</string>
+    <string name="do_not_trank">Takip etmeyin</string>
     <string name="filtered_image">Filtre uygulanmış resim (%d)</string>
     <string name="update">Güncelleme</string>
     <string name="update_fail">Güncelleme başarısız oldu.</string>
@@ -707,6 +707,7 @@
     <string name="dev_greet_1">Tüm kullanıcıları memnun etmek istiyorum.\nAma çok zor.\nBu uygulamada uygulanan özellikler, birçok kullanıcı talebinin sadece bir kısmıdır.\nBirçok kullanıcı isteği hala beklemede.</string>
     <string name="dev_greet_2">Çünkü yeteneğim eksik.\nGelişim ilerledikçe yeteneklerimin sınırlarını hissediyorum.\nÇok üzgünüm.</string>
     <string name="dev_greet_3">Herkes tatmin olana kadar güncellemeler devam edecek.</string>
+    <string name="dev_greet_4">Not: Tüm e-postalara cevap veremiyorum.\nAma tüm e-postaları okudum.</string>
     <string name="prevent_pay">Yanlışlıkla yapılan ödemeleri önleyin</string>
     <string name="input_answer">Lütfen cevabı girin.</string>
     <string name="correct_answer">Doğru cevap %d\'dır.</string>
@@ -741,4 +742,6 @@
     <string name="add_easylist">Temel EasyList filtresi</string>
     <string name="size_fit">Ekran uyumu</string>
     <string name="size_real">Gerçek boyutu</string>
+    <string name="block_ssl">SSL hatası engelleme</string>
+    <string name="block_ssl_info">Bir SSL hatası oluştuğunda, sayfa otomatik olarak güvenli bir sayfaya gider.</string>
 </resources>

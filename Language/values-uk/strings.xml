@@ -707,6 +707,7 @@
     <string name="dev_greet_1">Я хочу задовольнити всіх користувачів.\nАле це дуже складно.\nФункції, реалізовані в цьому додатку, - це лише частка багатьох запитів користувачів.\nБагато запитів користувачів все ще очікують на розгляд.</string>
     <string name="dev_greet_2">Бо мені бракує своїх здібностей.\nУ міру розвитку я відчуваю межі своїх можливостей.\nМені дуже шкода.</string>
     <string name="dev_greet_3">Оновлення триватимуть, доки всі не будуть задоволені.</string>
+    <string name="dev_greet_4">PS: Я не можу відповісти на всі електронні листи.\nАле я прочитав усі електронні листи.</string>
     <string name="prevent_pay">Запобігання випадковим платежам</string>
     <string name="input_answer">Введіть відповідь.</string>
     <string name="correct_answer">Правильна відповідь %d.</string>
@@ -741,4 +742,6 @@
     <string name="add_easylist">Основний фільтр EasyList</string>
     <string name="size_fit">Екран підходить</string>
     <string name="size_real">Реальний розмір</string>
+    <string name="block_ssl">Блокування помилок SSL</string>
+    <string name="block_ssl_info">Коли виникає помилка SSL, сторінка автоматично переходить на безпечну сторінку.</string>
 </resources>

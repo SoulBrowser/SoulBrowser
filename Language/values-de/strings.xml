@@ -707,6 +707,7 @@
     <string name="dev_greet_1">Ich möchte alle Benutzer zufrieden stellen.\nAber es ist sehr schwierig.\nDie in dieser App implementierten Funktionen sind nur ein Bruchteil vieler Benutzeranforderungen.\nViele Benutzeranfragen stehen noch aus.</string>
     <string name="dev_greet_2">Weil mir meine Fähigkeit fehlt.\nMit fortschreitender Entwicklung spüre ich die Grenzen meiner Fähigkeiten.\nEs tut mir sehr leid.</string>
     <string name="dev_greet_3">Aktualisierungen werden fortgesetzt, bis alle zufrieden sind.</string>
+    <string name="dev_greet_4">PS: Ich kann nicht auf alle E-Mails antworten.\nAber ich habe alle E-Mails gelesen.</string>
     <string name="prevent_pay">Verhindern Sie versehentliche Zahlungen</string>
     <string name="input_answer">Bitte geben Sie die Antwort ein.</string>
     <string name="correct_answer">Die richtige Antwort ist %d.</string>
@@ -741,4 +742,6 @@
     <string name="add_easylist">Grundlegender EasyList Filter</string>
     <string name="size_fit">Bildschirm passen</string>
     <string name="size_real">Tatsächliche Größe</string>
+    <string name="block_ssl">Blockierung von SSL-Fehlern</string>
+    <string name="block_ssl_info">Wenn ein SSL-Fehler auftritt, wechselt die Seite automatisch zu einer sicheren Seite.</string>
 </resources>

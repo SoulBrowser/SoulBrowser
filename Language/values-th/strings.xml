@@ -707,6 +707,7 @@
     <string name="dev_greet_1">ฉันต้องการตอบสนองผู้ใช้ทุกคน\nแต่มันเป็นเรื่องยากมาก\nคุณสมบัติที่ใช้ในแอพนี้เป็นเพียงส่วนหนึ่งของคำขอของผู้ใช้จำนวนมาก\nคำขอของผู้ใช้จำนวนมากยังคงรอดำเนินการ</string>
     <string name="dev_greet_2">เพราะฉันขาดความสามารถ\nเมื่อการพัฒนาดำเนินไปฉันรู้สึกถึงขีดจำกัดความสามารถของตัวเอง\nฉันเสียใจมาก.</string>
     <string name="dev_greet_3">การอัปเดตจะดำเนินต่อไปจนกว่าทุกคนจะพอใจ</string>
+    <string name="dev_greet_4">PS: ฉันไม่สามารถตอบกลับอีเมลทั้งหมดได้\nแต่ฉันอ่านอีเมลทั้งหมด</string>
     <string name="prevent_pay">ป้องกันการจ่ายเงินโดยไม่ได้ตั้งใจ</string>
     <string name="input_answer">โปรดป้อนคำตอบ</string>
     <string name="correct_answer">คำตอบที่ถูกต้องคือ %d</string>
@@ -741,4 +742,6 @@
     <string name="add_easylist">ตัวกรอง EasyList พื้นฐาน</string>
     <string name="size_fit">พอดีกับหน้าจอ</string>
     <string name="size_real">ขนาดที่แท้จริง</string>
+    <string name="block_ssl">การบล็อกข้อผิดพลาด SSL</string>
+    <string name="block_ssl_info">เมื่อเกิดข้อผิดพลาด SSL เพจจะไปที่เซฟเพจโดยอัตโนมัติ</string>
 </resources>

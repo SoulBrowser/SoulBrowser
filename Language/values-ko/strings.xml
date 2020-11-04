@@ -707,6 +707,7 @@
     <string name="dev_greet_1">저는 모든 사용자를 만족시키고 싶습니다.\n그러나 그것은 매우 어렵습니다.\n이 앱에 구현된 기능은, 많은 사용자 요청의 일부에 불과합니다.\n많은 사용자 요청이 아직 보류 중입니다.</string>
     <string name="dev_greet_2">제 능력이 부족하기 때문입니다.\n개발이 진행됨에 따라 제 능력의 한계를 느낍니다.\n매우 죄송합니다.</string>
     <string name="dev_greet_3">모두가 만족할 때까지 업데이트는 계속됩니다.</string>
+    <string name="dev_greet_4">PS: 모든 이메일에 답장드리지는 못합니다.\n그러나 저는 모든 이메일을 읽어봅니다.</string>
     <string name="prevent_pay">실수로 인한 결제 방지</string>
     <string name="input_answer">답을 입력해 주세요.</string>
     <string name="correct_answer">정답은 %d입니다.</string>
@@ -741,4 +742,6 @@
     <string name="add_easylist">기본 EasyList 필터</string>
     <string name="size_fit">화면 맞춤</string>
     <string name="size_real">실제 크기</string>
+    <string name="block_ssl">SSL 오류 차단</string>
+    <string name="block_ssl_info">SSL 오류가 발생하면 자동으로 안전한 페이지로 이동합니다.</string>
 </resources>

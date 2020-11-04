@@ -707,6 +707,7 @@
     <string name="dev_greet_1">Tôi muốn làm hài lòng tất cả người dùng.\nNhưng nó rất khó.\nCác tính năng được triển khai trong ứng dụng này chỉ là một phần nhỏ trong số nhiều yêu cầu của người dùng.\nNhiều yêu cầu của người dùng vẫn đang chờ xử lý.</string>
     <string name="dev_greet_2">Vì tôi thiếu khả năng của mình.\nKhi quá trình phát triển tiến bộ, tôi cảm thấy giới hạn khả năng của mình.\nTôi rất xin lỗi.</string>
     <string name="dev_greet_3">Cập nhật sẽ tiếp tục cho đến khi mọi người hài lòng.</string>
+    <string name="dev_greet_4">Tái bút: Tôi không thể trả lời tất cả các email.\nNhưng tôi đã đọc tất cả các email.</string>
     <string name="prevent_pay">Ngăn chặn các khoản thanh toán ngẫu nhiên</string>
     <string name="input_answer">Vui lòng nhập câu trả lời.</string>
     <string name="correct_answer">Câu trả lời đúng là %d.</string>
@@ -741,4 +742,6 @@
     <string name="add_easylist">Bộ lọc EasyList cơ bản</string>
     <string name="size_fit">Màn hình phù hợp</string>
     <string name="size_real">Kích thước thực sự</string>
+    <string name="block_ssl">Chặn lỗi SSL</string>
+    <string name="block_ssl_info">Khi xảy ra lỗi SSL, trang sẽ tự động chuyển đến trang an toàn.</string>
 </resources>

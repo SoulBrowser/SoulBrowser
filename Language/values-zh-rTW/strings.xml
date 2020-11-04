@@ -707,6 +707,7 @@
     <string name="dev_greet_1">我想讓所有用戶滿意\n但這是非常困難的\n在此應用程序中實現的功能只是許多用戶請求的一小部分\n許多用戶請求仍待處理</string>
     <string name="dev_greet_2">因為我缺乏能力\n隨著發展的進步，我感到自己的能力有限\n我很抱歉</string>
     <string name="dev_greet_3">更新將持續到每個人都滿意為止</string>
+    <string name="dev_greet_4">PS: 我無法回复所有電子郵件\n但是我讀了所有電子郵件</string>
     <string name="prevent_pay">防止意外付款</string>
     <string name="input_answer">請輸入答案</string>
     <string name="correct_answer">正確答案是%d</string>
@@ -741,4 +742,6 @@
     <string name="add_easylist">基本的 EasyList 過濾器</string>
     <string name="size_fit">屏幕適合</string>
     <string name="size_real">真實大小</string>
+    <string name="block_ssl">SSL錯誤阻止</string>
+    <string name="block_ssl_info">發生SSL錯誤時，頁面將自動轉到安全頁面</string>
 </resources>
