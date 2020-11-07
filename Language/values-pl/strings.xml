@@ -101,6 +101,9 @@
     <string name="next_page">Następna strona</string>
     <string name="tab_gesture">Gest tabulacji</string>
     <string name="pop_block">Blokowanie wyskakujących okienek</string>
+    <string name="app_block">Blokuj wykonywanie aplikacji</string>
+    <string name="app_block_info">Zablokuj witrynie uruchamianie innych aplikacji.</string>
+    <string name="app_block_noti">Witryna próbuje uruchomić inną aplikację.</string>
     <string name="link">Połączyć</string>
     <string name="open_url">Otwórz</string>
     <string name="new_url">Nowa karta</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Filtr użytkownika</string>
     <string name="filter_search">Filtr wyszukiwania</string>
     <string name="filter_info">Używanie wielu filtrów jednocześnie może spowolnić działanie przeglądarki.</string>
-    <string name="backup_title">Utworzyć kopię zapasową</string>
+    <string name="backup_title">Backup danych</string>
     <string name="backup_import">Importuj</string>
     <string name="backup_export">Eksportuj</string>
     <string name="backup_target">Wybierz cel.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Blokuj tylko w tle</string>
     <string name="only_https">Połącz się przez HTTPS</string>
     <string name="only_https_info">Domyślnie łączy się z HTTPS.\nWitryny, które nie obsługują HTTPS, mogą nie być w stanie się połączyć.</string>
+    <string name="try_http">Spróbuj ponownie przez HTTP</string>
+    <string name="try_http_info">Jeśli nie powiedzie się z HTTPS, spróbuje ponownie z HTTP.\nProtokół HTTP jest podatny na zagrożenia.</string>
     <string name="page_home_info">Po dotknięciu ikony domu</string>
     <string name="page_start_info">Podczas uruchamiania aplikacji</string>
     <string name="page_tab_info">Podczas tworzenia nowej karty</string>

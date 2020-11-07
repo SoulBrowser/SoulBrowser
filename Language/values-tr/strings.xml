@@ -101,6 +101,9 @@
     <string name="next_page">Sonraki sayfa</string>
     <string name="tab_gesture">Sekme hareketi</string>
     <string name="pop_block">Popup engelleyicisi</string>
+    <string name="app_block">Uygulamanın yürütülmesini engelle</string>
+    <string name="app_block_info">Sitenin diğer uygulamaları çalıştırmasını engelleyin.</string>
+    <string name="app_block_noti">Site başka bir uygulamayı çalıştırmaya çalışıyor.</string>
     <string name="link">Bağlantı</string>
     <string name="open_url">Aç</string>
     <string name="new_url">Yeni sekme</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Kullanıcı filtresi</string>
     <string name="filter_search">Arama filtresi</string>
     <string name="filter_info">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
-    <string name="backup_title">Destek olmak</string>
+    <string name="backup_title">Veri yedekleme</string>
     <string name="backup_import">İthalat</string>
     <string name="backup_export">İhracat</string>
     <string name="backup_target">Lütfen bir hedef seçin.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Yalnızca arka planda engelle</string>
     <string name="only_https">HTTPS ile bağlanın</string>
     <string name="only_https_info">Varsayılan olarak HTTPS ile bağlanır.\nHTTPS\'yi desteklemeyen siteler bağlanamayabilir.</string>
+    <string name="try_http">HTTP ile yeniden dene</string>
+    <string name="try_http_info">HTTPS ile başarısız olursa, HTTP ile yeniden deneyecektir.\nHTTP, güvenlik açısından savunmasızdır.</string>
     <string name="page_home_info">Ev simgesine dokunduğunuzda</string>
     <string name="page_start_info">Uygulamayı başlatırken</string>
     <string name="page_tab_info">Yeni bir sekme oluştururken</string>

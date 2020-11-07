@@ -58,7 +58,7 @@
     <string name="find_word">在页面中查找</string>
     <string name="verify_image">图像验证</string>
     <string name="create_album">创建相册</string>
-    <string name="create_zip">创建ZIP</string>
+    <string name="create_zip">创建 ZIP</string>
     <string name="retry">重试</string>
     <string name="general">通用</string>
     <string name="advanced">高级</string>
@@ -101,6 +101,9 @@
     <string name="next_page">下一页</string>
     <string name="tab_gesture">标签手势</string>
     <string name="pop_block">弹出窗口阻止程序</string>
+    <string name="app_block">阻止执行应用</string>
+    <string name="app_block_info">阻止网站运行其他应用程序</string>
+    <string name="app_block_noti">该网站正在尝试运行另一个应用程序</string>
     <string name="link">链接</string>
     <string name="open_url">打开</string>
     <string name="new_url">新标签</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">用户过滤器</string>
     <string name="filter_search">搜索过滤器</string>
     <string name="filter_info">同时使用多个过滤器会降低浏览器性能</string>
-    <string name="backup_title">备份</string>
+    <string name="backup_title">数据备份</string>
     <string name="backup_import">导入</string>
     <string name="backup_export">导出</string>
     <string name="backup_target">请选择一个目标</string>
@@ -727,6 +730,8 @@
     <string name="block_back">仅在后台阻止</string>
     <string name="only_https">与 HTTPS 连接</string>
     <string name="only_https_info">默认情况下，它与 HTTPS 连接\n不支持 HTTPS 的站点可能无法连接</string>
+    <string name="try_http">使用 HTTP 重试</string>
+    <string name="try_http_info">如果使用 HTTPS 失败，它将使用HTTP重试\nHTTP 容易受到安全性的影响</string>
     <string name="page_home_info">当你点击主页图标时</string>
     <string name="page_start_info">启动应用程序时</string>
     <string name="page_tab_info">建立新分页时</string>
@@ -742,6 +747,6 @@
     <string name="add_easylist">基本的 EasyList 过滤器</string>
     <string name="size_fit">屏幕适合</string>
     <string name="size_real">真实大小</string>
-    <string name="block_ssl">SSL错误阻止</string>
-    <string name="block_ssl_info">发生SSL错误时，页面将自动转到安全页面</string>
+    <string name="block_ssl">SSL 错误阻止</string>
+    <string name="block_ssl_info">发生 SSL 错误时，页面将自动转到安全页面</string>
 </resources>

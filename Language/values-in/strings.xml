@@ -101,6 +101,9 @@
     <string name="next_page">Halaman berikutnya</string>
     <string name="tab_gesture">Gerakan tab</string>
     <string name="pop_block">Pemblokir popup</string>
+    <string name="app_block">Blokir eksekusi aplikasi</string>
+    <string name="app_block_info">Blokir situs agar tidak menjalankan aplikasi lain.</string>
+    <string name="app_block_noti">Situs ini mencoba menjalankan aplikasi lain.</string>
     <string name="link">Tautan</string>
     <string name="open_url">Buka</string>
     <string name="new_url">Tab baru</string>
@@ -188,10 +191,10 @@
     <string name="cache_info">File yang dibuat selama penjelajahan web (mis. gambar)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informasi yang dibuat selama penjelajahan web (mis. informasi login)</string>
-    <string name="no_rotate">Jangan memutar layar</string>
+    <string name="no_rotate">Jangan putar layar</string>
     <string name="screen_rotate_info">Layar selalu ditampilkan secara vertikal.</string>
     <string name="vol_scroll">Gulir halaman web dengan tombol volume</string>
-    <string name="double_back">Tombol kembali dua kali untuk keluar dari aplikasi</string>
+    <string name="double_back">Tekan tombol kembali dua kali untuk keluar dari aplikasi</string>
     <string name="press_again">Tekan lagi untuk keluar.</string>
     <string name="last_noti">Pemberitahuan halaman terakhir</string>
     <string name="last_noti_info">Menekan tombol kembali pada halaman terakhir memberitahukan bahwa itu adalah halaman terakhir.</string>
@@ -501,7 +504,7 @@
     <string name="not_show">Jangan ditampilkan</string>
     <string name="show_left">Kiri</string>
     <string name="show_center">Pusat</string>
-    <string name="show_right">Benar</string>
+    <string name="show_right">Kanan</string>
     <string name="tip">Tip</string>
     <string name="web_content">Konten web</string>
     <string name="customize">Menyesuaikan</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Filter pengguna</string>
     <string name="filter_search">Filter pencarian</string>
     <string name="filter_info">Menggunakan beberapa filter sekaligus dapat memperlambat kinerja browser.</string>
-    <string name="backup_title">Kembali</string>
+    <string name="backup_title">Cadangan data</string>
     <string name="backup_import">Impor</string>
     <string name="backup_export">Ekspor</string>
     <string name="backup_target">Silakan pilih target.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Blokir hanya di latar belakang</string>
     <string name="only_https">Terhubung dengan HTTPS</string>
     <string name="only_https_info">Secara default terhubung dengan HTTPS.\nSitus yang tidak mendukung HTTPS mungkin tidak dapat terhubung.</string>
+    <string name="try_http">Coba lagi dengan HTTP</string>
+    <string name="try_http_info">Jika gagal dengan HTTPS, itu akan mencoba lagi dengan HTTP.\nHTTP rentan terhadap keamanan.</string>
     <string name="page_home_info">Saat Anda mengetuk ikon beranda</string>
     <string name="page_start_info">Saat memulai aplikasi</string>
     <string name="page_tab_info">Saat membuat tab baru</string>

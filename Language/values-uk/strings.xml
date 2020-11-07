@@ -101,6 +101,9 @@
     <string name="next_page">Наступна сторінка</string>
     <string name="tab_gesture">Вкладка жестом</string>
     <string name="pop_block">Блокатор спливаючих вікон</string>
+    <string name="app_block">Заблокувати виконання програми</string>
+    <string name="app_block_info">Заблокуйте веб-сайту запуск інших програм.</string>
+    <string name="app_block_noti">Сайт намагається запустити іншу програму.</string>
     <string name="link">Посилання</string>
     <string name="open_url">Відкрити</string>
     <string name="new_url">Нова вкладка</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Фільтр користувача</string>
     <string name="filter_search">Пошук фільтра</string>
     <string name="filter_info">Використання декількох фільтрів одночасно може уповільнити роботу браузера.</string>
-    <string name="backup_title">Резервне копіювання</string>
+    <string name="backup_title">Резервне копіювання даних</string>
     <string name="backup_import">Імпорт</string>
     <string name="backup_export">Експорт</string>
     <string name="backup_target">Виберіть ціль.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Блокувати лише у фоновому режимі</string>
     <string name="only_https">Підключіться до HTTPS</string>
     <string name="only_https_info">За замовчуванням він підключається до HTTPS.\nСайти, які не підтримують HTTPS, можливо, не зможуть підключитися.</string>
+    <string name="try_http">Повторіть спробу за допомогою HTTP</string>
+    <string name="try_http_info">Якщо це не вдасться з HTTPS, він спробує повторити за допомогою HTTP.\nHTTP вразливий до безпеки.</string>
     <string name="page_home_info">Коли ви натискаєте на піктограму будинку</string>
     <string name="page_start_info">Під час запуску програми</string>
     <string name="page_tab_info">При створенні нової вкладки</string>

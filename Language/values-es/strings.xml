@@ -101,6 +101,9 @@
     <string name="next_page">Siguiente página</string>
     <string name="tab_gesture">Gesto pestaña</string>
     <string name="pop_block">Bloquear popup</string>
+    <string name="app_block">Bloquear la ejecución de la aplicación</string>
+    <string name="app_block_info">Bloquea el sitio para que no ejecute otras aplicaciones.</string>
+    <string name="app_block_noti">El sitio está intentando ejecutar otra aplicación.</string>
     <string name="link">Enlace</string>
     <string name="open_url">Abierto</string>
     <string name="new_url">Nueva pestaña</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Filtro de usuario</string>
     <string name="filter_search">Filtro de búsqueda</string>
     <string name="filter_info">El uso de varios filtros al mismo tiempo puede ralentizar el rendimiento del navegador.</string>
-    <string name="backup_title">Backup</string>
+    <string name="backup_title">Copias de seguridad</string>
     <string name="backup_import">Importar</string>
     <string name="backup_export">Exportar</string>
     <string name="backup_target">Por favor seleccione un objetivo.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Bloquear solo en segundo plano</string>
     <string name="only_https">Conéctese con HTTPS</string>
     <string name="only_https_info">Por defecto se conecta con HTTPS.\nEs posible que los sitios que no admitan HTTPS no puedan conectarse.</string>
+    <string name="try_http">Reintentar con HTTP</string>
+    <string name="try_http_info">Si falla con HTTPS, volverá a intentarlo con HTTP.\nHTTP es vulnerable a la seguridad.</string>
     <string name="page_home_info">Cuando tocas el ícono de inicio</string>
     <string name="page_start_info">Al iniciar la aplicación</string>
     <string name="page_tab_info">Al crear una nueva pestaña</string>

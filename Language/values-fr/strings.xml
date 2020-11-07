@@ -101,6 +101,9 @@
     <string name="next_page">Page suivante</string>
     <string name="tab_gesture">Geste onglet</string>
     <string name="pop_block">Bloquer popup</string>
+    <string name="app_block">Bloquer l\'exécution de l\'application</string>
+    <string name="app_block_info">Empêchez le site d\'exécuter d\'autres applications.</string>
+    <string name="app_block_noti">Le site tente d\'exécuter une autre application.</string>
     <string name="link">Lien</string>
     <string name="open_url">Ouvrir</string>
     <string name="new_url">Nouvel onglet</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Filtre utilisateur</string>
     <string name="filter_search">Filtre de recherche</string>
     <string name="filter_info">L\'utilisation de plusieurs filtres en même temps peut ralentir les performances du navigateur.</string>
-    <string name="backup_title">Sauvegarder</string>
+    <string name="backup_title">Sauvegarde de données</string>
     <string name="backup_import">Importer</string>
     <string name="backup_export">Exporter</string>
     <string name="backup_target">Veuillez sélectionner une cible.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Bloquer uniquement en arrière-plan</string>
     <string name="only_https">Connectez-vous avec HTTPS</string>
     <string name="only_https_info">Par défaut, il se connecte avec HTTPS.\nLes sites qui ne prennent pas en charge HTTPS peuvent ne pas pouvoir se connecter.</string>
+    <string name="try_http">Réessayer avec HTTP</string>
+    <string name="try_http_info">S\'il échoue avec HTTPS, il réessaiera avec HTTP.\nHTTP est vulnérable à la sécurité.</string>
     <string name="page_home_info">Lorsque vous appuyez sur l\'icône d\'accueil</string>
     <string name="page_start_info">Au démarrage de l\'application</string>
     <string name="page_tab_info">Lors de la création d\'un nouvel onglet</string>

@@ -101,6 +101,9 @@
     <string name="next_page">Nächste Seite</string>
     <string name="tab_gesture">Tab-Geste</string>
     <string name="pop_block">Popup blockieren</string>
+    <string name="app_block">App-Ausführung blockieren</string>
+    <string name="app_block_info">Blockieren Sie die Ausführung anderer Websites durch die Site.</string>
+    <string name="app_block_noti">Die Site versucht, eine andere App auszuführen.</string>
     <string name="link">Verknüpfung</string>
     <string name="open_url">Öffnen</string>
     <string name="new_url">Neuer Tab</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Benutzerfilter</string>
     <string name="filter_search">Suchfilter</string>
     <string name="filter_info">Die gleichzeitige Verwendung mehrerer Filter kann die Browserleistung beeinträchtigen.</string>
-    <string name="backup_title">Sichern</string>
+    <string name="backup_title">Datensicherung</string>
     <string name="backup_import">Importieren</string>
     <string name="backup_export">Exportieren</string>
     <string name="backup_target">Bitte wählen Sie ein Ziel.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Nur im Hintergrund blockieren</string>
     <string name="only_https">Verbinden Sie sich mit HTTPS</string>
     <string name="only_https_info">Standardmäßig wird eine Verbindung mit HTTPS hergestellt.\nSites, die HTTPS nicht unterstützen, können möglicherweise keine Verbindung herstellen.</string>
+    <string name="try_http">Wiederholen Sie den Vorgang mit HTTP</string>
+    <string name="try_http_info">Wenn es mit HTTPS fehlschlägt, wird es mit HTTP erneut versucht.\nHTTP ist anfällig für Sicherheit.</string>
     <string name="page_home_info">Wenn Sie auf das Home-Symbol tippen</string>
     <string name="page_start_info">Beim Starten der App</string>
     <string name="page_tab_info">Beim Erstellen einer neuen Registerkarte</string>

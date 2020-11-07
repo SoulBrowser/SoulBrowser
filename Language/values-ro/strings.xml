@@ -101,6 +101,9 @@
     <string name="next_page">Pagina următoare</string>
     <string name="tab_gesture">Gest tab</string>
     <string name="pop_block">Blocator popup</string>
+    <string name="app_block">Blocați execuția aplicației</string>
+    <string name="app_block_info">Blocați site-ul pentru a rula alte aplicații.</string>
+    <string name="app_block_noti">Site-ul încearcă să ruleze o altă aplicație.</string>
     <string name="link">Legătură</string>
     <string name="open_url">Deschide</string>
     <string name="new_url">Fila nouă</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Filtru utilizator</string>
     <string name="filter_search">Filtru de căutare</string>
     <string name="filter_info">Utilizarea mai multor filtre în același timp poate încetini performanța browserului.</string>
-    <string name="backup_title">Înapoi</string>
+    <string name="backup_title">Copia de rezerva a datelor</string>
     <string name="backup_import">Importați</string>
     <string name="backup_export">Exportați</string>
     <string name="backup_target">Vă rugăm să selectați o țintă.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Blocați numai în fundal</string>
     <string name="only_https">Conectați-vă cu HTTPS</string>
     <string name="only_https_info">În mod implicit, se conectează cu HTTPS.\nEste posibil ca site-urile care nu acceptă HTTPS să nu se poată conecta.</string>
+    <string name="try_http">Reîncercați cu HTTP</string>
+    <string name="try_http_info">Dacă eșuează cu HTTPS, va încerca din nou cu HTTP.\nHTTP este vulnerabil la securitate.</string>
     <string name="page_home_info">Când atingeți pictograma Acasă</string>
     <string name="page_start_info">La pornirea aplicației</string>
     <string name="page_tab_info">Când creați o filă nouă</string>

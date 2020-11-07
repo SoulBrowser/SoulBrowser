@@ -101,6 +101,9 @@
     <string name="next_page">Следующая страница</string>
     <string name="tab_gesture">Жест вкладки</string>
     <string name="pop_block">Блокировщик всплывающих окон</string>
+    <string name="app_block">Блокировать выполнение приложения</string>
+    <string name="app_block_info">Заблокируйте сайт от запуска других приложений.</string>
+    <string name="app_block_noti">Сайт пытается запустить другое приложение.</string>
     <string name="link">Ссылка</string>
     <string name="open_url">Открыть</string>
     <string name="new_url">Новая вкладка</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Пользовательский фильтр</string>
     <string name="filter_search">Фильтр поиска</string>
     <string name="filter_info">Использование нескольких фильтров одновременно может снизить производительность браузера.</string>
-    <string name="backup_title">Резервное копирование</string>
+    <string name="backup_title">Резервное копирование данных</string>
     <string name="backup_import">Импорт</string>
     <string name="backup_export">Экспорт</string>
     <string name="backup_target">Пожалуйста, выберите цель.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Блокировать только в фоновом режиме</string>
     <string name="only_https">Подключиться по HTTPS</string>
     <string name="only_https_info">По умолчанию он подключается по HTTPS.\nСайты, не поддерживающие HTTPS, могут не подключиться.</string>
+    <string name="try_http">Повторить с HTTP</string>
+    <string name="try_http_info">Если это не удается с HTTPS, он повторит попытку с HTTP.\nHTTP уязвим с точки зрения безопасности.</string>
     <string name="page_home_info">Когда вы нажимаете значок дома</string>
     <string name="page_start_info">При запуске приложения</string>
     <string name="page_tab_info">При создании новой вкладки</string>

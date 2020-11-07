@@ -101,6 +101,9 @@
     <string name="next_page">Próxima página</string>
     <string name="tab_gesture">Gesto aba</string>
     <string name="pop_block">Bloquear popup</string>
+    <string name="app_block">Bloquear a execução do aplicativo</string>
+    <string name="app_block_info">Bloqueie o site de executar outros aplicativos.</string>
+    <string name="app_block_noti">O site está tentando executar outro aplicativo.</string>
     <string name="link">Ligação</string>
     <string name="open_url">Aberto</string>
     <string name="new_url">Nova aba</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Filtro de usuário</string>
     <string name="filter_search">Filtro de pesquisa</string>
     <string name="filter_info">O uso de vários filtros ao mesmo tempo pode diminuir o desempenho do navegador.</string>
-    <string name="backup_title">Cópia de segurança</string>
+    <string name="backup_title">Backup de dados</string>
     <string name="backup_import">Importar</string>
     <string name="backup_export">Exportar</string>
     <string name="backup_target">Por favor, selecione um alvo.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Bloquear apenas em segundo plano</string>
     <string name="only_https">Conecte-se com HTTPS</string>
     <string name="only_https_info">Por padrão, ele se conecta com HTTPS.\nOs sites que não oferecem suporte a HTTPS podem não conseguir se conectar.</string>
+    <string name="try_http">Tentar novamente com HTTP</string>
+    <string name="try_http_info">Se falhar com HTTPS, ele tentará novamente com HTTP.\nO HTTP é vulnerável à segurança.</string>
     <string name="page_home_info">Quando você toca no ícone de casa</string>
     <string name="page_start_info">Ao iniciar o aplicativo</string>
     <string name="page_tab_info">Ao criar uma nova guia</string>

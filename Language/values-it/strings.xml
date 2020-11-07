@@ -101,6 +101,9 @@
     <string name="next_page">Pagina seguente</string>
     <string name="tab_gesture">Gesto scheda</string>
     <string name="pop_block">Blocca popup</string>
+    <string name="app_block">Blocca l\'esecuzione dell\'app</string>
+    <string name="app_block_info">Impedisci al sito di eseguire altre app.</string>
+    <string name="app_block_noti">Il sito sta tentando di eseguire un\'altra app.</string>
     <string name="link">Collegamento</string>
     <string name="open_url">Aperto</string>
     <string name="new_url">Nuova scheda</string>
@@ -656,7 +659,7 @@
     <string name="user_filter">Filtro utente</string>
     <string name="filter_search">Filtro di ricerca</string>
     <string name="filter_info">L\'uso di più filtri contemporaneamente può rallentare le prestazioni del browser.</string>
-    <string name="backup_title">Backup</string>
+    <string name="backup_title">Backup dei dati</string>
     <string name="backup_import">Importa</string>
     <string name="backup_export">Esporta</string>
     <string name="backup_target">Seleziona un obiettivo.</string>
@@ -727,6 +730,8 @@
     <string name="block_back">Blocca solo in background</string>
     <string name="only_https">Connettiti con HTTPS</string>
     <string name="only_https_info">Per impostazione predefinita, si connette con HTTPS.\nI siti che non supportano HTTPS potrebbero non essere in grado di connettersi.</string>
+    <string name="try_http">Riprova con HTTP</string>
+    <string name="try_http_info">Se fallisce con HTTPS, riproverà con HTTP.\nHTTP è vulnerabile alla sicurezza.</string>
     <string name="page_home_info">Quando tocchi l\'icona Home</string>
     <string name="page_start_info">Quando si avvia l\'app</string>
     <string name="page_tab_info">Quando si crea una nuova scheda</string>
