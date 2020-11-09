@@ -51,10 +51,6 @@
     <string name="print_success">Sukces drukowania</string>
     <string name="print_fail">Drukowanie nie powiodło się</string>
     <string name="translate">Przetłumacz</string>
-    <string name="trans_tab">Tłumacz (Nowa karta)</string>
-    <string name="trans_chrome">Tłumacz (Chrome)</string>
-    <string name="trans_src">Źródło</string>
-    <string name="trans_dst">Cel</string>
     <string name="find_word">Znajdź na stronie</string>
     <string name="verify_image">Weryfikacja obrazu</string>
     <string name="create_album">Utwórz albumu</string>

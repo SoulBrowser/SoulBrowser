@@ -51,10 +51,6 @@
     <string name="print_success">Impressão sucesso</string>
     <string name="print_fail">Impressão falhada</string>
     <string name="translate">Traduzir</string>
-    <string name="trans_tab">Traduzir (Nova aba)</string>
-    <string name="trans_chrome">Traduzir (Chrome)</string>
-    <string name="trans_src">Fonte</string>
-    <string name="trans_dst">Alvo</string>
     <string name="find_word">Encontre na página</string>
     <string name="verify_image">Verificação de imagem</string>
     <string name="create_album">Criar álbum</string>

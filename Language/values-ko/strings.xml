@@ -51,10 +51,6 @@
     <string name="print_success">인쇄 성공</string>
     <string name="print_fail">인쇄 실패</string>
     <string name="translate">번역</string>
-    <string name="trans_tab">번역 (새 탭)</string>
-    <string name="trans_chrome">번역 (Chrome)</string>
-    <string name="trans_src">출발 언어</string>
-    <string name="trans_dst">도착 언어</string>
     <string name="find_word">페이지에서 찾기</string>
     <string name="verify_image">이미지 확인</string>
     <string name="create_album">앨범 만들기</string>

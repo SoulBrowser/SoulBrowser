@@ -51,10 +51,6 @@
     <string name="print_success">ความสำเร็จในการพิมพ์</string>
     <string name="print_fail">การพิมพ์ล้มเหลว</string>
     <string name="translate">แปล</string>
-    <string name="trans_tab">แปล (แท็บใหม่)</string>
-    <string name="trans_chrome">แปล (Chrome)</string>
-    <string name="trans_src">แหล่งที่มา</string>
-    <string name="trans_dst">เป้าหมาย</string>
     <string name="find_word">ค้นหาในหน้า</string>
     <string name="verify_image">การตรวจสอบรูปภาพ</string>
     <string name="create_album">สร้างอัลบั้ม</string>

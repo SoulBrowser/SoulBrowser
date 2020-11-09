@@ -51,10 +51,6 @@
     <string name="print_success">Роздруковано успiшно</string>
     <string name="print_fail">Не вдалося надрукувати</string>
     <string name="translate">Перекласти</string>
-    <string name="trans_tab">Перекласти (Нова вкладка)</string>
-    <string name="trans_chrome">Перекласти (Chrome)</string>
-    <string name="trans_src">Перекласти з</string>
-    <string name="trans_dst">Перекласти на</string>
     <string name="find_word">Знайти на сторінці</string>
     <string name="verify_image">Підтвердження зображення</string>
     <string name="create_album">Створити альбом</string>

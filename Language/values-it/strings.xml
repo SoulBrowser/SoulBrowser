@@ -51,10 +51,6 @@
     <string name="print_success">Stampa successo</string>
     <string name="print_fail">Stampa fallita</string>
     <string name="translate">Traduci</string>
-    <string name="trans_tab">Traduci (Nuova scheda)</string>
-    <string name="trans_chrome">Traduci (Chrome)</string>
-    <string name="trans_src">Fonte</string>
-    <string name="trans_dst">Bersaglio</string>
     <string name="find_word">Trova nella pagina</string>
     <string name="verify_image">Verifica immagine</string>
     <string name="create_album">Crea album</string>

@@ -51,10 +51,6 @@
     <string name="print_success">Baskı başarısı</string>
     <string name="print_fail">Yazdırılamadı</string>
     <string name="translate">Çevir</string>
-    <string name="trans_tab">Çevir (Yeni sekme)</string>
-    <string name="trans_chrome">Çevir (Chrome)</string>
-    <string name="trans_src">Kaynak</string>
-    <string name="trans_dst">Hedef</string>
     <string name="find_word">Sayfada bulun</string>
     <string name="verify_image">Resim doğrulama</string>
     <string name="create_album">Albüm oluştur</string>

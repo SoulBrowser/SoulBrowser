@@ -51,10 +51,6 @@
     <string name="print_success">打印成功</string>
     <string name="print_fail">打印失败</string>
     <string name="translate">网页翻译</string>
-    <string name="trans_tab">翻译（新标签）</string>
-    <string name="trans_chrome">翻译（Chrome）</string>
-    <string name="trans_src">当前语言</string>
-    <string name="trans_dst">目标语言</string>
     <string name="find_word">在页面中查找</string>
     <string name="verify_image">图像验证</string>
     <string name="create_album">创建相册</string>
