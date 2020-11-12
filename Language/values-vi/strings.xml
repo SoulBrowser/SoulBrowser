@@ -51,6 +51,10 @@
     <string name="print_success">In thành công</string>
     <string name="print_fail">In thất bại</string>
     <string name="translate">Dịch</string>
+    <string name="trans_tab">Dịch (Tab mới)</string>
+    <string name="trans_chrome">Dịch (Chrome)</string>
+    <string name="trans_src">Nguồn</string>
+    <string name="trans_dst">Mục tiêu</string>
     <string name="find_word">Tìm ở trang</string>
     <string name="verify_image">Xác minh hình ảnh</string>
     <string name="create_album">Tạo album</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">Vui lòng chọn một mục.</string>
     <string name="video_down">Tải video</string>
     <string name="video_down_guide_0">Truy cập trang web với video.</string>
-    <string name="video_down_guide_1">Khi phát hiện video, nút tải xuống sẽ xuất hiện ở cuối màn hình.</string>
+    <string name="video_down_guide_1">Khi phát hiện thấy video, nút tải xuống sẽ xuất hiện trên màn hình.</string>
     <string name="video_down_guide_2">Các nút không xuất hiện cho các video không thể tải xuống.</string>
     <string name="video_down_guide_3">Một số trang web cần phát video trước khi phát hiện video.\nCác trang web khác nhau có hành vi khác nhau.</string>
     <string name="video_down_guide_4">Do chính sách của YouTube, video YouTube không thể được tải xuống.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">Vô hiệu hóa JavaScript</string>
     <string name="js_enabled">JavaScript được kích hoạt.</string>
     <string name="js_disabled">JavaScript bị tắt.</string>
-    <string name="menu_move">Di chuyển menu</string>
-    <string name="menu_move_guide">Kéo biểu tượng.</string>
-    <string name="menu_change">Thay đổi thực đơn</string>
-    <string name="menu_change_guide">Nhấp vào biểu tượng.</string>
+    <string name="icon_edit_guide_1">1. Nhấp vào biểu tượng để thay đổi chức năng.</string>
+    <string name="icon_edit_guide_2">2. Nhấn và giữ biểu tượng để thay đổi vị trí.</string>
     <string name="long_edit_guide">Bạn có thể đặt chức năng sử dụng khi nhấn và giữ biểu tượng trên thanh dưới cùng.</string>
     <string name="swipe_edit_guide">Bạn có thể thiết lập chức năng để sử dụng khi vuốt lên biểu tượng trên thanh dưới cùng.</string>
     <string name="long_press">Nhấn dài</string>
@@ -647,7 +649,8 @@
     <string name="open_with">Mở với</string>
     <string name="other_guide">Bạn có thể tải nó với một ứng dụng khác.</string>
     <string name="double_tap">Nhấn đúp</string>
-    <string name="double_tap_guide">Bạn có thể đặt chế độ ngang và chế độ dọc khác nhau.</string>
+    <string name="double_tap_guide_1">Bạn có thể đặt chế độ ngang và chế độ dọc khác nhau.</string>
+    <string name="double_tap_guide_2">Để đặt chế độ ngang, hãy xoay thiết bị của bạn theo chiều ngang.</string>
     <string name="not_support_site">Một số trang web có thể không được hỗ trợ.</string>
     <string name="restart">Khởi động lại</string>
     <string name="down_fail_guide">Các tập tin có thể bị hư hỏng.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">Kích thước thực sự</string>
     <string name="block_ssl">Chặn lỗi SSL</string>
     <string name="block_ssl_info">Khi xảy ra lỗi SSL, trang sẽ tự động chuyển đến trang an toàn.</string>
+    <string name="menu_noti_1">Biểu tượng menu không thể thay đổi.</string>
+    <string name="menu_noti_2">Biểu tượng menu chỉ có thể được đặt trên thanh dưới cùng.</string>
 </resources>

@@ -51,6 +51,10 @@
     <string name="print_success">Роздруковано успiшно</string>
     <string name="print_fail">Не вдалося надрукувати</string>
     <string name="translate">Перекласти</string>
+    <string name="trans_tab">Перекласти (Нова вкладка)</string>
+    <string name="trans_chrome">Перекласти (Chrome)</string>
+    <string name="trans_src">Перекласти з</string>
+    <string name="trans_dst">Перекласти на</string>
     <string name="find_word">Знайти на сторінці</string>
     <string name="verify_image">Підтвердження зображення</string>
     <string name="create_album">Створити альбом</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">Виберіть пункт.</string>
     <string name="video_down">Завантажити відео</string>
     <string name="video_down_guide_0">Завітайте на сайт з відео.</string>
-    <string name="video_down_guide_1">Коли відео виявлено, у нижній частині екрану з\'являється кнопка завантаження.</string>
+    <string name="video_down_guide_1">Коли відео виявлено, на екрані з’являється кнопка завантаження.</string>
     <string name="video_down_guide_2">Кнопки не відображаються для відео, яке неможливо завантажити.</string>
     <string name="video_down_guide_3">Деякі сайти потребують відтворення відео перед його виявленням.\nРізні сайти мають різну поведінку.</string>
     <string name="video_down_guide_4">Через політику YouTube відео YouTube не можна завантажувати.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">Вимкнути JavaScript</string>
     <string name="js_enabled">JavaScript увімкнено.</string>
     <string name="js_disabled">JavaScript вимкнено.</string>
-    <string name="menu_move">Перемістити меню</string>
-    <string name="menu_move_guide">Перетягніть значок.</string>
-    <string name="menu_change">Змінити меню</string>
-    <string name="menu_change_guide">Натисніть піктограму.</string>
+    <string name="icon_edit_guide_1">1. Клацніть на піктограму, щоб змінити функцію.</string>
+    <string name="icon_edit_guide_2">2. Довго натискайте піктограму, щоб змінити місце розташування.</string>
     <string name="long_edit_guide">Ви можете встановити функцію, яку потрібно використовувати, натискаючи та утримуючи піктограму на нижній панелі.</string>
     <string name="swipe_edit_guide">Ви можете встановити функцію, яка буде використовуватись під час розгортання значка на нижній панелі.</string>
     <string name="long_press">Тривале натискання</string>
@@ -647,7 +649,8 @@
     <string name="open_with">Відкрити з</string>
     <string name="other_guide">Ви можете завантажити його за допомогою іншого додатка.</string>
     <string name="double_tap">Подвійне натискання</string>
-    <string name="double_tap_guide">Ви можете встановити ландшафтний режим і портретний режим по-різному.</string>
+    <string name="double_tap_guide_1">Ви можете встановити ландшафтний режим і портретний режим по-різному.</string>
+    <string name="double_tap_guide_2">Щоб встановити альбомний режим, поверніть пристрій горизонтально.</string>
     <string name="not_support_site">Деякі сайти можуть не підтримуватися.</string>
     <string name="restart">Перезапустити</string>
     <string name="down_fail_guide">Файл може бути пошкоджений.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">Реальний розмір</string>
     <string name="block_ssl">Блокування помилок SSL</string>
     <string name="block_ssl_info">Коли виникає помилка SSL, сторінка автоматично переходить на безпечну сторінку.</string>
+    <string name="menu_noti_1">Піктограму меню змінити не можна.</string>
+    <string name="menu_noti_2">Значки меню можна розміщувати лише на нижній панелі.</string>
 </resources>

@@ -51,6 +51,10 @@
     <string name="print_success">Drucken erfolgreich</string>
     <string name="print_fail">Drucken fehlgeschlagen</string>
     <string name="translate">Übersetzen</string>
+    <string name="trans_tab">Übersetzen (Neuer Tab)</string>
+    <string name="trans_chrome">Übersetzen (Chrome)</string>
+    <string name="trans_src">Quelle</string>
+    <string name="trans_dst">Ziel</string>
     <string name="find_word">Auf Seite finden</string>
     <string name="verify_image">Bild verifizieren</string>
     <string name="create_album">Album erstellen</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">Bitte wählen Sie einen Artikel.</string>
     <string name="video_down">Video herunterladen</string>
     <string name="video_down_guide_0">Besuchen Sie die Website mit dem Video.</string>
-    <string name="video_down_guide_1">Wenn ein Video erkannt wird, wird am unteren Bildschirmrand eine Schaltfläche zum Herunterladen angezeigt.</string>
+    <string name="video_down_guide_1">Wenn ein Video erkannt wird, wird eine Download-Schaltfläche auf dem Bildschirm angezeigt.</string>
     <string name="video_down_guide_2">Für Videos, die nicht heruntergeladen werden können, wird keine Schaltfläche angezeigt.</string>
     <string name="video_down_guide_3">Einige Seiten müssen das Video abspielen, bevor das Video erkannt wird.\nUnterschiedliche Websiten haben ein unterschiedliches Verhalten.</string>
     <string name="video_down_guide_4">Aufgrund der YouTube-Richtlinie können YouTube Videos nicht heruntergeladen werden.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">JavaScript deaktivieren</string>
     <string name="js_enabled">JavaScript ist aktiviert.</string>
     <string name="js_disabled">JavaScript ist deaktiviert.</string>
-    <string name="menu_move">Menü verschieben</string>
-    <string name="menu_move_guide">Symbol verschieben.</string>
-    <string name="menu_change">Menü ändern</string>
-    <string name="menu_change_guide">Klicken Sie auf das Symbol.</string>
+    <string name="icon_edit_guide_1">1. Klicken Sie auf das Symbol, um die Funktion zu ändern.</string>
+    <string name="icon_edit_guide_2">2. Drücken Sie lange auf das Symbol, um den Speicherort zu ändern.</string>
     <string name="long_edit_guide">Sie können die zu verwendende Funktion einstellen, wenn Sie das Symbol in der unteren Leiste gedrückt halten.</string>
     <string name="swipe_edit_guide">Sie können die Funktion festlegen, die beim Wischen des Symbols in der unteren Leiste verwendet werden soll.</string>
     <string name="long_press">Lange drücken</string>
@@ -647,7 +649,8 @@
     <string name="open_with">Öffnen mit</string>
     <string name="other_guide">Sie können es mit einer anderen App herunterladen.</string>
     <string name="double_tap">Doppeltippen</string>
-    <string name="double_tap_guide">Sie können den Quer und Hochformatmodus unterschiedlich einstellen.</string>
+    <string name="double_tap_guide_1">Sie können den Quer und Hochformatmodus unterschiedlich einstellen.</string>
+    <string name="double_tap_guide_2">Drehen Sie Ihr Gerät horizontal, um den Querformatmodus einzustellen.</string>
     <string name="not_support_site">Einige Websites werden möglicherweise nicht unterstützt.</string>
     <string name="restart">Neustart</string>
     <string name="down_fail_guide">Die Datei ist möglicherweise beschädigt.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">Tatsächliche Größe</string>
     <string name="block_ssl">Blockierung von SSL-Fehlern</string>
     <string name="block_ssl_info">Wenn ein SSL-Fehler auftritt, wechselt die Seite automatisch zu einer sicheren Seite.</string>
+    <string name="menu_noti_1">Das Menüsymbol kann nicht geändert werden.</string>
+    <string name="menu_noti_2">Menüsymbole können nur in der unteren Leiste platziert werden.</string>
 </resources>

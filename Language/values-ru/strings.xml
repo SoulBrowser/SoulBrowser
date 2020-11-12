@@ -51,6 +51,10 @@
     <string name="print_success">Успешно распечатано</string>
     <string name="print_fail">Не удалось распечатать</string>
     <string name="translate">Перевести</string>
+    <string name="trans_tab">Перевести (Новая вкладка)</string>
+    <string name="trans_chrome">Перевести (Chrome)</string>
+    <string name="trans_src">Перевести с</string>
+    <string name="trans_dst">Перевести на</string>
     <string name="find_word">Найти на странице</string>
     <string name="verify_image">Проверка изображения</string>
     <string name="create_album">Создать альбом</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">Пожалуйста, выберите предмет.</string>
     <string name="video_down">Скачать видео</string>
     <string name="video_down_guide_0">Посетите сайт с видео.</string>
-    <string name="video_down_guide_1">Когда видео обнаружено, кнопка загрузки появляется в нижней части экрана.</string>
+    <string name="video_down_guide_1">При обнаружении видео на экране появляется кнопка загрузки.</string>
     <string name="video_down_guide_2">Кнопки не отображаются для видео, которые нельзя загрузить.</string>
     <string name="video_down_guide_3">Некоторые сайты должны воспроизводить видео до его обнаружения.\nУ разных сайтов разное поведение.</string>
     <string name="video_down_guide_4">Из-за политики YouTube видео YouTube не могут быть загружены.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">Отключить JavaScript</string>
     <string name="js_enabled">JavaScript включен.</string>
     <string name="js_disabled">JavaScript отключен.</string>
-    <string name="menu_move">Переместить меню</string>
-    <string name="menu_move_guide">Перетащите значок.</string>
-    <string name="menu_change">Изменить меню</string>
-    <string name="menu_change_guide">Нажмите на значок.</string>
+    <string name="icon_edit_guide_1">1. Щелкните значок, чтобы изменить функцию.</string>
+    <string name="icon_edit_guide_2">2. Нажмите и удерживайте значок, чтобы изменить местоположение.</string>
     <string name="long_edit_guide">Вы можете установить функцию, выполняемую при нажатии и удержании кнопки на нижней панели.</string>
     <string name="swipe_edit_guide">Вы можете установить функцию, выполняемую при проведении вверх от кнопки на нижней панели.</string>
     <string name="long_press">Долгое нажатие</string>
@@ -647,7 +649,8 @@
     <string name="open_with">Открыть с</string>
     <string name="other_guide">Вы можете скачать его с другим приложением.</string>
     <string name="double_tap">Двойное нажатие</string>
-    <string name="double_tap_guide">Вы можете установить ландшафтный режим и портретный режим по-разному.</string>
+    <string name="double_tap_guide_1">Вы можете установить ландшафтный режим и портретный режим по-разному.</string>
+    <string name="double_tap_guide_2">Чтобы установить альбомный режим, поверните устройство по горизонтали.</string>
     <string name="not_support_site">Некоторые сайты могут не поддерживаться.</string>
     <string name="restart">Начать сначала</string>
     <string name="down_fail_guide">Файл может быть поврежден.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">Фактический размер</string>
     <string name="block_ssl">Блокировка ошибок SSL</string>
     <string name="block_ssl_info">При возникновении ошибки SSL страница автоматически переходит на безопасную страницу.</string>
+    <string name="menu_noti_1">Значок меню изменить нельзя.</string>
+    <string name="menu_noti_2">Иконки меню можно разместить только на нижней панели.</string>
 </resources>

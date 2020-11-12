@@ -51,6 +51,10 @@
     <string name="print_success">인쇄 성공</string>
     <string name="print_fail">인쇄 실패</string>
     <string name="translate">번역</string>
+    <string name="trans_tab">번역 (새 탭)</string>
+    <string name="trans_chrome">번역 (Chrome)</string>
+    <string name="trans_src">출발 언어</string>
+    <string name="trans_dst">도착 언어</string>
     <string name="find_word">페이지에서 찾기</string>
     <string name="verify_image">이미지 확인</string>
     <string name="create_album">앨범 만들기</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">항목을 선택하십시오.</string>
     <string name="video_down">동영상 다운로드</string>
     <string name="video_down_guide_0">동영상이 있는 사이트를 방문합니다.</string>
-    <string name="video_down_guide_1">동영상이 감지되면, 화면 하단에 다운로드 버튼이 나타납니다.</string>
+    <string name="video_down_guide_1">동영상이 감지되면, 화면에 다운로드 버튼이 나타납니다.</string>
     <string name="video_down_guide_2">다운로드할 수 없는 동영상은 버튼이 나타나지 않습니다.</string>
     <string name="video_down_guide_3">일부 사이트는 동영상을 재생해야 동영상이 감지됩니다.\n사이트마다 동작이 다릅니다.</string>
     <string name="video_down_guide_4">YouTube 정책에 의해, YouTube 동영상은 다운로드할 수 없습니다.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">자바스크립트 끄기</string>
     <string name="js_enabled">자바스크립트가 활성화되었습니다.</string>
     <string name="js_disabled">자바스크립트가 비활성화되었습니다.</string>
-    <string name="menu_move">메뉴 이동</string>
-    <string name="menu_move_guide">아이콘을 드래그하세요.</string>
-    <string name="menu_change">메뉴 변경</string>
-    <string name="menu_change_guide">아이콘을 클릭하세요.</string>
+    <string name="icon_edit_guide_1">1. 아이콘을 클릭하여 기능을 변경하세요.</string>
+    <string name="icon_edit_guide_2">2. 아이콘을 길게 눌러 위치를 변경하세요.</string>
     <string name="long_edit_guide">하단바의 아이콘을 길게 눌렀을 때 사용할 기능을 설정할 수 있습니다.</string>
     <string name="swipe_edit_guide">하단바의 아이콘을 위로 스와이프할 때 사용할 기능을 설정할 수 있습니다.</string>
     <string name="long_press">길게 누르기</string>
@@ -647,7 +649,8 @@
     <string name="open_with">다음으로 열기</string>
     <string name="other_guide">다른 앱으로 다운로드할 수 있습니다.</string>
     <string name="double_tap">더블 탭</string>
-    <string name="double_tap_guide">가로 모드와 세로 모드를 다르게 설정할 수 있습니다.</string>
+    <string name="double_tap_guide_1">가로 모드와 세로 모드를 다르게 설정할 수 있습니다.</string>
+    <string name="double_tap_guide_2">가로 모드를 설정하려면 기기를 가로로 회전하세요.</string>
     <string name="not_support_site">일부 사이트는 지원되지 않을 수 있습니다.</string>
     <string name="restart">재시작</string>
     <string name="down_fail_guide">파일이 손상되었을 수 있습니다.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">실제 크기</string>
     <string name="block_ssl">SSL 오류 차단</string>
     <string name="block_ssl_info">SSL 오류가 발생하면 자동으로 안전한 페이지로 이동합니다.</string>
+    <string name="menu_noti_1">메뉴 아이콘은 변경할 수 없습니다.</string>
+    <string name="menu_noti_2">메뉴 아이콘은 하단바에만 배치할 수 있습니다.</string>
 </resources>

@@ -51,6 +51,10 @@
     <string name="print_success">Stampa successo</string>
     <string name="print_fail">Stampa fallita</string>
     <string name="translate">Traduci</string>
+    <string name="trans_tab">Traduci (Nuova scheda)</string>
+    <string name="trans_chrome">Traduci (Chrome)</string>
+    <string name="trans_src">Fonte</string>
+    <string name="trans_dst">Bersaglio</string>
     <string name="find_word">Trova nella pagina</string>
     <string name="verify_image">Verifica immagine</string>
     <string name="create_album">Crea album</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">Seleziona un articolo.</string>
     <string name="video_down">Scarica il video</string>
     <string name="video_down_guide_0">Visita il sito con il video.</string>
-    <string name="video_down_guide_1">Quando viene rilevato un video, viene visualizzato un pulsante di download nella parte inferiore dello schermo.</string>
+    <string name="video_down_guide_1">Quando viene rilevato un video, sullo schermo viene visualizzato un pulsante di download.</string>
     <string name="video_down_guide_2">I pulsante non vengono visualizzati per i video che non possono essere scaricati.</string>
     <string name="video_down_guide_3">Alcuni siti devono riprodurre il video prima che il video venga rilevato.\nSiti diversi hanno comportamenti diversi.</string>
     <string name="video_down_guide_4">A causa delle norme di YouTube, i video di YouTube non possono essere scaricati.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">Disabilita JavaScript</string>
     <string name="js_enabled">JavaScript è abilitato.</string>
     <string name="js_disabled">JavaScript è disabilitato.</string>
-    <string name="menu_move">Sposta menu</string>
-    <string name="menu_move_guide">Trascina l\'icona.</string>
-    <string name="menu_change">Cambia menu</string>
-    <string name="menu_change_guide">Fai clic sull\'icona.</string>
+    <string name="icon_edit_guide_1">1. Fare clic sull\'icona per modificare la funzione.</string>
+    <string name="icon_edit_guide_2">2. Premere a lungo l\'icona per modificare la posizione.</string>
     <string name="long_edit_guide">È possibile impostare la funzione da utilizzare quando si tiene premuta l\'icona sulla barra in basso.</string>
     <string name="swipe_edit_guide">È possibile impostare la funzione da utilizzare quando si scorre verso l\'alto l\'icona sulla barra in basso.</string>
     <string name="long_press">Premere a lungo</string>
@@ -647,7 +649,8 @@
     <string name="open_with">Aperta con</string>
     <string name="other_guide">Puoi scaricarlo con un\'altra app.</string>
     <string name="double_tap">Tocca due volte</string>
-    <string name="double_tap_guide">È possibile impostare la modalità orizzontale e verticale in modo diverso.</string>
+    <string name="double_tap_guide_1">È possibile impostare la modalità orizzontale e verticale in modo diverso.</string>
+    <string name="double_tap_guide_2">Per impostare la modalità orizzontale, ruota il dispositivo in orizzontale.</string>
     <string name="not_support_site">Alcuni siti potrebbero non essere supportati.</string>
     <string name="restart">Ricomincia</string>
     <string name="down_fail_guide">Il file potrebbe essere danneggiato.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">Dimensione reale</string>
     <string name="block_ssl">Blocco degli errori SSL</string>
     <string name="block_ssl_info">Quando si verifica un errore SSL, la pagina passa automaticamente a una pagina sicura.</string>
+    <string name="menu_noti_1">L\'icona del menu non può essere modificata.</string>
+    <string name="menu_noti_2">Le icone dei menu possono essere posizionate solo sulla barra inferiore.</string>
 </resources>

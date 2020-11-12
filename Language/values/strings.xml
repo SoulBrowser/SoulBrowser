@@ -51,6 +51,10 @@
     <string name="print_success">Print success</string>
     <string name="print_fail">Print Failed</string>
     <string name="translate">Translate</string>
+    <string name="trans_tab">Translate (New tab)</string>
+    <string name="trans_chrome">Translate (Chrome)</string>
+    <string name="trans_src">Source</string>
+    <string name="trans_dst">Target</string>
     <string name="find_word">Find in page</string>
     <string name="verify_image">Image verification</string>
     <string name="create_album">Create album</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">Select an item.</string>
     <string name="video_down">Download video</string>
     <string name="video_down_guide_0">Visit the site with the video.</string>
-    <string name="video_down_guide_1">When a video is detected, a download button appears at the bottom of the screen.</string>
+    <string name="video_down_guide_1">When a video is detected, a download button appears on the screen.</string>
     <string name="video_down_guide_2">Button do not appear for video that can not be downloaded.</string>
     <string name="video_down_guide_3">Some sites need to play the video before the video is detected.\nDifferent sites have different behavior.</string>
     <string name="video_down_guide_4">Due to YouTube policy, YouTube videos can not be downloaded.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">Disable JavaScript</string>
     <string name="js_enabled">JavaScript is enabled.</string>
     <string name="js_disabled">JavaScript is disabled.</string>
-    <string name="menu_move">Move menu</string>
-    <string name="menu_move_guide">Drag the icon.</string>
-    <string name="menu_change">Change menu</string>
-    <string name="menu_change_guide">Click the icon.</string>
+    <string name="icon_edit_guide_1">1. Click the icon to change the function.</string>
+    <string name="icon_edit_guide_2">2. Long press the icon to change the location.</string>
     <string name="long_edit_guide">You can set the function to use when you press and hold the icon on the bottom bar.</string>
     <string name="swipe_edit_guide">You can set the function to use when swiping up the icon on the bottom bar.</string>
     <string name="long_press">Long press</string>
@@ -647,7 +649,8 @@
     <string name="open_with">Open with</string>
     <string name="other_guide">You can download it with another app.</string>
     <string name="double_tap">Double tap</string>
-    <string name="double_tap_guide">You can set landscape mode and portrait mode differently.</string>
+    <string name="double_tap_guide_1">You can set landscape mode and portrait mode differently.</string>
+    <string name="double_tap_guide_2">To set landscape mode, rotate your device horizontally.</string>
     <string name="not_support_site">Some sites may not be supported.</string>
     <string name="restart">Restart</string>
     <string name="down_fail_guide">The file may be damaged.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">Actual size</string>
     <string name="block_ssl">SSL error blocking</string>
     <string name="block_ssl_info">When an SSL error occurs, the page automatically goes to a safe page.</string>
+    <string name="menu_noti_1">Menu icon cannot be changed.</string>
+    <string name="menu_noti_2">Menu icons can only be placed on the bottom bar.</string>
 </resources>

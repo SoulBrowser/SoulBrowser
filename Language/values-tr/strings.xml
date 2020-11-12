@@ -51,6 +51,10 @@
     <string name="print_success">Baskı başarısı</string>
     <string name="print_fail">Yazdırılamadı</string>
     <string name="translate">Çevir</string>
+    <string name="trans_tab">Çevir (Yeni sekme)</string>
+    <string name="trans_chrome">Çevir (Chrome)</string>
+    <string name="trans_src">Kaynak</string>
+    <string name="trans_dst">Hedef</string>
     <string name="find_word">Sayfada bulun</string>
     <string name="verify_image">Resim doğrulama</string>
     <string name="create_album">Albüm oluştur</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">Lütfen bir öğe seçin.</string>
     <string name="video_down">Video indir</string>
     <string name="video_down_guide_0">Videonun bulunduğu siteyi ziyaret edin.</string>
-    <string name="video_down_guide_1">Bir video algılandığında, ekranın altında bir indirme düğmesi görünür.</string>
+    <string name="video_down_guide_1">Bir video algılandığında, ekranda bir indirme düğmesi belirir.</string>
     <string name="video_down_guide_2">Button indirilemeyen video için görünmüyor.</string>
     <string name="video_down_guide_3">Bazı sitelerin video algılanmadan önce videoyu oynatması gerekir.\nFarklı siteler farklı davranışlara sahiptir.</string>
     <string name="video_down_guide_4">YouTube politikası nedeniyle, YouTube videoları indirilemiyor.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">JavaScript devredışı bırak</string>
     <string name="js_enabled">JavaScript etkinleştirildi.</string>
     <string name="js_disabled">JavaScript devre dışı bırakıldı.</string>
-    <string name="menu_move">Taşı menüsü</string>
-    <string name="menu_move_guide">Simgeyi sürükleyin.</string>
-    <string name="menu_change">Menüyü değiştir</string>
-    <string name="menu_change_guide">Simgesini tıklayın.</string>
+    <string name="icon_edit_guide_1">1. İşlevi değiştirmek için simgeye tıklayın.</string>
+    <string name="icon_edit_guide_2">2. Konumu değiştirmek için simgeye uzun basın.</string>
     <string name="long_edit_guide">Alt çubuktaki simgeyi basılı tuttuğunuzda kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="swipe_edit_guide">Alt çubuktaki simgeyi yukarı kaydırırken kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="long_press">Uzun basma</string>
@@ -647,7 +649,8 @@
     <string name="open_with">Bununla aç</string>
     <string name="other_guide">Başka bir uygulama ile indirebilirsiniz.</string>
     <string name="double_tap">Çift dokunma</string>
-    <string name="double_tap_guide">Manzara modunu ve portre modunu farklı şekilde ayarlayabilirsiniz.</string>
+    <string name="double_tap_guide_1">Manzara modunu ve portre modunu farklı şekilde ayarlayabilirsiniz.</string>
+    <string name="double_tap_guide_2">Manzara modunu ayarlamak için cihazınızı yatay olarak döndürün.</string>
     <string name="not_support_site">Bazı siteler desteklenmiyor olabilir.</string>
     <string name="restart">Tekrar başlat</string>
     <string name="down_fail_guide">Dosya zarar görmüş olabilir.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">Gerçek boyutu</string>
     <string name="block_ssl">SSL hatası engelleme</string>
     <string name="block_ssl_info">Bir SSL hatası oluştuğunda, sayfa otomatik olarak güvenli bir sayfaya gider.</string>
+    <string name="menu_noti_1">Menü simgesi değiştirilemez.</string>
+    <string name="menu_noti_2">Menü simgeleri yalnızca alt çubuğa yerleştirilebilir.</string>
 </resources>

@@ -51,6 +51,10 @@
     <string name="print_success">Sukces drukowania</string>
     <string name="print_fail">Drukowanie nie powiodło się</string>
     <string name="translate">Przetłumacz</string>
+    <string name="trans_tab">Tłumacz (Nowa karta)</string>
+    <string name="trans_chrome">Tłumacz (Chrome)</string>
+    <string name="trans_src">Źródło</string>
+    <string name="trans_dst">Cel</string>
     <string name="find_word">Znajdź na stronie</string>
     <string name="verify_image">Weryfikacja obrazu</string>
     <string name="create_album">Utwórz albumu</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">Wybierz element.</string>
     <string name="video_down">Pobierz wideo</string>
     <string name="video_down_guide_0">Odwiedź stronę z wideo.</string>
-    <string name="video_down_guide_1">Po wykryciu filmu na dole ekranu pojawia się przycisk pobierania.</string>
+    <string name="video_down_guide_1">Po wykryciu wideo na ekranie pojawia się przycisk pobierania.</string>
     <string name="video_down_guide_2">Przycisk nie pojawia się w przypadku filmów, których nie można pobrać.</string>
     <string name="video_down_guide_3">Niektóre strony muszą odtworzyć wideo, zanim zostanie wykryty.\nRóżne strony zachowują się inaczej.</string>
     <string name="video_down_guide_4">Ze względu na zasady YouTube nie można pobierać filmów z YouTube.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">Wyłącz JavaScript</string>
     <string name="js_enabled">JavaScript jest włączony.</string>
     <string name="js_disabled">JavaScript jest wyłączony.</string>
-    <string name="menu_move">Przenieś menu</string>
-    <string name="menu_move_guide">Przeciągnij ikonę.</string>
-    <string name="menu_change">Zmień menu</string>
-    <string name="menu_change_guide">Kliknij ikonę.</string>
+    <string name="icon_edit_guide_1">1. Kliknij ikonę, aby zmienić funkcję.</string>
+    <string name="icon_edit_guide_2">2. Długo naciśnij ikonę, aby zmienić lokalizację.</string>
     <string name="long_edit_guide">Możesz ustawić funkcję, która będzie używana po naciśnięciu i przytrzymaniu ikony na dolnym pasku.</string>
     <string name="swipe_edit_guide">Możesz ustawić funkcję, która będzie używana podczas przesuwania w górę ikony na dolnym pasku.</string>
     <string name="long_press">Długie naciśnięcie</string>
@@ -647,7 +649,8 @@
     <string name="open_with">Otwierać z</string>
     <string name="other_guide">Możesz pobrać go za pomocą innej aplikacji.</string>
     <string name="double_tap">Podwójne wciśnięcie</string>
-    <string name="double_tap_guide">Tryb krajobrazowy i tryb portretowy można ustawić inaczej.</string>
+    <string name="double_tap_guide_1">Tryb krajobrazowy i tryb portretowy można ustawić inaczej.</string>
+    <string name="double_tap_guide_2">Aby ustawić tryb poziomy, obróć urządzenie poziomo.</string>
     <string name="not_support_site">Niektóre witryny mogą nie być obsługiwane.</string>
     <string name="restart">Uruchom ponownie</string>
     <string name="down_fail_guide">Plik może być uszkodzony.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">Rzeczywisty rozmiar</string>
     <string name="block_ssl">Blokowanie błędów SSL</string>
     <string name="block_ssl_info">Gdy wystąpi błąd SSL, strona automatycznie przechodzi do bezpiecznej strony.</string>
+    <string name="menu_noti_1">Nie można zmienić ikony menu.</string>
+    <string name="menu_noti_2">Ikony menu można umieszczać tylko na dolnym pasku.</string>
 </resources>

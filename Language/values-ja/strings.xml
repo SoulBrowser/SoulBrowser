@@ -51,6 +51,10 @@
     <string name="print_success">印刷成功</string>
     <string name="print_fail">印刷に失敗し</string>
     <string name="translate">翻訳</string>
+    <string name="trans_tab">翻訳 (新しいタブ)</string>
+    <string name="trans_chrome">翻訳 (Chrome)</string>
+    <string name="trans_src">ソース</string>
+    <string name="trans_dst">ターゲット</string>
     <string name="find_word">ページ内検索</string>
     <string name="verify_image">画像の確認</string>
     <string name="create_album">アルバム作成</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">項目を選択してください。</string>
     <string name="video_down">動画のダウンロード</string>
     <string name="video_down_guide_0">ビデオがあるサイトをご覧ください。</string>
-    <string name="video_down_guide_1">ビデオが検出されると、ダウンロードボタンが画面の下部に表示されます。</string>
+    <string name="video_down_guide_1">動画が検出されると、画面にダウンロードボタンが表示されます。</string>
     <string name="video_down_guide_2">ダウンロードできない動画はボタンが表示されません。</string>
     <string name="video_down_guide_3">いくつかのサイトは、ビデオを再生しなければならビデオが検出されます。\nサイトごとに動作が異なります。</string>
     <string name="video_down_guide_4">YouTubeのポリシーにより、YouTubeのビデオは、ダウンロードすることができません。</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">JavaScript無効に</string>
     <string name="js_enabled">JavaScriptが有効になりました。</string>
     <string name="js_disabled">JavaScriptが無効になっています。</string>
-    <string name="menu_move">メニューを移動</string>
-    <string name="menu_move_guide">アイコンをドラッグします。</string>
-    <string name="menu_change">メニューを変更</string>
-    <string name="menu_change_guide">アイコンをクリックします。</string>
+    <string name="icon_edit_guide_1">1. アイコンをクリックして、機能を変更してください。</string>
+    <string name="icon_edit_guide_2">2. アイコンを長押しして位置を変更してください。</string>
     <string name="long_edit_guide">下部バーのアイコンを長く押したとき、使用する機能を設定することができます。</string>
     <string name="swipe_edit_guide">下部バーのアイコンを上スワイプするとき、使用する機能を設定することができます。</string>
     <string name="long_press">長押し</string>
@@ -647,7 +649,8 @@
     <string name="open_with">次で開く</string>
     <string name="other_guide">他のアプリでダウンロードすることができます。</string>
     <string name="double_tap">ダブルタップ</string>
-    <string name="double_tap_guide">横モードと縦モードを別々に設定することができます。</string>
+    <string name="double_tap_guide_1">横モードと縦モードを別々に設定することができます。</string>
+    <string name="double_tap_guide_2">横モードを設定するには、機器を水平に回転させるします。</string>
     <string name="not_support_site">一部のサイトでは、サポートされないことがあります。</string>
     <string name="restart">再起動</string>
     <string name="down_fail_guide">ファイルが壊れている可能性があります。</string>
@@ -745,4 +748,6 @@
     <string name="size_real">実際のサイズ</string>
     <string name="block_ssl">SSLエラーブロック</string>
     <string name="block_ssl_info">SSLエラーが発生した場合、ページが自動的に安全なページに移動します。</string>
+    <string name="menu_noti_1">メニューアイコンを変更することができません。</string>
+    <string name="menu_noti_2">メニューアイコンは下のバーにのみ配置することができます。</string>
 </resources>

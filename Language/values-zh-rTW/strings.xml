@@ -51,6 +51,10 @@
     <string name="print_success">打印成功</string>
     <string name="print_fail">打印失敗</string>
     <string name="translate">翻譯</string>
+    <string name="trans_tab">翻譯（新分頁）</string>
+    <string name="trans_chrome">翻譯（Chrome）</string>
+    <string name="trans_src">來源</string>
+    <string name="trans_dst">目標</string>
     <string name="find_word">在頁面中查找</string>
     <string name="verify_image">圖片驗證</string>
     <string name="create_album">創建相簿</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">請選擇一個項目</string>
     <string name="video_down">下載影片</string>
     <string name="video_down_guide_0">觀看帶有視頻的網站</string>
-    <string name="video_down_guide_1">當檢測到視頻時，下載按鈕將出現在螢幕底部</string>
+    <string name="video_down_guide_1">檢測到視頻時，屏幕上會出現一個下載按鈕</string>
     <string name="video_down_guide_2">對於無法下載的視頻， 不顯示按鈕</string>
     <string name="video_down_guide_3">在檢測到視頻之前，某些站點需要播放視頻\n不同的站點具有不同的行為</string>
     <string name="video_down_guide_4">根據YouTube政策，YouTube視頻無法下載</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">禁用 JavaScript</string>
     <string name="js_enabled">啟用了 JavaScript</string>
     <string name="js_disabled">JavaScript 已禁用</string>
-    <string name="menu_move">移動選單</string>
-    <string name="menu_move_guide">拖動圖標</string>
-    <string name="menu_change">變更選單</string>
-    <string name="menu_change_guide">單擊圖標</string>
+    <string name="icon_edit_guide_1">1. 單擊圖標更改功能</string>
+    <string name="icon_edit_guide_2">2. 長按圖標可更改位置</string>
     <string name="long_edit_guide">您可以設置按住底欄上的圖標時要使用的功能</string>
     <string name="swipe_edit_guide">您可以設置在向上滑動底部欄上的圖標時要使用的功能</string>
     <string name="long_press">長按</string>
@@ -647,7 +649,8 @@
     <string name="open_with">打開用</string>
     <string name="other_guide">您可以使用其他應用下載</string>
     <string name="double_tap">雙擊</string>
-    <string name="double_tap_guide">您可以不同地設置橫向模式和縱向模式</string>
+    <string name="double_tap_guide_1">您可以不同地設置橫向模式和縱向模式</string>
+    <string name="double_tap_guide_2">要設置橫向模式，請水平旋轉設備</string>
     <string name="not_support_site">某些網站可能不受支持</string>
     <string name="restart">重新開始</string>
     <string name="down_fail_guide">該文件可能已損壞</string>
@@ -745,4 +748,6 @@
     <string name="size_real">真實大小</string>
     <string name="block_ssl">SSL 錯誤阻止</string>
     <string name="block_ssl_info">發生 SSL 錯誤時，頁面將自動轉到安全頁面</string>
+    <string name="menu_noti_1">菜單圖標無法更改</string>
+    <string name="menu_noti_2">菜單圖標只能放在底部欄上</string>
 </resources>

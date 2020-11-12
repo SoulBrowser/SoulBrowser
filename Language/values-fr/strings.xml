@@ -51,6 +51,10 @@
     <string name="print_success">Imprimer succès</string>
     <string name="print_fail">Imprimer échoué</string>
     <string name="translate">Traduire</string>
+    <string name="trans_tab">Traduire (Nouvel onglet)</string>
+    <string name="trans_chrome">Traduire (Chrome)</string>
+    <string name="trans_src">Source</string>
+    <string name="trans_dst">Cible</string>
     <string name="find_word">Rechercher dans page</string>
     <string name="verify_image">Vérification image</string>
     <string name="create_album">Créer album</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">Veuillez sélectionner un article.</string>
     <string name="video_down">Téléchargez la vidéo</string>
     <string name="video_down_guide_0">Visitez le site avec la vidéo.</string>
-    <string name="video_down_guide_1">Lorsqu\'une vidéo est détectée, un bouton de téléchargement apparaît en bas de l\'écran.</string>
+    <string name="video_down_guide_1">Lorsqu\'une vidéo est détectée, un bouton de téléchargement apparaît à l\'écran.</string>
     <string name="video_down_guide_2">Les bouton n\'apparaissent pas pour les vidéo qui ne peuvent pas être téléchargées.</string>
     <string name="video_down_guide_3">Certains sites doivent lire la vidéo avant que la vidéo ne soit détectée.\nDifférents sites ont un comportement différent.</string>
     <string name="video_down_guide_4">En raison de la politique de YouTube, les vidéos YouTube ne peuvent pas être téléchargées.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">Désactiver JavaScript</string>
     <string name="js_enabled">JavaScript est activé.</string>
     <string name="js_disabled">JavaScript est désactivé.</string>
-    <string name="menu_move">Déplacer le menu</string>
-    <string name="menu_move_guide">Faites glisser l\'icône.</string>
-    <string name="menu_change">Changer de menu</string>
-    <string name="menu_change_guide">Cliquez sur l\'icone.</string>
+    <string name="icon_edit_guide_1">1. Cliquez sur l\'icône pour changer la fonction.</string>
+    <string name="icon_edit_guide_2">2. Appuyez longuement sur l\'icône pour modifier l\'emplacement.</string>
     <string name="long_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous maintenez enfoncée l\'icône sur la barre inférieure.</string>
     <string name="swipe_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous faites glisser l\'icône sur la barre inférieure.</string>
     <string name="long_press">Appui long</string>
@@ -647,7 +649,8 @@
     <string name="open_with">Ouvrir avec</string>
     <string name="other_guide">Vous pouvez le télécharger avec une autre application.</string>
     <string name="double_tap">Tapez deux fois</string>
-    <string name="double_tap_guide">Vous pouvez définir le mode paysage et le mode portrait différemment.</string>
+    <string name="double_tap_guide_1">Vous pouvez définir le mode paysage et le mode portrait différemment.</string>
+    <string name="double_tap_guide_2">Pour définir le mode paysage, faites pivoter votre appareil horizontalement.</string>
     <string name="not_support_site">Certains sites peuvent ne pas être pris en charge.</string>
     <string name="restart">Redémarrer</string>
     <string name="down_fail_guide">Le fichier est peut-être endommagé.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">Taille actuelle</string>
     <string name="block_ssl">Blocage des erreurs SSL</string>
     <string name="block_ssl_info">Lorsqu\'une erreur SSL se produit, la page accède automatiquement à une page sécurisée.</string>
+    <string name="menu_noti_1">L\'icône de menu ne peut pas être modifiée.</string>
+    <string name="menu_noti_2">Les icônes de menu ne peuvent être placées que sur la barre inférieure.</string>
 </resources>

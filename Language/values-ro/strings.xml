@@ -51,6 +51,10 @@
     <string name="print_success">Succes de tipărire</string>
     <string name="print_fail">Imprimare eșuată</string>
     <string name="translate">Traduceți</string>
+    <string name="trans_tab">Traduceți (Fila nouă)</string>
+    <string name="trans_chrome">Traduceți (Chrome)</string>
+    <string name="trans_src">Sursa</string>
+    <string name="trans_dst">țintă</string>
     <string name="find_word">Găsiți în pagina</string>
     <string name="verify_image">Verificare imagine</string>
     <string name="create_album">Creare album</string>
@@ -410,7 +414,7 @@
     <string name="local_cast_guide_2">Vă rugăm să selectați un articol.</string>
     <string name="video_down">Descărcați videoclip</string>
     <string name="video_down_guide_0">Accesați site-ul cu videoclipul.</string>
-    <string name="video_down_guide_1">Când este detectat un videoclip, apare un buton de descărcare în partea de jos a ecranului.</string>
+    <string name="video_down_guide_1">Când este detectat un videoclip, pe ecran apare un buton de descărcare.</string>
     <string name="video_down_guide_2">Butonul nu apare pentru videoclipuri care nu pot fi descărcate.</string>
     <string name="video_down_guide_3">Unele site-uri trebuie să redea videoclipul înainte de detectarea videoclipului.\nSite-urile diferite au un comportament diferit.</string>
     <string name="video_down_guide_4">Datorită politicii YouTube, videoclipurile YouTube nu pot fi descărcate.</string>
@@ -593,10 +597,8 @@
     <string name="disable_js">Dezactivați JavaScript</string>
     <string name="js_enabled">JavaScript este activat.</string>
     <string name="js_disabled">JavaScript este dezactivat.</string>
-    <string name="menu_move">Mutați meniul</string>
-    <string name="menu_move_guide">Trageți pictograma.</string>
-    <string name="menu_change">Schimbă meniul</string>
-    <string name="menu_change_guide">Faceți clic pe pictogramă.</string>
+    <string name="icon_edit_guide_1">1. Faceți clic pe pictogramă pentru a schimba funcția.</string>
+    <string name="icon_edit_guide_2">2. Apăsați lung pictograma pentru a schimba locația.</string>
     <string name="long_edit_guide">Puteți seta funcția pe care o utilizați când apăsați și țineți apăsată pictograma de pe bara de jos.</string>
     <string name="swipe_edit_guide">Puteți seta funcția pe care o folosiți atunci când treceți pictograma în bara de jos.</string>
     <string name="long_press">Apasare prelungită</string>
@@ -647,7 +649,8 @@
     <string name="open_with">Buka dengan</string>
     <string name="other_guide">Îl poți descărca cu o altă aplicație.</string>
     <string name="double_tap">Apasare dubla</string>
-    <string name="double_tap_guide">Puteți seta modul peisaj și modul portret diferit.</string>
+    <string name="double_tap_guide_1">Puteți seta modul peisaj și modul portret diferit.</string>
+    <string name="double_tap_guide_2">Pentru a seta modul peisaj, rotiți dispozitivul pe orizontală.</string>
     <string name="not_support_site">Este posibil ca unele site-uri să nu fie acceptate.</string>
     <string name="restart">Repornire</string>
     <string name="down_fail_guide">Fișierul poate fi deteriorat.</string>
@@ -745,4 +748,6 @@
     <string name="size_real">Dimensiunea reală</string>
     <string name="block_ssl">Blocare eroare SSL</string>
     <string name="block_ssl_info">Când apare o eroare SSL, pagina trece automat la o pagină sigură.</string>
+    <string name="menu_noti_1">Pictograma meniului nu poate fi modificată.</string>
+    <string name="menu_noti_2">Pictogramele meniului pot fi plasate numai pe bara de jos.</string>
 </resources>
