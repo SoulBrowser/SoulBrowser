@@ -598,7 +598,7 @@
     <string name="js_enabled">JavaScript está habilitado.</string>
     <string name="js_disabled">JavaScript está desactivado.</string>
     <string name="icon_edit_guide_1">1. Haga clic en el icono para cambiar la función.</string>
-    <string name="icon_edit_guide_2">2. Mantenga presionado el icono para cambiar la ubicación.</string>
+    <string name="icon_edit_guide_2">2. Arrastre el icono para cambiar su posición.</string>
     <string name="long_edit_guide">Puede configurar la función para usar cuando mantiene presionado el icono en la barra inferior.</string>
     <string name="swipe_edit_guide">Puede configurar la función para usar al deslizar hacia arriba el icono en la barra inferior.</string>
     <string name="long_press">Pulsación larga</string>

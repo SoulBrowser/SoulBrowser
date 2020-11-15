@@ -598,7 +598,7 @@
     <string name="js_enabled">JavaScript è abilitato.</string>
     <string name="js_disabled">JavaScript è disabilitato.</string>
     <string name="icon_edit_guide_1">1. Fare clic sull\'icona per modificare la funzione.</string>
-    <string name="icon_edit_guide_2">2. Premere a lungo l\'icona per modificare la posizione.</string>
+    <string name="icon_edit_guide_2">2. Trascina l\'icona per modificarne la posizione.</string>
     <string name="long_edit_guide">È possibile impostare la funzione da utilizzare quando si tiene premuta l\'icona sulla barra in basso.</string>
     <string name="swipe_edit_guide">È possibile impostare la funzione da utilizzare quando si scorre verso l\'alto l\'icona sulla barra in basso.</string>
     <string name="long_press">Premere a lungo</string>

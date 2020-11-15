@@ -598,7 +598,7 @@
     <string name="js_enabled">JavaScript увімкнено.</string>
     <string name="js_disabled">JavaScript вимкнено.</string>
     <string name="icon_edit_guide_1">1. Клацніть на піктограму, щоб змінити функцію.</string>
-    <string name="icon_edit_guide_2">2. Довго натискайте піктограму, щоб змінити місце розташування.</string>
+    <string name="icon_edit_guide_2">2. Перетягніть піктограму, щоб змінити її положення.</string>
     <string name="long_edit_guide">Ви можете встановити функцію, яку потрібно використовувати, натискаючи та утримуючи піктограму на нижній панелі.</string>
     <string name="swipe_edit_guide">Ви можете встановити функцію, яка буде використовуватись під час розгортання значка на нижній панелі.</string>
     <string name="long_press">Тривале натискання</string>

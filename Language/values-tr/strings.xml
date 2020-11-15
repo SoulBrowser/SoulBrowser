@@ -598,7 +598,7 @@
     <string name="js_enabled">JavaScript etkinleştirildi.</string>
     <string name="js_disabled">JavaScript devre dışı bırakıldı.</string>
     <string name="icon_edit_guide_1">1. İşlevi değiştirmek için simgeye tıklayın.</string>
-    <string name="icon_edit_guide_2">2. Konumu değiştirmek için simgeye uzun basın.</string>
+    <string name="icon_edit_guide_2">2. Konumunu değiştirmek için simgeyi sürükleyin.</string>
     <string name="long_edit_guide">Alt çubuktaki simgeyi basılı tuttuğunuzda kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="swipe_edit_guide">Alt çubuktaki simgeyi yukarı kaydırırken kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="long_press">Uzun basma</string>

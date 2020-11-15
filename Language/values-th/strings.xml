@@ -598,7 +598,7 @@
     <string name="js_enabled">เปิดใช้งาน JavaScript</string>
     <string name="js_disabled">JavaScript ถูกปิดใช้งาน</string>
     <string name="icon_edit_guide_1">1. คลิกไอคอนเพื่อเปลี่ยนฟังก์ชัน</string>
-    <string name="icon_edit_guide_2">2. กดไอคอนค้างไว้เพื่อเปลี่ยนตำแหน่ง</string>
+    <string name="icon_edit_guide_2">2. ลากไอคอนเพื่อเปลี่ยนตำแหน่ง</string>
     <string name="long_edit_guide">คุณสามารถตั้งค่าฟังก์ชั่นที่จะใช้เมื่อคุณกดไอคอนบนแถบด้านล่างค้างไว้</string>
     <string name="swipe_edit_guide">คุณสามารถตั้งค่าฟังก์ชั่นที่จะใช้เมื่อปัดขึ้นไอคอนบนแถบด้านล่าง</string>
     <string name="long_press">กดแบบยาว</string>

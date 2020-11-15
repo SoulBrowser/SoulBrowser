@@ -598,7 +598,7 @@
     <string name="js_enabled">JavaScript diaktifkan.</string>
     <string name="js_disabled">JavaScript dinonaktifkan.</string>
     <string name="icon_edit_guide_1">1. Klik ikon tersebut untuk mengubah fungsinya.</string>
-    <string name="icon_edit_guide_2">2. Tekan lama ikon untuk mengubah lokasi.</string>
+    <string name="icon_edit_guide_2">2. Seret ikon untuk mengubah posisinya.</string>
     <string name="long_edit_guide">Anda dapat mengatur fungsi untuk digunakan saat Anda menekan dan menahan ikon di bilah bawah.</string>
     <string name="swipe_edit_guide">Anda dapat mengatur fungsi yang akan digunakan saat menggesek ikon di bar bagian bawah.</string>
     <string name="long_press">Tekan lama</string>

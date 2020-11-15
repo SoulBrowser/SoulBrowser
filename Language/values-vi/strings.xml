@@ -598,7 +598,7 @@
     <string name="js_enabled">JavaScript được kích hoạt.</string>
     <string name="js_disabled">JavaScript bị tắt.</string>
     <string name="icon_edit_guide_1">1. Nhấp vào biểu tượng để thay đổi chức năng.</string>
-    <string name="icon_edit_guide_2">2. Nhấn và giữ biểu tượng để thay đổi vị trí.</string>
+    <string name="icon_edit_guide_2">2. Kéo biểu tượng để thay đổi vị trí của nó.</string>
     <string name="long_edit_guide">Bạn có thể đặt chức năng sử dụng khi nhấn và giữ biểu tượng trên thanh dưới cùng.</string>
     <string name="swipe_edit_guide">Bạn có thể thiết lập chức năng để sử dụng khi vuốt lên biểu tượng trên thanh dưới cùng.</string>
     <string name="long_press">Nhấn dài</string>

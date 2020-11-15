@@ -598,7 +598,7 @@
     <string name="js_enabled">JavaScript включен.</string>
     <string name="js_disabled">JavaScript отключен.</string>
     <string name="icon_edit_guide_1">1. Щелкните значок, чтобы изменить функцию.</string>
-    <string name="icon_edit_guide_2">2. Нажмите и удерживайте значок, чтобы изменить местоположение.</string>
+    <string name="icon_edit_guide_2">2. Перетащите значок, чтобы изменить его положение.</string>
     <string name="long_edit_guide">Вы можете установить функцию, выполняемую при нажатии и удержании кнопки на нижней панели.</string>
     <string name="swipe_edit_guide">Вы можете установить функцию, выполняемую при проведении вверх от кнопки на нижней панели.</string>
     <string name="long_press">Долгое нажатие</string>

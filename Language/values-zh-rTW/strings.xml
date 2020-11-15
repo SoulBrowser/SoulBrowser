@@ -598,7 +598,7 @@
     <string name="js_enabled">啟用了 JavaScript</string>
     <string name="js_disabled">JavaScript 已禁用</string>
     <string name="icon_edit_guide_1">1. 單擊圖標更改功能</string>
-    <string name="icon_edit_guide_2">2. 長按圖標可更改位置</string>
+    <string name="icon_edit_guide_2">2. 拖動圖標以更改其位置</string>
     <string name="long_edit_guide">您可以設置按住底欄上的圖標時要使用的功能</string>
     <string name="swipe_edit_guide">您可以設置在向上滑動底部欄上的圖標時要使用的功能</string>
     <string name="long_press">長按</string>

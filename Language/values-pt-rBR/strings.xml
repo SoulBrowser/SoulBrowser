@@ -598,7 +598,7 @@
     <string name="js_enabled">JavaScript está habilitado.</string>
     <string name="js_disabled">JavaScript está desabilitado.</string>
     <string name="icon_edit_guide_1">1. Clique no ícone para alterar a função.</string>
-    <string name="icon_edit_guide_2">2. Pressione longamente o ícone para alterar o local.</string>
+    <string name="icon_edit_guide_2">2. Arraste o ícone para alterar sua posição.</string>
     <string name="long_edit_guide">Você pode definir a função a ser usada quando pressionar e segurar o ícone na barra inferior.</string>
     <string name="swipe_edit_guide">Você pode definir a função a usar ao deslizar o ícone na barra inferior.</string>
     <string name="long_press">Pressionamento</string>

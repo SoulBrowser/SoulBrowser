@@ -598,7 +598,7 @@
     <string name="js_enabled">JavaScript jest włączony.</string>
     <string name="js_disabled">JavaScript jest wyłączony.</string>
     <string name="icon_edit_guide_1">1. Kliknij ikonę, aby zmienić funkcję.</string>
-    <string name="icon_edit_guide_2">2. Długo naciśnij ikonę, aby zmienić lokalizację.</string>
+    <string name="icon_edit_guide_2">2. Przeciągnij ikonę, aby zmienić jej położenie.</string>
     <string name="long_edit_guide">Możesz ustawić funkcję, która będzie używana po naciśnięciu i przytrzymaniu ikony na dolnym pasku.</string>
     <string name="swipe_edit_guide">Możesz ustawić funkcję, która będzie używana podczas przesuwania w górę ikony na dolnym pasku.</string>
     <string name="long_press">Długie naciśnięcie</string>

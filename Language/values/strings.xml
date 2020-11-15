@@ -598,7 +598,7 @@
     <string name="js_enabled">JavaScript is enabled.</string>
     <string name="js_disabled">JavaScript is disabled.</string>
     <string name="icon_edit_guide_1">1. Click the icon to change the function.</string>
-    <string name="icon_edit_guide_2">2. Long press the icon to change the location.</string>
+    <string name="icon_edit_guide_2">2. Drag the icon to change the position.</string>
     <string name="long_edit_guide">You can set the function to use when you press and hold the icon on the bottom bar.</string>
     <string name="swipe_edit_guide">You can set the function to use when swiping up the icon on the bottom bar.</string>
     <string name="long_press">Long press</string>
