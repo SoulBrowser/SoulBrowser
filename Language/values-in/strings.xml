@@ -750,4 +750,9 @@
     <string name="block_ssl_info">Ketika terjadi kesalahan SSL, halaman secara otomatis masuk ke halaman aman.</string>
     <string name="menu_noti_1">Ikon menu tidak dapat diubah.</string>
     <string name="menu_noti_2">Ikon menu hanya dapat ditempatkan di bilah bawah.</string>
+    <string name="screen_filter">Filter layar</string>
+    <string name="filter_color">Warna filter</string>
+    <string name="always_use">Selalu gunakan</string>
+    <string name="only_night">Hanya digunakan dalam mode malam</string>
+    <string name="night_mode">Mode malam</string>
 </resources>

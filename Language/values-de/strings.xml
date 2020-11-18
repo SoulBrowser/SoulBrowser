@@ -750,4 +750,9 @@
     <string name="block_ssl_info">Wenn ein SSL-Fehler auftritt, wechselt die Seite automatisch zu einer sicheren Seite.</string>
     <string name="menu_noti_1">Das Menüsymbol kann nicht geändert werden.</string>
     <string name="menu_noti_2">Menüsymbole können nur in der unteren Leiste platziert werden.</string>
+    <string name="screen_filter">Bildschirmfilter</string>
+    <string name="filter_color">Filterfarbe</string>
+    <string name="always_use">Verwenden Sie immer</string>
+    <string name="only_night">Wird nur im Nachtmodus verwendet</string>
+    <string name="night_mode">Nacht-Modus</string>
 </resources>

@@ -750,4 +750,9 @@
     <string name="block_ssl_info">When an SSL error occurs, the page automatically goes to a safe page.</string>
     <string name="menu_noti_1">Menu icon cannot be changed.</string>
     <string name="menu_noti_2">Menu icons can only be placed on the bottom bar.</string>
+    <string name="screen_filter">Screen filter</string>
+    <string name="filter_color">Filter color</string>
+    <string name="always_use">Always use</string>
+    <string name="only_night">Only used in night mode</string>
+    <string name="night_mode">Night mode</string>
 </resources>

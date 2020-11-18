@@ -750,4 +750,9 @@
     <string name="block_ssl_info">Коли виникає помилка SSL, сторінка автоматично переходить на безпечну сторінку.</string>
     <string name="menu_noti_1">Піктограму меню змінити не можна.</string>
     <string name="menu_noti_2">Значки меню можна розміщувати лише на нижній панелі.</string>
+    <string name="screen_filter">Екранний фільтр</string>
+    <string name="filter_color">Колір фільтра</string>
+    <string name="always_use">Завжди використовуйте</string>
+    <string name="only_night">Використовується лише в нічному режимі</string>
+    <string name="night_mode">Нічний режим</string>
 </resources>

@@ -750,4 +750,9 @@
     <string name="block_ssl_info">SSL 오류가 발생하면 자동으로 안전한 페이지로 이동합니다.</string>
     <string name="menu_noti_1">메뉴 아이콘은 변경할 수 없습니다.</string>
     <string name="menu_noti_2">메뉴 아이콘은 하단바에만 배치할 수 있습니다.</string>
+    <string name="screen_filter">화면 필터</string>
+    <string name="filter_color">필터 색상</string>
+    <string name="always_use">항상 사용</string>
+    <string name="only_night">야간 모드에만 사용</string>
+    <string name="night_mode">야간 모드</string>
 </resources>

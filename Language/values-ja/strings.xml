@@ -750,4 +750,9 @@
     <string name="block_ssl_info">SSLエラーが発生した場合、ページが自動的に安全なページに移動します。</string>
     <string name="menu_noti_1">メニューアイコンを変更することができません。</string>
     <string name="menu_noti_2">メニューアイコンは下のバーにのみ配置することができます。</string>
+    <string name="screen_filter">スクリーンフィルター</string>
+    <string name="filter_color">フィルタの色</string>
+    <string name="always_use">常に使用</string>
+    <string name="only_night">夜間モードでのみ使用</string>
+    <string name="night_mode">ナイトモード</string>
 </resources>

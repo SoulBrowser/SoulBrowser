@@ -750,4 +750,9 @@
     <string name="block_ssl_info">Când apare o eroare SSL, pagina trece automat la o pagină sigură.</string>
     <string name="menu_noti_1">Pictograma meniului nu poate fi modificată.</string>
     <string name="menu_noti_2">Pictogramele meniului pot fi plasate numai pe bara de jos.</string>
+    <string name="screen_filter">Filtru ecran</string>
+    <string name="filter_color">Culoarea filtrului</string>
+    <string name="always_use">Folosiți întotdeauna</string>
+    <string name="only_night">Folosit numai în modul de noapte</string>
+    <string name="night_mode">Mod de noapte</string>
 </resources>

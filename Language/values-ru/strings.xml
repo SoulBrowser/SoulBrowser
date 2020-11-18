@@ -750,4 +750,9 @@
     <string name="block_ssl_info">При возникновении ошибки SSL страница автоматически переходит на безопасную страницу.</string>
     <string name="menu_noti_1">Значок меню изменить нельзя.</string>
     <string name="menu_noti_2">Иконки меню можно разместить только на нижней панели.</string>
+    <string name="screen_filter">Сетчатый фильтр</string>
+    <string name="filter_color">Цвет фильтра</string>
+    <string name="always_use">Всегда используйте</string>
+    <string name="only_night">Используется только в ночном режиме</string>
+    <string name="night_mode">Ночной режим</string>
 </resources>

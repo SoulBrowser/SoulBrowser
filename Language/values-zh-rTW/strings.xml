@@ -750,4 +750,9 @@
     <string name="block_ssl_info">發生 SSL 錯誤時，頁面將自動轉到安全頁面</string>
     <string name="menu_noti_1">菜單圖標無法更改</string>
     <string name="menu_noti_2">菜單圖標只能放在底部欄上</string>
+    <string name="screen_filter">屏幕過濾器</string>
+    <string name="filter_color">濾色</string>
+    <string name="always_use">一律使用</string>
+    <string name="only_night">僅在夜間模式下使用</string>
+    <string name="night_mode">夜間模式</string>
 </resources>

@@ -750,4 +750,9 @@
     <string name="block_ssl_info">Quando ocorre um erro de SSL, a página vai automaticamente para uma página segura.</string>
     <string name="menu_noti_1">O ícone do menu não pode ser alterado.</string>
     <string name="menu_noti_2">Os ícones do menu só podem ser colocados na barra inferior.</string>
+    <string name="screen_filter">Filtro de tela</string>
+    <string name="filter_color">Cor do filtro</string>
+    <string name="always_use">Sempre use</string>
+    <string name="only_night">Usado apenas no modo noturno</string>
+    <string name="night_mode">Modo noturno</string>
 </resources>

@@ -750,4 +750,9 @@
     <string name="block_ssl_info">เมื่อเกิดข้อผิดพลาด SSL เพจจะไปที่เซฟเพจโดยอัตโนมัติ</string>
     <string name="menu_noti_1">ไม่สามารถเปลี่ยนไอคอนเมนูได้</string>
     <string name="menu_noti_2">ไอคอนเมนูสามารถวางได้ที่แถบด้านล่างเท่านั้น</string>
+    <string name="screen_filter">ตัวกรองหน้าจอ</string>
+    <string name="filter_color">กรองสี</string>
+    <string name="always_use">ใช้เสมอ</string>
+    <string name="only_night">ใช้ในโหมดกลางคืนเท่านั้น</string>
+    <string name="night_mode">โหมดกลางคืน</string>
 </resources>
