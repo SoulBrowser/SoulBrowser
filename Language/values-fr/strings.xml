@@ -197,8 +197,8 @@
     <string name="double_back">Retour bouton deux fois à la sortie de application</string>
     <string name="press_again">Appuyez à nouveau pour quitter.</string>
     <string name="last_noti">Notification de dernière page</string>
-    <string name="last_noti_info">En appuyant sur la touche de retour sur la dernière page, vous notifiez qu\'il s\'agit de la dernière page.</string>
-    <string name="last_page_noti">Dernière page</string>
+    <string name="last_noti_info">Si vous cliquez sur le bouton Précédent sur la dernière page de l\'onglet, il est averti qu\'il s\'agit de la dernière page de l\'onglet.</string>
+    <string name="last_page_noti">Ceci est la dernière page de l\'onglet.</string>
     <string name="title">Titre</string>
     <string name="artist">Artiste</string>
     <string name="album">Album</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Éditeur de photos</string>
     <string name="color_size">Épaisseur</string>
     <string name="color_alpha">Transparence</string>
+    <string name="bottom_size">Taille de la barre inférieure</string>
+    <string name="tabbar_size">Taille de la barre d\'onglets</string>
+    <string name="size_width">Largeur</string>
+    <string name="size_height">la taille</string>
     <string name="exit_with_save">Sauvegarder et quitter</string>
     <string name="exit_without_save">Quitter sans sauvegarder</string>
     <string name="camera_fail">Échec de lancement de la caméra.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Glissez vers le bas avec deux doigts pour retirer l\'onglet.</string>
     <string name="show_scroll">Afficher barre défilement</string>
     <string name="show_up">Afficher le bouton go to top</string>
-    <string name="text_preview">Ajustez ce texte pour le rendre confortable.</string>
     <string name="qrcode_title">Code QR</string>
     <string name="show_qrcode">Afficher bouton code QR</string>
     <string name="voice_title">Recherche vocale</string>
@@ -505,7 +508,7 @@
     <string name="show_left">Gauche</string>
     <string name="show_center">Centre</string>
     <string name="show_right">Côté droit</string>
-    <string name="tip">Pointe</string>
+    <string name="tip">Allusion</string>
     <string name="web_content">Contenu Web</string>
     <string name="customize">Personnalisation</string>
     <string name="font">Font</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Droite</string>
     <string name="swipe_guide_1">1. Cliquez sur la zone pour changer la fonction.</string>
     <string name="swipe_guide_2">2. Faites glisser la zone pour modifier la taille.</string>
+    <string name="small_icon">Petite icône</string>
     <string name="small_list">Petite liste</string>
     <string name="large_list">Grande liste</string>
     <string name="icon_mode">Mode icône</string>

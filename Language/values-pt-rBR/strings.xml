@@ -197,8 +197,8 @@
     <string name="double_back">Botão Voltar duas vezes para a sair do app</string>
     <string name="press_again">Pressione novamente para sair.</string>
     <string name="last_noti">Notificação da última página</string>
-    <string name="last_noti_info">Pressionar a tecla Voltar na última página notifica que é a última página.</string>
-    <string name="last_page_noti">Última página</string>
+    <string name="last_noti_info">Se você clicar no botão Anterior na última página da guia, ele será notificado de que é a última página da guia.</string>
+    <string name="last_page_noti">Esta é a última página da guia.</string>
     <string name="title">Título</string>
     <string name="artist">Artista</string>
     <string name="album">Álbum</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Editor de fotos</string>
     <string name="color_size">Espessura</string>
     <string name="color_alpha">Transparência</string>
+    <string name="bottom_size">Tamanho da barra inferior</string>
+    <string name="tabbar_size">Tamanho da barra da guia</string>
+    <string name="size_width">Largura</string>
+    <string name="size_height">Altura</string>
     <string name="exit_with_save">Salvar e sair</string>
     <string name="exit_without_save">Sair sem salvar</string>
     <string name="camera_fail">A câmera falhou ao iniciar.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Deslize para baixo com dois dedos para fechar a aba.</string>
     <string name="show_scroll">Mostrar barra rolagem</string>
     <string name="show_up">Mostrar botão Ir para o topo</string>
-    <string name="text_preview">Ajuste este texto para torná-lo confortável.</string>
     <string name="qrcode_title">Código QR</string>
     <string name="show_qrcode">Mostrar botão código QR</string>
     <string name="voice_title">Pesquisa por voz</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Direita</string>
     <string name="swipe_guide_1">1. Clique na área para alterar a função.</string>
     <string name="swipe_guide_2">2. Arraste a área para alterar o tamanho.</string>
+    <string name="small_icon">Ícone pequeno</string>
     <string name="small_list">Lista pequena</string>
     <string name="large_list">Lista grande</string>
     <string name="icon_mode">Modo de ícone</string>

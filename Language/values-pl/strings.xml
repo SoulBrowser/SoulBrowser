@@ -197,8 +197,8 @@
     <string name="double_back">Dwa razy przycisk Wstecz, aby wyjść z aplikacji</string>
     <string name="press_again">Naciśnij ponownie, aby wyjść.</string>
     <string name="last_noti">Powiadomienie o ostatniej stronie</string>
-    <string name="last_noti_info">Naciśnięcie przycisku Wstecz na ostatniej stronie informuje, że jest to ostatnia strona.</string>
-    <string name="last_page_noti">Ostatnia strona</string>
+    <string name="last_noti_info">Jeśli klikniesz przycisk Wstecz na ostatniej stronie karty, zostanie wyświetlone powiadomienie, że jest to ostatnia strona karty.</string>
+    <string name="last_page_noti">To jest ostatnia strona zakładki.</string>
     <string name="title">Tytuł</string>
     <string name="artist">Artysta</string>
     <string name="album">Albumu</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Edytor zdjęć</string>
     <string name="color_size">Grubość</string>
     <string name="color_alpha">Przezroczystość</string>
+    <string name="bottom_size">Rozmiar dolnego paska</string>
+    <string name="tabbar_size">Rozmiar paska kart</string>
+    <string name="size_width">Szerokość</string>
+    <string name="size_height">Wysokość</string>
     <string name="exit_with_save">Zapisz i wyjdź</string>
     <string name="exit_without_save">Wyjdź bez zapisywania</string>
     <string name="camera_fail">Uruchomienie aparatu nie powiodło się.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Przesuń dwoma palcami w dół, aby usunąć kartę.</string>
     <string name="show_scroll">Pokaż pasek przewijania</string>
     <string name="show_up">Pokaż idź do górnego przycisku</string>
-    <string name="text_preview">Dostosuj ten tekst, aby był wygodny.</string>
     <string name="qrcode_title">Kodu QR</string>
     <string name="show_qrcode">Pokaż przycisk kodu QR</string>
     <string name="voice_title">Szukanie głosowe</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Prawo</string>
     <string name="swipe_guide_1">1. Kliknij obszar, aby zmienić funkcję.</string>
     <string name="swipe_guide_2">2. Przeciągnij obszar, aby zmienić rozmiar.</string>
+    <string name="small_icon">Mała ikona</string>
     <string name="small_list">Mała lista</string>
     <string name="large_list">Duża lista</string>
     <string name="icon_mode">Tryb ikon</string>

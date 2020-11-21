@@ -197,8 +197,8 @@
     <string name="double_back">이전 버튼 두번 눌러 앱 종료</string>
     <string name="press_again">한번 더 누르면 종료됩니다.</string>
     <string name="last_noti">마지막 페이지 알림</string>
-    <string name="last_noti_info">마지막 페이지에서 이전 버튼을 누르면, 마지막 페이지임을 알립니다.</string>
-    <string name="last_page_noti">마지막 페이지입니다.</string>
+    <string name="last_noti_info">탭의 마지막 페이지에서 이전 버튼을 누르면, 탭의 마지막 페이지임을 알립니다.</string>
+    <string name="last_page_noti">탭의 마지막 페이지입니다.</string>
     <string name="title">제목</string>
     <string name="artist">가수</string>
     <string name="album">앨범</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">포토 에디터</string>
     <string name="color_size">굵기</string>
     <string name="color_alpha">투명도</string>
+    <string name="bottom_size">하단바 크기</string>
+    <string name="tabbar_size">탭바 크기</string>
+    <string name="size_width">폭</string>
+    <string name="size_height">높이</string>
     <string name="exit_with_save">저장 후 종료</string>
     <string name="exit_without_save">저장 안하고 종료</string>
     <string name="camera_fail">카메라를 실행하지 못했습니다.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">두 손가락으로 아래로 스와이프하여 탭을 제거합니다.</string>
     <string name="show_scroll">스크롤바 표시</string>
     <string name="show_up">맨 위로 이동 버튼 표시</string>
-    <string name="text_preview">이 글자가 편하게 보이도록 조절해 주세요.</string>
     <string name="qrcode_title">QR코드</string>
     <string name="show_qrcode">QR코드 버튼 표시</string>
     <string name="voice_title">음성 검색</string>
@@ -505,7 +508,7 @@
     <string name="show_left">왼쪽</string>
     <string name="show_center">가운데</string>
     <string name="show_right">오른쪽</string>
-    <string name="tip">팁</string>
+    <string name="tip">힌트</string>
     <string name="web_content">웹 컨텐츠</string>
     <string name="customize">커스터마이징</string>
     <string name="font">폰트</string>
@@ -633,6 +636,7 @@
     <string name="move_right">오른쪽</string>
     <string name="swipe_guide_1">1. 영역을 클릭하여 기능을 변경하세요.</string>
     <string name="swipe_guide_2">2. 영역을 드래그하여 크기를 변경하세요.</string>
+    <string name="small_icon">작은 아이콘</string>
     <string name="small_list">작은 리스트</string>
     <string name="large_list">큰 리스트</string>
     <string name="icon_mode">아이콘 모드</string>

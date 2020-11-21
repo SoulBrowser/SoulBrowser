@@ -197,8 +197,8 @@
     <string name="double_back">Натиснути двічі для виходу із браузера</string>
     <string name="press_again">Натисніть ще раз, щоб вийти.</string>
     <string name="last_noti">Повідомлення про останню сторінку</string>
-    <string name="last_noti_info">Натискання кнопки Назад на останній сторінці повідомляє, що це остання сторінка.</string>
-    <string name="last_page_noti">Остання сторінка</string>
+    <string name="last_noti_info">Якщо натиснути кнопку Попередній на останній сторінці вкладки, буде повідомлено, що це остання сторінка вкладки.</string>
+    <string name="last_page_noti">Це остання сторінка вкладки.</string>
     <string name="title">Назва</string>
     <string name="artist">Виконавець</string>
     <string name="album">Альбом</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">фоторедактор</string>
     <string name="color_size">Товщина</string>
     <string name="color_alpha">Прозорість</string>
+    <string name="bottom_size">Розмір нижньої панелі</string>
+    <string name="tabbar_size">Розмір панелі вкладок</string>
+    <string name="size_width">Ширина</string>
+    <string name="size_height">Висота</string>
     <string name="exit_with_save">Зберегти і вийти</string>
     <string name="exit_without_save">Вийти без збереження</string>
     <string name="camera_fail">Не вдалося запустити камеру.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Щоб зняти вкладку, проведіть вниз двома пальцями.</string>
     <string name="show_scroll">Показати смугу прокрутки</string>
     <string name="show_up">Показати кнопку переходу вгору</string>
-    <string name="text_preview">Відрегулюйте цей текст, щоб він виглядав зручно.</string>
     <string name="qrcode_title">QR-код</string>
     <string name="show_qrcode">Показати кнопку QR-коду</string>
     <string name="voice_title">Голосовий пошук</string>
@@ -505,7 +508,7 @@
     <string name="show_left">Ліворуч</string>
     <string name="show_center">Центр</string>
     <string name="show_right">Праворуч</string>
-    <string name="tip">Порада</string>
+    <string name="tip">Підказка</string>
     <string name="web_content">Веб-вміст</string>
     <string name="customize">Налаштування користувача</string>
     <string name="font">Шрифт</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Праворуч</string>
     <string name="swipe_guide_1">1. Натиснiть на область, щоб змінити функцію.</string>
     <string name="swipe_guide_2">2. Перетягніть область, щоб змінити розмір.</string>
+    <string name="small_icon">Невеликий значок</string>
     <string name="small_list">Список (зменшений шрифт)</string>
     <string name="large_list">Список (збільшений шрифт)</string>
     <string name="icon_mode">Режим значків</string>

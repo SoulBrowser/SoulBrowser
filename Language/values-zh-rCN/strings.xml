@@ -102,7 +102,7 @@
     <string name="tab_gesture">标签手势</string>
     <string name="pop_block">弹出窗口阻止程序</string>
     <string name="app_block">阻止执行应用</string>
-    <string name="app_block_info">阻止网站运行其他应用程序</string>
+    <string name="app_block_info">阻止网站运行其它应用程序</string>
     <string name="app_block_noti">该网站正在尝试运行另一个应用程序</string>
     <string name="link">链接</string>
     <string name="open_url">打开</string>
@@ -188,17 +188,17 @@
     <string name="page">网页</string>
     <string name="delete_cache">清除缓存</string>
     <string name="cache">缓存</string>
-    <string name="cache_info">网页浏览期间创建的文件（示例 : 图像）</string>
+    <string name="cache_info">网页浏览期间创建的文件（示例：图像）</string>
     <string name="cookie">Cookie</string>
-    <string name="cookie_info">网页浏览期间创建的信息（示例 : 登录信息）</string>
+    <string name="cookie_info">网页浏览期间创建的信息（示例：登录信息）</string>
     <string name="no_rotate">禁用旋屏</string>
     <string name="screen_rotate_info">始终竖屏显示</string>
     <string name="vol_scroll">使用音量键滚动网页</string>
     <string name="double_back">双击返回按钮退出应用程序</string>
     <string name="press_again">再按一次退出</string>
     <string name="last_noti">最后一页提示</string>
-    <string name="last_noti_info">在最后一页上点击返回按钮将提示它是最后一页</string>
-    <string name="last_page_noti">最后一页</string>
+    <string name="last_noti_info">如果单击选项卡最后一页上的\'上一步\'按钮，则会通知它是选项卡最后一页</string>
+    <string name="last_page_noti">这是选项卡的最后一页</string>
     <string name="title">主题</string>
     <string name="artist">艺术家</string>
     <string name="album">相册</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">图像编辑器</string>
     <string name="color_size">厚度</string>
     <string name="color_alpha">透明度</string>
+    <string name="bottom_size">底栏尺寸</string>
+    <string name="tabbar_size">标签栏尺寸</string>
+    <string name="size_width">宽度</string>
+    <string name="size_height">高度</string>
     <string name="exit_with_save">保存并退出</string>
     <string name="exit_without_save">退出而不保存</string>
     <string name="camera_fail">相机无法启动</string>
@@ -363,7 +367,7 @@
     <string name="file_name">文件名称</string>
     <string name="real_name">真正的名字</string>
     <string name="prefix">字首</string>
-    <string name="clean_mode">清理模式</string>
+    <string name="clean_mode">纯净模式</string>
     <string name="site">网站</string>
     <string name="storage">存储</string>
     <string name="gesture">手势</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">用双指向下划动以移除标签</string>
     <string name="show_scroll">显示滚动条</string>
     <string name="show_up">显示转到顶部按钮</string>
-    <string name="text_preview">调整此文本以使其看起来舒适</string>
     <string name="qrcode_title">二维码</string>
     <string name="show_qrcode">二维码按钮显示</string>
     <string name="voice_title">语音搜索</string>
@@ -442,7 +445,7 @@
     <string name="page_no_image">此页面上没有图像。</string>
     <string name="touch_lock">触控锁</string>
     <string name="touch_lock_guide_1">视频播放期间触控被禁用</string>
-    <string name="touch_lock_guide_2">你可以在设置中设置解锁方法</string>
+    <string name="touch_lock_guide_2">你可以在\'设置\'中设置解锁方法</string>
     <string name="touch_lock_info">锁定屏幕以在视频播放期间禁用触控</string>
     <string name="touch_locked">触控已锁定</string>
     <string name="touch_unlocked">触控解锁</string>
@@ -505,7 +508,7 @@
     <string name="show_left">左边</string>
     <string name="show_center">中心</string>
     <string name="show_right">右边</string>
-    <string name="tip">提示</string>
+    <string name="tip">暗示</string>
     <string name="web_content">网页内容</string>
     <string name="customize">个人设置</string>
     <string name="font">字体</string>
@@ -598,7 +601,7 @@
     <string name="js_enabled">已启用 JavaScript</string>
     <string name="js_disabled">已禁用 JavaScript</string>
     <string name="icon_edit_guide_1">1. 单击图标更改功能</string>
-    <string name="icon_edit_guide_2">2. 拖动图标以更改其位置</string>
+    <string name="icon_edit_guide_2">2. 拖动图标以更改位置</string>
     <string name="long_edit_guide">你可以设置按住底栏上的图标时要使用的功能</string>
     <string name="swipe_edit_guide">你可以设置在向上划动底栏上图标时要使用的功能</string>
     <string name="long_press">长按</string>
@@ -633,6 +636,7 @@
     <string name="move_right">右</string>
     <string name="swipe_guide_1">1. 单击该区域以更改功能</string>
     <string name="swipe_guide_2">2. 拖动区域以更改大小</string>
+    <string name="small_icon">小图标</string>
     <string name="small_list">小列表</string>
     <string name="large_list">大列表</string>
     <string name="icon_mode">图标式</string>
@@ -649,7 +653,7 @@
     <string name="open_with">打开</string>
     <string name="other_guide">你可以使用其它应用下载</string>
     <string name="double_tap">双击</string>
-    <string name="double_tap_guide_1">你可以不同地设置横向模式和纵向模式</string>
+    <string name="double_tap_guide_1">您可以不同地设置横向模式和纵向模式</string>
     <string name="double_tap_guide_2">要设置横向模式，请水平旋转设备</string>
     <string name="not_support_site">某些网站可能不受支持</string>
     <string name="restart">重新开始</string>
@@ -709,7 +713,7 @@
     <string name="dev_greet_1">我想让所有用户满意\n但这是非常困难的\n在此应用程序中实现的功能只是许多用户请求的一小部分\n许多用户请求仍待处理</string>
     <string name="dev_greet_2">因为我缺乏能力\n随着发展的进步，我感到自己的能力有限\n我很抱歉</string>
     <string name="dev_greet_3">更新将持续到每个人都满意为止</string>
-    <string name="dev_greet_4">PS: 我无法回复所有电子邮件\n但是我读了所有电子邮件</string>
+    <string name="dev_greet_4">PS：我无法回复所有电子邮件\n但是我读了所有电子邮件</string>
     <string name="prevent_pay">防止意外付款</string>
     <string name="input_answer">请输入答案</string>
     <string name="correct_answer">正确答案是 %d</string>
@@ -730,7 +734,7 @@
     <string name="only_https">与 HTTPS 连接</string>
     <string name="only_https_info">默认情况下，它与 HTTPS 连接\n不支持 HTTPS 的站点可能无法连接</string>
     <string name="try_http">使用 HTTP 重试</string>
-    <string name="try_http_info">如果使用 HTTPS 失败，它将使用HTTP重试\nHTTP 容易受到安全性的影响</string>
+    <string name="try_http_info">如果使用 HTTPS 失败，它将使用 HTTP 重试\nHTTP 容易受到安全性的影响</string>
     <string name="page_home_info">当你点击主页图标时</string>
     <string name="page_start_info">启动应用程序时</string>
     <string name="page_tab_info">建立新分页时</string>
@@ -740,7 +744,7 @@
     <string name="filter_user_3">EasyList 过滤器有几种类型（按国家，按功能）</string>
     <string name="filter_user_4">你可以选择并使用适合你的过滤器</string>
     <string name="filter_user_5">如果过滤器有问题，则该页面可能无法正常显示</string>
-    <string name="clean_info_1">清理模式仍在开发中</string>
+    <string name="clean_info_1">纯净模式仍在开发中</string>
     <string name="clean_info_2">我知道它仍然缺乏</string>
     <string name="clean_info_3">我需要时间</string>
     <string name="add_easylist">基本的 EasyList 过滤器</string>
@@ -751,8 +755,8 @@
     <string name="menu_noti_1">菜单图标无法更改</string>
     <string name="menu_noti_2">菜单图标只能放在底部栏上</string>
     <string name="screen_filter">屏幕过滤器</string>
-    <string name="filter_color">滤色</string>
-    <string name="always_use">一律使用</string>
+    <string name="filter_color">过滤器色</string>
+    <string name="always_use">总是使用</string>
     <string name="only_night">仅在夜间模式下使用</string>
     <string name="night_mode">夜间模式</string>
 </resources>

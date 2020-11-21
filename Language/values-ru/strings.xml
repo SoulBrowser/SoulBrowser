@@ -197,8 +197,8 @@
     <string name="double_back">Двойное нажатие для выхода из браузера</string>
     <string name="press_again">Нажмите еще раз, чтобы выйти.</string>
     <string name="last_noti">Уведомление о последней странице</string>
-    <string name="last_noti_info">Нажатие клавиши возврата на последней странице уведомляет о том, что это последняя страница.</string>
-    <string name="last_page_noti">Последняя страница</string>
+    <string name="last_noti_info">Если вы нажмете кнопку «Назад» на последней странице вкладки, появится уведомление о том, что это последняя страница вкладки.</string>
+    <string name="last_page_noti">Это последняя страница вкладки.</string>
     <string name="title">Заголовок</string>
     <string name="artist">Художник</string>
     <string name="album">Альбом</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Редактор фотографий</string>
     <string name="color_size">Толщина</string>
     <string name="color_alpha">Прозрачность</string>
+    <string name="bottom_size">Размер нижней панели</string>
+    <string name="tabbar_size">Размер панели вкладок</string>
+    <string name="size_width">Ширина</string>
+    <string name="size_height">Высота</string>
     <string name="exit_with_save">Сохранить и выйти</string>
     <string name="exit_without_save">Выход без сохранения</string>
     <string name="camera_fail">Не удалось запустить камеру.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Проведите двумя пальцами вниз, чтобы удалить язычок.</string>
     <string name="show_scroll">Показать полосу прокрутки</string>
     <string name="show_up">Показать кнопку перехода наверх</string>
-    <string name="text_preview">Отрегулируйте этот текст, чтобы он выглядел комфортно.</string>
     <string name="qrcode_title">QR кода</string>
     <string name="show_qrcode">Показать кнопку QR кода</string>
     <string name="voice_title">Голосовой поиск</string>
@@ -505,7 +508,7 @@
     <string name="show_left">Левая сторона</string>
     <string name="show_center">Центр</string>
     <string name="show_right">Правая сторона</string>
-    <string name="tip">Советы</string>
+    <string name="tip">Подсказка</string>
     <string name="web_content">Веб контент</string>
     <string name="customize">Пользовательская настройка</string>
     <string name="font">Шрифты</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Вправо</string>
     <string name="swipe_guide_1">1. Нажмите на область, чтобы изменить функцию.</string>
     <string name="swipe_guide_2">2. Перетащите область, чтобы изменить размер.</string>
+    <string name="small_icon">Маленький значок</string>
     <string name="small_list">Небольшой список</string>
     <string name="large_list">Большой список</string>
     <string name="icon_mode">Режим значков</string>

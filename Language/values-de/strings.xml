@@ -197,8 +197,8 @@
     <string name="double_back">Zurücktaste zweimal drücken, um die App zu schließen</string>
     <string name="press_again">Zum Beenden erneut drücken.</string>
     <string name="last_noti">Letzte Seite - Benachrichtigung</string>
-    <string name="last_noti_info">Durch drücken der Zurücktaste auf der letzten Seite wird darauf hingewiesen, dass es sich um die letzte Seite handelt.</string>
-    <string name="last_page_noti">Letzte Seite der Benachrichtigungen</string>
+    <string name="last_noti_info">Wenn Sie auf der letzten Seite der Registerkarte auf die Schaltfläche Zurück klicken, wird benachrichtigt, dass es sich um die letzte Seite der Registerkarte handelt.</string>
+    <string name="last_page_noti">Dies ist die letzte Seite der Registerkarte.</string>
     <string name="title">Titel</string>
     <string name="artist">Künstler</string>
     <string name="album">Album</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Fotoeditor</string>
     <string name="color_size">Größe</string>
     <string name="color_alpha">Transparenz</string>
+    <string name="bottom_size">Größe der unteren Leiste</string>
+    <string name="tabbar_size">Größe der Registerkartenleiste</string>
+    <string name="size_width">Breite</string>
+    <string name="size_height">Höhe</string>
     <string name="exit_with_save">Speichern und beenden</string>
     <string name="exit_without_save">Beenden ohne zu speichern</string>
     <string name="camera_fail">Kamera konnte nicht gestartet werden.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Wischen Sie mit zwei Fingern nach unten, um die Registerkarte zu entfernen.</string>
     <string name="show_scroll">Bildlaufleiste anzeigen</string>
     <string name="show_up">Schaltfläche \'Nach oben\' zeigen</string>
-    <string name="text_preview">Passen Sie diesen Text an, um ihn lesbarer zu machen.</string>
     <string name="qrcode_title">QR-Code</string>
     <string name="show_qrcode">Schaltfläche QR-Code anzeigen</string>
     <string name="voice_title">Sprachsuche</string>
@@ -505,7 +508,7 @@
     <string name="show_left">Links</string>
     <string name="show_center">Zentriert</string>
     <string name="show_right">Rechts</string>
-    <string name="tip">Trinkgeld</string>
+    <string name="tip">Hinweis</string>
     <string name="web_content">Webinhalt</string>
     <string name="customize">Anpassen</string>
     <string name="font">Schriftart</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Nach rechts</string>
     <string name="swipe_guide_1">1. Klicken Sie auf den Bereich, um die Funktion zu ändern.</string>
     <string name="swipe_guide_2">2. Ziehen Sie den Bereich, um die Größe zu ändern.</string>
+    <string name="small_icon">Kleines Symbol</string>
     <string name="small_list">Kleine Liste</string>
     <string name="large_list">Große Liste</string>
     <string name="icon_mode">Symbolmodus</string>

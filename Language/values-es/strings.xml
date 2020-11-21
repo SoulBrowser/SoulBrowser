@@ -197,8 +197,8 @@
     <string name="double_back">Atrás botón dos veces a la salida de la aplicación</string>
     <string name="press_again">Presione nuevamente para salir.</string>
     <string name="last_noti">Notificación de la última página</string>
-    <string name="last_noti_info">Al presionar la tecla atrás en la última página, se notifica que es la última página.</string>
-    <string name="last_page_noti">Ultima página</string>
+    <string name="last_noti_info">Si hace clic en el botón Anterior en la última página de la pestaña, se le notifica que es la última página de la pestaña.</string>
+    <string name="last_page_noti">Esta es la última página de la pestaña.</string>
     <string name="title">Título</string>
     <string name="artist">Artista</string>
     <string name="album">Álbum</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Editor de fotos</string>
     <string name="color_size">Espesor</string>
     <string name="color_alpha">Transparencia</string>
+    <string name="bottom_size">Tamaño de la barra inferior</string>
+    <string name="tabbar_size">Tamaño de la barra de pestañas</string>
+    <string name="size_width">Anchura</string>
+    <string name="size_height">Altura</string>
     <string name="exit_with_save">Guardar y salir</string>
     <string name="exit_without_save">Salir sin guardar</string>
     <string name="camera_fail">La cámara no se pudo iniciar.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Deslice hacia abajo con dos dedos para quitar la pestaña.</string>
     <string name="show_scroll">Mostrar barra de desplazamiento</string>
     <string name="show_up">Mostrar ir al botón superior</string>
-    <string name="text_preview">Ajuste este texto para que se vea cómodo.</string>
     <string name="qrcode_title">Código QR</string>
     <string name="show_qrcode">Mostrar botón código QR</string>
     <string name="voice_title">Búsqueda por voz</string>
@@ -505,7 +508,7 @@
     <string name="show_left">Izquierda</string>
     <string name="show_center">Centro</string>
     <string name="show_right">Derecha</string>
-    <string name="tip">Propina</string>
+    <string name="tip">Insinuación</string>
     <string name="web_content">Contenido web</string>
     <string name="customize">Personalización</string>
     <string name="font">Fuente</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Derecha</string>
     <string name="swipe_guide_1">1. Haga clic en el área para cambiar la función.</string>
     <string name="swipe_guide_2">2. Arrastre el área para cambiar el tamaño.</string>
+    <string name="small_icon">Pequeño icono</string>
     <string name="small_list">Pequeña lista</string>
     <string name="large_list">Lista grande</string>
     <string name="icon_mode">Modo de icono</string>

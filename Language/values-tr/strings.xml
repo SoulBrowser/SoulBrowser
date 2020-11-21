@@ -197,8 +197,8 @@
     <string name="double_back">Uygulamadan çıkmak için iki kez geri düğmesi</string>
     <string name="press_again">Çıkmak için tekrar basın.</string>
     <string name="last_noti">Son sayfa bildirimi</string>
-    <string name="last_noti_info">Son sayfadaki geri tuşuna basıldığında, son sayfa olduğu bildirilir.</string>
-    <string name="last_page_noti">Son sayfa</string>
+    <string name="last_noti_info">Sekmenin son sayfasındaki Önceki düğmesine tıklarsanız, sekmenin son sayfası olduğu bildirilir.</string>
+    <string name="last_page_noti">Bu, sekmenin son sayfasıdır.</string>
     <string name="title">Başlık</string>
     <string name="artist">Sanatçı</string>
     <string name="album">Albüm</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Fotoğraf düzenleyici</string>
     <string name="color_size">Kalınlık</string>
     <string name="color_alpha">Şeffaflık</string>
+    <string name="bottom_size">Alt çubuk boyutu</string>
+    <string name="tabbar_size">Sekme çubuğu boyutu</string>
+    <string name="size_width">Genişlik</string>
+    <string name="size_height">Yükseklik</string>
     <string name="exit_with_save">Kaydet ve çık</string>
     <string name="exit_without_save">Kaydetmeden çıkın</string>
     <string name="camera_fail">Kamera başlatılamadı.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Sekmeyi çıkarmak için iki parmağınızla aşağı kaydırın.</string>
     <string name="show_scroll">Kaydırma çubuğunu göster</string>
     <string name="show_up">En üste git düğmesini göster</string>
-    <string name="text_preview">Rahat görünmesi için bu metni ayarlayın.</string>
     <string name="qrcode_title">QR kod</string>
     <string name="show_qrcode">QR kod düğmesini göster</string>
     <string name="voice_title">Sesli arama</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Sağ</string>
     <string name="swipe_guide_1">1. İşlevi değiştirmek için alanı tıklayın.</string>
     <string name="swipe_guide_2">2. Boyutu değiştirmek için alanı sürükleyin.</string>
+    <string name="small_icon">Küçük simge</string>
     <string name="small_list">Küçük liste</string>
     <string name="large_list">Geniş liste</string>
     <string name="icon_mode">Simge modu</string>

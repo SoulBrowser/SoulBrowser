@@ -188,17 +188,17 @@
     <string name="page">頁</string>
     <string name="delete_cache">清除 Cache</string>
     <string name="cache">Cache</string>
-    <string name="cache_info">Web瀏覽期間創建的文件（示例 : 圖片）</string>
+    <string name="cache_info">Web瀏覽期間創建的文件（示例：圖片）</string>
     <string name="cookie">Cookie</string>
-    <string name="cookie_info">Web瀏覽期間創建的資訊（示例 : 登入資訊）</string>
+    <string name="cookie_info">Web瀏覽期間創建的資訊（示例：登入資訊）</string>
     <string name="no_rotate">不要旋轉螢幕</string>
     <string name="screen_rotate_info">螢幕始終垂直顯示</string>
     <string name="vol_scroll">使用音量鍵滾動網頁</string>
     <string name="double_back">雙擊返回按鈕退出應用程式</string>
     <string name="press_again">再按一次退出</string>
     <string name="last_noti">最後一頁通知</string>
-    <string name="last_noti_info">在最後一頁上按返回鍵將通知它是最後一頁</string>
-    <string name="last_page_noti">最後一頁</string>
+    <string name="last_noti_info">如果單擊選項卡最後一頁上的\'上一步\'按鈕，則會通知它是選項卡最後一頁</string>
+    <string name="last_page_noti">這是選項卡的最後一頁</string>
     <string name="title">主題</string>
     <string name="artist">歌手</string>
     <string name="album">相簿</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">照片編輯器</string>
     <string name="color_size">厚度</string>
     <string name="color_alpha">透明度</string>
+    <string name="bottom_size">底欄尺寸</string>
+    <string name="tabbar_size">標籤欄尺寸</string>
+    <string name="size_width">寬度</string>
+    <string name="size_height">高度</string>
     <string name="exit_with_save">保存並退出</string>
     <string name="exit_without_save">退出而不保存</string>
     <string name="camera_fail">相機無法啟動</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">用雙指滑動向下滑動以移除分頁</string>
     <string name="show_scroll">顯示滾動條</string>
     <string name="show_up">顯示轉到頂部按鈕</string>
-    <string name="text_preview">調整此文本以使其看起來舒適</string>
     <string name="qrcode_title">二維碼</string>
     <string name="show_qrcode">二維碼按鈕顯示</string>
     <string name="voice_title">聲音搜索</string>
@@ -442,7 +445,7 @@
     <string name="page_no_image">此頁面上沒有圖片。</string>
     <string name="touch_lock">觸摸鎖</string>
     <string name="touch_lock_guide_1">視頻播放期間觸摸被禁用</string>
-    <string name="touch_lock_guide_2">您可以在設置中設置解鎖方法</string>
+    <string name="touch_lock_guide_2">您可以在\'設置\'中設置解鎖方法</string>
     <string name="touch_lock_info">鎖定螢幕以在視頻播放期間解鎖觸摸</string>
     <string name="touch_locked">觸摸已鎖定</string>
     <string name="touch_unlocked">觸摸解鎖</string>
@@ -469,7 +472,7 @@
     <string name="export_html">導出為 HTML</string>
     <string name="no_bookmark">沒有書籤</string>
     <string name="import_html">從 HTML 導入</string>
-    <string name="import_html_info_1">1. 從桌面瀏覽器中的“書籤管理器”將書籤導出為 HTML</string>
+    <string name="import_html_info_1">1. 從桌面瀏覽器中的書籤管理器將書籤導出為 HTML</string>
     <string name="import_html_info_2">2. 將 HTML 放在內部存儲器或SD卡上，然後在 Soul Browser 中將其打開</string>
     <string name="import_html_info_3">3. HTML 書籤已新增到 Soul Browser</string>
     <string name="import_no_html">HTML 中沒有書籤</string>
@@ -505,7 +508,7 @@
     <string name="show_left">向左</string>
     <string name="show_center">中心</string>
     <string name="show_right">右邊</string>
-    <string name="tip">提示</string>
+    <string name="tip">暗示</string>
     <string name="web_content">網頁內容</string>
     <string name="customize">個人設定</string>
     <string name="font">字體</string>
@@ -633,6 +636,7 @@
     <string name="move_right">右</string>
     <string name="swipe_guide_1">1. 單擊該區域以更改功能</string>
     <string name="swipe_guide_2">2. 拖動區域以更改大小</string>
+    <string name="small_icon">小圖標</string>
     <string name="small_list">小清單</string>
     <string name="large_list">大清單</string>
     <string name="icon_mode">圖標模式</string>
@@ -709,7 +713,7 @@
     <string name="dev_greet_1">我想讓所有用戶滿意\n但這是非常困難的\n在此應用程序中實現的功能只是許多用戶請求的一小部分\n許多用戶請求仍待處理</string>
     <string name="dev_greet_2">因為我缺乏能力\n隨著發展的進步，我感到自己的能力有限\n我很抱歉</string>
     <string name="dev_greet_3">更新將持續到每個人都滿意為止</string>
-    <string name="dev_greet_4">PS: 我無法回复所有電子郵件\n但是我讀了所有電子郵件</string>
+    <string name="dev_greet_4">PS：我無法回复所有電子郵件\n但是我讀了所有電子郵件</string>
     <string name="prevent_pay">防止意外付款</string>
     <string name="input_answer">請輸入答案</string>
     <string name="correct_answer">正確答案是%d</string>

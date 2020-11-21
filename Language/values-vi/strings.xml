@@ -197,8 +197,8 @@
     <string name="double_back">Nút quay lại hai lần để thoát ứng dụng</string>
     <string name="press_again">Nhấn một lần nữa để thoát.</string>
     <string name="last_noti">Thông báo trang cuối</string>
-    <string name="last_noti_info">Nhấn phím quay lại trên trang cuối thông báo rằng đó là trang cuối cùng.</string>
-    <string name="last_page_noti">Trang cuối</string>
+    <string name="last_noti_info">Nếu bạn nhấp vào nút Trước trên trang cuối cùng của tab, nó sẽ được thông báo rằng đó là trang cuối cùng của tab.</string>
+    <string name="last_page_noti">Đây là trang cuối cùng của tab.</string>
     <string name="title">Tiêu đề</string>
     <string name="artist">Nghệ sĩ</string>
     <string name="album">Album</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Trình chỉnh sửa ảnh</string>
     <string name="color_size">Độ dày</string>
     <string name="color_alpha">Minh bạch</string>
+    <string name="bottom_size">Kích thước thanh dưới cùng</string>
+    <string name="tabbar_size">Kích thước thanh tab</string>
+    <string name="size_width">Chiều rộng</string>
+    <string name="size_height">Chiều cao</string>
     <string name="exit_with_save">Lưu và thoát</string>
     <string name="exit_without_save">Thoát mà không lưu</string>
     <string name="camera_fail">Máy ảnh không khởi chạy được.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Vuốt xuống bằng hai ngón tay để xóa tab.</string>
     <string name="show_scroll">Hiển thị thanh cuộn</string>
     <string name="show_up">Hiển thị nút trên cùng</string>
-    <string name="text_preview">Điều chỉnh văn bản này để làm cho nó trông thoải mái.</string>
     <string name="qrcode_title">Mã QR</string>
     <string name="show_qrcode">Hiển thị nút mã QR</string>
     <string name="voice_title">Tìm kiếm bằng giọng nói</string>
@@ -505,7 +508,7 @@
     <string name="show_left">Còn lại</string>
     <string name="show_center">Trung tâm</string>
     <string name="show_right">Phải</string>
-    <string name="tip">Tiền boa</string>
+    <string name="tip">Dấu</string>
     <string name="web_content">Nội dung web</string>
     <string name="customize">Tùy chỉnh</string>
     <string name="font">Phông chữ</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Phải</string>
     <string name="swipe_guide_1">1. Click vào khu vực để thay đổi chức năng.</string>
     <string name="swipe_guide_2">2. Kéo khu vực để thay đổi kích thước.</string>
+    <string name="small_icon">Biểu tượng nhỏ</string>
     <string name="small_list">Danh sách nhỏ</string>
     <string name="large_list">Danh sách lớn</string>
     <string name="icon_mode">Chế độ biểu tượng</string>

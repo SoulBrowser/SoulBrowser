@@ -197,8 +197,8 @@
     <string name="double_back">butonul Înapoi de două ori pentru a ieși din aplicație</string>
     <string name="press_again">Apăsați din nou pentru a ieși.</string>
     <string name="last_noti">Notificare ultima pagină</string>
-    <string name="last_noti_info">Apăsarea butonului înapoi pe ultima pagină notifică că este ultima pagină.</string>
-    <string name="last_page_noti">Ultima pagină</string>
+    <string name="last_noti_info">Dacă faceți clic pe butonul Precedent de pe ultima pagină a filei, este notificat că este ultima pagină a filei.</string>
+    <string name="last_page_noti">Aceasta este ultima pagină a filei.</string>
     <string name="title">Titlu</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Editor foto</string>
     <string name="color_size">Grosime</string>
     <string name="color_alpha">Transparență</string>
+    <string name="bottom_size">Dimensiunea barei inferioare</string>
+    <string name="tabbar_size">Dimensiunea barei de file</string>
+    <string name="size_width">Lăţime</string>
+    <string name="size_height">Înălţime</string>
     <string name="exit_with_save">Salvare și ieșire</string>
     <string name="exit_without_save">Ieșiți fără a salva</string>
     <string name="camera_fail">Camera nu a reușit să se lanseze.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Glisați în jos cu două degete pentru a elimina fila.</string>
     <string name="show_scroll">Afișează bara de defilare</string>
     <string name="show_up">Afișați butonul de sus</string>
-    <string name="text_preview">Ajustați acest text pentru a face să arate confortabil.</string>
     <string name="qrcode_title">Cod QR</string>
     <string name="show_qrcode">Afișare buton cod QR</string>
     <string name="voice_title">Căutare vocală</string>
@@ -505,7 +508,7 @@
     <string name="show_left">Stânga</string>
     <string name="show_center">Centru</string>
     <string name="show_right">Dreapta</string>
-    <string name="tip">Sfat</string>
+    <string name="tip">Aluzie</string>
     <string name="web_content">Conținut web</string>
     <string name="customize">Personalizare</string>
     <string name="font">Font</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Dreapta</string>
     <string name="swipe_guide_1">1. Faceți clic pe zonă pentru a schimba funcția.</string>
     <string name="swipe_guide_2">2. Trageți zona pentru a schimba dimensiunea.</string>
+    <string name="small_icon">Pictogramă mică</string>
     <string name="small_list">Lista mică</string>
     <string name="large_list">Lista mare</string>
     <string name="icon_mode">Mod pictogramă</string>

@@ -197,8 +197,8 @@
     <string name="double_back">Back button twice to app exit</string>
     <string name="press_again">Press again to exit.</string>
     <string name="last_noti">Last page notification</string>
-    <string name="last_noti_info">Pressing the back button on the last page notifies that it is the last page.</string>
-    <string name="last_page_noti">Last page</string>
+    <string name="last_noti_info">If you click the previous button on the last page of the tab, it is notified that it is the last page of the tab.</string>
+    <string name="last_page_noti">This is the last page of the tab.</string>
     <string name="title">Title</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Photo editor</string>
     <string name="color_size">Thickness</string>
     <string name="color_alpha">Transparency</string>
+    <string name="bottom_size">Bottom bar size</string>
+    <string name="tabbar_size">Tab bar size</string>
+    <string name="size_width">Width</string>
+    <string name="size_height">Height</string>
     <string name="exit_with_save">Save and exit</string>
     <string name="exit_without_save">Exit without saving</string>
     <string name="camera_fail">Camera failed to launch.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Swipe down with two fingers to remove tab.</string>
     <string name="show_scroll">Show scroll bar</string>
     <string name="show_up">Show go to top button</string>
-    <string name="text_preview">Adjust this text to make it look comfortable.</string>
     <string name="qrcode_title">QR code</string>
     <string name="show_qrcode">Show QR code button</string>
     <string name="voice_title">Voice search</string>
@@ -505,7 +508,7 @@
     <string name="show_left">Left</string>
     <string name="show_center">Center</string>
     <string name="show_right">Right</string>
-    <string name="tip">Tip</string>
+    <string name="tip">Hint</string>
     <string name="web_content">Web content</string>
     <string name="customize">Customizing</string>
     <string name="font">Font</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Right</string>
     <string name="swipe_guide_1">1. Click the area to change the function.</string>
     <string name="swipe_guide_2">2. Drag the area to change the size.</string>
+    <string name="small_icon">Small icon</string>
     <string name="small_list">Small list</string>
     <string name="large_list">Large list</string>
     <string name="icon_mode">Icon mode</string>

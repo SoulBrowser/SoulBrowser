@@ -197,8 +197,8 @@
     <string name="double_back">Tekan tombol kembali dua kali untuk keluar dari aplikasi</string>
     <string name="press_again">Tekan lagi untuk keluar.</string>
     <string name="last_noti">Pemberitahuan halaman terakhir</string>
-    <string name="last_noti_info">Menekan tombol kembali pada halaman terakhir memberitahukan bahwa itu adalah halaman terakhir.</string>
-    <string name="last_page_noti">Halaman terakhir</string>
+    <string name="last_noti_info">Jika Anda mengklik tombol Sebelumnya pada halaman terakhir dari tab, akan diberitahukan bahwa itu adalah halaman terakhir dari tab.</string>
+    <string name="last_page_noti">Ini adalah halaman terakhir dari tab tersebut.</string>
     <string name="title">Judul</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">Editor foto</string>
     <string name="color_size">Ketebalan</string>
     <string name="color_alpha">Transparansi</string>
+    <string name="bottom_size">Ukuran batang bawah</string>
+    <string name="tabbar_size">Ukuran bilah tab</string>
+    <string name="size_width">Lebar</string>
+    <string name="size_height">Tinggi</string>
     <string name="exit_with_save">Simpan dan keluar</string>
     <string name="exit_without_save">Keluar tanpa menyimpan</string>
     <string name="camera_fail">Kamera gagal diluncurkan.</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">Geser ke bawah dengan dua jari untuk menghapus tab.</string>
     <string name="show_scroll">Tampilkan bilah gulir</string>
     <string name="show_up">Tampilkan tombol pergi ke atas</string>
-    <string name="text_preview">Sesuaikan teks ini agar terlihat nyaman.</string>
     <string name="qrcode_title">Kode QR</string>
     <string name="show_qrcode">Tampilan tombol kode QR</string>
     <string name="voice_title">Pencarian suara</string>
@@ -505,7 +508,7 @@
     <string name="show_left">Kiri</string>
     <string name="show_center">Pusat</string>
     <string name="show_right">Kanan</string>
-    <string name="tip">Tip</string>
+    <string name="tip">Petunjuk</string>
     <string name="web_content">Konten web</string>
     <string name="customize">Menyesuaikan</string>
     <string name="font">Font</string>
@@ -633,6 +636,7 @@
     <string name="move_right">Kanan</string>
     <string name="swipe_guide_1">1. Klik pada area untuk mengubah fungsi.</string>
     <string name="swipe_guide_2">2. Seret area untuk mengubah ukuran.</string>
+    <string name="small_icon">Ikon kecil</string>
     <string name="small_list">Daftar kecil</string>
     <string name="large_list">Daftar besar</string>
     <string name="icon_mode">Mode ikon</string>

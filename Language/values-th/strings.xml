@@ -197,8 +197,8 @@
     <string name="double_back">Back สองครั้งเพื่อออกจากแอป</string>
     <string name="press_again">กดอีกครั้งเพื่อออก</string>
     <string name="last_noti">การแจ้งเตือนหน้าสุดท้าย</string>
-    <string name="last_noti_info">การกดปุ่มย้อนกลับในหน้าสุดท้ายจะแจ้งให้ทราบว่าเป็นหน้าสุดท้าย</string>
-    <string name="last_page_noti">หน้าสุดท้าย</string>
+    <string name="last_noti_info">หากคุณคลิกปุ่มก่อนหน้าในหน้าสุดท้ายของแท็บจะได้รับแจ้งว่าเป็นหน้าสุดท้ายของแท็บ</string>
+    <string name="last_page_noti">นี่คือหน้าสุดท้ายของแท็บ</string>
     <string name="title">หัวข้อ</string>
     <string name="artist">ศิลปิน</string>
     <string name="album">อัลบั้ม</string>
@@ -293,6 +293,10 @@
     <string name="photo_editor">ตัวแก้ไขรูปภาพ</string>
     <string name="color_size">ความหนา</string>
     <string name="color_alpha">ความโปร่งใส</string>
+    <string name="bottom_size">ขนาดแถบด้านล่าง</string>
+    <string name="tabbar_size">ขนาดแถบแท็บ</string>
+    <string name="size_width">ความกว้าง</string>
+    <string name="size_height">ความสูง</string>
     <string name="exit_with_save">บันทึกและออก</string>
     <string name="exit_without_save">ออกโดยไม่บันทึก</string>
     <string name="camera_fail">กล้องไม่สามารถเปิดใช้งานได้</string>
@@ -389,7 +393,6 @@
     <string name="two_finger_info_2">ปัดสองนิ้วลงเพื่อลบแท็บ</string>
     <string name="show_scroll">แสดงแถบเลื่อน</string>
     <string name="show_up">แสดงปุ่มไปที่ด้านบนสุด</string>
-    <string name="text_preview">ปรับข้อความนี้เพื่อให้ดูสบายตา</string>
     <string name="qrcode_title">รหัส QR</string>
     <string name="show_qrcode">แสดงปุ่มรหัส QR</string>
     <string name="voice_title">ค้นหาด้วยเสียง</string>
@@ -505,7 +508,7 @@
     <string name="show_left">ด้านซ้าย</string>
     <string name="show_center">ศูนย์</string>
     <string name="show_right">ด้านขวา</string>
-    <string name="tip">ปลาย</string>
+    <string name="tip">คำใบ้</string>
     <string name="web_content">เนื้อหาเว็บ</string>
     <string name="customize">การปรับแต่ง</string>
     <string name="font">แบบอักษร</string>
@@ -633,6 +636,7 @@
     <string name="move_right">ขวา</string>
     <string name="swipe_guide_1">1. คลิกที่พื้นที่เพื่อเปลี่ยนฟังก์ชั่น</string>
     <string name="swipe_guide_2">2. ลากพื้นที่เพื่อเปลี่ยนขนาด</string>
+    <string name="small_icon">ไอคอนขนาดเล็ก</string>
     <string name="small_list">รายการเล็ก ๆ</string>
     <string name="large_list">รายการใหญ่</string>
     <string name="icon_mode">โหมดไอคอน</string>
