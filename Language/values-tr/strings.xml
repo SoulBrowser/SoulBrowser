@@ -294,7 +294,7 @@
     <string name="color_size">Kalınlık</string>
     <string name="color_alpha">Şeffaflık</string>
     <string name="bottom_size">Alt çubuk boyutu</string>
-    <string name="tabbar_size">Sekme çubuğu boyutu</string>
+    <string name="close_icon">Kapat düğmesi</string>
     <string name="size_width">Genişlik</string>
     <string name="size_height">Yükseklik</string>
     <string name="exit_with_save">Kaydet ve çık</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Masaüstü (Geçerli sekme)</string>
     <string name="desk_all">Masaüstü (Tüm sekmeler)</string>
     <string name="show_image">Resmi göster</string>
-    <string name="block_image">Resmi engelle</string>
+    <string name="block_images">Resmi engelle</string>
+    <string name="block_a_image">Resmi engelle</string>
+    <string name="blocked_image">Engellenen resimler</string>
+    <string name="block_confirm">Engellemek ister misin?</string>
+    <string name="block_apply">Blok</string>
     <string name="reset">Sıfırla</string>
     <string name="reset_confirm">İşi sıfırla?</string>
     <string name="check_network">Lütfen ağ durumunu kontrol edin.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Alt adres çubuğu</string>
     <string name="address_menu">Adres çubuğu menüsü</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
-    <string name="tab_swipe">Sekme çubuğunu yukarı kaydırın</string>
+    <string name="tab_swipe_up">Sekme çubuğunu yukarı kaydırın</string>
+    <string name="tab_swipe_dn">Sekme çubuğunu aşağı kaydırın</string>
     <string name="above_top">Üst çubuğun üstünde</string>
     <string name="below_top">Üst çubuğun altında</string>
     <string name="above_bot">Alt çubuğun üstünde</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">Birkaç tür EasyList filtresi vardır. (Ülkeye göre, işleve göre)</string>
     <string name="filter_user_4">Size uygun filtreyi seçip kullanabilirsiniz.</string>
     <string name="filter_user_5">Filtrede bir sorun varsa, sayfa normal şekilde görüntülenmeyebilir.</string>
-    <string name="clean_info_1">Temiz mod hala geliştirme aşamasındadır.</string>
-    <string name="clean_info_2">Hâlâ eksik olduğunu biliyorum.</string>
-    <string name="clean_info_3">Zamana ihtiyacım var.</string>
     <string name="add_easylist">Temel EasyList filtresi</string>
     <string name="size_fit">Ekran uyumu</string>
     <string name="size_real">Gerçek boyutu</string>

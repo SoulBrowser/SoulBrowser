@@ -294,7 +294,7 @@
     <string name="color_size">Espesor</string>
     <string name="color_alpha">Transparencia</string>
     <string name="bottom_size">Tamaño de la barra inferior</string>
-    <string name="tabbar_size">Tamaño de la barra de pestañas</string>
+    <string name="close_icon">Botón cerrar</string>
     <string name="size_width">Anchura</string>
     <string name="size_height">Altura</string>
     <string name="exit_with_save">Guardar y salir</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Escritorio (Pestaña actual)</string>
     <string name="desk_all">Escritorio (Todas las pestañas)</string>
     <string name="show_image">Mostrar imagen</string>
-    <string name="block_image">Imagen de bloque</string>
+    <string name="block_images">Imagen de bloque</string>
+    <string name="block_a_image">Imagen de bloque</string>
+    <string name="blocked_image">Imágenes bloqueadas</string>
+    <string name="block_confirm">¿Quieres bloquearlo?</string>
+    <string name="block_apply">Bloquear</string>
     <string name="reset">Restablecer</string>
     <string name="reset_confirm">¿Quieres reiniciar tu trabajo?</string>
     <string name="check_network">Compruebe el estado de la red.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Barra de direcciones inferior</string>
     <string name="address_menu">Menú de la barra de direcciones</string>
     <string name="show_tab_bar">Mostrar barra de pestañas</string>
-    <string name="tab_swipe">Desliza hacia arriba la barra de pestañas</string>
+    <string name="tab_swipe_up">Desliza hacia arriba la barra de pestañas</string>
+    <string name="tab_swipe_dn">Desliza hacia abajo la barra de pestañas</string>
     <string name="above_top">Encima barra superior</string>
     <string name="below_top">Debajo barra superior</string>
     <string name="above_bot">Encima barra inferior</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">Hay varios tipos de filtros EasyList. (Por país, por función)</string>
     <string name="filter_user_4">Puede seleccionar y utilizar el filtro que más le convenga.</string>
     <string name="filter_user_5">Si hay un problema con el filtro, es posible que la página no se muestre normalmente.</string>
-    <string name="clean_info_1">El modo limpio aún está en desarrollo.</string>
-    <string name="clean_info_2">Sé que todavía falta.</string>
-    <string name="clean_info_3">Necesito tiempo.</string>
     <string name="add_easylist">Filtro EasyList básico</string>
     <string name="size_fit">Ajuste de pantalla</string>
     <string name="size_real">Tamaño real</string>

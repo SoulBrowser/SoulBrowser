@@ -294,7 +294,7 @@
     <string name="color_size">Spessore</string>
     <string name="color_alpha">Trasparenza</string>
     <string name="bottom_size">Dimensioni della barra inferiore</string>
-    <string name="tabbar_size">Dimensioni della barra delle schede</string>
+    <string name="close_icon">Pulsante Chiudi</string>
     <string name="size_width">Larghezza</string>
     <string name="size_height">Altezza</string>
     <string name="exit_with_save">Salva ed esci</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Desktop (Scheda corrente)</string>
     <string name="desk_all">Desktop (Tutte le schede)</string>
     <string name="show_image">Mostra immagini</string>
-    <string name="block_image">Blocca immagini</string>
+    <string name="block_images">Blocca immagini</string>
+    <string name="block_a_image">Blocca immagine</string>
+    <string name="blocked_image">Immagini bloccate</string>
+    <string name="block_confirm">Vuoi bloccarlo?</string>
+    <string name="block_apply">Bloccare</string>
     <string name="reset">Reset</string>
     <string name="reset_confirm">Vuoi ripristinare il tuo lavoro?</string>
     <string name="check_network">Controllare lo stato della rete.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Barra degli indirizzi inferiore</string>
     <string name="address_menu">Menu della barra degli indirizzi</string>
     <string name="show_tab_bar">Mostra barra delle schede</string>
-    <string name="tab_swipe">Scorri verso l\'alto la barra delle schede</string>
+    <string name="tab_swipe_up">Scorri verso l\'alto la barra delle schede</string>
+    <string name="tab_swipe_dn">Scorri verso il basso la barra delle schede</string>
     <string name="above_top">Sopra barra superiore</string>
     <string name="below_top">Sotto barra superiore</string>
     <string name="above_bot">Sopra barra inferiore</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">Esistono diversi tipi di filtri EasyList. (Per paese, per funzione)</string>
     <string name="filter_user_4">Puoi selezionare e utilizzare il filtro che fa per te.</string>
     <string name="filter_user_5">Se c\'è un problema con il filtro, la pagina potrebbe non essere visualizzata normalmente.</string>
-    <string name="clean_info_1">La modalità pulita è ancora in fase di sviluppo.</string>
-    <string name="clean_info_2">So che manca ancora.</string>
-    <string name="clean_info_3">Ho bisogno di tempo.</string>
     <string name="add_easylist">Filtro EasyList di base</string>
     <string name="size_fit">Adatta allo schermo</string>
     <string name="size_real">Dimensione reale</string>

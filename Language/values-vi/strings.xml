@@ -294,7 +294,7 @@
     <string name="color_size">Độ dày</string>
     <string name="color_alpha">Minh bạch</string>
     <string name="bottom_size">Kích thước thanh dưới cùng</string>
-    <string name="tabbar_size">Kích thước thanh tab</string>
+    <string name="close_icon">Nút đóng</string>
     <string name="size_width">Chiều rộng</string>
     <string name="size_height">Chiều cao</string>
     <string name="exit_with_save">Lưu và thoát</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Máy tính để bàn (Tab hiện tại)</string>
     <string name="desk_all">Máy tính để bàn (Tất cả các tab)</string>
     <string name="show_image">Hiển thị hình ảnh</string>
-    <string name="block_image">Chặn hình ảnh</string>
+    <string name="block_images">Chặn hình ảnh</string>
+    <string name="block_a_image">Chặn hình ảnh</string>
+    <string name="blocked_image">Hình ảnh bị chặn</string>
+    <string name="block_confirm">Bạn có muốn chặn nó không?</string>
+    <string name="block_apply">Khối</string>
     <string name="reset">Đặt lại</string>
     <string name="reset_confirm">Bạn có muốn thiết lập lại công việc của bạn?</string>
     <string name="check_network">Vui lòng kiểm tra trạng thái mạng.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Thanh địa chỉ dưới cùng</string>
     <string name="address_menu">Menu thanh địa chỉ</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
-    <string name="tab_swipe">Vuốt thanh tab</string>
+    <string name="tab_swipe_up">Vuốt thanh tab lên</string>
+    <string name="tab_swipe_dn">Vuốt thanh tab xuống</string>
     <string name="above_top">Trên thanh trên cùng</string>
     <string name="below_top">Dưới thanh trên cùng</string>
     <string name="above_bot">Trên thanh dưới</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">Có một số loại bộ lọc EasyList. (Theo quốc gia, theo chức năng)</string>
     <string name="filter_user_4">Bạn có thể chọn và sử dụng bộ lọc phù hợp với mình.</string>
     <string name="filter_user_5">Nếu có vấn đề với bộ lọc, trang có thể không được hiển thị bình thường.</string>
-    <string name="clean_info_1">Chế độ sạch vẫn đang được phát triển.</string>
-    <string name="clean_info_2">Tôi biết nó vẫn còn thiếu.</string>
-    <string name="clean_info_3">Tôi cần thời gian.</string>
     <string name="add_easylist">Bộ lọc EasyList cơ bản</string>
     <string name="size_fit">Màn hình phù hợp</string>
     <string name="size_real">Kích thước thực sự</string>

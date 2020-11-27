@@ -294,7 +294,7 @@
     <string name="color_size">Ketebalan</string>
     <string name="color_alpha">Transparansi</string>
     <string name="bottom_size">Ukuran batang bawah</string>
-    <string name="tabbar_size">Ukuran bilah tab</string>
+    <string name="close_icon">Tombol tutup</string>
     <string name="size_width">Lebar</string>
     <string name="size_height">Tinggi</string>
     <string name="exit_with_save">Simpan dan keluar</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Desktop (Tab saat ini)</string>
     <string name="desk_all">Desktop (Semua tab)</string>
     <string name="show_image">Tampilkan gambar</string>
-    <string name="block_image">Blokir gambar</string>
+    <string name="block_images">Blokir gambar</string>
+    <string name="block_a_image">Blokir gambar</string>
+    <string name="blocked_image">Gambar yang diblokir</string>
+    <string name="block_confirm">Apakah Anda ingin memblokirnya?</string>
+    <string name="block_apply">Blok</string>
     <string name="reset">Reset</string>
     <string name="reset_confirm">Reset kerja?</string>
     <string name="check_network">Silakan periksa status jaringan.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Bilah alamat bawah</string>
     <string name="address_menu">Menu bilah alamat</string>
     <string name="show_tab_bar">Tampilkan bilah tab</string>
-    <string name="tab_swipe">Geser ke atas bilah tab</string>
+    <string name="tab_swipe_up">Geser bilah tab ke atas</string>
+    <string name="tab_swipe_dn">Geser bilah tab ke bawah</string>
     <string name="above_top">Di atas bilah atas</string>
     <string name="below_top">Di bawah bilah atas</string>
     <string name="above_bot">Di atas bilah bawah</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">Ada beberapa jenis filter EasyList. (Berdasarkan negara, berdasarkan fungsi)</string>
     <string name="filter_user_4">Anda dapat memilih dan menggunakan filter yang sesuai dengan Anda.</string>
     <string name="filter_user_5">Jika ada masalah dengan filter, halaman mungkin tidak ditampilkan secara normal.</string>
-    <string name="clean_info_1">Mode bersih masih dalam pengembangan.</string>
-    <string name="clean_info_2">Saya tahu itu masih kurang.</string>
-    <string name="clean_info_3">Saya butuh waktu.</string>
     <string name="add_easylist">Filter EasyList dasar</string>
     <string name="size_fit">Kesesuaian layar</string>
     <string name="size_real">Ukuran sebenarnya</string>

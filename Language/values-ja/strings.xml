@@ -294,7 +294,7 @@
     <string name="color_size">太さ</string>
     <string name="color_alpha">透明度</string>
     <string name="bottom_size">下部バーサイズ</string>
-    <string name="tabbar_size">テプバサイズ</string>
+    <string name="close_icon">閉じるボタン</string>
     <string name="size_width">幅</string>
     <string name="size_height">高</string>
     <string name="exit_with_save">保存して終了</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">デスクトップ（現在のタブ）</string>
     <string name="desk_all">デスクトップ（すべてのタブ）</string>
     <string name="show_image">画像表示</string>
-    <string name="block_image">ブロック画像</string>
+    <string name="block_images">ブロック画像</string>
+    <string name="block_a_image">画像をブロック</string>
+    <string name="blocked_image">ブロックされた画像に</string>
+    <string name="block_confirm">ブロックしますか？</string>
+    <string name="block_apply">ブロック</string>
     <string name="reset">初期化</string>
     <string name="reset_confirm">作業内容を初期化したいですか？</string>
     <string name="check_network">ネットワークの状態を確認してください。</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">下部のアドレスバー</string>
     <string name="address_menu">アドレスバーメニュー</string>
     <string name="show_tab_bar">タブバーを表示</string>
-    <string name="tab_swipe">タブバー上スワイプ</string>
+    <string name="tab_swipe_up">タブバー上スワイプ</string>
+    <string name="tab_swipe_dn">タブバー下スワイプ</string>
     <string name="above_top">上部バーの上</string>
     <string name="below_top">上部バーの下</string>
     <string name="above_bot">下部バーの上</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">EasyListフィルタは、複数の種類があります。（国別、機能別）</string>
     <string name="filter_user_4">自分に合ったフィルタを選択して使用することができます。</string>
     <string name="filter_user_5">フィルタに問題があれば、ページが正常に表示されないことがあります。</string>
-    <string name="clean_info_1">クリーンモードでは、まだ開発中です。</string>
-    <string name="clean_info_2">まだ不足していることを知っています。</string>
-    <string name="clean_info_3">時間が必要です。</string>
     <string name="add_easylist">基本EasyListフィルタ</string>
     <string name="size_fit">画面カスタマイズ</string>
     <string name="size_real">実際のサイズ</string>

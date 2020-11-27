@@ -294,7 +294,7 @@
     <string name="color_size">Grubość</string>
     <string name="color_alpha">Przezroczystość</string>
     <string name="bottom_size">Rozmiar dolnego paska</string>
-    <string name="tabbar_size">Rozmiar paska kart</string>
+    <string name="close_icon">Przycisk zamykania</string>
     <string name="size_width">Szerokość</string>
     <string name="size_height">Wysokość</string>
     <string name="exit_with_save">Zapisz i wyjdź</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Pulpit (Bieżąca karta)</string>
     <string name="desk_all">Pulpit (Wszystkie karty)</string>
     <string name="show_image">Pokaż obrazy</string>
-    <string name="block_image">Blokuj obrazy</string>
+    <string name="block_images">Blokuj obrazy</string>
+    <string name="block_a_image">Zablokuj obraz</string>
+    <string name="blocked_image">Zablokowane obrazy</string>
+    <string name="block_confirm">Chcesz to zablokować?</string>
+    <string name="block_apply">Blok</string>
     <string name="reset">Resetuj</string>
     <string name="reset_confirm">Zresetować pracę?</string>
     <string name="check_network">Sprawdź status sieci.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Dolny pasek adresu</string>
     <string name="address_menu">Menu paska adresu</string>
     <string name="show_tab_bar">Pokaż pasek kart</string>
-    <string name="tab_swipe">Przesuń w górę pasek kart</string>
+    <string name="tab_swipe_up">Przesuń w górę pasek kart</string>
+    <string name="tab_swipe_dn">Przeciągnij w dół pasek kart</string>
     <string name="above_top">Powyżej górnego paska</string>
     <string name="below_top">Poniżej górnego paska</string>
     <string name="above_bot">Powyżej dolnego paska</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">Istnieje kilka typów filtrów EasyList. (Według kraju, funkcji)</string>
     <string name="filter_user_4">Możesz wybrać i użyć filtra, który Ci odpowiada.</string>
     <string name="filter_user_5">Jeśli występuje problem z filtrem, strona może nie być wyświetlana normalnie.</string>
-    <string name="clean_info_1">Tryb czyszczenia jest nadal w fazie rozwoju.</string>
-    <string name="clean_info_2">Wiem, że wciąż go brakuje.</string>
-    <string name="clean_info_3">Potrzebuję czasu.</string>
     <string name="add_easylist">Podstawowy filtr EasyList</string>
     <string name="size_fit">Dopasować do ekranu</string>
     <string name="size_real">Rzeczywisty rozmiar</string>

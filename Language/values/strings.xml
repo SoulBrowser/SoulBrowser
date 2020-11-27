@@ -294,7 +294,7 @@
     <string name="color_size">Thickness</string>
     <string name="color_alpha">Transparency</string>
     <string name="bottom_size">Bottom bar size</string>
-    <string name="tabbar_size">Tab bar size</string>
+    <string name="close_icon">Close button</string>
     <string name="size_width">Width</string>
     <string name="size_height">Height</string>
     <string name="exit_with_save">Save and exit</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Desktop (Current tab)</string>
     <string name="desk_all">Desktop (All tabs)</string>
     <string name="show_image">Show images</string>
-    <string name="block_image">Block images</string>
+    <string name="block_images">Block images</string>
+    <string name="block_a_image">Block image</string>
+    <string name="blocked_image">Blocked images</string>
+    <string name="block_confirm">Do you want to block it?</string>
+    <string name="block_apply">Block</string>
     <string name="reset">Reset</string>
     <string name="reset_confirm">Reset work?</string>
     <string name="check_network">Please check the network status.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Bottom address bar</string>
     <string name="address_menu">Address bar menu</string>
     <string name="show_tab_bar">Show tab bar</string>
-    <string name="tab_swipe">Swipe up tab bar</string>
+    <string name="tab_swipe_up">Swipe up tab bar</string>
+    <string name="tab_swipe_dn">Swipe down tab bar</string>
     <string name="above_top">Above top bar</string>
     <string name="below_top">Below top bar</string>
     <string name="above_bot">Above bottom bar</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">There are several types of EasyList filters. (By country, by function)</string>
     <string name="filter_user_4">You can select and use the filter that suits you.</string>
     <string name="filter_user_5">If there is a problem with the filter, the page may not be displayed normally.</string>
-    <string name="clean_info_1">Clean mode is still in development.</string>
-    <string name="clean_info_2">I know it\'s still lacking.</string>
-    <string name="clean_info_3">I need time.</string>
     <string name="add_easylist">Basic EasyList filter</string>
     <string name="size_fit">Screen fit</string>
     <string name="size_real">Actual size</string>

@@ -294,7 +294,7 @@
     <string name="color_size">Größe</string>
     <string name="color_alpha">Transparenz</string>
     <string name="bottom_size">Größe der unteren Leiste</string>
-    <string name="tabbar_size">Größe der Registerkartenleiste</string>
+    <string name="close_icon">Schaltfläche Schließen</string>
     <string name="size_width">Breite</string>
     <string name="size_height">Höhe</string>
     <string name="exit_with_save">Speichern und beenden</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Desktop (Aktuelle Registerkarte)</string>
     <string name="desk_all">Desktop (Alle Registerkarten)</string>
     <string name="show_image">Bild anzeigen</string>
-    <string name="block_image">Bild blockieren</string>
+    <string name="block_images">Bild blockieren</string>
+    <string name="block_a_image">Bild blockieren</string>
+    <string name="blocked_image">Blockierte Bilder</string>
+    <string name="block_confirm">Möchten Sie es blockieren?</string>
+    <string name="block_apply">Block</string>
     <string name="reset">Zurücksetzen</string>
     <string name="reset_confirm">Möchten Sie die Einstellungen zurücksetzen?</string>
     <string name="check_network">Bitte überprüfen Sie den Netzwerkstatus.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Untere Adressleiste</string>
     <string name="address_menu">Adressleistenmenü</string>
     <string name="show_tab_bar">Tableiste anzeigen</string>
-    <string name="tab_swipe">Wischen Sie die Registerkartenleiste nach oben</string>
+    <string name="tab_swipe_up">Wischen Sie die Registerkartenleiste nach oben</string>
+    <string name="tab_swipe_dn">Wischen Sie über die Registerkartenleiste</string>
     <string name="above_top">Oberhalb oberer Leiste</string>
     <string name="below_top">Unterhalb oberer Leiste</string>
     <string name="above_bot">Oberhalb unterer Leiste</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">Es gibt verschiedene Arten von EasyList-Filtern. (Nach Land, nach Funktion)</string>
     <string name="filter_user_4">Sie können den für Sie geeigneten Filter auswählen und verwenden.</string>
     <string name="filter_user_5">Wenn ein Problem mit dem Filter vorliegt, wird die Seite möglicherweise nicht normal angezeigt.</string>
-    <string name="clean_info_1">Der Clean-Modus befindet sich noch in der Entwicklung.</string>
-    <string name="clean_info_2">Ich weiß, dass es immer noch fehlt.</string>
-    <string name="clean_info_3">Ich brauche Zeit.</string>
     <string name="add_easylist">Grundlegender EasyList Filter</string>
     <string name="size_fit">Bildschirm passen</string>
     <string name="size_real">Tatsächliche Größe</string>

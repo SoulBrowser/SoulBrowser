@@ -294,7 +294,7 @@
     <string name="color_size">ความหนา</string>
     <string name="color_alpha">ความโปร่งใส</string>
     <string name="bottom_size">ขนาดแถบด้านล่าง</string>
-    <string name="tabbar_size">ขนาดแถบแท็บ</string>
+    <string name="close_icon">ปุ่มปิด</string>
     <string name="size_width">ความกว้าง</string>
     <string name="size_height">ความสูง</string>
     <string name="exit_with_save">บันทึกและออก</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">เดสก์ท็อป (แท็บปัจจุบัน)</string>
     <string name="desk_all">เดสก์ท็อป (แท็บทั้งหมด)</string>
     <string name="show_image">แสดงภาพ</string>
-    <string name="block_image">บล็อกภาพ</string>
+    <string name="block_images">บล็อกภาพ</string>
+    <string name="block_a_image">บล็อกรูปภาพ</string>
+    <string name="blocked_image">รูปภาพที่ถูกบล็อก</string>
+    <string name="block_confirm">คุณต้องการบล็อกหรือไม่</string>
+    <string name="block_apply">บล็อก</string>
     <string name="reset">รีเซ็ต</string>
     <string name="reset_confirm">รีเซ็ตการทำงานหรือไม่</string>
     <string name="check_network">โปรดตรวจสอบสถานะเครือข่าย</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">แถบที่อยู่ด้านล่าง</string>
     <string name="address_menu">เมนูแถบที่อยู่</string>
     <string name="show_tab_bar">แสดงแถบแท็บ</string>
-    <string name="tab_swipe">ปัดขึ้นแถบแท็บ</string>
+    <string name="tab_swipe_up">ปัดขึ้นแถบแท็บ</string>
+    <string name="tab_swipe_dn">ปัดแถบแท็บลง</string>
     <string name="above_top">เหนือแถบด้านบน</string>
     <string name="below_top">ด้านล่างแถบด้านบน</string>
     <string name="above_bot">เหนือแถบด้านล่าง</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">ตัวกรอง EasyList มีหลายประเภท (ตามประเทศตามฟังก์ชัน)</string>
     <string name="filter_user_4">คุณสามารถเลือกและใช้ฟิลเตอร์ที่เหมาะกับคุณได้</string>
     <string name="filter_user_5">หากมีปัญหากับตัวกรองหน้าอาจไม่แสดงตามปกติ</string>
-    <string name="clean_info_1">โหมดคลีนยังอยู่ระหว่างการพัฒนา</string>
-    <string name="clean_info_2">ฉันรู้ว่ามันยังขาด</string>
-    <string name="clean_info_3">ฉันต้องการเวลา.</string>
     <string name="add_easylist">ตัวกรอง EasyList พื้นฐาน</string>
     <string name="size_fit">พอดีกับหน้าจอ</string>
     <string name="size_real">ขนาดที่แท้จริง</string>

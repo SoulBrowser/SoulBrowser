@@ -294,7 +294,7 @@
     <string name="color_size">Grosime</string>
     <string name="color_alpha">Transparență</string>
     <string name="bottom_size">Dimensiunea barei inferioare</string>
-    <string name="tabbar_size">Dimensiunea barei de file</string>
+    <string name="close_icon">Butonul Închidere</string>
     <string name="size_width">Lăţime</string>
     <string name="size_height">Înălţime</string>
     <string name="exit_with_save">Salvare și ieșire</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Desktop (Fila curentă)</string>
     <string name="desk_all">Desktop (Toate filele)</string>
     <string name="show_image">Afișare imagini</string>
-    <string name="block_image">Blocați imagini</string>
+    <string name="block_images">Blocați imagini</string>
+    <string name="block_a_image">Blocați imaginea</string>
+    <string name="blocked_image">Imagini blocate</string>
+    <string name="block_confirm">Vrei să îl blochezi?</string>
+    <string name="block_apply">Bloc</string>
     <string name="reset">Resetare</string>
     <string name="reset_confirm">Resetare lucrare?</string>
     <string name="check_network">Vă rugăm să verificați starea rețelei.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Bara de adrese de jos</string>
     <string name="address_menu">Meniul barei de adrese</string>
     <string name="show_tab_bar">Afișează bara de file</string>
-    <string name="tab_swipe">Glisați în sus bara de file</string>
+    <string name="tab_swipe_up">Glisați în sus bara de file</string>
+    <string name="tab_swipe_dn">Glisați în jos pe bara de file</string>
     <string name="above_top">Deasupra barei de sus</string>
     <string name="below_top">Sub bara de sus</string>
     <string name="above_bot">Deasupra barei de jos</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">Există mai multe tipuri de filtre EasyList. (După țară, după funcție)</string>
     <string name="filter_user_4">Puteți selecta și utiliza filtrul care vi se potrivește.</string>
     <string name="filter_user_5">Dacă există o problemă cu filtrul, este posibil ca pagina să nu fie afișată normal.</string>
-    <string name="clean_info_1">Modul curat este încă în curs de dezvoltare.</string>
-    <string name="clean_info_2">Știu că încă lipsește.</string>
-    <string name="clean_info_3">Am nevoie de timp.</string>
     <string name="add_easylist">Filtru EasyList de bază</string>
     <string name="size_fit">Potrivirea ecranului</string>
     <string name="size_real">Dimensiunea reală</string>

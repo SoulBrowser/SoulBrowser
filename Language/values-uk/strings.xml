@@ -294,7 +294,7 @@
     <string name="color_size">Товщина</string>
     <string name="color_alpha">Прозорість</string>
     <string name="bottom_size">Розмір нижньої панелі</string>
-    <string name="tabbar_size">Розмір панелі вкладок</string>
+    <string name="close_icon">Кнопка закриття</string>
     <string name="size_width">Ширина</string>
     <string name="size_height">Висота</string>
     <string name="exit_with_save">Зберегти і вийти</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Настільний (Поточна вкладка)</string>
     <string name="desk_all">Настільний (Усі вкладки)</string>
     <string name="show_image">Показати зображення</string>
-    <string name="block_image">Блокувати зображення</string>
+    <string name="block_images">Блокувати зображення</string>
+    <string name="block_a_image">Блокувати зображення</string>
+    <string name="blocked_image">Заблоковані зображення</string>
+    <string name="block_confirm">Ви хочете заблокувати це?</string>
+    <string name="block_apply">Блок</string>
     <string name="reset">Скинення</string>
     <string name="reset_confirm">Скинути роботу?</string>
     <string name="check_network">Перевірте стан мережі.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Нижній адресний рядок</string>
     <string name="address_menu">Меню адресного рядка</string>
     <string name="show_tab_bar">Показувати панель вкладок</string>
-    <string name="tab_swipe">Проведіть пальцем по вкладці вгору</string>
+    <string name="tab_swipe_up">Проведіть пальцем по вкладці вгору</string>
+    <string name="tab_swipe_dn">Проведіть вниз по панелі вкладок</string>
     <string name="above_top">Над верхньою панеллю</string>
     <string name="below_top">Під верхньою панеллю</string>
     <string name="above_bot">Над нижньою панеллю</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">Існує кілька типів фільтрів EasyList. (За країною, за функцією)</string>
     <string name="filter_user_4">Ви можете вибрати та використовувати фільтр, який вам підходить.</string>
     <string name="filter_user_5">Якщо є проблема з фільтром, сторінка може не відображатися нормально.</string>
-    <string name="clean_info_1">Чистий режим все ще розробляється.</string>
-    <string name="clean_info_2">Я знаю, що цього все ще бракує.</string>
-    <string name="clean_info_3">Мені потрібен час.</string>
     <string name="add_easylist">Основний фільтр EasyList</string>
     <string name="size_fit">Екран підходить</string>
     <string name="size_real">Реальний розмір</string>

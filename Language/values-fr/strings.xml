@@ -294,7 +294,7 @@
     <string name="color_size">Épaisseur</string>
     <string name="color_alpha">Transparence</string>
     <string name="bottom_size">Taille de la barre inférieure</string>
-    <string name="tabbar_size">Taille de la barre d\'onglets</string>
+    <string name="close_icon">Bouton Fermer</string>
     <string name="size_width">Largeur</string>
     <string name="size_height">la taille</string>
     <string name="exit_with_save">Sauvegarder et quitter</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">Bureau (Onglet actuel)</string>
     <string name="desk_all">Bureau (Tous les onglets)</string>
     <string name="show_image">Montrer l\'image</string>
-    <string name="block_image">Bloquer l\'image</string>
+    <string name="block_images">Bloquer l\'image</string>
+    <string name="block_a_image">Bloquer l\'image</string>
+    <string name="blocked_image">Images bloquées</string>
+    <string name="block_confirm">Voulez-vous le bloquer?</string>
+    <string name="block_apply">Bloquer</string>
     <string name="reset">Réinitialiser</string>
     <string name="reset_confirm">Voulez vous réinitialiser votre travail?</string>
     <string name="check_network">Vérifiez état du réseau.</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">Barre d\'adresse inférieure</string>
     <string name="address_menu">Menu de la barre d\'adresse</string>
     <string name="show_tab_bar">Afficher la barre d\'onglets</string>
-    <string name="tab_swipe">Glissez vers le haut la barre d\'onglets</string>
+    <string name="tab_swipe_up">Faites glisser la barre d\'onglets vers le haut</string>
+    <string name="tab_swipe_dn">Faites glisser la barre d\'onglets vers le bas</string>
     <string name="above_top">Au dessus barre supérieure</string>
     <string name="below_top">Sous barre supérieure</string>
     <string name="above_bot">Au dessus barre inférieure</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">Il existe plusieurs types de filtres EasyList. (Par pays, par fonction)</string>
     <string name="filter_user_4">Vous pouvez sélectionner et utiliser le filtre qui vous convient.</string>
     <string name="filter_user_5">S\'il y a un problème avec le filtre, la page peut ne pas s\'afficher normalement.</string>
-    <string name="clean_info_1">Le mode propre est toujours en développement.</string>
-    <string name="clean_info_2">Je sais que ça fait encore défaut.</string>
-    <string name="clean_info_3">J\'ai besoin de temps.</string>
     <string name="add_easylist">Filtre EasyList de base</string>
     <string name="size_fit">Ajustement de l\'écran</string>
     <string name="size_real">Taille actuelle</string>

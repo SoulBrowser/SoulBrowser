@@ -251,7 +251,7 @@
     <string name="ok">确认</string>
     <string name="success">成功</string>
     <string name="fail">失败</string>
-    <string name="play">玩</string>
+    <string name="play">播放</string>
     <string name="play_error">播放失败</string>
     <string name="not_loaded">没装</string>
     <string name="invalid_url">网址无效</string>
@@ -294,7 +294,7 @@
     <string name="color_size">厚度</string>
     <string name="color_alpha">透明度</string>
     <string name="bottom_size">底栏尺寸</string>
-    <string name="tabbar_size">标签栏尺寸</string>
+    <string name="close_icon">关闭按钮</string>
     <string name="size_width">宽度</string>
     <string name="size_height">高度</string>
     <string name="exit_with_save">保存并退出</string>
@@ -338,7 +338,11 @@
     <string name="desk_one">桌面模式（当前标签）</string>
     <string name="desk_all">桌面模式（所有标签）</string>
     <string name="show_image">有图模式</string>
-    <string name="block_image">无图模式</string>
+    <string name="block_images">无图模式</string>
+    <string name="block_a_image">遮挡图片</string>
+    <string name="blocked_image">图像被遮挡</string>
+    <string name="block_confirm">您要阻止它吗？</string>
+    <string name="block_apply">块</string>
     <string name="reset">初始化</string>
     <string name="reset_confirm">你想重置你的工作吗？</string>
     <string name="check_network">请检查你的网络状态</string>
@@ -377,7 +381,8 @@
     <string name="bot_input">底部地址栏</string>
     <string name="address_menu">地址栏菜单</string>
     <string name="show_tab_bar">标签栏显示</string>
-    <string name="tab_swipe">向上划动标签栏</string>
+    <string name="tab_swipe_up">向上划动标签栏</string>
+    <string name="tab_swipe_dn">向下滑动标签栏</string>
     <string name="above_top">顶栏上方</string>
     <string name="below_top">顶栏下方</string>
     <string name="above_bot">底栏上方</string>
@@ -744,9 +749,6 @@
     <string name="filter_user_3">EasyList 过滤器有几种类型（按国家，按功能）</string>
     <string name="filter_user_4">你可以选择并使用适合你的过滤器</string>
     <string name="filter_user_5">如果过滤器有问题，则该页面可能无法正常显示</string>
-    <string name="clean_info_1">纯净模式仍在开发中</string>
-    <string name="clean_info_2">我知道它仍然缺乏</string>
-    <string name="clean_info_3">我需要时间</string>
     <string name="add_easylist">基本的 EasyList 过滤器</string>
     <string name="size_fit">屏幕适合</string>
     <string name="size_real">真实大小</string>
