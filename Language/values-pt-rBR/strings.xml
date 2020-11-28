@@ -339,10 +339,10 @@
     <string name="desk_all">Desktop (Todas as abas)</string>
     <string name="show_image">Mostrar imagens</string>
     <string name="block_images">Bloquear imagens</string>
-    <string name="block_a_image">Imagem de bloco</string>
+    <string name="block_a_image">Bloquear imagem</string>
     <string name="blocked_image">Imagens bloqueadas</string>
     <string name="block_confirm">Você quer bloquear?</string>
-    <string name="block_apply">Quadra</string>
+    <string name="block_apply">Bloquear</string>
     <string name="reset">Redefinir</string>
     <string name="reset_confirm">Deseja redefinir seu trabalho?</string>
     <string name="check_network">Verifique o status da rede.</string>
@@ -381,8 +381,8 @@
     <string name="bot_input">Barra de endereço embaixo</string>
     <string name="address_menu">Menu da barra de endereços</string>
     <string name="show_tab_bar">Mostrar barra de abas</string>
-    <string name="tab_swipe_up">Deslize para cima para barra de abas</string>
-    <string name="tab_swipe_dn">Deslize para baixo na barra de guias</string>
+    <string name="tab_swipe_up">Deslizar barra de abas para cima</string>
+    <string name="tab_swipe_dn">Deslizar barra de abas para baixo</string>
     <string name="above_top">Acima da barra superior</string>
     <string name="below_top">Abaixo da barra superior</string>
     <string name="above_bot">Acima da barra inferior</string>
