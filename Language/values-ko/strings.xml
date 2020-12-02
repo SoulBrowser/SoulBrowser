@@ -53,8 +53,6 @@
     <string name="translate">번역</string>
     <string name="trans_tab">번역 (새 탭)</string>
     <string name="trans_chrome">번역 (Chrome)</string>
-    <string name="trans_src">출발 언어</string>
-    <string name="trans_dst">도착 언어</string>
     <string name="find_word">페이지에서 찾기</string>
     <string name="verify_image">이미지 확인</string>
     <string name="create_album">앨범 만들기</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">홈 아이콘을 눌렀을 때</string>
     <string name="page_start_info">앱을 시작할 때</string>
     <string name="page_tab_info">새 탭을 만들 때</string>
-    <string name="filter_about">필터에 대해서</string>
-    <string name="filter_user_1">내장 필터가 충분하지 않은 경우 사용자 필터를 추가하실 수 있습니다.</string>
+    <string name="filter_user_1">필터를 추가하여 더 많은 광고를 차단할 수 있습니다.</string>
     <string name="filter_user_2">EasyList 형식으로 작성된 필터를 사용하실 수 있습니다.</string>
     <string name="filter_user_3">EasyList 필터에는 여러 유형이 있습니다. (국가별, 기능별)</string>
     <string name="filter_user_4">자신에게 맞는 필터를 선택하여 사용하실 수 있습니다.</string>
     <string name="filter_user_5">필터에 문제가 있으면, 페이지가 정상적으로 표시되지 않을 수 있습니다.</string>
-    <string name="add_easylist">기본 EasyList 필터</string>
     <string name="size_fit">화면 맞춤</string>
     <string name="size_real">실제 크기</string>
     <string name="block_ssl">SSL 오류 차단</string>

@@ -53,8 +53,6 @@
     <string name="translate">Traducir</string>
     <string name="trans_tab">Traducir (Nueva pestaña)</string>
     <string name="trans_chrome">Traducir (Chrome)</string>
-    <string name="trans_src">Origen</string>
-    <string name="trans_dst">Destino</string>
     <string name="find_word">Encontrar en página</string>
     <string name="verify_image">Verificación de imagen</string>
     <string name="create_album">Crear albúm</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Cuando tocas el ícono de inicio</string>
     <string name="page_start_info">Al iniciar la aplicación</string>
     <string name="page_tab_info">Al crear una nueva pestaña</string>
-    <string name="filter_about">Sobre el filtro</string>
-    <string name="filter_user_1">Si los filtros integrados no son suficientes, puede agregar filtros personalizados.</string>
+    <string name="filter_user_1">Puede bloquear más anuncios agregando filtros.</string>
     <string name="filter_user_2">Puede utilizar filtros escritos en formato EasyList.</string>
     <string name="filter_user_3">Hay varios tipos de filtros EasyList. (Por país, por función)</string>
     <string name="filter_user_4">Puede seleccionar y utilizar el filtro que más le convenga.</string>
     <string name="filter_user_5">Si hay un problema con el filtro, es posible que la página no se muestre normalmente.</string>
-    <string name="add_easylist">Filtro EasyList básico</string>
     <string name="size_fit">Ajuste de pantalla</string>
     <string name="size_real">Tamaño real</string>
     <string name="block_ssl">Bloqueo de errores SSL</string>

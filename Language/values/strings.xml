@@ -53,8 +53,6 @@
     <string name="translate">Translate</string>
     <string name="trans_tab">Translate (New tab)</string>
     <string name="trans_chrome">Translate (Chrome)</string>
-    <string name="trans_src">Source</string>
-    <string name="trans_dst">Target</string>
     <string name="find_word">Find in page</string>
     <string name="verify_image">Image verification</string>
     <string name="create_album">Create album</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">When you tap the home icon</string>
     <string name="page_start_info">When starting the app</string>
     <string name="page_tab_info">When creating a new tab</string>
-    <string name="filter_about">About the filter</string>
-    <string name="filter_user_1">If the built-in filters aren\'t enough, you can add custom filters.</string>
+    <string name="filter_user_1">You can block more ads by adding filters.</string>
     <string name="filter_user_2">You can use filters written in EasyList format.</string>
     <string name="filter_user_3">There are several types of EasyList filters. (By country, by function)</string>
     <string name="filter_user_4">You can select and use the filter that suits you.</string>
     <string name="filter_user_5">If there is a problem with the filter, the page may not be displayed normally.</string>
-    <string name="add_easylist">Basic EasyList filter</string>
     <string name="size_fit">Screen fit</string>
     <string name="size_real">Actual size</string>
     <string name="block_ssl">SSL error blocking</string>

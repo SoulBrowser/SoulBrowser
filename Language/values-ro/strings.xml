@@ -53,8 +53,6 @@
     <string name="translate">Traduceți</string>
     <string name="trans_tab">Traduceți (Fila nouă)</string>
     <string name="trans_chrome">Traduceți (Chrome)</string>
-    <string name="trans_src">Sursa</string>
-    <string name="trans_dst">țintă</string>
     <string name="find_word">Găsiți în pagina</string>
     <string name="verify_image">Verificare imagine</string>
     <string name="create_album">Creare album</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Când atingeți pictograma Acasă</string>
     <string name="page_start_info">La pornirea aplicației</string>
     <string name="page_tab_info">Când creați o filă nouă</string>
-    <string name="filter_about">Despre filtru</string>
-    <string name="filter_user_1">Dacă filtrele încorporate nu sunt suficiente, puteți adăuga filtre personalizate.</string>
+    <string name="filter_user_1">Puteți bloca mai multe reclame adăugând filtre.</string>
     <string name="filter_user_2">Puteți utiliza filtre scrise în format EasyList.</string>
     <string name="filter_user_3">Există mai multe tipuri de filtre EasyList. (După țară, după funcție)</string>
     <string name="filter_user_4">Puteți selecta și utiliza filtrul care vi se potrivește.</string>
     <string name="filter_user_5">Dacă există o problemă cu filtrul, este posibil ca pagina să nu fie afișată normal.</string>
-    <string name="add_easylist">Filtru EasyList de bază</string>
     <string name="size_fit">Potrivirea ecranului</string>
     <string name="size_real">Dimensiunea reală</string>
     <string name="block_ssl">Blocare eroare SSL</string>

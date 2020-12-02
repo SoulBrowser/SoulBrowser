@@ -53,8 +53,6 @@
     <string name="translate">Çevir</string>
     <string name="trans_tab">Çevir (Yeni sekme)</string>
     <string name="trans_chrome">Çevir (Chrome)</string>
-    <string name="trans_src">Kaynak</string>
-    <string name="trans_dst">Hedef</string>
     <string name="find_word">Sayfada bulun</string>
     <string name="verify_image">Resim doğrulama</string>
     <string name="create_album">Albüm oluştur</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Ev simgesine dokunduğunuzda</string>
     <string name="page_start_info">Uygulamayı başlatırken</string>
     <string name="page_tab_info">Yeni bir sekme oluştururken</string>
-    <string name="filter_about">Filtre hakkında</string>
-    <string name="filter_user_1">Yerleşik filtreler yeterli değilse, özel filtreler ekleyebilirsiniz.</string>
+    <string name="filter_user_1">Filtreler ekleyerek daha fazla reklamı engelleyebilirsiniz.</string>
     <string name="filter_user_2">EasyList formatında yazılmış filtreleri kullanabilirsiniz.</string>
     <string name="filter_user_3">Birkaç tür EasyList filtresi vardır. (Ülkeye göre, işleve göre)</string>
     <string name="filter_user_4">Size uygun filtreyi seçip kullanabilirsiniz.</string>
     <string name="filter_user_5">Filtrede bir sorun varsa, sayfa normal şekilde görüntülenmeyebilir.</string>
-    <string name="add_easylist">Temel EasyList filtresi</string>
     <string name="size_fit">Ekran uyumu</string>
     <string name="size_real">Gerçek boyutu</string>
     <string name="block_ssl">SSL hatası engelleme</string>

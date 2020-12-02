@@ -53,8 +53,6 @@
     <string name="translate">Traduzir</string>
     <string name="trans_tab">Traduzir (Nova aba)</string>
     <string name="trans_chrome">Traduzir (Chrome)</string>
-    <string name="trans_src">Origem</string>
-    <string name="trans_dst">Destino</string>
     <string name="find_word">Encontrar na página</string>
     <string name="verify_image">Verificar imagem</string>
     <string name="create_album">Criar álbum</string>
@@ -339,10 +337,10 @@
     <string name="desk_all">Desktop (Todas as abas)</string>
     <string name="show_image">Mostrar imagens</string>
     <string name="block_images">Bloquear imagens</string>
-    <string name="block_a_image">Bloquear imagem</string>
+    <string name="block_a_image">Imagem de bloco</string>
     <string name="blocked_image">Imagens bloqueadas</string>
     <string name="block_confirm">Você quer bloquear?</string>
-    <string name="block_apply">Bloquear</string>
+    <string name="block_apply">Quadra</string>
     <string name="reset">Redefinir</string>
     <string name="reset_confirm">Deseja redefinir seu trabalho?</string>
     <string name="check_network">Verifique o status da rede.</string>
@@ -381,8 +379,8 @@
     <string name="bot_input">Barra de endereço embaixo</string>
     <string name="address_menu">Menu da barra de endereços</string>
     <string name="show_tab_bar">Mostrar barra de abas</string>
-    <string name="tab_swipe_up">Deslizar barra de abas para cima</string>
-    <string name="tab_swipe_dn">Deslizar barra de abas para baixo</string>
+    <string name="tab_swipe_up">Deslize para cima para barra de abas</string>
+    <string name="tab_swipe_dn">Deslize para baixo na barra de guias</string>
     <string name="above_top">Acima da barra superior</string>
     <string name="below_top">Abaixo da barra superior</string>
     <string name="above_bot">Acima da barra inferior</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Quando você toca no ícone de casa</string>
     <string name="page_start_info">Ao iniciar o aplicativo</string>
     <string name="page_tab_info">Ao criar uma nova guia</string>
-    <string name="filter_about">Sobre o filtro</string>
-    <string name="filter_user_1">Se os filtros integrados não forem suficientes, você pode adicionar filtros personalizados.</string>
+    <string name="filter_user_1">Você pode bloquear mais anúncios adicionando filtros.</string>
     <string name="filter_user_2">Você pode usar filtros escritos no formato EasyList.</string>
     <string name="filter_user_3">Existem vários tipos de filtros EasyList. (Por país, por função)</string>
     <string name="filter_user_4">Você pode selecionar e usar o filtro que mais lhe convier.</string>
     <string name="filter_user_5">Se houver um problema com o filtro, a página pode não ser exibida normalmente.</string>
-    <string name="add_easylist">Filtro EasyList básico</string>
     <string name="size_fit">Ajuste da tela</string>
     <string name="size_real">Tamanho atual</string>
     <string name="block_ssl">Bloqueio de erro SSL</string>

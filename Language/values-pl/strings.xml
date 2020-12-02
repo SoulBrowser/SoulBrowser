@@ -53,8 +53,6 @@
     <string name="translate">Przetłumacz</string>
     <string name="trans_tab">Tłumacz (Nowa karta)</string>
     <string name="trans_chrome">Tłumacz (Chrome)</string>
-    <string name="trans_src">Źródło</string>
-    <string name="trans_dst">Cel</string>
     <string name="find_word">Znajdź na stronie</string>
     <string name="verify_image">Weryfikacja obrazu</string>
     <string name="create_album">Utwórz albumu</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Po dotknięciu ikony domu</string>
     <string name="page_start_info">Podczas uruchamiania aplikacji</string>
     <string name="page_tab_info">Podczas tworzenia nowej karty</string>
-    <string name="filter_about">O filtrze</string>
-    <string name="filter_user_1">Jeśli wbudowane filtry nie wystarczą, możesz dodać filtry niestandardowe.</string>
+    <string name="filter_user_1">Możesz zablokować więcej reklam, dodając filtry.</string>
     <string name="filter_user_2">Możesz używać filtrów napisanych w formacie EasyList.</string>
     <string name="filter_user_3">Istnieje kilka typów filtrów EasyList. (Według kraju, funkcji)</string>
     <string name="filter_user_4">Możesz wybrać i użyć filtra, który Ci odpowiada.</string>
     <string name="filter_user_5">Jeśli występuje problem z filtrem, strona może nie być wyświetlana normalnie.</string>
-    <string name="add_easylist">Podstawowy filtr EasyList</string>
     <string name="size_fit">Dopasować do ekranu</string>
     <string name="size_real">Rzeczywisty rozmiar</string>
     <string name="block_ssl">Blokowanie błędów SSL</string>

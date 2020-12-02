@@ -53,8 +53,6 @@
     <string name="translate">Traduzir</string>
     <string name="trans_tab">Traduzir (Nova aba)</string>
     <string name="trans_chrome">Traduzir (Chrome)</string>
-    <string name="trans_src">Fonte</string>
-    <string name="trans_dst">Alvo</string>
     <string name="find_word">Encontre na página</string>
     <string name="verify_image">Verificação de imagem</string>
     <string name="create_album">Criar álbum</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Quando você toca no ícone de casa</string>
     <string name="page_start_info">Ao iniciar o aplicativo</string>
     <string name="page_tab_info">Ao criar uma nova guia</string>
-    <string name="filter_about">Sobre o filtro</string>
-    <string name="filter_user_1">Se os filtros integrados não forem suficientes, você pode adicionar filtros personalizados.</string>
+    <string name="filter_user_1">Você pode bloquear mais anúncios adicionando filtros.</string>
     <string name="filter_user_2">Você pode usar filtros escritos no formato EasyList.</string>
     <string name="filter_user_3">Existem vários tipos de filtros EasyList. (Por país, por função)</string>
     <string name="filter_user_4">Você pode selecionar e usar o filtro que mais lhe convier.</string>
     <string name="filter_user_5">Se houver um problema com o filtro, a página pode não ser exibida normalmente.</string>
-    <string name="add_easylist">Filtro EasyList básico</string>
     <string name="size_fit">Ajuste da tela</string>
     <string name="size_real">Tamanho atual</string>
     <string name="block_ssl">Bloqueio de erro SSL</string>

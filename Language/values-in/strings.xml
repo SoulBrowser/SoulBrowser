@@ -53,8 +53,6 @@
     <string name="translate">Terjemahkan</string>
     <string name="trans_tab">Terjemahkan (Tab baru)</string>
     <string name="trans_chrome">Terjemahkan (Chrome)</string>
-    <string name="trans_src">Sumber</string>
-    <string name="trans_dst">Target</string>
     <string name="find_word">Temukan di halaman</string>
     <string name="verify_image">Verifikasi gambar</string>
     <string name="create_album">Buat album</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Saat Anda mengetuk ikon beranda</string>
     <string name="page_start_info">Saat memulai aplikasi</string>
     <string name="page_tab_info">Saat membuat tab baru</string>
-    <string name="filter_about">Tentang filter</string>
-    <string name="filter_user_1">Jika filter bawaan tidak cukup, Anda dapat menambahkan filter khusus.</string>
+    <string name="filter_user_1">Anda dapat memblokir lebih banyak iklan dengan menambahkan filter.</string>
     <string name="filter_user_2">Anda dapat menggunakan filter yang ditulis dalam format EasyList.</string>
     <string name="filter_user_3">Ada beberapa jenis filter EasyList. (Berdasarkan negara, berdasarkan fungsi)</string>
     <string name="filter_user_4">Anda dapat memilih dan menggunakan filter yang sesuai dengan Anda.</string>
     <string name="filter_user_5">Jika ada masalah dengan filter, halaman mungkin tidak ditampilkan secara normal.</string>
-    <string name="add_easylist">Filter EasyList dasar</string>
     <string name="size_fit">Kesesuaian layar</string>
     <string name="size_real">Ukuran sebenarnya</string>
     <string name="block_ssl">Pemblokiran kesalahan SSL</string>

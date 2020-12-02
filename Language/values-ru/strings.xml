@@ -53,8 +53,6 @@
     <string name="translate">Перевести</string>
     <string name="trans_tab">Перевести (Новая вкладка)</string>
     <string name="trans_chrome">Перевести (Chrome)</string>
-    <string name="trans_src">Перевести с</string>
-    <string name="trans_dst">Перевести на</string>
     <string name="find_word">Найти на странице</string>
     <string name="verify_image">Проверка изображения</string>
     <string name="create_album">Создать альбом</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Когда вы нажимаете значок дома</string>
     <string name="page_start_info">При запуске приложения</string>
     <string name="page_tab_info">При создании новой вкладки</string>
-    <string name="filter_about">О фильтре</string>
-    <string name="filter_user_1">Если встроенных фильтров недостаточно, вы можете добавить собственные фильтры.</string>
+    <string name="filter_user_1">Вы можете заблокировать больше рекламы, добавив фильтры.</string>
     <string name="filter_user_2">Вы можете использовать фильтры, написанные в формате EasyList.</string>
     <string name="filter_user_3">Есть несколько типов фильтров EasyList. (По странам, по функциям)</string>
     <string name="filter_user_4">Вы можете выбрать и использовать тот фильтр, который вам подходит.</string>
     <string name="filter_user_5">Если есть проблема с фильтром, страница может отображаться некорректно.</string>
-    <string name="add_easylist">Базовый фильтр EasyList</string>
     <string name="size_fit">Экран подходит</string>
     <string name="size_real">Фактический размер</string>
     <string name="block_ssl">Блокировка ошибок SSL</string>

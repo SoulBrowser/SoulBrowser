@@ -53,8 +53,6 @@
     <string name="translate">Übersetzen</string>
     <string name="trans_tab">Übersetzen (Neuer Tab)</string>
     <string name="trans_chrome">Übersetzen (Chrome)</string>
-    <string name="trans_src">Quelle</string>
-    <string name="trans_dst">Ziel</string>
     <string name="find_word">Auf Seite finden</string>
     <string name="verify_image">Bild verifizieren</string>
     <string name="create_album">Album erstellen</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Wenn Sie auf das Home-Symbol tippen</string>
     <string name="page_start_info">Beim Starten der App</string>
     <string name="page_tab_info">Beim Erstellen einer neuen Registerkarte</string>
-    <string name="filter_about">Über den Filter</string>
-    <string name="filter_user_1">Wenn die integrierten Filter nicht ausreichen, können Sie benutzerdefinierte Filter hinzufügen.</string>
+    <string name="filter_user_1">Sie können weitere Anzeigen blockieren, indem Sie Filter hinzufügen.</string>
     <string name="filter_user_2">Sie können Filter verwenden, die im EasyList-Format geschrieben sind.</string>
     <string name="filter_user_3">Es gibt verschiedene Arten von EasyList-Filtern. (Nach Land, nach Funktion)</string>
     <string name="filter_user_4">Sie können den für Sie geeigneten Filter auswählen und verwenden.</string>
     <string name="filter_user_5">Wenn ein Problem mit dem Filter vorliegt, wird die Seite möglicherweise nicht normal angezeigt.</string>
-    <string name="add_easylist">Grundlegender EasyList Filter</string>
     <string name="size_fit">Bildschirm passen</string>
     <string name="size_real">Tatsächliche Größe</string>
     <string name="block_ssl">Blockierung von SSL-Fehlern</string>

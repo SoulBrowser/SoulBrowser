@@ -53,8 +53,6 @@
     <string name="translate">Dịch</string>
     <string name="trans_tab">Dịch (Tab mới)</string>
     <string name="trans_chrome">Dịch (Chrome)</string>
-    <string name="trans_src">Nguồn</string>
-    <string name="trans_dst">Mục tiêu</string>
     <string name="find_word">Tìm ở trang</string>
     <string name="verify_image">Xác minh hình ảnh</string>
     <string name="create_album">Tạo album</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Khi bạn nhấn vào biểu tượng trang chủ</string>
     <string name="page_start_info">Khi khởi động ứng dụng</string>
     <string name="page_tab_info">Khi tạo một tab mới</string>
-    <string name="filter_about">Giới thiệu về bộ lọc</string>
-    <string name="filter_user_1">Nếu bộ lọc tích hợp không đủ, bạn có thể thêm bộ lọc tùy chỉnh.</string>
+    <string name="filter_user_1">Bạn có thể chặn nhiều quảng cáo hơn bằng cách thêm bộ lọc.</string>
     <string name="filter_user_2">Bạn có thể sử dụng các bộ lọc được viết ở định dạng EasyList.</string>
     <string name="filter_user_3">Có một số loại bộ lọc EasyList. (Theo quốc gia, theo chức năng)</string>
     <string name="filter_user_4">Bạn có thể chọn và sử dụng bộ lọc phù hợp với mình.</string>
     <string name="filter_user_5">Nếu có vấn đề với bộ lọc, trang có thể không được hiển thị bình thường.</string>
-    <string name="add_easylist">Bộ lọc EasyList cơ bản</string>
     <string name="size_fit">Màn hình phù hợp</string>
     <string name="size_real">Kích thước thực sự</string>
     <string name="block_ssl">Chặn lỗi SSL</string>

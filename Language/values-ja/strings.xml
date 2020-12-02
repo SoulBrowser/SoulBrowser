@@ -53,8 +53,6 @@
     <string name="translate">翻訳</string>
     <string name="trans_tab">翻訳 (新しいタブ)</string>
     <string name="trans_chrome">翻訳 (Chrome)</string>
-    <string name="trans_src">ソース</string>
-    <string name="trans_dst">ターゲット</string>
     <string name="find_word">ページ内検索</string>
     <string name="verify_image">画像の確認</string>
     <string name="create_album">アルバム作成</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">ホームアイコンをクリックしたとき</string>
     <string name="page_start_info">アプリを起動したとき</string>
     <string name="page_tab_info">新しいタブを作成するときに</string>
-    <string name="filter_about">フィルタについて</string>
-    <string name="filter_user_1">内蔵フィルタが十分でない場合は、ユーザーのフィルタを追加することができます。</string>
+    <string name="filter_user_1">フィルタを追加して、より多くの広告をブロックすることができます。</string>
     <string name="filter_user_2">EasyList形式で作成されたフィルタを使用することができます。</string>
     <string name="filter_user_3">EasyListフィルタは、複数の種類があります。（国別、機能別）</string>
     <string name="filter_user_4">自分に合ったフィルタを選択して使用することができます。</string>
     <string name="filter_user_5">フィルタに問題があれば、ページが正常に表示されないことがあります。</string>
-    <string name="add_easylist">基本EasyListフィルタ</string>
     <string name="size_fit">画面カスタマイズ</string>
     <string name="size_real">実際のサイズ</string>
     <string name="block_ssl">SSLエラーブロック</string>

@@ -53,8 +53,6 @@
     <string name="translate">Перекласти</string>
     <string name="trans_tab">Перекласти (Нова вкладка)</string>
     <string name="trans_chrome">Перекласти (Chrome)</string>
-    <string name="trans_src">Перекласти з</string>
-    <string name="trans_dst">Перекласти на</string>
     <string name="find_word">Знайти на сторінці</string>
     <string name="verify_image">Підтвердження зображення</string>
     <string name="create_album">Створити альбом</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">Коли ви натискаєте на піктограму будинку</string>
     <string name="page_start_info">Під час запуску програми</string>
     <string name="page_tab_info">При створенні нової вкладки</string>
-    <string name="filter_about">Про фільтр</string>
-    <string name="filter_user_1">Якщо вбудованих фільтрів недостатньо, ви можете додати власні фільтри.</string>
+    <string name="filter_user_1">Ви можете заблокувати більше оголошень, додавши фільтри.</string>
     <string name="filter_user_2">Ви можете використовувати фільтри, написані у форматі EasyList.</string>
     <string name="filter_user_3">Існує кілька типів фільтрів EasyList. (За країною, за функцією)</string>
     <string name="filter_user_4">Ви можете вибрати та використовувати фільтр, який вам підходить.</string>
     <string name="filter_user_5">Якщо є проблема з фільтром, сторінка може не відображатися нормально.</string>
-    <string name="add_easylist">Основний фільтр EasyList</string>
     <string name="size_fit">Екран підходить</string>
     <string name="size_real">Реальний розмір</string>
     <string name="block_ssl">Блокування помилок SSL</string>

@@ -53,8 +53,6 @@
     <string name="translate">แปล</string>
     <string name="trans_tab">แปล (แท็บใหม่)</string>
     <string name="trans_chrome">แปล (Chrome)</string>
-    <string name="trans_src">แหล่งที่มา</string>
-    <string name="trans_dst">เป้าหมาย</string>
     <string name="find_word">ค้นหาในหน้า</string>
     <string name="verify_image">การตรวจสอบรูปภาพ</string>
     <string name="create_album">สร้างอัลบั้ม</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">เมื่อคุณแตะไอคอนบ้าน</string>
     <string name="page_start_info">เมื่อเริ่มต้นแอป</string>
     <string name="page_tab_info">เมื่อสร้างแท็บใหม่</string>
-    <string name="filter_about">เกี่ยวกับตัวกรอง</string>
-    <string name="filter_user_1">หากตัวกรองในตัวไม่เพียงพอคุณสามารถเพิ่มตัวกรองที่กำหนดเองได้</string>
+    <string name="filter_user_1">คุณสามารถบล็อกโฆษณาเพิ่มเติมได้โดยเพิ่มตัวกรอง</string>
     <string name="filter_user_2">คุณสามารถใช้ตัวกรองที่เขียนในรูปแบบ EasyList</string>
     <string name="filter_user_3">ตัวกรอง EasyList มีหลายประเภท (ตามประเทศตามฟังก์ชัน)</string>
     <string name="filter_user_4">คุณสามารถเลือกและใช้ฟิลเตอร์ที่เหมาะกับคุณได้</string>
     <string name="filter_user_5">หากมีปัญหากับตัวกรองหน้าอาจไม่แสดงตามปกติ</string>
-    <string name="add_easylist">ตัวกรอง EasyList พื้นฐาน</string>
     <string name="size_fit">พอดีกับหน้าจอ</string>
     <string name="size_real">ขนาดที่แท้จริง</string>
     <string name="block_ssl">การบล็อกข้อผิดพลาด SSL</string>

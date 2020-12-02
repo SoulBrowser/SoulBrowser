@@ -53,8 +53,6 @@
     <string name="translate">网页翻译</string>
     <string name="trans_tab">翻译（新标签）</string>
     <string name="trans_chrome">翻译（Chrome）</string>
-    <string name="trans_src">当前语言</string>
-    <string name="trans_dst">目标语言</string>
     <string name="find_word">在页面中查找</string>
     <string name="verify_image">图像验证</string>
     <string name="create_album">创建相册</string>
@@ -743,13 +741,11 @@
     <string name="page_home_info">当你点击主页图标时</string>
     <string name="page_start_info">启动应用程序时</string>
     <string name="page_tab_info">建立新分页时</string>
-    <string name="filter_about">关于过滤器</string>
-    <string name="filter_user_1">如果内置过滤器不够用，你可以添加自定义过滤器</string>
+    <string name="filter_user_1">您可以通过添加过滤器来屏蔽更多广告</string>
     <string name="filter_user_2">你可以使用以 EasyList 格式编写的过滤器</string>
     <string name="filter_user_3">EasyList 过滤器有几种类型（按国家，按功能）</string>
     <string name="filter_user_4">你可以选择并使用适合你的过滤器</string>
     <string name="filter_user_5">如果过滤器有问题，则该页面可能无法正常显示</string>
-    <string name="add_easylist">基本的 EasyList 过滤器</string>
     <string name="size_fit">屏幕适合</string>
     <string name="size_real">真实大小</string>
     <string name="block_ssl">SSL 错误阻止</string>
