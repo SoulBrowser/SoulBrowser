@@ -452,7 +452,9 @@
     <string name="touch_lock_info">Lock screen for unlocking touch during video playback.</string>
     <string name="touch_locked">Touch is locked.</string>
     <string name="touch_unlocked">Touch is unlocked.</string>
+    <string name="app_lock">App lock</string>
     <string name="lock_type">Lock screen</string>
+    <string name="lock_only_secret">Lock only incognito mode</string>
     <string name="unlock">Unlock</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Pattern</string>
@@ -470,6 +472,10 @@
     <string name="already_added">Already added</string>
     <string name="secret_reset">Reset password</string>
     <string name="secret_reset_guide">Resetting will delete all data in incognito mode.</string>
+    <string name="lock_reset_target">Initialization target</string>
+    <string name="lock_reset_info">If you forget your password and initialize the lock screen, the selected data will be deleted.</string>
+    <string name="lock_reset_guide">Data is deleted when initialized.</string>
+    <string name="lock_secret_guide">Only incognito mode data is deleted.</string>
     <string name="reset_noti">Initialized</string>
     <string name="pass_hint">Enter at least 4 characters</string>
     <string name="export_html">Export to HTML</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">Appears on the screen while the voice is playing.</string>
     <string name="stop_icon_info_2">You can move the position freely.</string>
     <string name="not_support_device">Not supported on this device.</string>
+    <string name="drag_seek">Screen navigation by touch</string>
+    <string name="drag_seek_info">Drag the screen left or right to navigate the screen.</string>
     <string name="drag_bright">Brightness control by touch</string>
     <string name="drag_bright_info">Drag the area on the left side of the screen to change the brightness.</string>
     <string name="drag_volume">Volume control by touch</string>
@@ -653,6 +661,8 @@
     <string name="unknown">Unknown</string>
     <string name="move_top">To the top</string>
     <string name="move_bot">To the bottom</string>
+    <string name="scroll_up">Scroll up</string>
+    <string name="scroll_down">Scroll down</string>
     <string name="open_with">Open with</string>
     <string name="other_guide">You can download it with another app.</string>
     <string name="double_tap">Double tap</string>
@@ -757,4 +767,5 @@
     <string name="always_use">Always use</string>
     <string name="only_night">Only used in night mode</string>
     <string name="night_mode">Night mode</string>
+    <string name="use_scroll_anim">Use scroll animation</string>
 </resources>

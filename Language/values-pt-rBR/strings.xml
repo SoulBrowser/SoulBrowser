@@ -452,7 +452,9 @@
     <string name="touch_lock_info">Tela de bloqueio para desbloquear o toque durante a reprodução de vídeo.</string>
     <string name="touch_locked">O toque está bloqueado.</string>
     <string name="touch_unlocked">O toque está desbloqueado.</string>
+    <string name="app_lock">Bloqueio do aplicativo</string>
     <string name="lock_type">Tela de bloqueio</string>
+    <string name="lock_only_secret">Bloquear apenas o modo de navegação anônima</string>
     <string name="unlock">Desbloquear</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Padrões</string>
@@ -470,6 +472,10 @@
     <string name="already_added">Já adicionado</string>
     <string name="secret_reset">Redefinir senha</string>
     <string name="secret_reset_guide">A redefinição excluirá todos os dados no modo de navegação anônima.</string>
+    <string name="lock_reset_target">Alvo de inicialização</string>
+    <string name="lock_reset_info">Se você esquecer sua senha e inicializar a tela de bloqueio, os dados selecionados serão excluídos.</string>
+    <string name="lock_reset_guide">Os dados serão excluídos quando inicializados.</string>
+    <string name="lock_secret_guide">Apenas os dados do modo de navegação anônima são excluídos.</string>
     <string name="reset_noti">Inicializado</string>
     <string name="pass_hint">Digite pelo menos 4 caracteres</string>
     <string name="export_html">Exportar para HTML</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">Aparece na tela enquanto a voz está reproduzindo.</string>
     <string name="stop_icon_info_2">Você pode mover a posição livremente.</string>
     <string name="not_support_device">Não suportado neste dispositivo.</string>
+    <string name="drag_seek">Navegação na tela por toque</string>
+    <string name="drag_seek_info">Arraste a tela para a esquerda ou direita para navegar na tela.</string>
     <string name="drag_bright">Controle de brilho por toque</string>
     <string name="drag_bright_info">Arraste a área no lado esquerdo da tela para alterar o brilho.</string>
     <string name="drag_volume">Controle de volume por toque</string>
@@ -653,6 +661,8 @@
     <string name="unknown">Desconhecido</string>
     <string name="move_top">Para o topo</string>
     <string name="move_bot">Para baixo</string>
+    <string name="scroll_up">Rolar para cima</string>
+    <string name="scroll_down">Rolar para baixo</string>
     <string name="open_with">Abrir com</string>
     <string name="other_guide">Você pode baixar com outro aplicativo.</string>
     <string name="double_tap">Toque duplo</string>
@@ -757,4 +767,5 @@
     <string name="always_use">Sempre use</string>
     <string name="only_night">Usado apenas no modo noturno</string>
     <string name="night_mode">Modo noturno</string>
+    <string name="use_scroll_anim">Use a animação de rolagem</string>
 </resources>

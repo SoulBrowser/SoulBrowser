@@ -452,7 +452,9 @@
     <string name="touch_lock_info">Schermata di blocco per sbloccare il tocco durante la riproduzione video.</string>
     <string name="touch_locked">Il tocco è bloccato.</string>
     <string name="touch_unlocked">Il tocco è sbloccato.</string>
+    <string name="app_lock">Blocco app</string>
     <string name="lock_type">Schermata di blocco</string>
+    <string name="lock_only_secret">Blocca solo la modalità di navigazione in incognito</string>
     <string name="unlock">Sblocco</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Modello</string>
@@ -470,6 +472,10 @@
     <string name="already_added">Già aggiunto</string>
     <string name="secret_reset">Reimposta password</string>
     <string name="secret_reset_guide">Il ripristino eliminerà tutti i dati in modalità di navigazione in incognito.</string>
+    <string name="lock_reset_target">Target di inizializzazione</string>
+    <string name="lock_reset_info">Se si dimentica la password e si inizializza la schermata di blocco, i dati selezionati verranno eliminati.</string>
+    <string name="lock_reset_guide">I dati vengono cancellati quando inizializzati.</string>
+    <string name="lock_secret_guide">Vengono eliminati solo i dati della modalità di navigazione in incognito.</string>
     <string name="reset_noti">E \'stato eliminato.</string>
     <string name="pass_hint">Inserisci almeno 4 caratteri</string>
     <string name="export_html">Esporta in HTML</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">Appare sullo schermo mentre la voce suona.</string>
     <string name="stop_icon_info_2">È possibile spostare la posizione liberamente.</string>
     <string name="not_support_device">Non supportato su questo dispositivo.</string>
+    <string name="drag_seek">Navigazione sullo schermo al tocco</string>
+    <string name="drag_seek_info">Trascina lo schermo a sinistra oa destra per navigare nello schermo.</string>
     <string name="drag_bright">Controllo della luminosità al tocco</string>
     <string name="drag_bright_info">Trascina l\'area sul lato sinistro dello schermo per modificare la luminosità.</string>
     <string name="drag_volume">Controllo del volume al tocco</string>
@@ -653,6 +661,8 @@
     <string name="unknown">Sconosciuto</string>
     <string name="move_top">Torna in cima</string>
     <string name="move_bot">In fondo</string>
+    <string name="scroll_up">Scorrere verso l\'alto</string>
+    <string name="scroll_down">Scorri verso il basso</string>
     <string name="open_with">Aperta con</string>
     <string name="other_guide">Puoi scaricarlo con un\'altra app.</string>
     <string name="double_tap">Tocca due volte</string>
@@ -757,4 +767,5 @@
     <string name="always_use">Usa sempre</string>
     <string name="only_night">Utilizzato solo in modalità notturna</string>
     <string name="night_mode">Modalità notturna</string>
+    <string name="use_scroll_anim">Usa l\'animazione di scorrimento</string>
 </resources>

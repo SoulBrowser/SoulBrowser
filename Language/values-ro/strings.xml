@@ -452,7 +452,9 @@
     <string name="touch_lock_info">Ecran de blocare pentru deblocarea atingerii în timpul redării video.</string>
     <string name="touch_locked">Touch este blocat.</string>
     <string name="touch_unlocked">Touch este deblocat.</string>
+    <string name="app_lock">Blocarea aplicației</string>
     <string name="lock_type">Blocare ecran</string>
+    <string name="lock_only_secret">Blocați numai modul incognito</string>
     <string name="unlock">Deblocare</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Model</string>
@@ -470,6 +472,10 @@
     <string name="already_added">A fost deja adăugat</string>
     <string name="secret_reset">Resetează parola</string>
     <string name="secret_reset_guide">Resetarea va șterge toate datele în modul incognito.</string>
+    <string name="lock_reset_target">Țintă de inițializare</string>
+    <string name="lock_reset_info">Dacă uitați parola și inițializați ecranul de blocare, datele selectate vor fi șterse.</string>
+    <string name="lock_reset_guide">Datele vor fi șterse la inițializare.</string>
+    <string name="lock_secret_guide">Se șterg doar datele modului incognito.</string>
     <string name="reset_noti">Inițializat</string>
     <string name="pass_hint">Introduceți cel puțin 4 caractere</string>
     <string name="export_html">Exportați în HTML</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">Apare pe ecran în timp ce se redă vocea.</string>
     <string name="stop_icon_info_2">Puteți muta poziția liber.</string>
     <string name="not_support_device">Nu este acceptat pe acest dispozitiv.</string>
+    <string name="drag_seek">Navigare pe ecran prin atingere</string>
+    <string name="drag_seek_info">Trageți ecranul spre stânga sau spre dreapta pentru a naviga pe ecran.</string>
     <string name="drag_bright">Controlul luminozității prin atingere</string>
     <string name="drag_bright_info">Trageți zona din partea stângă a ecranului pentru a schimba luminozitatea.</string>
     <string name="drag_volume">Controlul volumului prin atingere</string>
@@ -653,6 +661,8 @@
     <string name="unknown">Necunoscut</string>
     <string name="move_top">Kembali ke atas</string>
     <string name="move_bot">Ke bawah</string>
+    <string name="scroll_up">Derulați în sus</string>
+    <string name="scroll_down">Deruleaza in jos</string>
     <string name="open_with">Buka dengan</string>
     <string name="other_guide">Îl poți descărca cu o altă aplicație.</string>
     <string name="double_tap">Apasare dubla</string>
@@ -757,4 +767,5 @@
     <string name="always_use">Folosiți întotdeauna</string>
     <string name="only_night">Folosit numai în modul de noapte</string>
     <string name="night_mode">Mod de noapte</string>
+    <string name="use_scroll_anim">Utilizați animația de defilare</string>
 </resources>

@@ -452,7 +452,9 @@
     <string name="touch_lock_info">ล็อคหน้าจอเพื่อปลดล็อคการสัมผัสระหว่างการเล่นวิดีโอ</string>
     <string name="touch_locked">Touch ถูกล็อค</string>
     <string name="touch_unlocked">Touch ถูกปลดล็อค</string>
+    <string name="app_lock">ล็อคแอป</string>
     <string name="lock_type">ล็อคหน้าจอ</string>
+    <string name="lock_only_secret">ล็อกเฉพาะโหมดไม่ระบุตัวตน</string>
     <string name="unlock">ปลดล็อค</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">แบบแผน</string>
@@ -470,6 +472,10 @@
     <string name="already_added">เพิ่มแล้ว</string>
     <string name="secret_reset">รีเซ็ตรหัสผ่าน</string>
     <string name="secret_reset_guide">การรีเซ็ตจะลบข้อมูลทั้งหมดในโหมดไม่ระบุตัวตน</string>
+    <string name="lock_reset_target">เป้าหมายการเริ่มต้น</string>
+    <string name="lock_reset_info">หากคุณลืมรหัสผ่านและเริ่มต้นหน้าจอล็อกข้อมูลที่เลือกจะถูกลบ</string>
+    <string name="lock_reset_guide">ข้อมูลจะถูกลบเมื่อเริ่มต้น</string>
+    <string name="lock_secret_guide">ลบเฉพาะข้อมูลในโหมดไม่ระบุตัวตนเท่านั้น</string>
     <string name="reset_noti">มันได้รับการล้าง</string>
     <string name="pass_hint">ป้อนอย่างน้อย 4 ตัวอักษร</string>
     <string name="export_html">ส่งออกเป็น HTML</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">ปรากฏขึ้นบนหน้าจอขณะที่กำลังเล่นเสียง</string>
     <string name="stop_icon_info_2">คุณสามารถย้ายตำแหน่งได้อย่างอิสระ</string>
     <string name="not_support_device">ไม่รองรับอุปกรณ์นี้</string>
+    <string name="drag_seek">การนำทางหน้าจอด้วยการสัมผัส</string>
+    <string name="drag_seek_info">ลากหน้าจอไปทางซ้ายหรือขวาเพื่อนำทางหน้าจอ</string>
     <string name="drag_bright">ควบคุมความสว่างด้วยการสัมผัส</string>
     <string name="drag_bright_info">ลากพื้นที่ทางด้านซ้ายของหน้าจอเพื่อเปลี่ยนความสว่าง</string>
     <string name="drag_volume">ควบคุมระดับเสียงโดยการสัมผัส</string>
@@ -653,6 +661,8 @@
     <string name="unknown">ไม่ทราบ</string>
     <string name="move_top">กลับไปด้านบน</string>
     <string name="move_bot">ไปที่ด้านล่าง</string>
+    <string name="scroll_up">เลื่อนขึ้น</string>
+    <string name="scroll_down">เลื่อนลง</string>
     <string name="open_with">เปิดด้วย</string>
     <string name="other_guide">คุณสามารถดาวน์โหลดได้ด้วยแอพอื่น</string>
     <string name="double_tap">แตะสองครั้ง</string>
@@ -757,4 +767,5 @@
     <string name="always_use">ใช้เสมอ</string>
     <string name="only_night">ใช้ในโหมดกลางคืนเท่านั้น</string>
     <string name="night_mode">โหมดกลางคืน</string>
+    <string name="use_scroll_anim">ใช้ภาพเคลื่อนไหวแบบเลื่อน</string>
 </resources>

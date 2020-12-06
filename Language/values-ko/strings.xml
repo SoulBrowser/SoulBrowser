@@ -452,7 +452,9 @@
     <string name="touch_lock_info">비디오 재생 중 터치 잠금을 해제하기 위한 잠금 화면</string>
     <string name="touch_locked">터치가 잠겨 있습니다.</string>
     <string name="touch_unlocked">터치가 잠금 해제되었습니다.</string>
+    <string name="app_lock">앱 잠금</string>
     <string name="lock_type">잠금 화면</string>
+    <string name="lock_only_secret">시크릿 모드만 잠금</string>
     <string name="unlock">잠금 해제</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">패턴</string>
@@ -470,6 +472,10 @@
     <string name="already_added">이미 추가되어 있습니다.</string>
     <string name="secret_reset">비밀번호 초기화</string>
     <string name="secret_reset_guide">초기화하면 시크릿 모드의 모든 데이터가 삭제됩니다.</string>
+    <string name="lock_reset_target">초기화 대상</string>
+    <string name="lock_reset_info">비밀 번호를 분실하여 잠금화면을 초기화하면 선택된 데이터가 삭제됩니다.</string>
+    <string name="lock_reset_guide">초기화하면 데이터가 삭제됩니다.</string>
+    <string name="lock_secret_guide">시크릿 모드의 데이터만 삭제됩니다.</string>
     <string name="reset_noti">초기화되었습니다.</string>
     <string name="pass_hint">4자 이상 입력해 주세요.</string>
     <string name="export_html">HTML로 내보내기</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">음성이 재생되는 동안 화면에 나타납니다.</string>
     <string name="stop_icon_info_2">위치를 자유롭게 이동할 수 있습니다.</string>
     <string name="not_support_device">이 디바이스에서는 지원되지 않습니다.</string>
+    <string name="drag_seek">터치로 화면 탐색</string>
+    <string name="drag_seek_info">화면을 좌우로 드래그해서 화면을 탐색합니다.</string>
     <string name="drag_bright">터치로 밝기 조절</string>
     <string name="drag_bright_info">화면 좌측 영역을 드래그해서 밝기를 변경합니다.</string>
     <string name="drag_volume">터치로 음량 조절</string>
@@ -653,6 +661,8 @@
     <string name="unknown">알 수 없음</string>
     <string name="move_top">맨 위로</string>
     <string name="move_bot">맨 아래로</string>
+    <string name="scroll_up">위로 스크롤</string>
+    <string name="scroll_down">아래로 스크롤</string>
     <string name="open_with">다음으로 열기</string>
     <string name="other_guide">다른 앱으로 다운로드할 수 있습니다.</string>
     <string name="double_tap">더블 탭</string>
@@ -757,4 +767,5 @@
     <string name="always_use">항상 사용</string>
     <string name="only_night">야간 모드에만 사용</string>
     <string name="night_mode">야간 모드</string>
+    <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
 </resources>

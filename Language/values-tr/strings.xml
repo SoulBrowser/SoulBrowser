@@ -452,7 +452,9 @@
     <string name="touch_lock_info">Video oynatımı sırasında dokunmanın kilidini açmak için kilit ekranı.</string>
     <string name="touch_locked">Dokunma kilitli.</string>
     <string name="touch_unlocked">Dokunma kilidi açık.</string>
+    <string name="app_lock">Uygulama kilidi</string>
     <string name="lock_type">Ekranı kilitle</string>
+    <string name="lock_only_secret">Yalnızca gizli modu kilitle</string>
     <string name="unlock">Kilit açma</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Model</string>
@@ -470,6 +472,10 @@
     <string name="already_added">Zaten eklendi</string>
     <string name="secret_reset">Şifreyi sıfırla</string>
     <string name="secret_reset_guide">Sıfırlama, gizli moddaki tüm verileri silecektir.</string>
+    <string name="lock_reset_target">Başlatma hedefi</string>
+    <string name="lock_reset_info">Parolanızı unutursanız ve kilit ekranını başlatırsanız, seçilen veriler silinecektir.</string>
+    <string name="lock_reset_guide">Veriler, başlatıldığında silinir.</string>
+    <string name="lock_secret_guide">Yalnızca gizli mod verileri silinir.</string>
     <string name="reset_noti">Bu temizlendi.</string>
     <string name="pass_hint">En az 4 karakter girin</string>
     <string name="export_html">HTML\'ye dışa aktar</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">Ses çalarken ekranda belirir.</string>
     <string name="stop_icon_info_2">Konumu serbestçe hareket ettirebilirsiniz.</string>
     <string name="not_support_device">Bu cihazda desteklenmiyor.</string>
+    <string name="drag_seek">Dokunarak ekran navigasyonu</string>
+    <string name="drag_seek_info">Ekranda gezinmek için ekranı sola veya sağa sürükleyin.</string>
     <string name="drag_bright">Dokunarak parlaklık kontrolü</string>
     <string name="drag_bright_info">Parlaklığı değiştirmek için ekranın sol tarafındaki alanı sürükleyin.</string>
     <string name="drag_volume">Dokunarak ses kontrolü</string>
@@ -653,6 +661,8 @@
     <string name="unknown">Sconosciuto</string>
     <string name="move_top">Başa dönüş</string>
     <string name="move_bot">En alta</string>
+    <string name="scroll_up">Yukarı kaydırmak</string>
+    <string name="scroll_down">Aşağı kaydır</string>
     <string name="open_with">Bununla aç</string>
     <string name="other_guide">Başka bir uygulama ile indirebilirsiniz.</string>
     <string name="double_tap">Çift dokunma</string>
@@ -757,4 +767,5 @@
     <string name="always_use">Her zaman kullan</string>
     <string name="only_night">Yalnızca gece modunda kullanılır</string>
     <string name="night_mode">Gece modu</string>
+    <string name="use_scroll_anim">Kaydırma animasyonunu kullan</string>
 </resources>

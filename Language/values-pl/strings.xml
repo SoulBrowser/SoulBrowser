@@ -452,7 +452,9 @@
     <string name="touch_lock_info">Ekran blokady do odblokowywania dotyku podczas odtwarzania wideo.</string>
     <string name="touch_locked">Dotyk jest zablokowany.</string>
     <string name="touch_unlocked">Dotyk jest odblokowany.</string>
+    <string name="app_lock">Blokada aplikacji</string>
     <string name="lock_type">Ekran blokady</string>
+    <string name="lock_only_secret">Zablokuj tylko tryb incognito</string>
     <string name="unlock">Odblokuj</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Wzór</string>
@@ -470,6 +472,10 @@
     <string name="already_added">Już dodany</string>
     <string name="secret_reset">Zresetuj hasło</string>
     <string name="secret_reset_guide">Resetowanie spowoduje usunięcie wszystkich danych w trybie incognito.</string>
+    <string name="lock_reset_target">Cel inicjalizacji</string>
+    <string name="lock_reset_info">Jeśli zapomnisz hasła i zainicjujesz ekran blokady, wybrane dane zostaną usunięte.</string>
+    <string name="lock_reset_guide">Dane są usuwane podczas inicjalizacji.</string>
+    <string name="lock_secret_guide">Usuwane są tylko dane w trybie incognito.</string>
     <string name="reset_noti">Zainicjowany</string>
     <string name="pass_hint">Wpisz co najmniej 4 znaki</string>
     <string name="export_html">Eksportuj do HTML</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">Pojawia się na ekranie podczas odtwarzania głosu.</string>
     <string name="stop_icon_info_2">Możesz dowolnie zmieniać pozycję.</string>
     <string name="not_support_device">Nieobsługiwane na tym urządzeniu.</string>
+    <string name="drag_seek">Nawigacja po ekranie dotykiem</string>
+    <string name="drag_seek_info">Przeciągnij ekran w lewo lub w prawo, aby poruszać się po ekranie.</string>
     <string name="drag_bright">Kontrola jasności za pomocą dotyku</string>
     <string name="drag_bright_info">Przeciągnij obszar po lewej stronie ekranu, aby zmienić jasność.</string>
     <string name="drag_volume">Regulacja głośności za pomocą dotyku</string>
@@ -653,6 +661,8 @@
     <string name="unknown">Nieznany</string>
     <string name="move_top">Powrót do góry</string>
     <string name="move_bot">Do dna</string>
+    <string name="scroll_up">Przewiń do góry</string>
+    <string name="scroll_down">Przewiń w dół</string>
     <string name="open_with">Otwierać z</string>
     <string name="other_guide">Możesz pobrać go za pomocą innej aplikacji.</string>
     <string name="double_tap">Podwójne wciśnięcie</string>
@@ -757,4 +767,5 @@
     <string name="always_use">Zawsze używaj</string>
     <string name="only_night">Używany tylko w trybie nocnym</string>
     <string name="night_mode">Tryb nocny</string>
+    <string name="use_scroll_anim">Użyj animacji przewijania</string>
 </resources>

@@ -452,7 +452,9 @@
     <string name="touch_lock_info">Sperrbildschirm zum Entsperren von Berührungen während der Videowiedergabe.</string>
     <string name="touch_locked">Touch ist gesperrt.</string>
     <string name="touch_unlocked">Touch ist entsperrt.</string>
+    <string name="app_lock">App-Sperre</string>
     <string name="lock_type">Bildschirm sperren</string>
+    <string name="lock_only_secret">Nur Inkognito-Modus sperren</string>
     <string name="unlock">Entsperren</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Muster</string>
@@ -470,6 +472,10 @@
     <string name="already_added">Bereits hinzugefügt</string>
     <string name="secret_reset">Passwort zurücksetzen</string>
     <string name="secret_reset_guide">Durch das Zurücksetzen werden alle Daten im Inkognito-Modus gelöscht.</string>
+    <string name="lock_reset_target">Initialisierungsziel</string>
+    <string name="lock_reset_info">Wenn Sie Ihr Passwort vergessen und den Sperrbildschirm initialisieren, werden die ausgewählten Daten gelöscht.</string>
+    <string name="lock_reset_guide">Daten werden bei der Initialisierung gelöscht.</string>
+    <string name="lock_secret_guide">Es werden nur Daten im Inkognito-Modus gelöscht.</string>
     <string name="reset_noti">Initialisiert</string>
     <string name="pass_hint">Geben Sie mindestens 4 Zeichen ein</string>
     <string name="export_html">In HTML exportieren</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">Erscheint auf dem Bildschirm, während die Stimme abgespielt wird.</string>
     <string name="stop_icon_info_2">Sie können die Position frei bewegen.</string>
     <string name="not_support_device">Wird auf diesem Gerät nicht unterstützt.</string>
+    <string name="drag_seek">Bildschirmnavigation durch Berühren</string>
+    <string name="drag_seek_info">Ziehen Sie den Bildschirm nach links oder rechts, um durch den Bildschirm zu navigieren.</string>
     <string name="drag_bright">Helligkeitsregelung durch Berühren</string>
     <string name="drag_bright_info">Ziehen Sie den Bereich auf der linken Seite des Bildschirms, um die Helligkeit zu ändern.</string>
     <string name="drag_volume">Lautstärkeregler durch Berühren</string>
@@ -653,6 +661,8 @@
     <string name="unknown">Unbekannt</string>
     <string name="move_top">Zurück nach oben</string>
     <string name="move_bot">Nach unten</string>
+    <string name="scroll_up">Hochscrollen</string>
+    <string name="scroll_down">Runterscrollen</string>
     <string name="open_with">Öffnen mit</string>
     <string name="other_guide">Sie können es mit einer anderen App herunterladen.</string>
     <string name="double_tap">Doppeltippen</string>
@@ -757,4 +767,5 @@
     <string name="always_use">Verwenden Sie immer</string>
     <string name="only_night">Wird nur im Nachtmodus verwendet</string>
     <string name="night_mode">Nacht-Modus</string>
+    <string name="use_scroll_anim">Verwenden Sie die Bildlaufanimation</string>
 </resources>

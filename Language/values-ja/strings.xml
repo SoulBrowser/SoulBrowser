@@ -452,7 +452,9 @@
     <string name="touch_lock_info">ビデオの再生中にタッチロックを解除するためのロック画面。</string>
     <string name="touch_locked">タッチがロックされています。</string>
     <string name="touch_unlocked">タッチがロックを解除しました。</string>
+    <string name="app_lock">アプリロック</string>
     <string name="lock_type">ロック画面</string>
+    <string name="lock_only_secret">シークレットモードのみロック</string>
     <string name="unlock">ロック解除</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">パターン</string>
@@ -470,6 +472,10 @@
     <string name="already_added">既に追加されています。</string>
     <string name="secret_reset">パスワードの初期化</string>
     <string name="secret_reset_guide">リセットすると、シークレットモードのすべてのデータが削除されます。</string>
+    <string name="lock_reset_target">初期化対象</string>
+    <string name="lock_reset_info">パスワードを紛失してロック画面を初期化すると、選択したデータが削除されます。</string>
+    <string name="lock_reset_guide">初期化すると、データが削除されます。</string>
+    <string name="lock_secret_guide">シークレットモードのデータのみを削除します。</string>
     <string name="reset_noti">初期化された。</string>
     <string name="pass_hint">4文字以上入力</string>
     <string name="export_html">HTMLへのエクスポート</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">音声の再生中に画面に表示されます。</string>
     <string name="stop_icon_info_2">位置を自由に移動することができます。</string>
     <string name="not_support_device">この装置ではサポートされていません。</string>
+    <string name="drag_seek">タッチで画面のナビゲーション</string>
+    <string name="drag_seek_info">画面を左右にドラッグして画面を移動します。</string>
     <string name="drag_bright">タッチによる明るさ制御</string>
     <string name="drag_bright_info">画面の左側の領域をドラッグして、明るさを変更します。</string>
     <string name="drag_volume">タッチによる音量調節</string>
@@ -653,6 +661,8 @@
     <string name="unknown">不明</string>
     <string name="move_top">先頭</string>
     <string name="move_bot">一番下に</string>
+    <string name="scroll_up">上にスクロール</string>
+    <string name="scroll_down">下にスクロール</string>
     <string name="open_with">次で開く</string>
     <string name="other_guide">他のアプリでダウンロードすることができます。</string>
     <string name="double_tap">ダブルタップ</string>
@@ -757,4 +767,5 @@
     <string name="always_use">常に使用</string>
     <string name="only_night">夜間モードでのみ使用</string>
     <string name="night_mode">ナイトモード</string>
+    <string name="use_scroll_anim">スクロールアニメーションを使用</string>
 </resources>

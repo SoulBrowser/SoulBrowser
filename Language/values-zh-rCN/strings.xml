@@ -452,7 +452,9 @@
     <string name="touch_lock_info">锁定屏幕以在视频播放期间禁用触控</string>
     <string name="touch_locked">触控已锁定</string>
     <string name="touch_unlocked">触控解锁</string>
+    <string name="app_lock">应用锁定</string>
     <string name="lock_type">锁定屏幕</string>
+    <string name="lock_only_secret">仅锁定隐身模式</string>
     <string name="unlock">解锁</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">图案</string>
@@ -464,12 +466,16 @@
     <string name="pip_advance_info">某些设备可能不支持\n此功能使用更多的内存\n在内存较小的设备上使用时要小心</string>
     <string name="android_oreo">自 Android Oreo 开始受支持</string>
     <string name="secret_hist">保存历史</string>
-    <string name="secret_hist_info">以无痕模式保存你的历史记录。 无痕历史记录不会在正常模式下显示。</string>
+    <string name="secret_hist_info">以无痕模式保存你的历史记录。 无痕历史记录不会在正常模式下显示</string>
     <string name="secret_down">保存下载记录</string>
-    <string name="secret_down_info">以无痕模式存储下载记录。 无痕模式下的下载记录不会在正常模式下显示。</string>
+    <string name="secret_down_info">以无痕模式存储下载记录。 无痕模式下的下载记录不会在正常模式下显示</string>
     <string name="already_added">已添加</string>
     <string name="secret_reset">重设密码</string>
-    <string name="secret_reset_guide">重置将以无痕模式删除所有数据。</string>
+    <string name="secret_reset_guide">重置将以无痕模式删除所有数据</string>
+    <string name="lock_reset_target">初始化目标</string>
+    <string name="lock_reset_info">如果您忘记密码并初始化锁定屏幕，则所选数据将被删除</string>
+    <string name="lock_reset_guide">初始化时删除数据</string>
+    <string name="lock_secret_guide">仅隐身模式数据被删除</string>
     <string name="reset_noti">已初始化</string>
     <string name="pass_hint">输入至少4个字符</string>
     <string name="export_html">导出为 HTML</string>
@@ -487,7 +493,7 @@
     <string name="keep_tab">保留标签</string>
     <string name="keep_tab_info">当你更改为正常模式时，无痕标签会保留</string>
     <string name="keep_login">保持登录状态</string>
-    <string name="keep_login_info">如果禁用此选项，则更改为正常模式将注销所有站点。</string>
+    <string name="keep_login_info">如果禁用此选项，则更改为正常模式将注销所有站点</string>
     <string name="secret_exit">退出无痕模式</string>
     <string name="direct_input">直接输入</string>
     <string name="direct_select">直接选择</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">播放声音时出现在屏幕上</string>
     <string name="stop_icon_info_2">你可以自由移动位置</string>
     <string name="not_support_device">该设备不支持</string>
+    <string name="drag_seek">触摸屏导航</string>
+    <string name="drag_seek_info">向左或向右拖动屏幕以浏览屏幕</string>
     <string name="drag_bright">触控亮度</string>
     <string name="drag_bright_info">拖动屏幕左侧的区域以更改亮度</string>
     <string name="drag_volume">触控音量</string>
@@ -653,6 +661,8 @@
     <string name="unknown">未知</string>
     <string name="move_top">置顶</string>
     <string name="move_bot">置底</string>
+    <string name="scroll_up">向上滑动</string>
+    <string name="scroll_down">向下滚动</string>
     <string name="open_with">打开</string>
     <string name="other_guide">你可以使用其它应用下载</string>
     <string name="double_tap">双击</string>
@@ -757,4 +767,5 @@
     <string name="always_use">总是使用</string>
     <string name="only_night">仅在夜间模式下使用</string>
     <string name="night_mode">夜间模式</string>
+    <string name="use_scroll_anim">使用滚动动画</string>
 </resources>

@@ -452,7 +452,9 @@
     <string name="touch_lock_info">Kunci layar untuk membuka kunci sentuh selama pemutaran video.</string>
     <string name="touch_locked">Sentuhan terkunci.</string>
     <string name="touch_unlocked">Sentuhan tidak terkunci.</string>
+    <string name="app_lock">Kunci aplikasi</string>
     <string name="lock_type">Kunci layar</string>
+    <string name="lock_only_secret">Kunci hanya mode penyamaran</string>
     <string name="unlock">Buka kunci</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Pola</string>
@@ -470,6 +472,10 @@
     <string name="already_added">Sudah ditambahkan</string>
     <string name="secret_reset">Setel ulang kata sandi</string>
     <string name="secret_reset_guide">Pengaturan ulang akan menghapus semua data dalam mode penyamaran.</string>
+    <string name="lock_reset_target">Target inisialisasi</string>
+    <string name="lock_reset_info">Jika Anda lupa kata sandi dan menginisialisasi layar kunci, data yang dipilih akan dihapus.</string>
+    <string name="lock_reset_guide">Data dihapus saat diinisialisasi.</string>
+    <string name="lock_secret_guide">Hanya data mode penyamaran yang dihapus.</string>
     <string name="reset_noti">Diinisialisasi</string>
     <string name="pass_hint">Masukkan setidaknya 4 karakter</string>
     <string name="export_html">Ekspor ke HTML</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">Muncul di layar saat suara diputar</string>
     <string name="stop_icon_info_2">Anda dapat memindahkan posisi dengan bebas.</string>
     <string name="not_support_device">Tidak didukung pada perangkat ini.</string>
+    <string name="drag_seek">Navigasi layar dengan sentuhan</string>
+    <string name="drag_seek_info">Seret layar ke kiri atau kanan untuk menavigasi layar.</string>
     <string name="drag_bright">Kontrol kecerahan dengan sentuhan</string>
     <string name="drag_bright_info">Seret area di sisi kiri layar untuk mengubah kecerahan.</string>
     <string name="drag_volume">Kontrol volume dengan sentuhan</string>
@@ -653,6 +661,8 @@
     <string name="unknown">Tidak dikenal</string>
     <string name="move_top">Kembali ke atas</string>
     <string name="move_bot">Ke bawah</string>
+    <string name="scroll_up">Gulir ke atas</string>
+    <string name="scroll_down">Gulir ke bawah</string>
     <string name="open_with">Buka dengan</string>
     <string name="other_guide">Anda dapat mengunduhnya dengan aplikasi lain.</string>
     <string name="double_tap">Ketuk dua kali</string>
@@ -757,4 +767,5 @@
     <string name="always_use">Selalu gunakan</string>
     <string name="only_night">Hanya digunakan dalam mode malam</string>
     <string name="night_mode">Mode malam</string>
+    <string name="use_scroll_anim">Gunakan animasi gulir</string>
 </resources>

@@ -452,7 +452,9 @@
     <string name="touch_lock_info">Экран блокировки для разблокировки касания во время воспроизведения видео.</string>
     <string name="touch_locked">Сенсор заблокирован.</string>
     <string name="touch_unlocked">Сенсор йазблокирован.</string>
+    <string name="app_lock">Блокировка приложения</string>
     <string name="lock_type">Экран блокировки</string>
+    <string name="lock_only_secret">Заблокировать только режим инкогнито</string>
     <string name="unlock">Разблокировать</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Рисунок</string>
@@ -470,6 +472,10 @@
     <string name="already_added">Уже добавлено</string>
     <string name="secret_reset">Сбросить пароль</string>
     <string name="secret_reset_guide">Сброс удалит все данные в режиме инкогнито.</string>
+    <string name="lock_reset_target">Цель инициализации</string>
+    <string name="lock_reset_info">Если вы забудете пароль и инициализируете экран блокировки, выбранные данные будут удалены.</string>
+    <string name="lock_reset_guide">Данные удаляются при инициализации.</string>
+    <string name="lock_secret_guide">Удаляются только данные в режиме инкогнито.</string>
     <string name="reset_noti">Сброшено.</string>
     <string name="pass_hint">Введите не менее 4 символов</string>
     <string name="export_html">Экспорт в HTML</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">Появляется на экране во время воспроизведения голоса.</string>
     <string name="stop_icon_info_2">Вы можете свободно перемещать позицию.</string>
     <string name="not_support_device">Не поддерживается на этом устройстве.</string>
+    <string name="drag_seek">Сенсорная навигация по экрану</string>
+    <string name="drag_seek_info">Перетащите экран влево или вправо, чтобы перемещаться по экрану.</string>
     <string name="drag_bright">Управление яркостью на ощупь</string>
     <string name="drag_bright_info">Перетащите область в левой части экрана, чтобы изменить яркость.</string>
     <string name="drag_volume">Регулировка громкости жестом</string>
@@ -653,6 +661,8 @@
     <string name="unknown">Неизвестный</string>
     <string name="move_top">Вернуться к началу</string>
     <string name="move_bot">Ко дну</string>
+    <string name="scroll_up">Прокрутите вверх</string>
+    <string name="scroll_down">Прокрутить вниз</string>
     <string name="open_with">Открыть с</string>
     <string name="other_guide">Вы можете скачать его с другим приложением.</string>
     <string name="double_tap">Двойное нажатие</string>
@@ -757,4 +767,5 @@
     <string name="always_use">Всегда используйте</string>
     <string name="only_night">Используется только в ночном режиме</string>
     <string name="night_mode">Ночной режим</string>
+    <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
 </resources>

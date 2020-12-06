@@ -452,7 +452,9 @@
     <string name="touch_lock_info">Khóa màn hình để mở khóa cảm ứng trong khi phát lại video.</string>
     <string name="touch_locked">Cảm ứng bị khóa.</string>
     <string name="touch_unlocked">Chạm được mở khóa.</string>
+    <string name="app_lock">Khóa ứng dụng</string>
     <string name="lock_type">Khóa màn hình</string>
+    <string name="lock_only_secret">Chỉ khóa chế độ ẩn danh</string>
     <string name="unlock">Mở khóa</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Mẫu</string>
@@ -470,6 +472,10 @@
     <string name="already_added">Đã thêm</string>
     <string name="secret_reset">Đặt lại mật khẩu</string>
     <string name="secret_reset_guide">Đặt lại sẽ xóa tất cả dữ liệu trong chế độ ẩn danh.</string>
+    <string name="lock_reset_target">Mục tiêu khởi tạo</string>
+    <string name="lock_reset_info">Nếu bạn quên mật khẩu và khởi tạo màn hình khóa, dữ liệu đã chọn sẽ bị xóa.</string>
+    <string name="lock_reset_guide">Dữ liệu bị xóa khi khởi tạo.</string>
+    <string name="lock_secret_guide">Chỉ dữ liệu ở chế độ ẩn danh mới bị xóa.</string>
     <string name="reset_noti">Đã khởi tạo</string>
     <string name="pass_hint">Nhập ít nhất 4 ký tự</string>
     <string name="export_html">Xuất sang HTML</string>
@@ -584,6 +590,8 @@
     <string name="stop_icon_info_1">Xuất hiện trên màn hình trong khi giọng nói đang phát.</string>
     <string name="stop_icon_info_2">Bạn có thể di chuyển vị trí một cách tự do.</string>
     <string name="not_support_device">Không được hỗ trợ trên thiết bị này.</string>
+    <string name="drag_seek">Điều hướng màn hình bằng cách chạm</string>
+    <string name="drag_seek_info">Kéo màn hình sang trái hoặc phải để điều hướng màn hình.</string>
     <string name="drag_bright">Kiểm soát độ sáng bằng cảm ứng</string>
     <string name="drag_bright_info">Kéo khu vực bên trái màn hình để thay đổi độ sáng.</string>
     <string name="drag_volume">Điều khiển âm lượng bằng cảm ứng</string>
@@ -653,6 +661,8 @@
     <string name="unknown">Không xác định</string>
     <string name="move_top">Trở lại đầu trang</string>
     <string name="move_bot">Đến đáy</string>
+    <string name="scroll_up">Cuộn lên</string>
+    <string name="scroll_down">Cuộn xuống</string>
     <string name="open_with">Mở với</string>
     <string name="other_guide">Bạn có thể tải nó với một ứng dụng khác.</string>
     <string name="double_tap">Nhấn đúp</string>
@@ -757,4 +767,5 @@
     <string name="always_use">Luôn luôn sử dụng</string>
     <string name="only_night">Chỉ sử dụng ở chế độ ban đêm</string>
     <string name="night_mode">Chế độ ban đêm</string>
+    <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
 </resources>
