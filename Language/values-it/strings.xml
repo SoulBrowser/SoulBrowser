@@ -375,7 +375,7 @@
     <string name="gesture">Mimica</string>
     <string name="show_status">Mostra barra stato</string>
     <string name="show_navi">Mostra tasto funzione</string>
-    <string name="bot_address">Mostra la barra degli indirizzi in basso</string>
+    <string name="address_pos">Mostra barra degli indirizzi</string>
     <string name="bot_input">Barra degli indirizzi inferiore</string>
     <string name="address_menu">Menu della barra degli indirizzi</string>
     <string name="show_tab_bar">Mostra barra delle schede</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Aggiungi alla schermata home</string>
     <string name="set_homepage">Imposta come pagina iniziale</string>
     <string name="setted">È stato impostato.</string>
+    <string name="top_bar">Barra superiore</string>
     <string name="bottom_bar">Barra inferiore</string>
     <string name="down_by_url">Scarica per indirizzo</string>
     <string name="only_twit">È supportato solo Twitter.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Utilizzato solo in modalità notturna</string>
     <string name="night_mode">Modalità notturna</string>
     <string name="use_scroll_anim">Usa l\'animazione di scorrimento</string>
+    <string name="related_search">Termini di ricerca correlati</string>
 </resources>

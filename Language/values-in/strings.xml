@@ -375,7 +375,7 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Tampilkan bilah status</string>
     <string name="show_navi">Tampilkan tombol lunak</string>
-    <string name="bot_address">Tampilkan bilah alamat di bagian bawah</string>
+    <string name="address_pos">Tampilkan bilah alamat</string>
     <string name="bot_input">Bilah alamat bawah</string>
     <string name="address_menu">Menu bilah alamat</string>
     <string name="show_tab_bar">Tampilkan bilah tab</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Tambahkan ke layar beranda</string>
     <string name="set_homepage">Setel sebagai homepage</string>
     <string name="setted">Telah di atur.</string>
+    <string name="top_bar">Bilah atas</string>
     <string name="bottom_bar">Bilah bawah</string>
     <string name="down_by_url">Unduh berdasarkan alamat</string>
     <string name="only_twit">Hanya Twitter yang didukung.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Hanya digunakan dalam mode malam</string>
     <string name="night_mode">Mode malam</string>
     <string name="use_scroll_anim">Gunakan animasi gulir</string>
+    <string name="related_search">Istilah pencarian terkait</string>
 </resources>

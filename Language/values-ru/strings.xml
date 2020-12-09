@@ -375,7 +375,7 @@
     <string name="gesture">Жесты</string>
     <string name="show_status">Показать строку состояния</string>
     <string name="show_navi">Показать программную клавишу</string>
-    <string name="bot_address">Показать адресную строку внизу</string>
+    <string name="address_pos">Показать адресную строку</string>
     <string name="bot_input">Нижняя адресная строка</string>
     <string name="address_menu">Меню адресной строки</string>
     <string name="show_tab_bar">Показать панель вкладок</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Добавить на домашний экран</string>
     <string name="set_homepage">Установить в качестве домашней страницы</string>
     <string name="setted">Установлено.</string>
+    <string name="top_bar">Верхняя панель</string>
     <string name="bottom_bar">Нижний бар</string>
     <string name="down_by_url">Скачать по адресу</string>
     <string name="only_twit">Поддерживается только Twitter.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Используется только в ночном режиме</string>
     <string name="night_mode">Ночной режим</string>
     <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
+    <string name="related_search">Связанные поисковые запросы</string>
 </resources>

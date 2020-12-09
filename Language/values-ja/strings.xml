@@ -375,7 +375,7 @@
     <string name="gesture">ジェスチャー</string>
     <string name="show_status">ステータスバーを表示</string>
     <string name="show_navi">ソフトキーを表示</string>
-    <string name="bot_address">アドレスバーを下部に表示</string>
+    <string name="address_pos">アドレスバーの表示</string>
     <string name="bot_input">下部のアドレスバー</string>
     <string name="address_menu">アドレスバーメニュー</string>
     <string name="show_tab_bar">タブバーを表示</string>
@@ -569,7 +569,8 @@
     <string name="add_homescreen">ホーム画面に追加</string>
     <string name="set_homepage">ホームページに設定</string>
     <string name="setted">設定されています。</string>
-    <string name="bottom_bar">ボトムバー</string>
+    <string name="top_bar">上部バー</string>
+    <string name="bottom_bar">下部バー</string>
     <string name="down_by_url">アドレスでダウンロード</string>
     <string name="only_twit">ツイッターのみがサポートされます。</string>
     <string name="video_url">動画のURL</string>
@@ -768,4 +769,5 @@
     <string name="only_night">夜間モードでのみ使用</string>
     <string name="night_mode">ナイトモード</string>
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
+    <string name="related_search">関連検索</string>
 </resources>

@@ -375,7 +375,7 @@
     <string name="gesture">Gesten</string>
     <string name="show_status">Statusleiste anzeigen</string>
     <string name="show_navi">Navigationsleiste anzeigen</string>
-    <string name="bot_address">Adressleiste unten anzeigen</string>
+    <string name="address_pos">Adressleiste anzeigen</string>
     <string name="bot_input">Untere Adressleiste</string>
     <string name="address_menu">Adressleistenmenü</string>
     <string name="show_tab_bar">Tableiste anzeigen</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Zum Startbildschirm hinzufügen</string>
     <string name="set_homepage">Als Startseite festlegen</string>
     <string name="setted">Wurde festgelegt.</string>
+    <string name="top_bar">Obere Leiste</string>
     <string name="bottom_bar">Untere Leiste</string>
     <string name="down_by_url">Download nach Adresse</string>
     <string name="only_twit">Es wird nur Twitter unterstützt.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Wird nur im Nachtmodus verwendet</string>
     <string name="night_mode">Nacht-Modus</string>
     <string name="use_scroll_anim">Verwenden Sie die Bildlaufanimation</string>
+    <string name="related_search">Verwandte Suchbegriffe</string>
 </resources>

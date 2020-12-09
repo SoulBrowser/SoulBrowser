@@ -375,7 +375,7 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Show status bar</string>
     <string name="show_navi">Show soft key</string>
-    <string name="bot_address">Show address bar at the bottom</string>
+    <string name="address_pos">Show address bar</string>
     <string name="bot_input">Bottom address bar</string>
     <string name="address_menu">Address bar menu</string>
     <string name="show_tab_bar">Show tab bar</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Add to home screen</string>
     <string name="set_homepage">Set as homepage</string>
     <string name="setted">Has been set.</string>
+    <string name="top_bar">Top bar</string>
     <string name="bottom_bar">Bottom bar</string>
     <string name="down_by_url">Download by address</string>
     <string name="only_twit">Only Twitter is supported.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Only used in night mode</string>
     <string name="night_mode">Night mode</string>
     <string name="use_scroll_anim">Use scroll animation</string>
+    <string name="related_search">Related search terms</string>
 </resources>

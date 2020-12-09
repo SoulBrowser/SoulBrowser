@@ -375,7 +375,7 @@
     <string name="gesture">手势</string>
     <string name="show_status">显示状态栏</string>
     <string name="show_navi">显示软键</string>
-    <string name="bot_address">在底部显示地址栏</string>
+    <string name="address_pos">显示地址栏</string>
     <string name="bot_input">底部地址栏</string>
     <string name="address_menu">地址栏菜单</string>
     <string name="show_tab_bar">标签栏显示</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">添加到主屏幕</string>
     <string name="set_homepage">设为主页</string>
     <string name="setted">已设置</string>
+    <string name="top_bar">顶栏</string>
     <string name="bottom_bar">底栏</string>
     <string name="down_by_url">链接下载</string>
     <string name="only_twit">仅支持 Twitter</string>
@@ -768,4 +769,5 @@
     <string name="only_night">仅在夜间模式下使用</string>
     <string name="night_mode">夜间模式</string>
     <string name="use_scroll_anim">使用滚动动画</string>
+    <string name="related_search">相关搜寻字词</string>
 </resources>

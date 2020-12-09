@@ -375,7 +375,7 @@
     <string name="gesture">Cử chỉ</string>
     <string name="show_status">Thanh trạng thái chương trình</string>
     <string name="show_navi">Hiển thị phím mềm</string>
-    <string name="bot_address">Hiển thị thanh địa chỉ ở phía dưới</string>
+    <string name="address_pos">Hiển thị thanh địa chỉ</string>
     <string name="bot_input">Thanh địa chỉ dưới cùng</string>
     <string name="address_menu">Menu thanh địa chỉ</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Thêm vào màn hình chính</string>
     <string name="set_homepage">Đặt làm trang chủ</string>
     <string name="setted">Đã được thiết lập.</string>
+    <string name="top_bar">Thanh trên cùng</string>
     <string name="bottom_bar">Thanh dưới cùng</string>
     <string name="down_by_url">Tải xuống theo địa chỉ</string>
     <string name="only_twit">Chỉ có Twitter được hỗ trợ.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Chỉ sử dụng ở chế độ ban đêm</string>
     <string name="night_mode">Chế độ ban đêm</string>
     <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
+    <string name="related_search">Cụm từ tìm kiếm có liên quan</string>
 </resources>

@@ -375,7 +375,7 @@
     <string name="gesture">Gestos</string>
     <string name="show_status">Mostrar barra status</string>
     <string name="show_navi">Mostrar botões virtuais</string>
-    <string name="bot_address">Mostrar barra de endereço na parte inferior</string>
+    <string name="address_pos">Mostrar barra de endereço</string>
     <string name="bot_input">Barra de endereço embaixo</string>
     <string name="address_menu">Menu da barra de endereços</string>
     <string name="show_tab_bar">Mostrar barra de abas</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Adicionar à tela inicial</string>
     <string name="set_homepage">Definir como página inicial</string>
     <string name="setted">Definição realizada.</string>
+    <string name="top_bar">Barra superior</string>
     <string name="bottom_bar">Barra inferior</string>
     <string name="down_by_url">Download por endereço</string>
     <string name="only_twit">Somente o Twitter é suportado.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Usado apenas no modo noturno</string>
     <string name="night_mode">Modo noturno</string>
     <string name="use_scroll_anim">Use a animação de rolagem</string>
+    <string name="related_search">Termos de pesquisa relacionados</string>
 </resources>

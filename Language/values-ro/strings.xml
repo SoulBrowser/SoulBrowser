@@ -375,15 +375,15 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Afișează bara de stare</string>
     <string name="show_navi">Afișează tasta soft</string>
-    <string name="bot_address">Afișați bara de adrese în partea de jos</string>
+    <string name="address_pos">Afișați bara de adrese</string>
     <string name="bot_input">Bara de adrese de jos</string>
     <string name="address_menu">Meniul barei de adrese</string>
     <string name="show_tab_bar">Afișează bara de file</string>
     <string name="tab_swipe_up">Glisați în sus bara de file</string>
     <string name="tab_swipe_dn">Glisați în jos pe bara de file</string>
-    <string name="above_top">Deasupra barei de sus</string>
+    <string name="above_top">Deasupra bara de sus</string>
     <string name="below_top">Sub bara de sus</string>
-    <string name="above_bot">Deasupra barei de jos</string>
+    <string name="above_bot">Deasupra bara de jos</string>
     <string name="below_bot">Sub bara de jos</string>
     <string name="fix_top">Bara de sus fixată</string>
     <string name="fix_bot">Bara de jos fixată</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Adăugare la ecranul principal</string>
     <string name="set_homepage">Setați ca pagină de pornire</string>
     <string name="setted">A fost setat.</string>
+    <string name="top_bar">Bara de sus</string>
     <string name="bottom_bar">Bara de jos</string>
     <string name="down_by_url">Descărcați prin adresă</string>
     <string name="only_twit">Doar Twitter este acceptat.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Folosit numai în modul de noapte</string>
     <string name="night_mode">Mod de noapte</string>
     <string name="use_scroll_anim">Utilizați animația de defilare</string>
+    <string name="related_search">Termeni de căutare asociați</string>
 </resources>

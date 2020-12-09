@@ -375,7 +375,7 @@
     <string name="gesture">제스처</string>
     <string name="show_status">상태표시줄 표시</string>
     <string name="show_navi">소프트키 표시</string>
-    <string name="bot_address">주소표시줄을 하단에 표시</string>
+    <string name="address_pos">주소표시줄 표시</string>
     <string name="bot_input">하단 주소표시줄</string>
     <string name="address_menu">주소표시줄 메뉴</string>
     <string name="show_tab_bar">탭바 표시</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">홈 화면에 추가</string>
     <string name="set_homepage">홈페이지로 설정</string>
     <string name="setted">설정되었습니다.</string>
+    <string name="top_bar">상단바</string>
     <string name="bottom_bar">하단바</string>
     <string name="down_by_url">주소로 다운로드</string>
     <string name="only_twit">트위터만 지원됩니다.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">야간 모드에만 사용</string>
     <string name="night_mode">야간 모드</string>
     <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
+    <string name="related_search">관련 검색어</string>
 </resources>

@@ -375,7 +375,7 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Pokaż pasek stanu</string>
     <string name="show_navi">Pokaż pasek przycisków</string>
-    <string name="bot_address">Pokaż pasek adresu u dołu</string>
+    <string name="address_pos">Pokaż pasek adresu</string>
     <string name="bot_input">Dolny pasek adresu</string>
     <string name="address_menu">Menu paska adresu</string>
     <string name="show_tab_bar">Pokaż pasek kart</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Dodaj do ekranu głównego</string>
     <string name="set_homepage">Ustaw jako stronę główną</string>
     <string name="setted">Ustawiono.</string>
+    <string name="top_bar">Górny pasek</string>
     <string name="bottom_bar">Dolny pasek</string>
     <string name="down_by_url">Pobierz według adresu</string>
     <string name="only_twit">Obsługiwany jest tylko Twitter.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Używany tylko w trybie nocnym</string>
     <string name="night_mode">Tryb nocny</string>
     <string name="use_scroll_anim">Użyj animacji przewijania</string>
+    <string name="related_search">Powiązane terminy wyszukiwania</string>
 </resources>

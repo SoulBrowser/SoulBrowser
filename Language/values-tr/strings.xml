@@ -375,7 +375,7 @@
     <string name="gesture">Hareketleri</string>
     <string name="show_status">Durum çubuğunu göster</string>
     <string name="show_navi">Ekran tuşunu göster</string>
-    <string name="bot_address">Adres çubuğunu altta göster</string>
+    <string name="address_pos">Adres çubuğunu göster</string>
     <string name="bot_input">Alt adres çubuğu</string>
     <string name="address_menu">Adres çubuğu menüsü</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Ana ekrana ekle</string>
     <string name="set_homepage">Anasayfa olarak ayarla</string>
     <string name="setted">Ayarlandı.</string>
+    <string name="top_bar">Üst çubuk</string>
     <string name="bottom_bar">Alt çubuk</string>
     <string name="down_by_url">Adrese göre indir</string>
     <string name="only_twit">Yalnızca Twitter desteklenir.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Yalnızca gece modunda kullanılır</string>
     <string name="night_mode">Gece modu</string>
     <string name="use_scroll_anim">Kaydırma animasyonunu kullan</string>
+    <string name="related_search">İlgili arama terimleri</string>
 </resources>

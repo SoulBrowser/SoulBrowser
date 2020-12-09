@@ -375,7 +375,7 @@
     <string name="gesture">Gesto</string>
     <string name="show_status">Mostrar barra estado</string>
     <string name="show_navi">Mostrar tecla programable</string>
-    <string name="bot_address">Mostrar barra direcciones en parte inferior</string>
+    <string name="address_pos">Mostrar barra de direcciones</string>
     <string name="bot_input">Barra de direcciones inferior</string>
     <string name="address_menu">Menú de la barra de direcciones</string>
     <string name="show_tab_bar">Mostrar barra de pestañas</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Añadir a pantalla principal</string>
     <string name="set_homepage">Establecer como página de inicio</string>
     <string name="setted">Ha sido establecido.</string>
+    <string name="top_bar">Barra superior</string>
     <string name="bottom_bar">Barra inferior</string>
     <string name="down_by_url">Descargar por dirección</string>
     <string name="only_twit">Solo se admite Twitter.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Solo se usa en modo nocturno</string>
     <string name="night_mode">Modo nocturno</string>
     <string name="use_scroll_anim">Usar animación de desplazamiento</string>
+    <string name="related_search">Términos de búsqueda relacionados</string>
 </resources>

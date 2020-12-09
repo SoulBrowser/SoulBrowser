@@ -375,7 +375,7 @@
     <string name="gesture">Жест</string>
     <string name="show_status">Показати рядок стану</string>
     <string name="show_navi">Показати програмну клавішу</string>
-    <string name="bot_address">Показати адресний рядок внизу</string>
+    <string name="address_pos">Показати адресний рядок</string>
     <string name="bot_input">Нижній адресний рядок</string>
     <string name="address_menu">Меню адресного рядка</string>
     <string name="show_tab_bar">Показувати панель вкладок</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">Додати на головний екран</string>
     <string name="set_homepage">Встановити як домашню сторінку</string>
     <string name="setted">Встановлено.</string>
+    <string name="top_bar">Верхня панель</string>
     <string name="bottom_bar">Нижня панель</string>
     <string name="down_by_url">Завантажити за адресою</string>
     <string name="only_twit">Підтримується лише Twitter.</string>
@@ -768,4 +769,5 @@
     <string name="only_night">Використовується лише в нічному режимі</string>
     <string name="night_mode">Нічний режим</string>
     <string name="use_scroll_anim">Використовуйте анімацію прокрутки</string>
+    <string name="related_search">Пов’язані терміни пошуку</string>
 </resources>

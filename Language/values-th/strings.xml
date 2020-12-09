@@ -375,7 +375,7 @@
     <string name="gesture">ท่าทาง</string>
     <string name="show_status">แสดงแถบสถานะ</string>
     <string name="show_navi">แสดงปุ่มซอฟท์คีย์</string>
-    <string name="bot_address">แสดงแถบที่อยู่ที่ด้านล่าง</string>
+    <string name="address_pos">แสดงแถบที่อยู่</string>
     <string name="bot_input">แถบที่อยู่ด้านล่าง</string>
     <string name="address_menu">เมนูแถบที่อยู่</string>
     <string name="show_tab_bar">แสดงแถบแท็บ</string>
@@ -569,6 +569,7 @@
     <string name="add_homescreen">เพิ่มไปที่หน้าจอหลัก</string>
     <string name="set_homepage">ตั้งเป็นหน้าแรก</string>
     <string name="setted">ได้มีการตั้งค่า</string>
+    <string name="top_bar">แถบด้านบน</string>
     <string name="bottom_bar">แถบด้านล่าง</string>
     <string name="down_by_url">ดาวน์โหลดตามที่อยู่</string>
     <string name="only_twit">รองรับ Twitter เท่านั้น</string>
@@ -768,4 +769,5 @@
     <string name="only_night">ใช้ในโหมดกลางคืนเท่านั้น</string>
     <string name="night_mode">โหมดกลางคืน</string>
     <string name="use_scroll_anim">ใช้ภาพเคลื่อนไหวแบบเลื่อน</string>
+    <string name="related_search">คำค้นหาที่เกี่ยวข้อง</string>
 </resources>
