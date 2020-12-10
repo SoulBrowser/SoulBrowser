@@ -103,7 +103,7 @@
     <string name="app_block_info">阻止网站运行其它应用程序</string>
     <string name="app_block_noti">该网站正在尝试运行另一个应用程序</string>
     <string name="link">链接</string>
-    <string name="open_url">打开</string>
+    <string name="open_url">打开链接</string>
     <string name="new_url">新标签</string>
     <string name="back_url">后台标签</string>
     <string name="copy_url">复制链接</string>
@@ -195,7 +195,7 @@
     <string name="double_back">双击返回按钮退出应用程序</string>
     <string name="press_again">再按一次退出</string>
     <string name="last_noti">最后一页提示</string>
-    <string name="last_noti_info">如果单击选项卡最后一页上的\'上一步\'按钮，则会通知它是选项卡最后一页</string>
+    <string name="last_noti_info">如果单击选项卡最后一页上的返回按钮，则会通知它是选项卡最后一页</string>
     <string name="last_page_noti">这是选项卡的最后一页</string>
     <string name="title">主题</string>
     <string name="artist">艺术家</string>
@@ -249,7 +249,7 @@
     <string name="ok">确认</string>
     <string name="success">成功</string>
     <string name="fail">失败</string>
-    <string name="play">播放</string>
+    <string name="play">玩</string>
     <string name="play_error">播放失败</string>
     <string name="not_loaded">没装</string>
     <string name="invalid_url">网址无效</string>
@@ -291,7 +291,7 @@
     <string name="photo_editor">图像编辑器</string>
     <string name="color_size">厚度</string>
     <string name="color_alpha">透明度</string>
-    <string name="bottom_size">底栏尺寸</string>
+    <string name="bottom_size">底栏大小</string>
     <string name="close_icon">关闭按钮</string>
     <string name="size_width">宽度</string>
     <string name="size_height">高度</string>
@@ -319,9 +319,9 @@
     <string name="guide_popup_1">你将从此站点打开一个新页面</string>
     <string name="guide_popup_2">新页面可能包含广告</string>
     <string name="guide_popup_3">你可以从菜单中选择所需的操作</string>
-    <string name="url_blocked">危险的网站被封锁了</string>
+    <string name="url_blocked">危险的网站已被屏蔽</string>
     <string name="please_retry">请再试一次</string>
-    <string name="blocked">限制</string>
+    <string name="blocked">已屏蔽</string>
     <string name="now_delete">立即删除</string>
     <string name="exit_delete">退出时删除</string>
     <string name="exit_del_noti">删除通知</string>
@@ -337,10 +337,10 @@
     <string name="desk_all">桌面模式（所有标签）</string>
     <string name="show_image">有图模式</string>
     <string name="block_images">无图模式</string>
-    <string name="block_a_image">遮挡图片</string>
-    <string name="blocked_image">图像被遮挡</string>
-    <string name="block_confirm">您要阻止它吗？</string>
-    <string name="block_apply">块</string>
+    <string name="block_a_image">屏蔽图像</string>
+    <string name="blocked_image">屏蔽的图像</string>
+    <string name="block_confirm">你想屏蔽它吗？</string>
+    <string name="block_apply">屏蔽</string>
     <string name="reset">初始化</string>
     <string name="reset_confirm">你想重置你的工作吗？</string>
     <string name="check_network">请检查你的网络状态</string>
@@ -351,7 +351,7 @@
     <string name="control_volume">音量控制</string>
     <string name="volume">体积</string>
     <string name="control_seek">屏幕导航</string>
-    <string name="pip_finish">画中画模式已退出。</string>
+    <string name="pip_finish">画中画模式已退出</string>
     <string name="pip_mode">画中画模式</string>
     <string name="pip_guide">旋转屏幕可能会退出画中画模式。\n不同的站点具有不同的行为。</string>
     <string name="wait_retry">正在加载\n请稍后再试</string>
@@ -379,8 +379,8 @@
     <string name="bot_input">底部地址栏</string>
     <string name="address_menu">地址栏菜单</string>
     <string name="show_tab_bar">标签栏显示</string>
-    <string name="tab_swipe_up">向上划动标签栏</string>
-    <string name="tab_swipe_dn">向下滑动标签栏</string>
+    <string name="tab_swipe_up">上划标签栏</string>
+    <string name="tab_swipe_dn">下划标签栏</string>
     <string name="above_top">顶栏上方</string>
     <string name="below_top">顶栏下方</string>
     <string name="above_bot">底栏上方</string>
@@ -445,7 +445,7 @@
     <string name="history_info_limit">超过保留时限的记录将被自动删除。</string>
     <string name="history_info_none">你的所有历史记录已保存。\n数据过多会降低浏览器性能。</string>
     <string name="list">列表</string>
-    <string name="page_no_image">此页面上没有图像。</string>
+    <string name="page_no_image">此页面上没有图像</string>
     <string name="touch_lock">触控锁</string>
     <string name="touch_lock_guide_1">视频播放期间触控被禁用</string>
     <string name="touch_lock_guide_2">你可以在\'设置\'中设置解锁方法</string>
@@ -664,7 +664,7 @@
     <string name="move_bot">置底</string>
     <string name="scroll_up">向上滑动</string>
     <string name="scroll_down">向下滚动</string>
-    <string name="open_with">打开</string>
+    <string name="open_with">打开通过</string>
     <string name="other_guide">你可以使用其它应用下载</string>
     <string name="double_tap">双击</string>
     <string name="double_tap_guide_1">您可以不同地设置横向模式和纵向模式</string>
@@ -742,7 +742,7 @@
     <string name="subtitle_info_7">如果编码不是 UTF-8，则字符可能无法正常显示</string>
     <string name="android_shot">Android 屏幕截图</string>
     <string name="always_allow">一律允许</string>
-    <string name="always_block">一律封锁</string>
+    <string name="always_block">一律阻止</string>
     <string name="block_in_secret">仅在隐身模式下屏蔽</string>
     <string name="block_back">仅在后台阻止</string>
     <string name="only_https">与 HTTPS 连接</string>

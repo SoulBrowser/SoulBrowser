@@ -100,8 +100,8 @@
     <string name="tab_gesture">Tab-Geste</string>
     <string name="pop_block">Popup blockieren</string>
     <string name="app_block">App-Ausführung blockieren</string>
-    <string name="app_block_info">Blockieren Sie die Ausführung anderer Websites durch die Site.</string>
-    <string name="app_block_noti">Die Site versucht, eine andere App auszuführen.</string>
+    <string name="app_block_info">Blockieren Sie die Ausführung anderer Websites durch die Seite.</string>
+    <string name="app_block_noti">Die Seite versucht, eine andere App auszuführen.</string>
     <string name="link">Verknüpfung</string>
     <string name="open_url">Öffnen</string>
     <string name="new_url">Neuer Tab</string>
@@ -328,7 +328,7 @@
     <string name="exit_guide">Wenn Sie die App beenden, wird ihre Webaktivität gelöscht.</string>
     <string name="exit_noti_1">&#60; Beim Beenden löschen &#62;\n%s gelöscht.</string>
     <string name="exit_noti_2">&#60; Beim Beenden löschen &#62;\n%s gelöscht.</string>
-    <string name="web_page">Website</string>
+    <string name="web_page">Webseite</string>
     <string name="text_size">Textgröße</string>
     <string name="free_scale">Zoomen Sie mit zwei Fingern hinein</string>
     <string name="mobile_mode">Mobil</string>
@@ -339,7 +339,7 @@
     <string name="block_images">Bild blockieren</string>
     <string name="block_a_image">Bild blockieren</string>
     <string name="blocked_image">Blockierte Bilder</string>
-    <string name="block_confirm">Möchten Sie es blockieren?</string>
+    <string name="block_confirm">Möchten Sie das Bild blockieren?</string>
     <string name="block_apply">Block</string>
     <string name="reset">Zurücksetzen</string>
     <string name="reset_confirm">Möchten Sie die Einstellungen zurücksetzen?</string>
@@ -505,8 +505,8 @@
     <string name="vpn">VPN</string>
     <string name="plugin_guide">Plugin-Installation ist erforderlich.</string>
     <string name="report_site">Website melden</string>
-    <string name="report_down">Bitte geben Sie die Adresse der Site an, auf der das Video nicht heruntergeladen werden kann.</string>
-    <string name="report_dark">Bitte geben Sie die Adresse der Site an, auf der Probleme mit dem dunklen Thema auftreten.</string>
+    <string name="report_down">Bitte geben Sie die Adresse der Seite an, auf der das Video nicht heruntergeladen werden kann.</string>
+    <string name="report_dark">Bitte geben Sie die Adresse der Seite an, auf der Probleme mit dem dunklen Thema auftreten.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Drücken Sie während der YouTube-Wiedergabe die Hometaste, um in den PIP-Modus zu wechseln.</string>
     <string name="back_play">Hintergrundwiedergabe</string>
@@ -662,8 +662,8 @@
     <string name="unknown">Unbekannt</string>
     <string name="move_top">Zurück nach oben</string>
     <string name="move_bot">Nach unten</string>
-    <string name="scroll_up">Hochscrollen</string>
-    <string name="scroll_down">Runterscrollen</string>
+    <string name="scroll_up">Nach oben scrollen</string>
+    <string name="scroll_down">Nach unten scrollen</string>
     <string name="open_with">Öffnen mit</string>
     <string name="other_guide">Sie können es mit einer anderen App herunterladen.</string>
     <string name="double_tap">Doppeltippen</string>
@@ -684,8 +684,8 @@
     <string name="save_empty">Es gibt nichts zu speichern.</string>
     <string name="not_changed">Es wurden keine Änderungen vorgenommen.</string>
     <string name="app_restart">Die App wird neu gestartet.</string>
-    <string name="reader_guide">Halten Sie gedrückt, um Text auszuwählen. Sie können nur den ausgewählten Text abspielen.</string>
-    <string name="web_pull_down">Browser herunterziehen</string>
+    <string name="reader_guide">Gedrückt halten, um Text auszuwählen. Sie können nur den ausgewählten Text abspielen.</string>
+    <string name="web_pull_down">Browser nach unten ziehen</string>
     <string name="pull_down_info">Sie können den Browser herunterziehen.\nDies ist für Einhandbenutzer.</string>
     <string name="web_bring_down">Browser senken</string>
     <string name="active_function">Aktivieren Sie die Funktion.</string>
@@ -765,7 +765,7 @@
     <string name="menu_noti_2">Menüsymbole können nur in der unteren Leiste platziert werden.</string>
     <string name="screen_filter">Bildschirmfilter</string>
     <string name="filter_color">Filterfarbe</string>
-    <string name="always_use">Verwenden Sie immer</string>
+    <string name="always_use">Immer verwenden</string>
     <string name="only_night">Wird nur im Nachtmodus verwendet</string>
     <string name="night_mode">Nacht-Modus</string>
     <string name="use_scroll_anim">Verwenden Sie die Bildlaufanimation</string>
