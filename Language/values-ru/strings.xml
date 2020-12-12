@@ -50,9 +50,8 @@
     <string name="print">Распечатать</string>
     <string name="print_success">Успешно распечатано</string>
     <string name="print_fail">Не удалось распечатать</string>
-    <string name="translate">Перевести</string>
-    <string name="trans_tab">Перевести (Новая вкладка)</string>
-    <string name="trans_chrome">Перевести (Chrome)</string>
+    <string name="translator">Переводчик</string>
+    <string name="translate">Перевод</string>
     <string name="find_word">Найти на странице</string>
     <string name="verify_image">Проверка изображения</string>
     <string name="create_album">Создать альбом</string>
@@ -112,7 +111,6 @@
     <string name="share_url">Поделиться URL</string>
     <string name="copy_img_url">Скопировать URL изображения</string>
     <string name="share_img_url">Поделиться ссылкой на изображение</string>
-    <string name="opened_back">Открыт в фоновом режиме.</string>
     <string name="preview">Предварительный просмотр</string>
     <string name="search_image">Поиск по картинке</string>
     <string name="down_image">Сохранить изображение</string>

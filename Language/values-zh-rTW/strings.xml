@@ -50,9 +50,8 @@
     <string name="print">打印</string>
     <string name="print_success">打印成功</string>
     <string name="print_fail">打印失敗</string>
+    <string name="translator">譯者</string>
     <string name="translate">翻譯</string>
-    <string name="trans_tab">翻譯（新分頁）</string>
-    <string name="trans_chrome">翻譯（Chrome）</string>
     <string name="find_word">在頁面中查找</string>
     <string name="verify_image">圖片驗證</string>
     <string name="create_album">創建相簿</string>
@@ -112,7 +111,6 @@
     <string name="share_url">分享網址</string>
     <string name="copy_img_url">複製圖片網址</string>
     <string name="share_img_url">分享圖片網址</string>
-    <string name="opened_back">在後台打開</string>
     <string name="preview">預覽</string>
     <string name="search_image">按圖片搜索</string>
     <string name="down_image">保存圖片</string>

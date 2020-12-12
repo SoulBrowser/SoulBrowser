@@ -50,9 +50,8 @@
     <string name="print">Cetak</string>
     <string name="print_success">Keberhasilan cetak</string>
     <string name="print_fail">Print Failed</string>
-    <string name="translate">Terjemahkan</string>
-    <string name="trans_tab">Terjemahkan (Tab baru)</string>
-    <string name="trans_chrome">Terjemahkan (Chrome)</string>
+    <string name="translator">Penerjemah</string>
+    <string name="translate">Terjemahan</string>
     <string name="find_word">Temukan di halaman</string>
     <string name="verify_image">Verifikasi gambar</string>
     <string name="create_album">Buat album</string>
@@ -112,7 +111,6 @@
     <string name="share_url">Bagikan URL</string>
     <string name="copy_img_url">Salin URL gambar</string>
     <string name="share_img_url">Bagikan URL gambar</string>
-    <string name="opened_back">Dibuka di latar belakang.</string>
     <string name="preview">Pratinjau</string>
     <string name="search_image">Cari berdasarkan gambar</string>
     <string name="down_image">Menyimpan gambar</string>

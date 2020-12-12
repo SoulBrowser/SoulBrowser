@@ -50,9 +50,8 @@
     <string name="print">Друк</string>
     <string name="print_success">Роздруковано успiшно</string>
     <string name="print_fail">Не вдалося надрукувати</string>
-    <string name="translate">Перекласти</string>
-    <string name="trans_tab">Перекласти (Нова вкладка)</string>
-    <string name="trans_chrome">Перекласти (Chrome)</string>
+    <string name="translator">Перекладач</string>
+    <string name="translate">Переклад</string>
     <string name="find_word">Знайти на сторінці</string>
     <string name="verify_image">Підтвердження зображення</string>
     <string name="create_album">Створити альбом</string>
@@ -112,7 +111,6 @@
     <string name="share_url">Поділитися URL-адресою</string>
     <string name="copy_img_url">Скопіюйте URL-адресу зображення</string>
     <string name="share_img_url">Поділитися URL-адресою зображення</string>
-    <string name="opened_back">Відкрито на задньому плані.</string>
     <string name="preview">Попередній перегляд</string>
     <string name="search_image">Пошук за зображенням</string>
     <string name="down_image">Зберегти зображення</string>

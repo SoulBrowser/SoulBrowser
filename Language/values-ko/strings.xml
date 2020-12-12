@@ -50,9 +50,8 @@
     <string name="print">인쇄</string>
     <string name="print_success">인쇄 성공</string>
     <string name="print_fail">인쇄 실패</string>
+    <string name="translator">번역기</string>
     <string name="translate">번역</string>
-    <string name="trans_tab">번역 (새 탭)</string>
-    <string name="trans_chrome">번역 (Chrome)</string>
     <string name="find_word">페이지에서 찾기</string>
     <string name="verify_image">이미지 확인</string>
     <string name="create_album">앨범 만들기</string>
@@ -112,7 +111,6 @@
     <string name="share_url">URL 공유</string>
     <string name="copy_img_url">이미지 URL 복사</string>
     <string name="share_img_url">이미지 URL 공유</string>
-    <string name="opened_back">백그라운드에서 열렸습니다.</string>
     <string name="preview">미리보기</string>
     <string name="search_image">이미지로 검색</string>
     <string name="down_image">이미지 저장</string>

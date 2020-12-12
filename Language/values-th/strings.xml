@@ -50,9 +50,8 @@
     <string name="print">พิมพ์</string>
     <string name="print_success">ความสำเร็จในการพิมพ์</string>
     <string name="print_fail">การพิมพ์ล้มเหลว</string>
-    <string name="translate">แปล</string>
-    <string name="trans_tab">แปล (แท็บใหม่)</string>
-    <string name="trans_chrome">แปล (Chrome)</string>
+    <string name="translator">นักแปล</string>
+    <string name="translate">การแปล</string>
     <string name="find_word">ค้นหาในหน้า</string>
     <string name="verify_image">การตรวจสอบรูปภาพ</string>
     <string name="create_album">สร้างอัลบั้ม</string>
@@ -112,7 +111,6 @@
     <string name="share_url">แบ่งปัน URL</string>
     <string name="copy_img_url">คัดลอก URL รูปภาพ</string>
     <string name="share_img_url">แบ่งปัน URL รูปภาพ</string>
-    <string name="opened_back">เปิดในพื้นหลัง</string>
     <string name="preview">ดูตัวอย่าง</string>
     <string name="search_image">ค้นหาตามภาพ</string>
     <string name="down_image">บันทึกภาพ</string>

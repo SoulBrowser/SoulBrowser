@@ -50,9 +50,8 @@
     <string name="print">Yazdır</string>
     <string name="print_success">Baskı başarısı</string>
     <string name="print_fail">Yazdırılamadı</string>
-    <string name="translate">Çevir</string>
-    <string name="trans_tab">Çevir (Yeni sekme)</string>
-    <string name="trans_chrome">Çevir (Chrome)</string>
+    <string name="translator">Çevirmen</string>
+    <string name="translate">Tercüme</string>
     <string name="find_word">Sayfada bulun</string>
     <string name="verify_image">Resim doğrulama</string>
     <string name="create_album">Albüm oluştur</string>
@@ -112,7 +111,6 @@
     <string name="share_url">URL\'yi paylaş</string>
     <string name="copy_img_url">Resim URL\'sini kopyala</string>
     <string name="share_img_url">Resim URL\'sini paylaş</string>
-    <string name="opened_back">Arka planda açıldı.</string>
     <string name="preview">Önizleme</string>
     <string name="search_image">Görselle arama</string>
     <string name="down_image">Resmi Kaydet</string>

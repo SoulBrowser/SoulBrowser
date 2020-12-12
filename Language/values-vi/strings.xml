@@ -50,9 +50,8 @@
     <string name="print">In</string>
     <string name="print_success">In thành công</string>
     <string name="print_fail">In thất bại</string>
+    <string name="translator">Người phiên dịch</string>
     <string name="translate">Dịch</string>
-    <string name="trans_tab">Dịch (Tab mới)</string>
-    <string name="trans_chrome">Dịch (Chrome)</string>
     <string name="find_word">Tìm ở trang</string>
     <string name="verify_image">Xác minh hình ảnh</string>
     <string name="create_album">Tạo album</string>
@@ -112,7 +111,6 @@
     <string name="share_url">Chia sẻ URL</string>
     <string name="copy_img_url">Sao chép URL hình ảnh</string>
     <string name="share_img_url">Chia sẻ URL hình ảnh</string>
-    <string name="opened_back">Đã mở trong nền.</string>
     <string name="preview">Xem trước</string>
     <string name="search_image">Tìm kiếm bằng hình ảnh</string>
     <string name="down_image">Lưu hình ảnh</string>

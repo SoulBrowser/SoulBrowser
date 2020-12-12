@@ -50,9 +50,8 @@
     <string name="print">印刷</string>
     <string name="print_success">印刷成功</string>
     <string name="print_fail">印刷に失敗し</string>
+    <string name="translator">翻訳</string>
     <string name="translate">翻訳</string>
-    <string name="trans_tab">翻訳 (新しいタブ)</string>
-    <string name="trans_chrome">翻訳 (Chrome)</string>
     <string name="find_word">ページ内検索</string>
     <string name="verify_image">画像の確認</string>
     <string name="create_album">アルバム作成</string>
@@ -112,7 +111,6 @@
     <string name="share_url">URL共有</string>
     <string name="copy_img_url">画像のURLをコピー</string>
     <string name="share_img_url">画像のURL共有</string>
-    <string name="opened_back">バックグラウンドで行われた。</string>
     <string name="preview">プレビュー</string>
     <string name="search_image">画像で検索</string>
     <string name="down_image">画像を保存</string>

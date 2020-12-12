@@ -13,9 +13,9 @@
     <string name="feedback">Wyślij opinię</string>
     <string name="item">&#160;pozycja</string>
     <string name="items">&#160;przedmiotów</string>
-    <string name="down_location">Pobierz lokalizacja</string>
-    <string name="album_location">Albumu lokalizacja</string>
-    <string name="zip_location">ZIP lokalizacja</string>
+    <string name="down_location">Lokalizacja pobierania</string>
+    <string name="album_location">Lokalizacja albumu</string>
+    <string name="zip_location">Lokalizacja ZIP</string>
     <string name="save_location">Miejsce przechowywania</string>
     <string name="file">Plik</string>
     <string name="image">Obraz</string>
@@ -50,9 +50,8 @@
     <string name="print">Drukuj</string>
     <string name="print_success">Sukces drukowania</string>
     <string name="print_fail">Drukowanie nie powiodło się</string>
-    <string name="translate">Przetłumacz</string>
-    <string name="trans_tab">Tłumacz (Nowa karta)</string>
-    <string name="trans_chrome">Tłumacz (Chrome)</string>
+    <string name="translator">Tłumacz</string>
+    <string name="translate">Tłumaczenie</string>
     <string name="find_word">Znajdź na stronie</string>
     <string name="verify_image">Weryfikacja obrazu</string>
     <string name="create_album">Utwórz albumu</string>
@@ -112,7 +111,6 @@
     <string name="share_url">Udostępnij URL</string>
     <string name="copy_img_url">Skopiuj adres URL obrazu</string>
     <string name="share_img_url">Udostępnij adres URL obrazu</string>
-    <string name="opened_back">Otwarty w tle.</string>
     <string name="preview">Zapowiedź</string>
     <string name="search_image">Wyszukaj według obrazu</string>
     <string name="down_image">Zapisz obraz</string>
@@ -128,7 +126,7 @@
     <string name="no_image">Brak obrazów</string>
     <string name="no_title">Bez tytułu</string>
     <string name="no_ext">Brak rozszerzenia</string>
-    <string name="apply">Zastosować</string>
+    <string name="apply">Zastosuj</string>
     <string name="save">Zapisz</string>
     <string name="cancel">Anuluj</string>
     <string name="undelete">Cofnij usunięcie</string>
@@ -138,7 +136,7 @@
     <string name="image_fail">Nie udało się załadować obrazu</string>
     <string name="time_h">g</string>
     <string name="time_m">m</string>
-    <string name="time_s">d</string>
+    <string name="time_s">s</string>
     <string name="password">Hasło</string>
     <string name="input_password">Wpisz hasło</string>
     <string name="invalid_password">Nieprawidłowe hasło</string>
@@ -156,7 +154,7 @@
     <string name="open_as">Otwórz jako</string>
     <string name="open_continue">Otwórz w poprzedniej pozycji</string>
     <string name="pull_refresh">Pociągnij, aby odświeżyć</string>
-    <string name="refresh">Odświeżać</string>
+    <string name="refresh">Odśwież</string>
     <string name="sort">Sortuj</string>
     <string name="group_by">Grupuj według</string>
     <string name="folder_dir">Katalog</string>
@@ -170,8 +168,8 @@
     <string name="sort_size">Rozmiar</string>
     <string name="sort_user">Sortowanie użytkowników</string>
     <string name="order_by">Kolejność</string>
-    <string name="order_ascend">Wspiąć się</string>
-    <string name="order_descend">Schodzić</string>
+    <string name="order_ascend">Rosnąco</string>
+    <string name="order_descend">Malejąco</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -664,7 +662,7 @@
     <string name="move_bot">Do dna</string>
     <string name="scroll_up">Przewiń do góry</string>
     <string name="scroll_down">Przewiń w dół</string>
-    <string name="open_with">Otwierać z</string>
+    <string name="open_with">Otwórz za pomocą</string>
     <string name="other_guide">Możesz pobrać go za pomocą innej aplikacji.</string>
     <string name="double_tap">Podwójne wciśnięcie</string>
     <string name="double_tap_guide_1">Tryb krajobrazowy i tryb portretowy można ustawić inaczej.</string>
@@ -700,7 +698,7 @@
     <string name="js_black">Czarna lista JavaScript</string>
     <string name="js_black_info">Możesz zarejestrować witryny, które blokują JavaScript.</string>
     <string name="theme_web">Przeglądarka</string>
-    <string name="theme_light">Lekki motyw</string>
+    <string name="theme_light">Jasny motyw</string>
     <string name="theme_dark">Ciemny motyw</string>
     <string name="theme_system">Systemu motyw</string>
     <string name="background">Tło</string>

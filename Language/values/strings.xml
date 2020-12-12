@@ -50,9 +50,8 @@
     <string name="print">Print</string>
     <string name="print_success">Print success</string>
     <string name="print_fail">Print Failed</string>
-    <string name="translate">Translate</string>
-    <string name="trans_tab">Translate (New tab)</string>
-    <string name="trans_chrome">Translate (Chrome)</string>
+    <string name="translator">Translator</string>
+    <string name="translate">Translation</string>
     <string name="find_word">Find in page</string>
     <string name="verify_image">Image verification</string>
     <string name="create_album">Create album</string>
@@ -112,7 +111,6 @@
     <string name="share_url">Share URL</string>
     <string name="copy_img_url">Copy image URL</string>
     <string name="share_img_url">Share image URL</string>
-    <string name="opened_back">Opened in the background.</string>
     <string name="preview">Preview</string>
     <string name="search_image">Search by image</string>
     <string name="down_image">Save image</string>

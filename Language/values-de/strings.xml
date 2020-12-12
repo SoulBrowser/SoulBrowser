@@ -50,9 +50,8 @@
     <string name="print">Drucken</string>
     <string name="print_success">Drucken erfolgreich</string>
     <string name="print_fail">Drucken fehlgeschlagen</string>
-    <string name="translate">Übersetzen</string>
-    <string name="trans_tab">Übersetzen (Neuer Tab)</string>
-    <string name="trans_chrome">Übersetzen (Chrome)</string>
+    <string name="translator">Übersetzer</string>
+    <string name="translate">Übersetzung</string>
     <string name="find_word">Auf Seite finden</string>
     <string name="verify_image">Bild verifizieren</string>
     <string name="create_album">Album erstellen</string>
@@ -112,7 +111,6 @@
     <string name="share_url">URL teilen</string>
     <string name="copy_img_url">Bild-URL kopieren</string>
     <string name="share_img_url">Bild-URL teilen</string>
-    <string name="opened_back">Im Hintergrund geöffnet.</string>
     <string name="preview">Vorschau</string>
     <string name="search_image">Bildsuche</string>
     <string name="down_image">Bild speichern</string>
