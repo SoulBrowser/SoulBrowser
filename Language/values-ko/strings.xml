@@ -767,5 +767,6 @@
     <string name="only_night">야간 모드에만 사용</string>
     <string name="night_mode">야간 모드</string>
     <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
-    <string name="related_search">관련 검색어</string>
+    <string name="trend_search">인기 검색어</string>
+    <string name="fast">(빠른)</string>
 </resources>

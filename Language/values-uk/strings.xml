@@ -51,7 +51,7 @@
     <string name="print_success">Роздруковано успiшно</string>
     <string name="print_fail">Не вдалося надрукувати</string>
     <string name="translator">Перекладач</string>
-    <string name="translate">Переклад</string>
+    <string name="translate">Перекласти</string>
     <string name="find_word">Знайти на сторінці</string>
     <string name="verify_image">Підтвердження зображення</string>
     <string name="create_album">Створити альбом</string>
@@ -767,5 +767,6 @@
     <string name="only_night">Використовується лише в нічному режимі</string>
     <string name="night_mode">Нічний режим</string>
     <string name="use_scroll_anim">Використовуйте анімацію прокрутки</string>
-    <string name="related_search">Пов’язані терміни пошуку</string>
+    <string name="trend_search">Популярні пошукові запити</string>
+    <string name="fast">(швидко)</string>
 </resources>

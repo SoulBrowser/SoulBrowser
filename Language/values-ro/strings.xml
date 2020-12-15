@@ -51,7 +51,7 @@
     <string name="print_success">Succes de tipărire</string>
     <string name="print_fail">Imprimare eșuată</string>
     <string name="translator">Traducător</string>
-    <string name="translate">Traducere</string>
+    <string name="translate">Traduceți</string>
     <string name="find_word">Găsiți în pagina</string>
     <string name="verify_image">Verificare imagine</string>
     <string name="create_album">Creare album</string>
@@ -767,5 +767,6 @@
     <string name="only_night">Folosit numai în modul de noapte</string>
     <string name="night_mode">Mod de noapte</string>
     <string name="use_scroll_anim">Utilizați animația de defilare</string>
-    <string name="related_search">Termeni de căutare asociați</string>
+    <string name="trend_search">Căutări în tendințe</string>
+    <string name="fast">(rapid)</string>
 </resources>

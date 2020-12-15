@@ -767,5 +767,6 @@
     <string name="only_night">仅在夜间模式下使用</string>
     <string name="night_mode">夜间模式</string>
     <string name="use_scroll_anim">使用滚动动画</string>
-    <string name="related_search">相关搜寻字词</string>
+    <string name="trend_search">搜寻趋势</string>
+    <string name="fast">(快速)</string>
 </resources>

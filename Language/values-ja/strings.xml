@@ -767,5 +767,6 @@
     <string name="only_night">夜間モードでのみ使用</string>
     <string name="night_mode">ナイトモード</string>
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
-    <string name="related_search">関連検索</string>
+    <string name="trend_search">トレンド検索</string>
+    <string name="fast">(クイック)</string>
 </resources>

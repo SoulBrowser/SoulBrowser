@@ -51,7 +51,7 @@
     <string name="print_success">Baskı başarısı</string>
     <string name="print_fail">Yazdırılamadı</string>
     <string name="translator">Çevirmen</string>
-    <string name="translate">Tercüme</string>
+    <string name="translate">Çevirmek</string>
     <string name="find_word">Sayfada bulun</string>
     <string name="verify_image">Resim doğrulama</string>
     <string name="create_album">Albüm oluştur</string>
@@ -767,5 +767,6 @@
     <string name="only_night">Yalnızca gece modunda kullanılır</string>
     <string name="night_mode">Gece modu</string>
     <string name="use_scroll_anim">Kaydırma animasyonunu kullan</string>
-    <string name="related_search">İlgili arama terimleri</string>
+    <string name="trend_search">Trend olan aramalar</string>
+    <string name="fast">(hızlı)</string>
 </resources>

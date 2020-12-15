@@ -51,7 +51,7 @@
     <string name="print_success">Impressão concluída</string>
     <string name="print_fail">Falha na impressão</string>
     <string name="translator">Tradutor</string>
-    <string name="translate">Tradução</string>
+    <string name="translate">Traduzir</string>
     <string name="find_word">Encontrar na página</string>
     <string name="verify_image">Verificar imagem</string>
     <string name="create_album">Criar álbum</string>
@@ -767,5 +767,6 @@
     <string name="only_night">Usado apenas no modo noturno</string>
     <string name="night_mode">Modo noturno</string>
     <string name="use_scroll_anim">Use a animação de rolagem</string>
-    <string name="related_search">Termos de pesquisa relacionados</string>
+    <string name="trend_search">Tendências de pesquisas</string>
+    <string name="fast">(velozes)</string>
 </resources>

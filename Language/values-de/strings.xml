@@ -51,7 +51,7 @@
     <string name="print_success">Drucken erfolgreich</string>
     <string name="print_fail">Drucken fehlgeschlagen</string>
     <string name="translator">Übersetzer</string>
-    <string name="translate">Übersetzung</string>
+    <string name="translate">Übersetzen</string>
     <string name="find_word">Auf Seite finden</string>
     <string name="verify_image">Bild verifizieren</string>
     <string name="create_album">Album erstellen</string>
@@ -767,5 +767,6 @@
     <string name="only_night">Wird nur im Nachtmodus verwendet</string>
     <string name="night_mode">Nacht-Modus</string>
     <string name="use_scroll_anim">Verwenden Sie die Bildlaufanimation</string>
-    <string name="related_search">Verwandte Suchbegriffe</string>
+    <string name="trend_search">Trendsuchen</string>
+    <string name="fast">(schnell)</string>
 </resources>

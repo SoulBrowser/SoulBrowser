@@ -50,7 +50,7 @@
     <string name="print">Cetak</string>
     <string name="print_success">Keberhasilan cetak</string>
     <string name="print_fail">Print Failed</string>
-    <string name="translator">Penerjemah</string>
+    <string name="translator">Terjemahan</string>
     <string name="translate">Terjemahan</string>
     <string name="find_word">Temukan di halaman</string>
     <string name="verify_image">Verifikasi gambar</string>
@@ -767,5 +767,6 @@
     <string name="only_night">Hanya digunakan dalam mode malam</string>
     <string name="night_mode">Mode malam</string>
     <string name="use_scroll_anim">Gunakan animasi gulir</string>
-    <string name="related_search">Istilah pencarian terkait</string>
+    <string name="trend_search">Pencarian trending</string>
+    <string name="fast">(cepat)</string>
 </resources>

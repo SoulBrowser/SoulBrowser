@@ -51,7 +51,7 @@
     <string name="print_success">In thành công</string>
     <string name="print_fail">In thất bại</string>
     <string name="translator">Người phiên dịch</string>
-    <string name="translate">Dịch</string>
+    <string name="translate">Phiên dịch</string>
     <string name="find_word">Tìm ở trang</string>
     <string name="verify_image">Xác minh hình ảnh</string>
     <string name="create_album">Tạo album</string>
@@ -767,5 +767,6 @@
     <string name="only_night">Chỉ sử dụng ở chế độ ban đêm</string>
     <string name="night_mode">Chế độ ban đêm</string>
     <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
-    <string name="related_search">Cụm từ tìm kiếm có liên quan</string>
+    <string name="trend_search">Tìm kiếm thịnh hành</string>
+    <string name="fast">(nhanh)</string>
 </resources>

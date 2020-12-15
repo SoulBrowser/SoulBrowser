@@ -51,7 +51,7 @@
     <string name="print_success">ความสำเร็จในการพิมพ์</string>
     <string name="print_fail">การพิมพ์ล้มเหลว</string>
     <string name="translator">นักแปล</string>
-    <string name="translate">การแปล</string>
+    <string name="translate">แปลภาษา</string>
     <string name="find_word">ค้นหาในหน้า</string>
     <string name="verify_image">การตรวจสอบรูปภาพ</string>
     <string name="create_album">สร้างอัลบั้ม</string>
@@ -767,5 +767,6 @@
     <string name="only_night">ใช้ในโหมดกลางคืนเท่านั้น</string>
     <string name="night_mode">โหมดกลางคืน</string>
     <string name="use_scroll_anim">ใช้ภาพเคลื่อนไหวแบบเลื่อน</string>
-    <string name="related_search">คำค้นหาที่เกี่ยวข้อง</string>
+    <string name="trend_search">การค้นหาที่กำลังมาแรง</string>
+    <string name="fast">(เร็ว)</string>
 </resources>
