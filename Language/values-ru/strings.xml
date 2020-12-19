@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
     <string name="trend_search">Популярные запросы</string>
     <string name="fast">(быстрый)</string>
+    <string name="without_load">Вернуться без загрузки страницы</string>
+    <string name="without_load_info_1">Эта функция использует больше памяти.</string>
+    <string name="without_load_info_2">Если у вас открыто слишком много страниц, ваш браузер может работать медленно.</string>
+    <string name="without_load_info_3">Память, используемая для композиции страницы, автоматически удаляется при закрытии приложения.</string>
 </resources>

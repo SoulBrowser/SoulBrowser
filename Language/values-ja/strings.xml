@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
     <string name="trend_search">トレンド検索</string>
     <string name="fast">(クイック)</string>
+    <string name="without_load">ページの読み込みせずに戻る</string>
+    <string name="without_load_info_1">この機能は、より多くのメモリを使用します。</string>
+    <string name="without_load_info_2">あまりにも多くのページが開いている場合は、ブラウザが遅くなることがあります。</string>
+    <string name="without_load_info_3">ページの構成に使用されたメモリは、アプリ終了時に自動的に削除されます。</string>
 </resources>

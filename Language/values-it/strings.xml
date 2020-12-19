@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">Usa l\'animazione di scorrimento</string>
     <string name="trend_search">Ricerche di tendenza</string>
     <string name="fast">(veloce)</string>
+    <string name="without_load">Torna indietro senza caricare la pagina</string>
+    <string name="without_load_info_1">Questa funzione utilizza più memoria.</string>
+    <string name="without_load_info_2">Se hai troppe pagine aperte, il tuo browser potrebbe essere lento.</string>
+    <string name="without_load_info_3">La memoria utilizzata per la composizione della pagina viene automaticamente eliminata alla chiusura dell\'app.</string>
 </resources>

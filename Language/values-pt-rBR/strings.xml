@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">Use a animação de rolagem</string>
     <string name="trend_search">Tendências de pesquisas</string>
     <string name="fast">(velozes)</string>
+    <string name="without_load">Volte sem carregar a página</string>
+    <string name="without_load_info_1">Este recurso usa mais memória.</string>
+    <string name="without_load_info_2">Se você tiver muitas páginas abertas, seu navegador pode ficar lento.</string>
+    <string name="without_load_info_3">A memória usada para a composição da página é excluída automaticamente quando o aplicativo é fechado.</string>
 </resources>

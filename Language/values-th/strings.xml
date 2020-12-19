@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">ใช้ภาพเคลื่อนไหวแบบเลื่อน</string>
     <string name="trend_search">การค้นหาที่กำลังมาแรง</string>
     <string name="fast">(เร็ว)</string>
+    <string name="without_load">ย้อนกลับโดยไม่ต้องโหลดหน้า</string>
+    <string name="without_load_info_1">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น</string>
+    <string name="without_load_info_2">หากคุณเปิดหน้าเว็บมากเกินไปเบราว์เซอร์ของคุณอาจทำงานช้า</string>
+    <string name="without_load_info_3">หน่วยความจำที่ใช้ในการจัดองค์ประกอบหน้าจะถูกลบโดยอัตโนมัติเมื่อปิดแอป</string>
 </resources>

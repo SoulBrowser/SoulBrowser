@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">Verwenden Sie die Bildlaufanimation</string>
     <string name="trend_search">Trendsuchen</string>
     <string name="fast">(schnell)</string>
+    <string name="without_load">Gehen Sie zurück, ohne die Seite zu laden</string>
+    <string name="without_load_info_1">Diese Funktion benötigt mehr Speicher.</string>
+    <string name="without_load_info_2">Wenn Sie zu viele Seiten geöffnet haben, ist Ihr Browser möglicherweise langsam.</string>
+    <string name="without_load_info_3">Der für die Seitenerstellung verwendete Speicher wird beim Schließen der App automatisch gelöscht.</string>
 </resources>

@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">Use scroll animation</string>
     <string name="trend_search">Trending searches</string>
     <string name="fast">(fast)</string>
+    <string name="without_load">Go back without page loading</string>
+    <string name="without_load_info_1">This feature uses more memory.</string>
+    <string name="without_load_info_2">If you have too many pages open, your browser may be slow.</string>
+    <string name="without_load_info_3">The memory used for page composition is automatically deleted when the app is closed.</string>
 </resources>

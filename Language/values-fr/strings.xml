@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">Utiliser l\'animation de défilement</string>
     <string name="trend_search">Recherches populaires</string>
     <string name="fast">(vite)</string>
+    <string name="without_load">Revenir sans chargement de page</string>
+    <string name="without_load_info_1">Cette fonction utilise plus de mémoire.</string>
+    <string name="without_load_info_2">Si vous avez trop de pages ouvertes, votre navigateur peut être lent.</string>
+    <string name="without_load_info_3">La mémoire utilisée pour la composition de la page est automatiquement supprimée lorsque l\'application est fermée.</string>
 </resources>

@@ -347,7 +347,7 @@
     <string name="not_support_video">此视频不支持此功能</string>
     <string name="control_bright">亮度控制</string>
     <string name="control_volume">音量控制</string>
-    <string name="volume">体积</string>
+    <string name="volume">音量</string>
     <string name="control_seek">屏幕导航</string>
     <string name="pip_finish">画中画模式已退出</string>
     <string name="pip_mode">画中画模式</string>
@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">使用滚动动画</string>
     <string name="trend_search">搜寻趋势</string>
     <string name="fast">(快速)</string>
+    <string name="without_load">返回而不加载页面</string>
+    <string name="without_load_info_1">此功能使用更多的内存</string>
+    <string name="without_load_info_2">如果打开的页面太多，则浏览器可能运行缓慢</string>
+    <string name="without_load_info_3">关闭应用程序后，用于页面撰写的内存会自动删除</string>
 </resources>

@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">Kaydırma animasyonunu kullan</string>
     <string name="trend_search">Trend olan aramalar</string>
     <string name="fast">(hızlı)</string>
+    <string name="without_load">Sayfa yüklemeden geri dönün</string>
+    <string name="without_load_info_1">Bu özellik daha fazla bellek kullanır.</string>
+    <string name="without_load_info_2">Çok fazla açık sayfanız varsa, tarayıcınız yavaş olabilir.</string>
+    <string name="without_load_info_3">Sayfa düzeni için kullanılan bellek, uygulama kapatıldığında otomatik olarak silinir.</string>
 </resources>

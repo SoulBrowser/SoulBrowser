@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">Użyj animacji przewijania</string>
     <string name="trend_search">Najpopularniejsze wyszukiwania</string>
     <string name="fast">(szybki)</string>
+    <string name="without_load">Wróć bez ładowania strony</string>
+    <string name="without_load_info_1">Ta funkcja zużywa więcej pamięci.</string>
+    <string name="without_load_info_2">Jeśli masz otwartych zbyt wiele stron, Twoja przeglądarka może działać wolno.</string>
+    <string name="without_load_info_3">Pamięć używana do tworzenia kompozycji strony jest automatycznie usuwana po zamknięciu aplikacji.</string>
 </resources>

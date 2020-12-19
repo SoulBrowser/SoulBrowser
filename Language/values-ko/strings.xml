@@ -769,4 +769,8 @@
     <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
     <string name="trend_search">인기 검색어</string>
     <string name="fast">(빠른)</string>
+    <string name="without_load">페이지 로드 없이 뒤로 가기</string>
+    <string name="without_load_info_1">이 기능은 더 많은 메모리를 사용합니다.</string>
+    <string name="without_load_info_2">너무 많은 페이지가 열려있으면, 브라우저가 느려질 수 있습니다.</string>
+    <string name="without_load_info_3">페이지 구성에 사용된 메모리는 앱 종료 시 자동으로 삭제됩니다.</string>
 </resources>
