@@ -216,6 +216,7 @@
     <string name="web_edit_hint">検索またはURLを入力</string>
     <string name="web_search">ウェブ検索</string>
     <string name="search_engine">検索エンジン</string>
+    <string name="search_url">検索</string>
     <string name="screen_off">画面の自動消灯</string>
     <string name="screen_system">システム設定</string>
     <string name="screen_hour">1時間</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
     <string name="trend_search">トレンド検索</string>
     <string name="fast">(クイック)</string>
-    <string name="without_load">ページの読み込みせずに戻る</string>
+    <string name="without_load">リフレッシュせずに戻る</string>
     <string name="without_load_info_1">この機能は、より多くのメモリを使用します。</string>
     <string name="without_load_info_2">あまりにも多くのページが開いている場合は、ブラウザが遅くなることがあります。</string>
     <string name="without_load_info_3">ページの構成に使用されたメモリは、アプリ終了時に自動的に削除されます。</string>
+    <string name="level_strong">強い</string>
+    <string name="level_weak">弱い</string>
 </resources>

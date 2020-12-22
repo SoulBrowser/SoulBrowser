@@ -216,6 +216,7 @@
     <string name="web_edit_hint">搜索或輸入網址</string>
     <string name="web_search">網路搜索</string>
     <string name="search_engine">搜索引擎</string>
+    <string name="search_url">搜索</string>
     <string name="screen_off">螢幕自動關閉</string>
     <string name="screen_system">系統設置</string>
     <string name="screen_hour">1小時</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">使用滾動動畫</string>
     <string name="trend_search">搜尋趨勢</string>
     <string name="fast">(快速)</string>
-    <string name="without_load">返回而不加載頁面</string>
+    <string name="without_load">返回無刷新</string>
     <string name="without_load_info_1">此功能使用更多的內存</string>
     <string name="without_load_info_2">如果打開的頁面太多，則瀏覽器可能運行緩慢</string>
     <string name="without_load_info_3">關閉應用程序後，用於頁面撰寫的內存會自動刪除</string>
+    <string name="level_strong">強大</string>
+    <string name="level_weak">弱</string>
 </resources>

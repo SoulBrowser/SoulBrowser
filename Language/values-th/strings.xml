@@ -216,6 +216,7 @@
     <string name="web_edit_hint">ค้นหาหรือพิมพ์ URL</string>
     <string name="web_search">การค้นหาเว็บ</string>
     <string name="search_engine">เครื่องมือค้นหา</string>
+    <string name="search_url">ค้นหา</string>
     <string name="screen_off">หมดเวลาหน้าจอ</string>
     <string name="screen_system">การตั้งค่าระบบ</string>
     <string name="screen_hour">1 ชั่วโมง</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">ใช้ภาพเคลื่อนไหวแบบเลื่อน</string>
     <string name="trend_search">การค้นหาที่กำลังมาแรง</string>
     <string name="fast">(เร็ว)</string>
-    <string name="without_load">ย้อนกลับโดยไม่ต้องโหลดหน้า</string>
+    <string name="without_load">ย้อนกลับโดยไม่รีเฟรช</string>
     <string name="without_load_info_1">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น</string>
     <string name="without_load_info_2">หากคุณเปิดหน้าเว็บมากเกินไปเบราว์เซอร์ของคุณอาจทำงานช้า</string>
     <string name="without_load_info_3">หน่วยความจำที่ใช้ในการจัดองค์ประกอบหน้าจะถูกลบโดยอัตโนมัติเมื่อปิดแอป</string>
+    <string name="level_strong">แข็งแรง</string>
+    <string name="level_weak">อ่อนแอ</string>
 </resources>

@@ -216,6 +216,7 @@
     <string name="web_edit_hint">URL suchen oder eingeben</string>
     <string name="web_search">Websuche</string>
     <string name="search_engine">Suchmaschine</string>
+    <string name="search_url">Suche</string>
     <string name="screen_off">Bildschirmtimeout</string>
     <string name="screen_system">Systemeinstellung</string>
     <string name="screen_hour">1 Stunde</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Verwenden Sie die Bildlaufanimation</string>
     <string name="trend_search">Trendsuchen</string>
     <string name="fast">(schnell)</string>
-    <string name="without_load">Gehen Sie zurück, ohne die Seite zu laden</string>
+    <string name="without_load">Gehen Sie ohne Aktualisierung zurück</string>
     <string name="without_load_info_1">Diese Funktion benötigt mehr Speicher.</string>
     <string name="without_load_info_2">Wenn Sie zu viele Seiten geöffnet haben, ist Ihr Browser möglicherweise langsam.</string>
     <string name="without_load_info_3">Der für die Seitenerstellung verwendete Speicher wird beim Schließen der App automatisch gelöscht.</string>
+    <string name="level_strong">Stark</string>
+    <string name="level_weak">Schwach</string>
 </resources>

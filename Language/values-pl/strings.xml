@@ -216,6 +216,7 @@
     <string name="web_edit_hint">Wyszukaj lub wpisz adres URL</string>
     <string name="web_search">Wyszukiwanie w sieci</string>
     <string name="search_engine">Wyszukiwarka</string>
+    <string name="search_url">Szukaj</string>
     <string name="screen_off">Limit czasu ekranu</string>
     <string name="screen_system">Ustawienia systemowe</string>
     <string name="screen_hour">1 godzina</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Użyj animacji przewijania</string>
     <string name="trend_search">Najpopularniejsze wyszukiwania</string>
     <string name="fast">(szybki)</string>
-    <string name="without_load">Wróć bez ładowania strony</string>
+    <string name="without_load">Wróć bez odświeżania</string>
     <string name="without_load_info_1">Ta funkcja zużywa więcej pamięci.</string>
     <string name="without_load_info_2">Jeśli masz otwartych zbyt wiele stron, Twoja przeglądarka może działać wolno.</string>
     <string name="without_load_info_3">Pamięć używana do tworzenia kompozycji strony jest automatycznie usuwana po zamknięciu aplikacji.</string>
+    <string name="level_strong">Silny</string>
+    <string name="level_weak">Słaby</string>
 </resources>

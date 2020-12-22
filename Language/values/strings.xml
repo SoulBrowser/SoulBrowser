@@ -216,6 +216,7 @@
     <string name="web_edit_hint">Search or type URL</string>
     <string name="web_search">Web search</string>
     <string name="search_engine">Search engine</string>
+    <string name="search_url">Search</string>
     <string name="screen_off">Screen timeout</string>
     <string name="screen_system">System setting</string>
     <string name="screen_hour">1 hour</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Use scroll animation</string>
     <string name="trend_search">Trending searches</string>
     <string name="fast">(fast)</string>
-    <string name="without_load">Go back without page loading</string>
+    <string name="without_load">Go back without refresh</string>
     <string name="without_load_info_1">This feature uses more memory.</string>
     <string name="without_load_info_2">If you have too many pages open, your browser may be slow.</string>
     <string name="without_load_info_3">The memory used for page composition is automatically deleted when the app is closed.</string>
+    <string name="level_strong">Strong</string>
+    <string name="level_weak">Weak</string>
 </resources>

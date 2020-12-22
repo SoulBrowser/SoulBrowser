@@ -216,6 +216,7 @@
     <string name="web_edit_hint">Tìm kiếm hoặc nhập URL</string>
     <string name="web_search">Tìm kiếm trên web</string>
     <string name="search_engine">Máy tìm kiếm</string>
+    <string name="search_url">Tìm kiếm</string>
     <string name="screen_off">Thời gian chờ màn hình</string>
     <string name="screen_system">Thiết lập hệ thống</string>
     <string name="screen_hour">1 giờ</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
     <string name="trend_search">Tìm kiếm thịnh hành</string>
     <string name="fast">(nhanh)</string>
-    <string name="without_load">Quay lại mà không cần tải trang</string>
+    <string name="without_load">Quay lại mà không làm mới</string>
     <string name="without_load_info_1">Tính năng này sử dụng nhiều bộ nhớ hơn.</string>
     <string name="without_load_info_2">Nếu bạn mở quá nhiều trang, trình duyệt của bạn có thể chạy chậm.</string>
     <string name="without_load_info_3">Bộ nhớ được sử dụng cho thành phần trang sẽ tự động bị xóa khi ứng dụng được đóng.</string>
+    <string name="level_strong">Mạnh</string>
+    <string name="level_weak">Yếu</string>
 </resources>

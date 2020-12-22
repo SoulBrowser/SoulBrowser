@@ -216,6 +216,7 @@
     <string name="web_edit_hint">Recherchez ou tapez URL</string>
     <string name="web_search">Recherche web</string>
     <string name="search_engine">Moteur de recherche</string>
+    <string name="search_url">Chercher</string>
     <string name="screen_off">Veille de écran</string>
     <string name="screen_system">Paramétrage du système</string>
     <string name="screen_hour">1 heure</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Utiliser l\'animation de défilement</string>
     <string name="trend_search">Recherches populaires</string>
     <string name="fast">(vite)</string>
-    <string name="without_load">Revenir sans chargement de page</string>
+    <string name="without_load">Revenir sans rafraîchir</string>
     <string name="without_load_info_1">Cette fonction utilise plus de mémoire.</string>
     <string name="without_load_info_2">Si vous avez trop de pages ouvertes, votre navigateur peut être lent.</string>
     <string name="without_load_info_3">La mémoire utilisée pour la composition de la page est automatiquement supprimée lorsque l\'application est fermée.</string>
+    <string name="level_strong">Fort</string>
+    <string name="level_weak">Faible</string>
 </resources>

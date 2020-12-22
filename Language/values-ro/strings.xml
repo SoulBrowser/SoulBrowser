@@ -216,6 +216,7 @@
     <string name="web_edit_hint">Căutați sau tastați adresa URL</string>
     <string name="web_search">Căutare Web</string>
     <string name="search_engine">Motorul de căutare</string>
+    <string name="search_url">Căutare</string>
     <string name="screen_off">Timeout ecran</string>
     <string name="screen_system">Setarea sistemului</string>
     <string name="screen_hour">1 oră</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Utilizați animația de defilare</string>
     <string name="trend_search">Căutări în tendințe</string>
     <string name="fast">(rapid)</string>
-    <string name="without_load">Reveniți fără încărcarea paginii</string>
+    <string name="without_load">Reveniți fără reîmprospătare</string>
     <string name="without_load_info_1">Această caracteristică folosește mai multă memorie.</string>
     <string name="without_load_info_2">Dacă aveți prea multe pagini deschise, browserul dvs. poate fi lent.</string>
     <string name="without_load_info_3">Memoria utilizată pentru compunerea paginii este ștearsă automat când aplicația este închisă.</string>
+    <string name="level_strong">Puternic</string>
+    <string name="level_weak">Slab</string>
 </resources>

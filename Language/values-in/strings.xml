@@ -216,6 +216,7 @@
     <string name="web_edit_hint">Cari atau ketik URL</string>
     <string name="web_search">Pencarian web</string>
     <string name="search_engine">Mesin pencari</string>
+    <string name="search_url">Cari</string>
     <string name="screen_off">Waktu tunggu layar</string>
     <string name="screen_system">Pengaturan sistem</string>
     <string name="screen_hour">1 jam</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Gunakan animasi gulir</string>
     <string name="trend_search">Pencarian trending</string>
     <string name="fast">(cepat)</string>
-    <string name="without_load">Kembali tanpa memuat halaman</string>
+    <string name="without_load">Kembali tanpa penyegaran</string>
     <string name="without_load_info_1">Fitur ini menggunakan lebih banyak memori.</string>
     <string name="without_load_info_2">Jika Anda membuka terlalu banyak halaman, browser Anda mungkin lambat.</string>
     <string name="without_load_info_3">Memori yang digunakan untuk komposisi halaman secara otomatis dihapus saat aplikasi ditutup.</string>
+    <string name="level_strong">Kuat</string>
+    <string name="level_weak">Lemah</string>
 </resources>

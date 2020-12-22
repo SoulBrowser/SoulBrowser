@@ -216,6 +216,7 @@
     <string name="web_edit_hint">Пошук або введіть URL-адресу</string>
     <string name="web_search">Пошук в Інтернеті</string>
     <string name="search_engine">Пошукова система</string>
+    <string name="search_url">Пошук</string>
     <string name="screen_off">Час очікування екрана</string>
     <string name="screen_system">Налаштування системи</string>
     <string name="screen_hour">1 година</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Використовуйте анімацію прокрутки</string>
     <string name="trend_search">Популярні пошукові запити</string>
     <string name="fast">(швидко)</string>
-    <string name="without_load">Повернутися назад без завантаження сторінки</string>
+    <string name="without_load">Поверніться назад без оновлення</string>
     <string name="without_load_info_1">Ця функція використовує більше пам\'яті.</string>
     <string name="without_load_info_2">Якщо у вас відкрито забагато сторінок, ваш браузер може працювати повільно.</string>
     <string name="without_load_info_3">Пам\'ять, яка використовується для композиції сторінок, автоматично видаляється, коли програму закрито.</string>
+    <string name="level_strong">Сильна</string>
+    <string name="level_weak">Слабкий</string>
 </resources>

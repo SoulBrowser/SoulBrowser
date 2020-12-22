@@ -216,6 +216,7 @@
     <string name="web_edit_hint">Cerca o digitate URL</string>
     <string name="web_search">Ricerca sul web</string>
     <string name="search_engine">Motore di ricerca</string>
+    <string name="search_url">Ricerca</string>
     <string name="screen_off">Autospegnimento dello schermo</string>
     <string name="screen_system">Impostazioni di sistema</string>
     <string name="screen_hour">1 ora</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Usa l\'animazione di scorrimento</string>
     <string name="trend_search">Ricerche di tendenza</string>
     <string name="fast">(veloce)</string>
-    <string name="without_load">Torna indietro senza caricare la pagina</string>
+    <string name="without_load">Torna indietro senza aggiornare</string>
     <string name="without_load_info_1">Questa funzione utilizza più memoria.</string>
     <string name="without_load_info_2">Se hai troppe pagine aperte, il tuo browser potrebbe essere lento.</string>
     <string name="without_load_info_3">La memoria utilizzata per la composizione della pagina viene automaticamente eliminata alla chiusura dell\'app.</string>
+    <string name="level_strong">Forte</string>
+    <string name="level_weak">Debole</string>
 </resources>

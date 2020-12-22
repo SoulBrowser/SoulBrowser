@@ -216,6 +216,7 @@
     <string name="web_edit_hint">Buscar o escribir URL</string>
     <string name="web_search">Búsqueda web</string>
     <string name="search_engine">Buscador</string>
+    <string name="search_url">Buscar</string>
     <string name="screen_off">Tiempo de espera de la pantalla</string>
     <string name="screen_system">Configuración del sistema</string>
     <string name="screen_hour">1 hora</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Usar animación de desplazamiento</string>
     <string name="trend_search">Tendencias de búsquedas</string>
     <string name="fast">(rápido)</string>
-    <string name="without_load">Volver sin cargar la página</string>
+    <string name="without_load">Volver sin actualizar</string>
     <string name="without_load_info_1">Esta función usa más memoria.</string>
     <string name="without_load_info_2">Si tiene demasiadas páginas abiertas, es posible que su navegador sea lento.</string>
     <string name="without_load_info_3">La memoria utilizada para la composición de la página se elimina automáticamente cuando se cierra la aplicación.</string>
+    <string name="level_strong">Fuerte</string>
+    <string name="level_weak">Débiles</string>
 </resources>

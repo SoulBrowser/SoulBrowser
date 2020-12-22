@@ -216,6 +216,7 @@
     <string name="web_edit_hint">URL\'yi arayın veya yazın</string>
     <string name="web_search">Web araması</string>
     <string name="search_engine">Arama motoru</string>
+    <string name="search_url">Arama</string>
     <string name="screen_off">Ekran zaman aşımı</string>
     <string name="screen_system">Sistem ayarı</string>
     <string name="screen_hour">1 saat</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">Kaydırma animasyonunu kullan</string>
     <string name="trend_search">Trend olan aramalar</string>
     <string name="fast">(hızlı)</string>
-    <string name="without_load">Sayfa yüklemeden geri dönün</string>
+    <string name="without_load">Yenilemeden geri dönün</string>
     <string name="without_load_info_1">Bu özellik daha fazla bellek kullanır.</string>
     <string name="without_load_info_2">Çok fazla açık sayfanız varsa, tarayıcınız yavaş olabilir.</string>
     <string name="without_load_info_3">Sayfa düzeni için kullanılan bellek, uygulama kapatıldığında otomatik olarak silinir.</string>
+    <string name="level_strong">kuvvetli</string>
+    <string name="level_weak">Güçsüz</string>
 </resources>

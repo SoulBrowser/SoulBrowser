@@ -216,6 +216,7 @@
     <string name="web_edit_hint">搜索或输入网址</string>
     <string name="web_search">网络搜索</string>
     <string name="search_engine">搜索引擎</string>
+    <string name="search_url">搜索</string>
     <string name="screen_off">自动息屏</string>
     <string name="screen_system">系统设置</string>
     <string name="screen_hour">1小时</string>
@@ -769,8 +770,10 @@
     <string name="use_scroll_anim">使用滚动动画</string>
     <string name="trend_search">搜寻趋势</string>
     <string name="fast">(快速)</string>
-    <string name="without_load">返回而不加载页面</string>
+    <string name="without_load">返回无刷新</string>
     <string name="without_load_info_1">此功能使用更多的内存</string>
     <string name="without_load_info_2">如果打开的页面太多，则浏览器可能运行缓慢</string>
     <string name="without_load_info_3">关闭应用程序后，用于页面撰写的内存会自动删除</string>
+    <string name="level_strong">强大</string>
+    <string name="level_weak">弱</string>
 </resources>
