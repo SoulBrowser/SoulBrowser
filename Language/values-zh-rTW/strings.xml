@@ -776,4 +776,7 @@
     <string name="without_load_info_3">關閉應用程序後，用於頁面撰寫的內存會自動刪除</string>
     <string name="level_strong">強大</string>
     <string name="level_weak">弱</string>
+    <string name="open_limit">開倉限制</string>
+    <string name="down_manager">下載管理器</string>
+    <string name="down_change">更改</string>
 </resources>

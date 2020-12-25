@@ -776,4 +776,7 @@
     <string name="without_load_info_3">The memory used for page composition is automatically deleted when the app is closed.</string>
     <string name="level_strong">Strong</string>
     <string name="level_weak">Weak</string>
+    <string name="open_limit">Open limit</string>
+    <string name="down_manager">Download manager</string>
+    <string name="down_change">Change</string>
 </resources>

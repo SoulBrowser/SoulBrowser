@@ -776,4 +776,7 @@
     <string name="without_load_info_3">페이지 구성에 사용된 메모리는 앱 종료 시 자동으로 삭제됩니다.</string>
     <string name="level_strong">강한</string>
     <string name="level_weak">약한</string>
+    <string name="open_limit">열기 제한</string>
+    <string name="down_manager">다운로드 매니저</string>
+    <string name="down_change">변경</string>
 </resources>

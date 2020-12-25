@@ -776,4 +776,7 @@
     <string name="without_load_info_3">Пам\'ять, яка використовується для композиції сторінок, автоматично видаляється, коли програму закрито.</string>
     <string name="level_strong">Сильна</string>
     <string name="level_weak">Слабкий</string>
+    <string name="open_limit">Відкритий ліміт</string>
+    <string name="down_manager">Менеджер завантажень</string>
+    <string name="down_change">Змінити</string>
 </resources>

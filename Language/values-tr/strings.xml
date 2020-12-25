@@ -776,4 +776,7 @@
     <string name="without_load_info_3">Sayfa düzeni için kullanılan bellek, uygulama kapatıldığında otomatik olarak silinir.</string>
     <string name="level_strong">kuvvetli</string>
     <string name="level_weak">Güçsüz</string>
+    <string name="open_limit">Açık limit</string>
+    <string name="down_manager">İndirme yöneticisi</string>
+    <string name="down_change">Değişiklik</string>
 </resources>

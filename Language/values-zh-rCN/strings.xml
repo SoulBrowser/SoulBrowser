@@ -776,4 +776,7 @@
     <string name="without_load_info_3">关闭应用程序后，用于页面撰写的内存会自动删除</string>
     <string name="level_strong">强大</string>
     <string name="level_weak">弱</string>
+    <string name="open_limit">开仓限制</string>
+    <string name="down_manager">下载管理器</string>
+    <string name="down_change">更改</string>
 </resources>

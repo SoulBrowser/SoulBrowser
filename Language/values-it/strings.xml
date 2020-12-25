@@ -776,4 +776,7 @@
     <string name="without_load_info_3">La memoria utilizzata per la composizione della pagina viene automaticamente eliminata alla chiusura dell\'app.</string>
     <string name="level_strong">Forte</string>
     <string name="level_weak">Debole</string>
+    <string name="open_limit">Limite aperto</string>
+    <string name="down_manager">Download manager</string>
+    <string name="down_change">Modificare</string>
 </resources>

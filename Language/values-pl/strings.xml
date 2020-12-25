@@ -776,4 +776,7 @@
     <string name="without_load_info_3">Pamięć używana do tworzenia kompozycji strony jest automatycznie usuwana po zamknięciu aplikacji.</string>
     <string name="level_strong">Silny</string>
     <string name="level_weak">Słaby</string>
+    <string name="open_limit">Otwarty limit</string>
+    <string name="down_manager">Menadżer pobierania</string>
+    <string name="down_change">Zmiana</string>
 </resources>

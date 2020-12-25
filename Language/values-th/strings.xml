@@ -776,4 +776,7 @@
     <string name="without_load_info_3">หน่วยความจำที่ใช้ในการจัดองค์ประกอบหน้าจะถูกลบโดยอัตโนมัติเมื่อปิดแอป</string>
     <string name="level_strong">แข็งแรง</string>
     <string name="level_weak">อ่อนแอ</string>
+    <string name="open_limit">เปิดขีด ​​จำกัด</string>
+    <string name="down_manager">ตัวจัดการการดาวน์โหลด</string>
+    <string name="down_change">เปลี่ยนแปลง</string>
 </resources>

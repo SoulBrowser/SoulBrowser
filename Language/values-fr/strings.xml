@@ -776,4 +776,7 @@
     <string name="without_load_info_3">La mémoire utilisée pour la composition de la page est automatiquement supprimée lorsque l\'application est fermée.</string>
     <string name="level_strong">Fort</string>
     <string name="level_weak">Faible</string>
+    <string name="open_limit">Limite ouverte</string>
+    <string name="down_manager">Gestionnaire de téléchargement</string>
+    <string name="down_change">Changement</string>
 </resources>

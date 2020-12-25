@@ -776,4 +776,7 @@
     <string name="without_load_info_3">Memori yang digunakan untuk komposisi halaman secara otomatis dihapus saat aplikasi ditutup.</string>
     <string name="level_strong">Kuat</string>
     <string name="level_weak">Lemah</string>
+    <string name="open_limit">Batas terbuka</string>
+    <string name="down_manager">Manajer unduhan</string>
+    <string name="down_change">Perubahan</string>
 </resources>

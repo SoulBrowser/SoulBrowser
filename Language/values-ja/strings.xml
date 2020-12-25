@@ -776,4 +776,7 @@
     <string name="without_load_info_3">ページの構成に使用されたメモリは、アプリ終了時に自動的に削除されます。</string>
     <string name="level_strong">強い</string>
     <string name="level_weak">弱い</string>
+    <string name="open_limit">オープン制限</string>
+    <string name="down_manager">ダウンロードマネージャー</string>
+    <string name="down_change">変更</string>
 </resources>

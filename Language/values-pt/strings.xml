@@ -776,4 +776,7 @@
     <string name="without_load_info_3">A memória usada para a composição da página é excluída automaticamente quando o aplicativo é fechado.</string>
     <string name="level_strong">Forte</string>
     <string name="level_weak">Fraco</string>
+    <string name="open_limit">Limite de abertura</string>
+    <string name="down_manager">Gerenciador de download</string>
+    <string name="down_change">Mudança</string>
 </resources>

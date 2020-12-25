@@ -776,4 +776,7 @@
     <string name="without_load_info_3">Память, используемая для композиции страницы, автоматически удаляется при закрытии приложения.</string>
     <string name="level_strong">Сильный</string>
     <string name="level_weak">Слабый</string>
+    <string name="open_limit">Открытый лимит</string>
+    <string name="down_manager">Менеджер загрузки</string>
+    <string name="down_change">Изменение</string>
 </resources>
