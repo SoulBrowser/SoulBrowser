@@ -85,6 +85,7 @@
     <string name="skip">Пропустити</string>
     <string name="overwrite">Переписати</string>
     <string name="new_tab">Нова вкладка</string>
+    <string name="open_new_tab">Відкрити в новій вкладці</string>
     <string name="new_secret_tab">Нова анонімна вкладка</string>
     <string name="secret_tab">Анонімна вкладка</string>
     <string name="normal_tab">Звичайна вкладка</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">Сильна</string>
     <string name="level_weak">Слабкий</string>
     <string name="open_limit">Відкритий ліміт</string>
-    <string name="down_manager">Менеджер завантажень</string>
-    <string name="down_change">Змінити</string>
 </resources>

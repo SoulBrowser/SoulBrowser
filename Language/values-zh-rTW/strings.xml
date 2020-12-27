@@ -85,6 +85,7 @@
     <string name="skip">跳躍</string>
     <string name="overwrite">覆蓋</string>
     <string name="new_tab">新分頁</string>
+    <string name="open_new_tab">在新標籤頁中打開</string>
     <string name="new_secret_tab">新的無痕式分頁</string>
     <string name="secret_tab">無痕式分頁</string>
     <string name="normal_tab">正常式分頁</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">強大</string>
     <string name="level_weak">弱</string>
     <string name="open_limit">開倉限制</string>
-    <string name="down_manager">下載管理器</string>
-    <string name="down_change">更改</string>
 </resources>

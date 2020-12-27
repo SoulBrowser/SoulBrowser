@@ -85,6 +85,7 @@
     <string name="skip">Lewati</string>
     <string name="overwrite">Timpa</string>
     <string name="new_tab">Tab baru</string>
+    <string name="open_new_tab">Buka di tab baru</string>
     <string name="new_secret_tab">Tab penyamaran baru</string>
     <string name="secret_tab">Tab penyamaran</string>
     <string name="normal_tab">Tab normal</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">Kuat</string>
     <string name="level_weak">Lemah</string>
     <string name="open_limit">Batas terbuka</string>
-    <string name="down_manager">Manajer unduhan</string>
-    <string name="down_change">Perubahan</string>
 </resources>

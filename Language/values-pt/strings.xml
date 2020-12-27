@@ -85,6 +85,7 @@
     <string name="skip">Pular</string>
     <string name="overwrite">Sobrescrever</string>
     <string name="new_tab">Nova aba</string>
+    <string name="open_new_tab">Abra em uma nova guia</string>
     <string name="new_secret_tab">Nova aba incógnito</string>
     <string name="secret_tab">Aba incógnito</string>
     <string name="normal_tab">Aba normal</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">Forte</string>
     <string name="level_weak">Fraco</string>
     <string name="open_limit">Limite de abertura</string>
-    <string name="down_manager">Gerenciador de download</string>
-    <string name="down_change">Mudança</string>
 </resources>

@@ -85,6 +85,7 @@
     <string name="skip">Sauter</string>
     <string name="overwrite">Écraser</string>
     <string name="new_tab">Nouvel onglet</string>
+    <string name="open_new_tab">Ouvrir dans un nouvel onglet</string>
     <string name="new_secret_tab">Nouvel onglet privée</string>
     <string name="secret_tab">Onglet privée</string>
     <string name="normal_tab">Onglet normal</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">Fort</string>
     <string name="level_weak">Faible</string>
     <string name="open_limit">Limite ouverte</string>
-    <string name="down_manager">Gestionnaire de téléchargement</string>
-    <string name="down_change">Changement</string>
 </resources>

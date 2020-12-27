@@ -85,6 +85,7 @@
     <string name="skip">건너뛰기</string>
     <string name="overwrite">덮어쓰기</string>
     <string name="new_tab">새 탭</string>
+    <string name="open_new_tab">새 탭으로 열기</string>
     <string name="new_secret_tab">새 시크릿 탭</string>
     <string name="secret_tab">시크릿 탭</string>
     <string name="normal_tab">일반 탭</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">강한</string>
     <string name="level_weak">약한</string>
     <string name="open_limit">열기 제한</string>
-    <string name="down_manager">다운로드 매니저</string>
-    <string name="down_change">변경</string>
 </resources>

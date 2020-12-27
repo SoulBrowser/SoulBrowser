@@ -85,6 +85,7 @@
     <string name="skip">Atla</string>
     <string name="overwrite">Üzerine yaz</string>
     <string name="new_tab">Yeni sekme</string>
+    <string name="open_new_tab">Yeni bir sekmede aç</string>
     <string name="new_secret_tab">Yeni gizli sekme</string>
     <string name="secret_tab">Gizli sekme</string>
     <string name="normal_tab">Normal sekme</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">kuvvetli</string>
     <string name="level_weak">Güçsüz</string>
     <string name="open_limit">Açık limit</string>
-    <string name="down_manager">İndirme yöneticisi</string>
-    <string name="down_change">Değişiklik</string>
 </resources>

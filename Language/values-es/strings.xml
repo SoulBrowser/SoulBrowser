@@ -85,6 +85,7 @@
     <string name="skip">Omitir</string>
     <string name="overwrite">Sobrescribir</string>
     <string name="new_tab">Nueva pestaña</string>
+    <string name="open_new_tab">Abrir en una pestaña nueva</string>
     <string name="new_secret_tab">Nueva pestaña incógnito</string>
     <string name="secret_tab">Pestaña incógnito</string>
     <string name="normal_tab">Pestaña normal</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">Fuerte</string>
     <string name="level_weak">Débiles</string>
     <string name="open_limit">Límite abierto</string>
-    <string name="down_manager">Gestor de descargas</string>
-    <string name="down_change">Cambio</string>
 </resources>

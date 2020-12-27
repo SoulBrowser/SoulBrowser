@@ -85,6 +85,7 @@
     <string name="skip">Pominąć</string>
     <string name="overwrite">Przepisać</string>
     <string name="new_tab">Nowa karta</string>
+    <string name="open_new_tab">Otwórz w nowej karcie</string>
     <string name="new_secret_tab">Nowa karta incognito</string>
     <string name="secret_tab">Karta incognito</string>
     <string name="normal_tab">Karta normalna</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">Silny</string>
     <string name="level_weak">Słaby</string>
     <string name="open_limit">Otwarty limit</string>
-    <string name="down_manager">Menadżer pobierania</string>
-    <string name="down_change">Zmiana</string>
 </resources>

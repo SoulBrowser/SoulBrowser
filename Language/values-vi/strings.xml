@@ -85,6 +85,7 @@
     <string name="skip">Bỏ qua</string>
     <string name="overwrite">Ghi đè</string>
     <string name="new_tab">Tab mới</string>
+    <string name="open_new_tab">Mở trong một tab mới</string>
     <string name="new_secret_tab">Tab ẩn danh mới</string>
     <string name="secret_tab">Tab ẩn danh</string>
     <string name="normal_tab">Tab bình thường</string>
@@ -368,7 +369,7 @@
     <string name="file_name">Tên tệp</string>
     <string name="real_name">Tên thật</string>
     <string name="prefix">Tiền tố</string>
-    <string name="clean_mode">Chế độ sạch</string>
+    <string name="clean_mode">Chặn quảng cáo</string>
     <string name="site">Trang web</string>
     <string name="storage">Cửa hàng</string>
     <string name="gesture">Cử chỉ</string>
@@ -579,7 +580,7 @@
     <string name="trans_report">Báo cáo lỗi dịch</string>
     <string name="trans_report_info">Xin hãy giúp dịch. ❤</string>
     <string name="trans_report_guide">[Bản dịch không chính xác] &#62; [Bản dịch chính xác]</string>
-    <string name="tts_mode">Nhắn tin cho bài phát biểu</string>
+    <string name="tts_mode">Đọc thành tiếng trang web</string>
     <string name="tts_on">Kích hoạt TTS</string>
     <string name="tts_info_1">Khi bạn bấm vào văn bản được hiển thị trong trình duyệt, nó được đọc bằng giọng nói.</string>
     <string name="tts_info_2">Khi văn bản được nhấp, nó được đọc bằng giọng nói.</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">Mạnh</string>
     <string name="level_weak">Yếu</string>
     <string name="open_limit">Mở giới hạn</string>
-    <string name="down_manager">Quản lý download</string>
-    <string name="down_change">Thay đổi</string>
 </resources>

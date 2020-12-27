@@ -85,6 +85,7 @@
     <string name="skip">ข้าม</string>
     <string name="overwrite">เขียนทับ</string>
     <string name="new_tab">แท็บใหม่</string>
+    <string name="open_new_tab">เปิดในแท็บใหม่</string>
     <string name="new_secret_tab">แท็บไม่ระบุตัวตนใหม่</string>
     <string name="secret_tab">แท็บไม่ระบุตัวตน</string>
     <string name="normal_tab">แท็บปกติ</string>
@@ -777,6 +778,4 @@
     <string name="level_strong">แข็งแรง</string>
     <string name="level_weak">อ่อนแอ</string>
     <string name="open_limit">เปิดขีด ​​จำกัด</string>
-    <string name="down_manager">ตัวจัดการการดาวน์โหลด</string>
-    <string name="down_change">เปลี่ยนแปลง</string>
 </resources>
