@@ -778,4 +778,9 @@
     <string name="level_strong">강한</string>
     <string name="level_weak">약한</string>
     <string name="open_limit">열기 제한</string>
+    <string name="down_manager">다운로드 매니저</string>
+    <string name="other_app">다른 앱</string>
+    <string name="web_title">웹</string>
+    <string name="color_title">색상</string>
+    <string name="no_icon">아이콘이 없습니다.</string>
 </resources>

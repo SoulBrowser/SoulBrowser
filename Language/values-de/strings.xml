@@ -778,4 +778,9 @@
     <string name="level_strong">Stark</string>
     <string name="level_weak">Schwach</string>
     <string name="open_limit">Offenes Limit</string>
+    <string name="down_manager">Download-Manager</string>
+    <string name="other_app">Andere Apps</string>
+    <string name="web_title">Netz</string>
+    <string name="color_title">Farbe</string>
+    <string name="no_icon">Es gibt kein Symbol.</string>
 </resources>

@@ -369,7 +369,7 @@
     <string name="file_name">Tên tệp</string>
     <string name="real_name">Tên thật</string>
     <string name="prefix">Tiền tố</string>
-    <string name="clean_mode">Chặn quảng cáo</string>
+    <string name="clean_mode">Chế độ sạch</string>
     <string name="site">Trang web</string>
     <string name="storage">Cửa hàng</string>
     <string name="gesture">Cử chỉ</string>
@@ -580,7 +580,7 @@
     <string name="trans_report">Báo cáo lỗi dịch</string>
     <string name="trans_report_info">Xin hãy giúp dịch. ❤</string>
     <string name="trans_report_guide">[Bản dịch không chính xác] &#62; [Bản dịch chính xác]</string>
-    <string name="tts_mode">Đọc thành tiếng trang web</string>
+    <string name="tts_mode">Nhắn tin cho bài phát biểu</string>
     <string name="tts_on">Kích hoạt TTS</string>
     <string name="tts_info_1">Khi bạn bấm vào văn bản được hiển thị trong trình duyệt, nó được đọc bằng giọng nói.</string>
     <string name="tts_info_2">Khi văn bản được nhấp, nó được đọc bằng giọng nói.</string>
@@ -778,4 +778,9 @@
     <string name="level_strong">Mạnh</string>
     <string name="level_weak">Yếu</string>
     <string name="open_limit">Mở giới hạn</string>
+    <string name="down_manager">Quản lý download</string>
+    <string name="other_app">Những ứng dụng khác</string>
+    <string name="web_title">Web</string>
+    <string name="color_title">Màu sắc</string>
+    <string name="no_icon">Không có biểu tượng.</string>
 </resources>

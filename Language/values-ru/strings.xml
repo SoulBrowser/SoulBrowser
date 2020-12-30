@@ -778,4 +778,9 @@
     <string name="level_strong">Сильный</string>
     <string name="level_weak">Слабый</string>
     <string name="open_limit">Открытый лимит</string>
+    <string name="down_manager">Менеджер загрузки</string>
+    <string name="other_app">Другие приложения</string>
+    <string name="web_title">Интернет</string>
+    <string name="color_title">Цвет</string>
+    <string name="no_icon">Иконки нет.</string>
 </resources>

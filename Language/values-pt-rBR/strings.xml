@@ -778,4 +778,9 @@
     <string name="level_strong">Forte</string>
     <string name="level_weak">Fraco</string>
     <string name="open_limit">Limite de abertura</string>
+    <string name="down_manager">Gerenciador de download</string>
+    <string name="other_app">Outros aplicativos</string>
+    <string name="web_title">Rede</string>
+    <string name="color_title">Cor</string>
+    <string name="no_icon">Não há ícone.</string>
 </resources>

@@ -778,4 +778,9 @@
     <string name="level_strong">強い</string>
     <string name="level_weak">弱い</string>
     <string name="open_limit">オープン制限</string>
+    <string name="down_manager">ダウンロードマネージャー</string>
+    <string name="other_app">他のアプリ</string>
+    <string name="web_title">ウェブ</string>
+    <string name="color_title">色</string>
+    <string name="no_icon">アイコンがありません。</string>
 </resources>

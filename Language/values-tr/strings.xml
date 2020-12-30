@@ -778,4 +778,9 @@
     <string name="level_strong">kuvvetli</string>
     <string name="level_weak">Güçsüz</string>
     <string name="open_limit">Açık limit</string>
+    <string name="down_manager">İndirme yöneticisi</string>
+    <string name="other_app">Diğer uygulamalar</string>
+    <string name="web_title">Ağ</string>
+    <string name="color_title">Renk</string>
+    <string name="no_icon">Simge yok.</string>
 </resources>

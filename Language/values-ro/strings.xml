@@ -778,4 +778,9 @@
     <string name="level_strong">Puternic</string>
     <string name="level_weak">Slab</string>
     <string name="open_limit">Limita de deschidere</string>
+    <string name="down_manager">Administrator de descărcări</string>
+    <string name="other_app">Alte aplicatii</string>
+    <string name="web_title">Web</string>
+    <string name="color_title">Culoare</string>
+    <string name="no_icon">Nu există nicio pictogramă.</string>
 </resources>

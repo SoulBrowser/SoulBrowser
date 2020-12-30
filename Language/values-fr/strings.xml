@@ -778,4 +778,9 @@
     <string name="level_strong">Fort</string>
     <string name="level_weak">Faible</string>
     <string name="open_limit">Limite ouverte</string>
+    <string name="down_manager">Gestionnaire de téléchargement</string>
+    <string name="other_app">Autres applications</string>
+    <string name="web_title">La toile</string>
+    <string name="color_title">Couleur</string>
+    <string name="no_icon">Il n\'y a pas d\'icône.</string>
 </resources>

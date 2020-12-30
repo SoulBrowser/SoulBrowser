@@ -778,4 +778,9 @@
     <string name="level_strong">强大</string>
     <string name="level_weak">弱</string>
     <string name="open_limit">开仓限制</string>
+    <string name="down_manager">下载管理器</string>
+    <string name="other_app">其他应用</string>
+    <string name="web_title">网页</string>
+    <string name="color_title">颜色</string>
+    <string name="no_icon">没有图标</string>
 </resources>
