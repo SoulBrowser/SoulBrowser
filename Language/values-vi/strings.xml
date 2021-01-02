@@ -292,6 +292,7 @@
     <string name="color_size">Độ dày</string>
     <string name="color_alpha">Minh bạch</string>
     <string name="bottom_size">Kích thước thanh dưới cùng</string>
+    <string name="add_icon">Thêm nút</string>
     <string name="close_icon">Nút đóng</string>
     <string name="size_width">Chiều rộng</string>
     <string name="size_height">Chiều cao</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Ghi nhớ</string>
     <string name="memo_guide">Bạn có thể đăng ký câu thường xuyên sử dụng.</string>
     <string name="page_source">Nguồn trang</string>
+    <string name="delete_tab">Đóng tab</string>
     <string name="delete_one_tab">Đóng tab hiện tại</string>
     <string name="delete_all_tab">Đóng tất cả cửa sổ</string>
     <string name="delete_other_tab">Đóng các tab khác</string>

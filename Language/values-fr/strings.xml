@@ -292,6 +292,7 @@
     <string name="color_size">Épaisseur</string>
     <string name="color_alpha">Transparence</string>
     <string name="bottom_size">Taille de la barre inférieure</string>
+    <string name="add_icon">Ajouter un bouton</string>
     <string name="close_icon">Bouton Fermer</string>
     <string name="size_width">Largeur</string>
     <string name="size_height">la taille</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Note</string>
     <string name="memo_guide">Vous pouvez enregistrer des phrases fréquemment utilisées.</string>
     <string name="page_source">Fonte della pagina</string>
+    <string name="delete_tab">Fermer l\'onglet</string>
     <string name="delete_one_tab">Fermer l\'onglet actuel</string>
     <string name="delete_all_tab">Fermer tous les onglets</string>
     <string name="delete_other_tab">Fermer les autres onglets</string>

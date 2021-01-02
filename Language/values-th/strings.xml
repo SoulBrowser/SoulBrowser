@@ -292,6 +292,7 @@
     <string name="color_size">ความหนา</string>
     <string name="color_alpha">ความโปร่งใส</string>
     <string name="bottom_size">ขนาดแถบด้านล่าง</string>
+    <string name="add_icon">ปุ่มเพิ่ม</string>
     <string name="close_icon">ปุ่มปิด</string>
     <string name="size_width">ความกว้าง</string>
     <string name="size_height">ความสูง</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">บันทึก</string>
     <string name="memo_guide">คุณสามารถลงทะเบียนประโยคที่ใช้บ่อย</string>
     <string name="page_source">แหล่งที่มาของหน้า</string>
+    <string name="delete_tab">ปิดแท็บ</string>
     <string name="delete_one_tab">ปิดแท็บปัจจุบัน</string>
     <string name="delete_all_tab">ปิดแท็บทั้งหมด</string>
     <string name="delete_other_tab">ปิดแท็บอื่น ๆ</string>

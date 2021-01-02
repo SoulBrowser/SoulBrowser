@@ -292,6 +292,7 @@
     <string name="color_size">Espesor</string>
     <string name="color_alpha">Transparencia</string>
     <string name="bottom_size">Tamaño de la barra inferior</string>
+    <string name="add_icon">Botón agregar</string>
     <string name="close_icon">Botón cerrar</string>
     <string name="size_width">Anchura</string>
     <string name="size_height">Altura</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Memorándum</string>
     <string name="memo_guide">Puede registrar oraciones de uso frecuente.</string>
     <string name="page_source">Fuente de la página</string>
+    <string name="delete_tab">Cerrar pestaña</string>
     <string name="delete_one_tab">Cierre la pestaña actual</string>
     <string name="delete_all_tab">Cierra todas las pestañas</string>
     <string name="delete_other_tab">Cerrar otras pestañas</string>

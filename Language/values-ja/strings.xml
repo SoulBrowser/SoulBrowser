@@ -292,6 +292,7 @@
     <string name="color_size">太さ</string>
     <string name="color_alpha">透明度</string>
     <string name="bottom_size">下部バーサイズ</string>
+    <string name="add_icon">追加ボタン</string>
     <string name="close_icon">閉じるボタン</string>
     <string name="size_width">幅</string>
     <string name="size_height">高</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">メモ</string>
     <string name="memo_guide">頻繁に使用する文を登録することができます。</string>
     <string name="page_source">ページのソース</string>
+    <string name="delete_tab">タブを閉じる</string>
     <string name="delete_one_tab">現在のタブを閉じる</string>
     <string name="delete_all_tab">すべてのタブを閉じる</string>
     <string name="delete_other_tab">他のタブを閉じる</string>

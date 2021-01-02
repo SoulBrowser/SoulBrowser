@@ -292,6 +292,7 @@
     <string name="color_size">厚度</string>
     <string name="color_alpha">透明度</string>
     <string name="bottom_size">底欄尺寸</string>
+    <string name="add_icon">添加按鈕</string>
     <string name="close_icon">關閉按鈕</string>
     <string name="size_width">寬度</string>
     <string name="size_height">高度</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">備忘錄</string>
     <string name="memo_guide">您可以註冊常用句子</string>
     <string name="page_source">頁面來源</string>
+    <string name="delete_tab">關閉標籤</string>
     <string name="delete_one_tab">關閉當前分頁</string>
     <string name="delete_all_tab">關閉所有分頁</string>
     <string name="delete_other_tab">關閉其他分頁</string>

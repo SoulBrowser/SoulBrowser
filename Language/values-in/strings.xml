@@ -292,6 +292,7 @@
     <string name="color_size">Ketebalan</string>
     <string name="color_alpha">Transparansi</string>
     <string name="bottom_size">Ukuran batang bawah</string>
+    <string name="add_icon">Tambahkan tombol</string>
     <string name="close_icon">Tombol tutup</string>
     <string name="size_width">Lebar</string>
     <string name="size_height">Tinggi</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Memo</string>
     <string name="memo_guide">Anda dapat mendaftarkan kalimat yang sering digunakan.</string>
     <string name="page_source">Sumber halaman</string>
+    <string name="delete_tab">Tutup tab</string>
     <string name="delete_one_tab">Tutup tab saat ini</string>
     <string name="delete_all_tab">Tutup semua tab</string>
     <string name="delete_other_tab">Tutup tab lain</string>

@@ -292,7 +292,8 @@
     <string name="color_size">Espessura</string>
     <string name="color_alpha">Transparência</string>
     <string name="bottom_size">Tamanho da barra inferior</string>
-    <string name="close_icon">Botão Fechar</string>
+    <string name="add_icon">Botão adicionar</string>
+    <string name="close_icon">Botão fechar</string>
     <string name="size_width">Largura</string>
     <string name="size_height">Altura</string>
     <string name="exit_with_save">Salvar e sair</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Nota</string>
     <string name="memo_guide">Você pode registrar frases usadas com frequência.</string>
     <string name="page_source">Fonte da página</string>
+    <string name="delete_tab">Aba fechada</string>
     <string name="delete_one_tab">Fechar a aba atual</string>
     <string name="delete_all_tab">Fechar todas as abas</string>
     <string name="delete_other_tab">Fechar outras abas</string>

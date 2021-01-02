@@ -292,6 +292,7 @@
     <string name="color_size">굵기</string>
     <string name="color_alpha">투명도</string>
     <string name="bottom_size">하단바 크기</string>
+    <string name="add_icon">추가 버튼</string>
     <string name="close_icon">닫기 버튼</string>
     <string name="size_width">폭</string>
     <string name="size_height">높이</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">메모</string>
     <string name="memo_guide">자주 사용하는 문장을 등록할 수 있습니다.</string>
     <string name="page_source">페이지 소스</string>
+    <string name="delete_tab">탭 닫기</string>
     <string name="delete_one_tab">현재 탭 닫기</string>
     <string name="delete_all_tab">모든 탭 닫기</string>
     <string name="delete_other_tab">다른 탭 닫기</string>

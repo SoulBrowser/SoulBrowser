@@ -292,6 +292,7 @@
     <string name="color_size">厚度</string>
     <string name="color_alpha">透明度</string>
     <string name="bottom_size">底栏大小</string>
+    <string name="add_icon">添加按钮</string>
     <string name="close_icon">关闭按钮</string>
     <string name="size_width">宽度</string>
     <string name="size_height">高度</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">备忘录</string>
     <string name="memo_guide">你可以注册常用句子</string>
     <string name="page_source">网页源码</string>
+    <string name="delete_tab">关闭标签</string>
     <string name="delete_one_tab">关闭当前标签</string>
     <string name="delete_all_tab">关闭所有标签</string>
     <string name="delete_other_tab">关闭其它标签</string>

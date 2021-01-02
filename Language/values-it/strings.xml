@@ -292,7 +292,8 @@
     <string name="color_size">Spessore</string>
     <string name="color_alpha">Trasparenza</string>
     <string name="bottom_size">Dimensioni della barra inferiore</string>
-    <string name="close_icon">Pulsante Chiudi</string>
+    <string name="add_icon">Pulsante aggiungi</string>
+    <string name="close_icon">Pulsante chiudi</string>
     <string name="size_width">Larghezza</string>
     <string name="size_height">Altezza</string>
     <string name="exit_with_save">Salva ed esci</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Promemoria</string>
     <string name="memo_guide">È possibile registrare frasi utilizzate di frequente.</string>
     <string name="page_source">Fonte della pagina</string>
+    <string name="delete_tab">Chiudi scheda</string>
     <string name="delete_one_tab">Chiudi la finestra attuale</string>
     <string name="delete_all_tab">Chiudi tutte le schede</string>
     <string name="delete_other_tab">Chiudi le altre schede</string>

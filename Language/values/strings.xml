@@ -292,6 +292,7 @@
     <string name="color_size">Thickness</string>
     <string name="color_alpha">Transparency</string>
     <string name="bottom_size">Bottom bar size</string>
+    <string name="add_icon">Add button</string>
     <string name="close_icon">Close button</string>
     <string name="size_width">Width</string>
     <string name="size_height">Height</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Memo</string>
     <string name="memo_guide">You can register frequently used sentences.</string>
     <string name="page_source">Page source</string>
+    <string name="delete_tab">Close tab</string>
     <string name="delete_one_tab">Close current tab</string>
     <string name="delete_all_tab">Close all tabs</string>
     <string name="delete_other_tab">Close other tabs</string>

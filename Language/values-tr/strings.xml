@@ -292,6 +292,7 @@
     <string name="color_size">Kalınlık</string>
     <string name="color_alpha">Şeffaflık</string>
     <string name="bottom_size">Alt çubuk boyutu</string>
+    <string name="add_icon">Ekle düğmesi</string>
     <string name="close_icon">Kapat düğmesi</string>
     <string name="size_width">Genişlik</string>
     <string name="size_height">Yükseklik</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Not</string>
     <string name="memo_guide">Sık kullanılan cümleleri kaydedebilirsiniz.</string>
     <string name="page_source">Sayfa kaynağı</string>
+    <string name="delete_tab">Sekmeyi kapat</string>
     <string name="delete_one_tab">Geçerli sekmeyi kapat</string>
     <string name="delete_all_tab">Tüm sekmeleri kapat</string>
     <string name="delete_other_tab">Diğer sekmeleri kapat</string>

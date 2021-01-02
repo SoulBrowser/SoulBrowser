@@ -292,7 +292,8 @@
     <string name="color_size">Grosime</string>
     <string name="color_alpha">Transparență</string>
     <string name="bottom_size">Dimensiunea barei inferioare</string>
-    <string name="close_icon">Butonul Închidere</string>
+    <string name="add_icon">Buton adăugare</string>
+    <string name="close_icon">Butonul închidere</string>
     <string name="size_width">Lăţime</string>
     <string name="size_height">Înălţime</string>
     <string name="exit_with_save">Salvare și ieșire</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Notificare</string>
     <string name="memo_guide">Puteți înregistra propoziții utilizate frecvent.</string>
     <string name="page_source">Sursa paginii</string>
+    <string name="delete_tab">Închideți fila</string>
     <string name="delete_one_tab">Inchide fereastra curenta</string>
     <string name="delete_all_tab">Inchide toate filele</string>
     <string name="delete_other_tab">Închideți alte file</string>

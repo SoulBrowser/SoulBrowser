@@ -292,6 +292,7 @@
     <string name="color_size">Товщина</string>
     <string name="color_alpha">Прозорість</string>
     <string name="bottom_size">Розмір нижньої панелі</string>
+    <string name="add_icon">Кнопка додати</string>
     <string name="close_icon">Кнопка закриття</string>
     <string name="size_width">Ширина</string>
     <string name="size_height">Висота</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Пам\'ятка</string>
     <string name="memo_guide">Ви можете реєструвати часто використовувані речення.</string>
     <string name="page_source">Джерело сторінки</string>
+    <string name="delete_tab">Закрити вкладку</string>
     <string name="delete_one_tab">Закрити поточну вкладку</string>
     <string name="delete_all_tab">Закрийте всі вкладки</string>
     <string name="delete_other_tab">Закрийте інші вкладки</string>

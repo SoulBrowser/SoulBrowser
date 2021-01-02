@@ -292,6 +292,7 @@
     <string name="color_size">Größe</string>
     <string name="color_alpha">Transparenz</string>
     <string name="bottom_size">Größe der unteren Leiste</string>
+    <string name="add_icon">Schaltfläche Hinzufügen</string>
     <string name="close_icon">Schaltfläche Schließen</string>
     <string name="size_width">Breite</string>
     <string name="size_height">Höhe</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Memo</string>
     <string name="memo_guide">Sie können häufig verwendete Sätze registrieren.</string>
     <string name="page_source">Seitenquelltext</string>
+    <string name="delete_tab">Tab schließen</string>
     <string name="delete_one_tab">Aktuelle Registerkarte schließen</string>
     <string name="delete_all_tab">Alle Fenster schließen</string>
     <string name="delete_other_tab">Schließen Sie andere Registerkarten</string>

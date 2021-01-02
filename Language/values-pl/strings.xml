@@ -292,6 +292,7 @@
     <string name="color_size">Grubość</string>
     <string name="color_alpha">Przezroczystość</string>
     <string name="bottom_size">Rozmiar dolnego paska</string>
+    <string name="add_icon">Dodaj przycisk</string>
     <string name="close_icon">Przycisk zamykania</string>
     <string name="size_width">Szerokość</string>
     <string name="size_height">Wysokość</string>
@@ -621,6 +622,7 @@
     <string name="memo_title">Notatka</string>
     <string name="memo_guide">Możesz zarejestrować często używane zdania.</string>
     <string name="page_source">Źródło strony</string>
+    <string name="delete_tab">Zamknij kartę</string>
     <string name="delete_one_tab">Zamknij kartę</string>
     <string name="delete_all_tab">Zamknąć wszystkie zakładki</string>
     <string name="delete_other_tab">Zamknij inne karty</string>
