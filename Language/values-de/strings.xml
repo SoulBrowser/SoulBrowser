@@ -99,8 +99,13 @@
     <string name="next_page">Nächste Seite</string>
     <string name="tab_gesture">Tab-Geste</string>
     <string name="pop_block">Popup blockieren</string>
+    <string name="pop_block_info1">Blockiere alle Popups</string>
+    <string name="pop_block_info2">Blockieren, wenn andere Websites geöffnet werden (einschließlich Werbeseiten)</string>
+    <string name="pop_block_info3">Blockieren Sie nur Popups, die als Anzeigen verdächtigt werden</string>
     <string name="app_block">App-Ausführung blockieren</string>
-    <string name="app_block_info">Blockieren Sie die Ausführung anderer Websites durch die Seite.</string>
+    <string name="app_site">Im Browser öffnen</string>
+    <string name="app_block_info1">Blockieren Sie die Ausführung anderer Websites durch die Seite.</string>
+    <string name="app_block_info2">Wenn Site-Informationen verfügbar sind, öffnen Sie die Site.</string>
     <string name="app_block_noti">Die Seite versucht, eine andere App auszuführen.</string>
     <string name="link">Verknüpfung</string>
     <string name="open_url">Öffnen</string>

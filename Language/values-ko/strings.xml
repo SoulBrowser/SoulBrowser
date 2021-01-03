@@ -99,8 +99,13 @@
     <string name="next_page">다음 페이지</string>
     <string name="tab_gesture">탭 제스처</string>
     <string name="pop_block">팝업 차단</string>
+    <string name="pop_block_info1">모든 팝업 차단</string>
+    <string name="pop_block_info2">다른 사이트가 열릴 때 차단 (광고 사이트 포함)</string>
+    <string name="pop_block_info3">광고로 의심되는 팝업만 차단</string>
     <string name="app_block">앱 실행 차단</string>
-    <string name="app_block_info">사이트에서 다른 앱을 실행하지 못하도록 차단합니다.</string>
+    <string name="app_site">브라우저에서 열기</string>
+    <string name="app_block_info1">사이트에서 다른 앱을 실행하지 못하도록 차단합니다.</string>
+    <string name="app_block_info2">사이트 정보를 사용할 수 있는 경우, 사이트를 엽니다.</string>
     <string name="app_block_noti">사이트에서 다른 앱을 실행하려고합니다.</string>
     <string name="link">링크</string>
     <string name="open_url">열기</string>

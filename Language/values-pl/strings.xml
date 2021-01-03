@@ -99,8 +99,13 @@
     <string name="next_page">Następna strona</string>
     <string name="tab_gesture">Gest tabulacji</string>
     <string name="pop_block">Blokowanie wyskakujących okienek</string>
+    <string name="pop_block_info1">Blokuj wszystkie wyskakujące okienka</string>
+    <string name="pop_block_info2">Blokuj, gdy otwierane są inne witryny (w tym witryny reklamowe)</string>
+    <string name="pop_block_info3">Blokuj tylko wyskakujące okienka, które są podejrzewane o reklamy</string>
     <string name="app_block">Blokuj wykonywanie aplikacji</string>
-    <string name="app_block_info">Zablokuj witrynie uruchamianie innych aplikacji.</string>
+    <string name="app_site">Otwórz w przeglądarce</string>
+    <string name="app_block_info1">Zablokuj witrynie uruchamianie innych aplikacji.</string>
+    <string name="app_block_info2">Jeśli informacje o witrynie są dostępne, otwórz witrynę.</string>
     <string name="app_block_noti">Witryna próbuje uruchomić inną aplikację.</string>
     <string name="link">Połączyć</string>
     <string name="open_url">Otwórz</string>

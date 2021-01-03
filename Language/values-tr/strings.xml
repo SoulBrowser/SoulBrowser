@@ -99,8 +99,13 @@
     <string name="next_page">Sonraki sayfa</string>
     <string name="tab_gesture">Sekme hareketi</string>
     <string name="pop_block">Popup engelleyicisi</string>
+    <string name="pop_block_info1">Tüm pop-up\'ları engelle</string>
+    <string name="pop_block_info2">Diğer siteler açıldığında engelle (reklam siteleri dahil)</string>
+    <string name="pop_block_info3">Yalnızca reklam olduğundan şüphelenilen pop-up\'ları engelle</string>
     <string name="app_block">Uygulamanın yürütülmesini engelle</string>
-    <string name="app_block_info">Sitenin diğer uygulamaları çalıştırmasını engelleyin.</string>
+    <string name="app_site">Tarayıcıda aç</string>
+    <string name="app_block_info1">Sitenin diğer uygulamaları çalıştırmasını engelleyin.</string>
+    <string name="app_block_info2">Site bilgisi mevcutsa siteyi açın.</string>
     <string name="app_block_noti">Site başka bir uygulamayı çalıştırmaya çalışıyor.</string>
     <string name="link">Bağlantı</string>
     <string name="open_url">Aç</string>

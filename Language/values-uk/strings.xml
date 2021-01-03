@@ -99,8 +99,13 @@
     <string name="next_page">Наступна сторінка</string>
     <string name="tab_gesture">Вкладка жестом</string>
     <string name="pop_block">Блокатор спливаючих вікон</string>
+    <string name="pop_block_info1">Блокувати всі спливаючі вікна</string>
+    <string name="pop_block_info2">Блокувати при відкритті інших сайтів (включаючи рекламні сайти)</string>
+    <string name="pop_block_info3">Блокуйте лише спливаючі вікна, які підозрюються в рекламі</string>
     <string name="app_block">Заблокувати виконання програми</string>
-    <string name="app_block_info">Заблокуйте веб-сайту запуск інших програм.</string>
+    <string name="app_site">Відкрити в браузері</string>
+    <string name="app_block_info1">Заблокуйте веб-сайту запуск інших програм.</string>
+    <string name="app_block_info2">Якщо інформація про сайт доступна, відкрийте сайт.</string>
     <string name="app_block_noti">Сайт намагається запустити іншу програму.</string>
     <string name="link">Посилання</string>
     <string name="open_url">Відкрити</string>

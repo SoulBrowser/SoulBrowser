@@ -99,8 +99,13 @@
     <string name="next_page">Trang tiếp theo</string>
     <string name="tab_gesture">Cử chỉ tab</string>
     <string name="pop_block">Chặn popup</string>
+    <string name="pop_block_info1">Chặn tất cả cửa sổ bật lên</string>
+    <string name="pop_block_info2">Chặn khi các trang web khác được mở (bao gồm cả các trang web quảng cáo)</string>
+    <string name="pop_block_info3">Chỉ chặn các cửa sổ bật lên bị nghi ngờ là quảng cáo</string>
     <string name="app_block">Chặn thực thi ứng dụng</string>
-    <string name="app_block_info">Chặn trang web chạy các ứng dụng khác.</string>
+    <string name="app_site">Mở trong trình duyệt</string>
+    <string name="app_block_info1">Chặn trang web chạy các ứng dụng khác.</string>
+    <string name="app_block_info2">Nếu thông tin trang web có sẵn, hãy mở trang web.</string>
     <string name="app_block_noti">Trang web đang cố gắng chạy một ứng dụng khác.</string>
     <string name="link">Liên kết</string>
     <string name="open_url">Mở</string>

@@ -99,8 +99,13 @@
     <string name="next_page">下一頁</string>
     <string name="tab_gesture">分頁手勢</string>
     <string name="pop_block">彈出窗口阻止程序</string>
+    <string name="pop_block_info1">阻止所有彈出窗口</string>
+    <string name="pop_block_info2">當其他網站（包括廣告網站）打開時阻止</string>
+    <string name="pop_block_info3">僅阻止懷疑是廣告的彈出式窗口</string>
     <string name="app_block">阻止執行應用</string>
-    <string name="app_block_info">阻止網站運行其他應用程序</string>
+    <string name="app_site">在瀏覽器中打開</string>
+    <string name="app_block_info1">阻止網站運行其他應用程序</string>
+    <string name="app_block_info2">如果站點信息可用，請打開站點</string>
     <string name="app_block_noti">該網站正在嘗試運行另一個應用程序</string>
     <string name="link">鏈接</string>
     <string name="open_url">熱</string>

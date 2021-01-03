@@ -99,8 +99,13 @@
     <string name="next_page">Halaman berikutnya</string>
     <string name="tab_gesture">Gerakan tab</string>
     <string name="pop_block">Pemblokir popup</string>
+    <string name="pop_block_info1">Blokir semua pop-up</string>
+    <string name="pop_block_info2">Blokir ketika situs lain dibuka (termasuk situs periklanan)</string>
+    <string name="pop_block_info3">Blokir hanya pop-up yang dicurigai sebagai iklan</string>
     <string name="app_block">Blokir eksekusi aplikasi</string>
-    <string name="app_block_info">Blokir situs agar tidak menjalankan aplikasi lain.</string>
+    <string name="app_site">Buka di browser</string>
+    <string name="app_block_info1">Blokir situs agar tidak menjalankan aplikasi lain.</string>
+    <string name="app_block_info2">Jika informasi situs tersedia, buka situs.</string>
     <string name="app_block_noti">Situs ini mencoba menjalankan aplikasi lain.</string>
     <string name="link">Tautan</string>
     <string name="open_url">Buka</string>

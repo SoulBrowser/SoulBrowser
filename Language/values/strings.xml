@@ -99,8 +99,13 @@
     <string name="next_page">Next page</string>
     <string name="tab_gesture">Tab gesture</string>
     <string name="pop_block">Popup blocker</string>
+    <string name="pop_block_info1">Block all popups</string>
+    <string name="pop_block_info2">Block when other sites are opened (including advertising sites)</string>
+    <string name="pop_block_info3">Block only popups that are suspected as ads</string>
     <string name="app_block">Block app execution</string>
-    <string name="app_block_info">Block the site from running other apps.</string>
+    <string name="app_site">Open in browser</string>
+    <string name="app_block_info1">Block the site from running other apps.</string>
+    <string name="app_block_info2">If site information is available, open the site.</string>
     <string name="app_block_noti">The site is trying to run another app.</string>
     <string name="link">Link</string>
     <string name="open_url">Open</string>

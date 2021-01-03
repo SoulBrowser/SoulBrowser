@@ -99,8 +99,13 @@
     <string name="next_page">Page suivante</string>
     <string name="tab_gesture">Geste onglet</string>
     <string name="pop_block">Bloquer popup</string>
+    <string name="pop_block_info1">Bloquer toutes les pop-ups</string>
+    <string name="pop_block_info2">Bloquer lorsque d\'autres sites sont ouverts (y compris les sites publicitaires)</string>
+    <string name="pop_block_info3">Bloquez uniquement les fenêtres contextuelles suspectées d\'être des publicités</string>
     <string name="app_block">Bloquer l\'exécution de l\'application</string>
-    <string name="app_block_info">Empêchez le site d\'exécuter d\'autres applications.</string>
+    <string name="app_site">Ouvrir dans le navigateur</string>
+    <string name="app_block_info1">Empêchez le site d\'exécuter d\'autres applications.</string>
+    <string name="app_block_info2">Si des informations sur le site sont disponibles, ouvrez le site.</string>
     <string name="app_block_noti">Le site tente d\'exécuter une autre application.</string>
     <string name="link">Lien</string>
     <string name="open_url">Ouvrir</string>

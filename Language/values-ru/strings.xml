@@ -99,8 +99,13 @@
     <string name="next_page">Следующая страница</string>
     <string name="tab_gesture">Жест вкладки</string>
     <string name="pop_block">Блокировщик всплывающих окон</string>
+    <string name="pop_block_info1">Блокировать все всплывающие окна</string>
+    <string name="pop_block_info2">Блокировать при открытии других сайтов (в том числе рекламных)</string>
+    <string name="pop_block_info3">Блокировать только всплывающие окна, которые подозреваются как реклама</string>
     <string name="app_block">Блокировать выполнение приложения</string>
-    <string name="app_block_info">Заблокируйте сайт от запуска других приложений.</string>
+    <string name="app_site">Открыть в браузере</string>
+    <string name="app_block_info1">Заблокируйте сайт от запуска других приложений.</string>
+    <string name="app_block_info2">Если информация о сайте доступна, откройте сайт.</string>
     <string name="app_block_noti">Сайт пытается запустить другое приложение.</string>
     <string name="link">Ссылка</string>
     <string name="open_url">Открыть</string>

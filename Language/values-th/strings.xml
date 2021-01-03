@@ -99,8 +99,13 @@
     <string name="next_page">หน้าถัดไป</string>
     <string name="tab_gesture">ท่าทางสัมผัสของแท็บ</string>
     <string name="pop_block">ตัวบล็อกป๊อปอัป</string>
+    <string name="pop_block_info1">บล็อกป๊อปอัปทั้งหมด</string>
+    <string name="pop_block_info2">บล็อกเมื่อมีการเปิดไซต์อื่น ๆ (รวมถึงไซต์โฆษณา)</string>
+    <string name="pop_block_info3">บล็อกเฉพาะป๊อปอัปที่สงสัยว่าเป็นโฆษณา</string>
     <string name="app_block">บล็อกการทำงานของแอป</string>
-    <string name="app_block_info">บล็อกไซต์ไม่ให้เรียกใช้แอปอื่น ๆ</string>
+    <string name="app_site">เปิดในเบราว์เซอร์</string>
+    <string name="app_block_info1">บล็อกไซต์ไม่ให้เรียกใช้แอปอื่น ๆ</string>
+    <string name="app_block_info2">หากมีข้อมูลไซต์ให้เปิดไซต์</string>
     <string name="app_block_noti">ไซต์กำลังพยายามเรียกใช้แอปอื่น</string>
     <string name="link">ลิงค์</string>
     <string name="open_url">เปิด</string>

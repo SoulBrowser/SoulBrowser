@@ -99,8 +99,13 @@
     <string name="next_page">Pagina următoare</string>
     <string name="tab_gesture">Gest tab</string>
     <string name="pop_block">Blocator popup</string>
+    <string name="pop_block_info1">Blocați toate ferestrele pop-up</string>
+    <string name="pop_block_info2">Blocați când sunt deschise alte site-uri (inclusiv site-uri de publicitate)</string>
+    <string name="pop_block_info3">Blocați numai ferestrele pop-up suspectate ca reclame</string>
     <string name="app_block">Blocați execuția aplicației</string>
-    <string name="app_block_info">Blocați site-ul pentru a rula alte aplicații.</string>
+    <string name="app_site">Deschis în browser</string>
+    <string name="app_block_info1">Blocați site-ul pentru a rula alte aplicații.</string>
+    <string name="app_block_info2">Dacă sunt disponibile informații despre site, deschideți site-ul.</string>
     <string name="app_block_noti">Site-ul încearcă să ruleze o altă aplicație.</string>
     <string name="link">Legătură</string>
     <string name="open_url">Deschide</string>
