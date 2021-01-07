@@ -381,9 +381,9 @@
     <string name="gesture">Mimica</string>
     <string name="show_status">Mostra barra stato</string>
     <string name="show_navi">Mostra tasto funzione</string>
-    <string name="address_pos">Mostra barra degli indirizzi</string>
-    <string name="bot_input">Barra degli indirizzi inferiore</string>
-    <string name="address_menu">Menu della barra degli indirizzi</string>
+    <string name="address_pos">Barra di ricerca</string>
+    <string name="bot_input">Barra di ricerca in basso</string>
+    <string name="address_menu">Menu della barra di ricerca</string>
     <string name="show_tab_bar">Mostra barra delle schede</string>
     <string name="tab_swipe_up">Scorri verso l\'alto la barra delle schede</string>
     <string name="tab_swipe_dn">Scorri verso il basso la barra delle schede</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Modalità di alimentazione</string>
     <string name="ads_power_info">Alcuni contenuti potrebbero non essere visualizzati.</string>
     <string name="search_suggest">Suggerimenti di ricerca</string>
+    <string name="at_top">In cima</string>
     <string name="at_bottom">In fondo</string>
     <string name="guide_menu">Premere a lungo l\'icona per modificare il menu.</string>
     <string name="clean_data_info">L\'accumulo di dati obsoleti può rallentare il browser.\nÈ una buona idea pulire periodicamente i dati.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Debole</string>
     <string name="open_limit">Limite aperto</string>
     <string name="down_manager">Download manager</string>
+    <string name="down_manager_info1">Puoi utilizzare la tua app di download preferita come gestore di download.</string>
+    <string name="down_manager_info2">Il tuo browser potrebbe essere lento durante il download di file di grandi dimensioni.</string>
+    <string name="down_manager_info3">Puoi navigare sul Web più velocemente separando il browser e i download.</string>
     <string name="other_app">Altre app</string>
     <string name="web_title">Ragnatela</string>
     <string name="color_title">Colore</string>
     <string name="no_icon">Nessuna icona.</string>
+    <string name="video_player">Giocatore</string>
 </resources>

@@ -381,9 +381,9 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Show status bar</string>
     <string name="show_navi">Show soft key</string>
-    <string name="address_pos">Show address bar</string>
-    <string name="bot_input">Bottom address bar</string>
-    <string name="address_menu">Address bar menu</string>
+    <string name="address_pos">Show search bar</string>
+    <string name="bot_input">Bottom search bar</string>
+    <string name="address_menu">Search bar menu</string>
     <string name="show_tab_bar">Show tab bar</string>
     <string name="tab_swipe_up">Swipe up tab bar</string>
     <string name="tab_swipe_dn">Swipe down tab bar</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Power mode</string>
     <string name="ads_power_info">Some content may not be displayed.</string>
     <string name="search_suggest">Search suggestions</string>
+    <string name="at_top">At the top</string>
     <string name="at_bottom">At the bottom</string>
     <string name="guide_menu">Long press the icon to edit the menu.</string>
     <string name="clean_data_info">Accumulation of stale data can slow down your browser.\nIt is a good idea to clean up your data periodically.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Weak</string>
     <string name="open_limit">Open limit</string>
     <string name="down_manager">Download manager</string>
+    <string name="down_manager_info1">You can use your favorite downloader app as a download manager.</string>
+    <string name="down_manager_info2">Your browser may be slow when downloading large files.</string>
+    <string name="down_manager_info3">You can surf the web faster by separating your browser and downloads.</string>
     <string name="other_app">Other apps</string>
     <string name="web_title">Web</string>
     <string name="color_title">Color</string>
     <string name="no_icon">There is no icon.</string>
+    <string name="video_player">Player</string>
 </resources>

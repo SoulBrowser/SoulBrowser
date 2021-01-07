@@ -381,9 +381,9 @@
     <string name="gesture">Hareketleri</string>
     <string name="show_status">Durum çubuğunu göster</string>
     <string name="show_navi">Ekran tuşunu göster</string>
-    <string name="address_pos">Adres çubuğunu göster</string>
-    <string name="bot_input">Alt adres çubuğu</string>
-    <string name="address_menu">Adres çubuğu menüsü</string>
+    <string name="address_pos">Arama çubuğu</string>
+    <string name="bot_input">Alt arama çubuğu</string>
+    <string name="address_menu">Arama çubuğu menüsü</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
     <string name="tab_swipe_up">Sekme çubuğunu yukarı kaydırın</string>
     <string name="tab_swipe_dn">Sekme çubuğunu aşağı kaydırın</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Güç modu</string>
     <string name="ads_power_info">Bazı içerikler görüntülenemeyebilir.</string>
     <string name="search_suggest">Arama önerileri</string>
+    <string name="at_top">Tepede</string>
     <string name="at_bottom">Altta</string>
     <string name="guide_menu">Menüyü düzenlemek için simgeye uzun basın.</string>
     <string name="clean_data_info">Eski verilerin biriktirilmesi tarayıcınızı yavaşlatabilir.\nVerilerinizi düzenli aralıklarla temizlemek iyi bir fikirdir.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Güçsüz</string>
     <string name="open_limit">Açık limit</string>
     <string name="down_manager">İndirme yöneticisi</string>
+    <string name="down_manager_info1">En sevdiğiniz indirme uygulamasını bir indirme yöneticisi olarak kullanabilirsiniz.</string>
+    <string name="down_manager_info2">Büyük dosyaları indirirken tarayıcınız yavaş olabilir.</string>
+    <string name="down_manager_info3">Tarayıcınızı ve indirilenleri ayırarak web\'de daha hızlı gezinebilirsiniz.</string>
     <string name="other_app">Diğer uygulamalar</string>
     <string name="web_title">Ağ</string>
     <string name="color_title">Renk</string>
     <string name="no_icon">Simge yok.</string>
+    <string name="video_player">Oyuncu</string>
 </resources>

@@ -381,9 +381,9 @@
     <string name="gesture">Жест</string>
     <string name="show_status">Показати рядок стану</string>
     <string name="show_navi">Показати програмну клавішу</string>
-    <string name="address_pos">Показати адресний рядок</string>
-    <string name="bot_input">Нижній адресний рядок</string>
-    <string name="address_menu">Меню адресного рядка</string>
+    <string name="address_pos">Рядок пошуку</string>
+    <string name="bot_input">Нижній рядок пошуку</string>
+    <string name="address_menu">Меню рядка пошуку</string>
     <string name="show_tab_bar">Показувати панель вкладок</string>
     <string name="tab_swipe_up">Проведіть пальцем по вкладці вгору</string>
     <string name="tab_swipe_dn">Проведіть вниз по панелі вкладок</string>
@@ -714,7 +714,8 @@
     <string name="ads_power">Режим потужного блокування</string>
     <string name="ads_power_info">Деякий вміст може не відображатися.</string>
     <string name="search_suggest">Пошукові підказки</string>
-    <string name="at_bottom">Внизу</string>
+    <string name="at_top">На вершині</string>
+    <string name="at_bottom">На дні</string>
     <string name="guide_menu">Тривале натискання значка для редагування меню.</string>
     <string name="clean_data_info">Накопичення застарілих даних може сповільнити роботу вашого браузера.\nРекомендуємо періодично очищати дані.</string>
     <string name="txt_viewer">Перегляд тексту</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Слабкий</string>
     <string name="open_limit">Відкритий ліміт</string>
     <string name="down_manager">Менеджер завантажень</string>
+    <string name="down_manager_info1">Ви можете використовувати свій улюблений додаток для завантаження як менеджер завантажень.</string>
+    <string name="down_manager_info2">Ваш браузер може працювати повільно під час завантаження великих файлів.</string>
+    <string name="down_manager_info3">Ви можете швидше переглядати веб-сторінки, відокремлюючи браузер та завантаження.</string>
     <string name="other_app">Інші програми</string>
     <string name="web_title">Інтернет</string>
     <string name="color_title">Колір</string>
     <string name="no_icon">Значка немає.</string>
+    <string name="video_player">Програвач</string>
 </resources>

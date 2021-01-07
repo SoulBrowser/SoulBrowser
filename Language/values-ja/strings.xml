@@ -381,9 +381,9 @@
     <string name="gesture">ジェスチャー</string>
     <string name="show_status">ステータスバーを表示</string>
     <string name="show_navi">ソフトキーを表示</string>
-    <string name="address_pos">アドレスバーの表示</string>
-    <string name="bot_input">下部のアドレスバー</string>
-    <string name="address_menu">アドレスバーメニュー</string>
+    <string name="address_pos">検索バーを表示</string>
+    <string name="bot_input">下部の検索バー</string>
+    <string name="address_menu">検索バーメニュー</string>
     <string name="show_tab_bar">タブバーを表示</string>
     <string name="tab_swipe_up">タブバー上スワイプ</string>
     <string name="tab_swipe_dn">タブバー下スワイプ</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">パワーモード</string>
     <string name="ads_power_info">一部のコンテンツが表示されないことがあります。</string>
     <string name="search_suggest">検索候補</string>
+    <string name="at_top">上部に</string>
     <string name="at_bottom">下部に</string>
     <string name="guide_menu">アイコンを長押しするとメニューを編集することができます。</string>
     <string name="clean_data_info">古いデータが蓄積されると、ブラウザの速度が遅くなることがあります。\n定期的にデータを整理することをお勧め。</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">弱い</string>
     <string name="open_limit">オープン制限</string>
     <string name="down_manager">ダウンロードマネージャー</string>
+    <string name="down_manager_info1">好ましいダウンローダアプリをダウンロードマネージャとして使用することができます。</string>
+    <string name="down_manager_info2">大容量のファイルをダウンロードすると、ブラウザが遅くなることがあります。</string>
+    <string name="down_manager_info3">ブラウザとダウンロードを分離して、Webサーフィンをより速くすることができます。</string>
     <string name="other_app">他のアプリ</string>
     <string name="web_title">ウェブ</string>
     <string name="color_title">色</string>
     <string name="no_icon">アイコンがありません。</string>
+    <string name="video_player">プレーヤー</string>
 </resources>

@@ -381,9 +381,9 @@
     <string name="gesture">Gesten</string>
     <string name="show_status">Statusleiste anzeigen</string>
     <string name="show_navi">Navigationsleiste anzeigen</string>
-    <string name="address_pos">Adressleiste anzeigen</string>
-    <string name="bot_input">Untere Adressleiste</string>
-    <string name="address_menu">Adressleistenmenü</string>
+    <string name="address_pos">Suchleiste</string>
+    <string name="bot_input">Untere Suchleiste</string>
+    <string name="address_menu">Suchleistenmenü</string>
     <string name="show_tab_bar">Tableiste anzeigen</string>
     <string name="tab_swipe_up">Wischen Sie die Registerkartenleiste nach oben</string>
     <string name="tab_swipe_dn">Wischen Sie über die Registerkartenleiste</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Power-Modus</string>
     <string name="ads_power_info">Einige Inhalte werden möglicherweise nicht angezeigt.</string>
     <string name="search_suggest">Suchvorschläge</string>
+    <string name="at_top">Oben</string>
     <string name="at_bottom">Unten</string>
     <string name="guide_menu">Drücken Sie lange auf das Symbol, um das Menü zu bearbeiten.</string>
     <string name="clean_data_info">Das Sammeln veralteter Daten kann Ihren Browser verlangsamen.\nEs ist eine gute Idee, Ihre Daten regelmäßig zu bereinigen.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Schwach</string>
     <string name="open_limit">Offenes Limit</string>
     <string name="down_manager">Download-Manager</string>
+    <string name="down_manager_info1">Sie können Ihre bevorzugte Downloader-App als Download-Manager verwenden.</string>
+    <string name="down_manager_info2">Ihr Browser ist möglicherweise langsam, wenn Sie große Dateien herunterladen.</string>
+    <string name="down_manager_info3">Sie können schneller im Internet surfen, indem Sie Ihren Browser von Downloads trennen.</string>
     <string name="other_app">Andere Apps</string>
     <string name="web_title">Netz</string>
     <string name="color_title">Farbe</string>
     <string name="no_icon">Es gibt kein Symbol.</string>
+    <string name="video_player">Spieler</string>
 </resources>

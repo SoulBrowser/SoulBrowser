@@ -381,9 +381,9 @@
     <string name="gesture">제스처</string>
     <string name="show_status">상태표시줄 표시</string>
     <string name="show_navi">소프트키 표시</string>
-    <string name="address_pos">주소표시줄 표시</string>
-    <string name="bot_input">하단 주소표시줄</string>
-    <string name="address_menu">주소표시줄 메뉴</string>
+    <string name="address_pos">검색창 표시</string>
+    <string name="bot_input">하단 검색창</string>
+    <string name="address_menu">검색창 메뉴</string>
     <string name="show_tab_bar">탭바 표시</string>
     <string name="tab_swipe_up">탭바를 위로 스와이프</string>
     <string name="tab_swipe_dn">탭바를 아래로 스와이프</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">파워 모드</string>
     <string name="ads_power_info">일부 콘텐츠가 표시되지 않을 수 있습니다.</string>
     <string name="search_suggest">검색 제안</string>
+    <string name="at_top">상단에</string>
     <string name="at_bottom">하단에</string>
     <string name="guide_menu">아이콘을 길게 누르면, 메뉴를 편집할 수 있습니다.</string>
     <string name="clean_data_info">오래된 데이터가 누적되면, 브라우저가 느려질 수 있습니다.\n주기적으로 데이터를 정리하는 것이 좋습니다.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">약한</string>
     <string name="open_limit">열기 제한</string>
     <string name="down_manager">다운로드 매니저</string>
+    <string name="down_manager_info1">선호하는 다운로더 앱을 다운로드 매니저로 사용하실 수 있습니다.</string>
+    <string name="down_manager_info2">대용량 파일을 다운로드 할 때 브라우저가 느려질 수 있습니다.</string>
+    <string name="down_manager_info3">브라우저와 다운로드를 분리하여 웹 서핑을 더 빠르게 할 수 있습니다.</string>
     <string name="other_app">다른 앱</string>
     <string name="web_title">웹</string>
     <string name="color_title">색상</string>
     <string name="no_icon">아이콘이 없습니다.</string>
+    <string name="video_player">플레이어</string>
 </resources>

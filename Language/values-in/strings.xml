@@ -160,7 +160,7 @@
     <string name="open_as">Buka sebagai</string>
     <string name="open_continue">Buka di posisi sebelumnya</string>
     <string name="pull_refresh">Tarik menyegarkan</string>
-    <string name="refresh">Rafraîchir</string>
+    <string name="refresh">Segarkan</string>
     <string name="sort">Sortir</string>
     <string name="group_by">Dikelompokkan oleh</string>
     <string name="folder_dir">Direktori</string>
@@ -381,9 +381,9 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Tampilkan bilah status</string>
     <string name="show_navi">Tampilkan tombol lunak</string>
-    <string name="address_pos">Tampilkan bilah alamat</string>
-    <string name="bot_input">Bilah alamat bawah</string>
-    <string name="address_menu">Menu bilah alamat</string>
+    <string name="address_pos">Bilah pencarian</string>
+    <string name="bot_input">Bilah pencarian bawah</string>
+    <string name="address_menu">Menu bilah pencarian</string>
     <string name="show_tab_bar">Tampilkan bilah tab</string>
     <string name="tab_swipe_up">Geser bilah tab ke atas</string>
     <string name="tab_swipe_dn">Geser bilah tab ke bawah</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Mode daya</string>
     <string name="ads_power_info">Beberapa konten mungkin tidak ditampilkan.</string>
     <string name="search_suggest">Saran pencarian</string>
+    <string name="at_top">Di atas</string>
     <string name="at_bottom">Di dasar</string>
     <string name="guide_menu">Tekan lama ikon untuk mengedit menu.</string>
     <string name="clean_data_info">Mengumpulkan data lama dapat memperlambat browser Anda.\nSebaiknya bersihkan data Anda secara berkala.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Lemah</string>
     <string name="open_limit">Batas terbuka</string>
     <string name="down_manager">Manajer unduhan</string>
+    <string name="down_manager_info1">Anda dapat menggunakan aplikasi pengunduh favorit Anda sebagai pengelola unduhan.</string>
+    <string name="down_manager_info2">Browser Anda mungkin lambat saat mendownload file besar.</string>
+    <string name="down_manager_info3">Anda dapat menjelajahi web lebih cepat dengan memisahkan browser dan unduhan Anda.</string>
     <string name="other_app">Aplikasi lain</string>
     <string name="web_title">Web</string>
     <string name="color_title">Warna</string>
     <string name="no_icon">Tidak ada ikon.</string>
+    <string name="video_player">Pemain</string>
 </resources>

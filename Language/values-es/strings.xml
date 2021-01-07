@@ -381,9 +381,9 @@
     <string name="gesture">Gesto</string>
     <string name="show_status">Mostrar barra estado</string>
     <string name="show_navi">Mostrar tecla programable</string>
-    <string name="address_pos">Mostrar barra de direcciones</string>
-    <string name="bot_input">Barra de direcciones inferior</string>
-    <string name="address_menu">Menú de la barra de direcciones</string>
+    <string name="address_pos">Barra de búsqueda</string>
+    <string name="bot_input">Barra de búsqueda inferior</string>
+    <string name="address_menu">Menú de la barra de búsqueda</string>
     <string name="show_tab_bar">Mostrar barra de pestañas</string>
     <string name="tab_swipe_up">Desliza hacia arriba la barra de pestañas</string>
     <string name="tab_swipe_dn">Desliza hacia abajo la barra de pestañas</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Modo de energía</string>
     <string name="ads_power_info">Es posible que no se muestre parte del contenido.</string>
     <string name="search_suggest">Sugerencias de búsqueda</string>
+    <string name="at_top">En la cima</string>
     <string name="at_bottom">En el fondo</string>
     <string name="guide_menu">Mantenga pulsado el icono para editar el menú.</string>
     <string name="clean_data_info">La acumulación de datos obsoletos puede ralentizar su navegador.\nEs una buena idea limpiar sus datos periódicamente.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Débiles</string>
     <string name="open_limit">Límite abierto</string>
     <string name="down_manager">Gestor de descargas</string>
+    <string name="down_manager_info1">Puede usar su aplicación de descarga favorita como administrador de descargas.</string>
+    <string name="down_manager_info2">Su navegador puede ser lento al descargar archivos grandes.</string>
+    <string name="down_manager_info3">Puede navegar por la web más rápido separando su navegador y las descargas.</string>
     <string name="other_app">Otras aplicaciones</string>
     <string name="web_title">Web</string>
     <string name="color_title">Color</string>
     <string name="no_icon">No hay icono.</string>
+    <string name="video_player">Jugador</string>
 </resources>

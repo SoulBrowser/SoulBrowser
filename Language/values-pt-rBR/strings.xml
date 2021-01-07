@@ -381,12 +381,12 @@
     <string name="gesture">Gestos</string>
     <string name="show_status">Mostrar barra status</string>
     <string name="show_navi">Mostrar botões virtuais</string>
-    <string name="address_pos">Mostrar barra de endereço</string>
-    <string name="bot_input">Barra de endereço embaixo</string>
-    <string name="address_menu">Menu da barra de endereços</string>
+    <string name="address_pos">Barra de pesquisa</string>
+    <string name="bot_input">Barra de pesquisa inferior</string>
+    <string name="address_menu">Menu da barra de pesquisas</string>
     <string name="show_tab_bar">Mostrar barra de abas</string>
-	<string name="tab_swipe_up">Deslizar barra de abas para cima</string>
-	<string name="tab_swipe_dn">Deslizar barra de abas para baixo</string>
+    <string name="tab_swipe_up">Deslizar barra de abas para cima</string>
+    <string name="tab_swipe_dn">Deslizar barra de abas para baixo</string>
     <string name="above_top">Acima da barra superior</string>
     <string name="below_top">Abaixo da barra superior</string>
     <string name="above_bot">Acima da barra inferior</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Modo de energia</string>
     <string name="ads_power_info">Alguns conteúdos podem não ser exibidos.</string>
     <string name="search_suggest">Sugestões de pesquisa</string>
+    <string name="at_top">No topo</string>
     <string name="at_bottom">No fundo</string>
     <string name="guide_menu">Pressione longamente o ícone para editar o menu.</string>
     <string name="clean_data_info">O acúmulo de dados desatualizados pode tornar seu navegador mais lento.\nÉ uma boa ideia limpar seus dados periodicamente.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Fraco</string>
     <string name="open_limit">Limite de abertura</string>
     <string name="down_manager">Gerenciador de download</string>
+    <string name="down_manager_info1">Você pode usar seu aplicativo de download favorito como gerenciador de download.</string>
+    <string name="down_manager_info2">Seu navegador pode ficar lento ao fazer download de arquivos grandes.</string>
+    <string name="down_manager_info3">Você pode navegar na web mais rápido separando o navegador e os downloads.</string>
     <string name="other_app">Outros aplicativos</string>
     <string name="web_title">Rede</string>
     <string name="color_title">Cor</string>
     <string name="no_icon">Não há ícone.</string>
+    <string name="video_player">Jogador</string>
 </resources>

@@ -381,9 +381,9 @@
     <string name="gesture">ท่าทาง</string>
     <string name="show_status">แสดงแถบสถานะ</string>
     <string name="show_navi">แสดงปุ่มซอฟท์คีย์</string>
-    <string name="address_pos">แสดงแถบที่อยู่</string>
-    <string name="bot_input">แถบที่อยู่ด้านล่าง</string>
-    <string name="address_menu">เมนูแถบที่อยู่</string>
+    <string name="address_pos">แถบค้นหา</string>
+    <string name="bot_input">แถบค้นหาด้านล่าง</string>
+    <string name="address_menu">เมนูแถบค้นหา</string>
     <string name="show_tab_bar">แสดงแถบแท็บ</string>
     <string name="tab_swipe_up">ปัดขึ้นแถบแท็บ</string>
     <string name="tab_swipe_dn">ปัดแถบแท็บลง</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">โหมดพลังงาน</string>
     <string name="ads_power_info">อาจไม่มีการแสดงเนื้อหาบางส่วน</string>
     <string name="search_suggest">คำแนะนำการค้นหา</string>
+    <string name="at_top">ที่ด้านบน</string>
     <string name="at_bottom">ที่ส่วนลึกสุด</string>
     <string name="guide_menu">กดไอคอนค้างไว้เพื่อแก้ไขเมนู</string>
     <string name="clean_data_info">การสะสมข้อมูลเก่าอาจทำให้เบราว์เซอร์ของคุณทำงานช้าลง\nเป็นความคิดที่ดีที่จะล้างข้อมูลของคุณเป็นระยะ</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">อ่อนแอ</string>
     <string name="open_limit">เปิดขีด ​​จำกัด</string>
     <string name="down_manager">ตัวจัดการการดาวน์โหลด</string>
+    <string name="down_manager_info1">คุณสามารถใช้แอพดาวน์โหลดที่คุณชื่นชอบเป็นตัวจัดการการดาวน์โหลด</string>
+    <string name="down_manager_info2">เบราว์เซอร์ของคุณอาจทำงานช้าเมื่อดาวน์โหลดไฟล์ขนาดใหญ่</string>
+    <string name="down_manager_info3">คุณสามารถท่องเว็บได้เร็วขึ้นโดยแยกเบราว์เซอร์และการดาวน์โหลด</string>
     <string name="other_app">แอพอื่น ๆ</string>
     <string name="web_title">เว็บ</string>
     <string name="color_title">สี</string>
     <string name="no_icon">ไม่มีไอคอน</string>
+    <string name="video_player">ผู้เล่น</string>
 </resources>

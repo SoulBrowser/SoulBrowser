@@ -381,9 +381,9 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Pokaż pasek stanu</string>
     <string name="show_navi">Pokaż pasek przycisków</string>
-    <string name="address_pos">Pokaż pasek adresu</string>
-    <string name="bot_input">Dolny pasek adresu</string>
-    <string name="address_menu">Menu paska adresu</string>
+    <string name="address_pos">Pasek wyszukiwania</string>
+    <string name="bot_input">Dolny pasek wyszukiwania</string>
+    <string name="address_menu">Menu pasek wyszukiwania</string>
     <string name="show_tab_bar">Pokaż pasek kart</string>
     <string name="tab_swipe_up">Przesuń w górę pasek kart</string>
     <string name="tab_swipe_dn">Przeciągnij w dół pasek kart</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Tryb zasilania</string>
     <string name="ads_power_info">Niektóre treści mogą nie być wyświetlane.</string>
     <string name="search_suggest">Sugestie wyszukiwania</string>
+    <string name="at_top">Na górze</string>
     <string name="at_bottom">Na dnie</string>
     <string name="guide_menu">Długo naciśnij ikonę, aby edytować menu.</string>
     <string name="clean_data_info">Nagromadzenie nieaktualnych danych może spowolnić przeglądarkę.\nWarto okresowo czyścić dane.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Słaby</string>
     <string name="open_limit">Otwarty limit</string>
     <string name="down_manager">Menadżer pobierania</string>
+    <string name="down_manager_info1">Możesz używać swojej ulubionej aplikacji do pobierania jako menedżera pobierania.</string>
+    <string name="down_manager_info2">Twoja przeglądarka może działać wolno podczas pobierania dużych plików.</string>
+    <string name="down_manager_info3">Możesz szybciej surfować po Internecie, oddzielając przeglądarkę od pobierania.</string>
     <string name="other_app">Inne aplikacje</string>
     <string name="web_title">Sieć</string>
     <string name="color_title">Kolor</string>
     <string name="no_icon">Brak ikony.</string>
+    <string name="video_player">Gracz</string>
 </resources>

@@ -381,9 +381,9 @@
     <string name="gesture">Жесты</string>
     <string name="show_status">Показать строку состояния</string>
     <string name="show_navi">Показать программную клавишу</string>
-    <string name="address_pos">Показать адресную строку</string>
-    <string name="bot_input">Нижняя адресная строка</string>
-    <string name="address_menu">Меню адресной строки</string>
+    <string name="address_pos">Панель поиска</string>
+    <string name="bot_input">Нижняя панель поиска</string>
+    <string name="address_menu">Меню панели поиска</string>
     <string name="show_tab_bar">Показать панель вкладок</string>
     <string name="tab_swipe_up">Проведите вверх по панели вкладок</string>
     <string name="tab_swipe_dn">Проведите вниз по панели вкладок</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Режим мощности</string>
     <string name="ads_power_info">Некоторый контент может не отображаться.</string>
     <string name="search_suggest">Предложения поиска</string>
+    <string name="at_top">На вершине</string>
     <string name="at_bottom">Внизу</string>
     <string name="guide_menu">Нажмите и удерживайте значок, чтобы редактировать меню.</string>
     <string name="clean_data_info">Накопление устаревших данных может замедлить работу вашего браузера.\nРекомендуется периодически очищать данные.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Слабый</string>
     <string name="open_limit">Открытый лимит</string>
     <string name="down_manager">Менеджер загрузки</string>
+    <string name="down_manager_info1">Вы можете использовать свое любимое приложение-загрузчик в качестве менеджера загрузок.</string>
+    <string name="down_manager_info2">Ваш браузер может работать медленно при загрузке больших файлов.</string>
+    <string name="down_manager_info3">Вы можете просматривать веб-страницы быстрее, разделив браузер и загрузки.</string>
     <string name="other_app">Другие приложения</string>
     <string name="web_title">Интернет</string>
     <string name="color_title">Цвет</string>
     <string name="no_icon">Иконки нет.</string>
+    <string name="video_player">Игрок</string>
 </resources>

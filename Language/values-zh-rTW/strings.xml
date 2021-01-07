@@ -381,9 +381,9 @@
     <string name="gesture">手勢</string>
     <string name="show_status">顯示狀態欄</string>
     <string name="show_navi">顯示軟鍵</string>
-    <string name="address_pos">顯示地址欄</string>
-    <string name="bot_input">底部地址欄</string>
-    <string name="address_menu">地址欄菜單</string>
+    <string name="address_pos">顯示搜索欄</string>
+    <string name="bot_input">底部搜索欄</string>
+    <string name="address_menu">搜索欄菜單</string>
     <string name="show_tab_bar">顯示分頁欄</string>
     <string name="tab_swipe_up">向上滑動分頁欄</string>
     <string name="tab_swipe_dn">向下滑動標籤欄</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">電源模式</string>
     <string name="ads_power_info">某些內容可能不會顯示</string>
     <string name="search_suggest">搜索建議</string>
+    <string name="at_top">在上面</string>
     <string name="at_bottom">在底部</string>
     <string name="guide_menu">長按圖標可編輯菜單</string>
     <string name="clean_data_info">累積過時的數據可能會降低瀏覽器的速度\n定期清理數據是一個好主意</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">弱</string>
     <string name="open_limit">開倉限制</string>
     <string name="down_manager">下載管理器</string>
+    <string name="down_manager_info1">您可以將自己喜歡的下載器應用程序用作下載管理器</string>
+    <string name="down_manager_info2">下載大文件時，瀏覽器可能會變慢</string>
+    <string name="down_manager_info3">通過分離瀏覽器和下載，您可以更快地上網</string>
     <string name="other_app">其他應用</string>
     <string name="web_title">網頁</string>
     <string name="color_title">顏色</string>
     <string name="no_icon">沒有圖標</string>
+    <string name="video_player">播放器</string>
 </resources>

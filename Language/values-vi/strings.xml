@@ -381,9 +381,9 @@
     <string name="gesture">Cử chỉ</string>
     <string name="show_status">Thanh trạng thái chương trình</string>
     <string name="show_navi">Hiển thị phím mềm</string>
-    <string name="address_pos">Hiển thị thanh địa chỉ</string>
-    <string name="bot_input">Thanh địa chỉ dưới cùng</string>
-    <string name="address_menu">Menu thanh địa chỉ</string>
+    <string name="address_pos">Thanh tìm kiếm</string>
+    <string name="bot_input">Thanh tìm kiếm dưới cùng</string>
+    <string name="address_menu">Menu thanh tìm kiếm</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
     <string name="tab_swipe_up">Vuốt thanh tab lên</string>
     <string name="tab_swipe_dn">Vuốt thanh tab xuống</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Chế độ năng lượng</string>
     <string name="ads_power_info">Một số nội dung có thể không được hiển thị.</string>
     <string name="search_suggest">Đề xuất tìm kiếm</string>
+    <string name="at_top">Ở trên cùng</string>
     <string name="at_bottom">Ở dưới cùng</string>
     <string name="guide_menu">Nhấn và giữ biểu tượng để chỉnh sửa menu.</string>
     <string name="clean_data_info">Tích lũy dữ liệu cũ có thể làm chậm trình duyệt của bạn.\nBạn nên dọn dẹp dữ liệu của mình theo định kỳ.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Yếu</string>
     <string name="open_limit">Mở giới hạn</string>
     <string name="down_manager">Quản lý download</string>
+    <string name="down_manager_info1">Bạn có thể sử dụng ứng dụng trình tải xuống yêu thích của mình làm trình quản lý tải xuống.</string>
+    <string name="down_manager_info2">Trình duyệt của bạn có thể chậm khi tải xuống các tệp lớn.</string>
+    <string name="down_manager_info3">Bạn có thể lướt web nhanh hơn bằng cách tách trình duyệt và tải xuống.</string>
     <string name="other_app">Những ứng dụng khác</string>
     <string name="web_title">Web</string>
     <string name="color_title">Màu sắc</string>
     <string name="no_icon">Không có biểu tượng.</string>
+    <string name="video_player">Người chơi</string>
 </resources>

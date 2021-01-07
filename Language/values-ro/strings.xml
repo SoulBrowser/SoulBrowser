@@ -381,9 +381,9 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Afișează bara de stare</string>
     <string name="show_navi">Afișează tasta soft</string>
-    <string name="address_pos">Afișați bara de adrese</string>
-    <string name="bot_input">Bara de adrese de jos</string>
-    <string name="address_menu">Meniul barei de adrese</string>
+    <string name="address_pos">Bara de căutare</string>
+    <string name="bot_input">Bara de căutare din partea de jos</string>
+    <string name="address_menu">Meniul barei de căutare</string>
     <string name="show_tab_bar">Afișează bara de file</string>
     <string name="tab_swipe_up">Glisați în sus bara de file</string>
     <string name="tab_swipe_dn">Glisați în jos pe bara de file</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Mod de alimentare</string>
     <string name="ads_power_info">Este posibil ca un anumit conținut să nu fie afișat.</string>
     <string name="search_suggest">Sugestii de căutare</string>
+    <string name="at_top">În vârf</string>
     <string name="at_bottom">În partea de jos</string>
     <string name="guide_menu">Apăsați lung pictograma pentru a edita meniul.</string>
     <string name="clean_data_info">Acumularea de date vechi poate încetini browserul.\nEste o idee bună să vă curățați periodic datele.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Slab</string>
     <string name="open_limit">Limita de deschidere</string>
     <string name="down_manager">Administrator de descărcări</string>
+    <string name="down_manager_info1">Puteți utiliza aplicația dvs. preferată de descărcare ca manager de descărcare.</string>
+    <string name="down_manager_info2">Browserul dvs. poate fi lent atunci când descărcați fișiere mari.</string>
+    <string name="down_manager_info3">Puteți naviga pe web mai repede separând browserul și descărcările.</string>
     <string name="other_app">Alte aplicatii</string>
     <string name="web_title">Web</string>
     <string name="color_title">Culoare</string>
     <string name="no_icon">Nu există nicio pictogramă.</string>
+    <string name="video_player">Jucător</string>
 </resources>

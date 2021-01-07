@@ -381,9 +381,9 @@
     <string name="gesture">Geste</string>
     <string name="show_status">Afficher la barre état</string>
     <string name="show_navi">Afficher la touche programmable</string>
-    <string name="address_pos">Afficher la barre d\'adresse</string>
-    <string name="bot_input">Barre d\'adresse inférieure</string>
-    <string name="address_menu">Menu de la barre d\'adresse</string>
+    <string name="address_pos">Barre de recherche</string>
+    <string name="bot_input">Barre de recherche inférieure</string>
+    <string name="address_menu">Menu de la barre de recherche</string>
     <string name="show_tab_bar">Afficher la barre d\'onglets</string>
     <string name="tab_swipe_up">Faites glisser la barre d\'onglets vers le haut</string>
     <string name="tab_swipe_dn">Faites glisser la barre d\'onglets vers le bas</string>
@@ -714,6 +714,7 @@
     <string name="ads_power">Mode puissance</string>
     <string name="ads_power_info">Certains contenus peuvent ne pas être affichés.</string>
     <string name="search_suggest">Suggestions de recherche</string>
+    <string name="at_top">Au sommet</string>
     <string name="at_bottom">Au fond</string>
     <string name="guide_menu">Appuyez longuement sur l\'icône pour modifier le menu.</string>
     <string name="clean_data_info">L\'accumulation de données périmées peut ralentir votre navigateur.\nC\'est une bonne idée de nettoyer régulièrement vos données.</string>
@@ -786,8 +787,12 @@
     <string name="level_weak">Faible</string>
     <string name="open_limit">Limite ouverte</string>
     <string name="down_manager">Gestionnaire de téléchargement</string>
+    <string name="down_manager_info1">Vous pouvez utiliser votre application de téléchargement préférée comme gestionnaire de téléchargement.</string>
+    <string name="down_manager_info2">Votre navigateur peut être lent lors du téléchargement de fichiers volumineux.</string>
+    <string name="down_manager_info3">Vous pouvez surfer plus rapidement sur le Web en séparant votre navigateur et vos téléchargements.</string>
     <string name="other_app">Autres applications</string>
     <string name="web_title">La toile</string>
     <string name="color_title">Couleur</string>
     <string name="no_icon">Il n\'y a pas d\'icône.</string>
+    <string name="video_player">Joueur</string>
 </resources>
