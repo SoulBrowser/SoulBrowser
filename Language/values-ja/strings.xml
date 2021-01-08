@@ -92,7 +92,7 @@
     <string name="secret_mode">シークレットモード</string>
     <string name="normal_mode">ノーマルモード</string>
     <string name="normal_start">通常モードで実行</string>
-    <string name="secret_guide_1">シークレットモードでは、ショートカット、ブックマーク、パスワード、履歴、およびダウンロード履歴を別々に保存します。</string>
+    <string name="secret_guide_1">シークレットモードでは、ショートカット、ブックマーク、履歴、およびダウンロード履歴を別々に保存します。</string>
     <string name="secret_guide_2">履歴とダウンロード履歴を保存するかどうか、ロック画面を使用するかどうかを設定することができます。</string>
     <string name="secret_guide_3">Soul Browserは、ユーザーの個人情報を保護するために最善を尽くしています。</string>
     <string name="prev_page">前のページ</string>
@@ -146,10 +146,6 @@
     <string name="password">パスワード</string>
     <string name="input_password">パスワード入力</string>
     <string name="invalid_password">不正なパスワード</string>
-    <string name="password_save">パスワードを保存</string>
-    <string name="password_confirm">パスワードを保存しますか？</string>
-    <string name="password_info">通常モードとシークレットモードのパスワードを別々に保存します。</string>
-    <string name="password_lock">ロック画面を先に設定してください。\n個人情報保護のためです。</string>
     <string name="password_reset_guide">初期化すると、パスワードに関連するすべてのデータが削除されます。</string>
     <string name="canceling">キャンセル中&#8230;</string>
     <string name="checking">確認中&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">ジェスチャー</string>
     <string name="show_status">ステータスバーを表示</string>
     <string name="show_navi">ソフトキーを表示</string>
-    <string name="address_pos">検索バーを表示</string>
-    <string name="bot_input">下部の検索バー</string>
-    <string name="address_menu">検索バーメニュー</string>
+    <string name="address_pos">アドレスバーの表示</string>
+    <string name="bot_input">下部のアドレスバー</string>
+    <string name="address_menu">アドレスバーメニュー</string>
     <string name="show_tab_bar">タブバーを表示</string>
     <string name="tab_swipe_up">タブバー上スワイプ</string>
     <string name="tab_swipe_dn">タブバー下スワイプ</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">通常モードへのショートカットがありません。</string>
     <string name="import_no_book">通常モードではブックマークはありません。</string>
     <string name="import_no_history">通常モードには履歴はありません。</string>
-    <string name="import_no_password">通常モードにパスワードがありません。</string>
     <string name="keep_tab">タブを維持</string>
     <string name="keep_tab_info">通常モードに変更しても、シークレットタブが維持されます。</string>
     <string name="keep_login">ログインを維持</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">ホーム画面に追加</string>
     <string name="set_homepage">ホームページに設定</string>
     <string name="setted">設定されています。</string>
-    <string name="top_bar">上部バー</string>
     <string name="bottom_bar">下部バー</string>
     <string name="down_by_url">アドレスでダウンロード</string>
     <string name="only_twit">ツイッターのみがサポートされます。</string>

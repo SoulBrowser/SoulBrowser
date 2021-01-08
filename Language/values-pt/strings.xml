@@ -92,7 +92,7 @@
     <string name="secret_mode">Modo incógnito</string>
     <string name="normal_mode">Modo normal</string>
     <string name="normal_start">Executar no modo normal</string>
-    <string name="secret_guide_1">O modo de navegação anônima armazena seus atalhos, favoritos, senha, histórico e downloads separadamente.</string>
+    <string name="secret_guide_1">O modo de navegação anônima armazena seus atalhos, favoritos, histórico e downloads separadamente.</string>
     <string name="secret_guide_2">Você pode definir se seu histórico e downloads são salvos e se usa a tela de bloqueio.</string>
     <string name="secret_guide_3">O Soul Browser está comprometido em proteger sua privacidade.</string>
     <string name="prev_page">Anterior página</string>
@@ -146,10 +146,6 @@
     <string name="password">Senha</string>
     <string name="input_password">Entrada senha</string>
     <string name="invalid_password">Senha inválida</string>
-    <string name="password_save">Salvar senha</string>
-    <string name="password_confirm">Deseja salvar sua senha?</string>
-    <string name="password_info">Armazena senhas no modo normal e no modo de navegação anônima separadamente.</string>
-    <string name="password_lock">Primeiro, configure uma tela de bloqueio.\nIsto é para sua privacidade.</string>
     <string name="password_reset_guide">A redefinição apagará todos os dados associados à senha.</string>
     <string name="canceling">Cancelar&#8230;</string>
     <string name="checking">Verificar&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Gesto</string>
     <string name="show_status">Mostrar barra status</string>
     <string name="show_navi">Mostrar tecla programável</string>
-    <string name="address_pos">Barra de pesquisa</string>
-    <string name="bot_input">Barra de pesquisa inferior</string>
-    <string name="address_menu">Menu da barra de pesquisas</string>
+    <string name="address_pos">Mostrar barra de endereço</string>
+    <string name="bot_input">Barra de endereço inferior</string>
+    <string name="address_menu">Menu da barra de endereços</string>
     <string name="show_tab_bar">Mostrar barra de separadores</string>
     <string name="tab_swipe_up">Deslize para cima a barra de guias</string>
     <string name="tab_swipe_dn">Deslize para baixo na barra de guias</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">Não há atalhos no modo normal.</string>
     <string name="import_no_book">Não há favoritos no modo normal.</string>
     <string name="import_no_history">Não há histórico no modo normal.</string>
-    <string name="import_no_password">Não há senha no modo normal.</string>
     <string name="keep_tab">Manter separadores</string>
     <string name="keep_tab_info">Guias anônimas são mantidas quando você muda para o modo normal.</string>
     <string name="keep_login">Mantenha se conectado</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Adicionar à tela inicial</string>
     <string name="set_homepage">Definir como página inicial</string>
     <string name="setted">Foi definido.</string>
-    <string name="top_bar">Barra superior</string>
     <string name="bottom_bar">Barra inferior</string>
     <string name="down_by_url">Download por endereço</string>
     <string name="only_twit">Somente o Twitter é suportado.</string>

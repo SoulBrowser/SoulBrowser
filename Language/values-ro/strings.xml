@@ -92,7 +92,7 @@
     <string name="secret_mode">Modul Incognito</string>
     <string name="normal_mode">Mod normal</string>
     <string name="normal_start">Se execută în modul normal</string>
-    <string name="secret_guide_1">Modul Incognito vă stochează scurtăturile, marcajele, parolele, istoricul și descărcările separat.</string>
+    <string name="secret_guide_1">Modul Incognito vă stochează scurtăturile, marcajele, istoricul și descărcările separat.</string>
     <string name="secret_guide_2">Puteți seta dacă istoricul și descărcările dvs. sunt salvate și dacă utilizați ecranul de blocare.</string>
     <string name="secret_guide_3">Soul Browser se angajează să vă protejeze confidențialitatea.</string>
     <string name="prev_page">Pagina înapoi</string>
@@ -146,10 +146,6 @@
     <string name="password">Parolă</string>
     <string name="input_password">Introduceți parola</string>
     <string name="invalid_password">Parolă nevalidă</string>
-    <string name="password_save">Salvare parolă</string>
-    <string name="password_confirm">Doriți să vă salvați parola?</string>
-    <string name="password_info">Stochează separat parolele în modul normal și modul incognito separat.</string>
-    <string name="password_lock">Vă rugăm să configurați mai întâi un ecran de blocare.\nAcest lucru este pentru confidențialitatea dvs.</string>
     <string name="password_reset_guide">Resetarea va șterge toate datele asociate cu parola.</string>
     <string name="canceling">Anulare&#8230;</string>
     <string name="checking">Verificare&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Afișează bara de stare</string>
     <string name="show_navi">Afișează tasta soft</string>
-    <string name="address_pos">Bara de căutare</string>
-    <string name="bot_input">Bara de căutare din partea de jos</string>
-    <string name="address_menu">Meniul barei de căutare</string>
+    <string name="address_pos">Afișați bara de adrese</string>
+    <string name="bot_input">Bara de adrese de jos</string>
+    <string name="address_menu">Meniul barei de adrese</string>
     <string name="show_tab_bar">Afișează bara de file</string>
     <string name="tab_swipe_up">Glisați în sus bara de file</string>
     <string name="tab_swipe_dn">Glisați în jos pe bara de file</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">Nu există nicio scurtătură în modul normal.</string>
     <string name="import_no_book">Nu există marcaj în mod normal.</string>
     <string name="import_no_history">Nu există istoric în modul normal.</string>
-    <string name="import_no_password">Nu există nicio parolă în modul normal.</string>
     <string name="keep_tab">Mențineți filele</string>
     <string name="keep_tab_info">Filele de incognito sunt păstrate atunci când treceți la modul normal.</string>
     <string name="keep_login">Continuați conectarea</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Adăugare la ecranul principal</string>
     <string name="set_homepage">Setați ca pagină de pornire</string>
     <string name="setted">A fost setat.</string>
-    <string name="top_bar">Bara de sus</string>
     <string name="bottom_bar">Bara de jos</string>
     <string name="down_by_url">Descărcați prin adresă</string>
     <string name="only_twit">Doar Twitter este acceptat.</string>

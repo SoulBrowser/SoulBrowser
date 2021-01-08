@@ -92,7 +92,7 @@
     <string name="secret_mode">Inkognito Modus</string>
     <string name="normal_mode">Normaler Modus</string>
     <string name="normal_start">Im normalen Modus ausführen</string>
-    <string name="secret_guide_1">Im Inkognito Modus werden ihre Verknüpfungen, Lesezeichen, Passwörter, der Browserverlauf und die Downloads separat gespeichert.</string>
+    <string name="secret_guide_1">Im Inkognito Modus werden ihre Verknüpfungen, Lesezeichen, der Browserverlauf und die Downloads separat gespeichert.</string>
     <string name="secret_guide_2">Sie können festlegen, ob ihr Verlauf und ihre Downloads gespeichert werden und ob Sie den Sperrbildschirm verwenden.</string>
     <string name="secret_guide_3">Soul Browser verpflichtet sich, ihre Privatsphäre zu schützen.</string>
     <string name="prev_page">Vorherige Seite</string>
@@ -146,10 +146,6 @@
     <string name="password">Passwort</string>
     <string name="input_password">Passwort eingeben</string>
     <string name="invalid_password">Ungültiges Passwort</string>
-    <string name="password_save">Passwort speichern</string>
-    <string name="password_confirm">Möchten Sie ihr Passwort speichern?</string>
-    <string name="password_info">Speichert Passwörter im normalen Modus und im Inkognito Modus separat.</string>
-    <string name="password_lock">Bitte richten Sie zuerst einen Sperrbildschirm ein.\nDies dient ihrer Privatsphäre.</string>
     <string name="password_reset_guide">Durch das Zurücksetzen werden alle mit dem Kennwort verknüpften Daten gelöscht.</string>
     <string name="canceling">Abbrechen&#8230;</string>
     <string name="checking">Überprüfung&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Gesten</string>
     <string name="show_status">Statusleiste anzeigen</string>
     <string name="show_navi">Navigationsleiste anzeigen</string>
-    <string name="address_pos">Suchleiste</string>
-    <string name="bot_input">Untere Suchleiste</string>
-    <string name="address_menu">Suchleistenmenü</string>
+    <string name="address_pos">Adressleiste anzeigen</string>
+    <string name="bot_input">Untere Adressleiste</string>
+    <string name="address_menu">Adressleistenmenü</string>
     <string name="show_tab_bar">Tableiste anzeigen</string>
     <string name="tab_swipe_up">Wischen Sie die Registerkartenleiste nach oben</string>
     <string name="tab_swipe_dn">Wischen Sie über die Registerkartenleiste</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">Im normalen Modus gibt es keine Verknüpfungen.</string>
     <string name="import_no_book">Im normalen Modus ist kein Lesezeichen vorhanden.</string>
     <string name="import_no_history">Im normalen Modus gibt es keinen Verlauf.</string>
-    <string name="import_no_password">Im normalen Modus gibt es kein Passwort.</string>
     <string name="keep_tab">Tab-Übersicht behalten</string>
     <string name="keep_tab_info">Inkognito-Registerkarten bleiben erhalten, wenn Sie in den normalen Modus wechseln.</string>
     <string name="keep_login">Eingeloggt bleiben</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Zum Startbildschirm hinzufügen</string>
     <string name="set_homepage">Als Startseite festlegen</string>
     <string name="setted">Wurde festgelegt.</string>
-    <string name="top_bar">Obere Leiste</string>
     <string name="bottom_bar">Untere Leiste</string>
     <string name="down_by_url">Download nach Adresse</string>
     <string name="only_twit">Es wird nur Twitter unterstützt.</string>

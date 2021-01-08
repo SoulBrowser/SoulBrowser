@@ -92,7 +92,7 @@
     <string name="secret_mode">Modo incognito</string>
     <string name="normal_mode">Modo normal</string>
     <string name="normal_start">Ejecutar en modo normal</string>
-    <string name="secret_guide_1">El modo incógnito almacena sus acceso directo, marcadores, contraseña, historial y descargas por separado.</string>
+    <string name="secret_guide_1">El modo incógnito almacena sus acceso directo, marcadores, historial y descargas por separado.</string>
     <string name="secret_guide_2">Puede configurar si su historial y descargas se guardan, y si usa la pantalla de bloqueo.</string>
     <string name="secret_guide_3">Soul Browser se compromete a proteger su privacidad.</string>
     <string name="prev_page">Anterior página</string>
@@ -146,10 +146,6 @@
     <string name="password">Contraseña</string>
     <string name="input_password">Introducir contraseña</string>
     <string name="invalid_password">Contraseña invalida</string>
-    <string name="password_save">Guardar contraseña</string>
-    <string name="password_confirm">¿Quieres guardar tu contraseña?</string>
-    <string name="password_info">Almacena las contraseñas en modo normal y modo incógnito por separado.</string>
-    <string name="password_lock">Primero configure una pantalla de bloqueo.\nEsto es para tu privacidad.</string>
     <string name="password_reset_guide">El restablecimiento borrará todos los datos asociados con la contraseña.</string>
     <string name="canceling">Cancelado&#8230;</string>
     <string name="checking">Comprobación&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Gesto</string>
     <string name="show_status">Mostrar barra estado</string>
     <string name="show_navi">Mostrar tecla programable</string>
-    <string name="address_pos">Barra de búsqueda</string>
-    <string name="bot_input">Barra de búsqueda inferior</string>
-    <string name="address_menu">Menú de la barra de búsqueda</string>
+    <string name="address_pos">Mostrar barra de direcciones</string>
+    <string name="bot_input">Barra de direcciones inferior</string>
+    <string name="address_menu">Menú de la barra de direcciones</string>
     <string name="show_tab_bar">Mostrar barra de pestañas</string>
     <string name="tab_swipe_up">Desliza hacia arriba la barra de pestañas</string>
     <string name="tab_swipe_dn">Desliza hacia abajo la barra de pestañas</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">No hay acceso directo en modo normal.</string>
     <string name="import_no_book">No hay marcador en modo normal.</string>
     <string name="import_no_history">No hay historial en modo normal.</string>
-    <string name="import_no_password">No hay contraseña en modo normal.</string>
     <string name="keep_tab">Mantener pestañas</string>
     <string name="keep_tab_info">Las pestañas de incógnito se retienen cuando cambia al modo normal.</string>
     <string name="keep_login">Mantente conectado</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Añadir a pantalla principal</string>
     <string name="set_homepage">Establecer como página de inicio</string>
     <string name="setted">Ha sido establecido.</string>
-    <string name="top_bar">Barra superior</string>
     <string name="bottom_bar">Barra inferior</string>
     <string name="down_by_url">Descargar por dirección</string>
     <string name="only_twit">Solo se admite Twitter.</string>

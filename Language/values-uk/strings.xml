@@ -92,7 +92,7 @@
     <string name="secret_mode">Режим анонімного перегляду</string>
     <string name="normal_mode">Нормальний режим</string>
     <string name="normal_start">Запуск у звичайному режимі</string>
-    <string name="secret_guide_1">Режим анонімного перегляду окремо зберігає ваші ярлики, закладки, паролі, історію та завантаження.</string>
+    <string name="secret_guide_1">Режим анонімного перегляду окремо зберігає ваші ярлики, закладки, історію та завантаження.</string>
     <string name="secret_guide_2">Ви можете вказати, чи будуть зберігатися Ваші історія і завантаження, а також чи використовувати екран блокування.</string>
     <string name="secret_guide_3">Браузер Soul зобов\'язуеться захищати Вашу конфіденційність.</string>
     <string name="prev_page">Попередня сторінка</string>
@@ -146,10 +146,6 @@
     <string name="password">Пароль</string>
     <string name="input_password">Введіть пароль</string>
     <string name="invalid_password">Неправильний пароль</string>
-    <string name="password_save">Зберегти пароль</string>
-    <string name="password_confirm">Ви хочете зберегти свій пароль?</string>
-    <string name="password_info">Зберігає паролі в звичайному режимі та таємному режимі окремо.</string>
-    <string name="password_lock">Спершу налаштуйте заблокований екран.\nЦе для вашої конфіденційності.</string>
     <string name="password_reset_guide">Перезавантаження скине всі дані, пов\'язані з паролем.</string>
     <string name="canceling">Скасування&#8230;</string>
     <string name="checking">Перевірка&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Жест</string>
     <string name="show_status">Показати рядок стану</string>
     <string name="show_navi">Показати програмну клавішу</string>
-    <string name="address_pos">Рядок пошуку</string>
-    <string name="bot_input">Нижній рядок пошуку</string>
-    <string name="address_menu">Меню рядка пошуку</string>
+    <string name="address_pos">Показати адресний рядок</string>
+    <string name="bot_input">Нижній адресний рядок</string>
+    <string name="address_menu">Меню адресного рядка</string>
     <string name="show_tab_bar">Показувати панель вкладок</string>
     <string name="tab_swipe_up">Проведіть пальцем по вкладці вгору</string>
     <string name="tab_swipe_dn">Проведіть вниз по панелі вкладок</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">Немає ярлика в звичайному режимі.</string>
     <string name="import_no_book">У звичайному режимі закладки немає.</string>
     <string name="import_no_history">У звичайному режимі немає історії.</string>
-    <string name="import_no_password">У звичайному режимі немає пароля.</string>
     <string name="keep_tab">Зберегти вкладки</string>
     <string name="keep_tab_info">Вкладки режиму анонімного перегляду зберігаються, коли ви переходите на звичайний режим.</string>
     <string name="keep_login">Увійти в систему</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Додати на головний екран</string>
     <string name="set_homepage">Встановити як домашню сторінку</string>
     <string name="setted">Встановлено.</string>
-    <string name="top_bar">Верхня панель</string>
     <string name="bottom_bar">Нижня панель</string>
     <string name="down_by_url">Завантажити за адресою</string>
     <string name="only_twit">Підтримується лише Twitter.</string>

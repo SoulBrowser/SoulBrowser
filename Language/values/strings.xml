@@ -92,7 +92,7 @@
     <string name="secret_mode">Incognito mode</string>
     <string name="normal_mode">Normal mode</string>
     <string name="normal_start">Run in normal mode</string>
-    <string name="secret_guide_1">Incognito mode stores your shortcuts, bookmarks, passwords, history and downloads separately.</string>
+    <string name="secret_guide_1">Incognito mode stores your shortcuts, bookmarks, history and downloads separately.</string>
     <string name="secret_guide_2">You can set whether your history and downloads are saved, and whether you use the lock screen.</string>
     <string name="secret_guide_3">Soul Browser is committed to protecting your privacy.</string>
     <string name="prev_page">Back page</string>
@@ -146,10 +146,6 @@
     <string name="password">Password</string>
     <string name="input_password">Enter password</string>
     <string name="invalid_password">Invalid password</string>
-    <string name="password_save">Save Password</string>
-    <string name="password_confirm">Do you want to save your password?</string>
-    <string name="password_info">Stores passwords in normal mode and incognito mode separately.</string>
-    <string name="password_lock">Please set up a lock screen first.\nThis is for your privacy.</string>
     <string name="password_reset_guide">Resetting will delete all data associated with the password.</string>
     <string name="canceling">Canceling&#8230;</string>
     <string name="checking">Checking&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Show status bar</string>
     <string name="show_navi">Show soft key</string>
-    <string name="address_pos">Show search bar</string>
-    <string name="bot_input">Bottom search bar</string>
-    <string name="address_menu">Search bar menu</string>
+    <string name="address_pos">Show address bar</string>
+    <string name="bot_input">Bottom address bar</string>
+    <string name="address_menu">Address bar menu</string>
     <string name="show_tab_bar">Show tab bar</string>
     <string name="tab_swipe_up">Swipe up tab bar</string>
     <string name="tab_swipe_dn">Swipe down tab bar</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">There is no shortcut in normal mode.</string>
     <string name="import_no_book">There is no bookmark in normal mode.</string>
     <string name="import_no_history">There is no history in normal mode.</string>
-    <string name="import_no_password">There is no password in normal mode.</string>
     <string name="keep_tab">Keep tabs</string>
     <string name="keep_tab_info">Incognito tabs are retained when you change to normal mode.</string>
     <string name="keep_login">Keep logged in</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Add to home screen</string>
     <string name="set_homepage">Set as homepage</string>
     <string name="setted">Has been set.</string>
-    <string name="top_bar">Top bar</string>
     <string name="bottom_bar">Bottom bar</string>
     <string name="down_by_url">Download by address</string>
     <string name="only_twit">Only Twitter is supported.</string>

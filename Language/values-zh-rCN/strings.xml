@@ -92,7 +92,7 @@
     <string name="secret_mode">无痕模式</string>
     <string name="normal_mode">正常模式</string>
     <string name="normal_start">以正常模式运行</string>
-    <string name="secret_guide_1">无痕模式区分管理快捷方式，书签，密码，历史记录和下载。</string>
+    <string name="secret_guide_1">无痕模式区分管理快捷方式，书签，历史记录和下载。</string>
     <string name="secret_guide_2">你可以设置是否保存历史记录和下载内容，以及是否使用锁屏。</string>
     <string name="secret_guide_3">Soul Browser 致力于保护你的隐私。</string>
     <string name="prev_page">上一页</string>
@@ -146,10 +146,6 @@
     <string name="password">密码</string>
     <string name="input_password">输入密码</string>
     <string name="invalid_password">密码无效</string>
-    <string name="password_save">保存密码</string>
-    <string name="password_confirm">你要保存密码吗？</string>
-    <string name="password_info">分别在正常模式和无痕模式下存储密码</string>
-    <string name="password_lock">请先设置锁定屏幕\n这是为了保护你的隐私</string>
     <string name="password_reset_guide">重置将清除与密码关联的所有数据</string>
     <string name="canceling">取消&#8230;</string>
     <string name="checking">检查中&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">手势</string>
     <string name="show_status">显示状态栏</string>
     <string name="show_navi">显示软键</string>
-    <string name="address_pos">顯示搜索栏</string>
-    <string name="bot_input">底部搜索栏</string>
-    <string name="address_menu">搜索栏菜单</string>
+    <string name="address_pos">显示地址栏</string>
+    <string name="bot_input">底部地址栏</string>
+    <string name="address_menu">地址栏菜单</string>
     <string name="show_tab_bar">标签栏显示</string>
     <string name="tab_swipe_up">上划标签栏</string>
     <string name="tab_swipe_dn">下划标签栏</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">正常模式下没有快捷方式</string>
     <string name="import_no_book">正常模式下没有书签</string>
     <string name="import_no_history">正常模式下没有历史记录</string>
-    <string name="import_no_password">正常模式下没有密码</string>
     <string name="keep_tab">保留标签</string>
     <string name="keep_tab_info">当你更改为正常模式时，无痕标签会保留</string>
     <string name="keep_login">保持登录状态</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">添加到主屏幕</string>
     <string name="set_homepage">设为主页</string>
     <string name="setted">已设置</string>
-    <string name="top_bar">顶栏</string>
     <string name="bottom_bar">底栏</string>
     <string name="down_by_url">链接下载</string>
     <string name="only_twit">仅支持 Twitter</string>

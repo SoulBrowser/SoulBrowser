@@ -92,7 +92,7 @@
     <string name="secret_mode">Chế độ ẩn danh</string>
     <string name="normal_mode">Chế độ bình thường</string>
     <string name="normal_start">Chạy ở chế độ bình thường</string>
-    <string name="secret_guide_1">Chế độ ẩn danh lưu trữ các phím tắt, dấu trang, mật khẩu, lịch sử và tải xuống riêng biệt.</string>
+    <string name="secret_guide_1">Chế độ ẩn danh lưu trữ các phím tắt, dấu trang, lịch sử và tải xuống riêng biệt.</string>
     <string name="secret_guide_2">Bạn có thể đặt liệu lịch sử và các bản tải xuống của bạn có được lưu hay không và liệu bạn có sử dụng màn hình khóa hay không.</string>
     <string name="secret_guide_3">Soul Browser cam kết bảo vệ sự riêng tư của bạn.</string>
     <string name="prev_page">Trang trước</string>
@@ -146,10 +146,6 @@
     <string name="password">Mật khẩu</string>
     <string name="input_password">Nhập mật khẩu</string>
     <string name="invalid_password">Mật khẩu không hợp lệ</string>
-    <string name="password_save">Lưu mật khẩu</string>
-    <string name="password_confirm">Bạn có muốn lưu mật khẩu của bạn?</string>
-    <string name="password_info">Lưu trữ mật khẩu ở chế độ bình thường và chế độ ẩn danh riêng biệt.</string>
-    <string name="password_lock">Vui lòng thiết lập màn hình khóa trước.\nĐiều này là cho sự riêng tư của bạn.</string>
     <string name="password_reset_guide">Đặt lại sẽ xóa tất cả dữ liệu liên quan đến mật khẩu.</string>
     <string name="canceling">Hủy&#8230;</string>
     <string name="checking">Kiểm tra&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Cử chỉ</string>
     <string name="show_status">Thanh trạng thái chương trình</string>
     <string name="show_navi">Hiển thị phím mềm</string>
-    <string name="address_pos">Thanh tìm kiếm</string>
-    <string name="bot_input">Thanh tìm kiếm dưới cùng</string>
-    <string name="address_menu">Menu thanh tìm kiếm</string>
+    <string name="address_pos">Hiển thị thanh địa chỉ</string>
+    <string name="bot_input">Thanh địa chỉ dưới cùng</string>
+    <string name="address_menu">Menu thanh địa chỉ</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
     <string name="tab_swipe_up">Vuốt thanh tab lên</string>
     <string name="tab_swipe_dn">Vuốt thanh tab xuống</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">Không có phím tắt trong chế độ bình thường.</string>
     <string name="import_no_book">Không có dấu trang trong chế độ bình thường.</string>
     <string name="import_no_history">Không có lịch sử trong chế độ bình thường.</string>
-    <string name="import_no_password">Không có mật khẩu trong chế độ bình thường.</string>
     <string name="keep_tab">Giữ các tab</string>
     <string name="keep_tab_info">Các tab ẩn danh được giữ lại khi bạn thay đổi sang chế độ bình thường.</string>
     <string name="keep_login">Tiếp tục đăng nhập</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Thêm vào màn hình chính</string>
     <string name="set_homepage">Đặt làm trang chủ</string>
     <string name="setted">Đã được thiết lập.</string>
-    <string name="top_bar">Thanh trên cùng</string>
     <string name="bottom_bar">Thanh dưới cùng</string>
     <string name="down_by_url">Tải xuống theo địa chỉ</string>
     <string name="only_twit">Chỉ có Twitter được hỗ trợ.</string>

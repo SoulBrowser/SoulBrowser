@@ -92,7 +92,7 @@
     <string name="secret_mode">Режим инкогнито</string>
     <string name="normal_mode">Нормальный режим</string>
     <string name="normal_start">Запустить в обычном режиме</string>
-    <string name="secret_guide_1">Режим инкогнито хранит ваши ярлыки, закладки, пароли, историю и загрузки отдельно.</string>
+    <string name="secret_guide_1">Режим инкогнито хранит ваши ярлыки, закладки, историю и загрузки отдельно.</string>
     <string name="secret_guide_2">Вы можете указать, будут ли сохраняться Ваши история и загрузки, а также использовать ли экран блокировки.</string>
     <string name="secret_guide_3">Soul Browser обязуется защищать вашу конфиденциальность.</string>
     <string name="prev_page">Предыдущая страница</string>
@@ -146,10 +146,6 @@
     <string name="password">Пароль</string>
     <string name="input_password">Введите пароль</string>
     <string name="invalid_password">Неверный пароль</string>
-    <string name="password_save">Сохранить пароль</string>
-    <string name="password_confirm">Вы хотите сохранить свой пароль?</string>
-    <string name="password_info">Сохраняет пароли в обычном режиме и режиме инкогнито отдельно.</string>
-    <string name="password_lock">Пожалуйста, сначала настройте экран блокировки.\nЭто для вашей конфиденциальности.</string>
     <string name="password_reset_guide">Сброс удалит все данные, связанные с паролем.</string>
     <string name="canceling">Отмена&#8230;</string>
     <string name="checking">Проверка&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Жесты</string>
     <string name="show_status">Показать строку состояния</string>
     <string name="show_navi">Показать программную клавишу</string>
-    <string name="address_pos">Панель поиска</string>
-    <string name="bot_input">Нижняя панель поиска</string>
-    <string name="address_menu">Меню панели поиска</string>
+    <string name="address_pos">Показать адресную строку</string>
+    <string name="bot_input">Нижняя адресная строка</string>
+    <string name="address_menu">Меню адресной строки</string>
     <string name="show_tab_bar">Показать панель вкладок</string>
     <string name="tab_swipe_up">Проведите вверх по панели вкладок</string>
     <string name="tab_swipe_dn">Проведите вниз по панели вкладок</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">В обычном режиме ярлыки отсутствуют.</string>
     <string name="import_no_book">В обычном режиме нет закладки.</string>
     <string name="import_no_history">В обычном режиме истории нет.</string>
-    <string name="import_no_password">Отсутствует пароль в обычном режиме.</string>
     <string name="keep_tab">Держать вкладки</string>
     <string name="keep_tab_info">Вкладки инкогнито сохраняются при переходе в обычный режим.</string>
     <string name="keep_login">Войдите в систему</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Добавить на домашний экран</string>
     <string name="set_homepage">Установить в качестве домашней страницы</string>
     <string name="setted">Установлено.</string>
-    <string name="top_bar">Верхняя панель</string>
     <string name="bottom_bar">Нижний бар</string>
     <string name="down_by_url">Скачать по адресу</string>
     <string name="only_twit">Поддерживается только Twitter.</string>

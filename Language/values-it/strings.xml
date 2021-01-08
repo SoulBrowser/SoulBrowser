@@ -92,7 +92,7 @@
     <string name="secret_mode">Modalità incognito</string>
     <string name="normal_mode">Modalità normale</string>
     <string name="normal_start">Esegui in modalità normale</string>
-    <string name="secret_guide_1">La modalità di navigazione in incognito memorizza le scorciatoie, i segnalibri, parola ordine, la cronologia e i download separatamente.</string>
+    <string name="secret_guide_1">La modalità di navigazione in incognito memorizza le scorciatoie, i segnalibri, la cronologia e i download separatamente.</string>
     <string name="secret_guide_2">Puoi impostare se salvare la cronologia e i download e utilizzare la schermata di blocco.</string>
     <string name="secret_guide_3">Soul Browser si impegna a proteggere la tua privacy.</string>
     <string name="prev_page">Pagina precedente</string>
@@ -146,10 +146,6 @@
     <string name="password">Parola ordine</string>
     <string name="input_password">Inserire la password</string>
     <string name="invalid_password">Password non valida</string>
-    <string name="password_save">Salva password</string>
-    <string name="password_confirm">Vuoi salvare la tua password?</string>
-    <string name="password_info">Memorizza le password in modalità normale e in incognito separatamente.</string>
-    <string name="password_lock">Si prega di impostare prima una schermata di blocco.\nQuesto è per la tua privacy.</string>
     <string name="password_reset_guide">Il ripristino cancellerà tutti i dati associati alla password.</string>
     <string name="canceling">Annullamento&#8230;</string>
     <string name="checking">Verifica&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Mimica</string>
     <string name="show_status">Mostra barra stato</string>
     <string name="show_navi">Mostra tasto funzione</string>
-    <string name="address_pos">Barra di ricerca</string>
-    <string name="bot_input">Barra di ricerca in basso</string>
-    <string name="address_menu">Menu della barra di ricerca</string>
+    <string name="address_pos">Mostra barra degli indirizzi</string>
+    <string name="bot_input">Barra degli indirizzi inferiore</string>
+    <string name="address_menu">Menu della barra degli indirizzi</string>
     <string name="show_tab_bar">Mostra barra delle schede</string>
     <string name="tab_swipe_up">Scorri verso l\'alto la barra delle schede</string>
     <string name="tab_swipe_dn">Scorri verso il basso la barra delle schede</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">Non ci sono scorciatoie in modalità normale.</string>
     <string name="import_no_book">Nessun preferiti in modalità normale.</string>
     <string name="import_no_history">Non c\'è cronologia in modalità normale.</string>
-    <string name="import_no_password">Non c\'è password in modalità normale.</string>
     <string name="keep_tab">Tieni d\'occhio</string>
     <string name="keep_tab_info">Le schede in incognito vengono mantenute quando si passa alla modalità normale.</string>
     <string name="keep_login">Mantieni l\'accesso</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Aggiungi alla schermata home</string>
     <string name="set_homepage">Imposta come pagina iniziale</string>
     <string name="setted">È stato impostato.</string>
-    <string name="top_bar">Barra superiore</string>
     <string name="bottom_bar">Barra inferiore</string>
     <string name="down_by_url">Scarica per indirizzo</string>
     <string name="only_twit">È supportato solo Twitter.</string>

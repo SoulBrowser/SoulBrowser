@@ -92,7 +92,7 @@
     <string name="secret_mode">Mode privée</string>
     <string name="normal_mode">Mode normal</string>
     <string name="normal_start">Exécuter en mode normal</string>
-    <string name="secret_guide_1">Le mode Incognito stocke vos raccourcis, vos signets, mot de passe, votre historique et vos téléchargements séparément.</string>
+    <string name="secret_guide_1">Le mode Incognito stocke vos raccourcis, vos signets, votre historique et vos téléchargements séparément.</string>
     <string name="secret_guide_2">Vous pouvez définir si votre historique et vos téléchargements sont enregistrés, et si vous utilisez l\'écran de verrouillage.</string>
     <string name="secret_guide_3">Soul Browser s\'engage à protéger votre vie privée.</string>
     <string name="prev_page">Page précédente</string>
@@ -146,10 +146,6 @@
     <string name="password">Mot de passe</string>
     <string name="input_password">Entrez le mot de passe</string>
     <string name="invalid_password">Mot de passe incorrect</string>
-    <string name="password_save">Enregistrer le mot de passe</string>
-    <string name="password_confirm">Voulez vous enregistrer votre mot de passe?</string>
-    <string name="password_info">Stocke les mots de passe en mode normal et en mode navigation privée séparément.</string>
-    <string name="password_lock">Veuillez d\'abord configurer un écran de verrouillage.\nC\'est pour votre intimité.</string>
     <string name="password_reset_guide">La réinitialisation effacera toutes les données associées au mot de passe.</string>
     <string name="canceling">Annulation&#8230;</string>
     <string name="checking">Vérification&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Geste</string>
     <string name="show_status">Afficher la barre état</string>
     <string name="show_navi">Afficher la touche programmable</string>
-    <string name="address_pos">Barre de recherche</string>
-    <string name="bot_input">Barre de recherche inférieure</string>
-    <string name="address_menu">Menu de la barre de recherche</string>
+    <string name="address_pos">Afficher la barre d\'adresse</string>
+    <string name="bot_input">Barre d\'adresse inférieure</string>
+    <string name="address_menu">Menu de la barre d\'adresse</string>
     <string name="show_tab_bar">Afficher la barre d\'onglets</string>
     <string name="tab_swipe_up">Faites glisser la barre d\'onglets vers le haut</string>
     <string name="tab_swipe_dn">Faites glisser la barre d\'onglets vers le bas</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">Il n\'y a pas de raccourcis en mode normal.</string>
     <string name="import_no_book">Il n\'y a pas de signet en mode normal.</string>
     <string name="import_no_history">Il n\'y a pas d\'historique en mode normal.</string>
-    <string name="import_no_password">Il n\'y a pas de mot de passe en mode normal.</string>
     <string name="keep_tab">Gardez les onglets</string>
     <string name="keep_tab_info">Les onglets de navigation privée sont conservés lorsque vous passez en mode normal.</string>
     <string name="keep_login">Restez connecté</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Ajouter à l\'écran d\'accueil</string>
     <string name="set_homepage">Définir comme page d\'accueil</string>
     <string name="setted">A été mis en.</string>
-    <string name="top_bar">Barre supérieure</string>
     <string name="bottom_bar">Barre inférieure</string>
     <string name="down_by_url">Télécharger par adresse</string>
     <string name="only_twit">Seul Twitter est pris en charge.</string>

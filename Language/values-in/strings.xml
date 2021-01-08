@@ -92,7 +92,7 @@
     <string name="secret_mode">Mode penyamaran</string>
     <string name="normal_mode">Mode normal</string>
     <string name="normal_start">Jalankan dalam mode normal</string>
-    <string name="secret_guide_1">Mode penyamaran menyimpan pintasan, bookmark, kata sandi, riwayat, dan unduhan Anda secara terpisah.</string>
+    <string name="secret_guide_1">Mode penyamaran menyimpan pintasan, bookmark, riwayat, dan unduhan Anda secara terpisah.</string>
     <string name="secret_guide_2">Anda dapat mengatur apakah riwayat dan unduhan Anda disimpan, dan apakah Anda menggunakan layar kunci.</string>
     <string name="secret_guide_3">Soul Browser berkomitmen untuk melindungi privasi Anda.</string>
     <string name="prev_page">Halaman belakang</string>
@@ -146,10 +146,6 @@
     <string name="password">Kata sandi</string>
     <string name="input_password">Masukkan kata sandi</string>
     <string name="invalid_password">Kata sandi tidak valid</string>
-    <string name="password_save">Simpan kata sandi</string>
-    <string name="password_confirm">Apakah anda ingin menyimpan kata sandi anda?</string>
-    <string name="password_info">Menyimpan kata sandi dalam mode normal dan mode penyamaran secara terpisah.</string>
-    <string name="password_lock">Harap atur layar kunci terlebih dahulu.\nIni untuk privasi Anda.</string>
     <string name="password_reset_guide">Pengaturan ulang akan menghapus semua data yang terkait dengan kata sandi.</string>
     <string name="canceling">Membatalkan&#8230;</string>
     <string name="checking">Memeriksa&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Tampilkan bilah status</string>
     <string name="show_navi">Tampilkan tombol lunak</string>
-    <string name="address_pos">Bilah pencarian</string>
-    <string name="bot_input">Bilah pencarian bawah</string>
-    <string name="address_menu">Menu bilah pencarian</string>
+    <string name="address_pos">Tampilkan bilah alamat</string>
+    <string name="bot_input">Bilah alamat bawah</string>
+    <string name="address_menu">Menu bilah alamat</string>
     <string name="show_tab_bar">Tampilkan bilah tab</string>
     <string name="tab_swipe_up">Geser bilah tab ke atas</string>
     <string name="tab_swipe_dn">Geser bilah tab ke bawah</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">Tidak ada pintas dalam mode normal.</string>
     <string name="import_no_book">Tidak ada bookmark dalam mode normal.</string>
     <string name="import_no_history">Tidak ada riwayat dalam mode normal.</string>
-    <string name="import_no_password">Tidak ada kata sandi dalam mode normal.</string>
     <string name="keep_tab">Tetap awasi</string>
     <string name="keep_tab_info">Tab penyamaran dipertahankan saat Anda beralih ke mode normal.</string>
     <string name="keep_login">Tetap masuk</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Tambahkan ke layar beranda</string>
     <string name="set_homepage">Setel sebagai homepage</string>
     <string name="setted">Telah di atur.</string>
-    <string name="top_bar">Bilah atas</string>
     <string name="bottom_bar">Bilah bawah</string>
     <string name="down_by_url">Unduh berdasarkan alamat</string>
     <string name="only_twit">Hanya Twitter yang didukung.</string>

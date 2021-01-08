@@ -92,7 +92,7 @@
     <string name="secret_mode">Gizli mod</string>
     <string name="normal_mode">Normal mod</string>
     <string name="normal_start">Normal modda çalıştır</string>
-    <string name="secret_guide_1">Gizli mod, kısayollarınızı, yer imlerinizi, sifre, geçmişinizi ve indirmelerinizi ayrı olarak saklar.</string>
+    <string name="secret_guide_1">Gizli mod, kısayollarınızı, yer imlerinizi, geçmişinizi ve indirmelerinizi ayrı olarak saklar.</string>
     <string name="secret_guide_2">Geçmişinizin ve indirmelerinizin kaydedilip kaydedilmeyeceğini ve kilit ekranını kullanıp kullanmayacağınızı ayarlayabilirsiniz.</string>
     <string name="secret_guide_3">Soul Browser gizliliğinizi korumayı taahhüt eder.</string>
     <string name="prev_page">Arka sayfa</string>
@@ -146,10 +146,6 @@
     <string name="password">Şifre</string>
     <string name="input_password">Şifreyi girin</string>
     <string name="invalid_password">Geçersiz şifre</string>
-    <string name="password_save">Parolayı kaydet</string>
-    <string name="password_confirm">Şifrenizi kaydetmek ister misiniz?</string>
-    <string name="password_info">Parolaları normal modda ve gizli modda ayrı olarak saklar.</string>
-    <string name="password_lock">Lütfen önce bir kilit ekranı ayarlayın.\nBu gizliliğiniz içindir.</string>
     <string name="password_reset_guide">Sıfırlama işlemi, parola ile ilişkili tüm verileri siler.</string>
     <string name="canceling">İptal&#8230;</string>
     <string name="checking">Kontrol etme&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Hareketleri</string>
     <string name="show_status">Durum çubuğunu göster</string>
     <string name="show_navi">Ekran tuşunu göster</string>
-    <string name="address_pos">Arama çubuğu</string>
-    <string name="bot_input">Alt arama çubuğu</string>
-    <string name="address_menu">Arama çubuğu menüsü</string>
+    <string name="address_pos">Adres çubuğunu göster</string>
+    <string name="bot_input">Alt adres çubuğu</string>
+    <string name="address_menu">Adres çubuğu menüsü</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
     <string name="tab_swipe_up">Sekme çubuğunu yukarı kaydırın</string>
     <string name="tab_swipe_dn">Sekme çubuğunu aşağı kaydırın</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">Normal modda kısayol yok.</string>
     <string name="import_no_book">Normal modda hiç yer imi yok.</string>
     <string name="import_no_history">Normal modda geçmiş yok.</string>
-    <string name="import_no_password">Normal modda şifre yoktur.</string>
     <string name="keep_tab">Sekmeleri sakla</string>
     <string name="keep_tab_info">Normal moda geçtiğinizde gizli sekmeler korunur.</string>
     <string name="keep_login">Giriş yapmaya devam et</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Ana ekrana ekle</string>
     <string name="set_homepage">Anasayfa olarak ayarla</string>
     <string name="setted">Ayarlandı.</string>
-    <string name="top_bar">Üst çubuk</string>
     <string name="bottom_bar">Alt çubuk</string>
     <string name="down_by_url">Adrese göre indir</string>
     <string name="only_twit">Yalnızca Twitter desteklenir.</string>

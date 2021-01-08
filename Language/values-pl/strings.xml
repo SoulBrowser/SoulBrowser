@@ -92,7 +92,7 @@
     <string name="secret_mode">Tryb incognito</string>
     <string name="normal_mode">Tryb normalny</string>
     <string name="normal_start">Uruchom w trybie normalnym</string>
-    <string name="secret_guide_1">Tryb incognito przechowuje osobno skróty, zakładki, hasła, historię i pliki do pobrania.</string>
+    <string name="secret_guide_1">Tryb incognito przechowuje osobno skróty, zakładki, historię i pliki do pobrania.</string>
     <string name="secret_guide_2">Możesz ustawić, czy twoja historia i pobrane pliki są zapisywane oraz czy używasz ekranu blokady.</string>
     <string name="secret_guide_3">Przeglądarka dusz jest zobowiązana do ochrony Twojej prywatności.</string>
     <string name="prev_page">Poprzednia strona</string>
@@ -146,10 +146,6 @@
     <string name="password">Hasło</string>
     <string name="input_password">Wpisz hasło</string>
     <string name="invalid_password">Nieprawidłowe hasło</string>
-    <string name="password_save">Zapisz hasło</string>
-    <string name="password_confirm">Czy chcesz zapisać swoje hasło?</string>
-    <string name="password_info">Przechowuje oddzielnie hasła w trybie normalnym i trybie incognito.</string>
-    <string name="password_lock">Najpierw skonfiguruj ekran blokady.\nTo dla twojej prywatności.</string>
     <string name="password_reset_guide">Zresetowanie spowoduje usunięcie wszystkich danych powiązanych z hasłem.</string>
     <string name="canceling">Anulowanie&#8230;</string>
     <string name="checking">Sprawdzanie&#8230;</string>
@@ -381,9 +377,9 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Pokaż pasek stanu</string>
     <string name="show_navi">Pokaż pasek przycisków</string>
-    <string name="address_pos">Pasek wyszukiwania</string>
-    <string name="bot_input">Dolny pasek wyszukiwania</string>
-    <string name="address_menu">Menu pasek wyszukiwania</string>
+    <string name="address_pos">Pokaż pasek adresu</string>
+    <string name="bot_input">Dolny pasek adresu</string>
+    <string name="address_menu">Menu paska adresu</string>
     <string name="show_tab_bar">Pokaż pasek kart</string>
     <string name="tab_swipe_up">Przesuń w górę pasek kart</string>
     <string name="tab_swipe_dn">Przeciągnij w dół pasek kart</string>
@@ -495,7 +491,6 @@
     <string name="import_no_quick">W trybie normalnym nie ma skrótu.</string>
     <string name="import_no_book">W trybie normalnym nie ma zakładki.</string>
     <string name="import_no_history">W trybie normalnym nie ma historii.</string>
-    <string name="import_no_password">W trybie normalnym nie ma hasła.</string>
     <string name="keep_tab">Trzymaj się</string>
     <string name="keep_tab_info">Karty incognito są zachowywane po przejściu do trybu normalnego.</string>
     <string name="keep_login">Nie wylogowuj się</string>
@@ -575,7 +570,6 @@
     <string name="add_homescreen">Dodaj do ekranu głównego</string>
     <string name="set_homepage">Ustaw jako stronę główną</string>
     <string name="setted">Ustawiono.</string>
-    <string name="top_bar">Górny pasek</string>
     <string name="bottom_bar">Dolny pasek</string>
     <string name="down_by_url">Pobierz według adresu</string>
     <string name="only_twit">Obsługiwany jest tylko Twitter.</string>
