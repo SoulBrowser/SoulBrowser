@@ -456,7 +456,7 @@
     <string name="touch_unlocked">触控解锁</string>
     <string name="app_lock">应用锁定</string>
     <string name="lock_type">锁定屏幕</string>
-    <string name="lock_only_secret">仅锁定隐身模式</string>
+    <string name="only_secret">仅适用于隐身模式</string>
     <string name="unlock">解锁</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">图案</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">添加到主屏幕</string>
     <string name="set_homepage">设为主页</string>
     <string name="setted">已设置</string>
+    <string name="top_bar">顶栏</string>
     <string name="bottom_bar">底栏</string>
     <string name="down_by_url">链接下载</string>
     <string name="only_twit">仅支持 Twitter</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">强力模式</string>
     <string name="ads_power_info">某些内容可能不会显示</string>
     <string name="search_suggest">搜索建议</string>
-    <string name="at_top">在上面</string>
     <string name="at_bottom">在底部</string>
     <string name="guide_menu">长按图标可编辑菜单</string>
     <string name="clean_data_info">过时的数据积累会降低浏览器的速度\n定期清理数据是一个好主意</string>
@@ -789,4 +789,8 @@
     <string name="color_title">颜色</string>
     <string name="no_icon">没有图标</string>
     <string name="video_player">播放器</string>
+    <string name="security">安全</string>
+    <string name="keyboard_secure">键盘安全性</string>
+    <string name="keyboard_secure_info_1">使用键盘在地址栏中键入的任何内容均不会保存。</string>
+    <string name="keyboard_secure_info_2">某些键盘可能不受支持。</string>
 </resources>

@@ -456,7 +456,7 @@
     <string name="touch_unlocked">觸摸解鎖</string>
     <string name="app_lock">應用鎖定</string>
     <string name="lock_type">鎖屏</string>
-    <string name="lock_only_secret">僅鎖定隱身模式</string>
+    <string name="only_secret">僅適用於隱身模式</string>
     <string name="unlock">解鎖</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">模式</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">新增到主螢幕</string>
     <string name="set_homepage">設為主頁</string>
     <string name="setted">已設置</string>
+    <string name="top_bar">頂欄</string>
     <string name="bottom_bar">底欄</string>
     <string name="down_by_url">按地址下載</string>
     <string name="only_twit">僅支持 Twitter</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">電源模式</string>
     <string name="ads_power_info">某些內容可能不會顯示</string>
     <string name="search_suggest">搜索建議</string>
-    <string name="at_top">在上面</string>
     <string name="at_bottom">在底部</string>
     <string name="guide_menu">長按圖標可編輯菜單</string>
     <string name="clean_data_info">累積過時的數據可能會降低瀏覽器的速度\n定期清理數據是一個好主意</string>
@@ -789,4 +789,8 @@
     <string name="color_title">顏色</string>
     <string name="no_icon">沒有圖標</string>
     <string name="video_player">播放器</string>
+    <string name="security">安全</string>
+    <string name="keyboard_secure">鍵盤安全性</string>
+    <string name="keyboard_secure_info_1">使用鍵盤在地址欄中鍵入的任何內容均不會保存。</string>
+    <string name="keyboard_secure_info_2">某些鍵盤可能不受支持。</string>
 </resources>

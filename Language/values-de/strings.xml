@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Touch ist entsperrt.</string>
     <string name="app_lock">App-Sperre</string>
     <string name="lock_type">Bildschirm sperren</string>
-    <string name="lock_only_secret">Nur Inkognito-Modus sperren</string>
+    <string name="only_secret">Gilt nur für den Inkognito-Modus</string>
     <string name="unlock">Entsperren</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Muster</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Zum Startbildschirm hinzufügen</string>
     <string name="set_homepage">Als Startseite festlegen</string>
     <string name="setted">Wurde festgelegt.</string>
+    <string name="top_bar">Obere Leiste</string>
     <string name="bottom_bar">Untere Leiste</string>
     <string name="down_by_url">Download nach Adresse</string>
     <string name="only_twit">Es wird nur Twitter unterstützt.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Power-Modus</string>
     <string name="ads_power_info">Einige Inhalte werden möglicherweise nicht angezeigt.</string>
     <string name="search_suggest">Suchvorschläge</string>
-    <string name="at_top">Oben</string>
     <string name="at_bottom">Unten</string>
     <string name="guide_menu">Drücken Sie lange auf das Symbol, um das Menü zu bearbeiten.</string>
     <string name="clean_data_info">Das Sammeln veralteter Daten kann Ihren Browser verlangsamen.\nEs ist eine gute Idee, Ihre Daten regelmäßig zu bereinigen.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Farbe</string>
     <string name="no_icon">Es gibt kein Symbol.</string>
     <string name="video_player">Spieler</string>
+    <string name="security">Sicherheit</string>
+    <string name="keyboard_secure">Tastatursicherheit</string>
+    <string name="keyboard_secure_info_1">Was auch immer Sie mit der Tastatur in die Adressleiste eingeben, wird nicht gespeichert.</string>
+    <string name="keyboard_secure_info_2">Einige Tastaturen werden möglicherweise nicht unterstützt.</string>
 </resources>

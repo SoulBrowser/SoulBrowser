@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Sentuhan tidak terkunci.</string>
     <string name="app_lock">Kunci aplikasi</string>
     <string name="lock_type">Kunci layar</string>
-    <string name="lock_only_secret">Kunci hanya mode penyamaran</string>
+    <string name="only_secret">Berlaku hanya untuk mode penyamaran</string>
     <string name="unlock">Buka kunci</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Pola</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Tambahkan ke layar beranda</string>
     <string name="set_homepage">Setel sebagai homepage</string>
     <string name="setted">Telah di atur.</string>
+    <string name="top_bar">Bilah atas</string>
     <string name="bottom_bar">Bilah bawah</string>
     <string name="down_by_url">Unduh berdasarkan alamat</string>
     <string name="only_twit">Hanya Twitter yang didukung.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Mode daya</string>
     <string name="ads_power_info">Beberapa konten mungkin tidak ditampilkan.</string>
     <string name="search_suggest">Saran pencarian</string>
-    <string name="at_top">Di atas</string>
     <string name="at_bottom">Di dasar</string>
     <string name="guide_menu">Tekan lama ikon untuk mengedit menu.</string>
     <string name="clean_data_info">Mengumpulkan data lama dapat memperlambat browser Anda.\nSebaiknya bersihkan data Anda secara berkala.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Warna</string>
     <string name="no_icon">Tidak ada ikon.</string>
     <string name="video_player">Pemain</string>
+    <string name="security">Keamanan</string>
+    <string name="keyboard_secure">Keamanan Keyboard</string>
+    <string name="keyboard_secure_info_1">Apa pun yang Anda ketik di bilah alamat dengan keyboard tidak disimpan.</string>
+    <string name="keyboard_secure_info_2">Beberapa keyboard mungkin tidak didukung.</string>
 </resources>

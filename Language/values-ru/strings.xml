@@ -310,7 +310,7 @@
     <string name="permission_granted">Разрешение получено</string>
     <string name="permission_denied">Доступ запрещен</string>
     <string name="no_permission">Нет разрешения</string>
-    <string name="ads_block">Блокировщик Ad</string>
+    <string name="ads_block">Блокировщик рекламы</string>
     <string name="ads_block_info">Для блокировки рекламы должен быть активен хотя бы один фильтр.</string>
     <string name="do_not_trank">Не отслеживать</string>
     <string name="filtered_image">Фильтруемое изображение (%d)</string>
@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Сенсор йазблокирован.</string>
     <string name="app_lock">Блокировка приложения</string>
     <string name="lock_type">Экран блокировки</string>
-    <string name="lock_only_secret">Заблокировать только режим инкогнито</string>
+    <string name="only_secret">Относится только к режиму инкогнито</string>
     <string name="unlock">Разблокировать</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Рисунок</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Добавить на домашний экран</string>
     <string name="set_homepage">Установить в качестве домашней страницы</string>
     <string name="setted">Установлено.</string>
+    <string name="top_bar">Верхняя панель</string>
     <string name="bottom_bar">Нижний бар</string>
     <string name="down_by_url">Скачать по адресу</string>
     <string name="only_twit">Поддерживается только Twitter.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Режим мощности</string>
     <string name="ads_power_info">Некоторый контент может не отображаться.</string>
     <string name="search_suggest">Предложения поиска</string>
-    <string name="at_top">На вершине</string>
     <string name="at_bottom">Внизу</string>
     <string name="guide_menu">Нажмите и удерживайте значок, чтобы редактировать меню.</string>
     <string name="clean_data_info">Накопление устаревших данных может замедлить работу вашего браузера.\nРекомендуется периодически очищать данные.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Цвет</string>
     <string name="no_icon">Иконки нет.</string>
     <string name="video_player">Игрок</string>
+    <string name="security">Безопасность</string>
+    <string name="keyboard_secure">Безопасность клавиатуры</string>
+    <string name="keyboard_secure_info_1">Все, что вы вводите в адресную строку с клавиатуры, не сохраняется.</string>
+    <string name="keyboard_secure_info_2">Некоторые клавиатуры могут не поддерживаться.</string>
 </resources>

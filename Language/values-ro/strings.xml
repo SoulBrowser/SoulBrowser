@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Touch este deblocat.</string>
     <string name="app_lock">Blocarea aplicației</string>
     <string name="lock_type">Blocare ecran</string>
-    <string name="lock_only_secret">Blocați numai modul incognito</string>
+    <string name="only_secret">Se aplică numai modului incognito</string>
     <string name="unlock">Deblocare</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Model</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Adăugare la ecranul principal</string>
     <string name="set_homepage">Setați ca pagină de pornire</string>
     <string name="setted">A fost setat.</string>
+    <string name="top_bar">Bara de sus</string>
     <string name="bottom_bar">Bara de jos</string>
     <string name="down_by_url">Descărcați prin adresă</string>
     <string name="only_twit">Doar Twitter este acceptat.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Mod de alimentare</string>
     <string name="ads_power_info">Este posibil ca un anumit conținut să nu fie afișat.</string>
     <string name="search_suggest">Sugestii de căutare</string>
-    <string name="at_top">În vârf</string>
     <string name="at_bottom">În partea de jos</string>
     <string name="guide_menu">Apăsați lung pictograma pentru a edita meniul.</string>
     <string name="clean_data_info">Acumularea de date vechi poate încetini browserul.\nEste o idee bună să vă curățați periodic datele.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Culoare</string>
     <string name="no_icon">Nu există nicio pictogramă.</string>
     <string name="video_player">Jucător</string>
+    <string name="security">Securitate</string>
+    <string name="keyboard_secure">Securitate tastatură</string>
+    <string name="keyboard_secure_info_1">Ceea ce tastați în bara de adrese cu tastatura nu este salvat.</string>
+    <string name="keyboard_secure_info_2">Este posibil ca unele tastaturi să nu fie acceptate.</string>
 </resources>

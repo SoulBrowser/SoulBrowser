@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Il tocco è sbloccato.</string>
     <string name="app_lock">Blocco app</string>
     <string name="lock_type">Schermata di blocco</string>
-    <string name="lock_only_secret">Blocca solo la modalità di navigazione in incognito</string>
+    <string name="only_secret">Si applica solo alla modalità di navigazione in incognito</string>
     <string name="unlock">Sblocco</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Modello</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Aggiungi alla schermata home</string>
     <string name="set_homepage">Imposta come pagina iniziale</string>
     <string name="setted">È stato impostato.</string>
+    <string name="top_bar">Barra superiore</string>
     <string name="bottom_bar">Barra inferiore</string>
     <string name="down_by_url">Scarica per indirizzo</string>
     <string name="only_twit">È supportato solo Twitter.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Modalità di alimentazione</string>
     <string name="ads_power_info">Alcuni contenuti potrebbero non essere visualizzati.</string>
     <string name="search_suggest">Suggerimenti di ricerca</string>
-    <string name="at_top">In cima</string>
     <string name="at_bottom">In fondo</string>
     <string name="guide_menu">Premere a lungo l\'icona per modificare il menu.</string>
     <string name="clean_data_info">L\'accumulo di dati obsoleti può rallentare il browser.\nÈ una buona idea pulire periodicamente i dati.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Colore</string>
     <string name="no_icon">Nessuna icona.</string>
     <string name="video_player">Giocatore</string>
+    <string name="security">Sicurezza</string>
+    <string name="keyboard_secure">Protezione della tastiera</string>
+    <string name="keyboard_secure_info_1">Qualunque cosa digiti nella barra degli indirizzi con la tastiera non viene salvata.</string>
+    <string name="keyboard_secure_info_2">Alcune tastiere potrebbero non essere supportate.</string>
 </resources>

@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Touch ถูกปลดล็อค</string>
     <string name="app_lock">ล็อคแอป</string>
     <string name="lock_type">ล็อคหน้าจอ</string>
-    <string name="lock_only_secret">ล็อกเฉพาะโหมดไม่ระบุตัวตน</string>
+    <string name="only_secret">ใช้กับโหมดไม่ระบุตัวตนเท่านั้น</string>
     <string name="unlock">ปลดล็อค</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">แบบแผน</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">เพิ่มไปที่หน้าจอหลัก</string>
     <string name="set_homepage">ตั้งเป็นหน้าแรก</string>
     <string name="setted">ได้มีการตั้งค่า</string>
+    <string name="top_bar">แถบด้านบน</string>
     <string name="bottom_bar">แถบด้านล่าง</string>
     <string name="down_by_url">ดาวน์โหลดตามที่อยู่</string>
     <string name="only_twit">รองรับ Twitter เท่านั้น</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">โหมดพลังงาน</string>
     <string name="ads_power_info">อาจไม่มีการแสดงเนื้อหาบางส่วน</string>
     <string name="search_suggest">คำแนะนำการค้นหา</string>
-    <string name="at_top">ที่ด้านบน</string>
     <string name="at_bottom">ที่ส่วนลึกสุด</string>
     <string name="guide_menu">กดไอคอนค้างไว้เพื่อแก้ไขเมนู</string>
     <string name="clean_data_info">การสะสมข้อมูลเก่าอาจทำให้เบราว์เซอร์ของคุณทำงานช้าลง\nเป็นความคิดที่ดีที่จะล้างข้อมูลของคุณเป็นระยะ</string>
@@ -789,4 +789,8 @@
     <string name="color_title">สี</string>
     <string name="no_icon">ไม่มีไอคอน</string>
     <string name="video_player">ผู้เล่น</string>
+    <string name="security">ความปลอดภัย</string>
+    <string name="keyboard_secure">ความปลอดภัยของคีย์บอร์ด</string>
+    <string name="keyboard_secure_info_1">สิ่งที่คุณพิมพ์ลงในแถบที่อยู่ด้วยแป้นพิมพ์จะไม่ถูกบันทึก</string>
+    <string name="keyboard_secure_info_2">แป้นพิมพ์บางรุ่นอาจไม่รองรับ</string>
 </resources>

@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Touch is unlocked.</string>
     <string name="app_lock">App lock</string>
     <string name="lock_type">Lock screen</string>
-    <string name="lock_only_secret">Lock only incognito mode</string>
+    <string name="only_secret">Applies to incognito mode only</string>
     <string name="unlock">Unlock</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Pattern</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Add to home screen</string>
     <string name="set_homepage">Set as homepage</string>
     <string name="setted">Has been set.</string>
+    <string name="top_bar">Top bar</string>
     <string name="bottom_bar">Bottom bar</string>
     <string name="down_by_url">Download by address</string>
     <string name="only_twit">Only Twitter is supported.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Power mode</string>
     <string name="ads_power_info">Some content may not be displayed.</string>
     <string name="search_suggest">Search suggestions</string>
-    <string name="at_top">At the top</string>
     <string name="at_bottom">At the bottom</string>
     <string name="guide_menu">Long press the icon to edit the menu.</string>
     <string name="clean_data_info">Accumulation of stale data can slow down your browser.\nIt is a good idea to clean up your data periodically.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Color</string>
     <string name="no_icon">There is no icon.</string>
     <string name="video_player">Player</string>
+    <string name="security">Security</string>
+    <string name="keyboard_secure">Keyboard security</string>
+    <string name="keyboard_secure_info_1">Whatever you type into the address bar with the keyboard is not saved.</string>
+    <string name="keyboard_secure_info_2">Some keyboards may not be supported.</string>
 </resources>

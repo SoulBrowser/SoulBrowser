@@ -456,7 +456,7 @@
     <string name="touch_unlocked">터치가 잠금 해제되었습니다.</string>
     <string name="app_lock">앱 잠금</string>
     <string name="lock_type">잠금 화면</string>
-    <string name="lock_only_secret">시크릿 모드만 잠금</string>
+    <string name="only_secret">시크릿 모드에만 적용</string>
     <string name="unlock">잠금 해제</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">패턴</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">홈 화면에 추가</string>
     <string name="set_homepage">홈페이지로 설정</string>
     <string name="setted">설정되었습니다.</string>
+    <string name="top_bar">상단바</string>
     <string name="bottom_bar">하단바</string>
     <string name="down_by_url">주소로 다운로드</string>
     <string name="only_twit">트위터만 지원됩니다.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">파워 모드</string>
     <string name="ads_power_info">일부 콘텐츠가 표시되지 않을 수 있습니다.</string>
     <string name="search_suggest">검색 제안</string>
-    <string name="at_top">상단에</string>
     <string name="at_bottom">하단에</string>
     <string name="guide_menu">아이콘을 길게 누르면, 메뉴를 편집할 수 있습니다.</string>
     <string name="clean_data_info">오래된 데이터가 누적되면, 브라우저가 느려질 수 있습니다.\n주기적으로 데이터를 정리하는 것이 좋습니다.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">색상</string>
     <string name="no_icon">아이콘이 없습니다.</string>
     <string name="video_player">플레이어</string>
+    <string name="security">보안</string>
+    <string name="keyboard_secure">키보드 보안</string>
+    <string name="keyboard_secure_info_1">키보드로 주소표시줄에 입력한 내용을 저장하지 않습니다.</string>
+    <string name="keyboard_secure_info_2">일부 키보드는 지원되지 않을 수 있습니다.</string>
 </resources>

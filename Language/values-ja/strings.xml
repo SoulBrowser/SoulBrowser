@@ -456,7 +456,7 @@
     <string name="touch_unlocked">タッチがロックを解除しました。</string>
     <string name="app_lock">アプリロック</string>
     <string name="lock_type">ロック画面</string>
-    <string name="lock_only_secret">シークレットモードのみロック</string>
+    <string name="only_secret">シークレットモードにのみ適用さ</string>
     <string name="unlock">ロック解除</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">パターン</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">ホーム画面に追加</string>
     <string name="set_homepage">ホームページに設定</string>
     <string name="setted">設定されています。</string>
+    <string name="top_bar">上部バー</string>
     <string name="bottom_bar">下部バー</string>
     <string name="down_by_url">アドレスでダウンロード</string>
     <string name="only_twit">ツイッターのみがサポートされます。</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">パワーモード</string>
     <string name="ads_power_info">一部のコンテンツが表示されないことがあります。</string>
     <string name="search_suggest">検索候補</string>
-    <string name="at_top">上部に</string>
     <string name="at_bottom">下部に</string>
     <string name="guide_menu">アイコンを長押しするとメニューを編集することができます。</string>
     <string name="clean_data_info">古いデータが蓄積されると、ブラウザの速度が遅くなることがあります。\n定期的にデータを整理することをお勧め。</string>
@@ -789,4 +789,8 @@
     <string name="color_title">色</string>
     <string name="no_icon">アイコンがありません。</string>
     <string name="video_player">プレーヤー</string>
+    <string name="security">セキュリティ</string>
+    <string name="keyboard_secure">キーボードセキュリティ</string>
+    <string name="keyboard_secure_info_1">キーボードでアドレスバーに入力した内容は保存されません。</string>
+    <string name="keyboard_secure_info_2">一部のキーボードはサポートされないことがあります。</string>
 </resources>

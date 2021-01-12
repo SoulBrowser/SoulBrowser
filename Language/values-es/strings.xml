@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Touch está desbloqueado.</string>
     <string name="app_lock">Bloqueo de aplicación</string>
     <string name="lock_type">Pantalla de bloqueo</string>
-    <string name="lock_only_secret">Bloquear solo el modo de incógnito</string>
+    <string name="only_secret">Solo se aplica al modo incógnito</string>
     <string name="unlock">Desbloquear</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Patrones</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Añadir a pantalla principal</string>
     <string name="set_homepage">Establecer como página de inicio</string>
     <string name="setted">Ha sido establecido.</string>
+    <string name="top_bar">Barra superior</string>
     <string name="bottom_bar">Barra inferior</string>
     <string name="down_by_url">Descargar por dirección</string>
     <string name="only_twit">Solo se admite Twitter.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Modo de energía</string>
     <string name="ads_power_info">Es posible que no se muestre parte del contenido.</string>
     <string name="search_suggest">Sugerencias de búsqueda</string>
-    <string name="at_top">En la cima</string>
     <string name="at_bottom">En el fondo</string>
     <string name="guide_menu">Mantenga pulsado el icono para editar el menú.</string>
     <string name="clean_data_info">La acumulación de datos obsoletos puede ralentizar su navegador.\nEs una buena idea limpiar sus datos periódicamente.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Color</string>
     <string name="no_icon">No hay icono.</string>
     <string name="video_player">Jugador</string>
+    <string name="security">Seguridad</string>
+    <string name="keyboard_secure">Seguridad del teclado</string>
+    <string name="keyboard_secure_info_1">Todo lo que escriba en la barra de direcciones con el teclado no se guarda.</string>
+    <string name="keyboard_secure_info_2">Es posible que algunos teclados no sean compatibles.</string>
 </resources>

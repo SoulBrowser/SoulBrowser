@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Le toucher est déverrouillé.</string>
     <string name="app_lock">Verrou d\'application</string>
     <string name="lock_type">Écran de verrouillage</string>
-    <string name="lock_only_secret">Verrouiller uniquement le mode navigation privée</string>
+    <string name="only_secret">S\'applique uniquement au mode navigation privée</string>
     <string name="unlock">Débloquer</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Les motifs</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Ajouter à l\'écran d\'accueil</string>
     <string name="set_homepage">Définir comme page d\'accueil</string>
     <string name="setted">A été mis en.</string>
+    <string name="top_bar">Barre supérieure</string>
     <string name="bottom_bar">Barre inférieure</string>
     <string name="down_by_url">Télécharger par adresse</string>
     <string name="only_twit">Seul Twitter est pris en charge.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Mode puissance</string>
     <string name="ads_power_info">Certains contenus peuvent ne pas être affichés.</string>
     <string name="search_suggest">Suggestions de recherche</string>
-    <string name="at_top">Au sommet</string>
     <string name="at_bottom">Au fond</string>
     <string name="guide_menu">Appuyez longuement sur l\'icône pour modifier le menu.</string>
     <string name="clean_data_info">L\'accumulation de données périmées peut ralentir votre navigateur.\nC\'est une bonne idée de nettoyer régulièrement vos données.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Couleur</string>
     <string name="no_icon">Il n\'y a pas d\'icône.</string>
     <string name="video_player">Joueur</string>
+    <string name="security">Sécurité</string>
+    <string name="keyboard_secure">Sécurité du clavier</string>
+    <string name="keyboard_secure_info_1">Tout ce que vous tapez dans la barre d\'adresse avec le clavier n\'est pas enregistré.</string>
+    <string name="keyboard_secure_info_2">Certains claviers peuvent ne pas être pris en charge.</string>
 </resources>

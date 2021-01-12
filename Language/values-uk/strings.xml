@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Дотик розблокований.</string>
     <string name="app_lock">Блокування програми</string>
     <string name="lock_type">Екран блокування</string>
-    <string name="lock_only_secret">Заблокувати лише режим анонімного перегляду</string>
+    <string name="only_secret">Застосовується лише до режиму інкогніто</string>
     <string name="unlock">Розблокувати</string>
     <string name="lock_pin">PIN-код</string>
     <string name="lock_pattern">Візерунок</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Додати на головний екран</string>
     <string name="set_homepage">Встановити як домашню сторінку</string>
     <string name="setted">Встановлено.</string>
+    <string name="top_bar">Верхня панель</string>
     <string name="bottom_bar">Нижня панель</string>
     <string name="down_by_url">Завантажити за адресою</string>
     <string name="only_twit">Підтримується лише Twitter.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Режим потужного блокування</string>
     <string name="ads_power_info">Деякий вміст може не відображатися.</string>
     <string name="search_suggest">Пошукові підказки</string>
-    <string name="at_top">На вершині</string>
     <string name="at_bottom">На дні</string>
     <string name="guide_menu">Тривале натискання значка для редагування меню.</string>
     <string name="clean_data_info">Накопичення застарілих даних може сповільнити роботу вашого браузера.\nРекомендуємо періодично очищати дані.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Колір</string>
     <string name="no_icon">Значка немає.</string>
     <string name="video_player">Програвач</string>
+    <string name="security">Безпеки</string>
+    <string name="keyboard_secure">Клавіатура безпеки</string>
+    <string name="keyboard_secure_info_1">Все, що ви вводите в адресний рядок за допомогою клавіатури, не зберігається.</string>
+    <string name="keyboard_secure_info_2">Деякі клавіатури можуть не підтримуватися.</string>
 </resources>

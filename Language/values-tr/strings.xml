@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Dokunma kilidi açık.</string>
     <string name="app_lock">Uygulama kilidi</string>
     <string name="lock_type">Ekranı kilitle</string>
-    <string name="lock_only_secret">Yalnızca gizli modu kilitle</string>
+    <string name="only_secret">Yalnızca gizli mod için geçerlidir</string>
     <string name="unlock">Kilit açma</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Model</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Ana ekrana ekle</string>
     <string name="set_homepage">Anasayfa olarak ayarla</string>
     <string name="setted">Ayarlandı.</string>
+    <string name="top_bar">Üst çubuk</string>
     <string name="bottom_bar">Alt çubuk</string>
     <string name="down_by_url">Adrese göre indir</string>
     <string name="only_twit">Yalnızca Twitter desteklenir.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Güç modu</string>
     <string name="ads_power_info">Bazı içerikler görüntülenemeyebilir.</string>
     <string name="search_suggest">Arama önerileri</string>
-    <string name="at_top">Tepede</string>
     <string name="at_bottom">Altta</string>
     <string name="guide_menu">Menüyü düzenlemek için simgeye uzun basın.</string>
     <string name="clean_data_info">Eski verilerin biriktirilmesi tarayıcınızı yavaşlatabilir.\nVerilerinizi düzenli aralıklarla temizlemek iyi bir fikirdir.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Renk</string>
     <string name="no_icon">Simge yok.</string>
     <string name="video_player">Oyuncu</string>
+    <string name="security">Güvenlik</string>
+    <string name="keyboard_secure">Klavye güvenliği</string>
+    <string name="keyboard_secure_info_1">Klavye ile adres çubuğuna ne yazarsanız yazın kaydedilmez.</string>
+    <string name="keyboard_secure_info_2">Bazı klavyeler desteklenmeyebilir.</string>
 </resources>

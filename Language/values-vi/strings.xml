@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Chạm được mở khóa.</string>
     <string name="app_lock">Khóa ứng dụng</string>
     <string name="lock_type">Khóa màn hình</string>
-    <string name="lock_only_secret">Chỉ khóa chế độ ẩn danh</string>
+    <string name="only_secret">Chỉ áp dụng cho chế độ ẩn danh</string>
     <string name="unlock">Mở khóa</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Mẫu</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Thêm vào màn hình chính</string>
     <string name="set_homepage">Đặt làm trang chủ</string>
     <string name="setted">Đã được thiết lập.</string>
+    <string name="top_bar">Thanh trên cùng</string>
     <string name="bottom_bar">Thanh dưới cùng</string>
     <string name="down_by_url">Tải xuống theo địa chỉ</string>
     <string name="only_twit">Chỉ có Twitter được hỗ trợ.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Chế độ năng lượng</string>
     <string name="ads_power_info">Một số nội dung có thể không được hiển thị.</string>
     <string name="search_suggest">Đề xuất tìm kiếm</string>
-    <string name="at_top">Ở trên cùng</string>
     <string name="at_bottom">Ở dưới cùng</string>
     <string name="guide_menu">Nhấn và giữ biểu tượng để chỉnh sửa menu.</string>
     <string name="clean_data_info">Tích lũy dữ liệu cũ có thể làm chậm trình duyệt của bạn.\nBạn nên dọn dẹp dữ liệu của mình theo định kỳ.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Màu sắc</string>
     <string name="no_icon">Không có biểu tượng.</string>
     <string name="video_player">Người chơi</string>
+    <string name="security">Bảo vệ</string>
+    <string name="keyboard_secure">Bảo mật bàn phím</string>
+    <string name="keyboard_secure_info_1">Bất cứ điều gì bạn nhập vào thanh địa chỉ bằng bàn phím sẽ không được lưu.</string>
+    <string name="keyboard_secure_info_2">Một số bàn phím có thể không được hỗ trợ.</string>
 </resources>

@@ -456,7 +456,7 @@
     <string name="touch_unlocked">Dotyk jest odblokowany.</string>
     <string name="app_lock">Blokada aplikacji</string>
     <string name="lock_type">Ekran blokady</string>
-    <string name="lock_only_secret">Zablokuj tylko tryb incognito</string>
+    <string name="only_secret">Dotyczy tylko trybu incognito</string>
     <string name="unlock">Odblokuj</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Wzór</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Dodaj do ekranu głównego</string>
     <string name="set_homepage">Ustaw jako stronę główną</string>
     <string name="setted">Ustawiono.</string>
+    <string name="top_bar">Górny pasek</string>
     <string name="bottom_bar">Dolny pasek</string>
     <string name="down_by_url">Pobierz według adresu</string>
     <string name="only_twit">Obsługiwany jest tylko Twitter.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Tryb zasilania</string>
     <string name="ads_power_info">Niektóre treści mogą nie być wyświetlane.</string>
     <string name="search_suggest">Sugestie wyszukiwania</string>
-    <string name="at_top">Na górze</string>
     <string name="at_bottom">Na dnie</string>
     <string name="guide_menu">Długo naciśnij ikonę, aby edytować menu.</string>
     <string name="clean_data_info">Nagromadzenie nieaktualnych danych może spowolnić przeglądarkę.\nWarto okresowo czyścić dane.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Kolor</string>
     <string name="no_icon">Brak ikony.</string>
     <string name="video_player">Gracz</string>
+    <string name="security">Bezpieczeństwo</string>
+    <string name="keyboard_secure">Bezpieczeństwo klawiatury</string>
+    <string name="keyboard_secure_info_1">Cokolwiek wpiszesz w pasku adresu za pomocą klawiatury, nie zostanie zapisane.</string>
+    <string name="keyboard_secure_info_2">Niektóre klawiatury mogą nie być obsługiwane.</string>
 </resources>

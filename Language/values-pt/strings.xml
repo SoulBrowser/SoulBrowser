@@ -456,7 +456,7 @@
     <string name="touch_unlocked">O toque está desbloqueado.</string>
     <string name="app_lock">Bloqueio do aplicativo</string>
     <string name="lock_type">Tela de bloqueio</string>
-    <string name="lock_only_secret">Bloquear apenas o modo de navegação anônima</string>
+    <string name="only_secret">Aplica-se apenas ao modo de navegação anônima</string>
     <string name="unlock">Desbloquear</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Padrões</string>
@@ -570,6 +570,7 @@
     <string name="add_homescreen">Adicionar à tela inicial</string>
     <string name="set_homepage">Definir como página inicial</string>
     <string name="setted">Foi definido.</string>
+    <string name="top_bar">Barra superior</string>
     <string name="bottom_bar">Barra inferior</string>
     <string name="down_by_url">Download por endereço</string>
     <string name="only_twit">Somente o Twitter é suportado.</string>
@@ -708,7 +709,6 @@
     <string name="ads_power">Modo de energia</string>
     <string name="ads_power_info">Alguns conteúdos podem não ser exibidos.</string>
     <string name="search_suggest">Sugestões de pesquisa</string>
-    <string name="at_top">No topo</string>
     <string name="at_bottom">No fundo</string>
     <string name="guide_menu">Pressione longamente o ícone para editar o menu.</string>
     <string name="clean_data_info">O acúmulo de dados desatualizados pode tornar seu navegador mais lento.\nÉ uma boa ideia limpar seus dados periodicamente.</string>
@@ -789,4 +789,8 @@
     <string name="color_title">Cor</string>
     <string name="no_icon">Não há ícone.</string>
     <string name="video_player">Jogador</string>
+    <string name="security">Segurança</string>
+    <string name="keyboard_secure">Segurança de teclado</string>
+    <string name="keyboard_secure_info_1">Tudo o que você digita na barra de endereço com o teclado não é salvo.</string>
+    <string name="keyboard_secure_info_2">Alguns teclados podem não ser suportados.</string>
 </resources>
