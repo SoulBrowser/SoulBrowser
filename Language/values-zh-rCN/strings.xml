@@ -52,6 +52,7 @@
     <string name="print_fail">打印失败</string>
     <string name="translator">译者</string>
     <string name="translate">翻译</string>
+    <string name="trans_to">翻译成</string>
     <string name="find_word">在页面中查找</string>
     <string name="verify_image">图像验证</string>
     <string name="create_album">创建相册</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">无痕模式</string>
     <string name="normal_mode">正常模式</string>
     <string name="normal_start">以正常模式运行</string>
-    <string name="secret_guide_1">无痕模式区分管理快捷方式，书签，历史记录和下载。</string>
+    <string name="secret_guide_1">无痕模式区分管理快捷方式，书签，密码，历史记录和下载。</string>
     <string name="secret_guide_2">你可以设置是否保存历史记录和下载内容，以及是否使用锁屏。</string>
     <string name="secret_guide_3">Soul Browser 致力于保护你的隐私。</string>
     <string name="prev_page">上一页</string>
@@ -146,6 +147,10 @@
     <string name="password">密码</string>
     <string name="input_password">输入密码</string>
     <string name="invalid_password">密码无效</string>
+    <string name="password_save">保存密码</string>
+    <string name="password_confirm">你要保存密码吗？</string>
+    <string name="password_info">分别在正常模式和无痕模式下存储密码</string>
+    <string name="password_lock">请先设置锁定屏幕\n这是为了保护你的隐私</string>
     <string name="password_reset_guide">重置将清除与密码关联的所有数据</string>
     <string name="canceling">取消&#8230;</string>
     <string name="checking">检查中&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">正常模式下没有快捷方式</string>
     <string name="import_no_book">正常模式下没有书签</string>
     <string name="import_no_history">正常模式下没有历史记录</string>
+    <string name="import_no_password">正常模式下没有密码</string>
     <string name="keep_tab">保留标签</string>
     <string name="keep_tab_info">当你更改为正常模式时，无痕标签会保留</string>
     <string name="keep_login">保持登录状态</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">黑暗主题</string>
     <string name="theme_system">系统主题</string>
     <string name="background">背景</string>
-    <string name="ads_power">强力模式</string>
-    <string name="ads_power_info">某些内容可能不会显示</string>
     <string name="search_suggest">搜索建议</string>
     <string name="at_bottom">在底部</string>
     <string name="guide_menu">长按图标可编辑菜单</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">键盘安全性</string>
     <string name="keyboard_secure_info_1">使用键盘在地址栏中键入的任何内容均不会保存。</string>
     <string name="keyboard_secure_info_2">某些键盘可能不受支持。</string>
+    <string name="ads_type">广告类型</string>
+    <string name="ads_persornal">个性化广告</string>
+    <string name="ads_no_persornal">非个性化广告</string>
+    <string name="ads_invalid">无效</string>
+    <string name="ads_invalid_info">广告设置存在问题。 请重新设置</string>
 </resources>

@@ -52,6 +52,7 @@
     <string name="print_fail">인쇄 실패</string>
     <string name="translator">번역기</string>
     <string name="translate">번역</string>
+    <string name="trans_to">다음으로 번역</string>
     <string name="find_word">페이지에서 찾기</string>
     <string name="verify_image">이미지 확인</string>
     <string name="create_album">앨범 만들기</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">시크릿 모드</string>
     <string name="normal_mode">일반 모드</string>
     <string name="normal_start">일반 모드로 실행</string>
-    <string name="secret_guide_1">시크릿 모드는 바로가기, 북마크, 방문 기록 및 다운로드 기록을 별도로 관리합니다.</string>
+    <string name="secret_guide_1">시크릿 모드는 바로가기, 북마크, 비밀번호, 방문 기록 및 다운로드 기록을 별도로 관리합니다.</string>
     <string name="secret_guide_2">방문 기록과 다운로드 기록 저장 여부, 잠금 화면 사용 여부를 설정할 수 있습니다.</string>
     <string name="secret_guide_3">Soul Browser는 사용자의 개인정보를 보호하기 위해 최선을 다하고 있습니다.</string>
     <string name="prev_page">이전 페이지</string>
@@ -146,6 +147,10 @@
     <string name="password">비밀번호</string>
     <string name="input_password">비밀번호 입력</string>
     <string name="invalid_password">잘못된 비밀번호</string>
+    <string name="password_save">비밀번호 저장</string>
+    <string name="password_confirm">비밀번호를 저장하시겠습니까?</string>
+    <string name="password_info">일반 모드와 시크릿 모드의 비밀 번호를 별도로 저장합니다.</string>
+    <string name="password_lock">잠금화면을 먼저 설정해 주세요.\n개인 정보 보호를 위해서입니다.</string>
     <string name="password_reset_guide">초기화하면 비밀번호와 관련된 모든 데이터가 삭제됩니다.</string>
     <string name="canceling">취소 중&#8230;</string>
     <string name="checking">확인 중&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">일반 모드에 바로가기가 없습니다.</string>
     <string name="import_no_book">일반 모드에 북마크가 없습니다.</string>
     <string name="import_no_history">일반 모드에 방문 기록이 없습니다.</string>
+    <string name="import_no_password">일반 모드에 비밀번호가 없습니다.</string>
     <string name="keep_tab">탭 유지</string>
     <string name="keep_tab_info">일반 모드로 변경해도 시크릿 탭이 유지됩니다.</string>
     <string name="keep_login">로그인 유지</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">어두운 테마</string>
     <string name="theme_system">시스템 테마</string>
     <string name="background">배경</string>
-    <string name="ads_power">파워 모드</string>
-    <string name="ads_power_info">일부 콘텐츠가 표시되지 않을 수 있습니다.</string>
     <string name="search_suggest">검색 제안</string>
     <string name="at_bottom">하단에</string>
     <string name="guide_menu">아이콘을 길게 누르면, 메뉴를 편집할 수 있습니다.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">키보드 보안</string>
     <string name="keyboard_secure_info_1">키보드로 주소표시줄에 입력한 내용을 저장하지 않습니다.</string>
     <string name="keyboard_secure_info_2">일부 키보드는 지원되지 않을 수 있습니다.</string>
+    <string name="ads_type">광고 유형</string>
+    <string name="ads_persornal">개인 맞춤 광고</string>
+    <string name="ads_no_persornal">개인 맞춤이 아닌 광고</string>
+    <string name="ads_invalid">유효하지 않음</string>
+    <string name="ads_invalid_info">광고 설정에 문제가 있습니다. 다시 설정하십시오.</string>
 </resources>

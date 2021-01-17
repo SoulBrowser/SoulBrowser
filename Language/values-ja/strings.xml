@@ -52,6 +52,7 @@
     <string name="print_fail">印刷に失敗し</string>
     <string name="translator">翻訳</string>
     <string name="translate">翻訳</string>
+    <string name="trans_to">次に翻訳</string>
     <string name="find_word">ページ内検索</string>
     <string name="verify_image">画像の確認</string>
     <string name="create_album">アルバム作成</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">シークレットモード</string>
     <string name="normal_mode">ノーマルモード</string>
     <string name="normal_start">通常モードで実行</string>
-    <string name="secret_guide_1">シークレットモードでは、ショートカット、ブックマーク、履歴、およびダウンロード履歴を別々に保存します。</string>
+    <string name="secret_guide_1">シークレットモードでは、ショートカット、ブックマーク、パスワード、履歴、およびダウンロード履歴を別々に保存します。</string>
     <string name="secret_guide_2">履歴とダウンロード履歴を保存するかどうか、ロック画面を使用するかどうかを設定することができます。</string>
     <string name="secret_guide_3">Soul Browserは、ユーザーの個人情報を保護するために最善を尽くしています。</string>
     <string name="prev_page">前のページ</string>
@@ -146,6 +147,10 @@
     <string name="password">パスワード</string>
     <string name="input_password">パスワード入力</string>
     <string name="invalid_password">不正なパスワード</string>
+    <string name="password_save">パスワードを保存</string>
+    <string name="password_confirm">パスワードを保存しますか？</string>
+    <string name="password_info">通常モードとシークレットモードのパスワードを別々に保存します。</string>
+    <string name="password_lock">ロック画面を先に設定してください。\n個人情報保護のためです。</string>
     <string name="password_reset_guide">初期化すると、パスワードに関連するすべてのデータが削除されます。</string>
     <string name="canceling">キャンセル中&#8230;</string>
     <string name="checking">確認中&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">通常モードへのショートカットがありません。</string>
     <string name="import_no_book">通常モードではブックマークはありません。</string>
     <string name="import_no_history">通常モードには履歴はありません。</string>
+    <string name="import_no_password">通常モードにパスワードがありません。</string>
     <string name="keep_tab">タブを維持</string>
     <string name="keep_tab_info">通常モードに変更しても、シークレットタブが維持されます。</string>
     <string name="keep_login">ログインを維持</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">暗いテーマ</string>
     <string name="theme_system">システムのテーマ</string>
     <string name="background">背景</string>
-    <string name="ads_power">パワーモード</string>
-    <string name="ads_power_info">一部のコンテンツが表示されないことがあります。</string>
     <string name="search_suggest">検索候補</string>
     <string name="at_bottom">下部に</string>
     <string name="guide_menu">アイコンを長押しするとメニューを編集することができます。</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">キーボードセキュリティ</string>
     <string name="keyboard_secure_info_1">キーボードでアドレスバーに入力した内容は保存されません。</string>
     <string name="keyboard_secure_info_2">一部のキーボードはサポートされないことがあります。</string>
+    <string name="ads_type">広告タイプ</string>
+    <string name="ads_persornal">パーソナライズされた広告</string>
+    <string name="ads_no_persornal">パーソナライズされていない広告</string>
+    <string name="ads_invalid">無効</string>
+    <string name="ads_invalid_info">広告設定に問題があります。 再度設定してください。</string>
 </resources>

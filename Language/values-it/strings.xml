@@ -52,6 +52,7 @@
     <string name="print_fail">Stampa fallita</string>
     <string name="translator">Traduttore</string>
     <string name="translate">Tradurre</string>
+    <string name="trans_to">Traduci in</string>
     <string name="find_word">Trova nella pagina</string>
     <string name="verify_image">Verifica immagine</string>
     <string name="create_album">Crea album</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">Modalità incognito</string>
     <string name="normal_mode">Modalità normale</string>
     <string name="normal_start">Esegui in modalità normale</string>
-    <string name="secret_guide_1">La modalità di navigazione in incognito memorizza le scorciatoie, i segnalibri, la cronologia e i download separatamente.</string>
+    <string name="secret_guide_1">La modalità di navigazione in incognito memorizza le scorciatoie, i segnalibri, parola ordine, la cronologia e i download separatamente.</string>
     <string name="secret_guide_2">Puoi impostare se salvare la cronologia e i download e utilizzare la schermata di blocco.</string>
     <string name="secret_guide_3">Soul Browser si impegna a proteggere la tua privacy.</string>
     <string name="prev_page">Pagina precedente</string>
@@ -146,6 +147,10 @@
     <string name="password">Parola ordine</string>
     <string name="input_password">Inserire la password</string>
     <string name="invalid_password">Password non valida</string>
+    <string name="password_save">Salva password</string>
+    <string name="password_confirm">Vuoi salvare la tua password?</string>
+    <string name="password_info">Memorizza le password in modalità normale e in incognito separatamente.</string>
+    <string name="password_lock">Si prega di impostare prima una schermata di blocco.\nQuesto è per la tua privacy.</string>
     <string name="password_reset_guide">Il ripristino cancellerà tutti i dati associati alla password.</string>
     <string name="canceling">Annullamento&#8230;</string>
     <string name="checking">Verifica&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">Non ci sono scorciatoie in modalità normale.</string>
     <string name="import_no_book">Nessun preferiti in modalità normale.</string>
     <string name="import_no_history">Non c\'è cronologia in modalità normale.</string>
+    <string name="import_no_password">Non c\'è password in modalità normale.</string>
     <string name="keep_tab">Tieni d\'occhio</string>
     <string name="keep_tab_info">Le schede in incognito vengono mantenute quando si passa alla modalità normale.</string>
     <string name="keep_login">Mantieni l\'accesso</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">Tema scuro</string>
     <string name="theme_system">Tema sistema</string>
     <string name="background">Sfondo</string>
-    <string name="ads_power">Modalità di alimentazione</string>
-    <string name="ads_power_info">Alcuni contenuti potrebbero non essere visualizzati.</string>
     <string name="search_suggest">Suggerimenti di ricerca</string>
     <string name="at_bottom">In fondo</string>
     <string name="guide_menu">Premere a lungo l\'icona per modificare il menu.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">Protezione della tastiera</string>
     <string name="keyboard_secure_info_1">Qualunque cosa digiti nella barra degli indirizzi con la tastiera non viene salvata.</string>
     <string name="keyboard_secure_info_2">Alcune tastiere potrebbero non essere supportate.</string>
+    <string name="ads_type">Tipo di annuncio</string>
+    <string name="ads_persornal">Annunci personalizzati</string>
+    <string name="ads_no_persornal">Annunci non personalizzati</string>
+    <string name="ads_invalid">Non valido</string>
+    <string name="ads_invalid_info">C\'è un problema con le impostazioni degli annunci. Per favore impostalo di nuovo.</string>
 </resources>

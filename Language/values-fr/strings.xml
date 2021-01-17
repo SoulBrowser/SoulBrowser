@@ -52,6 +52,7 @@
     <string name="print_fail">Imprimer échoué</string>
     <string name="translator">Traducteur</string>
     <string name="translate">Traduire</string>
+    <string name="trans_to">Traduire en</string>
     <string name="find_word">Rechercher dans page</string>
     <string name="verify_image">Vérification image</string>
     <string name="create_album">Créer album</string>
@@ -60,7 +61,7 @@
     <string name="general">Général</string>
     <string name="advanced">Avancés</string>
     <string name="bookmark">Signet</string>
-    <string name="history">Histoire</string>
+    <string name="history">Historique</string>
     <string name="setting">Paramètres</string>
     <string name="create_folder">Créer le dossier</string>
     <string name="move">Déplacer</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">Mode privée</string>
     <string name="normal_mode">Mode normal</string>
     <string name="normal_start">Exécuter en mode normal</string>
-    <string name="secret_guide_1">Le mode Incognito stocke vos raccourcis, vos signets, votre historique et vos téléchargements séparément.</string>
+    <string name="secret_guide_1">Le mode Incognito stocke vos raccourcis, vos signets, mot de passe, votre historique et vos téléchargements séparément.</string>
     <string name="secret_guide_2">Vous pouvez définir si votre historique et vos téléchargements sont enregistrés, et si vous utilisez l\'écran de verrouillage.</string>
     <string name="secret_guide_3">Soul Browser s\'engage à protéger votre vie privée.</string>
     <string name="prev_page">Page précédente</string>
@@ -146,6 +147,10 @@
     <string name="password">Mot de passe</string>
     <string name="input_password">Entrez le mot de passe</string>
     <string name="invalid_password">Mot de passe incorrect</string>
+    <string name="password_save">Enregistrer le mot de passe</string>
+    <string name="password_confirm">Voulez vous enregistrer votre mot de passe?</string>
+    <string name="password_info">Stocke les mots de passe en mode normal et en mode navigation privée séparément.</string>
+    <string name="password_lock">Veuillez d\'abord configurer un écran de verrouillage.\nC\'est pour votre intimité.</string>
     <string name="password_reset_guide">La réinitialisation effacera toutes les données associées au mot de passe.</string>
     <string name="canceling">Annulation&#8230;</string>
     <string name="checking">Vérification&#8230;</string>
@@ -445,7 +450,7 @@
     <string name="history_none">Illimité</string>
     <string name="history_info_zero">Votre historique ne sera pas sauvegardé.\nTous les enregistrements précédemment sauvegardés seront supprimés.</string>
     <string name="history_info_limit">Les enregistrements antérieurs à la période de conservation sont automatiquement supprimés.</string>
-    <string name="history_info_none">Toute votre histoire est sauvegardée.\nTrop de données peuvent ralentir les performances du navigateur.</string>
+    <string name="history_info_none">Toute votre historique est sauvegardée.\nTrop de données peuvent ralentir les performances du navigateur.</string>
     <string name="list">Liste</string>
     <string name="page_no_image">Il n\'y a pas d\'images sur cette page.</string>
     <string name="touch_lock">Verrouillage tactile</string>
@@ -467,7 +472,7 @@
     <string name="pip_advance">Mode avancé PIP</string>
     <string name="pip_advance_info">Certains appareils peuvent ne pas être pris en charge.\nCette fonctionnalité utilise plus de mémoire.\nSoyez prudent lorsque vous utilisez sur des appareils avec une petite mémoire.</string>
     <string name="android_oreo">Pris en charge depuis Android Oreo.</string>
-    <string name="secret_hist">Sauvegarder l\'histoire</string>
+    <string name="secret_hist">Sauvegarder l\'historique</string>
     <string name="secret_hist_info">Enregistrez votre historique en mode de navigation privée. Votre historique incognito n\'apparaît pas en mode normal.</string>
     <string name="secret_down">Sauvegarder l\'historique de téléchargement</string>
     <string name="secret_down_info">Stocke l\'historique des téléchargements en mode navigation privée. L\'historique de téléchargement en mode navigation privée n\'apparaît pas en mode normal.</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">Il n\'y a pas de raccourcis en mode normal.</string>
     <string name="import_no_book">Il n\'y a pas de signet en mode normal.</string>
     <string name="import_no_history">Il n\'y a pas d\'historique en mode normal.</string>
+    <string name="import_no_password">Il n\'y a pas de mot de passe en mode normal.</string>
     <string name="keep_tab">Gardez les onglets</string>
     <string name="keep_tab_info">Les onglets de navigation privée sont conservés lorsque vous passez en mode normal.</string>
     <string name="keep_login">Restez connecté</string>
@@ -682,7 +688,7 @@
     <string name="backup_import">Importer</string>
     <string name="backup_export">Exporter</string>
     <string name="backup_target">Veuillez sélectionner une cible.</string>
-    <string name="saving">Économie&#8230;</string>
+    <string name="saving">Sauvegarde&#8230;</string>
     <string name="save_empty">Il n\'y a rien à sauver.</string>
     <string name="not_changed">Aucun changement n\'a été fait.</string>
     <string name="app_restart">L\'application redémarrera.</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">Thème sombre</string>
     <string name="theme_system">Thème système</string>
     <string name="background">Contexte</string>
-    <string name="ads_power">Mode puissance</string>
-    <string name="ads_power_info">Certains contenus peuvent ne pas être affichés.</string>
     <string name="search_suggest">Suggestions de recherche</string>
     <string name="at_bottom">Au fond</string>
     <string name="guide_menu">Appuyez longuement sur l\'icône pour modifier le menu.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">Sécurité du clavier</string>
     <string name="keyboard_secure_info_1">Tout ce que vous tapez dans la barre d\'adresse avec le clavier n\'est pas enregistré.</string>
     <string name="keyboard_secure_info_2">Certains claviers peuvent ne pas être pris en charge.</string>
+    <string name="ads_type">Type d\'annonce</string>
+    <string name="ads_persornal">Annonces personnalisées</string>
+    <string name="ads_no_persornal">Annonces non personnalisées</string>
+    <string name="ads_invalid">Invalide</string>
+    <string name="ads_invalid_info">Il y a un problème avec les paramètres d\'annonce. Veuillez le régler à nouveau.</string>
 </resources>

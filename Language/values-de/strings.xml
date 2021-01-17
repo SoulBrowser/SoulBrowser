@@ -52,6 +52,7 @@
     <string name="print_fail">Drucken fehlgeschlagen</string>
     <string name="translator">Übersetzer</string>
     <string name="translate">Übersetzen</string>
+    <string name="trans_to">Übersetzen ins</string>
     <string name="find_word">Auf Seite finden</string>
     <string name="verify_image">Bild verifizieren</string>
     <string name="create_album">Album erstellen</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">Inkognito Modus</string>
     <string name="normal_mode">Normaler Modus</string>
     <string name="normal_start">Im normalen Modus ausführen</string>
-    <string name="secret_guide_1">Im Inkognito Modus werden ihre Verknüpfungen, Lesezeichen, der Browserverlauf und die Downloads separat gespeichert.</string>
+    <string name="secret_guide_1">Im Inkognito Modus werden ihre Verknüpfungen, Lesezeichen, Passwörter, der Browserverlauf und die Downloads separat gespeichert.</string>
     <string name="secret_guide_2">Sie können festlegen, ob ihr Verlauf und ihre Downloads gespeichert werden und ob Sie den Sperrbildschirm verwenden.</string>
     <string name="secret_guide_3">Soul Browser verpflichtet sich, ihre Privatsphäre zu schützen.</string>
     <string name="prev_page">Vorherige Seite</string>
@@ -146,6 +147,10 @@
     <string name="password">Passwort</string>
     <string name="input_password">Passwort eingeben</string>
     <string name="invalid_password">Ungültiges Passwort</string>
+    <string name="password_save">Passwort speichern</string>
+    <string name="password_confirm">Möchten Sie ihr Passwort speichern?</string>
+    <string name="password_info">Speichert Passwörter im normalen Modus und im Inkognito Modus separat.</string>
+    <string name="password_lock">Bitte richten Sie zuerst einen Sperrbildschirm ein.\nDies dient ihrer Privatsphäre.</string>
     <string name="password_reset_guide">Durch das Zurücksetzen werden alle mit dem Kennwort verknüpften Daten gelöscht.</string>
     <string name="canceling">Abbrechen&#8230;</string>
     <string name="checking">Überprüfung&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">Im normalen Modus gibt es keine Verknüpfungen.</string>
     <string name="import_no_book">Im normalen Modus ist kein Lesezeichen vorhanden.</string>
     <string name="import_no_history">Im normalen Modus gibt es keinen Verlauf.</string>
+    <string name="import_no_password">Im normalen Modus gibt es kein Passwort.</string>
     <string name="keep_tab">Tab-Übersicht behalten</string>
     <string name="keep_tab_info">Inkognito-Registerkarten bleiben erhalten, wenn Sie in den normalen Modus wechseln.</string>
     <string name="keep_login">Eingeloggt bleiben</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">Dunkles Thema</string>
     <string name="theme_system">Systemthema</string>
     <string name="background">Hintergrund</string>
-    <string name="ads_power">Power-Modus</string>
-    <string name="ads_power_info">Einige Inhalte werden möglicherweise nicht angezeigt.</string>
     <string name="search_suggest">Suchvorschläge</string>
     <string name="at_bottom">Unten</string>
     <string name="guide_menu">Drücken Sie lange auf das Symbol, um das Menü zu bearbeiten.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">Tastatursicherheit</string>
     <string name="keyboard_secure_info_1">Was auch immer Sie mit der Tastatur in die Adressleiste eingeben, wird nicht gespeichert.</string>
     <string name="keyboard_secure_info_2">Einige Tastaturen werden möglicherweise nicht unterstützt.</string>
+    <string name="ads_type">Anzeigentyp</string>
+    <string name="ads_persornal">Personalisierte Anzeigen</string>
+    <string name="ads_no_persornal">Nicht personalisierte Anzeigen</string>
+    <string name="ads_invalid">Ungültig</string>
+    <string name="ads_invalid_info">Es liegt ein Problem mit den Anzeigeneinstellungen vor. Bitte stellen Sie es erneut ein.</string>
 </resources>

@@ -52,6 +52,7 @@
     <string name="print_fail">การพิมพ์ล้มเหลว</string>
     <string name="translator">นักแปล</string>
     <string name="translate">แปลภาษา</string>
+    <string name="trans_to">แปลเป็น</string>
     <string name="find_word">ค้นหาในหน้า</string>
     <string name="verify_image">การตรวจสอบรูปภาพ</string>
     <string name="create_album">สร้างอัลบั้ม</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">โหมดไม่ระบุตัวตน</string>
     <string name="normal_mode">โหมดปกติ</string>
     <string name="normal_start">ทำงานในโหมดปกติ</string>
-    <string name="secret_guide_1">โหมดไม่ระบุตัวตนจะจัดเก็บทางลัดบุ๊กมาร์กประวัติและการดาวน์โหลดแยกกัน</string>
+    <string name="secret_guide_1">โหมดไม่ระบุตัวตนจัดการทางลัดบุ๊กมาร์กรหัสผ่านประวัติและดาวน์โหลดแยกต่างหาก</string>
     <string name="secret_guide_2">คุณสามารถตั้งค่าว่าจะบันทึกประวัติและการดาวน์โหลดหรือไม่และคุณใช้หน้าจอล็อคหรือไม่</string>
     <string name="secret_guide_3">Soul Browser มุ่งมั่นที่จะปกป้องความเป็นส่วนตัวของคุณ</string>
     <string name="prev_page">หน้าหลัง</string>
@@ -146,6 +147,10 @@
     <string name="password">รหัสผ่าน</string>
     <string name="input_password">ป้อนรหัสผ่าน</string>
     <string name="invalid_password">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="password_save">บันทึกรหัสผ่าน</string>
+    <string name="password_confirm">คุณต้องการบันทึกรหัสผ่านของคุณหรือไม่</string>
+    <string name="password_info">เก็บรหัสผ่านในโหมดปกติและโหมดไม่ระบุตัวตนแยกกัน</string>
+    <string name="password_lock">โปรดตั้งค่าล็อคหน้าจอก่อน\nนี่คือเพื่อความเป็นส่วนตัวของคุณ</string>
     <string name="password_reset_guide">การรีเซ็ตจะลบข้อมูลทั้งหมดที่เกี่ยวข้องกับรหัสผ่าน</string>
     <string name="canceling">ยกเลิก&#8230;</string>
     <string name="checking">การตรวจสอบ&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">ไม่มีปุ่มลัดในโหมดปกติ</string>
     <string name="import_no_book">ไม่มีบุ๊กมาร์กในโหมดปกติ</string>
     <string name="import_no_history">ไม่มีประวัติในโหมดปกติ</string>
+    <string name="import_no_password">ไม่มีรหัสผ่านในโหมดปกติ</string>
     <string name="keep_tab">เก็บแท็บ</string>
     <string name="keep_tab_info">แท็บไม่ระบุตัวตนจะถูกเก็บไว้เมื่อคุณเปลี่ยนเป็นโหมดปกติ</string>
     <string name="keep_login">เก็บไว้ในระบบ</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">ธีมสีเข้ม</string>
     <string name="theme_system">ธีมระบบ</string>
     <string name="background">พื้นหลัง</string>
-    <string name="ads_power">โหมดพลังงาน</string>
-    <string name="ads_power_info">อาจไม่มีการแสดงเนื้อหาบางส่วน</string>
     <string name="search_suggest">คำแนะนำการค้นหา</string>
     <string name="at_bottom">ที่ส่วนลึกสุด</string>
     <string name="guide_menu">กดไอคอนค้างไว้เพื่อแก้ไขเมนู</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">ความปลอดภัยของคีย์บอร์ด</string>
     <string name="keyboard_secure_info_1">สิ่งที่คุณพิมพ์ลงในแถบที่อยู่ด้วยแป้นพิมพ์จะไม่ถูกบันทึก</string>
     <string name="keyboard_secure_info_2">แป้นพิมพ์บางรุ่นอาจไม่รองรับ</string>
+    <string name="ads_type">ประเภทโฆษณา</string>
+    <string name="ads_persornal">โฆษณาส่วนบุคคล</string>
+    <string name="ads_no_persornal">ไม่ใช่โฆษณาที่ปรับตามโปรไฟล์ของผู้ใช้</string>
+    <string name="ads_invalid">ไม่ถูกต้อง</string>
+    <string name="ads_invalid_info">มีปัญหากับการตั้งค่าโฆษณา กรุณาตั้งค่าใหม่อีกครั้ง</string>
 </resources>

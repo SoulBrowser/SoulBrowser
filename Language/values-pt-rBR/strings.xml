@@ -52,6 +52,7 @@
     <string name="print_fail">Falha na impressão</string>
     <string name="translator">Tradutor</string>
     <string name="translate">Traduzir</string>
+    <string name="trans_to">Traduza para</string>
     <string name="find_word">Encontrar na página</string>
     <string name="verify_image">Verificar imagem</string>
     <string name="create_album">Criar álbum</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">Modo anônimo</string>
     <string name="normal_mode">Modo normal</string>
     <string name="normal_start">Executar no modo normal</string>
-    <string name="secret_guide_1">O modo de navegação anônima armazena seus atalhos, favoritos, histórico e downloads separadamente.</string>
+    <string name="secret_guide_1">O modo de navegação anônima armazena seus atalhos, favoritos, senha, histórico e downloads separadamente.</string>
     <string name="secret_guide_2">Você pode definir se seu histórico e downloads são salvos e se usa a tela de bloqueio.</string>
     <string name="secret_guide_3">O Soul Browser está comprometido em proteger sua privacidade.</string>
     <string name="prev_page">Voltar página</string>
@@ -146,6 +147,10 @@
     <string name="password">Senha</string>
     <string name="input_password">Digitar senha</string>
     <string name="invalid_password">Senha inválida</string>
+    <string name="password_save">Salvar senha</string>
+    <string name="password_confirm">Deseja salvar sua senha?</string>
+    <string name="password_info">Armazena senhas no modo normal e no modo de navegação anônima separadamente.</string>
+    <string name="password_lock">Primeiro, configure uma tela de bloqueio.\nIsto é para sua privacidade.</string>
     <string name="password_reset_guide">A redefinição apagará todos os dados associados à senha.</string>
     <string name="canceling">Cancelando&#8230;</string>
     <string name="checking">Verificando&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">Não há atalhos no modo normal.</string>
     <string name="import_no_book">Não há favoritos no modo normal.</string>
     <string name="import_no_history">Não há histórico no modo normal.</string>
+    <string name="import_no_password">Não há senha no modo normal.</string>
     <string name="keep_tab">Manter abas</string>
     <string name="keep_tab_info">Abas anônimas são mantidas quando você muda para o modo normal.</string>
     <string name="keep_login">Manter-se conectado</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">Tema escuro</string>
     <string name="theme_system">Tema do sistema</string>
     <string name="background">Fundo</string>
-    <string name="ads_power">Modo de energia</string>
-    <string name="ads_power_info">Alguns conteúdos podem não ser exibidos.</string>
     <string name="search_suggest">Sugestões de pesquisa</string>
     <string name="at_bottom">No fundo</string>
     <string name="guide_menu">Pressione longamente o ícone para editar o menu.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">Segurança de teclado</string>
     <string name="keyboard_secure_info_1">Tudo o que você digita na barra de endereço com o teclado não é salvo.</string>
     <string name="keyboard_secure_info_2">Alguns teclados podem não ser suportados.</string>
+    <string name="ads_type">Tipo de anúncio</string>
+    <string name="ads_persornal">Anúncios personalizados</string>
+    <string name="ads_no_persornal">Anúncios não personalizados</string>
+    <string name="ads_invalid">Inválido</string>
+    <string name="ads_invalid_info">Há um problema com as configurações do anúncio. Defina novamente.</string>
 </resources>

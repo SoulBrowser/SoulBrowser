@@ -52,6 +52,7 @@
     <string name="print_fail">Yazdırılamadı</string>
     <string name="translator">Çevirmen</string>
     <string name="translate">Çevirmek</string>
+    <string name="trans_to">Çevir</string>
     <string name="find_word">Sayfada bulun</string>
     <string name="verify_image">Resim doğrulama</string>
     <string name="create_album">Albüm oluştur</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">Gizli mod</string>
     <string name="normal_mode">Normal mod</string>
     <string name="normal_start">Normal modda çalıştır</string>
-    <string name="secret_guide_1">Gizli mod, kısayollarınızı, yer imlerinizi, geçmişinizi ve indirmelerinizi ayrı olarak saklar.</string>
+    <string name="secret_guide_1">Gizli mod, kısayollarınızı, yer imlerinizi, sifre, geçmişinizi ve indirmelerinizi ayrı olarak saklar.</string>
     <string name="secret_guide_2">Geçmişinizin ve indirmelerinizin kaydedilip kaydedilmeyeceğini ve kilit ekranını kullanıp kullanmayacağınızı ayarlayabilirsiniz.</string>
     <string name="secret_guide_3">Soul Browser gizliliğinizi korumayı taahhüt eder.</string>
     <string name="prev_page">Arka sayfa</string>
@@ -146,6 +147,10 @@
     <string name="password">Şifre</string>
     <string name="input_password">Şifreyi girin</string>
     <string name="invalid_password">Geçersiz şifre</string>
+    <string name="password_save">Parolayı kaydet</string>
+    <string name="password_confirm">Şifrenizi kaydetmek ister misiniz?</string>
+    <string name="password_info">Parolaları normal modda ve gizli modda ayrı olarak saklar.</string>
+    <string name="password_lock">Lütfen önce bir kilit ekranı ayarlayın.\nBu gizliliğiniz içindir.</string>
     <string name="password_reset_guide">Sıfırlama işlemi, parola ile ilişkili tüm verileri siler.</string>
     <string name="canceling">İptal&#8230;</string>
     <string name="checking">Kontrol etme&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">Normal modda kısayol yok.</string>
     <string name="import_no_book">Normal modda hiç yer imi yok.</string>
     <string name="import_no_history">Normal modda geçmiş yok.</string>
+    <string name="import_no_password">Normal modda şifre yoktur.</string>
     <string name="keep_tab">Sekmeleri sakla</string>
     <string name="keep_tab_info">Normal moda geçtiğinizde gizli sekmeler korunur.</string>
     <string name="keep_login">Giriş yapmaya devam et</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">Koyu tema</string>
     <string name="theme_system">Sistem tema</string>
     <string name="background">Arka fon</string>
-    <string name="ads_power">Güç modu</string>
-    <string name="ads_power_info">Bazı içerikler görüntülenemeyebilir.</string>
     <string name="search_suggest">Arama önerileri</string>
     <string name="at_bottom">Altta</string>
     <string name="guide_menu">Menüyü düzenlemek için simgeye uzun basın.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">Klavye güvenliği</string>
     <string name="keyboard_secure_info_1">Klavye ile adres çubuğuna ne yazarsanız yazın kaydedilmez.</string>
     <string name="keyboard_secure_info_2">Bazı klavyeler desteklenmeyebilir.</string>
+    <string name="ads_type">Reklam türü</string>
+    <string name="ads_persornal">Kişiselleştirilmiş reklamlar</string>
+    <string name="ads_no_persornal">Kişiselleştirilmemiş reklamlar</string>
+    <string name="ads_invalid">Geçersiz</string>
+    <string name="ads_invalid_info">Reklam ayarlarında bir sorun var. Lütfen yeniden ayarlayın.</string>
 </resources>

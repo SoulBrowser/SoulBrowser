@@ -52,6 +52,7 @@
     <string name="print_fail">打印失敗</string>
     <string name="translator">譯者</string>
     <string name="translate">翻譯</string>
+    <string name="trans_to">翻譯成</string>
     <string name="find_word">在頁面中查找</string>
     <string name="verify_image">圖片驗證</string>
     <string name="create_album">創建相簿</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">無痕模式</string>
     <string name="normal_mode">正常模式</string>
     <string name="normal_start">以普通模式運行</string>
-    <string name="secret_guide_1">隱身模式分別管理快捷方式，書籤，歷史記錄和下載。</string>
+    <string name="secret_guide_1">隱身模式分別管理快捷方式，書籤，密碼，歷史記錄和下載。</string>
     <string name="secret_guide_2">您可以設置是否保存歷史記錄和下載內容，以及是否使用鎖定螢幕。</string>
     <string name="secret_guide_3">Soul Browser 致力於保護您的隱私。</string>
     <string name="prev_page">上一頁</string>
@@ -146,6 +147,10 @@
     <string name="password">密碼</string>
     <string name="input_password">輸入密碼</string>
     <string name="invalid_password">密碼無效</string>
+    <string name="password_save">保存密碼</string>
+    <string name="password_confirm">您要保存密碼嗎？</string>
+    <string name="password_info">分別在普通模式和隱身模式下存儲密碼</string>
+    <string name="password_lock">請先設置鎖定螢幕\n這是為了保護您的隱私</string>
     <string name="password_reset_guide">重置將清除與密碼關聯的所有數據</string>
     <string name="canceling">取消&#8230;</string>
     <string name="checking">檢查中&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">普通模式下沒有快捷方式</string>
     <string name="import_no_book">普通模式下沒有書籤</string>
     <string name="import_no_history">正常模式下沒有歷史記錄</string>
+    <string name="import_no_password">普通模式下沒有密碼</string>
     <string name="keep_tab">保持分頁</string>
     <string name="keep_tab_info">當您更改為普通模式時，隱身分頁會保留</string>
     <string name="keep_login">保持登入狀態</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">黑暗主題</string>
     <string name="theme_system">系統主題</string>
     <string name="background">背景</string>
-    <string name="ads_power">電源模式</string>
-    <string name="ads_power_info">某些內容可能不會顯示</string>
     <string name="search_suggest">搜索建議</string>
     <string name="at_bottom">在底部</string>
     <string name="guide_menu">長按圖標可編輯菜單</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">鍵盤安全性</string>
     <string name="keyboard_secure_info_1">使用鍵盤在地址欄中鍵入的任何內容均不會保存。</string>
     <string name="keyboard_secure_info_2">某些鍵盤可能不受支持。</string>
+    <string name="ads_type">廣告類型</string>
+    <string name="ads_persornal">個性化廣告</string>
+    <string name="ads_no_persornal">非個性化廣告</string>
+    <string name="ads_invalid">無效</string>
+    <string name="ads_invalid_info">廣告設置存在問題。 請重新設置</string>
 </resources>

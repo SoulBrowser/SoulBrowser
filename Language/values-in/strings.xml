@@ -52,6 +52,7 @@
     <string name="print_fail">Print Failed</string>
     <string name="translator">Terjemahan</string>
     <string name="translate">Terjemahan</string>
+    <string name="trans_to">Terjemahkan ke</string>
     <string name="find_word">Temukan di halaman</string>
     <string name="verify_image">Verifikasi gambar</string>
     <string name="create_album">Buat album</string>
@@ -60,7 +61,7 @@
     <string name="general">Umum</string>
     <string name="advanced">Lanjutan</string>
     <string name="bookmark">Bookmark</string>
-    <string name="history">Sejarah</string>
+    <string name="history">Riwayat</string>
     <string name="setting">Pengaturan</string>
     <string name="create_folder">Buat folder</string>
     <string name="move">Pindahkan</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">Mode penyamaran</string>
     <string name="normal_mode">Mode normal</string>
     <string name="normal_start">Jalankan dalam mode normal</string>
-    <string name="secret_guide_1">Mode penyamaran menyimpan pintasan, bookmark, riwayat, dan unduhan Anda secara terpisah.</string>
+    <string name="secret_guide_1">Mode penyamaran menyimpan pintasan, bookmark, kata sandi, riwayat, dan unduhan Anda secara terpisah.</string>
     <string name="secret_guide_2">Anda dapat mengatur apakah riwayat dan unduhan Anda disimpan, dan apakah Anda menggunakan layar kunci.</string>
     <string name="secret_guide_3">Soul Browser berkomitmen untuk melindungi privasi Anda.</string>
     <string name="prev_page">Halaman belakang</string>
@@ -146,6 +147,10 @@
     <string name="password">Kata sandi</string>
     <string name="input_password">Masukkan kata sandi</string>
     <string name="invalid_password">Kata sandi tidak valid</string>
+    <string name="password_save">Simpan kata sandi</string>
+    <string name="password_confirm">Apakah anda ingin menyimpan kata sandi anda?</string>
+    <string name="password_info">Menyimpan kata sandi dalam mode normal dan mode penyamaran secara terpisah.</string>
+    <string name="password_lock">Harap atur layar kunci terlebih dahulu.\nIni untuk privasi Anda.</string>
     <string name="password_reset_guide">Pengaturan ulang akan menghapus semua data yang terkait dengan kata sandi.</string>
     <string name="canceling">Membatalkan&#8230;</string>
     <string name="checking">Memeriksa&#8230;</string>
@@ -373,7 +378,7 @@
     <string name="prefix">Awalan</string>
     <string name="clean_mode">Mode bersih</string>
     <string name="site">Situs</string>
-    <string name="storage">Toko</string>
+    <string name="storage">Penyimpanan</string>
     <string name="gesture">Gesture</string>
     <string name="show_status">Tampilkan bilah status</string>
     <string name="show_navi">Tampilkan tombol lunak</string>
@@ -405,8 +410,8 @@
     <string name="show_reader">Tampilan tombol mode pembaca</string>
     <string name="album_shortcut">Buat pintasan album</string>
     <string name="album_short_info">Buat tombol pintas album di layar beranda.</string>
-    <string name="cast_shortcut">Buat pintasan pemeran TV</string>
-    <string name="cast_short_info">Buat tombol pintas pemeran TV di layar beranda.</string>
+    <string name="cast_shortcut">Buat pintasan transmisi TV</string>
+    <string name="cast_short_info">Buat tombol pintas transmisi TV di layar beranda.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Daftar putih Ad</string>
     <string name="pop_white">Daftar putih popup</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">Tidak ada pintas dalam mode normal.</string>
     <string name="import_no_book">Tidak ada bookmark dalam mode normal.</string>
     <string name="import_no_history">Tidak ada riwayat dalam mode normal.</string>
+    <string name="import_no_password">Tidak ada kata sandi dalam mode normal.</string>
     <string name="keep_tab">Tetap awasi</string>
     <string name="keep_tab_info">Tab penyamaran dipertahankan saat Anda beralih ke mode normal.</string>
     <string name="keep_login">Tetap masuk</string>
@@ -528,7 +534,7 @@
     <string name="font_info_2">Font yang dipasang oleh aplikasi lain mungkin tidak berlaku.</string>
     <string name="font_info_3">Buat folder acak dan letakkan file TTF yang ingin Anda gunakan secara langsung.</string>
     <string name="font_info_4">Jika ikon yang digunakan di situs tidak dalam tabel font yang diubah, itu ditampilkan sebagai [X].</string>
-    <string name="tv_cast">Pemeran TV</string>
+    <string name="tv_cast">Transmisi TV</string>
     <string name="media_route_menu_title">Mainkan&#8230;</string>
     <string name="introducing_cast">Sentuh untuk memasukkan media ke TV Anda</string>
     <string name="cast_info_1">Jika Chromecast terdeteksi, ikon akan muncul di bagian atas layar.</string>
@@ -676,7 +682,7 @@
     <string name="down_fail_guide">File mungkin rusak.</string>
     <string name="default_filter">Filter bawaan</string>
     <string name="user_filter">Filter pengguna</string>
-    <string name="filter_search">Filter pencarian</string>
+    <string name="filter_search">Cari filter</string>
     <string name="filter_info">Menggunakan beberapa filter sekaligus dapat memperlambat kinerja browser.</string>
     <string name="backup_title">Cadangan data</string>
     <string name="backup_import">Impor</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">Tema gelap</string>
     <string name="theme_system">Tema sistem</string>
     <string name="background">Latar Belakang</string>
-    <string name="ads_power">Mode daya</string>
-    <string name="ads_power_info">Beberapa konten mungkin tidak ditampilkan.</string>
     <string name="search_suggest">Saran pencarian</string>
     <string name="at_bottom">Di dasar</string>
     <string name="guide_menu">Tekan lama ikon untuk mengedit menu.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">Keamanan Keyboard</string>
     <string name="keyboard_secure_info_1">Apa pun yang Anda ketik di bilah alamat dengan keyboard tidak disimpan.</string>
     <string name="keyboard_secure_info_2">Beberapa keyboard mungkin tidak didukung.</string>
+    <string name="ads_type">Jenis iklan</string>
+    <string name="ads_persornal">Iklan yang dipersonalisasi</string>
+    <string name="ads_no_persornal">Iklan yang tidak dipersonalisasi</string>
+    <string name="ads_invalid">Tidak valid</string>
+    <string name="ads_invalid_info">Ada masalah dengan pengaturan iklan. Harap setel lagi.</string>
 </resources>

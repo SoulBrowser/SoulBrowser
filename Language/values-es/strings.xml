@@ -52,6 +52,7 @@
     <string name="print_fail">Impresión fallida</string>
     <string name="translator">Traductor</string>
     <string name="translate">Traducir</string>
+    <string name="trans_to">Traducir a</string>
     <string name="find_word">Encontrar en página</string>
     <string name="verify_image">Verificación de imagen</string>
     <string name="create_album">Crear albúm</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">Modo incognito</string>
     <string name="normal_mode">Modo normal</string>
     <string name="normal_start">Ejecutar en modo normal</string>
-    <string name="secret_guide_1">El modo incógnito almacena sus acceso directo, marcadores, historial y descargas por separado.</string>
+    <string name="secret_guide_1">El modo incógnito almacena sus acceso directo, marcadores, contraseña, historial y descargas por separado.</string>
     <string name="secret_guide_2">Puede configurar si su historial y descargas se guardan, y si usa la pantalla de bloqueo.</string>
     <string name="secret_guide_3">Soul Browser se compromete a proteger su privacidad.</string>
     <string name="prev_page">Anterior página</string>
@@ -146,6 +147,10 @@
     <string name="password">Contraseña</string>
     <string name="input_password">Introducir contraseña</string>
     <string name="invalid_password">Contraseña invalida</string>
+    <string name="password_save">Guardar contraseña</string>
+    <string name="password_confirm">¿Quieres guardar tu contraseña?</string>
+    <string name="password_info">Almacena las contraseñas en modo normal y modo incógnito por separado.</string>
+    <string name="password_lock">Primero configure una pantalla de bloqueo.\nEsto es para tu privacidad.</string>
     <string name="password_reset_guide">El restablecimiento borrará todos los datos asociados con la contraseña.</string>
     <string name="canceling">Cancelado&#8230;</string>
     <string name="checking">Comprobación&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">No hay acceso directo en modo normal.</string>
     <string name="import_no_book">No hay marcador en modo normal.</string>
     <string name="import_no_history">No hay historial en modo normal.</string>
+    <string name="import_no_password">No hay contraseña en modo normal.</string>
     <string name="keep_tab">Mantener pestañas</string>
     <string name="keep_tab_info">Las pestañas de incógnito se retienen cuando cambia al modo normal.</string>
     <string name="keep_login">Mantente conectado</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">Tema oscuro</string>
     <string name="theme_system">Tema sistema</string>
     <string name="background">Antecedentes</string>
-    <string name="ads_power">Modo de energía</string>
-    <string name="ads_power_info">Es posible que no se muestre parte del contenido.</string>
     <string name="search_suggest">Sugerencias de búsqueda</string>
     <string name="at_bottom">En el fondo</string>
     <string name="guide_menu">Mantenga pulsado el icono para editar el menú.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">Seguridad del teclado</string>
     <string name="keyboard_secure_info_1">Todo lo que escriba en la barra de direcciones con el teclado no se guarda.</string>
     <string name="keyboard_secure_info_2">Es posible que algunos teclados no sean compatibles.</string>
+    <string name="ads_type">Tipo de anuncio</string>
+    <string name="ads_persornal">Anuncios personalizados</string>
+    <string name="ads_no_persornal">Anuncios no personalizados</string>
+    <string name="ads_invalid">Inválido</string>
+    <string name="ads_invalid_info">Hay un problema con la configuración de anuncios. Vuelva a configurarlo.</string>
 </resources>

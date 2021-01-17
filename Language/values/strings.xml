@@ -52,6 +52,7 @@
     <string name="print_fail">Print Failed</string>
     <string name="translator">Translator</string>
     <string name="translate">Translate</string>
+    <string name="trans_to">Translate to</string>
     <string name="find_word">Find in page</string>
     <string name="verify_image">Image verification</string>
     <string name="create_album">Create album</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">Incognito mode</string>
     <string name="normal_mode">Normal mode</string>
     <string name="normal_start">Run in normal mode</string>
-    <string name="secret_guide_1">Incognito mode stores your shortcuts, bookmarks, history and downloads separately.</string>
+    <string name="secret_guide_1">Incognito mode stores your shortcuts, bookmarks, passwords, history and downloads separately.</string>
     <string name="secret_guide_2">You can set whether your history and downloads are saved, and whether you use the lock screen.</string>
     <string name="secret_guide_3">Soul Browser is committed to protecting your privacy.</string>
     <string name="prev_page">Back page</string>
@@ -146,6 +147,10 @@
     <string name="password">Password</string>
     <string name="input_password">Enter password</string>
     <string name="invalid_password">Invalid password</string>
+    <string name="password_save">Save Password</string>
+    <string name="password_confirm">Do you want to save your password?</string>
+    <string name="password_info">Stores passwords in normal mode and incognito mode separately.</string>
+    <string name="password_lock">Please set up a lock screen first.\nThis is for your privacy.</string>
     <string name="password_reset_guide">Resetting will delete all data associated with the password.</string>
     <string name="canceling">Canceling&#8230;</string>
     <string name="checking">Checking&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">There is no shortcut in normal mode.</string>
     <string name="import_no_book">There is no bookmark in normal mode.</string>
     <string name="import_no_history">There is no history in normal mode.</string>
+    <string name="import_no_password">There is no password in normal mode.</string>
     <string name="keep_tab">Keep tabs</string>
     <string name="keep_tab_info">Incognito tabs are retained when you change to normal mode.</string>
     <string name="keep_login">Keep logged in</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">Dark theme</string>
     <string name="theme_system">System theme</string>
     <string name="background">Background</string>
-    <string name="ads_power">Power mode</string>
-    <string name="ads_power_info">Some content may not be displayed.</string>
     <string name="search_suggest">Search suggestions</string>
     <string name="at_bottom">At the bottom</string>
     <string name="guide_menu">Long press the icon to edit the menu.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">Keyboard security</string>
     <string name="keyboard_secure_info_1">Whatever you type into the address bar with the keyboard is not saved.</string>
     <string name="keyboard_secure_info_2">Some keyboards may not be supported.</string>
+    <string name="ads_type">Ad type</string>
+    <string name="ads_persornal">Personalized ads</string>
+    <string name="ads_no_persornal">Non personalized ads</string>
+    <string name="ads_invalid">Invalid</string>
+    <string name="ads_invalid_info">There is a problem with ad settings. Please set it again.</string>
 </resources>

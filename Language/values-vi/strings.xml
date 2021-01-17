@@ -52,6 +52,7 @@
     <string name="print_fail">In thất bại</string>
     <string name="translator">Người phiên dịch</string>
     <string name="translate">Phiên dịch</string>
+    <string name="trans_to">Dịch sang</string>
     <string name="find_word">Tìm ở trang</string>
     <string name="verify_image">Xác minh hình ảnh</string>
     <string name="create_album">Tạo album</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">Chế độ ẩn danh</string>
     <string name="normal_mode">Chế độ bình thường</string>
     <string name="normal_start">Chạy ở chế độ bình thường</string>
-    <string name="secret_guide_1">Chế độ ẩn danh lưu trữ các phím tắt, dấu trang, lịch sử và tải xuống riêng biệt.</string>
+    <string name="secret_guide_1">Chế độ ẩn danh lưu trữ các phím tắt, dấu trang, mật khẩu, lịch sử và tải xuống riêng biệt.</string>
     <string name="secret_guide_2">Bạn có thể đặt liệu lịch sử và các bản tải xuống của bạn có được lưu hay không và liệu bạn có sử dụng màn hình khóa hay không.</string>
     <string name="secret_guide_3">Soul Browser cam kết bảo vệ sự riêng tư của bạn.</string>
     <string name="prev_page">Trang trước</string>
@@ -146,6 +147,10 @@
     <string name="password">Mật khẩu</string>
     <string name="input_password">Nhập mật khẩu</string>
     <string name="invalid_password">Mật khẩu không hợp lệ</string>
+    <string name="password_save">Lưu mật khẩu</string>
+    <string name="password_confirm">Bạn có muốn lưu mật khẩu của bạn?</string>
+    <string name="password_info">Lưu trữ mật khẩu ở chế độ bình thường và chế độ ẩn danh riêng biệt.</string>
+    <string name="password_lock">Vui lòng thiết lập màn hình khóa trước.\nĐiều này là cho sự riêng tư của bạn.</string>
     <string name="password_reset_guide">Đặt lại sẽ xóa tất cả dữ liệu liên quan đến mật khẩu.</string>
     <string name="canceling">Hủy&#8230;</string>
     <string name="checking">Kiểm tra&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">Không có phím tắt trong chế độ bình thường.</string>
     <string name="import_no_book">Không có dấu trang trong chế độ bình thường.</string>
     <string name="import_no_history">Không có lịch sử trong chế độ bình thường.</string>
+    <string name="import_no_password">Không có mật khẩu trong chế độ bình thường.</string>
     <string name="keep_tab">Giữ các tab</string>
     <string name="keep_tab_info">Các tab ẩn danh được giữ lại khi bạn thay đổi sang chế độ bình thường.</string>
     <string name="keep_login">Tiếp tục đăng nhập</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">Chủ đề tối</string>
     <string name="theme_system">Chủ đề hệ thống</string>
     <string name="background">Lý lịch</string>
-    <string name="ads_power">Chế độ năng lượng</string>
-    <string name="ads_power_info">Một số nội dung có thể không được hiển thị.</string>
     <string name="search_suggest">Đề xuất tìm kiếm</string>
     <string name="at_bottom">Ở dưới cùng</string>
     <string name="guide_menu">Nhấn và giữ biểu tượng để chỉnh sửa menu.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">Bảo mật bàn phím</string>
     <string name="keyboard_secure_info_1">Bất cứ điều gì bạn nhập vào thanh địa chỉ bằng bàn phím sẽ không được lưu.</string>
     <string name="keyboard_secure_info_2">Một số bàn phím có thể không được hỗ trợ.</string>
+    <string name="ads_type">Loại quảng cáo</string>
+    <string name="ads_persornal">Quảng cáo được cá nhân hóa</string>
+    <string name="ads_no_persornal">Quảng cáo không được cá nhân hóa</string>
+    <string name="ads_invalid">không hợp lệ</string>
+    <string name="ads_invalid_info">Có vấn đề với cài đặt quảng cáo. Vui lòng đặt lại.</string>
 </resources>

@@ -52,6 +52,7 @@
     <string name="print_fail">Не удалось распечатать</string>
     <string name="translator">Переводчик</string>
     <string name="translate">Переведите</string>
+    <string name="trans_to">Перевести на</string>
     <string name="find_word">Найти на странице</string>
     <string name="verify_image">Проверка изображения</string>
     <string name="create_album">Создать альбом</string>
@@ -92,7 +93,7 @@
     <string name="secret_mode">Режим инкогнито</string>
     <string name="normal_mode">Нормальный режим</string>
     <string name="normal_start">Запустить в обычном режиме</string>
-    <string name="secret_guide_1">Режим инкогнито хранит ваши ярлыки, закладки, историю и загрузки отдельно.</string>
+    <string name="secret_guide_1">Режим инкогнито хранит ваши ярлыки, закладки, пароли, историю и загрузки отдельно.</string>
     <string name="secret_guide_2">Вы можете указать, будут ли сохраняться Ваши история и загрузки, а также использовать ли экран блокировки.</string>
     <string name="secret_guide_3">Soul Browser обязуется защищать вашу конфиденциальность.</string>
     <string name="prev_page">Предыдущая страница</string>
@@ -146,6 +147,10 @@
     <string name="password">Пароль</string>
     <string name="input_password">Введите пароль</string>
     <string name="invalid_password">Неверный пароль</string>
+    <string name="password_save">Сохранить пароль</string>
+    <string name="password_confirm">Вы хотите сохранить свой пароль?</string>
+    <string name="password_info">Сохраняет пароли в обычном режиме и режиме инкогнито отдельно.</string>
+    <string name="password_lock">Пожалуйста, сначала настройте экран блокировки.\nЭто для вашей конфиденциальности.</string>
     <string name="password_reset_guide">Сброс удалит все данные, связанные с паролем.</string>
     <string name="canceling">Отмена&#8230;</string>
     <string name="checking">Проверка&#8230;</string>
@@ -491,6 +496,7 @@
     <string name="import_no_quick">В обычном режиме ярлыки отсутствуют.</string>
     <string name="import_no_book">В обычном режиме нет закладки.</string>
     <string name="import_no_history">В обычном режиме истории нет.</string>
+    <string name="import_no_password">Отсутствует пароль в обычном режиме.</string>
     <string name="keep_tab">Держать вкладки</string>
     <string name="keep_tab_info">Вкладки инкогнито сохраняются при переходе в обычный режим.</string>
     <string name="keep_login">Войдите в систему</string>
@@ -706,8 +712,6 @@
     <string name="theme_dark">Темная тема</string>
     <string name="theme_system">Системная тема</string>
     <string name="background">Задний план</string>
-    <string name="ads_power">Режим мощности</string>
-    <string name="ads_power_info">Некоторый контент может не отображаться.</string>
     <string name="search_suggest">Предложения поиска</string>
     <string name="at_bottom">Внизу</string>
     <string name="guide_menu">Нажмите и удерживайте значок, чтобы редактировать меню.</string>
@@ -793,4 +797,9 @@
     <string name="keyboard_secure">Безопасность клавиатуры</string>
     <string name="keyboard_secure_info_1">Все, что вы вводите в адресную строку с клавиатуры, не сохраняется.</string>
     <string name="keyboard_secure_info_2">Некоторые клавиатуры могут не поддерживаться.</string>
+    <string name="ads_type">Тип объявления</string>
+    <string name="ads_persornal">Персонализированная реклама</string>
+    <string name="ads_no_persornal">Неперсонализированная реклама</string>
+    <string name="ads_invalid">Недействительным</string>
+    <string name="ads_invalid_info">Проблема с настройками рекламы. Пожалуйста, установите его снова.</string>
 </resources>
