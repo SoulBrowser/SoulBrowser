@@ -93,7 +93,7 @@
     <string name="secret_mode">无痕模式</string>
     <string name="normal_mode">正常模式</string>
     <string name="normal_start">以正常模式运行</string>
-    <string name="secret_guide_1">无痕模式区分管理快捷方式，书签，密码，历史记录和下载。</string>
+    <string name="secret_guide_1">无痕模式区分管理捷径，书签，密码，历史记录和下载。</string>
     <string name="secret_guide_2">你可以设置是否保存历史记录和下载内容，以及是否使用锁屏。</string>
     <string name="secret_guide_3">Soul Browser 致力于保护你的隐私。</string>
     <string name="prev_page">上一页</string>
@@ -438,7 +438,7 @@
     <string name="down_limit">同时下载数</string>
     <string name="down_limit_info">同时下载太多文件可能会降低设备速度并出现问题</string>
     <string name="not_allow">不允许</string>
-    <string name="quick_access">快捷方式</string>
+    <string name="quick_access">捷径</string>
     <string name="add_folder">新建文件夹</string>
     <string name="add_current">添加当前页面</string>
     <string name="history_time">保留时限</string>
@@ -447,7 +447,7 @@
     <string name="history_1mon">1个月</string>
     <string name="history_6mon">6个月</string>
     <string name="history_1year">1年</string>
-    <string name="history_none">无限的</string>
+    <string name="history_none">不限制</string>
     <string name="history_info_zero">你的历史记录将不会保存。\n所有先前保存的记录将被删除。</string>
     <string name="history_info_limit">超过保留时限的记录将被自动删除。</string>
     <string name="history_info_none">你的所有历史记录已保存。\n数据过多会降低浏览器性能。</string>
@@ -493,7 +493,7 @@
     <string name="import_html_info_3">3. HTML 书签已添加到 Soul Browser</string>
     <string name="import_no_html">HTML 中没有书签</string>
     <string name="import_normal">从正常模式导入</string>
-    <string name="import_no_quick">正常模式下没有快捷方式</string>
+    <string name="import_no_quick">正常模式下没有捷径</string>
     <string name="import_no_book">正常模式下没有书签</string>
     <string name="import_no_history">正常模式下没有历史记录</string>
     <string name="import_no_password">正常模式下没有密码</string>
@@ -526,7 +526,7 @@
     <string name="show_right">右边</string>
     <string name="tip">暗示</string>
     <string name="web_content">网页内容</string>
-    <string name="customize">个人设置</string>
+    <string name="customize">个性化</string>
     <string name="font">字体</string>
     <string name="font_default">默认字体</string>
     <string name="font_select">选择 TTF</string>
@@ -544,7 +544,7 @@
     <string name="cast_info_5">仅支持可下载的内容</string>
     <string name="cast_info_6">不支持 YouTube</string>
     <string name="cast_info_7">不支持某些格式</string>
-    <string name="user_agent">浏览器标识</string>
+    <string name="user_agent">UA</string>
     <string name="default_title">默认</string>
     <string name="default_android">Android（默认）</string>
     <string name="iphone">iPhone</string>
@@ -572,7 +572,7 @@
     <string name="sort_guide_1">长按列表以切换为编辑模式</string>
     <string name="sort_guide_2">你可以通过拖动右端箭头标志来更改位置</string>
     <string name="add_book">添加到书签</string>
-    <string name="add_quick">添加到快捷方式</string>
+    <string name="add_quick">添加到捷径</string>
     <string name="add_homescreen">添加到主屏幕</string>
     <string name="set_homepage">设为主页</string>
     <string name="setted">已设置</string>
@@ -783,7 +783,7 @@
     <string name="without_load_info_3">关闭应用程序后，用于页面撰写的内存会自动删除</string>
     <string name="level_strong">强大</string>
     <string name="level_weak">弱</string>
-    <string name="open_limit">开仓限制</string>
+    <string name="open_limit">标签限量</string>
     <string name="down_manager">下载管理器</string>
     <string name="down_manager_info1">您可以将自己喜欢的下载器应用程序用作下载管理器</string>
     <string name="down_manager_info2">下载大文件时，浏览器可能会变慢</string>
