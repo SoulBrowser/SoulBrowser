@@ -240,7 +240,7 @@
     <string name="list_vert">รายการ (แนวตั้ง)</string>
     <string name="best_size">ขนาดที่ดีที่สุด</string>
     <string name="best_info">ขนาดที่ดีที่สุดสำหรับประเภทปัจจุบัน</string>
-    <string name="reduce_size">ลดภาพ</string>
+    <string name="reduce_image">ลดภาพ</string>
     <string name="reduce_info">หากภาพที่แสดงมีขนาดใหญ่กว่าหน้าจอ</string>
     <string name="page_split">แยกหน้า (2 หน้า)</string>
     <string name="split_info">หากความกว้างของภาพยาวเกินความสูง</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[แปลไม่ถูกต้อง] &#62; [แปลถูกต้อง]</string>
     <string name="tts_mode">ข้อความเป็นคำพูด</string>
     <string name="tts_on">เปิดใช้งาน TTS</string>
+    <string name="enable_tts">เปิดใช้งาน TTS</string>
+    <string name="disable_tts">ปิดใช้งาน TTS</string>
+    <string name="tts_enabled">เปิดใช้งาน TTS แล้ว</string>
+    <string name="tts_disabled">TTS ถูกปิดใช้งาน</string>
     <string name="tts_info_1">เมื่อคุณคลิกข้อความที่แสดงในเบราว์เซอร์จะถูกอ่านด้วยเสียง</string>
     <string name="tts_info_2">เมื่อข้อความถูกคลิกมันจะอ่านด้วยเสียง</string>
     <string name="detail_setting">การตั้งค่าโดยละเอียด</string>
@@ -774,6 +778,7 @@
     <string name="always_use">ใช้เสมอ</string>
     <string name="only_night">ใช้ในโหมดกลางคืนเท่านั้น</string>
     <string name="night_mode">โหมดกลางคืน</string>
+    <string name="day_mode">โหมดวัน</string>
     <string name="use_scroll_anim">ใช้ภาพเคลื่อนไหวแบบเลื่อน</string>
     <string name="trend_search">การค้นหาที่กำลังมาแรง</string>
     <string name="fast">(เร็ว)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">ไม่ใช่โฆษณาที่ปรับตามโปรไฟล์ของผู้ใช้</string>
     <string name="ads_invalid">ไม่ถูกต้อง</string>
     <string name="ads_invalid_info">มีปัญหากับการตั้งค่าโฆษณา กรุณาตั้งค่าใหม่อีกครั้ง</string>
+    <string name="original_size">ขนาดเดิม</string>
+    <string name="reduced_size">ลดขนาดลง (แนะนำ)</string>
 </resources>

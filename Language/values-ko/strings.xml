@@ -240,7 +240,7 @@
     <string name="list_vert">리스트 (상하)</string>
     <string name="best_size">가장 적합한 크기</string>
     <string name="best_info">현재 방식에 가장 적합한 크기</string>
-    <string name="reduce_size">이미지 축소</string>
+    <string name="reduce_image">이미지 축소</string>
     <string name="reduce_info">보여지는 이미지가 화면보다 큰 경우</string>
     <string name="page_split">페이지 분할 (2 페이지)</string>
     <string name="split_info">가로 길이가 세로보다 긴 이미지</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[잘못된 번역] &#62; [올바른 번역]</string>
     <string name="tts_mode">텍스트 음성 지원</string>
     <string name="tts_on">TTS 사용</string>
+    <string name="enable_tts">TTS 켜기</string>
+    <string name="disable_tts">TTS 끄기</string>
+    <string name="tts_enabled">TTS가 활성화되었습니다.</string>
+    <string name="tts_disabled">TTS가 비활성화되었습니다.</string>
     <string name="tts_info_1">브라우저에 표시된 문자를 클릭하면, 음성으로 읽어줍니다.</string>
     <string name="tts_info_2">문자를 클릭하면,\n음성으로 읽어줍니다.</string>
     <string name="detail_setting">세부 설정</string>
@@ -774,6 +778,7 @@
     <string name="always_use">항상 사용</string>
     <string name="only_night">야간 모드에만 사용</string>
     <string name="night_mode">야간 모드</string>
+    <string name="day_mode">주간 모드</string>
     <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
     <string name="trend_search">인기 검색어</string>
     <string name="fast">(빠른)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">개인 맞춤이 아닌 광고</string>
     <string name="ads_invalid">유효하지 않음</string>
     <string name="ads_invalid_info">광고 설정에 문제가 있습니다. 다시 설정하십시오.</string>
+    <string name="original_size">원래 크기</string>
+    <string name="reduced_size">축소된 크기 (권장)</string>
 </resources>

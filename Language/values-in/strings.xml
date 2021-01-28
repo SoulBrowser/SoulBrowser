@@ -240,7 +240,7 @@
     <string name="list_vert">Daftar (Vertikal)</string>
     <string name="best_size">Ukuran terbaik</string>
     <string name="best_info">Ukuran terbaik untuk tipe saat ini</string>
-    <string name="reduce_size">Kurangi gambar</string>
+    <string name="reduce_image">Kurangi gambar</string>
     <string name="reduce_info">Jika gambar yang ditampilkan lebih besar dari layar</string>
     <string name="page_split">Split halaman (2 halaman)</string>
     <string name="split_info">Jika lebar gambar lebih panjang dari tinggi</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[Terjemahan salah] &#62; [Terjemahan yang benar]</string>
     <string name="tts_mode">Teks pidato</string>
     <string name="tts_on">Aktifkan TTS</string>
+    <string name="enable_tts">Aktifkan TTS</string>
+    <string name="disable_tts">Nonaktifkan TTS</string>
+    <string name="tts_enabled">TTS diaktifkan.</string>
+    <string name="tts_disabled">TTS dinonaktifkan.</string>
     <string name="tts_info_1">Ketika Anda mengklik teks yang ditampilkan di browser, itu dibaca dengan suara.</string>
     <string name="tts_info_2">Ketika teks diklik, itu dibaca dengan suara.</string>
     <string name="detail_setting">Pengaturan detail</string>
@@ -774,6 +778,7 @@
     <string name="always_use">Selalu gunakan</string>
     <string name="only_night">Hanya digunakan dalam mode malam</string>
     <string name="night_mode">Mode malam</string>
+    <string name="day_mode">Mode hari</string>
     <string name="use_scroll_anim">Gunakan animasi gulir</string>
     <string name="trend_search">Pencarian trending</string>
     <string name="fast">(cepat)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">Iklan yang tidak dipersonalisasi</string>
     <string name="ads_invalid">Tidak valid</string>
     <string name="ads_invalid_info">Ada masalah dengan pengaturan iklan. Harap setel lagi.</string>
+    <string name="original_size">Ukuran asli</string>
+    <string name="reduced_size">Ukuran yang diperkecil (disarankan)</string>
 </resources>

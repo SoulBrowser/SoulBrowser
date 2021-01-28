@@ -240,7 +240,7 @@
     <string name="list_vert">Lista (Vertical)</string>
     <string name="best_size">Melhor tamanho</string>
     <string name="best_info">Melhor tamanho para tipo atual</string>
-    <string name="reduce_size">Reduzir imagem</string>
+    <string name="reduce_image">Reduzir imagem</string>
     <string name="reduce_info">Se a imagem exibida for maior do que a tela</string>
     <string name="page_split">Página dividida (2 páginas)</string>
     <string name="split_info">Se a largura da imagem for maior que a altura</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[Tradução incorreta] &#62; [Tradução correta]</string>
     <string name="tts_mode">Text To Speech</string>
     <string name="tts_on">Ativar TTS</string>
+    <string name="enable_tts">Habilitar TTS</string>
+    <string name="disable_tts">Desativar TTS</string>
+    <string name="tts_enabled">TTS está ativado.</string>
+    <string name="tts_disabled">TTS está desativado.</string>
     <string name="tts_info_1">Quando você clica no texto exibido no navegador, ele é lido por voz.</string>
     <string name="tts_info_2">Quando o texto é clicado, ele é lido por voz.</string>
     <string name="detail_setting">Configurações detalhadas</string>
@@ -774,6 +778,7 @@
     <string name="always_use">Sempre use</string>
     <string name="only_night">Usado apenas no modo noturno</string>
     <string name="night_mode">Modo noturno</string>
+    <string name="day_mode">Modo diurno</string>
     <string name="use_scroll_anim">Use a animação de rolagem</string>
     <string name="trend_search">Tendências de pesquisas</string>
     <string name="fast">(velozes)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">Anúncios não personalizados</string>
     <string name="ads_invalid">Inválido</string>
     <string name="ads_invalid_info">Há um problema com as configurações do anúncio. Defina novamente.</string>
+    <string name="original_size">Tamanho original</string>
+    <string name="reduced_size">Tamanho reduzido (recomendado)</string>
 </resources>

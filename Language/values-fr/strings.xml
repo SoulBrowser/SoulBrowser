@@ -240,7 +240,7 @@
     <string name="list_vert">Liste (Verticale)</string>
     <string name="best_size">Meilleure taille</string>
     <string name="best_info">La meilleure taille pour le type actuel</string>
-    <string name="reduce_size">Réduire l\'image</string>
+    <string name="reduce_image">Réduire l\'image</string>
     <string name="reduce_info">Si l\'image affichée est plus grande que l\'écran</string>
     <string name="page_split">Page divisée (2 pages)</string>
     <string name="split_info">Lorsque la largeur de image est supérieure à la hauteur</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[Traduction incorrecte] &#62; [Traduction correcte]</string>
     <string name="tts_mode">Texte pour parler</string>
     <string name="tts_on">Activer TTS</string>
+    <string name="enable_tts">Activer TTS</string>
+    <string name="disable_tts">Désactiver TTS</string>
+    <string name="tts_enabled">TTS est activé.</string>
+    <string name="tts_disabled">TTS est désactivé.</string>
     <string name="tts_info_1">Lorsque vous cliquez sur le texte affiché dans le navigateur, il est lu par la voix.</string>
     <string name="tts_info_2">Lorsque le texte est cliqué, il est lu par la voix.</string>
     <string name="detail_setting">Paramètres détaillés</string>
@@ -774,6 +778,7 @@
     <string name="always_use">Toujours utiliser</string>
     <string name="only_night">Utilisé uniquement en mode nuit</string>
     <string name="night_mode">Mode nuit</string>
+    <string name="day_mode">Mode jour</string>
     <string name="use_scroll_anim">Utiliser l\'animation de défilement</string>
     <string name="trend_search">Recherches populaires</string>
     <string name="fast">(vite)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">Annonces non personnalisées</string>
     <string name="ads_invalid">Invalide</string>
     <string name="ads_invalid_info">Il y a un problème avec les paramètres d\'annonce. Veuillez le régler à nouveau.</string>
+    <string name="original_size">Format original</string>
+    <string name="reduced_size">Taille réduite (recommandé)</string>
 </resources>

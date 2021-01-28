@@ -240,7 +240,7 @@
     <string name="list_vert">List (Vertical)</string>
     <string name="best_size">Best size</string>
     <string name="best_info">The best size for the current type</string>
-    <string name="reduce_size">Reduce image</string>
+    <string name="reduce_image">Reduce image</string>
     <string name="reduce_info">If displayed image is larger than screen</string>
     <string name="page_split">Split page (2 pages)</string>
     <string name="split_info">If image width is longer than height</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[Incorrect translation] &#62; [Correct translation]</string>
     <string name="tts_mode">Text To Speech</string>
     <string name="tts_on">Enable TTS</string>
+    <string name="enable_tts">Enable TTS</string>
+    <string name="disable_tts">Disable TTS</string>
+    <string name="tts_enabled">TTS is enabled.</string>
+    <string name="tts_disabled">TTS is disabled.</string>
     <string name="tts_info_1">When you click the text displayed in the browser, it is read by voice.</string>
     <string name="tts_info_2">When text is clicked, it is read by voice.</string>
     <string name="detail_setting">Detailed settings</string>
@@ -774,6 +778,7 @@
     <string name="always_use">Always use</string>
     <string name="only_night">Only used in night mode</string>
     <string name="night_mode">Night mode</string>
+    <string name="day_mode">Day mode</string>
     <string name="use_scroll_anim">Use scroll animation</string>
     <string name="trend_search">Trending searches</string>
     <string name="fast">(fast)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">Non personalized ads</string>
     <string name="ads_invalid">Invalid</string>
     <string name="ads_invalid_info">There is a problem with ad settings. Please set it again.</string>
+    <string name="original_size">Original size</string>
+    <string name="reduced_size">Reduced size (recommended)</string>
 </resources>

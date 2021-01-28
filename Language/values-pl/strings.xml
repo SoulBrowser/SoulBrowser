@@ -240,7 +240,7 @@
     <string name="list_vert">Lista (Pionowa)</string>
     <string name="best_size">Najlepszy rozmiar</string>
     <string name="best_info">Najlepszy rozmiar dla bieżącego typu</string>
-    <string name="reduce_size">Zmniejsz obraz</string>
+    <string name="reduce_image">Zmniejsz obraz</string>
     <string name="reduce_info">Jeśli wyświetlany obraz jest większy niż ekran</string>
     <string name="page_split">Podziel stronę (2 strony)</string>
     <string name="split_info">Jeśli szerokość obrazu jest większa niż wysokość</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[Niepoprawne tłumaczenie] &#62; [Poprawne tłumaczenie]</string>
     <string name="tts_mode">Tekst na mowę</string>
     <string name="tts_on">Włącz TTS</string>
+    <string name="enable_tts">Włącz TTS</string>
+    <string name="disable_tts">Wyłącz TTS</string>
+    <string name="tts_enabled">TTS jest włączony.</string>
+    <string name="tts_disabled">TTS jest wyłączony.</string>
     <string name="tts_info_1">Po kliknięciu tekstu wyświetlanego w przeglądarce jest on odczytywany głosem.</string>
     <string name="tts_info_2">Kliknięty tekst jest czytany głosem.</string>
     <string name="detail_setting">Szczegółowe ustawienia</string>
@@ -774,6 +778,7 @@
     <string name="always_use">Zawsze używaj</string>
     <string name="only_night">Używany tylko w trybie nocnym</string>
     <string name="night_mode">Tryb nocny</string>
+    <string name="day_mode">Tryb dzienny</string>
     <string name="use_scroll_anim">Użyj animacji przewijania</string>
     <string name="trend_search">Najpopularniejsze wyszukiwania</string>
     <string name="fast">(szybki)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">Reklamy niespersonalizowane</string>
     <string name="ads_invalid">Nieważny</string>
     <string name="ads_invalid_info">Wystąpił problem z ustawieniami reklam. Ustaw ponownie.</string>
+    <string name="original_size">Oryginalny rozmiar</string>
+    <string name="reduced_size">Zmniejszony rozmiar (zalecane)</string>
 </resources>

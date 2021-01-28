@@ -240,7 +240,7 @@
     <string name="list_vert">清單（上下）</string>
     <string name="best_size">最佳尺寸</string>
     <string name="best_info">當前類型的最佳大小</string>
-    <string name="reduce_size">減少圖片</string>
+    <string name="reduce_image">減少圖片</string>
     <string name="reduce_info">如果顯示的圖片比螢幕大</string>
     <string name="page_split">拆分頁面（2頁）</string>
     <string name="split_info">圖片長於寬度</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[錯誤的翻譯] &#62; [正確的翻譯]</string>
     <string name="tts_mode">文字轉語音</string>
     <string name="tts_on">啟用 TTS</string>
+    <string name="enable_tts">啟用TTS</string>
+    <string name="disable_tts">禁用TTS</string>
+    <string name="tts_enabled">TTS已啟用</string>
+    <string name="tts_disabled">TTS已禁用</string>
     <string name="tts_info_1">單擊瀏覽器中顯示的文本時，將透過語音讀取</string>
     <string name="tts_info_2">單擊文本後，將透過語音讀取</string>
     <string name="detail_setting">詳細設定</string>
@@ -774,6 +778,7 @@
     <string name="always_use">一律使用</string>
     <string name="only_night">僅在夜間模式下使用</string>
     <string name="night_mode">夜間模式</string>
+    <string name="day_mode">日間模式</string>
     <string name="use_scroll_anim">使用滾動動畫</string>
     <string name="trend_search">搜尋趨勢</string>
     <string name="fast">(快速)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">非個性化廣告</string>
     <string name="ads_invalid">無效</string>
     <string name="ads_invalid_info">廣告設置存在問題。 請重新設置</string>
+    <string name="original_size">原始尺寸</string>
+    <string name="reduced_size">縮小尺寸（推薦）</string>
 </resources>

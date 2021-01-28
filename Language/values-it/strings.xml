@@ -240,7 +240,7 @@
     <string name="list_vert">Elenchi (Verticale)</string>
     <string name="best_size">Migliore dimensione</string>
     <string name="best_info">La dimensione migliore per il tipo corrente</string>
-    <string name="reduce_size">Riduci l\'immagine</string>
+    <string name="reduce_image">Riduci l\'immagine</string>
     <string name="reduce_info">Se l\'immagine visualizzata è più grande dello schermo</string>
     <string name="page_split">Pagina divisa (2 pagine)</string>
     <string name="split_info">Se la larghezza del immagine è più lunga del altezza</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[Traduzione errata] &#62; [Traduzione corretta]</string>
     <string name="tts_mode">Sintesi vocale</string>
     <string name="tts_on">Abilita TTS</string>
+    <string name="enable_tts">Abilita TTS</string>
+    <string name="disable_tts">Disabilita TTS</string>
+    <string name="tts_enabled">TTS è abilitato.</string>
+    <string name="tts_disabled">TTS è disabilitato.</string>
     <string name="tts_info_1">Quando si fa clic sul testo visualizzato nel browser, viene letto con la voce.</string>
     <string name="tts_info_2">Quando si fa clic sul testo, questo viene letto con la voce.</string>
     <string name="detail_setting">Impostazioni dettagliate</string>
@@ -774,6 +778,7 @@
     <string name="always_use">Usa sempre</string>
     <string name="only_night">Utilizzato solo in modalità notturna</string>
     <string name="night_mode">Modalità notturna</string>
+    <string name="day_mode">Modalità giorno</string>
     <string name="use_scroll_anim">Usa l\'animazione di scorrimento</string>
     <string name="trend_search">Ricerche di tendenza</string>
     <string name="fast">(veloce)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">Annunci non personalizzati</string>
     <string name="ads_invalid">Non valido</string>
     <string name="ads_invalid_info">C\'è un problema con le impostazioni degli annunci. Per favore impostalo di nuovo.</string>
+    <string name="original_size">Misura originale</string>
+    <string name="reduced_size">Dimensioni ridotte (consigliato)</string>
 </resources>

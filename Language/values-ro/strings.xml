@@ -240,7 +240,7 @@
     <string name="list_vert">Listă (Verticală)</string>
     <string name="best_size">Cea mai bună dimensiune</string>
     <string name="best_info">Cea mai bună dimensiune pentru tipul curent</string>
-    <string name="reduce_size">Reduce imaginea</string>
+    <string name="reduce_image">Reduce imaginea</string>
     <string name="reduce_info">Dacă imaginea afișată este mai mare decât ecranul</string>
     <string name="page_split">Divizare pagină (2 pagini)</string>
     <string name="split_info">Dacă lățimea imaginii este mai mare decât înălțimea</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[Traducere incorectă] &#62; [Traducere corectă]</string>
     <string name="tts_mode">Text la vorbire</string>
     <string name="tts_on">Activați TTS</string>
+    <string name="enable_tts">Activați TTS</string>
+    <string name="disable_tts">Dezactivați TTS</string>
+    <string name="tts_enabled">TTS este activat.</string>
+    <string name="tts_disabled">TTS este dezactivat.</string>
     <string name="tts_info_1">Când faceți clic pe textul afișat în browser, acesta este citit prin voce.</string>
     <string name="tts_info_2">Când faceți clic pe text, acesta este citit prin voce.</string>
     <string name="detail_setting">Setări detaliate</string>
@@ -774,6 +778,7 @@
     <string name="always_use">Folosiți întotdeauna</string>
     <string name="only_night">Folosit numai în modul de noapte</string>
     <string name="night_mode">Mod de noapte</string>
+    <string name="day_mode">Mod zi</string>
     <string name="use_scroll_anim">Utilizați animația de defilare</string>
     <string name="trend_search">Căutări în tendințe</string>
     <string name="fast">(rapid)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">Anunțuri nepersonalizate</string>
     <string name="ads_invalid">Invalid</string>
     <string name="ads_invalid_info">Există o problemă cu setările pentru anunțuri. Vă rugăm să setați din nou.</string>
+    <string name="original_size">Mărimea originală</string>
+    <string name="reduced_size">Dimensiune redusă (recomandat)</string>
 </resources>

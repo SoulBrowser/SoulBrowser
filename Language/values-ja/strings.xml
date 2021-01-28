@@ -240,7 +240,7 @@
     <string name="list_vert">リスト (上下)</string>
     <string name="best_size">ベストサイズ</string>
     <string name="best_info">現在のタイプに最適なサイズ</string>
-    <string name="reduce_size">画像を縮小する</string>
+    <string name="reduce_image">画像を縮小する</string>
     <string name="reduce_info">表示された画像が画面より大きい場合</string>
     <string name="page_split">分割ページ (2 ページ)</string>
     <string name="split_info">横の長さが縦より長いイメージ</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[誤った翻訳] &#62; [正しい翻訳]</string>
     <string name="tts_mode">スピーチへのテキスト</string>
     <string name="tts_on">TTSを有効に</string>
+    <string name="enable_tts">TTSを有効にする</string>
+    <string name="disable_tts">TTSを無効にする</string>
+    <string name="tts_enabled">TTSが有効になっています。</string>
+    <string name="tts_disabled">TTSは無効になっています。</string>
     <string name="tts_info_1">ブラウザに表示された文字をクリックすると、音声で読み上げます。</string>
     <string name="tts_info_2">文字をクリックすると、音声で読み上げます。</string>
     <string name="detail_setting">詳細設定</string>
@@ -774,6 +778,7 @@
     <string name="always_use">常に使用</string>
     <string name="only_night">夜間モードでのみ使用</string>
     <string name="night_mode">ナイトモード</string>
+    <string name="day_mode">週間モード</string>
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
     <string name="trend_search">トレンド検索</string>
     <string name="fast">(クイック)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">パーソナライズされていない広告</string>
     <string name="ads_invalid">無効</string>
     <string name="ads_invalid_info">広告設定に問題があります。 再度設定してください。</string>
+    <string name="original_size">元のサイズ</string>
+    <string name="reduced_size">縮小されたサイズ（推奨）</string>
 </resources>

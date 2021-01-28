@@ -64,7 +64,7 @@
     <string name="history">История</string>
     <string name="setting">Настройки</string>
     <string name="create_folder">Создать папку</string>
-    <string name="move">Переехать</string>
+    <string name="move">Переместить</string>
     <string name="delete">Удалить</string>
     <string name="delete_file">Удалить файл</string>
     <string name="delete_record">Удалить запись</string>
@@ -240,7 +240,7 @@
     <string name="list_vert">Списки (Вертикальный)</string>
     <string name="best_size">Лучший размер</string>
     <string name="best_info">Лучший размер для текущего типа</string>
-    <string name="reduce_size">Уменьшить изображение</string>
+    <string name="reduce_image">Уменьшить изображение</string>
     <string name="reduce_info">Если отображаемое изображение больше экрана</string>
     <string name="page_split">Разделить страницу (2 страницы)</string>
     <string name="split_info">Если ширина изображение больше высоты</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[Неверный перевод] &#62; [Правильный перевод]</string>
     <string name="tts_mode">Текст в речь</string>
     <string name="tts_on">Включить TTS</string>
+    <string name="enable_tts">Включить TTS</string>
+    <string name="disable_tts">Отключить TTS</string>
+    <string name="tts_enabled">TTS включен.</string>
+    <string name="tts_disabled">TTS отключен.</string>
     <string name="tts_info_1">Когда Вы нажимаете текст, отображаемый в браузере, он читается вслух.</string>
     <string name="tts_info_2">Когда Вы нажимаете текст, он читается вслух.</string>
     <string name="detail_setting">Подробные настройки</string>
@@ -669,7 +673,7 @@
     <string name="estimated_info">Предполагаемые и фактические размеры могут отличаться.</string>
     <string name="unknown">Неизвестный</string>
     <string name="move_top">Вернуться к началу</string>
-    <string name="move_bot">Ко дну</string>
+    <string name="move_bot">В конец</string>
     <string name="scroll_up">Прокрутите вверх</string>
     <string name="scroll_down">Прокрутить вниз</string>
     <string name="open_with">Открыть с</string>
@@ -774,6 +778,7 @@
     <string name="always_use">Всегда используйте</string>
     <string name="only_night">Используется только в ночном режиме</string>
     <string name="night_mode">Ночной режим</string>
+    <string name="day_mode">Дневной режим</string>
     <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
     <string name="trend_search">Популярные запросы</string>
     <string name="fast">(быстрый)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">Неперсонализированная реклама</string>
     <string name="ads_invalid">Недействительным</string>
     <string name="ads_invalid_info">Проблема с настройками рекламы. Пожалуйста, установите его снова.</string>
+    <string name="original_size">Оригинальный размер</string>
+    <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
 </resources>

@@ -240,7 +240,7 @@
     <string name="list_vert">Danh sách (Theo chiều dọc)</string>
     <string name="best_size">Kích thước tốt nhất</string>
     <string name="best_info">Kích thước tốt nhất cho loại hiện tại</string>
-    <string name="reduce_size">Giảm hình ảnh</string>
+    <string name="reduce_image">Giảm hình ảnh</string>
     <string name="reduce_info">Nếu hình ảnh hiển thị lớn hơn màn hình</string>
     <string name="page_split">Chia trang (2 trang)</string>
     <string name="split_info">Nếu chiều rộng hình ảnh dài hơn chiều cao</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[Bản dịch không chính xác] &#62; [Bản dịch chính xác]</string>
     <string name="tts_mode">Nhắn tin cho bài phát biểu</string>
     <string name="tts_on">Kích hoạt TTS</string>
+    <string name="enable_tts">Bật TTS</string>
+    <string name="disable_tts">Tắt TTS</string>
+    <string name="tts_enabled">TTS được bật.</string>
+    <string name="tts_disabled">TTS bị vô hiệu hóa.</string>
     <string name="tts_info_1">Khi bạn bấm vào văn bản được hiển thị trong trình duyệt, nó được đọc bằng giọng nói.</string>
     <string name="tts_info_2">Khi văn bản được nhấp, nó được đọc bằng giọng nói.</string>
     <string name="detail_setting">Cài đặt chi tiết</string>
@@ -774,6 +778,7 @@
     <string name="always_use">Luôn luôn sử dụng</string>
     <string name="only_night">Chỉ sử dụng ở chế độ ban đêm</string>
     <string name="night_mode">Chế độ ban đêm</string>
+    <string name="day_mode">Chế độ ngày</string>
     <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
     <string name="trend_search">Tìm kiếm thịnh hành</string>
     <string name="fast">(nhanh)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">Quảng cáo không được cá nhân hóa</string>
     <string name="ads_invalid">không hợp lệ</string>
     <string name="ads_invalid_info">Có vấn đề với cài đặt quảng cáo. Vui lòng đặt lại.</string>
+    <string name="original_size">Kích thước nguyên mẫu</string>
+    <string name="reduced_size">Giảm kích thước (khuyến nghị)</string>
 </resources>

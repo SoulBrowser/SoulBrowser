@@ -240,7 +240,7 @@
     <string name="list_vert">Список (вертикальний)</string>
     <string name="best_size">Найкращий розмір</string>
     <string name="best_info">Найкращий розмір для поточного типу</string>
-    <string name="reduce_size">Зменшити зображення</string>
+    <string name="reduce_image">Зменшити зображення</string>
     <string name="reduce_info">Якщо відображене зображення перевищує екран</string>
     <string name="page_split">Розділити сторінку (2 сторінки)</string>
     <string name="split_info">Якщо ширина зображення більше, ніж висота</string>
@@ -589,6 +589,10 @@
     <string name="trans_report_guide">[Неправильний переклад ] &#62; [Правильний переклад]</string>
     <string name="tts_mode">Текст в голос</string>
     <string name="tts_on">Увімкнути TTS</string>
+    <string name="enable_tts">Увімкнути TTS</string>
+    <string name="disable_tts">Вимкніть TTS</string>
+    <string name="tts_enabled">TTS увімкнено.</string>
+    <string name="tts_disabled">TTS вимкнено.</string>
     <string name="tts_info_1">При натисканні на текст, який відображається в браузері, він читається голосом.</string>
     <string name="tts_info_2">Коли текст натиснуто, він читається голосом.</string>
     <string name="detail_setting">Детальні налаштування</string>
@@ -774,6 +778,7 @@
     <string name="always_use">Завжди використовуйте</string>
     <string name="only_night">Використовується лише в нічному режимі</string>
     <string name="night_mode">Нічний режим</string>
+    <string name="day_mode">Денний режим</string>
     <string name="use_scroll_anim">Використовуйте анімацію прокрутки</string>
     <string name="trend_search">Популярні пошукові запити</string>
     <string name="fast">(швидко)</string>
@@ -802,4 +807,6 @@
     <string name="ads_no_persornal">Неперсоналізована реклама</string>
     <string name="ads_invalid">Недійсний</string>
     <string name="ads_invalid_info">Виникла проблема з налаштуваннями оголошень. Будь ласка, встановіть його знову.</string>
+    <string name="original_size">Оригінальний розмір</string>
+    <string name="reduced_size">Зменшений розмір (рекомендується)</string>
 </resources>
