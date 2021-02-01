@@ -262,6 +262,7 @@
     <string name="invalid_path">無効なパス</string>
     <string name="invalid_file">無効なファイル</string>
     <string name="not_supported_page">サポートされていないページ</string>
+    <string name="not_supported_http">HTTPサイトはサポートされません。</string>
     <string name="current">現在</string>
     <string name="total">全体</string>
     <string name="all">すべて</string>
@@ -809,4 +810,12 @@
     <string name="ads_invalid_info">広告設定に問題があります。 再度設定してください。</string>
     <string name="original_size">元のサイズ</string>
     <string name="reduced_size">縮小されたサイズ（推奨）</string>
+    <string name="welcome_beta">ベータテスターがあれを歓迎します。</string>
+    <string name="about_beta">ベータテストについて</string>
+    <string name="about_beta_1">このベータテストの目的は、アプリ全体の安定性に影響を与える可能性がありますので、フルバージョンにすぐに反映さにくい点を事前にテストすることです。\n（例えば、構造の変更、フィルタエンジンなど）</string>
+    <string name="about_beta_2">このバージョンでは、フィルタエンジンへの変更はありません。\nフィルタエンジンはまだ開発中です。</string>
+    <string name="about_dev">開発者に対して？</string>
+    <string name="about_dev_1">全世界には多くのブラウザの開発者がいます。\n私はそれらの中で最も無能開発者です。</string>
+    <string name="about_dev_2">私は他の開発者ほどよくありません。\nユーザーの期待に応えることがとても困難です。</string>
+    <string name="about_dev_3">Soul Browserがより発展するためには、あなたの助けが必要です。\nバグを発見した場合、私に教えてください。\nありがとうございます。</string>
 </resources>

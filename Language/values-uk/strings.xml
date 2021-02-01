@@ -262,6 +262,7 @@
     <string name="invalid_path">Недійсний шлях</string>
     <string name="invalid_file">Недійсний файл</string>
     <string name="not_supported_page">Непідтримувана сторінка</string>
+    <string name="not_supported_http">Сайти HTTP не підтримуються.</string>
     <string name="current">Поточний</string>
     <string name="total">Всього</string>
     <string name="all">Усі</string>
@@ -809,4 +810,12 @@
     <string name="ads_invalid_info">Виникла проблема з налаштуваннями оголошень. Будь ласка, встановіть його знову.</string>
     <string name="original_size">Оригінальний розмір</string>
     <string name="reduced_size">Зменшений розмір (рекомендується)</string>
+    <string name="welcome_beta">Ласкаво просимо до бета-тестера.</string>
+    <string name="about_beta">Про бета-тестування</string>
+    <string name="about_beta_1">Мета цього бета-тесту - перевірити заздалегідь речі, які важко відразу відобразити в повній версії, оскільки це може вплинути на стабільність програми в цілому.\n(Наприклад, зміна структури, механізм фільтра тощо)</string>
+    <string name="about_beta_2">У цій версії механізм фільтру не змінюється.\nДвигун фільтрів все ще розробляється.</string>
+    <string name="about_dev">Про розробника?</string>
+    <string name="about_dev_1">У всьому світі існує безліч розробників браузерів.\nЯ найнекомпетентніший розробник з них.</string>
+    <string name="about_dev_2">Я не такий хороший, як інші розробники.\nЗанадто складно виправдати сподівання користувачів.</string>
+    <string name="about_dev_3">Soul Browser потребує вашої допомоги для подальшого розвитку.\nБудь ласка, повідомте мене, якщо ви виявите помилки.\nДякую.</string>
 </resources>

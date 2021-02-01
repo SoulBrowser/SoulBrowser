@@ -262,6 +262,7 @@
     <string name="invalid_path">Đường dẫn không hợp lệ</string>
     <string name="invalid_file">Tập tin không hợp lệ</string>
     <string name="not_supported_page">Trang không được hỗ trợ</string>
+    <string name="not_supported_http">Các trang web HTTP không được hỗ trợ.</string>
     <string name="current">Hiện hành</string>
     <string name="total">Toàn bộ</string>
     <string name="all">Tất cả các</string>
@@ -809,4 +810,12 @@
     <string name="ads_invalid_info">Có vấn đề với cài đặt quảng cáo. Vui lòng đặt lại.</string>
     <string name="original_size">Kích thước nguyên mẫu</string>
     <string name="reduced_size">Giảm kích thước (khuyến nghị)</string>
+    <string name="welcome_beta">Chào mừng bạn đến với trình thử nghiệm beta.</string>
+    <string name="about_beta">Giới thiệu về thử nghiệm beta</string>
+    <string name="about_beta_1">Mục đích của thử nghiệm beta này là để kiểm tra trước những thứ khó phản ánh ngay lập tức trong phiên bản đầy đủ vì nó có thể ảnh hưởng đến tính ổn định của toàn bộ ứng dụng.\n(Ví dụ: thay đổi cấu trúc, động cơ lọc, v.v.)</string>
+    <string name="about_beta_2">Không có thay đổi nào đối với bộ lọc trong phiên bản này.\nBộ lọc động cơ vẫn đang được phát triển.</string>
+    <string name="about_dev">Về nhà phát triển?</string>
+    <string name="about_dev_1">Có rất nhiều nhà phát triển trình duyệt trên toàn thế giới.\nTôi là nhà phát triển kém năng lực nhất trong số họ.</string>
+    <string name="about_dev_2">Tôi không giỏi như những nhà phát triển khác.\nQuá khó để đáp ứng kỳ vọng của người dùng.</string>
+    <string name="about_dev_3">Soul Browser cần sự giúp đỡ của bạn để phát triển hơn nữa.\nVui lòng cho tôi biết nếu bạn tìm thấy bất kỳ lỗi nào.\nCảm ơn bạn.</string>
 </resources>

@@ -262,6 +262,7 @@
     <string name="invalid_path">路徑無效</string>
     <string name="invalid_file">文件無效</string>
     <string name="not_supported_page">不支持的頁面</string>
+    <string name="not_supported_http">不支持HTTP網站</string>
     <string name="current">現在</string>
     <string name="total">整體</string>
     <string name="all">所有</string>
@@ -800,8 +801,8 @@
     <string name="video_player">播放器</string>
     <string name="security">安全</string>
     <string name="keyboard_secure">鍵盤安全性</string>
-    <string name="keyboard_secure_info_1">使用鍵盤在地址欄中鍵入的任何內容均不會保存。</string>
-    <string name="keyboard_secure_info_2">某些鍵盤可能不受支持。</string>
+    <string name="keyboard_secure_info_1">使用鍵盤在地址欄中鍵入的任何內容均不會保存</string>
+    <string name="keyboard_secure_info_2">某些鍵盤可能不受支持</string>
     <string name="ads_type">廣告類型</string>
     <string name="ads_persornal">個性化廣告</string>
     <string name="ads_no_persornal">非個性化廣告</string>
@@ -809,4 +810,12 @@
     <string name="ads_invalid_info">廣告設置存在問題。 請重新設置</string>
     <string name="original_size">原始尺寸</string>
     <string name="reduced_size">縮小尺寸（推薦）</string>
+    <string name="welcome_beta">歡迎使用Beta測試器</string>
+    <string name="about_beta">關於Beta測試</string>
+    <string name="about_beta_1">此Beta測試的目的是預先測試難以立即反映在完整版本中的內容，因為這可能會影響整個應用程序的穩定性\n（例如，結構更改，過濾器引擎等）</string>
+    <string name="about_beta_2">此版本中的過濾器引擎沒有更改\n過濾器引擎仍在開發中</string>
+    <string name="about_dev">關於開發商？</string>
+    <string name="about_dev_1">世界各地有許多瀏覽器開發人員\n我是他們中最無能的開發人員</string>
+    <string name="about_dev_2">我不如其他開發人員好\n很難達到用戶的期望</string>
+    <string name="about_dev_3">靈魂瀏覽器需要您的幫助才能進一步發展\n如果您發現任何錯誤，請告訴我\n謝謝</string>
 </resources>

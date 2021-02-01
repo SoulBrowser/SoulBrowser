@@ -80,7 +80,7 @@
     <string name="edit">编辑</string>
     <string name="share">分享</string>
     <string name="details">详细信息</string>
-    <string name="down_skip_pixel">像素图像</string>
+    <string name="down_skip_pixel">1像素图像</string>
     <string name="image_split">拆分图像</string>
     <string name="move_to">移动至</string>
     <string name="skip">跳过</string>
@@ -262,6 +262,7 @@
     <string name="invalid_path">路径无效</string>
     <string name="invalid_file">文件无效</string>
     <string name="not_supported_page">不支持的页面</string>
+    <string name="not_supported_http">不支持HTTP网站</string>
     <string name="current">当前</string>
     <string name="total">总计</string>
     <string name="all">所有</string>
@@ -317,7 +318,7 @@
     <string name="no_permission">没有权限</string>
     <string name="ads_block">广告拦截</string>
     <string name="ads_block_info">必须至少启用一个过滤器才能屏蔽广告</string>
-    <string name="do_not_trank">不跟踪（Do Not Trank）</string>
+    <string name="do_not_trank">不跟踪（Do Not Track）</string>
     <string name="filtered_image">过滤的图像（%d）</string>
     <string name="update">更新</string>
     <string name="update_fail">更新失败</string>
@@ -800,8 +801,8 @@
     <string name="video_player">播放器</string>
     <string name="security">安全</string>
     <string name="keyboard_secure">键盘安全性</string>
-    <string name="keyboard_secure_info_1">使用键盘在地址栏中键入的任何内容均不会保存。</string>
-    <string name="keyboard_secure_info_2">但是某些键盘可能不受支持。</string>
+    <string name="keyboard_secure_info_1">使用键盘在地址栏中键入的任何内容均不会保存</string>
+    <string name="keyboard_secure_info_2">但是某些键盘可能不受支持</string>
     <string name="ads_type">广告类型</string>
     <string name="ads_persornal">个性化广告</string>
     <string name="ads_no_persornal">非个性化广告</string>
@@ -809,4 +810,12 @@
     <string name="ads_invalid_info">广告设置存在问题。 请重新设置</string>
     <string name="original_size">原始尺寸</string>
     <string name="reduced_size">缩小尺寸（推荐）</string>
+    <string name="welcome_beta">欢迎使用Beta测试器</string>
+    <string name="about_beta">关于Beta测试</string>
+    <string name="about_beta_1">此Beta测试的目的是预先测试难以立即反映在完整版本中的内容，因为这可能会影响整个应用程序的稳定性\n（例如，结构更改，过滤器引擎等）</string>
+    <string name="about_beta_2">此版本中的过滤器引擎没有更改\n过滤器引擎仍在开发中</string>
+    <string name="about_dev">关于开发商？</string>
+    <string name="about_dev_1">世界各地有许多浏览器开发人员\n我是他们中最无能的开发人员</string>
+    <string name="about_dev_2">我不如其他开发人员好\n很难达到用户的期望</string>
+    <string name="about_dev_3">灵魂浏览器需要您的帮助才能进一步发展\n如果您发现任何错误，请告诉我\n谢谢</string>
 </resources>

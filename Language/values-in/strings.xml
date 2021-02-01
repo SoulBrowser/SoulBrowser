@@ -262,6 +262,7 @@
     <string name="invalid_path">Path tidak valid</string>
     <string name="invalid_file">File yang tidak valid</string>
     <string name="not_supported_page">Halaman tidak didukung</string>
+    <string name="not_supported_http">Situs HTTP tidak didukung.</string>
     <string name="current">Arus</string>
     <string name="total">Total</string>
     <string name="all">Semua</string>
@@ -809,4 +810,12 @@
     <string name="ads_invalid_info">Ada masalah dengan pengaturan iklan. Harap setel lagi.</string>
     <string name="original_size">Ukuran asli</string>
     <string name="reduced_size">Ukuran yang diperkecil (disarankan)</string>
+    <string name="welcome_beta">Selamat datang di penguji beta.</string>
+    <string name="about_beta">Tentang pengujian beta</string>
+    <string name="about_beta_1">Tujuan dari uji beta ini adalah untuk menguji hal-hal sebelumnya yang sulit untuk segera tercermin dalam versi lengkap karena dapat memengaruhi stabilitas aplikasi secara keseluruhan.\n(Misalnya perubahan struktur, mesin filter, dll.)</string>
+    <string name="about_beta_2">Tidak ada perubahan pada mesin filter dalam versi ini.\nMesin filter masih dalam pengembangan.</string>
+    <string name="about_dev">Tentang pengembang?</string>
+    <string name="about_dev_1">Ada banyak pengembang browser di seluruh dunia.\nSaya adalah pengembang yang paling tidak kompeten dari mereka.</string>
+    <string name="about_dev_2">Saya tidak sebaik developer lainnya.\nTerlalu sulit untuk memenuhi harapan pengguna.</string>
+    <string name="about_dev_3">Soul Browser membutuhkan bantuan Anda untuk berkembang lebih jauh.\nTolong beri tahu saya jika Anda menemukan bug.\nTerima kasih.</string>
 </resources>

@@ -262,6 +262,7 @@
     <string name="invalid_path">Ruta inválida</string>
     <string name="invalid_file">Archivo inválido</string>
     <string name="not_supported_page">Página no admitida</string>
+    <string name="not_supported_http">Los sitios HTTP no son compatibles.</string>
     <string name="current">Actual</string>
     <string name="total">Total</string>
     <string name="all">Todas</string>
@@ -809,4 +810,12 @@
     <string name="ads_invalid_info">Hay un problema con la configuración de anuncios. Vuelva a configurarlo.</string>
     <string name="original_size">Tamaño original</string>
     <string name="reduced_size">Tamaño reducido (recomendado)</string>
+    <string name="welcome_beta">Bienvenido al tester beta.</string>
+    <string name="about_beta">Acerca de las pruebas beta</string>
+    <string name="about_beta_1">El propósito de esta prueba beta es probar cosas por adelantado que son difíciles de reflejar inmediatamente en la versión completa, ya que pueden afectar la estabilidad de la aplicación en su conjunto.\n(Por ejemplo, cambio de estructura, motor de filtro, etc.)</string>
+    <string name="about_beta_2">No hay cambios en el motor de filtrado en esta versión.\nEl motor de filtrado aún está en desarrollo.</string>
+    <string name="about_dev">¿Sobre el desarrollador?</string>
+    <string name="about_dev_1">Existen numerosos desarrolladores de navegadores en todo el mundo.\nSoy el desarrollador más incompetente de ellos.</string>
+    <string name="about_dev_2">No soy tan bueno como otros desarrolladores.\nEs demasiado difícil estar a la altura de las expectativas de los usuarios.</string>
+    <string name="about_dev_3">Soul Browser necesita tu ayuda para desarrollarse aún más.\nAvíseme si encuentra algún error.\nGracias.</string>
 </resources>
