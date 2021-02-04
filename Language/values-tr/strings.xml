@@ -125,6 +125,7 @@
     <string name="copied_clipboard">Panoya kopyalandı</string>
     <string name="preview_image">Önizleme resmi</string>
     <string name="view_image">Resmi görüntüle</string>
+    <string name="tab_image">Resmi yeni sekmede aç</string>
     <string name="only_image">Sadece görüntüleri göster</string>
     <string name="downall_image">Tüm resimleri kaydet</string>
     <string name="tab_list">Sekme listesi</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">Reklam ayarlarında bir sorun var. Lütfen yeniden ayarlayın.</string>
     <string name="original_size">Orijinal boyut</string>
     <string name="reduced_size">Küçültülmüş boyut (önerilir)</string>
-    <string name="welcome_beta">Beta test cihazına hoş geldiniz.</string>
-    <string name="about_beta">Beta testi hakkında</string>
-    <string name="about_beta_1">Bu beta testinin amacı, uygulamanın bir bütün olarak kararlılığını etkileyebileceğinden, tam sürüme hemen yansıtılması zor olan şeyleri önceden test etmektir.\n(Örn. Yapı değişikliği, filtre motoru vb.)</string>
-    <string name="about_beta_2">Bu sürümde filtre motorunda herhangi bir değişiklik yok.\nFiltre motoru hala geliştirme aşamasındadır.</string>
-    <string name="about_dev">Geliştirici hakkında?</string>
-    <string name="about_dev_1">Tüm dünyada çok sayıda tarayıcı geliştiricisi var.\nBen onların en beceriksiz geliştiricisiyim.</string>
-    <string name="about_dev_2">Diğer geliştiriciler kadar iyi değilim.\nKullanıcı beklentilerini karşılamak çok zor.</string>
-    <string name="about_dev_3">Soul Browser\'ın daha fazla gelişmesi için yardımınıza ihtiyacı var.\nHerhangi bir hata bulursanız lütfen bana bildirin.\nTeşekkür ederim.</string>
 </resources>

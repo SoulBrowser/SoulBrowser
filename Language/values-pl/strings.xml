@@ -125,6 +125,7 @@
     <string name="copied_clipboard">Skopiowane do schowka</string>
     <string name="preview_image">Podgląd obrazu</string>
     <string name="view_image">Wyświetl obraz</string>
+    <string name="tab_image">Otwórz obraz w nowej karcie</string>
     <string name="only_image">Wyświetl tylko obrazy</string>
     <string name="downall_image">Zapisz wszystkie obrazy</string>
     <string name="tab_list">Lista kart</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">Wystąpił problem z ustawieniami reklam. Ustaw ponownie.</string>
     <string name="original_size">Oryginalny rozmiar</string>
     <string name="reduced_size">Zmniejszony rozmiar (zalecane)</string>
-    <string name="welcome_beta">Witamy w beta testerze.</string>
-    <string name="about_beta">O testach beta</string>
-    <string name="about_beta_1">Celem tego testu beta jest wcześniejsze przetestowanie rzeczy, które są trudne do natychmiastowego odzwierciedlenia w pełnej wersji, ponieważ mogą wpłynąć na stabilność całej aplikacji.\n(Np. Zmiana konstrukcji, silnik filtra itp.)</string>
-    <string name="about_beta_2">W tej wersji nie ma zmian w silniku filtra.\nSilnik filtra jest nadal w fazie rozwoju.</string>
-    <string name="about_dev">O deweloperze?</string>
-    <string name="about_dev_1">Na całym świecie jest wielu programistów przeglądarek.\nJestem najbardziej niekompetentnym ich twórcą.</string>
-    <string name="about_dev_2">Nie jestem tak dobry jak inni programiści.\nSpełnienie oczekiwań użytkowników jest zbyt trudne.</string>
-    <string name="about_dev_3">Soul Browser potrzebuje Twojej pomocy, aby się dalej rozwijać.\nDaj mi znać, jeśli znajdziesz jakieś błędy.\nDziękuję Ci.</string>
 </resources>

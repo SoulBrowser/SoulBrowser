@@ -125,6 +125,7 @@
     <string name="copied_clipboard">Copiat în clipboard</string>
     <string name="preview_image">Previzualizați imagine</string>
     <string name="view_image">Vizualizare imagine</string>
+    <string name="tab_image">Deschideți imaginea într-o filă nouă</string>
     <string name="only_image">Vizualizați doar imagini</string>
     <string name="downall_image">Salvați toate imaginile</string>
     <string name="tab_list">Lista file</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">Există o problemă cu setările pentru anunțuri. Vă rugăm să setați din nou.</string>
     <string name="original_size">Mărimea originală</string>
     <string name="reduced_size">Dimensiune redusă (recomandat)</string>
-    <string name="welcome_beta">Bun venit la beta tester.</string>
-    <string name="about_beta">Despre testarea beta</string>
-    <string name="about_beta_1">Scopul acestui test beta este de a testa în avans lucruri care sunt dificil de reflectat imediat în versiunea completă, deoarece pot afecta stabilitatea aplicației în ansamblu.\n(De exemplu, schimbarea structurii, filtrarea motorului etc.)</string>
-    <string name="about_beta_2">În această versiune nu există modificări ale motorului de filtrare.\nMotorul de filtrare este încă în curs de dezvoltare.</string>
-    <string name="about_dev">Despre dezvoltator?</string>
-    <string name="about_dev_1">Există numeroși dezvoltatori de browsere în întreaga lume.\nSunt cel mai incompetent dezvoltator dintre ele.</string>
-    <string name="about_dev_2">Nu sunt la fel de bun ca alți dezvoltatori.\nEste prea dificil să vă îndepliniți așteptările utilizatorilor.</string>
-    <string name="about_dev_3">Soul Browser are nevoie de ajutorul tău pentru a se dezvolta în continuare.\nVă rog să-mi spuneți dacă găsiți erori.\nMulțumesc.</string>
 </resources>

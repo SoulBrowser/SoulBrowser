@@ -125,6 +125,7 @@
     <string name="copied_clipboard">คัดลอกไปที่คลิปบอร์ดแล้ว</string>
     <string name="preview_image">ดูตัวอย่างรูปภาพ</string>
     <string name="view_image">ดูรูปภาพ</string>
+    <string name="tab_image">เปิดรูปภาพในแท็บใหม่</string>
     <string name="only_image">ดูภาพเท่านั้น</string>
     <string name="downall_image">บันทึกภาพทั้งหมด</string>
     <string name="tab_list">รายการแท็บ</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">มีปัญหากับการตั้งค่าโฆษณา กรุณาตั้งค่าใหม่อีกครั้ง</string>
     <string name="original_size">ขนาดเดิม</string>
     <string name="reduced_size">ลดขนาดลง (แนะนำ)</string>
-    <string name="welcome_beta">ยินดีต้อนรับสู่ผู้ทดสอบเบต้า</string>
-    <string name="about_beta">เกี่ยวกับการทดสอบเบต้า</string>
-    <string name="about_beta_1">จุดประสงค์ของการทดสอบเบต้านี้คือการทดสอบสิ่งต่างๆล่วงหน้าที่ยากที่จะสะท้อนให้เห็นในเวอร์ชันเต็มในทันทีเนื่องจากอาจส่งผลต่อความเสถียรของแอปโดยรวม\n(เช่นการเปลี่ยนแปลงโครงสร้างเครื่องยนต์ตัวกรอง ฯลฯ )</string>
-    <string name="about_beta_2">ไม่มีการเปลี่ยนแปลงเครื่องยนต์ตัวกรองในเวอร์ชันนี้\nเครื่องยนต์ตัวกรองยังอยู่ในการพัฒนา</string>
-    <string name="about_dev">เกี่ยวกับผู้พัฒนา?</string>
-    <string name="about_dev_1">มีนักพัฒนาเบราว์เซอร์มากมายทั่วโลก\nฉันเป็นนักพัฒนาที่ไร้ความสามารถที่สุดของพวกเขา</string>
-    <string name="about_dev_2">ฉันไม่เก่งเท่านักพัฒนาคนอื่น ๆ\nมันยากเกินไปที่จะทำตามความคาดหวังของผู้ใช้</string>
-    <string name="about_dev_3">Soul Browser ต้องการความช่วยเหลือจากคุณเพื่อพัฒนาต่อไป\nโปรดแจ้งให้เราทราบหากคุณพบข้อบกพร่องใด ๆ\nขอบคุณ.</string>
 </resources>

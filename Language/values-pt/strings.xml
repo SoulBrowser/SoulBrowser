@@ -125,6 +125,7 @@
     <string name="copied_clipboard">Copiado para a área de transferência</string>
     <string name="preview_image">Visualizar imagem</string>
     <string name="view_image">Ver imagem</string>
+    <string name="tab_image">Abra a imagem em uma nova aba</string>
     <string name="only_image">Ver apenas imagens</string>
     <string name="downall_image">Salve todas imagens</string>
     <string name="tab_list">Lista aba</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">Há um problema com as configurações do anúncio. Defina novamente.</string>
     <string name="original_size">Tamanho original</string>
     <string name="reduced_size">Tamanho reduzido (recomendado)</string>
-    <string name="welcome_beta">Bem-vindo ao testador beta.</string>
-    <string name="about_beta">Sobre o teste beta</string>
-    <string name="about_beta_1">O objetivo deste teste beta é testar coisas com antecedência que são difíceis de refletir imediatamente na versão completa, pois pode afetar a estabilidade do aplicativo como um todo.\n(Por exemplo, mudança de estrutura, mecanismo de filtro etc.)</string>
-    <string name="about_beta_2">Não há alterações no mecanismo de filtro nesta versão.\nO mecanismo de filtro ainda está em desenvolvimento.</string>
-    <string name="about_dev">Sobre o desenvolvedor?</string>
-    <string name="about_dev_1">Existem vários desenvolvedores de navegador em todo o mundo.\nEu sou o desenvolvedor mais incompetente deles.</string>
-    <string name="about_dev_2">Não sou tão bom quanto outros desenvolvedores.\nÉ muito difícil corresponder às expectativas do usuário.</string>
-    <string name="about_dev_3">O Soul Browser precisa da sua ajuda para se desenvolver ainda mais.\nPor favor, deixe-me saber se você encontrar algum bug.\nObrigado.</string>
 </resources>

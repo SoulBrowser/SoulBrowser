@@ -125,6 +125,7 @@
     <string name="copied_clipboard">In die Zwischenablage kopiert</string>
     <string name="preview_image">Vorschaubild</string>
     <string name="view_image">Bild ansehen</string>
+    <string name="tab_image">Öffne das Bild in einem neuen Tab</string>
     <string name="only_image">Nur Bilder anzeigen</string>
     <string name="downall_image">Alle Bilder speichern</string>
     <string name="tab_list">Tab-Liste</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">Es liegt ein Problem mit den Anzeigeneinstellungen vor. Bitte stellen Sie es erneut ein.</string>
     <string name="original_size">Originalgröße</string>
     <string name="reduced_size">Reduzierte Größe (empfohlen)</string>
-    <string name="welcome_beta">Willkommen beim Beta-Tester.</string>
-    <string name="about_beta">Über Betatests</string>
-    <string name="about_beta_1">Der Zweck dieses Beta-Tests besteht darin, Dinge im Voraus zu testen, die in der Vollversion nur schwer sofort wiederzugeben sind, da dies die Stabilität der gesamten App beeinträchtigen kann.\n(Zum Beispiel Strukturänderung, Filtermotor usw.)</string>
-    <string name="about_beta_2">In dieser Version gibt es keine Änderungen an der Filter-Engine.\nDie Filtermaschine befindet sich noch in der Entwicklung.</string>
-    <string name="about_dev">Über den Entwickler?</string>
-    <string name="about_dev_1">Es gibt zahlreiche Browser-Entwickler auf der ganzen Welt.\nIch bin der inkompetenteste Entwickler von ihnen.</string>
-    <string name="about_dev_2">Ich bin nicht so gut wie andere Entwickler.\nEs ist zu schwierig, die Erwartungen der Benutzer zu erfüllen.</string>
-    <string name="about_dev_3">Soul Browser braucht deine Hilfe, um dich weiterzuentwickeln.\nBitte lassen Sie mich wissen, wenn Sie Fehler finden.\nDankeschön.</string>
 </resources>

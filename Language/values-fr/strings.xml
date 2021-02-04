@@ -125,6 +125,7 @@
     <string name="copied_clipboard">Copié dans le presse papiers</string>
     <string name="preview_image">Aperçu image</string>
     <string name="view_image">Voir image</string>
+    <string name="tab_image">Ouvrir l\'image dans un nouvel onglet</string>
     <string name="only_image">Voir seulement les images</string>
     <string name="downall_image">Enregistrer toutes images</string>
     <string name="tab_list">Liste onglets</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">Il y a un problème avec les paramètres d\'annonce. Veuillez le régler à nouveau.</string>
     <string name="original_size">Format original</string>
     <string name="reduced_size">Taille réduite (recommandé)</string>
-    <string name="welcome_beta">Bienvenue dans le testeur bêta.</string>
-    <string name="about_beta">À propos des tests bêta</string>
-    <string name="about_beta_1">Le but de ce test bêta est de tester à l\'avance des éléments difficiles à refléter immédiatement dans la version complète, car cela peut affecter la stabilité de l\'application dans son ensemble.\n(Par exemple, changement de structure, moteur de filtre, etc.)</string>
-    <string name="about_beta_2">Il n\'y a aucune modification du moteur de filtre dans cette version.\nLe moteur de filtre est encore en développement.</string>
-    <string name="about_dev">A propos du développeur?</string>
-    <string name="about_dev_1">Il existe de nombreux développeurs de navigateurs dans le monde entier.\nJe suis le développeur le plus incompétent d\'entre eux.</string>
-    <string name="about_dev_2">Je ne suis pas aussi bon que les autres développeurs.\nIl est trop difficile de répondre aux attentes des utilisateurs.</string>
-    <string name="about_dev_3">Soul Browser a besoin de votre aide pour se développer davantage.\nVeuillez me faire savoir si vous trouvez des bogues.\nMerci.</string>
 </resources>

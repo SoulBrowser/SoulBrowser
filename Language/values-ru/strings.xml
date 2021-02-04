@@ -125,6 +125,7 @@
     <string name="copied_clipboard">Скопировано в буфер обмена</string>
     <string name="preview_image">Предварительный просмотр изображения</string>
     <string name="view_image">Просмотреть изображение</string>
+    <string name="tab_image">Открыть изображение в новой вкладке</string>
     <string name="only_image">Просмотр только изображений</string>
     <string name="downall_image">Сохранить все изображения</string>
     <string name="tab_list">Список вкладок</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">Проблема с настройками рекламы. Пожалуйста, установите его снова.</string>
     <string name="original_size">Оригинальный размер</string>
     <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
-    <string name="welcome_beta">Добро пожаловать в бета-тестер.</string>
-    <string name="about_beta">О бета-тестировании</string>
-    <string name="about_beta_1">Цель этого бета-теста - заранее протестировать вещи, которые трудно сразу отразить в полной версии, поскольку это может повлиять на стабильность приложения в целом.\n(Например, изменение структуры, движка фильтра и т. Д.)</string>
-    <string name="about_beta_2">В этой версии нет изменений в движке фильтров.\nМеханизм фильтра все еще находится в разработке.</string>
-    <string name="about_dev">О разработчике?</string>
-    <string name="about_dev_1">В мире существует множество разработчиков браузеров.\nЯ самый некомпетентный разработчик из них.</string>
-    <string name="about_dev_2">Я не так хорош, как другие разработчики.\nСлишком сложно оправдать ожидания пользователей.</string>
-    <string name="about_dev_3">Браузеру души нужна ваша помощь для дальнейшего развития.\nПожалуйста, дайте мне знать, если вы обнаружите какие-либо ошибки.\nСпасибо.</string>
 </resources>

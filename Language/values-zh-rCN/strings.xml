@@ -15,7 +15,7 @@
     <string name="items">&#160;项目</string>
     <string name="down_location">下载位置</string>
     <string name="album_location">相册位置</string>
-    <string name="zip_location">ZIP 位置</string>
+    <string name="zip_location">压缩包 位置</string>
     <string name="save_location">存储位置</string>
     <string name="file">文件</string>
     <string name="image">图像</string>
@@ -56,7 +56,7 @@
     <string name="find_word">在页面中查找</string>
     <string name="verify_image">图像验证</string>
     <string name="create_album">创建相册</string>
-    <string name="create_zip">创建 ZIP</string>
+    <string name="create_zip">创建 压缩包</string>
     <string name="retry">重试</string>
     <string name="general">通用</string>
     <string name="advanced">高级</string>
@@ -125,6 +125,7 @@
     <string name="copied_clipboard">复制到剪贴板</string>
     <string name="preview_image">预览图片</string>
     <string name="view_image">查看图片</string>
+    <string name="tab_image">在新标签页中打开图片</string>
     <string name="only_image">看图模式</string>
     <string name="downall_image">保存所有图像</string>
     <string name="tab_list">标签列表</string>
@@ -531,7 +532,7 @@
     <string name="font">字体</string>
     <string name="font_default">默认字体</string>
     <string name="font_select">选择 TTF 字体文件</string>
-    <string name="font_info_1">你可以使用内部存储器或SD卡中的 TTF 字体文件更改网页的字体</string>
+    <string name="font_info_1">你可以使用内部存储器或闪存卡中的 TTF 字体文件更改网页的字体</string>
     <string name="font_info_2">其它应用安装的字体可能不适用</string>
     <string name="font_info_3">创建一个文件夹，然后直接放置要使用的 TTF 字体文件</string>
     <string name="font_info_4">如果站点上使用的图标不在更改的字体表中，则显示为[X]</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">广告设置存在问题。 请重新设置</string>
     <string name="original_size">原始尺寸</string>
     <string name="reduced_size">缩小尺寸（推荐）</string>
-    <string name="welcome_beta">欢迎使用 Soul Browser（测试版）</string>
-    <string name="about_beta">关于 Beta 测试</string>
-    <string name="about_beta_1">此 Beta 测试的目的是预先测试难以立即反映在完整版本中的内容，因为这可能会影响整个应用程序的稳定性\n（例如，结构更改，过滤器引擎等）</string>
-    <string name="about_beta_2">此版本中的过滤器引擎没有更改\n过滤器引擎仍在开发中</string>
-    <string name="about_dev">关于开发者？</string>
-    <string name="about_dev_1">世界各地有许多浏览器开发者\n我是他们中最无能的开发者</string>
-    <string name="about_dev_2">我不如其他开发者好\n因为我很难达到用户的期望</string>
-    <string name="about_dev_3">Soul Browser 需要您的帮助才能进一步发展\n如果您发现任何错误，请告诉我。\n谢谢！</string>
 </resources>

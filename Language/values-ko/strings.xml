@@ -125,6 +125,7 @@
     <string name="copied_clipboard">클립보드에 복사되었습니다.</string>
     <string name="preview_image">이미지 미리보기</string>
     <string name="view_image">이미지 보기</string>
+    <string name="tab_image">새 탭에서 이미지 열기</string>
     <string name="only_image">이미지만 보기</string>
     <string name="downall_image">이미지 모두 저장</string>
     <string name="tab_list">탭 목록</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">광고 설정에 문제가 있습니다. 다시 설정하십시오.</string>
     <string name="original_size">원래 크기</string>
     <string name="reduced_size">축소된 크기 (권장)</string>
-    <string name="welcome_beta">베타 테스터가 되신 것을 환영합니다.</string>
-    <string name="about_beta">베타 테스트에 대해서</string>
-    <string name="about_beta_1">이 베타 테스트의 목적은 앱 전체의 안정성에 영향을 미칠 수 있으므로 정식 버전에 즉시 반영하기 어려운 사항을 미리 테스트하는 것입니다.\n(예 : 구조 변경, 필터 엔진 등)</string>
-    <string name="about_beta_2">이 버전에는 필터 엔진에 대한 변경 사항은 없습니다.\n필터 엔진은 아직 개발 중입니다.</string>
-    <string name="about_dev">개발자에 대해서?</string>
-    <string name="about_dev_1">전 세계에는 수많은 브라우저 개발자가 있습니다.\n저는 그들 중 가장 무능한 개발자입니다.</string>
-    <string name="about_dev_2">저는 다른 개발자들만큼 잘하지 못합니다.\n사용자의 기대에 부응하는 것이 너무 어렵습니다.</string>
-    <string name="about_dev_3">Soul Browser가 더 발전하기 위해서는 여러분의 도움이 필요합니다.\n버그를 발견하면 저에게 알려주세요.\n감사합니다.</string>
 </resources>

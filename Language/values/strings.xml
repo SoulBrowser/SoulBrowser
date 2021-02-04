@@ -125,6 +125,7 @@
     <string name="copied_clipboard">Copied to clipboard</string>
     <string name="preview_image">Preview image</string>
     <string name="view_image">View image</string>
+    <string name="tab_image">Open image in new tab</string>
     <string name="only_image">View only images</string>
     <string name="downall_image">Save all images</string>
     <string name="tab_list">Tab list</string>
@@ -810,12 +811,4 @@
     <string name="ads_invalid_info">There is a problem with ad settings. Please set it again.</string>
     <string name="original_size">Original size</string>
     <string name="reduced_size">Reduced size (recommended)</string>
-    <string name="welcome_beta">Welcome to the beta tester.</string>
-    <string name="about_beta">About beta test</string>
-    <string name="about_beta_1">The purpose of this beta test is to test things in advance that are difficult to immediately reflect in the full version as it may affect the stability of the app as a whole.\n(E.g. structure change, filter engine, etc.)</string>
-    <string name="about_beta_2">There are no changes to the filter engine in this version.\nThe filter engine is still in development.</string>
-    <string name="about_dev">About the developer?</string>
-    <string name="about_dev_1">There are numerous browser developers all over the world.\nI am the most incompetent developer of them.</string>
-    <string name="about_dev_2">I am not as good as other developers.\nIt is too difficult to live up to user expectations.</string>
-    <string name="about_dev_3">Soul Browser needs your help to develop further.\nPlease let me know if you find any bugs.\nThank you.</string>
 </resources>
