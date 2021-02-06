@@ -93,9 +93,6 @@
     <string name="secret_mode">Inkognito Modus</string>
     <string name="normal_mode">Normaler Modus</string>
     <string name="normal_start">Im normalen Modus ausführen</string>
-    <string name="secret_guide_1">Im Inkognito Modus werden ihre Verknüpfungen, Lesezeichen, Passwörter, der Browserverlauf und die Downloads separat gespeichert.</string>
-    <string name="secret_guide_2">Sie können festlegen, ob ihr Verlauf und ihre Downloads gespeichert werden und ob Sie den Sperrbildschirm verwenden.</string>
-    <string name="secret_guide_3">Soul Browser verpflichtet sich, ihre Privatsphäre zu schützen.</string>
     <string name="prev_page">Vorherige Seite</string>
     <string name="next_page">Nächste Seite</string>
     <string name="tab_gesture">Tab-Geste</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Startbildschirm</string>
     <string name="last_page">Zuletzt besuchte Seite</string>
     <string name="input_url">URL eingeben</string>
-    <string name="input_domain">Domain eingeben</string>
     <string name="camera">Kamera</string>
     <string name="camcorder">Camcorder</string>
     <string name="web_edit_hint">URL suchen oder eingeben</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Bestehende Datei</string>
     <string name="exist_name">Vorhandener Name</string>
     <string name="exist_url">Bestehende URL</string>
-    <string name="exist_domain">Bestehende Domain</string>
     <string name="next_file">Nächste Datei</string>
     <string name="empty">Leer</string>
     <string name="share_limit">Bis zu 100 unterstützt</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Wenn Sie Fragen zum urheberrecht haben, wenden Sie sich bitte an die Website.</string>
     <string name="set_wallpaper">Als Hintergrundbild festlegen</string>
     <string name="crop_save">Zuschneiden</string>
-    <string name="pdf_crop">Rand entfernen</string>
     <string name="pdf_crop_guide">Ränder aus PDF-Dateien entfernen.</string>
     <string name="guide_pinch">Zoom in / out</string>
     <string name="dark_mode">Thema</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Startseite</string>
     <string name="show_image_info">Bildinformationen anzeigen.</string>
     <string name="show_video_button">Schaltfläche für Videodownload anzeigen</string>
-    <string name="tab_gesture_guide">Sie können die Gesten frei bearbeiten.</string>
     <string name="two_finger">(Zwei Finger)</string>
     <string name="two_finger_info_1">Streichen Sie mit zwei Fingern nach links und rechts, um die Registerkarten zu verschieben.</string>
     <string name="two_finger_info_2">Wischen Sie mit zwei Fingern nach unten, um die Registerkarte zu entfernen.</string>
@@ -420,14 +413,13 @@
     <string name="pop_allow">Popup zulassen</string>
     <string name="pop_confirm_1">Möchten Sie Popups auf der aktuellen Seite zulassen?</string>
     <string name="pop_confirm_2">Sie sind möglicherweise gefährlicher Werbung ausgesetzt.</string>
-    <string name="pop_allowed">Popups sind auf der aktuellen Seite zulässig.</string>
+    <string name="pop_allowed">Popups waren auf der aktuellen Seite erlaubt.</string>
     <string name="image_list">Bildliste</string>
     <string name="image_cast_guide_1">Besuchen Sie die Website des Bildes.</string>
     <string name="image_cast_guide_2">Wähle \'Nur Bilder anzeigen\' oder \'Alle Bilder speichern\'.</string>
     <string name="image_cast_guide_3">Bitte wählen Sie ein Bild aus.</string>
     <string name="local_cast_guide_1">Wählen Sie das Symbol für die TV-Liste.</string>
     <string name="local_cast_guide_2">Bitte wählen Sie einen Artikel.</string>
-    <string name="video_down">Video herunterladen</string>
     <string name="video_down_guide_0">Besuchen Sie die Website mit dem Video.</string>
     <string name="video_down_guide_1">Wenn ein Video erkannt wird, wird eine Download-Schaltfläche auf dem Bildschirm angezeigt.</string>
     <string name="video_down_guide_2">Für Videos, die nicht heruntergeladen werden können, wird keine Schaltfläche angezeigt.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Der gesamte Verlauf wird gespeichert.\nZu viele Daten können die Browserleistung beeinträchtigen.</string>
     <string name="list">Liste</string>
     <string name="page_no_image">Es gibt keine Bilder auf dieser Seite.</string>
-    <string name="touch_lock">Tastensperre</string>
-    <string name="touch_lock_guide_1">Touch ist während der Videowwiedergabe deaktiviert.</string>
-    <string name="touch_lock_guide_2">Sie können die Entsperrmethode in den Einstellungen festlegen.</string>
     <string name="touch_lock_info">Sperrbildschirm zum Entsperren von Berührungen während der Videowiedergabe.</string>
     <string name="touch_locked">Touch ist gesperrt.</string>
     <string name="touch_unlocked">Touch ist entsperrt.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">In HTML exportieren</string>
     <string name="no_bookmark">Keine Lesezeichen.</string>
     <string name="import_html">Aus HTML importieren</string>
-    <string name="import_html_info_1">1. Lesezeichen aus dem Lesezeichen-Manager im HTML-Format auf ihren Desktop Browser exportieren.</string>
-    <string name="import_html_info_2">2. Legen Sie HTML in den internen Speicher oder auf die SD-Karte zum Öffnen im Soul Browser.</string>
-    <string name="import_html_info_3">3. HTML-Lesezeichen werden dem Soul Browser hinzugefügt.</string>
     <string name="import_no_html">Es gibt keine Lesezeichen im HTML-Format.</string>
     <string name="import_normal">Aus dem normalen Modus importieren</string>
     <string name="import_no_quick">Im normalen Modus gibt es keine Verknüpfungen.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Nach oben scrollen</string>
     <string name="scroll_down">Nach unten scrollen</string>
     <string name="open_with">Öffnen mit</string>
-    <string name="other_guide">Sie können es mit einer anderen App herunterladen.</string>
     <string name="double_tap">Doppeltippen</string>
     <string name="double_tap_guide_1">Sie können den Quer und Hochformatmodus unterschiedlich einstellen.</string>
     <string name="double_tap_guide_2">Drehen Sie Ihr Gerät horizontal, um den Querformatmodus einzustellen.</string>
@@ -720,7 +705,6 @@
     <string name="background">Hintergrund</string>
     <string name="search_suggest">Suchvorschläge</string>
     <string name="at_bottom">Unten</string>
-    <string name="guide_menu">Drücken Sie lange auf das Symbol, um das Menü zu bearbeiten.</string>
     <string name="clean_data_info">Das Sammeln veralteter Daten kann Ihren Browser verlangsamen.\nEs ist eine gute Idee, Ihre Daten regelmäßig zu bereinigen.</string>
     <string name="txt_viewer">Textbetrachter</string>
     <string name="purchase">Kauf</string>

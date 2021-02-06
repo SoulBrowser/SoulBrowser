@@ -93,16 +93,13 @@
     <string name="secret_mode">Gizli mod</string>
     <string name="normal_mode">Normal mod</string>
     <string name="normal_start">Normal modda çalıştır</string>
-    <string name="secret_guide_1">Gizli mod, kısayollarınızı, yer imlerinizi, sifre, geçmişinizi ve indirmelerinizi ayrı olarak saklar.</string>
-    <string name="secret_guide_2">Geçmişinizin ve indirmelerinizin kaydedilip kaydedilmeyeceğini ve kilit ekranını kullanıp kullanmayacağınızı ayarlayabilirsiniz.</string>
-    <string name="secret_guide_3">Soul Browser gizliliğinizi korumayı taahhüt eder.</string>
     <string name="prev_page">Arka sayfa</string>
     <string name="next_page">Sonraki sayfa</string>
     <string name="tab_gesture">Sekme hareketi</string>
     <string name="pop_block">Popup engelleyicisi</string>
-    <string name="pop_block_info1">Tüm pop-up\'ları engelle</string>
+    <string name="pop_block_info1">Tüm popup\'ları engelle</string>
     <string name="pop_block_info2">Diğer siteler açıldığında engelle (reklam siteleri dahil)</string>
-    <string name="pop_block_info3">Yalnızca reklam olduğundan şüphelenilen pop-up\'ları engelle</string>
+    <string name="pop_block_info3">Yalnızca reklam olduğundan şüphelenilen popup\'ları engelle</string>
     <string name="app_block">Uygulamanın yürütülmesini engelle</string>
     <string name="app_site">Tarayıcıda aç</string>
     <string name="app_block_info1">Sitenin diğer uygulamaları çalıştırmasını engelleyin.</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Ana sayfa</string>
     <string name="last_page">Son ziyaret edilen sayfa</string>
     <string name="input_url">URL girin</string>
-    <string name="input_domain">Domain girin</string>
     <string name="camera">Kamera</string>
     <string name="camcorder">Kamera</string>
     <string name="web_edit_hint">URL\'yi arayın veya yazın</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Mevcut dosya</string>
     <string name="exist_name">Mevcut ad</string>
     <string name="exist_url">Mevcut URL</string>
-    <string name="exist_domain">Mevcut Domain</string>
     <string name="next_file">Sonraki dosya</string>
     <string name="empty">Empty</string>
     <string name="share_limit">Maksimum 100 desteklenir</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Telif hakkıyla ilgili herhangi bir sorunuz varsa, lütfen siteyle iletişime geçin.</string>
     <string name="set_wallpaper">Duvar kağıdı yap</string>
     <string name="crop_save">Kırpma</string>
-    <string name="pdf_crop">Marj kaldırma</string>
     <string name="pdf_crop_guide">PDF dosyalarındaki kenar boşluklarını kaldırın.</string>
     <string name="guide_pinch">Yakınlaştır / uzaklaştır</string>
     <string name="dark_mode">Tema</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Başlangıç sayfası</string>
     <string name="show_image_info">Bir web sayfasının resmini görüntüleyin.</string>
     <string name="show_video_button">Video indirme düğmesi</string>
-    <string name="tab_gesture_guide">Hareketleri özgürce düzenleyebilirsiniz.</string>
     <string name="two_finger">(İki parmak)</string>
     <string name="two_finger_info_1">Sekmeleri taşımak için iki parmağınızla sola ve sağa kaydırın.</string>
     <string name="two_finger_info_2">Sekmeyi çıkarmak için iki parmağınızla aşağı kaydırın.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Ad beyaz listesi</string>
     <string name="pop_white">Popup beyaz listesi</string>
     <string name="pop_allow">Popup izin ver</string>
-    <string name="pop_confirm_1">Mevcut sitedeki popup\'lara izin vermek istiyor musunuz?</string>
+    <string name="pop_confirm_1">Mevcut sayfada popup\'lara izin vermek istiyor musunuz?</string>
     <string name="pop_confirm_2">Tehlikeli reklamlara maruz kalabilirsiniz.</string>
-    <string name="pop_allowed">Mevcut sitede popup\'lara izin verilir.</string>
+    <string name="pop_allowed">Mevcut sayfada popup\'lara izin verildi.</string>
     <string name="image_list">Görüntü listesi</string>
     <string name="image_cast_guide_1">Resmi içeren siteyi ziyaret edin.</string>
     <string name="image_cast_guide_2">\'Sadece görüntüleri göster\' veya \'Tüm resimleri kaydet\' i seçin.</string>
     <string name="image_cast_guide_3">Lütfen bir resim seçin.</string>
     <string name="local_cast_guide_1">TV yayın listesi simgesini seçin.</string>
     <string name="local_cast_guide_2">Lütfen bir öğe seçin.</string>
-    <string name="video_down">Video indir</string>
     <string name="video_down_guide_0">Videonun bulunduğu siteyi ziyaret edin.</string>
     <string name="video_down_guide_1">Bir video algılandığında, ekranda bir indirme düğmesi belirir.</string>
     <string name="video_down_guide_2">Button indirilemeyen video için görünmüyor.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Tüm geçmişin kaydedildi.\nÇok fazla veri tarayıcı performansını yavaşlatabilir.</string>
     <string name="list">Liste</string>
     <string name="page_no_image">Bu sayfada hiç resim yok.</string>
-    <string name="touch_lock">Dokunmatik kilit</string>
-    <string name="touch_lock_guide_1">Video oynatımı sırasında dokunma devre dışı.</string>
-    <string name="touch_lock_guide_2">Kilit açma yöntemini Ayarlar\'da ayarlayabilirsiniz.</string>
     <string name="touch_lock_info">Video oynatımı sırasında dokunmanın kilidini açmak için kilit ekranı.</string>
     <string name="touch_locked">Dokunma kilitli.</string>
     <string name="touch_unlocked">Dokunma kilidi açık.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">HTML\'ye dışa aktar</string>
     <string name="no_bookmark">Yer işareti yok.</string>
     <string name="import_html">HTML\'den içe aktar</string>
-    <string name="import_html_info_1">1. Masaüstü tarayıcınızdaki Yer İşareti Yöneticisi\'nden yer işaretlerini HTML\'ye dışa aktarın.</string>
-    <string name="import_html_info_2">2. HTML\'yi dahili depolama birimine veya SD karta yerleştirin ve Soul Browser\'da açın.</string>
-    <string name="import_html_info_3">3. HTML tarayıcıları Soul Browser\'a eklenir.</string>
     <string name="import_no_html">HTML\'de yer işareti yok.</string>
     <string name="import_normal">Normal moddan içe aktar</string>
     <string name="import_no_quick">Normal modda kısayol yok.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Yukarı kaydırmak</string>
     <string name="scroll_down">Aşağı kaydır</string>
     <string name="open_with">Bununla aç</string>
-    <string name="other_guide">Başka bir uygulama ile indirebilirsiniz.</string>
     <string name="double_tap">Çift dokunma</string>
     <string name="double_tap_guide_1">Manzara modunu ve portre modunu farklı şekilde ayarlayabilirsiniz.</string>
     <string name="double_tap_guide_2">Manzara modunu ayarlamak için cihazınızı yatay olarak döndürün.</string>
@@ -720,7 +705,6 @@
     <string name="background">Arka fon</string>
     <string name="search_suggest">Arama önerileri</string>
     <string name="at_bottom">Altta</string>
-    <string name="guide_menu">Menüyü düzenlemek için simgeye uzun basın.</string>
     <string name="clean_data_info">Eski verilerin biriktirilmesi tarayıcınızı yavaşlatabilir.\nVerilerinizi düzenli aralıklarla temizlemek iyi bir fikirdir.</string>
     <string name="txt_viewer">Metin görüntüleyici</string>
     <string name="purchase">Satın alma</string>

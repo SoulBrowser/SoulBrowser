@@ -93,9 +93,6 @@
     <string name="secret_mode">Режим анонімного перегляду</string>
     <string name="normal_mode">Нормальний режим</string>
     <string name="normal_start">Запуск у звичайному режимі</string>
-    <string name="secret_guide_1">Режим анонімного перегляду окремо зберігає ваші ярлики, закладки, паролі, історію та завантаження.</string>
-    <string name="secret_guide_2">Ви можете вказати, чи будуть зберігатися Ваші історія і завантаження, а також чи використовувати екран блокування.</string>
-    <string name="secret_guide_3">Браузер Soul зобов\'язуеться захищати Вашу конфіденційність.</string>
     <string name="prev_page">Попередня сторінка</string>
     <string name="next_page">Наступна сторінка</string>
     <string name="tab_gesture">Вкладка жестом</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Домашня сторінка</string>
     <string name="last_page">Остання відвідана сторінка</string>
     <string name="input_url">Введіть URL-адресу</string>
-    <string name="input_domain">Введіть домен</string>
     <string name="camera">Камера</string>
     <string name="camcorder">Відеокамера</string>
     <string name="web_edit_hint">Пошук або введіть URL-адресу</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Існуючий файл</string>
     <string name="exist_name">Існуюча назва</string>
     <string name="exist_url">Існуюча URL-адреса</string>
-    <string name="exist_domain">Існуючий домен</string>
     <string name="next_file">Наступний файл</string>
     <string name="empty">Порожній</string>
     <string name="share_limit">До 100 підтримуваних</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Якщо у вас є якісь питання щодо авторських прав, будь ласка, зв\'яжіться з цим сайтом.</string>
     <string name="set_wallpaper">Встановити як шпалери</string>
     <string name="crop_save">Обрізати</string>
-    <string name="pdf_crop">Зняття поля</string>
     <string name="pdf_crop_guide">Видаліть поля з PDF-файлів.</string>
     <string name="guide_pinch">Збільшити / зменшити масштаб</string>
     <string name="dark_mode">Темна тема</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Початкова сторінка</string>
     <string name="show_image_info">Відображення зображень веб-сторінки.</string>
     <string name="show_video_button">Кнопка завантаження відео</string>
-    <string name="tab_gesture_guide">Ви можете вільно редагувати жести.</string>
     <string name="two_finger">(Два пальці)</string>
     <string name="two_finger_info_1">Щоб перемістити вкладку, проведіть двома пальцями вліво і вправо.</string>
     <string name="two_finger_info_2">Щоб зняти вкладку, проведіть вниз двома пальцями.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Білий список реклами</string>
     <string name="pop_white">Білий список спливаючих вікон</string>
     <string name="pop_allow">Дозволити спливаюче вікно</string>
-    <string name="pop_confirm_1">Ви хочете дозволити спливаюче вікно на поточному сайті?</string>
+    <string name="pop_confirm_1">Ви хочете дозволити спливаючі вікна на поточній сторінці?</string>
     <string name="pop_confirm_2">Ви можете наштовхнутися на небезпечну рекламу.</string>
-    <string name="pop_allowed">Спливаючі вікна дозволяються на поточному сайті.</string>
+    <string name="pop_allowed">Спливаючі вікна дозволялися на поточній сторінці.</string>
     <string name="image_list">Список зображень</string>
     <string name="image_cast_guide_1">Завітайте на сайт із зображенням.</string>
     <string name="image_cast_guide_2">Виберіть \'Перегляд лише зображень\' або \'Зберегти всі зображення\'.</string>
     <string name="image_cast_guide_3">Виберіть зображення.</string>
     <string name="local_cast_guide_1">Виберіть піктограму списку телепередач.</string>
     <string name="local_cast_guide_2">Виберіть пункт.</string>
-    <string name="video_down">Завантажити відео</string>
     <string name="video_down_guide_0">Завітайте на сайт з відео.</string>
     <string name="video_down_guide_1">Коли відео виявлено, на екрані з’являється кнопка завантаження.</string>
     <string name="video_down_guide_2">Кнопки не відображаються для відео, яке неможливо завантажити.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Уся ваша історія збережена.\nЗанадто багато даних може уповільнити роботу браузера.</string>
     <string name="list">Список</string>
     <string name="page_no_image">На цій сторінці немає зображень.</string>
-    <string name="touch_lock">Блокування дотику</string>
-    <string name="touch_lock_guide_1">Дотик вимкнено під час відтворення відео.</string>
-    <string name="touch_lock_guide_2">Ви можете встановити метод розблокування в Налаштуваннях.</string>
     <string name="touch_lock_info">Екран блокування для розблокування дотику під час відтворення відео.</string>
     <string name="touch_locked">Дотик заблокований.</string>
     <string name="touch_unlocked">Дотик розблокований.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Експорт у HTML</string>
     <string name="no_bookmark">Немає закладок.</string>
     <string name="import_html">Імпорт з HTML</string>
-    <string name="import_html_info_1">1. Експортуйте закладки в HTML із менеджера закладок у браузері Вашого компютера.</string>
-    <string name="import_html_info_2">2. Помістіть HTML на внутрішню пам\'ять або SD-карту і відкрийте її в браузері Soul.</string>
-    <string name="import_html_info_3">3. Закладки HTML додаються в браузер Soul.</string>
     <string name="import_no_html">У HTML немає закладок.</string>
     <string name="import_normal">Імпорт із звичайного режиму</string>
     <string name="import_no_quick">Немає ярлика в звичайному режимі.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Прокрутити вгору</string>
     <string name="scroll_down">Прокрути вниз</string>
     <string name="open_with">Відкрити з</string>
-    <string name="other_guide">Ви можете завантажити його за допомогою іншого додатка.</string>
     <string name="double_tap">Подвійне натискання</string>
     <string name="double_tap_guide_1">Ви можете встановити ландшафтний режим і портретний режим по-різному.</string>
     <string name="double_tap_guide_2">Щоб встановити альбомний режим, поверніть пристрій горизонтально.</string>
@@ -720,7 +705,6 @@
     <string name="background">Фон</string>
     <string name="search_suggest">Пошукові підказки</string>
     <string name="at_bottom">На дні</string>
-    <string name="guide_menu">Тривале натискання значка для редагування меню.</string>
     <string name="clean_data_info">Накопичення застарілих даних може сповільнити роботу вашого браузера.\nРекомендуємо періодично очищати дані.</string>
     <string name="txt_viewer">Перегляд тексту</string>
     <string name="purchase">Придбання</string>

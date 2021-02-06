@@ -93,9 +93,6 @@
     <string name="secret_mode">无痕模式</string>
     <string name="normal_mode">正常模式</string>
     <string name="normal_start">以正常模式运行</string>
-    <string name="secret_guide_1">无痕模式区分管理捷径，书签，密码，历史记录和下载。</string>
-    <string name="secret_guide_2">你可以设置是否保存历史记录和下载内容，以及是否使用锁屏。</string>
-    <string name="secret_guide_3">Soul Browser 致力于保护你的隐私。</string>
     <string name="prev_page">上一页</string>
     <string name="next_page">下一页</string>
     <string name="tab_gesture">标签手势</string>
@@ -218,7 +215,6 @@
     <string name="home_page">网站</string>
     <string name="last_page">上次访问的页面</string>
     <string name="input_url">输入网址</string>
-    <string name="input_domain">输入网址</string>
     <string name="camera">相机</string>
     <string name="camcorder">摄像机</string>
     <string name="web_edit_hint">搜索或输入网址</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">现有文件</string>
     <string name="exist_name">现有名称</string>
     <string name="exist_url">现有网址</string>
-    <string name="exist_domain">当前网址</string>
     <string name="next_file">下一个文件</string>
     <string name="empty">空</string>
     <string name="share_limit">支持高达100</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">如果你对版权有任何疑问，请与该网站联系。</string>
     <string name="set_wallpaper">设置壁纸</string>
     <string name="crop_save">完成</string>
-    <string name="pdf_crop">去除保证金</string>
     <string name="pdf_crop_guide">从 PDF 文件中删除边距</string>
     <string name="guide_pinch">放大 / 缩小</string>
     <string name="dark_mode">主题</string>
@@ -399,7 +393,6 @@
     <string name="start_page">首页</string>
     <string name="show_image_info">显示网页图像</string>
     <string name="show_video_button">视频下载按钮</string>
-    <string name="tab_gesture_guide">你可以自由编辑手势</string>
     <string name="two_finger">（双指）</string>
     <string name="two_finger_info_1">用双指左右划动以移动标签</string>
     <string name="two_finger_info_2">用双指向下划动以移除标签</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">广告白名单</string>
     <string name="pop_white">弹窗白名单</string>
     <string name="pop_allow">允许弹窗</string>
-    <string name="pop_confirm_1">是否要允许当前站点上的弹窗？</string>
+    <string name="pop_confirm_1">是否要允许当前页面上的弹窗？</string>
     <string name="pop_confirm_2">你可能会接触到危险的广告</string>
-    <string name="pop_allowed">在当前站点上允许弹窗</string>
+    <string name="pop_allowed">在当前页面上允许弹窗</string>
     <string name="image_list">图片列表</string>
     <string name="image_cast_guide_1">访问带有图片的网站</string>
     <string name="image_cast_guide_2">选择\'仅查看图像\'或\'保存所有图像\'</string>
     <string name="image_cast_guide_3">请选择一张图片</string>
     <string name="local_cast_guide_1">选择电视广播列表图标</string>
     <string name="local_cast_guide_2">请选择一个项目</string>
-    <string name="video_down">下载视频</string>
     <string name="video_down_guide_0">浏览附有视频的网站</string>
     <string name="video_down_guide_1">检测到视频时，屏幕上会出现一个下载按钮</string>
     <string name="video_down_guide_2">对于无法下载的视频， 不显示按钮</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">你的所有历史记录已保存。\n数据过多可能会降低浏览器性能。</string>
     <string name="list">列表</string>
     <string name="page_no_image">此页面上没有图像</string>
-    <string name="touch_lock">触控锁</string>
-    <string name="touch_lock_guide_1">视频播放期间触控被禁用</string>
-    <string name="touch_lock_guide_2">你可以在\'设置\'中设置解锁方法</string>
     <string name="touch_lock_info">锁定屏幕以在视频播放期间禁用触控</string>
     <string name="touch_locked">触控已锁定</string>
     <string name="touch_unlocked">触控解锁</string>
@@ -490,9 +479,6 @@
     <string name="export_html">导出 HTML 书签</string>
     <string name="no_bookmark">没有书签</string>
     <string name="import_html">从 HTML 导入书签</string>
-    <string name="import_html_info_1">1. 从其它浏览器中的书签管理器将书签导出为 HTML</string>
-    <string name="import_html_info_2">2. 将 HTML 放在内部存储器或闪存卡上，然后在 Soul Browser 中将其打开</string>
-    <string name="import_html_info_3">3. HTML 书签已添加到 Soul Browser</string>
     <string name="import_no_html">HTML 中没有书签</string>
     <string name="import_normal">从正常模式导入</string>
     <string name="import_no_quick">正常模式下没有捷径</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">向上滑动</string>
     <string name="scroll_down">向下滚动</string>
     <string name="open_with">打开通过</string>
-    <string name="other_guide">你可以使用其它应用下载</string>
     <string name="double_tap">双击</string>
     <string name="double_tap_guide_1">您可以不同地设置横向模式和纵向模式</string>
     <string name="double_tap_guide_2">要设置横向模式，请水平旋转设备</string>
@@ -720,7 +705,6 @@
     <string name="background">背景</string>
     <string name="search_suggest">搜索建议</string>
     <string name="at_bottom">在底部</string>
-    <string name="guide_menu">长按图标可编辑菜单</string>
     <string name="clean_data_info">过时的数据积累会降低浏览器的速度\n定期清理数据是一个好主意</string>
     <string name="txt_viewer">文字检视器</string>
     <string name="purchase">内购</string>

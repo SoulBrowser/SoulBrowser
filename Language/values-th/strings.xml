@@ -93,9 +93,6 @@
     <string name="secret_mode">โหมดไม่ระบุตัวตน</string>
     <string name="normal_mode">โหมดปกติ</string>
     <string name="normal_start">ทำงานในโหมดปกติ</string>
-    <string name="secret_guide_1">โหมดไม่ระบุตัวตนจัดการทางลัดบุ๊กมาร์กรหัสผ่านประวัติและดาวน์โหลดแยกต่างหาก</string>
-    <string name="secret_guide_2">คุณสามารถตั้งค่าว่าจะบันทึกประวัติและการดาวน์โหลดหรือไม่และคุณใช้หน้าจอล็อคหรือไม่</string>
-    <string name="secret_guide_3">Soul Browser มุ่งมั่นที่จะปกป้องความเป็นส่วนตัวของคุณ</string>
     <string name="prev_page">หน้าหลัง</string>
     <string name="next_page">หน้าถัดไป</string>
     <string name="tab_gesture">ท่าทางสัมผัสของแท็บ</string>
@@ -218,7 +215,6 @@
     <string name="home_page">หน้าแรก</string>
     <string name="last_page">หน้าที่เยี่ยมชมล่าสุด</string>
     <string name="input_url">ป้อน URL</string>
-    <string name="input_domain">ป้อน Domain</string>
     <string name="camera">กล้อง</string>
     <string name="camcorder">กล้องวีดีโอ</string>
     <string name="web_edit_hint">ค้นหาหรือพิมพ์ URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">ไฟล์ที่มีอยู่</string>
     <string name="exist_name">ชื่อที่มีอยู่</string>
     <string name="exist_url">URL ที่มีอยู่</string>
-    <string name="exist_domain">Domain ที่มีอยู่</string>
     <string name="next_file">ไฟล์ถัดไป</string>
     <string name="empty">ว่างเปล่า</string>
     <string name="share_limit">รองรับได้ถึง 100 รายการ</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">หากคุณมีคำถามใด ๆ เกี่ยวกับลิขสิทธิ์โปรดติดต่อเว็บไซต์</string>
     <string name="set_wallpaper">ตั้งเป็นภาพพื้นหลัง</string>
     <string name="crop_save">ครอบตัด</string>
-    <string name="pdf_crop">การกำจัดระยะขอบ</string>
     <string name="pdf_crop_guide">ลบระยะขอบออกจากไฟล์ PDF</string>
     <string name="guide_pinch">ซูมเข้า / ออก</string>
     <string name="dark_mode">ธีม</string>
@@ -399,7 +393,6 @@
     <string name="start_page">หน้าเริ่มต้น</string>
     <string name="show_image_info">แสดงภาพของหน้าเว็บ</string>
     <string name="show_video_button">ปุ่มดาวน์โหลดวิดีโอ</string>
-    <string name="tab_gesture_guide">คุณสามารถแก้ไขท่าทางได้อย่างอิสระ</string>
     <string name="two_finger">(สองนิ้ว)</string>
     <string name="two_finger_info_1">ปัดไปทางซ้ายและขวาด้วยสองนิ้วเพื่อเลื่อนแท็บ</string>
     <string name="two_finger_info_2">ปัดสองนิ้วลงเพื่อลบแท็บ</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">รายการที่อนุญาต</string>
     <string name="pop_white">รายการที่อนุญาตของป๊อปอัป</string>
     <string name="pop_allow">อนุญาตป๊อปอัป</string>
-    <string name="pop_confirm_1">คุณต้องการอนุญาตป๊อปอัปในไซต์ปัจจุบันหรือไม่</string>
+    <string name="pop_confirm_1">คุณต้องการอนุญาตป๊อปอัปในหน้าปัจจุบันหรือไม่?</string>
     <string name="pop_confirm_2">คุณอาจได้รับอันตรายจากโฆษณา</string>
-    <string name="pop_allowed">ป๊อปอัปได้รับอนุญาตในเว็บไซต์ปัจจุบัน</string>
+    <string name="pop_allowed">อนุญาตให้ใช้ป๊อปอัปในหน้าปัจจุบัน</string>
     <string name="image_list">รายการรูปภาพ</string>
     <string name="image_cast_guide_1">เยี่ยมชมเว็บไซต์ด้วยภาพ</string>
     <string name="image_cast_guide_2">เลือก \'ดูภาพเท่านั้น\' หรือ \'บันทึกภาพทั้งหมด\'</string>
     <string name="image_cast_guide_3">กรุณาเลือกภาพ</string>
     <string name="local_cast_guide_1">เลือกไอคอนรายการทีวี</string>
     <string name="local_cast_guide_2">กรุณาเลือกรายการ</string>
-    <string name="video_down">ดาวน์โหลดวิดีโอ</string>
     <string name="video_down_guide_0">เยี่ยมชมเว็บไซต์ด้วยวิดีโอ</string>
     <string name="video_down_guide_1">เมื่อตรวจพบวิดีโอปุ่มดาวน์โหลดจะปรากฏบนหน้าจอ</string>
     <string name="video_down_guide_2">ปุ่มไม่ปรากฏขึ้นสำหรับวิดีโอที่ไม่สามารถดาวน์โหลดได้</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">ประวัติทั้งหมดของคุณจะถูกบันทึกไว้\nข้อมูลมากเกินไปอาจทำให้ประสิทธิภาพเบราว์เซอร์ช้าลง</string>
     <string name="list">รายการ</string>
     <string name="page_no_image">ไม่มีภาพในหน้านี้</string>
-    <string name="touch_lock">ล็อคสัมผัส</string>
-    <string name="touch_lock_guide_1">Touch ถูกปิดใช้งานระหว่างการเล่นวิดีโอ</string>
-    <string name="touch_lock_guide_2">คุณสามารถตั้งค่าวิธีการปลดล็อคในการตั้งค่า</string>
     <string name="touch_lock_info">ล็อคหน้าจอเพื่อปลดล็อคการสัมผัสระหว่างการเล่นวิดีโอ</string>
     <string name="touch_locked">Touch ถูกล็อค</string>
     <string name="touch_unlocked">Touch ถูกปลดล็อค</string>
@@ -490,9 +479,6 @@
     <string name="export_html">ส่งออกเป็น HTML</string>
     <string name="no_bookmark">ไม่มีที่คั่นหนังสือ</string>
     <string name="import_html">นำเข้าจาก HTML</string>
-    <string name="import_html_info_1">1. ส่งออกบุ๊กมาร์กเป็น HTML จากตัวจัดการบุ๊คมาร์คในเบราว์เซอร์เดสก์ท็อปของคุณ</string>
-    <string name="import_html_info_2">2. วาง HTML บนที่เก็บข้อมูลภายในหรือการ์ด SD แล้วเปิดใน Soul Browser</string>
-    <string name="import_html_info_3">3. ที่คั่น HTML ถูกเพิ่มไปยัง Soul Browser</string>
     <string name="import_no_html">ไม่มีบุ๊กมาร์กใน HTML</string>
     <string name="import_normal">นำเข้าจากโหมดปกติ</string>
     <string name="import_no_quick">ไม่มีปุ่มลัดในโหมดปกติ</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">เลื่อนขึ้น</string>
     <string name="scroll_down">เลื่อนลง</string>
     <string name="open_with">เปิดด้วย</string>
-    <string name="other_guide">คุณสามารถดาวน์โหลดได้ด้วยแอพอื่น</string>
     <string name="double_tap">แตะสองครั้ง</string>
     <string name="double_tap_guide_1">คุณสามารถตั้งค่าโหมดแนวนอนและแนวตั้งได้แตกต่างกัน</string>
     <string name="double_tap_guide_2">ในการตั้งค่าโหมดแนวนอนให้หมุนอุปกรณ์ของคุณในแนวนอน</string>
@@ -720,7 +705,6 @@
     <string name="background">พื้นหลัง</string>
     <string name="search_suggest">คำแนะนำการค้นหา</string>
     <string name="at_bottom">ที่ส่วนลึกสุด</string>
-    <string name="guide_menu">กดไอคอนค้างไว้เพื่อแก้ไขเมนู</string>
     <string name="clean_data_info">การสะสมข้อมูลเก่าอาจทำให้เบราว์เซอร์ของคุณทำงานช้าลง\nเป็นความคิดที่ดีที่จะล้างข้อมูลของคุณเป็นระยะ</string>
     <string name="txt_viewer">โปรแกรมดูข้อความ</string>
     <string name="purchase">ซื้อ</string>

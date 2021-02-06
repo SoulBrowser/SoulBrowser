@@ -93,9 +93,6 @@
     <string name="secret_mode">Modo incognito</string>
     <string name="normal_mode">Modo normal</string>
     <string name="normal_start">Ejecutar en modo normal</string>
-    <string name="secret_guide_1">El modo incógnito almacena sus acceso directo, marcadores, contraseña, historial y descargas por separado.</string>
-    <string name="secret_guide_2">Puede configurar si su historial y descargas se guardan, y si usa la pantalla de bloqueo.</string>
-    <string name="secret_guide_3">Soul Browser se compromete a proteger su privacidad.</string>
     <string name="prev_page">Anterior página</string>
     <string name="next_page">Siguiente página</string>
     <string name="tab_gesture">Gesto pestaña</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Página inicio</string>
     <string name="last_page">Última página visitada</string>
     <string name="input_url">Introducir URL</string>
-    <string name="input_domain">Introducir Dominio</string>
     <string name="camera">Cámara</string>
     <string name="camcorder">Videocámara</string>
     <string name="web_edit_hint">Buscar o escribir URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Archivo existente</string>
     <string name="exist_name">Nombre existente</string>
     <string name="exist_url">URL existente</string>
-    <string name="exist_domain">Dominio existente</string>
     <string name="next_file">Siguiente archivo</string>
     <string name="empty">Vacío</string>
     <string name="share_limit">Hasta 100 compartidos</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Si tiene alguna pregunta sobre los derechos de autor, póngase en contacto con el sitio.</string>
     <string name="set_wallpaper">Establecer como fondo de pantalla</string>
     <string name="crop_save">Cosecha</string>
-    <string name="pdf_crop">Eliminación de margen</string>
     <string name="pdf_crop_guide">Eliminar márgenes de los archivos PDF.</string>
     <string name="guide_pinch">Ampliar / Reducir</string>
     <string name="dark_mode">Tema</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Página de inicio</string>
     <string name="show_image_info">Mostrar una imagen de una página web.</string>
     <string name="show_video_button">Botón descargar video</string>
-    <string name="tab_gesture_guide">Puede editar libremente los gestos.</string>
     <string name="two_finger">(Dos dedos)</string>
     <string name="two_finger_info_1">Deslice hacia la izquierda y hacia la derecha con dos dedos para mover las pestañas.</string>
     <string name="two_finger_info_2">Deslice hacia abajo con dos dedos para quitar la pestaña.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Lista blanca Ad</string>
     <string name="pop_white">Lista blanca popup</string>
     <string name="pop_allow">Permitir ventana emergente</string>
-    <string name="pop_confirm_1">¿Desea permitir ventanas emergentes en el sitio actual?</string>
+    <string name="pop_confirm_1">¿Quiere permitir ventanas emergentes en la página actual?</string>
     <string name="pop_confirm_2">Puede estar expuesto a anuncios peligrosos.</string>
-    <string name="pop_allowed">Las ventanas emergentes están permitidas en el sitio actual.</string>
+    <string name="pop_allowed">Se permitieron ventanas emergentes en la página actual.</string>
     <string name="image_list">Lista de imágenes</string>
     <string name="image_cast_guide_1">Visita el sitio con la imagen.</string>
     <string name="image_cast_guide_2">Seleccione \'Ver solo imágenes\' o \'Guarda todas imágenes\'.</string>
     <string name="image_cast_guide_3">Por favor seleccione una imagen.</string>
     <string name="local_cast_guide_1">Selecciona el ícono de la lista de TV Cast.</string>
     <string name="local_cast_guide_2">Por favor seleccione un artículo.</string>
-    <string name="video_down">Descargar video</string>
     <string name="video_down_guide_0">Visita el sitio con el video.</string>
     <string name="video_down_guide_1">Cuando se detecta un video, aparece un botón de descarga en la pantalla.</string>
     <string name="video_down_guide_2">Los botones no aparecen para los videos que no se pueden descargar.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Todo tu historial está guardado.\nDemasiados datos pueden ralentizar el rendimiento del navegador.</string>
     <string name="list">Lista</string>
     <string name="page_no_image">No hay imágenes en esta página.</string>
-    <string name="touch_lock">Toque de bloqueo</string>
-    <string name="touch_lock_guide_1">La función táctil está desactivada durante la reproducción de video.</string>
-    <string name="touch_lock_guide_2">Puede configurar el método de desbloqueo en Configuración.</string>
     <string name="touch_lock_info">Pantalla de bloqueo para desbloquear el toque durante la reproducción de video.</string>
     <string name="touch_locked">Touch está bloqueado.</string>
     <string name="touch_unlocked">Touch está desbloqueado.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Exportar a HTML</string>
     <string name="no_bookmark">Sin marcadores.</string>
     <string name="import_html">Importar desde HTML</string>
-    <string name="import_html_info_1">1. Exporte marcadores a HTML desde el Administrador de marcadores en su navegador de escritorio.</string>
-    <string name="import_html_info_2">2. Coloque HTML en el almacenamiento interno o en la tarjeta SD y ábralo en Soul Browser.</string>
-    <string name="import_html_info_3">3. Los marcadores HTML se agregan al Soul Browser.</string>
     <string name="import_no_html">No hay marcadores en el HTML.</string>
     <string name="import_normal">Importar desde modo normal</string>
     <string name="import_no_quick">No hay acceso directo en modo normal.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Desplazarse hacia arriba</string>
     <string name="scroll_down">Desplazarse hacia abajo</string>
     <string name="open_with">Abrir con</string>
-    <string name="other_guide">Puedes descargarlo con otra aplicación.</string>
     <string name="double_tap">Doble toque</string>
     <string name="double_tap_guide_1">Puede configurar el modo horizontal y el modo vertical de manera diferente.</string>
     <string name="double_tap_guide_2">Para configurar el modo horizontal, gire su dispositivo horizontalmente.</string>
@@ -720,7 +705,6 @@
     <string name="background">Antecedentes</string>
     <string name="search_suggest">Sugerencias de búsqueda</string>
     <string name="at_bottom">En el fondo</string>
-    <string name="guide_menu">Mantenga pulsado el icono para editar el menú.</string>
     <string name="clean_data_info">La acumulación de datos obsoletos puede ralentizar su navegador.\nEs una buena idea limpiar sus datos periódicamente.</string>
     <string name="txt_viewer">Visor de texto</string>
     <string name="purchase">Compra</string>

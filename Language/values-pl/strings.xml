@@ -93,9 +93,6 @@
     <string name="secret_mode">Tryb incognito</string>
     <string name="normal_mode">Tryb normalny</string>
     <string name="normal_start">Uruchom w trybie normalnym</string>
-    <string name="secret_guide_1">Tryb incognito przechowuje osobno skróty, zakładki, hasła, historię i pliki do pobrania.</string>
-    <string name="secret_guide_2">Możesz ustawić, czy twoja historia i pobrane pliki są zapisywane oraz czy używasz ekranu blokady.</string>
-    <string name="secret_guide_3">Przeglądarka dusz jest zobowiązana do ochrony Twojej prywatności.</string>
     <string name="prev_page">Poprzednia strona</string>
     <string name="next_page">Następna strona</string>
     <string name="tab_gesture">Gest tabulacji</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Strona główna</string>
     <string name="last_page">Ostatnia odwiedzona strona</string>
     <string name="input_url">Wpisz adres URL</string>
-    <string name="input_domain">Dane wejściowe Domain</string>
     <string name="camera">Aparat fotograficzny</string>
     <string name="camcorder">Kamera</string>
     <string name="web_edit_hint">Wyszukaj lub wpisz adres URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Istniejący plik</string>
     <string name="exist_name">Istniejąca nazwa</string>
     <string name="exist_url">Istniejący URL</string>
-    <string name="exist_domain">Istniejący Domain</string>
     <string name="next_file">Następny plik</string>
     <string name="empty">Pusty</string>
     <string name="share_limit">Obsługiwanych maksymalnie 100</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Jeśli masz pytania dotyczące praw autorskich, skontaktuj się z witryną.</string>
     <string name="set_wallpaper">Ustaw jako tapetę</string>
     <string name="crop_save">Przytnij</string>
-    <string name="pdf_crop">Usuwanie marginesów</string>
     <string name="pdf_crop_guide">Usuń marginesy z plików PDF.</string>
     <string name="guide_pinch">Powiększ / pomniejsz</string>
     <string name="dark_mode">Motyw</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Strona początkowa</string>
     <string name="show_image_info">Wyświetl obrazy strony internetowej.</string>
     <string name="show_video_button">Przycisk pobierania wideo</string>
-    <string name="tab_gesture_guide">Możesz dowolnie edytować gesty.</string>
     <string name="two_finger">(Dwa palce)</string>
     <string name="two_finger_info_1">Przesuń dwoma palcami w lewo i w prawo, aby przenieść tabulatory.</string>
     <string name="two_finger_info_2">Przesuń dwoma palcami w dół, aby usunąć kartę.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Biała lista reklam</string>
     <string name="pop_white">Biała lista wyskakująca</string>
     <string name="pop_allow">Zezwól na wyskakujące okienko</string>
-    <string name="pop_confirm_1">Czy chcesz zezwolić na wyskakujące okienka w bieżącej witrynie?</string>
+    <string name="pop_confirm_1">Czy chcesz zezwolić na wyskakujące okienka na bieżącej stronie?</string>
     <string name="pop_confirm_2">Możesz być narażony na niebezpieczne reklamy.</string>
-    <string name="pop_allowed">wyskakujące okienko są dozwolone na bieżącej stronie.</string>
+    <string name="pop_allowed">Wyskakujące okienka były dozwolone na bieżącej stronie.</string>
     <string name="image_list">Lista obrazków</string>
     <string name="image_cast_guide_1">Odwiedź stronę z obrazem.</string>
     <string name="image_cast_guide_2">Wybierz „Wyświetl tylko obrazy” lub „Zapisz wszystkie obrazy”.</string>
     <string name="image_cast_guide_3">Wybierz obraz.</string>
     <string name="local_cast_guide_1">Wybierz ikonę listy transmisji TV.</string>
     <string name="local_cast_guide_2">Wybierz element.</string>
-    <string name="video_down">Pobierz wideo</string>
     <string name="video_down_guide_0">Odwiedź stronę z wideo.</string>
     <string name="video_down_guide_1">Po wykryciu wideo na ekranie pojawia się przycisk pobierania.</string>
     <string name="video_down_guide_2">Przycisk nie pojawia się w przypadku filmów, których nie można pobrać.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Cała historia została zapisana.\nZbyt wiele danych może spowolnić działanie przeglądarki.</string>
     <string name="list">Lista</string>
     <string name="page_no_image">Na tej stronie nie ma obrazów.</string>
-    <string name="touch_lock">Blokada dotykowa</string>
-    <string name="touch_lock_guide_1">Dotyk jest wyłączony podczas odtwarzania wideo.</string>
-    <string name="touch_lock_guide_2">Możesz ustawić metodę odblokowania w Ustawieniach.</string>
     <string name="touch_lock_info">Ekran blokady do odblokowywania dotyku podczas odtwarzania wideo.</string>
     <string name="touch_locked">Dotyk jest zablokowany.</string>
     <string name="touch_unlocked">Dotyk jest odblokowany.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Eksportuj do HTML</string>
     <string name="no_bookmark">Brak zakładek.</string>
     <string name="import_html">Importuj z HTML</string>
-    <string name="import_html_info_1">1. Eksportuj zakładki do HTML z menedżera zakładek w przeglądarce na komputerze.</string>
-    <string name="import_html_info_2">2. Umieść HTML na wewnętrznej pamięci lub karcie SD i otwórz go w przeglądarce Soul Browser.</string>
-    <string name="import_html_info_3">3. Zakładki HTML są dodawane do przeglądarki duszy.</string>
     <string name="import_no_html">W HTML nie ma zakładki.</string>
     <string name="import_normal">Importuj z trybu normalnego</string>
     <string name="import_no_quick">W trybie normalnym nie ma skrótu.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Przewiń do góry</string>
     <string name="scroll_down">Przewiń w dół</string>
     <string name="open_with">Otwórz za pomocą</string>
-    <string name="other_guide">Możesz pobrać go za pomocą innej aplikacji.</string>
     <string name="double_tap">Podwójne wciśnięcie</string>
     <string name="double_tap_guide_1">Tryb krajobrazowy i tryb portretowy można ustawić inaczej.</string>
     <string name="double_tap_guide_2">Aby ustawić tryb poziomy, obróć urządzenie poziomo.</string>
@@ -720,7 +705,6 @@
     <string name="background">Tło</string>
     <string name="search_suggest">Sugestie wyszukiwania</string>
     <string name="at_bottom">Na dnie</string>
-    <string name="guide_menu">Długo naciśnij ikonę, aby edytować menu.</string>
     <string name="clean_data_info">Nagromadzenie nieaktualnych danych może spowolnić przeglądarkę.\nWarto okresowo czyścić dane.</string>
     <string name="txt_viewer">Przeglądarka tekstu</string>
     <string name="purchase">Zakup</string>

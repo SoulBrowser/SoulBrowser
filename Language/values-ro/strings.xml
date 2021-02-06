@@ -93,16 +93,13 @@
     <string name="secret_mode">Modul Incognito</string>
     <string name="normal_mode">Mod normal</string>
     <string name="normal_start">Se execută în modul normal</string>
-    <string name="secret_guide_1">Modul Incognito vă stochează scurtăturile, marcajele, parolele, istoricul și descărcările separat.</string>
-    <string name="secret_guide_2">Puteți seta dacă istoricul și descărcările dvs. sunt salvate și dacă utilizați ecranul de blocare.</string>
-    <string name="secret_guide_3">Soul Browser se angajează să vă protejeze confidențialitatea.</string>
     <string name="prev_page">Pagina înapoi</string>
     <string name="next_page">Pagina următoare</string>
     <string name="tab_gesture">Gest tab</string>
     <string name="pop_block">Blocator popup</string>
-    <string name="pop_block_info1">Blocați toate ferestrele pop-up</string>
+    <string name="pop_block_info1">Blocați toate ferestrele popup</string>
     <string name="pop_block_info2">Blocați când sunt deschise alte site-uri (inclusiv site-uri de publicitate)</string>
-    <string name="pop_block_info3">Blocați numai ferestrele pop-up suspectate ca reclame</string>
+    <string name="pop_block_info3">Blocați numai ferestrele popup suspectate ca reclame</string>
     <string name="app_block">Blocați execuția aplicației</string>
     <string name="app_site">Deschis în browser</string>
     <string name="app_block_info1">Blocați site-ul pentru a rula alte aplicații.</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Pagina principală</string>
     <string name="last_page">Ultima pagină vizitată</string>
     <string name="input_url">Introduceți adresa URL</string>
-    <string name="input_domain">Domain de intrare</string>
     <string name="camera">Cameră foto</string>
     <string name="camcorder">Cameră video</string>
     <string name="web_edit_hint">Căutați sau tastați adresa URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Fișier existent</string>
     <string name="exist_name">Numele existent</string>
     <string name="exist_url">URL existent</string>
-    <string name="exist_domain">Domain existent</string>
     <string name="next_file">Fișierul următor</string>
     <string name="empty">Gol</string>
     <string name="share_limit">Până la 100 acceptate</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Dacă aveți întrebări despre copyright, vă rugăm să contactați site-ul.</string>
     <string name="set_wallpaper">Setați ca fundal</string>
     <string name="crop_save">A decupa</string>
-    <string name="pdf_crop">Eliminarea marjei</string>
     <string name="pdf_crop_guide">Eliminați marginile din fișierele PDF.</string>
     <string name="guide_pinch">Zoom in / out</string>
     <string name="dark_mode">Tema</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Pagina de pornire</string>
     <string name="show_image_info">Afișează imagini ale unei pagini web.</string>
     <string name="show_video_button">Butonul de descărcare video</string>
-    <string name="tab_gesture_guide">Puteți edita în mod liber gesturile.</string>
     <string name="two_finger">(Două degete)</string>
     <string name="two_finger_info_1">Glisați spre stânga și spre dreapta cu două degete pentru a muta file.</string>
     <string name="two_finger_info_2">Glisați în jos cu două degete pentru a elimina fila.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Lista albă anunțurilor</string>
     <string name="pop_white">Listă albă popup</string>
     <string name="pop_allow">Permiteți popup</string>
-    <string name="pop_confirm_1">Doriți să permiteți popup uri pe site ul curent?</string>
+    <string name="pop_confirm_1">Doriți să permiteți ferestrele popup pe pagina curentă?</string>
     <string name="pop_confirm_2">S-ar putea să fiți expus la reclame periculoase.</string>
-    <string name="pop_allowed">Popup urile sunt permise pe site ul curent.</string>
+    <string name="pop_allowed">Ferestrele popup au fost permise pe pagina curentă.</string>
     <string name="image_list">Listă de imagini</string>
     <string name="image_cast_guide_1">Accesați site-ul cu imaginea.</string>
     <string name="image_cast_guide_2">Selectați \'Afișați doar imagini\' sau \'Salvați toate imaginile\'.</string>
     <string name="image_cast_guide_3">Selectați o imagine.</string>
     <string name="local_cast_guide_1">Selectați pictograma în lista de distribuție TV.</string>
     <string name="local_cast_guide_2">Vă rugăm să selectați un articol.</string>
-    <string name="video_down">Descărcați videoclip</string>
     <string name="video_down_guide_0">Accesați site-ul cu videoclipul.</string>
     <string name="video_down_guide_1">Când este detectat un videoclip, pe ecran apare un buton de descărcare.</string>
     <string name="video_down_guide_2">Butonul nu apare pentru videoclipuri care nu pot fi descărcate.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Tot istoricul dvs. este salvat.\nMai multe date pot încetini performanța browserului.</string>
     <string name="list">Listă</string>
     <string name="page_no_image">Nu există imagini pe această pagină.</string>
-    <string name="touch_lock">Touch lock</string>
-    <string name="touch_lock_guide_1">Touch este dezactivat în timpul redării video.</string>
-    <string name="touch_lock_guide_2">Puteți seta metoda de deblocare în Setări.</string>
     <string name="touch_lock_info">Ecran de blocare pentru deblocarea atingerii în timpul redării video.</string>
     <string name="touch_locked">Touch este blocat.</string>
     <string name="touch_unlocked">Touch este deblocat.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Exportați în HTML</string>
     <string name="no_bookmark">Fără marcaje.</string>
     <string name="import_html">Importați din HTML</string>
-    <string name="import_html_info_1">1. Exportați marcajele în HTML din managerul de marcaje din browserul dvs. desktop.</string>
-    <string name="import_html_info_2">2. Puneți HTML pe stocarea internă sau pe cardul SD și deschideți-l în Soul Browser.</string>
-    <string name="import_html_info_3">3. Marcaje HTML sunt adăugate în browserul Soul.</string>
     <string name="import_no_html">Nu există marcaj în HTML.</string>
     <string name="import_normal">Import din modul normal</string>
     <string name="import_no_quick">Nu există nicio scurtătură în modul normal.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Derulați în sus</string>
     <string name="scroll_down">Deruleaza in jos</string>
     <string name="open_with">Buka dengan</string>
-    <string name="other_guide">Îl poți descărca cu o altă aplicație.</string>
     <string name="double_tap">Apasare dubla</string>
     <string name="double_tap_guide_1">Puteți seta modul peisaj și modul portret diferit.</string>
     <string name="double_tap_guide_2">Pentru a seta modul peisaj, rotiți dispozitivul pe orizontală.</string>
@@ -720,7 +705,6 @@
     <string name="background">Fundal</string>
     <string name="search_suggest">Sugestii de căutare</string>
     <string name="at_bottom">În partea de jos</string>
-    <string name="guide_menu">Apăsați lung pictograma pentru a edita meniul.</string>
     <string name="clean_data_info">Acumularea de date vechi poate încetini browserul.\nEste o idee bună să vă curățați periodic datele.</string>
     <string name="txt_viewer">Vizualizator de text</string>
     <string name="purchase">Cumpărare</string>

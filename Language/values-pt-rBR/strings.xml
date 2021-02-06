@@ -93,16 +93,13 @@
     <string name="secret_mode">Modo anônimo</string>
     <string name="normal_mode">Modo normal</string>
     <string name="normal_start">Executar no modo normal</string>
-    <string name="secret_guide_1">O modo de navegação anônima armazena seus atalhos, favoritos, senha, histórico e downloads separadamente.</string>
-    <string name="secret_guide_2">Você pode definir se seu histórico e downloads são salvos e se usa a tela de bloqueio.</string>
-    <string name="secret_guide_3">O Soul Browser está comprometido em proteger sua privacidade.</string>
     <string name="prev_page">Voltar página</string>
     <string name="next_page">Avançar página</string>
     <string name="tab_gesture">Gestos de aba</string>
     <string name="pop_block">Bloqueador de popups</string>
-    <string name="pop_block_info1">Bloquear todos os pop-ups</string>
+    <string name="pop_block_info1">Bloquear todos os popups</string>
     <string name="pop_block_info2">Bloquear quando outros sites são abertos (incluindo sites de publicidade)</string>
-    <string name="pop_block_info3">Bloquear apenas pop-ups suspeitos de serem anúncios</string>
+    <string name="pop_block_info3">Bloquear apenas popups suspeitos de serem anúncios</string>
     <string name="app_block">Bloquear a execução do aplicativo</string>
     <string name="app_site">Abra no navegador</string>
     <string name="app_block_info1">Bloqueie o site de executar outros aplicativos.</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Página inicial</string>
     <string name="last_page">Última página visitada</string>
     <string name="input_url">Digitar URL</string>
-    <string name="input_domain">Digitar Domínio</string>
     <string name="camera">Câmera</string>
     <string name="camcorder">Filmadora</string>
     <string name="web_edit_hint">Pesquisar ou digitar URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Arquivo existente</string>
     <string name="exist_name">Nome existente</string>
     <string name="exist_url">URL existente</string>
-    <string name="exist_domain">Domínio existente</string>
     <string name="next_file">Próximo arquivo</string>
     <string name="empty">Vazio</string>
     <string name="share_limit">Até 100 suportados</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Se você tiver alguma dúvida sobre direitos autorais, entre em contato com o site.</string>
     <string name="set_wallpaper">Definir como papel de parede</string>
     <string name="crop_save">Cortar</string>
-    <string name="pdf_crop">Remoção de margem</string>
     <string name="pdf_crop_guide">Remover margens de arquivos PDF.</string>
     <string name="guide_pinch">Zoom + / -</string>
     <string name="dark_mode">Tema</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Página inicial</string>
     <string name="show_image_info">Exibir imagens de uma página da web.</string>
     <string name="show_video_button">Botão de baixar vídeo</string>
-    <string name="tab_gesture_guide">Você pode editar livremente os gestos.</string>
     <string name="two_finger">(Dois dedos)</string>
     <string name="two_finger_info_1">Deslize para a esquerda e a direita com dois dedos para mover abas.</string>
     <string name="two_finger_info_2">Deslize para baixo com dois dedos para fechar a aba.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Lista branca de anúncios</string>
     <string name="pop_white">Lista branca de popups</string>
     <string name="pop_allow">Permitir popup</string>
-    <string name="pop_confirm_1">Deseja permitir popups no site atual?</string>
+    <string name="pop_confirm_1">Quer permitir popups na página atual?</string>
     <string name="pop_confirm_2">Você pode ser exposto a anúncios perigosos.</string>
-    <string name="pop_allowed">Popups estão permitidos no site atual.</string>
+    <string name="pop_allowed">Popups eram permitidos na página atual.</string>
     <string name="image_list">Lista imagens</string>
     <string name="image_cast_guide_1">Visitar o site com a imagem.</string>
     <string name="image_cast_guide_2">Selecione \'Ver apenas imagens\' ou \'Salvar todas as imagens\'.</string>
     <string name="image_cast_guide_3">Selecione uma imagem.</string>
     <string name="local_cast_guide_1">Selecione o ícone da lista de transmissão para TV.</string>
     <string name="local_cast_guide_2">Por favor, selecione um item.</string>
-    <string name="video_down">Baixar vídeo</string>
     <string name="video_down_guide_0">Visitar o site com o vídeo.</string>
     <string name="video_down_guide_1">Quando um vídeo é detectado, um botão de download aparece na tela.</string>
     <string name="video_down_guide_2">O botão não aparece para vídeos que não podem ser baixados.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Todo o seu histórico é salvo.\nMuitos dados podem diminuir o desempenho do navegador.</string>
     <string name="list">Lista</string>
     <string name="page_no_image">Não há imagens nesta página.</string>
-    <string name="touch_lock">Bloquear toques</string>
-    <string name="touch_lock_guide_1">Os toques na tela serão desativados durante a reprodução do vídeo.</string>
-    <string name="touch_lock_guide_2">Você pode definir o método de desbloqueio em Configurações.</string>
     <string name="touch_lock_info">Tela de bloqueio para desbloquear o toque durante a reprodução de vídeo.</string>
     <string name="touch_locked">O toque está bloqueado.</string>
     <string name="touch_unlocked">O toque está desbloqueado.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Exportar para HTML</string>
     <string name="no_bookmark">Nenhum favorito.</string>
     <string name="import_html">Importar de HTML</string>
-    <string name="import_html_info_1">1. Exporte os favoritos para HTML do gerenciador de favoritos no navegador da área de trabalho.</string>
-    <string name="import_html_info_2">2. Coloque o HTML no armazenamento interno ou no cartão SD e abra o no Soul Browser.</string>
-    <string name="import_html_info_3">3. Favoritos em HTML serão adicionados ao Soul Browser.</string>
     <string name="import_no_html">Não há favoritos no HTML.</string>
     <string name="import_normal">Importar do modo normal</string>
     <string name="import_no_quick">Não há atalhos no modo normal.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Rolar para cima</string>
     <string name="scroll_down">Rolar para baixo</string>
     <string name="open_with">Abrir com</string>
-    <string name="other_guide">Você pode baixar com outro aplicativo.</string>
     <string name="double_tap">Toque duplo</string>
     <string name="double_tap_guide_1">Você pode definir o modo paisagem e retrato de maneira diferente.</string>
     <string name="double_tap_guide_2">Para definir o modo paisagem, gire seu dispositivo horizontalmente.</string>
@@ -720,7 +705,6 @@
     <string name="background">Fundo</string>
     <string name="search_suggest">Sugestões de pesquisa</string>
     <string name="at_bottom">No fundo</string>
-    <string name="guide_menu">Pressione longamente o ícone para editar o menu.</string>
     <string name="clean_data_info">O acúmulo de dados desatualizados pode tornar seu navegador mais lento.\nÉ uma boa ideia limpar seus dados periodicamente.</string>
     <string name="txt_viewer">Visualizador de texto</string>
     <string name="purchase">Comprar</string>

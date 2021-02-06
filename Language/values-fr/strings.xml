@@ -93,9 +93,6 @@
     <string name="secret_mode">Mode privée</string>
     <string name="normal_mode">Mode normal</string>
     <string name="normal_start">Exécuter en mode normal</string>
-    <string name="secret_guide_1">Le mode Incognito stocke vos raccourcis, vos signets, mot de passe, votre historique et vos téléchargements séparément.</string>
-    <string name="secret_guide_2">Vous pouvez définir si votre historique et vos téléchargements sont enregistrés, et si vous utilisez l\'écran de verrouillage.</string>
-    <string name="secret_guide_3">Soul Browser s\'engage à protéger votre vie privée.</string>
     <string name="prev_page">Page précédente</string>
     <string name="next_page">Page suivante</string>
     <string name="tab_gesture">Geste onglet</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Page accueil</string>
     <string name="last_page">Dernière page visitée</string>
     <string name="input_url">Entrer URL</string>
-    <string name="input_domain">Entrer Domain</string>
     <string name="camera">Caméra</string>
     <string name="camcorder">Caméscope</string>
     <string name="web_edit_hint">Recherchez ou tapez URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Fichier existant</string>
     <string name="exist_name">Nom existant</string>
     <string name="exist_url">URL existante</string>
-    <string name="exist_domain">Domain existante</string>
     <string name="next_file">Prochain fichier</string>
     <string name="empty">Vide</string>
     <string name="share_limit">Jusqu 100 prises en charge</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Si vous avez des questions sur le droit d\'auteur, veuillez contacter le site.</string>
     <string name="set_wallpaper">Définir en tant que fond écran</string>
     <string name="crop_save">Récolte</string>
-    <string name="pdf_crop">Enlèvement de marge</string>
     <string name="pdf_crop_guide">Supprimer les marges des fichiers PDF.</string>
     <string name="guide_pinch">Zoom avant / arrière</string>
     <string name="dark_mode">Thème</string>
@@ -348,7 +342,7 @@
     <string name="block_images">Bloquer l\'image</string>
     <string name="block_a_image">Bloquer l\'image</string>
     <string name="blocked_image">Images bloquées</string>
-    <string name="block_confirm">Voulez-vous le bloquer?</string>
+    <string name="block_confirm">Voulez vous le bloquer?</string>
     <string name="block_apply">Bloquer</string>
     <string name="reset">Réinitialiser</string>
     <string name="reset_confirm">Voulez vous réinitialiser votre travail?</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Page d\'accueil</string>
     <string name="show_image_info">Afficher une image d\'une page web.</string>
     <string name="show_video_button">Bouton téléchargement vidéo</string>
-    <string name="tab_gesture_guide">Vous pouvez modifier librement les gestes.</string>
     <string name="two_finger">(Deux doigts)</string>
     <string name="two_finger_info_1">Glissez vers la gauche et la droite avec deux doigts pour déplacer les onglets.</string>
     <string name="two_finger_info_2">Glissez vers le bas avec deux doigts pour retirer l\'onglet.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Liste blanche Ad</string>
     <string name="pop_white">Liste blanche popup</string>
     <string name="pop_allow">Autoriser le popup</string>
-    <string name="pop_confirm_1">Voulez vous autoriser les fenêtres popup sur le site actuel?</string>
+    <string name="pop_confirm_1">Voulez vous autoriser les fenêtres contextuelles sur la page actuelle?</string>
     <string name="pop_confirm_2">Vous pouvez être exposé à des publicités dangereuses.</string>
-    <string name="pop_allowed">Les fenêtres popup sont autorisées sur le site actuel.</string>
+    <string name="pop_allowed">Les fenêtres contextuelles étaient autorisées sur la page actuelle.</string>
     <string name="image_list">Liste images</string>
     <string name="image_cast_guide_1">Visitez le site avec l\'image.</string>
     <string name="image_cast_guide_2">Sélectionnez \'Voir seulement les images\' ou \'Enregistrer toutes images\'.</string>
     <string name="image_cast_guide_3">Veuillez sélectionner une image.</string>
     <string name="local_cast_guide_1">Sélectionnez l\'icône de liste de diffusion TV.</string>
     <string name="local_cast_guide_2">Veuillez sélectionner un article.</string>
-    <string name="video_down">Téléchargez la vidéo</string>
     <string name="video_down_guide_0">Visitez le site avec la vidéo.</string>
     <string name="video_down_guide_1">Lorsqu\'une vidéo est détectée, un bouton de téléchargement apparaît à l\'écran.</string>
     <string name="video_down_guide_2">Les bouton n\'apparaissent pas pour les vidéo qui ne peuvent pas être téléchargées.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Toute votre historique est sauvegardée.\nTrop de données peuvent ralentir les performances du navigateur.</string>
     <string name="list">Liste</string>
     <string name="page_no_image">Il n\'y a pas d\'images sur cette page.</string>
-    <string name="touch_lock">Verrouillage tactile</string>
-    <string name="touch_lock_guide_1">Le toucher est désactivé pendant la lecture vidéo.</string>
-    <string name="touch_lock_guide_2">Vous pouvez définir la méthode de déverrouillage dans les paramètres.</string>
     <string name="touch_lock_info">Écran de verrouillage pour déverrouiller le toucher pendant la lecture vidéo.</string>
     <string name="touch_locked">Le toucher est verrouillé.</string>
     <string name="touch_unlocked">Le toucher est déverrouillé.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Exporter en HTML</string>
     <string name="no_bookmark">Aucun signet.</string>
     <string name="import_html">Importer depuis HTML</string>
-    <string name="import_html_info_1">1. Exportez les signets au format HTML à partir du gestionnaire de signets de votre navigateur de bureau.</string>
-    <string name="import_html_info_2">2. Mettez du HTML sur le stockage interne ou la carte SD et ouvrez le dans Soul Browser.</string>
-    <string name="import_html_info_3">3. Le signet HTML est ajouté à Soul Browser.</string>
     <string name="import_no_html">Il n\'y a pas de signets dans le HTML.</string>
     <string name="import_normal">Importer en mode normal</string>
     <string name="import_no_quick">Il n\'y a pas de raccourcis en mode normal.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Faire défiler vers le haut</string>
     <string name="scroll_down">Défiler vers le bas</string>
     <string name="open_with">Ouvrir avec</string>
-    <string name="other_guide">Vous pouvez le télécharger avec une autre application.</string>
     <string name="double_tap">Tapez deux fois</string>
     <string name="double_tap_guide_1">Vous pouvez définir le mode paysage et le mode portrait différemment.</string>
     <string name="double_tap_guide_2">Pour définir le mode paysage, faites pivoter votre appareil horizontalement.</string>
@@ -720,7 +705,6 @@
     <string name="background">Contexte</string>
     <string name="search_suggest">Suggestions de recherche</string>
     <string name="at_bottom">Au fond</string>
-    <string name="guide_menu">Appuyez longuement sur l\'icône pour modifier le menu.</string>
     <string name="clean_data_info">L\'accumulation de données périmées peut ralentir votre navigateur.\nC\'est une bonne idée de nettoyer régulièrement vos données.</string>
     <string name="txt_viewer">Visionneuse de texte</string>
     <string name="purchase">Achat</string>

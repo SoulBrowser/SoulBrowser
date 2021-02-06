@@ -93,9 +93,6 @@
     <string name="secret_mode">Режим инкогнито</string>
     <string name="normal_mode">Нормальный режим</string>
     <string name="normal_start">Запустить в обычном режиме</string>
-    <string name="secret_guide_1">Режим инкогнито хранит ваши ярлыки, закладки, пароли, историю и загрузки отдельно.</string>
-    <string name="secret_guide_2">Вы можете указать, будут ли сохраняться Ваши история и загрузки, а также использовать ли экран блокировки.</string>
-    <string name="secret_guide_3">Soul Browser обязуется защищать вашу конфиденциальность.</string>
     <string name="prev_page">Предыдущая страница</string>
     <string name="next_page">Следующая страница</string>
     <string name="tab_gesture">Жест вкладки</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Домашняя страница</string>
     <string name="last_page">Последняя посещенная страница</string>
     <string name="input_url">Введите URL</string>
-    <string name="input_domain">Введите Domain</string>
     <string name="camera">Камера</string>
     <string name="camcorder">Видеокамера</string>
     <string name="web_edit_hint">Поиск или ввод URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Существующий файл</string>
     <string name="exist_name">Существующее имя</string>
     <string name="exist_url">Существующий URL</string>
-    <string name="exist_domain">Существующий Domain</string>
     <string name="next_file">Следующий файл</string>
     <string name="empty">Пустой</string>
     <string name="share_limit">Поддержка до 100</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Если у вас есть какие либо вопросы об авторском праве, пожалуйста, свяжитесь с сайтом.</string>
     <string name="set_wallpaper">Установить в качестве обоев</string>
     <string name="crop_save">Обрезать</string>
-    <string name="pdf_crop">Удаление смещения</string>
     <string name="pdf_crop_guide">Удалить поля из PDF файлов.</string>
     <string name="guide_pinch">Увеличить / Уменьшить</string>
     <string name="dark_mode">Тема</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Начальная страница</string>
     <string name="show_image_info">Отобразить изображение веб страницы.</string>
     <string name="show_video_button">Кнопка загрузки видео</string>
-    <string name="tab_gesture_guide">Жесты можно свободно редактировать.</string>
     <string name="two_finger">(Два пальца)</string>
     <string name="two_finger_info_1">Проведите двумя пальцами влево и вправо для перемещения вкладок.</string>
     <string name="two_finger_info_2">Проведите двумя пальцами вниз, чтобы удалить язычок.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Белый список Ad</string>
     <string name="pop_white">Белый список всплывающих окон</string>
     <string name="pop_allow">Разрешить всплывающее окно</string>
-    <string name="pop_confirm_1">Вы хотите разрешить всплывающие окна на текущем сайте?</string>
+    <string name="pop_confirm_1">Вы хотите разрешить всплывающие окна на текущей странице?</string>
     <string name="pop_confirm_2">Вы можете столкнуться с опасной рекламой.</string>
-    <string name="pop_allowed">На текущем сайте разрешены всплывающие окна.</string>
+    <string name="pop_allowed">На текущей странице разрешены всплывающие окна.</string>
     <string name="image_list">Список изображений</string>
     <string name="image_cast_guide_1">Посетите сайт с изображением.</string>
     <string name="image_cast_guide_2">Выберите \'Просмотр только изображений\' или \'Сохранить все изображения\'.</string>
     <string name="image_cast_guide_3">Пожалуйста, выберите изображение.</string>
     <string name="local_cast_guide_1">Выберите значок списка телевизионных ролей.</string>
     <string name="local_cast_guide_2">Пожалуйста, выберите предмет.</string>
-    <string name="video_down">Скачать видео</string>
     <string name="video_down_guide_0">Посетите сайт с видео.</string>
     <string name="video_down_guide_1">При обнаружении видео на экране появляется кнопка загрузки.</string>
     <string name="video_down_guide_2">Кнопки не отображаются для видео, которые нельзя загрузить.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Вся Ваша история сохранена.\nСлишком большое количество данных может снизить производительность браузера.</string>
     <string name="list">Список</string>
     <string name="page_no_image">На этой странице нет изображений.</string>
-    <string name="touch_lock">Сенсорный замок</string>
-    <string name="touch_lock_guide_1">Прикосновение отключено во время воспроизведения видео.</string>
-    <string name="touch_lock_guide_2">Вы можете установить метод разблокировки в настройках.</string>
     <string name="touch_lock_info">Экран блокировки для разблокировки касания во время воспроизведения видео.</string>
     <string name="touch_locked">Сенсор заблокирован.</string>
     <string name="touch_unlocked">Сенсор йазблокирован.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Экспорт в HTML</string>
     <string name="no_bookmark">Нет закладок.</string>
     <string name="import_html">Импорт из HTML</string>
-    <string name="import_html_info_1">1. Экспортируйте закладки в HTML из диспетчера закладок в браузере вашего компьютера.</string>
-    <string name="import_html_info_2">2. Поместите HTML код во внутреннюю память или на SD карту и откройте его в Soul Browser.</string>
-    <string name="import_html_info_3">3. HTML закладки добавляются в Soul Browser.</string>
     <string name="import_no_html">В HTML нет закладок.</string>
     <string name="import_normal">Импорт из обычного режима</string>
     <string name="import_no_quick">В обычном режиме ярлыки отсутствуют.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Прокрутите вверх</string>
     <string name="scroll_down">Прокрутить вниз</string>
     <string name="open_with">Открыть с</string>
-    <string name="other_guide">Вы можете скачать его с другим приложением.</string>
     <string name="double_tap">Двойное нажатие</string>
     <string name="double_tap_guide_1">Вы можете установить ландшафтный режим и портретный режим по-разному.</string>
     <string name="double_tap_guide_2">Чтобы установить альбомный режим, поверните устройство по горизонтали.</string>
@@ -720,7 +705,6 @@
     <string name="background">Задний план</string>
     <string name="search_suggest">Предложения поиска</string>
     <string name="at_bottom">Внизу</string>
-    <string name="guide_menu">Нажмите и удерживайте значок, чтобы редактировать меню.</string>
     <string name="clean_data_info">Накопление устаревших данных может замедлить работу вашего браузера.\nРекомендуется периодически очищать данные.</string>
     <string name="txt_viewer">Просмотрщик текста</string>
     <string name="purchase">Покупка</string>

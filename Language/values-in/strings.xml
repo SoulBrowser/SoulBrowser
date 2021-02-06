@@ -93,16 +93,13 @@
     <string name="secret_mode">Mode penyamaran</string>
     <string name="normal_mode">Mode normal</string>
     <string name="normal_start">Jalankan dalam mode normal</string>
-    <string name="secret_guide_1">Mode penyamaran menyimpan pintasan, bookmark, kata sandi, riwayat, dan unduhan Anda secara terpisah.</string>
-    <string name="secret_guide_2">Anda dapat mengatur apakah riwayat dan unduhan Anda disimpan, dan apakah Anda menggunakan layar kunci.</string>
-    <string name="secret_guide_3">Soul Browser berkomitmen untuk melindungi privasi Anda.</string>
     <string name="prev_page">Halaman belakang</string>
     <string name="next_page">Halaman berikutnya</string>
     <string name="tab_gesture">Gerakan tab</string>
     <string name="pop_block">Pemblokir popup</string>
-    <string name="pop_block_info1">Blokir semua pop-up</string>
+    <string name="pop_block_info1">Blokir semua popup</string>
     <string name="pop_block_info2">Blokir ketika situs lain dibuka (termasuk situs periklanan)</string>
-    <string name="pop_block_info3">Blokir hanya pop-up yang dicurigai sebagai iklan</string>
+    <string name="pop_block_info3">Blokir hanya popup yang dicurigai sebagai iklan</string>
     <string name="app_block">Blokir eksekusi aplikasi</string>
     <string name="app_site">Buka di browser</string>
     <string name="app_block_info1">Blokir situs agar tidak menjalankan aplikasi lain.</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Halaman rumah</string>
     <string name="last_page">Halaman yang terakhir dikunjungi</string>
     <string name="input_url">Masukkan URL</string>
-    <string name="input_domain">Enter Domain</string>
     <string name="camera">Camera</string>
     <string name="camcorder">Camcorder</string>
     <string name="web_edit_hint">Cari atau ketik URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">File yang ada</string>
     <string name="exist_name">Nama yang ada</string>
     <string name="exist_url">URL yang ada</string>
-    <string name="exist_domain">Domain yang ada</string>
     <string name="next_file">File selanjutnya</string>
     <string name="empty">Empty</string>
     <string name="share_limit">Hingga 100 didukung</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Jika Anda memiliki pertanyaan tentang hak cipta, silakan hubungi situs.</string>
     <string name="set_wallpaper">Jadikan wallpaper</string>
     <string name="crop_save">Pangkas</string>
-    <string name="pdf_crop">Penghapusan margin</string>
     <string name="pdf_crop_guide">Hapus margin dari file PDF.</string>
     <string name="guide_pinch">Memperbesar / memperkecil</string>
     <string name="dark_mode">Tema</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Halaman awal</string>
     <string name="show_image_info">Tampilkan gambar halaman web.</string>
     <string name="show_video_button">Tombol unduh video</string>
-    <string name="tab_gesture_guide">Anda dapat dengan bebas mengedit isyarat.</string>
     <string name="two_finger">(Dua jari)</string>
     <string name="two_finger_info_1">Geser ke kiri dan kanan dengan dua jari untuk memindahkan tab.</string>
     <string name="two_finger_info_2">Geser ke bawah dengan dua jari untuk menghapus tab.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Daftar putih Ad</string>
     <string name="pop_white">Daftar putih popup</string>
     <string name="pop_allow">Izinkan munculan</string>
-    <string name="pop_confirm_1">Apakah Anda ingin mengizinkan munculan di situs saat ini?</string>
+    <string name="pop_confirm_1">Apakah Anda ingin mengizinkan popup di halaman ini?</string>
     <string name="pop_confirm_2">Anda mungkin terpapar iklan berbahaya.</string>
-    <string name="pop_allowed">Munculan diizinkan di situs saat ini.</string>
+    <string name="pop_allowed">Popup diizinkan di halaman ini.</string>
     <string name="image_list">Daftar gambar</string>
     <string name="image_cast_guide_1">Kunjungi situs dengan gambar.</string>
     <string name="image_cast_guide_2">Pilih \'Lihat hanya gambar\' atau \'Simpan semua gambar\'.</string>
     <string name="image_cast_guide_3">Silakan pilih satu gambar.</string>
     <string name="local_cast_guide_1">Pilih ikon daftar pemain TV.</string>
     <string name="local_cast_guide_2">Silakan pilih satu item.</string>
-    <string name="video_down">Unduh video</string>
     <string name="video_down_guide_0">Kunjungi situs dengan video.</string>
     <string name="video_down_guide_1">Saat video terdeteksi, tombol unduh muncul di layar.</string>
     <string name="video_down_guide_2">Tombol tidak muncul untuk video yang tidak dapat diunduh.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Semua riwayat Anda disimpan.\nTerlalu banyak data dapat memperlambat kinerja browser.</string>
     <string name="list">Daftar</string>
     <string name="page_no_image">Tidak ada gambar di halaman ini.</string>
-    <string name="touch_lock">Sentuh kunci</string>
-    <string name="touch_lock_guide_1">Sentuhan dinonaktifkan selama pemutaran video.</string>
-    <string name="touch_lock_guide_2">Anda dapat mengatur metode buka kunci di Pengaturan.</string>
     <string name="touch_lock_info">Kunci layar untuk membuka kunci sentuh selama pemutaran video.</string>
     <string name="touch_locked">Sentuhan terkunci.</string>
     <string name="touch_unlocked">Sentuhan tidak terkunci.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Ekspor ke HTML</string>
     <string name="no_bookmark">Tidak ada penanda.</string>
     <string name="import_html">Impor dari HTML</string>
-    <string name="import_html_info_1">1. Ekspor bookmark ke HTML dari manajer bookmark di browser desktop Anda.</string>
-    <string name="import_html_info_2">2. Letakkan HTML di penyimpanan internal atau kartu SD dan buka di Soul Browser.</string>
-    <string name="import_html_info_3">3. Bookmark HTML ditambahkan ke Soul Browser.</string>
     <string name="import_no_html">Tidak ada bookmark di HTML.</string>
     <string name="import_normal">Impor dari mode normal</string>
     <string name="import_no_quick">Tidak ada pintas dalam mode normal.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Gulir ke atas</string>
     <string name="scroll_down">Gulir ke bawah</string>
     <string name="open_with">Buka dengan</string>
-    <string name="other_guide">Anda dapat mengunduhnya dengan aplikasi lain.</string>
     <string name="double_tap">Ketuk dua kali</string>
     <string name="double_tap_guide_1">Anda dapat mengatur mode lansekap dan mode potret secara berbeda.</string>
     <string name="double_tap_guide_2">Untuk menyetel mode lanskap, putar perangkat Anda secara horizontal.</string>
@@ -720,7 +705,6 @@
     <string name="background">Latar Belakang</string>
     <string name="search_suggest">Saran pencarian</string>
     <string name="at_bottom">Di dasar</string>
-    <string name="guide_menu">Tekan lama ikon untuk mengedit menu.</string>
     <string name="clean_data_info">Mengumpulkan data lama dapat memperlambat browser Anda.\nSebaiknya bersihkan data Anda secara berkala.</string>
     <string name="txt_viewer">Penampil teks</string>
     <string name="purchase">Membeli</string>

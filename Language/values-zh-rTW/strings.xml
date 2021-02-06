@@ -93,9 +93,6 @@
     <string name="secret_mode">無痕模式</string>
     <string name="normal_mode">正常模式</string>
     <string name="normal_start">以普通模式運行</string>
-    <string name="secret_guide_1">隱身模式分別管理快捷方式，書籤，密碼，歷史記錄和下載。</string>
-    <string name="secret_guide_2">您可以設置是否保存歷史記錄和下載內容，以及是否使用鎖定螢幕。</string>
-    <string name="secret_guide_3">Soul Browser 致力於保護您的隱私。</string>
     <string name="prev_page">上一頁</string>
     <string name="next_page">下一頁</string>
     <string name="tab_gesture">分頁手勢</string>
@@ -218,7 +215,6 @@
     <string name="home_page">網站</string>
     <string name="last_page">上次訪問的頁面</string>
     <string name="input_url">輸入URL</string>
-    <string name="input_domain">輸入Domain</string>
     <string name="camera">相機</string>
     <string name="camcorder">攝像機</string>
     <string name="web_edit_hint">搜索或輸入網址</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">現有文件</string>
     <string name="exist_name">現有名稱</string>
     <string name="exist_url">現有URL</string>
-    <string name="exist_domain">現有Domain</string>
     <string name="next_file">下一個文件</string>
     <string name="empty">空</string>
     <string name="share_limit">支持高達100</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">如果您對版權有任何疑問， 請與該網站聯繫。</string>
     <string name="set_wallpaper">設置壁紙</string>
     <string name="crop_save">作物</string>
-    <string name="pdf_crop">去除保證金</string>
     <string name="pdf_crop_guide">從 PDF 文件中刪除邊距</string>
     <string name="guide_pinch">展開 / 收起</string>
     <string name="dark_mode">主題</string>
@@ -399,7 +393,6 @@
     <string name="start_page">首頁</string>
     <string name="show_image_info">顯示網頁圖片</string>
     <string name="show_video_button">影片下載按鈕</string>
-    <string name="tab_gesture_guide">您可以自由編輯手勢</string>
     <string name="two_finger">（雙指滑動）</string>
     <string name="two_finger_info_1">用雙指滑動左右滑動以移動分頁</string>
     <string name="two_finger_info_2">用雙指滑動向下滑動以移除分頁</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">廣告白名單</string>
     <string name="pop_white">彈出白名單</string>
     <string name="pop_allow">允許彈出</string>
-    <string name="pop_confirm_1">是否要允許當前站點上的彈出窗口？</string>
+    <string name="pop_confirm_1">您要在當前頁面上允許彈出窗口嗎？</string>
     <string name="pop_confirm_2">您可能會接觸到危險的廣告</string>
-    <string name="pop_allowed">在當前站點上允許彈出窗口</string>
+    <string name="pop_allowed">在當前頁面上允許彈出窗口</string>
     <string name="image_list">圖片清單</string>
     <string name="image_cast_guide_1">訪問帶有圖片的網站</string>
     <string name="image_cast_guide_2">選擇\'僅查看圖片\'或\'保存所有圖片\'</string>
     <string name="image_cast_guide_3">請選擇一張圖片</string>
     <string name="local_cast_guide_1">選擇電視廣播列表圖標</string>
     <string name="local_cast_guide_2">請選擇一個項目</string>
-    <string name="video_down">下載影片</string>
     <string name="video_down_guide_0">觀看帶有視頻的網站</string>
     <string name="video_down_guide_1">檢測到視頻時，屏幕上會出現一個下載按鈕</string>
     <string name="video_down_guide_2">對於無法下載的視頻， 不顯示按鈕</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">您的所有歷史記錄已保存。\n數據過多會降低瀏覽器性能。</string>
     <string name="list">清單</string>
     <string name="page_no_image">此頁面上沒有圖片。</string>
-    <string name="touch_lock">觸摸鎖</string>
-    <string name="touch_lock_guide_1">視頻播放期間觸摸被禁用</string>
-    <string name="touch_lock_guide_2">您可以在\'設置\'中設置解鎖方法</string>
     <string name="touch_lock_info">鎖定螢幕以在視頻播放期間解鎖觸摸</string>
     <string name="touch_locked">觸摸已鎖定</string>
     <string name="touch_unlocked">觸摸解鎖</string>
@@ -490,9 +479,6 @@
     <string name="export_html">導出為 HTML</string>
     <string name="no_bookmark">沒有書籤</string>
     <string name="import_html">從 HTML 導入</string>
-    <string name="import_html_info_1">1. 從桌面瀏覽器中的書籤管理器將書籤導出為 HTML</string>
-    <string name="import_html_info_2">2. 將 HTML 放在內部存儲器或SD卡上，然後在 Soul Browser 中將其打開</string>
-    <string name="import_html_info_3">3. HTML 書籤已新增到 Soul Browser</string>
     <string name="import_no_html">HTML 中沒有書籤</string>
     <string name="import_normal">從普通模式導入</string>
     <string name="import_no_quick">普通模式下沒有快捷方式</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">向上滑動</string>
     <string name="scroll_down">向下滾動</string>
     <string name="open_with">打開用</string>
-    <string name="other_guide">您可以使用其他應用下載</string>
     <string name="double_tap">雙擊</string>
     <string name="double_tap_guide_1">您可以不同地設置橫向模式和縱向模式</string>
     <string name="double_tap_guide_2">要設置橫向模式，請水平旋轉設備</string>
@@ -720,7 +705,6 @@
     <string name="background">背景</string>
     <string name="search_suggest">搜索建議</string>
     <string name="at_bottom">在底部</string>
-    <string name="guide_menu">長按圖標可編輯菜單</string>
     <string name="clean_data_info">累積過時的數據可能會降低瀏覽器的速度\n定期清理數據是一個好主意</string>
     <string name="txt_viewer">文字檢視器</string>
     <string name="purchase">採購</string>

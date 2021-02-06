@@ -93,9 +93,6 @@
     <string name="secret_mode">Modalità incognito</string>
     <string name="normal_mode">Modalità normale</string>
     <string name="normal_start">Esegui in modalità normale</string>
-    <string name="secret_guide_1">La modalità di navigazione in incognito memorizza le scorciatoie, i segnalibri, parola ordine, la cronologia e i download separatamente.</string>
-    <string name="secret_guide_2">Puoi impostare se salvare la cronologia e i download e utilizzare la schermata di blocco.</string>
-    <string name="secret_guide_3">Soul Browser si impegna a proteggere la tua privacy.</string>
     <string name="prev_page">Pagina precedente</string>
     <string name="next_page">Pagina seguente</string>
     <string name="tab_gesture">Gesto scheda</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Pagina home</string>
     <string name="last_page">Ultima pagina visitata</string>
     <string name="input_url">Inserisci l\'URL</string>
-    <string name="input_domain">Ingresso Domain</string>
     <string name="camera">Macchina fotografica</string>
     <string name="camcorder">Videocamera</string>
     <string name="web_edit_hint">Cerca o digitate URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">File esistente</string>
     <string name="exist_name">Nome esistente</string>
     <string name="exist_url">URL esistente</string>
-    <string name="exist_domain">Domain esistente</string>
     <string name="next_file">File successivo</string>
     <string name="empty">Vuoto</string>
     <string name="share_limit">Fino a 100 supportati</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">In caso di domande sul copyright, si prega di contattare il sito.</string>
     <string name="set_wallpaper">Imposta come sfondo</string>
     <string name="crop_save">Raccolto</string>
-    <string name="pdf_crop">Rimozione del margine</string>
     <string name="pdf_crop_guide">Rimuovi i margini dai file PDF.</string>
     <string name="guide_pinch">Zoom avanti / indietro</string>
     <string name="dark_mode">Tema</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Pagina iniziale</string>
     <string name="show_image_info">Visualizza un\'immagine di una pagina web.</string>
     <string name="show_video_button">Pulsante download video</string>
-    <string name="tab_gesture_guide">Puoi modificare liberamente i gesti.</string>
     <string name="two_finger">(Due dita)</string>
     <string name="two_finger_info_1">Scorri a sinistra e a destra con due dita per spostare le schede.</string>
     <string name="two_finger_info_2">Scorri verso il basso con due dita per rimuovere la linguetta.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Lista bianca Ad</string>
     <string name="pop_white">Lista bianca popup</string>
     <string name="pop_allow">Consenti popup</string>
-    <string name="pop_confirm_1">Vuoi consentire i popup sul sito corrente?</string>
+    <string name="pop_confirm_1">Vuoi consentire i popup nella pagina corrente?</string>
     <string name="pop_confirm_2">Potresti essere esposto a pubblicità pericolose.</string>
-    <string name="pop_allowed">I popup sono consentiti sul sito corrente.</string>
+    <string name="pop_allowed">I popup erano consentiti nella pagina corrente.</string>
     <string name="image_list">Elenco immagini</string>
     <string name="image_cast_guide_1">Visita il sito con l\'immagine.</string>
     <string name="image_cast_guide_2">Seleziona \'Visualizza solo immagini\' o \'Salva tutte immagini\'.</string>
     <string name="image_cast_guide_3">Seleziona un\'immagine.</string>
     <string name="local_cast_guide_1">Seleziona l\'icona dell\'elenco dei cast TV.</string>
     <string name="local_cast_guide_2">Seleziona un articolo.</string>
-    <string name="video_down">Scarica il video</string>
     <string name="video_down_guide_0">Visita il sito con il video.</string>
     <string name="video_down_guide_1">Quando viene rilevato un video, sullo schermo viene visualizzato un pulsante di download.</string>
     <string name="video_down_guide_2">I pulsante non vengono visualizzati per i video che non possono essere scaricati.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Tutta la tua cronologia viene salvata.\nTroppi dati possono rallentare le prestazioni del browser.</string>
     <string name="list">Lista</string>
     <string name="page_no_image">Non ci sono immagini in questa pagina.</string>
-    <string name="touch_lock">Tocca Blocco</string>
-    <string name="touch_lock_guide_1">Il tocco è disabilitato durante la riproduzione video.</string>
-    <string name="touch_lock_guide_2">Puoi impostare il metodo di sblocco in Impostazioni.</string>
     <string name="touch_lock_info">Schermata di blocco per sbloccare il tocco durante la riproduzione video.</string>
     <string name="touch_locked">Il tocco è bloccato.</string>
     <string name="touch_unlocked">Il tocco è sbloccato.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Esporta in HTML</string>
     <string name="no_bookmark">Nessun preferiti.</string>
     <string name="import_html">Importa da HTML</string>
-    <string name="import_html_info_1">1. Esporta i segnalibri in HTML da Gestione segnalibri nel browser del desktop.</string>
-    <string name="import_html_info_2">2. Inserisci HTML su memoria interna o scheda SD e aprilo in Soul Browser.</string>
-    <string name="import_html_info_3">3. I segnalibri HTML vengono aggiunti al Soul Browser.</string>
     <string name="import_no_html">Non ci sono segnalibri nell\'HTML.</string>
     <string name="import_normal">Importa dalla modalità normale</string>
     <string name="import_no_quick">Non ci sono scorciatoie in modalità normale.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Scorrere verso l\'alto</string>
     <string name="scroll_down">Scorri verso il basso</string>
     <string name="open_with">Aperta con</string>
-    <string name="other_guide">Puoi scaricarlo con un\'altra app.</string>
     <string name="double_tap">Tocca due volte</string>
     <string name="double_tap_guide_1">È possibile impostare la modalità orizzontale e verticale in modo diverso.</string>
     <string name="double_tap_guide_2">Per impostare la modalità orizzontale, ruota il dispositivo in orizzontale.</string>
@@ -720,7 +705,6 @@
     <string name="background">Sfondo</string>
     <string name="search_suggest">Suggerimenti di ricerca</string>
     <string name="at_bottom">In fondo</string>
-    <string name="guide_menu">Premere a lungo l\'icona per modificare il menu.</string>
     <string name="clean_data_info">L\'accumulo di dati obsoleti può rallentare il browser.\nÈ una buona idea pulire periodicamente i dati.</string>
     <string name="txt_viewer">Visualizzatore di testo</string>
     <string name="purchase">Acquista</string>

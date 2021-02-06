@@ -93,9 +93,6 @@
     <string name="secret_mode">Chế độ ẩn danh</string>
     <string name="normal_mode">Chế độ bình thường</string>
     <string name="normal_start">Chạy ở chế độ bình thường</string>
-    <string name="secret_guide_1">Chế độ ẩn danh lưu trữ các phím tắt, dấu trang, mật khẩu, lịch sử và tải xuống riêng biệt.</string>
-    <string name="secret_guide_2">Bạn có thể đặt liệu lịch sử và các bản tải xuống của bạn có được lưu hay không và liệu bạn có sử dụng màn hình khóa hay không.</string>
-    <string name="secret_guide_3">Soul Browser cam kết bảo vệ sự riêng tư của bạn.</string>
     <string name="prev_page">Trang trước</string>
     <string name="next_page">Trang tiếp theo</string>
     <string name="tab_gesture">Cử chỉ tab</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Trang chủ</string>
     <string name="last_page">Trang truy cập lần cuối</string>
     <string name="input_url">Nhập URL</string>
-    <string name="input_domain">Nhập Domain</string>
     <string name="camera">Máy ảnh</string>
     <string name="camcorder">Máy quay phim</string>
     <string name="web_edit_hint">Tìm kiếm hoặc nhập URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Tệp đã tồn tại</string>
     <string name="exist_name">Tên đã tồn tại</string>
     <string name="exist_url">URL đã tồn tại</string>
-    <string name="exist_domain">Domain đã tồn tại</string>
     <string name="next_file">Tập tin tiếp theo</string>
     <string name="empty">Trống</string>
     <string name="share_limit">Lên đến 100 hỗ trợ</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">Nếu bạn có bất kỳ câu hỏi về bản quyền, xin vui lòng liên hệ với trang web.</string>
     <string name="set_wallpaper">Cài làm hình nền</string>
     <string name="crop_save">Cây trồng</string>
-    <string name="pdf_crop">Xóa ký quỹ</string>
     <string name="pdf_crop_guide">Xóa lề khỏi tệp PDF.</string>
     <string name="guide_pinch">Phóng to / Thu nhỏ</string>
     <string name="dark_mode">Chủ đề</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Trang bắt đầu</string>
     <string name="show_image_info">Hiển thị hình ảnh của một trang web.</string>
     <string name="show_video_button">Nút tải xuống video</string>
-    <string name="tab_gesture_guide">Bạn có thể tự do chỉnh sửa các cử chỉ.</string>
     <string name="two_finger">(Hai ngón tay)</string>
     <string name="two_finger_info_1">Vuốt sang trái và phải bằng hai ngón tay để di chuyển các tab.</string>
     <string name="two_finger_info_2">Vuốt xuống bằng hai ngón tay để xóa tab.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Danh sách trắng Ad</string>
     <string name="pop_white">Danh sách trắng popup</string>
     <string name="pop_allow">Cho phép bật lên</string>
-    <string name="pop_confirm_1">Bạn có muốn cho phép cửa sổ bật lên trên trang web hiện tại không?</string>
+    <string name="pop_confirm_1">Bạn có muốn cho phép cửa sổ bật lên trên trang hiện tại không?</string>
     <string name="pop_confirm_2">Bạn có thể tiếp xúc với các quảng cáo nguy hiểm.</string>
-    <string name="pop_allowed">Cửa sổ bật lên được cho phép trên trang web hiện tại.</string>
+    <string name="pop_allowed">Cửa sổ bật lên đã được phép trên trang hiện tại.</string>
     <string name="image_list">Danh sách hình ảnh</string>
     <string name="image_cast_guide_1">Ghé thăm trang web với hình ảnh.</string>
     <string name="image_cast_guide_2">Chọn \'Chỉ xem hình ảnh\' hoặc \'Lưu tất cả hình ảnh\'.</string>
     <string name="image_cast_guide_3">Vui lòng chọn một hình ảnh.</string>
     <string name="local_cast_guide_1">Chọn biểu tượng danh sách diễn viên truyền hình.</string>
     <string name="local_cast_guide_2">Vui lòng chọn một mục.</string>
-    <string name="video_down">Tải video</string>
     <string name="video_down_guide_0">Truy cập trang web với video.</string>
     <string name="video_down_guide_1">Khi phát hiện thấy video, nút tải xuống sẽ xuất hiện trên màn hình.</string>
     <string name="video_down_guide_2">Các nút không xuất hiện cho các video không thể tải xuống.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">Tất cả lịch sử của bạn được lưu.\nQuá nhiều dữ liệu có thể làm chậm hiệu suất trình duyệt.</string>
     <string name="list">Danh sách</string>
     <string name="page_no_image">Không có hình ảnh trên trang này.</string>
-    <string name="touch_lock">Khóa cảm ứng</string>
-    <string name="touch_lock_guide_1">Touch bị tắt trong khi phát lại video.</string>
-    <string name="touch_lock_guide_2">Bạn có thể đặt phương thức mở khóa trong Cài đặt.</string>
     <string name="touch_lock_info">Khóa màn hình để mở khóa cảm ứng trong khi phát lại video.</string>
     <string name="touch_locked">Cảm ứng bị khóa.</string>
     <string name="touch_unlocked">Chạm được mở khóa.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Xuất sang HTML</string>
     <string name="no_bookmark">Không có dấu trang.</string>
     <string name="import_html">Nhập từ HTML</string>
-    <string name="import_html_info_1">1. Xuất dấu trang sang HTML từ Trình quản lý dấu trang trong trình duyệt máy tính để bàn của bạn.</string>
-    <string name="import_html_info_2">2. Đặt HTML vào bộ nhớ trong hoặc thẻ SD và mở nó trong Soul Browser.</string>
-    <string name="import_html_info_3">3. Dấu trang HTML được thêm vào Soul Browser.</string>
     <string name="import_no_html">Không có dấu trang trong HTML.</string>
     <string name="import_normal">Nhập từ chế độ bình thường</string>
     <string name="import_no_quick">Không có phím tắt trong chế độ bình thường.</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Cuộn lên</string>
     <string name="scroll_down">Cuộn xuống</string>
     <string name="open_with">Mở với</string>
-    <string name="other_guide">Bạn có thể tải nó với một ứng dụng khác.</string>
     <string name="double_tap">Nhấn đúp</string>
     <string name="double_tap_guide_1">Bạn có thể đặt chế độ ngang và chế độ dọc khác nhau.</string>
     <string name="double_tap_guide_2">Để đặt chế độ ngang, hãy xoay thiết bị của bạn theo chiều ngang.</string>
@@ -720,7 +705,6 @@
     <string name="background">Lý lịch</string>
     <string name="search_suggest">Đề xuất tìm kiếm</string>
     <string name="at_bottom">Ở dưới cùng</string>
-    <string name="guide_menu">Nhấn và giữ biểu tượng để chỉnh sửa menu.</string>
     <string name="clean_data_info">Tích lũy dữ liệu cũ có thể làm chậm trình duyệt của bạn.\nBạn nên dọn dẹp dữ liệu của mình theo định kỳ.</string>
     <string name="txt_viewer">Trình xem văn bản</string>
     <string name="purchase">Mua, tựa vào, bám vào</string>

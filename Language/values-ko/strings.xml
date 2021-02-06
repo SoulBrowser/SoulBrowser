@@ -93,9 +93,6 @@
     <string name="secret_mode">시크릿 모드</string>
     <string name="normal_mode">일반 모드</string>
     <string name="normal_start">일반 모드로 실행</string>
-    <string name="secret_guide_1">시크릿 모드는 바로가기, 북마크, 비밀번호, 방문 기록 및 다운로드 기록을 별도로 관리합니다.</string>
-    <string name="secret_guide_2">방문 기록과 다운로드 기록 저장 여부, 잠금 화면 사용 여부를 설정할 수 있습니다.</string>
-    <string name="secret_guide_3">Soul Browser는 사용자의 개인정보를 보호하기 위해 최선을 다하고 있습니다.</string>
     <string name="prev_page">이전 페이지</string>
     <string name="next_page">다음 페이지</string>
     <string name="tab_gesture">탭 제스처</string>
@@ -218,7 +215,6 @@
     <string name="home_page">홈페이지</string>
     <string name="last_page">마지막으로 방문한 페이지</string>
     <string name="input_url">URL 입력</string>
-    <string name="input_domain">Domain 입력</string>
     <string name="camera">카메라</string>
     <string name="camcorder">캠코더</string>
     <string name="web_edit_hint">검색어 또는 URL 입력</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">존재하는 파일</string>
     <string name="exist_name">존재하는 이름</string>
     <string name="exist_url">존재하는 URL</string>
-    <string name="exist_domain">존재하는 Domain</string>
     <string name="next_file">다음 파일</string>
     <string name="empty">비어 있음</string>
     <string name="share_limit">100개까지 지원</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">저작권에 대해 궁금한 점이 있으면 해당 사이트에 문의해 주세요.</string>
     <string name="set_wallpaper">배경화면 설정</string>
     <string name="crop_save">자르기</string>
-    <string name="pdf_crop">여백 제거</string>
     <string name="pdf_crop_guide">PDF 파일의 여백을 제거합니다.</string>
     <string name="guide_pinch">확대 / 축소</string>
     <string name="dark_mode">테마</string>
@@ -399,7 +393,6 @@
     <string name="start_page">시작페이지</string>
     <string name="show_image_info">웹페이지의 이미지를 표시합니다.</string>
     <string name="show_video_button">동영상 다운로드 버튼</string>
-    <string name="tab_gesture_guide">제스처를 자유롭게 편집할 수 있습니다.</string>
     <string name="two_finger">(두 손가락)</string>
     <string name="two_finger_info_1">두 손가락으로 좌우로 스와이프하여 탭을 이동합니다.</string>
     <string name="two_finger_info_2">두 손가락으로 아래로 스와이프하여 탭을 제거합니다.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">광고 허용 목록</string>
     <string name="pop_white">팝업 허용 목록</string>
     <string name="pop_allow">팝업 허용</string>
-    <string name="pop_confirm_1">현재 사이트에서 팝업을 허용 하시겠습니까?</string>
+    <string name="pop_confirm_1">현재 페이지에서 팝업을 허용 하시겠습니까?</string>
     <string name="pop_confirm_2">위험한 광고에 노출 될 수 있습니다.</string>
-    <string name="pop_allowed">현재 사이트에서 팝업이 허용되었습니다.</string>
+    <string name="pop_allowed">현재 페이지에서 팝업이 허용되었습니다.</string>
     <string name="image_list">이미지 목록</string>
     <string name="image_cast_guide_1">이미지가 있는 사이트를 방문합니다.</string>
     <string name="image_cast_guide_2">\'이미지만 보기\'나 \'이미지 모두 저장\'을 선택합니다.</string>
     <string name="image_cast_guide_3">이미지를 선택하십시오.</string>
     <string name="local_cast_guide_1">TV 캐스트 목록 아이콘을 선택합니다.</string>
     <string name="local_cast_guide_2">항목을 선택하십시오.</string>
-    <string name="video_down">동영상 다운로드</string>
     <string name="video_down_guide_0">동영상이 있는 사이트를 방문합니다.</string>
     <string name="video_down_guide_1">동영상이 감지되면, 화면에 다운로드 버튼이 나타납니다.</string>
     <string name="video_down_guide_2">다운로드할 수 없는 동영상은 버튼이 나타나지 않습니다.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">방문 기록이 모두 저장됩니다.\n데이터가 너무 많아지면 브라우저 성능이 느려질 수 있습니다.</string>
     <string name="list">목록</string>
     <string name="page_no_image">이 페이지에는 이미지가 없습니다.</string>
-    <string name="touch_lock">터치 잠금</string>
-    <string name="touch_lock_guide_1">비디오 재생 중 터치가 비활성화되었습니다.</string>
-    <string name="touch_lock_guide_2">설정에서 잠금 해제 방식을 설정할 수 있습니다.</string>
     <string name="touch_lock_info">비디오 재생 중 터치 잠금을 해제하기 위한 잠금 화면</string>
     <string name="touch_locked">터치가 잠겨 있습니다.</string>
     <string name="touch_unlocked">터치가 잠금 해제되었습니다.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">HTML로 내보내기</string>
     <string name="no_bookmark">북마크가 없습니다.</string>
     <string name="import_html">HTML에서 가져오기</string>
-    <string name="import_html_info_1">1. PC 브라우저의 북마크 관리자에서 북마크를 HTML로 내보냅니다.</string>
-    <string name="import_html_info_2">2. 내부 저장소나 SD 카드에 HTML을 넣고 Soul Browser에서 엽니다.</string>
-    <string name="import_html_info_3">3. HTML의 북마크가 Soul Browser에 추가됩니다.</string>
     <string name="import_no_html">HTML에 북마크가 없습니다.</string>
     <string name="import_normal">일반 모드에서 가져오기</string>
     <string name="import_no_quick">일반 모드에 바로가기가 없습니다.</string>
@@ -526,7 +512,7 @@
     <string name="show_left">왼쪽</string>
     <string name="show_center">가운데</string>
     <string name="show_right">오른쪽</string>
-    <string name="tip">힌트</string>
+    <string name="tip">팁</string>
     <string name="web_content">웹 컨텐츠</string>
     <string name="customize">커스터마이징</string>
     <string name="font">폰트</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">위로 스크롤</string>
     <string name="scroll_down">아래로 스크롤</string>
     <string name="open_with">다음으로 열기</string>
-    <string name="other_guide">다른 앱으로 다운로드할 수 있습니다.</string>
     <string name="double_tap">더블 탭</string>
     <string name="double_tap_guide_1">가로 모드와 세로 모드를 다르게 설정할 수 있습니다.</string>
     <string name="double_tap_guide_2">가로 모드를 설정하려면 기기를 가로로 회전하세요.</string>
@@ -720,7 +705,6 @@
     <string name="background">배경</string>
     <string name="search_suggest">검색 제안</string>
     <string name="at_bottom">하단에</string>
-    <string name="guide_menu">아이콘을 길게 누르면, 메뉴를 편집할 수 있습니다.</string>
     <string name="clean_data_info">오래된 데이터가 누적되면, 브라우저가 느려질 수 있습니다.\n주기적으로 데이터를 정리하는 것이 좋습니다.</string>
     <string name="txt_viewer">텍스트 뷰어</string>
     <string name="purchase">구매</string>

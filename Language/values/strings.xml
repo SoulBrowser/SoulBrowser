@@ -93,9 +93,6 @@
     <string name="secret_mode">Incognito mode</string>
     <string name="normal_mode">Normal mode</string>
     <string name="normal_start">Run in normal mode</string>
-    <string name="secret_guide_1">Incognito mode stores your shortcuts, bookmarks, passwords, history and downloads separately.</string>
-    <string name="secret_guide_2">You can set whether your history and downloads are saved, and whether you use the lock screen.</string>
-    <string name="secret_guide_3">Soul Browser is committed to protecting your privacy.</string>
     <string name="prev_page">Back page</string>
     <string name="next_page">Next page</string>
     <string name="tab_gesture">Tab gesture</string>
@@ -218,7 +215,6 @@
     <string name="home_page">Home page</string>
     <string name="last_page">Last visited page</string>
     <string name="input_url">Enter URL</string>
-    <string name="input_domain">Enter Domain</string>
     <string name="camera">Camera</string>
     <string name="camcorder">Camcorder</string>
     <string name="web_edit_hint">Search or type URL</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">Existing file</string>
     <string name="exist_name">Existing name</string>
     <string name="exist_url">Existing URL</string>
-    <string name="exist_domain">Existing Domain</string>
     <string name="next_file">Next file</string>
     <string name="empty">Empty</string>
     <string name="share_limit">Up to 100 supported</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">If you have any questions about copyright, please contact the site.</string>
     <string name="set_wallpaper">Set as wallpaper</string>
     <string name="crop_save">Crop</string>
-    <string name="pdf_crop">Margin removal</string>
     <string name="pdf_crop_guide">Remove margins from PDF files.</string>
     <string name="guide_pinch">Zoom in / out</string>
     <string name="dark_mode">Theme</string>
@@ -399,7 +393,6 @@
     <string name="start_page">Start page</string>
     <string name="show_image_info">Display images of a webpage.</string>
     <string name="show_video_button">Video download button</string>
-    <string name="tab_gesture_guide">You can freely edit the gestures.</string>
     <string name="two_finger">(Two fingers)</string>
     <string name="two_finger_info_1">Swipe left and right with two fingers to move tab.</string>
     <string name="two_finger_info_2">Swipe down with two fingers to remove tab.</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">Ad whitelist</string>
     <string name="pop_white">Popup whitelist</string>
     <string name="pop_allow">Allow popup</string>
-    <string name="pop_confirm_1">Do you want to allow popup on the current site?</string>
+    <string name="pop_confirm_1">Do you want to allow popups on the current page?</string>
     <string name="pop_confirm_2">You may be exposed to dangerous advertisements.</string>
-    <string name="pop_allowed">Popups are allowed on the current site.</string>
+    <string name="pop_allowed">Popups were allowed on the current page.</string>
     <string name="image_list">Image list</string>
     <string name="image_cast_guide_1">Visit the site with the image.</string>
     <string name="image_cast_guide_2">Select \'View only images\' or \'Save all images\'.</string>
     <string name="image_cast_guide_3">Select an image.</string>
     <string name="local_cast_guide_1">Select the TV cast list icon.</string>
     <string name="local_cast_guide_2">Select an item.</string>
-    <string name="video_down">Download video</string>
     <string name="video_down_guide_0">Visit the site with the video.</string>
     <string name="video_down_guide_1">When a video is detected, a download button appears on the screen.</string>
     <string name="video_down_guide_2">Button do not appear for video that can not be downloaded.</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">All your history is saved.\nToo much data can slow browser performance.</string>
     <string name="list">List</string>
     <string name="page_no_image">There are no images on this page.</string>
-    <string name="touch_lock">Touch lock</string>
-    <string name="touch_lock_guide_1">Touch is disabled during video playback.</string>
-    <string name="touch_lock_guide_2">You can set the unlock method in Settings.</string>
     <string name="touch_lock_info">Lock screen for unlocking touch during video playback.</string>
     <string name="touch_locked">Touch is locked.</string>
     <string name="touch_unlocked">Touch is unlocked.</string>
@@ -490,9 +479,6 @@
     <string name="export_html">Export to HTML</string>
     <string name="no_bookmark">No bookmarks.</string>
     <string name="import_html">Import from HTML</string>
-    <string name="import_html_info_1">1. Export bookmarks to HTML from the bookmark manager in your desktop browser.</string>
-    <string name="import_html_info_2">2. Put HTML on internal storage or SD card and open it in Soul Browser.</string>
-    <string name="import_html_info_3">3. HTML bookmarks are added to the Soul Browser.</string>
     <string name="import_no_html">There is no bookmark in the HTML.</string>
     <string name="import_normal">Import from normal mode</string>
     <string name="import_no_quick">There is no shortcut in normal mode.</string>
@@ -526,7 +512,7 @@
     <string name="show_left">Left</string>
     <string name="show_center">Center</string>
     <string name="show_right">Right</string>
-    <string name="tip">Hint</string>
+    <string name="tip">Tip</string>
     <string name="web_content">Web content</string>
     <string name="customize">Customizing</string>
     <string name="font">Font</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">Scroll up</string>
     <string name="scroll_down">Scroll down</string>
     <string name="open_with">Open with</string>
-    <string name="other_guide">You can download it with another app.</string>
     <string name="double_tap">Double tap</string>
     <string name="double_tap_guide_1">You can set landscape mode and portrait mode differently.</string>
     <string name="double_tap_guide_2">To set landscape mode, rotate your device horizontally.</string>
@@ -720,7 +705,6 @@
     <string name="background">Background</string>
     <string name="search_suggest">Search suggestions</string>
     <string name="at_bottom">At the bottom</string>
-    <string name="guide_menu">Long press the icon to edit the menu.</string>
     <string name="clean_data_info">Accumulation of stale data can slow down your browser.\nIt is a good idea to clean up your data periodically.</string>
     <string name="txt_viewer">Text viewer</string>
     <string name="purchase">Purchase</string>

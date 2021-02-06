@@ -93,9 +93,6 @@
     <string name="secret_mode">シークレットモード</string>
     <string name="normal_mode">ノーマルモード</string>
     <string name="normal_start">通常モードで実行</string>
-    <string name="secret_guide_1">シークレットモードでは、ショートカット、ブックマーク、パスワード、履歴、およびダウンロード履歴を別々に保存します。</string>
-    <string name="secret_guide_2">履歴とダウンロード履歴を保存するかどうか、ロック画面を使用するかどうかを設定することができます。</string>
-    <string name="secret_guide_3">Soul Browserは、ユーザーの個人情報を保護するために最善を尽くしています。</string>
     <string name="prev_page">前のページ</string>
     <string name="next_page">次のページ</string>
     <string name="tab_gesture">タブ ジェスチャー</string>
@@ -218,7 +215,6 @@
     <string name="home_page">ホームページ</string>
     <string name="last_page">最後に訪問したページ</string>
     <string name="input_url">URLを入力し</string>
-    <string name="input_domain">Domainを入力し</string>
     <string name="camera">カメラ</string>
     <string name="camcorder">ビデオカメラ</string>
     <string name="web_edit_hint">検索またはURLを入力</string>
@@ -271,7 +267,6 @@
     <string name="exist_file">存在しているファイル</string>
     <string name="exist_name">存在している名前</string>
     <string name="exist_url">存在しているURL</string>
-    <string name="exist_domain">存在しているDomain</string>
     <string name="next_file">次のファイル</string>
     <string name="empty">空</string>
     <string name="share_limit">100個までサポート</string>
@@ -288,7 +283,6 @@
     <string name="guide_right_3">著作権について質問がある場合、 そのサイトにお問い合わせください。</string>
     <string name="set_wallpaper">壁紙の設定</string>
     <string name="crop_save">トリミング</string>
-    <string name="pdf_crop">余白を削除</string>
     <string name="pdf_crop_guide">PDFファイルの余白を削除します。</string>
     <string name="guide_pinch">拡大 / 縮小</string>
     <string name="dark_mode">テーマ</string>
@@ -399,7 +393,6 @@
     <string name="start_page">スタートページ</string>
     <string name="show_image_info">Webページの画像を表示します。</string>
     <string name="show_video_button">ビデオダウンロードボタン</string>
-    <string name="tab_gesture_guide">ジェスチャーを自由に編集することができます。</string>
     <string name="two_finger">(二本の指)</string>
     <string name="two_finger_info_1">二本の指で左右にスワイプしてタブを移動します。</string>
     <string name="two_finger_info_2">二本の指で下にスワイプしてタブを削除します。</string>
@@ -418,16 +411,15 @@
     <string name="ads_white">広告許可リスト</string>
     <string name="pop_white">Popup許可リスト</string>
     <string name="pop_allow">ポップアップを許可</string>
-    <string name="pop_confirm_1">現在のサイトからのポップアップを許可しますか？</string>
+    <string name="pop_confirm_1">現在のページでポップアップを許可しますか？</string>
     <string name="pop_confirm_2">危険な広告にさらされることがあります。</string>
-    <string name="pop_allowed">現在のサイトでポップアップが許可されます。</string>
+    <string name="pop_allowed">現在のページのポップアップが許可されました。</string>
     <string name="image_list">画像リスト</string>
     <string name="image_cast_guide_1">画像があるサイトをご覧ください。</string>
     <string name="image_cast_guide_2">\'画像のみを表示\'や\'すべての画像を保存\'を選択します</string>
     <string name="image_cast_guide_3">画像を選択してください。</string>
     <string name="local_cast_guide_1">TVキャストリストのアイコンを選択します。</string>
     <string name="local_cast_guide_2">項目を選択してください。</string>
-    <string name="video_down">動画のダウンロード</string>
     <string name="video_down_guide_0">ビデオがあるサイトをご覧ください。</string>
     <string name="video_down_guide_1">動画が検出されると、画面にダウンロードボタンが表示されます。</string>
     <string name="video_down_guide_2">ダウンロードできない動画はボタンが表示されません。</string>
@@ -455,9 +447,6 @@
     <string name="history_info_none">履歴がすべて保存されます。\nデータがあまりにも多くなると、ブラウザのパフォーマンスが低下することがあります。</string>
     <string name="list">リスト</string>
     <string name="page_no_image">このページには、イメージがありません。</string>
-    <string name="touch_lock">タッチロック</string>
-    <string name="touch_lock_guide_1">ビデオの再生中にタッチが無効になっています。</string>
-    <string name="touch_lock_guide_2">設定でロック解除方法を設定することができます。</string>
     <string name="touch_lock_info">ビデオの再生中にタッチロックを解除するためのロック画面。</string>
     <string name="touch_locked">タッチがロックされています。</string>
     <string name="touch_unlocked">タッチがロックを解除しました。</string>
@@ -490,9 +479,6 @@
     <string name="export_html">HTMLへのエクスポート</string>
     <string name="no_bookmark">ブックマークがありません。</string>
     <string name="import_html">HTMLからインポート</string>
-    <string name="import_html_info_1">1. デスクトップブラウザのブックマークマネージャでブックマークをHTMLにエクスポートします。</string>
-    <string name="import_html_info_2">2. 内部ストレージまたはSDカードにHTMLを入れSoul Browserで開きます。</string>
-    <string name="import_html_info_3">3. HTMLのブックマークがSoul Browserに追加されます。</string>
     <string name="import_no_html">HTMLにブックマークがありません。</string>
     <string name="import_normal">通常モードからインポート</string>
     <string name="import_no_quick">通常モードへのショートカットがありません。</string>
@@ -679,7 +665,6 @@
     <string name="scroll_up">上にスクロール</string>
     <string name="scroll_down">下にスクロール</string>
     <string name="open_with">次で開く</string>
-    <string name="other_guide">他のアプリでダウンロードすることができます。</string>
     <string name="double_tap">ダブルタップ</string>
     <string name="double_tap_guide_1">横モードと縦モードを別々に設定することができます。</string>
     <string name="double_tap_guide_2">横モードを設定するには、機器を水平に回転させるします。</string>
@@ -720,7 +705,6 @@
     <string name="background">背景</string>
     <string name="search_suggest">検索候補</string>
     <string name="at_bottom">下部に</string>
-    <string name="guide_menu">アイコンを長押しするとメニューを編集することができます。</string>
     <string name="clean_data_info">古いデータが蓄積されると、ブラウザの速度が遅くなることがあります。\n定期的にデータを整理することをお勧め。</string>
     <string name="txt_viewer">テキストビューア</string>
     <string name="purchase">購入</string>
