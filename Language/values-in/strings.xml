@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">Ada masalah dengan pengaturan iklan. Harap setel lagi.</string>
     <string name="original_size">Ukuran asli</string>
     <string name="reduced_size">Ukuran yang diperkecil (disarankan)</string>
+    <string name="site_app">Tampilkan tombol aplikasi situs</string>
+    <string name="site_app_info">Itu hanya ditampilkan jika ada aplikasi yang dapat dieksekusi.</string>
 </resources>

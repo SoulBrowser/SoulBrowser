@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">Există o problemă cu setările pentru anunțuri. Vă rugăm să setați din nou.</string>
     <string name="original_size">Mărimea originală</string>
     <string name="reduced_size">Dimensiune redusă (recomandat)</string>
+    <string name="site_app">Afișați butonul aplicației site-ului</string>
+    <string name="site_app_info">Se afișează numai dacă există o aplicație executabilă.</string>
 </resources>

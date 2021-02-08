@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">広告設定に問題があります。 再度設定してください。</string>
     <string name="original_size">元のサイズ</string>
     <string name="reduced_size">縮小されたサイズ（推奨）</string>
+    <string name="site_app">サイトアプリボタンを表示</string>
+    <string name="site_app_info">実行可能なアプリがある場合にのみ表示されます。</string>
 </resources>

@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">Hay un problema con la configuración de anuncios. Vuelva a configurarlo.</string>
     <string name="original_size">Tamaño original</string>
     <string name="reduced_size">Tamaño reducido (recomendado)</string>
+    <string name="site_app">Mostrar el botón de la aplicación del sitio</string>
+    <string name="site_app_info">Solo se muestra si hay una aplicación ejecutable.</string>
 </resources>

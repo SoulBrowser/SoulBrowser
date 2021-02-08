@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">Проблема с настройками рекламы. Пожалуйста, установите его снова.</string>
     <string name="original_size">Оригинальный размер</string>
     <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
+    <string name="site_app">Показать кнопку приложения сайта</string>
+    <string name="site_app_info">Он отображается только при наличии исполняемого приложения.</string>
 </resources>

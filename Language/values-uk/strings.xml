@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">Виникла проблема з налаштуваннями оголошень. Будь ласка, встановіть його знову.</string>
     <string name="original_size">Оригінальний розмір</string>
     <string name="reduced_size">Зменшений розмір (рекомендується)</string>
+    <string name="site_app">Показати кнопку додатка сайту</string>
+    <string name="site_app_info">Він відображається, лише якщо є виконувана програма.</string>
 </resources>

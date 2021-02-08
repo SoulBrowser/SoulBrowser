@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">Wystąpił problem z ustawieniami reklam. Ustaw ponownie.</string>
     <string name="original_size">Oryginalny rozmiar</string>
     <string name="reduced_size">Zmniejszony rozmiar (zalecane)</string>
+    <string name="site_app">Pokaż przycisk aplikacji witryny</string>
+    <string name="site_app_info">Jest wyświetlany tylko wtedy, gdy istnieje aplikacja wykonywalna.</string>
 </resources>

@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">C\'è un problema con le impostazioni degli annunci. Per favore impostalo di nuovo.</string>
     <string name="original_size">Misura originale</string>
     <string name="reduced_size">Dimensioni ridotte (consigliato)</string>
+    <string name="site_app">Mostra il pulsante dell\'app del sito</string>
+    <string name="site_app_info">Viene visualizzato solo se è presente un\'app eseguibile.</string>
 </resources>

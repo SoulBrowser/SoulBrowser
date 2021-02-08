@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">มีปัญหากับการตั้งค่าโฆษณา กรุณาตั้งค่าใหม่อีกครั้ง</string>
     <string name="original_size">ขนาดเดิม</string>
     <string name="reduced_size">ลดขนาดลง (แนะนำ)</string>
+    <string name="site_app">แสดงปุ่มแอปไซต์</string>
+    <string name="site_app_info">จะปรากฏเฉพาะในกรณีที่มีแอปปฏิบัติการเท่านั้น</string>
 </resources>

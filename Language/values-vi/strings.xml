@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">Có vấn đề với cài đặt quảng cáo. Vui lòng đặt lại.</string>
     <string name="original_size">Kích thước nguyên mẫu</string>
     <string name="reduced_size">Giảm kích thước (khuyến nghị)</string>
+    <string name="site_app">Nút hiển thị ứng dụng trang web</string>
+    <string name="site_app_info">Nó chỉ được hiển thị nếu có một ứng dụng thực thi.</string>
 </resources>

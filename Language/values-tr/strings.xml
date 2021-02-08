@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">Reklam ayarlarında bir sorun var. Lütfen yeniden ayarlayın.</string>
     <string name="original_size">Orijinal boyut</string>
     <string name="reduced_size">Küçültülmüş boyut (önerilir)</string>
+    <string name="site_app">Site uygulaması düğmesini göster</string>
+    <string name="site_app_info">Yalnızca çalıştırılabilir bir uygulama varsa görüntülenir.</string>
 </resources>

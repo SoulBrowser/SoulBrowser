@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">广告设置存在问题。 请重新设置</string>
     <string name="original_size">原始尺寸</string>
     <string name="reduced_size">缩小尺寸（推荐）</string>
+    <string name="site_app">显示网站应用程序按钮</string>
+    <string name="site_app_info">仅在有可执行应用程序时显示</string>
 </resources>

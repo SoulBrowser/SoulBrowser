@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">Il y a un problème avec les paramètres d\'annonce. Veuillez le régler à nouveau.</string>
     <string name="original_size">Format original</string>
     <string name="reduced_size">Taille réduite (recommandé)</string>
+    <string name="site_app">Afficher le bouton de l\'application du site</string>
+    <string name="site_app_info">Il ne s\'affiche que s\'il existe une application exécutable.</string>
 </resources>

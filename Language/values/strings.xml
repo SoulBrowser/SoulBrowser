@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">There is a problem with ad settings. Please set it again.</string>
     <string name="original_size">Original size</string>
     <string name="reduced_size">Reduced size (recommended)</string>
+    <string name="site_app">Show site app button</string>
+    <string name="site_app_info">It is only displayed if there is an executable app.</string>
 </resources>

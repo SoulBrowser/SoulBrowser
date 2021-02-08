@@ -795,4 +795,6 @@
     <string name="ads_invalid_info">Es liegt ein Problem mit den Anzeigeneinstellungen vor. Bitte stellen Sie es erneut ein.</string>
     <string name="original_size">Originalgröße</string>
     <string name="reduced_size">Reduzierte Größe (empfohlen)</string>
+    <string name="site_app">Schaltfläche Site-App anzeigen</string>
+    <string name="site_app_info">Es wird nur angezeigt, wenn eine ausführbare App vorhanden ist.</string>
 </resources>
