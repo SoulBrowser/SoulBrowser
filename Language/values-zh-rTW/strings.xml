@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">下載</string>
-    <string name="fast_down">快速下載</string>
     <string name="down_again">重新下載</string>
     <string name="down_page">保存頁面</string>
     <string name="down_list">下載歷史記錄</string>
@@ -119,6 +118,7 @@
     <string name="search_image">按圖片搜索</string>
     <string name="down_image">保存圖片</string>
     <string name="share_image">分享圖片</string>
+    <string name="copy_text">複製文字</string>
     <string name="copied_clipboard">複製到剪貼板</string>
     <string name="preview_image">預覽圖片</string>
     <string name="view_image">看圖</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">退出而不保存</string>
     <string name="camera_fail">相機無法啟動</string>
     <string name="barcode_guide">請將QR碼或條形碼放在指南行內</string>
+    <string name="barcode_fail">在圖像中找不到QR碼或條形碼。</string>
     <string name="allow">允許</string>
     <string name="deny">拒絕</string>
     <string name="location">所在位置</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">根據YouTube政策，YouTube視頻無法下載</string>
     <string name="video_full_guide_1">可下載的視頻可以全螢幕播放</string>
     <string name="video_full_guide_2">不支持的格式沒有按鈕</string>
-    <string name="fast_down_guide_1">\'快速下載\'快2~3倍</string>
-    <string name="fast_down_guide_2">\'快速下載\'將使用2~3倍的資源</string>
     <string name="down_limit">同時下載</string>
     <string name="down_limit_info">同時下載太多文件可能會降低設備速度並引起問題</string>
     <string name="not_allow">不允許</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">保持分頁</string>
     <string name="keep_tab_info">當您更改為普通模式時，隱身分頁會保留</string>
     <string name="keep_login">保持登入狀態</string>
-    <string name="keep_login_info">如果禁用此選項，則更改為普通模式將登出所有站點</string>
+    <string name="keep_login_info">如果禁用此選項，則更改模式時將退出所有站點</string>
     <string name="secret_exit">退出隱身模式</string>
     <string name="direct_input">直接輸入</string>
     <string name="direct_select">直接選擇</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">縮小尺寸（推薦）</string>
     <string name="site_app">顯示網站應用程序按鈕</string>
     <string name="site_app_info">僅在有可執行應用程序時顯示</string>
+    <string name="finger_print">指紋</string>
+    <string name="finger_unavailable">由於硬件不可用，用戶無法進行身份驗證。 稍後再試</string>
+    <string name="finger_register">用戶無法驗證，因為未註冊任何指紋</string>
+    <string name="finger_no_hardware">用戶無法驗證，因為沒有合適的硬件</string>
+    <string name="finger_security">用戶無法進行身份驗證，因為已通過一個或多個硬件傳感器發現了安全漏洞</string>
+    <string name="finger_unsupported">由於指定的選項與當前的Android版本不兼容，因此用戶無法進行身份驗證</string>
+    <string name="finger_unknown">無法確定用戶是否可以認證</string>
 </resources>

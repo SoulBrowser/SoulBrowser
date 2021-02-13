@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Скачать</string>
-    <string name="fast_down">Быстрая загрузка</string>
     <string name="down_again">Загрузить снова</string>
     <string name="down_page">Сохранить страницу</string>
     <string name="down_list">Загрузки</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Поиск по картинке</string>
     <string name="down_image">Сохранить изображение</string>
     <string name="share_image">Поделиться изображением</string>
+    <string name="copy_text">Копировать текст</string>
     <string name="copied_clipboard">Скопировано в буфер обмена</string>
     <string name="preview_image">Предварительный просмотр изображения</string>
     <string name="view_image">Просмотреть изображение</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Выход без сохранения</string>
     <string name="camera_fail">Не удалось запустить камеру.</string>
     <string name="barcode_guide">Пожалуйста, поместите QR код или штрих код внутри направляющей линии.</string>
+    <string name="barcode_fail">На изображении не обнаружено QR код или штрих-код.</string>
     <string name="allow">Позволять</string>
     <string name="deny">Запрещать</string>
     <string name="location">Pасположение</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">Из-за политики YouTube видео YouTube не могут быть загружены.</string>
     <string name="video_full_guide_1">Загружаемые видео можно воспроизводить в полноэкранном режиме.</string>
     <string name="video_full_guide_2">Неподдерживаемые форматы не имеют кнопок.</string>
-    <string name="fast_down_guide_1">\'Быстрая загрузка\' в 2~3 раза быстрее.</string>
-    <string name="fast_down_guide_2">\'Быстрая загрузка\' будет использоваться в 2~3 раза больше ресурсов.</string>
     <string name="down_limit">Одновременная загрузка</string>
     <string name="down_limit_info">Загрузка слишком большого количества файлов одновременно может замедлить работу устройства и вызвать проблемы.</string>
     <string name="not_allow">Не разрешать</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Держать вкладки</string>
     <string name="keep_tab_info">Вкладки инкогнито сохраняются при переходе в обычный режим.</string>
     <string name="keep_login">Войдите в систему</string>
-    <string name="keep_login_info">Если эта опция отключена, переход в обычный режим приведет к выходу из системы всех сайтов.</string>
+    <string name="keep_login_info">Если вы отключите эту опцию, вы будете выходить из всех сайтов при изменении режима.</string>
     <string name="secret_exit">Выход из режима инкогнито</string>
     <string name="direct_input">Прямой ввод</string>
     <string name="direct_select">Прямой выбор</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
     <string name="site_app">Показать кнопку приложения сайта</string>
     <string name="site_app_info">Он отображается только при наличии исполняемого приложения.</string>
+    <string name="finger_print">Отпечаток пальца</string>
+    <string name="finger_unavailable">Пользователь не может пройти аутентификацию, потому что оборудование недоступно. Попробуйте позже.</string>
+    <string name="finger_register">Пользователь не может пройти аутентификацию, потому что отпечаток пальца не зарегистрирован.</string>
+    <string name="finger_no_hardware">Пользователь не может пройти аутентификацию, потому что нет подходящего оборудования.</string>
+    <string name="finger_security">Пользователь не может пройти аутентификацию, поскольку в одном или нескольких аппаратных датчиках обнаружена уязвимость системы безопасности.</string>
+    <string name="finger_unsupported">Пользователь не может пройти аутентификацию, поскольку указанные параметры несовместимы с текущей версией Android.</string>
+    <string name="finger_unknown">Невозможно определить, может ли пользователь пройти аутентификацию.</string>
 </resources>

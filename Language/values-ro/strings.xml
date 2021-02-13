@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Descărcare</string>
-    <string name="fast_down">Descărcare rapidă</string>
     <string name="down_again">Descărcați din nou</string>
     <string name="down_page">Salvare pagina</string>
     <string name="down_list">Descărcări</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Căutare după imagine</string>
     <string name="down_image">Salvare imagine</string>
     <string name="share_image">Distribuie imagine</string>
+    <string name="copy_text">Copiază textul</string>
     <string name="copied_clipboard">Copiat în clipboard</string>
     <string name="preview_image">Previzualizați imagine</string>
     <string name="view_image">Vizualizare imagine</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Ieșiți fără a salva</string>
     <string name="camera_fail">Camera nu a reușit să se lanseze.</string>
     <string name="barcode_guide">Vă rugăm să introduceți codul QR sau codul de bare în linia de ghidare.</string>
+    <string name="barcode_fail">Nu există cod QR sau cod de bare în imagine.</string>
     <string name="allow">Permite</string>
     <string name="deny">Negare</string>
     <string name="location">Locație</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">Datorită politicii YouTube, videoclipurile YouTube nu pot fi descărcate.</string>
     <string name="video_full_guide_1">Clipurile video descărcate pot fi redate pe ecran complet.</string>
     <string name="video_full_guide_2">Formatele neacceptate nu au butoane.</string>
-    <string name="fast_down_guide_1">\'Descărcare rapidă\' este de 2~3 ori mai rapid.</string>
-    <string name="fast_down_guide_2">\'Descărcare rapidă\' va folosi de 2~3 ori mai multe resurse.</string>
     <string name="down_limit">Descărcare simultană</string>
     <string name="down_limit_info">Descărcarea prea multor fișiere în același timp poate încetini dispozitivul și provoca probleme.</string>
     <string name="not_allow">Nu permiteți</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Mențineți filele</string>
     <string name="keep_tab_info">Filele de incognito sunt păstrate atunci când treceți la modul normal.</string>
     <string name="keep_login">Continuați conectarea</string>
-    <string name="keep_login_info">Dacă această opțiune este dezactivată, trecerea la modul normal va deconecta toate site-urile.</string>
+    <string name="keep_login_info">Dacă dezactivați această opțiune, veți fi deconectat de la toate site-urile atunci când schimbați modurile.</string>
     <string name="secret_exit">Ieșiți din modul incognito</string>
     <string name="direct_input">Intrare directă</string>
     <string name="direct_select">Selecție directă</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Dimensiune redusă (recomandat)</string>
     <string name="site_app">Afișați butonul aplicației site-ului</string>
     <string name="site_app_info">Se afișează numai dacă există o aplicație executabilă.</string>
+    <string name="finger_print">Amprentă digitală</string>
+    <string name="finger_unavailable">Utilizatorul nu se poate autentifica deoarece hardware-ul nu este disponibil. Încercați mai târziu.</string>
+    <string name="finger_register">Utilizatorul nu se poate autentifica deoarece nu este înregistrată nicio amprentă.</string>
+    <string name="finger_no_hardware">Utilizatorul nu se poate autentifica deoarece nu există hardware adecvat.</string>
+    <string name="finger_security">Utilizatorul nu se poate autentifica deoarece a fost descoperită o vulnerabilitate de securitate cu unul sau mai mulți senzori hardware.</string>
+    <string name="finger_unsupported">Utilizatorul nu se poate autentifica deoarece opțiunile specificate sunt incompatibile cu versiunea curentă de Android.</string>
+    <string name="finger_unknown">Nu se poate stabili dacă utilizatorul se poate autentifica.</string>
 </resources>

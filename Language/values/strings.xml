@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Download</string>
-    <string name="fast_down">Fast download</string>
     <string name="down_again">Download again</string>
     <string name="down_page">Save page</string>
     <string name="down_list">Downloads</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Search by image</string>
     <string name="down_image">Save image</string>
     <string name="share_image">Share image</string>
+    <string name="copy_text">Copy text</string>
     <string name="copied_clipboard">Copied to clipboard</string>
     <string name="preview_image">Preview image</string>
     <string name="view_image">View image</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Exit without saving</string>
     <string name="camera_fail">Camera failed to launch.</string>
     <string name="barcode_guide">Please put the QR code or barcode inside the guide line.</string>
+    <string name="barcode_fail">No QR code or barcode found in the image.</string>
     <string name="allow">Allow</string>
     <string name="deny">Deny</string>
     <string name="location">Location</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">Due to YouTube policy, YouTube videos can not be downloaded.</string>
     <string name="video_full_guide_1">Downloadable videos can be played in full screen.</string>
     <string name="video_full_guide_2">Unsupported formats do not have buttons.</string>
-    <string name="fast_down_guide_1">\'Fast download\' is 2~3 times faster.</string>
-    <string name="fast_down_guide_2">\'Fast download\' will use 2~3 times more resources.</string>
     <string name="down_limit">Concurrent download</string>
     <string name="down_limit_info">Downloading too many files at the same time can slow device and cause problems.</string>
     <string name="not_allow">Do not allow</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Keep tabs</string>
     <string name="keep_tab_info">Incognito tabs are retained when you change to normal mode.</string>
     <string name="keep_login">Keep logged in</string>
-    <string name="keep_login_info">If this option is disabled, changing to normal mode will log out all sites.</string>
+    <string name="keep_login_info">If you disable this option, you will be logged out of all sites when you change modes.</string>
     <string name="secret_exit">Exit incognito mode</string>
     <string name="direct_input">Direct input</string>
     <string name="direct_select">Direct selection</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Reduced size (recommended)</string>
     <string name="site_app">Show site app button</string>
     <string name="site_app_info">It is only displayed if there is an executable app.</string>
+    <string name="finger_print">Fingerprint</string>
+    <string name="finger_unavailable">The user can\'t authenticate because the hardware is unavailable. Try again later.</string>
+    <string name="finger_register">The user can\'t authenticate because no fingerprint is enrolled.</string>
+    <string name="finger_no_hardware">The user can\'t authenticate because there is no suitable hardware.</string>
+    <string name="finger_security">The user can\'t authenticate because a security vulnerability has been discovered with one or more hardware sensors.</string>
+    <string name="finger_unsupported">The user can\'t authenticate because the specified options are incompatible with the current Android version.</string>
+    <string name="finger_unknown">Unable to determine whether the user can authenticate.</string>
 </resources>

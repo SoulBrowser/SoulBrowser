@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Télécharger</string>
-    <string name="fast_down">Téléchargement rapide</string>
     <string name="down_again">Téléchargez à nouveau</string>
     <string name="down_page">Sauvegarder page</string>
     <string name="down_list">Télécharger</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Recherche par image</string>
     <string name="down_image">Enregistrer image</string>
     <string name="share_image">Partager image</string>
+    <string name="copy_text">Copier le texte</string>
     <string name="copied_clipboard">Copié dans le presse papiers</string>
     <string name="preview_image">Aperçu image</string>
     <string name="view_image">Voir image</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Quitter sans sauvegarder</string>
     <string name="camera_fail">Échec de lancement de la caméra.</string>
     <string name="barcode_guide">Veuillez insérer le code QR ou le code à barres dans la ligne de guidage.</string>
+    <string name="barcode_fail">Aucun code QR ou code barres trouvé dans l\'image.</string>
     <string name="allow">Autoriser</string>
     <string name="deny">Nier</string>
     <string name="location">Emplacement</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">En raison de la politique de YouTube, les vidéos YouTube ne peuvent pas être téléchargées.</string>
     <string name="video_full_guide_1">Les vidéos téléchargeables peuvent être lues en plein écran.</string>
     <string name="video_full_guide_2">Les formats non pris en charge n\'ont pas de boutons.</string>
-    <string name="fast_down_guide_1">\'Téléchargement rapide\' est 2~3 fois plus rapide.</string>
-    <string name="fast_down_guide_2">\'Téléchargement rapide\' utilisera 2~3 fois plus de ressources.</string>
     <string name="down_limit">Téléchargement simultané</string>
     <string name="down_limit_info">Télécharger trop de fichiers en même temps peut ralentir votre appareil et provoquer des problèmes.</string>
     <string name="not_allow">Ne pas autoriser</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Gardez les onglets</string>
     <string name="keep_tab_info">Les onglets de navigation privée sont conservés lorsque vous passez en mode normal.</string>
     <string name="keep_login">Restez connecté</string>
-    <string name="keep_login_info">Si cette option est désactivée, le passage en mode normal déconnectera tous les sites.</string>
+    <string name="keep_login_info">Se disabiliti questa opzione, verrai disconnesso da tutti i siti quando cambi modalità.</string>
     <string name="secret_exit">Quitter le mode navigation privée</string>
     <string name="direct_input">Entrée directe</string>
     <string name="direct_select">Sélection directe</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Taille réduite (recommandé)</string>
     <string name="site_app">Afficher le bouton de l\'application du site</string>
     <string name="site_app_info">Il ne s\'affiche que s\'il existe une application exécutable.</string>
+    <string name="finger_print">Empreinte digitale</string>
+    <string name="finger_unavailable">L\'utilisateur ne peut pas s\'authentifier car le matériel n\'est pas disponible. Réessayez plus tard.</string>
+    <string name="finger_register">L\'utilisateur ne peut pas s\'authentifier car aucune empreinte digitale n\'est enregistrée.</string>
+    <string name="finger_no_hardware">L\'utilisateur ne peut pas s\'authentifier car il n\'y a pas de matériel approprié.</string>
+    <string name="finger_security">L\'utilisateur ne peut pas s\'authentifier car une vulnérabilité de sécurité a été découverte avec un ou plusieurs capteurs matériels.</string>
+    <string name="finger_unsupported">L\'utilisateur ne peut pas s\'authentifier car les options spécifiées sont incompatibles avec la version actuelle d\'Android.</string>
+    <string name="finger_unknown">Impossible de déterminer si l\'utilisateur peut s\'authentifier.</string>
 </resources>

@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">İndir</string>
-    <string name="fast_down">Hızlı indirme</string>
     <string name="down_again">Tekrar indir</string>
     <string name="down_page">Sayfayı kaydet</string>
     <string name="down_list">İndirilenler</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Görselle arama</string>
     <string name="down_image">Resmi Kaydet</string>
     <string name="share_image">Resmi paylaş</string>
+    <string name="copy_text">Metni kopyala</string>
     <string name="copied_clipboard">Panoya kopyalandı</string>
     <string name="preview_image">Önizleme resmi</string>
     <string name="view_image">Resmi görüntüle</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Kaydetmeden çıkın</string>
     <string name="camera_fail">Kamera başlatılamadı.</string>
     <string name="barcode_guide">Lütfen QR kodunu veya barkodu kılavuz çizgisinin içine yerleştirin.</string>
+    <string name="barcode_fail">Resimde QR kodu veya barkod bulunamadı.</string>
     <string name="allow">İzin vermek</string>
     <string name="deny">Reddetmek</string>
     <string name="location">Konum</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">YouTube politikası nedeniyle, YouTube videoları indirilemiyor.</string>
     <string name="video_full_guide_1">İndirilebilir videolar tam ekranda oynatılabilir.</string>
     <string name="video_full_guide_2">Desteklenmeyen formatlarda düğme yoktur.</string>
-    <string name="fast_down_guide_1">\'Hızlı indirme\' 2~3 kat daha hızlı.</string>
-    <string name="fast_down_guide_2">\'Hızlı indirme\' 2~3 kat daha fazla kaynak kullanacaktır.</string>
     <string name="down_limit">Eşzamanlı indirme</string>
     <string name="down_limit_info">Aynı anda çok fazla dosya indirmek, cihazınızı yavaşlatabilir ve sorunlara neden olabilir.</string>
     <string name="not_allow">İzin verme</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Sekmeleri sakla</string>
     <string name="keep_tab_info">Normal moda geçtiğinizde gizli sekmeler korunur.</string>
     <string name="keep_login">Giriş yapmaya devam et</string>
-    <string name="keep_login_info">Bu seçenek devre dışı bırakılırsa, normal moda geçmek tüm sitelerin oturumunu kapatır.</string>
+    <string name="keep_login_info">Bu seçeneği devre dışı bırakırsanız, modları değiştirdiğinizde tüm sitelerden çıkış yaparsınız.</string>
     <string name="secret_exit">Gizli moddan çık</string>
     <string name="direct_input">Doğrudan giriş</string>
     <string name="direct_select">Doğrudan seçim</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Küçültülmüş boyut (önerilir)</string>
     <string name="site_app">Site uygulaması düğmesini göster</string>
     <string name="site_app_info">Yalnızca çalıştırılabilir bir uygulama varsa görüntülenir.</string>
+    <string name="finger_print">Parmak izi</string>
+    <string name="finger_unavailable">Donanım kullanılamadığı için kullanıcı kimlik doğrulaması yapamaz. Daha sonra tekrar deneyin.</string>
+    <string name="finger_register">Kullanıcı, kayıtlı parmak izi olmadığı için kimlik doğrulayamaz.</string>
+    <string name="finger_no_hardware">Uygun bir donanım olmadığı için kullanıcı kimlik doğrulayamaz.</string>
+    <string name="finger_security">Bir veya daha fazla donanım algılayıcısı ile bir güvenlik açığı keşfedildiği için kullanıcı kimlik doğrulayamaz.</string>
+    <string name="finger_unsupported">Belirtilen seçenekler mevcut Android sürümüyle uyumlu olmadığından kullanıcı kimlik doğrulaması yapamaz.</string>
+    <string name="finger_unknown">Kullanıcının kimlik doğrulaması yapıp yapamayacağı belirlenemiyor.</string>
 </resources>

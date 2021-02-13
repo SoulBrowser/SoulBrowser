@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Завантаження</string>
-    <string name="fast_down">Швидке завантаження</string>
     <string name="down_again">Завантажте ще раз</string>
     <string name="down_page">Зберегти сторінку</string>
     <string name="down_list">Завантаження</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Пошук за зображенням</string>
     <string name="down_image">Зберегти зображення</string>
     <string name="share_image">Поділитися зображенням</string>
+    <string name="copy_text">Скопіювати текст</string>
     <string name="copied_clipboard">Скопійовано у буфер обміну</string>
     <string name="preview_image">Попередній перегляд зображення</string>
     <string name="view_image">Переглянути зображення</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Вийти без збереження</string>
     <string name="camera_fail">Не вдалося запустити камеру.</string>
     <string name="barcode_guide">Будь ласка, введіть QR-код або штрих-код всередині напрямної.</string>
+    <string name="barcode_fail">На зображенні не знайдено QR-коду або штрих-коду.</string>
     <string name="allow">Дозволити</string>
     <string name="deny">Заперечувати</string>
     <string name="location">Розташування</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">Через політику YouTube відео YouTube не можна завантажувати.</string>
     <string name="video_full_guide_1">Завантажувані відео можна відтворювати на весь екран.</string>
     <string name="video_full_guide_2">Непідтримувані формати не мають кнопок.</string>
-    <string name="fast_down_guide_1">\'Швидке завантаження\' у 2~3 рази швидше.</string>
-    <string name="fast_down_guide_2">\'Швидке завантаження\' використовуватиме в 2~3 рази більше ресурсів.</string>
     <string name="down_limit">Одночасне завантаження</string>
     <string name="down_limit_info">Одночасне завантаження занадто багато файлів може сповільнити пристрій і спричинити проблеми.</string>
     <string name="not_allow">Не дозволяти</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Зберегти вкладки</string>
     <string name="keep_tab_info">Вкладки режиму анонімного перегляду зберігаються, коли ви переходите на звичайний режим.</string>
     <string name="keep_login">Увійти в систему</string>
-    <string name="keep_login_info">Якщо цю опцію вимкнено, перехід у звичайний режим вийде з усіх сайтів.</string>
+    <string name="keep_login_info">Якщо ви вимкнете цю опцію, при зміні режиму ви вийдете з усіх сайтів.</string>
     <string name="secret_exit">Вийти із режиму анонімного перегляду</string>
     <string name="direct_input">Пряме введення</string>
     <string name="direct_select">Прямий вибір</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Зменшений розмір (рекомендується)</string>
     <string name="site_app">Показати кнопку додатка сайту</string>
     <string name="site_app_info">Він відображається, лише якщо є виконувана програма.</string>
+    <string name="finger_print">Відбиток пальця</string>
+    <string name="finger_unavailable">Користувач не може автентифікуватися, оскільки обладнання недоступне. Спробуйте ще раз пізніше.</string>
+    <string name="finger_register">Користувач не може автентифікуватися, оскільки відбиток пальця не зареєстровано.</string>
+    <string name="finger_no_hardware">Користувач не може пройти автентифікацію, оскільки немає відповідного обладнання.</string>
+    <string name="finger_security">Користувач не може пройти автентифікацію, оскільки виявлено вразливість системи безпеки за допомогою одного або декількох апаратних датчиків.</string>
+    <string name="finger_unsupported">Користувач не може автентифікуватися, оскільки вказані параметри несумісні з поточною версією Android.</string>
+    <string name="finger_unknown">Неможливо визначити, чи може користувач пройти автентифікацію.</string>
 </resources>

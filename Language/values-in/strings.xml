@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Unduh</string>
-    <string name="fast_down">Unduhan cepat</string>
     <string name="down_again">Unduh lagi</string>
     <string name="down_page">Simpan halaman</string>
     <string name="down_list">Unduhan</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Cari berdasarkan gambar</string>
     <string name="down_image">Menyimpan gambar</string>
     <string name="share_image">Bagikan gambar</string>
+    <string name="copy_text">Salin teks</string>
     <string name="copied_clipboard">Disalin ke papan klip</string>
     <string name="preview_image">Pratinjau gambar</string>
     <string name="view_image">Lihat gambar</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Keluar tanpa menyimpan</string>
     <string name="camera_fail">Kamera gagal diluncurkan.</string>
     <string name="barcode_guide">Silakan masukkan kode QR atau barcode di dalam garis panduan.</string>
+    <string name="barcode_fail">Tidak ada kode QR atau kode batang yang ditemukan pada gambar.</string>
     <string name="allow">Mengizinkan</string>
     <string name="deny">Menyangkal</string>
     <string name="location">Lokasi</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">Karena kebijakan YouTube, video YouTube tidak dapat diunduh.</string>
     <string name="video_full_guide_1">Video yang dapat diunduh dapat diputar dalam layar penuh.</string>
     <string name="video_full_guide_2">Format yang tidak didukung tidak memiliki tombol.</string>
-    <string name="fast_down_guide_1">\'Unduhan cepat\' 2~3 kali lebih cepat.</string>
-    <string name="fast_down_guide_2">\'Unduhan cepat\' akan menggunakan sumber daya 2~3 kali lebih banyak.</string>
     <string name="down_limit">Pengunduhan secara bersamaan</string>
     <string name="down_limit_info">Mengunduh terlalu banyak file secara bersamaan dapat memperlambat perangkat Anda dan menyebabkan masalah.</string>
     <string name="not_allow">Jangan izinkan</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Tetap awasi</string>
     <string name="keep_tab_info">Tab penyamaran dipertahankan saat Anda beralih ke mode normal.</string>
     <string name="keep_login">Tetap masuk</string>
-    <string name="keep_login_info">Jika opsi ini dinonaktifkan, mengubah ke mode normal akan keluar semua situs.</string>
+    <string name="keep_login_info">Jika Anda menonaktifkan opsi ini, Anda akan keluar dari semua situs saat Anda mengubah mode.</string>
     <string name="secret_exit">Keluar dari mode penyamaran</string>
     <string name="direct_input">Masukan langsung</string>
     <string name="direct_select">Seleksi langsung</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Ukuran yang diperkecil (disarankan)</string>
     <string name="site_app">Tampilkan tombol aplikasi situs</string>
     <string name="site_app_info">Itu hanya ditampilkan jika ada aplikasi yang dapat dieksekusi.</string>
+    <string name="finger_print">Sidik jari</string>
+    <string name="finger_unavailable">Pengguna tidak dapat mengautentikasi karena perangkat keras tidak tersedia. Coba lagi nanti.</string>
+    <string name="finger_register">Pengguna tidak dapat mengautentikasi karena tidak ada sidik jari yang terdaftar.</string>
+    <string name="finger_no_hardware">Pengguna tidak dapat mengautentikasi karena tidak ada perangkat keras yang sesuai.</string>
+    <string name="finger_security">Pengguna tidak dapat mengautentikasi karena kerentanan keamanan telah ditemukan dengan satu atau beberapa sensor perangkat keras.</string>
+    <string name="finger_unsupported">Pengguna tidak dapat mengautentikasi karena opsi yang ditentukan tidak kompatibel dengan versi Android saat ini.</string>
+    <string name="finger_unknown">Tidak dapat menentukan apakah pengguna dapat mengautentikasi.</string>
 </resources>

@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">ダウンロード</string>
-    <string name="fast_down">高速ダウンロード</string>
     <string name="down_again">再度ダウンロード</string>
     <string name="down_page">ページ保存</string>
     <string name="down_list">ダウンロード履歴</string>
@@ -119,6 +118,7 @@
     <string name="search_image">画像で検索</string>
     <string name="down_image">画像を保存</string>
     <string name="share_image">画像共有</string>
+    <string name="copy_text">テキストのコピー</string>
     <string name="copied_clipboard">クリップボードにコピーされました。</string>
     <string name="preview_image">プレビュー画像</string>
     <string name="view_image">画像を見る</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">保存せずに終了</string>
     <string name="camera_fail">カメラを実行していました。</string>
     <string name="barcode_guide">QRコードやバーコードをガイドの中に入れてください。</string>
+    <string name="barcode_fail">イメージでQRコードやバーコードを見つけることができません。</string>
     <string name="allow">許可</string>
     <string name="deny">拒否</string>
     <string name="location">位置</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">YouTubeのポリシーにより、YouTubeのビデオは、ダウンロードすることができません。</string>
     <string name="video_full_guide_1">ダウンロード可能な動画をフルスクリーンで再生することができます。</string>
     <string name="video_full_guide_2">サポートされていないフォーマットは、ボタンが表示されません。</string>
-    <string name="fast_down_guide_1">\'高速ダウンロード\'は、ダウンロード速度が2~3倍高速です。</string>
-    <string name="fast_down_guide_2">\'高速ダウンロード\'は、2~3倍より多くのリソースを使用します。</string>
     <string name="down_limit">同時ダウンロード</string>
     <string name="down_limit_info">あまりにも多くのファイルを同時にダウンロードすると、デバイスが遅くなり、問題が発生する可能性があります。</string>
     <string name="not_allow">許可しない</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">タブを維持</string>
     <string name="keep_tab_info">通常モードに変更しても、シークレットタブが維持されます。</string>
     <string name="keep_login">ログインを維持</string>
-    <string name="keep_login_info">このオプションを使用しない場合、通常モードに変更すると、すべてのサイトがログアウトされます。</string>
+    <string name="keep_login_info">このオプションを無効にすると、モードを変更するときは、すべてのサイトからログアウトされます。</string>
     <string name="secret_exit">シークレットモードを終了</string>
     <string name="direct_input">直接入力</string>
     <string name="direct_select">直接選択</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">縮小されたサイズ（推奨）</string>
     <string name="site_app">サイトアプリボタンを表示</string>
     <string name="site_app_info">実行可能なアプリがある場合にのみ表示されます。</string>
+    <string name="finger_print">指紋</string>
+    <string name="finger_unavailable">ハードウェアが利用できないため、ユーザーは認証できません。 あとでもう一度試してみてください。</string>
+    <string name="finger_register">指紋が登録されていないため、ユーザーは認証できません。</string>
+    <string name="finger_no_hardware">適切なハードウェアがないため、ユーザーは認証できません。</string>
+    <string name="finger_security">1つ以上のハードウェアセンサーでセキュリティの脆弱性が発見されたため、ユーザーは認証できません。</string>
+    <string name="finger_unsupported">指定されたオプションが現在のAndroidバージョンと互換性がないため、ユーザーは認証できません。</string>
+    <string name="finger_unknown">ユーザーが認証できるかどうかを判断できません。</string>
 </resources>

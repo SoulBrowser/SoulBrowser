@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">ดาวน์โหลด</string>
-    <string name="fast_down">ดาวน์โหลดอย่างรวดเร็ว</string>
     <string name="down_again">ดาวน์โหลดอีกครั้ง</string>
     <string name="down_page">บันทึกหน้า</string>
     <string name="down_list">ดาวน์โหลด</string>
@@ -119,6 +118,7 @@
     <string name="search_image">ค้นหาตามภาพ</string>
     <string name="down_image">บันทึกภาพ</string>
     <string name="share_image">แบ่งปันภาพ</string>
+    <string name="copy_text">คัดลอกข้อความ</string>
     <string name="copied_clipboard">คัดลอกไปที่คลิปบอร์ดแล้ว</string>
     <string name="preview_image">ดูตัวอย่างรูปภาพ</string>
     <string name="view_image">ดูรูปภาพ</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">ออกโดยไม่บันทึก</string>
     <string name="camera_fail">กล้องไม่สามารถเปิดใช้งานได้</string>
     <string name="barcode_guide">โปรดใส่รหัส QR หรือบาร์โค้ดไว้ในบรรทัดคำแนะนำ</string>
+    <string name="barcode_fail">ไม่พบรหัส QR หรือบาร์โค้ดในภาพ</string>
     <string name="allow">อนุญาต</string>
     <string name="deny">ปฏิเสธ</string>
     <string name="location">ที่ตั้ง</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">เนื่องจากนโยบาย YouTube ไม่สามารถดาวน์โหลดวิดีโอ YouTube ได้</string>
     <string name="video_full_guide_1">วิดีโอที่ดาวน์โหลดได้สามารถเล่นได้แบบเต็มหน้าจอ</string>
     <string name="video_full_guide_2">รูปแบบที่ไม่รองรับไม่มีปุ่ม</string>
-    <string name="fast_down_guide_1">\'ดาวน์โหลดอย่างรวดเร็ว\' เร็วกว่า 2~3 เท่า</string>
-    <string name="fast_down_guide_2">\'ดาวน์โหลดอย่างรวดเร็ว\' จะใช้ทรัพยากรเพิ่มขึ้น 2~3 เท่า</string>
     <string name="down_limit">ดาวน์โหลดพร้อมกัน</string>
     <string name="down_limit_info">การดาวน์โหลดไฟล์มากเกินไปในเวลาเดียวกันอาจทำให้อุปกรณ์ของคุณช้าลงและทำให้เกิดปัญหา</string>
     <string name="not_allow">ไม่อนุญาต</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">เก็บแท็บ</string>
     <string name="keep_tab_info">แท็บไม่ระบุตัวตนจะถูกเก็บไว้เมื่อคุณเปลี่ยนเป็นโหมดปกติ</string>
     <string name="keep_login">เก็บไว้ในระบบ</string>
-    <string name="keep_login_info">หากตัวเลือกนี้ถูกปิดใช้งานการเปลี่ยนเป็นโหมดปกติจะเป็นการออกจากระบบเว็บไซต์ทั้งหมด</string>
+    <string name="keep_login_info">หากคุณปิดใช้งานตัวเลือกนี้คุณจะออกจากระบบทุกไซต์เมื่อคุณเปลี่ยนโหมด</string>
     <string name="secret_exit">ออกจากโหมดไม่ระบุตัวตน</string>
     <string name="direct_input">ป้อนข้อมูลโดยตรง</string>
     <string name="direct_select">การเลือกโดยตรง</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">ลดขนาดลง (แนะนำ)</string>
     <string name="site_app">แสดงปุ่มแอปไซต์</string>
     <string name="site_app_info">จะปรากฏเฉพาะในกรณีที่มีแอปปฏิบัติการเท่านั้น</string>
+    <string name="finger_print">ลายนิ้วมือ</string>
+    <string name="finger_unavailable">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากฮาร์ดแวร์ไม่พร้อมใช้งาน โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="finger_register">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากไม่มีการลงทะเบียนลายนิ้วมือ</string>
+    <string name="finger_no_hardware">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากไม่มีฮาร์ดแวร์ที่เหมาะสม</string>
+    <string name="finger_security">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากมีการค้นพบช่องโหว่ด้านความปลอดภัยด้วยเซ็นเซอร์ฮาร์ดแวร์อย่างน้อยหนึ่งตัว</string>
+    <string name="finger_unsupported">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากตัวเลือกที่ระบุไม่เข้ากันกับ Android เวอร์ชันปัจจุบัน</string>
+    <string name="finger_unknown">ไม่สามารถระบุได้ว่าผู้ใช้สามารถตรวจสอบสิทธิ์ได้หรือไม่</string>
 </resources>

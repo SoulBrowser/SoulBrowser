@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">下载</string>
-    <string name="fast_down">快速下载</string>
     <string name="down_again">重新下载</string>
     <string name="down_page">保存页面</string>
     <string name="down_list">下载记录</string>
@@ -119,6 +118,7 @@
     <string name="search_image">按图片搜索</string>
     <string name="down_image">保存图片</string>
     <string name="share_image">分享图片</string>
+    <string name="copy_text">复制文字</string>
     <string name="copied_clipboard">复制到剪贴板</string>
     <string name="preview_image">预览图片</string>
     <string name="view_image">查看图片</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">退出而不保存</string>
     <string name="camera_fail">相机无法启动</string>
     <string name="barcode_guide">请将二维码或条形码放在指定区域内</string>
+    <string name="barcode_fail">在图像中找不到QR码或条形码。</string>
     <string name="allow">允许</string>
     <string name="deny">拒绝</string>
     <string name="location">所在位置</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">根据 YouTube 政策，YouTube 视频无法下载。</string>
     <string name="video_full_guide_1">下载的视频可全屏播放</string>
     <string name="video_full_guide_2">不支持的格式没有按钮</string>
-    <string name="fast_down_guide_1">\'快速下载\'快2~3倍</string>
-    <string name="fast_down_guide_2">\'快速下载\'将使用2~3倍的资源</string>
     <string name="down_limit">同时下载数</string>
     <string name="down_limit_info">同时下载太多文件可能会降低设备速度并出现问题</string>
     <string name="not_allow">不允许</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">保留标签</string>
     <string name="keep_tab_info">当你更改为正常模式时，无痕标签会保留</string>
     <string name="keep_login">保持登录状态</string>
-    <string name="keep_login_info">如果禁用此选项，则更改为正常模式将注销所有站点</string>
+    <string name="keep_login_info">如果禁用此选项，则更改模式时将退出所有站点</string>
     <string name="secret_exit">退出无痕模式</string>
     <string name="direct_input">直接输入</string>
     <string name="direct_select">直接选择</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">缩小尺寸（推荐）</string>
     <string name="site_app">显示网站应用程序按钮</string>
     <string name="site_app_info">仅在有可执行应用程序时显示</string>
+    <string name="finger_print">指纹</string>
+    <string name="finger_unavailable">由于硬件不可用，用户无法进行身份验证。 稍后再试</string>
+    <string name="finger_register">用户无法验证，因为未注册任何指纹</string>
+    <string name="finger_no_hardware">用户无法验证，因为没有合适的硬件</string>
+    <string name="finger_security">用户无法进行身份验证，因为已通过一个或多个硬件传感器发现了安全漏洞</string>
+    <string name="finger_unsupported">由于指定的选项与当前的Android版本不兼容，因此用户无法进行身份验证</string>
+    <string name="finger_unknown">无法确定用户是否可以认证</string>
 </resources>

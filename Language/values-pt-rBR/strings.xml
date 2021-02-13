@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Download</string>
-    <string name="fast_down">Download rápido</string>
     <string name="down_again">Baixar novamente</string>
     <string name="down_page">Salvar página</string>
     <string name="down_list">Downloads</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Pesquisar por imagem</string>
     <string name="down_image">Salvar imagem</string>
     <string name="share_image">Compartilhar imagem</string>
+    <string name="copy_text">Copiar texto</string>
     <string name="copied_clipboard">Copiado para a área de transferência</string>
     <string name="preview_image">Prévia da imagem</string>
     <string name="view_image">Ver imagem</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Sair sem salvar</string>
     <string name="camera_fail">A câmera falhou ao iniciar.</string>
     <string name="barcode_guide">Por favor, coloque o código QR ou o código de barras dentro da linha guia.</string>
+    <string name="barcode_fail">Nenhum código QR ou código de barras encontrado na imagem.</string>
     <string name="allow">Permitir</string>
     <string name="deny">Negar</string>
     <string name="location">Localização</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">Devido à política do YouTube, os vídeos do YouTube não podem ser baixados.</string>
     <string name="video_full_guide_1">Vídeos baixáveis podem ser reproduzidos em tela cheia.</string>
     <string name="video_full_guide_2">Formatos não suportados não mostram botões.</string>
-    <string name="fast_down_guide_1">\'Download rápido\' é de 2 a 3 vezes mais rápido.</string>
-    <string name="fast_down_guide_2">\'Download rápido\' usará de 2 a 3 vezes mais recursos.</string>
     <string name="down_limit">Download simultâneo</string>
     <string name="down_limit_info">Baixar muitos arquivos ao mesmo tempo pode diminuir a velocidade do seu dispositivo e causar problemas.</string>
     <string name="not_allow">Não permitir</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Manter abas</string>
     <string name="keep_tab_info">Abas anônimas são mantidas quando você muda para o modo normal.</string>
     <string name="keep_login">Manter-se conectado</string>
-    <string name="keep_login_info">Se esta opção estiver desabilitada, a mudança para o modo normal fará o logout de todos os sites.</string>
+    <string name="keep_login_info">Se você desabilitar esta opção, você será desconectado de todos os sites ao alterar os modos.</string>
     <string name="secret_exit">Sair do modo de navegação anônima</string>
     <string name="direct_input">Entrada direta</string>
     <string name="direct_select">Seleção direta</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Tamanho reduzido (recomendado)</string>
     <string name="site_app">Mostrar botão do aplicativo do site</string>
     <string name="site_app_info">Só é exibido se houver um aplicativo executável.</string>
+    <string name="finger_print">Impressão digital</string>
+    <string name="finger_unavailable">O usuário não pode autenticar porque o hardware não está disponível. Tente mais tarde.</string>
+    <string name="finger_register">O usuário não pode autenticar porque nenhuma impressão digital está registrada.</string>
+    <string name="finger_no_hardware">O usuário não pode autenticar porque não há hardware adequado.</string>
+    <string name="finger_security">O usuário não pode autenticar porque uma vulnerabilidade de segurança foi descoberta com um ou mais sensores de hardware.</string>
+    <string name="finger_unsupported">O usuário não pode autenticar porque as opções especificadas são incompatíveis com a versão atual do Android.</string>
+    <string name="finger_unknown">Incapaz de determinar se o usuário pode autenticar.</string>
 </resources>

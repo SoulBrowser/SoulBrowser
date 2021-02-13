@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Scarica</string>
-    <string name="fast_down">Scarica veloce</string>
     <string name="down_again">Scarica di nuovo</string>
     <string name="down_page">Salva pagina</string>
     <string name="down_list">Elenco download</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Cerca per immagine</string>
     <string name="down_image">Salva immagine</string>
     <string name="share_image">Condividi immagine</string>
+    <string name="copy_text">Copia testo</string>
     <string name="copied_clipboard">Copiato negli appunti</string>
     <string name="preview_image">Anteprima immagine</string>
     <string name="view_image">Guarda immagine</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Esci senza salvare</string>
     <string name="camera_fail">Impossibile avviare la fotocamera.</string>
     <string name="barcode_guide">Inserisci il codice QR o il codice a barre all\'interno della linea guida.</string>
+    <string name="barcode_fail">Nessun codice QR o codice a barre trovato nell\'immagine.</string>
     <string name="allow">Permettere</string>
     <string name="deny">Negare</string>
     <string name="location">Posizione</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">A causa delle norme di YouTube, i video di YouTube non possono essere scaricati.</string>
     <string name="video_full_guide_1">I video scaricabili possono essere riprodotti a schermo intero.</string>
     <string name="video_full_guide_2">I formati non supportati non hanno pulsanti.</string>
-    <string name="fast_down_guide_1">\'Scarica veloce\' è 2~3 volte più veloce.</string>
-    <string name="fast_down_guide_2">\'Scarica veloce\' utilizzerà 2~3 volte più risorse.</string>
     <string name="down_limit">Download simultaneo</string>
     <string name="down_limit_info">Il download di troppi file contemporaneamente può rallentare il dispositivo e causare problemi.</string>
     <string name="not_allow">Non permettere</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Tieni d\'occhio</string>
     <string name="keep_tab_info">Le schede in incognito vengono mantenute quando si passa alla modalità normale.</string>
     <string name="keep_login">Mantieni l\'accesso</string>
-    <string name="keep_login_info">Se questa opzione è disabilitata, il passaggio alla modalità normale disconnetterà tutti i siti.</string>
+    <string name="keep_login_info">Se disabiliti questa opzione, verrai disconnesso da tutti i siti quando cambi modalità.</string>
     <string name="secret_exit">Esci dalla modalità di navigazione in incognito</string>
     <string name="direct_input">Input diretto</string>
     <string name="direct_select">Selezione diretta</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Dimensioni ridotte (consigliato)</string>
     <string name="site_app">Mostra il pulsante dell\'app del sito</string>
     <string name="site_app_info">Viene visualizzato solo se è presente un\'app eseguibile.</string>
+    <string name="finger_print">impronta digitale</string>
+    <string name="finger_unavailable">L\'utente non può autenticarsi perché l\'hardware non è disponibile. Riprovare più tardi.</string>
+    <string name="finger_register">L\'utente non può autenticarsi perché non è stata registrata alcuna impronta digitale.</string>
+    <string name="finger_no_hardware">L\'utente non può autenticarsi perché non è disponibile un hardware adatto.</string>
+    <string name="finger_security">L\'utente non può autenticarsi perché è stata scoperta una vulnerabilità di sicurezza con uno o più sensori hardware.</string>
+    <string name="finger_unsupported">L\'utente non può autenticarsi perché le opzioni specificate non sono compatibili con la versione corrente di Android.</string>
+    <string name="finger_unknown">Impossibile determinare se l\'utente può autenticarsi.</string>
 </resources>

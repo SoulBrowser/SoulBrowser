@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Tải xuống</string>
-    <string name="fast_down">Tải xuống nhanh</string>
     <string name="down_again">Tải xuống lại</string>
     <string name="down_page">Lưu trang</string>
     <string name="down_list">Danh sách tải xuống</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Tìm kiếm bằng hình ảnh</string>
     <string name="down_image">Lưu hình ảnh</string>
     <string name="share_image">Chia sẻ hình ảnh</string>
+    <string name="copy_text">Sao chép văn bản</string>
     <string name="copied_clipboard">Sao chép vào clipboard</string>
     <string name="preview_image">Xem trước hình ảnh</string>
     <string name="view_image">Xem hình ảnh</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Thoát mà không lưu</string>
     <string name="camera_fail">Máy ảnh không khởi chạy được.</string>
     <string name="barcode_guide">Vui lòng đặt mã QR hoặc mã vạch bên trong dòng hướng dẫn.</string>
+    <string name="barcode_fail">Không tìm thấy mã QR hoặc mã vạch trong hình ảnh.</string>
     <string name="allow">Cho phép</string>
     <string name="deny">Phủ nhận</string>
     <string name="location">Địa điểm</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">Do chính sách của YouTube, video YouTube không thể được tải xuống.</string>
     <string name="video_full_guide_1">Video tải về có thể được phát ở toàn màn hình.</string>
     <string name="video_full_guide_2">Các định dạng không được hỗ trợ không có nút.</string>
-    <string name="fast_down_guide_1">\'Tải xuống nhanh\' nhanh hơn 2~3 lần.</string>
-    <string name="fast_down_guide_2">\'Tải xuống nhanh\' sẽ sử dụng tài nguyên gấp 2~3 lần.</string>
     <string name="down_limit">Tải xuống đồng thời</string>
     <string name="down_limit_info">Tải xuống quá nhiều tệp cùng một lúc có thể làm chậm thiết bị của bạn và gây ra sự cố.</string>
     <string name="not_allow">Không cho phép</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Giữ các tab</string>
     <string name="keep_tab_info">Các tab ẩn danh được giữ lại khi bạn thay đổi sang chế độ bình thường.</string>
     <string name="keep_login">Tiếp tục đăng nhập</string>
-    <string name="keep_login_info">Nếu tùy chọn này bị tắt, thay đổi sang chế độ bình thường sẽ đăng xuất tất cả các trang web.</string>
+    <string name="keep_login_info">Nếu bạn tắt tùy chọn này, bạn sẽ bị đăng xuất khỏi tất cả các trang web khi bạn thay đổi chế độ.</string>
     <string name="secret_exit">Thoát chế độ ẩn danh</string>
     <string name="direct_input">Đầu vào trực tiếp</string>
     <string name="direct_select">Lựa chọn trực tiếp</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Giảm kích thước (khuyến nghị)</string>
     <string name="site_app">Nút hiển thị ứng dụng trang web</string>
     <string name="site_app_info">Nó chỉ được hiển thị nếu có một ứng dụng thực thi.</string>
+    <string name="finger_print">Vân tay</string>
+    <string name="finger_unavailable">Người dùng không thể xác thực vì phần cứng không khả dụng. Thử lại sau.</string>
+    <string name="finger_register">Người dùng không thể xác thực vì không có vân tay nào được đăng ký.</string>
+    <string name="finger_no_hardware">Người dùng không thể xác thực vì không có phần cứng phù hợp.</string>
+    <string name="finger_security">Người dùng không thể xác thực vì lỗ hổng bảo mật đã được phát hiện với một hoặc nhiều cảm biến phần cứng.</string>
+    <string name="finger_unsupported">Người dùng không thể xác thực vì các tùy chọn được chỉ định không tương thích với phiên bản Android hiện tại.</string>
+    <string name="finger_unknown">Không thể xác định xem người dùng có thể xác thực hay không.</string>
 </resources>

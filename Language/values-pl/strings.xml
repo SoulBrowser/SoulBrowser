@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Pobierz</string>
-    <string name="fast_down">Szybkie pobieranie</string>
     <string name="down_again">Pobierz ponownie</string>
     <string name="down_page">Zapisz stronę</string>
     <string name="down_list">Pobieranie</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Wyszukaj według obrazu</string>
     <string name="down_image">Zapisz obraz</string>
     <string name="share_image">Udostępnij obraz</string>
+    <string name="copy_text">Skopiuj tekst</string>
     <string name="copied_clipboard">Skopiowane do schowka</string>
     <string name="preview_image">Podgląd obrazu</string>
     <string name="view_image">Wyświetl obraz</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Wyjdź bez zapisywania</string>
     <string name="camera_fail">Uruchomienie aparatu nie powiodło się.</string>
     <string name="barcode_guide">Umieść kod QR lub kod kreskowy w linii prowadzącej.</string>
+    <string name="barcode_fail">Na obrazie nie znaleziono kodu QR ani kodu kreskowego.</string>
     <string name="allow">Zezwól</string>
     <string name="deny">Zaprzeczać</string>
     <string name="location">Lokalizacja</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">Ze względu na zasady YouTube nie można pobierać filmów z YouTube.</string>
     <string name="video_full_guide_1">Filmy do pobrania można odtwarzać na pełnym ekranie.</string>
     <string name="video_full_guide_2">Nieobsługiwane formaty nie mają przycisków.</string>
-    <string name="fast_down_guide_1">\'Szybkie pobieranie\' jest 2~3 razy szybsze.</string>
-    <string name="fast_down_guide_2">\'Szybkie pobieranie\' zużyje 2~3 razy więcej zasobów.</string>
     <string name="down_limit">Jednoczesne pobieranie</string>
     <string name="down_limit_info">Pobieranie zbyt wielu plików jednocześnie może spowolnić urządzenie i powodować problemy.</string>
     <string name="not_allow">Nie zezwalaj</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Trzymaj się</string>
     <string name="keep_tab_info">Karty incognito są zachowywane po przejściu do trybu normalnego.</string>
     <string name="keep_login">Nie wylogowuj się</string>
-    <string name="keep_login_info">Jeśli ta opcja jest wyłączona, przejście do trybu normalnego spowoduje wylogowanie wszystkich witryn.</string>
+    <string name="keep_login_info">Jeśli wyłączysz tę opcję, zostaniesz wylogowany ze wszystkich witryn po zmianie trybów.</string>
     <string name="secret_exit">Wyjdź z trybu incognito</string>
     <string name="direct_input">Bezpośrednie wprowadzanie danych</string>
     <string name="direct_select">Wybór bezpośredni</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Zmniejszony rozmiar (zalecane)</string>
     <string name="site_app">Pokaż przycisk aplikacji witryny</string>
     <string name="site_app_info">Jest wyświetlany tylko wtedy, gdy istnieje aplikacja wykonywalna.</string>
+    <string name="finger_print">Odcisk palca</string>
+    <string name="finger_unavailable">Użytkownik nie może się uwierzytelnić, ponieważ sprzęt jest niedostępny. Spróbuj ponownie później.</string>
+    <string name="finger_register">Użytkownik nie może się uwierzytelnić, ponieważ nie jest zarejestrowany żaden odcisk palca.</string>
+    <string name="finger_no_hardware">Użytkownik nie może się uwierzytelnić, ponieważ nie ma odpowiedniego sprzętu.</string>
+    <string name="finger_security">Użytkownik nie może się uwierzytelnić, ponieważ wykryto lukę w zabezpieczeniach co najmniej jednego czujnika sprzętowego.</string>
+    <string name="finger_unsupported">Użytkownik nie może się uwierzytelnić, ponieważ określone opcje są niezgodne z bieżącą wersją Androida.</string>
+    <string name="finger_unknown">Nie można określić, czy użytkownik może się uwierzytelnić.</string>
 </resources>

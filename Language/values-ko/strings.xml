@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">다운로드</string>
-    <string name="fast_down">빠른 다운로드</string>
     <string name="down_again">다시 다운로드</string>
     <string name="down_page">페이지 저장</string>
     <string name="down_list">다운로드</string>
@@ -119,6 +118,7 @@
     <string name="search_image">이미지로 검색</string>
     <string name="down_image">이미지 저장</string>
     <string name="share_image">이미지 공유</string>
+    <string name="copy_text">텍스트 복사</string>
     <string name="copied_clipboard">클립보드에 복사되었습니다.</string>
     <string name="preview_image">이미지 미리보기</string>
     <string name="view_image">이미지 보기</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">저장 안하고 종료</string>
     <string name="camera_fail">카메라를 실행하지 못했습니다.</string>
     <string name="barcode_guide">QR코드나 바코드를 안내선 안에 넣어주세요.</string>
+    <string name="barcode_fail">이미지에서 QR코드나 바코드를 찾을 수 없습니다.</string>
     <string name="allow">수락</string>
     <string name="deny">거부</string>
     <string name="location">위치</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">YouTube 정책에 의해, YouTube 동영상은 다운로드할 수 없습니다.</string>
     <string name="video_full_guide_1">다운로드 가능한 동영상을 전체 화면으로 재생합니다.</string>
     <string name="video_full_guide_2">지원되지 않는 포맷은 버튼이 나타나지 않습니다.</string>
-    <string name="fast_down_guide_1">\'빠른 다운로드\'는 다운로드 속도가 2~3배 더 빠릅니다.</string>
-    <string name="fast_down_guide_2">\'빠른 다운로드\'는 2~3배 더 많은 자원을 사용하게 됩니다.</string>
     <string name="down_limit">동시 다운로드</string>
     <string name="down_limit_info">너무 많은 파일을 동시에 다운로드하면, 디바이스가 느려지고 문제가 발생할 수 있습니다.</string>
     <string name="not_allow">허용 안함</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">탭 유지</string>
     <string name="keep_tab_info">일반 모드로 변경해도 시크릿 탭이 유지됩니다.</string>
     <string name="keep_login">로그인 유지</string>
-    <string name="keep_login_info">이 옵션을 비활성화하면, 일반 모드로 변경할 때, 모든 사이트에서 로그아웃하게 됩니다.</string>
+    <string name="keep_login_info">이 옵션을 비활성화하면, 모드를 변경할 때, 모든 사이트에서 로그아웃하게 됩니다.</string>
     <string name="secret_exit">시크릿 모드 종료</string>
     <string name="direct_input">직접 입력</string>
     <string name="direct_select">직접 선택</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">축소된 크기 (권장)</string>
     <string name="site_app">사이트 앱 표시</string>
     <string name="site_app_info">실행 가능한 앱이 있는 경우에만 표시됩니다.</string>
+    <string name="finger_print">지문 인식</string>
+    <string name="finger_unavailable">하드웨어를 사용할 수 없기 때문에 사용자가 인증할 수 없습니다. 나중에 다시 시도하십시오.</string>
+    <string name="finger_register">등록된 지문이 없기 때문에 사용자가 인증할 수 없습니다.</string>
+    <string name="finger_no_hardware">적합한 하드웨어가 없기 때문에 사용자가 인증할 수 없습니다.</string>
+    <string name="finger_security">하나 이상의 하드웨어 센서에서 보안 취약점이 발견되었기 때문에 사용자가 인증할 수 없습니다.</string>
+    <string name="finger_unsupported">지정된 옵션이 현재 Android 버전과 호환되지 않기 때문에 사용자가 인증할 수 없습니다.</string>
+    <string name="finger_unknown">사용자가 인증할 수 있는지 여부를 확인할 수 없습니다.</string>
 </resources>

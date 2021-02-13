@@ -25,7 +25,6 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Herunterladen</string>
-    <string name="fast_down">Schneller herunterladen</string>
     <string name="down_again">Erneut herunterladen</string>
     <string name="down_page">Seite speichern</string>
     <string name="down_list">Herunterladen</string>
@@ -119,6 +118,7 @@
     <string name="search_image">Bildsuche</string>
     <string name="down_image">Bild speichern</string>
     <string name="share_image">Bild teilen</string>
+    <string name="copy_text">Text kopieren</string>
     <string name="copied_clipboard">In die Zwischenablage kopiert</string>
     <string name="preview_image">Vorschaubild</string>
     <string name="view_image">Bild ansehen</string>
@@ -302,6 +302,7 @@
     <string name="exit_without_save">Beenden ohne zu speichern</string>
     <string name="camera_fail">Kamera konnte nicht gestartet werden.</string>
     <string name="barcode_guide">Bitte geben Sie den QR-Code oder Barcode in die Hilfslinie ein.</string>
+    <string name="barcode_fail">Kein QR-Code oder Barcode im Bild gefunden.</string>
     <string name="allow">Ermöglichen</string>
     <string name="deny">Verweigern</string>
     <string name="location">Ort</string>
@@ -427,8 +428,6 @@
     <string name="video_down_guide_4">Aufgrund der YouTube-Richtlinie können YouTube Videos nicht heruntergeladen werden.</string>
     <string name="video_full_guide_1">Herunterladbare Videos können im Vollbildmodus abgespielt werden.</string>
     <string name="video_full_guide_2">Nicht unterstützte Formate haben keine Schaltflächen.</string>
-    <string name="fast_down_guide_1">\'Schneller herunterladen\' ist 2~3 mal schneller.</string>
-    <string name="fast_down_guide_2">\'Schneller herunterladen\' belegt 2~3 mal mehr Ressourcen.</string>
     <string name="down_limit">Gleichzeitige Downloads</string>
     <string name="down_limit_info">Das gleichzeitige Herunterladen zu vieler Dateien kann ihr Gerät verlangsamen und Probleme verursachen.</string>
     <string name="not_allow">Nicht erlaubt</string>
@@ -488,7 +487,7 @@
     <string name="keep_tab">Tab-Übersicht behalten</string>
     <string name="keep_tab_info">Inkognito-Registerkarten bleiben erhalten, wenn Sie in den normalen Modus wechseln.</string>
     <string name="keep_login">Eingeloggt bleiben</string>
-    <string name="keep_login_info">Wenn diese Option deaktiviert ist, werden alle Websites abgemeldet, wenn Sie in den normalen Modus wechseln.</string>
+    <string name="keep_login_info">Wenn Sie diese Option deaktivieren, werden Sie beim Ändern des Modus von allen Websites abgemeldet.</string>
     <string name="secret_exit">Inkognito Modus beenden</string>
     <string name="direct_input">Direkte Eingabe</string>
     <string name="direct_select">Direkte Auswahl</string>
@@ -797,4 +796,11 @@
     <string name="reduced_size">Reduzierte Größe (empfohlen)</string>
     <string name="site_app">Schaltfläche Site-App anzeigen</string>
     <string name="site_app_info">Es wird nur angezeigt, wenn eine ausführbare App vorhanden ist.</string>
+    <string name="finger_print">Fingerabdruck</string>
+    <string name="finger_unavailable">Der Benutzer kann sich nicht authentifizieren, da die Hardware nicht verfügbar ist. Versuchen Sie es später erneut.</string>
+    <string name="finger_register">Der Benutzer kann sich nicht authentifizieren, da kein Fingerabdruck registriert ist.</string>
+    <string name="finger_no_hardware">Der Benutzer kann sich nicht authentifizieren, da keine geeignete Hardware vorhanden ist.</string>
+    <string name="finger_security">Der Benutzer kann sich nicht authentifizieren, da mit einem oder mehreren Hardwaresensoren eine Sicherheitslücke entdeckt wurde.</string>
+    <string name="finger_unsupported">Der Benutzer kann sich nicht authentifizieren, da die angegebenen Optionen nicht mit der aktuellen Android-Version kompatibel sind.</string>
+    <string name="finger_unknown">Es kann nicht festgestellt werden, ob sich der Benutzer authentifizieren kann.</string>
 </resources>
