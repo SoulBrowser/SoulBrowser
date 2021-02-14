@@ -45,8 +45,7 @@
     <string name="capture">Captura pantalla</string>
     <string name="capture_success">Captura correcta</string>
     <string name="capture_fail">Captura fallida</string>
-    <string name="print_page">Imprimir página</string>
-    <string name="print">Imprimir</string>
+    <string name="print_page">Imprimir / PDF</string>
     <string name="print_success">Impresión correcta</string>
     <string name="print_fail">Impresión fallida</string>
     <string name="translator">Traductor</string>

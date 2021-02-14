@@ -45,8 +45,7 @@
     <string name="capture">Tangkapan layar</string>
     <string name="capture_success">Sukses</string>
     <string name="capture_fail">Gagal</string>
-    <string name="print_page">Cetak halaman</string>
-    <string name="print">Cetak</string>
+    <string name="print_page">Cetak / PDF</string>
     <string name="print_success">Keberhasilan cetak</string>
     <string name="print_fail">Print Failed</string>
     <string name="translator">Terjemahan</string>

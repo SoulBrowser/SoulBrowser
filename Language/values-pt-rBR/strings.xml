@@ -45,8 +45,7 @@
     <string name="capture">Capturar tela</string>
     <string name="capture_success">Sucesso</string>
     <string name="capture_fail">Falhou</string>
-    <string name="print_page">Imprimir</string>
-    <string name="print">Impressão</string>
+    <string name="print_page">Impressão / PDF</string>
     <string name="print_success">Impressão concluída</string>
     <string name="print_fail">Falha na impressão</string>
     <string name="translator">Tradutor</string>

@@ -45,8 +45,7 @@
     <string name="capture">Захват экрана</string>
     <string name="capture_success">Успешно распечатано</string>
     <string name="capture_fail">Не удалось распечатать</string>
-    <string name="print_page">Распечатать страницу</string>
-    <string name="print">Распечатать</string>
+    <string name="print_page">Распечатать / PDF</string>
     <string name="print_success">Успешно распечатано</string>
     <string name="print_fail">Не удалось распечатать</string>
     <string name="translator">Переводчик</string>

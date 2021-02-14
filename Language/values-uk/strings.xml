@@ -45,8 +45,7 @@
     <string name="capture">Скріншот</string>
     <string name="capture_success">Роздруковано успішно</string>
     <string name="capture_fail">Не вдалося роздрукувати</string>
-    <string name="print_page">Друк сторінки</string>
-    <string name="print">Друк</string>
+    <string name="print_page">Друк / PDF</string>
     <string name="print_success">Роздруковано успiшно</string>
     <string name="print_fail">Не вдалося надрукувати</string>
     <string name="translator">Перекладач</string>

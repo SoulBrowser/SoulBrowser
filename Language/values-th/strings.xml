@@ -45,8 +45,7 @@
     <string name="capture">การดักจับหน้าจอ</string>
     <string name="capture_success">สำเร็จ</string>
     <string name="capture_fail">ล้มเหลว</string>
-    <string name="print_page">พิมพ์หน้า</string>
-    <string name="print">พิมพ์</string>
+    <string name="print_page">พิมพ์ / PDF</string>
     <string name="print_success">ความสำเร็จในการพิมพ์</string>
     <string name="print_fail">การพิมพ์ล้มเหลว</string>
     <string name="translator">นักแปล</string>

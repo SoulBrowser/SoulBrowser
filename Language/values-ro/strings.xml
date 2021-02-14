@@ -45,8 +45,7 @@
     <string name="capture">Captura ecranului</string>
     <string name="capture_success">Succes</string>
     <string name="capture_fail">Eșuat</string>
-    <string name="print_page">Imprima pagina</string>
-    <string name="print">Imprimare</string>
+    <string name="print_page">Imprimare / PDF</string>
     <string name="print_success">Succes de tipărire</string>
     <string name="print_fail">Imprimare eșuată</string>
     <string name="translator">Traducător</string>

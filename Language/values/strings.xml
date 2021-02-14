@@ -45,8 +45,7 @@
     <string name="capture">Screen capture</string>
     <string name="capture_success">Success</string>
     <string name="capture_fail">Failed</string>
-    <string name="print_page">Print page</string>
-    <string name="print">Print</string>
+    <string name="print_page">Print / PDF</string>
     <string name="print_success">Print success</string>
     <string name="print_fail">Print Failed</string>
     <string name="translator">Translator</string>

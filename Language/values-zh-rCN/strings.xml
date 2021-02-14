@@ -45,8 +45,7 @@
     <string name="capture">屏幕截图</string>
     <string name="capture_success">截图成功</string>
     <string name="capture_fail">截图失败</string>
-    <string name="print_page">打印页面</string>
-    <string name="print">打印</string>
+    <string name="print_page">打印 / PDF</string>
     <string name="print_success">打印成功</string>
     <string name="print_fail">打印失败</string>
     <string name="translator">翻译器</string>

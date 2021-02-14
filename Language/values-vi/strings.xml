@@ -45,8 +45,7 @@
     <string name="capture">Chụp màn hình</string>
     <string name="capture_success">Sự thành công</string>
     <string name="capture_fail">Thất bại</string>
-    <string name="print_page">Trang in</string>
-    <string name="print">In</string>
+    <string name="print_page">In / PDF</string>
     <string name="print_success">In thành công</string>
     <string name="print_fail">In thất bại</string>
     <string name="translator">Người phiên dịch</string>

@@ -45,8 +45,7 @@
     <string name="capture">画面キャプチャ</string>
     <string name="capture_success">成功</string>
     <string name="capture_fail">失敗</string>
-    <string name="print_page">印刷ページ</string>
-    <string name="print">印刷</string>
+    <string name="print_page">印刷 / PDF</string>
     <string name="print_success">印刷成功</string>
     <string name="print_fail">印刷に失敗し</string>
     <string name="translator">翻訳</string>

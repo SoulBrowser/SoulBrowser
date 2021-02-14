@@ -45,8 +45,7 @@
     <string name="capture">Ekran görüntüsü</string>
     <string name="capture_success">Başarı</string>
     <string name="capture_fail">Başarısız</string>
-    <string name="print_page">Sayfayı yazdır</string>
-    <string name="print">Yazdır</string>
+    <string name="print_page">Yazdır / PDF</string>
     <string name="print_success">Baskı başarısı</string>
     <string name="print_fail">Yazdırılamadı</string>
     <string name="translator">Çevirmen</string>
