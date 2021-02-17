@@ -338,7 +338,7 @@
     <string name="desk_mode">Мобильный/ПК режим</string>
     <string name="desk_one">Режим ПК (Текущая вкладка)</string>
     <string name="desk_all">Режим ПК (Все вкладки)</string>
-    <string name="show_image">Показать изображения</string>
+    <string name="show_image">Показывать изображения</string>
     <string name="block_images">Блокировать изображения</string>
     <string name="block_a_image">Заблокировать изображение</string>
     <string name="blocked_image">Заблокированные изображения</string>
@@ -391,7 +391,7 @@
     <string name="fix_top">Верхняя панель закреплена</string>
     <string name="fix_bot">Нижняя панель закреплена</string>
     <string name="start_page">Начальная страница</string>
-    <string name="show_image_info">Отобразить изображение веб страницы.</string>
+    <string name="show_image_info">Показывать изображения веб-страницы.</string>
     <string name="show_video_button">Кнопка загрузки видео</string>
     <string name="two_finger">(Два пальца)</string>
     <string name="two_finger_info_1">Проведите двумя пальцами влево и вправо для переключения вкладок.</string>
@@ -402,7 +402,7 @@
     <string name="show_qrcode">Показать кнопку QR-кода</string>
     <string name="voice_title">Голосовой поиск</string>
     <string name="show_voice">Показать кнопку голосового поиска</string>
-    <string name="show_reader">Показать кнопку режим чтения</string>
+    <string name="show_reader">Показать кнопку режима чтения</string>
     <string name="album_shortcut">Создать ярлык альбома</string>
     <string name="album_short_info">Создать ярлык альбома на главном экране.</string>
     <string name="cast_shortcut">Создать ярлык трасляции</string>
@@ -483,7 +483,7 @@
     <string name="import_no_book">В обычном режиме нет закладки.</string>
     <string name="import_no_history">В обычном режиме истории нет.</string>
     <string name="import_no_password">Отсутствует пароль в обычном режиме.</string>
-    <string name="keep_tab">Держать вкладки</string>
+    <string name="keep_tab">Сохранять вкладки</string>
     <string name="keep_tab_info">Вкладки инкогнито сохраняются при переходе в обычный режим.</string>
     <string name="keep_login">Войдите в систему</string>
     <string name="keep_login_info">Если вы отключите эту опцию, вы будете выходить из всех сайтов при изменении режима.</string>
@@ -497,7 +497,7 @@
     <string name="youtube_app_info">Если Вы нажмете на ссылку YouTube, запустится приложение YouTube.</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">Требуется установка плагина.</string>
-    <string name="report_site">Сообщить о сайте</string>
+    <string name="report_site">Сообщить о проблемах с сайтом</string>
     <string name="report_down">Пожалуйста, укажите адрес сайта, где Вы не можете скачать видео.</string>
     <string name="report_dark">Укажите адрес сайта, на котором возникают проблемы с темной темой.</string>
     <string name="youtube_pip">YouTube PIP</string>
@@ -622,7 +622,7 @@
     <string name="delete_one_tab">Закрыть текущую вкладку</string>
     <string name="delete_all_tab">Закрыть все вкладки</string>
     <string name="delete_other_tab">Закройте другие вкладки</string>
-    <string name="mini_mode">Мини режим</string>
+    <string name="mini_mode">Мини-режим</string>
     <string name="home_close">Нажмите на значок домашней страницы, чтобы закрыть все вкладки</string>
     <string name="reader_mode">Режим чтения</string>
     <string name="reader_empty">На этой странице нет содержимого тела.</string>
@@ -700,7 +700,7 @@
     <string name="theme_light">Светлая тема</string>
     <string name="theme_dark">Темная тема</string>
     <string name="theme_system">Системная тема</string>
-    <string name="background">Задний план</string>
+    <string name="background">Фон</string>
     <string name="search_suggest">Предложения поиска</string>
     <string name="at_bottom">Внизу</string>
     <string name="clean_data_info">Накопление устаревших данных может замедлить работу вашего браузера.\nРекомендуется периодически очищать данные.</string>
