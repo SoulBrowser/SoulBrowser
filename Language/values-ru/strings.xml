@@ -343,7 +343,7 @@
     <string name="block_a_image">Заблокировать изображение</string>
     <string name="blocked_image">Заблокированные изображения</string>
     <string name="block_confirm">Вы хотите его заблокировать?</string>
-    <string name="block_apply">Блокировать</string>
+    <string name="block_apply">Заблокировать</string>
     <string name="reset">Сброс</string>
     <string name="reset_confirm">Вы хотите сбросить свою работу?</string>
     <string name="check_network">Проверьте состояние сети.</string>
@@ -408,7 +408,7 @@
     <string name="cast_shortcut">Создать ярлык трасляции</string>
     <string name="cast_short_info">Создать ярлык трасляции на главном экране.</string>
     <string name="list_menu">Меню</string>
-    <string name="ads_white">Белый список Ad</string>
+    <string name="ads_white">Белый список объявлений</string>
     <string name="pop_white">Белый список всплывающих окон</string>
     <string name="pop_allow">Разрешить всплывающее окно</string>
     <string name="pop_confirm_1">Вы хотите разрешить всплывающие окна на текущей странице?</string>
@@ -789,12 +789,12 @@
     <string name="ads_type">Тип объявления</string>
     <string name="ads_persornal">Персонализированная реклама</string>
     <string name="ads_no_persornal">Неперсонализированная реклама</string>
-    <string name="ads_invalid">Недействительным</string>
-    <string name="ads_invalid_info">Проблема с настройками рекламы. Пожалуйста, установите его снова.</string>
+    <string name="ads_invalid">Недействительная</string>
+    <string name="ads_invalid_info">Проблема с настройками рекламы. Пожалуйста, установите их снова.</string>
     <string name="original_size">Оригинальный размер</string>
     <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
     <string name="site_app">Показать кнопку приложения сайта</string>
-    <string name="site_app_info">Он отображается только при наличии исполняемого приложения.</string>
+    <string name="site_app_info">Кнопка отображается только при установленном приложении для сайта.</string>
     <string name="finger_print">Отпечаток пальца</string>
     <string name="finger_unavailable">Пользователь не может пройти аутентификацию, потому что оборудование недоступно. Попробуйте позже.</string>
     <string name="finger_register">Пользователь не может пройти аутентификацию, потому что отпечаток пальца не зарегистрирован.</string>
