@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">下载</string>
+    <string name="fast_down">快速下载</string>
+    <string name="fast_down_guide">\'快速下载\' 使用更多资源</string>
     <string name="down_again">重新下载</string>
     <string name="down_page">保存页面</string>
     <string name="down_list">下载记录</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">用户无法进行身份验证，因为已通过一个或多个硬件传感器发现了安全漏洞</string>
     <string name="finger_unsupported">由于指定的选项与当前的Android版本不兼容，因此用户无法进行身份验证</string>
     <string name="finger_unknown">无法确定用户是否可以认证</string>
+    <string name="auto_detect">自动的</string>
 </resources>

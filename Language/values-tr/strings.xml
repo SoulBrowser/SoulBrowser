@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">İndir</string>
+    <string name="fast_down">Hızlı indirme</string>
+    <string name="fast_down_guide">\'Hızlı indirme\' daha fazla kaynak kullanır.</string>
     <string name="down_again">Tekrar indir</string>
     <string name="down_page">Sayfayı kaydet</string>
     <string name="down_list">İndirilenler</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">Bir veya daha fazla donanım algılayıcısı ile bir güvenlik açığı keşfedildiği için kullanıcı kimlik doğrulayamaz.</string>
     <string name="finger_unsupported">Belirtilen seçenekler mevcut Android sürümüyle uyumlu olmadığından kullanıcı kimlik doğrulaması yapamaz.</string>
     <string name="finger_unknown">Kullanıcının kimlik doğrulaması yapıp yapamayacağı belirlenemiyor.</string>
+    <string name="auto_detect">Otomatik</string>
 </resources>

@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Завантаження</string>
+    <string name="fast_down">Швидке завантаження</string>
+    <string name="fast_down_guide">\'Швидке завантаження\' використовує більше ресурсів.</string>
     <string name="down_again">Завантажте ще раз</string>
     <string name="down_page">Зберегти сторінку</string>
     <string name="down_list">Завантаження</string>
@@ -293,7 +295,7 @@
     <string name="color_size">Товщина</string>
     <string name="color_alpha">Прозорість</string>
     <string name="bottom_size">Розмір нижньої панелі</string>
-    <string name="add_icon">Кнопка "додати"</string>
+    <string name="add_icon">Кнопка додати</string>
     <string name="close_icon">Кнопка закриття</string>
     <string name="size_width">Ширина</string>
     <string name="size_height">Висота</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">Користувач не може пройти автентифікацію, оскільки виявлено вразливість системи безпеки за допомогою одного або декількох апаратних датчиків.</string>
     <string name="finger_unsupported">Користувач не може автентифікуватися, оскільки вказані параметри несумісні з поточною версією Android.</string>
     <string name="finger_unknown">Неможливо визначити, чи може користувач пройти автентифікацію.</string>
+    <string name="auto_detect">Автоматичний</string>
 </resources>

@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Herunterladen</string>
+    <string name="fast_down">Schneller herunterladen</string>
+    <string name="fast_down_guide">\'Schneller herunterladen\' verbraucht mehr Ressourcen.</string>
     <string name="down_again">Erneut herunterladen</string>
     <string name="down_page">Seite speichern</string>
     <string name="down_list">Herunterladen</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">Der Benutzer kann sich nicht authentifizieren, da mit einem oder mehreren Hardwaresensoren eine Sicherheitslücke entdeckt wurde.</string>
     <string name="finger_unsupported">Der Benutzer kann sich nicht authentifizieren, da die angegebenen Optionen nicht mit der aktuellen Android-Version kompatibel sind.</string>
     <string name="finger_unknown">Es kann nicht festgestellt werden, ob sich der Benutzer authentifizieren kann.</string>
+    <string name="auto_detect">Automatisch</string>
 </resources>

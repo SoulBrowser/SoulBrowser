@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Pobierz</string>
+    <string name="fast_down">Szybkie pobieranie</string>
+    <string name="fast_down_guide">\'Szybkie pobieranie\' zużywa więcej zasobów.</string>
     <string name="down_again">Pobierz ponownie</string>
     <string name="down_page">Zapisz stronę</string>
     <string name="down_list">Pobieranie</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">Użytkownik nie może się uwierzytelnić, ponieważ wykryto lukę w zabezpieczeniach co najmniej jednego czujnika sprzętowego.</string>
     <string name="finger_unsupported">Użytkownik nie może się uwierzytelnić, ponieważ określone opcje są niezgodne z bieżącą wersją Androida.</string>
     <string name="finger_unknown">Nie można określić, czy użytkownik może się uwierzytelnić.</string>
+    <string name="auto_detect">Automatyczny</string>
 </resources>

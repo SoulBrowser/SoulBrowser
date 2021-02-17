@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Download</string>
+    <string name="fast_down">Fast download</string>
+    <string name="fast_down_guide">\'Fast download\' uses more resources.</string>
     <string name="down_again">Download again</string>
     <string name="down_page">Save page</string>
     <string name="down_list">Downloads</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">The user can\'t authenticate because a security vulnerability has been discovered with one or more hardware sensors.</string>
     <string name="finger_unsupported">The user can\'t authenticate because the specified options are incompatible with the current Android version.</string>
     <string name="finger_unknown">Unable to determine whether the user can authenticate.</string>
+    <string name="auto_detect">Automatic</string>
 </resources>

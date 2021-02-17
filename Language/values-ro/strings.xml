@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Descărcare</string>
+    <string name="fast_down">Descărcare rapidă</string>
+    <string name="fast_down_guide">\'Descărcare rapidă\' folosește mai multe resurse.</string>
     <string name="down_again">Descărcați din nou</string>
     <string name="down_page">Salvare pagina</string>
     <string name="down_list">Descărcări</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">Utilizatorul nu se poate autentifica deoarece a fost descoperită o vulnerabilitate de securitate cu unul sau mai mulți senzori hardware.</string>
     <string name="finger_unsupported">Utilizatorul nu se poate autentifica deoarece opțiunile specificate sunt incompatibile cu versiunea curentă de Android.</string>
     <string name="finger_unknown">Nu se poate stabili dacă utilizatorul se poate autentifica.</string>
+    <string name="auto_detect">Automat</string>
 </resources>

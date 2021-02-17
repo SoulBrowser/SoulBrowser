@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Télécharger</string>
+    <string name="fast_down">Téléchargement rapide</string>
+    <string name="fast_down_guide">\'Téléchargement rapide\' utilise plus de ressources.</string>
     <string name="down_again">Téléchargez à nouveau</string>
     <string name="down_page">Sauvegarder page</string>
     <string name="down_list">Télécharger</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">L\'utilisateur ne peut pas s\'authentifier car une vulnérabilité de sécurité a été découverte avec un ou plusieurs capteurs matériels.</string>
     <string name="finger_unsupported">L\'utilisateur ne peut pas s\'authentifier car les options spécifiées sont incompatibles avec la version actuelle d\'Android.</string>
     <string name="finger_unknown">Impossible de déterminer si l\'utilisateur peut s\'authentifier.</string>
+    <string name="auto_detect">Automatique</string>
 </resources>

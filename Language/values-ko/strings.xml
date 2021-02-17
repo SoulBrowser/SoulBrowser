@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">다운로드</string>
+    <string name="fast_down">빠른 다운로드</string>
+    <string name="fast_down_guide">\'빠른 다운로드\'는 더 많은 자원을 사용합니다.</string>
     <string name="down_again">다시 다운로드</string>
     <string name="down_page">페이지 저장</string>
     <string name="down_list">다운로드</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">하나 이상의 하드웨어 센서에서 보안 취약점이 발견되었기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unsupported">지정된 옵션이 현재 Android 버전과 호환되지 않기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unknown">사용자가 인증할 수 있는지 여부를 확인할 수 없습니다.</string>
+    <string name="auto_detect">자동</string>
 </resources>

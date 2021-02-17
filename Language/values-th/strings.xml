@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">ดาวน์โหลด</string>
+    <string name="fast_down">ดาวน์โหลดอย่างรวดเร็ว</string>
+    <string name="fast_down_guide">\'ดาวน์โหลดอย่างรวดเร็ว\' ใช้ทรัพยากรมากขึ้น</string>
     <string name="down_again">ดาวน์โหลดอีกครั้ง</string>
     <string name="down_page">บันทึกหน้า</string>
     <string name="down_list">ดาวน์โหลด</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากมีการค้นพบช่องโหว่ด้านความปลอดภัยด้วยเซ็นเซอร์ฮาร์ดแวร์อย่างน้อยหนึ่งตัว</string>
     <string name="finger_unsupported">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากตัวเลือกที่ระบุไม่เข้ากันกับ Android เวอร์ชันปัจจุบัน</string>
     <string name="finger_unknown">ไม่สามารถระบุได้ว่าผู้ใช้สามารถตรวจสอบสิทธิ์ได้หรือไม่</string>
+    <string name="auto_detect">อัตโนมัติ</string>
 </resources>

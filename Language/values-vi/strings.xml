@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Tải xuống</string>
+    <string name="fast_down">Tải xuống nhanh</string>
+    <string name="fast_down_guide">\'Tải xuống nhanh\' sử dụng nhiều tài nguyên hơn.</string>
     <string name="down_again">Tải xuống lại</string>
     <string name="down_page">Lưu trang</string>
     <string name="down_list">Danh sách tải xuống</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">Người dùng không thể xác thực vì lỗ hổng bảo mật đã được phát hiện với một hoặc nhiều cảm biến phần cứng.</string>
     <string name="finger_unsupported">Người dùng không thể xác thực vì các tùy chọn được chỉ định không tương thích với phiên bản Android hiện tại.</string>
     <string name="finger_unknown">Không thể xác định xem người dùng có thể xác thực hay không.</string>
+    <string name="auto_detect">Tự động</string>
 </resources>

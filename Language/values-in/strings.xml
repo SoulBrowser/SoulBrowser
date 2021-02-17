@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Unduh</string>
+    <string name="fast_down">Unduhan cepat</string>
+    <string name="fast_down_guide">\'Unduhan cepat\' menggunakan lebih banyak sumber daya.</string>
     <string name="down_again">Unduh lagi</string>
     <string name="down_page">Simpan halaman</string>
     <string name="down_list">Unduhan</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">Pengguna tidak dapat mengautentikasi karena kerentanan keamanan telah ditemukan dengan satu atau beberapa sensor perangkat keras.</string>
     <string name="finger_unsupported">Pengguna tidak dapat mengautentikasi karena opsi yang ditentukan tidak kompatibel dengan versi Android saat ini.</string>
     <string name="finger_unknown">Tidak dapat menentukan apakah pengguna dapat mengautentikasi.</string>
+    <string name="auto_detect">Otomatis</string>
 </resources>

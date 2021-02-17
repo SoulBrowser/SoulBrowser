@@ -25,6 +25,8 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Скачать</string>
+    <string name="fast_down">Быстрая загрузка</string>
+    <string name="fast_down_guide">\'Быстрая загрузка\' требует больше ресурсов.</string>
     <string name="down_again">Загрузить снова</string>
     <string name="down_page">Сохранить страницу</string>
     <string name="down_list">Загрузки</string>
@@ -802,4 +804,5 @@
     <string name="finger_security">Пользователь не может пройти аутентификацию, поскольку в одном или нескольких аппаратных датчиках обнаружена уязвимость системы безопасности.</string>
     <string name="finger_unsupported">Пользователь не может пройти аутентификацию, поскольку указанные параметры несовместимы с текущей версией Android.</string>
     <string name="finger_unknown">Невозможно определить, может ли пользователь пройти аутентификацию.</string>
+    <string name="auto_detect">Автоматический</string>
 </resources>
