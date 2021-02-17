@@ -357,7 +357,7 @@
     <string name="pip_finish">Режим PIP був вимкнений.</string>
     <string name="pip_mode">Режим PIP</string>
     <string name="pip_guide">Обертання екрана може вийти з режиму PIP.\nРізні сайти мають різну поведінку.</string>
-    <string name="wait_retry">Завантаження&#8230;\nБудь-ласка спробуйте пізніше.</string>
+    <string name="wait_retry">Завантаження&#8230;\nБудь ласка спробуйте пізніше.</string>
     <string name="rate_app">Оцініть додаток</string>
     <string name="share_app">Порекомендуй другу</string>
     <string name="extract">Витяг</string>
@@ -454,7 +454,7 @@
     <string name="unlock">Розблокувати</string>
     <string name="lock_pin">PIN-код</string>
     <string name="lock_pattern">Графічний ключ</string>
-    <string name="input">Будь-ласка, введіть</string>
+    <string name="input">Будь ласка, введіть</string>
     <string name="reinput">Будь ласка, введіть ще раз</string>
     <string name="wrong_input">Неправильне введення</string>
     <string name="continue_input">Продовжуйте</string>
@@ -714,7 +714,7 @@
     <string name="donate_info">Будь ласка, підтримайте обслуговування додатка.</string>
     <string name="paid">Придбано</string>
     <string name="already_paid">Його вже придбали.</string>
-    <string name="pay_fail">Сталася помилка.\nБудь-ласка спробуйте пізніше.</string>
+    <string name="pay_fail">Сталася помилка.\nБудь ласка спробуйте пізніше.</string>
     <string name="dev_greeting">Привітання розробника</string>
     <string name="dev_cat_1">Виснажений Кіт</string>
     <string name="dev_cat_2">Я голодний\nМяу</string>
