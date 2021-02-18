@@ -193,7 +193,7 @@
     <string name="cookie_info">Информация, сохраненная во время просмотра веб-страниц (например, данные для входа)</string>
     <string name="no_rotate">Не переворачивать экран</string>
     <string name="screen_rotate_info">Экран всегда отображается вертикально.</string>
-    <string name="vol_scroll">Прокрутка веб страниц с помощью клавиш регулировки громкости</string>
+    <string name="vol_scroll">Прокрутка страницы с помощью клавиш регулировки громкости</string>
     <string name="double_back">Двойное нажатие для выхода из браузера</string>
     <string name="press_again">Нажмите еще раз, чтобы выйти.</string>
     <string name="last_noti">Уведомление о последней странице</string>
@@ -439,7 +439,7 @@
     <string name="history_1mon">1 месяц</string>
     <string name="history_6mon">6 месяцев</string>
     <string name="history_1year">1 год</string>
-    <string name="history_none">Неограничено</string>
+    <string name="history_none">Неограниченно</string>
     <string name="history_info_zero">Ваша история не будет сохранена.\nВсе ранее сохраненные записи будут удалены.</string>
     <string name="history_info_limit">Записи старше срока хранения автоматически удаляются.</string>
     <string name="history_info_none">Вся Ваша история сохранена.\nСлишком большое количество данных может снизить производительность браузера.</string>
@@ -686,7 +686,7 @@
     <string name="pull_down_info">Вы можете опустить элементы вверху страницы свайпом вниз.\nОблегчает использование одной рукой.</string>
     <string name="web_bring_down">Нижний браузер</string>
     <string name="active_function">Активируйте функцию.</string>
-    <string name="tab_loop">Цикл табуляции</string>
+    <string name="tab_loop">Зациклить вкладки</string>
     <string name="tab_loop_info">Переключение между первой и последней вкладками</string>
     <string name="swipe_sense">Чувствительность смахивания</string>
     <string name="only_text">Только текст</string>
@@ -766,9 +766,9 @@
     <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
     <string name="trend_search">Популярные запросы</string>
     <string name="fast">(быстрый)</string>
-    <string name="without_load">Вернуться без обновления</string>
+    <string name="without_load">Не обновлять вкладку при возвращении</string>
     <string name="without_load_info_1">Эта функция использует больше памяти.</string>
-    <string name="without_load_info_2">Если у вас открыто слишком много страниц, ваш браузер может работать медленно.</string>
+    <string name="without_load_info_2">Если у вас открыто слишком много вкладок, ваш браузер может работать медленно.</string>
     <string name="without_load_info_3">Память, используемая для композиции страницы, автоматически удаляется при закрытии приложения.</string>
     <string name="level_strong">Сильный</string>
     <string name="level_weak">Слабый</string>
