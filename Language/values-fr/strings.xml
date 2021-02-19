@@ -212,6 +212,7 @@
     <string name="modified">Dernière modification</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Domaine ou URL</string>
     <string name="add">Ajouter</string>
     <string name="home_page">Page accueil</string>
     <string name="last_page">Dernière page visitée</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">Liste blanche Ad</string>
     <string name="pop_white">Liste blanche popup</string>
     <string name="pop_allow">Autoriser le popup</string>
-    <string name="pop_confirm_1">Voulez vous autoriser les fenêtres contextuelles sur la page actuelle?</string>
+    <string name="pop_allow_site">Autoriser sur le site actuel</string>
+    <string name="pop_allow_page">Autoriser sur la page actuelle</string>
+    <string name="pop_confirm_1">Voulez-vous autoriser le popup?</string>
     <string name="pop_confirm_2">Vous pouvez être exposé à des publicités dangereuses.</string>
-    <string name="pop_allowed">Les fenêtres contextuelles étaient autorisées sur la page actuelle.</string>
+    <string name="pop_allowed">Les fenêtres contextuelles étaient autorisées.</string>
     <string name="image_list">Liste images</string>
     <string name="image_cast_guide_1">Visitez le site avec l\'image.</string>
     <string name="image_cast_guide_2">Sélectionnez \'Voir seulement les images\' ou \'Enregistrer toutes images\'.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">Ne pas autoriser</string>
     <string name="quick_access">Raccourci</string>
     <string name="add_folder">Ajouter un dossier</string>
-    <string name="add_current">Ajouter la page actuelle</string>
+    <string name="add_site">Ajouter le site actuel</string>
+    <string name="add_page">Ajouter la page actuelle</string>
     <string name="history_time">Période rétention</string>
     <string name="history_zero">Ne pas enregistrer</string>
     <string name="history_1week">1 semaine</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">L\'utilisateur ne peut pas s\'authentifier car les options spécifiées sont incompatibles avec la version actuelle d\'Android.</string>
     <string name="finger_unknown">Impossible de déterminer si l\'utilisateur peut s\'authentifier.</string>
     <string name="auto_detect">Automatique</string>
+    <string name="use_gesture">Usa i gesti</string>
+    <string name="enable_gesture">Gesti attivi</string>
+    <string name="disable_gesture">Gesti disattivati</string>
+    <string name="gesture_enabled">I gesti sono abilitati.</string>
+    <string name="gesture_disabled">I gesti sono disabilitati.</string>
+    <string name="gesture_black">Siti di eccezione di gesti</string>
+    <string name="gesture_black_info">Puoi registrare siti che non utilizzano gesti.</string>
+    <string name="enable_adblock">Bloqueur de publicités activé</string>
+    <string name="disable_adblock">Bloqueur de publicités désactivé</string>
+    <string name="adblock_enabled">Le bloqueur de publicités est activé.</string>
+    <string name="adblock_disabled">Le bloqueur de publicités est désactivé.</string>
 </resources>

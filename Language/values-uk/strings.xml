@@ -212,6 +212,7 @@
     <string name="modified">Остання зміна</string>
     <string name="url">URL-адреса</string>
     <string name="domain_name">Домен</string>
+    <string name="domain_url">Домен або URL-адреса</string>
     <string name="add">Додати</string>
     <string name="home_page">Домашня сторінка</string>
     <string name="last_page">Остання відвідана сторінка</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">Білий список реклами</string>
     <string name="pop_white">Білий список спливаючих вікон</string>
     <string name="pop_allow">Дозволити спливаюче вікно</string>
-    <string name="pop_confirm_1">Ви хочете дозволити спливаючі вікна на поточній сторінці?</string>
+    <string name="pop_allow_site">Дозволити на поточному сайті</string>
+    <string name="pop_allow_page">Дозволити на поточній сторінці</string>
+    <string name="pop_confirm_1">Ви хочете дозволити спливаюче вікно?</string>
     <string name="pop_confirm_2">Ви можете наштовхнутися на небезпечну рекламу.</string>
-    <string name="pop_allowed">Спливаючі вікна дозволені на поточній сторінці.</string>
+    <string name="pop_allowed">Спливаючі вікна дозволялися.</string>
     <string name="image_list">Список зображень</string>
     <string name="image_cast_guide_1">Завітайте на сайт із зображенням.</string>
     <string name="image_cast_guide_2">Виберіть \'Перегляд лише зображень\' або \'Зберегти всі зображення\'.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">Не дозволяти</string>
     <string name="quick_access">Ярлики</string>
     <string name="add_folder">Додати папку</string>
-    <string name="add_current">Додати поточну сторінку</string>
+    <string name="add_site">Додати поточний сайт</string>
+    <string name="add_page">Додати поточну сторінку</string>
     <string name="history_time">Термiн зберiгання</string>
     <string name="history_zero">Не зберігати</string>
     <string name="history_1week">1 тиждень</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">Користувач не може автентифікуватися, оскільки вказані параметри несумісні з поточною версією Android.</string>
     <string name="finger_unknown">Неможливо визначити, чи може користувач пройти автентифікацію.</string>
     <string name="auto_detect">Автоматичний</string>
+    <string name="use_gesture">Використовуйте жести</string>
+    <string name="enable_gesture">Жести на</string>
+    <string name="disable_gesture">Жести вимкнено</string>
+    <string name="gesture_enabled">Жести ввімкнено.</string>
+    <string name="gesture_disabled">Жести відключені.</string>
+    <string name="gesture_black">Сайти винятків жестів</string>
+    <string name="gesture_black_info">Ви можете зареєструвати сайти, які не використовують жести.</string>
+    <string name="enable_adblock">Блокування реклами увімкнено</string>
+    <string name="disable_adblock">Блокування реклами вимкнено</string>
+    <string name="adblock_enabled">Блокування реклами ввімкнено.</string>
+    <string name="adblock_disabled">Блокування реклами вимкнено.</string>
 </resources>

@@ -212,6 +212,7 @@
     <string name="modified">Zuletzt bearbeitet</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Domain oder URL</string>
     <string name="add">Hinzufügen</string>
     <string name="home_page">Startbildschirm</string>
     <string name="last_page">Zuletzt besuchte Seite</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">Whitelist für Werbung</string>
     <string name="pop_white">Popup whitelist</string>
     <string name="pop_allow">Popup zulassen</string>
-    <string name="pop_confirm_1">Möchten Sie Popups auf der aktuellen Seite zulassen?</string>
+    <string name="pop_allow_site">Auf aktueller Domain zulassen</string>
+    <string name="pop_allow_page">Auf aktueller Seite zulassen</string>
+    <string name="pop_confirm_1">Möchten Sie Popup zulassen?</string>
     <string name="pop_confirm_2">Sie sind möglicherweise gefährlicher Werbung ausgesetzt.</string>
-    <string name="pop_allowed">Popups waren auf der aktuellen Seite erlaubt.</string>
+    <string name="pop_allowed">Popups waren erlaubt.</string>
     <string name="image_list">Bildliste</string>
     <string name="image_cast_guide_1">Besuchen Sie die Website des Bildes.</string>
     <string name="image_cast_guide_2">Wähle \'Nur Bilder anzeigen\' oder \'Alle Bilder speichern\'.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">Nicht erlaubt</string>
     <string name="quick_access">Verknüpfung</string>
     <string name="add_folder">Ordner hinzufügen</string>
-    <string name="add_current">Aktuelle Seite hinzufügen</string>
+    <string name="add_site">Aktuelle Domain hinzufügen</string>
+    <string name="add_page">Aktuelle Seite hinzufügen</string>
     <string name="history_time">Aufbewahrungsfrist</string>
     <string name="history_zero">Nicht speichern</string>
     <string name="history_1week">1 Woche</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">Der Benutzer kann sich nicht authentifizieren, da die angegebenen Optionen nicht mit der aktuellen Android-Version kompatibel sind.</string>
     <string name="finger_unknown">Es kann nicht festgestellt werden, ob sich der Benutzer authentifizieren kann.</string>
     <string name="auto_detect">Automatisch</string>
+    <string name="use_gesture">Verwenden Sie Gesten</string>
+    <string name="enable_gesture">Gesten weiter</string>
+    <string name="disable_gesture">Gesten aus</string>
+    <string name="gesture_enabled">Gesten sind aktiviert.</string>
+    <string name="gesture_disabled">Gesten sind deaktiviert.</string>
+    <string name="gesture_black">Gesten Ausnahmeseiten</string>
+    <string name="gesture_black_info">Sie können Websites registrieren, die keine Gesten verwenden.</string>
+    <string name="enable_adblock">Werbeblocker aktiviert</string>
+    <string name="disable_adblock">Werbeblocker aus</string>
+    <string name="adblock_enabled">Der Anzeigenblocker ist aktiviert.</string>
+    <string name="adblock_disabled">Der Werbeblocker ist deaktiviert.</string>
 </resources>

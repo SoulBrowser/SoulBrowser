@@ -212,6 +212,7 @@
     <string name="modified">Последнее изменение</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Домен или URL</string>
     <string name="add">Добавить</string>
     <string name="home_page">Домашняя страница</string>
     <string name="last_page">Последняя посещенная страница</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">Белый список объявлений</string>
     <string name="pop_white">Белый список всплывающих окон</string>
     <string name="pop_allow">Разрешить всплывающее окно</string>
-    <string name="pop_confirm_1">Вы хотите разрешить всплывающие окна на текущей странице?</string>
+    <string name="pop_allow_site">Разрешить на текущем сайте</string>
+    <string name="pop_allow_page">Разрешить на текущей странице</string>
+    <string name="pop_confirm_1">Вы хотите разрешить всплывающее окно?</string>
     <string name="pop_confirm_2">Вы можете столкнуться с опасной рекламой.</string>
-    <string name="pop_allowed">На текущей странице разрешены всплывающие окна.</string>
+    <string name="pop_allowed">Всплывающие окна были разрешены.</string>
     <string name="image_list">Список изображений</string>
     <string name="image_cast_guide_1">Посетите сайт с изображением.</string>
     <string name="image_cast_guide_2">Выберите \'Просмотр только изображений\' или \'Сохранить все изображения\'.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">Не разрешать</string>
     <string name="quick_access">Ярлыки</string>
     <string name="add_folder">Добавить папку</string>
-    <string name="add_current">Добавить текущую страницу</string>
+    <string name="add_site">Добавить текущий сайт</string>
+    <string name="add_page">Добавить текущую страницу</string>
     <string name="history_time">Срок хранения</string>
     <string name="history_zero">Не сохранять</string>
     <string name="history_1week">1 неделя</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">Пользователь не может пройти аутентификацию, поскольку указанные параметры несовместимы с текущей версией Android.</string>
     <string name="finger_unknown">Невозможно определить, может ли пользователь пройти аутентификацию.</string>
     <string name="auto_detect">Автоматический</string>
+    <string name="use_gesture">Используйте жесты</string>
+    <string name="enable_gesture">Жесты на</string>
+    <string name="disable_gesture">Жесты выключены</string>
+    <string name="gesture_enabled">Жесты включены.</string>
+    <string name="gesture_disabled">Жесты отключены.</string>
+    <string name="gesture_black">Сайты исключения жестов</string>
+    <string name="gesture_black_info">Вы можете зарегистрировать сайты, не использующие жесты.</string>
+    <string name="enable_adblock">Блокировщик рекламы включен</string>
+    <string name="disable_adblock">Блокировка рекламы отключена</string>
+    <string name="adblock_enabled">Блокировщик рекламы включен.</string>
+    <string name="adblock_disabled">Блокировщик рекламы отключен.</string>
 </resources>

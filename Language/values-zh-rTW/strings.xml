@@ -212,6 +212,7 @@
     <string name="modified">水晶</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Domain 或 URL</string>
     <string name="add">新增</string>
     <string name="home_page">網站</string>
     <string name="last_page">上次訪問的頁面</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">廣告白名單</string>
     <string name="pop_white">彈出白名單</string>
     <string name="pop_allow">允許彈出</string>
-    <string name="pop_confirm_1">您要在當前頁面上允許彈出窗口嗎？</string>
+    <string name="pop_allow_site">允許在當前站點上</string>
+    <string name="pop_allow_page">在當前頁面上允許</string>
+    <string name="pop_confirm_1">您要允許彈出窗口嗎？</string>
     <string name="pop_confirm_2">您可能會接觸到危險的廣告</string>
-    <string name="pop_allowed">在當前頁面上允許彈出窗口</string>
+    <string name="pop_allowed">允許彈出窗口</string>
     <string name="image_list">圖片清單</string>
     <string name="image_cast_guide_1">訪問帶有圖片的網站</string>
     <string name="image_cast_guide_2">選擇\'僅查看圖片\'或\'保存所有圖片\'</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">不允許</string>
     <string name="quick_access">快捷方式</string>
     <string name="add_folder">新增資料夾</string>
-    <string name="add_current">新增當前頁面</string>
+    <string name="add_site">添加當前站點</string>
+    <string name="add_page">添加當前頁面</string>
     <string name="history_time">保留期</string>
     <string name="history_zero">不保存</string>
     <string name="history_1week">1個星期</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">由於指定的選項與當前的Android版本不兼容，因此用戶無法進行身份驗證</string>
     <string name="finger_unknown">無法確定用戶是否可以認證</string>
     <string name="auto_detect">自動的</string>
+    <string name="use_gesture">使用手勢</string>
+    <string name="enable_gesture">手勢</string>
+    <string name="disable_gesture">手勢關閉</string>
+    <string name="gesture_enabled">手勢已啟用</string>
+    <string name="gesture_disabled">手勢已禁用</string>
+    <string name="gesture_black">手勢異常網站</string>
+    <string name="gesture_black_info">您可以註冊不使用手勢的網站</string>
+    <string name="enable_adblock">啟用廣告攔截器</string>
+    <string name="disable_adblock">廣告攔截器已關閉</string>
+    <string name="adblock_enabled">廣告攔截器已啟用</string>
+    <string name="adblock_disabled">廣告攔截器已禁用</string>
 </resources>

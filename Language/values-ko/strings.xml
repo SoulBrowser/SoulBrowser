@@ -212,6 +212,7 @@
     <string name="modified">수정</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Domain 또는 URL</string>
     <string name="add">추가</string>
     <string name="home_page">홈페이지</string>
     <string name="last_page">마지막으로 방문한 페이지</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">광고 허용 목록</string>
     <string name="pop_white">팝업 허용 목록</string>
     <string name="pop_allow">팝업 허용</string>
-    <string name="pop_confirm_1">현재 페이지에서 팝업을 허용 하시겠습니까?</string>
+    <string name="pop_allow_site">현재 사이트에서 허용</string>
+    <string name="pop_allow_page">현재 페이지에서 허용</string>
+    <string name="pop_confirm_1">팝업을 허용 하시겠습니까?</string>
     <string name="pop_confirm_2">위험한 광고에 노출 될 수 있습니다.</string>
-    <string name="pop_allowed">현재 페이지에서 팝업이 허용되었습니다.</string>
+    <string name="pop_allowed">팝업이 허용되었습니다.</string>
     <string name="image_list">이미지 목록</string>
     <string name="image_cast_guide_1">이미지가 있는 사이트를 방문합니다.</string>
     <string name="image_cast_guide_2">\'이미지만 보기\'나 \'이미지 모두 저장\'을 선택합니다.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">허용 안함</string>
     <string name="quick_access">바로가기</string>
     <string name="add_folder">폴더 추가</string>
-    <string name="add_current">현재 페이지 추가</string>
+    <string name="add_site">현재 사이트 추가</string>
+    <string name="add_page">현재 페이지 추가</string>
     <string name="history_time">저장 기간</string>
     <string name="history_zero">저장 안함</string>
     <string name="history_1week">1주일</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">지정된 옵션이 현재 Android 버전과 호환되지 않기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unknown">사용자가 인증할 수 있는지 여부를 확인할 수 없습니다.</string>
     <string name="auto_detect">자동</string>
+    <string name="use_gesture">제스처 사용</string>
+    <string name="enable_gesture">제스처 켜기</string>
+    <string name="disable_gesture">제스처 끄기</string>
+    <string name="gesture_enabled">제스처가 활성화되었습니다.</string>
+    <string name="gesture_disabled">제스처가 비활성화되었습니다.</string>
+    <string name="gesture_black">제스처 예외 사이트</string>
+    <string name="gesture_black_info">제스처를 사용하지 않는 사이트를 등록할 수 있습니다.</string>
+    <string name="enable_adblock">광고 차단 켜기</string>
+    <string name="disable_adblock">광고 차단 끄기</string>
+    <string name="adblock_enabled">광고 차단이 활성화되었습니다.</string>
+    <string name="adblock_disabled">광고 차단이 비활성화되었습니다.</string>
 </resources>

@@ -212,6 +212,7 @@
     <string name="modified">Terakhir dimodifikasi</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Domain atau URL</string>
     <string name="add">Tambah</string>
     <string name="home_page">Halaman rumah</string>
     <string name="last_page">Halaman yang terakhir dikunjungi</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">Daftar putih Ad</string>
     <string name="pop_white">Daftar putih popup</string>
     <string name="pop_allow">Izinkan munculan</string>
-    <string name="pop_confirm_1">Apakah Anda ingin mengizinkan popup di halaman ini?</string>
+    <string name="pop_allow_site">Izinkan di situs saat ini</string>
+    <string name="pop_allow_page">Izinkan di halaman saat ini</string>
+    <string name="pop_confirm_1">Apakah Anda ingin mengizinkan popup?</string>
     <string name="pop_confirm_2">Anda mungkin terpapar iklan berbahaya.</string>
-    <string name="pop_allowed">Popup diizinkan di halaman ini.</string>
+    <string name="pop_allowed">Popup diizinkan.</string>
     <string name="image_list">Daftar gambar</string>
     <string name="image_cast_guide_1">Kunjungi situs dengan gambar.</string>
     <string name="image_cast_guide_2">Pilih \'Lihat hanya gambar\' atau \'Simpan semua gambar\'.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">Jangan izinkan</string>
     <string name="quick_access">Pintas</string>
     <string name="add_folder">Tambahkan folder</string>
-    <string name="add_current">Tambahkan halaman saat ini</string>
+    <string name="add_site">Tambahkan situs saat ini</string>
+    <string name="add_page">Tambahkan halaman saat ini</string>
     <string name="history_time">Masa retensi</string>
     <string name="history_zero">Jangan simpan</string>
     <string name="history_1week">1 minggu</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">Pengguna tidak dapat mengautentikasi karena opsi yang ditentukan tidak kompatibel dengan versi Android saat ini.</string>
     <string name="finger_unknown">Tidak dapat menentukan apakah pengguna dapat mengautentikasi.</string>
     <string name="auto_detect">Otomatis</string>
+    <string name="use_gesture">Gunakan gerakan</string>
+    <string name="enable_gesture">Gestur aktif</string>
+    <string name="disable_gesture">Gestur mati</string>
+    <string name="gesture_enabled">Gestur diaktifkan.</string>
+    <string name="gesture_disabled">Gestur dinonaktifkan.</string>
+    <string name="gesture_black">Situs pengecualian gerakan</string>
+    <string name="gesture_black_info">Anda dapat mendaftarkan situs yang tidak menggunakan isyarat.</string>
+    <string name="enable_adblock">Pemblokir iklan aktif</string>
+    <string name="disable_adblock">Pemblokir iklan tidak aktif</string>
+    <string name="adblock_enabled">Pemblokir iklan diaktifkan.</string>
+    <string name="adblock_disabled">Pemblokir iklan dinonaktifkan.</string>
 </resources>

@@ -212,6 +212,7 @@
     <string name="modified">Son değiştirilen</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Alan veya URL</string>
     <string name="add">Ekle</string>
     <string name="home_page">Ana sayfa</string>
     <string name="last_page">Son ziyaret edilen sayfa</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">Ad beyaz listesi</string>
     <string name="pop_white">Popup beyaz listesi</string>
     <string name="pop_allow">Popup izin ver</string>
-    <string name="pop_confirm_1">Mevcut sayfada popup\'lara izin vermek istiyor musunuz?</string>
+    <string name="pop_allow_site">Mevcut sitede izin ver</string>
+    <string name="pop_allow_page">Mevcut sayfada izin ver</string>
+    <string name="pop_confirm_1">Popup\'a izin vermek istiyor musunuz?</string>
     <string name="pop_confirm_2">Tehlikeli reklamlara maruz kalabilirsiniz.</string>
-    <string name="pop_allowed">Mevcut sayfada popup\'lara izin verildi.</string>
+    <string name="pop_allowed">Popup\'lara izin verildi.</string>
     <string name="image_list">Görüntü listesi</string>
     <string name="image_cast_guide_1">Resmi içeren siteyi ziyaret edin.</string>
     <string name="image_cast_guide_2">\'Sadece görüntüleri göster\' veya \'Tüm resimleri kaydet\' i seçin.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">İzin verme</string>
     <string name="quick_access">Kısayollar</string>
     <string name="add_folder">Klasör ekle</string>
-    <string name="add_current">Geçerli sayfa ekle</string>
+    <string name="add_site">Mevcut siteyi ekle</string>
+    <string name="add_page">Geçerli sayfa ekle</string>
     <string name="history_time">Saklama süresi</string>
     <string name="history_zero">Kaydetme</string>
     <string name="history_1week">1 hafta</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">Belirtilen seçenekler mevcut Android sürümüyle uyumlu olmadığından kullanıcı kimlik doğrulaması yapamaz.</string>
     <string name="finger_unknown">Kullanıcının kimlik doğrulaması yapıp yapamayacağı belirlenemiyor.</string>
     <string name="auto_detect">Otomatik</string>
+    <string name="use_gesture">Hareketleri kullanın</string>
+    <string name="enable_gesture">Hareketler açık</string>
+    <string name="disable_gesture">Hareketler kapalı</string>
+    <string name="gesture_enabled">Hareketler etkinleştirildi.</string>
+    <string name="gesture_disabled">Hareketler devre dışı bırakıldı.</string>
+    <string name="gesture_black">Hareket istisna siteleri</string>
+    <string name="gesture_black_info">Hareketleri kullanmayan siteleri kaydedebilirsiniz.</string>
+    <string name="enable_adblock">Reklam engelleyici açık</string>
+    <string name="disable_adblock">Reklam engelleyici kapalı</string>
+    <string name="adblock_enabled">Reklam engelleyici etkinleştirildi.</string>
+    <string name="adblock_disabled">Reklam engelleyici devre dışı bırakıldı.</string>
 </resources>

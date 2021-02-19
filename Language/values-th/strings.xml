@@ -212,6 +212,7 @@
     <string name="modified">แก้ไขล่าสุด</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">โดเมนหรือ URL</string>
     <string name="add">เพิ่ม</string>
     <string name="home_page">หน้าแรก</string>
     <string name="last_page">หน้าที่เยี่ยมชมล่าสุด</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">รายการที่อนุญาต</string>
     <string name="pop_white">รายการที่อนุญาตของป๊อปอัป</string>
     <string name="pop_allow">อนุญาตป๊อปอัป</string>
-    <string name="pop_confirm_1">คุณต้องการอนุญาตป๊อปอัปในหน้าปัจจุบันหรือไม่?</string>
+    <string name="pop_allow_site">อนุญาตในไซต์ปัจจุบัน</string>
+    <string name="pop_allow_page">อนุญาตในหน้าปัจจุบัน</string>
+    <string name="pop_confirm_1">คุณต้องการอนุญาตป๊อปอัปหรือไม่</string>
     <string name="pop_confirm_2">คุณอาจได้รับอันตรายจากโฆษณา</string>
-    <string name="pop_allowed">อนุญาตให้ใช้ป๊อปอัปในหน้าปัจจุบัน</string>
+    <string name="pop_allowed">อนุญาตป๊อปอัป</string>
     <string name="image_list">รายการรูปภาพ</string>
     <string name="image_cast_guide_1">เยี่ยมชมเว็บไซต์ด้วยภาพ</string>
     <string name="image_cast_guide_2">เลือก \'ดูภาพเท่านั้น\' หรือ \'บันทึกภาพทั้งหมด\'</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">ไม่อนุญาต</string>
     <string name="quick_access">ทางลัด</string>
     <string name="add_folder">เพิ่มโฟลเดอร์</string>
-    <string name="add_current">เพิ่มหน้าปัจจุบัน</string>
+    <string name="add_site">เพิ่มไซต์ปัจจุบัน</string>
+    <string name="add_page">เพิ่มหน้าปัจจุบัน</string>
     <string name="history_time">ระยะเวลาการเก็บรักษา</string>
     <string name="history_zero">อย่าบันทึก</string>
     <string name="history_1week">1 สัปดาห์</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากตัวเลือกที่ระบุไม่เข้ากันกับ Android เวอร์ชันปัจจุบัน</string>
     <string name="finger_unknown">ไม่สามารถระบุได้ว่าผู้ใช้สามารถตรวจสอบสิทธิ์ได้หรือไม่</string>
     <string name="auto_detect">อัตโนมัติ</string>
+    <string name="use_gesture">ใช้ท่าทาง</string>
+    <string name="enable_gesture">ท่าทางสัมผัส</string>
+    <string name="disable_gesture">ท่าทางสัมผัสปิด</string>
+    <string name="gesture_enabled">เปิดใช้ท่าทางสัมผัสแล้ว</string>
+    <string name="gesture_disabled">ท่าทางสัมผัสถูกปิดใช้งาน</string>
+    <string name="gesture_black">ท่าทางยกเว้นไซต์</string>
+    <string name="gesture_black_info">คุณสามารถลงทะเบียนไซต์ที่ไม่ใช้ท่าทางสัมผัส</string>
+    <string name="enable_adblock">เปิดตัวบล็อกโฆษณา</string>
+    <string name="disable_adblock">ปิดตัวบล็อกโฆษณา</string>
+    <string name="adblock_enabled">เปิดใช้งาน Ad blocker</string>
+    <string name="adblock_disabled">ปิดใช้ตัวบล็อกโฆษณา</string>
 </resources>

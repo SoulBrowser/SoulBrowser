@@ -212,6 +212,7 @@
     <string name="modified">Last modified</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Domain or URL</string>
     <string name="add">Add</string>
     <string name="home_page">Home page</string>
     <string name="last_page">Last visited page</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">Ad whitelist</string>
     <string name="pop_white">Popup whitelist</string>
     <string name="pop_allow">Allow popup</string>
-    <string name="pop_confirm_1">Do you want to allow popups on the current page?</string>
+    <string name="pop_allow_site">Allow on current site</string>
+    <string name="pop_allow_page">Allow on current page</string>
+    <string name="pop_confirm_1">Do you want to allow popup?</string>
     <string name="pop_confirm_2">You may be exposed to dangerous advertisements.</string>
-    <string name="pop_allowed">Popups were allowed on the current page.</string>
+    <string name="pop_allowed">Popups were allowed.</string>
     <string name="image_list">Image list</string>
     <string name="image_cast_guide_1">Visit the site with the image.</string>
     <string name="image_cast_guide_2">Select \'View only images\' or \'Save all images\'.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">Do not allow</string>
     <string name="quick_access">Shortcuts</string>
     <string name="add_folder">Add folder</string>
-    <string name="add_current">Add current page</string>
+    <string name="add_site">Add current site</string>
+    <string name="add_page">Add current page</string>
     <string name="history_time">Retention period</string>
     <string name="history_zero">Do not save</string>
     <string name="history_1week">1 week</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">The user can\'t authenticate because the specified options are incompatible with the current Android version.</string>
     <string name="finger_unknown">Unable to determine whether the user can authenticate.</string>
     <string name="auto_detect">Automatic</string>
+    <string name="use_gesture">Use gestures</string>
+    <string name="enable_gesture">Gestures on</string>
+    <string name="disable_gesture">Gestures off</string>
+    <string name="gesture_enabled">Gestures are enabled.</string>
+    <string name="gesture_disabled">Gestures are disabled.</string>
+    <string name="gesture_black">Gestures exception sites</string>
+    <string name="gesture_black_info">You can register sites that do not use gestures.</string>
+    <string name="enable_adblock">Ad blocker on</string>
+    <string name="disable_adblock">Ad blocker off</string>
+    <string name="adblock_enabled">Ad blocker is enabled.</string>
+    <string name="adblock_disabled">Ad blocker is disabled.</string>
 </resources>

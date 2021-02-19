@@ -212,6 +212,7 @@
     <string name="modified">修正</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">DomainまたはURL</string>
     <string name="add">追加</string>
     <string name="home_page">ホームページ</string>
     <string name="last_page">最後に訪問したページ</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">広告許可リスト</string>
     <string name="pop_white">Popup許可リスト</string>
     <string name="pop_allow">ポップアップを許可</string>
-    <string name="pop_confirm_1">現在のページでポップアップを許可しますか？</string>
+    <string name="pop_allow_site">現在のサイトで許可する</string>
+    <string name="pop_allow_page">現在のページで許可</string>
+    <string name="pop_confirm_1">ポップアップを許可しますか？</string>
     <string name="pop_confirm_2">危険な広告にさらされることがあります。</string>
-    <string name="pop_allowed">現在のページのポップアップが許可されました。</string>
+    <string name="pop_allowed">ポップアップが許可されました。</string>
     <string name="image_list">画像リスト</string>
     <string name="image_cast_guide_1">画像があるサイトをご覧ください。</string>
     <string name="image_cast_guide_2">\'画像のみを表示\'や\'すべての画像を保存\'を選択します</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">許可しない</string>
     <string name="quick_access">ショートカット</string>
     <string name="add_folder">フォルダの追加</string>
-    <string name="add_current">現在のページを追加</string>
+    <string name="add_site">現在のサイトを追加</string>
+    <string name="add_page">現在のページを追加</string>
     <string name="history_time">保存期間</string>
     <string name="history_zero">保存しない</string>
     <string name="history_1week">1週間</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">指定されたオプションが現在のAndroidバージョンと互換性がないため、ユーザーは認証できません。</string>
     <string name="finger_unknown">ユーザーが認証できるかどうかを判断できません。</string>
     <string name="auto_detect">自動</string>
+    <string name="use_gesture">ジェスチャーを使用する</string>
+    <string name="enable_gesture">上のジェスチャー</string>
+    <string name="disable_gesture">ジェスチャーオフ</string>
+    <string name="gesture_enabled">ジェスチャーが有効になります。</string>
+    <string name="gesture_disabled">ジェスチャーは無効になっています。</string>
+    <string name="gesture_black">ジェスチャー例外サイト</string>
+    <string name="gesture_black_info">ジェスチャーを使用しないサイトを登録できます。</string>
+    <string name="enable_adblock">上の広告ブロッカー</string>
+    <string name="disable_adblock">広告ブロッカーオフ</string>
+    <string name="adblock_enabled">広告ブロッカーが有効になっています。</string>
+    <string name="adblock_disabled">広告ブロッカーが無効になっています。</string>
 </resources>

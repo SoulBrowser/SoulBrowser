@@ -211,7 +211,8 @@
     <string name="quality">质量</string>
     <string name="modified">时间</string>
     <string name="url">网址</string>
-    <string name="domain_name">网址</string>
+    <string name="domain_name">Domain</string>
+    <string name="domain_url">Domain 或网址</string>
     <string name="add">新建</string>
     <string name="home_page">网站</string>
     <string name="last_page">上次访问的页面</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">广告白名单</string>
     <string name="pop_white">弹窗白名单</string>
     <string name="pop_allow">允许弹窗</string>
-    <string name="pop_confirm_1">是否要允许当前页面上的弹窗？</string>
+    <string name="pop_allow_site">允许在当前站点上</string>
+    <string name="pop_allow_page">在当前页面上允许</string>
+    <string name="pop_confirm_1">您要允许弹出窗口吗？</string>
     <string name="pop_confirm_2">你可能会接触到危险的广告</string>
-    <string name="pop_allowed">在当前页面上允许弹窗</string>
+    <string name="pop_allowed">允许弹出窗口</string>
     <string name="image_list">图片列表</string>
     <string name="image_cast_guide_1">访问带有图片的网站</string>
     <string name="image_cast_guide_2">选择\'仅查看图像\'或\'保存所有图像\'</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">不允许</string>
     <string name="quick_access">捷径</string>
     <string name="add_folder">新建文件夹</string>
-    <string name="add_current">添加当前页面</string>
+    <string name="add_site">添加当前站点</string>
+    <string name="add_page">添加当前页面</string>
     <string name="history_time">保留时限</string>
     <string name="history_zero">不保存</string>
     <string name="history_1week">1个星期</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">由于指定的选项与当前的Android版本不兼容，因此用户无法进行身份验证</string>
     <string name="finger_unknown">无法确定用户是否可以认证</string>
     <string name="auto_detect">自动的</string>
+    <string name="use_gesture">使用手势</string>
+    <string name="enable_gesture">手势</string>
+    <string name="disable_gesture">手势关闭</string>
+    <string name="gesture_enabled">手势已启用</string>
+    <string name="gesture_disabled">手势已禁用</string>
+    <string name="gesture_black">手势异常网站</string>
+    <string name="gesture_black_info">您可以注册不使用手势的网站</string>
+    <string name="enable_adblock">启用广告拦截器</string>
+    <string name="disable_adblock">广告拦截器已关闭</string>
+    <string name="adblock_enabled">广告拦截器已启用</string>
+    <string name="adblock_disabled">广告拦截器已禁用</string>
 </resources>

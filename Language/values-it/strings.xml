@@ -212,6 +212,7 @@
     <string name="modified">Ultima modifica</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Dominio o URL</string>
     <string name="add">Inserisci</string>
     <string name="home_page">Pagina home</string>
     <string name="last_page">Ultima pagina visitata</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">Lista bianca Ad</string>
     <string name="pop_white">Lista bianca popup</string>
     <string name="pop_allow">Consenti popup</string>
-    <string name="pop_confirm_1">Vuoi consentire i popup nella pagina corrente?</string>
+    <string name="pop_allow_site">Consenti sul sito corrente</string>
+    <string name="pop_allow_page">Consenti nella pagina corrente</string>
+    <string name="pop_confirm_1">Vuoi consentire il popup?</string>
     <string name="pop_confirm_2">Potresti essere esposto a pubblicità pericolose.</string>
-    <string name="pop_allowed">I popup erano consentiti nella pagina corrente.</string>
+    <string name="pop_allowed">I popup erano consentiti.</string>
     <string name="image_list">Elenco immagini</string>
     <string name="image_cast_guide_1">Visita il sito con l\'immagine.</string>
     <string name="image_cast_guide_2">Seleziona \'Visualizza solo immagini\' o \'Salva tutte immagini\'.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">Non permettere</string>
     <string name="quick_access">Scorciatoie</string>
     <string name="add_folder">Aggiungi cartella</string>
-    <string name="add_current">Aggiungi la pagina corrente</string>
+    <string name="add_site">Aggiungi il sito corrente</string>
+    <string name="add_page">Aggiungi la pagina corrente</string>
     <string name="history_time">Periodo conservazione</string>
     <string name="history_zero">Non salvare</string>
     <string name="history_1week">1 settimana</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">L\'utente non può autenticarsi perché le opzioni specificate non sono compatibili con la versione corrente di Android.</string>
     <string name="finger_unknown">Impossibile determinare se l\'utente può autenticarsi.</string>
     <string name="auto_detect">Automatico</string>
+    <string name="use_gesture">Usa i gesti</string>
+    <string name="enable_gesture">Gesti attivi</string>
+    <string name="disable_gesture">Gesti disattivati</string>
+    <string name="gesture_enabled">I gesti sono abilitati.</string>
+    <string name="gesture_disabled">I gesti sono disabilitati.</string>
+    <string name="gesture_black">Siti di eccezione di gesti</string>
+    <string name="gesture_black_info">Puoi registrare siti che non utilizzano gesti.</string>
+    <string name="enable_adblock">Blocco annunci attivo</string>
+    <string name="disable_adblock">Blocco annunci disattivato</string>
+    <string name="adblock_enabled">Il blocco degli annunci è attivato.</string>
+    <string name="adblock_disabled">Il blocco degli annunci è disattivato.</string>
 </resources>

@@ -212,6 +212,7 @@
     <string name="modified">Sửa đổi lần cuối</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Tên miền hoặc URL</string>
     <string name="add">Thêm vào</string>
     <string name="home_page">Trang chủ</string>
     <string name="last_page">Trang truy cập lần cuối</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">Danh sách trắng Ad</string>
     <string name="pop_white">Danh sách trắng popup</string>
     <string name="pop_allow">Cho phép bật lên</string>
-    <string name="pop_confirm_1">Bạn có muốn cho phép cửa sổ bật lên trên trang hiện tại không?</string>
+    <string name="pop_allow_site">Cho phép trên trang web hiện tại</string>
+    <string name="pop_allow_page">Cho phép trên trang hiện tại</string>
+    <string name="pop_confirm_1">Bạn có muốn cho phép cửa sổ bật lên không?</string>
     <string name="pop_confirm_2">Bạn có thể tiếp xúc với các quảng cáo nguy hiểm.</string>
-    <string name="pop_allowed">Cửa sổ bật lên đã được phép trên trang hiện tại.</string>
+    <string name="pop_allowed">Cửa sổ bật lên đã được phép.</string>
     <string name="image_list">Danh sách hình ảnh</string>
     <string name="image_cast_guide_1">Ghé thăm trang web với hình ảnh.</string>
     <string name="image_cast_guide_2">Chọn \'Chỉ xem hình ảnh\' hoặc \'Lưu tất cả hình ảnh\'.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">Không cho phép</string>
     <string name="quick_access">Phím tắt</string>
     <string name="add_folder">Thêm thư mục</string>
-    <string name="add_current">Thêm trang hiện tại</string>
+    <string name="add_site">Thêm trang web hiện tại</string>
+    <string name="add_page">Thêm trang hiện tại</string>
     <string name="history_time">Thời gian lưu giữ</string>
     <string name="history_zero">Đừng tiết kiệm</string>
     <string name="history_1week">1 tuần</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">Người dùng không thể xác thực vì các tùy chọn được chỉ định không tương thích với phiên bản Android hiện tại.</string>
     <string name="finger_unknown">Không thể xác định xem người dùng có thể xác thực hay không.</string>
     <string name="auto_detect">Tự động</string>
+    <string name="use_gesture">Sử dụng cử chỉ</string>
+    <string name="enable_gesture">Cử chỉ trên</string>
+    <string name="disable_gesture">Cử chỉ tắt</string>
+    <string name="gesture_enabled">Cử chỉ được kích hoạt.</string>
+    <string name="gesture_disabled">Cử chỉ bị vô hiệu hóa.</string>
+    <string name="gesture_black">Các trang web ngoại lệ về cử chỉ</string>
+    <string name="gesture_black_info">Bạn có thể đăng ký các trang web không sử dụng cử chỉ.</string>
+    <string name="enable_adblock">Trình chặn quảng cáo đang bật</string>
+    <string name="disable_adblock">Trình chặn quảng cáo đang tắt</string>
+    <string name="adblock_enabled">Trình chặn quảng cáo được bật.</string>
+    <string name="adblock_disabled">Trình chặn quảng cáo bị tắt.</string>
 </resources>

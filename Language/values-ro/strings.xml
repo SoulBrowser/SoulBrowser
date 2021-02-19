@@ -212,6 +212,7 @@
     <string name="modified">Ultima modificare</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
+    <string name="domain_url">Domeniu sau URL</string>
     <string name="add">Adăuga</string>
     <string name="home_page">Pagina principală</string>
     <string name="last_page">Ultima pagină vizitată</string>
@@ -413,9 +414,11 @@
     <string name="ads_white">Lista albă anunțurilor</string>
     <string name="pop_white">Listă albă popup</string>
     <string name="pop_allow">Permiteți popup</string>
-    <string name="pop_confirm_1">Doriți să permiteți ferestrele popup pe pagina curentă?</string>
+    <string name="pop_allow_site">Permiteți pe site-ul curent</string>
+    <string name="pop_allow_page">Permiteți pe pagina curentă</string>
+    <string name="pop_confirm_1">Doriți să permiteți popup-ul?</string>
     <string name="pop_confirm_2">S-ar putea să fiți expus la reclame periculoase.</string>
-    <string name="pop_allowed">Ferestrele popup au fost permise pe pagina curentă.</string>
+    <string name="pop_allowed">Pop-up-urile au fost permise.</string>
     <string name="image_list">Listă de imagini</string>
     <string name="image_cast_guide_1">Accesați site-ul cu imaginea.</string>
     <string name="image_cast_guide_2">Selectați \'Afișați doar imagini\' sau \'Salvați toate imaginile\'.</string>
@@ -434,7 +437,8 @@
     <string name="not_allow">Nu permiteți</string>
     <string name="quick_access">Comenzi rapide</string>
     <string name="add_folder">Adăugare folder</string>
-    <string name="add_current">Adăugați pagina curentă</string>
+    <string name="add_site">Adăugați site-ul curent</string>
+    <string name="add_page">Adăugați pagina curentă</string>
     <string name="history_time">Perioada de păstrare</string>
     <string name="history_zero">Nu salvați</string>
     <string name="history_1week">1 săptămână</string>
@@ -805,4 +809,15 @@
     <string name="finger_unsupported">Utilizatorul nu se poate autentifica deoarece opțiunile specificate sunt incompatibile cu versiunea curentă de Android.</string>
     <string name="finger_unknown">Nu se poate stabili dacă utilizatorul se poate autentifica.</string>
     <string name="auto_detect">Automat</string>
+    <string name="use_gesture">Folosiți gesturi</string>
+    <string name="enable_gesture">Gesturi aprinse</string>
+    <string name="disable_gesture">Gesturi oprite</string>
+    <string name="gesture_enabled">Gesturile sunt activate.</string>
+    <string name="gesture_disabled">Gesturile sunt dezactivate.</string>
+    <string name="gesture_black">Gestionați site-uri de excepție</string>
+    <string name="gesture_black_info">Puteți înregistra site-uri care nu folosesc gesturi.</string>
+    <string name="enable_adblock">Blocare anunțuri activată</string>
+    <string name="disable_adblock">Blocarea anunțurilor este dezactivată</string>
+    <string name="adblock_enabled">Blocarea anunțurilor este activată.</string>
+    <string name="adblock_disabled">Blocarea anunțurilor este dezactivată.</string>
 </resources>
