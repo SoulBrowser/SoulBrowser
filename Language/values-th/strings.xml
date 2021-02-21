@@ -814,8 +814,10 @@
     <string name="disable_gesture">ท่าทางสัมผัสปิด</string>
     <string name="gesture_enabled">เปิดใช้ท่าทางสัมผัสแล้ว</string>
     <string name="gesture_disabled">ท่าทางสัมผัสถูกปิดใช้งาน</string>
-    <string name="gesture_black">ท่าทางยกเว้นไซต์</string>
-    <string name="gesture_black_info">คุณสามารถลงทะเบียนไซต์ที่ไม่ใช้ท่าทางสัมผัส</string>
+    <string name="gesture_block_site">ไซต์บล็อกท่าทาง</string>
+    <string name="gesture_block_info_1">คุณสามารถลงทะเบียนไซต์ที่ไม่ใช้ท่าทางสัมผัส</string>
+    <string name="gesture_block_info_2">ใช้กับท่าทางสัมผัสตรงกลางหน้าจอเท่านั้น</string>
+    <string name="gesture_block_info_3">ไม่ใช้กับท่าทางสัมผัสที่ขอบหน้าจอ</string>
     <string name="enable_adblock">เปิดตัวบล็อกโฆษณา</string>
     <string name="disable_adblock">ปิดตัวบล็อกโฆษณา</string>
     <string name="adblock_enabled">เปิดใช้งาน Ad blocker</string>

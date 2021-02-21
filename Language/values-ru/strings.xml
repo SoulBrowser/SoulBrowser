@@ -814,8 +814,10 @@
     <string name="disable_gesture">Жесты выключены</string>
     <string name="gesture_enabled">Жесты включены.</string>
     <string name="gesture_disabled">Жесты отключены.</string>
-    <string name="gesture_black">Сайты исключения жестов</string>
-    <string name="gesture_black_info">Вы можете зарегистрировать сайты, не использующие жесты.</string>
+    <string name="gesture_block_site">Сайт блокировки жестов</string>
+    <string name="gesture_block_info_1">Вы можете зарегистрировать сайты, не использующие жесты.</string>
+    <string name="gesture_block_info_2">Применяется только к жестам в центре экрана.</string>
+    <string name="gesture_block_info_3">Это не относится к жестам по краям экрана.</string>
     <string name="enable_adblock">Блокировщик рекламы включен</string>
     <string name="disable_adblock">Блокировка рекламы отключена</string>
     <string name="adblock_enabled">Блокировщик рекламы включен.</string>

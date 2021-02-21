@@ -814,8 +814,10 @@
     <string name="disable_gesture">Gesti disattivati</string>
     <string name="gesture_enabled">I gesti sono abilitati.</string>
     <string name="gesture_disabled">I gesti sono disabilitati.</string>
-    <string name="gesture_black">Siti di eccezione di gesti</string>
-    <string name="gesture_black_info">Puoi registrare siti che non utilizzano gesti.</string>
+    <string name="gesture_block_site">Sito di blocco dei gesti</string>
+    <string name="gesture_block_info_1">Puoi registrare siti che non utilizzano gesti.</string>
+    <string name="gesture_block_info_2">Si applica solo ai gesti al centro dello schermo.</string>
+    <string name="gesture_block_info_3">Non si applica ai gesti ai bordi dello schermo.</string>
     <string name="enable_adblock">Blocco annunci attivo</string>
     <string name="disable_adblock">Blocco annunci disattivato</string>
     <string name="adblock_enabled">Il blocco degli annunci è attivato.</string>

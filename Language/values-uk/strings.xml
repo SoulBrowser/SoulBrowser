@@ -814,8 +814,10 @@
     <string name="disable_gesture">Жести вимкнено</string>
     <string name="gesture_enabled">Жести ввімкнено.</string>
     <string name="gesture_disabled">Жести відключені.</string>
-    <string name="gesture_black">Сайти винятків жестів</string>
-    <string name="gesture_black_info">Ви можете зареєструвати сайти, які не використовують жести.</string>
+    <string name="gesture_block_site">Сайт, що блокує жести</string>
+    <string name="gesture_block_info_1">Ви можете зареєструвати сайти, які не використовують жести.</string>
+    <string name="gesture_block_info_2">Застосовується лише до жестів у центрі екрана.</string>
+    <string name="gesture_block_info_3">Це не стосується жестів по краях екрана.</string>
     <string name="enable_adblock">Блокування реклами увімкнено</string>
     <string name="disable_adblock">Блокування реклами вимкнено</string>
     <string name="adblock_enabled">Блокування реклами ввімкнено.</string>

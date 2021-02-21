@@ -814,8 +814,10 @@
     <string name="disable_gesture">Gesturi oprite</string>
     <string name="gesture_enabled">Gesturile sunt activate.</string>
     <string name="gesture_disabled">Gesturile sunt dezactivate.</string>
-    <string name="gesture_black">Gestionați site-uri de excepție</string>
-    <string name="gesture_black_info">Puteți înregistra site-uri care nu folosesc gesturi.</string>
+    <string name="gesture_block_site">Site de blocare a gesturilor</string>
+    <string name="gesture_block_info_1">Puteți înregistra site-uri care nu folosesc gesturi.</string>
+    <string name="gesture_block_info_2">Se aplică numai gesturilor din centrul ecranului.</string>
+    <string name="gesture_block_info_3">Nu se aplică gesturilor de pe marginile ecranului.</string>
     <string name="enable_adblock">Blocare anunțuri activată</string>
     <string name="disable_adblock">Blocarea anunțurilor este dezactivată</string>
     <string name="adblock_enabled">Blocarea anunțurilor este activată.</string>

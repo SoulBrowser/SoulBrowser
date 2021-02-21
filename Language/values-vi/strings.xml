@@ -814,8 +814,10 @@
     <string name="disable_gesture">Cử chỉ tắt</string>
     <string name="gesture_enabled">Cử chỉ được kích hoạt.</string>
     <string name="gesture_disabled">Cử chỉ bị vô hiệu hóa.</string>
-    <string name="gesture_black">Các trang web ngoại lệ về cử chỉ</string>
-    <string name="gesture_black_info">Bạn có thể đăng ký các trang web không sử dụng cử chỉ.</string>
+    <string name="gesture_block_site">Trang web chặn cử chỉ</string>
+    <string name="gesture_block_info_1">Bạn có thể đăng ký các trang web không sử dụng cử chỉ.</string>
+    <string name="gesture_block_info_2">Chỉ áp dụng cho các cử chỉ ở giữa màn hình.</string>
+    <string name="gesture_block_info_3">Nó không áp dụng cho các cử chỉ ở các cạnh của màn hình.</string>
     <string name="enable_adblock">Trình chặn quảng cáo đang bật</string>
     <string name="disable_adblock">Trình chặn quảng cáo đang tắt</string>
     <string name="adblock_enabled">Trình chặn quảng cáo được bật.</string>

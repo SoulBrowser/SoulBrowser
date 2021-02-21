@@ -814,8 +814,10 @@
     <string name="disable_gesture">Gesty wyłączone</string>
     <string name="gesture_enabled">Gesty są włączone.</string>
     <string name="gesture_disabled">Gesty są wyłączone.</string>
-    <string name="gesture_black">Witryny z wyjątkami dotyczącymi gestów</string>
-    <string name="gesture_black_info">Możesz zarejestrować strony, które nie używają gestów.</string>
+    <string name="gesture_block_site">Witryna blokująca gesty</string>
+    <string name="gesture_block_info_1">Możesz zarejestrować strony, które nie używają gestów.</string>
+    <string name="gesture_block_info_2">Dotyczy tylko gestów na środku ekranu.</string>
+    <string name="gesture_block_info_3">Nie dotyczy gestów na krawędziach ekranu.</string>
     <string name="enable_adblock">Blokowanie reklam włączone</string>
     <string name="disable_adblock">Blokowanie reklam wyłączone</string>
     <string name="adblock_enabled">Blokowanie reklam jest włączone.</string>

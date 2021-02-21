@@ -814,8 +814,10 @@
     <string name="disable_gesture">Gestos desligados</string>
     <string name="gesture_enabled">Gestos estão habilitados.</string>
     <string name="gesture_disabled">Gestos estão desativados.</string>
-    <string name="gesture_black">Sites de exceção de gestos</string>
-    <string name="gesture_black_info">Você pode registrar sites que não usam gestos.</string>
+    <string name="gesture_block_site">Site de bloqueio de gestos</string>
+    <string name="gesture_block_info_1">Você pode registrar sites que não usam gestos.</string>
+    <string name="gesture_block_info_2">Aplica-se apenas a gestos no centro da tela.</string>
+    <string name="gesture_block_info_3">Não se aplica a gestos nas bordas da tela.</string>
     <string name="enable_adblock">Bloqueador de anúncios ativado</string>
     <string name="disable_adblock">Bloqueador de anúncios desativado</string>
     <string name="adblock_enabled">O bloqueador de anúncios está ativado.</string>

@@ -814,8 +814,10 @@
     <string name="disable_gesture">제스처 끄기</string>
     <string name="gesture_enabled">제스처가 활성화되었습니다.</string>
     <string name="gesture_disabled">제스처가 비활성화되었습니다.</string>
-    <string name="gesture_black">제스처 예외 사이트</string>
-    <string name="gesture_black_info">제스처를 사용하지 않는 사이트를 등록할 수 있습니다.</string>
+    <string name="gesture_block_site">제스처 차단 사이트</string>
+    <string name="gesture_block_info_1">제스처를 사용하지 않는 사이트를 등록할 수 있습니다.</string>
+    <string name="gesture_block_info_2">화면 중앙의 제스처에만 적용됩니다.</string>
+    <string name="gesture_block_info_3">화면 가장자리의 제스처에는 적용되지 않습니다.</string>
     <string name="enable_adblock">광고 차단 켜기</string>
     <string name="disable_adblock">광고 차단 끄기</string>
     <string name="adblock_enabled">광고 차단이 활성화되었습니다.</string>

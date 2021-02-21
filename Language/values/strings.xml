@@ -814,8 +814,10 @@
     <string name="disable_gesture">Gestures off</string>
     <string name="gesture_enabled">Gestures are enabled.</string>
     <string name="gesture_disabled">Gestures are disabled.</string>
-    <string name="gesture_black">Gestures exception sites</string>
-    <string name="gesture_black_info">You can register sites that do not use gestures.</string>
+    <string name="gesture_block_site">Gesture blocking site</string>
+    <string name="gesture_block_info_1">You can register sites that do not use gestures.</string>
+    <string name="gesture_block_info_2">Applies only to gestures in the center of the screen.</string>
+    <string name="gesture_block_info_3">It does not apply to gestures at the edges of the screen.</string>
     <string name="enable_adblock">Ad blocker on</string>
     <string name="disable_adblock">Ad blocker off</string>
     <string name="adblock_enabled">Ad blocker is enabled.</string>

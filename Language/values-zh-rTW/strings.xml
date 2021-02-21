@@ -814,8 +814,10 @@
     <string name="disable_gesture">手勢關閉</string>
     <string name="gesture_enabled">手勢已啟用</string>
     <string name="gesture_disabled">手勢已禁用</string>
-    <string name="gesture_black">手勢異常網站</string>
-    <string name="gesture_black_info">您可以註冊不使用手勢的網站</string>
+    <string name="gesture_block_site">手勢阻止站點</string>
+    <string name="gesture_block_info_1">您可以註冊不使用手勢的網站</string>
+    <string name="gesture_block_info_2">僅適用於屏幕中央的手勢</string>
+    <string name="gesture_block_info_3">它不適用於屏幕邊緣的手勢</string>
     <string name="enable_adblock">啟用廣告攔截器</string>
     <string name="disable_adblock">廣告攔截器已關閉</string>
     <string name="adblock_enabled">廣告攔截器已啟用</string>
