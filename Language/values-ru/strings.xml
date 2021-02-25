@@ -822,4 +822,5 @@
     <string name="disable_adblock">Блокировка рекламы отключена</string>
     <string name="adblock_enabled">Блокировщик рекламы включен.</string>
     <string name="adblock_disabled">Блокировщик рекламы отключен.</string>
+    <string name="menu_guide">Нажмите и удерживайте значок, чтобы изменить функцию.</string>
 </resources>

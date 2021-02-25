@@ -822,4 +822,5 @@
     <string name="disable_adblock">Ad blocker off</string>
     <string name="adblock_enabled">Ad blocker is enabled.</string>
     <string name="adblock_disabled">Ad blocker is disabled.</string>
+    <string name="menu_guide">Long press the icon to change the function.</string>
 </resources>

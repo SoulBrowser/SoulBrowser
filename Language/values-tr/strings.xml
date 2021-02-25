@@ -822,4 +822,5 @@
     <string name="disable_adblock">Reklam engelleyici kapalı</string>
     <string name="adblock_enabled">Reklam engelleyici etkinleştirildi.</string>
     <string name="adblock_disabled">Reklam engelleyici devre dışı bırakıldı.</string>
+    <string name="menu_guide">İşlevi değiştirmek için simgeye uzun basın.</string>
 </resources>

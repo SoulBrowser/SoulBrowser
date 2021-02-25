@@ -822,4 +822,5 @@
     <string name="disable_adblock">廣告攔截器已關閉</string>
     <string name="adblock_enabled">廣告攔截器已啟用</string>
     <string name="adblock_disabled">廣告攔截器已禁用</string>
+    <string name="menu_guide">長按圖標可更改功能</string>
 </resources>

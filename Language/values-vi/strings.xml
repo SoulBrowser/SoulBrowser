@@ -822,4 +822,5 @@
     <string name="disable_adblock">Trình chặn quảng cáo đang tắt</string>
     <string name="adblock_enabled">Trình chặn quảng cáo được bật.</string>
     <string name="adblock_disabled">Trình chặn quảng cáo bị tắt.</string>
+    <string name="menu_guide">Nhấn và giữ biểu tượng để thay đổi chức năng.</string>
 </resources>

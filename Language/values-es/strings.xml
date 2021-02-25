@@ -822,4 +822,5 @@
     <string name="disable_adblock">Bloqueador de anuncios desactivado</string>
     <string name="adblock_enabled">El bloqueador de anuncios está habilitado.</string>
     <string name="adblock_disabled">El bloqueador de anuncios está desactivado.</string>
+    <string name="menu_guide">Mantenga pulsado el icono para cambiar la función.</string>
 </resources>

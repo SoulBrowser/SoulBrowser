@@ -822,4 +822,5 @@
     <string name="disable_adblock">Bloqueur de publicités désactivé</string>
     <string name="adblock_enabled">Le bloqueur de publicités est activé.</string>
     <string name="adblock_disabled">Le bloqueur de publicités est désactivé.</string>
+    <string name="menu_guide">Appuyez longuement sur l\'icône pour changer la fonction.</string>
 </resources>

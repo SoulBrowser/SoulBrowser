@@ -822,4 +822,5 @@
     <string name="disable_adblock">Blocarea anunțurilor este dezactivată</string>
     <string name="adblock_enabled">Blocarea anunțurilor este activată.</string>
     <string name="adblock_disabled">Blocarea anunțurilor este dezactivată.</string>
+    <string name="menu_guide">Apăsați lung pictograma pentru a schimba funcția.</string>
 </resources>

@@ -822,4 +822,5 @@
     <string name="disable_adblock">Блокування реклами вимкнено</string>
     <string name="adblock_enabled">Блокування реклами ввімкнено.</string>
     <string name="adblock_disabled">Блокування реклами вимкнено.</string>
+    <string name="menu_guide">Довго натискайте піктограму, щоб змінити функцію.</string>
 </resources>

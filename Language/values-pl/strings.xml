@@ -822,4 +822,5 @@
     <string name="disable_adblock">Blokowanie reklam wyłączone</string>
     <string name="adblock_enabled">Blokowanie reklam jest włączone.</string>
     <string name="adblock_disabled">Blokowanie reklam jest wyłączone.</string>
+    <string name="menu_guide">Długo naciśnij ikonę, aby zmienić funkcję.</string>
 </resources>

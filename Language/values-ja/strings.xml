@@ -822,4 +822,5 @@
     <string name="disable_adblock">広告ブロッカーオフ</string>
     <string name="adblock_enabled">広告ブロッカーが有効になっています。</string>
     <string name="adblock_disabled">広告ブロッカーが無効になっています。</string>
+    <string name="menu_guide">アイコンを長押しすると機能を変更することができます。</string>
 </resources>

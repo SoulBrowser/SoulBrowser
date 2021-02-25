@@ -822,4 +822,5 @@
     <string name="disable_adblock">Werbeblocker aus</string>
     <string name="adblock_enabled">Der Anzeigenblocker ist aktiviert.</string>
     <string name="adblock_disabled">Der Werbeblocker ist deaktiviert.</string>
+    <string name="menu_guide">Drücken Sie lange auf das Symbol, um die Funktion zu ändern.</string>
 </resources>

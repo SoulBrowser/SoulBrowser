@@ -822,4 +822,5 @@
     <string name="disable_adblock">Pemblokir iklan tidak aktif</string>
     <string name="adblock_enabled">Pemblokir iklan diaktifkan.</string>
     <string name="adblock_disabled">Pemblokir iklan dinonaktifkan.</string>
+    <string name="menu_guide">Tekan lama ikon untuk mengubah fungsi.</string>
 </resources>
