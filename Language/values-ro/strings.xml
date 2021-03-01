@@ -747,8 +747,6 @@
     <string name="block_back">Blocați numai în fundal</string>
     <string name="only_https">Conectați-vă cu HTTPS</string>
     <string name="only_https_info">În mod implicit, se conectează cu HTTPS.\nEste posibil ca site-urile care nu acceptă HTTPS să nu se poată conecta.</string>
-    <string name="try_http">Reîncercați cu HTTP</string>
-    <string name="try_http_info">Dacă eșuează cu HTTPS, va încerca din nou cu HTTP.\nHTTP este vulnerabil la securitate.</string>
     <string name="page_home_info">Când atingeți pictograma Acasă</string>
     <string name="page_start_info">La pornirea aplicației</string>
     <string name="page_tab_info">Când creați o filă nouă</string>

@@ -747,8 +747,6 @@
     <string name="block_back">Bloquer uniquement en arrière-plan</string>
     <string name="only_https">Connectez-vous avec HTTPS</string>
     <string name="only_https_info">Par défaut, il se connecte avec HTTPS.\nLes sites qui ne prennent pas en charge HTTPS peuvent ne pas pouvoir se connecter.</string>
-    <string name="try_http">Réessayer avec HTTP</string>
-    <string name="try_http_info">S\'il échoue avec HTTPS, il réessaiera avec HTTP.\nHTTP est vulnérable à la sécurité.</string>
     <string name="page_home_info">Lorsque vous appuyez sur l\'icône d\'accueil</string>
     <string name="page_start_info">Au démarrage de l\'application</string>
     <string name="page_tab_info">Lors de la création d\'un nouvel onglet</string>

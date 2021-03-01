@@ -747,8 +747,6 @@
     <string name="block_back">仅在后台阻止</string>
     <string name="only_https">与 HTTPS 连接</string>
     <string name="only_https_info">默认情况下，它与 HTTPS 连接\n不支持 HTTPS 的站点可能无法连接</string>
-    <string name="try_http">使用 HTTP 重试</string>
-    <string name="try_http_info">如果使用 HTTPS 失败，它将使用 HTTP 重试\nHTTP 容易受到安全性的影响</string>
     <string name="page_home_info">当你点击主页图标时</string>
     <string name="page_start_info">启动应用程序时</string>
     <string name="page_tab_info">建立新分页时</string>

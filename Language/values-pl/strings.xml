@@ -747,8 +747,6 @@
     <string name="block_back">Blokuj tylko w tle</string>
     <string name="only_https">Połącz się przez HTTPS</string>
     <string name="only_https_info">Domyślnie łączy się z HTTPS.\nWitryny, które nie obsługują HTTPS, mogą nie być w stanie się połączyć.</string>
-    <string name="try_http">Spróbuj ponownie przez HTTP</string>
-    <string name="try_http_info">Jeśli nie powiedzie się z HTTPS, spróbuje ponownie z HTTP.\nProtokół HTTP jest podatny na zagrożenia.</string>
     <string name="page_home_info">Po dotknięciu ikony domu</string>
     <string name="page_start_info">Podczas uruchamiania aplikacji</string>
     <string name="page_tab_info">Podczas tworzenia nowej karty</string>

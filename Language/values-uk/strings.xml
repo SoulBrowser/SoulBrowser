@@ -747,8 +747,6 @@
     <string name="block_back">Блокувати лише у фоновому режимі</string>
     <string name="only_https">Підключіться по HTTPS</string>
     <string name="only_https_info">За замовчуванням підключатися по протоколу HTTPS.\nСайти, які не підтримують HTTPS, можливо, не зможуть підключитися.</string>
-    <string name="try_http">Повторіть спробу за допомогою HTTP</string>
-    <string name="try_http_info">Якщо це не вдасться з HTTPS, спробувати за допомогою HTTP.\nHTTP вразливий у плані безпеки.</string>
     <string name="page_home_info">Коли ви натискаєте на піктограму будинку</string>
     <string name="page_start_info">Під час запуску програми</string>
     <string name="page_tab_info">При створенні нової вкладки</string>

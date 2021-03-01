@@ -747,8 +747,6 @@
     <string name="block_back">Nur im Hintergrund blockieren</string>
     <string name="only_https">Verbinden Sie sich mit HTTPS</string>
     <string name="only_https_info">Standardmäßig wird eine Verbindung mit HTTPS hergestellt.\nSites, die HTTPS nicht unterstützen, können möglicherweise keine Verbindung herstellen.</string>
-    <string name="try_http">Wiederholen Sie den Vorgang mit HTTP</string>
-    <string name="try_http_info">Wenn es mit HTTPS fehlschlägt, wird es mit HTTP erneut versucht.\nHTTP ist anfällig für Sicherheit.</string>
     <string name="page_home_info">Wenn Sie auf das Home-Symbol tippen</string>
     <string name="page_start_info">Beim Starten der App</string>
     <string name="page_tab_info">Beim Erstellen einer neuen Registerkarte</string>

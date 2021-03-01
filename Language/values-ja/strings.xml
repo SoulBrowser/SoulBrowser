@@ -747,8 +747,6 @@
     <string name="block_back">バックグラウンドで遮断</string>
     <string name="only_https">HTTPSに接続</string>
     <string name="only_https_info">基本的にHTTPSに接続します。\nHTTPSをサポートしていないサイトは、リンクにならないことがあります。</string>
-    <string name="try_http">HTTPで再試行</string>
-    <string name="try_http_info">HTTPSに失敗すると、HTTPで再試行します。\nHTTPは、セキュリティに脆弱です。</string>
     <string name="page_home_info">ホームアイコンをクリックしたとき</string>
     <string name="page_start_info">アプリを起動したとき</string>
     <string name="page_tab_info">新しいタブを作成するときに</string>

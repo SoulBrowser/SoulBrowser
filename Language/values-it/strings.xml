@@ -747,8 +747,6 @@
     <string name="block_back">Blocca solo in background</string>
     <string name="only_https">Connettiti con HTTPS</string>
     <string name="only_https_info">Per impostazione predefinita, si connette con HTTPS.\nI siti che non supportano HTTPS potrebbero non essere in grado di connettersi.</string>
-    <string name="try_http">Riprova con HTTP</string>
-    <string name="try_http_info">Se fallisce con HTTPS, riproverà con HTTP.\nHTTP è vulnerabile alla sicurezza.</string>
     <string name="page_home_info">Quando tocchi l\'icona Home</string>
     <string name="page_start_info">Quando si avvia l\'app</string>
     <string name="page_tab_info">Quando si crea una nuova scheda</string>
