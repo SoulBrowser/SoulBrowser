@@ -3,11 +3,11 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">開始ボタンを押すと、 Soul Browser利用規約と個人情報保護ポリシーに同意します。</string>
+    <string name="tos">利用規約</string>
+    <string name="privacy">個人情報保護ポリシー</string>
     <string name="start">開始</string>
     <string name="info">情報</string>
     <string name="version">アプリケーションのバージョン</string>
-    <string name="tos">利用規約</string>
-    <string name="privacy">個人情報保護ポリシー</string>
     <string name="license">オープンソースライセンス</string>
     <string name="show_license">ライセンス</string>
     <string name="feedback">フィードバック</string>

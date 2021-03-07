@@ -3,11 +3,11 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Ao pressionar botão Começar, você concorda com Soul Browser Termos de serviço e Política de privacidade.</string>
+    <string name="tos">Termos de serviço</string>
+    <string name="privacy">Política de privacidade</string>
     <string name="start">Começar</string>
     <string name="info">Informação</string>
     <string name="version">Versão do aplicativo</string>
-    <string name="tos">Termos de serviço</string>
-    <string name="privacy">Política de privacidade</string>
     <string name="license">Licença de código aberto</string>
     <string name="show_license">Licença</string>
     <string name="feedback">Enviar comentários</string>

@@ -2,12 +2,12 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Prin apăsarea butonului Start, sunteți de acord cu Browser-ul Soul\nCondițiile privind serviciul și confidențialitatea.</string>
+    <string name="notice">Prin apăsarea butonului Start, sunteți de acord cu Browser-ul Soul\nTermeni și condiții și Notificare de confidențialitate.</string>
+    <string name="tos">Termeni și condiții</string>
+    <string name="privacy">Notificare de confidențialitate</string>
     <string name="start">Start</string>
     <string name="info">Informații</string>
     <string name="version">Versiunea aplicației</string>
-    <string name="tos">Termeni și condiții</string>
-    <string name="privacy">Notificare de confidențialitate</string>
     <string name="license">Licențe open source</string>
     <string name="show_license">Licență</string>
     <string name="feedback">Trimiteți feedback</string>

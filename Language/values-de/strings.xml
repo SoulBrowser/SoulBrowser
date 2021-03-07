@@ -2,12 +2,12 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Durch drücken der Starttaste stimmen Sie den Nutzungs und Datenschutzbestimmungen von Soul Browser zu.</string>
+    <string name="notice">Durch drücken der Starttaste stimmen Sie den Nutzungsbedingungen und Datenschutzbestimmungen von Soul Browser zu.</string>
+    <string name="tos">Nutzungsbedingungen</string>
+    <string name="privacy">Datenschutzbestimmungen</string>
     <string name="start">Starten</string>
     <string name="info">Informationen</string>
     <string name="version">Version</string>
-    <string name="tos">Nutzungsbedingungen</string>
-    <string name="privacy">Datenschutzbestimmungen</string>
     <string name="license">Open source Lizenzen</string>
     <string name="show_license">Lizenz</string>
     <string name="feedback">Feedback senden</string>

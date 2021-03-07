@@ -2,12 +2,12 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Натиснувши кнопку «Старт», Ви погоджуєтесь із Умовами користування та Політикою конфіденційності браузера Soul.</string>
+    <string name="notice">Натиснувши кнопку «Старт», Ви погоджуєтесь із Умови використання та Повідомлення про конфіденційність браузера Soul.</string>
+    <string name="tos">Умови використання</string>
+    <string name="privacy">Повідомлення про конфіденційність</string>
     <string name="start">Старт</string>
     <string name="info">Інформація</string>
     <string name="version">Версія додатку</string>
-    <string name="tos">Умови використання</string>
-    <string name="privacy">Повідомлення про конфіденційність</string>
     <string name="license">Ліцензії з відкритим кодом</string>
     <string name="show_license">Ліцензія</string>
     <string name="feedback">Надіслати відгук</string>

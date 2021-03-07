@@ -2,12 +2,12 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Dengan menekan tombol Mulai, Anda menyetujui Soul Browser\nPersyaratan Layanan dan Pemberitahuan Privasi.</string>
+    <string name="notice">Dengan menekan tombol Mulai, Anda menyetujui Soul Browser\nKetentuan Layanan dan Pemberitahuan Privasi.</string>
+    <string name="tos">Ketentuan Layanan</string>
+    <string name="privacy">Pemberitahuan Privasi</string>
     <string name="start">Mulai</string>
     <string name="info">Informasi</string>
     <string name="version">Versi aplikasi</string>
-    <string name="tos">Ketentuan Layanan</string>
-    <string name="privacy">Pemberitahuan Privasi</string>
     <string name="license">Lisensi open source</string>
     <string name="show_license">Lisensi</string>
     <string name="feedback">Kirim umpan balik</string>

@@ -2,12 +2,12 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Нажимая кнопку «Начать работу», Вы соглашаетесь с Условиями использования и Политикой конфиденциальности Soul браузера.</string>
+    <string name="notice">Нажимая кнопку «Начать работу», Вы соглашаетесь с Условия использования и Политика конфиденциальности Soul браузера.</string>
+    <string name="tos">Условия использования</string>
+    <string name="privacy">Политика конфиденциальности</string>
     <string name="start">Начать работу</string>
     <string name="info">Информация</string>
     <string name="version">Версия приложения</string>
-    <string name="tos">Условия использования</string>
-    <string name="privacy">Политика конфиденциальности</string>
     <string name="license">Лицензии с открытым кодом</string>
     <string name="show_license">Лицензия</string>
     <string name="feedback">Отправить отзыв</string>

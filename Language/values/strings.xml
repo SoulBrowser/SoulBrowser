@@ -3,11 +3,11 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">By pressing the Start button, you agree to the Soul Browser\nTerms of Service and Privacy Notice.</string>
+    <string name="tos">Terms of Service</string>
+    <string name="privacy">Privacy Notice</string>
     <string name="start">Start</string>
     <string name="info">Information</string>
     <string name="version">Application version</string>
-    <string name="tos">Terms of Service</string>
-    <string name="privacy">Privacy Notice</string>
     <string name="license">Open source licenses</string>
     <string name="show_license">License</string>
     <string name="feedback">Send feedback</string>

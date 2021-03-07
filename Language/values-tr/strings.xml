@@ -3,11 +3,11 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Başlat düğmesine basarak, Soul Browser\nHizmet Şartlarını ve Gizlilik Bildirimini kabul etmiş olursunuz.</string>
+    <string name="tos">Hizmet Şartları</string>
+    <string name="privacy">Gizlilik Bildirimi</string>
     <string name="start">Başlat</string>
     <string name="info">Bilgi</string>
     <string name="version">Uygulama sürümü</string>
-    <string name="tos">Hizmet Şartları</string>
-    <string name="privacy">Gizlilik Bildirimi</string>
     <string name="license">Açık kaynak lisansları</string>
     <string name="show_license">Lisans</string>
     <string name="feedback">Geri bildirim gönder</string>

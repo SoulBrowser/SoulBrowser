@@ -3,11 +3,11 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">โดยการกดปุ่ม เริ่มต้น ถือว่าคุณยอมรับข้อกำหนดในการให้บริการของ Soul Browser และประกาศความเป็นส่วนตัว</string>
+    <string name="tos">ข้อกำหนดในการให้บริการ</string>
+    <string name="privacy">ประกาศความเป็นส่วนตัว</string>
     <string name="start">เริ่มต้น</string>
     <string name="info">ข้อมูล</string>
     <string name="version">เวอร์ชันของแอปพลิเคชัน</string>
-    <string name="tos">ข้อกำหนดในการให้บริการ</string>
-    <string name="privacy">ประกาศความเป็นส่วนตัว</string>
     <string name="license">ใบอนุญาตโอเพนซอร์ส</string>
     <string name="show_license">สัญญาอนุญาต</string>
     <string name="feedback">ส่งข้อเสนอแนะ</string>

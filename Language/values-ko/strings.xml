@@ -3,11 +3,11 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">시작 버튼을 누르시면, Soul Browser\n이용약관과 개인정보 보호정책에 동의하게 됩니다.</string>
+    <string name="tos">이용약관</string>
+    <string name="privacy">개인정보 보호정책</string>
     <string name="start">시작</string>
     <string name="info">정보</string>
     <string name="version">애플리케이션 버전</string>
-    <string name="tos">이용약관</string>
-    <string name="privacy">개인정보 보호정책</string>
     <string name="license">오픈소스 라이선스</string>
     <string name="show_license">라이선스</string>
     <string name="feedback">의견 보내기</string>

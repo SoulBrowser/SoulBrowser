@@ -3,11 +3,11 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Bằng cách nhấn vào nút Bắt đầu, bạn đồng ý với Soul Browser Điều khoản dịch vụ và Chính sách Bảo mật.</string>
+    <string name="tos">Điều khoản dịch vụ</string>
+    <string name="privacy">Chính sách Bảo mật</string>
     <string name="start">Bắt đầu</string>
     <string name="info">Thông tin</string>
     <string name="version">Phiên bản ứng dụng</string>
-    <string name="tos">Điều khoản dịch vụ</string>
-    <string name="privacy">Chính sách Bảo mật</string>
     <string name="license">Giấy phép nguồn mở</string>
     <string name="show_license">Giấy phép</string>
     <string name="feedback">Gửi phản hồi</string>

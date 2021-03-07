@@ -3,11 +3,11 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">按下开始按钮即表示你同意 Soul Browser 使用条款和隐私政策</string>
+    <string name="tos">使用条款</string>
+    <string name="privacy">隐私政策</string>
     <string name="start">开始</string>
     <string name="info">关于</string>
     <string name="version">应用版本</string>
-    <string name="tos">使用条款</string>
-    <string name="privacy">隐私政策</string>
     <string name="license">开源许可证</string>
     <string name="show_license">许可</string>
     <string name="feedback">发送反馈</string>

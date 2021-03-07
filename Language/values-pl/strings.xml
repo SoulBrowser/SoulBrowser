@@ -2,12 +2,12 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Naciskając przycisk Początek, akceptujesz Przeglądarkę Dusz\nWarunki korzystania z usługi i Informacje o prywatności.</string>
+    <string name="notice">Naciskając przycisk Początek, akceptujesz Przeglądarkę Dusz\nWarunki korzystania z usługi i Informacja o prywatności.</string>
+    <string name="tos">Warunki korzystania z usługi</string>
+    <string name="privacy">Informacja o prywatności</string>
     <string name="start">Początek</string>
     <string name="info">Informacje</string>
     <string name="version">Wersja aplikacji</string>
-    <string name="tos">Warunki korzystania z usługi</string>
-    <string name="privacy">Informacja o prywatności</string>
     <string name="license">Licencje typu open source</string>
     <string name="show_license">Licencja</string>
     <string name="feedback">Wyślij opinię</string>
