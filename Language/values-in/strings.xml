@@ -821,4 +821,5 @@
     <string name="adblock_enabled">Pemblokir iklan diaktifkan.</string>
     <string name="adblock_disabled">Pemblokir iklan dinonaktifkan.</string>
     <string name="menu_guide">Tekan lama ikon untuk mengubah fungsi.</string>
+    <string name="down_service">Layanan unduhan Soul</string>
 </resources>

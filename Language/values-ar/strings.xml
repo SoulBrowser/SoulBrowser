@@ -821,4 +821,5 @@
     <string name="adblock_enabled">تم تنشيط منع الإعلانات.</string>
     <string name="adblock_disabled">تم تعطيل منع الإعلانات.</string>
     <string name="menu_guide">اضغط لفترة طويلة على الأيقونة لتغيير الوظيفة.</string>
+    <string name="down_service">Soul تحميل الخدمة</string>
 </resources>

@@ -821,4 +821,5 @@
     <string name="adblock_enabled">Blokowanie reklam jest włączone.</string>
     <string name="adblock_disabled">Blokowanie reklam jest wyłączone.</string>
     <string name="menu_guide">Długo naciśnij ikonę, aby zmienić funkcję.</string>
+    <string name="down_service">Usługa pobierania Soul</string>
 </resources>

@@ -821,4 +821,5 @@
     <string name="adblock_enabled">Il blocco degli annunci è attivato.</string>
     <string name="adblock_disabled">Il blocco degli annunci è disattivato.</string>
     <string name="menu_guide">Premere a lungo l\'icona per modificare la funzione.</string>
+    <string name="down_service">Servizio di download di Soul</string>
 </resources>

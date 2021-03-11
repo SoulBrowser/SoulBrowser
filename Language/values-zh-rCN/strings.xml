@@ -821,4 +821,5 @@
     <string name="adblock_enabled">广告拦截器已启用</string>
     <string name="adblock_disabled">广告拦截器已禁用</string>
     <string name="menu_guide">长按图标可更改功能</string>
+    <string name="down_service">Soul下载服务</string>
 </resources>

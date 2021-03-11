@@ -821,4 +821,5 @@
     <string name="adblock_enabled">เปิดใช้งาน Ad blocker</string>
     <string name="adblock_disabled">ปิดใช้ตัวบล็อกโฆษณา</string>
     <string name="menu_guide">กดไอคอนค้างไว้เพื่อเปลี่ยนฟังก์ชัน</string>
+    <string name="down_service">บริการดาวน์โหลด Soul</string>
 </resources>

@@ -821,4 +821,5 @@
     <string name="adblock_enabled">Ad blocker is enabled.</string>
     <string name="adblock_disabled">Ad blocker is disabled.</string>
     <string name="menu_guide">Long press the icon to change the function.</string>
+    <string name="down_service">Soul download service</string>
 </resources>

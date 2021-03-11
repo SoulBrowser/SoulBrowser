@@ -821,4 +821,5 @@
     <string name="adblock_enabled">Trình chặn quảng cáo được bật.</string>
     <string name="adblock_disabled">Trình chặn quảng cáo bị tắt.</string>
     <string name="menu_guide">Nhấn và giữ biểu tượng để thay đổi chức năng.</string>
+    <string name="down_service">Dịch vụ tải xuống Soul</string>
 </resources>
