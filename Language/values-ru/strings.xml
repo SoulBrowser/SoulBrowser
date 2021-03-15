@@ -777,6 +777,7 @@
     <string name="level_strong">Сильный</string>
     <string name="level_weak">Слабый</string>
     <string name="open_limit">Лимит открытых вкладок</string>
+    <string name="open_limit_info">При превышении лимита первый элемент автоматически удаляется.</string>
     <string name="down_manager">Менеджер загрузки</string>
     <string name="down_manager_info1">Вы можете использовать свое любимое приложение-загрузчик в качестве менеджера загрузок.</string>
     <string name="down_manager_info2">Ваш браузер может работать медленно при загрузке больших файлов.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">Блокировщик рекламы отключен.</string>
     <string name="menu_guide">Нажмите и удерживайте значок, чтобы изменить функцию.</string>
     <string name="down_service">Soul сервис загрузки</string>
+    <string name="auto_comp">Автозаполнение</string>
 </resources>

@@ -777,6 +777,7 @@
     <string name="level_strong">Forte</string>
     <string name="level_weak">Debole</string>
     <string name="open_limit">Limite aperto</string>
+    <string name="open_limit_info">Quando il limite viene superato, il primo elemento viene automaticamente eliminato.</string>
     <string name="down_manager">Download manager</string>
     <string name="down_manager_info1">Puoi utilizzare la tua app di download preferita come gestore di download.</string>
     <string name="down_manager_info2">Il tuo browser potrebbe essere lento durante il download di file di grandi dimensioni.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">Il blocco degli annunci è disattivato.</string>
     <string name="menu_guide">Premere a lungo l\'icona per modificare la funzione.</string>
     <string name="down_service">Servizio di download di Soul</string>
+    <string name="auto_comp">Completamento automatico</string>
 </resources>

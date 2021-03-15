@@ -777,6 +777,7 @@
     <string name="level_strong">강한</string>
     <string name="level_weak">약한</string>
     <string name="open_limit">열기 제한</string>
+    <string name="open_limit_info">한도를 초과하면 첫 번째 항목이 자동으로 삭제됩니다.</string>
     <string name="down_manager">다운로드 매니저</string>
     <string name="down_manager_info1">선호하는 다운로더 앱을 다운로드 매니저로 사용하실 수 있습니다.</string>
     <string name="down_manager_info2">대용량 파일을 다운로드 할 때 브라우저가 느려질 수 있습니다.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">광고 차단이 비활성화되었습니다.</string>
     <string name="menu_guide">아이콘을 길게 누르면 기능을 변경할 수 있습니다.</string>
     <string name="down_service">Soul 다운로드 서비스</string>
+    <string name="auto_comp">자동 완성</string>
 </resources>

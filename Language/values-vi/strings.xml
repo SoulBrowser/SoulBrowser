@@ -777,6 +777,7 @@
     <string name="level_strong">Mạnh</string>
     <string name="level_weak">Yếu</string>
     <string name="open_limit">Mở giới hạn</string>
+    <string name="open_limit_info">Khi vượt quá giới hạn, mục đầu tiên sẽ tự động bị xóa.</string>
     <string name="down_manager">Quản lý download</string>
     <string name="down_manager_info1">Bạn có thể sử dụng ứng dụng trình tải xuống yêu thích của mình làm trình quản lý tải xuống.</string>
     <string name="down_manager_info2">Trình duyệt của bạn có thể chậm khi tải xuống các tệp lớn.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">Trình chặn quảng cáo bị tắt.</string>
     <string name="menu_guide">Nhấn và giữ biểu tượng để thay đổi chức năng.</string>
     <string name="down_service">Dịch vụ tải xuống Soul</string>
+    <string name="auto_comp">Tự động hoàn thành</string>
 </resources>

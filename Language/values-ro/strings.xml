@@ -777,6 +777,7 @@
     <string name="level_strong">Puternic</string>
     <string name="level_weak">Slab</string>
     <string name="open_limit">Limita de deschidere</string>
+    <string name="open_limit_info">Când limita este depășită, primul element este șters automat.</string>
     <string name="down_manager">Administrator de descărcări</string>
     <string name="down_manager_info1">Puteți utiliza aplicația dvs. preferată de descărcare ca manager de descărcare.</string>
     <string name="down_manager_info2">Browserul dvs. poate fi lent atunci când descărcați fișiere mari.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">Blocarea anunțurilor este dezactivată.</string>
     <string name="menu_guide">Apăsați lung pictograma pentru a schimba funcția.</string>
     <string name="down_service">Serviciu de descărcare Soul</string>
+    <string name="auto_comp">Completare automată</string>
 </resources>

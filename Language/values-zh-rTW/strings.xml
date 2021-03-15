@@ -777,6 +777,7 @@
     <string name="level_strong">強大</string>
     <string name="level_weak">弱</string>
     <string name="open_limit">開倉限制</string>
+    <string name="open_limit_info">當超過限制時，第一項將被自動刪除</string>
     <string name="down_manager">下載管理器</string>
     <string name="down_manager_info1">您可以將自己喜歡的下載器應用程序用作下載管理器</string>
     <string name="down_manager_info2">下載大文件時，瀏覽器可能會變慢</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">廣告攔截器已禁用</string>
     <string name="menu_guide">長按圖標可更改功能</string>
     <string name="down_service">Soul下載服務</string>
+    <string name="auto_comp">自動完成</string>
 </resources>

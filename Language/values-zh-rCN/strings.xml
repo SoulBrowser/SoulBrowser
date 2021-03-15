@@ -777,6 +777,7 @@
     <string name="level_strong">很强</string>
     <string name="level_weak">弱</string>
     <string name="open_limit">标签限量</string>
+    <string name="open_limit_info">当超过限制时，第一项将被自动删除</string>
     <string name="down_manager">下载管理器</string>
     <string name="down_manager_info1">您可以将自己喜欢的下载器应用程序用作下载管理器</string>
     <string name="down_manager_info2">下载大文件时，浏览器可能会变慢</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">广告拦截器已禁用</string>
     <string name="menu_guide">长按图标可更改功能</string>
     <string name="down_service">Soul下载服务</string>
+    <string name="auto_comp">自动完成</string>
 </resources>

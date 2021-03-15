@@ -777,6 +777,7 @@
     <string name="level_strong">Strong</string>
     <string name="level_weak">Weak</string>
     <string name="open_limit">Open limit</string>
+    <string name="open_limit_info">When the limit is exceeded, the first item is automatically deleted.</string>
     <string name="down_manager">Download manager</string>
     <string name="down_manager_info1">You can use your favorite downloader app as a download manager.</string>
     <string name="down_manager_info2">Your browser may be slow when downloading large files.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">Ad blocker is disabled.</string>
     <string name="menu_guide">Long press the icon to change the function.</string>
     <string name="down_service">Soul download service</string>
+    <string name="auto_comp">Auto complete</string>
 </resources>

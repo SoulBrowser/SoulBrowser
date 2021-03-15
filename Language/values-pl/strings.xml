@@ -777,6 +777,7 @@
     <string name="level_strong">Silny</string>
     <string name="level_weak">Słaby</string>
     <string name="open_limit">Otwarty limit</string>
+    <string name="open_limit_info">Po przekroczeniu limitu pierwsza pozycja jest automatycznie usuwana.</string>
     <string name="down_manager">Menadżer pobierania</string>
     <string name="down_manager_info1">Możesz używać swojej ulubionej aplikacji do pobierania jako menedżera pobierania.</string>
     <string name="down_manager_info2">Twoja przeglądarka może działać wolno podczas pobierania dużych plików.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">Blokowanie reklam jest wyłączone.</string>
     <string name="menu_guide">Długo naciśnij ikonę, aby zmienić funkcję.</string>
     <string name="down_service">Usługa pobierania Soul</string>
+    <string name="auto_comp">Autouzupełnienie</string>
 </resources>

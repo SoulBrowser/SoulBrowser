@@ -777,6 +777,7 @@
     <string name="level_strong">Kuat</string>
     <string name="level_weak">Lemah</string>
     <string name="open_limit">Batas terbuka</string>
+    <string name="open_limit_info">Ketika batas terlampaui, item pertama secara otomatis dihapus.</string>
     <string name="down_manager">Manajer unduhan</string>
     <string name="down_manager_info1">Anda dapat menggunakan aplikasi pengunduh favorit Anda sebagai pengelola unduhan.</string>
     <string name="down_manager_info2">Browser Anda mungkin lambat saat mendownload file besar.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">Pemblokir iklan dinonaktifkan.</string>
     <string name="menu_guide">Tekan lama ikon untuk mengubah fungsi.</string>
     <string name="down_service">Layanan unduhan Soul</string>
+    <string name="auto_comp">Pelengkapan otomatis</string>
 </resources>

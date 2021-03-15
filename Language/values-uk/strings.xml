@@ -777,6 +777,7 @@
     <string name="level_strong">Сильний</string>
     <string name="level_weak">Слабкий</string>
     <string name="open_limit">Відкритий ліміт</string>
+    <string name="open_limit_info">Коли ліміт перевищений, перший елемент автоматично видаляється.</string>
     <string name="down_manager">Менеджер завантажень</string>
     <string name="down_manager_info1">Ви можете використовувати свій улюблений додаток у якості менеджера завантажень.</string>
     <string name="down_manager_info2">Ваш браузер може працювати повільно під час завантаження великих файлів.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">Блокування реклами вимкнено.</string>
     <string name="menu_guide">Довго натискайте піктограму, щоб змінити функцію.</string>
     <string name="down_service">Служба завантаження Soul</string>
+    <string name="auto_comp">Автозаповнення</string>
 </resources>

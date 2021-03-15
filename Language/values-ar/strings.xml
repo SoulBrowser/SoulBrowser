@@ -777,6 +777,7 @@
     <string name="level_strong">قوي</string>
     <string name="level_weak">ضعيف</string>
     <string name="open_limit">فتح حد</string>
+    <string name="open_limit_info">عند تجاوز الحد ، يتم حذف العنصر الأول تلقائيًا.</string>
     <string name="down_manager">مدير التحميل</string>
     <string name="down_manager_info1">يمكنك استخدام تطبيق التنزيل المفضل لديك كمدير تنزيل.</string>
     <string name="down_manager_info2">يمكن أن يكون متصفحك بطيئًا عند تنزيل ملفات كبيرة.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">تم تعطيل منع الإعلانات.</string>
     <string name="menu_guide">اضغط لفترة طويلة على الأيقونة لتغيير الوظيفة.</string>
     <string name="down_service">Soul تحميل الخدمة</string>
+    <string name="auto_comp">الإكمال التلقائي</string>
 </resources>

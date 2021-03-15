@@ -777,6 +777,7 @@
     <string name="level_strong">Forte</string>
     <string name="level_weak">Fraco</string>
     <string name="open_limit">Limite de abertura</string>
+    <string name="open_limit_info">Quando o limite é excedido, o primeiro item é excluído automaticamente.</string>
     <string name="down_manager">Gerenciador de download</string>
     <string name="down_manager_info1">Você pode usar seu aplicativo de download favorito como gerenciador de download.</string>
     <string name="down_manager_info2">Seu navegador pode ficar lento ao fazer download de arquivos grandes.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">O bloqueador de anúncios está desativado.</string>
     <string name="menu_guide">Pressione longamente o ícone para alterar a função.</string>
     <string name="down_service">Soul serviço de download</string>
+    <string name="auto_comp">Autocompletar</string>
 </resources>

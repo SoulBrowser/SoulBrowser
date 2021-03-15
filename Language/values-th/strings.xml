@@ -777,6 +777,7 @@
     <string name="level_strong">แข็งแรง</string>
     <string name="level_weak">อ่อนแอ</string>
     <string name="open_limit">เปิดขีด ​​จำกัด</string>
+    <string name="open_limit_info">เมื่อเกินขีด จำกัด รายการแรกจะถูกลบโดยอัตโนมัติ</string>
     <string name="down_manager">ตัวจัดการการดาวน์โหลด</string>
     <string name="down_manager_info1">คุณสามารถใช้แอพดาวน์โหลดที่คุณชื่นชอบเป็นตัวจัดการการดาวน์โหลด</string>
     <string name="down_manager_info2">เบราว์เซอร์ของคุณอาจทำงานช้าเมื่อดาวน์โหลดไฟล์ขนาดใหญ่</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">ปิดใช้ตัวบล็อกโฆษณา</string>
     <string name="menu_guide">กดไอคอนค้างไว้เพื่อเปลี่ยนฟังก์ชัน</string>
     <string name="down_service">บริการดาวน์โหลด Soul</string>
+    <string name="auto_comp">เติมข้อความอัตโนมัติ</string>
 </resources>

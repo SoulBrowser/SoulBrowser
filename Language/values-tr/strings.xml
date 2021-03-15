@@ -777,6 +777,7 @@
     <string name="level_strong">kuvvetli</string>
     <string name="level_weak">Güçsüz</string>
     <string name="open_limit">Açık limit</string>
+    <string name="open_limit_info">Limit aşıldığında, ilk öğe otomatik olarak silinir.</string>
     <string name="down_manager">İndirme yöneticisi</string>
     <string name="down_manager_info1">En sevdiğiniz indirme uygulamasını bir indirme yöneticisi olarak kullanabilirsiniz.</string>
     <string name="down_manager_info2">Büyük dosyaları indirirken tarayıcınız yavaş olabilir.</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">Reklam engelleyici devre dışı bırakıldı.</string>
     <string name="menu_guide">İşlevi değiştirmek için simgeye uzun basın.</string>
     <string name="down_service">Soul indirme hizmeti</string>
+    <string name="auto_comp">Otomatik tamamlama</string>
 </resources>

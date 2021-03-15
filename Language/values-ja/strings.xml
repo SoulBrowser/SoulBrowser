@@ -777,6 +777,7 @@
     <string name="level_strong">強い</string>
     <string name="level_weak">弱い</string>
     <string name="open_limit">オープン制限</string>
+    <string name="open_limit_info">制限を超えると、最初の項目が自動的に削除されます。</string>
     <string name="down_manager">ダウンロードマネージャー</string>
     <string name="down_manager_info1">好ましいダウンローダアプリをダウンロードマネージャとして使用することができます。</string>
     <string name="down_manager_info2">大容量のファイルをダウンロードすると、ブラウザが遅くなることがあります。</string>
@@ -822,4 +823,5 @@
     <string name="adblock_disabled">広告ブロッカーが無効になっています。</string>
     <string name="menu_guide">アイコンを長押しすると機能を変更することができます。</string>
     <string name="down_service">Soulダウンロードサービス</string>
+    <string name="auto_comp">オートコンプリート</string>
 </resources>
