@@ -346,7 +346,7 @@
     <string name="block_a_image">Chặn hình ảnh</string>
     <string name="blocked_image">Hình ảnh bị chặn</string>
     <string name="block_confirm">Bạn có muốn chặn nó không?</string>
-    <string name="block_apply">Khối</string>
+    <string name="block_apply">Chặn</string>
     <string name="reset">Đặt lại</string>
     <string name="reset_confirm">Bạn có muốn thiết lập lại công việc của bạn?</string>
     <string name="check_network">Vui lòng kiểm tra trạng thái mạng.</string>
@@ -711,7 +711,7 @@
     <string name="at_bottom">Ở dưới cùng</string>
     <string name="clean_data_info">Tích lũy dữ liệu cũ có thể làm chậm trình duyệt của bạn.\nBạn nên dọn dẹp dữ liệu của mình theo định kỳ.</string>
     <string name="txt_viewer">Trình xem văn bản</string>
-    <string name="purchase">Mua, tựa vào, bám vào</string>
+    <string name="purchase">Ủng hộ nhà phát triển</string>
     <string name="remove_ads">Xóa quảng cáo trong ứng dụng</string>
     <string name="remove_ads_info">Quảng cáo trong ứng dụng bị loại bỏ với một lần thanh toán.\nQuảng cáo trong ứng dụng và quảng cáo trên trang web là khác nhau.</string>
     <string name="donate_1">Quyên góp (Sữa)</string>
