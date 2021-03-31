@@ -105,6 +105,7 @@
     <string name="app_block_info1">Заблокируйте сайт от запуска других приложений.</string>
     <string name="app_block_info2">Если информация о сайте доступна, откройте сайт.</string>
     <string name="app_block_noti">Сайт пытается запустить другое приложение.</string>
+    <string name="open_app">Приложение</string>
     <string name="link">Ссылка</string>
     <string name="open_url">Открыть</string>
     <string name="new_url">Новая вкладка</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Неверный ввод</string>
     <string name="continue_input">Продолжить</string>
     <string name="pip_advance">Расширенный режим PIP</string>
-    <string name="pip_advance_info">Некоторые устройства могут не поддерживаться.\nЭта функция использует больше памяти.\nБудьте осторожны при использовании на устройствах с небольшим объемом памяти.</string>
+    <string name="device_warning">Некоторые устройства могут не поддерживаться.</string>
+    <string name="memory_warning">Эта функция использует больше памяти.\nБудьте осторожны при использовании на устройствах с небольшим объемом памяти.</string>
     <string name="android_oreo">Поддерживается с Android Oreo.</string>
     <string name="secret_hist">Сохранять историю</string>
     <string name="secret_hist_info">Сохранять историю в режиме инкогнито. История инкогнито не отображается в обычном режиме.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">Добавлено %d файла</string>
     <string name="no_found">Файлов не найдено.</string>
     <string name="file_found">Найдено %d файла</string>
-    <string name="face_greet">Спасибо за использование Soul Browser. ❤</string>
     <string name="storage_device">Устройство</string>
     <string name="storage_sdcard">SD карта</string>
     <string name="sort_guide_1">Нажмите и удерживайте список, чтобы перейти в режим редактирования.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Нажмите и удерживайте значок, чтобы изменить функцию.</string>
     <string name="down_service">Soul сервис загрузки</string>
     <string name="auto_comp">Автозаполнение</string>
+    <string name="check_element">Элементный контроль</string>
+    <string name="quick_guide_1">1. Вы можете перемещаться, нажав и удерживая значок.</string>
+    <string name="quick_guide_2">2. Вы можете создавать папки, перекрывая значки.</string>
 </resources>

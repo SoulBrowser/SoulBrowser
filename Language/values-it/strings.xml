@@ -105,6 +105,7 @@
     <string name="app_block_info1">Impedisci al sito di eseguire altre app.</string>
     <string name="app_block_info2">Se sono disponibili informazioni sul sito, aprire il sito.</string>
     <string name="app_block_noti">Il sito sta tentando di eseguire un\'altra app.</string>
+    <string name="open_app">App</string>
     <string name="link">Collegamento</string>
     <string name="open_url">Aperto</string>
     <string name="new_url">Nuova scheda</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Input non valido</string>
     <string name="continue_input">Continua</string>
     <string name="pip_advance">Modalità avanzata PIP</string>
-    <string name="pip_advance_info">Alcuni dispositivi potrebbero non essere supportati.\nQuesta funzione utilizza più memoria.\nFare attenzione quando si utilizza su dispositivi con poca memoria.</string>
+    <string name="device_warning">Alcuni dispositivi potrebbero non essere supportati.</string>
+    <string name="memory_warning">Questa funzione utilizza più memoria.\nFare attenzione quando si utilizza su dispositivi con poca memoria.</string>
     <string name="android_oreo">Supportato da Android Oreo.</string>
     <string name="secret_hist">Salva cronologia</string>
     <string name="secret_hist_info">Salva la cronologia in modalità di navigazione in incognito. La cronologia in incognito non viene visualizzata in modalità normale.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">%d file aggiunti</string>
     <string name="no_found">Non ci sono file.</string>
     <string name="file_found">%d file trovati</string>
-    <string name="face_greet">Grazie per aver utilizzato Soul Browser. ❤</string>
     <string name="storage_device">Dispositivo</string>
     <string name="storage_sdcard">Scheda SD</string>
     <string name="sort_guide_1">Tenere premuto l\'elenco per passare alla modalità di modifica.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Premere a lungo l\'icona per modificare la funzione.</string>
     <string name="down_service">Servizio di download di Soul</string>
     <string name="auto_comp">Completamento automatico</string>
+    <string name="check_element">Ispezione degli elementi</string>
+    <string name="quick_guide_1">1. Puoi muoverti tenendo premuta l\'icona.</string>
+    <string name="quick_guide_2">2. È possibile creare cartelle sovrapponendo le icone.</string>
 </resources>

@@ -105,6 +105,7 @@
     <string name="app_block_info1">阻止网站运行其它应用程序</string>
     <string name="app_block_info2">如果站点信息可用，请打开站点</string>
     <string name="app_block_noti">该网站尝试运行另外一个应用程序</string>
+    <string name="open_app">应用程序</string>
     <string name="link">链接</string>
     <string name="open_url">打开链接</string>
     <string name="new_url">新标签</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">输入无效</string>
     <string name="continue_input">继续</string>
     <string name="pip_advance">画中画高级模式</string>
-    <string name="pip_advance_info">某些设备可能不支持\n此功能使用更多的内存\n在内存较小的设备上使用时要小心</string>
+    <string name="device_warning">某些设备可能不支持</string>
+    <string name="memory_warning">此功能使用更多的内存\n在内存较小的设备上使用时要小心</string>
     <string name="android_oreo">自 Android Oreo 开始受支持</string>
     <string name="secret_hist">保存历史</string>
     <string name="secret_hist_info">以无痕模式保存你的历史记录。 无痕历史记录不会在正常模式下显示</string>
@@ -558,7 +560,6 @@
     <string name="file_added">已添加 %d 个文件</string>
     <string name="no_found">没有文件</string>
     <string name="file_found">已找到 %d 个文件</string>
-    <string name="face_greet">感谢你使用 Soul Browser ❤</string>
     <string name="storage_device">设备</string>
     <string name="storage_sdcard">闪存卡</string>
     <string name="sort_guide_1">长按列表以切换为编辑模式</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">长按图标可更改功能</string>
     <string name="down_service">Soul下载服务</string>
     <string name="auto_comp">自动完成</string>
+    <string name="check_element">元素检查</string>
+    <string name="quick_guide_1">1. 您可以按住图标来移动</string>
+    <string name="quick_guide_2">2. 您可以通过重叠图标来创建文件夹</string>
 </resources>

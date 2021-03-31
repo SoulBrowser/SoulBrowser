@@ -105,6 +105,7 @@
     <string name="app_block_info1">บล็อกไซต์ไม่ให้เรียกใช้แอปอื่น ๆ</string>
     <string name="app_block_info2">หากมีข้อมูลไซต์ให้เปิดไซต์</string>
     <string name="app_block_noti">ไซต์กำลังพยายามเรียกใช้แอปอื่น</string>
+    <string name="open_app">แอป</string>
     <string name="link">ลิงค์</string>
     <string name="open_url">เปิด</string>
     <string name="new_url">แท็บใหม่</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">อินพุตไม่ถูกต้อง</string>
     <string name="continue_input">ต่อ</string>
     <string name="pip_advance">PIP โหมดขั้นสูง</string>
-    <string name="pip_advance_info">อุปกรณ์บางอย่างอาจไม่รองรับ\nคุณสมบัตินี้ใช้หน่วยความจำมากขึ้น\nระวังเมื่อใช้กับอุปกรณ์ที่มีหน่วยความจำขนาดเล็ก</string>
+    <string name="device_warning">อุปกรณ์บางอย่างอาจไม่รองรับ</string>
+    <string name="memory_warning">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น\nระวังเมื่อใช้กับอุปกรณ์ที่มีหน่วยความจำขนาดเล็ก</string>
     <string name="android_oreo">รองรับตั้งแต่ Android Oreo</string>
     <string name="secret_hist">บันทึกประวัติ</string>
     <string name="secret_hist_info">บันทึกประวัติของคุณในโหมดไม่ระบุตัวตน ประวัติที่ไม่ระบุตัวตนไม่ปรากฏในโหมดปกติ</string>
@@ -558,7 +560,6 @@
     <string name="file_added">เพิ่ม %d ไฟล์</string>
     <string name="no_found">ไม่มีไฟล์</string>
     <string name="file_found">พบ %d ไฟล์</string>
-    <string name="face_greet">ขอบคุณที่ใช้ Soul Browser ❤</string>
     <string name="storage_device">อุปกรณ์</string>
     <string name="storage_sdcard">การ์ด SD</string>
     <string name="sort_guide_1">กดรายการค้างไว้เพื่อเปลี่ยนเป็นโหมดแก้ไข</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">กดไอคอนค้างไว้เพื่อเปลี่ยนฟังก์ชัน</string>
     <string name="down_service">บริการดาวน์โหลด Soul</string>
     <string name="auto_comp">เติมข้อความอัตโนมัติ</string>
+    <string name="check_element">การตรวจสอบองค์ประกอบ</string>
+    <string name="quick_guide_1">1. คุณสามารถย้ายได้โดยกดไอคอนค้างไว้</string>
+    <string name="quick_guide_2">2. คุณสามารถสร้างโฟลเดอร์โดยใช้ไอคอนที่ทับซ้อนกัน</string>
 </resources>

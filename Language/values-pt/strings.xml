@@ -105,6 +105,7 @@
     <string name="app_block_info1">Bloqueie o site de executar outros aplicativos.</string>
     <string name="app_block_info2">Se as informações do site estiverem disponíveis, abra o site.</string>
     <string name="app_block_noti">O site está tentando executar outro aplicativo.</string>
+    <string name="open_app">Aplicativo</string>
     <string name="link">Ligação</string>
     <string name="open_url">Aberto</string>
     <string name="new_url">Nova aba</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Entrada inválida</string>
     <string name="continue_input">Continuar</string>
     <string name="pip_advance">Modo avançado PIP</string>
-    <string name="pip_advance_info">Alguns dispositivos podem não ser suportados.\nEsse recurso usa mais memória.\nTenha cuidado ao usar em dispositivos com pouca memória.</string>
+    <string name="device_warning">Alguns dispositivos podem não ser suportados.</string>
+    <string name="memory_warning">Esse recurso usa mais memória.\nTenha cuidado ao usar em dispositivos com pouca memória.</string>
     <string name="android_oreo">Suportado desde o Android Oreo.</string>
     <string name="secret_hist">Salvar histórico</string>
     <string name="secret_hist_info">Salve seu histórico no modo de navegação anônima. O histórico de navegação anônima não aparece no modo normal.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">%d arquivos adicionados</string>
     <string name="no_found">Não há arquivos.</string>
     <string name="file_found">%d arquivos encontrados</string>
-    <string name="face_greet">Obrigado por usar o Soul Browser. ❤</string>
     <string name="storage_device">Dispositivo</string>
     <string name="storage_sdcard">Cartão SD</string>
     <string name="sort_guide_1">Pressione e segure a lista para mudar para o modo de edição.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Pressione longamente o ícone para alterar a função.</string>
     <string name="down_service">Soul serviço de download</string>
     <string name="auto_comp">Autocompletar</string>
+    <string name="check_element">Inspeção de elemento</string>
+    <string name="quick_guide_1">1. Você pode mover pressionando e segurando o ícone.</string>
+    <string name="quick_guide_2">2. Você pode criar pastas sobrepondo ícones.</string>
 </resources>

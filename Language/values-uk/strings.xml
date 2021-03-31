@@ -105,6 +105,7 @@
     <string name="app_block_info1">Заблокуйте веб-сайту запуск інших програм.</string>
     <string name="app_block_info2">Якщо інформація про сайт доступна, відкрийте сайт.</string>
     <string name="app_block_noti">Сайт намагається запустити іншу програму.</string>
+    <string name="open_app">Додаток</string>
     <string name="link">Посилання</string>
     <string name="open_url">Відкрити</string>
     <string name="new_url">Нова вкладка</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Неправильне введення</string>
     <string name="continue_input">Продовжуйте</string>
     <string name="pip_advance">Розширений режим PIP</string>
-    <string name="pip_advance_info">Деякі пристрої можуть не підтримуватися.\nЦя функція використовує більше пам\'яті.\nБудьте обережні при використанні на пристроях з малою пам\'яттю.</string>
+    <string name="device_warning">Деякі пристрої можуть не підтримуватися.</string>
+    <string name="memory_warning">Ця функція використовує більше пам\'яті.\nБудьте обережні при використанні на пристроях з малою пам\'яттю.</string>
     <string name="android_oreo">Підтримується з Android Oreo.</string>
     <string name="secret_hist">Зберегти історію</string>
     <string name="secret_hist_info">Збереження історії в режимі анонімного перегляду. Історія в режимі анонімного перегляду не відображається в звичайному режимі.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">Додано %d файлів</string>
     <string name="no_found">Немає файлів.</string>
     <string name="file_found">Знайдено %d файлів</string>
-    <string name="face_greet">Дякуємо, що використовуєте браузер Soul. ❤</string>
     <string name="storage_device">Пристрій</string>
     <string name="storage_sdcard">флеш-картка</string>
     <string name="sort_guide_1">Натисніть і потримайте список, щоб змінити режим редагування.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Довго натискайте піктограму, щоб змінити функцію.</string>
     <string name="down_service">Служба завантаження Soul</string>
     <string name="auto_comp">Автозаповнення</string>
+    <string name="check_element">Перевірка елемента</string>
+    <string name="quick_guide_1">1. Ви можете рухатися, натискаючи та утримуючи піктограму.</string>
+    <string name="quick_guide_2">2. Ви можете створювати папки, перекриваючи піктограми.</string>
 </resources>

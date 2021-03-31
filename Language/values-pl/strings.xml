@@ -105,6 +105,7 @@
     <string name="app_block_info1">Zablokuj witrynie uruchamianie innych aplikacji.</string>
     <string name="app_block_info2">Jeśli informacje o witrynie są dostępne, otwórz witrynę.</string>
     <string name="app_block_noti">Witryna próbuje uruchomić inną aplikację.</string>
+    <string name="open_app">Aplikacja</string>
     <string name="link">Połączyć</string>
     <string name="open_url">Otwórz</string>
     <string name="new_url">Nowa karta</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Błędne wejście</string>
     <string name="continue_input">Kontynuuj</string>
     <string name="pip_advance">Tryb zaawansowany PIP</string>
-    <string name="pip_advance_info">Niektóre urządzenia mogą nie być obsługiwane.\nTa funkcja zużywa więcej pamięci.\nZachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
+    <string name="device_warning">Niektóre urządzenia mogą nie być obsługiwane.</string>
+    <string name="memory_warning">Ta funkcja zużywa więcej pamięci.\nZachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
     <string name="android_oreo">Obsługiwane od Android Oreo.</string>
     <string name="secret_hist">Zapisz historię</string>
     <string name="secret_hist_info">Zapisz historię w trybie incognito. Historia w trybie incognito nie pojawia się w trybie normalnym.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">Dodano %d pliki</string>
     <string name="no_found">Brak plików.</string>
     <string name="file_found">Znaleziono %d pliki</string>
-    <string name="face_greet">Dziękujemy za korzystanie z przeglądarki duszy. ❤</string>
     <string name="storage_device">Urządzenie</string>
     <string name="storage_sdcard">Karta SD</string>
     <string name="sort_guide_1">Naciśnij i przytrzymaj listę, aby przejść do trybu edycji.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Długo naciśnij ikonę, aby zmienić funkcję.</string>
     <string name="down_service">Usługa pobierania Soul</string>
     <string name="auto_comp">Autouzupełnienie</string>
+    <string name="check_element">Kontrola elementów</string>
+    <string name="quick_guide_1">1. Możesz poruszać się naciskając i przytrzymując ikonę.</string>
+    <string name="quick_guide_2">2. Możesz tworzyć foldery, nakładając na siebie ikony.</string>
 </resources>

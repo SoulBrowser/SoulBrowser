@@ -105,6 +105,7 @@
     <string name="app_block_info1">Chặn trang web chạy các ứng dụng khác.</string>
     <string name="app_block_info2">Nếu thông tin trang web có sẵn, hãy mở trang web.</string>
     <string name="app_block_noti">Trang web đang cố gắng chạy một ứng dụng khác.</string>
+    <string name="open_app">Ứng dụng</string>
     <string name="link">Liên kết</string>
     <string name="open_url">Mở</string>
     <string name="new_url">Tab mới</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Đầu vào không hợp lệ</string>
     <string name="continue_input">Tiếp tục</string>
     <string name="pip_advance">Chế độ nâng cao PIP</string>
-    <string name="pip_advance_info">Một số thiết bị có thể không được hỗ trợ.\nTính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
+    <string name="device_warning">Một số thiết bị có thể không được hỗ trợ.</string>
+    <string name="memory_warning">Tính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
     <string name="android_oreo">Được hỗ trợ kể từ Android Oreo.</string>
     <string name="secret_hist">Lưu lịch sử</string>
     <string name="secret_hist_info">Lưu lịch sử của bạn trong chế độ ẩn danh. Lịch sử ẩn danh không xuất hiện trong chế độ bình thường.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">Đã thêm %d tập tin</string>
     <string name="no_found">Không có tập tin.</string>
     <string name="file_found">%d tập tin được tìm thấy</string>
-    <string name="face_greet">Cảm ơn bạn đã sử dụng Soul Browser. ❤</string>
     <string name="storage_device">Thiết bị</string>
     <string name="storage_sdcard">Thẻ SD</string>
     <string name="sort_guide_1">Nhấn và giữ danh sách để thay đổi để chỉnh sửa chế độ.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Nhấn và giữ biểu tượng để thay đổi chức năng.</string>
     <string name="down_service">Dịch vụ tải xuống Soul</string>
     <string name="auto_comp">Tự động hoàn thành</string>
+    <string name="check_element">Kiểm tra yếu tố</string>
+    <string name="quick_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ biểu tượng.</string>
+    <string name="quick_guide_2">2. Bạn có thể tạo thư mục bằng các biểu tượng chồng lên nhau.</string>
 </resources>

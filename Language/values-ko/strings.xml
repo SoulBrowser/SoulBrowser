@@ -105,6 +105,7 @@
     <string name="app_block_info1">사이트에서 다른 앱을 실행하지 못하도록 차단합니다.</string>
     <string name="app_block_info2">사이트 정보를 사용할 수 있는 경우, 사이트를 엽니다.</string>
     <string name="app_block_noti">사이트에서 다른 앱을 실행하려고합니다.</string>
+    <string name="open_app">앱</string>
     <string name="link">링크</string>
     <string name="open_url">열기</string>
     <string name="new_url">새 탭</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">잘못된 입력</string>
     <string name="continue_input">계속</string>
     <string name="pip_advance">PIP 고급 모드</string>
-    <string name="pip_advance_info">일부 디바이스는 지원되지 않을 수 있습니다.\n이 기능은 더 많은 메모리를 사용합니다.\n메모리가 작은 장치에서 사용할 때는 주의하십시오.</string>
+    <string name="device_warning">일부 디바이스는 지원되지 않을 수 있습니다.</string>
+    <string name="memory_warning">이 기능은 더 많은 메모리를 사용합니다.\n메모리가 작은 장치에서 사용할 때는 주의하십시오.</string>
     <string name="android_oreo">Android Oreo부터 지원됩니다.</string>
     <string name="secret_hist">방문 기록 저장</string>
     <string name="secret_hist_info">시크릿 모드의 방문 기록을 저장합니다. 시크릿 모드의 방문 기록은 일반 모드에서는 나타나지 않습니다.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">파일 %d 개 추가됨</string>
     <string name="no_found">파일이 없습니다.</string>
     <string name="file_found">파일 %d 개 발견됨</string>
-    <string name="face_greet">Soul Browser를 사용해 주셔서 감사합니다. ❤</string>
     <string name="storage_device">디바이스</string>
     <string name="storage_sdcard">SD 카드</string>
     <string name="sort_guide_1">목록을 길게 누르면 편집 모드로 변경됩니다.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">아이콘을 길게 누르면 기능을 변경할 수 있습니다.</string>
     <string name="down_service">Soul 다운로드 서비스</string>
     <string name="auto_comp">자동 완성</string>
+    <string name="check_element">요소 검사</string>
+    <string name="quick_guide_1">1. 아이콘을 길게 눌러 이동할 수 있습니다.</string>
+    <string name="quick_guide_2">2. 아이콘을 겹쳐서 폴더를 만들 수 있습니다.</string>
 </resources>

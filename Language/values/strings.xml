@@ -105,6 +105,7 @@
     <string name="app_block_info1">Block the site from running other apps.</string>
     <string name="app_block_info2">If site information is available, open the site.</string>
     <string name="app_block_noti">The site is trying to run another app.</string>
+    <string name="open_app">App</string>
     <string name="link">Link</string>
     <string name="open_url">Open</string>
     <string name="new_url">New tab</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Wrong input</string>
     <string name="continue_input">Continue</string>
     <string name="pip_advance">PIP advanced mode</string>
-    <string name="pip_advance_info">Some devices may not be supported.\nThis feature uses more memory.\nBe careful when using on devices with small memory.</string>
+    <string name="device_warning">Some devices may not be supported.</string>
+    <string name="memory_warning">This feature uses more memory.\nBe careful when using on devices with small memory.</string>
     <string name="android_oreo">Supported since Android Oreo.</string>
     <string name="secret_hist">Save history</string>
     <string name="secret_hist_info">Save history in incognito mode. History in incognito mode does not appear in normal mode.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">%d files added</string>
     <string name="no_found">There are no files.</string>
     <string name="file_found">%d files found</string>
-    <string name="face_greet">Thank you for using Soul Browser. ❤</string>
     <string name="storage_device">Device</string>
     <string name="storage_sdcard">SD card</string>
     <string name="sort_guide_1">Press and hold the list to change to edit mode.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Long press the icon to change the function.</string>
     <string name="down_service">Soul download service</string>
     <string name="auto_comp">Auto complete</string>
+    <string name="check_element">Element inspection</string>
+    <string name="quick_guide_1">1. You can move by pressing and holding the icon.</string>
+    <string name="quick_guide_2">2. You can create folders by overlapping icons.</string>
 </resources>

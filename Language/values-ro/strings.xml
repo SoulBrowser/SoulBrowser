@@ -105,6 +105,7 @@
     <string name="app_block_info1">Blocați site-ul pentru a rula alte aplicații.</string>
     <string name="app_block_info2">Dacă sunt disponibile informații despre site, deschideți site-ul.</string>
     <string name="app_block_noti">Site-ul încearcă să ruleze o altă aplicație.</string>
+    <string name="open_app">Aplicație</string>
     <string name="link">Legătură</string>
     <string name="open_url">Deschide</string>
     <string name="new_url">Fila nouă</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Intrare greșită</string>
     <string name="continue_input">Continuă</string>
     <string name="pip_advance">Mod avansat PIP</string>
-    <string name="pip_advance_info">Este posibil ca unele dispozitive să nu fie acceptate.\nAceastă caracteristică folosește mai multă memorie.\nAveți grijă când utilizați pe dispozitive cu memorie mică.</string>
+    <string name="device_warning">Este posibil ca unele dispozitive să nu fie acceptate.</string>
+    <string name="memory_warning">Această caracteristică folosește mai multă memorie.\nAveți grijă când utilizați pe dispozitive cu memorie mică.</string>
     <string name="android_oreo">Suportat de la Android Oreo.</string>
     <string name="secret_hist">Salvare istoric</string>
     <string name="secret_hist_info">Salvați istoricul în modul incognito. Istoricul în modul incognito nu apare în modul normal.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">%d fișiere adăugate</string>
     <string name="no_found">Nu există fișiere.</string>
     <string name="file_found">%d fișiere găsite</string>
-    <string name="face_greet">Vă mulțumim că utilizați Soul Browser. ❤</string>
     <string name="storage_device">Dispozitiv</string>
     <string name="storage_sdcard">Card SD</string>
     <string name="sort_guide_1">Apăsați și mențineți apăsat lista pentru a schimba modul de editare.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Apăsați lung pictograma pentru a schimba funcția.</string>
     <string name="down_service">Serviciu de descărcare Soul</string>
     <string name="auto_comp">Completare automată</string>
+    <string name="check_element">Inspecția elementelor</string>
+    <string name="quick_guide_1">1. Vă puteți mișca apăsând și menținând apăsată pictograma.</string>
+    <string name="quick_guide_2">2. Puteți crea foldere prin suprapunerea pictogramelor.</string>
 </resources>

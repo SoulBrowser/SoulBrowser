@@ -105,6 +105,7 @@
     <string name="app_block_info1">Blockieren Sie die Ausführung anderer Websites durch die Seite.</string>
     <string name="app_block_info2">Wenn Site-Informationen verfügbar sind, öffnen Sie die Site.</string>
     <string name="app_block_noti">Die Seite versucht, eine andere App auszuführen.</string>
+    <string name="open_app">App</string>
     <string name="link">Verknüpfung</string>
     <string name="open_url">Öffnen</string>
     <string name="new_url">Neuer Tab</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Ungültige Eingabe</string>
     <string name="continue_input">Fortsetzen</string>
     <string name="pip_advance">PIP erweiterter Modus</string>
-    <string name="pip_advance_info">Einige Geräte werden möglicherweise nicht unterstützt.\nDiese Funktion benötigt mehr Speicher.\nSeien sie vorsichtig, wenn sie Geräte mit kleinem Speicher verwenden.</string>
+    <string name="device_warning">Einige Geräte werden möglicherweise nicht unterstützt.</string>
+    <string name="memory_warning">Diese Funktion benötigt mehr Speicher.\nSeien sie vorsichtig, wenn sie Geräte mit kleinem Speicher verwenden.</string>
     <string name="android_oreo">Unterstützt seit Android Oreo.</string>
     <string name="secret_hist">Verlauf speichern</string>
     <string name="secret_hist_info">Speichern Sie Ihren Verlauf im Inkognito Modus. Der Inkognito-Verlauf wird im normalen Modus nicht angezeigt.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">%d Dateien hinzugefügt</string>
     <string name="no_found">Es gibt keine Dateien.</string>
     <string name="file_found">%d Dateien gefunden</string>
-    <string name="face_greet">Vielen Dank, dass Sie Soul Browser verwenden. ❤</string>
     <string name="storage_device">Gerät</string>
     <string name="storage_sdcard">SD-Karte</string>
     <string name="sort_guide_1">Halten Sie die Liste gedrückt, um in den Bearbeitungsmodus zu wechseln.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Drücken Sie lange auf das Symbol, um die Funktion zu ändern.</string>
     <string name="down_service">Soul Download-Service</string>
     <string name="auto_comp">Automatische Vervollständigung</string>
+    <string name="check_element">Elementinspektion</string>
+    <string name="quick_guide_1">1. Sie können sich bewegen, indem Sie das Symbol gedrückt halten.</string>
+    <string name="quick_guide_2">2. Sie können Ordner erstellen, indem Sie Symbole überlappen.</string>
 </resources>

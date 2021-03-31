@@ -105,6 +105,7 @@
     <string name="app_block_info1">サイトが他のアプリを実行しないようにブロックします。</string>
     <string name="app_block_info2">サイト情報を利用することができている場合は、サイトを開きます。</string>
     <string name="app_block_noti">サイトが他のアプリを実行しようとします。</string>
+    <string name="open_app">アプリ</string>
     <string name="link">リンク</string>
     <string name="open_url">オープン</string>
     <string name="new_url">新しいタブ</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">無効な入力</string>
     <string name="continue_input">持続する</string>
     <string name="pip_advance">PIP詳細モード</string>
-    <string name="pip_advance_info">一部のデバイスはサポートされないことがあります。\nこの機能は、より多くのメモリを使用します。\nメモリが小さなデバイスで使用するときは注意してください。</string>
+    <string name="device_warning">一部のデバイスはサポートされないことがあります。</string>
+    <string name="memory_warning">この機能は、より多くのメモリを使用します。\nメモリが小さなデバイスで使用するときは注意してください。</string>
     <string name="android_oreo">Android Oreoからサポートされます。</string>
     <string name="secret_hist">履歴保存</string>
     <string name="secret_hist_info">シークレットモードの履歴を保存します。シークレットモードの履歴は、通常モードでは表示されません。</string>
@@ -558,7 +560,6 @@
     <string name="file_added">ファイルの%dつの追加された</string>
     <string name="no_found">ファイルがありません。</string>
     <string name="file_found">%dファイルが見つかりました</string>
-    <string name="face_greet">Soul Browserを使っていただきありがとうございます。 ❤</string>
     <string name="storage_device">デバイス</string>
     <string name="storage_sdcard">SDカード</string>
     <string name="sort_guide_1">リストを長く押して編集モードに変更します。</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">アイコンを長押しすると機能を変更することができます。</string>
     <string name="down_service">Soulダウンロードサービス</string>
     <string name="auto_comp">オートコンプリート</string>
+    <string name="check_element">要素の検査</string>
+    <string name="quick_guide_1">1. アイコンを長押しして移動することができます。</string>
+    <string name="quick_guide_2">2. アイコンを重ねフォルダを作成することができます。</string>
 </resources>

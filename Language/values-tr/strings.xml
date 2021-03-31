@@ -105,6 +105,7 @@
     <string name="app_block_info1">Sitenin diğer uygulamaları çalıştırmasını engelleyin.</string>
     <string name="app_block_info2">Site bilgisi mevcutsa siteyi açın.</string>
     <string name="app_block_noti">Site başka bir uygulamayı çalıştırmaya çalışıyor.</string>
+    <string name="open_app">Uygulama</string>
     <string name="link">Bağlantı</string>
     <string name="open_url">Aç</string>
     <string name="new_url">Yeni sekme</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Geçersiz giriş</string>
     <string name="continue_input">Devam et</string>
     <string name="pip_advance">PIP gelişmiş modu</string>
-    <string name="pip_advance_info">Bazı cihazlar desteklenmeyebilir.\nBu özellik daha fazla bellek kullanır.\nKüçük belleğe sahip cihazlarda kullanırken dikkatli olun.</string>
+    <string name="device_warning">Bazı cihazlar desteklenmeyebilir.</string>
+    <string name="memory_warning">Bu özellik daha fazla bellek kullanır.\nKüçük belleğe sahip cihazlarda kullanırken dikkatli olun.</string>
     <string name="android_oreo">Android Oreo\'dan beri desteklenmektedir.</string>
     <string name="secret_hist">Geçmişi kaydet</string>
     <string name="secret_hist_info">Geçmişinizi gizli modda kaydedin. Gizli geçmiş normal modda görünmüyor.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">%d dosya eklendi</string>
     <string name="no_found">Dosya yok.</string>
     <string name="file_found">%d dosya bulundu</string>
-    <string name="face_greet">Soul Browser\'ı kullandığınız için teşekkür ederiz. ❤</string>
     <string name="storage_device">Cihaz</string>
     <string name="storage_sdcard">SD kart</string>
     <string name="sort_guide_1">Düzenleme moduna geçmek için listeyi basılı tutun.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">İşlevi değiştirmek için simgeye uzun basın.</string>
     <string name="down_service">Soul indirme hizmeti</string>
     <string name="auto_comp">Otomatik tamamlama</string>
+    <string name="check_element">Eleman muayenesi</string>
+    <string name="quick_guide_1">1. Simgeye basılı tutarak hareket edebilirsiniz.</string>
+    <string name="quick_guide_2">2. Üst üste gelen simgelerle klasörler oluşturabilirsiniz.</string>
 </resources>

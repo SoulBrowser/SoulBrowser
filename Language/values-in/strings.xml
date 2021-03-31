@@ -105,6 +105,7 @@
     <string name="app_block_info1">Blokir situs agar tidak menjalankan aplikasi lain.</string>
     <string name="app_block_info2">Jika informasi situs tersedia, buka situs.</string>
     <string name="app_block_noti">Situs ini mencoba menjalankan aplikasi lain.</string>
+    <string name="open_app">Aplikasi</string>
     <string name="link">Tautan</string>
     <string name="open_url">Buka</string>
     <string name="new_url">Tab baru</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Input tidak valid</string>
     <string name="continue_input">Terus</string>
     <string name="pip_advance">Mode lanjutan PIP</string>
-    <string name="pip_advance_info">Một số thiết bị có thể không được hỗ trợ.\nTính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
+    <string name="device_warning">Một số thiết bị có thể không được hỗ trợ.</string>
+    <string name="memory_warning">Tính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
     <string name="android_oreo">Didukung sejak Android Oreo.</string>
     <string name="secret_hist">Simpan riwayat</string>
     <string name="secret_hist_info">Simpan riwayat Anda dalam mode penyamaran. Riwayat penyamaran tidak muncul dalam mode normal.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">%d file ditambahkan</string>
     <string name="no_found">Tidak ada file.</string>
     <string name="file_found">%d file ditemukan</string>
-    <string name="face_greet">Terima kasih telah menggunakan Soul Browser. ❤</string>
     <string name="storage_device">Perangkat</string>
     <string name="storage_sdcard">kartu SD</string>
     <string name="sort_guide_1">Tekan dan tahan daftar untuk mengubah ke mode edit.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Tekan lama ikon untuk mengubah fungsi.</string>
     <string name="down_service">Layanan unduhan Soul</string>
     <string name="auto_comp">Pelengkapan otomatis</string>
+    <string name="check_element">Pemeriksaan elemen</string>
+    <string name="quick_guide_1">1. Anda dapat bergerak dengan menekan dan menahan ikon.</string>
+    <string name="quick_guide_2">2. Anda dapat membuat folder dengan ikon yang tumpang tindih.</string>
 </resources>

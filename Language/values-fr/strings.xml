@@ -105,6 +105,7 @@
     <string name="app_block_info1">Empêchez le site d\'exécuter d\'autres applications.</string>
     <string name="app_block_info2">Si des informations sur le site sont disponibles, ouvrez le site.</string>
     <string name="app_block_noti">Le site tente d\'exécuter une autre application.</string>
+    <string name="open_app">App</string>
     <string name="link">Lien</string>
     <string name="open_url">Ouvrir</string>
     <string name="new_url">Nouvel onglet</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">Entrée invalide</string>
     <string name="continue_input">Continuez</string>
     <string name="pip_advance">Mode avancé PIP</string>
-    <string name="pip_advance_info">Certains appareils peuvent ne pas être pris en charge.\nCette fonctionnalité utilise plus de mémoire.\nSoyez prudent lorsque vous utilisez sur des appareils avec une petite mémoire.</string>
+    <string name="device_warning">Certains appareils peuvent ne pas être pris en charge.</string>
+    <string name="memory_warning">Cette fonctionnalité utilise plus de mémoire.\nSoyez prudent lorsque vous utilisez sur des appareils avec une petite mémoire.</string>
     <string name="android_oreo">Pris en charge depuis Android Oreo.</string>
     <string name="secret_hist">Sauvegarder l\'historique</string>
     <string name="secret_hist_info">Enregistrez votre historique en mode de navigation privée. Votre historique incognito n\'apparaît pas en mode normal.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">%d fichiers ajoutés</string>
     <string name="no_found">Il n\'y a aucun fichier.</string>
     <string name="file_found">%d fichiers trouvés</string>
-    <string name="face_greet">Merci d\'utiliser Soul Browser. ❤</string>
     <string name="storage_device">Dispositif</string>
     <string name="storage_sdcard">Carte SD</string>
     <string name="sort_guide_1">Appuyez et maintenez la liste pour passer en mode édition.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">Appuyez longuement sur l\'icône pour changer la fonction.</string>
     <string name="down_service">Soul service de téléchargement</string>
     <string name="auto_comp">Saisie automatique</string>
+    <string name="check_element">Inspection des éléments</string>
+    <string name="quick_guide_1">1. Puedes moverte presionando y manteniendo presionado el ícono.</string>
+    <string name="quick_guide_2">2. Vous pouvez créer des dossiers en superposant des icônes.</string>
 </resources>

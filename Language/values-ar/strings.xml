@@ -105,6 +105,7 @@
     <string name="app_block_info1">منع الموقع من تشغيل تطبيقات أخرى.</string>
     <string name="app_block_info2">إذا كانت معلومات الموقع متوفرة ، افتح الموقع.</string>
     <string name="app_block_noti">أحاول تشغيل تطبيق آخر على الموقع.</string>
+    <string name="open_app">برنامج</string>
     <string name="link">حلقة الوصل</string>
     <string name="open_url">حرارة</string>
     <string name="new_url">علامة تبويب جديدة</string>
@@ -465,7 +466,8 @@
     <string name="wrong_input">إدخال خاطئ</string>
     <string name="continue_input">استمر</string>
     <string name="pip_advance">الوضع المتقدم PIP</string>
-    <string name="pip_advance_info">قد لا تكون بعض الأجهزة مدعومة.\nتستخدم هذه الميزة المزيد من الذاكرة.\nكن حذرًا عند استخدامه على الأجهزة ذات الذاكرة الصغيرة.</string>
+    <string name="device_warning">قد لا تكون بعض الأجهزة مدعومة.</string>
+    <string name="memory_warning">تستخدم هذه الميزة المزيد من الذاكرة.\nكن حذرًا عند استخدامه على الأجهزة ذات الذاكرة الصغيرة.</string>
     <string name="android_oreo">مدعوم من Android Oreo.</string>
     <string name="secret_hist">حفظ التاريخ</string>
     <string name="secret_hist_info">يحفظ محفوظات زيارات وضع التصفح المتخفي. لا يظهر سجل التصفح لوضع التصفح المتخفي في الوضع العادي.</string>
@@ -558,7 +560,6 @@
     <string name="file_added">تمت إضافة %d ملفات</string>
     <string name="no_found">الملف غير موجود.</string>
     <string name="file_found">تم العثور على %d ملفات</string>
-    <string name="face_greet">شكرًا لك على استخدام متصفح الروح. ❤</string>
     <string name="storage_device">جهاز</string>
     <string name="storage_sdcard">بطاقة الذاكرة</string>
     <string name="sort_guide_1">الضغط لفترة طويلة على القائمة للتغيير إلى وضع التحرير.</string>
@@ -824,4 +825,7 @@
     <string name="menu_guide">اضغط لفترة طويلة على الأيقونة لتغيير الوظيفة.</string>
     <string name="down_service">Soul تحميل الخدمة</string>
     <string name="auto_comp">الإكمال التلقائي</string>
+    <string name="check_element">فحص العنصر</string>
+    <string name="quick_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على الأيقونة.</string>
+    <string name="quick_guide_2">2. يمكنك إنشاء مجلدات من خلال تداخل الرموز.</string>
 </resources>
