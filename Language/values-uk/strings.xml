@@ -371,7 +371,7 @@
     <string name="important_copyright">Авторські права дуже важливі.</string>
     <string name="cancelled">Скасовано</string>
     <string name="locale">Мова</string>
-    <string name="locale_restart">Браузер перезавантажується, оскільки мова змінилася.</string>
+    <string name="locale_restart">Мова змінилася, тому вам потрібно перезапустити програму.</string>
     <string name="lang_res">Мовні ресурси</string>
     <string name="file_name">Назва файлу</string>
     <string name="real_name">Справжнє ім\'я</string>
@@ -687,7 +687,7 @@
     <string name="saving">Збереження&#8230;</string>
     <string name="save_empty">Зберегти нема чого.</string>
     <string name="not_changed">Жодних змін не внесено.</string>
-    <string name="app_restart">Додаток перезавантажиться.</string>
+    <string name="app_restart">Вам потрібно перезапустити програму.</string>
     <string name="reader_guide">Натисніть і утримуйте, щоб вибрати текст. Ви можете відтворювати лише вибраний текст.</string>
     <string name="web_pull_down">Потягніть браузер</string>
     <string name="pull_down_info">Ви можете витягнути браузер.\nЦе для користувачів однією рукою.</string>

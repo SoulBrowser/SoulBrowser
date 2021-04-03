@@ -371,7 +371,7 @@
     <string name="important_copyright">Telif hakkı çok önemlidir.</string>
     <string name="cancelled">İptal edildi</string>
     <string name="locale">Dil</string>
-    <string name="locale_restart">Dil değiştiği için uygulama yeniden başlatılıyor.</string>
+    <string name="locale_restart">Dil değişti, bu yüzden uygulamayı yeniden başlatmanız gerekiyor.</string>
     <string name="lang_res">Dil kaynağı</string>
     <string name="file_name">Dosya adı</string>
     <string name="real_name">Gerçek adı</string>
@@ -687,7 +687,7 @@
     <string name="saving">Tasarruf&#8230;</string>
     <string name="save_empty">Kurtarılacak bir şey yok.</string>
     <string name="not_changed">Hiçbir değişiklik yapılmadı.</string>
-    <string name="app_restart">Uygulama yeniden başlatılacak.</string>
+    <string name="app_restart">Uygulamayı yeniden başlatmanız gerekiyor.</string>
     <string name="reader_guide">Metin seçmek için basılı tutun, yalnızca seçilen metni oynatabilirsiniz.</string>
     <string name="web_pull_down">Tarayıcıyı aşağı çekin</string>
     <string name="pull_down_info">Tarayıcıyı aşağı çekebilirsiniz.\nBu tek elli kullanıcılar içindir.</string>

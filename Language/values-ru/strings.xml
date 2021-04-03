@@ -371,7 +371,7 @@
     <string name="important_copyright">Авторское право очень важно.</string>
     <string name="cancelled">Отменено.</string>
     <string name="locale">Язык</string>
-    <string name="locale_restart">Приложение перезапускается, потому что язык изменился.</string>
+    <string name="locale_restart">Язык изменился, поэтому вам нужно перезапустить приложение.</string>
     <string name="lang_res">Ресурсы перевода</string>
     <string name="file_name">Имя файла</string>
     <string name="real_name">Настоящее имя</string>
@@ -687,7 +687,7 @@
     <string name="saving">Сохранение&#8230;</string>
     <string name="save_empty">Там нет ничего, чтобы сохранить.</string>
     <string name="not_changed">Никаких изменений не было сделано.</string>
-    <string name="app_restart">Приложение перезапустится.</string>
+    <string name="app_restart">Вам необходимо перезапустить приложение.</string>
     <string name="reader_guide">Нажмите и удерживайте, чтобы выбрать текст, вы можете воспроизводить только выбранный текст.</string>
     <string name="web_pull_down">Опустить содержимое страницы</string>
     <string name="pull_down_info">Вы можете опустить элементы вверху страницы свайпом вниз.\nОблегчает использование одной рукой.</string>

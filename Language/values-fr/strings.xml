@@ -371,7 +371,7 @@
     <string name="important_copyright">Le droit d\'auteur est très important.</string>
     <string name="cancelled">Annulé</string>
     <string name="locale">Langue</string>
-    <string name="locale_restart">L\'application redémarre car la langue a changé.</string>
+    <string name="locale_restart">La langue a changé, vous devez donc redémarrer l\'application.</string>
     <string name="lang_res">Ressource linguistique</string>
     <string name="file_name">Fichier nom</string>
     <string name="real_name">Vrai nom</string>
@@ -687,7 +687,7 @@
     <string name="saving">Sauvegarde&#8230;</string>
     <string name="save_empty">Il n\'y a rien à sauver.</string>
     <string name="not_changed">Aucun changement n\'a été fait.</string>
-    <string name="app_restart">L\'application redémarrera.</string>
+    <string name="app_restart">Vous devez redémarrer l\'application.</string>
     <string name="reader_guide">Appuyez et maintenez pour sélectionner le texte, vous ne pouvez lire que le texte sélectionné.</string>
     <string name="web_pull_down">Navigateur déroulant</string>
     <string name="pull_down_info">Vous pouvez dérouler le navigateur.\nCeci est pour les utilisateurs à une main.</string>

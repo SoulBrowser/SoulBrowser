@@ -371,7 +371,7 @@
     <string name="important_copyright">حقوق التأليف والنشر مهمة جدا.</string>
     <string name="cancelled">ألغيت.</string>
     <string name="locale">لغة</string>
-    <string name="locale_restart">تم تغيير اللغة وإعادة تشغيل التطبيق.</string>
+    <string name="locale_restart">تم تغيير اللغة ، لذلك تحتاج إلى إعادة تشغيل التطبيق.</string>
     <string name="lang_res">مصدر اللغة</string>
     <string name="file_name">اسم الملف</string>
     <string name="real_name">الاسم الحقيقي</string>
@@ -687,7 +687,7 @@
     <string name="saving">إنقاذ</string>
     <string name="save_empty">لا يوجد شيء لحفظه.</string>
     <string name="not_changed">لم يتغير شيء.</string>
-    <string name="app_restart">سيتم إعادة تشغيل التطبيق.</string>
+    <string name="app_restart">تحتاج إلى إعادة تشغيل التطبيق.</string>
     <string name="reader_guide">إذا ضغطت مع الاستمرار على نص لتحديده ، فيمكن تشغيل النص المحدد فقط.</string>
     <string name="web_pull_down">اسحب المتصفح</string>
     <string name="pull_down_info">يمكنك إيقاف المتصفح.\nهذا للمستخدمين بيد واحدة.</string>

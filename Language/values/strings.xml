@@ -371,7 +371,7 @@
     <string name="important_copyright">Copyright is very important.</string>
     <string name="cancelled">Cancelled</string>
     <string name="locale">Language</string>
-    <string name="locale_restart">The app restarts because the language has changed.</string>
+    <string name="locale_restart">The language has changed, so you need to restart the app.</string>
     <string name="lang_res">Language resource</string>
     <string name="file_name">File name</string>
     <string name="real_name">Real name</string>
@@ -687,7 +687,7 @@
     <string name="saving">Saving&#8230;</string>
     <string name="save_empty">There is nothing to save.</string>
     <string name="not_changed">No changes have been made.</string>
-    <string name="app_restart">The app will restart.</string>
+    <string name="app_restart">You need to restart the app.</string>
     <string name="reader_guide">Press and hold to select text, you can play only the selected text.</string>
     <string name="web_pull_down">Pull down browser</string>
     <string name="pull_down_info">You can pull down the browser.\nThis is for one-handed users.</string>

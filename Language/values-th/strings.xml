@@ -371,7 +371,7 @@
     <string name="important_copyright">ลิขสิทธิ์มีความสำคัญมาก</string>
     <string name="cancelled">ยกเลิกแล้ว</string>
     <string name="locale">ภาษา</string>
-    <string name="locale_restart">แอปรีสตาร์ทเพราะภาษามีการเปลี่ยนแปลง</string>
+    <string name="locale_restart">ภาษามีการเปลี่ยนแปลงดังนั้นคุณต้องรีสตาร์ทแอป</string>
     <string name="lang_res">ทรัพยากรภาษา</string>
     <string name="file_name">ชื่อไฟล์</string>
     <string name="real_name">ชื่อจริง</string>
@@ -687,7 +687,7 @@
     <string name="saving">ประหยัด&#8230;</string>
     <string name="save_empty">ไม่มีอะไรจะบันทึก</string>
     <string name="not_changed">ไม่มีการเปลี่ยนแปลงใด ๆ</string>
-    <string name="app_restart">แอปรีสตาร์ท</string>
+    <string name="app_restart">คุณต้องรีสตาร์ทแอป</string>
     <string name="reader_guide">กดค้างไว้เพื่อเลือกข้อความคุณสามารถเล่นเฉพาะข้อความที่เลือก</string>
     <string name="web_pull_down">ดึงเบราว์เซอร์ลง</string>
     <string name="pull_down_info">คุณสามารถดึงเบราว์เซอร์ลง\nสำหรับผู้ใช้มือเดียว</string>

@@ -371,7 +371,7 @@
     <string name="important_copyright">Copyright é muito importante.</string>
     <string name="cancelled">Cancelado</string>
     <string name="locale">Língua</string>
-    <string name="locale_restart">O aplicativo é reiniciado porque o idioma mudou.</string>
+    <string name="locale_restart">O idioma mudou, então você precisa reiniciar o aplicativo.</string>
     <string name="lang_res">Recurso de linguagem</string>
     <string name="file_name">Nome arquivo</string>
     <string name="real_name">Nome verdadeiro</string>
@@ -687,7 +687,7 @@
     <string name="saving">Salvando&#8230;</string>
     <string name="save_empty">Não há nada para salvar.</string>
     <string name="not_changed">Nenhuma alteração foi feita.</string>
-    <string name="app_restart">O aplicativo será reiniciado.</string>
+    <string name="app_restart">Você precisa reiniciar o aplicativo.</string>
     <string name="reader_guide">Pressione e segure para selecionar o texto, você pode reproduzir apenas o texto selecionado.</string>
     <string name="web_pull_down">Puxe o navegador para baixo</string>
     <string name="pull_down_info">Você pode puxar o navegador para baixo.\nIsso é para usuários com uma mão.</string>

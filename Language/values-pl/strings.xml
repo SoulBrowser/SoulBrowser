@@ -371,7 +371,7 @@
     <string name="important_copyright">Prawo autorskie jest bardzo ważne.</string>
     <string name="cancelled">Anulowany</string>
     <string name="locale">Język</string>
-    <string name="locale_restart">Aplikacja uruchomi się ponownie, ponieważ zmienił się język.</string>
+    <string name="locale_restart">Język się zmienił, więc musisz ponownie uruchomić aplikację.</string>
     <string name="lang_res">Zasób językowy</string>
     <string name="file_name">Nazwa pliku</string>
     <string name="real_name">Prawdziwe imię</string>
@@ -687,7 +687,7 @@
     <string name="saving">Oszczędność&#8230;</string>
     <string name="save_empty">Nie ma nic do uratowania.</string>
     <string name="not_changed">Nie wprowadzono żadnych zmian.</string>
-    <string name="app_restart">Aplikacja uruchomi się ponownie.</string>
+    <string name="app_restart">Musisz ponownie uruchomić aplikację.</string>
     <string name="reader_guide">Naciśnij i przytrzymaj, aby zaznaczyć tekst, możesz odtwarzać tylko wybrany tekst.</string>
     <string name="web_pull_down">Rozwiń przeglądarkę</string>
     <string name="pull_down_info">Możesz rozwinąć przeglądarkę.\nTo jest dla użytkowników jednoręcznych.</string>

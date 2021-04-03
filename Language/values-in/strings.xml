@@ -371,7 +371,7 @@
     <string name="important_copyright">Hak cipta sangat penting.</string>
     <string name="cancelled">Dibatalkan</string>
     <string name="locale">Bahasa</string>
-    <string name="locale_restart">Aplikasi dimulai ulang karena bahasa telah berubah.</string>
+    <string name="locale_restart">Bahasanya telah berubah, jadi Anda perlu memulai ulang aplikasi.</string>
     <string name="lang_res">Sumber bahasa</string>
     <string name="file_name">Nama file</string>
     <string name="real_name">Nama asli</string>
@@ -687,7 +687,7 @@
     <string name="saving">Penghematan&#8230;</string>
     <string name="save_empty">Tidak ada yang bisa diselamatkan.</string>
     <string name="not_changed">Tidak ada perubahan yang dilakukan.</string>
-    <string name="app_restart">Aplikasi restart.</string>
+    <string name="app_restart">Anda perlu memulai ulang aplikasi.</string>
     <string name="reader_guide">Tekan dan tahan untuk memilih teks, Anda hanya dapat memutar teks yang dipilih.</string>
     <string name="web_pull_down">Tarik ke bawah browser</string>
     <string name="pull_down_info">Anda dapat menurunkan browser.\nIni untuk pengguna satu tangan.</string>

@@ -371,7 +371,7 @@
     <string name="important_copyright">Das Urheberrecht ist sehr wichtig.</string>
     <string name="cancelled">Abgebrochen</string>
     <string name="locale">Sprache</string>
-    <string name="locale_restart">Die App wird neu gestartet, da sich die Sprache geändert hat.</string>
+    <string name="locale_restart">Die Sprache hat sich geändert, daher müssen Sie die App neu starten.</string>
     <string name="lang_res">Sprachressource</string>
     <string name="file_name">Dateiname</string>
     <string name="real_name">Echter Name</string>
@@ -687,7 +687,7 @@
     <string name="saving">Sparen&#8230;</string>
     <string name="save_empty">Es gibt nichts zu speichern.</string>
     <string name="not_changed">Es wurden keine Änderungen vorgenommen.</string>
-    <string name="app_restart">Die App wird neu gestartet.</string>
+    <string name="app_restart">Sie müssen die App neu starten.</string>
     <string name="reader_guide">Gedrückt halten, um Text auszuwählen. Sie können nur den ausgewählten Text abspielen.</string>
     <string name="web_pull_down">Browser nach unten ziehen</string>
     <string name="pull_down_info">Sie können den Browser herunterziehen.\nDies ist für Einhandbenutzer.</string>

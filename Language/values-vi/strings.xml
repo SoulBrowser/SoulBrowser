@@ -371,7 +371,7 @@
     <string name="important_copyright">Bản quyền là rất quan trọng.</string>
     <string name="cancelled">Đã hủy</string>
     <string name="locale">Ngôn ngữ</string>
-    <string name="locale_restart">Ứng dụng khởi động lại vì ngôn ngữ đã thay đổi.</string>
+    <string name="locale_restart">Ngôn ngữ đã thay đổi, vì vậy bạn cần khởi động lại ứng dụng.</string>
     <string name="lang_res">Nguồn ngôn ngữ</string>
     <string name="file_name">Tên tệp</string>
     <string name="real_name">Tên thật</string>
@@ -687,7 +687,7 @@
     <string name="saving">Tiết kiệm&#8230;</string>
     <string name="save_empty">Không có gì để tiết kiệm.</string>
     <string name="not_changed">Không có thay đổi đã được thực hiện.</string>
-    <string name="app_restart">Ứng dụng sẽ khởi động lại.</string>
+    <string name="app_restart">Bạn cần khởi động lại ứng dụng.</string>
     <string name="reader_guide">Bấm và giữ để chọn văn bản, bạn chỉ có thể phát văn bản đã chọn.</string>
     <string name="web_pull_down">Kéo trình duyệt xuống</string>
     <string name="pull_down_info">Bạn có thể kéo trình duyệt xuống.\nĐiều này dành cho người dùng một tay.</string>

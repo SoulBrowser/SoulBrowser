@@ -371,7 +371,7 @@
     <string name="important_copyright">El copyright es muy importante.</string>
     <string name="cancelled">Cancelado</string>
     <string name="locale">Idioma</string>
-    <string name="locale_restart">La aplicación se reinicia porque el idioma ha cambiado.</string>
+    <string name="locale_restart">El idioma ha cambiado, por lo que debe reiniciar la aplicación.</string>
     <string name="lang_res">Recurso de idioma</string>
     <string name="file_name">Nombre del archivo</string>
     <string name="real_name">Nombre real</string>
@@ -687,7 +687,7 @@
     <string name="saving">Ahorro&#8230;</string>
     <string name="save_empty">No hay nada que salvar.</string>
     <string name="not_changed">No se han hecho cambios.</string>
-    <string name="app_restart">La aplicación se reiniciará.</string>
+    <string name="app_restart">Debes reiniciar la aplicación.</string>
     <string name="reader_guide">Mantenga presionado para seleccionar texto, solo puede reproducir el texto seleccionado.</string>
     <string name="web_pull_down">Despliegue el navegador</string>
     <string name="pull_down_info">Puede desplegar el navegador.\nEsto es para usuarios de una mano.</string>

@@ -371,7 +371,7 @@
     <string name="important_copyright">Drepturile de autor sunt foarte importante.</string>
     <string name="cancelled">Anulat</string>
     <string name="locale">Language</string>
-    <string name="locale_restart">Aplicația repornește deoarece limba s-a schimbat.</string>
+    <string name="locale_restart">Limba s-a schimbat, deci trebuie să reporniți aplicația.</string>
     <string name="lang_res">Resursă lingvistică</string>
     <string name="file_name">Nume fișier</string>
     <string name="real_name">Numele real</string>
@@ -687,7 +687,7 @@
     <string name="saving">Economisire&#8230;</string>
     <string name="save_empty">Nu este nimic de salvat.</string>
     <string name="not_changed">Nu s-au făcut modificări.</string>
-    <string name="app_restart">Aplicația va reporni.</string>
+    <string name="app_restart">Trebuie să reporniți aplicația.</string>
     <string name="reader_guide">Apăsați și mențineți apăsat pentru a selecta text, puteți reda doar textul selectat.</string>
     <string name="web_pull_down">Trageți în jos browserul</string>
     <string name="pull_down_info">Puteți trage în jos browserul.\nAceasta este pentru utilizatorii cu o singură mână.</string>

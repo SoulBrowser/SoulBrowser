@@ -371,7 +371,7 @@
     <string name="important_copyright">著作権は非常に重要です。</string>
     <string name="cancelled">キャンセルされました。</string>
     <string name="locale">言語</string>
-    <string name="locale_restart">言語が変更されて、アプリが再起動されます。</string>
+    <string name="locale_restart">言語が変更されたアプリを再起動する必要があります。</string>
     <string name="lang_res">言語リソース</string>
     <string name="file_name">ファイル名</string>
     <string name="real_name">本名</string>
@@ -687,7 +687,7 @@
     <string name="saving">保存中&#8230;</string>
     <string name="save_empty">保存内容がありません。</string>
     <string name="not_changed">変更された内容がありません。</string>
-    <string name="app_restart">アプリが再起動されます。</string>
+    <string name="app_restart">アプリを再起動する必要があります。</string>
     <string name="reader_guide">長く押して、テキストを選択すると、選択したテキストのみを再生することができます。</string>
     <string name="web_pull_down">ブラウザを引いて降り</string>
     <string name="pull_down_info">ブラウザを低下させることができます。\n片手ユーザーのための機能です。</string>

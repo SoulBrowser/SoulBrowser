@@ -371,7 +371,7 @@
     <string name="important_copyright">版权十分重要</string>
     <string name="cancelled">它已被取消</string>
     <string name="locale">语言</string>
-    <string name="locale_restart">应用程序重新启动，因为语言已更改</string>
+    <string name="locale_restart">语言已更改，因此您需要重新启动应用程序</string>
     <string name="lang_res">语言资源</string>
     <string name="file_name">文件名称</string>
     <string name="real_name">真正的名字</string>
@@ -687,7 +687,7 @@
     <string name="saving">保存&#8230;</string>
     <string name="save_empty">没有什么可保存的</string>
     <string name="not_changed">尚未进行任何更改</string>
-    <string name="app_restart">该应用程序将重新启动</string>
+    <string name="app_restart">您需要重新启动应用程序</string>
     <string name="reader_guide">按住以选择文本，你只能播放所选的文本</string>
     <string name="web_pull_down">下拉浏览器</string>
     <string name="pull_down_info">你可以把浏览器下拉，这将适合单手用户使用浏览器</string>
