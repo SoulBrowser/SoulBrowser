@@ -828,4 +828,5 @@
     <string name="check_element">Pemeriksaan elemen</string>
     <string name="quick_guide_1">1. Anda dapat bergerak dengan menekan dan menahan ikon.</string>
     <string name="quick_guide_2">2. Anda dapat membuat folder dengan ikon yang tumpang tindih.</string>
+    <string name="column_count">Jumlah kolom</string>
 </resources>

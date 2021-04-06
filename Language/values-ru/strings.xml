@@ -828,4 +828,5 @@
     <string name="check_element">Элементный контроль</string>
     <string name="quick_guide_1">1. Вы можете перемещаться, нажав и удерживая значок.</string>
     <string name="quick_guide_2">2. Вы можете создавать папки, перекрывая значки.</string>
+    <string name="column_count">Кол-во столбцов</string>
 </resources>

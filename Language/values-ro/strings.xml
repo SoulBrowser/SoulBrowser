@@ -828,4 +828,5 @@
     <string name="check_element">Inspecția elementelor</string>
     <string name="quick_guide_1">1. Vă puteți mișca apăsând și menținând apăsată pictograma.</string>
     <string name="quick_guide_2">2. Puteți crea foldere prin suprapunerea pictogramelor.</string>
+    <string name="column_count">Numărul de coloane</string>
 </resources>

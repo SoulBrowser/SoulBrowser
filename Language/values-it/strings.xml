@@ -828,4 +828,5 @@
     <string name="check_element">Ispezione degli elementi</string>
     <string name="quick_guide_1">1. Puoi muoverti tenendo premuta l\'icona.</string>
     <string name="quick_guide_2">2. È possibile creare cartelle sovrapponendo le icone.</string>
+    <string name="column_count">Conteggio colonne</string>
 </resources>

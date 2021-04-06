@@ -828,4 +828,5 @@
     <string name="check_element">Eleman muayenesi</string>
     <string name="quick_guide_1">1. Simgeye basılı tutarak hareket edebilirsiniz.</string>
     <string name="quick_guide_2">2. Üst üste gelen simgelerle klasörler oluşturabilirsiniz.</string>
+    <string name="column_count">Sütun sayısı</string>
 </resources>

@@ -828,4 +828,5 @@
     <string name="check_element">要素の検査</string>
     <string name="quick_guide_1">1. アイコンを長押しして移動することができます。</string>
     <string name="quick_guide_2">2. アイコンを重ねフォルダを作成することができます。</string>
+    <string name="column_count">列数</string>
 </resources>

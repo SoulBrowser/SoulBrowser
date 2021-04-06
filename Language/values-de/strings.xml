@@ -828,4 +828,5 @@
     <string name="check_element">Elementinspektion</string>
     <string name="quick_guide_1">1. Sie können sich bewegen, indem Sie das Symbol gedrückt halten.</string>
     <string name="quick_guide_2">2. Sie können Ordner erstellen, indem Sie Symbole überlappen.</string>
+    <string name="column_count">Spalten zählen</string>
 </resources>

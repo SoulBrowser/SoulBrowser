@@ -828,4 +828,5 @@
     <string name="check_element">Inspeção de elemento</string>
     <string name="quick_guide_1">1. Você pode mover pressionando e segurando o ícone.</string>
     <string name="quick_guide_2">2. Você pode criar pastas sobrepondo ícones.</string>
+    <string name="column_count">Contagem de colunas</string>
 </resources>

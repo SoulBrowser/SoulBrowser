@@ -828,4 +828,5 @@
     <string name="check_element">요소 검사</string>
     <string name="quick_guide_1">1. 아이콘을 길게 눌러 이동할 수 있습니다.</string>
     <string name="quick_guide_2">2. 아이콘을 겹쳐서 폴더를 만들 수 있습니다.</string>
+    <string name="column_count">열 수</string>
 </resources>

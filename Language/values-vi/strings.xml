@@ -828,4 +828,5 @@
     <string name="check_element">Kiểm tra yếu tố</string>
     <string name="quick_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ biểu tượng.</string>
     <string name="quick_guide_2">2. Bạn có thể tạo thư mục bằng các biểu tượng chồng lên nhau.</string>
+    <string name="column_count">Số cột</string>
 </resources>

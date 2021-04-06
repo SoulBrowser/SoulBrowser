@@ -828,4 +828,5 @@
     <string name="check_element">元素检查</string>
     <string name="quick_guide_1">1. 您可以按住图标来移动</string>
     <string name="quick_guide_2">2. 您可以通过重叠图标来创建文件夹</string>
+    <string name="column_count">列数</string>
 </resources>

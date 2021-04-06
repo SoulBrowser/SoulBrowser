@@ -828,4 +828,5 @@
     <string name="check_element">Element inspection</string>
     <string name="quick_guide_1">1. You can move by pressing and holding the icon.</string>
     <string name="quick_guide_2">2. You can create folders by overlapping icons.</string>
+    <string name="column_count">Columns count</string>
 </resources>

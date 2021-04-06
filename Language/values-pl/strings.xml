@@ -828,4 +828,5 @@
     <string name="check_element">Kontrola elementów</string>
     <string name="quick_guide_1">1. Możesz poruszać się naciskając i przytrzymując ikonę.</string>
     <string name="quick_guide_2">2. Możesz tworzyć foldery, nakładając na siebie ikony.</string>
+    <string name="column_count">Liczba kolumn</string>
 </resources>

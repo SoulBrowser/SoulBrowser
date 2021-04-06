@@ -828,4 +828,5 @@
     <string name="check_element">فحص العنصر</string>
     <string name="quick_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على الأيقونة.</string>
     <string name="quick_guide_2">2. يمكنك إنشاء مجلدات من خلال تداخل الرموز.</string>
+    <string name="column_count">عدد الأعمدة</string>
 </resources>

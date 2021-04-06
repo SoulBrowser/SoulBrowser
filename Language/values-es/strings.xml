@@ -828,4 +828,5 @@
     <string name="check_element">Inspección de elementos</string>
     <string name="quick_guide_1">1. Puedes moverte presionando y manteniendo presionado el ícono.</string>
     <string name="quick_guide_2">2. Puede crear carpetas superponiendo iconos.</string>
+    <string name="column_count">Recuento de columnas</string>
 </resources>

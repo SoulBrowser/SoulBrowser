@@ -828,4 +828,5 @@
     <string name="check_element">การตรวจสอบองค์ประกอบ</string>
     <string name="quick_guide_1">1. คุณสามารถย้ายได้โดยกดไอคอนค้างไว้</string>
     <string name="quick_guide_2">2. คุณสามารถสร้างโฟลเดอร์โดยใช้ไอคอนที่ทับซ้อนกัน</string>
+    <string name="column_count">จำนวนคอลัมน์</string>
 </resources>
