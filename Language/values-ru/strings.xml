@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. Вы можете перемещаться, нажав и удерживая значок.</string>
     <string name="quick_guide_2">2. Вы можете создавать папки, перекрывая значки.</string>
     <string name="column_count">Кол-во столбцов</string>
+    <string name="auto_group">Автоматическая группировка</string>
+    <string name="auto_group_info">Они автоматически группируются при открытии нового окна на сайте.</string>
+    <string name="tab_guide_1">1. Вы можете перемещаться, нажимая и удерживая вкладку.</string>
+    <string name="tab_guide_2">2. Вы можете создавать папки, перекрывая вкладки.</string>
 </resources>

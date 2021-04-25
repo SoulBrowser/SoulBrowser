@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. 您可以按住圖標來移動</string>
     <string name="quick_guide_2">2. 您可以通過重疊圖標來創建文件夾</string>
     <string name="column_count">列數</string>
+    <string name="auto_group">自動分組</string>
+    <string name="auto_group_info">在站點上打開新窗口時，它們會自動分組</string>
+    <string name="tab_guide_1">1. 您可以通過按住選項卡來移動</string>
+    <string name="tab_guide_2">2. 您可以通過重疊選項卡來創建文件夾</string>
 </resources>

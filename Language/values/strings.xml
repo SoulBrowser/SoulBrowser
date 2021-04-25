@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. You can move by pressing and holding the icon.</string>
     <string name="quick_guide_2">2. You can create folders by overlapping icons.</string>
     <string name="column_count">Columns count</string>
+    <string name="auto_group">Automatic grouping</string>
+    <string name="auto_group_info">They are automatically grouped when a new window opens on the site.</string>
+    <string name="tab_guide_1">1. You can move by pressing and holding the tab.</string>
+    <string name="tab_guide_2">2. You can create folders by overlapping tabs.</string>
 </resources>

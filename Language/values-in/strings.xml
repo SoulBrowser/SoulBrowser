@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. Anda dapat bergerak dengan menekan dan menahan ikon.</string>
     <string name="quick_guide_2">2. Anda dapat membuat folder dengan ikon yang tumpang tindih.</string>
     <string name="column_count">Jumlah kolom</string>
+    <string name="auto_group">Pengelompokan otomatis</string>
+    <string name="auto_group_info">Mereka secara otomatis dikelompokkan ketika jendela baru terbuka di situs.</string>
+    <string name="tab_guide_1">1. Anda dapat bergerak dengan menekan dan menahan tab.</string>
+    <string name="tab_guide_2">2. Anda dapat membuat folder dengan tumpang tindih tab.</string>
 </resources>

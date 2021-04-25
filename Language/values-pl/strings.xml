@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. Możesz poruszać się naciskając i przytrzymując ikonę.</string>
     <string name="quick_guide_2">2. Możesz tworzyć foldery, nakładając na siebie ikony.</string>
     <string name="column_count">Liczba kolumn</string>
+    <string name="auto_group">Automatyczne grupowanie</string>
+    <string name="auto_group_info">Są one automatycznie grupowane, gdy w witrynie otworzy się nowe okno.</string>
+    <string name="tab_guide_1">1. Możesz poruszać się naciskając i przytrzymując zakładkę.</string>
+    <string name="tab_guide_2">2. Możesz tworzyć foldery, nakładając zakładki.</string>
 </resources>

@@ -178,8 +178,8 @@
     <string name="order_ascend">升序</string>
     <string name="order_descend">降序</string>
     <string name="google">Google</string>
-    <string name="bing">必应</string>
-    <string name="yahoo">雅虎</string>
+    <string name="bing">Bing</string>
+    <string name="yahoo">Yahoo</string>
     <string name="baidu">百度</string>
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. 您可以按住图标来移动</string>
     <string name="quick_guide_2">2. 您可以通过重叠图标来创建文件夹</string>
     <string name="column_count">列数</string>
+    <string name="auto_group">自动分组</string>
+    <string name="auto_group_info">在站点上打开新窗口时，它们会自动分组</string>
+    <string name="tab_guide_1">1. 您可以通过按住选项卡来移动</string>
+    <string name="tab_guide_2">2. 您可以通过重叠选项卡来创建文件夹</string>
 </resources>

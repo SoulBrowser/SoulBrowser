@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. Ви можете рухатися, натискаючи та утримуючи піктограму.</string>
     <string name="quick_guide_2">2. Ви можете створювати папки, перекриваючи піктограми.</string>
     <string name="column_count">Колонки підраховуються</string>
+    <string name="auto_group">Автоматичне групування</string>
+    <string name="auto_group_info">Вони автоматично групуються, коли на сайті відкривається нове вікно.</string>
+    <string name="tab_guide_1">1. Ви можете рухатися, натискаючи та утримуючи вкладку.</string>
+    <string name="tab_guide_2">2. Ви можете створювати папки, перекриваючи вкладки.</string>
 </resources>

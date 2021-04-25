@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. Puoi muoverti tenendo premuta l\'icona.</string>
     <string name="quick_guide_2">2. È possibile creare cartelle sovrapponendo le icone.</string>
     <string name="column_count">Conteggio colonne</string>
+    <string name="auto_group">Raggruppamento automatico</string>
+    <string name="auto_group_info">Vengono raggruppati automaticamente quando si apre una nuova finestra sul sito.</string>
+    <string name="tab_guide_1">1. Puoi muoverti premendo e tenendo premuta la scheda.</string>
+    <string name="tab_guide_2">2. È possibile creare cartelle sovrapponendo le schede.</string>
 </resources>

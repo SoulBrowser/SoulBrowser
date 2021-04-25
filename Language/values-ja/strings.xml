@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. アイコンを長押しして移動することができます。</string>
     <string name="quick_guide_2">2. アイコンを重ねフォルダを作成することができます。</string>
     <string name="column_count">列数</string>
+    <string name="auto_group">自動グループ化</string>
+    <string name="auto_group_info">サイトで新しいウィンドウが開いたら、自動的にグループ化されます。</string>
+    <string name="tab_guide_1">1. タブを押したままに移動することができます。</string>
+    <string name="tab_guide_2">2. タブを重ねフォルダを作成することができます。</string>
 </resources>

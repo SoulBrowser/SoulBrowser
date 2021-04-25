@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. Você pode mover pressionando e segurando o ícone.</string>
     <string name="quick_guide_2">2. Você pode criar pastas sobrepondo ícones.</string>
     <string name="column_count">Contagem de colunas</string>
+    <string name="auto_group">Agrupamento automático</string>
+    <string name="auto_group_info">Eles são agrupados automaticamente quando uma nova janela é aberta no site.</string>
+    <string name="tab_guide_1">1. Você pode mover pressionando e segurando a guia.</string>
+    <string name="tab_guide_2">2. Você pode criar pastas sobrepondo guias.</string>
 </resources>

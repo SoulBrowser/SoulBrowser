@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. Vă puteți mișca apăsând și menținând apăsată pictograma.</string>
     <string name="quick_guide_2">2. Puteți crea foldere prin suprapunerea pictogramelor.</string>
     <string name="column_count">Numărul de coloane</string>
+    <string name="auto_group">Gruparea automată</string>
+    <string name="auto_group_info">Acestea sunt grupate automat când se deschide o nouă fereastră pe site.</string>
+    <string name="tab_guide_1">1. Vă puteți mișca apăsând și menținând apăsată fila.</string>
+    <string name="tab_guide_2">2. Puteți crea foldere prin suprapunerea filelor.</string>
 </resources>

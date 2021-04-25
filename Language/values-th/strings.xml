@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. คุณสามารถย้ายได้โดยกดไอคอนค้างไว้</string>
     <string name="quick_guide_2">2. คุณสามารถสร้างโฟลเดอร์โดยใช้ไอคอนที่ทับซ้อนกัน</string>
     <string name="column_count">จำนวนคอลัมน์</string>
+    <string name="auto_group">การจัดกลุ่มอัตโนมัติ</string>
+    <string name="auto_group_info">พวกเขาจะถูกจัดกลุ่มโดยอัตโนมัติเมื่อหน้าต่างใหม่เปิดขึ้นบนไซต์</string>
+    <string name="tab_guide_1">1. คุณสามารถย้ายได้โดยกดแท็บค้างไว้</string>
+    <string name="tab_guide_2">2. คุณสามารถสร้างโฟลเดอร์โดยใช้แท็บที่ทับซ้อนกัน</string>
 </resources>

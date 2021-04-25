@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. Puedes moverte presionando y manteniendo presionado el ícono.</string>
     <string name="quick_guide_2">2. Puede crear carpetas superponiendo iconos.</string>
     <string name="column_count">Recuento de columnas</string>
+    <string name="auto_group">Agrupación automática</string>
+    <string name="auto_group_info">Se agrupan automáticamente cuando se abre una nueva ventana en el sitio.</string>
+    <string name="tab_guide_1">1. Puedes moverte presionando y manteniendo presionada la pestaña.</string>
+    <string name="tab_guide_2">2. Puede crear carpetas superponiendo pestañas.</string>
 </resources>

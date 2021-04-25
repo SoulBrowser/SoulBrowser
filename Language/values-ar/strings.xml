@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على الأيقونة.</string>
     <string name="quick_guide_2">2. يمكنك إنشاء مجلدات من خلال تداخل الرموز.</string>
     <string name="column_count">عدد الأعمدة</string>
+    <string name="auto_group">التجميع التلقائي</string>
+    <string name="auto_group_info">يتم تجميعها تلقائيًا عند فتح نافذة جديدة على الموقع.</string>
+    <string name="tab_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على علامة التبويب.</string>
+    <string name="tab_guide_2">2. يمكنك إنشاء مجلدات من خلال تداخل علامات التبويب.</string>
 </resources>

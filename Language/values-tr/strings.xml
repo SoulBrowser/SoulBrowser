@@ -315,7 +315,7 @@
     <string name="permission_granted">İzin verildi</string>
     <string name="permission_denied">İzin reddedildi</string>
     <string name="no_permission">İzin yok</string>
-    <string name="ads_block">Ad engelleyici</string>
+    <string name="ads_block">Reklam engelleme</string>
     <string name="ads_block_info">Reklamları engellemek için en az bir filtre etkin olmalıdır.</string>
     <string name="do_not_trank">Takip etmeyin</string>
     <string name="filtered_image">Filtre uygulanmış resim (%d)</string>
@@ -829,4 +829,8 @@
     <string name="quick_guide_1">1. Simgeye basılı tutarak hareket edebilirsiniz.</string>
     <string name="quick_guide_2">2. Üst üste gelen simgelerle klasörler oluşturabilirsiniz.</string>
     <string name="column_count">Sütun sayısı</string>
+    <string name="auto_group">Otomatik gruplama</string>
+    <string name="auto_group_info">Sitede yeni bir pencere açıldığında otomatik olarak gruplanırlar.</string>
+    <string name="tab_guide_1">1. Sekmeyi basılı tutarak hareket edebilirsiniz.</string>
+    <string name="tab_guide_2">2. Üst üste gelen sekmelerle klasörler oluşturabilirsiniz.</string>
 </resources>
