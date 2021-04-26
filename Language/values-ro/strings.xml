@@ -769,7 +769,7 @@
     <string name="night_mode">Mod de noapte</string>
     <string name="day_mode">Mod zi</string>
     <string name="use_scroll_anim">Utilizați animația de defilare</string>
-    <string name="trend_search">Căutări în tendințe</string>
+    <string name="suggest_engine">Motor de sugestii</string>
     <string name="fast">(rapid)</string>
     <string name="without_load">Reveniți fără reîmprospătare</string>
     <string name="without_load_info_1">Această caracteristică folosește mai multă memorie.</string>

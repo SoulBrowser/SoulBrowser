@@ -769,7 +769,7 @@
     <string name="night_mode">Ночной режим</string>
     <string name="day_mode">Дневной режим</string>
     <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
-    <string name="trend_search">Популярные запросы</string>
+    <string name="suggest_engine">Двигатель предложений</string>
     <string name="fast">(быстрый)</string>
     <string name="without_load">Не обновлять вкладку при возвращении</string>
     <string name="without_load_info_1">Эта функция использует больше памяти.</string>

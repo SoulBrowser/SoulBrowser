@@ -769,7 +769,7 @@
     <string name="night_mode">야간 모드</string>
     <string name="day_mode">주간 모드</string>
     <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
-    <string name="trend_search">인기 검색어</string>
+    <string name="suggest_engine">제안 엔진</string>
     <string name="fast">(빠른)</string>
     <string name="without_load">새로고침 없이 뒤로가기</string>
     <string name="without_load_info_1">이 기능은 더 많은 메모리를 사용합니다.</string>

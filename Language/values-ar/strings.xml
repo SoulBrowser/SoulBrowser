@@ -769,7 +769,7 @@
     <string name="night_mode">الوضع الليلي</string>
     <string name="day_mode">وضع اليوم</string>
     <string name="use_scroll_anim">استخدم التمرير للرسوم المتحركة</string>
-    <string name="trend_search">مصطلحات البحث الشعبية</string>
+    <string name="suggest_engine">محرك الاقتراح</string>
     <string name="fast">(سريع)</string>
     <string name="without_load">ارجع بدون تحديث</string>
     <string name="without_load_info_1">تستخدم هذه الميزة المزيد من الذاكرة.</string>

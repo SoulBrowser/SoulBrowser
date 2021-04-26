@@ -769,7 +769,7 @@
     <string name="night_mode">Modo noturno</string>
     <string name="day_mode">Modo diurno</string>
     <string name="use_scroll_anim">Usar a animação de rolagem</string>
-    <string name="trend_search">Pesquisas em alta</string>
+    <string name="suggest_engine">Motor de sugestão</string>
     <string name="fast">(velozes)</string>
     <string name="without_load">Voltar sem atualizar</string>
     <string name="without_load_info_1">Este recurso usa mais memória.</string>

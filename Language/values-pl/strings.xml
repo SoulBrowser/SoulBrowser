@@ -769,7 +769,7 @@
     <string name="night_mode">Tryb nocny</string>
     <string name="day_mode">Tryb dzienny</string>
     <string name="use_scroll_anim">Użyj animacji przewijania</string>
-    <string name="trend_search">Najpopularniejsze wyszukiwania</string>
+    <string name="suggest_engine">Silnik sugestii</string>
     <string name="fast">(szybki)</string>
     <string name="without_load">Wróć bez odświeżania</string>
     <string name="without_load_info_1">Ta funkcja zużywa więcej pamięci.</string>

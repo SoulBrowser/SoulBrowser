@@ -769,7 +769,7 @@
     <string name="night_mode">Nacht-Modus</string>
     <string name="day_mode">Tages-Modus</string>
     <string name="use_scroll_anim">Verwenden Sie die Bildlaufanimation</string>
-    <string name="trend_search">Trendsuchen</string>
+    <string name="suggest_engine">Vorschlag Motor</string>
     <string name="fast">(schnell)</string>
     <string name="without_load">Gehen Sie ohne Aktualisierung zurück</string>
     <string name="without_load_info_1">Diese Funktion benötigt mehr Speicher.</string>

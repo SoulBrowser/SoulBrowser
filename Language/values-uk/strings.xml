@@ -769,7 +769,7 @@
     <string name="night_mode">Нічний режим</string>
     <string name="day_mode">Денний режим</string>
     <string name="use_scroll_anim">Показувати анімацію прокрутки</string>
-    <string name="trend_search">Популярні пошукові запити</string>
+    <string name="suggest_engine">Механізм пропозицій</string>
     <string name="fast">(швидко)</string>
     <string name="without_load">Повернутися назад без оновлення</string>
     <string name="without_load_info_1">Ця функція використовує більше пам\'яті.</string>

@@ -769,7 +769,7 @@
     <string name="night_mode">Mode nuit</string>
     <string name="day_mode">Mode jour</string>
     <string name="use_scroll_anim">Utiliser l\'animation de défilement</string>
-    <string name="trend_search">Recherches populaires</string>
+    <string name="suggest_engine">Moteur de suggestion</string>
     <string name="fast">(rapide)</string>
     <string name="without_load">Revenir sans rafraîchir</string>
     <string name="without_load_info_1">Cette fonction utilise plus de mémoire.</string>

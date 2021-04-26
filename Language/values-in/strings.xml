@@ -769,7 +769,7 @@
     <string name="night_mode">Mode malam</string>
     <string name="day_mode">Mode hari</string>
     <string name="use_scroll_anim">Gunakan animasi gulir</string>
-    <string name="trend_search">Pencarian trending</string>
+    <string name="suggest_engine">Mesin saran</string>
     <string name="fast">(cepat)</string>
     <string name="without_load">Kembali tanpa penyegaran</string>
     <string name="without_load_info_1">Fitur ini menggunakan lebih banyak memori.</string>

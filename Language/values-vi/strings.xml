@@ -769,7 +769,7 @@
     <string name="night_mode">Chế độ ban đêm</string>
     <string name="day_mode">Chế độ ngày</string>
     <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
-    <string name="trend_search">Tìm kiếm thịnh hành</string>
+    <string name="suggest_engine">Công cụ đề xuất</string>
     <string name="fast">(nhanh)</string>
     <string name="without_load">Quay lại mà không làm mới</string>
     <string name="without_load_info_1">Tính năng này sử dụng nhiều bộ nhớ hơn.</string>

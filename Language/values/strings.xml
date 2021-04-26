@@ -769,7 +769,7 @@
     <string name="night_mode">Night mode</string>
     <string name="day_mode">Day mode</string>
     <string name="use_scroll_anim">Use scroll animation</string>
-    <string name="trend_search">Trending searches</string>
+    <string name="suggest_engine">Suggestion engine</string>
     <string name="fast">(fast)</string>
     <string name="without_load">Go back without refresh</string>
     <string name="without_load_info_1">This feature uses more memory.</string>

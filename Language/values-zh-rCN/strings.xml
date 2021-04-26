@@ -769,7 +769,7 @@
     <string name="night_mode">夜间模式</string>
     <string name="day_mode">日间模式</string>
     <string name="use_scroll_anim">滚动动画</string>
-    <string name="trend_search">搜寻趋势</string>
+    <string name="suggest_engine">建议引擎</string>
     <string name="fast">（快速）</string>
     <string name="without_load">返回无刷新</string>
     <string name="without_load_info_1">此功能使用更多的内存</string>

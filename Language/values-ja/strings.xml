@@ -769,7 +769,7 @@
     <string name="night_mode">ナイトモード</string>
     <string name="day_mode">週間モード</string>
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
-    <string name="trend_search">トレンド検索</string>
+    <string name="suggest_engine">提案エンジン</string>
     <string name="fast">(クイック)</string>
     <string name="without_load">リフレッシュせずに戻る</string>
     <string name="without_load_info_1">この機能は、より多くのメモリを使用します。</string>

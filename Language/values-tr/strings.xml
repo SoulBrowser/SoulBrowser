@@ -769,7 +769,7 @@
     <string name="night_mode">Gece modu</string>
     <string name="day_mode">Gündüz modu</string>
     <string name="use_scroll_anim">Kaydırma animasyonunu kullan</string>
-    <string name="trend_search">Trend olan aramalar</string>
+    <string name="suggest_engine">Öneri motoru</string>
     <string name="fast">(hızlı)</string>
     <string name="without_load">Yenilemeden geri dönün</string>
     <string name="without_load_info_1">Bu özellik daha fazla bellek kullanır.</string>
