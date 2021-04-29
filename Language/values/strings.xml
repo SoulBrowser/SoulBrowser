@@ -362,6 +362,7 @@
     <string name="pip_mode">PIP mode</string>
     <string name="pip_guide">Rotating the screen may exit the PIP mode.\nDifferent sites have different behavior.</string>
     <string name="wait_retry">Loading&#8230;\nPlease try again later.</string>
+    <string name="ads_retry">The advertisement is not ready yet.\nPlease try again later.</string>
     <string name="rate_app">Rate app</string>
     <string name="share_app">Recommend to a friend</string>
     <string name="extract">Extract</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">Highlight selected tab</string>
     <string name="accent_text">Highlight text</string>
     <string name="accent_color">Highlight color</string>
+    <string name="app_keyboard">Keyboard activation on app startup</string>
     <string name="tab_keyboard">Activate keyboard when adding tab</string>
     <string name="swipe">Swipe</string>
     <string name="page_move">Move page</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">It has already been purchased.</string>
     <string name="pay_fail">An error has occurred.\nPlease try again later.</string>
     <string name="dev_greeting">Developer Greeting</string>
-    <string name="dev_cat_1">Exhausted Cat</string>
-    <string name="dev_cat_2">I\'m hungry\nMeow</string>
-    <string name="dev_greet_1">I want to satisfy all users.\nBut it is very difficult.\nThe features implemented in this app are just a fraction of many user requests.\nMany user requests are still pending.</string>
-    <string name="dev_greet_2">Because I lack my ability.\nAs development progresses, I feel the limits of my abilities.\nI am very sorry.</string>
-    <string name="dev_greet_3">Updates will continue until everyone is satisfied.</string>
-    <string name="dev_greet_4">PS: I can\'t reply to all emails.\nBut I read all emails.</string>
+    <string name="dev_cat">I\'m hungry\nMeow</string>
+    <string name="dev_greet_1">Soul Browser is maintained by your donation.\nI am sincerely grateful to all those who have donated.</string>
+    <string name="dev_greet_2">PS: I can\'t reply to all emails.\nBut I read all emails.</string>
     <string name="prevent_pay">Prevent accidental payments</string>
     <string name="input_answer">Please enter answer.</string>
     <string name="correct_answer">The correct answer is %d.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">Long press the icon to change the function.</string>
     <string name="down_service">Soul download service</string>
     <string name="auto_comp">Auto complete</string>
-    <string name="check_element">Element inspection</string>
+    <string name="check_element">Element inspection (more fine-grained blocking)</string>
     <string name="quick_guide_1">1. You can move by pressing and holding the icon.</string>
     <string name="quick_guide_2">2. You can create folders by overlapping icons.</string>
     <string name="column_count">Columns count</string>

@@ -362,6 +362,7 @@
     <string name="pip_mode">Режим PIP</string>
     <string name="pip_guide">Обертання екрана може вийти з режиму PIP.\nРізні сайти мають різну поведінку.</string>
     <string name="wait_retry">Завантаження&#8230;\nБудь ласка спробуйте пізніше.</string>
+    <string name="ads_retry">Реклама ще не готова.\nБудь-ласка спробуйте пізніше.</string>
     <string name="rate_app">Оцініть додаток</string>
     <string name="share_app">Порекомендуй другу</string>
     <string name="extract">Витяг</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">Виділити вибрану вкладку</string>
     <string name="accent_text">Виділити текст</string>
     <string name="accent_color">Колір виділення</string>
+    <string name="app_keyboard">Активація клавіатури під час запуску програми</string>
     <string name="tab_keyboard">Активувати клавіатуру при додаванні вкладки</string>
     <string name="swipe">Проведіть пальцем</string>
     <string name="page_move">Перемістити сторінку</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">Його вже придбали.</string>
     <string name="pay_fail">Сталася помилка.\nБудь ласка спробуйте пізніше.</string>
     <string name="dev_greeting">Привітання розробника</string>
-    <string name="dev_cat_1">Виснажений Кіт</string>
-    <string name="dev_cat_2">Я голодний\nМяу</string>
-    <string name="dev_greet_1">Я хочу задовольнити всіх користувачів.\nАле це дуже складно.\nФункції, реалізовані в цьому додатку, - це лише частка багатьох запитів користувачів.\nБагато запитів користувачів все ще очікують на розгляд.</string>
-    <string name="dev_greet_2">Бо мені бракує своїх здібностей.\nУ міру розвитку я відчуваю межі своїх можливостей.\nМені дуже шкода.</string>
-    <string name="dev_greet_3">Оновлення триватимуть, доки всі не будуть задоволені.</string>
-    <string name="dev_greet_4">PS: Я не можу відповісти на всі електронні листи.\nАле я читаю усі електронні листи.</string>
+    <string name="dev_cat">Я голодний\nМяу</string>
+    <string name="dev_greet_1">Браузер Soul підтримується вашими пожертвами.\nЯ щиро вдячний усім, хто зробив пожертву.</string>
+    <string name="dev_greet_2">PS: Я не можу відповісти на всі електронні листи.\nАле я читаю усі електронні листи.</string>
     <string name="prevent_pay">Запобігання випадковим платежам</string>
     <string name="input_answer">Введіть відповідь.</string>
     <string name="correct_answer">Правильна відповідь %d.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">Довго натискайте піктограму, щоб змінити функцію.</string>
     <string name="down_service">Служба завантаження Soul</string>
     <string name="auto_comp">Автозаповнення</string>
-    <string name="check_element">Перевірка елемента</string>
+    <string name="check_element">Перевірка елементів (більш дрібнозернисте блокування)</string>
     <string name="quick_guide_1">1. Ви можете рухатися, натискаючи та утримуючи піктограму.</string>
     <string name="quick_guide_2">2. Ви можете створювати папки, перекриваючи піктограми.</string>
     <string name="column_count">Колонки підраховуються</string>

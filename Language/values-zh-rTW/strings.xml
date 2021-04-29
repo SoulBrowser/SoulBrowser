@@ -362,6 +362,7 @@
     <string name="pip_mode">畫中畫模式</string>
     <string name="pip_guide">旋轉螢幕可能會退出畫中畫模式。\n不同的站點具有不同的行為。</string>
     <string name="wait_retry">在加載\n請稍後再試</string>
+    <string name="ads_retry">廣告尚未準備好\n請稍後再試</string>
     <string name="rate_app">為應用評分</string>
     <string name="share_app">推薦給朋友</string>
     <string name="extract">提取</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">突出顯示選定的分頁</string>
     <string name="accent_text">突出显示文字</string>
     <string name="accent_color">突出顯示顏色</string>
+    <string name="app_keyboard">應用啟動時激活鍵盤</string>
     <string name="tab_keyboard">新增分頁時激活鍵盤</string>
     <string name="swipe">滑動</string>
     <string name="page_move">移動頁面</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">已購買</string>
     <string name="pay_fail">發生了錯誤\n請稍後再試</string>
     <string name="dev_greeting">開發人員問候</string>
-    <string name="dev_cat_1">精疲力盡的貓</string>
-    <string name="dev_cat_2">我餓了\n喵</string>
-    <string name="dev_greet_1">我想讓所有用戶滿意\n但這是非常困難的\n在此應用程序中實現的功能只是許多用戶請求的一小部分\n許多用戶請求仍待處理</string>
-    <string name="dev_greet_2">因為我缺乏能力\n隨著發展的進步，我感到自己的能力有限\n我很抱歉</string>
-    <string name="dev_greet_3">更新將持續到每個人都滿意為止</string>
-    <string name="dev_greet_4">PS：我無法回复所有電子郵件\n但是我讀了所有電子郵件</string>
+    <string name="dev_cat">我餓了\n喵</string>
+    <string name="dev_greet_1">Soul Browser 由您的捐贈維護\n我衷心感謝所有捐贈者</string>
+    <string name="dev_greet_2">PS：我無法回复所有電子郵件\n但是我讀了所有電子郵件</string>
     <string name="prevent_pay">防止意外付款</string>
     <string name="input_answer">請輸入答案</string>
     <string name="correct_answer">正確答案是%d</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">長按圖標可更改功能</string>
     <string name="down_service">Soul下載服務</string>
     <string name="auto_comp">自動完成</string>
-    <string name="check_element">元素檢查</string>
+    <string name="check_element">元素檢查（更細粒度的阻塞）</string>
     <string name="quick_guide_1">1. 您可以按住圖標來移動</string>
     <string name="quick_guide_2">2. 您可以通過重疊圖標來創建文件夾</string>
     <string name="column_count">列數</string>

@@ -362,6 +362,7 @@
     <string name="pip_mode">Chế độ PIP</string>
     <string name="pip_guide">Xoay màn hình có thể thoát khỏi chế độ PIP.\nCác trang web khác nhau có hành vi khác nhau.</string>
     <string name="wait_retry">Tải&#8230;\nVui lòng thử lại sau.</string>
+    <string name="ads_retry">Quảng cáo vẫn chưa sẵn sàng.\nVui lòng thử lại sau.</string>
     <string name="rate_app">Đánh giá ứng dụng</string>
     <string name="share_app">Giới thiệu cho bạn bè</string>
     <string name="extract">Trích xuất</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">Đánh dấu tab đã chọn</string>
     <string name="accent_text">Văn bản nổi bật</string>
     <string name="accent_color">Tô màu</string>
+    <string name="app_keyboard">Kích hoạt bàn phím khi khởi động ứng dụng</string>
     <string name="tab_keyboard">Kích hoạt bàn phím khi thêm tab</string>
     <string name="swipe">Vuốt</string>
     <string name="page_move">Chuyển trang</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">Nó đã được mua.</string>
     <string name="pay_fail">Một lỗi đã xảy ra.\nVui lòng thử lại sau.</string>
     <string name="dev_greeting">Lời chào của nhà phát triển</string>
-    <string name="dev_cat_1">Con mèo Kiệt sức</string>
-    <string name="dev_cat_2">Tôi đói\nMeo</string>
-    <string name="dev_greet_1">Tôi muốn làm hài lòng tất cả người dùng.\nNhưng nó rất khó.\nCác tính năng được triển khai trong ứng dụng này chỉ là một phần nhỏ trong số nhiều yêu cầu của người dùng.\nNhiều yêu cầu của người dùng vẫn đang chờ xử lý.</string>
-    <string name="dev_greet_2">Vì tôi thiếu khả năng của mình.\nKhi quá trình phát triển tiến bộ, tôi cảm thấy giới hạn khả năng của mình.\nTôi rất xin lỗi.</string>
-    <string name="dev_greet_3">Cập nhật sẽ tiếp tục cho đến khi mọi người hài lòng.</string>
-    <string name="dev_greet_4">Tái bút: Tôi không thể trả lời tất cả các email.\nNhưng tôi đã đọc tất cả các email.</string>
+    <string name="dev_cat">Tôi đói\nMeo</string>
+    <string name="dev_greet_1">Soul Browser được duy trì bởi sự đóng góp của bạn.\nTôi chân thành biết ơn tất cả những người đã quyên góp.</string>
+    <string name="dev_greet_2">Tái bút: Tôi không thể trả lời tất cả các email.\nNhưng tôi đã đọc tất cả các email.</string>
     <string name="prevent_pay">Ngăn chặn các khoản thanh toán ngẫu nhiên</string>
     <string name="input_answer">Vui lòng nhập câu trả lời.</string>
     <string name="correct_answer">Câu trả lời đúng là %d.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">Nhấn và giữ biểu tượng để thay đổi chức năng.</string>
     <string name="down_service">Dịch vụ tải xuống Soul</string>
     <string name="auto_comp">Tự động hoàn thành</string>
-    <string name="check_element">Kiểm tra yếu tố</string>
+    <string name="check_element">Kiểm tra phần tử (chặn chi tiết hơn)</string>
     <string name="quick_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ biểu tượng.</string>
     <string name="quick_guide_2">2. Bạn có thể tạo thư mục bằng các biểu tượng chồng lên nhau.</string>
     <string name="column_count">Số cột</string>

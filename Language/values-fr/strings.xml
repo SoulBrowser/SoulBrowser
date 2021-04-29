@@ -362,6 +362,7 @@
     <string name="pip_mode">Mode PIP</string>
     <string name="pip_guide">Faire pivoter l\'écran peut quitter le mode PIP.\nDifférents sites ont un comportement différent.</string>
     <string name="wait_retry">Chargement&#8230;\nVeuillez réessayer plus tard.</string>
+    <string name="ads_retry">La publicité n\'est pas encore prête.\nVeuillez réessayer plus tard.</string>
     <string name="rate_app">Évaluer l\'application</string>
     <string name="share_app">Recommander à un ami</string>
     <string name="extract">Extrait</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">Mettre en surbrillance l\'onglet sélectionné</string>
     <string name="accent_text">Texte surligné</string>
     <string name="accent_color">Couleur de surbrillance</string>
+    <string name="app_keyboard">Activation du clavier au démarrage de l\'application</string>
     <string name="tab_keyboard">Activer le clavier lors de l\'ajout d\'un onglet</string>
     <string name="swipe">Glisser</string>
     <string name="page_move">Déplacer la page</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">Déjà acheté.</string>
     <string name="pay_fail">Une erreur est survenue.\nVeuillez réessayer plus tard.</string>
     <string name="dev_greeting">Message d\'accueil du développeur</string>
-    <string name="dev_cat_1">Chat Épuisé</string>
-    <string name="dev_cat_2">J\'ai faim\nMiaou</string>
-    <string name="dev_greet_1">Je veux satisfaire tous les utilisateurs.\nMais c\'est très difficile.\nLes fonctionnalités implémentées dans cette application ne représentent qu\'une fraction des nombreuses demandes des utilisateurs.\nDe nombreuses demandes d\'utilisateurs sont toujours en attente.</string>
-    <string name="dev_greet_2">Parce que je n\'ai pas mes capacités.\nAu fur et à mesure que le développement progresse, je sens les limites de mes capacités.\nJe suis vraiment désolé.</string>
-    <string name="dev_greet_3">Les mises à jour se poursuivront jusqu\'à ce que tout le monde soit satisfait.</string>
-    <string name="dev_greet_4">PS: je ne peux pas répondre à tous les e-mails.\nMais j\'ai lu tous les e-mails.</string>
+    <string name="dev_cat">J\'ai faim\nMiaou</string>
+    <string name="dev_greet_1">Soul Browser est maintenu par votre don.\nJe suis sincèrement reconnaissant à tous ceux qui ont fait un don.</string>
+    <string name="dev_greet_2">PS: je ne peux pas répondre à tous les e-mails.\nMais j\'ai lu tous les e-mails.</string>
     <string name="prevent_pay">Empêcher les paiements accidentels</string>
     <string name="input_answer">Veuillez saisir la réponse.</string>
     <string name="correct_answer">La bonne réponse est %d.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">Appuyez longuement sur l\'icône pour changer la fonction.</string>
     <string name="down_service">Service de téléchargement Soul</string>
     <string name="auto_comp">Saisie automatique</string>
-    <string name="check_element">Inspection des éléments</string>
+    <string name="check_element">Inspection des éléments (blocage plus fin)</string>
     <string name="quick_guide_1">1. Vous pouvez déplacer par un appui long sur les icônes.</string>
     <string name="quick_guide_2">2. Vous pouvez créer des dossiers en superposant des icônes.</string>
     <string name="column_count">Nombre de colonnes</string>

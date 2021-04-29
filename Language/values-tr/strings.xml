@@ -362,6 +362,7 @@
     <string name="pip_mode">PIP modu</string>
     <string name="pip_guide">Ekranı döndürmek PIP modundan çıkabilir.\nFarklı siteler farklı davranışlara sahiptir.</string>
     <string name="wait_retry">Yükleniyor&#8230;\nLütfen daha sonra tekrar deneyiniz.</string>
+    <string name="ads_retry">Reklam henüz hazır değil.\nLütfen daha sonra tekrar deneyiniz.</string>
     <string name="rate_app">Uygulamayı derecelendir</string>
     <string name="share_app">Bir arkadaşınıza tavsiye edin</string>
     <string name="extract">Özü</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">Seçili sekmeyi vurgula</string>
     <string name="accent_text">Metni vurgulamak</string>
     <string name="accent_color">Vurgu rengi</string>
+    <string name="app_keyboard">Uygulama başlangıcında klavye aktivasyonu</string>
     <string name="tab_keyboard">Sekme eklerken klavyeyi etkinleştir</string>
     <string name="swipe">Kaydırma</string>
     <string name="page_move">Sayfayı taşı</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">Zaten satın alındı.</string>
     <string name="pay_fail">Bir hata oluştu.\nLütfen daha sonra tekrar deneyiniz.</string>
     <string name="dev_greeting">Geliştirici Karşılama</string>
-    <string name="dev_cat_1">Yorgun Kedi</string>
-    <string name="dev_cat_2">Açım\nMiyav</string>
-    <string name="dev_greet_1">Tüm kullanıcıları memnun etmek istiyorum.\nAma çok zor.\nBu uygulamada uygulanan özellikler, birçok kullanıcı talebinin sadece bir kısmıdır.\nBirçok kullanıcı isteği hala beklemede.</string>
-    <string name="dev_greet_2">Çünkü yeteneğim eksik.\nGelişim ilerledikçe yeteneklerimin sınırlarını hissediyorum.\nÇok üzgünüm.</string>
-    <string name="dev_greet_3">Herkes tatmin olana kadar güncellemeler devam edecek.</string>
-    <string name="dev_greet_4">Not: Tüm e-postalara cevap veremiyorum.\nAma tüm e-postaları okudum.</string>
+    <string name="dev_cat">Açım\nMiyav</string>
+    <string name="dev_greet_1">Soul Browser bağışınız ile korunur.\nBağışta bulunan herkese içtenlikle minnettarım.</string>
+    <string name="dev_greet_2">Not: Tüm e-postalara cevap veremiyorum.\nAma tüm e-postaları okudum.</string>
     <string name="prevent_pay">Yanlışlıkla yapılan ödemeleri önleyin</string>
     <string name="input_answer">Lütfen cevabı girin.</string>
     <string name="correct_answer">Doğru cevap %d\'dır.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">İşlevi değiştirmek için simgeye uzun basın.</string>
     <string name="down_service">Soul indirme hizmeti</string>
     <string name="auto_comp">Otomatik tamamlama</string>
-    <string name="check_element">Eleman muayenesi</string>
+    <string name="check_element">Eleman denetimi (daha ince taneli engelleme)</string>
     <string name="quick_guide_1">1. Simgeye basılı tutarak hareket edebilirsiniz.</string>
     <string name="quick_guide_2">2. Üst üste gelen simgelerle klasörler oluşturabilirsiniz.</string>
     <string name="column_count">Sütun sayısı</string>

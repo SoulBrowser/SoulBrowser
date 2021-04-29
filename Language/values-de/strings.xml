@@ -362,6 +362,7 @@
     <string name="pip_mode">PIP-Modus</string>
     <string name="pip_guide">Durch Drehen des Bildschirms wird möglicherweise der PIP-Modus beendet.\nUnterschiedliche Websites haben unterschiedliches Verhalten.</string>
     <string name="wait_retry">Laden&#8230;\nBitte versuche es später noch einmal.</string>
+    <string name="ads_retry">Die Anzeige ist noch nicht fertig.\nBitte versuchen Sie es später noch einmal.</string>
     <string name="rate_app">App bewerten</string>
     <string name="share_app">Einem Freund empfehlen</string>
     <string name="extract">Extrahieren</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">Ausgewählte Registerkarte markieren</string>
     <string name="accent_text">Text hervorheben</string>
     <string name="accent_color">Hervorhebungsfarbe</string>
+    <string name="app_keyboard">Tastaturaktivierung beim Start der App</string>
     <string name="tab_keyboard">Tastatur aktivieren, wenn eine Registerkarte hinzugefügt werden soll</string>
     <string name="swipe">Wischen</string>
     <string name="page_move">Seite verschieben</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">Es wurde bereits gekauft.</string>
     <string name="pay_fail">Ein Fehler ist aufgetreten.\nBitte versuchen Sie es später noch einmal.</string>
     <string name="dev_greeting">Entwicklergruß</string>
-    <string name="dev_cat_1">Erschöpfte Katze</string>
-    <string name="dev_cat_2">Ich bin hungrig\nMiau</string>
-    <string name="dev_greet_1">Ich möchte alle Benutzer zufrieden stellen.\nAber es ist sehr schwierig.\nDie in dieser App implementierten Funktionen sind nur ein Bruchteil vieler Benutzeranforderungen.\nViele Benutzeranfragen stehen noch aus.</string>
-    <string name="dev_greet_2">Weil mir meine Fähigkeit fehlt.\nMit fortschreitender Entwicklung spüre ich die Grenzen meiner Fähigkeiten.\nEs tut mir sehr leid.</string>
-    <string name="dev_greet_3">Aktualisierungen werden fortgesetzt, bis alle zufrieden sind.</string>
-    <string name="dev_greet_4">PS: Ich kann nicht auf alle E-Mails antworten.\nAber ich habe alle E-Mails gelesen.</string>
+    <string name="dev_cat">Ich bin hungrig\nMiau</string>
+    <string name="dev_greet_1">Soul Browser wird durch Ihre Spende gepflegt.\nIch bin allen, die gespendet haben, aufrichtig dankbar.</string>
+    <string name="dev_greet_2">PS: Ich kann nicht auf alle E-Mails antworten.\nAber ich habe alle E-Mails gelesen.</string>
     <string name="prevent_pay">Verhindern Sie versehentliche Zahlungen</string>
     <string name="input_answer">Bitte geben Sie die Antwort ein.</string>
     <string name="correct_answer">Die richtige Antwort ist %d.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">Drücken Sie lange auf das Symbol, um die Funktion zu ändern.</string>
     <string name="down_service">Soul Download-Service</string>
     <string name="auto_comp">Automatische Vervollständigung</string>
-    <string name="check_element">Elementinspektion</string>
+    <string name="check_element">Elementinspektion (feinkörnigere Blockierung)</string>
     <string name="quick_guide_1">1. Sie können sich bewegen, indem Sie das Symbol gedrückt halten.</string>
     <string name="quick_guide_2">2. Sie können Ordner erstellen, indem Sie Symbole überlappen.</string>
     <string name="column_count">Spalten zählen</string>

@@ -362,6 +362,7 @@
     <string name="pip_mode">Modul PIP</string>
     <string name="pip_guide">Rotirea ecranului poate ieși din modul PIP.\nSite site-uri diferite au un comportament diferit.</string>
     <string name="wait_retry">Se încarcă&#8230;\nÎncercați din nou mai târziu.</string>
+    <string name="ads_retry">Reclama nu este încă pregătită.\nVă rugăm să încercați din nou mai târziu.</string>
     <string name="rate_app">Evaluează aplicația</string>
     <string name="share_app">Recomandă unui prieten</string>
     <string name="extract">Extrage</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">Evidențiați fila selectată</string>
     <string name="accent_text">Text subliniat</string>
     <string name="accent_color">Evidențiați culoarea</string>
+    <string name="app_keyboard">Activarea tastaturii la pornirea aplicației</string>
     <string name="tab_keyboard">Activați tastatura când adăugați fila</string>
     <string name="swipe">Glisează</string>
     <string name="page_move">Mutați pagina</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">A fost deja cumpărat.</string>
     <string name="pay_fail">A avut loc o eroare.\nVă rugăm să încercați din nou mai târziu.</string>
     <string name="dev_greeting">Salutarea dezvoltatorului</string>
-    <string name="dev_cat_1">Pisică Epuizată</string>
-    <string name="dev_cat_2">Sunt infometat\nMiau</string>
-    <string name="dev_greet_1">Vreau să satisfac toți utilizatorii.\nDar este foarte dificil.\nFuncțiile implementate în această aplicație reprezintă doar o fracțiune din multe cereri ale utilizatorilor.\nMulte solicitări ale utilizatorilor sunt încă în așteptare.</string>
-    <string name="dev_greet_2">Pentru că îmi lipsește capacitatea.\nPe măsură ce dezvoltarea progresează, simt limitele abilităților mele.\nImi pare foarte rau.</string>
-    <string name="dev_greet_3">Actualizările vor continua până când toată lumea va fi mulțumită.</string>
-    <string name="dev_greet_4">PS: Nu pot răspunde la toate e-mailurile.\nDar am citit toate e-mailurile.</string>
+    <string name="dev_cat">Sunt infometat\nMiau</string>
+    <string name="dev_greet_1">Soul Browser este menținut prin donația dvs.\nSunt sincer recunoscător tuturor celor care au donat.</string>
+    <string name="dev_greet_2">PS: Nu pot răspunde la toate e-mailurile.\nDar am citit toate e-mailurile.</string>
     <string name="prevent_pay">Preveniți plățile accidentale</string>
     <string name="input_answer">Vă rugăm să introduceți răspunsul.</string>
     <string name="correct_answer">Răspunsul corect este %d.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">Apăsați lung pictograma pentru a schimba funcția.</string>
     <string name="down_service">Serviciu de descărcare Soul</string>
     <string name="auto_comp">Completare automată</string>
-    <string name="check_element">Inspecția elementelor</string>
+    <string name="check_element">Inspecția elementelor (blocare mai fină)</string>
     <string name="quick_guide_1">1. Vă puteți mișca apăsând și menținând apăsată pictograma.</string>
     <string name="quick_guide_2">2. Puteți crea foldere prin suprapunerea pictogramelor.</string>
     <string name="column_count">Numărul de coloane</string>

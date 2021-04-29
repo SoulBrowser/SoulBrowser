@@ -362,6 +362,7 @@
     <string name="pip_mode">画中画模式</string>
     <string name="pip_guide">旋转屏幕可能会退出画中画模式。\n不同的站点具有不同的行为。</string>
     <string name="wait_retry">正在加载\n请稍后再试</string>
+    <string name="ads_retry">广告尚未准备好\n请稍后再试</string>
     <string name="rate_app">给应用打分</string>
     <string name="share_app">安利给朋友</string>
     <string name="extract">提取</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">突出显示选定的标签</string>
     <string name="accent_text">突出显示文字</string>
     <string name="accent_color">突出显示颜色</string>
+    <string name="app_keyboard">应用启动时激活键盘</string>
     <string name="tab_keyboard">添加标签时激活键盘</string>
     <string name="swipe">滑动</string>
     <string name="page_move">移动页面</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">已购买</string>
     <string name="pay_fail">发生了错误\n请稍后再试</string>
     <string name="dev_greeting">开发人员留言</string>
-    <string name="dev_cat_1">精疲力尽的猫</string>
-    <string name="dev_cat_2">我饿了\n喵～</string>
-    <string name="dev_greet_1">我想让所有用户满意，\n但是这十分困难。\n在此应用程序中实现的功能只是许多用户需求的一小部分，\n许多用户的要求仍待处理。</string>
-    <string name="dev_greet_2">因为我觉得我缺乏能力，\n随着软件的发展，我感到自己的能力有限，\n我很抱歉。</string>
-    <string name="dev_greet_3">更新将持续到每个人都满意为止</string>
-    <string name="dev_greet_4">PS：我无法回复所有电子邮件\n但是我会读了所有电子邮件</string>
+    <string name="dev_cat">我饿了\n喵～</string>
+    <string name="dev_greet_1">Soul Browser 由您的捐赠维护\n我衷心感谢所有捐赠者</string>
+    <string name="dev_greet_2">PS：我无法回复所有电子邮件\n但是我会读了所有电子邮件</string>
     <string name="prevent_pay">为了防止意外付款，</string>
     <string name="input_answer">请输入正确答案。</string>
     <string name="correct_answer">正确答案是 %d</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">长按图标可更改功能</string>
     <string name="down_service">Soul下载服务</string>
     <string name="auto_comp">自动完成</string>
-    <string name="check_element">元素检查</string>
+    <string name="check_element">元素检查（更细粒度的阻塞）</string>
     <string name="quick_guide_1">1. 您可以按住图标来移动</string>
     <string name="quick_guide_2">2. 您可以通过重叠图标来创建文件夹</string>
     <string name="column_count">列数</string>

@@ -362,6 +362,7 @@
     <string name="pip_mode">Modo PIP</string>
     <string name="pip_guide">Girar a tela pode sair do modo PIP.\nSites diferentes têm comportamentos diferentes.</string>
     <string name="wait_retry">Carregando&#8230;\nPor favor, tente novamente mais tarde.</string>
+    <string name="ads_retry">O anúncio ainda não está pronto.\nPor favor, tente novamente mais tarde.</string>
     <string name="rate_app">Avaliar aplicativo</string>
     <string name="share_app">Recomendar a um amigo</string>
     <string name="extract">Extrair</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">Destacar a aba selecionada</string>
     <string name="accent_text">Realçar texto</string>
     <string name="accent_color">Cor de destaque</string>
+    <string name="app_keyboard">Ativação do teclado na inicialização do aplicativo</string>
     <string name="tab_keyboard">Ativar teclado ao adicionar aba</string>
     <string name="swipe">Deslizar</string>
     <string name="page_move">Mover página</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">Já foi comprado.</string>
     <string name="pay_fail">Ocorreu um erro.\nPor favor, tente novamente mais tarde.</string>
     <string name="dev_greeting">Saudação do desenvolvedor</string>
-    <string name="dev_cat_1">Gato Exausto</string>
-    <string name="dev_cat_2">Eu estou com fome\nMiau</string>
-    <string name="dev_greet_1">Eu quero satisfazer todos os usuários.\nMas é muito difícil.\nOs recursos implementados neste aplicativo são apenas uma fração de muitas solicitações do usuário.\nMuitas solicitações de usuários ainda estão pendentes.</string>
-    <string name="dev_greet_2">Porque me falta conhecimento.\nÀ medida que o desenvolvimento avança, sinto os limites de minhas habilidades.\nSinto muito.</string>
-    <string name="dev_greet_3">As atualizações continuarão até que todos estejam satisfeitos.</string>
-    <string name="dev_greet_4">PS: Não consigo responder a todos os e-mails.\nMas eu leio todos os e-mails.</string>
+    <string name="dev_cat">Eu estou com fome\nMiau</string>
+    <string name="dev_greet_1">O Soul Browser é mantido por sua doação.\nAgradeço sinceramente a todos aqueles que doaram.</string>
+    <string name="dev_greet_2">PS: Não consigo responder a todos os e-mails.\nMas eu leio todos os e-mails.</string>
     <string name="prevent_pay">Previnir pagamentos acidentais</string>
     <string name="input_answer">Por favor, digite a resposta.</string>
     <string name="correct_answer">A resposta correta é %d.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">Pressione longamente o ícone para alterar a função.</string>
     <string name="down_service">Soul serviço de download</string>
     <string name="auto_comp">Autocompletar</string>
-    <string name="check_element">Inspeção de elemento</string>
+    <string name="check_element">Inspeção de elemento (bloqueio mais refinado)</string>
     <string name="quick_guide_1">1. Você pode mover pressionando e segurando o ícone.</string>
     <string name="quick_guide_2">2. Você pode criar pastas sobrepondo ícones.</string>
     <string name="column_count">Contagem de colunas</string>

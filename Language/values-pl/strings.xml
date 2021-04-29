@@ -362,6 +362,7 @@
     <string name="pip_mode">Tryb PIP</string>
     <string name="pip_guide">Obracanie ekranu może wyjść z trybu PIP.\nRóżne strony zachowują się inaczej.</string>
     <string name="wait_retry">Ładowanie&#8230;\nSpróbuj ponownie później.</string>
+    <string name="ads_retry">Reklama nie jest jeszcze gotowa.\nSpróbuj ponownie później.</string>
     <string name="rate_app">Oceń aplikację</string>
     <string name="share_app">Poleć znajomemu</string>
     <string name="extract">Wyodrębnij</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">Podświetl wybraną kartę</string>
     <string name="accent_text">Zaznaczanie tekstu</string>
     <string name="accent_color">Podświetlony kolor</string>
+    <string name="app_keyboard">Aktywacja klawiatury podczas uruchamiania aplikacji</string>
     <string name="tab_keyboard">Aktywuj klawiaturę podczas dodawania karty</string>
     <string name="swipe">Przesuń palcem</string>
     <string name="page_move">Przenieś stronę</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">Został już zakupiony.</string>
     <string name="pay_fail">Wystąpił błąd.\nSpróbuj ponownie później.</string>
     <string name="dev_greeting">Pozdrowienie programisty</string>
-    <string name="dev_cat_1">Wyczerpany Kot</string>
-    <string name="dev_cat_2">Jestem głodny\nMiauczeć</string>
-    <string name="dev_greet_1">Chcę zadowolić wszystkich użytkowników.\nAle to jest bardzo trudne.\nFunkcje zaimplementowane w tej aplikacji to tylko ułamek wielu żądań użytkowników.\nWiele próśb użytkowników nadal oczekuje.</string>
-    <string name="dev_greet_2">Ponieważ brakuje mi moich umiejętności.\nWraz z postępem rozwoju odczuwam granice moich możliwości.\nBardzo mi przykro.</string>
-    <string name="dev_greet_3">Aktualizacje będą kontynuowane, dopóki wszyscy nie będą zadowoleni.</string>
-    <string name="dev_greet_4">PS: Nie mogę odpowiadać na wszystkie e-maile.\nAle czytam wszystkie e-maile.</string>
+    <string name="dev_cat">Jestem głodny\nMiauczeć</string>
+    <string name="dev_greet_1">Przeglądarka Soul jest utrzymywana dzięki Twojej darowiznie.\nJestem szczerze wdzięczny wszystkim, którzy przekazali darowizny.</string>
+    <string name="dev_greet_2">PS: Nie mogę odpowiadać na wszystkie e-maile.\nAle czytam wszystkie e-maile.</string>
     <string name="prevent_pay">Zapobiegaj przypadkowym płatnościom</string>
     <string name="input_answer">Wpisz odpowiedź.</string>
     <string name="correct_answer">Prawidłowa odpowiedź to %d.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">Długo naciśnij ikonę, aby zmienić funkcję.</string>
     <string name="down_service">Usługa pobierania Soul</string>
     <string name="auto_comp">Autouzupełnienie</string>
-    <string name="check_element">Kontrola elementów</string>
+    <string name="check_element">Kontrola elementów (bardziej drobnoziarniste blokowanie)</string>
     <string name="quick_guide_1">1. Możesz poruszać się naciskając i przytrzymując ikonę.</string>
     <string name="quick_guide_2">2. Możesz tworzyć foldery, nakładając na siebie ikony.</string>
     <string name="column_count">Liczba kolumn</string>

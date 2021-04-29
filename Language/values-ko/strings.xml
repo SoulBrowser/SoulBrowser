@@ -362,6 +362,7 @@
     <string name="pip_mode">PIP 모드</string>
     <string name="pip_guide">화면을 돌리면 PIP 모드가 종료 될 수 있습니다.\n사이트마다 동작이 다릅니다.</string>
     <string name="wait_retry">로딩 중입니다.\n잠시 후 다시 시도해 주세요.</string>
+    <string name="ads_retry">광고가 아직 준비되지 않았습니다.\n나중에 다시 시도해 주세요.</string>
     <string name="rate_app">앱 평가하기</string>
     <string name="share_app">친구에게 추천</string>
     <string name="extract">압축 풀기</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">선택된 탭 강조</string>
     <string name="accent_text">텍스트 강조</string>
     <string name="accent_color">강조 색상</string>
+    <string name="app_keyboard">앱 시작시 키보드 활성화</string>
     <string name="tab_keyboard">탭 추가시 키보드 활성화</string>
     <string name="swipe">스와이프</string>
     <string name="page_move">페이지 이동</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">이미 구매했습니다.</string>
     <string name="pay_fail">오류가 발생했습니다.\n잠시 후 다시 시도해 주세요.</string>
     <string name="dev_greeting">개발자 인사말</string>
-    <string name="dev_cat_1">지친 고양이</string>
-    <string name="dev_cat_2">배고파\n야옹</string>
-    <string name="dev_greet_1">저는 모든 사용자를 만족시키고 싶습니다.\n그러나 그것은 매우 어렵습니다.\n이 앱에 구현된 기능은, 많은 사용자 요청의 일부에 불과합니다.\n많은 사용자 요청이 아직 보류 중입니다.</string>
-    <string name="dev_greet_2">제 능력이 부족하기 때문입니다.\n개발이 진행됨에 따라 제 능력의 한계를 느낍니다.\n매우 죄송합니다.</string>
-    <string name="dev_greet_3">모두가 만족할 때까지 업데이트는 계속됩니다.</string>
-    <string name="dev_greet_4">PS: 모든 이메일에 답장을 드리지는 못합니다.\n그러나 저는 모든 이메일을 읽어봅니다.</string>
+    <string name="dev_cat">배고파\n야옹</string>
+    <string name="dev_greet_1">Soul Browser는 여러분의 기부로 유지됩니다.\n기부해주신 모든 분들께 진심으로 감사드립니다.</string>
+    <string name="dev_greet_2">PS: 모든 이메일에 답장을 드리지는 못합니다.\n그러나 저는 모든 이메일을 읽어봅니다.</string>
     <string name="prevent_pay">실수로 인한 결제 방지</string>
     <string name="input_answer">답을 입력해 주세요.</string>
     <string name="correct_answer">정답은 %d입니다.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">아이콘을 길게 누르면 기능을 변경할 수 있습니다.</string>
     <string name="down_service">Soul 다운로드 서비스</string>
     <string name="auto_comp">자동 완성</string>
-    <string name="check_element">요소 검사</string>
+    <string name="check_element">요소 검사 (더 세밀한 차단)</string>
     <string name="quick_guide_1">1. 아이콘을 길게 눌러 이동할 수 있습니다.</string>
     <string name="quick_guide_2">2. 아이콘을 겹쳐서 폴더를 만들 수 있습니다.</string>
     <string name="column_count">열 수</string>

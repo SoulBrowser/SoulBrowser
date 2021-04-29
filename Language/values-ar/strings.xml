@@ -362,6 +362,7 @@
     <string name="pip_mode">وضع PIP</string>
     <string name="pip_guide">قد يؤدي تدوير الشاشة إلى الخروج من وضع PIP.\nالمواقع المختلفة لها سلوكيات مختلفة.</string>
     <string name="wait_retry">جار التحميل.\nيرجى المحاولة مرة أخرى في بضع دقائق.</string>
+    <string name="ads_retry">الإعلان ليس جاهزًا بعد.\nالرجاء معاودة المحاولة في وقت لاحق.</string>
     <string name="rate_app">قيم التطبيق</string>
     <string name="share_app">أوصي به لصديق</string>
     <string name="extract">فك الضغط</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">قم بتمييز علامة التبويب المحددة</string>
     <string name="accent_text">تسليط الضوء على النص</string>
     <string name="accent_color">تسليط الضوء على اللون</string>
+    <string name="app_keyboard">تنشيط لوحة المفاتيح عند بدء تشغيل التطبيق</string>
     <string name="tab_keyboard">قم بتنشيط لوحة المفاتيح عند إضافة علامة تبويب</string>
     <string name="swipe">انتقد</string>
     <string name="page_move">نقل الصفحة</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">لقد اشتريته بالفعل.</string>
     <string name="pay_fail">حدث خطأ.\nيرجى المحاولة مرة أخرى في بضع دقائق.</string>
     <string name="dev_greeting">تحية المطور</string>
-    <string name="dev_cat_1">قطة منهكة</string>
-    <string name="dev_cat_2">جائع\nمواضع</string>
-    <string name="dev_greet_1">أريد إرضاء جميع المستخدمين.\nلكنها صعبة للغاية.\nالوظائف التي يتم تنفيذها في هذا التطبيق هي مجرد جزء بسيط من العديد من طلبات المستخدمين.\nلا تزال العديد من طلبات المستخدمين معلقة.</string>
-    <string name="dev_greet_2">لأنني أفتقر إلى قدرتي.\nمع تقدم التطور ، أشعر بحدود قدراتي.\nانا اسف جدا.</string>
-    <string name="dev_greet_3">يستمر التحديث حتى يشعر الجميع بالرضا.</string>
-    <string name="dev_greet_4">ملاحظة: لا يمكننا الرد على جميع رسائل البريد الإلكتروني.\nلكني قرأت كل رسائل البريد الإلكتروني.</string>
+    <string name="dev_cat">جائع\nمواضع</string>
+    <string name="dev_greet_1">يتم الحفاظ على متصفح الروح من خلال تبرعك.\nأنا ممتن بصدق لكل من تبرع.</string>
+    <string name="dev_greet_2">ملاحظة: لا يمكننا الرد على جميع رسائل البريد الإلكتروني.\nلكني قرأت كل رسائل البريد الإلكتروني.</string>
     <string name="prevent_pay">منع المدفوعات العرضية</string>
     <string name="input_answer">من فضلك أدخل إجابتك.</string>
     <string name="correct_answer">الجواب الصحيح هو %d.</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">اضغط لفترة طويلة على الأيقونة لتغيير الوظيفة.</string>
     <string name="down_service">Soul تحميل الخدمة</string>
     <string name="auto_comp">الإكمال التلقائي</string>
-    <string name="check_element">فحص العنصر</string>
+    <string name="check_element">فحص العنصر (مزيد من الحجب الدقيق)</string>
     <string name="quick_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على الأيقونة.</string>
     <string name="quick_guide_2">2. يمكنك إنشاء مجلدات من خلال تداخل الرموز.</string>
     <string name="column_count">عدد الأعمدة</string>

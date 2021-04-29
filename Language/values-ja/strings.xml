@@ -362,6 +362,7 @@
     <string name="pip_mode">PIPモード</string>
     <string name="pip_guide">画面を回すとPIPモードが終了することができます。\nサイトごとに動作が異なります。</string>
     <string name="wait_retry">読み込んでいます。\n後でもう一度お試しください。</string>
+    <string name="ads_retry">広告がまだ準備ができていません。\n後で再試行してください。</string>
     <string name="rate_app">アプリを評価する</string>
     <string name="share_app">友達に推薦</string>
     <string name="extract">抽出</string>
@@ -643,6 +644,7 @@
     <string name="accent_tab">選択されたタブを強調</string>
     <string name="accent_text">テキストを強調表示</string>
     <string name="accent_color">ハイライトカラー</string>
+    <string name="app_keyboard">アプリの起動時にキーボードを有効に</string>
     <string name="tab_keyboard">タブの追加時のキーボードを有効に</string>
     <string name="swipe">スワイプ</string>
     <string name="page_move">ページを移動</string>
@@ -723,12 +725,9 @@
     <string name="already_paid">それは既に購入しました。</string>
     <string name="pay_fail">エラーが発生しました。\n後でやり直してください。</string>
     <string name="dev_greeting">開発者挨拶</string>
-    <string name="dev_cat_1">疲れた猫</string>
-    <string name="dev_cat_2">空腹\nニャー</string>
-    <string name="dev_greet_1">私はすべてのユーザーを満足させたいと思います。\nしかし、それは非常に困難である。\nこのアプリに実装された機能は、多くのユーザーの要求の一部に過ぎません。\n多くのユーザーの要求がまだ保留中です。</string>
-    <string name="dev_greet_2">私の能力が不足しているためです。\n開発が進むにつれ、私の能力の限界を感じます。\n私は非常に申し訳ありません。</string>
-    <string name="dev_greet_3">すべてが満足するまでの更新が継続されます。</string>
-    <string name="dev_greet_4">PS: 私のすべての電子メールに返信はありません。\nしかし、私はすべての電子メールを読みました。</string>
+    <string name="dev_cat">空腹\nニャー</string>
+    <string name="dev_greet_1">Soul Browserは、あなたの寄付で維持されます。\n私は寄付してくださったすべての方々に心から感謝いたします。</string>
+    <string name="dev_greet_2">PS: 私のすべての電子メールに返信はありません。\nしかし、私はすべての電子メールを読みました。</string>
     <string name="prevent_pay">ミスによる支払いを防ぐ</string>
     <string name="input_answer">答えを入力してください。</string>
     <string name="correct_answer">正解は%dです。</string>
@@ -825,7 +824,7 @@
     <string name="menu_guide">アイコンを長押しすると機能を変更することができます。</string>
     <string name="down_service">Soulダウンロードサービス</string>
     <string name="auto_comp">オートコンプリート</string>
-    <string name="check_element">要素の検査</string>
+    <string name="check_element">要素を検証（より細かいブロック）</string>
     <string name="quick_guide_1">1. アイコンを長押しして移動することができます。</string>
     <string name="quick_guide_2">2. アイコンを重ねフォルダを作成することができます。</string>
     <string name="column_count">列数</string>
