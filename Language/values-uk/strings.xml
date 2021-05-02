@@ -50,9 +50,7 @@
     <string name="print_page">Друк/PDF</string>
     <string name="print_success">Роздруковано успiшно</string>
     <string name="print_fail">Не вдалося надрукувати</string>
-    <string name="translator">Перекладач</string>
     <string name="translate">Переклад</string>
-    <string name="trans_to">Перекласти на</string>
     <string name="find_word">Знайти на сторінці</string>
     <string name="verify_image">Підтвердження зображення</string>
     <string name="create_album">Створити альбом</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Поточна сторінка</string>
     <string name="blank_page">Порожня сторінка</string>
     <string name="page">Сторінка</string>
@@ -367,6 +366,7 @@
     <string name="share_app">Порекомендуй другу</string>
     <string name="extract">Витяг</string>
     <string name="loading">Завантаження&#8230;</string>
+    <string name="waiting">Будь ласка, почекайте.</string>
     <string name="repeat_on">Режим повторення увімкнено</string>
     <string name="repeat_off">Режим повторення вимкнено</string>
     <string name="important_copyright">Авторські права дуже важливі.</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">Зафіксувати нижню панель</string>
     <string name="start_page">Початкова сторінка</string>
     <string name="show_image_info">Відображення зображень веб-сторінки.</string>
+    <string name="video_download">Завантаження відео</string>
     <string name="show_video_button">Кнопка завантаження відео</string>
     <string name="two_finger">(Два пальці)</string>
     <string name="two_finger_info_1">Щоб перемістити вкладку, проведіть двома пальцями вліво і вправо.</string>
@@ -466,6 +467,7 @@
     <string name="reinput">Будь ласка, введіть ще раз</string>
     <string name="wrong_input">Неправильне введення</string>
     <string name="continue_input">Продовжуйте</string>
+    <string name="pip_home">Переключіться на PIP за допомогою клавіші додому</string>
     <string name="pip_advance">Розширений режим PIP</string>
     <string name="device_warning">Деякі пристрої можуть не підтримуватися.</string>
     <string name="memory_warning">Ця функція використовує більше пам\'яті.\nБудьте обережні при використанні на пристроях з малою пам\'яттю.</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">Пожертвувати (Молоко)</string>
     <string name="donate_2">Пожертвувати (Rамбургер)</string>
     <string name="donate_3">Пожертвувати (Вечеря)</string>
-    <string name="donate_info">Будь ласка, підтримайте обслуговування додатка.</string>
+    <string name="donate_info">Дякуємо за користування браузером Soul.\nБраузер Soul підтримується вашими пожертвами.</string>
     <string name="paid">Придбано</string>
     <string name="already_paid">Його вже придбали.</string>
     <string name="pay_fail">Сталася помилка.\nБудь ласка спробуйте пізніше.</string>
-    <string name="dev_greeting">Привітання розробника</string>
     <string name="dev_cat">Я голодний\nМяу</string>
-    <string name="dev_greet_1">Браузер Soul підтримується вашими пожертвами.\nЯ щиро вдячний усім, хто зробив пожертву.</string>
-    <string name="dev_greet_2">PS: Я не можу відповісти на всі електронні листи.\nАле я читаю усі електронні листи.</string>
+    <string name="feed_cat">Годування кішки</string>
     <string name="prevent_pay">Запобігання випадковим платежам</string>
     <string name="input_answer">Введіть відповідь.</string>
     <string name="correct_answer">Правильна відповідь %d.</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">Денний режим</string>
     <string name="use_scroll_anim">Показувати анімацію прокрутки</string>
     <string name="suggest_engine">Механізм пропозицій</string>
-    <string name="fast">(швидко)</string>
     <string name="without_load">Повернутися назад без оновлення</string>
     <string name="without_load_info_1">Ця функція використовує більше пам\'яті.</string>
     <string name="without_load_info_2">Якщо у вас відкрито забагато сторінок, ваш браузер може працювати повільно.</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">Користувач не може пройти автентифікацію, оскільки виявлено вразливість системи безпеки за допомогою одного або декількох апаратних датчиків.</string>
     <string name="finger_unsupported">Користувач не може автентифікуватися, оскільки вказані параметри несумісні з поточною версією Android.</string>
     <string name="finger_unknown">Неможливо визначити, чи може користувач пройти автентифікацію.</string>
-    <string name="auto_detect">Автоматичний</string>
     <string name="use_gesture">Використовуйте жести</string>
     <string name="enable_gesture">Жести на</string>
     <string name="disable_gesture">Жести вимкнено</string>

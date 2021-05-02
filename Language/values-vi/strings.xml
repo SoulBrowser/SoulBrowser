@@ -50,9 +50,7 @@
     <string name="print_page">In / PDF</string>
     <string name="print_success">In thành công</string>
     <string name="print_fail">In thất bại</string>
-    <string name="translator">Người phiên dịch</string>
     <string name="translate">Phiên dịch</string>
-    <string name="trans_to">Dịch sang</string>
     <string name="find_word">Tìm ở trang</string>
     <string name="verify_image">Xác minh hình ảnh</string>
     <string name="create_album">Tạo album</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Trang hiện tại</string>
     <string name="blank_page">Trang trống</string>
     <string name="page">Trang</string>
@@ -367,6 +366,7 @@
     <string name="share_app">Giới thiệu cho bạn bè</string>
     <string name="extract">Trích xuất</string>
     <string name="loading">Tải&#8230;</string>
+    <string name="waiting">Xin vui lòng chờ đợi.</string>
     <string name="repeat_on">Lặp lại chế độ trên</string>
     <string name="repeat_off">Lặp lại chế độ tắt</string>
     <string name="important_copyright">Bản quyền là rất quan trọng.</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">Thanh dưới cố định</string>
     <string name="start_page">Trang bắt đầu</string>
     <string name="show_image_info">Hiển thị hình ảnh của một trang web.</string>
+    <string name="video_download">Tải xuống video</string>
     <string name="show_video_button">Nút tải xuống video</string>
     <string name="two_finger">(Hai ngón tay)</string>
     <string name="two_finger_info_1">Vuốt sang trái và phải bằng hai ngón tay để di chuyển các tab.</string>
@@ -466,6 +467,7 @@
     <string name="reinput">Vui lòng nhập lại</string>
     <string name="wrong_input">Đầu vào không hợp lệ</string>
     <string name="continue_input">Tiếp tục</string>
+    <string name="pip_home">Chuyển sang PIP bằng phím home</string>
     <string name="pip_advance">Chế độ nâng cao PIP</string>
     <string name="device_warning">Một số thiết bị có thể không được hỗ trợ.</string>
     <string name="memory_warning">Tính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">Quyên góp (Sữa)</string>
     <string name="donate_2">Quyên góp (Bánh hamburger)</string>
     <string name="donate_3">Quyên góp (Bữa tối)</string>
-    <string name="donate_info">Vui lòng hỗ trợ việc bảo trì ứng dụng.</string>
+    <string name="donate_info">Cảm ơn bạn đã sử dụng Soul Browser.\nSoul Browser được duy trì bởi sự đóng góp của bạn.</string>
     <string name="paid">Đã mua</string>
     <string name="already_paid">Nó đã được mua.</string>
     <string name="pay_fail">Một lỗi đã xảy ra.\nVui lòng thử lại sau.</string>
-    <string name="dev_greeting">Lời chào của nhà phát triển</string>
     <string name="dev_cat">Tôi đói\nMeo</string>
-    <string name="dev_greet_1">Soul Browser được duy trì bởi sự đóng góp của bạn.\nTôi chân thành biết ơn tất cả những người đã quyên góp.</string>
-    <string name="dev_greet_2">Tái bút: Tôi không thể trả lời tất cả các email.\nNhưng tôi đã đọc tất cả các email.</string>
+    <string name="feed_cat">Cho mèo ăn</string>
     <string name="prevent_pay">Ngăn chặn các khoản thanh toán ngẫu nhiên</string>
     <string name="input_answer">Vui lòng nhập câu trả lời.</string>
     <string name="correct_answer">Câu trả lời đúng là %d.</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">Chế độ ngày</string>
     <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
     <string name="suggest_engine">Công cụ đề xuất</string>
-    <string name="fast">(nhanh)</string>
     <string name="without_load">Quay lại mà không làm mới</string>
     <string name="without_load_info_1">Tính năng này sử dụng nhiều bộ nhớ hơn.</string>
     <string name="without_load_info_2">Nếu bạn mở quá nhiều trang, trình duyệt của bạn có thể chạy chậm.</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">Người dùng không thể xác thực vì lỗ hổng bảo mật đã được phát hiện với một hoặc nhiều cảm biến phần cứng.</string>
     <string name="finger_unsupported">Người dùng không thể xác thực vì các tùy chọn được chỉ định không tương thích với phiên bản Android hiện tại.</string>
     <string name="finger_unknown">Không thể xác định xem người dùng có thể xác thực hay không.</string>
-    <string name="auto_detect">Tự động</string>
     <string name="use_gesture">Sử dụng cử chỉ</string>
     <string name="enable_gesture">Cử chỉ trên</string>
     <string name="disable_gesture">Cử chỉ tắt</string>

@@ -50,9 +50,7 @@
     <string name="print_page">Imprimare / PDF</string>
     <string name="print_success">Succes de tipărire</string>
     <string name="print_fail">Imprimare eșuată</string>
-    <string name="translator">Traducător</string>
     <string name="translate">Traduceți</string>
-    <string name="trans_to">Tradu in</string>
     <string name="find_word">Găsiți în pagina</string>
     <string name="verify_image">Verificare imagine</string>
     <string name="create_album">Creare album</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Pagina curentă</string>
     <string name="blank_page">Pagina goală</string>
     <string name="page">Pagina</string>
@@ -367,6 +366,7 @@
     <string name="share_app">Recomandă unui prieten</string>
     <string name="extract">Extrage</string>
     <string name="loading">Se încarcă&#8230;</string>
+    <string name="waiting">Te rog asteapta.</string>
     <string name="repeat_on">Modul de repetare pe</string>
     <string name="repeat_off">Repetă modul oprit</string>
     <string name="important_copyright">Drepturile de autor sunt foarte importante.</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">Bara de jos fixată</string>
     <string name="start_page">Pagina de pornire</string>
     <string name="show_image_info">Afișează imagini ale unei pagini web.</string>
+    <string name="video_download">Descărcare video</string>
     <string name="show_video_button">Butonul de descărcare video</string>
     <string name="two_finger">(Două degete)</string>
     <string name="two_finger_info_1">Glisați spre stânga și spre dreapta cu două degete pentru a muta file.</string>
@@ -466,6 +467,7 @@
     <string name="reinput">Vă rugăm să-l introduceți din nou</string>
     <string name="wrong_input">Intrare greșită</string>
     <string name="continue_input">Continuă</string>
+    <string name="pip_home">Treceți la PIP cu tasta de pornire</string>
     <string name="pip_advance">Mod avansat PIP</string>
     <string name="device_warning">Este posibil ca unele dispozitive să nu fie acceptate.</string>
     <string name="memory_warning">Această caracteristică folosește mai multă memorie.\nAveți grijă când utilizați pe dispozitive cu memorie mică.</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">Donează (Lapte)</string>
     <string name="donate_2">Donează (Hamburger)</string>
     <string name="donate_3">Donează (Cină)</string>
-    <string name="donate_info">Vă rugăm să susțineți întreținerea aplicației.</string>
+    <string name="donate_info">Vă mulțumim că ați folosit Soul Browser.\nSoul Browser este menținut prin donația dvs.</string>
     <string name="paid">Cumparat</string>
     <string name="already_paid">A fost deja cumpărat.</string>
     <string name="pay_fail">A avut loc o eroare.\nVă rugăm să încercați din nou mai târziu.</string>
-    <string name="dev_greeting">Salutarea dezvoltatorului</string>
     <string name="dev_cat">Sunt infometat\nMiau</string>
-    <string name="dev_greet_1">Soul Browser este menținut prin donația dvs.\nSunt sincer recunoscător tuturor celor care au donat.</string>
-    <string name="dev_greet_2">PS: Nu pot răspunde la toate e-mailurile.\nDar am citit toate e-mailurile.</string>
+    <string name="feed_cat">Hrănirea pisicii</string>
     <string name="prevent_pay">Preveniți plățile accidentale</string>
     <string name="input_answer">Vă rugăm să introduceți răspunsul.</string>
     <string name="correct_answer">Răspunsul corect este %d.</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">Mod zi</string>
     <string name="use_scroll_anim">Utilizați animația de defilare</string>
     <string name="suggest_engine">Motor de sugestii</string>
-    <string name="fast">(rapid)</string>
     <string name="without_load">Reveniți fără reîmprospătare</string>
     <string name="without_load_info_1">Această caracteristică folosește mai multă memorie.</string>
     <string name="without_load_info_2">Dacă aveți prea multe pagini deschise, browserul dvs. poate fi lent.</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">Utilizatorul nu se poate autentifica deoarece a fost descoperită o vulnerabilitate de securitate cu unul sau mai mulți senzori hardware.</string>
     <string name="finger_unsupported">Utilizatorul nu se poate autentifica deoarece opțiunile specificate sunt incompatibile cu versiunea curentă de Android.</string>
     <string name="finger_unknown">Nu se poate stabili dacă utilizatorul se poate autentifica.</string>
-    <string name="auto_detect">Automat</string>
     <string name="use_gesture">Folosiți gesturi</string>
     <string name="enable_gesture">Gesturi aprinse</string>
     <string name="disable_gesture">Gesturi oprite</string>

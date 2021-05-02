@@ -50,9 +50,7 @@
     <string name="print_page">Drukuj / PDF</string>
     <string name="print_success">Sukces drukowania</string>
     <string name="print_fail">Drukowanie nie powiodło się</string>
-    <string name="translator">Tłumacz</string>
     <string name="translate">Tłumaczyć</string>
-    <string name="trans_to">Przetłumacz na</string>
     <string name="find_word">Znajdź na stronie</string>
     <string name="verify_image">Weryfikacja obrazu</string>
     <string name="create_album">Utwórz albumu</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Bieżąca strona</string>
     <string name="blank_page">Pusta strona</string>
     <string name="page">Strona</string>
@@ -367,6 +366,7 @@
     <string name="share_app">Poleć znajomemu</string>
     <string name="extract">Wyodrębnij</string>
     <string name="loading">Ładowanie&#8230;</string>
+    <string name="waiting">Proszę czekać.</string>
     <string name="repeat_on">Tryb powtarzania włączony</string>
     <string name="repeat_off">Tryb powtarzania wyłączony</string>
     <string name="important_copyright">Prawo autorskie jest bardzo ważne.</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">Przypiąć dolny pasek</string>
     <string name="start_page">Strona początkowa</string>
     <string name="show_image_info">Wyświetl obrazy strony internetowej.</string>
+    <string name="video_download">Pobieranie wideo</string>
     <string name="show_video_button">Przycisk pobierania wideo</string>
     <string name="two_finger">(Dwa palce)</string>
     <string name="two_finger_info_1">Przesuń dwoma palcami w lewo i w prawo, aby przenieść tabulatory.</string>
@@ -466,6 +467,7 @@
     <string name="reinput">Wpisz go ponownie</string>
     <string name="wrong_input">Błędne wejście</string>
     <string name="continue_input">Kontynuuj</string>
+    <string name="pip_home">Przełącz się na PIP za pomocą klawisza głównego</string>
     <string name="pip_advance">Tryb zaawansowany PIP</string>
     <string name="device_warning">Niektóre urządzenia mogą nie być obsługiwane.</string>
     <string name="memory_warning">Ta funkcja zużywa więcej pamięci.\nZachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">Podarować (Mleko)</string>
     <string name="donate_2">Podarować (Hamburger)</string>
     <string name="donate_3">Podarować (Obiad)</string>
-    <string name="donate_info">Prosimy o wsparcie w utrzymaniu aplikacji.</string>
+    <string name="donate_info">Dziękujemy za korzystanie z przeglądarki Soul Browser.\nSoul Browser jest utrzymywana z Twojej darowizny.</string>
     <string name="paid">Zakupione</string>
     <string name="already_paid">Został już zakupiony.</string>
     <string name="pay_fail">Wystąpił błąd.\nSpróbuj ponownie później.</string>
-    <string name="dev_greeting">Pozdrowienie programisty</string>
     <string name="dev_cat">Jestem głodny\nMiauczeć</string>
-    <string name="dev_greet_1">Przeglądarka Soul jest utrzymywana dzięki Twojej darowiznie.\nJestem szczerze wdzięczny wszystkim, którzy przekazali darowizny.</string>
-    <string name="dev_greet_2">PS: Nie mogę odpowiadać na wszystkie e-maile.\nAle czytam wszystkie e-maile.</string>
+    <string name="feed_cat">Karmienie kota</string>
     <string name="prevent_pay">Zapobiegaj przypadkowym płatnościom</string>
     <string name="input_answer">Wpisz odpowiedź.</string>
     <string name="correct_answer">Prawidłowa odpowiedź to %d.</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">Tryb dzienny</string>
     <string name="use_scroll_anim">Użyj animacji przewijania</string>
     <string name="suggest_engine">Silnik sugestii</string>
-    <string name="fast">(szybki)</string>
     <string name="without_load">Wróć bez odświeżania</string>
     <string name="without_load_info_1">Ta funkcja zużywa więcej pamięci.</string>
     <string name="without_load_info_2">Jeśli masz otwartych zbyt wiele stron, Twoja przeglądarka może działać wolno.</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">Użytkownik nie może się uwierzytelnić, ponieważ wykryto lukę w zabezpieczeniach co najmniej jednego czujnika sprzętowego.</string>
     <string name="finger_unsupported">Użytkownik nie może się uwierzytelnić, ponieważ określone opcje są niezgodne z bieżącą wersją Androida.</string>
     <string name="finger_unknown">Nie można określić, czy użytkownik może się uwierzytelnić.</string>
-    <string name="auto_detect">Automatyczny</string>
     <string name="use_gesture">Używaj gestów</string>
     <string name="enable_gesture">Gesty włączone</string>
     <string name="disable_gesture">Gesty wyłączone</string>

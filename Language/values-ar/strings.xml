@@ -50,9 +50,7 @@
     <string name="print_page">طباعة / PDF</string>
     <string name="print_success">نجاح الطباعة</string>
     <string name="print_fail">فشل الطباعة</string>
-    <string name="translator">مترجم</string>
     <string name="translate">ترجمة</string>
-    <string name="trans_to">ترجمة الى</string>
     <string name="find_word">العثور على الصفحة</string>
     <string name="verify_image">فحص الصورة</string>
     <string name="create_album">قم بإنشاء ألبوم</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">الصفحه الحاليه</string>
     <string name="blank_page">صفحة فارغة</string>
     <string name="page">صفحة</string>
@@ -367,6 +366,7 @@
     <string name="share_app">أوصي به لصديق</string>
     <string name="extract">فك الضغط</string>
     <string name="loading">جار التحميل</string>
+    <string name="waiting">أرجو الإنتظار.</string>
     <string name="repeat_on">استخدم وضع التكرار</string>
     <string name="repeat_off">كرر وضع إيقاف</string>
     <string name="important_copyright">حقوق التأليف والنشر مهمة جدا.</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">شريط سفلي ثابت</string>
     <string name="start_page">أبدأ الصفحة</string>
     <string name="show_image_info">يعرض صورة لصفحة الويب.</string>
+    <string name="video_download">تنزيل الفيديو</string>
     <string name="show_video_button">زر تنزيل الفيديو</string>
     <string name="two_finger">(إصبعين)</string>
     <string name="two_finger_info_1">اسحب لليسار أو لليمين بإصبعين لتحريك الصنبور.</string>
@@ -466,6 +467,7 @@
     <string name="reinput">الرجاء إدخاله مرة أخرى.</string>
     <string name="wrong_input">إدخال خاطئ</string>
     <string name="continue_input">استمر</string>
+    <string name="pip_home">قم بالتبديل إلى PIP باستخدام مفتاح الصفحة الرئيسية</string>
     <string name="pip_advance">الوضع المتقدم PIP</string>
     <string name="device_warning">قد لا تكون بعض الأجهزة مدعومة.</string>
     <string name="memory_warning">تستخدم هذه الميزة المزيد من الذاكرة.\nكن حذرًا عند استخدامه على الأجهزة ذات الذاكرة الصغيرة.</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">تبرع (حليب)</string>
     <string name="donate_2">تبرع (همبرغر)</string>
     <string name="donate_3">تبرع (عشاء)</string>
-    <string name="donate_info">الرجاء دعم صيانة التطبيق.</string>
+    <string name="donate_info">شكرًا لك على استخدام متصفح الروح.\nيتم الحفاظ على متصفح الروح من خلال تبرعك.</string>
     <string name="paid">تم شراؤها</string>
     <string name="already_paid">لقد اشتريته بالفعل.</string>
     <string name="pay_fail">حدث خطأ.\nيرجى المحاولة مرة أخرى في بضع دقائق.</string>
-    <string name="dev_greeting">تحية المطور</string>
     <string name="dev_cat">جائع\nمواضع</string>
-    <string name="dev_greet_1">يتم الحفاظ على متصفح الروح من خلال تبرعك.\nأنا ممتن بصدق لكل من تبرع.</string>
-    <string name="dev_greet_2">ملاحظة: لا يمكننا الرد على جميع رسائل البريد الإلكتروني.\nلكني قرأت كل رسائل البريد الإلكتروني.</string>
+    <string name="feed_cat">إطعام القطة</string>
     <string name="prevent_pay">منع المدفوعات العرضية</string>
     <string name="input_answer">من فضلك أدخل إجابتك.</string>
     <string name="correct_answer">الجواب الصحيح هو %d.</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">وضع اليوم</string>
     <string name="use_scroll_anim">استخدم التمرير للرسوم المتحركة</string>
     <string name="suggest_engine">محرك الاقتراح</string>
-    <string name="fast">(سريع)</string>
     <string name="without_load">ارجع بدون تحديث</string>
     <string name="without_load_info_1">تستخدم هذه الميزة المزيد من الذاكرة.</string>
     <string name="without_load_info_2">إذا كان لديك عدد كبير جدًا من الصفحات المفتوحة ، فقد يتباطأ متصفحك.</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">لا يمكن للمستخدم المصادقة لأنه تم العثور على ثغرة أمنية في واحد أو أكثر من أجهزة استشعار الأجهزة.</string>
     <string name="finger_unsupported">لا يمكن للمستخدم المصادقة لأن الخيار المحدد غير متوافق مع إصدار Android الحالي.</string>
     <string name="finger_unknown">لا يمكن تحديد ما إذا كان يمكن للمستخدم المصادقة.</string>
-    <string name="auto_detect">تلقائي</string>
     <string name="use_gesture">استخدم الإيماءات</string>
     <string name="enable_gesture">تم تشغيل الإيماءة</string>
     <string name="disable_gesture">بادرة قبالة</string>

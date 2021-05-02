@@ -50,9 +50,7 @@
     <string name="print_page">인쇄 / PDF</string>
     <string name="print_success">인쇄 성공</string>
     <string name="print_fail">인쇄 실패</string>
-    <string name="translator">번역기</string>
     <string name="translate">번역</string>
-    <string name="trans_to">다음으로 번역</string>
     <string name="find_word">페이지에서 찾기</string>
     <string name="verify_image">이미지 확인</string>
     <string name="create_album">앨범 만들기</string>
@@ -186,6 +184,7 @@
     <string name="daum">다음</string>
     <string name="duckduckgo">덕덕고</string>
     <string name="youtube">유튜브</string>
+    <string name="chrome_tab">크롬</string>
     <string name="current_page">현재 페이지</string>
     <string name="blank_page">빈 페이지</string>
     <string name="page">페이지</string>
@@ -367,6 +366,7 @@
     <string name="share_app">친구에게 추천</string>
     <string name="extract">압축 풀기</string>
     <string name="loading">로딩 중&#8230;</string>
+    <string name="waiting">잠시만 기다려 주세요.</string>
     <string name="repeat_on">반복 모드 사용</string>
     <string name="repeat_off">반복 모드 꺼짐</string>
     <string name="important_copyright">저작권은 매우 중요합니다.</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">하단바 고정</string>
     <string name="start_page">시작페이지</string>
     <string name="show_image_info">웹페이지의 이미지를 표시합니다.</string>
+    <string name="video_download">동영상 다운로드</string>
     <string name="show_video_button">동영상 다운로드 버튼</string>
     <string name="two_finger">(두 손가락)</string>
     <string name="two_finger_info_1">두 손가락으로 좌우로 스와이프하여 탭을 이동합니다.</string>
@@ -466,6 +467,7 @@
     <string name="reinput">한번 더 입력해 주세요.</string>
     <string name="wrong_input">잘못된 입력</string>
     <string name="continue_input">계속</string>
+    <string name="pip_home">홈키로 PIP로 전환</string>
     <string name="pip_advance">PIP 고급 모드</string>
     <string name="device_warning">일부 디바이스는 지원되지 않을 수 있습니다.</string>
     <string name="memory_warning">이 기능은 더 많은 메모리를 사용합니다.\n메모리가 작은 장치에서 사용할 때는 주의하십시오.</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">기부 (우유)</string>
     <string name="donate_2">기부 (햄버거)</string>
     <string name="donate_3">기부 (만찬)</string>
-    <string name="donate_info">앱의 유지 관리를 지원해 주세요.</string>
+    <string name="donate_info">Soul Browser를 사용해 주셔서 감사합니다.\nSoul Browser는 여러분의 기부로 유지됩니다.</string>
     <string name="paid">구매함</string>
     <string name="already_paid">이미 구매했습니다.</string>
     <string name="pay_fail">오류가 발생했습니다.\n잠시 후 다시 시도해 주세요.</string>
-    <string name="dev_greeting">개발자 인사말</string>
     <string name="dev_cat">배고파\n야옹</string>
-    <string name="dev_greet_1">Soul Browser는 여러분의 기부로 유지됩니다.\n기부해주신 모든 분들께 진심으로 감사드립니다.</string>
-    <string name="dev_greet_2">PS: 모든 이메일에 답장을 드리지는 못합니다.\n그러나 저는 모든 이메일을 읽어봅니다.</string>
+    <string name="feed_cat">고양이 먹이기</string>
     <string name="prevent_pay">실수로 인한 결제 방지</string>
     <string name="input_answer">답을 입력해 주세요.</string>
     <string name="correct_answer">정답은 %d입니다.</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">주간 모드</string>
     <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
     <string name="suggest_engine">제안 엔진</string>
-    <string name="fast">(빠른)</string>
     <string name="without_load">새로고침 없이 뒤로가기</string>
     <string name="without_load_info_1">이 기능은 더 많은 메모리를 사용합니다.</string>
     <string name="without_load_info_2">너무 많은 페이지가 열려있으면, 브라우저가 느려질 수 있습니다.</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">하나 이상의 하드웨어 센서에서 보안 취약점이 발견되었기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unsupported">지정된 옵션이 현재 Android 버전과 호환되지 않기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unknown">사용자가 인증할 수 있는지 여부를 확인할 수 없습니다.</string>
-    <string name="auto_detect">자동</string>
     <string name="use_gesture">제스처 사용</string>
     <string name="enable_gesture">제스처 켜기</string>
     <string name="disable_gesture">제스처 끄기</string>

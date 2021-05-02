@@ -50,9 +50,7 @@
     <string name="print_page">印刷 / PDF</string>
     <string name="print_success">印刷成功</string>
     <string name="print_fail">印刷に失敗し</string>
-    <string name="translator">翻訳</string>
     <string name="translate">翻訳</string>
-    <string name="trans_to">次に翻訳</string>
     <string name="find_word">ページ内検索</string>
     <string name="verify_image">画像の確認</string>
     <string name="create_album">アルバム作成</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">現在のページ</string>
     <string name="blank_page">空白のページ</string>
     <string name="page">ページ</string>
@@ -367,6 +366,7 @@
     <string name="share_app">友達に推薦</string>
     <string name="extract">抽出</string>
     <string name="loading">ロード中&#8230;</string>
+    <string name="waiting">しばらくお待ちください。</string>
     <string name="repeat_on">繰り返しモードオン</string>
     <string name="repeat_off">繰り返しモードオフ</string>
     <string name="important_copyright">著作権は非常に重要です。</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">下部バーの固定</string>
     <string name="start_page">スタートページ</string>
     <string name="show_image_info">Webページの画像を表示します。</string>
+    <string name="video_download">ビデオのダウンロード</string>
     <string name="show_video_button">ビデオダウンロードボタン</string>
     <string name="two_finger">(二本の指)</string>
     <string name="two_finger_info_1">二本の指で左右にスワイプしてタブを移動します。</string>
@@ -466,6 +467,7 @@
     <string name="reinput">もう一度入力してください</string>
     <string name="wrong_input">無効な入力</string>
     <string name="continue_input">持続する</string>
+    <string name="pip_home">ホームキーPIPに切り替え</string>
     <string name="pip_advance">PIP詳細モード</string>
     <string name="device_warning">一部のデバイスはサポートされないことがあります。</string>
     <string name="memory_warning">この機能は、より多くのメモリを使用します。\nメモリが小さなデバイスで使用するときは注意してください。</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">寄付 (牛乳)</string>
     <string name="donate_2">寄付 (ハンバーガー)</string>
     <string name="donate_3">寄付 (晩ごはん)</string>
-    <string name="donate_info">アプリのメンテナンスをサポートしてください。</string>
+    <string name="donate_info">Soul Browserを使っていただきありがとうございます。\nSoul Browserは、あなたの寄付で維持されます。</string>
     <string name="paid">購入する</string>
     <string name="already_paid">それは既に購入しました。</string>
     <string name="pay_fail">エラーが発生しました。\n後でやり直してください。</string>
-    <string name="dev_greeting">開発者挨拶</string>
     <string name="dev_cat">空腹\nニャー</string>
-    <string name="dev_greet_1">Soul Browserは、あなたの寄付で維持されます。\n私は寄付してくださったすべての方々に心から感謝いたします。</string>
-    <string name="dev_greet_2">PS: 私のすべての電子メールに返信はありません。\nしかし、私はすべての電子メールを読みました。</string>
+    <string name="feed_cat">猫の供給</string>
     <string name="prevent_pay">ミスによる支払いを防ぐ</string>
     <string name="input_answer">答えを入力してください。</string>
     <string name="correct_answer">正解は%dです。</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">週間モード</string>
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
     <string name="suggest_engine">提案エンジン</string>
-    <string name="fast">(クイック)</string>
     <string name="without_load">リフレッシュせずに戻る</string>
     <string name="without_load_info_1">この機能は、より多くのメモリを使用します。</string>
     <string name="without_load_info_2">あまりにも多くのページが開いている場合は、ブラウザが遅くなることがあります。</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">1つ以上のハードウェアセンサーでセキュリティの脆弱性が発見されたため、ユーザーは認証できません。</string>
     <string name="finger_unsupported">指定されたオプションが現在のAndroidバージョンと互換性がないため、ユーザーは認証できません。</string>
     <string name="finger_unknown">ユーザーが認証できるかどうかを判断できません。</string>
-    <string name="auto_detect">自動</string>
     <string name="use_gesture">ジェスチャの使用</string>
     <string name="enable_gesture">上のジェスチャー</string>
     <string name="disable_gesture">ジェスチャーオフ</string>

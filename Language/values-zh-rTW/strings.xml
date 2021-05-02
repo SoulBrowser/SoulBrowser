@@ -50,9 +50,7 @@
     <string name="print_page">打印 / PDF</string>
     <string name="print_success">打印成功</string>
     <string name="print_fail">打印失敗</string>
-    <string name="translator">譯者</string>
     <string name="translate">翻譯</string>
-    <string name="trans_to">翻譯成</string>
     <string name="find_word">在頁面中查找</string>
     <string name="verify_image">圖片驗證</string>
     <string name="create_album">創建相簿</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">當前頁</string>
     <string name="blank_page">空白頁</string>
     <string name="page">頁</string>
@@ -367,6 +366,7 @@
     <string name="share_app">推薦給朋友</string>
     <string name="extract">提取</string>
     <string name="loading">載入中&#8230;</string>
+    <string name="waiting">請稍等</string>
     <string name="repeat_on">重複模式開啟</string>
     <string name="repeat_off">重複模式關閉</string>
     <string name="important_copyright">版權非常重要</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">底欄固定</string>
     <string name="start_page">首頁</string>
     <string name="show_image_info">顯示網頁圖片</string>
+    <string name="video_download">影片下載</string>
     <string name="show_video_button">影片下載按鈕</string>
     <string name="two_finger">（雙指滑動）</string>
     <string name="two_finger_info_1">用雙指滑動左右滑動以移動分頁</string>
@@ -466,6 +467,7 @@
     <string name="reinput">請再次輸入</string>
     <string name="wrong_input">輸入無效</string>
     <string name="continue_input">繼續</string>
+    <string name="pip_home">使用主頁鍵切換到 PIP</string>
     <string name="pip_advance">畫中畫高級模式</string>
     <string name="device_warning">某些設備可能不受支持</string>
     <string name="memory_warning">此功能使用更多的內存\n在內存較小的設備上使用時要小心</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">捐（牛奶）</string>
     <string name="donate_2">捐（漢堡包）</string>
     <string name="donate_3">捐（晚餐）</string>
-    <string name="donate_info">請支持該應用程序的維護</string>
+    <string name="donate_info">感謝您使用 Soul Browser\nSoul Browser 由您的捐贈維護</string>
     <string name="paid">已購買</string>
     <string name="already_paid">已購買</string>
     <string name="pay_fail">發生了錯誤\n請稍後再試</string>
-    <string name="dev_greeting">開發人員問候</string>
     <string name="dev_cat">我餓了\n喵</string>
-    <string name="dev_greet_1">Soul Browser 由您的捐贈維護\n我衷心感謝所有捐贈者</string>
-    <string name="dev_greet_2">PS：我無法回复所有電子郵件\n但是我讀了所有電子郵件</string>
+    <string name="feed_cat">餵貓</string>
     <string name="prevent_pay">防止意外付款</string>
     <string name="input_answer">請輸入答案</string>
     <string name="correct_answer">正確答案是%d</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">日間模式</string>
     <string name="use_scroll_anim">使用滾動動畫</string>
     <string name="suggest_engine">建議引擎</string>
-    <string name="fast">(快速)</string>
     <string name="without_load">返回無刷新</string>
     <string name="without_load_info_1">此功能使用更多的內存</string>
     <string name="without_load_info_2">如果打開的頁面太多，則瀏覽器可能運行緩慢</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">用戶無法進行身份驗證，因為已通過一個或多個硬件傳感器發現了安全漏洞</string>
     <string name="finger_unsupported">由於指定的選項與當前的Android版本不兼容，因此用戶無法進行身份驗證</string>
     <string name="finger_unknown">無法確定用戶是否可以認證</string>
-    <string name="auto_detect">自動的</string>
     <string name="use_gesture">使用手勢</string>
     <string name="enable_gesture">手勢</string>
     <string name="disable_gesture">手勢關閉</string>

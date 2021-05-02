@@ -50,9 +50,7 @@
     <string name="print_page">Imprimer / PDF</string>
     <string name="print_success">Impression réussie</string>
     <string name="print_fail">Échec de l\'impression</string>
-    <string name="translator">Traducteur</string>
     <string name="translate">Traduire</string>
-    <string name="trans_to">Traduire en</string>
     <string name="find_word">Rechercher dans page</string>
     <string name="verify_image">Vérification image</string>
     <string name="create_album">Créer album</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Page actuelle</string>
     <string name="blank_page">Page blanche</string>
     <string name="page">Page</string>
@@ -367,6 +366,7 @@
     <string name="share_app">Recommander à un ami</string>
     <string name="extract">Extrait</string>
     <string name="loading">Chargement&#8230;</string>
+    <string name="waiting">S\'il vous plaît, attendez.</string>
     <string name="repeat_on">Mode de répétition activé</string>
     <string name="repeat_off">Mode de répétition désactivé</string>
     <string name="important_copyright">Le droit d\'auteur est très important.</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">Barre inférieure fixe</string>
     <string name="start_page">Page d\'accueil</string>
     <string name="show_image_info">Afficher une image d\'une page web.</string>
+    <string name="video_download">Téléchargement vidéo</string>
     <string name="show_video_button">Bouton téléchargement vidéo</string>
     <string name="two_finger">(Deux doigts)</string>
     <string name="two_finger_info_1">Glissez vers la gauche et la droite avec deux doigts pour déplacer les onglets.</string>
@@ -466,6 +467,7 @@
     <string name="reinput">Veuillez le saisir à nouveau</string>
     <string name="wrong_input">Entrée invalide</string>
     <string name="continue_input">Continuez</string>
+    <string name="pip_home">Passer au PIP avec la touche d\'accueil</string>
     <string name="pip_advance">Mode avancé PIP</string>
     <string name="device_warning">Certains appareils peuvent ne pas être pris en charge.</string>
     <string name="memory_warning">Cette fonctionnalité utilise plus de mémoire.\nSoyez prudent lorsque vous utilisez sur des appareils avec une petite mémoire.</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">Don (Lait)</string>
     <string name="donate_2">Don (Hamburger)</string>
     <string name="donate_3">Don (Dîner)</string>
-    <string name="donate_info">Veuillez soutenir la maintenance de l\'application.</string>
+    <string name="donate_info">Merci d\'utiliser Soul Browser.\nSoul Browser est maintenu par votre don.</string>
     <string name="paid">Acheté</string>
     <string name="already_paid">Déjà acheté.</string>
     <string name="pay_fail">Une erreur est survenue.\nVeuillez réessayer plus tard.</string>
-    <string name="dev_greeting">Message d\'accueil du développeur</string>
     <string name="dev_cat">J\'ai faim\nMiaou</string>
-    <string name="dev_greet_1">Soul Browser est maintenu par votre don.\nJe suis sincèrement reconnaissant à tous ceux qui ont fait un don.</string>
-    <string name="dev_greet_2">PS: je ne peux pas répondre à tous les e-mails.\nMais j\'ai lu tous les e-mails.</string>
+    <string name="feed_cat">Nourrir le chat</string>
     <string name="prevent_pay">Empêcher les paiements accidentels</string>
     <string name="input_answer">Veuillez saisir la réponse.</string>
     <string name="correct_answer">La bonne réponse est %d.</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">Mode jour</string>
     <string name="use_scroll_anim">Utiliser l\'animation de défilement</string>
     <string name="suggest_engine">Moteur de suggestion</string>
-    <string name="fast">(rapide)</string>
     <string name="without_load">Revenir sans rafraîchir</string>
     <string name="without_load_info_1">Cette fonction utilise plus de mémoire.</string>
     <string name="without_load_info_2">Si vous avez trop de pages ouvertes, votre navigateur peut être lent.</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">L\'utilisateur ne peut pas s\'authentifier car une vulnérabilité de sécurité a été découverte avec un ou plusieurs capteurs matériels.</string>
     <string name="finger_unsupported">L\'utilisateur ne peut pas s\'authentifier car les options spécifiées sont incompatibles avec la version actuelle d\'Android.</string>
     <string name="finger_unknown">Impossible de déterminer si l\'utilisateur peut s\'authentifier.</string>
-    <string name="auto_detect">Automatique</string>
     <string name="use_gesture">Utilisez des gestes</string>
     <string name="enable_gesture">Activer gestes</string>
     <string name="disable_gesture">Désactiver gestes</string>

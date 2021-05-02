@@ -50,9 +50,7 @@
     <string name="print_page">Yazdır / PDF</string>
     <string name="print_success">Baskı başarısı</string>
     <string name="print_fail">Yazdırılamadı</string>
-    <string name="translator">Çevirmen</string>
     <string name="translate">Çevirmek</string>
-    <string name="trans_to">Çevir</string>
     <string name="find_word">Sayfada bulun</string>
     <string name="verify_image">Resim doğrulama</string>
     <string name="create_album">Albüm oluştur</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Geçerli sayfa</string>
     <string name="blank_page">Boş sayfa</string>
     <string name="page">Sayfa</string>
@@ -367,6 +366,7 @@
     <string name="share_app">Bir arkadaşınıza tavsiye edin</string>
     <string name="extract">Özü</string>
     <string name="loading">Yükleniyor&#8230;</string>
+    <string name="waiting">Lütfen bekle.</string>
     <string name="repeat_on">Modu tekrar et</string>
     <string name="repeat_off">Modu tekrar et</string>
     <string name="important_copyright">Telif hakkı çok önemlidir.</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">Alt çubuk sabit</string>
     <string name="start_page">Başlangıç sayfası</string>
     <string name="show_image_info">Bir web sayfasının resmini görüntüleyin.</string>
+    <string name="video_download">Video indirme</string>
     <string name="show_video_button">Video indirme düğmesi</string>
     <string name="two_finger">(İki parmak)</string>
     <string name="two_finger_info_1">Sekmeleri taşımak için iki parmağınızla sola ve sağa kaydırın.</string>
@@ -466,6 +467,7 @@
     <string name="reinput">Lütfen tekrar giriniz</string>
     <string name="wrong_input">Geçersiz giriş</string>
     <string name="continue_input">Devam et</string>
+    <string name="pip_home">Ev tuşuyla PIP\'ye geç</string>
     <string name="pip_advance">PIP gelişmiş modu</string>
     <string name="device_warning">Bazı cihazlar desteklenmeyebilir.</string>
     <string name="memory_warning">Bu özellik daha fazla bellek kullanır.\nKüçük belleğe sahip cihazlarda kullanırken dikkatli olun.</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">Bağış (Süt)</string>
     <string name="donate_2">Bağış (Hamburger)</string>
     <string name="donate_3">Bağış (Akşam yemegi)</string>
-    <string name="donate_info">Lütfen uygulamanın bakımını destekleyin.</string>
+    <string name="donate_info">Soul Browser kullandığınız için teşekkür ederiz.\nSoul Browser bağışınız ile korunur.</string>
     <string name="paid">Satın alındı</string>
     <string name="already_paid">Zaten satın alındı.</string>
     <string name="pay_fail">Bir hata oluştu.\nLütfen daha sonra tekrar deneyiniz.</string>
-    <string name="dev_greeting">Geliştirici Karşılama</string>
     <string name="dev_cat">Açım\nMiyav</string>
-    <string name="dev_greet_1">Soul Browser bağışınız ile korunur.\nBağışta bulunan herkese içtenlikle minnettarım.</string>
-    <string name="dev_greet_2">Not: Tüm e-postalara cevap veremiyorum.\nAma tüm e-postaları okudum.</string>
+    <string name="feed_cat">Kediyi beslemek</string>
     <string name="prevent_pay">Yanlışlıkla yapılan ödemeleri önleyin</string>
     <string name="input_answer">Lütfen cevabı girin.</string>
     <string name="correct_answer">Doğru cevap %d\'dır.</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">Gündüz modu</string>
     <string name="use_scroll_anim">Kaydırma animasyonunu kullan</string>
     <string name="suggest_engine">Öneri motoru</string>
-    <string name="fast">(hızlı)</string>
     <string name="without_load">Yenilemeden geri dönün</string>
     <string name="without_load_info_1">Bu özellik daha fazla bellek kullanır.</string>
     <string name="without_load_info_2">Çok fazla açık sayfanız varsa, tarayıcınız yavaş olabilir.</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">Bir veya daha fazla donanım algılayıcısı ile bir güvenlik açığı keşfedildiği için kullanıcı kimlik doğrulayamaz.</string>
     <string name="finger_unsupported">Belirtilen seçenekler mevcut Android sürümüyle uyumlu olmadığından kullanıcı kimlik doğrulaması yapamaz.</string>
     <string name="finger_unknown">Kullanıcının kimlik doğrulaması yapıp yapamayacağı belirlenemiyor.</string>
-    <string name="auto_detect">Otomatik</string>
     <string name="use_gesture">Hareketleri kullanın</string>
     <string name="enable_gesture">Hareketler açık</string>
     <string name="disable_gesture">Hareketler kapalı</string>

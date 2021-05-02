@@ -50,9 +50,7 @@
     <string name="print_page">Print / PDF</string>
     <string name="print_success">Print success</string>
     <string name="print_fail">Print Failed</string>
-    <string name="translator">Translator</string>
     <string name="translate">Translate</string>
-    <string name="trans_to">Translate to</string>
     <string name="find_word">Find in page</string>
     <string name="verify_image">Image verification</string>
     <string name="create_album">Create album</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Current page</string>
     <string name="blank_page">Blank page</string>
     <string name="page">Page</string>
@@ -367,6 +366,7 @@
     <string name="share_app">Recommend to a friend</string>
     <string name="extract">Extract</string>
     <string name="loading">Loading&#8230;</string>
+    <string name="waiting">Please wait.</string>
     <string name="repeat_on">Repeat mode on</string>
     <string name="repeat_off">Repeat mode off</string>
     <string name="important_copyright">Copyright is very important.</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">Bottom bar fixed</string>
     <string name="start_page">Start page</string>
     <string name="show_image_info">Display images of a webpage.</string>
+    <string name="video_download">Video download</string>
     <string name="show_video_button">Video download button</string>
     <string name="two_finger">(Two fingers)</string>
     <string name="two_finger_info_1">Swipe left and right with two fingers to move tab.</string>
@@ -466,6 +467,7 @@
     <string name="reinput">Please enter it again</string>
     <string name="wrong_input">Wrong input</string>
     <string name="continue_input">Continue</string>
+    <string name="pip_home">Switch to PIP with home key</string>
     <string name="pip_advance">PIP advanced mode</string>
     <string name="device_warning">Some devices may not be supported.</string>
     <string name="memory_warning">This feature uses more memory.\nBe careful when using on devices with small memory.</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">Donate (Milk)</string>
     <string name="donate_2">Donate (Hamburger)</string>
     <string name="donate_3">Donate (Dinner)</string>
-    <string name="donate_info">Please support the maintenance of the app.</string>
+    <string name="donate_info">Thank you for using Soul Browser.\nSoul Browser is maintained by your donation.</string>
     <string name="paid">Purchased</string>
     <string name="already_paid">It has already been purchased.</string>
     <string name="pay_fail">An error has occurred.\nPlease try again later.</string>
-    <string name="dev_greeting">Developer Greeting</string>
     <string name="dev_cat">I\'m hungry\nMeow</string>
-    <string name="dev_greet_1">Soul Browser is maintained by your donation.\nI am sincerely grateful to all those who have donated.</string>
-    <string name="dev_greet_2">PS: I can\'t reply to all emails.\nBut I read all emails.</string>
+    <string name="feed_cat">Feeding the cat</string>
     <string name="prevent_pay">Prevent accidental payments</string>
     <string name="input_answer">Please enter answer.</string>
     <string name="correct_answer">The correct answer is %d.</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">Day mode</string>
     <string name="use_scroll_anim">Use scroll animation</string>
     <string name="suggest_engine">Suggestion engine</string>
-    <string name="fast">(fast)</string>
     <string name="without_load">Go back without refresh</string>
     <string name="without_load_info_1">This feature uses more memory.</string>
     <string name="without_load_info_2">If you have too many pages open, your browser may be slow.</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">The user can\'t authenticate because a security vulnerability has been discovered with one or more hardware sensors.</string>
     <string name="finger_unsupported">The user can\'t authenticate because the specified options are incompatible with the current Android version.</string>
     <string name="finger_unknown">Unable to determine whether the user can authenticate.</string>
-    <string name="auto_detect">Automatic</string>
     <string name="use_gesture">Use gestures</string>
     <string name="enable_gesture">Gestures on</string>
     <string name="disable_gesture">Gestures off</string>

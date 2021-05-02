@@ -50,9 +50,7 @@
     <string name="print_page">打印 / PDF</string>
     <string name="print_success">打印成功</string>
     <string name="print_fail">打印失败</string>
-    <string name="translator">翻译器</string>
     <string name="translate">翻译</string>
-    <string name="trans_to">翻译成</string>
     <string name="find_word">在页面中查找</string>
     <string name="verify_image">图像验证</string>
     <string name="create_album">创建相册</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">当前页</string>
     <string name="blank_page">空白页</string>
     <string name="page">网页</string>
@@ -367,6 +366,7 @@
     <string name="share_app">安利给朋友</string>
     <string name="extract">提取</string>
     <string name="loading">加载中&#8230;</string>
+    <string name="waiting">请稍等</string>
     <string name="repeat_on">循环模式开启</string>
     <string name="repeat_off">循环模式关闭</string>
     <string name="important_copyright">版权很重要</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">底栏固定</string>
     <string name="start_page">首页</string>
     <string name="show_image_info">显示网页图像</string>
+    <string name="video_download">影片下载</string>
     <string name="show_video_button">视频下载按钮</string>
     <string name="two_finger">（双指）</string>
     <string name="two_finger_info_1">用双指左右滑动以移动标签</string>
@@ -466,6 +467,7 @@
     <string name="reinput">请再次输入</string>
     <string name="wrong_input">输入无效</string>
     <string name="continue_input">继续</string>
+    <string name="pip_home">使用主页键切换到 PIP</string>
     <string name="pip_advance">画中画高级模式</string>
     <string name="device_warning">某些设备可能不支持</string>
     <string name="memory_warning">此功能使用更多的内存\n内存小的同学谨慎使用</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">请作者喝瓶牛奶</string>
     <string name="donate_2">请作者吃个汉堡包</string>
     <string name="donate_3">请作者吃顿晚餐</string>
-    <string name="donate_info">这将支持开发者对该应用程序的维护</string>
+    <string name="donate_info">感谢您使用 Soul Browser\nSoul Browser 由您的捐赠维护</string>
     <string name="paid">已购买</string>
     <string name="already_paid">已购买</string>
     <string name="pay_fail">发生了错误\n请稍后再试</string>
-    <string name="dev_greeting">开发人员留言</string>
     <string name="dev_cat">我饿了\n喵～</string>
-    <string name="dev_greet_1">Soul Browser 由您的捐赠维护\n我衷心感谢所有捐赠者</string>
-    <string name="dev_greet_2">PS：我无法回复所有电子邮件\n但是我会读了所有电子邮件</string>
+    <string name="feed_cat">喂猫</string>
     <string name="prevent_pay">为了防止意外付款，</string>
     <string name="input_answer">请输入正确答案。</string>
     <string name="correct_answer">正确答案是 %d</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">日间模式</string>
     <string name="use_scroll_anim">滚动动画</string>
     <string name="suggest_engine">建议引擎</string>
-    <string name="fast">（快速）</string>
     <string name="without_load">返回无刷新</string>
     <string name="without_load_info_1">此功能使用更多的内存</string>
     <string name="without_load_info_2">如果打开的页面太多，则浏览器可能运行缓慢。</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">用户无法进行身份验证，因为已通过一个或多个硬件传感器发现了安全漏洞</string>
     <string name="finger_unsupported">由于指定的选项与当前的Android版本不兼容，因此用户无法进行身份验证</string>
     <string name="finger_unknown">无法确定用户是否可以认证</string>
-    <string name="auto_detect">自动的</string>
     <string name="use_gesture">使用手势</string>
     <string name="enable_gesture">手势</string>
     <string name="disable_gesture">手势关闭</string>

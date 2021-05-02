@@ -50,9 +50,7 @@
     <string name="print_page">Cetak / PDF</string>
     <string name="print_success">Keberhasilan cetak</string>
     <string name="print_fail">Print Failed</string>
-    <string name="translator">Terjemahan</string>
     <string name="translate">Terjemahan</string>
-    <string name="trans_to">Terjemahkan ke</string>
     <string name="find_word">Temukan di halaman</string>
     <string name="verify_image">Verifikasi gambar</string>
     <string name="create_album">Buat album</string>
@@ -186,6 +184,7 @@
     <string name="daum">Daum</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
+    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Halaman saat ini</string>
     <string name="blank_page">Halaman kosong</string>
     <string name="page">Halaman</string>
@@ -367,6 +366,7 @@
     <string name="share_app">Rekomendasikan ke teman</string>
     <string name="extract">Extract</string>
     <string name="loading">Memuat&#8230;</string>
+    <string name="waiting">Mohon tunggu.</string>
     <string name="repeat_on">Mode ulang pada</string>
     <string name="repeat_off">Mode ulang mati</string>
     <string name="important_copyright">Hak cipta sangat penting.</string>
@@ -397,6 +397,7 @@
     <string name="fix_bot">Batang bawah diperbaiki</string>
     <string name="start_page">Halaman awal</string>
     <string name="show_image_info">Tampilkan gambar halaman web.</string>
+    <string name="video_download">Pengunduhan video</string>
     <string name="show_video_button">Tombol unduh video</string>
     <string name="two_finger">(Dua jari)</string>
     <string name="two_finger_info_1">Geser ke kiri dan kanan dengan dua jari untuk memindahkan tab.</string>
@@ -466,6 +467,7 @@
     <string name="reinput">Silakan masukkan lagi</string>
     <string name="wrong_input">Input tidak valid</string>
     <string name="continue_input">Terus</string>
+    <string name="pip_home">Beralih ke PIP dengan kunci rumah</string>
     <string name="pip_advance">Mode lanjutan PIP</string>
     <string name="device_warning">Một số thiết bị có thể không được hỗ trợ.</string>
     <string name="memory_warning">Tính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
@@ -720,14 +722,12 @@
     <string name="donate_1">Sumbangan (Susu)</string>
     <string name="donate_2">Sumbangan (Roti isi daging)</string>
     <string name="donate_3">Sumbangan (Makan malam)</string>
-    <string name="donate_info">Harap dukung pemeliharaan aplikasi.</string>
+    <string name="donate_info">Terima kasih telah menggunakan Soul Browser.\nSoul Browser dikelola oleh donasi Anda.</string>
     <string name="paid">Membeli</string>
     <string name="already_paid">Sudah dibeli.</string>
     <string name="pay_fail">Sebuah kesalahan telah terjadi.\nSilakan coba lagi nanti.</string>
-    <string name="dev_greeting">Pengembang Greeting</string>
     <string name="dev_cat">Saya lapar\nMeong</string>
-    <string name="dev_greet_1">Soul Browser dikelola oleh donasi Anda.\nSaya dengan tulus berterima kasih kepada semua yang telah menyumbang.</string>
-    <string name="dev_greet_2">PS: Saya tidak bisa membalas semua email.\nTapi saya membaca semua email.</string>
+    <string name="feed_cat">Memberi makan kucing</string>
     <string name="prevent_pay">Cegah pembayaran yang tidak disengaja</string>
     <string name="input_answer">Silakan masukkan jawaban.</string>
     <string name="correct_answer">Jawaban yang benar adalah %d.</string>
@@ -769,7 +769,6 @@
     <string name="day_mode">Mode hari</string>
     <string name="use_scroll_anim">Gunakan animasi gulir</string>
     <string name="suggest_engine">Mesin saran</string>
-    <string name="fast">(cepat)</string>
     <string name="without_load">Kembali tanpa penyegaran</string>
     <string name="without_load_info_1">Fitur ini menggunakan lebih banyak memori.</string>
     <string name="without_load_info_2">Jika Anda membuka terlalu banyak halaman, browser Anda mungkin lambat.</string>
@@ -807,7 +806,6 @@
     <string name="finger_security">Pengguna tidak dapat mengautentikasi karena kerentanan keamanan telah ditemukan dengan satu atau beberapa sensor perangkat keras.</string>
     <string name="finger_unsupported">Pengguna tidak dapat mengautentikasi karena opsi yang ditentukan tidak kompatibel dengan versi Android saat ini.</string>
     <string name="finger_unknown">Tidak dapat menentukan apakah pengguna dapat mengautentikasi.</string>
-    <string name="auto_detect">Otomatis</string>
     <string name="use_gesture">Gunakan gerakan</string>
     <string name="enable_gesture">Gestur aktif</string>
     <string name="disable_gesture">Gestur mati</string>
