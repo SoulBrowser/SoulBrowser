@@ -718,7 +718,8 @@
     <string name="txt_viewer">Visualizador de texto</string>
     <string name="purchase">Compra</string>
     <string name="remove_ads">Remover anúncios no aplicativo</string>
-    <string name="remove_ads_info">Os anúncios no aplicativo são removidos com um pagamento.\nAnúncios no aplicativo e anúncios em sites são diferentes.</string>
+    <string name="remove_ads_info_1">Os anúncios no aplicativo são removidos com um pagamento.\nAnúncios no aplicativo e anúncios em sites são diferentes.</string>
+    <string name="remove_ads_info_2">O recurso de remoção de anúncios do site é gratuito.</string>
     <string name="donate_1">Doar (Leite)</string>
     <string name="donate_2">Doar (Hamburger)</string>
     <string name="donate_3">Doar (Jantar)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Comprado</string>
     <string name="already_paid">Já foi comprado.</string>
     <string name="pay_fail">Ocorreu um erro.\nPor favor, tente novamente mais tarde.</string>
-    <string name="dev_cat">Eu estou com fome\nMiau</string>
-    <string name="feed_cat">Alimentando o gato</string>
     <string name="prevent_pay">Previna pagamentos acidentais</string>
     <string name="input_answer">Por favor, digite a resposta.</string>
     <string name="correct_answer">A resposta correta é %d.</string>

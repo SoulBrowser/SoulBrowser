@@ -718,7 +718,8 @@
     <string name="txt_viewer">Trình xem văn bản</string>
     <string name="purchase">Ủng hộ nhà phát triển</string>
     <string name="remove_ads">Xóa quảng cáo trong ứng dụng</string>
-    <string name="remove_ads_info">Quảng cáo trong ứng dụng bị loại bỏ với một lần thanh toán.\nQuảng cáo trong ứng dụng và quảng cáo trên trang web là khác nhau.</string>
+    <string name="remove_ads_info_1">Quảng cáo trong ứng dụng bị loại bỏ với một lần thanh toán.\nQuảng cáo trong ứng dụng và quảng cáo trên trang web là khác nhau.</string>
+    <string name="remove_ads_info_2">Tính năng loại bỏ quảng cáo của trang web là miễn phí.</string>
     <string name="donate_1">Quyên góp (Sữa)</string>
     <string name="donate_2">Quyên góp (Bánh hamburger)</string>
     <string name="donate_3">Quyên góp (Bữa tối)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Đã mua</string>
     <string name="already_paid">Nó đã được mua.</string>
     <string name="pay_fail">Một lỗi đã xảy ra.\nVui lòng thử lại sau.</string>
-    <string name="dev_cat">Tôi đói\nMeo</string>
-    <string name="feed_cat">Cho mèo ăn</string>
     <string name="prevent_pay">Ngăn chặn các khoản thanh toán ngẫu nhiên</string>
     <string name="input_answer">Vui lòng nhập câu trả lời.</string>
     <string name="correct_answer">Câu trả lời đúng là %d.</string>

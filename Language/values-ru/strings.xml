@@ -718,7 +718,8 @@
     <string name="txt_viewer">Просмотрщик текста</string>
     <string name="purchase">Покупки</string>
     <string name="remove_ads">Удалить рекламу в приложении</string>
-    <string name="remove_ads_info">Реклама в приложении удаляется одним платежом.\nРеклама в приложении и реклама на сайтах разные.</string>
+    <string name="remove_ads_info_1">Реклама в приложении удаляется одним платежом.\nРеклама в приложении и реклама на сайтах разные.</string>
+    <string name="remove_ads_info_2">Функция удаления рекламы на сайте бесплатна.</string>
     <string name="donate_1">Пожертвовать (Молоко)</string>
     <string name="donate_2">Пожертвовать (Гамбургер)</string>
     <string name="donate_3">Пожертвовать (Ужин)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Куплено</string>
     <string name="already_paid">Он уже куплен.</string>
     <string name="pay_fail">Произошла ошибка.\nПожалуйста, попробуйте позже.</string>
-    <string name="dev_cat">Я голоден\nМяу</string>
-    <string name="feed_cat">Кормление кошки</string>
     <string name="prevent_pay">Предотвратить случайные платежи</string>
     <string name="input_answer">Пожалуйста, введите ответ.</string>
     <string name="correct_answer">Правильный ответ %d.</string>

@@ -718,7 +718,8 @@
     <string name="txt_viewer">文字檢視器</string>
     <string name="purchase">採購</string>
     <string name="remove_ads">刪除應用內廣告</string>
-    <string name="remove_ads_info">一次付款即可刪除應用內廣告\n應用內廣告和網站上的廣告不同</string>
+    <string name="remove_ads_info_1">一次付款即可刪除應用內廣告\n應用內廣告和網站上的廣告不同</string>
+    <string name="remove_ads_info_2">該網站的廣告刪除功能是免費的</string>
     <string name="donate_1">捐（牛奶）</string>
     <string name="donate_2">捐（漢堡包）</string>
     <string name="donate_3">捐（晚餐）</string>
@@ -726,8 +727,6 @@
     <string name="paid">已購買</string>
     <string name="already_paid">已購買</string>
     <string name="pay_fail">發生了錯誤\n請稍後再試</string>
-    <string name="dev_cat">我餓了\n喵</string>
-    <string name="feed_cat">餵貓</string>
     <string name="prevent_pay">防止意外付款</string>
     <string name="input_answer">請輸入答案</string>
     <string name="correct_answer">正確答案是%d</string>

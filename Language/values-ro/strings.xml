@@ -718,7 +718,8 @@
     <string name="txt_viewer">Vizualizator de text</string>
     <string name="purchase">Cumpărare</string>
     <string name="remove_ads">Eliminați anunțurile în aplicație</string>
-    <string name="remove_ads_info">Anunțurile în aplicație sunt eliminate cu o singură plată.\nAnunțurile în aplicație și anunțurile de pe site-uri web sunt diferite.</string>
+    <string name="remove_ads_info_1">Anunțurile în aplicație sunt eliminate cu o singură plată.\nAnunțurile în aplicație și anunțurile de pe site-uri web sunt diferite.</string>
+    <string name="remove_ads_info_2">Funcția de eliminare a anunțurilor site-ului este gratuită.</string>
     <string name="donate_1">Donează (Lapte)</string>
     <string name="donate_2">Donează (Hamburger)</string>
     <string name="donate_3">Donează (Cină)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Cumparat</string>
     <string name="already_paid">A fost deja cumpărat.</string>
     <string name="pay_fail">A avut loc o eroare.\nVă rugăm să încercați din nou mai târziu.</string>
-    <string name="dev_cat">Sunt infometat\nMiau</string>
-    <string name="feed_cat">Hrănirea pisicii</string>
     <string name="prevent_pay">Preveniți plățile accidentale</string>
     <string name="input_answer">Vă rugăm să introduceți răspunsul.</string>
     <string name="correct_answer">Răspunsul corect este %d.</string>

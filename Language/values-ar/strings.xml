@@ -718,7 +718,8 @@
     <string name="txt_viewer">عارض النص</string>
     <string name="purchase">شراء</string>
     <string name="remove_ads">إزالة الإعلانات داخل التطبيق</string>
-    <string name="remove_ads_info">تتم إزالة الإعلانات داخل التطبيق بدفعة واحدة.\nتختلف الإعلانات داخل التطبيق والإعلانات على موقع الويب.</string>
+    <string name="remove_ads_info_1">تتم إزالة الإعلانات داخل التطبيق بدفعة واحدة.\nتختلف الإعلانات داخل التطبيق والإعلانات على موقع الويب.</string>
+    <string name="remove_ads_info_2">ميزة إزالة الإعلانات من موقع الويب مجانية.</string>
     <string name="donate_1">تبرع (حليب)</string>
     <string name="donate_2">تبرع (همبرغر)</string>
     <string name="donate_3">تبرع (عشاء)</string>
@@ -726,8 +727,6 @@
     <string name="paid">تم شراؤها</string>
     <string name="already_paid">لقد اشتريته بالفعل.</string>
     <string name="pay_fail">حدث خطأ.\nيرجى المحاولة مرة أخرى في بضع دقائق.</string>
-    <string name="dev_cat">جائع\nمواضع</string>
-    <string name="feed_cat">إطعام القطة</string>
     <string name="prevent_pay">منع المدفوعات العرضية</string>
     <string name="input_answer">من فضلك أدخل إجابتك.</string>
     <string name="correct_answer">الجواب الصحيح هو %d.</string>

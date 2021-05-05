@@ -718,7 +718,8 @@
     <string name="txt_viewer">Metin görüntüleyici</string>
     <string name="purchase">Satın alma</string>
     <string name="remove_ads">Uygulama içi reklamları kaldırın</string>
-    <string name="remove_ads_info">Uygulama içi reklamlar tek ödeme ile kaldırılır.\nWeb sitelerindeki uygulama içi reklamlar ve reklamlar farklıdır.</string>
+    <string name="remove_ads_info_1">Uygulama içi reklamlar tek ödeme ile kaldırılır.\nWeb sitelerindeki uygulama içi reklamlar ve reklamlar farklıdır.</string>
+    <string name="remove_ads_info_2">Web sitesinin reklam kaldırma özelliği ücretsizdir.</string>
     <string name="donate_1">Bağış (Süt)</string>
     <string name="donate_2">Bağış (Hamburger)</string>
     <string name="donate_3">Bağış (Akşam yemegi)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Satın alındı</string>
     <string name="already_paid">Zaten satın alındı.</string>
     <string name="pay_fail">Bir hata oluştu.\nLütfen daha sonra tekrar deneyiniz.</string>
-    <string name="dev_cat">Açım\nMiyav</string>
-    <string name="feed_cat">Kediyi beslemek</string>
     <string name="prevent_pay">Yanlışlıkla yapılan ödemeleri önleyin</string>
     <string name="input_answer">Lütfen cevabı girin.</string>
     <string name="correct_answer">Doğru cevap %d\'dır.</string>

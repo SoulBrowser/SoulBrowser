@@ -718,7 +718,8 @@
     <string name="txt_viewer">Visionneuse de texte</string>
     <string name="purchase">Achat</string>
     <string name="remove_ads">Supprimer les publicités intégrées à l\'application</string>
-    <string name="remove_ads_info">Les annonces intégrées à l\'application sont supprimées en un seul paiement.\nLes publicités intégrées aux applications et les publicités sur les sites Web sont différentes.</string>
+    <string name="remove_ads_info_1">Les annonces intégrées à l\'application sont supprimées en un seul paiement.\nLes publicités intégrées aux applications et les publicités sur les sites Web sont différentes.</string>
+    <string name="remove_ads_info_2">La fonction de suppression des publicités du site Web est gratuite.</string>
     <string name="donate_1">Don (Lait)</string>
     <string name="donate_2">Don (Hamburger)</string>
     <string name="donate_3">Don (Dîner)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Acheté</string>
     <string name="already_paid">Déjà acheté.</string>
     <string name="pay_fail">Une erreur est survenue.\nVeuillez réessayer plus tard.</string>
-    <string name="dev_cat">J\'ai faim\nMiaou</string>
-    <string name="feed_cat">Nourrir le chat</string>
     <string name="prevent_pay">Empêcher les paiements accidentels</string>
     <string name="input_answer">Veuillez saisir la réponse.</string>
     <string name="correct_answer">La bonne réponse est %d.</string>

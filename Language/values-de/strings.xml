@@ -718,7 +718,8 @@
     <string name="txt_viewer">Textbetrachter</string>
     <string name="purchase">Kauf</string>
     <string name="remove_ads">In-App-Anzeigen entfernen</string>
-    <string name="remove_ads_info">In-App-Anzeigen werden mit einer Zahlung entfernt.\nIn-App-Anzeigen und Anzeigen auf Websites sind unterschiedlich.</string>
+    <string name="remove_ads_info_1">In-App-Anzeigen werden mit einer Zahlung entfernt.\nIn-App-Anzeigen und Anzeigen auf Websites sind unterschiedlich.</string>
+    <string name="remove_ads_info_2">Die Funktion zum Entfernen von Anzeigen auf der Website ist kostenlos.</string>
     <string name="donate_1">Spenden (Milch)</string>
     <string name="donate_2">Spenden (Hamburger)</string>
     <string name="donate_3">Spenden (Abendessen)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Gekauft</string>
     <string name="already_paid">Es wurde bereits gekauft.</string>
     <string name="pay_fail">Ein Fehler ist aufgetreten.\nBitte versuchen Sie es später noch einmal.</string>
-    <string name="dev_cat">Ich bin hungrig\nMiau</string>
-    <string name="feed_cat">Die Katze füttern</string>
     <string name="prevent_pay">Verhindern Sie versehentliche Zahlungen</string>
     <string name="input_answer">Bitte geben Sie die Antwort ein.</string>
     <string name="correct_answer">Die richtige Antwort ist %d.</string>

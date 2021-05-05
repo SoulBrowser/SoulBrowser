@@ -718,7 +718,8 @@
     <string name="txt_viewer">Penampil teks</string>
     <string name="purchase">Membeli</string>
     <string name="remove_ads">Hapus iklan dalam aplikasi</string>
-    <string name="remove_ads_info">Iklan dalam aplikasi dihapus dengan satu pembayaran.\nIklan dalam aplikasi dan iklan di situs web berbeda.</string>
+    <string name="remove_ads_info_1">Iklan dalam aplikasi dihapus dengan satu pembayaran.\nIklan dalam aplikasi dan iklan di situs web berbeda.</string>
+    <string name="remove_ads_info_2">Fitur penghapusan iklan situs web ini gratis.</string>
     <string name="donate_1">Sumbangan (Susu)</string>
     <string name="donate_2">Sumbangan (Roti isi daging)</string>
     <string name="donate_3">Sumbangan (Makan malam)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Membeli</string>
     <string name="already_paid">Sudah dibeli.</string>
     <string name="pay_fail">Sebuah kesalahan telah terjadi.\nSilakan coba lagi nanti.</string>
-    <string name="dev_cat">Saya lapar\nMeong</string>
-    <string name="feed_cat">Memberi makan kucing</string>
     <string name="prevent_pay">Cegah pembayaran yang tidak disengaja</string>
     <string name="input_answer">Silakan masukkan jawaban.</string>
     <string name="correct_answer">Jawaban yang benar adalah %d.</string>

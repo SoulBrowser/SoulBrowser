@@ -718,7 +718,8 @@
     <string name="txt_viewer">Перегляд тексту</string>
     <string name="purchase">Придбання</string>
     <string name="remove_ads">Видаліть рекламу в додатках</string>
-    <string name="remove_ads_info">Оголошення, що продаються через додаток, видаляються одним платежем.\nОголошення в додатках та оголошення на веб-сайтах відрізняються.</string>
+    <string name="remove_ads_info_1">Оголошення, що продаються через додаток, видаляються одним платежем.\nОголошення в додатках та оголошення на веб-сайтах відрізняються.</string>
+    <string name="remove_ads_info_2">Функція видалення оголошень на веб-сайті безкоштовна.</string>
     <string name="donate_1">Пожертвувати (Молоко)</string>
     <string name="donate_2">Пожертвувати (Rамбургер)</string>
     <string name="donate_3">Пожертвувати (Вечеря)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Придбано</string>
     <string name="already_paid">Його вже придбали.</string>
     <string name="pay_fail">Сталася помилка.\nБудь ласка спробуйте пізніше.</string>
-    <string name="dev_cat">Я голодний\nМяу</string>
-    <string name="feed_cat">Годування кішки</string>
     <string name="prevent_pay">Запобігання випадковим платежам</string>
     <string name="input_answer">Введіть відповідь.</string>
     <string name="correct_answer">Правильна відповідь %d.</string>

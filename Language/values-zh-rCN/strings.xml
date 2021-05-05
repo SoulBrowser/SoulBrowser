@@ -718,7 +718,8 @@
     <string name="txt_viewer">TXT 查看</string>
     <string name="purchase">内购</string>
     <string name="remove_ads">移除应用内广告</string>
-    <string name="remove_ads_info">一笔付款将永久删除应用内广告\n注意：应用内广告和网站上的广告不同</string>
+    <string name="remove_ads_info_1">一笔付款将永久删除应用内广告\n注意：应用内广告和网站上的广告不同</string>
+    <string name="remove_ads_info_2">该网站的广告删除功能是免费的</string>
     <string name="donate_1">请作者喝瓶牛奶</string>
     <string name="donate_2">请作者吃个汉堡包</string>
     <string name="donate_3">请作者吃顿晚餐</string>
@@ -726,8 +727,6 @@
     <string name="paid">已购买</string>
     <string name="already_paid">已购买</string>
     <string name="pay_fail">发生了错误\n请稍后再试</string>
-    <string name="dev_cat">我饿了\n喵～</string>
-    <string name="feed_cat">喂猫</string>
     <string name="prevent_pay">为了防止意外付款，</string>
     <string name="input_answer">请输入正确答案。</string>
     <string name="correct_answer">正确答案是 %d</string>

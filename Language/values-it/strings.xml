@@ -718,7 +718,8 @@
     <string name="txt_viewer">Visualizzatore di testo</string>
     <string name="purchase">Acquista</string>
     <string name="remove_ads">Rimuovi gli annunci in-app</string>
-    <string name="remove_ads_info">Gli annunci in-app vengono rimossi con un pagamento.\nGli annunci in-app e gli annunci sui siti web sono diversi.</string>
+    <string name="remove_ads_info_1">Gli annunci in-app vengono rimossi con un pagamento.\nGli annunci in-app e gli annunci sui siti web sono diversi.</string>
+    <string name="remove_ads_info_2">La funzione di rimozione degli annunci del sito Web è gratuita.</string>
     <string name="donate_1">Donare (Latte)</string>
     <string name="donate_2">Donare (Hamburger)</string>
     <string name="donate_3">Donare (Cena)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Acquistato</string>
     <string name="already_paid">È già stato acquistato.</string>
     <string name="pay_fail">C\'è stato un errore.\nPer favore riprova più tardi.</string>
-    <string name="dev_cat">Ho fame\nMiao</string>
-    <string name="feed_cat">Nutrire il gatto</string>
     <string name="prevent_pay">Prevenire pagamenti accidentali</string>
     <string name="input_answer">Inserisci la risposta.</string>
     <string name="correct_answer">La risposta corretta è %d.</string>

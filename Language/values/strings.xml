@@ -718,7 +718,8 @@
     <string name="txt_viewer">Text viewer</string>
     <string name="purchase">Purchase</string>
     <string name="remove_ads">Remove in-app ads</string>
-    <string name="remove_ads_info">In-app ads are removed with one payment.\nIn-app ads and Ads on websites are different.</string>
+    <string name="remove_ads_info_1">In-app ads are removed with one payment.\nIn-app ads and ads on websites are different.</string>
+    <string name="remove_ads_info_2">The website\'s ads removal feature is free.</string>
     <string name="donate_1">Donate (Milk)</string>
     <string name="donate_2">Donate (Hamburger)</string>
     <string name="donate_3">Donate (Dinner)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Purchased</string>
     <string name="already_paid">It has already been purchased.</string>
     <string name="pay_fail">An error has occurred.\nPlease try again later.</string>
-    <string name="dev_cat">I\'m hungry\nMeow</string>
-    <string name="feed_cat">Feeding the cat</string>
     <string name="prevent_pay">Prevent accidental payments</string>
     <string name="input_answer">Please enter answer.</string>
     <string name="correct_answer">The correct answer is %d.</string>

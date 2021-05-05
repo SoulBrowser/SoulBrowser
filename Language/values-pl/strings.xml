@@ -718,7 +718,8 @@
     <string name="txt_viewer">Przeglądarka tekstu</string>
     <string name="purchase">Zakup</string>
     <string name="remove_ads">Usuń reklamy w aplikacji</string>
-    <string name="remove_ads_info">Reklamy w aplikacji są usuwane za jedną opłatą.\nReklamy w aplikacjach i reklamy w witrynach internetowych są różne.</string>
+    <string name="remove_ads_info_1">Reklamy w aplikacji są usuwane za jedną opłatą.\nReklamy w aplikacjach i reklamy w witrynach internetowych są różne.</string>
+    <string name="remove_ads_info_2">Funkcja usuwania reklam w witrynie jest bezpłatna.</string>
     <string name="donate_1">Podarować (Mleko)</string>
     <string name="donate_2">Podarować (Hamburger)</string>
     <string name="donate_3">Podarować (Obiad)</string>
@@ -726,8 +727,6 @@
     <string name="paid">Zakupione</string>
     <string name="already_paid">Został już zakupiony.</string>
     <string name="pay_fail">Wystąpił błąd.\nSpróbuj ponownie później.</string>
-    <string name="dev_cat">Jestem głodny\nMiauczeć</string>
-    <string name="feed_cat">Karmienie kota</string>
     <string name="prevent_pay">Zapobiegaj przypadkowym płatnościom</string>
     <string name="input_answer">Wpisz odpowiedź.</string>
     <string name="correct_answer">Prawidłowa odpowiedź to %d.</string>

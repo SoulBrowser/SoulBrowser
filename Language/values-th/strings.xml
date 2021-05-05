@@ -718,7 +718,8 @@
     <string name="txt_viewer">โปรแกรมดูข้อความ</string>
     <string name="purchase">ซื้อ</string>
     <string name="remove_ads">ลบโฆษณาในแอป</string>
-    <string name="remove_ads_info">โฆษณาในแอปจะถูกลบออกด้วยการชำระเงินครั้งเดียว\nโฆษณาในแอปและโฆษณาบนเว็บไซต์แตกต่างกัน</string>
+    <string name="remove_ads_info_1">โฆษณาในแอปจะถูกลบออกด้วยการชำระเงินครั้งเดียว\nโฆษณาในแอปและโฆษณาบนเว็บไซต์แตกต่างกัน</string>
+    <string name="remove_ads_info_2">คุณลักษณะการลบโฆษณาของเว็บไซต์นั้นไม่มีค่าใช้จ่าย</string>
     <string name="donate_1">บริจาค (นม)</string>
     <string name="donate_2">บริจาค (แฮมเบอร์เกอร์)</string>
     <string name="donate_3">บริจาค (อาหารเย็น)</string>
@@ -726,8 +727,6 @@
     <string name="paid">ซื้อแล้ว</string>
     <string name="already_paid">มันถูกซื้อแล้ว</string>
     <string name="pay_fail">เกิดข้อผิดพลาด.\nโปรดลองอีกครั้งในภายหลัง.</string>
-    <string name="dev_cat">ฉันหิว\nเหมียว</string>
-    <string name="feed_cat">ให้อาหารแมว</string>
     <string name="prevent_pay">ป้องกันการจ่ายเงินโดยไม่ได้ตั้งใจ</string>
     <string name="input_answer">โปรดป้อนคำตอบ</string>
     <string name="correct_answer">คำตอบที่ถูกต้องคือ %d</string>

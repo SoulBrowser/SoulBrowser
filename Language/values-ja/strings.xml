@@ -718,7 +718,8 @@
     <string name="txt_viewer">テキストビューア</string>
     <string name="purchase">購入</string>
     <string name="remove_ads">アプリ内広告を削除</string>
-    <string name="remove_ads_info">アプリ内広告は、ワン決済で削除されます。\nアプリ内広告とウェブサイトの広告は異なります。</string>
+    <string name="remove_ads_info_1">アプリ内広告は、ワン決済で削除されます。\nアプリ内広告とウェブサイトの広告は異なります。</string>
+    <string name="remove_ads_info_2">ウェブサイトの広告を削除機能は無料です。</string>
     <string name="donate_1">寄付 (牛乳)</string>
     <string name="donate_2">寄付 (ハンバーガー)</string>
     <string name="donate_3">寄付 (晩ごはん)</string>
@@ -726,8 +727,6 @@
     <string name="paid">購入する</string>
     <string name="already_paid">それは既に購入しました。</string>
     <string name="pay_fail">エラーが発生しました。\n後でやり直してください。</string>
-    <string name="dev_cat">空腹\nニャー</string>
-    <string name="feed_cat">猫の供給</string>
     <string name="prevent_pay">ミスによる支払いを防ぐ</string>
     <string name="input_answer">答えを入力してください。</string>
     <string name="correct_answer">正解は%dです。</string>
