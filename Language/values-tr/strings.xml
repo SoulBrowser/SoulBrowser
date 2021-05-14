@@ -471,7 +471,9 @@
     <string name="pip_advance">PIP gelişmiş modu</string>
     <string name="device_warning">Bazı cihazlar desteklenmeyebilir.</string>
     <string name="memory_warning">Bu özellik daha fazla bellek kullanır.\nKüçük belleğe sahip cihazlarda kullanırken dikkatli olun.</string>
-    <string name="android_oreo">Android Oreo\'dan beri desteklenmektedir.</string>
+    <string name="android_support">Android %d\'dan beri desteklenmektedir.</string>
+    <string name="secret_data">Web veri ayrımı</string>
+    <string name="secret_data_info">Çerezler ve önbellek gibi verileri ayrı ayrı yönetin.</string>
     <string name="secret_hist">Geçmişi kaydet</string>
     <string name="secret_hist_info">Geçmişinizi gizli modda kaydedin. Gizli geçmiş normal modda görünmüyor.</string>
     <string name="secret_down">İndirme geçmişini kaydet</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">Sekmeleri sakla</string>
     <string name="keep_tab_info">Normal moda geçtiğinizde gizli sekmeler korunur.</string>
     <string name="keep_login">Giriş yapmaya devam et</string>
-    <string name="keep_login_info">Bu seçeneği devre dışı bırakırsanız, modları değiştirdiğinizde tüm sitelerden çıkış yaparsınız.</string>
+    <string name="keep_login_info">Normal moda geçtiğinizde gizli mod giriş bilgileri korunur.</string>
     <string name="secret_exit">Gizli moddan çık</string>
     <string name="direct_input">Doğrudan giriş</string>
     <string name="direct_select">Doğrudan seçim</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">Metin görüntüleyici</string>
     <string name="purchase">Satın alma</string>
     <string name="remove_ads">Uygulama içi reklamları kaldırın</string>
-    <string name="remove_ads_info_1">Uygulama içi reklamlar tek ödeme ile kaldırılır.\nWeb sitelerindeki uygulama içi reklamlar ve reklamlar farklıdır.</string>
-    <string name="remove_ads_info_2">Web sitesinin reklam kaldırma özelliği ücretsizdir.</string>
+    <string name="remove_ads_info_1">Tek bir ödeme, uygulama içi reklamları sonsuza kadar kaldırır.</string>
+    <string name="remove_ads_info_2">Ödeme için kullanılan hesabın aynı olması her zaman geçerlidir.</string>
+    <string name="remove_ads_info_3">Bir web sitesindeki uygulama içi reklamlar ve reklamlar farklıdır.</string>
+    <string name="remove_ads_info_4">Web sitesinin reklam kaldırma özelliği ücretsizdir.</string>
     <string name="donate_1">Bağış (Süt)</string>
     <string name="donate_2">Bağış (Hamburger)</string>
     <string name="donate_3">Bağış (Akşam yemegi)</string>

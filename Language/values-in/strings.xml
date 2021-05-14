@@ -471,7 +471,9 @@
     <string name="pip_advance">Mode lanjutan PIP</string>
     <string name="device_warning">Một số thiết bị có thể không được hỗ trợ.</string>
     <string name="memory_warning">Tính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
-    <string name="android_oreo">Didukung sejak Android Oreo.</string>
+    <string name="android_support">Didukung sejak Android %d.</string>
+    <string name="secret_data">Pemisahan data web</string>
+    <string name="secret_data_info">Kelola data secara terpisah seperti cookie dan cache.</string>
     <string name="secret_hist">Simpan riwayat</string>
     <string name="secret_hist_info">Simpan riwayat Anda dalam mode penyamaran. Riwayat penyamaran tidak muncul dalam mode normal.</string>
     <string name="secret_down">Simpan riwayat unduhan</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">Tetap awasi</string>
     <string name="keep_tab_info">Tab penyamaran dipertahankan saat Anda beralih ke mode normal.</string>
     <string name="keep_login">Tetap masuk</string>
-    <string name="keep_login_info">Jika Anda menonaktifkan opsi ini, Anda akan keluar dari semua situs saat Anda mengubah mode.</string>
+    <string name="keep_login_info">Informasi login mode penyamaran dipertahankan saat Anda mengubah ke mode normal.</string>
     <string name="secret_exit">Keluar dari mode penyamaran</string>
     <string name="direct_input">Masukan langsung</string>
     <string name="direct_select">Seleksi langsung</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">Penampil teks</string>
     <string name="purchase">Membeli</string>
     <string name="remove_ads">Hapus iklan dalam aplikasi</string>
-    <string name="remove_ads_info_1">Iklan dalam aplikasi dihapus dengan satu pembayaran.\nIklan dalam aplikasi dan iklan di situs web berbeda.</string>
-    <string name="remove_ads_info_2">Fitur penghapusan iklan situs web ini gratis.</string>
+    <string name="remove_ads_info_1">Satu pembayaran akan menghapus iklan dalam aplikasi selamanya.</string>
+    <string name="remove_ads_info_2">Itu selalu valid jika akun yang digunakan untuk pembayaran sama.</string>
+    <string name="remove_ads_info_3">Iklan dalam aplikasi dan iklan di situs web berbeda.</string>
+    <string name="remove_ads_info_4">Fitur penghapusan iklan situs web ini gratis.</string>
     <string name="donate_1">Sumbangan (Susu)</string>
     <string name="donate_2">Sumbangan (Roti isi daging)</string>
     <string name="donate_3">Sumbangan (Makan malam)</string>

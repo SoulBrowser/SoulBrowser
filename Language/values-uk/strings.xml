@@ -471,7 +471,9 @@
     <string name="pip_advance">Розширений режим PIP</string>
     <string name="device_warning">Деякі пристрої можуть не підтримуватися.</string>
     <string name="memory_warning">Ця функція використовує більше пам\'яті.\nБудьте обережні при використанні на пристроях з малою пам\'яттю.</string>
-    <string name="android_oreo">Підтримується з Android Oreo.</string>
+    <string name="android_support">Підтримується з Android %d.</string>
+    <string name="secret_data">Розділення веб-даних</string>
+    <string name="secret_data_info">Окремо керуйте такими даними, як файли cookie та кеш.</string>
     <string name="secret_hist">Зберегти історію</string>
     <string name="secret_hist_info">Збереження історії в режимі анонімного перегляду. Історія в режимі анонімного перегляду не відображається в звичайному режимі.</string>
     <string name="secret_down">Зберегти історію завантажень</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">Зберегти вкладки</string>
     <string name="keep_tab_info">Вкладки режиму анонімного перегляду зберігаються, коли ви переходите на звичайний режим.</string>
     <string name="keep_login">Увійти в систему</string>
-    <string name="keep_login_info">Якщо ви вимкнете цю опцію, при зміні режиму ви вийдете з усіх сайтів.</string>
+    <string name="keep_login_info">Інформація для входу в режим інкогніто зберігається при переході на звичайний режим.</string>
     <string name="secret_exit">Вийти із режиму анонімного перегляду</string>
     <string name="direct_input">Пряме введення</string>
     <string name="direct_select">Прямий вибір</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">Перегляд тексту</string>
     <string name="purchase">Придбання</string>
     <string name="remove_ads">Видаліть рекламу в додатках</string>
-    <string name="remove_ads_info_1">Оголошення, що продаються через додаток, видаляються одним платежем.\nОголошення в додатках та оголошення на веб-сайтах відрізняються.</string>
-    <string name="remove_ads_info_2">Функція видалення оголошень на веб-сайті безкоштовна.</string>
+    <string name="remove_ads_info_1">Один платіж назавжди видалить рекламу в додатку.</string>
+    <string name="remove_ads_info_2">Він завжди діє, якщо рахунок, який використовується для оплати, однаковий.</string>
+    <string name="remove_ads_info_3">Оголошення в додатку та оголошення на веб-сайті відрізняються.</string>
+    <string name="remove_ads_info_4">Функція видалення оголошень на веб-сайті безкоштовна.</string>
     <string name="donate_1">Пожертвувати (Молоко)</string>
     <string name="donate_2">Пожертвувати (Rамбургер)</string>
     <string name="donate_3">Пожертвувати (Вечеря)</string>

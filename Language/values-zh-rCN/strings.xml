@@ -471,7 +471,9 @@
     <string name="pip_advance">画中画高级模式</string>
     <string name="device_warning">某些设备可能不支持</string>
     <string name="memory_warning">此功能使用更多的内存\n内存小的同学谨慎使用</string>
-    <string name="android_oreo">自 Android Oreo 开始受支持</string>
+    <string name="android_support">自 Android %d 开始受支持</string>
+    <string name="secret_data">Web 数据分离</string>
+    <string name="secret_data_info">分别管理 Cookie 和缓存之类的数据</string>
     <string name="secret_hist">保存历史</string>
     <string name="secret_hist_info">以无痕模式保存你的历史记录。 无痕历史记录不会在正常模式下显示</string>
     <string name="secret_down">保存下载记录</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">保留标签</string>
     <string name="keep_tab_info">当你更改为正常模式时，无痕标签会保留</string>
     <string name="keep_login">保持登录状态</string>
-    <string name="keep_login_info">如果禁用此选项，则更改模式时将退出所有站点</string>
+    <string name="keep_login_info">当您更改为普通模式时，将保留隐身模式登录信息</string>
     <string name="secret_exit">退出无痕模式</string>
     <string name="direct_input">直接输入</string>
     <string name="direct_select">直接选择</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">TXT 查看</string>
     <string name="purchase">内购</string>
     <string name="remove_ads">移除应用内广告</string>
-    <string name="remove_ads_info_1">一笔付款将永久删除应用内广告\n注意：应用内广告和网站上的广告不同</string>
-    <string name="remove_ads_info_2">该网站的广告删除功能是免费的</string>
+    <string name="remove_ads_info_1">一笔付款将永久删除应用内广告。</string>
+    <string name="remove_ads_info_2">如果用于支付的帐户相同，则始终有效。</string>
+    <string name="remove_ads_info_3">应用内广告和网站上的广告是不同的。</string>
+    <string name="remove_ads_info_4">该网站的广告删除功能是免费的。</string>
     <string name="donate_1">请作者喝瓶牛奶</string>
     <string name="donate_2">请作者吃个汉堡包</string>
     <string name="donate_3">请作者吃顿晚餐</string>

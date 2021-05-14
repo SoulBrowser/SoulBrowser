@@ -471,7 +471,9 @@
     <string name="pip_advance">PIP advanced mode</string>
     <string name="device_warning">Some devices may not be supported.</string>
     <string name="memory_warning">This feature uses more memory.\nBe careful when using on devices with small memory.</string>
-    <string name="android_oreo">Supported since Android Oreo.</string>
+    <string name="android_support">Supported since Android %d.</string>
+    <string name="secret_data">Web data separation</string>
+    <string name="secret_data_info">Separately manage data such as cookies and cache.</string>
     <string name="secret_hist">Save history</string>
     <string name="secret_hist_info">Save history in incognito mode. History in incognito mode does not appear in normal mode.</string>
     <string name="secret_down">Save download history</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">Keep tabs</string>
     <string name="keep_tab_info">Incognito tabs are retained when you change to normal mode.</string>
     <string name="keep_login">Keep logged in</string>
-    <string name="keep_login_info">If you disable this option, you will be logged out of all sites when you change modes.</string>
+    <string name="keep_login_info">Incognito mode login information is retained when you change to normal mode.</string>
     <string name="secret_exit">Exit incognito mode</string>
     <string name="direct_input">Direct input</string>
     <string name="direct_select">Direct selection</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">Text viewer</string>
     <string name="purchase">Purchase</string>
     <string name="remove_ads">Remove in-app ads</string>
-    <string name="remove_ads_info_1">In-app ads are removed with one payment.\nIn-app ads and ads on websites are different.</string>
-    <string name="remove_ads_info_2">The website\'s ads removal feature is free.</string>
+    <string name="remove_ads_info_1">One payment will remove in-app ads forever.</string>
+    <string name="remove_ads_info_2">It is always valid if the account used for payment is the same.</string>
+    <string name="remove_ads_info_3">In-app ads and ads on websites are different.</string>
+    <string name="remove_ads_info_4">The website\'s ads removal feature is free.</string>
     <string name="donate_1">Donate (Milk)</string>
     <string name="donate_2">Donate (Hamburger)</string>
     <string name="donate_3">Donate (Dinner)</string>

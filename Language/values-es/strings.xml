@@ -471,7 +471,9 @@
     <string name="pip_advance">Modo avanzado PIP</string>
     <string name="device_warning">Algunos dispositivos pueden no ser compatibles.</string>
     <string name="memory_warning">Esta característica usa más memoria.\nTenga cuidado cuando lo use en dispositivos con poca memoria.</string>
-    <string name="android_oreo">Compatible desde Android Oreo.</string>
+    <string name="android_support">Compatible desde Android %d.</string>
+    <string name="secret_data">Separación de datos web</string>
+    <string name="secret_data_info">Administre por separado datos como cookies y caché.</string>
     <string name="secret_hist">Guardar el historial</string>
     <string name="secret_hist_info">Guarda tu historial en modo incógnito. El historial de incógnito no aparece en modo normal.</string>
     <string name="secret_down">Guardar historial de descargas</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">Mantener pestañas</string>
     <string name="keep_tab_info">Las pestañas de incógnito se retienen cuando cambia al modo normal.</string>
     <string name="keep_login">Mantente conectado</string>
-    <string name="keep_login_info">Si desactiva esta opción, se cerrará la sesión de todos los sitios cuando cambie de modo.</string>
+    <string name="keep_login_info">La información de inicio de sesión del modo incógnito se conserva cuando cambia al modo normal.</string>
     <string name="secret_exit">Salga del modo incógnito</string>
     <string name="direct_input">Entrada directa</string>
     <string name="direct_select">Selección directa</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">Visor de texto</string>
     <string name="purchase">Compra</string>
     <string name="remove_ads">Quitar anuncios en la aplicación</string>
-    <string name="remove_ads_info_1">Los anuncios en la aplicación se eliminan con un pago.\nLos anuncios en la aplicación y los anuncios en sitios web son diferentes.</string>
-    <string name="remove_ads_info_2">La función de eliminación de anuncios del sitio web es gratuita.</string>
+    <string name="remove_ads_info_1">Un pago eliminará los anuncios en la aplicación para siempre.</string>
+    <string name="remove_ads_info_2">Siempre es válido si la cuenta utilizada para el pago es la misma.</string>
+    <string name="remove_ads_info_3">Los anuncios en la aplicación y los anuncios en un sitio web son diferentes.</string>
+    <string name="remove_ads_info_4">La función de eliminación de anuncios del sitio web es gratuita.</string>
     <string name="donate_1">Donar (Leche)</string>
     <string name="donate_2">Donar (Hamburguesa)</string>
     <string name="donate_3">Donar (Cena)</string>

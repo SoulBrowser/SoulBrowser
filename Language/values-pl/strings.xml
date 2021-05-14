@@ -471,7 +471,9 @@
     <string name="pip_advance">Tryb zaawansowany PIP</string>
     <string name="device_warning">Niektóre urządzenia mogą nie być obsługiwane.</string>
     <string name="memory_warning">Ta funkcja zużywa więcej pamięci.\nZachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
-    <string name="android_oreo">Obsługiwane od Android Oreo.</string>
+    <string name="android_support">Obsługiwane od Android %d.</string>
+    <string name="secret_data">Separacja danych w sieci</string>
+    <string name="secret_data_info">Oddzielnie zarządzaj danymi, takimi jak pliki cookie i pamięć podręczna.</string>
     <string name="secret_hist">Zapisz historię</string>
     <string name="secret_hist_info">Zapisz historię w trybie incognito. Historia w trybie incognito nie pojawia się w trybie normalnym.</string>
     <string name="secret_down">Zapisz historię pobierania</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">Trzymaj się</string>
     <string name="keep_tab_info">Karty incognito są zachowywane po przejściu do trybu normalnego.</string>
     <string name="keep_login">Nie wylogowuj się</string>
-    <string name="keep_login_info">Jeśli wyłączysz tę opcję, zostaniesz wylogowany ze wszystkich witryn po zmianie trybów.</string>
+    <string name="keep_login_info">Informacje logowania w trybie incognito są zachowywane po przejściu do trybu normalnego.</string>
     <string name="secret_exit">Wyjdź z trybu incognito</string>
     <string name="direct_input">Bezpośrednie wprowadzanie danych</string>
     <string name="direct_select">Wybór bezpośredni</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">Przeglądarka tekstu</string>
     <string name="purchase">Zakup</string>
     <string name="remove_ads">Usuń reklamy w aplikacji</string>
-    <string name="remove_ads_info_1">Reklamy w aplikacji są usuwane za jedną opłatą.\nReklamy w aplikacjach i reklamy w witrynach internetowych są różne.</string>
-    <string name="remove_ads_info_2">Funkcja usuwania reklam w witrynie jest bezpłatna.</string>
+    <string name="remove_ads_info_1">Jedna płatność na zawsze usunie reklamy w aplikacji.</string>
+    <string name="remove_ads_info_2">Jest zawsze ważne, jeśli konto używane do płatności jest takie samo.</string>
+    <string name="remove_ads_info_3">Reklamy w aplikacji i reklamy w witrynie są różne.</string>
+    <string name="remove_ads_info_4">Funkcja usuwania reklam w witrynie jest bezpłatna.</string>
     <string name="donate_1">Podarować (Mleko)</string>
     <string name="donate_2">Podarować (Hamburger)</string>
     <string name="donate_3">Podarować (Obiad)</string>

@@ -471,7 +471,9 @@
     <string name="pip_advance">Chế độ nâng cao PIP</string>
     <string name="device_warning">Một số thiết bị có thể không được hỗ trợ.</string>
     <string name="memory_warning">Tính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
-    <string name="android_oreo">Được hỗ trợ kể từ Android Oreo.</string>
+    <string name="android_support">Được hỗ trợ kể từ Android %d.</string>
+    <string name="secret_data">Tách dữ liệu web</string>
+    <string name="secret_data_info">Quản lý riêng biệt dữ liệu như cookie và bộ nhớ cache.</string>
     <string name="secret_hist">Lưu lịch sử</string>
     <string name="secret_hist_info">Lưu lịch sử của bạn trong chế độ ẩn danh. Lịch sử ẩn danh không xuất hiện trong chế độ bình thường.</string>
     <string name="secret_down">Lưu lịch sử tải xuống</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">Giữ các tab</string>
     <string name="keep_tab_info">Các tab ẩn danh được giữ lại khi bạn thay đổi sang chế độ bình thường.</string>
     <string name="keep_login">Tiếp tục đăng nhập</string>
-    <string name="keep_login_info">Nếu bạn tắt tùy chọn này, bạn sẽ bị đăng xuất khỏi tất cả các trang web khi bạn thay đổi chế độ.</string>
+    <string name="keep_login_info">Thông tin đăng nhập ở chế độ ẩn danh được giữ lại khi bạn chuyển sang chế độ bình thường.</string>
     <string name="secret_exit">Thoát chế độ ẩn danh</string>
     <string name="direct_input">Đầu vào trực tiếp</string>
     <string name="direct_select">Lựa chọn trực tiếp</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">Trình xem văn bản</string>
     <string name="purchase">Ủng hộ nhà phát triển</string>
     <string name="remove_ads">Xóa quảng cáo trong ứng dụng</string>
-    <string name="remove_ads_info_1">Quảng cáo trong ứng dụng bị loại bỏ với một lần thanh toán.\nQuảng cáo trong ứng dụng và quảng cáo trên trang web là khác nhau.</string>
-    <string name="remove_ads_info_2">Tính năng loại bỏ quảng cáo của trang web là miễn phí.</string>
+    <string name="remove_ads_info_1">Một lần thanh toán sẽ xóa quảng cáo trong ứng dụng vĩnh viễn.</string>
+    <string name="remove_ads_info_2">Nó luôn hợp lệ nếu tài khoản được sử dụng để thanh toán giống nhau.</string>
+    <string name="remove_ads_info_3">Quảng cáo trong ứng dụng và quảng cáo trên một trang web là khác nhau.</string>
+    <string name="remove_ads_info_4">Tính năng loại bỏ quảng cáo của trang web là miễn phí.</string>
     <string name="donate_1">Quyên góp (Sữa)</string>
     <string name="donate_2">Quyên góp (Bánh hamburger)</string>
     <string name="donate_3">Quyên góp (Bữa tối)</string>

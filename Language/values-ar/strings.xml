@@ -471,7 +471,9 @@
     <string name="pip_advance">الوضع المتقدم PIP</string>
     <string name="device_warning">قد لا تكون بعض الأجهزة مدعومة.</string>
     <string name="memory_warning">تستخدم هذه الميزة المزيد من الذاكرة.\nكن حذرًا عند استخدامه على الأجهزة ذات الذاكرة الصغيرة.</string>
-    <string name="android_oreo">مدعوم من Android Oreo.</string>
+    <string name="android_support">مدعوم من Android %d.</string>
+    <string name="secret_data">فصل بيانات الويب</string>
+    <string name="secret_data_info">إدارة البيانات بشكل منفصل مثل ملفات تعريف الارتباط وذاكرة التخزين المؤقت.</string>
     <string name="secret_hist">حفظ التاريخ</string>
     <string name="secret_hist_info">يحفظ محفوظات زيارات وضع التصفح المتخفي. لا يظهر سجل التصفح لوضع التصفح المتخفي في الوضع العادي.</string>
     <string name="secret_down">حفظ محفوظات التنزيل</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">حافظ على علامة التبويب</string>
     <string name="keep_tab_info">حتى إذا قمت بالتغيير إلى الوضع العادي ، فسيتم الاحتفاظ بعلامة تبويب التصفح المتخفي.</string>
     <string name="keep_login">حافظ على تسجيل الدخول</string>
-    <string name="keep_login_info">إذا قمت بتعطيل هذا الخيار ، فسيتم تسجيل خروجك من جميع المواقع عند تغيير الأوضاع.</string>
+    <string name="keep_login_info">يتم الاحتفاظ بمعلومات تسجيل الدخول في وضع التصفح المتخفي عند التغيير إلى الوضع العادي.</string>
     <string name="secret_exit">اخرج من وضع التصفح المتخفي</string>
     <string name="direct_input">المساهمة المباشرة</string>
     <string name="direct_select">اختيار مباشر</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">عارض النص</string>
     <string name="purchase">شراء</string>
     <string name="remove_ads">إزالة الإعلانات داخل التطبيق</string>
-    <string name="remove_ads_info_1">تتم إزالة الإعلانات داخل التطبيق بدفعة واحدة.\nتختلف الإعلانات داخل التطبيق والإعلانات على موقع الويب.</string>
-    <string name="remove_ads_info_2">ميزة إزالة الإعلانات من موقع الويب مجانية.</string>
+    <string name="remove_ads_info_1">ستؤدي دفعة واحدة إلى إزالة الإعلانات داخل التطبيق إلى الأبد.</string>
+    <string name="remove_ads_info_2">يكون دائمًا صالحًا إذا كان الحساب المستخدم للدفع هو نفسه.</string>
+    <string name="remove_ads_info_3">تختلف الإعلانات داخل التطبيق والإعلانات على موقع الويب.</string>
+    <string name="remove_ads_info_4">ميزة إزالة الإعلانات من موقع الويب مجانية.</string>
     <string name="donate_1">تبرع (حليب)</string>
     <string name="donate_2">تبرع (همبرغر)</string>
     <string name="donate_3">تبرع (عشاء)</string>

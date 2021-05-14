@@ -471,7 +471,9 @@
     <string name="pip_advance">PIP詳細モード</string>
     <string name="device_warning">一部のデバイスはサポートされないことがあります。</string>
     <string name="memory_warning">この機能は、より多くのメモリを使用します。\nメモリが小さなデバイスで使用するときは注意してください。</string>
-    <string name="android_oreo">Android Oreoからサポートされます。</string>
+    <string name="android_support">Android %dからサポートされます。</string>
+    <string name="secret_data">Webデータ分離</string>
+    <string name="secret_data_info">クッキー、キャッシュなどのデータを別々に管理します。</string>
     <string name="secret_hist">履歴保存</string>
     <string name="secret_hist_info">シークレットモードの履歴を保存します。シークレットモードの履歴は、通常モードでは表示されません。</string>
     <string name="secret_down">ダウンロード履歴を保存</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">タブを維持</string>
     <string name="keep_tab_info">通常モードに変更しても、シークレットタブが維持されます。</string>
     <string name="keep_login">ログインを維持</string>
-    <string name="keep_login_info">このオプションを無効にすると、モードを変更するときは、すべてのサイトからログアウトされます。</string>
+    <string name="keep_login_info">シークレットモードのログイン情報は、あなたが通常モードに変更するときに保持されます。</string>
     <string name="secret_exit">シークレットモードを終了</string>
     <string name="direct_input">直接入力</string>
     <string name="direct_select">直接選択</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">テキストビューア</string>
     <string name="purchase">購入</string>
     <string name="remove_ads">アプリ内広告を削除</string>
-    <string name="remove_ads_info_1">アプリ内広告は、ワン決済で削除されます。\nアプリ内広告とウェブサイトの広告は異なります。</string>
-    <string name="remove_ads_info_2">ウェブサイトの広告を削除機能は無料です。</string>
+    <string name="remove_ads_info_1">一回の決済でアプリ内広告が永遠に削除されます。</string>
+    <string name="remove_ads_info_2">支払いに使用したアカウントが同じであれば、常に有効です。</string>
+    <string name="remove_ads_info_3">アプリ内広告とウェブサイトの広告は異なります。</string>
+    <string name="remove_ads_info_4">ウェブサイトの広告を削除機能は無料です。</string>
     <string name="donate_1">寄付 (牛乳)</string>
     <string name="donate_2">寄付 (ハンバーガー)</string>
     <string name="donate_3">寄付 (晩ごはん)</string>

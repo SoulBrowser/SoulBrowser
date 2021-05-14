@@ -471,7 +471,9 @@
     <string name="pip_advance">Mode avancé PIP</string>
     <string name="device_warning">Certains appareils peuvent ne pas être pris en charge.</string>
     <string name="memory_warning">Cette fonctionnalité utilise plus de mémoire.\nSoyez prudent lorsque vous utilisez sur des appareils avec une petite mémoire.</string>
-    <string name="android_oreo">Pris en charge depuis Android Oreo.</string>
+    <string name="android_support">Pris en charge depuis Android %d.</string>
+    <string name="secret_data">Séparation des données Web</string>
+    <string name="secret_data_info">Gérez séparément les données telles que les cookies et le cache.</string>
     <string name="secret_hist">Sauvegarder l\'historique</string>
     <string name="secret_hist_info">Enregistrez votre historique en mode de navigation privée. Votre historique incognito n\'apparaît pas en mode normal.</string>
     <string name="secret_down">Sauvegarder l\'historique de téléchargement</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">Conserver les onglets</string>
     <string name="keep_tab_info">Les onglets de navigation privée sont conservés lorsque vous passez en mode normal.</string>
     <string name="keep_login">Rester connecté</string>
-    <string name="keep_login_info">Si vous désactivez cette option, vous serez déconnecté de tous les sites lorsque vous changez de mode.</string>
+    <string name="keep_login_info">Les informations de connexion en mode navigation privée sont conservées lorsque vous passez en mode normal.</string>
     <string name="secret_exit">Quitter le mode navigation privée</string>
     <string name="direct_input">Entrée directe</string>
     <string name="direct_select">Sélection directe</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">Visionneuse de texte</string>
     <string name="purchase">Achat</string>
     <string name="remove_ads">Supprimer les publicités intégrées à l\'application</string>
-    <string name="remove_ads_info_1">Les annonces intégrées à l\'application sont supprimées en un seul paiement.\nLes publicités intégrées aux applications et les publicités sur les sites Web sont différentes.</string>
-    <string name="remove_ads_info_2">La fonction de suppression des publicités du site Web est gratuite.</string>
+    <string name="remove_ads_info_1">Un seul paiement supprimera définitivement les publicités intégrées à l\'application.</string>
+    <string name="remove_ads_info_2">Il est toujours valable si le compte utilisé pour le paiement est le même.</string>
+    <string name="remove_ads_info_3">Les publicités intégrées aux applications et les publicités sur un site Web sont différentes.</string>
+    <string name="remove_ads_info_4">La fonction de suppression des publicités du site Web est gratuite.</string>
     <string name="donate_1">Don (Lait)</string>
     <string name="donate_2">Don (Hamburger)</string>
     <string name="donate_3">Don (Dîner)</string>

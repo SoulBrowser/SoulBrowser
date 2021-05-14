@@ -471,7 +471,9 @@
     <string name="pip_advance">Mod avansat PIP</string>
     <string name="device_warning">Este posibil ca unele dispozitive să nu fie acceptate.</string>
     <string name="memory_warning">Această caracteristică folosește mai multă memorie.\nAveți grijă când utilizați pe dispozitive cu memorie mică.</string>
-    <string name="android_oreo">Suportat de la Android Oreo.</string>
+    <string name="android_support">Suportat de la Android %d.</string>
+    <string name="secret_data">Separarea datelor web</string>
+    <string name="secret_data_info">Gestionează separat date precum cookie-uri și cache.</string>
     <string name="secret_hist">Salvare istoric</string>
     <string name="secret_hist_info">Salvați istoricul în modul incognito. Istoricul în modul incognito nu apare în modul normal.</string>
     <string name="secret_down">Salvare istoric descărcare</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">Mențineți filele</string>
     <string name="keep_tab_info">Filele de incognito sunt păstrate atunci când treceți la modul normal.</string>
     <string name="keep_login">Continuați conectarea</string>
-    <string name="keep_login_info">Dacă dezactivați această opțiune, veți fi deconectat de la toate site-urile atunci când schimbați modurile.</string>
+    <string name="keep_login_info">Informațiile de conectare la modul incognito sunt păstrate atunci când treceți la modul normal.</string>
     <string name="secret_exit">Ieșiți din modul incognito</string>
     <string name="direct_input">Intrare directă</string>
     <string name="direct_select">Selecție directă</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">Vizualizator de text</string>
     <string name="purchase">Cumpărare</string>
     <string name="remove_ads">Eliminați anunțurile în aplicație</string>
-    <string name="remove_ads_info_1">Anunțurile în aplicație sunt eliminate cu o singură plată.\nAnunțurile în aplicație și anunțurile de pe site-uri web sunt diferite.</string>
-    <string name="remove_ads_info_2">Funcția de eliminare a anunțurilor site-ului este gratuită.</string>
+    <string name="remove_ads_info_1">O singură plată va elimina definitiv anunțurile în aplicație.</string>
+    <string name="remove_ads_info_2">Este întotdeauna valabil dacă contul utilizat pentru plată este același.</string>
+    <string name="remove_ads_info_3">Anunțurile în aplicație și anunțurile de pe un site web sunt diferite.</string>
+    <string name="remove_ads_info_4">Funcția de eliminare a anunțurilor site-ului este gratuită.</string>
     <string name="donate_1">Donează (Lapte)</string>
     <string name="donate_2">Donează (Hamburger)</string>
     <string name="donate_3">Donează (Cină)</string>

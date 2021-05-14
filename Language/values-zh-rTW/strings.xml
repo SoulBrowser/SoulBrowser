@@ -471,7 +471,9 @@
     <string name="pip_advance">畫中畫高級模式</string>
     <string name="device_warning">某些設備可能不受支持</string>
     <string name="memory_warning">此功能使用更多的內存\n在內存較小的設備上使用時要小心</string>
-    <string name="android_oreo">自 Android Oreo 開始受支持</string>
+    <string name="android_support">自 Android %d 開始受支持</string>
+    <string name="secret_data">Web 數據分離</string>
+    <string name="secret_data_info">分別管理 Cookie 和緩存之類的數據</string>
     <string name="secret_hist">保存歷史</string>
     <string name="secret_hist_info">以隱身模式保存您的歷史記錄。 您的隱身歷史記錄不會在普通模式下顯示</string>
     <string name="secret_down">保存下載記錄</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">保持分頁</string>
     <string name="keep_tab_info">當您更改為普通模式時，隱身分頁會保留</string>
     <string name="keep_login">保持登入狀態</string>
-    <string name="keep_login_info">如果禁用此選項，則更改模式時將退出所有站點</string>
+    <string name="keep_login_info">當您更改為普通模式時，將保留隱身模式登錄信息</string>
     <string name="secret_exit">退出隱身模式</string>
     <string name="direct_input">直接輸入</string>
     <string name="direct_select">直接選擇</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">文字檢視器</string>
     <string name="purchase">採購</string>
     <string name="remove_ads">刪除應用內廣告</string>
-    <string name="remove_ads_info_1">一次付款即可刪除應用內廣告\n應用內廣告和網站上的廣告不同</string>
-    <string name="remove_ads_info_2">該網站的廣告刪除功能是免費的</string>
+    <string name="remove_ads_info_1">一筆付款將永久刪除應用內廣告。</string>
+    <string name="remove_ads_info_2">如果用於支付的帳戶相同，則始終有效。</string>
+    <string name="remove_ads_info_3">應用內廣告和網站上的廣告是不同的。</string>
+    <string name="remove_ads_info_4">該網站的廣告刪除功能是免費的。</string>
     <string name="donate_1">捐（牛奶）</string>
     <string name="donate_2">捐（漢堡包）</string>
     <string name="donate_3">捐（晚餐）</string>

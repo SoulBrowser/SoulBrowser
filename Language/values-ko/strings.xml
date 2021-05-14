@@ -471,7 +471,9 @@
     <string name="pip_advance">PIP 고급 모드</string>
     <string name="device_warning">일부 디바이스는 지원되지 않을 수 있습니다.</string>
     <string name="memory_warning">이 기능은 더 많은 메모리를 사용합니다.\n메모리가 작은 장치에서 사용할 때는 주의하십시오.</string>
-    <string name="android_oreo">Android Oreo부터 지원됩니다.</string>
+    <string name="android_support">Android %d부터 지원됩니다.</string>
+    <string name="secret_data">웹 데이터 분리</string>
+    <string name="secret_data_info">쿠키, 캐시 등의 데이터를 별도로 관리합니다.</string>
     <string name="secret_hist">방문 기록 저장</string>
     <string name="secret_hist_info">시크릿 모드의 방문 기록을 저장합니다. 시크릿 모드의 방문 기록은 일반 모드에서는 나타나지 않습니다.</string>
     <string name="secret_down">다운로드 기록 저장</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">탭 유지</string>
     <string name="keep_tab_info">일반 모드로 변경해도 시크릿 탭이 유지됩니다.</string>
     <string name="keep_login">로그인 유지</string>
-    <string name="keep_login_info">이 옵션을 비활성화하면, 모드를 변경할 때, 모든 사이트에서 로그아웃하게 됩니다.</string>
+    <string name="keep_login_info">일반 모드로 변경해도 시크릿 모드의 로그인 정보가 유지됩니다.</string>
     <string name="secret_exit">시크릿 모드 종료</string>
     <string name="direct_input">직접 입력</string>
     <string name="direct_select">직접 선택</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">텍스트 뷰어</string>
     <string name="purchase">구매</string>
     <string name="remove_ads">인앱 광고 제거</string>
-    <string name="remove_ads_info_1">한 번의 결제로 인앱 광고가 제거됩니다.\n인앱 광고와 웹 사이트의 광고는 다릅니다.</string>
-    <string name="remove_ads_info_2">웹 사이트의 광고 제거 기능은 무료입니다.</string>
+    <string name="remove_ads_info_1">한 번의 결제로 인앱 광고가 영원히 제거됩니다.</string>
+    <string name="remove_ads_info_2">결제에 사용한 계정이 동일하면 항상 유효합니다.</string>
+    <string name="remove_ads_info_3">인앱 광고와 웹 사이트의 광고는 다릅니다.</string>
+    <string name="remove_ads_info_4">웹 사이트의 광고 제거 기능은 무료입니다.</string>
     <string name="donate_1">기부 (우유)</string>
     <string name="donate_2">기부 (햄버거)</string>
     <string name="donate_3">기부 (만찬)</string>

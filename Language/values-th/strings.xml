@@ -471,7 +471,9 @@
     <string name="pip_advance">PIP โหมดขั้นสูง</string>
     <string name="device_warning">อุปกรณ์บางอย่างอาจไม่รองรับ</string>
     <string name="memory_warning">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น\nระวังเมื่อใช้กับอุปกรณ์ที่มีหน่วยความจำขนาดเล็ก</string>
-    <string name="android_oreo">รองรับตั้งแต่ Android Oreo</string>
+    <string name="android_support">รองรับตั้งแต่ Android %d</string>
+    <string name="secret_data">การแยกข้อมูลเว็บ</string>
+    <string name="secret_data_info">แยกการจัดการข้อมูลเช่นคุกกี้และแคช</string>
     <string name="secret_hist">บันทึกประวัติ</string>
     <string name="secret_hist_info">บันทึกประวัติของคุณในโหมดไม่ระบุตัวตน ประวัติที่ไม่ระบุตัวตนไม่ปรากฏในโหมดปกติ</string>
     <string name="secret_down">บันทึกประวัติการดาวน์โหลด</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">เก็บแท็บ</string>
     <string name="keep_tab_info">แท็บไม่ระบุตัวตนจะถูกเก็บไว้เมื่อคุณเปลี่ยนเป็นโหมดปกติ</string>
     <string name="keep_login">เก็บไว้ในระบบ</string>
-    <string name="keep_login_info">หากคุณปิดใช้งานตัวเลือกนี้คุณจะออกจากระบบทุกไซต์เมื่อคุณเปลี่ยนโหมด</string>
+    <string name="keep_login_info">ข้อมูลการเข้าสู่ระบบโหมดไม่ระบุตัวตนจะยังคงอยู่เมื่อคุณเปลี่ยนเป็นโหมดปกติ</string>
     <string name="secret_exit">ออกจากโหมดไม่ระบุตัวตน</string>
     <string name="direct_input">ป้อนข้อมูลโดยตรง</string>
     <string name="direct_select">การเลือกโดยตรง</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">โปรแกรมดูข้อความ</string>
     <string name="purchase">ซื้อ</string>
     <string name="remove_ads">ลบโฆษณาในแอป</string>
-    <string name="remove_ads_info_1">โฆษณาในแอปจะถูกลบออกด้วยการชำระเงินครั้งเดียว\nโฆษณาในแอปและโฆษณาบนเว็บไซต์แตกต่างกัน</string>
-    <string name="remove_ads_info_2">คุณลักษณะการลบโฆษณาของเว็บไซต์นั้นไม่มีค่าใช้จ่าย</string>
+    <string name="remove_ads_info_1">การชำระเงินครั้งเดียวจะลบโฆษณาในแอปตลอดไป</string>
+    <string name="remove_ads_info_2">จะใช้ได้เสมอหากบัญชีที่ใช้ในการชำระเงินเหมือนกัน</string>
+    <string name="remove_ads_info_3">โฆษณาในแอปและโฆษณาบนเว็บไซต์แตกต่างกัน</string>
+    <string name="remove_ads_info_4">คุณลักษณะการลบโฆษณาของเว็บไซต์นั้นไม่มีค่าใช้จ่าย</string>
     <string name="donate_1">บริจาค (นม)</string>
     <string name="donate_2">บริจาค (แฮมเบอร์เกอร์)</string>
     <string name="donate_3">บริจาค (อาหารเย็น)</string>

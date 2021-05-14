@@ -471,7 +471,9 @@
     <string name="pip_advance">Расширенный режим PIP</string>
     <string name="device_warning">Некоторые устройства могут не поддерживаться.</string>
     <string name="memory_warning">Эта функция использует больше памяти.\nБудьте осторожны при использовании на устройствах с небольшим объемом памяти.</string>
-    <string name="android_oreo">Поддерживается с Android Oreo.</string>
+    <string name="android_support">Поддерживается с Android %d.</string>
+    <string name="secret_data">Разделение веб-данных</string>
+    <string name="secret_data_info">Отдельно управляйте данными, такими как файлы cookie и кеш.</string>
     <string name="secret_hist">Сохранять историю</string>
     <string name="secret_hist_info">Сохранять историю в режиме инкогнито. История инкогнито не отображается в обычном режиме.</string>
     <string name="secret_down">Сохранять историю загрузок</string>
@@ -497,7 +499,7 @@
     <string name="keep_tab">Сохранять вкладки</string>
     <string name="keep_tab_info">Вкладки инкогнито сохраняются при переходе в обычный режим.</string>
     <string name="keep_login">Войдите в систему</string>
-    <string name="keep_login_info">Если вы отключите эту опцию, вы будете выходить из всех сайтов при изменении режима.</string>
+    <string name="keep_login_info">Информация для входа в режим инкогнито сохраняется при переходе в обычный режим.</string>
     <string name="secret_exit">Выход из режима инкогнито</string>
     <string name="direct_input">Прямой ввод</string>
     <string name="direct_select">Прямой выбор</string>
@@ -718,8 +720,10 @@
     <string name="txt_viewer">Просмотрщик текста</string>
     <string name="purchase">Покупки</string>
     <string name="remove_ads">Удалить рекламу в приложении</string>
-    <string name="remove_ads_info_1">Реклама в приложении удаляется одним платежом.\nРеклама в приложении и реклама на сайтах разные.</string>
-    <string name="remove_ads_info_2">Функция удаления рекламы на сайте бесплатна.</string>
+    <string name="remove_ads_info_1">Один платеж навсегда удалит рекламу в приложении.</string>
+    <string name="remove_ads_info_2">Он всегда действителен, если счет, используемый для оплаты, тот же.</string>
+    <string name="remove_ads_info_3">Реклама в приложении и реклама на веб-сайте разные.</string>
+    <string name="remove_ads_info_4">Функция удаления рекламы на сайте бесплатна.</string>
     <string name="donate_1">Пожертвовать (Молоко)</string>
     <string name="donate_2">Пожертвовать (Гамбургер)</string>
     <string name="donate_3">Пожертвовать (Ужин)</string>
