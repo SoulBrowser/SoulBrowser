@@ -473,7 +473,9 @@
     <string name="memory_warning">Tính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
     <string name="android_support">Didukung sejak Android %d.</string>
     <string name="secret_data">Pemisahan data web</string>
-    <string name="secret_data_info">Kelola data secara terpisah seperti cookie dan cache.</string>
+    <string name="secret_data_info_1">Kelola data secara terpisah seperti cookie dan cache.</string>
+    <string name="secret_data_info_2">Dengan opsi ini, aplikasi akan selalu dimulai dalam mode normal.</string>
+    <string name="secret_data_info_3">Nonaktifkan opsi ini untuk menggunakan mode penyamaran secara default.</string>
     <string name="secret_hist">Simpan riwayat</string>
     <string name="secret_hist_info">Simpan riwayat Anda dalam mode penyamaran. Riwayat penyamaran tidak muncul dalam mode normal.</string>
     <string name="secret_down">Simpan riwayat unduhan</string>

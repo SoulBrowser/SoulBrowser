@@ -473,7 +473,9 @@
     <string name="memory_warning">Ta funkcja zużywa więcej pamięci.\nZachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
     <string name="android_support">Obsługiwane od Android %d.</string>
     <string name="secret_data">Separacja danych w sieci</string>
-    <string name="secret_data_info">Oddzielnie zarządzaj danymi, takimi jak pliki cookie i pamięć podręczna.</string>
+    <string name="secret_data_info_1">Oddzielnie zarządzaj danymi, takimi jak pliki cookie i pamięć podręczna.</string>
+    <string name="secret_data_info_2">Dzięki tej opcji aplikacja będzie zawsze uruchamiać się w trybie normalnym.</string>
+    <string name="secret_data_info_3">Wyłącz tę opcję, aby domyślnie używać trybu incognito.</string>
     <string name="secret_hist">Zapisz historię</string>
     <string name="secret_hist_info">Zapisz historię w trybie incognito. Historia w trybie incognito nie pojawia się w trybie normalnym.</string>
     <string name="secret_down">Zapisz historię pobierania</string>

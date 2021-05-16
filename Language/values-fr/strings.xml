@@ -473,7 +473,9 @@
     <string name="memory_warning">Cette fonctionnalité utilise plus de mémoire.\nSoyez prudent lorsque vous utilisez sur des appareils avec une petite mémoire.</string>
     <string name="android_support">Pris en charge depuis Android %d.</string>
     <string name="secret_data">Séparation des données Web</string>
-    <string name="secret_data_info">Gérez séparément les données telles que les cookies et le cache.</string>
+    <string name="secret_data_info_1">Gérez séparément les données telles que les cookies et le cache.</string>
+    <string name="secret_data_info_2">Avec cette option, l\'application démarrera toujours en mode normal.</string>
+    <string name="secret_data_info_3">Désactivez cette option pour utiliser le mode navigation privée par défaut.</string>
     <string name="secret_hist">Sauvegarder l\'historique</string>
     <string name="secret_hist_info">Enregistrez votre historique en mode de navigation privée. Votre historique incognito n\'apparaît pas en mode normal.</string>
     <string name="secret_down">Sauvegarder l\'historique de téléchargement</string>

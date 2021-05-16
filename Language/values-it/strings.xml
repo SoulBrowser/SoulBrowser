@@ -473,7 +473,9 @@
     <string name="memory_warning">Questa funzione utilizza più memoria.\nFare attenzione quando si utilizza su dispositivi con poca memoria.</string>
     <string name="android_support">Supportato da Android %d.</string>
     <string name="secret_data">Separazione dei dati Web</string>
-    <string name="secret_data_info">Gestisci separatamente dati come cookie e cache.</string>
+    <string name="secret_data_info_1">Gestisci separatamente dati come cookie e cache.</string>
+    <string name="secret_data_info_2">Con questa opzione, l\'app si avvierà sempre in modalità normale.</string>
+    <string name="secret_data_info_3">Disattiva questa opzione per utilizzare la modalità di navigazione in incognito per impostazione predefinita.</string>
     <string name="secret_hist">Salva cronologia</string>
     <string name="secret_hist_info">Salva la cronologia in modalità di navigazione in incognito. La cronologia in incognito non viene visualizzata in modalità normale.</string>
     <string name="secret_down">Salva cronologia download</string>

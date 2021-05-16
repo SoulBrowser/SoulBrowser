@@ -473,7 +473,9 @@
     <string name="memory_warning">Diese Funktion benötigt mehr Speicher.\nSeien sie vorsichtig, wenn sie Geräte mit kleinem Speicher verwenden.</string>
     <string name="android_support">Unterstützt seit Android %d.</string>
     <string name="secret_data">Trennung von Webdaten</string>
-    <string name="secret_data_info">Verwalten Sie Daten wie Cookies und Cache separat.</string>
+    <string name="secret_data_info_1">Verwalten Sie Daten wie Cookies und Cache separat.</string>
+    <string name="secret_data_info_2">Mit dieser Option startet die App immer im normalen Modus.</string>
+    <string name="secret_data_info_3">Deaktivieren Sie diese Option, um standardmäßig den Inkognito-Modus zu verwenden.</string>
     <string name="secret_hist">Verlauf speichern</string>
     <string name="secret_hist_info">Speichern Sie Ihren Verlauf im Inkognito Modus. Der Inkognito-Verlauf wird im normalen Modus nicht angezeigt.</string>
     <string name="secret_down">Downloadverlauf speichern</string>

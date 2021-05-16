@@ -473,7 +473,9 @@
     <string name="memory_warning">この機能は、より多くのメモリを使用します。\nメモリが小さなデバイスで使用するときは注意してください。</string>
     <string name="android_support">Android %dからサポートされます。</string>
     <string name="secret_data">Webデータ分離</string>
-    <string name="secret_data_info">クッキー、キャッシュなどのデータを別々に管理します。</string>
+    <string name="secret_data_info_1">クッキー、キャッシュなどのデータを別々に管理します。</string>
+    <string name="secret_data_info_2">このオプションを使用すると、アプリが常に通常モードで起動されます。</string>
+    <string name="secret_data_info_3">基本的にはシークレットモードを使用するには、このオプションを無効にします。</string>
     <string name="secret_hist">履歴保存</string>
     <string name="secret_hist_info">シークレットモードの履歴を保存します。シークレットモードの履歴は、通常モードでは表示されません。</string>
     <string name="secret_down">ダウンロード履歴を保存</string>

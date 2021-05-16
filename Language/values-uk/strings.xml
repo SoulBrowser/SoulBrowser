@@ -473,7 +473,9 @@
     <string name="memory_warning">Ця функція використовує більше пам\'яті.\nБудьте обережні при використанні на пристроях з малою пам\'яттю.</string>
     <string name="android_support">Підтримується з Android %d.</string>
     <string name="secret_data">Розділення веб-даних</string>
-    <string name="secret_data_info">Окремо керуйте такими даними, як файли cookie та кеш.</string>
+    <string name="secret_data_info_1">Окремо керуйте такими даними, як файли cookie та кеш.</string>
+    <string name="secret_data_info_2">За допомогою цієї опції програма завжди запускатиметься у звичайному режимі.</string>
+    <string name="secret_data_info_3">Вимкніть цю опцію, щоб використовувати режим анонімного перегляду за замовчуванням.</string>
     <string name="secret_hist">Зберегти історію</string>
     <string name="secret_hist_info">Збереження історії в режимі анонімного перегляду. Історія в режимі анонімного перегляду не відображається в звичайному режимі.</string>
     <string name="secret_down">Зберегти історію завантажень</string>

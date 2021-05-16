@@ -473,7 +473,9 @@
     <string name="memory_warning">此功能使用更多的內存\n在內存較小的設備上使用時要小心</string>
     <string name="android_support">自 Android %d 開始受支持</string>
     <string name="secret_data">Web 數據分離</string>
-    <string name="secret_data_info">分別管理 Cookie 和緩存之類的數據</string>
+    <string name="secret_data_info_1">分別管理 Cookie 和緩存之類的數據</string>
+    <string name="secret_data_info_2">使用此選項，該應用將始終以正常模式啟動</string>
+    <string name="secret_data_info_3">默認情況下，禁用此選項以使用隱身模式</string>
     <string name="secret_hist">保存歷史</string>
     <string name="secret_hist_info">以隱身模式保存您的歷史記錄。 您的隱身歷史記錄不會在普通模式下顯示</string>
     <string name="secret_down">保存下載記錄</string>

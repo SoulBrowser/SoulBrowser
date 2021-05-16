@@ -473,7 +473,9 @@
     <string name="memory_warning">تستخدم هذه الميزة المزيد من الذاكرة.\nكن حذرًا عند استخدامه على الأجهزة ذات الذاكرة الصغيرة.</string>
     <string name="android_support">مدعوم من Android %d.</string>
     <string name="secret_data">فصل بيانات الويب</string>
-    <string name="secret_data_info">إدارة البيانات بشكل منفصل مثل ملفات تعريف الارتباط وذاكرة التخزين المؤقت.</string>
+    <string name="secret_data_info_1">إدارة البيانات بشكل منفصل مثل ملفات تعريف الارتباط وذاكرة التخزين المؤقت.</string>
+    <string name="secret_data_info_2">باستخدام هذا الخيار ، سيبدأ التطبيق دائمًا في الوضع العادي.</string>
+    <string name="secret_data_info_3">قم بتعطيل هذا الخيار لاستخدام وضع التصفح المتخفي افتراضيًا.</string>
     <string name="secret_hist">حفظ التاريخ</string>
     <string name="secret_hist_info">يحفظ محفوظات زيارات وضع التصفح المتخفي. لا يظهر سجل التصفح لوضع التصفح المتخفي في الوضع العادي.</string>
     <string name="secret_down">حفظ محفوظات التنزيل</string>

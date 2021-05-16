@@ -473,7 +473,9 @@
     <string name="memory_warning">이 기능은 더 많은 메모리를 사용합니다.\n메모리가 작은 장치에서 사용할 때는 주의하십시오.</string>
     <string name="android_support">Android %d부터 지원됩니다.</string>
     <string name="secret_data">웹 데이터 분리</string>
-    <string name="secret_data_info">쿠키, 캐시 등의 데이터를 별도로 관리합니다.</string>
+    <string name="secret_data_info_1">쿠키, 캐시 등의 데이터를 별도로 관리합니다.</string>
+    <string name="secret_data_info_2">이 옵션을 사용하면 앱이 항상 일반 모드로 시작됩니다.</string>
+    <string name="secret_data_info_3">시크릿 모드를 기본으로 사용하려면, 이 옵션을 비활성화하세요.</string>
     <string name="secret_hist">방문 기록 저장</string>
     <string name="secret_hist_info">시크릿 모드의 방문 기록을 저장합니다. 시크릿 모드의 방문 기록은 일반 모드에서는 나타나지 않습니다.</string>
     <string name="secret_down">다운로드 기록 저장</string>

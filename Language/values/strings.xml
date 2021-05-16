@@ -473,7 +473,9 @@
     <string name="memory_warning">This feature uses more memory.\nBe careful when using on devices with small memory.</string>
     <string name="android_support">Supported since Android %d.</string>
     <string name="secret_data">Web data separation</string>
-    <string name="secret_data_info">Separately manage data such as cookies and cache.</string>
+    <string name="secret_data_info_1">Separately manage data such as cookies and cache.</string>
+    <string name="secret_data_info_2">With this option, the app will always start in normal mode.</string>
+    <string name="secret_data_info_3">Disable this option to use incognito mode by default.</string>
     <string name="secret_hist">Save history</string>
     <string name="secret_hist_info">Save history in incognito mode. History in incognito mode does not appear in normal mode.</string>
     <string name="secret_down">Save download history</string>

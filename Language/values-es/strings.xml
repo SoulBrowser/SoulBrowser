@@ -473,7 +473,9 @@
     <string name="memory_warning">Esta característica usa más memoria.\nTenga cuidado cuando lo use en dispositivos con poca memoria.</string>
     <string name="android_support">Compatible desde Android %d.</string>
     <string name="secret_data">Separación de datos web</string>
-    <string name="secret_data_info">Administre por separado datos como cookies y caché.</string>
+    <string name="secret_data_info_1">Administre por separado datos como cookies y caché.</string>
+    <string name="secret_data_info_2">Con esta opción, la aplicación siempre se iniciará en modo normal.</string>
+    <string name="secret_data_info_3">Desactive esta opción para utilizar el modo incógnito de forma predeterminada.</string>
     <string name="secret_hist">Guardar el historial</string>
     <string name="secret_hist_info">Guarda tu historial en modo incógnito. El historial de incógnito no aparece en modo normal.</string>
     <string name="secret_down">Guardar historial de descargas</string>

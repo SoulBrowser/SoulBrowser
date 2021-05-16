@@ -473,7 +473,9 @@
     <string name="memory_warning">Această caracteristică folosește mai multă memorie.\nAveți grijă când utilizați pe dispozitive cu memorie mică.</string>
     <string name="android_support">Suportat de la Android %d.</string>
     <string name="secret_data">Separarea datelor web</string>
-    <string name="secret_data_info">Gestionează separat date precum cookie-uri și cache.</string>
+    <string name="secret_data_info_1">Gestionează separat date precum cookie-uri și cache.</string>
+    <string name="secret_data_info_2">Cu această opțiune, aplicația va porni întotdeauna în modul normal.</string>
+    <string name="secret_data_info_3">Dezactivați această opțiune pentru a utiliza în mod implicit modul incognito.</string>
     <string name="secret_hist">Salvare istoric</string>
     <string name="secret_hist_info">Salvați istoricul în modul incognito. Istoricul în modul incognito nu apare în modul normal.</string>
     <string name="secret_down">Salvare istoric descărcare</string>
