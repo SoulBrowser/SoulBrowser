@@ -763,7 +763,7 @@
     <string name="size_fit">屏幕适合</string>
     <string name="size_real">真实大小</string>
     <string name="block_ssl">SSL 错误阻止</string>
-    <string name="block_ssl_info">SSL 错误发生时，页面将自动转到安全页面。</string>
+    <string name="block_ssl_info">SSL 错误发生时，页面将自动转到安全页面</string>
     <string name="menu_noti_1">菜单图标无法更改</string>
     <string name="menu_noti_2">菜单图标只能放在底部栏上</string>
     <string name="screen_filter">屏幕过滤器</string>
