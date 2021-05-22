@@ -66,7 +66,7 @@
     <string name="delete">删除</string>
     <string name="delete_file">删除文件</string>
     <string name="delete_record">删除记录</string>
-    <string name="delete_data">删除数据</string>
+    <string name="clear_data">删除数据</string>
     <string name="delete_all">删除所有</string>
     <string name="deleted">删除</string>
     <string name="swipe_delete">滑动删除</string>
@@ -384,6 +384,7 @@
     <string name="show_status">显示通知栏</string>
     <string name="show_navi">显示虚拟按键</string>
     <string name="address_pos">显示地址栏</string>
+    <string name="address_title">在地址栏中显示标题</string>
     <string name="bot_input">底部地址栏</string>
     <string name="address_menu">地址栏菜单</string>
     <string name="show_tab_bar">标签栏显示</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">在站点上打开新窗口时，它们会自动分组</string>
     <string name="tab_guide_1">1. 您可以通过按住选项卡来移动</string>
     <string name="tab_guide_2">2. 您可以通过重叠选项卡来创建文件夹</string>
+    <string name="debug_mode">网页调试</string>
+    <string name="debug_mode_info">您可以使用 USB 进行调试</string>
+    <string name="default_browser">设置为默认浏览器</string>
 </resources>

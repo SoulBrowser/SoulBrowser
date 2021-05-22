@@ -66,7 +66,7 @@
     <string name="delete">Видалити</string>
     <string name="delete_file">Видалити файл</string>
     <string name="delete_record">Видалити запис</string>
-    <string name="delete_data">Видалити дані</string>
+    <string name="clear_data">Видалити дані</string>
     <string name="delete_all">Видалити всі</string>
     <string name="deleted">Видалено</string>
     <string name="swipe_delete">Видалення змахуванням</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Показати рядок стану</string>
     <string name="show_navi">Показати програмну клавішу</string>
     <string name="address_pos">Показати адресний рядок</string>
+    <string name="address_title">Показати заголовок в адресному рядку</string>
     <string name="bot_input">Нижній адресний рядок</string>
     <string name="address_menu">Меню адресного рядка</string>
     <string name="show_tab_bar">Показувати панель вкладок</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Вони автоматично групуються, коли на сайті відкривається нове вікно.</string>
     <string name="tab_guide_1">1. Ви можете рухатися, натискаючи та утримуючи вкладку.</string>
     <string name="tab_guide_2">2. Ви можете створювати папки, перекриваючи вкладки.</string>
+    <string name="debug_mode">Веб-налагодження</string>
+    <string name="debug_mode_info">Ви можете налагодити за допомогою USB.</string>
+    <string name="default_browser">Встановити як браузер за замовчуванням</string>
 </resources>

@@ -66,7 +66,7 @@
     <string name="delete">Ștergeți</string>
     <string name="delete_file">Ștergeți fișierul</string>
     <string name="delete_record">Ștergeți înregistrarea</string>
-    <string name="delete_data">Ștergeți datele</string>
+    <string name="clear_data">Ștergeți datele</string>
     <string name="delete_all">Ștergeți toate</string>
     <string name="deleted">Șters</string>
     <string name="swipe_delete">Glisați ștergerea</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Afișează bara de stare</string>
     <string name="show_navi">Afișează tasta soft</string>
     <string name="address_pos">Afișați bara de adrese</string>
+    <string name="address_title">Afișați titlul în bara de adrese</string>
     <string name="bot_input">Bara de adrese de jos</string>
     <string name="address_menu">Meniul barei de adrese</string>
     <string name="show_tab_bar">Afișează bara de file</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Acestea sunt grupate automat când se deschide o nouă fereastră pe site.</string>
     <string name="tab_guide_1">1. Vă puteți mișca apăsând și menținând apăsată fila.</string>
     <string name="tab_guide_2">2. Puteți crea foldere prin suprapunerea filelor.</string>
+    <string name="debug_mode">Depanare web</string>
+    <string name="debug_mode_info">Puteți depana cu USB.</string>
+    <string name="default_browser">Setați ca browser implicit</string>
 </resources>

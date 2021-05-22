@@ -66,7 +66,7 @@
     <string name="delete">Sil</string>
     <string name="delete_file">Dosyayı sil</string>
     <string name="delete_record">Kaydı sil</string>
-    <string name="delete_data">Verileri sil</string>
+    <string name="clear_data">Verileri sil</string>
     <string name="delete_all">Hepsini sil</string>
     <string name="deleted">Silindi</string>
     <string name="swipe_delete">Kaydır sil</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Durum çubuğunu göster</string>
     <string name="show_navi">Ekran tuşunu göster</string>
     <string name="address_pos">Adres çubuğunu göster</string>
+    <string name="address_title">Başlığı adres çubuğunda göster</string>
     <string name="bot_input">Alt adres çubuğu</string>
     <string name="address_menu">Adres çubuğu menüsü</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Sitede yeni bir pencere açıldığında otomatik olarak gruplanırlar.</string>
     <string name="tab_guide_1">1. Sekmeyi basılı tutarak hareket edebilirsiniz.</string>
     <string name="tab_guide_2">2. Üst üste gelen sekmelerle klasörler oluşturabilirsiniz.</string>
+    <string name="debug_mode">Web hata ayıklama</string>
+    <string name="debug_mode_info">USB ile hata ayıklayabilirsiniz.</string>
+    <string name="default_browser">Varsayılan tarayıcı olarak ayarla</string>
 </resources>

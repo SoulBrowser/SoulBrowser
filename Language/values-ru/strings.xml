@@ -66,7 +66,7 @@
     <string name="delete">Удалить</string>
     <string name="delete_file">Удалить файл</string>
     <string name="delete_record">Удалить запись</string>
-    <string name="delete_data">Удалить данные</string>
+    <string name="clear_data">Удалить данные</string>
     <string name="delete_all">Удалить все</string>
     <string name="deleted">Удалено</string>
     <string name="swipe_delete">Удаление свайпом</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Показывать строку состояния</string>
     <string name="show_navi">Показывать панель навигации</string>
     <string name="address_pos">Положение адресной строки</string>
+    <string name="address_title">Показать заголовок в адресной строке</string>
     <string name="bot_input">Нижняя адресная строка</string>
     <string name="address_menu">Меню адресной строки</string>
     <string name="show_tab_bar">Показать панель вкладок</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Они автоматически группируются при открытии нового окна на сайте.</string>
     <string name="tab_guide_1">1. Вы можете перемещаться, нажимая и удерживая вкладку.</string>
     <string name="tab_guide_2">2. Вы можете создавать папки, перекрывая вкладки.</string>
+    <string name="debug_mode">Веб-отладка</string>
+    <string name="debug_mode_info">Вы можете отлаживать USB.</string>
+    <string name="default_browser">Установить как браузер по умолчанию</string>
 </resources>

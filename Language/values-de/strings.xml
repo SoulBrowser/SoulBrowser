@@ -66,7 +66,7 @@
     <string name="delete">Löschen</string>
     <string name="delete_file">Datei löschen</string>
     <string name="delete_record">Aufzeichnung löschen</string>
-    <string name="delete_data">Daten löschen</string>
+    <string name="clear_data">Daten löschen</string>
     <string name="delete_all">Alles löschen</string>
     <string name="deleted">Gelöscht</string>
     <string name="swipe_delete">Wischen entfernen</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Statusleiste anzeigen</string>
     <string name="show_navi">Navigationsleiste anzeigen</string>
     <string name="address_pos">Adressleiste anzeigen</string>
+    <string name="address_title">Titel in Adressleiste anzeigen</string>
     <string name="bot_input">Untere Adressleiste</string>
     <string name="address_menu">Adressleistenmenü</string>
     <string name="show_tab_bar">Tableiste anzeigen</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Sie werden automatisch gruppiert, wenn ein neues Fenster auf der Site geöffnet wird.</string>
     <string name="tab_guide_1">1. Sie können sich bewegen, indem Sie die Lasche gedrückt halten.</string>
     <string name="tab_guide_2">2. Sie können Ordner erstellen, indem Sie Registerkarten überlappen.</string>
+    <string name="debug_mode">Web-Debugging</string>
+    <string name="debug_mode_info">Sie können mit USB debuggen.</string>
+    <string name="default_browser">Als Standardbrowser setzen</string>
 </resources>

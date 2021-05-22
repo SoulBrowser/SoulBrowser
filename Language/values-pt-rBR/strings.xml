@@ -66,7 +66,7 @@
     <string name="delete">Excluir</string>
     <string name="delete_file">Excluir arquivo</string>
     <string name="delete_record">Excluir registro</string>
-    <string name="delete_data">Apagar dados</string>
+    <string name="clear_data">Apagar dados</string>
     <string name="delete_all">Excluir tudo</string>
     <string name="deleted">Excluído</string>
     <string name="swipe_delete">Deslize para excluir</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Mostrar barra status</string>
     <string name="show_navi">Mostrar botões virtuais</string>
     <string name="address_pos">Mostrar barra de endereço</string>
+    <string name="address_title">Mostrar título na barra de endereço</string>
     <string name="bot_input">Barra de endereço embaixo</string>
     <string name="address_menu">Menu da barra de endereços</string>
     <string name="show_tab_bar">Mostrar barra de abas</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Eles são agrupados automaticamente quando uma nova janela é aberta no site.</string>
     <string name="tab_guide_1">1. Você pode mover pressionando e segurando a guia.</string>
     <string name="tab_guide_2">2. Você pode criar pastas sobrepondo guias.</string>
+    <string name="debug_mode">Depuração da web</string>
+    <string name="debug_mode_info">Você pode depurar com USB.</string>
+    <string name="default_browser">Defina como navegador padrão</string>
 </resources>

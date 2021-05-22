@@ -66,7 +66,7 @@
     <string name="delete">Xóa bỏ</string>
     <string name="delete_file">Xóa tài liệu</string>
     <string name="delete_record">Xóa hồ sơ</string>
-    <string name="delete_data">Xóa dữ liệu</string>
+    <string name="clear_data">Xóa dữ liệu</string>
     <string name="delete_all">Xóa hết</string>
     <string name="deleted">Bị xóa</string>
     <string name="swipe_delete">Vuốt xóa</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Thanh trạng thái chương trình</string>
     <string name="show_navi">Hiển thị phím mềm</string>
     <string name="address_pos">Hiển thị thanh địa chỉ</string>
+    <string name="address_title">Hiển thị tiêu đề trong thanh địa chỉ</string>
     <string name="bot_input">Thanh địa chỉ dưới cùng</string>
     <string name="address_menu">Menu thanh địa chỉ</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Chúng tự động được nhóm lại khi một cửa sổ mới mở ra trên trang web.</string>
     <string name="tab_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ tab.</string>
     <string name="tab_guide_2">2. Bạn có thể tạo các thư mục bằng các tab chồng lên nhau.</string>
+    <string name="debug_mode">Gỡ lỗi web</string>
+    <string name="debug_mode_info">Bạn có thể gỡ lỗi bằng USB.</string>
+    <string name="default_browser">Đặt làm trình duyệt mặc định</string>
 </resources>

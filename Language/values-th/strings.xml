@@ -66,7 +66,7 @@
     <string name="delete">ลบ</string>
     <string name="delete_file">ลบไฟล์</string>
     <string name="delete_record">ลบบันทึก</string>
-    <string name="delete_data">ลบข้อมูล</string>
+    <string name="clear_data">ลบข้อมูล</string>
     <string name="delete_all">ลบทั้งหมด</string>
     <string name="deleted">ที่ถูกลบ</string>
     <string name="swipe_delete">ปัดลบ</string>
@@ -384,6 +384,7 @@
     <string name="show_status">แสดงแถบสถานะ</string>
     <string name="show_navi">แสดงปุ่มซอฟท์คีย์</string>
     <string name="address_pos">แสดงแถบที่อยู่</string>
+    <string name="address_title">แสดงชื่อในแถบที่อยู่</string>
     <string name="bot_input">แถบที่อยู่ด้านล่าง</string>
     <string name="address_menu">เมนูแถบที่อยู่</string>
     <string name="show_tab_bar">แสดงแถบแท็บ</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">พวกเขาจะถูกจัดกลุ่มโดยอัตโนมัติเมื่อหน้าต่างใหม่เปิดขึ้นบนไซต์</string>
     <string name="tab_guide_1">1. คุณสามารถย้ายได้โดยกดแท็บค้างไว้</string>
     <string name="tab_guide_2">2. คุณสามารถสร้างโฟลเดอร์โดยใช้แท็บที่ทับซ้อนกัน</string>
+    <string name="debug_mode">การแก้ไขข้อบกพร่องของเว็บ</string>
+    <string name="debug_mode_info">คุณสามารถแก้ไขข้อบกพร่องด้วย USB</string>
+    <string name="default_browser">ตั้งเป็นเบราว์เซอร์เริ่มต้น</string>
 </resources>

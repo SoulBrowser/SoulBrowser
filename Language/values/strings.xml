@@ -66,7 +66,7 @@
     <string name="delete">Delete</string>
     <string name="delete_file">Delete file</string>
     <string name="delete_record">Delete record</string>
-    <string name="delete_data">Delete data</string>
+    <string name="clear_data">Clear data</string>
     <string name="delete_all">Delete all</string>
     <string name="deleted">Deleted</string>
     <string name="swipe_delete">Swipe delete</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Show status bar</string>
     <string name="show_navi">Show soft key</string>
     <string name="address_pos">Show address bar</string>
+    <string name="address_title">Show title in address bar</string>
     <string name="bot_input">Bottom address bar</string>
     <string name="address_menu">Address bar menu</string>
     <string name="show_tab_bar">Show tab bar</string>
@@ -527,7 +528,7 @@
     <string name="show_right">Right</string>
     <string name="tip">Tip</string>
     <string name="web_content">Web content</string>
-    <string name="customize">Customizing</string>
+    <string name="customize">Customize</string>
     <string name="font">Font</string>
     <string name="font_default">Default font</string>
     <string name="font_select">Choose TTF</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">They are automatically grouped when a new window opens on the site.</string>
     <string name="tab_guide_1">1. You can move by pressing and holding the tab.</string>
     <string name="tab_guide_2">2. You can create folders by overlapping tabs.</string>
+    <string name="debug_mode">Web debugging</string>
+    <string name="debug_mode_info">You can debug with USB.</string>
+    <string name="default_browser">Set as default browser</string>
 </resources>

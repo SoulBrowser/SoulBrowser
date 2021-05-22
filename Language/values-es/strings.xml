@@ -66,7 +66,7 @@
     <string name="delete">Borrar</string>
     <string name="delete_file">Borrar archivo</string>
     <string name="delete_record">Eliminar el registro</string>
-    <string name="delete_data">Borrar datos</string>
+    <string name="clear_data">Borrar datos</string>
     <string name="delete_all">Eliminar todos</string>
     <string name="deleted">Eliminado</string>
     <string name="swipe_delete">Deslizar eliminar</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Mostrar barra estado</string>
     <string name="show_navi">Mostrar tecla programable</string>
     <string name="address_pos">Mostrar barra de direcciones</string>
+    <string name="address_title">Mostrar título en la barra de direcciones</string>
     <string name="bot_input">Barra de direcciones inferior</string>
     <string name="address_menu">Menú de la barra de direcciones</string>
     <string name="show_tab_bar">Mostrar barra de pestañas</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Se agrupan automáticamente cuando se abre una nueva ventana en el sitio.</string>
     <string name="tab_guide_1">1. Puedes moverte presionando y manteniendo presionada la pestaña.</string>
     <string name="tab_guide_2">2. Puede crear carpetas superponiendo pestañas.</string>
+    <string name="debug_mode">Depuración web</string>
+    <string name="debug_mode_info">Puede depurar con USB.</string>
+    <string name="default_browser">Establecer como navegador predeterminado</string>
 </resources>

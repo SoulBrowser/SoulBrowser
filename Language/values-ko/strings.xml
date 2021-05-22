@@ -66,7 +66,7 @@
     <string name="delete">삭제</string>
     <string name="delete_file">파일 삭제</string>
     <string name="delete_record">기록 삭제</string>
-    <string name="delete_data">데이터 삭제</string>
+    <string name="clear_data">데이터 삭제</string>
     <string name="delete_all">모두 삭제</string>
     <string name="deleted">삭제되었습니다.</string>
     <string name="swipe_delete">스와이프 삭제</string>
@@ -384,6 +384,7 @@
     <string name="show_status">상태표시줄 표시</string>
     <string name="show_navi">소프트키 표시</string>
     <string name="address_pos">주소표시줄 표시</string>
+    <string name="address_title">주소표시줄에 제목 표시</string>
     <string name="bot_input">하단 주소표시줄</string>
     <string name="address_menu">주소표시줄 메뉴</string>
     <string name="show_tab_bar">탭바 표시</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">사이트에서 새 창이 열리면 자동으로 그룹화됩니다.</string>
     <string name="tab_guide_1">1. 탭을 길게 눌러 이동할 수 있습니다.</string>
     <string name="tab_guide_2">2. 탭을 겹쳐서 폴더를 만들 수 있습니다.</string>
+    <string name="debug_mode">웹 디버깅</string>
+    <string name="debug_mode_info">USB로 디버깅할 수 있습니다.</string>
+    <string name="default_browser">기본 브라우저로 설정</string>
 </resources>

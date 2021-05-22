@@ -66,7 +66,7 @@
     <string name="delete">削除</string>
     <string name="delete_file">ファイルを削除</string>
     <string name="delete_record">履歴の削除</string>
-    <string name="delete_data">データの削除</string>
+    <string name="clear_data">データの削除</string>
     <string name="delete_all">すべて削除</string>
     <string name="deleted">削除済み</string>
     <string name="swipe_delete">スワイプ削除</string>
@@ -384,6 +384,7 @@
     <string name="show_status">ステータスバーを表示</string>
     <string name="show_navi">ソフトキーを表示</string>
     <string name="address_pos">アドレスバーの表示</string>
+    <string name="address_title">アドレスバーにタイトルを表示</string>
     <string name="bot_input">下部のアドレスバー</string>
     <string name="address_menu">アドレスバーメニュー</string>
     <string name="show_tab_bar">タブバーを表示</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">サイトで新しいウィンドウが開いたら、自動的にグループ化されます。</string>
     <string name="tab_guide_1">1. タブを押したままに移動することができます。</string>
     <string name="tab_guide_2">2. タブを重ねフォルダを作成することができます。</string>
+    <string name="debug_mode">Webデバッグ</string>
+    <string name="debug_mode_info">USBでデバッグすることができます。</string>
+    <string name="default_browser">デフォルトのブラウザとして設定</string>
 </resources>

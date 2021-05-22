@@ -66,7 +66,7 @@
     <string name="delete">حذف</string>
     <string name="delete_file">حذف الملفات</string>
     <string name="delete_record">حذف سجل</string>
-    <string name="delete_data">حذف البيانات</string>
+    <string name="clear_data">حذف البيانات</string>
     <string name="delete_all">حذف الكل</string>
     <string name="deleted">قد تم حذف.</string>
     <string name="swipe_delete">انتقد حذف</string>
@@ -384,6 +384,7 @@
     <string name="show_status">أظهر شريط الحالة</string>
     <string name="show_navi">عرض الأزرار</string>
     <string name="address_pos">عرض شريط العنوان</string>
+    <string name="address_title">إظهار العنوان في شريط العنوان</string>
     <string name="bot_input">شريط العنوان في الأسفل</string>
     <string name="address_menu">قائمة شريط العناوين</string>
     <string name="show_tab_bar">إظهار شريط علامات التبويب</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">يتم تجميعها تلقائيًا عند فتح نافذة جديدة على الموقع.</string>
     <string name="tab_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على علامة التبويب.</string>
     <string name="tab_guide_2">2. يمكنك إنشاء مجلدات من خلال تداخل علامات التبويب.</string>
+    <string name="debug_mode">تصحيح أخطاء الويب</string>
+    <string name="debug_mode_info">يمكنك التصحيح باستخدام USB.</string>
+    <string name="default_browser">على النحو المستعرض الافتراضي</string>
 </resources>

@@ -66,7 +66,7 @@
     <string name="delete">Hapus</string>
     <string name="delete_file">Hapus berkas</string>
     <string name="delete_record">Hapus catatan</string>
-    <string name="delete_data">Hapus data</string>
+    <string name="clear_data">Hapus data</string>
     <string name="delete_all">Hapus semua</string>
     <string name="deleted">Dihapus</string>
     <string name="swipe_delete">Geser hapus</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Tampilkan bilah status</string>
     <string name="show_navi">Tampilkan tombol lunak</string>
     <string name="address_pos">Tampilkan bilah alamat</string>
+    <string name="address_title">Tampilkan judul di bilah alamat</string>
     <string name="bot_input">Bilah alamat bawah</string>
     <string name="address_menu">Menu bilah alamat</string>
     <string name="show_tab_bar">Tampilkan bilah tab</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Mereka secara otomatis dikelompokkan ketika jendela baru terbuka di situs.</string>
     <string name="tab_guide_1">1. Anda dapat bergerak dengan menekan dan menahan tab.</string>
     <string name="tab_guide_2">2. Anda dapat membuat folder dengan tumpang tindih tab.</string>
+    <string name="debug_mode">Debugging web</string>
+    <string name="debug_mode_info">Anda dapat men-debug dengan USB.</string>
+    <string name="default_browser">Setel sebagai browser default</string>
 </resources>

@@ -66,7 +66,7 @@
     <string name="delete">Effacer</string>
     <string name="delete_file">Supprimer fichier</string>
     <string name="delete_record">Supprimer l\'enregistrement</string>
-    <string name="delete_data">Suprimmer les données</string>
+    <string name="clear_data">Suprimmer les données</string>
     <string name="delete_all">Supprimer tout</string>
     <string name="deleted">Supprimé</string>
     <string name="swipe_delete">Suppression par glissement</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Afficher la barre d\'état</string>
     <string name="show_navi">Afficher la touche programmable</string>
     <string name="address_pos">Afficher la barre d\'adresse</string>
+    <string name="address_title">Afficher le titre dans la barre d\'adresse</string>
     <string name="bot_input">Barre d\'adresse inférieure</string>
     <string name="address_menu">Menu de la barre d\'adresse</string>
     <string name="show_tab_bar">Afficher la barre d\'onglets</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Ils sont automatiquement regroupés lorsqu\'une nouvelle fenêtre s\'ouvre sur le site.</string>
     <string name="tab_guide_1">1. Vous pouvez vous déplacer en appuyant sur l\'onglet et en le maintenant enfoncé.</string>
     <string name="tab_guide_2">2. Vous pouvez créer des dossiers en superposant des onglets.</string>
+    <string name="debug_mode">Débogage Web</string>
+    <string name="debug_mode_info">Vous pouvez déboguer avec USB.</string>
+    <string name="default_browser">Défini comme navigateur par défaut</string>
 </resources>

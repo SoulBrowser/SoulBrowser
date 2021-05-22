@@ -66,7 +66,7 @@
     <string name="delete">Elimina</string>
     <string name="delete_file">Cancella il file</string>
     <string name="delete_record">Elimina record</string>
-    <string name="delete_data">Elimina i dati</string>
+    <string name="clear_data">Elimina i dati</string>
     <string name="delete_all">Cancella tutto</string>
     <string name="deleted">Eliminata</string>
     <string name="swipe_delete">Scorri elimina</string>
@@ -384,6 +384,7 @@
     <string name="show_status">Mostra barra stato</string>
     <string name="show_navi">Mostra tasto funzione</string>
     <string name="address_pos">Mostra barra degli indirizzi</string>
+    <string name="address_title">Mostra il titolo nella barra degli indirizzi</string>
     <string name="bot_input">Barra degli indirizzi inferiore</string>
     <string name="address_menu">Menu della barra degli indirizzi</string>
     <string name="show_tab_bar">Mostra barra delle schede</string>
@@ -835,4 +836,7 @@
     <string name="auto_group_info">Vengono raggruppati automaticamente quando si apre una nuova finestra sul sito.</string>
     <string name="tab_guide_1">1. Puoi muoverti premendo e tenendo premuta la scheda.</string>
     <string name="tab_guide_2">2. È possibile creare cartelle sovrapponendo le schede.</string>
+    <string name="debug_mode">Debug web</string>
+    <string name="debug_mode_info">Puoi eseguire il debug con USB.</string>
+    <string name="default_browser">Imposta come browser predefinito</string>
 </resources>
