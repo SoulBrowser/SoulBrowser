@@ -7,7 +7,7 @@
     <string name="privacy">Политика конфиденциальности</string>
     <string name="start">Начать работу</string>
     <string name="info">Информация</string>
-    <string name="version">Версия приложения</string>
+    <string name="app_ver">Версия приложения</string>
     <string name="license">Лицензии с открытым кодом</string>
     <string name="show_license">Лицензия</string>
     <string name="feedback">Отправить отзыв</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">Неверный путь</string>
     <string name="invalid_file">Файл поврежден</string>
     <string name="not_supported_page">Неподдерживаемая страница</string>
-    <string name="not_supported_http">HTTP-сайты не поддерживаются.</string>
     <string name="current">Текущий</string>
     <string name="total">Всего</string>
     <string name="all">Все</string>
@@ -330,10 +329,7 @@
     <string name="blocked">Заблокировано</string>
     <string name="now_delete">Удалить сейчас</string>
     <string name="exit_delete">Удалить при выходе</string>
-    <string name="exit_del_noti">Уведомление при удалении</string>
     <string name="exit_guide">Когда выйдете из приложения, Ваша веб-активность будет удалена.</string>
-    <string name="exit_noti_1">&#60; Очистить при выходе &#62;\n%s удалены.</string>
-    <string name="exit_noti_2">&#60; Очистить при выходе &#62;\n%s удалены.</string>
     <string name="web_page">Веб-страница</string>
     <string name="text_size">Размер текста</string>
     <string name="free_scale">Увеличение двумя пальцами</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">Переключитесь в режим PIP с помощью кнопки главного экрана</string>
     <string name="pip_advance">Расширенный режим PIP</string>
     <string name="device_warning">Некоторые устройства могут не поддерживаться.</string>
-    <string name="memory_warning">Эта функция использует больше памяти.\nБудьте осторожны при использовании на устройствах с небольшим объемом памяти.</string>
+    <string name="memory_warning_1">Эта функция использует больше памяти.</string>
+    <string name="memory_warning_2">Будьте осторожны при использовании на устройствах с небольшим объемом памяти.</string>
     <string name="android_support">Поддерживается с Android %d.</string>
     <string name="secret_data">Разделение веб-данных</string>
     <string name="secret_data_info_1">Отдельно управляйте данными, такими как файлы cookie и кеш.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
     <string name="suggest_engine">Двигатель предложений</string>
     <string name="without_load">Не обновлять вкладку при возвращении</string>
-    <string name="without_load_info_1">Эта функция использует больше памяти.</string>
-    <string name="without_load_info_2">Если у вас открыто слишком много вкладок, ваш браузер может работать медленно.</string>
-    <string name="without_load_info_3">Память, используемая для композиции страницы, автоматически удаляется при закрытии приложения.</string>
+    <string name="without_load_info_1">Если у вас открыто слишком много вкладок, ваш браузер может работать медленно.</string>
+    <string name="without_load_info_2">Память, используемая для композиции страницы, автоматически удаляется при закрытии приложения.</string>
+    <string name="save_data">Сохранение данных</string>
     <string name="level_strong">Сильный</string>
     <string name="level_weak">Слабый</string>
     <string name="open_limit">Лимит открытых вкладок</string>

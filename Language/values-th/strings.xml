@@ -7,7 +7,7 @@
     <string name="privacy">ประกาศความเป็นส่วนตัว</string>
     <string name="start">เริ่มต้น</string>
     <string name="info">ข้อมูล</string>
-    <string name="version">เวอร์ชันของแอปพลิเคชัน</string>
+    <string name="app_ver">เวอร์ชันของแอป</string>
     <string name="license">ใบอนุญาตโอเพนซอร์ส</string>
     <string name="show_license">สัญญาอนุญาต</string>
     <string name="feedback">ส่งข้อเสนอแนะ</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">เส้นทางที่ไม่ถูกต้อง</string>
     <string name="invalid_file">ไฟล์ไม่ถูกต้อง</string>
     <string name="not_supported_page">หน้าที่ไม่รองรับ</string>
-    <string name="not_supported_http">ไม่รองรับไซต์ HTTP</string>
     <string name="current">ปัจจุบัน</string>
     <string name="total">ทั้งหมด</string>
     <string name="all">ทั้งหมด</string>
@@ -330,10 +329,7 @@
     <string name="blocked">อุดตัน</string>
     <string name="now_delete">ลบทันที</string>
     <string name="exit_delete">ลบเมื่อออก</string>
-    <string name="exit_del_noti">แจ้งเตือนเมื่อถูกลบ</string>
     <string name="exit_guide">เมื่อคุณออกจากแอปกิจกรรมบนเว็บของคุณจะถูกลบ</string>
-    <string name="exit_noti_1">&#60; ล้างเมื่อออก &#62;\n%s ลบ.</string>
-    <string name="exit_noti_2">&#60; ล้างเมื่อออก &#62;\n%s ลบ.</string>
     <string name="web_page">หน้าเว็บ</string>
     <string name="text_size">ขนาดตัวอักษร</string>
     <string name="free_scale">ซูมเข้าด้วยสองนิ้ว</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">เปลี่ยนเป็น PIP ด้วยปุ่มโฮม</string>
     <string name="pip_advance">PIP โหมดขั้นสูง</string>
     <string name="device_warning">อุปกรณ์บางอย่างอาจไม่รองรับ</string>
-    <string name="memory_warning">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น\nระวังเมื่อใช้กับอุปกรณ์ที่มีหน่วยความจำขนาดเล็ก</string>
+    <string name="memory_warning_1">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น</string>
+    <string name="memory_warning_2">ระวังเมื่อใช้กับอุปกรณ์ที่มีหน่วยความจำขนาดเล็ก</string>
     <string name="android_support">รองรับตั้งแต่ Android %d</string>
     <string name="secret_data">การแยกข้อมูลเว็บ</string>
     <string name="secret_data_info_1">แยกการจัดการข้อมูลเช่นคุกกี้และแคช</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">ใช้ภาพเคลื่อนไหวแบบเลื่อน</string>
     <string name="suggest_engine">เครื่องมือข้อเสนอแนะ</string>
     <string name="without_load">ย้อนกลับโดยไม่รีเฟรช</string>
-    <string name="without_load_info_1">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น</string>
-    <string name="without_load_info_2">หากคุณเปิดหน้าเว็บมากเกินไปเบราว์เซอร์ของคุณอาจทำงานช้า</string>
-    <string name="without_load_info_3">หน่วยความจำที่ใช้ในการจัดองค์ประกอบหน้าจะถูกลบโดยอัตโนมัติเมื่อปิดแอป</string>
+    <string name="without_load_info_1">หากคุณเปิดหน้าเว็บมากเกินไปเบราว์เซอร์ของคุณอาจทำงานช้า</string>
+    <string name="without_load_info_2">หน่วยความจำที่ใช้ในการจัดองค์ประกอบหน้าจะถูกลบโดยอัตโนมัติเมื่อปิดแอป</string>
+    <string name="save_data">การประหยัดข้อมูล</string>
     <string name="level_strong">แข็งแรง</string>
     <string name="level_weak">อ่อนแอ</string>
     <string name="open_limit">เปิดขีด ​​จำกัด</string>

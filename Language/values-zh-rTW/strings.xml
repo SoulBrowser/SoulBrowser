@@ -7,7 +7,7 @@
     <string name="privacy">隱私政策</string>
     <string name="start">開放</string>
     <string name="info">資訊</string>
-    <string name="version">應用版本</string>
+    <string name="app_ver">應用程式版本</string>
     <string name="license">開源許可證</string>
     <string name="show_license">許可</string>
     <string name="feedback">發送反饋</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">路徑無效</string>
     <string name="invalid_file">文件無效</string>
     <string name="not_supported_page">不支持的頁面</string>
-    <string name="not_supported_http">不支持 HTTP 網站</string>
     <string name="current">現在</string>
     <string name="total">整體</string>
     <string name="all">所有</string>
@@ -330,10 +329,7 @@
     <string name="blocked">受阻</string>
     <string name="now_delete">立即刪除</string>
     <string name="exit_delete">退出時刪除</string>
-    <string name="exit_del_noti">刪除通知</string>
     <string name="exit_guide">退出應用程式後， 您的網路活動將被刪除</string>
-    <string name="exit_noti_1">&#60; 退出時清除 &#62;\n%s 已刪除</string>
-    <string name="exit_noti_2">&#60; 退出時清除 &#62;\n%s 已刪除</string>
     <string name="web_page">網頁</string>
     <string name="text_size">字體大小</string>
     <string name="free_scale">雙指滑動放大</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">使用主頁鍵切換到 PIP</string>
     <string name="pip_advance">畫中畫高級模式</string>
     <string name="device_warning">某些設備可能不受支持</string>
-    <string name="memory_warning">此功能使用更多的內存\n在內存較小的設備上使用時要小心</string>
+    <string name="memory_warning_1">此功能使用更多的內存</string>
+    <string name="memory_warning_2">在內存較小的設備上使用時要小心</string>
     <string name="android_support">自 Android %d 開始受支持</string>
     <string name="secret_data">Web 數據分離</string>
     <string name="secret_data_info_1">分別管理 Cookie 和緩存之類的數據</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">使用滾動動畫</string>
     <string name="suggest_engine">建議引擎</string>
     <string name="without_load">返回無刷新</string>
-    <string name="without_load_info_1">此功能使用更多的內存</string>
-    <string name="without_load_info_2">如果打開的頁面太多，則瀏覽器可能運行緩慢</string>
-    <string name="without_load_info_3">關閉應用程序後，用於頁面撰寫的內存會自動刪除</string>
+    <string name="without_load_info_1">如果打開的頁面太多，則瀏覽器可能運行緩慢</string>
+    <string name="without_load_info_2">關閉應用程序後，用於頁面撰寫的內存會自動刪除</string>
+    <string name="save_data">數據保存</string>
     <string name="level_strong">強大</string>
     <string name="level_weak">弱</string>
     <string name="open_limit">開倉限制</string>

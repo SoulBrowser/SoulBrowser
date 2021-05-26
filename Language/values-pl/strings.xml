@@ -7,7 +7,7 @@
     <string name="privacy">Informacja o prywatności</string>
     <string name="start">Początek</string>
     <string name="info">Informacje</string>
-    <string name="version">Wersja aplikacji</string>
+    <string name="app_ver">Wersja aplikacji</string>
     <string name="license">Licencje typu open source</string>
     <string name="show_license">Licencja</string>
     <string name="feedback">Wyślij opinię</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">Nieprawidłowa ścieżka</string>
     <string name="invalid_file">Nieprawidłowy plik</string>
     <string name="not_supported_page">Nieobsługiwana strona</string>
-    <string name="not_supported_http">Witryny HTTP nie są obsługiwane.</string>
     <string name="current">Bieżący</string>
     <string name="total">Całkowity</string>
     <string name="all">Wszystko</string>
@@ -330,10 +329,7 @@
     <string name="blocked">Zablokowany</string>
     <string name="now_delete">Usuń teraz</string>
     <string name="exit_delete">Usuń przy wyjściu</string>
-    <string name="exit_del_noti">Powiadomienie po usunięciu</string>
     <string name="exit_guide">Po zamknięciu aplikacji Twoja aktywność internetowa zostanie usunięta.</string>
-    <string name="exit_noti_1">&#60; Wyczyść przy wyjściu &#62;\n%s usunięte.</string>
-    <string name="exit_noti_2">&#60; Wyczyść przy wyjściu &#62;\n%s usunięte.</string>
     <string name="web_page">Strona internetowa</string>
     <string name="text_size">Rozmiar tekstu</string>
     <string name="free_scale">Powiększ dwoma palcami</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">Przełącz się na PIP za pomocą klawisza głównego</string>
     <string name="pip_advance">Tryb zaawansowany PIP</string>
     <string name="device_warning">Niektóre urządzenia mogą nie być obsługiwane.</string>
-    <string name="memory_warning">Ta funkcja zużywa więcej pamięci.\nZachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
+    <string name="memory_warning_1">Ta funkcja zużywa więcej pamięci.</string>
+    <string name="memory_warning_2">Zachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
     <string name="android_support">Obsługiwane od Android %d.</string>
     <string name="secret_data">Separacja danych w sieci</string>
     <string name="secret_data_info_1">Oddzielnie zarządzaj danymi, takimi jak pliki cookie i pamięć podręczna.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">Użyj animacji przewijania</string>
     <string name="suggest_engine">Silnik sugestii</string>
     <string name="without_load">Wróć bez odświeżania</string>
-    <string name="without_load_info_1">Ta funkcja zużywa więcej pamięci.</string>
-    <string name="without_load_info_2">Jeśli masz otwartych zbyt wiele stron, Twoja przeglądarka może działać wolno.</string>
-    <string name="without_load_info_3">Pamięć używana do tworzenia kompozycji strony jest automatycznie usuwana po zamknięciu aplikacji.</string>
+    <string name="without_load_info_1">Jeśli masz otwartych zbyt wiele stron, Twoja przeglądarka może działać wolno.</string>
+    <string name="without_load_info_2">Pamięć używana do tworzenia kompozycji strony jest automatycznie usuwana po zamknięciu aplikacji.</string>
+    <string name="save_data">Zapisywanie danych</string>
     <string name="level_strong">Silny</string>
     <string name="level_weak">Słaby</string>
     <string name="open_limit">Otwarty limit</string>

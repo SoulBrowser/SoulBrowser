@@ -7,7 +7,7 @@
     <string name="privacy">Datenschutzbestimmungen</string>
     <string name="start">Starten</string>
     <string name="info">Informationen</string>
-    <string name="version">Version</string>
+    <string name="app_ver">App Version</string>
     <string name="license">Open source Lizenzen</string>
     <string name="show_license">Lizenz</string>
     <string name="feedback">Feedback senden</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">Ungültiger Pfad</string>
     <string name="invalid_file">Ungültige Datei</string>
     <string name="not_supported_page">Nicht unterstützte Seite</string>
-    <string name="not_supported_http">HTTP-Sites werden nicht unterstützt.</string>
     <string name="current">Aktuell</string>
     <string name="total">Gesamt</string>
     <string name="all">Alle</string>
@@ -330,10 +329,7 @@
     <string name="blocked">Blockiert</string>
     <string name="now_delete">Jetzt löschen</string>
     <string name="exit_delete">Beim Beenden löschen</string>
-    <string name="exit_del_noti">Benachrichtigung beim Löschen</string>
     <string name="exit_guide">Wenn Sie die App beenden, wird ihre Webaktivität gelöscht.</string>
-    <string name="exit_noti_1">&#60; Beim Beenden löschen &#62;\n%s gelöscht.</string>
-    <string name="exit_noti_2">&#60; Beim Beenden löschen &#62;\n%s gelöscht.</string>
     <string name="web_page">Webseite</string>
     <string name="text_size">Textgröße</string>
     <string name="free_scale">Zoomen Sie mit zwei Fingern hinein</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">Wechseln Sie mit dem Home-Schlüssel zu PIP</string>
     <string name="pip_advance">PIP erweiterter Modus</string>
     <string name="device_warning">Einige Geräte werden möglicherweise nicht unterstützt.</string>
-    <string name="memory_warning">Diese Funktion benötigt mehr Speicher.\nSeien sie vorsichtig, wenn sie Geräte mit kleinem Speicher verwenden.</string>
+    <string name="memory_warning_1">Diese Funktion benötigt mehr Speicher.</string>
+    <string name="memory_warning_2">Seien sie vorsichtig, wenn sie Geräte mit kleinem Speicher verwenden.</string>
     <string name="android_support">Unterstützt seit Android %d.</string>
     <string name="secret_data">Trennung von Webdaten</string>
     <string name="secret_data_info_1">Verwalten Sie Daten wie Cookies und Cache separat.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">Verwenden Sie die Bildlaufanimation</string>
     <string name="suggest_engine">Vorschlag Motor</string>
     <string name="without_load">Gehen Sie ohne Aktualisierung zurück</string>
-    <string name="without_load_info_1">Diese Funktion benötigt mehr Speicher.</string>
-    <string name="without_load_info_2">Wenn Sie zu viele Seiten geöffnet haben, ist Ihr Browser möglicherweise langsam.</string>
-    <string name="without_load_info_3">Der für die Seitenerstellung verwendete Speicher wird beim Schließen der App automatisch gelöscht.</string>
+    <string name="without_load_info_1">Wenn Sie zu viele Seiten geöffnet haben, ist Ihr Browser möglicherweise langsam.</string>
+    <string name="without_load_info_2">Der für die Seitenerstellung verwendete Speicher wird beim Schließen der App automatisch gelöscht.</string>
+    <string name="save_data">Datenspeicherung</string>
     <string name="level_strong">Stark</string>
     <string name="level_weak">Schwach</string>
     <string name="open_limit">Offenes Limit</string>

@@ -7,7 +7,7 @@
     <string name="privacy">個人情報保護ポリシー</string>
     <string name="start">開始</string>
     <string name="info">情報</string>
-    <string name="version">アプリケーションのバージョン</string>
+    <string name="app_ver">アプリのバージョン</string>
     <string name="license">オープンソースライセンス</string>
     <string name="show_license">ライセンス</string>
     <string name="feedback">フィードバック</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">無効なパス</string>
     <string name="invalid_file">無効なファイル</string>
     <string name="not_supported_page">サポートされていないページ</string>
-    <string name="not_supported_http">HTTPサイトはサポートされません。</string>
     <string name="current">現在</string>
     <string name="total">全体</string>
     <string name="all">すべて</string>
@@ -330,10 +329,7 @@
     <string name="blocked">ブロック</string>
     <string name="now_delete">今削除</string>
     <string name="exit_delete">終了時に削除</string>
-    <string name="exit_del_noti">削除時に通知</string>
     <string name="exit_guide">アプリ終了時には、 Web活動内容が削除されます。</string>
-    <string name="exit_noti_1">&#60; 終了時にクリア &#62;\n%sが削除されて。</string>
-    <string name="exit_noti_2">&#60; 終了時にクリア &#62;\n%sが削除されて。</string>
     <string name="web_page">Webページ</string>
     <string name="text_size">文字サイズ</string>
     <string name="free_scale">二本の指で拡大</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">ホームキーPIPに切り替え</string>
     <string name="pip_advance">PIP詳細モード</string>
     <string name="device_warning">一部のデバイスはサポートされないことがあります。</string>
-    <string name="memory_warning">この機能は、より多くのメモリを使用します。\nメモリが小さなデバイスで使用するときは注意してください。</string>
+    <string name="memory_warning_1">この機能は、より多くのメモリを使用します。</string>
+    <string name="memory_warning_2">メモリが小さなデバイスで使用するときは注意してください。</string>
     <string name="android_support">Android %dからサポートされます。</string>
     <string name="secret_data">Webデータ分離</string>
     <string name="secret_data_info_1">クッキー、キャッシュなどのデータを別々に管理します。</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
     <string name="suggest_engine">提案エンジン</string>
     <string name="without_load">リフレッシュせずに戻る</string>
-    <string name="without_load_info_1">この機能は、より多くのメモリを使用します。</string>
-    <string name="without_load_info_2">あまりにも多くのページが開いている場合は、ブラウザが遅くなることがあります。</string>
-    <string name="without_load_info_3">ページの構成に使用されたメモリは、アプリ終了時に自動的に削除されます。</string>
+    <string name="without_load_info_1">あまりにも多くのページが開いている場合は、ブラウザが遅くなることがあります。</string>
+    <string name="without_load_info_2">ページの構成に使用されたメモリは、アプリ終了時に自動的に削除されます。</string>
+    <string name="save_data">データ節約</string>
     <string name="level_strong">強い</string>
     <string name="level_weak">弱い</string>
     <string name="open_limit">オープン制限</string>

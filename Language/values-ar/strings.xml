@@ -7,7 +7,7 @@
     <string name="privacy">إشعار الخصوصية</string>
     <string name="start">بداية</string>
     <string name="info">معلومة</string>
-    <string name="version">إصدار التطبيق</string>
+    <string name="app_ver">نسخة التطبيق</string>
     <string name="license">ترخيص مفتوح المصدر</string>
     <string name="show_license">رخصة</string>
     <string name="feedback">ارسل رأيك</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">مسار غير صالح</string>
     <string name="invalid_file">ملف غير صالح</string>
     <string name="not_supported_page">هذه الصفحة غير مدعومة.</string>
-    <string name="not_supported_http">مواقع HTTP غير مدعومة.</string>
     <string name="current">حاليا</string>
     <string name="total">الكل</string>
     <string name="all">الكل</string>
@@ -330,10 +329,7 @@
     <string name="blocked">ممنوع</string>
     <string name="now_delete">احذف الان</string>
     <string name="exit_delete">حذف عند الخروج</string>
-    <string name="exit_del_noti">الإخطار بالحذف</string>
     <string name="exit_guide">عند إغلاق التطبيق ، يتم حذف محتوى نشاط الويب.</string>
-    <string name="exit_noti_1">&#60; مسح عند الخروج &#62;\n%s تم الحذف.</string>
-    <string name="exit_noti_2">&#60; مسح عند الخروج &#62;\n%s تم الحذف.</string>
     <string name="web_page">صفحة على الإنترنت</string>
     <string name="text_size">حجم الخط</string>
     <string name="free_scale">تكبير بإصبعين</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">قم بالتبديل إلى PIP باستخدام مفتاح الصفحة الرئيسية</string>
     <string name="pip_advance">الوضع المتقدم PIP</string>
     <string name="device_warning">قد لا تكون بعض الأجهزة مدعومة.</string>
-    <string name="memory_warning">تستخدم هذه الميزة المزيد من الذاكرة.\nكن حذرًا عند استخدامه على الأجهزة ذات الذاكرة الصغيرة.</string>
+    <string name="memory_warning_1">تستخدم هذه الميزة المزيد من الذاكرة.</string>
+    <string name="memory_warning_2">كن حذرًا عند استخدامه على الأجهزة ذات الذاكرة الصغيرة.</string>
     <string name="android_support">مدعوم من Android %d.</string>
     <string name="secret_data">فصل بيانات الويب</string>
     <string name="secret_data_info_1">إدارة البيانات بشكل منفصل مثل ملفات تعريف الارتباط وذاكرة التخزين المؤقت.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">استخدم التمرير للرسوم المتحركة</string>
     <string name="suggest_engine">محرك الاقتراح</string>
     <string name="without_load">ارجع بدون تحديث</string>
-    <string name="without_load_info_1">تستخدم هذه الميزة المزيد من الذاكرة.</string>
-    <string name="without_load_info_2">إذا كان لديك عدد كبير جدًا من الصفحات المفتوحة ، فقد يتباطأ متصفحك.</string>
-    <string name="without_load_info_3">يتم حذف الذاكرة المستخدمة لتكوين الصفحة تلقائيًا عند إغلاق التطبيق.</string>
+    <string name="without_load_info_1">إذا كان لديك عدد كبير جدًا من الصفحات المفتوحة ، فقد يتباطأ متصفحك.</string>
+    <string name="without_load_info_2">يتم حذف الذاكرة المستخدمة لتكوين الصفحة تلقائيًا عند إغلاق التطبيق.</string>
+    <string name="save_data">حفظ البيانات</string>
     <string name="level_strong">قوي</string>
     <string name="level_weak">ضعيف</string>
     <string name="open_limit">فتح حد</string>

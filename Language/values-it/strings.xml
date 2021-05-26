@@ -7,7 +7,7 @@
     <string name="privacy">Informativa sulla privacy</string>
     <string name="start">Iniziato</string>
     <string name="info">Informazione</string>
-    <string name="version">Versione di applicazione</string>
+    <string name="app_ver">Versione dell\'app</string>
     <string name="license">Licenze open source</string>
     <string name="show_license">Licenza</string>
     <string name="feedback">Invia feedback</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">Percorso non valido</string>
     <string name="invalid_file">File non valido</string>
     <string name="not_supported_page">Pagina non supportata</string>
-    <string name="not_supported_http">I siti HTTP non sono supportati.</string>
     <string name="current">Attuale</string>
     <string name="total">Totale</string>
     <string name="all">Tutti</string>
@@ -330,10 +329,7 @@
     <string name="blocked">Bloccato</string>
     <string name="now_delete">Elimina ora</string>
     <string name="exit_delete">Elimina all\'uscita</string>
-    <string name="exit_del_noti">Notifica quando eliminata</string>
     <string name="exit_guide">Quando esci dall\'app, la tua attività web verrà cancellata.</string>
-    <string name="exit_noti_1">&#60; Cancella all\'uscita &#62;\n%s cancellati.</string>
-    <string name="exit_noti_2">&#60; Cancella all\'uscita &#62;\n%s cancellati.</string>
     <string name="web_page">Pagina web</string>
     <string name="text_size">Dimensione carattere</string>
     <string name="free_scale">Ingrandisci con due dita</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">Passa a PIP con il tasto Home</string>
     <string name="pip_advance">Modalità avanzata PIP</string>
     <string name="device_warning">Alcuni dispositivi potrebbero non essere supportati.</string>
-    <string name="memory_warning">Questa funzione utilizza più memoria.\nFare attenzione quando si utilizza su dispositivi con poca memoria.</string>
+    <string name="memory_warning_1">Questa funzione utilizza più memoria.</string>
+    <string name="memory_warning_2">Fare attenzione quando si utilizza su dispositivi con poca memoria.</string>
     <string name="android_support">Supportato da Android %d.</string>
     <string name="secret_data">Separazione dei dati Web</string>
     <string name="secret_data_info_1">Gestisci separatamente dati come cookie e cache.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">Usa l\'animazione di scorrimento</string>
     <string name="suggest_engine">Motore di suggerimenti</string>
     <string name="without_load">Torna indietro senza aggiornare</string>
-    <string name="without_load_info_1">Questa funzione utilizza più memoria.</string>
-    <string name="without_load_info_2">Se hai troppe pagine aperte, il tuo browser potrebbe essere lento.</string>
-    <string name="without_load_info_3">La memoria utilizzata per la composizione della pagina viene automaticamente eliminata alla chiusura dell\'app.</string>
+    <string name="without_load_info_1">Se hai troppe pagine aperte, il tuo browser potrebbe essere lento.</string>
+    <string name="without_load_info_2">La memoria utilizzata per la composizione della pagina viene automaticamente eliminata alla chiusura dell\'app.</string>
+    <string name="save_data">Salvataggio dei dati</string>
     <string name="level_strong">Forte</string>
     <string name="level_weak">Debole</string>
     <string name="open_limit">Limite aperto</string>

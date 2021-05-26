@@ -7,7 +7,7 @@
     <string name="privacy">Política de privacidad</string>
     <string name="start">Comenzar</string>
     <string name="info">Información</string>
-    <string name="version">Versión de la aplicación</string>
+    <string name="app_ver">Versión de aplicacion</string>
     <string name="license">Licencias de código abierto</string>
     <string name="show_license">Licencia</string>
     <string name="feedback">Enviar comentarios</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">Ruta inválida</string>
     <string name="invalid_file">Archivo inválido</string>
     <string name="not_supported_page">Página no admitida</string>
-    <string name="not_supported_http">Los sitios HTTP no son compatibles.</string>
     <string name="current">Actual</string>
     <string name="total">Total</string>
     <string name="all">Todas</string>
@@ -330,10 +329,7 @@
     <string name="blocked">Bloqueado</string>
     <string name="now_delete">Elimina ahora</string>
     <string name="exit_delete">Eliminar al salir</string>
-    <string name="exit_del_noti">Notificación cuando se elimina</string>
     <string name="exit_guide">Al salir de la aplicación, se eliminará su actividad web.</string>
-    <string name="exit_noti_1">&#60; Claro a la salida &#62;\n%s eliminadas.</string>
-    <string name="exit_noti_2">&#60; Claro a la salida &#62;\n%s eliminadas.</string>
     <string name="web_page">Página web</string>
     <string name="text_size">Tamaño del texto</string>
     <string name="free_scale">Acercar con dos dedos</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">Cambiar a PIP con la tecla de inicio</string>
     <string name="pip_advance">Modo avanzado PIP</string>
     <string name="device_warning">Algunos dispositivos pueden no ser compatibles.</string>
-    <string name="memory_warning">Esta característica usa más memoria.\nTenga cuidado cuando lo use en dispositivos con poca memoria.</string>
+    <string name="memory_warning_1">Esta función usa más memoria.</string>
+    <string name="memory_warning_2">Tenga cuidado cuando lo use en dispositivos con poca memoria.</string>
     <string name="android_support">Compatible desde Android %d.</string>
     <string name="secret_data">Separación de datos web</string>
     <string name="secret_data_info_1">Administre por separado datos como cookies y caché.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">Usar animación de desplazamiento</string>
     <string name="suggest_engine">Motor de sugerencias</string>
     <string name="without_load">Volver sin actualizar</string>
-    <string name="without_load_info_1">Esta función usa más memoria.</string>
-    <string name="without_load_info_2">Si tiene demasiadas páginas abiertas, es posible que su navegador sea lento.</string>
-    <string name="without_load_info_3">La memoria utilizada para la composición de la página se elimina automáticamente cuando se cierra la aplicación.</string>
+    <string name="without_load_info_1">Si tiene demasiadas páginas abiertas, es posible que su navegador sea lento.</string>
+    <string name="without_load_info_2">La memoria utilizada para la composición de la página se elimina automáticamente cuando se cierra la aplicación.</string>
+    <string name="save_data">Almacenamiento de datos</string>
     <string name="level_strong">Fuerte</string>
     <string name="level_weak">Débiles</string>
     <string name="open_limit">Límite abierto</string>

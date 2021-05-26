@@ -7,7 +7,7 @@
     <string name="privacy">隐私政策</string>
     <string name="start">开始</string>
     <string name="info">关于</string>
-    <string name="version">应用版本</string>
+    <string name="app_ver">应用程式版本</string>
     <string name="license">开源许可证</string>
     <string name="show_license">许可</string>
     <string name="feedback">反馈</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">路径无效</string>
     <string name="invalid_file">文件无效</string>
     <string name="not_supported_page">不支持的页面</string>
-    <string name="not_supported_http">不支持 HTTP 网站</string>
     <string name="current">当前</string>
     <string name="total">总计</string>
     <string name="all">所有</string>
@@ -330,10 +329,7 @@
     <string name="blocked">已屏蔽</string>
     <string name="now_delete">立即删除</string>
     <string name="exit_delete">退出时删除</string>
-    <string name="exit_del_noti">删除通知</string>
     <string name="exit_guide">退出应用程序后， 你的网络记录将被删除</string>
-    <string name="exit_noti_1">&#60; 退出时清除 &#62;\n%s 已删除</string>
-    <string name="exit_noti_2">&#60; 退出时清除 &#62;\n%s 已删除</string>
     <string name="web_page">网页</string>
     <string name="text_size">字体大小</string>
     <string name="free_scale">用两根手指放大</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">使用主页键切换到 PIP</string>
     <string name="pip_advance">画中画高级模式</string>
     <string name="device_warning">某些设备可能不支持</string>
-    <string name="memory_warning">此功能使用更多的内存\n内存小的同学谨慎使用</string>
+    <string name="memory_warning_1">此功能使用更多的内存</string>
+    <string name="memory_warning_2">内存小的同学谨慎使用</string>
     <string name="android_support">自 Android %d 开始受支持</string>
     <string name="secret_data">Web 数据分离</string>
     <string name="secret_data_info_1">分别管理 Cookie 和缓存之类的数据</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">滚动动画</string>
     <string name="suggest_engine">建议引擎</string>
     <string name="without_load">返回无刷新</string>
-    <string name="without_load_info_1">此功能使用更多的内存</string>
-    <string name="without_load_info_2">如果打开的页面太多，则浏览器可能运行缓慢。</string>
-    <string name="without_load_info_3">关闭应用程序后，用于载入页面的内存会自动删除。</string>
+    <string name="without_load_info_1">如果打开的页面太多，则浏览器可能运行缓慢。</string>
+    <string name="without_load_info_2">关闭应用程序后，用于载入页面的内存会自动删除。</string>
+    <string name="save_data">数据保存</string>
     <string name="level_strong">很强</string>
     <string name="level_weak">弱</string>
     <string name="open_limit">标签限量</string>

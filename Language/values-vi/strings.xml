@@ -7,7 +7,7 @@
     <string name="privacy">Chính sách Bảo mật</string>
     <string name="start">Bắt đầu</string>
     <string name="info">Thông tin</string>
-    <string name="version">Phiên bản ứng dụng</string>
+    <string name="app_ver">Phiên bản ứng dụng</string>
     <string name="license">Giấy phép nguồn mở</string>
     <string name="show_license">Giấy phép</string>
     <string name="feedback">Gửi phản hồi</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">Đường dẫn không hợp lệ</string>
     <string name="invalid_file">Tập tin không hợp lệ</string>
     <string name="not_supported_page">Trang không được hỗ trợ</string>
-    <string name="not_supported_http">Các trang web HTTP không được hỗ trợ.</string>
     <string name="current">Hiện hành</string>
     <string name="total">Toàn bộ</string>
     <string name="all">Tất cả các</string>
@@ -330,10 +329,7 @@
     <string name="blocked">Bị chặn</string>
     <string name="now_delete">Xóa ngay bây giờ</string>
     <string name="exit_delete">Xóa khi thoát</string>
-    <string name="exit_del_noti">Thông báo khi bị xóa</string>
     <string name="exit_guide">Khi bạn thoát khỏi ứng dụng, hoạt động web của bạn sẽ bị xóa.</string>
-    <string name="exit_noti_1">&#60; Xóa khi thoát &#62;\nĐã xóa %s.</string>
-    <string name="exit_noti_2">&#60; Xóa khi thoát &#62;\nĐã xóa %s.</string>
     <string name="web_page">Trang web</string>
     <string name="text_size">Cỡ chữ</string>
     <string name="free_scale">Phóng to bằng hai ngón tay</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">Chuyển sang PIP bằng phím home</string>
     <string name="pip_advance">Chế độ nâng cao PIP</string>
     <string name="device_warning">Một số thiết bị có thể không được hỗ trợ.</string>
-    <string name="memory_warning">Tính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
+    <string name="memory_warning_1">Tính năng này sử dụng nhiều bộ nhớ hơn.</string>
+    <string name="memory_warning_2">Cẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
     <string name="android_support">Được hỗ trợ kể từ Android %d.</string>
     <string name="secret_data">Tách dữ liệu web</string>
     <string name="secret_data_info_1">Quản lý riêng biệt dữ liệu như cookie và bộ nhớ cache.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
     <string name="suggest_engine">Công cụ đề xuất</string>
     <string name="without_load">Quay lại mà không làm mới</string>
-    <string name="without_load_info_1">Tính năng này sử dụng nhiều bộ nhớ hơn.</string>
-    <string name="without_load_info_2">Nếu bạn mở quá nhiều trang, trình duyệt của bạn có thể chạy chậm.</string>
-    <string name="without_load_info_3">Bộ nhớ được sử dụng cho thành phần trang sẽ tự động bị xóa khi ứng dụng được đóng.</string>
+    <string name="without_load_info_1">Nếu bạn mở quá nhiều trang, trình duyệt của bạn có thể chạy chậm.</string>
+    <string name="without_load_info_2">Bộ nhớ được sử dụng cho thành phần trang sẽ tự động bị xóa khi ứng dụng được đóng.</string>
+    <string name="save_data">Tiết kiệm dữ liệu</string>
     <string name="level_strong">Mạnh</string>
     <string name="level_weak">Yếu</string>
     <string name="open_limit">Mở giới hạn</string>

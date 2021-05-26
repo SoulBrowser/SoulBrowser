@@ -7,7 +7,7 @@
     <string name="privacy">개인정보 보호정책</string>
     <string name="start">시작</string>
     <string name="info">정보</string>
-    <string name="version">애플리케이션 버전</string>
+    <string name="app_ver">앱 버전</string>
     <string name="license">오픈소스 라이선스</string>
     <string name="show_license">라이선스</string>
     <string name="feedback">의견 보내기</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">유효하지 않은 경로</string>
     <string name="invalid_file">유효하지 않은 파일</string>
     <string name="not_supported_page">지원되지 않는 페이지입니다.</string>
-    <string name="not_supported_http">HTTP 사이트는 지원되지 않습니다.</string>
     <string name="current">현재</string>
     <string name="total">전체</string>
     <string name="all">전체</string>
@@ -330,10 +329,7 @@
     <string name="blocked">차단됨</string>
     <string name="now_delete">지금 삭제</string>
     <string name="exit_delete">종료 시 삭제</string>
-    <string name="exit_del_noti">삭제 시 알림</string>
     <string name="exit_guide">앱 종료 시, 웹 활동 내용이 삭제됩니다.</string>
-    <string name="exit_noti_1">&#60; 종료 시 삭제 &#62;\n%s가 삭제되었습니다.</string>
-    <string name="exit_noti_2">&#60; 종료 시 삭제 &#62;\n%s이 삭제되었습니다.</string>
     <string name="web_page">웹페이지</string>
     <string name="text_size">글자 크기</string>
     <string name="free_scale">두 손가락으로 확대</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">홈키로 PIP로 전환</string>
     <string name="pip_advance">PIP 고급 모드</string>
     <string name="device_warning">일부 디바이스는 지원되지 않을 수 있습니다.</string>
-    <string name="memory_warning">이 기능은 더 많은 메모리를 사용합니다.\n메모리가 작은 장치에서 사용할 때는 주의하십시오.</string>
+    <string name="memory_warning_1">이 기능은 더 많은 메모리를 사용합니다.</string>
+    <string name="memory_warning_2">메모리가 작은 장치에서 사용할 때는 주의하십시오.</string>
     <string name="android_support">Android %d부터 지원됩니다.</string>
     <string name="secret_data">웹 데이터 분리</string>
     <string name="secret_data_info_1">쿠키, 캐시 등의 데이터를 별도로 관리합니다.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
     <string name="suggest_engine">제안 엔진</string>
     <string name="without_load">새로고침 없이 뒤로가기</string>
-    <string name="without_load_info_1">이 기능은 더 많은 메모리를 사용합니다.</string>
-    <string name="without_load_info_2">너무 많은 페이지가 열려있으면, 브라우저가 느려질 수 있습니다.</string>
-    <string name="without_load_info_3">페이지 구성에 사용된 메모리는 앱 종료 시 자동으로 삭제됩니다.</string>
+    <string name="without_load_info_1">너무 많은 페이지가 열려있으면, 브라우저가 느려질 수 있습니다.</string>
+    <string name="without_load_info_2">페이지 구성에 사용된 메모리는 앱 종료 시 자동으로 삭제됩니다.</string>
+    <string name="save_data">데이터 절약</string>
     <string name="level_strong">강한</string>
     <string name="level_weak">약한</string>
     <string name="open_limit">열기 제한</string>

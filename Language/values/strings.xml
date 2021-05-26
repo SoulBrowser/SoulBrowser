@@ -7,7 +7,7 @@
     <string name="privacy">Privacy Notice</string>
     <string name="start">Start</string>
     <string name="info">Information</string>
-    <string name="version">Application version</string>
+    <string name="app_ver">App version</string>
     <string name="license">Open source licenses</string>
     <string name="show_license">License</string>
     <string name="feedback">Send feedback</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">Invalid path</string>
     <string name="invalid_file">Invalid file</string>
     <string name="not_supported_page">Unsupported page</string>
-    <string name="not_supported_http">HTTP sites are not supported.</string>
     <string name="current">Current</string>
     <string name="total">Total</string>
     <string name="all">All</string>
@@ -330,10 +329,7 @@
     <string name="blocked">Blocked</string>
     <string name="now_delete">Delete now</string>
     <string name="exit_delete">Delete on exit</string>
-    <string name="exit_del_noti">Notification when deleted</string>
     <string name="exit_guide">When you exit the app, your web activity will be deleted.</string>
-    <string name="exit_noti_1">&#60; Clear on exit &#62;\n%s deleted.</string>
-    <string name="exit_noti_2">&#60; Clear on exit &#62;\n%s deleted.</string>
     <string name="web_page">Web page</string>
     <string name="text_size">Text size</string>
     <string name="free_scale">Zoom in with two fingers</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">Switch to PIP with home key</string>
     <string name="pip_advance">PIP advanced mode</string>
     <string name="device_warning">Some devices may not be supported.</string>
-    <string name="memory_warning">This feature uses more memory.\nBe careful when using on devices with small memory.</string>
+    <string name="memory_warning_1">This feature uses more memory.</string>
+    <string name="memory_warning_2">Be careful when using on devices with small memory.</string>
     <string name="android_support">Supported since Android %d.</string>
     <string name="secret_data">Web data separation</string>
     <string name="secret_data_info_1">Separately manage data such as cookies and cache.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">Use scroll animation</string>
     <string name="suggest_engine">Suggestion engine</string>
     <string name="without_load">Go back without refresh</string>
-    <string name="without_load_info_1">This feature uses more memory.</string>
-    <string name="without_load_info_2">If you have too many pages open, your browser may be slow.</string>
-    <string name="without_load_info_3">The memory used for page composition is automatically deleted when the app is closed.</string>
+    <string name="without_load_info_1">If you have too many pages open, your browser may be slow.</string>
+    <string name="without_load_info_2">The memory used for page composition is automatically deleted when the app is closed.</string>
+    <string name="save_data">Data saving</string>
     <string name="level_strong">Strong</string>
     <string name="level_weak">Weak</string>
     <string name="open_limit">Open limit</string>

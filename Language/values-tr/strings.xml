@@ -7,7 +7,7 @@
     <string name="privacy">Gizlilik Bildirimi</string>
     <string name="start">Başlat</string>
     <string name="info">Bilgi</string>
-    <string name="version">Uygulama sürümü</string>
+    <string name="app_ver">Uygulama sürümü</string>
     <string name="license">Açık kaynak lisansları</string>
     <string name="show_license">Lisans</string>
     <string name="feedback">Geri bildirim gönder</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">Geçersiz yol</string>
     <string name="invalid_file">Geçersiz dosya</string>
     <string name="not_supported_page">Desteklenmeyen sayfa</string>
-    <string name="not_supported_http">HTTP siteleri desteklenmez.</string>
     <string name="current">Geçerli</string>
     <string name="total">Toplam</string>
     <string name="all">Hepsi</string>
@@ -330,10 +329,7 @@
     <string name="blocked">Tıkalı</string>
     <string name="now_delete">Şimdi sil</string>
     <string name="exit_delete">Çıkışta sil</string>
-    <string name="exit_del_noti">Silindiğinde bildirim</string>
     <string name="exit_guide">Uygulamadan çıktığınızda web etkinliğiniz silinecek.</string>
-    <string name="exit_noti_1">&#60; Çıkışta temizle &#62;\n%s silindi.</string>
-    <string name="exit_noti_2">&#60; Çıkışta temizle &#62;\n%s silindi.</string>
     <string name="web_page">Internet sayfası</string>
     <string name="text_size">Metin boyutu</string>
     <string name="free_scale">İki parmağınızla yakınlaştırın</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">Ev tuşuyla PIP\'ye geç</string>
     <string name="pip_advance">PIP gelişmiş modu</string>
     <string name="device_warning">Bazı cihazlar desteklenmeyebilir.</string>
-    <string name="memory_warning">Bu özellik daha fazla bellek kullanır.\nKüçük belleğe sahip cihazlarda kullanırken dikkatli olun.</string>
+    <string name="memory_warning_1">Bu özellik daha fazla bellek kullanır.</string>
+    <string name="memory_warning_2">Küçük belleğe sahip cihazlarda kullanırken dikkatli olun.</string>
     <string name="android_support">Android %d\'dan beri desteklenmektedir.</string>
     <string name="secret_data">Web veri ayrımı</string>
     <string name="secret_data_info_1">Çerezler ve önbellek gibi verileri ayrı ayrı yönetin.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">Kaydırma animasyonunu kullan</string>
     <string name="suggest_engine">Öneri motoru</string>
     <string name="without_load">Yenilemeden geri dönün</string>
-    <string name="without_load_info_1">Bu özellik daha fazla bellek kullanır.</string>
-    <string name="without_load_info_2">Çok fazla açık sayfanız varsa, tarayıcınız yavaş olabilir.</string>
-    <string name="without_load_info_3">Sayfa düzeni için kullanılan bellek, uygulama kapatıldığında otomatik olarak silinir.</string>
+    <string name="without_load_info_1">Çok fazla açık sayfanız varsa, tarayıcınız yavaş olabilir.</string>
+    <string name="without_load_info_2">Sayfa düzeni için kullanılan bellek, uygulama kapatıldığında otomatik olarak silinir.</string>
+    <string name="save_data">Veri kaydetme</string>
     <string name="level_strong">kuvvetli</string>
     <string name="level_weak">Güçsüz</string>
     <string name="open_limit">Açık limit</string>

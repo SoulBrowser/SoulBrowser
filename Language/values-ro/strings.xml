@@ -7,7 +7,7 @@
     <string name="privacy">Notificare de confidențialitate</string>
     <string name="start">Start</string>
     <string name="info">Informații</string>
-    <string name="version">Versiunea aplicației</string>
+    <string name="app_ver">Versiunea aplicației</string>
     <string name="license">Licențe open source</string>
     <string name="show_license">Licență</string>
     <string name="feedback">Trimiteți feedback</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">Calea nevalidă</string>
     <string name="invalid_file">Fișier nevalid</string>
     <string name="not_supported_page">Pagina neacceptată</string>
-    <string name="not_supported_http">Site-urile HTTP nu sunt acceptate.</string>
     <string name="current">Actual</string>
     <string name="total">Total</string>
     <string name="all">Toate</string>
@@ -330,10 +329,7 @@
     <string name="blocked">Blocat</string>
     <string name="now_delete">Șterge acum</string>
     <string name="exit_delete">Ștergeți la ieșire</string>
-    <string name="exit_del_noti">Notificare la ștergere</string>
     <string name="exit_guide">Când ieșiți din aplicație, activitatea dvs. web va fi ștearsă.</string>
-    <string name="exit_noti_1">Șterge la ieșire\n%s șters.</string>
-    <string name="exit_noti_2">Șterge la ieșire\n%s șters.</string>
     <string name="web_page">Pagină web</string>
     <string name="text_size">Dimensiunea textului</string>
     <string name="free_scale">Măriți cu două degete</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">Treceți la PIP cu tasta de pornire</string>
     <string name="pip_advance">Mod avansat PIP</string>
     <string name="device_warning">Este posibil ca unele dispozitive să nu fie acceptate.</string>
-    <string name="memory_warning">Această caracteristică folosește mai multă memorie.\nAveți grijă când utilizați pe dispozitive cu memorie mică.</string>
+    <string name="memory_warning_1">Această caracteristică folosește mai multă memorie.</string>
+    <string name="memory_warning_2">Aveți grijă când utilizați pe dispozitive cu memorie mică.</string>
     <string name="android_support">Suportat de la Android %d.</string>
     <string name="secret_data">Separarea datelor web</string>
     <string name="secret_data_info_1">Gestionează separat date precum cookie-uri și cache.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">Utilizați animația de defilare</string>
     <string name="suggest_engine">Motor de sugestii</string>
     <string name="without_load">Reveniți fără reîmprospătare</string>
-    <string name="without_load_info_1">Această caracteristică folosește mai multă memorie.</string>
-    <string name="without_load_info_2">Dacă aveți prea multe pagini deschise, browserul dvs. poate fi lent.</string>
-    <string name="without_load_info_3">Memoria utilizată pentru compunerea paginii este ștearsă automat când aplicația este închisă.</string>
+    <string name="without_load_info_1">Dacă aveți prea multe pagini deschise, browserul dvs. poate fi lent.</string>
+    <string name="without_load_info_2">Memoria utilizată pentru compunerea paginii este ștearsă automat când aplicația este închisă.</string>
+    <string name="save_data">Salvarea datelor</string>
     <string name="level_strong">Puternic</string>
     <string name="level_weak">Slab</string>
     <string name="open_limit">Limita de deschidere</string>

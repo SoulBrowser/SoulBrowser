@@ -7,7 +7,7 @@
     <string name="privacy">Pemberitahuan Privasi</string>
     <string name="start">Mulai</string>
     <string name="info">Informasi</string>
-    <string name="version">Versi aplikasi</string>
+    <string name="app_ver">Versi aplikasi</string>
     <string name="license">Lisensi open source</string>
     <string name="show_license">Lisensi</string>
     <string name="feedback">Kirim umpan balik</string>
@@ -261,7 +261,6 @@
     <string name="invalid_path">Path tidak valid</string>
     <string name="invalid_file">File yang tidak valid</string>
     <string name="not_supported_page">Halaman tidak didukung</string>
-    <string name="not_supported_http">Situs HTTP tidak didukung.</string>
     <string name="current">Arus</string>
     <string name="total">Total</string>
     <string name="all">Semua</string>
@@ -330,10 +329,7 @@
     <string name="blocked">Dicekal</string>
     <string name="now_delete">Hapus sekarang</string>
     <string name="exit_delete">Hapus saat keluar</string>
-    <string name="exit_del_noti">Pemberitahuan saat dihapus</string>
     <string name="exit_guide">Saat Anda keluar dari aplikasi, aktivitas web Anda akan dihapus.</string>
-    <string name="exit_noti_1">&#60; Bersihkan saat keluar &#62;\n%s dihapus.</string>
-    <string name="exit_noti_2">&#60; Bersihkan saat keluar &#62;\n%s dihapus.</string>
     <string name="web_page">Halaman web</string>
     <string name="text_size">Ukuran teks</string>
     <string name="free_scale">Perbesar dengan dua jari</string>
@@ -471,7 +467,8 @@
     <string name="pip_home">Beralih ke PIP dengan kunci rumah</string>
     <string name="pip_advance">Mode lanjutan PIP</string>
     <string name="device_warning">Một số thiết bị có thể không được hỗ trợ.</string>
-    <string name="memory_warning">Tính năng này sử dụng nhiều bộ nhớ hơn.\nCẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
+    <string name="memory_warning_1">Fitur ini menggunakan lebih banyak memori.</string>
+    <string name="memory_warning_2">Cẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
     <string name="android_support">Didukung sejak Android %d.</string>
     <string name="secret_data">Pemisahan data web</string>
     <string name="secret_data_info_1">Kelola data secara terpisah seperti cookie dan cache.</string>
@@ -776,9 +773,9 @@
     <string name="use_scroll_anim">Gunakan animasi gulir</string>
     <string name="suggest_engine">Mesin saran</string>
     <string name="without_load">Kembali tanpa penyegaran</string>
-    <string name="without_load_info_1">Fitur ini menggunakan lebih banyak memori.</string>
-    <string name="without_load_info_2">Jika Anda membuka terlalu banyak halaman, browser Anda mungkin lambat.</string>
-    <string name="without_load_info_3">Memori yang digunakan untuk komposisi halaman secara otomatis dihapus saat aplikasi ditutup.</string>
+    <string name="without_load_info_1">Jika Anda membuka terlalu banyak halaman, browser Anda mungkin lambat.</string>
+    <string name="without_load_info_2">Memori yang digunakan untuk komposisi halaman secara otomatis dihapus saat aplikasi ditutup.</string>
+    <string name="save_data">Penghematan data</string>
     <string name="level_strong">Kuat</string>
     <string name="level_weak">Lemah</string>
     <string name="open_limit">Batas terbuka</string>
