@@ -315,7 +315,6 @@
     <string name="no_permission">没有权限</string>
     <string name="ads_block">广告拦截</string>
     <string name="ads_block_info">必须至少启用一个过滤器才能屏蔽广告</string>
-    <string name="do_not_trank">不跟踪（Do Not Track）</string>
     <string name="filtered_image">过滤的图像（%d）</string>
     <string name="update">更新</string>
     <string name="update_fail">更新失败</string>
@@ -767,6 +766,7 @@
     <string name="screen_filter">屏幕过滤器</string>
     <string name="filter_color">过滤器色</string>
     <string name="always_use">总是使用</string>
+    <string name="only_use_secret">仅在隐身模式下使用</string>
     <string name="only_night">仅在夜间模式下使用</string>
     <string name="night_mode">夜间模式</string>
     <string name="day_mode">日间模式</string>

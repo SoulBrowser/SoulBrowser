@@ -315,7 +315,6 @@
     <string name="no_permission">ไม่ได้รับอนุญาต</string>
     <string name="ads_block">บล็อกโฆษณา</string>
     <string name="ads_block_info">ต้องใช้ตัวกรองอย่างน้อยหนึ่งรายการเพื่อบล็อกโฆษณา</string>
-    <string name="do_not_trank">ไม่ต้องติดตาม</string>
     <string name="filtered_image">รูปภาพที่กรอง (%d)</string>
     <string name="update">อัพเดต</string>
     <string name="update_fail">การอัปเดตล้มเหลว</string>
@@ -767,6 +766,7 @@
     <string name="screen_filter">ตัวกรองหน้าจอ</string>
     <string name="filter_color">กรองสี</string>
     <string name="always_use">ใช้เสมอ</string>
+    <string name="only_use_secret">ใช้เฉพาะในโหมดไม่ระบุตัวตน</string>
     <string name="only_night">ใช้ในโหมดกลางคืนเท่านั้น</string>
     <string name="night_mode">โหมดกลางคืน</string>
     <string name="day_mode">โหมดวัน</string>

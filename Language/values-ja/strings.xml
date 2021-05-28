@@ -315,7 +315,6 @@
     <string name="no_permission">権限なし</string>
     <string name="ads_block">広告ブロック</string>
     <string name="ads_block_info">広告をブロックするには、複数のフィルタが有効になっている必要があります。</string>
-    <string name="do_not_trank">トレースなし</string>
     <string name="filtered_image">フィルタリングされた画像 (%d)</string>
     <string name="update">アップデート</string>
     <string name="update_fail">更新に失敗しました。</string>
@@ -767,6 +766,7 @@
     <string name="screen_filter">スクリーンフィルター</string>
     <string name="filter_color">フィルタの色</string>
     <string name="always_use">常に使用</string>
+    <string name="only_use_secret">シークレットモードでのみ使用</string>
     <string name="only_night">夜間モードでのみ使用</string>
     <string name="night_mode">ナイトモード</string>
     <string name="day_mode">週間モード</string>

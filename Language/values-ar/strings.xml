@@ -315,7 +315,6 @@
     <string name="no_permission">لا يوجد إذن</string>
     <string name="ads_block">إعلانات كتلة</string>
     <string name="ads_block_info">يجب أن يكون هناك عامل تصفية واحد على الأقل نشطًا لمنع الإعلانات.</string>
-    <string name="do_not_trank">لا تتبع</string>
     <string name="filtered_image">صورة مفلترة (%d)</string>
     <string name="update">تحديث</string>
     <string name="update_fail">فشل التحديث.</string>
@@ -767,6 +766,7 @@
     <string name="screen_filter">فلتر الشاشة</string>
     <string name="filter_color">لون الفلتر</string>
     <string name="always_use">دائما يستخدم</string>
+    <string name="only_use_secret">تستخدم فقط في وضع التصفح المتخفي</string>
     <string name="only_night">استخدم فقط في الوضع الليلي</string>
     <string name="night_mode">الوضع الليلي</string>
     <string name="day_mode">وضع اليوم</string>

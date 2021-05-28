@@ -315,7 +315,6 @@
     <string name="no_permission">Fără permisiune</string>
     <string name="ads_block">Blocator de anunțuri</string>
     <string name="ads_block_info">Cel puțin un filtru trebuie să fie activ pentru a bloca anunțurile.</string>
-    <string name="do_not_trank">Nu urmări</string>
     <string name="filtered_image">Imaginea filtrată (%d)</string>
     <string name="update">Actualizați</string>
     <string name="update_fail">Actualizare eșuată.</string>
@@ -767,6 +766,7 @@
     <string name="screen_filter">Filtru ecran</string>
     <string name="filter_color">Culoarea filtrului</string>
     <string name="always_use">Folosiți întotdeauna</string>
+    <string name="only_use_secret">Folosit numai în modul incognito</string>
     <string name="only_night">Folosit numai în modul de noapte</string>
     <string name="night_mode">Mod de noapte</string>
     <string name="day_mode">Mod zi</string>

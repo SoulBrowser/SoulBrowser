@@ -315,7 +315,6 @@
     <string name="no_permission">Không cho phép</string>
     <string name="ads_block">Chặn Ad</string>
     <string name="ads_block_info">Ít nhất một bộ lọc phải hoạt động để chặn quảng cáo.</string>
-    <string name="do_not_trank">Không theo dõi</string>
     <string name="filtered_image">Hình ảnh được lọc (%d)</string>
     <string name="update">Cập nhật</string>
     <string name="update_fail">Cập nhật không thành công.</string>
@@ -767,6 +766,7 @@
     <string name="screen_filter">Lọc màn hình</string>
     <string name="filter_color">Màu bộ lọc</string>
     <string name="always_use">Luôn luôn sử dụng</string>
+    <string name="only_use_secret">Chỉ được sử dụng ở chế độ ẩn danh</string>
     <string name="only_night">Chỉ sử dụng ở chế độ ban đêm</string>
     <string name="night_mode">Chế độ ban đêm</string>
     <string name="day_mode">Chế độ ngày</string>

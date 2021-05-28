@@ -315,7 +315,6 @@
     <string name="no_permission">Nessun permesso</string>
     <string name="ads_block">Blocco Ad</string>
     <string name="ads_block_info">Almeno un filtro deve essere attivo per bloccare gli annunci.</string>
-    <string name="do_not_trank">Non tracciare</string>
     <string name="filtered_image">Immagine filtrata (%d)</string>
     <string name="update">Aggiornare</string>
     <string name="update_fail">Aggiornamento fallito.</string>
@@ -767,6 +766,7 @@
     <string name="screen_filter">Filtro a schermo</string>
     <string name="filter_color">Colore del filtro</string>
     <string name="always_use">Usa sempre</string>
+    <string name="only_use_secret">Utilizzato solo in modalità di navigazione in incognito</string>
     <string name="only_night">Utilizzato solo in modalità notturna</string>
     <string name="night_mode">Modalità notturna</string>
     <string name="day_mode">Modalità giorno</string>

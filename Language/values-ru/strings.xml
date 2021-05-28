@@ -315,7 +315,6 @@
     <string name="no_permission">Нет разрешения</string>
     <string name="ads_block">Блокировщик рекламы</string>
     <string name="ads_block_info">Для блокировки рекламы должен быть активен хотя бы один фильтр.</string>
-    <string name="do_not_trank">Не отслеживать</string>
     <string name="filtered_image">Фильтруемое изображение (%d)</string>
     <string name="update">Обновить</string>
     <string name="update_fail">Не удалось выполнить обновление.</string>
@@ -767,6 +766,7 @@
     <string name="screen_filter">Экранный фильтр</string>
     <string name="filter_color">Цвет фильтра</string>
     <string name="always_use">Всегда используйте</string>
+    <string name="only_use_secret">Используется только в режиме инкогнито</string>
     <string name="only_night">Используется только в ночном режиме</string>
     <string name="night_mode">Ночной режим</string>
     <string name="day_mode">Дневной режим</string>

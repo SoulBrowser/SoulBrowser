@@ -315,7 +315,6 @@
     <string name="no_permission">沒有權限</string>
     <string name="ads_block">廣告攔截</string>
     <string name="ads_block_info">必須至少啟用一個過濾器才能屏蔽廣告</string>
-    <string name="do_not_trank">不跟踪</string>
     <string name="filtered_image">過濾的圖片（%d）</string>
     <string name="update">更新</string>
     <string name="update_fail">更新失敗</string>
@@ -767,6 +766,7 @@
     <string name="screen_filter">螢幕過濾器</string>
     <string name="filter_color">濾色</string>
     <string name="always_use">一律使用</string>
+    <string name="only_use_secret">僅在隱身模式下使用</string>
     <string name="only_night">僅在夜間模式下使用</string>
     <string name="night_mode">夜間模式</string>
     <string name="day_mode">日間模式</string>
