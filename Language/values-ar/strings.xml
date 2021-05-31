@@ -375,6 +375,7 @@
     <string name="clean_mode">الوضع النظيف</string>
     <string name="site">موقع</string>
     <string name="storage">تخزين</string>
+    <string name="system_name">النظام</string>
     <string name="gesture">إيماءة</string>
     <string name="show_status">أظهر شريط الحالة</string>
     <string name="show_navi">عرض الأزرار</string>
@@ -527,7 +528,6 @@
     <string name="customize">التخصيص</string>
     <string name="font">الخط</string>
     <string name="font_default">الخط الافتراضي</string>
-    <string name="font_select">اختيار TTF</string>
     <string name="font_info_1">يمكنك تغيير خط صفحة الويب باستخدام ملف TTF في وحدة التخزين الداخلية أو بطاقة SD.</string>
     <string name="font_info_2">قد لا يتم تطبيق الخطوط المثبتة بواسطة تطبيقات أخرى.</string>
     <string name="font_info_3">قم بإنشاء مجلد عشوائي ووضع ملف TTF الذي تريد استخدامه مباشرة.</string>

@@ -375,6 +375,7 @@
     <string name="clean_mode">클린 모드</string>
     <string name="site">사이트</string>
     <string name="storage">저장소</string>
+    <string name="system_name">시스템</string>
     <string name="gesture">제스처</string>
     <string name="show_status">상태표시줄 표시</string>
     <string name="show_navi">소프트키 표시</string>
@@ -527,7 +528,6 @@
     <string name="customize">커스터마이징</string>
     <string name="font">폰트</string>
     <string name="font_default">기본 폰트</string>
-    <string name="font_select">TTF 선택</string>
     <string name="font_info_1">내부 저장소나 SD 카드에 있는 TTF 파일로 웹페이지의 폰트를 변경할 수 있습니다.</string>
     <string name="font_info_2">다른 앱에서 설치한 폰트는 적용되지 않을 수 있습니다.</string>
     <string name="font_info_3">임의의 폴더를 생성하고, 사용하려는 TTF 파일을 직접 넣으십시오.</string>

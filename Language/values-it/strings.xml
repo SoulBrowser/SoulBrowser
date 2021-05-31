@@ -375,6 +375,7 @@
     <string name="clean_mode">Modalità pulita</string>
     <string name="site">Siti</string>
     <string name="storage">Deposito</string>
+    <string name="system_name">Sistema</string>
     <string name="gesture">Mimica</string>
     <string name="show_status">Mostra barra stato</string>
     <string name="show_navi">Mostra tasto funzione</string>
@@ -527,7 +528,6 @@
     <string name="customize">Personalizzazione</string>
     <string name="font">Caratteri</string>
     <string name="font_default">Carattere predefinito</string>
-    <string name="font_select">Scegli TTF</string>
     <string name="font_info_1">È possibile modificare il carattere delle pagine Web con i file TTF nella memoria interna o nella scheda SD.</string>
     <string name="font_info_2">I caratteri installati da altre app potrebbero non essere applicabili.</string>
     <string name="font_info_3">Crea una cartella casuale e inserisci il file TTF che desideri utilizzare direttamente.</string>

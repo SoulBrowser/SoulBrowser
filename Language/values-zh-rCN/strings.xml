@@ -375,6 +375,7 @@
     <string name="clean_mode">纯净模式</string>
     <string name="site">网站</string>
     <string name="storage">存储</string>
+    <string name="system_name">系统</string>
     <string name="gesture">手势</string>
     <string name="show_status">显示通知栏</string>
     <string name="show_navi">显示虚拟按键</string>
@@ -527,7 +528,6 @@
     <string name="customize">个性化</string>
     <string name="font">字体</string>
     <string name="font_default">默认字体</string>
-    <string name="font_select">选择 TTF 字体文件</string>
     <string name="font_info_1">你可以使用内部存储器或闪存卡中的 TTF 字体文件更改网页的字体</string>
     <string name="font_info_2">其它应用安装的字体可能不适用</string>
     <string name="font_info_3">创建一个文件夹，然后直接放置要使用的 TTF 字体文件</string>

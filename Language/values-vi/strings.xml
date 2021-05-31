@@ -375,6 +375,7 @@
     <string name="clean_mode">Chế độ sạch</string>
     <string name="site">Trang web</string>
     <string name="storage">Cửa hàng</string>
+    <string name="system_name">Hệ thống</string>
     <string name="gesture">Cử chỉ</string>
     <string name="show_status">Thanh trạng thái chương trình</string>
     <string name="show_navi">Hiển thị phím mềm</string>
@@ -527,7 +528,6 @@
     <string name="customize">Tùy chỉnh</string>
     <string name="font">Phông chữ</string>
     <string name="font_default">Phông chữ mặc định</string>
-    <string name="font_select">Chọn TTF</string>
     <string name="font_info_1">Bạn có thể thay đổi phông chữ của các trang web với các tệp TTF trong bộ nhớ trong hoặc thẻ SD.</string>
     <string name="font_info_2">Phông chữ được cài đặt bởi các ứng dụng khác có thể không áp dụng.</string>
     <string name="font_info_3">Tạo một thư mục ngẫu nhiên và đặt tệp TTF bạn muốn sử dụng trực tiếp.</string>

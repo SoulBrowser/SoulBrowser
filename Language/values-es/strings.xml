@@ -375,6 +375,7 @@
     <string name="clean_mode">Modo limpieza</string>
     <string name="site">Sitio</string>
     <string name="storage">Almacenamiento</string>
+    <string name="system_name">Sistema</string>
     <string name="gesture">Gesto</string>
     <string name="show_status">Mostrar barra estado</string>
     <string name="show_navi">Mostrar tecla programable</string>
@@ -527,7 +528,6 @@
     <string name="customize">Personalización</string>
     <string name="font">Fuente</string>
     <string name="font_default">Fuente predeterminada</string>
-    <string name="font_select">Elige TTF</string>
     <string name="font_info_1">Puede cambiar la fuente de las páginas web con archivos TTF en almacenamiento interno o tarjeta SD.</string>
     <string name="font_info_2">Es posible que no se apliquen las fuentes instaladas por otras aplicaciones.</string>
     <string name="font_info_3">Cree una carpeta aleatoria y coloque el archivo TTF que desea usar directamente.</string>

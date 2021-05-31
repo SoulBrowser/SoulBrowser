@@ -375,6 +375,7 @@
     <string name="clean_mode">Modul de curățare</string>
     <string name="site">Site</string>
     <string name="storage">Depozitare</string>
+    <string name="system_name">Sistem</string>
     <string name="gesture">Gest</string>
     <string name="show_status">Afișează bara de stare</string>
     <string name="show_navi">Afișează tasta soft</string>
@@ -527,7 +528,6 @@
     <string name="customize">Personalizare</string>
     <string name="font">Font</string>
     <string name="font_default">Font implicit</string>
-    <string name="font_select">Alegeți TTF</string>
     <string name="font_info_1">Puteți schimba fontul paginilor web cu fișiere TTF în stocare internă sau card SD.</string>
     <string name="font_info_2">Fonturile instalate de alte aplicații s-ar putea să nu se aplice.</string>
     <string name="font_info_3">Creați un folder aleator și puneți fișierul TTF pe care doriți să-l utilizați direct.</string>

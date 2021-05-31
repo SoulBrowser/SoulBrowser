@@ -375,6 +375,7 @@
     <string name="clean_mode">Reinigungsmodus</string>
     <string name="site">Seite</string>
     <string name="storage">Speichern</string>
+    <string name="system_name">System</string>
     <string name="gesture">Gesten</string>
     <string name="show_status">Statusleiste anzeigen</string>
     <string name="show_navi">Navigationsleiste anzeigen</string>
@@ -527,7 +528,6 @@
     <string name="customize">Anpassen</string>
     <string name="font">Schriftart</string>
     <string name="font_default">Standardschrift</string>
-    <string name="font_select">TTF wählen</string>
     <string name="font_info_1">Sie können die Schriftart von Webseiten mit TTF-Dateien im internen Speicher oder auf der SD-Karte ändern.</string>
     <string name="font_info_2">Von anderen Apps installierte Schriftarten funktionieren möglicherweise nicht.</string>
     <string name="font_info_3">Erstellen Sie einen zufälligen Ordner und legen Sie die TTF-Datei, die Sie verwenden möchten, direkt ab.</string>

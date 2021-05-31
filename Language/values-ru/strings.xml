@@ -375,6 +375,7 @@
     <string name="clean_mode">Чистый режим</string>
     <string name="site">Сайты</string>
     <string name="storage">Хранилище</string>
+    <string name="system_name">Система</string>
     <string name="gesture">Жесты</string>
     <string name="show_status">Показывать строку состояния</string>
     <string name="show_navi">Показывать панель навигации</string>
@@ -527,7 +528,6 @@
     <string name="customize">Персонализация</string>
     <string name="font">Шрифт</string>
     <string name="font_default">Шрифт по умолчанию</string>
-    <string name="font_select">Выберите TTF</string>
     <string name="font_info_1">Вы можете изменить шрифт веб страниц с TTF файлами во внутренней памяти или на SD-карте.</string>
     <string name="font_info_2">Шрифты, установленные другими приложениями, могут не применяться.</string>
     <string name="font_info_3">Создайте случайную папку и поместите файл TTF, который Вы хотите использовать напрямую.</string>

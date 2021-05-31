@@ -375,6 +375,7 @@
     <string name="clean_mode">Clean mode</string>
     <string name="site">Site</string>
     <string name="storage">Storage</string>
+    <string name="system_name">System</string>
     <string name="gesture">Gesture</string>
     <string name="show_status">Show status bar</string>
     <string name="show_navi">Show soft key</string>
@@ -527,7 +528,6 @@
     <string name="customize">Customize</string>
     <string name="font">Font</string>
     <string name="font_default">Default font</string>
-    <string name="font_select">Choose TTF</string>
     <string name="font_info_1">You can change the font of web pages with TTF files in internal storage or SD card.</string>
     <string name="font_info_2">Fonts installed by other apps may not apply.</string>
     <string name="font_info_3">Create a random folder and put the TTF file you want to use directly.</string>

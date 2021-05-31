@@ -375,6 +375,7 @@
     <string name="clean_mode">Temiz mod</string>
     <string name="site">Siteler</string>
     <string name="storage">Depo</string>
+    <string name="system_name">Sistem</string>
     <string name="gesture">Hareketleri</string>
     <string name="show_status">Durum çubuğunu göster</string>
     <string name="show_navi">Ekran tuşunu göster</string>
@@ -527,7 +528,6 @@
     <string name="customize">Özelleştirme</string>
     <string name="font">Yazı</string>
     <string name="font_default">Varsayılan yazı tipi</string>
-    <string name="font_select">TTF\'yi seçin</string>
     <string name="font_info_1">Dahili depolama veya SD karttaki TTF dosyalarıyla web sayfalarının yazı tipini değiştirebilirsiniz.</string>
     <string name="font_info_2">Diğer uygulamalar tarafından yüklenen yazı tipleri geçerli olmayabilir.</string>
     <string name="font_info_3">Rastgele bir klasör oluşturun ve doğrudan kullanmak istediğiniz TTF dosyasını yerleştirin.</string>

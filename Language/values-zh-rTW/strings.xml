@@ -375,6 +375,7 @@
     <string name="clean_mode">清潔模式</string>
     <string name="site">網站</string>
     <string name="storage">儲存空間</string>
+    <string name="system_name">系統</string>
     <string name="gesture">手勢</string>
     <string name="show_status">顯示狀態欄</string>
     <string name="show_navi">顯示虛擬鍵</string>
@@ -527,7 +528,6 @@
     <string name="customize">個人設定</string>
     <string name="font">字體</string>
     <string name="font_default">預設字體</string>
-    <string name="font_select">選擇 TTF</string>
     <string name="font_info_1">您可以使用內部存儲器或SD卡中的 TTF 文件更改網頁的字體</string>
     <string name="font_info_2">其他應用安裝的字體可能不適用</string>
     <string name="font_info_3">創建一個隨機文件夾，然後直接放置要使用的 TTF 文件</string>

@@ -375,6 +375,7 @@
     <string name="clean_mode">クリーンモード</string>
     <string name="site">サイト</string>
     <string name="storage">ストア</string>
+    <string name="system_name">システム</string>
     <string name="gesture">ジェスチャー</string>
     <string name="show_status">ステータスバーを表示</string>
     <string name="show_navi">ソフトキーを表示</string>
@@ -527,7 +528,6 @@
     <string name="customize">カスタマイズ</string>
     <string name="font">フォント</string>
     <string name="font_default">デフォルトのフォント</string>
-    <string name="font_select">TTFを選択</string>
     <string name="font_info_1">内部ストレージまたはSDカードのTTFファイルとしてWebページのフォントを変更することができます。</string>
     <string name="font_info_2">他のアプリからのインストールされたフォントは適用されないことがあります。</string>
     <string name="font_info_3">任意のフォルダを作成し、使用するTTFファイルを直接挿入します。</string>

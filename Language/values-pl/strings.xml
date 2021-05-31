@@ -375,6 +375,7 @@
     <string name="clean_mode">Tryb czyszczenia</string>
     <string name="site">Internetowa</string>
     <string name="storage">Przechowywanie</string>
+    <string name="system_name">System</string>
     <string name="gesture">Gest</string>
     <string name="show_status">Pokaż pasek stanu</string>
     <string name="show_navi">Pokaż pasek przycisków</string>
@@ -527,7 +528,6 @@
     <string name="customize">Dostosowywanie</string>
     <string name="font">Czcionka</string>
     <string name="font_default">Domyślna czcionka</string>
-    <string name="font_select">Wybierz TTF</string>
     <string name="font_info_1">Możesz zmienić czcionkę stron internetowych z plikami TTF w pamięci wewnętrznej lub na karcie SD.</string>
     <string name="font_info_2">Czcionki zainstalowane przez inne aplikacje mogą nie mieć zastosowania.</string>
     <string name="font_info_3">Utwórz losowy folder i umieść bezpośrednio plik TTF, którego chcesz użyć.</string>

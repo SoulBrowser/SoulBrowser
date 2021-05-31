@@ -375,6 +375,7 @@
     <string name="clean_mode">โหมดทำความสะอาด</string>
     <string name="site">เว็บไซต์</string>
     <string name="storage">กรุ</string>
+    <string name="system_name">ระบบ</string>
     <string name="gesture">ท่าทาง</string>
     <string name="show_status">แสดงแถบสถานะ</string>
     <string name="show_navi">แสดงปุ่มซอฟท์คีย์</string>
@@ -527,7 +528,6 @@
     <string name="customize">การปรับแต่ง</string>
     <string name="font">แบบอักษร</string>
     <string name="font_default">แบบอักษรเริ่มต้น</string>
-    <string name="font_select">เลือก TTF</string>
     <string name="font_info_1">คุณสามารถเปลี่ยนแบบอักษรของหน้าเว็บด้วยไฟล์ TTF ในที่เก็บข้อมูลภายในหรือการ์ด SD</string>
     <string name="font_info_2">แบบอักษรที่ติดตั้งโดยแอพอื่นอาจใช้ไม่ได้</string>
     <string name="font_info_3">สร้างโฟลเดอร์สุ่มและวางไฟล์ TTF ที่คุณต้องการใช้โดยตรง</string>

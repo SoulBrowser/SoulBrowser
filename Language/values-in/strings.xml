@@ -375,6 +375,7 @@
     <string name="clean_mode">Mode bersih</string>
     <string name="site">Situs</string>
     <string name="storage">Penyimpanan</string>
+    <string name="system_name">Sistem</string>
     <string name="gesture">Gesture</string>
     <string name="show_status">Tampilkan bilah status</string>
     <string name="show_navi">Tampilkan tombol lunak</string>
@@ -527,7 +528,6 @@
     <string name="customize">Menyesuaikan</string>
     <string name="font">Font</string>
     <string name="font_default">Font default</string>
-    <string name="font_select">Pilih TTF</string>
     <string name="font_info_1">Anda dapat mengubah font halaman web dengan file TTF di penyimpanan internal atau kartu SD.</string>
     <string name="font_info_2">Font yang dipasang oleh aplikasi lain mungkin tidak berlaku.</string>
     <string name="font_info_3">Buat folder acak dan letakkan file TTF yang ingin Anda gunakan secara langsung.</string>

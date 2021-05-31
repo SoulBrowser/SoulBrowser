@@ -375,6 +375,7 @@
     <string name="clean_mode">Mode propre</string>
     <string name="site">Site</string>
     <string name="storage">Emplacement</string>
+    <string name="system_name">Système</string>
     <string name="gesture">Geste</string>
     <string name="show_status">Afficher la barre d\'état</string>
     <string name="show_navi">Afficher la touche programmable</string>
@@ -527,7 +528,6 @@
     <string name="customize">Personnalisation</string>
     <string name="font">Police</string>
     <string name="font_default">Police par défaut</string>
-    <string name="font_select">Choisissez TTF</string>
     <string name="font_info_1">Vous pouvez changer la police des pages web avec des fichiers TTF dans le stockage interne ou la carte SD.</string>
     <string name="font_info_2">Les polices installées par d\'autres applications peuvent ne pas s\'appliquer.</string>
     <string name="font_info_3">Créez un dossier aléatoire et mettez directement le fichier TTF que vous souhaitez utiliser.</string>

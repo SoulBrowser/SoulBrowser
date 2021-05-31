@@ -375,6 +375,7 @@
     <string name="clean_mode">Modo de limpeza</string>
     <string name="site">Site</string>
     <string name="storage">Loja</string>
+    <string name="system_name">Sistema</string>
     <string name="gesture">Gesto</string>
     <string name="show_status">Mostrar barra status</string>
     <string name="show_navi">Mostrar tecla programável</string>
@@ -527,7 +528,6 @@
     <string name="customize">Customizando</string>
     <string name="font">Fonte</string>
     <string name="font_default">Fonte padrão</string>
-    <string name="font_select">Escolha TTF</string>
     <string name="font_info_1">Você pode alterar a fonte das páginas da web com arquivos TTF no armazenamento interno ou no cartão SD.</string>
     <string name="font_info_2">As fontes instaladas por outros aplicativos podem não se aplicar.</string>
     <string name="font_info_3">Crie uma pasta aleatória e coloque o arquivo TTF que você deseja usar diretamente.</string>
