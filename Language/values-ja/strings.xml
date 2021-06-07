@@ -465,8 +465,6 @@
     <string name="wrong_input">無効な入力</string>
     <string name="continue_input">持続する</string>
     <string name="pip_home">ホームキーPIPに切り替え</string>
-    <string name="pip_advance">PIP詳細モード</string>
-    <string name="device_warning">一部のデバイスはサポートされないことがあります。</string>
     <string name="memory_warning_1">この機能は、より多くのメモリを使用します。</string>
     <string name="memory_warning_2">メモリが小さなデバイスで使用するときは注意してください。</string>
     <string name="android_support">Android %dからサポートされます。</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">1つ以上のハードウェアセンサーでセキュリティの脆弱性が発見されたため、ユーザーは認証できません。</string>
     <string name="finger_unsupported">指定されたオプションが現在のAndroidバージョンと互換性がないため、ユーザーは認証できません。</string>
     <string name="finger_unknown">ユーザーが認証できるかどうかを判断できません。</string>
-    <string name="use_gesture">ジェスチャの使用</string>
     <string name="enable_gesture">上のジェスチャー</string>
     <string name="disable_gesture">ジェスチャーオフ</string>
     <string name="gesture_enabled">ジェスチャーが有効になります。</string>

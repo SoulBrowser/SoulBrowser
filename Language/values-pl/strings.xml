@@ -465,8 +465,6 @@
     <string name="wrong_input">Błędne wejście</string>
     <string name="continue_input">Kontynuuj</string>
     <string name="pip_home">Przełącz się na PIP za pomocą klawisza głównego</string>
-    <string name="pip_advance">Tryb zaawansowany PIP</string>
-    <string name="device_warning">Niektóre urządzenia mogą nie być obsługiwane.</string>
     <string name="memory_warning_1">Ta funkcja zużywa więcej pamięci.</string>
     <string name="memory_warning_2">Zachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
     <string name="android_support">Obsługiwane od Android %d.</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">Użytkownik nie może się uwierzytelnić, ponieważ wykryto lukę w zabezpieczeniach co najmniej jednego czujnika sprzętowego.</string>
     <string name="finger_unsupported">Użytkownik nie może się uwierzytelnić, ponieważ określone opcje są niezgodne z bieżącą wersją Androida.</string>
     <string name="finger_unknown">Nie można określić, czy użytkownik może się uwierzytelnić.</string>
-    <string name="use_gesture">Używaj gestów</string>
     <string name="enable_gesture">Gesty włączone</string>
     <string name="disable_gesture">Gesty wyłączone</string>
     <string name="gesture_enabled">Gesty są włączone.</string>

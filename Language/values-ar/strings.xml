@@ -465,8 +465,6 @@
     <string name="wrong_input">إدخال خاطئ</string>
     <string name="continue_input">استمر</string>
     <string name="pip_home">قم بالتبديل إلى PIP باستخدام مفتاح الصفحة الرئيسية</string>
-    <string name="pip_advance">الوضع المتقدم PIP</string>
-    <string name="device_warning">قد لا تكون بعض الأجهزة مدعومة.</string>
     <string name="memory_warning_1">تستخدم هذه الميزة المزيد من الذاكرة.</string>
     <string name="memory_warning_2">كن حذرًا عند استخدامه على الأجهزة ذات الذاكرة الصغيرة.</string>
     <string name="android_support">مدعوم من Android %d.</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">لا يمكن للمستخدم المصادقة لأنه تم العثور على ثغرة أمنية في واحد أو أكثر من أجهزة استشعار الأجهزة.</string>
     <string name="finger_unsupported">لا يمكن للمستخدم المصادقة لأن الخيار المحدد غير متوافق مع إصدار Android الحالي.</string>
     <string name="finger_unknown">لا يمكن تحديد ما إذا كان يمكن للمستخدم المصادقة.</string>
-    <string name="use_gesture">استخدم الإيماءات</string>
     <string name="enable_gesture">تم تشغيل الإيماءة</string>
     <string name="disable_gesture">بادرة قبالة</string>
     <string name="gesture_enabled">تم تفعيل الإيماءات.</string>

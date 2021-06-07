@@ -465,8 +465,6 @@
     <string name="wrong_input">Неправильне введення</string>
     <string name="continue_input">Продовжуйте</string>
     <string name="pip_home">Переключіться на PIP за допомогою клавіші додому</string>
-    <string name="pip_advance">Розширений режим PIP</string>
-    <string name="device_warning">Деякі пристрої можуть не підтримуватися.</string>
     <string name="memory_warning_1">Ця функція використовує більше пам\'яті.</string>
     <string name="memory_warning_2">Будьте обережні при використанні на пристроях з малою пам\'яттю.</string>
     <string name="android_support">Підтримується з Android %d.</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">Користувач не може пройти автентифікацію, оскільки виявлено вразливість системи безпеки за допомогою одного або декількох апаратних датчиків.</string>
     <string name="finger_unsupported">Користувач не може автентифікуватися, оскільки вказані параметри несумісні з поточною версією Android.</string>
     <string name="finger_unknown">Неможливо визначити, чи може користувач пройти автентифікацію.</string>
-    <string name="use_gesture">Використовуйте жести</string>
     <string name="enable_gesture">Жести на</string>
     <string name="disable_gesture">Жести вимкнено</string>
     <string name="gesture_enabled">Жести ввімкнено.</string>

@@ -465,8 +465,6 @@
     <string name="wrong_input">Input tidak valid</string>
     <string name="continue_input">Terus</string>
     <string name="pip_home">Beralih ke PIP dengan kunci rumah</string>
-    <string name="pip_advance">Mode lanjutan PIP</string>
-    <string name="device_warning">Một số thiết bị có thể không được hỗ trợ.</string>
     <string name="memory_warning_1">Fitur ini menggunakan lebih banyak memori.</string>
     <string name="memory_warning_2">Cẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
     <string name="android_support">Didukung sejak Android %d.</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">Pengguna tidak dapat mengautentikasi karena kerentanan keamanan telah ditemukan dengan satu atau beberapa sensor perangkat keras.</string>
     <string name="finger_unsupported">Pengguna tidak dapat mengautentikasi karena opsi yang ditentukan tidak kompatibel dengan versi Android saat ini.</string>
     <string name="finger_unknown">Tidak dapat menentukan apakah pengguna dapat mengautentikasi.</string>
-    <string name="use_gesture">Gunakan gerakan</string>
     <string name="enable_gesture">Gestur aktif</string>
     <string name="disable_gesture">Gestur mati</string>
     <string name="gesture_enabled">Gestur diaktifkan.</string>

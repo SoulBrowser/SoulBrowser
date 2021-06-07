@@ -465,8 +465,6 @@
     <string name="wrong_input">输入无效</string>
     <string name="continue_input">继续</string>
     <string name="pip_home">使用主页键切换到 PIP</string>
-    <string name="pip_advance">画中画高级模式</string>
-    <string name="device_warning">某些设备可能不支持</string>
     <string name="memory_warning_1">此功能使用更多的内存</string>
     <string name="memory_warning_2">内存小的同学谨慎使用</string>
     <string name="android_support">自 Android %d 开始受支持</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">用户无法进行身份验证，因为已通过一个或多个硬件传感器发现了安全漏洞</string>
     <string name="finger_unsupported">由于指定的选项与当前的Android版本不兼容，因此用户无法进行身份验证</string>
     <string name="finger_unknown">无法确定用户是否可以认证</string>
-    <string name="use_gesture">使用手势</string>
     <string name="enable_gesture">手势</string>
     <string name="disable_gesture">手势关闭</string>
     <string name="gesture_enabled">手势已启用</string>

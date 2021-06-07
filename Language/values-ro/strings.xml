@@ -465,8 +465,6 @@
     <string name="wrong_input">Intrare greșită</string>
     <string name="continue_input">Continuă</string>
     <string name="pip_home">Treceți la PIP cu tasta de pornire</string>
-    <string name="pip_advance">Mod avansat PIP</string>
-    <string name="device_warning">Este posibil ca unele dispozitive să nu fie acceptate.</string>
     <string name="memory_warning_1">Această caracteristică folosește mai multă memorie.</string>
     <string name="memory_warning_2">Aveți grijă când utilizați pe dispozitive cu memorie mică.</string>
     <string name="android_support">Suportat de la Android %d.</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">Utilizatorul nu se poate autentifica deoarece a fost descoperită o vulnerabilitate de securitate cu unul sau mai mulți senzori hardware.</string>
     <string name="finger_unsupported">Utilizatorul nu se poate autentifica deoarece opțiunile specificate sunt incompatibile cu versiunea curentă de Android.</string>
     <string name="finger_unknown">Nu se poate stabili dacă utilizatorul se poate autentifica.</string>
-    <string name="use_gesture">Folosiți gesturi</string>
     <string name="enable_gesture">Gesturi aprinse</string>
     <string name="disable_gesture">Gesturi oprite</string>
     <string name="gesture_enabled">Gesturile sunt activate.</string>

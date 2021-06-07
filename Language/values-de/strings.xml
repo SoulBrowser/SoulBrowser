@@ -465,8 +465,6 @@
     <string name="wrong_input">Ungültige Eingabe</string>
     <string name="continue_input">Fortsetzen</string>
     <string name="pip_home">Wechseln Sie mit dem Home-Schlüssel zu PIP</string>
-    <string name="pip_advance">PIP erweiterter Modus</string>
-    <string name="device_warning">Einige Geräte werden möglicherweise nicht unterstützt.</string>
     <string name="memory_warning_1">Diese Funktion benötigt mehr Speicher.</string>
     <string name="memory_warning_2">Seien sie vorsichtig, wenn sie Geräte mit kleinem Speicher verwenden.</string>
     <string name="android_support">Unterstützt seit Android %d.</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">Der Benutzer kann sich nicht authentifizieren, da mit einem oder mehreren Hardwaresensoren eine Sicherheitslücke entdeckt wurde.</string>
     <string name="finger_unsupported">Der Benutzer kann sich nicht authentifizieren, da die angegebenen Optionen nicht mit der aktuellen Android-Version kompatibel sind.</string>
     <string name="finger_unknown">Es kann nicht festgestellt werden, ob sich der Benutzer authentifizieren kann.</string>
-    <string name="use_gesture">Verwenden Sie Gesten</string>
     <string name="enable_gesture">Gesten weiter</string>
     <string name="disable_gesture">Gesten aus</string>
     <string name="gesture_enabled">Gesten sind aktiviert.</string>

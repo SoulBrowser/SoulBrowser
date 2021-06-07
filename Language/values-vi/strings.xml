@@ -465,8 +465,6 @@
     <string name="wrong_input">Đầu vào không hợp lệ</string>
     <string name="continue_input">Tiếp tục</string>
     <string name="pip_home">Chuyển sang PIP bằng phím home</string>
-    <string name="pip_advance">Chế độ nâng cao PIP</string>
-    <string name="device_warning">Một số thiết bị có thể không được hỗ trợ.</string>
     <string name="memory_warning_1">Tính năng này sử dụng nhiều bộ nhớ hơn.</string>
     <string name="memory_warning_2">Cẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
     <string name="android_support">Được hỗ trợ kể từ Android %d.</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">Người dùng không thể xác thực vì lỗ hổng bảo mật đã được phát hiện với một hoặc nhiều cảm biến phần cứng.</string>
     <string name="finger_unsupported">Người dùng không thể xác thực vì các tùy chọn được chỉ định không tương thích với phiên bản Android hiện tại.</string>
     <string name="finger_unknown">Không thể xác định xem người dùng có thể xác thực hay không.</string>
-    <string name="use_gesture">Sử dụng cử chỉ</string>
     <string name="enable_gesture">Cử chỉ trên</string>
     <string name="disable_gesture">Cử chỉ tắt</string>
     <string name="gesture_enabled">Cử chỉ được kích hoạt.</string>

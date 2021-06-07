@@ -465,8 +465,6 @@
     <string name="wrong_input">อินพุตไม่ถูกต้อง</string>
     <string name="continue_input">ต่อ</string>
     <string name="pip_home">เปลี่ยนเป็น PIP ด้วยปุ่มโฮม</string>
-    <string name="pip_advance">PIP โหมดขั้นสูง</string>
-    <string name="device_warning">อุปกรณ์บางอย่างอาจไม่รองรับ</string>
     <string name="memory_warning_1">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น</string>
     <string name="memory_warning_2">ระวังเมื่อใช้กับอุปกรณ์ที่มีหน่วยความจำขนาดเล็ก</string>
     <string name="android_support">รองรับตั้งแต่ Android %d</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากมีการค้นพบช่องโหว่ด้านความปลอดภัยด้วยเซ็นเซอร์ฮาร์ดแวร์อย่างน้อยหนึ่งตัว</string>
     <string name="finger_unsupported">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากตัวเลือกที่ระบุไม่เข้ากันกับ Android เวอร์ชันปัจจุบัน</string>
     <string name="finger_unknown">ไม่สามารถระบุได้ว่าผู้ใช้สามารถตรวจสอบสิทธิ์ได้หรือไม่</string>
-    <string name="use_gesture">ใช้ท่าทาง</string>
     <string name="enable_gesture">ท่าทางสัมผัส</string>
     <string name="disable_gesture">ท่าทางสัมผัสปิด</string>
     <string name="gesture_enabled">เปิดใช้ท่าทางสัมผัสแล้ว</string>

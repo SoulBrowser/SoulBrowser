@@ -465,8 +465,6 @@
     <string name="wrong_input">Geçersiz giriş</string>
     <string name="continue_input">Devam et</string>
     <string name="pip_home">Ev tuşuyla PIP\'ye geç</string>
-    <string name="pip_advance">PIP gelişmiş modu</string>
-    <string name="device_warning">Bazı cihazlar desteklenmeyebilir.</string>
     <string name="memory_warning_1">Bu özellik daha fazla bellek kullanır.</string>
     <string name="memory_warning_2">Küçük belleğe sahip cihazlarda kullanırken dikkatli olun.</string>
     <string name="android_support">Android %d\'dan beri desteklenmektedir.</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">Bir veya daha fazla donanım algılayıcısı ile bir güvenlik açığı keşfedildiği için kullanıcı kimlik doğrulayamaz.</string>
     <string name="finger_unsupported">Belirtilen seçenekler mevcut Android sürümüyle uyumlu olmadığından kullanıcı kimlik doğrulaması yapamaz.</string>
     <string name="finger_unknown">Kullanıcının kimlik doğrulaması yapıp yapamayacağı belirlenemiyor.</string>
-    <string name="use_gesture">Hareketleri kullanın</string>
     <string name="enable_gesture">Hareketler açık</string>
     <string name="disable_gesture">Hareketler kapalı</string>
     <string name="gesture_enabled">Hareketler etkinleştirildi.</string>

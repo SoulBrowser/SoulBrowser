@@ -465,8 +465,6 @@
     <string name="wrong_input">Input non valido</string>
     <string name="continue_input">Continua</string>
     <string name="pip_home">Passa a PIP con il tasto Home</string>
-    <string name="pip_advance">Modalità avanzata PIP</string>
-    <string name="device_warning">Alcuni dispositivi potrebbero non essere supportati.</string>
     <string name="memory_warning_1">Questa funzione utilizza più memoria.</string>
     <string name="memory_warning_2">Fare attenzione quando si utilizza su dispositivi con poca memoria.</string>
     <string name="android_support">Supportato da Android %d.</string>
@@ -809,7 +807,6 @@
     <string name="finger_security">L\'utente non può autenticarsi perché è stata scoperta una vulnerabilità di sicurezza con uno o più sensori hardware.</string>
     <string name="finger_unsupported">L\'utente non può autenticarsi perché le opzioni specificate non sono compatibili con la versione corrente di Android.</string>
     <string name="finger_unknown">Impossibile determinare se l\'utente può autenticarsi.</string>
-    <string name="use_gesture">Usa i gesti</string>
     <string name="enable_gesture">Gesti attivi</string>
     <string name="disable_gesture">Gesti disattivati</string>
     <string name="gesture_enabled">I gesti sono abilitati.</string>
