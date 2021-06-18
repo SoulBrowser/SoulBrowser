@@ -833,4 +833,21 @@
     <string name="debug_mode">การแก้ไขข้อบกพร่องของเว็บ</string>
     <string name="debug_mode_info">คุณสามารถแก้ไขข้อบกพร่องด้วย USB</string>
     <string name="default_browser">ตั้งเป็นเบราว์เซอร์เริ่มต้น</string>
+    <string name="news_title">ข่าว</string>
+    <string name="news_loading">กำลังโหลดข่าว&#8230;</string>
+    <string name="news_show">แสดงข่าว</string>
+    <string name="news_info_1">แหล่งข่าว</string>
+    <string name="news_info_2">Google News</string>
+    <string name="news_locale">ภาษาและภูมิภาค</string>
+    <string name="news_topic_headline">พาดหัวข่าว</string>
+    <string name="news_topic_world">โลก</string>
+    <string name="news_topic_nation">ข่าวท้องถิ่น</string>
+    <string name="news_topic_business">ธุรกิจ</string>
+    <string name="news_topic_tech">เทคโนโลยี</string>
+    <string name="news_topic_enter">ความบันเทิง</string>
+    <string name="news_topic_sports">กีฬา</string>
+    <string name="news_topic_science">วิทยาศาสตร์</string>
+    <string name="news_topic_health">สุขภาพ</string>
+    <string name="search_icon">ปุ่มค้นหา</string>
+    <string name="no_news">ไม่พบข่าว</string>
 </resources>

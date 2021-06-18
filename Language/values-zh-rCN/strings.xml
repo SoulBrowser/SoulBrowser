@@ -833,4 +833,21 @@
     <string name="debug_mode">网页调试</string>
     <string name="debug_mode_info">您可以使用 USB 进行调试</string>
     <string name="default_browser">设置为默认浏览器</string>
+    <string name="news_title">新闻</string>
+    <string name="news_loading">新闻加载&#8230;</string>
+    <string name="news_show">显示新闻</string>
+    <string name="news_info_1">新闻来源</string>
+    <string name="news_info_2">Google 新闻</string>
+    <string name="news_locale">语言和地区</string>
+    <string name="news_topic_headline">标题</string>
+    <string name="news_topic_world">世界</string>
+    <string name="news_topic_nation">本地新闻</string>
+    <string name="news_topic_business">商业</string>
+    <string name="news_topic_tech">技术</string>
+    <string name="news_topic_enter">娱乐</string>
+    <string name="news_topic_sports">运动的</string>
+    <string name="news_topic_science">科学</string>
+    <string name="news_topic_health">健康</string>
+    <string name="search_icon">搜索按钮</string>
+    <string name="no_news">没有找到任何消息</string>
 </resources>

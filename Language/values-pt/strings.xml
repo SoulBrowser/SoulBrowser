@@ -833,4 +833,21 @@
     <string name="debug_mode">Depuração da web</string>
     <string name="debug_mode_info">Você pode depurar com USB.</string>
     <string name="default_browser">Defina como navegador padrão</string>
+    <string name="news_title">Notícias</string>
+    <string name="news_loading">Carregando notícias&#8230;</string>
+    <string name="news_show">Mostrar notícias</string>
+    <string name="news_info_1">Fonte de notícias</string>
+    <string name="news_info_2">Notícias do Google</string>
+    <string name="news_locale">Idioma e região</string>
+    <string name="news_topic_headline">Título</string>
+    <string name="news_topic_world">Mundo</string>
+    <string name="news_topic_nation">Notícias locais</string>
+    <string name="news_topic_business">O negócio</string>
+    <string name="news_topic_tech">Tecnologia</string>
+    <string name="news_topic_enter">Entretenimento</string>
+    <string name="news_topic_sports">Esportes</string>
+    <string name="news_topic_science">Ciência</string>
+    <string name="news_topic_health">Saúde</string>
+    <string name="search_icon">Botão de busca</string>
+    <string name="no_news">Nenhuma notícia foi encontrada.</string>
 </resources>

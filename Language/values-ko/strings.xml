@@ -833,4 +833,21 @@
     <string name="debug_mode">웹 디버깅</string>
     <string name="debug_mode_info">USB로 디버깅할 수 있습니다.</string>
     <string name="default_browser">기본 브라우저로 설정</string>
+    <string name="news_title">뉴스</string>
+    <string name="news_loading">뉴스 로딩 중&#8230;</string>
+    <string name="news_show">뉴스 보기</string>
+    <string name="news_info_1">뉴스 출처</string>
+    <string name="news_info_2">Google 뉴스</string>
+    <string name="news_locale">언어 및 지역</string>
+    <string name="news_topic_headline">헤드라인</string>
+    <string name="news_topic_world">세계</string>
+    <string name="news_topic_nation">지역 뉴스</string>
+    <string name="news_topic_business">사업</string>
+    <string name="news_topic_tech">기술</string>
+    <string name="news_topic_enter">엔터테인먼트</string>
+    <string name="news_topic_sports">스포츠</string>
+    <string name="news_topic_science">과학</string>
+    <string name="news_topic_health">건강</string>
+    <string name="search_icon">검색 버튼</string>
+    <string name="no_news">검색된 뉴스가 없습니다.</string>
 </resources>

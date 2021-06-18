@@ -833,4 +833,21 @@
     <string name="debug_mode">Веб-отладка</string>
     <string name="debug_mode_info">Вы можете отлаживать USB.</string>
     <string name="default_browser">Установить как браузер по умолчанию</string>
+    <string name="news_title">Новости</string>
+    <string name="news_loading">Загрузка новостей&#8230;</string>
+    <string name="news_show">Показать новости</string>
+    <string name="news_info_1">Источник новостей</string>
+    <string name="news_info_2">Новости Google</string>
+    <string name="news_locale">Язык и регион</string>
+    <string name="news_topic_headline">Заголовок</string>
+    <string name="news_topic_world">Мир</string>
+    <string name="news_topic_nation">Местные новости</string>
+    <string name="news_topic_business">Бизнес</string>
+    <string name="news_topic_tech">Технология</string>
+    <string name="news_topic_enter">Развлекательная программа</string>
+    <string name="news_topic_sports">Виды спорта</string>
+    <string name="news_topic_science">Наука</string>
+    <string name="news_topic_health">Здоровье</string>
+    <string name="search_icon">Кнопка поиска</string>
+    <string name="no_news">Новостей не найдено.</string>
 </resources>

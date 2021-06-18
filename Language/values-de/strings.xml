@@ -833,4 +833,21 @@
     <string name="debug_mode">Web-Debugging</string>
     <string name="debug_mode_info">Sie können mit USB debuggen.</string>
     <string name="default_browser">Als Standardbrowser setzen</string>
+    <string name="news_title">Nachrichten</string>
+    <string name="news_loading">Nachrichten laden&#8230;</string>
+    <string name="news_show">Nachrichten anzeigen</string>
+    <string name="news_info_1">Nachrichtenquelle</string>
+    <string name="news_info_2">Google Nachrichten</string>
+    <string name="news_locale">Sprache und Region</string>
+    <string name="news_topic_headline">Überschrift</string>
+    <string name="news_topic_world">Welt</string>
+    <string name="news_topic_nation">Lokalnachrichten</string>
+    <string name="news_topic_business">Unternehmen</string>
+    <string name="news_topic_tech">Technologie</string>
+    <string name="news_topic_enter">Unterhaltung</string>
+    <string name="news_topic_sports">Sport</string>
+    <string name="news_topic_science">Wissenschaft</string>
+    <string name="news_topic_health">Gesundheit</string>
+    <string name="search_icon">Suchschaltfläche</string>
+    <string name="no_news">Es wurden keine Nachrichten gefunden.</string>
 </resources>

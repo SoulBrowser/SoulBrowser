@@ -2,10 +2,10 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Premendo il pulsante Iniziato, accetti Soul Browser Termini di servizio e Informativa sulla privacy.</string>
+    <string name="notice">Premendo il pulsante Iniziare, accetti Soul Browser Termini di servizio e Informativa sulla privacy.</string>
     <string name="tos">Termini di servizio</string>
     <string name="privacy">Informativa sulla privacy</string>
-    <string name="start">Iniziato</string>
+    <string name="start">Iniziare</string>
     <string name="info">Informazione</string>
     <string name="app_ver">Versione dell\'app</string>
     <string name="license">Licenze open source</string>
@@ -105,7 +105,7 @@
     <string name="app_block_noti">Il sito sta tentando di eseguire un\'altra app.</string>
     <string name="open_app">App</string>
     <string name="link">Collegamento</string>
-    <string name="open_url">Aperto</string>
+    <string name="open_url">Apri</string>
     <string name="new_url">Nuova scheda</string>
     <string name="back_url">Sfondo scheda</string>
     <string name="copy_url">Copia URL</string>
@@ -135,9 +135,9 @@
     <string name="save">Salva</string>
     <string name="cancel">Annulla</string>
     <string name="undelete">Annulla eliminazione</string>
-    <string name="close">Vicino</string>
+    <string name="close">Chiudi</string>
     <string name="app_exit">Esci app</string>
-    <string name="open">Aperto</string>
+    <string name="open">Apri</string>
     <string name="image_fail">Impossibile caricare immagine</string>
     <string name="time_h">o</string>
     <string name="time_m">m</string>
@@ -156,7 +156,7 @@
     <string name="show_detail">Mostra informazioni dettagliate</string>
     <string name="show_single">Titolo della linea singola</string>
     <string name="show_recent">Segna il file recente</string>
-    <string name="open_as">Aperto come</string>
+    <string name="open_as">Apri come</string>
     <string name="open_continue">Apri nella posizione precedente</string>
     <string name="pull_refresh">Tirare aggiornare</string>
     <string name="refresh">Ricaricare</string>
@@ -776,7 +776,7 @@
     <string name="save_data">Salvataggio dei dati</string>
     <string name="level_strong">Forte</string>
     <string name="level_weak">Debole</string>
-    <string name="open_limit">Limite aperto</string>
+    <string name="open_limit">Limite apri</string>
     <string name="open_limit_info">Quando il limite viene superato, il primo elemento viene automaticamente eliminato.</string>
     <string name="down_manager">Download manager</string>
     <string name="down_manager_info1">Puoi utilizzare la tua app di download preferita come gestore di download.</string>
@@ -833,4 +833,21 @@
     <string name="debug_mode">Debug web</string>
     <string name="debug_mode_info">Puoi eseguire il debug con USB.</string>
     <string name="default_browser">Imposta come browser predefinito</string>
+    <string name="news_title">Notizia</string>
+    <string name="news_loading">Caricamento delle notizie&#8230;</string>
+    <string name="news_show">Mostra notizie</string>
+    <string name="news_info_1">Fonte di notizie</string>
+    <string name="news_info_2">Google News</string>
+    <string name="news_locale">Lingua e regione</string>
+    <string name="news_topic_headline">Titolo</string>
+    <string name="news_topic_world">Mondo</string>
+    <string name="news_topic_nation">Notizie locali</string>
+    <string name="news_topic_business">Attività commerciale</string>
+    <string name="news_topic_tech">Tecnologia</string>
+    <string name="news_topic_enter">Divertimento</string>
+    <string name="news_topic_sports">Gli sport</string>
+    <string name="news_topic_science">Scienza</string>
+    <string name="news_topic_health">Salute</string>
+    <string name="search_icon">Pulsante di ricerca</string>
+    <string name="no_news">Nessuna notizia è stata trovata.</string>
 </resources>

@@ -833,4 +833,21 @@
     <string name="debug_mode">Веб-налагодження</string>
     <string name="debug_mode_info">Ви можете налагодити за допомогою USB.</string>
     <string name="default_browser">Встановити як браузер за замовчуванням</string>
+    <string name="news_title">Новини</string>
+    <string name="news_loading">Завантаження новин&#8230;</string>
+    <string name="news_show">Показати новини</string>
+    <string name="news_info_1">Джерело новин</string>
+    <string name="news_info_2">Новини Google</string>
+    <string name="news_locale">Мова та регіон</string>
+    <string name="news_topic_headline">Заголовок</string>
+    <string name="news_topic_world">Світ</string>
+    <string name="news_topic_nation">Місцеві новини</string>
+    <string name="news_topic_business">Бізнес</string>
+    <string name="news_topic_tech">Технологія</string>
+    <string name="news_topic_enter">Розваги</string>
+    <string name="news_topic_sports">Спорт</string>
+    <string name="news_topic_science">Наука</string>
+    <string name="news_topic_health">Здоров\'я</string>
+    <string name="search_icon">Кнопка пошуку</string>
+    <string name="no_news">Новин не знайдено.</string>
 </resources>

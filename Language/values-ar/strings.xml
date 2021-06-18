@@ -833,4 +833,21 @@
     <string name="debug_mode">تصحيح أخطاء الويب</string>
     <string name="debug_mode_info">يمكنك التصحيح باستخدام USB.</string>
     <string name="default_browser">على النحو المستعرض الافتراضي</string>
+    <string name="news_title">أخبار</string>
+    <string name="news_loading">تحميل الأخبار&#8230;</string>
+    <string name="news_show">عرض الأخبار</string>
+    <string name="news_info_1">مصدر الأخبار</string>
+    <string name="news_info_2">أخبار جوجل</string>
+    <string name="news_locale">اللغة والمنطقة</string>
+    <string name="news_topic_headline">العنوان</string>
+    <string name="news_topic_world">عالم</string>
+    <string name="news_topic_nation">اخبار محلية</string>
+    <string name="news_topic_business">اعمال</string>
+    <string name="news_topic_tech">تقنية</string>
+    <string name="news_topic_enter">وسائل الترفيه</string>
+    <string name="news_topic_sports">رياضات</string>
+    <string name="news_topic_science">علم</string>
+    <string name="news_topic_health">صحة</string>
+    <string name="search_icon">زر البحث</string>
+    <string name="no_news">لم يتم العثور على أخبار.</string>
 </resources>

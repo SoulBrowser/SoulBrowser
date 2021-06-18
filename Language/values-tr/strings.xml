@@ -833,4 +833,21 @@
     <string name="debug_mode">Web hata ayıklama</string>
     <string name="debug_mode_info">USB ile hata ayıklayabilirsiniz.</string>
     <string name="default_browser">Varsayılan tarayıcı olarak ayarla</string>
+    <string name="news_title">Haberler</string>
+    <string name="news_loading">Haber yükleniyor&#8230;</string>
+    <string name="news_show">Haberleri göster</string>
+    <string name="news_info_1">Haber kaynağı</string>
+    <string name="news_info_2">Google Haberleri</string>
+    <string name="news_locale">Dil ve bölge</string>
+    <string name="news_topic_headline">Başlık</string>
+    <string name="news_topic_world">Dünya</string>
+    <string name="news_topic_nation">Yerel Haberler</string>
+    <string name="news_topic_business">Iş</string>
+    <string name="news_topic_tech">Teknoloji</string>
+    <string name="news_topic_enter">Eğlence</string>
+    <string name="news_topic_sports">Spor Dalları</string>
+    <string name="news_topic_science">Bilim</string>
+    <string name="news_topic_health">Sağlık</string>
+    <string name="search_icon">Arama düğmesi</string>
+    <string name="no_news">Haber bulunamadı.</string>
 </resources>

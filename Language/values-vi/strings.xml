@@ -833,4 +833,21 @@
     <string name="debug_mode">Gỡ lỗi web</string>
     <string name="debug_mode_info">Bạn có thể gỡ lỗi bằng USB.</string>
     <string name="default_browser">Đặt làm trình duyệt mặc định</string>
+    <string name="news_title">Tin tức</string>
+    <string name="news_loading">Đang tải tin tức&#8230;</string>
+    <string name="news_show">Hiển thị tin tức</string>
+    <string name="news_info_1">Nguồn tin tức</string>
+    <string name="news_info_2">Google Tin tức</string>
+    <string name="news_locale">Ngôn ngữ và khu vực</string>
+    <string name="news_topic_headline">Tiêu đề</string>
+    <string name="news_topic_world">Thế giới</string>
+    <string name="news_topic_nation">Tin địa phương</string>
+    <string name="news_topic_business">Kinh doanh</string>
+    <string name="news_topic_tech">Công nghệ</string>
+    <string name="news_topic_enter">Sự giải trí</string>
+    <string name="news_topic_sports">Các môn thể thao</string>
+    <string name="news_topic_science">Khoa học</string>
+    <string name="news_topic_health">Sức khỏe</string>
+    <string name="search_icon">Nút tìm kiếm</string>
+    <string name="no_news">Không có tin tức được tìm thấy.</string>
 </resources>

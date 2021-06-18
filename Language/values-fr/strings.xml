@@ -833,4 +833,21 @@
     <string name="debug_mode">Débogage Web</string>
     <string name="debug_mode_info">Vous pouvez déboguer avec USB.</string>
     <string name="default_browser">Défini comme navigateur par défaut</string>
+    <string name="news_title">Nouvelles</string>
+    <string name="news_loading">Chargement des actualités&#8230;</string>
+    <string name="news_show">Afficher les actualités</string>
+    <string name="news_info_1">Source de nouvelles</string>
+    <string name="news_info_2">Actualités de Google</string>
+    <string name="news_locale">Langue et région</string>
+    <string name="news_topic_headline">Gros titre</string>
+    <string name="news_topic_world">Monde</string>
+    <string name="news_topic_nation">Nouvelles locales</string>
+    <string name="news_topic_business">Affaires</string>
+    <string name="news_topic_tech">La technologie</string>
+    <string name="news_topic_enter">Divertissement</string>
+    <string name="news_topic_sports">Des sports</string>
+    <string name="news_topic_science">La science</string>
+    <string name="news_topic_health">Santé</string>
+    <string name="search_icon">Bouton de recherche</string>
+    <string name="no_news">Aucune nouvelle n\'a été trouvée.</string>
 </resources>

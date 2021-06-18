@@ -833,4 +833,21 @@
     <string name="debug_mode">Webデバッグ</string>
     <string name="debug_mode_info">USBでデバッグすることができます。</string>
     <string name="default_browser">デフォルトのブラウザとして設定</string>
+    <string name="news_title">ニュース</string>
+    <string name="news_loading">ニュースの読み込み&#8230;</string>
+    <string name="news_show">ニュースを表示</string>
+    <string name="news_info_1">ニュースソース</string>
+    <string name="news_info_2">Googleニュース</string>
+    <string name="news_locale">言語と地域</string>
+    <string name="news_topic_headline">ヘッドライン</string>
+    <string name="news_topic_world">世界</string>
+    <string name="news_topic_nation">地方のニュース</string>
+    <string name="news_topic_business">ビジネス</string>
+    <string name="news_topic_tech">技術</string>
+    <string name="news_topic_enter">エンターテインメント</string>
+    <string name="news_topic_sports">スポーツ</string>
+    <string name="news_topic_science">理科</string>
+    <string name="news_topic_health">健康</string>
+    <string name="search_icon">検索ボタン</string>
+    <string name="no_news">検出されたニュースがありません。</string>
 </resources>

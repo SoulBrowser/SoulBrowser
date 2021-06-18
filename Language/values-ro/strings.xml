@@ -833,4 +833,21 @@
     <string name="debug_mode">Depanare web</string>
     <string name="debug_mode_info">Puteți depana cu USB.</string>
     <string name="default_browser">Setați ca browser implicit</string>
+    <string name="news_title">Știri</string>
+    <string name="news_loading">Încărcare știri&#8230;</string>
+    <string name="news_show">Afișează știri</string>
+    <string name="news_info_1">Sursa de știri</string>
+    <string name="news_info_2">Stiri Google</string>
+    <string name="news_locale">Limba și regiunea</string>
+    <string name="news_topic_headline">Titlu</string>
+    <string name="news_topic_world">Lume</string>
+    <string name="news_topic_nation">Stiri locale</string>
+    <string name="news_topic_business">Afaceri</string>
+    <string name="news_topic_tech">Tehnologie</string>
+    <string name="news_topic_enter">Divertisment</string>
+    <string name="news_topic_sports">Sport</string>
+    <string name="news_topic_science">Ştiinţă</string>
+    <string name="news_topic_health">Sănătate</string>
+    <string name="search_icon">Butonul de căutare</string>
+    <string name="no_news">Nu s-au găsit noutăți.</string>
 </resources>

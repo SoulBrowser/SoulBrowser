@@ -833,4 +833,21 @@
     <string name="debug_mode">Debugging web</string>
     <string name="debug_mode_info">Anda dapat men-debug dengan USB.</string>
     <string name="default_browser">Setel sebagai browser default</string>
+    <string name="news_title">Berita</string>
+    <string name="news_loading">Pemuatan berita&#8230;</string>
+    <string name="news_show">Tampilkan berita</string>
+    <string name="news_info_1">Sumber berita</string>
+    <string name="news_info_2">Berita Google</string>
+    <string name="news_locale">Bahasa dan wilayah</string>
+    <string name="news_topic_headline">Tajuk utama</string>
+    <string name="news_topic_world">Dunia</string>
+    <string name="news_topic_nation">Berita Lokal</string>
+    <string name="news_topic_business">Bisnis</string>
+    <string name="news_topic_tech">Teknologi</string>
+    <string name="news_topic_enter">Hiburan</string>
+    <string name="news_topic_sports">Olahraga</string>
+    <string name="news_topic_science">Ilmu</string>
+    <string name="news_topic_health">Kesehatan</string>
+    <string name="search_icon">Tombol pencarian</string>
+    <string name="no_news">Tidak ada berita yang ditemukan.</string>
 </resources>
