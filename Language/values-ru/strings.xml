@@ -51,6 +51,10 @@
     <string name="print_success">Успешно распечатано</string>
     <string name="print_fail">Не удалось распечатать</string>
     <string name="translate">Перевести</string>
+    <string name="translator">Движок перевода</string>
+    <string name="trans_auto">Автоматический перевод</string>
+    <string name="trans_except">Сайт исключения</string>
+    <string name="trans_except_info">Вы можете зарегистрировать сайты, не использующие автоматический перевод.</string>
     <string name="find_word">Найти на странице</string>
     <string name="verify_image">Проверка изображения</string>
     <string name="create_album">Создать альбом</string>
@@ -573,8 +577,6 @@
     <string name="setted">Установлено.</string>
     <string name="top_bar">Верхняя панель</string>
     <string name="bottom_bar">Нижний бар</string>
-    <string name="down_by_url">Скачать по адресу</string>
-    <string name="only_twit">Поддерживается только Twitter.</string>
     <string name="video_url">URL видео</string>
     <string name="address_guide_1">Нажмите и удерживайте воспроизводимое видео, чтобы скопировать адрес.</string>
     <string name="address_guide_2">Введите скопированный адрес.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">Проблема с настройками рекламы. Пожалуйста, установите их снова.</string>
     <string name="original_size">Оригинальный размер</string>
     <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
-    <string name="site_app">Показать кнопку приложения сайта</string>
-    <string name="site_app_info">Кнопка отображается только при установленном приложении для сайта.</string>
     <string name="finger_print">Отпечаток пальца</string>
     <string name="finger_unavailable">Пользователь не может пройти аутентификацию, потому что оборудование недоступно. Попробуйте позже.</string>
     <string name="finger_register">Пользователь не может пройти аутентификацию, потому что отпечаток пальца не зарегистрирован.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">Пользователь не может пройти аутентификацию, поскольку в одном или нескольких аппаратных датчиках обнаружена уязвимость системы безопасности.</string>
     <string name="finger_unsupported">Пользователь не может пройти аутентификацию, поскольку указанные параметры несовместимы с текущей версией Android.</string>
     <string name="finger_unknown">Невозможно определить, может ли пользователь пройти аутентификацию.</string>
+    <string name="use_gesture">Используйте жесты</string>
     <string name="enable_gesture">Жесты на</string>
     <string name="disable_gesture">Жесты выключены</string>
     <string name="gesture_enabled">Жесты включены.</string>

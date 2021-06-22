@@ -51,6 +51,10 @@
     <string name="print_success">In thành công</string>
     <string name="print_fail">In thất bại</string>
     <string name="translate">Phiên dịch</string>
+    <string name="translator">Công cụ dịch thuật</string>
+    <string name="trans_auto">Bản dịch tự động</string>
+    <string name="trans_except">Trang web ngoại lệ</string>
+    <string name="trans_except_info">Bạn có thể đăng ký các trang web không sử dụng dịch tự động.</string>
     <string name="find_word">Tìm ở trang</string>
     <string name="verify_image">Xác minh hình ảnh</string>
     <string name="create_album">Tạo album</string>
@@ -573,8 +577,6 @@
     <string name="setted">Đã được thiết lập.</string>
     <string name="top_bar">Thanh trên cùng</string>
     <string name="bottom_bar">Thanh dưới cùng</string>
-    <string name="down_by_url">Tải xuống theo địa chỉ</string>
-    <string name="only_twit">Chỉ có Twitter được hỗ trợ.</string>
     <string name="video_url">URL video</string>
     <string name="address_guide_1">Nhấn và giữ video đang phát để sao chép địa chỉ.</string>
     <string name="address_guide_2">Nhập địa chỉ sao chép.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">Có vấn đề với cài đặt quảng cáo. Vui lòng đặt lại.</string>
     <string name="original_size">Kích thước nguyên mẫu</string>
     <string name="reduced_size">Giảm kích thước (khuyến nghị)</string>
-    <string name="site_app">Nút hiển thị ứng dụng trang web</string>
-    <string name="site_app_info">Nó chỉ được hiển thị nếu có một ứng dụng thực thi.</string>
     <string name="finger_print">Vân tay</string>
     <string name="finger_unavailable">Người dùng không thể xác thực vì phần cứng không khả dụng. Thử lại sau.</string>
     <string name="finger_register">Người dùng không thể xác thực vì không có vân tay nào được đăng ký.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">Người dùng không thể xác thực vì lỗ hổng bảo mật đã được phát hiện với một hoặc nhiều cảm biến phần cứng.</string>
     <string name="finger_unsupported">Người dùng không thể xác thực vì các tùy chọn được chỉ định không tương thích với phiên bản Android hiện tại.</string>
     <string name="finger_unknown">Không thể xác định xem người dùng có thể xác thực hay không.</string>
+    <string name="use_gesture">Sử dụng cử chỉ</string>
     <string name="enable_gesture">Cử chỉ trên</string>
     <string name="disable_gesture">Cử chỉ tắt</string>
     <string name="gesture_enabled">Cử chỉ được kích hoạt.</string>

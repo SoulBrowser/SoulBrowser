@@ -51,6 +51,10 @@
     <string name="print_success">列印成功</string>
     <string name="print_fail">列印失敗</string>
     <string name="translate">翻譯</string>
+    <string name="translator">翻譯引擎</string>
+    <string name="trans_auto">自動翻譯</string>
+    <string name="trans_except">翻譯異常站點</string>
+    <string name="trans_except_info">您可以註冊不使用自動翻譯的站點</string>
     <string name="find_word">在頁面中查找</string>
     <string name="verify_image">圖片驗證</string>
     <string name="create_album">創建相簿</string>
@@ -573,8 +577,6 @@
     <string name="setted">已設置</string>
     <string name="top_bar">頂欄</string>
     <string name="bottom_bar">底欄</string>
-    <string name="down_by_url">按網址下載</string>
-    <string name="only_twit">僅支持 Twitter</string>
     <string name="video_url">影片網址</string>
     <string name="address_guide_1">按住正在播放的影片以復制網址</string>
     <string name="address_guide_2">輸入複製的網址</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">廣告設置存在問題。 請重新設置</string>
     <string name="original_size">原始尺寸</string>
     <string name="reduced_size">縮小尺寸（推薦）</string>
-    <string name="site_app">顯示網站應用程序按鈕</string>
-    <string name="site_app_info">僅在有可執行應用程序時顯示</string>
     <string name="finger_print">指紋</string>
     <string name="finger_unavailable">由於硬件不可用，用戶無法進行身份驗證。 稍後再試</string>
     <string name="finger_register">用戶無法驗證，因為未註冊任何指紋</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">用戶無法進行身份驗證，因為已通過一個或多個硬件傳感器發現了安全漏洞</string>
     <string name="finger_unsupported">由於指定的選項與當前的Android版本不兼容，因此用戶無法進行身份驗證</string>
     <string name="finger_unknown">無法確定用戶是否可以認證</string>
+    <string name="use_gesture">使用手勢</string>
     <string name="enable_gesture">手勢</string>
     <string name="disable_gesture">手勢關閉</string>
     <string name="gesture_enabled">手勢已啟用</string>

@@ -51,6 +51,10 @@
     <string name="print_success">نجاح الطباعة</string>
     <string name="print_fail">فشل الطباعة</string>
     <string name="translate">ترجمة</string>
+    <string name="translator">محرك الترجمة</string>
+    <string name="trans_auto">الترجمة الآلية</string>
+    <string name="trans_except">موقع الاستثناء</string>
+    <string name="trans_except_info">يمكنك تسجيل المواقع التي لا تستخدم الترجمة الآلية.</string>
     <string name="find_word">العثور على الصفحة</string>
     <string name="verify_image">فحص الصورة</string>
     <string name="create_album">قم بإنشاء ألبوم</string>
@@ -573,8 +577,6 @@
     <string name="setted">تم تعيينه.</string>
     <string name="top_bar">الشريط العلوى</string>
     <string name="bottom_bar">شريط أسفل</string>
-    <string name="down_by_url">تحميل على العنوان</string>
-    <string name="only_twit">يتم دعم Twitter فقط.</string>
     <string name="video_url">رابط الفيديو</string>
     <string name="address_guide_1">اضغط مع الاستمرار على تشغيل الفيديو لنسخ العنوان.</string>
     <string name="address_guide_2">أدخل العنوان المنسوخ.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">هناك مشكلة في إعدادات إعلانك. يرجى تعيينه مرة أخرى.</string>
     <string name="original_size">الحجم الأصلي</string>
     <string name="reduced_size">حجم مخفض (موصى به)</string>
-    <string name="site_app">إظهار تطبيق الموقع</string>
-    <string name="site_app_info">يتم عرضها فقط في حالة وجود تطبيق قابل للتنفيذ.</string>
     <string name="finger_print">التعرف على بصمات الأصابع</string>
     <string name="finger_unavailable">لا يمكن للمستخدم المصادقة لأن الجهاز غير متوفر. الرجاء معاودة المحاولة في وقت لاحق.</string>
     <string name="finger_register">لا يمكن للمستخدم المصادقة لعدم وجود بصمة إصبع مسجلة.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">لا يمكن للمستخدم المصادقة لأنه تم العثور على ثغرة أمنية في واحد أو أكثر من أجهزة استشعار الأجهزة.</string>
     <string name="finger_unsupported">لا يمكن للمستخدم المصادقة لأن الخيار المحدد غير متوافق مع إصدار Android الحالي.</string>
     <string name="finger_unknown">لا يمكن تحديد ما إذا كان يمكن للمستخدم المصادقة.</string>
+    <string name="use_gesture">استخدم الإيماءات</string>
     <string name="enable_gesture">تم تشغيل الإيماءة</string>
     <string name="disable_gesture">بادرة قبالة</string>
     <string name="gesture_enabled">تم تفعيل الإيماءات.</string>

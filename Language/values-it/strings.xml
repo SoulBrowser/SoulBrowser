@@ -51,6 +51,10 @@
     <string name="print_success">Stampa successo</string>
     <string name="print_fail">Stampa fallita</string>
     <string name="translate">Tradurre</string>
+    <string name="translator">Motore di traduzione</string>
+    <string name="trans_auto">Traduzione automatica</string>
+    <string name="trans_except">Sito d\'eccezione</string>
+    <string name="trans_except_info">Puoi registrare siti che non utilizzano la traduzione automatica.</string>
     <string name="find_word">Trova nella pagina</string>
     <string name="verify_image">Verifica immagine</string>
     <string name="create_album">Crea album</string>
@@ -573,8 +577,6 @@
     <string name="setted">È stato impostato.</string>
     <string name="top_bar">Barra superiore</string>
     <string name="bottom_bar">Barra inferiore</string>
-    <string name="down_by_url">Scarica per indirizzo</string>
-    <string name="only_twit">È supportato solo Twitter.</string>
     <string name="video_url">URL del video</string>
     <string name="address_guide_1">Tieni premuto il video in riproduzione per copiare l\'indirizzo.</string>
     <string name="address_guide_2">Inserisci l\'indirizzo copiato.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">C\'è un problema con le impostazioni degli annunci. Per favore impostalo di nuovo.</string>
     <string name="original_size">Misura originale</string>
     <string name="reduced_size">Dimensioni ridotte (consigliato)</string>
-    <string name="site_app">Mostra il pulsante dell\'app del sito</string>
-    <string name="site_app_info">Viene visualizzato solo se è presente un\'app eseguibile.</string>
     <string name="finger_print">impronta digitale</string>
     <string name="finger_unavailable">L\'utente non può autenticarsi perché l\'hardware non è disponibile. Riprovare più tardi.</string>
     <string name="finger_register">L\'utente non può autenticarsi perché non è stata registrata alcuna impronta digitale.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">L\'utente non può autenticarsi perché è stata scoperta una vulnerabilità di sicurezza con uno o più sensori hardware.</string>
     <string name="finger_unsupported">L\'utente non può autenticarsi perché le opzioni specificate non sono compatibili con la versione corrente di Android.</string>
     <string name="finger_unknown">Impossibile determinare se l\'utente può autenticarsi.</string>
+    <string name="use_gesture">Usa i gesti</string>
     <string name="enable_gesture">Gesti attivi</string>
     <string name="disable_gesture">Gesti disattivati</string>
     <string name="gesture_enabled">I gesti sono abilitati.</string>

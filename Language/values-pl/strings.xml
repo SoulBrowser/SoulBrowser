@@ -51,6 +51,10 @@
     <string name="print_success">Sukces drukowania</string>
     <string name="print_fail">Drukowanie nie powiodło się</string>
     <string name="translate">Tłumaczyć</string>
+    <string name="translator">Silnik tłumaczeń</string>
+    <string name="trans_auto">Automatyczne tłumaczenie</string>
+    <string name="trans_except">Witryna wyjątków</string>
+    <string name="trans_except_info">Możesz zarejestrować witryny, które nie korzystają z automatycznego tłumaczenia.</string>
     <string name="find_word">Znajdź na stronie</string>
     <string name="verify_image">Weryfikacja obrazu</string>
     <string name="create_album">Utwórz albumu</string>
@@ -573,8 +577,6 @@
     <string name="setted">Ustawiono.</string>
     <string name="top_bar">Górny pasek</string>
     <string name="bottom_bar">Dolny pasek</string>
-    <string name="down_by_url">Pobierz według adresu</string>
-    <string name="only_twit">Obsługiwany jest tylko Twitter.</string>
     <string name="video_url">URL wideo</string>
     <string name="address_guide_1">Naciśnij i przytrzymaj odtwarzane wideo, aby skopiować adres.</string>
     <string name="address_guide_2">Wpisz skopiowany adres.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">Wystąpił problem z ustawieniami reklam. Ustaw ponownie.</string>
     <string name="original_size">Oryginalny rozmiar</string>
     <string name="reduced_size">Zmniejszony rozmiar (zalecane)</string>
-    <string name="site_app">Pokaż przycisk aplikacji witryny</string>
-    <string name="site_app_info">Jest wyświetlany tylko wtedy, gdy istnieje aplikacja wykonywalna.</string>
     <string name="finger_print">Odcisk palca</string>
     <string name="finger_unavailable">Użytkownik nie może się uwierzytelnić, ponieważ sprzęt jest niedostępny. Spróbuj ponownie później.</string>
     <string name="finger_register">Użytkownik nie może się uwierzytelnić, ponieważ nie jest zarejestrowany żaden odcisk palca.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">Użytkownik nie może się uwierzytelnić, ponieważ wykryto lukę w zabezpieczeniach co najmniej jednego czujnika sprzętowego.</string>
     <string name="finger_unsupported">Użytkownik nie może się uwierzytelnić, ponieważ określone opcje są niezgodne z bieżącą wersją Androida.</string>
     <string name="finger_unknown">Nie można określić, czy użytkownik może się uwierzytelnić.</string>
+    <string name="use_gesture">Używaj gestów</string>
     <string name="enable_gesture">Gesty włączone</string>
     <string name="disable_gesture">Gesty wyłączone</string>
     <string name="gesture_enabled">Gesty są włączone.</string>

@@ -51,6 +51,10 @@
     <string name="print_success">Роздруковано успiшно</string>
     <string name="print_fail">Не вдалося надрукувати</string>
     <string name="translate">Переклад</string>
+    <string name="translator">Механізм перекладу</string>
+    <string name="trans_auto">Автоматичний переклад</string>
+    <string name="trans_except">Сайт винятків</string>
+    <string name="trans_except_info">Ви можете зареєструвати сайти, які не використовують автоматичний переклад.</string>
     <string name="find_word">Знайти на сторінці</string>
     <string name="verify_image">Підтвердження зображення</string>
     <string name="create_album">Створити альбом</string>
@@ -573,8 +577,6 @@
     <string name="setted">Встановлено.</string>
     <string name="top_bar">Верхня панель</string>
     <string name="bottom_bar">Нижня панель</string>
-    <string name="down_by_url">Завантажити за адресою</string>
-    <string name="only_twit">Підтримується лише Twitter.</string>
     <string name="video_url">URL-адреса відео</string>
     <string name="address_guide_1">Натисніть і утримуйте відтворюване відео, щоб скопіювати адресу.</string>
     <string name="address_guide_2">Введіть скопійовану адресу.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">Виникла проблема з налаштуваннями реклами. Будь ласка, встановіть їх знову.</string>
     <string name="original_size">Оригінальний розмір</string>
     <string name="reduced_size">Зменшений розмір (рекомендується)</string>
-    <string name="site_app">Показати кнопку додатка сайту</string>
-    <string name="site_app_info">Він відображається, лише якщо встановлено відповідний додаток.</string>
     <string name="finger_print">Відбиток пальця</string>
     <string name="finger_unavailable">Користувач не може автентифікуватися, оскільки обладнання недоступне. Спробуйте ще раз пізніше.</string>
     <string name="finger_register">Користувач не може автентифікуватися, оскільки відбиток пальця не зареєстровано.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">Користувач не може пройти автентифікацію, оскільки виявлено вразливість системи безпеки за допомогою одного або декількох апаратних датчиків.</string>
     <string name="finger_unsupported">Користувач не може автентифікуватися, оскільки вказані параметри несумісні з поточною версією Android.</string>
     <string name="finger_unknown">Неможливо визначити, чи може користувач пройти автентифікацію.</string>
+    <string name="use_gesture">Використовуйте жести</string>
     <string name="enable_gesture">Жести на</string>
     <string name="disable_gesture">Жести вимкнено</string>
     <string name="gesture_enabled">Жести ввімкнено.</string>

@@ -51,6 +51,10 @@
     <string name="print_success">Impression réussie</string>
     <string name="print_fail">Échec de l\'impression</string>
     <string name="translate">Traduire</string>
+    <string name="translator">Moteur de traduction</string>
+    <string name="trans_auto">Traduction automatique</string>
+    <string name="trans_except">Site d\'exception</string>
+    <string name="trans_except_info">Vous pouvez enregistrer des sites qui n\'utilisent pas la traduction automatique.</string>
     <string name="find_word">Rechercher dans page</string>
     <string name="verify_image">Vérification image</string>
     <string name="create_album">Créer album</string>
@@ -573,8 +577,6 @@
     <string name="setted">Effectué.</string>
     <string name="top_bar">Barre supérieure</string>
     <string name="bottom_bar">Barre inférieure</string>
-    <string name="down_by_url">Télécharger par adresse</string>
-    <string name="only_twit">Seul Twitter est pris en charge.</string>
     <string name="video_url">URL de vidéo</string>
     <string name="address_guide_1">Appuyez et maintenez la vidéo en cours de lecture pour copier l\'adresse.</string>
     <string name="address_guide_2">Saisissez l\'adresse copiée.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">Il y a un problème avec les paramètres d\'annonce. Veuillez le régler à nouveau.</string>
     <string name="original_size">Format original</string>
     <string name="reduced_size">Taille réduite (recommandé)</string>
-    <string name="site_app">Afficher le bouton de l\'application du site</string>
-    <string name="site_app_info">Il ne s\'affiche que s\'il existe une application exécutable.</string>
     <string name="finger_print">Empreinte digitale</string>
     <string name="finger_unavailable">L\'utilisateur ne peut pas s\'authentifier car le matériel n\'est pas disponible. Réessayez plus tard.</string>
     <string name="finger_register">L\'utilisateur ne peut pas s\'authentifier car aucune empreinte digitale n\'est enregistrée.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">L\'utilisateur ne peut pas s\'authentifier car une vulnérabilité de sécurité a été découverte avec un ou plusieurs capteurs matériels.</string>
     <string name="finger_unsupported">L\'utilisateur ne peut pas s\'authentifier car les options spécifiées sont incompatibles avec la version actuelle d\'Android.</string>
     <string name="finger_unknown">Impossible de déterminer si l\'utilisateur peut s\'authentifier.</string>
+    <string name="use_gesture">Utilisez des gestes</string>
     <string name="enable_gesture">Activer gestes</string>
     <string name="disable_gesture">Désactiver gestes</string>
     <string name="gesture_enabled">Les gestes sont activés.</string>

@@ -51,6 +51,10 @@
     <string name="print_success">印刷成功</string>
     <string name="print_fail">印刷に失敗し</string>
     <string name="translate">翻訳</string>
+    <string name="translator">翻訳エンジン</string>
+    <string name="trans_auto">自動翻訳</string>
+    <string name="trans_except">翻訳例外サイト</string>
+    <string name="trans_except_info">自動翻訳を使用していないサイトを登録することができます。</string>
     <string name="find_word">ページ内検索</string>
     <string name="verify_image">画像の確認</string>
     <string name="create_album">アルバム作成</string>
@@ -573,8 +577,6 @@
     <string name="setted">設定されています。</string>
     <string name="top_bar">上部バー</string>
     <string name="bottom_bar">下部バー</string>
-    <string name="down_by_url">アドレスでダウンロード</string>
-    <string name="only_twit">ツイッターのみがサポートされます。</string>
     <string name="video_url">動画のURL</string>
     <string name="address_guide_1">再生中の動画を長押ししてアドレスをコピーします。</string>
     <string name="address_guide_2">コピーしたアドレスを入力します。</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">広告設定に問題があります。 再度設定してください。</string>
     <string name="original_size">元のサイズ</string>
     <string name="reduced_size">縮小されたサイズ（推奨）</string>
-    <string name="site_app">サイトアプリボタンを表示</string>
-    <string name="site_app_info">実行可能なアプリがある場合にのみ表示されます。</string>
     <string name="finger_print">指紋</string>
     <string name="finger_unavailable">ハードウェアが利用できないため、ユーザーは認証できません。 あとでもう一度試してみてください。</string>
     <string name="finger_register">指紋が登録されていないため、ユーザーは認証できません。</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">1つ以上のハードウェアセンサーでセキュリティの脆弱性が発見されたため、ユーザーは認証できません。</string>
     <string name="finger_unsupported">指定されたオプションが現在のAndroidバージョンと互換性がないため、ユーザーは認証できません。</string>
     <string name="finger_unknown">ユーザーが認証できるかどうかを判断できません。</string>
+    <string name="use_gesture">ジェスチャの使用</string>
     <string name="enable_gesture">上のジェスチャー</string>
     <string name="disable_gesture">ジェスチャーオフ</string>
     <string name="gesture_enabled">ジェスチャーが有効になります。</string>

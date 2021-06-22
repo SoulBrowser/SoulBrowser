@@ -51,6 +51,10 @@
     <string name="print_success">Drucken erfolgreich</string>
     <string name="print_fail">Drucken fehlgeschlagen</string>
     <string name="translate">Übersetzen</string>
+    <string name="translator">Übersetzungsmaschine</string>
+    <string name="trans_auto">Automatische Übersetzung</string>
+    <string name="trans_except">Ausnahmeseite</string>
+    <string name="trans_except_info">Sie können Websites registrieren, die keine automatische Übersetzung verwenden.</string>
     <string name="find_word">Auf Seite finden</string>
     <string name="verify_image">Bild verifizieren</string>
     <string name="create_album">Album erstellen</string>
@@ -573,8 +577,6 @@
     <string name="setted">Wurde festgelegt.</string>
     <string name="top_bar">Obere Leiste</string>
     <string name="bottom_bar">Untere Leiste</string>
-    <string name="down_by_url">Download nach Adresse</string>
-    <string name="only_twit">Es wird nur Twitter unterstützt.</string>
     <string name="video_url">Video-URL</string>
     <string name="address_guide_1">Halten Sie das abgespielte Video gedrückt, um die Adresse zu kopieren.</string>
     <string name="address_guide_2">Geben Sie die kopierte Adresse ein.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">Es liegt ein Problem mit den Anzeigeneinstellungen vor. Bitte stellen Sie es erneut ein.</string>
     <string name="original_size">Originalgröße</string>
     <string name="reduced_size">Reduzierte Größe (empfohlen)</string>
-    <string name="site_app">Schaltfläche Site-App anzeigen</string>
-    <string name="site_app_info">Es wird nur angezeigt, wenn eine ausführbare App vorhanden ist.</string>
     <string name="finger_print">Fingerabdruck</string>
     <string name="finger_unavailable">Der Benutzer kann sich nicht authentifizieren, da die Hardware nicht verfügbar ist. Versuchen Sie es später erneut.</string>
     <string name="finger_register">Der Benutzer kann sich nicht authentifizieren, da kein Fingerabdruck registriert ist.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">Der Benutzer kann sich nicht authentifizieren, da mit einem oder mehreren Hardwaresensoren eine Sicherheitslücke entdeckt wurde.</string>
     <string name="finger_unsupported">Der Benutzer kann sich nicht authentifizieren, da die angegebenen Optionen nicht mit der aktuellen Android-Version kompatibel sind.</string>
     <string name="finger_unknown">Es kann nicht festgestellt werden, ob sich der Benutzer authentifizieren kann.</string>
+    <string name="use_gesture">Verwenden Sie Gesten</string>
     <string name="enable_gesture">Gesten weiter</string>
     <string name="disable_gesture">Gesten aus</string>
     <string name="gesture_enabled">Gesten sind aktiviert.</string>

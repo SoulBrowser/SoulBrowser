@@ -51,6 +51,10 @@
     <string name="print_success">Succes de tipărire</string>
     <string name="print_fail">Imprimare eșuată</string>
     <string name="translate">Traduceți</string>
+    <string name="translator">Motor de traducere</string>
+    <string name="trans_auto">Traducere automată</string>
+    <string name="trans_except">Site de excepție</string>
+    <string name="trans_except_info">Puteți înregistra site-uri care nu utilizează traducerea automată.</string>
     <string name="find_word">Găsiți în pagina</string>
     <string name="verify_image">Verificare imagine</string>
     <string name="create_album">Creare album</string>
@@ -573,8 +577,6 @@
     <string name="setted">A fost setat.</string>
     <string name="top_bar">Bara de sus</string>
     <string name="bottom_bar">Bara de jos</string>
-    <string name="down_by_url">Descărcați prin adresă</string>
-    <string name="only_twit">Doar Twitter este acceptat.</string>
     <string name="video_url">URL video</string>
     <string name="address_guide_1">Apăsați și mențineți apăsat videoclipul redat pentru a copia adresa.</string>
     <string name="address_guide_2">Introduceți adresa copiată.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">Există o problemă cu setările pentru anunțuri. Vă rugăm să setați din nou.</string>
     <string name="original_size">Mărimea originală</string>
     <string name="reduced_size">Dimensiune redusă (recomandat)</string>
-    <string name="site_app">Afișați butonul aplicației site-ului</string>
-    <string name="site_app_info">Se afișează numai dacă există o aplicație executabilă.</string>
     <string name="finger_print">Amprentă digitală</string>
     <string name="finger_unavailable">Utilizatorul nu se poate autentifica deoarece hardware-ul nu este disponibil. Încercați mai târziu.</string>
     <string name="finger_register">Utilizatorul nu se poate autentifica deoarece nu este înregistrată nicio amprentă.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">Utilizatorul nu se poate autentifica deoarece a fost descoperită o vulnerabilitate de securitate cu unul sau mai mulți senzori hardware.</string>
     <string name="finger_unsupported">Utilizatorul nu se poate autentifica deoarece opțiunile specificate sunt incompatibile cu versiunea curentă de Android.</string>
     <string name="finger_unknown">Nu se poate stabili dacă utilizatorul se poate autentifica.</string>
+    <string name="use_gesture">Folosiți gesturi</string>
     <string name="enable_gesture">Gesturi aprinse</string>
     <string name="disable_gesture">Gesturi oprite</string>
     <string name="gesture_enabled">Gesturile sunt activate.</string>

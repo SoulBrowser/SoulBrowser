@@ -51,6 +51,10 @@
     <string name="print_success">Keberhasilan cetak</string>
     <string name="print_fail">Print Failed</string>
     <string name="translate">Terjemahan</string>
+    <string name="translator">Mesin terjemahan</string>
+    <string name="trans_auto">Terjemahan otomatis</string>
+    <string name="trans_except">Situs pengecualian</string>
+    <string name="trans_except_info">Anda dapat mendaftarkan situs yang tidak menggunakan terjemahan otomatis.</string>
     <string name="find_word">Temukan di halaman</string>
     <string name="verify_image">Verifikasi gambar</string>
     <string name="create_album">Buat album</string>
@@ -573,8 +577,6 @@
     <string name="setted">Telah di atur.</string>
     <string name="top_bar">Bilah atas</string>
     <string name="bottom_bar">Bilah bawah</string>
-    <string name="down_by_url">Unduh berdasarkan alamat</string>
-    <string name="only_twit">Hanya Twitter yang didukung.</string>
     <string name="video_url">URL video</string>
     <string name="address_guide_1">Tekan dan tahan video yang sedang diputar untuk menyalin alamat.</string>
     <string name="address_guide_2">Masukkan alamat yang disalin.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">Ada masalah dengan pengaturan iklan. Harap setel lagi.</string>
     <string name="original_size">Ukuran asli</string>
     <string name="reduced_size">Ukuran yang diperkecil (disarankan)</string>
-    <string name="site_app">Tampilkan tombol aplikasi situs</string>
-    <string name="site_app_info">Itu hanya ditampilkan jika ada aplikasi yang dapat dieksekusi.</string>
     <string name="finger_print">Sidik jari</string>
     <string name="finger_unavailable">Pengguna tidak dapat mengautentikasi karena perangkat keras tidak tersedia. Coba lagi nanti.</string>
     <string name="finger_register">Pengguna tidak dapat mengautentikasi karena tidak ada sidik jari yang terdaftar.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">Pengguna tidak dapat mengautentikasi karena kerentanan keamanan telah ditemukan dengan satu atau beberapa sensor perangkat keras.</string>
     <string name="finger_unsupported">Pengguna tidak dapat mengautentikasi karena opsi yang ditentukan tidak kompatibel dengan versi Android saat ini.</string>
     <string name="finger_unknown">Tidak dapat menentukan apakah pengguna dapat mengautentikasi.</string>
+    <string name="use_gesture">Gunakan gerakan</string>
     <string name="enable_gesture">Gestur aktif</string>
     <string name="disable_gesture">Gestur mati</string>
     <string name="gesture_enabled">Gestur diaktifkan.</string>

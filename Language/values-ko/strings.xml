@@ -51,6 +51,10 @@
     <string name="print_success">인쇄 성공</string>
     <string name="print_fail">인쇄 실패</string>
     <string name="translate">번역</string>
+    <string name="translator">번역기</string>
+    <string name="trans_auto">자동 번역</string>
+    <string name="trans_except">번역 예외 사이트</string>
+    <string name="trans_except_info">자동 번역을 사용하지 않는 사이트를 등록할 수 있습니다.</string>
     <string name="find_word">페이지에서 찾기</string>
     <string name="verify_image">이미지 확인</string>
     <string name="create_album">앨범 만들기</string>
@@ -573,8 +577,6 @@
     <string name="setted">설정되었습니다.</string>
     <string name="top_bar">상단바</string>
     <string name="bottom_bar">하단바</string>
-    <string name="down_by_url">주소로 다운로드</string>
-    <string name="only_twit">트위터만 지원됩니다.</string>
     <string name="video_url">동영상 URL</string>
     <string name="address_guide_1">재생 중인 동영상을 길게 눌러 주소를 복사합니다.</string>
     <string name="address_guide_2">복사한 주소를 입력합니다.</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">광고 설정에 문제가 있습니다. 다시 설정하십시오.</string>
     <string name="original_size">원래 크기</string>
     <string name="reduced_size">축소된 크기 (권장)</string>
-    <string name="site_app">사이트 앱 표시</string>
-    <string name="site_app_info">실행 가능한 앱이 있는 경우에만 표시됩니다.</string>
     <string name="finger_print">지문 인식</string>
     <string name="finger_unavailable">하드웨어를 사용할 수 없기 때문에 사용자가 인증할 수 없습니다. 나중에 다시 시도하십시오.</string>
     <string name="finger_register">등록된 지문이 없기 때문에 사용자가 인증할 수 없습니다.</string>
@@ -807,6 +807,7 @@
     <string name="finger_security">하나 이상의 하드웨어 센서에서 보안 취약점이 발견되었기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unsupported">지정된 옵션이 현재 Android 버전과 호환되지 않기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unknown">사용자가 인증할 수 있는지 여부를 확인할 수 없습니다.</string>
+    <string name="use_gesture">제스처 사용</string>
     <string name="enable_gesture">제스처 켜기</string>
     <string name="disable_gesture">제스처 끄기</string>
     <string name="gesture_enabled">제스처가 활성화되었습니다.</string>

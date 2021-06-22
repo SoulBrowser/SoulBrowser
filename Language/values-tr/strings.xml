@@ -50,7 +50,11 @@
     <string name="print_page">Yazdır / PDF</string>
     <string name="print_success">Baskı başarısı</string>
     <string name="print_fail">Yazdırılamadı</string>
-    <string name="translate">Çevirmek</string>
+    <string name="translate">Çeviri</string>
+    <string name="translator">Çeviri motoru</string>
+    <string name="trans_auto">Otomatik çeviri</string>
+    <string name="trans_except">istisna sitesi</string>
+    <string name="trans_except_info">Otomatik çeviri kullanmayan siteleri kaydedebilirsiniz.</string>
     <string name="find_word">Sayfada bulun</string>
     <string name="verify_image">Resim doğrulama</string>
     <string name="create_album">Albüm oluştur</string>
@@ -249,8 +253,8 @@
     <string name="show_thumb">Küçük resim önizlemesi</string>
     <string name="show_thumb_info">Daha hızlı performans istiyorsanız, bu seçeneği devre dışı bırakın.</string>
     <string name="show_page_guide">Sayfa dönüş kılavuzu</string>
-    <string name="tap_turn">Sayfaları çevirmek için dokunun</string>
-    <string name="volume_turn">Sayfaları çevirmek için ses seviyesi tuşu</string>
+    <string name="tap_turn">Sayfaları çeviri için dokunun</string>
+    <string name="volume_turn">Sayfaları çeviri için ses seviyesi tuşu</string>
     <string name="ok">Tamam</string>
     <string name="success">Başarı</string>
     <string name="fail">Başarısız</string>
@@ -376,7 +380,7 @@
     <string name="site">Siteler</string>
     <string name="storage">Depo</string>
     <string name="system_name">Sistem</string>
-    <string name="gesture">Hareketleri</string>
+    <string name="gesture">Hareketler</string>
     <string name="show_status">Durum çubuğunu göster</string>
     <string name="show_navi">Ekran tuşunu göster</string>
     <string name="address_pos">Adres çubuğunu göster</string>
@@ -523,7 +527,7 @@
     <string name="show_right">Sağ taraf</string>
     <string name="tip">İpucu</string>
     <string name="web_content">Web içeriği</string>
-    <string name="customize">Özelleştirme</string>
+    <string name="customize">Kişiselleştir</string>
     <string name="font">Yazı</string>
     <string name="font_default">Varsayılan yazı tipi</string>
     <string name="font_info_1">Dahili depolama veya SD karttaki TTF dosyalarıyla web sayfalarının yazı tipini değiştirebilirsiniz.</string>
@@ -573,8 +577,6 @@
     <string name="setted">Ayarlandı.</string>
     <string name="top_bar">Üst çubuk</string>
     <string name="bottom_bar">Alt çubuk</string>
-    <string name="down_by_url">Adrese göre indir</string>
-    <string name="only_twit">Yalnızca Twitter desteklenir.</string>
     <string name="video_url">Video linki</string>
     <string name="address_guide_1">Adresi kopyalamak için oynatılan videoyu basılı tutun.</string>
     <string name="address_guide_2">Kopyalanan adresi girin.</string>
@@ -582,7 +584,7 @@
     <string name="trans_report">Çeviri hatalarını bildirin</string>
     <string name="trans_report_info">Lütfen çeviriye yardım edin. ❤</string>
     <string name="trans_report_guide">[Yanlış çeviri] &#62; [Doğru çeviri]</string>
-    <string name="tts_mode">Konuşma metni</string>
+    <string name="tts_mode">Sesli Metin Okuma</string>
     <string name="tts_on">TTS\'yi etkinleştir</string>
     <string name="enable_tts">TTS\'yi etkinleştir</string>
     <string name="disable_tts">TTS\'yi devre dışı bırak</string>
@@ -798,8 +800,6 @@
     <string name="ads_invalid_info">Reklam ayarlarında bir sorun var. Lütfen yeniden ayarlayın.</string>
     <string name="original_size">Orijinal boyut</string>
     <string name="reduced_size">Küçültülmüş boyut (önerilir)</string>
-    <string name="site_app">Site uygulaması düğmesini göster</string>
-    <string name="site_app_info">Yalnızca çalıştırılabilir bir uygulama varsa görüntülenir.</string>
     <string name="finger_print">Parmak izi</string>
     <string name="finger_unavailable">Donanım kullanılamadığı için kullanıcı kimlik doğrulaması yapamaz. Daha sonra tekrar deneyin.</string>
     <string name="finger_register">Kullanıcı, kayıtlı parmak izi olmadığı için kimlik doğrulayamaz.</string>
@@ -807,12 +807,13 @@
     <string name="finger_security">Bir veya daha fazla donanım algılayıcısı ile bir güvenlik açığı keşfedildiği için kullanıcı kimlik doğrulayamaz.</string>
     <string name="finger_unsupported">Belirtilen seçenekler mevcut Android sürümüyle uyumlu olmadığından kullanıcı kimlik doğrulaması yapamaz.</string>
     <string name="finger_unknown">Kullanıcının kimlik doğrulaması yapıp yapamayacağı belirlenemiyor.</string>
+    <string name="use_gesture">Hareketler kullanın</string>
     <string name="enable_gesture">Hareketler açık</string>
     <string name="disable_gesture">Hareketler kapalı</string>
     <string name="gesture_enabled">Hareketler etkinleştirildi.</string>
     <string name="gesture_disabled">Hareketler devre dışı bırakıldı.</string>
     <string name="gesture_block_site">Hareket engelleme sitesi</string>
-    <string name="gesture_block_info_1">Hareketleri kullanmayan siteleri kaydedebilirsiniz.</string>
+    <string name="gesture_block_info_1">Hareketler kullanmayan siteleri kaydedebilirsiniz.</string>
     <string name="gesture_block_info_2">Yalnızca ekranın ortasındaki hareketler için geçerlidir.</string>
     <string name="gesture_block_info_3">Ekranın kenarlarındaki hareketler için geçerli değildir.</string>
     <string name="enable_adblock">Reklam engelleyici açık</string>
