@@ -622,8 +622,10 @@
     <string name="js_disabled">자바스크립트가 비활성화되었습니다.</string>
     <string name="icon_edit_guide_1">1. 아이콘을 클릭하여 기능을 변경하세요.</string>
     <string name="icon_edit_guide_2">2. 아이콘을 드래그하여 위치를 변경하세요.</string>
+    <string name="short_edit_guide">하단바의 아이콘을 짧게 눌렀을 때 사용할 기능을 설정할 수 있습니다.</string>
     <string name="long_edit_guide">하단바의 아이콘을 길게 눌렀을 때 사용할 기능을 설정할 수 있습니다.</string>
     <string name="swipe_edit_guide">하단바의 아이콘을 위로 스와이프할 때 사용할 기능을 설정할 수 있습니다.</string>
+    <string name="short_press">짧게 누르기</string>
     <string name="long_press">길게 누르기</string>
     <string name="swipe_up">위로 스와이프</string>
     <string name="memo_title">메모</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">야간 모드</string>
     <string name="day_mode">주간 모드</string>
     <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
+    <string name="use_tab_anim">탭 애니메이션 사용</string>
     <string name="suggest_engine">제안 엔진</string>
     <string name="without_load">새로고침 없이 뒤로가기</string>
     <string name="without_load_info_1">너무 많은 페이지가 열려있으면, 브라우저가 느려질 수 있습니다.</string>

@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript devre dışı bırakıldı.</string>
     <string name="icon_edit_guide_1">1. İşlevi değiştirmek için simgeye tıklayın.</string>
     <string name="icon_edit_guide_2">2. Konumunu değiştirmek için simgeyi sürükleyin.</string>
+    <string name="short_edit_guide">Alt çubuktaki simgeye kısa bastığınızda kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="long_edit_guide">Alt çubuktaki simgeyi basılı tuttuğunuzda kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="swipe_edit_guide">Alt çubuktaki simgeyi yukarı kaydırırken kullanılacak işlevi ayarlayabilirsiniz.</string>
+    <string name="short_press">Kısa basın</string>
     <string name="long_press">Uzun basma</string>
     <string name="swipe_up">Yukarı kaydırın</string>
     <string name="memo_title">Not</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">Gece modu</string>
     <string name="day_mode">Gündüz modu</string>
     <string name="use_scroll_anim">Kaydırma animasyonunu kullan</string>
+    <string name="use_tab_anim">Dokunma animasyonunu kullan</string>
     <string name="suggest_engine">Öneri motoru</string>
     <string name="without_load">Yenilemeden geri dönün</string>
     <string name="without_load_info_1">Çok fazla açık sayfanız varsa, tarayıcınız yavaş olabilir.</string>

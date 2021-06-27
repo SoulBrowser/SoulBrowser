@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript ist deaktiviert.</string>
     <string name="icon_edit_guide_1">1. Klicken Sie auf das Symbol, um die Funktion zu ändern.</string>
     <string name="icon_edit_guide_2">2. Ziehen Sie das Symbol, um seine Position zu ändern.</string>
+    <string name="short_edit_guide">Sie können die zu verwendende Funktion einstellen, wenn Sie das Symbol in der unteren Leiste kurz drücken.</string>
     <string name="long_edit_guide">Sie können die zu verwendende Funktion einstellen, wenn Sie das Symbol in der unteren Leiste gedrückt halten.</string>
     <string name="swipe_edit_guide">Sie können die Funktion festlegen, die beim Wischen des Symbols in der unteren Leiste verwendet werden soll.</string>
+    <string name="short_press">Kurz drücken</string>
     <string name="long_press">Lange drücken</string>
     <string name="swipe_up">Nach oben wischen</string>
     <string name="memo_title">Memo</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">Nacht-Modus</string>
     <string name="day_mode">Tages-Modus</string>
     <string name="use_scroll_anim">Verwenden Sie die Bildlaufanimation</string>
+    <string name="use_tab_anim">Tipp-Animation verwenden</string>
     <string name="suggest_engine">Vorschlag Motor</string>
     <string name="without_load">Gehen Sie ohne Aktualisierung zurück</string>
     <string name="without_load_info_1">Wenn Sie zu viele Seiten geöffnet haben, ist Ihr Browser möglicherweise langsam.</string>

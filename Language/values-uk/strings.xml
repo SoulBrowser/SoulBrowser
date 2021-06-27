@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript вимкнено.</string>
     <string name="icon_edit_guide_1">1. Клацніть на піктограму, щоб змінити функцію.</string>
     <string name="icon_edit_guide_2">2. Перетягніть піктограму, щоб змінити її положення.</string>
+    <string name="short_edit_guide">Ви можете встановити функцію, яка буде використовуватися при короткому натисканні значка на нижній панелі.</string>
     <string name="long_edit_guide">Ви можете встановити функцію, яку потрібно використовувати, натискаючи та утримуючи піктограму на нижній панелі.</string>
     <string name="swipe_edit_guide">Ви можете встановити функцію, яка буде використовуватись під час розгортання значка на нижній панелі.</string>
+    <string name="short_press">Коротке натискання</string>
     <string name="long_press">Тривале натискання</string>
     <string name="swipe_up">Проведіть пальцем вгору</string>
     <string name="memo_title">Пам\'ятка</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">Нічний режим</string>
     <string name="day_mode">Денний режим</string>
     <string name="use_scroll_anim">Показувати анімацію прокрутки</string>
+    <string name="use_tab_anim">Використовуйте анімацію натисканням</string>
     <string name="suggest_engine">Механізм пропозицій</string>
     <string name="without_load">Повернутися назад без оновлення</string>
     <string name="without_load_info_1">Якщо у вас відкрито забагато сторінок, ваш браузер може працювати повільно.</string>

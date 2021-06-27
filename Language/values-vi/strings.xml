@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript bị tắt.</string>
     <string name="icon_edit_guide_1">1. Nhấp vào biểu tượng để thay đổi chức năng.</string>
     <string name="icon_edit_guide_2">2. Kéo biểu tượng để thay đổi vị trí của nó.</string>
+    <string name="short_edit_guide">Bạn có thể đặt chức năng được sử dụng khi nhấn nhanh vào biểu tượng trên thanh dưới cùng.</string>
     <string name="long_edit_guide">Bạn có thể đặt chức năng sử dụng khi nhấn và giữ biểu tượng trên thanh dưới cùng.</string>
     <string name="swipe_edit_guide">Bạn có thể thiết lập chức năng để sử dụng khi vuốt lên biểu tượng trên thanh dưới cùng.</string>
+    <string name="short_press">Báo chí ngắn</string>
     <string name="long_press">Nhấn dài</string>
     <string name="swipe_up">Kéo mạnh lên</string>
     <string name="memo_title">Ghi nhớ</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">Chế độ ban đêm</string>
     <string name="day_mode">Chế độ ngày</string>
     <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
+    <string name="use_tab_anim">Sử dụng hoạt ảnh nhấn</string>
     <string name="suggest_engine">Công cụ đề xuất</string>
     <string name="without_load">Quay lại mà không làm mới</string>
     <string name="without_load_info_1">Nếu bạn mở quá nhiều trang, trình duyệt của bạn có thể chạy chậm.</string>

@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript отключен.</string>
     <string name="icon_edit_guide_1">1. Щелкните значок, чтобы изменить функцию.</string>
     <string name="icon_edit_guide_2">2. Перетащите значок, чтобы изменить его положение.</string>
+    <string name="short_edit_guide">Вы можете установить функцию, которая будет использоваться при кратковременном нажатии значка на нижней панели.</string>
     <string name="long_edit_guide">Вы можете установить функцию, выполняемую при нажатии и удержании кнопки на нижней панели.</string>
     <string name="swipe_edit_guide">Вы можете установить функцию, выполняемую при проведении вверх от кнопки на нижней панели.</string>
+    <string name="short_press">Короткое нажатие</string>
     <string name="long_press">Долгое нажатие</string>
     <string name="swipe_up">Проведите вверх</string>
     <string name="memo_title">Напоминание</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">Ночной режим</string>
     <string name="day_mode">Дневной режим</string>
     <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
+    <string name="use_tab_anim">Используйте анимацию касания</string>
     <string name="suggest_engine">Двигатель предложений</string>
     <string name="without_load">Не обновлять вкладку при возвращении</string>
     <string name="without_load_info_1">Если у вас открыто слишком много вкладок, ваш браузер может работать медленно.</string>

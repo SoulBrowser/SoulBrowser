@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript est désactivé.</string>
     <string name="icon_edit_guide_1">1. Cliquez sur l\'icône pour changer la fonction.</string>
     <string name="icon_edit_guide_2">2. Faites glisser l\'icône pour changer sa position.</string>
+    <string name="short_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous appuyez brièvement sur l\'icône de la barre inférieure.</string>
     <string name="long_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous maintenez enfoncée l\'icône sur la barre inférieure.</string>
     <string name="swipe_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous faites glisser l\'icône sur la barre inférieure.</string>
+    <string name="short_press">Appui court</string>
     <string name="long_press">Appui long</string>
     <string name="swipe_up">Balayez vers le haut</string>
     <string name="memo_title">Note</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">Mode nuit</string>
     <string name="day_mode">Mode jour</string>
     <string name="use_scroll_anim">Utiliser l\'animation de défilement</string>
+    <string name="use_tab_anim">Utiliser l\'animation tactile</string>
     <string name="suggest_engine">Moteur de suggestion</string>
     <string name="without_load">Revenir sans rafraîchir</string>
     <string name="without_load_info_1">Si vous avez trop de pages ouvertes, votre navigateur peut être lent.</string>

@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript 已禁用</string>
     <string name="icon_edit_guide_1">1. 單擊圖標更改功能</string>
     <string name="icon_edit_guide_2">2. 拖動圖標以更改其位置</string>
+    <string name="short_edit_guide">您可以設置短按底部欄上的圖標時要使用的功能</string>
     <string name="long_edit_guide">您可以設置按住底欄上的圖標時要使用的功能</string>
     <string name="swipe_edit_guide">您可以設置在向上滑動底部欄上的圖標時要使用的功能</string>
+    <string name="short_press">短按</string>
     <string name="long_press">長按</string>
     <string name="swipe_up">向上滑動</string>
     <string name="memo_title">備忘錄</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">夜間模式</string>
     <string name="day_mode">日間模式</string>
     <string name="use_scroll_anim">使用滾動動畫</string>
+    <string name="use_tab_anim">使用點擊動畫</string>
     <string name="suggest_engine">建議引擎</string>
     <string name="without_load">返回無刷新</string>
     <string name="without_load_info_1">如果打開的頁面太多，則瀏覽器可能運行緩慢</string>

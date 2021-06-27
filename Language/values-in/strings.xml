@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript dinonaktifkan.</string>
     <string name="icon_edit_guide_1">1. Klik ikon tersebut untuk mengubah fungsinya.</string>
     <string name="icon_edit_guide_2">2. Seret ikon untuk mengubah posisinya.</string>
+    <string name="short_edit_guide">Anda dapat mengatur fungsi yang akan digunakan saat Anda menekan singkat ikon di bilah bawah.</string>
     <string name="long_edit_guide">Anda dapat mengatur fungsi untuk digunakan saat Anda menekan dan menahan ikon di bilah bawah.</string>
     <string name="swipe_edit_guide">Anda dapat mengatur fungsi yang akan digunakan saat menggesek ikon di bar bagian bawah.</string>
+    <string name="short_press">Tekan singkat</string>
     <string name="long_press">Tekan lama</string>
     <string name="swipe_up">Geser ke atas</string>
     <string name="memo_title">Memo</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">Mode malam</string>
     <string name="day_mode">Mode hari</string>
     <string name="use_scroll_anim">Gunakan animasi gulir</string>
+    <string name="use_tab_anim">Gunakan animasi ketuk</string>
     <string name="suggest_engine">Mesin saran</string>
     <string name="without_load">Kembali tanpa penyegaran</string>
     <string name="without_load_info_1">Jika Anda membuka terlalu banyak halaman, browser Anda mungkin lambat.</string>

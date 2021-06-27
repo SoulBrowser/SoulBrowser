@@ -622,8 +622,10 @@
     <string name="js_disabled">تم تعطيل JavaScript.</string>
     <string name="icon_edit_guide_1">1. انقر فوق الرمز لتغيير الوظيفة.</string>
     <string name="icon_edit_guide_2">2. اسحب الرمز لتغيير الموقع.</string>
+    <string name="short_edit_guide">يمكنك ضبط الوظيفة المراد استخدامها عند الضغط لفترة قصيرة على الرمز الموجود في الشريط السفلي.</string>
     <string name="long_edit_guide">يمكنك ضبط الوظيفة لاستخدامها عند الضغط لفترة طويلة على الرمز الموجود في الشريط السفلي.</string>
     <string name="swipe_edit_guide">يمكنك ضبط الوظيفة لاستخدامها عند التمرير سريعًا فوق الرمز الموجود في الشريط السفلي.</string>
+    <string name="short_press">ضغطة قصيرة</string>
     <string name="long_press">ضغطة طويلة</string>
     <string name="swipe_up">اسحب للاعلى</string>
     <string name="memo_title">مذكرة</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">الوضع الليلي</string>
     <string name="day_mode">وضع اليوم</string>
     <string name="use_scroll_anim">استخدم التمرير للرسوم المتحركة</string>
+    <string name="use_tab_anim">استخدام الحنفية الرسوم المتحركة</string>
     <string name="suggest_engine">محرك الاقتراح</string>
     <string name="without_load">ارجع بدون تحديث</string>
     <string name="without_load_info_1">إذا كان لديك عدد كبير جدًا من الصفحات المفتوحة ، فقد يتباطأ متصفحك.</string>

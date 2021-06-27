@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScriptが無効になっています。</string>
     <string name="icon_edit_guide_1">1. アイコンをクリックして、機能を変更してください。</string>
     <string name="icon_edit_guide_2">2. アイコンをドラッグして位置を変更してください。</string>
+    <string name="short_edit_guide">下部バーのアイコンを短く押したとき、使用する機能を設定することができます。</string>
     <string name="long_edit_guide">下部バーのアイコンを長く押したとき、使用する機能を設定することができます。</string>
     <string name="swipe_edit_guide">下部バーのアイコンを上スワイプするとき、使用する機能を設定することができます。</string>
+    <string name="short_press">短く押す</string>
     <string name="long_press">長押し</string>
     <string name="swipe_up">上スワイプ</string>
     <string name="memo_title">メモ</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">ナイトモード</string>
     <string name="day_mode">週間モード</string>
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
+    <string name="use_tab_anim">タブのアニメーションを使用</string>
     <string name="suggest_engine">提案エンジン</string>
     <string name="without_load">リフレッシュせずに戻る</string>
     <string name="without_load_info_1">あまりにも多くのページが開いている場合は、ブラウザが遅くなることがあります。</string>

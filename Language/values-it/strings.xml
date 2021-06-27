@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript è disabilitato.</string>
     <string name="icon_edit_guide_1">1. Fare clic sull\'icona per modificare la funzione.</string>
     <string name="icon_edit_guide_2">2. Trascina l\'icona per modificarne la posizione.</string>
+    <string name="short_edit_guide">È possibile impostare la funzione da utilizzare quando si preme brevemente l\'icona nella barra in basso.</string>
     <string name="long_edit_guide">È possibile impostare la funzione da utilizzare quando si tiene premuta l\'icona sulla barra in basso.</string>
     <string name="swipe_edit_guide">È possibile impostare la funzione da utilizzare quando si scorre verso l\'alto l\'icona sulla barra in basso.</string>
+    <string name="short_press">Pressione breve</string>
     <string name="long_press">Premere a lungo</string>
     <string name="swipe_up">Scorrere verso l\'alto</string>
     <string name="memo_title">Promemoria</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">Modalità notturna</string>
     <string name="day_mode">Modalità giorno</string>
     <string name="use_scroll_anim">Usa l\'animazione di scorrimento</string>
+    <string name="use_tab_anim">Usa l\'animazione del tocco</string>
     <string name="suggest_engine">Motore di suggerimenti</string>
     <string name="without_load">Torna indietro senza aggiornare</string>
     <string name="without_load_info_1">Se hai troppe pagine aperte, il tuo browser potrebbe essere lento.</string>

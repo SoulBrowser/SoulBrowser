@@ -622,8 +622,10 @@
     <string name="js_disabled">已禁用 JavaScript 脚本</string>
     <string name="icon_edit_guide_1">1. 单击图标更改功能</string>
     <string name="icon_edit_guide_2">2. 拖动图标以更改位置</string>
+    <string name="short_edit_guide">您可以设置短按底部栏上的图标时要使用的功能</string>
     <string name="long_edit_guide">你可以设置按住底栏上的图标时要使用的功能</string>
     <string name="swipe_edit_guide">你可以设置在向上滑动底栏上图标时要使用的功能</string>
+    <string name="short_press">短按</string>
     <string name="long_press">长按</string>
     <string name="swipe_up">向上滑动</string>
     <string name="memo_title">备忘录</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">夜间模式</string>
     <string name="day_mode">日间模式</string>
     <string name="use_scroll_anim">滚动动画</string>
+    <string name="use_tab_anim">使用点击动画</string>
     <string name="suggest_engine">建议引擎</string>
     <string name="without_load">返回无刷新</string>
     <string name="without_load_info_1">如果打开的页面太多，则浏览器可能运行缓慢。</string>

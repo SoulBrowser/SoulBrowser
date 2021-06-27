@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript ถูกปิดใช้งาน</string>
     <string name="icon_edit_guide_1">1. คลิกไอคอนเพื่อเปลี่ยนฟังก์ชัน</string>
     <string name="icon_edit_guide_2">2. ลากไอคอนเพื่อเปลี่ยนตำแหน่ง</string>
+    <string name="short_edit_guide">คุณสามารถตั้งค่าฟังก์ชันที่จะใช้เมื่อคุณกดสั้น ๆ ที่ไอคอนที่แถบด้านล่าง</string>
     <string name="long_edit_guide">คุณสามารถตั้งค่าฟังก์ชั่นที่จะใช้เมื่อคุณกดไอคอนบนแถบด้านล่างค้างไว้</string>
     <string name="swipe_edit_guide">คุณสามารถตั้งค่าฟังก์ชั่นที่จะใช้เมื่อปัดขึ้นไอคอนบนแถบด้านล่าง</string>
+    <string name="short_press">กดสั้นๆ</string>
     <string name="long_press">กดแบบยาว</string>
     <string name="swipe_up">ปัดขึ้น</string>
     <string name="memo_title">บันทึก</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">โหมดกลางคืน</string>
     <string name="day_mode">โหมดวัน</string>
     <string name="use_scroll_anim">ใช้ภาพเคลื่อนไหวแบบเลื่อน</string>
+    <string name="use_tab_anim">ใช้แอนิเมชั่นการแตะ</string>
     <string name="suggest_engine">เครื่องมือข้อเสนอแนะ</string>
     <string name="without_load">ย้อนกลับโดยไม่รีเฟรช</string>
     <string name="without_load_info_1">หากคุณเปิดหน้าเว็บมากเกินไปเบราว์เซอร์ของคุณอาจทำงานช้า</string>

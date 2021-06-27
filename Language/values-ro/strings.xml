@@ -622,8 +622,10 @@
     <string name="js_disabled">JavaScript este dezactivat.</string>
     <string name="icon_edit_guide_1">1. Faceți clic pe pictogramă pentru a schimba funcția.</string>
     <string name="icon_edit_guide_2">2. Trageți pictograma pentru a-i schimba poziția.</string>
+    <string name="short_edit_guide">Puteți seta funcția care va fi utilizată când apăsați scurt pictograma din bara de jos.</string>
     <string name="long_edit_guide">Puteți seta funcția pe care o utilizați când apăsați și țineți apăsată pictograma de pe bara de jos.</string>
     <string name="swipe_edit_guide">Puteți seta funcția pe care o folosiți atunci când treceți pictograma în bara de jos.</string>
+    <string name="short_press">Apăsare scurtă</string>
     <string name="long_press">Apasare prelungită</string>
     <string name="swipe_up">Glisati in sus</string>
     <string name="memo_title">Notificare</string>
@@ -771,6 +773,7 @@
     <string name="night_mode">Mod de noapte</string>
     <string name="day_mode">Mod zi</string>
     <string name="use_scroll_anim">Utilizați animația de defilare</string>
+    <string name="use_tab_anim">Utilizați animația prin atingere</string>
     <string name="suggest_engine">Motor de sugestii</string>
     <string name="without_load">Reveniți fără reîmprospătare</string>
     <string name="without_load_info_1">Dacă aveți prea multe pagini deschise, browserul dvs. poate fi lent.</string>
