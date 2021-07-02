@@ -829,7 +829,7 @@
     <string name="check_element">Elementinspektion (feinkörnigere Blockierung)</string>
     <string name="quick_guide_1">1. Sie können sich bewegen, indem Sie das Symbol gedrückt halten.</string>
     <string name="quick_guide_2">2. Sie können Ordner erstellen, indem Sie Symbole überlappen.</string>
-    <string name="column_count">Spalten zählen</string>
+    <string name="column_count">Spaltenanzahl</string>
     <string name="auto_group">Automatische Gruppierung</string>
     <string name="auto_group_info">Sie werden automatisch gruppiert, wenn ein neues Fenster auf der Site geöffnet wird.</string>
     <string name="tab_guide_1">1. Sie können sich bewegen, indem Sie die Lasche gedrückt halten.</string>
