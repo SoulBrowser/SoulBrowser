@@ -108,6 +108,7 @@
     <string name="app_block_info2">Якщо інформація про сайт доступна, відкрийте сайт.</string>
     <string name="app_block_noti">Сайт намагається запустити іншу програму.</string>
     <string name="open_app">Додаток</string>
+    <string name="link_app">Відкрити посилання з додатком</string>
     <string name="link">Посилання</string>
     <string name="open_url">Відкрити</string>
     <string name="new_url">Нова вкладка</string>
@@ -508,8 +509,6 @@
     <string name="resize">Змініть розмір</string>
     <string name="added">Додано</string>
     <string name="changed">Змінено</string>
-    <string name="youtube_app">Запустити додаток YouTube</string>
-    <string name="youtube_app_info">Якщо Ви натиснете на посилання YouTube, запуститься додаток YouTube.</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">Потрібно встановити плагін.</string>
     <string name="report_site">Повідомити про сайт</string>

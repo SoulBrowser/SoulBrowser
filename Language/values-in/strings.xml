@@ -108,6 +108,7 @@
     <string name="app_block_info2">Jika informasi situs tersedia, buka situs.</string>
     <string name="app_block_noti">Situs ini mencoba menjalankan aplikasi lain.</string>
     <string name="open_app">Aplikasi</string>
+    <string name="link_app">Buka tautan dengan aplikasi</string>
     <string name="link">Tautan</string>
     <string name="open_url">Buka</string>
     <string name="new_url">Tab baru</string>
@@ -446,7 +447,7 @@
     <string name="history_time">Masa retensi</string>
     <string name="history_zero">Jangan simpan</string>
     <string name="history_1week">1 minggu</string>
-    <string name="history_1mon">1 месяц</string>
+    <string name="history_1mon">1 bulan</string>
     <string name="history_6mon">6 bulan</string>
     <string name="history_1year">1 tahun</string>
     <string name="history_none">Tidak terbatas</string>
@@ -470,7 +471,7 @@
     <string name="continue_input">Terus</string>
     <string name="pip_home">Beralih ke PIP dengan kunci rumah</string>
     <string name="memory_warning_1">Fitur ini menggunakan lebih banyak memori.</string>
-    <string name="memory_warning_2">Cẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
+    <string name="memory_warning_2">Hati-hati saat menggunakannya pada perangkat dengan memori rendah.</string>
     <string name="android_support">Didukung sejak Android %d.</string>
     <string name="secret_data">Pemisahan data web</string>
     <string name="secret_data_info_1">Kelola data secara terpisah seperti cookie dan cache.</string>
@@ -508,8 +509,6 @@
     <string name="resize">Ubah ukuran</string>
     <string name="added">Ditambahkan</string>
     <string name="changed">Berubah</string>
-    <string name="youtube_app">Luncurkan aplikasi YouTube</string>
-    <string name="youtube_app_info">Jika Anda mengklik tautan YouTube, aplikasi YouTube akan diluncurkan.</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">Diperlukan instalasi plugin.</string>
     <string name="report_site">Laporkan situs</string>

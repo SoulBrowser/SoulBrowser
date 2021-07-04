@@ -108,6 +108,7 @@
     <string name="app_block_info2">사이트 정보를 사용할 수 있는 경우, 사이트를 엽니다.</string>
     <string name="app_block_noti">사이트에서 다른 앱을 실행하려고합니다.</string>
     <string name="open_app">앱</string>
+    <string name="link_app">앱으로 링크 열기</string>
     <string name="link">링크</string>
     <string name="open_url">열기</string>
     <string name="new_url">새 탭</string>
@@ -508,8 +509,6 @@
     <string name="resize">크기 조정</string>
     <string name="added">추가되었습니다.</string>
     <string name="changed">변경되었습니다.</string>
-    <string name="youtube_app">YouTube 앱 실행</string>
-    <string name="youtube_app_info">YouTube 링크를 클릭하면, YouTube 앱이 실행됩니다.</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">플러그인 설치가 필요합니다.</string>
     <string name="report_site">사이트 제보</string>

@@ -108,6 +108,7 @@
     <string name="app_block_info2">Se sono disponibili informazioni sul sito, aprire il sito.</string>
     <string name="app_block_noti">Il sito sta tentando di eseguire un\'altra app.</string>
     <string name="open_app">App</string>
+    <string name="link_app">Apri collegamento con l\'app</string>
     <string name="link">Collegamento</string>
     <string name="open_url">Apri</string>
     <string name="new_url">Nuova scheda</string>
@@ -508,8 +509,6 @@
     <string name="resize">Ridimensionamento</string>
     <string name="added">Aggiunto</string>
     <string name="changed">Cambiato</string>
-    <string name="youtube_app">Avvia l\'app YouTube</string>
-    <string name="youtube_app_info">Se fai clic sul link YouTube, verrà avviata l\'app YouTube.</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">È richiesta l\'installazione del plugin.</string>
     <string name="report_site">Segnala sito</string>
@@ -837,7 +836,7 @@
     <string name="debug_mode">Debug web</string>
     <string name="debug_mode_info">Puoi eseguire il debug con USB.</string>
     <string name="default_browser">Imposta come browser predefinito</string>
-    <string name="news_title">Notizia</string>
+    <string name="news_title">Notizie</string>
     <string name="news_loading">Caricamento delle notizie&#8230;</string>
     <string name="news_show">Mostra notizie</string>
     <string name="news_info_1">Fonte di notizie</string>
@@ -853,5 +852,5 @@
     <string name="news_topic_science">Scienza</string>
     <string name="news_topic_health">Salute</string>
     <string name="search_icon">Pulsante di ricerca</string>
-    <string name="no_news">Nessuna notizia è stata trovata.</string>
+    <string name="no_news">Nessuna notizie è stata trovata.</string>
 </resources>

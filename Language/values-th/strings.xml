@@ -108,6 +108,7 @@
     <string name="app_block_info2">หากมีข้อมูลไซต์ให้เปิดไซต์</string>
     <string name="app_block_noti">ไซต์กำลังพยายามเรียกใช้แอปอื่น</string>
     <string name="open_app">แอป</string>
+    <string name="link_app">เปิดลิงค์ด้วยแอพ</string>
     <string name="link">ลิงค์</string>
     <string name="open_url">เปิด</string>
     <string name="new_url">แท็บใหม่</string>
@@ -508,8 +509,6 @@
     <string name="resize">ปรับขนาด</string>
     <string name="added">ที่เพิ่ม</string>
     <string name="changed">การเปลี่ยนแปลง</string>
-    <string name="youtube_app">เปิดแอป YouTube</string>
-    <string name="youtube_app_info">หากคุณคลิกที่ลิงก์ YouTube แอป YouTube จะเปิดขึ้น</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">จำเป็นต้องมีการติดตั้งปลั๊กอิน</string>
     <string name="report_site">เว็บไซต์รายงาน</string>

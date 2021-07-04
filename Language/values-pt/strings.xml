@@ -108,6 +108,7 @@
     <string name="app_block_info2">Se as informações do site estiverem disponíveis, abra o site.</string>
     <string name="app_block_noti">O site está tentando executar outro aplicativo.</string>
     <string name="open_app">Aplicativo</string>
+    <string name="link_app">Abrir link com o aplicativo</string>
     <string name="link">Ligação</string>
     <string name="open_url">Aberto</string>
     <string name="new_url">Nova aba</string>
@@ -508,8 +509,6 @@
     <string name="resize">Redimensionar</string>
     <string name="added">Adicionado</string>
     <string name="changed">Alterado</string>
-    <string name="youtube_app">Iniciar o aplicativo do YouTube</string>
-    <string name="youtube_app_info">Se você clicar no link do YouTube, o aplicativo do YouTube será iniciado.</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">A instalação do plugin é necessária.</string>
     <string name="report_site">Relatório de site</string>

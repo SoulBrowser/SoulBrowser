@@ -108,6 +108,7 @@
     <string name="app_block_info2">إذا كانت معلومات الموقع متوفرة ، افتح الموقع.</string>
     <string name="app_block_noti">أحاول تشغيل تطبيق آخر على الموقع.</string>
     <string name="open_app">برنامج</string>
+    <string name="link_app">افتح الرابط مع التطبيق</string>
     <string name="link">حلقة الوصل</string>
     <string name="open_url">حرارة</string>
     <string name="new_url">علامة تبويب جديدة</string>
@@ -508,8 +509,6 @@
     <string name="resize">تغيير الحجم</string>
     <string name="added">تمت إضافة.</string>
     <string name="changed">تغير.</string>
-    <string name="youtube_app">قم بتشغيل تطبيق YouTube</string>
-    <string name="youtube_app_info">يؤدي النقر فوق رابط YouTube إلى تشغيل تطبيق YouTube.</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">تركيب المكونات في حاجة.</string>
     <string name="report_site">تقرير الموقع</string>

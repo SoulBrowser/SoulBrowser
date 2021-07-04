@@ -108,6 +108,7 @@
     <string name="app_block_info2">サイト情報を利用することができている場合は、サイトを開きます。</string>
     <string name="app_block_noti">サイトが他のアプリを実行しようとします。</string>
     <string name="open_app">アプリ</string>
+    <string name="link_app">アプリでリンクを開く</string>
     <string name="link">リンク</string>
     <string name="open_url">オープン</string>
     <string name="new_url">新しいタブ</string>
@@ -508,8 +509,6 @@
     <string name="resize">サイズ調整</string>
     <string name="added">追加された</string>
     <string name="changed">変更された</string>
-    <string name="youtube_app">YouTubeアプリを起動する</string>
-    <string name="youtube_app_info">YouTubeのリンクをクリックすると、YouTubeアプリが実行されます。</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">プラグインのインストールが必要です。</string>
     <string name="report_site">サイト情報提供</string>

@@ -108,6 +108,7 @@
     <string name="app_block_info2">Site bilgisi mevcutsa siteyi açın.</string>
     <string name="app_block_noti">Site başka bir uygulamayı çalıştırmaya çalışıyor.</string>
     <string name="open_app">Uygulama</string>
+    <string name="link_app">Bağlantıyı uygulama ile aç</string>
     <string name="link">Bağlantı</string>
     <string name="open_url">Aç</string>
     <string name="new_url">Yeni sekme</string>
@@ -508,8 +509,6 @@
     <string name="resize">Yeniden boyutlandırma</string>
     <string name="added">Katma</string>
     <string name="changed">Değişmiş</string>
-    <string name="youtube_app">YouTube uygulamasını başlat</string>
-    <string name="youtube_app_info">YouTube bağlantısını tıklarsanız, YouTube uygulaması başlayacaktır.</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">Eklenti kurulumu gereklidir.</string>
     <string name="report_site">Site bildir</string>

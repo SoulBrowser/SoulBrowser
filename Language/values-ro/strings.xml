@@ -108,6 +108,7 @@
     <string name="app_block_info2">Dacă sunt disponibile informații despre site, deschideți site-ul.</string>
     <string name="app_block_noti">Site-ul încearcă să ruleze o altă aplicație.</string>
     <string name="open_app">Aplicație</string>
+    <string name="link_app">Deschideți linkul cu aplicația</string>
     <string name="link">Legătură</string>
     <string name="open_url">Deschide</string>
     <string name="new_url">Fila nouă</string>
@@ -508,8 +509,6 @@
     <string name="resize">Redimensionare</string>
     <string name="added">Adăugat</string>
     <string name="changed">Schimbat</string>
-    <string name="youtube_app">Lansați aplicația YouTube</string>
-    <string name="youtube_app_info">Dacă faceți clic pe linkul YouTube, aplicația YouTube se va lansa.</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">Este necesară instalarea pluginului.</string>
     <string name="report_site">Site raport</string>

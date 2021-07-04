@@ -108,6 +108,7 @@
     <string name="app_block_info2">Nếu thông tin trang web có sẵn, hãy mở trang web.</string>
     <string name="app_block_noti">Trang web đang cố gắng chạy một ứng dụng khác.</string>
     <string name="open_app">Ứng dụng</string>
+    <string name="link_app">Mở liên kết với ứng dụng</string>
     <string name="link">Liên kết</string>
     <string name="open_url">Mở</string>
     <string name="new_url">Tab mới</string>
@@ -508,8 +509,6 @@
     <string name="resize">Thay đổi kích thước</string>
     <string name="added">Đã thêm</string>
     <string name="changed">Thay đổi</string>
-    <string name="youtube_app">Khởi chạy ứng dụng YouTube</string>
-    <string name="youtube_app_info">Nếu bạn nhấp vào liên kết YouTube, ứng dụng YouTube sẽ khởi chạy.</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">Yêu cầu cài đặt trình cắm.</string>
     <string name="report_site">Trang web báo cáo</string>

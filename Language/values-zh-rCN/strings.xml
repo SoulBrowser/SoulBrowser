@@ -108,6 +108,7 @@
     <string name="app_block_info2">如果站点信息可用，请打开站点</string>
     <string name="app_block_noti">该网站尝试运行另外一个应用程序</string>
     <string name="open_app">应用程序</string>
+    <string name="link_app">使用应用程序打开链接</string>
     <string name="link">链接</string>
     <string name="open_url">打开链接</string>
     <string name="new_url">新标签</string>
@@ -508,8 +509,6 @@
     <string name="resize">调整大小</string>
     <string name="added">已添加</string>
     <string name="changed">已变更</string>
-    <string name="youtube_app">打开 YouTube 应用</string>
-    <string name="youtube_app_info">如果你单击 YouTube 链接，则会打开 YouTube 应用</string>
     <string name="vpn">VPN</string>
     <string name="plugin_guide">需要安装插件</string>
     <string name="report_site">反馈网站</string>
