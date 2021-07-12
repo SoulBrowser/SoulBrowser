@@ -773,7 +773,7 @@
     <string name="day_mode">Tages-Modus</string>
     <string name="use_scroll_anim">Verwenden Sie die Bildlaufanimation</string>
     <string name="use_tab_anim">Tipp-Animation verwenden</string>
-    <string name="suggest_engine">Vorschlag Motor</string>
+    <string name="suggest_engine">Vorschlagsmanagement</string>
     <string name="without_load">Gehen Sie ohne Aktualisierung zurück</string>
     <string name="without_load_info_1">Wenn Sie zu viele Seiten geöffnet haben, ist Ihr Browser möglicherweise langsam.</string>
     <string name="without_load_info_2">Der für die Seitenerstellung verwendete Speicher wird beim Schließen der App automatisch gelöscht.</string>
@@ -790,7 +790,7 @@
     <string name="web_title">Netz</string>
     <string name="color_title">Farbe</string>
     <string name="no_icon">Es gibt kein Symbol.</string>
-    <string name="video_player">Spieler</string>
+    <string name="video_player">Videoabspieler</string>
     <string name="security">Sicherheit</string>
     <string name="keyboard_secure">Tastatursicherheit</string>
     <string name="keyboard_secure_info_1">Was auch immer Sie mit der Tastatur in die Adressleiste eingeben, wird nicht gespeichert.</string>
