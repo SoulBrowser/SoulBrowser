@@ -510,7 +510,6 @@
     <string name="added">تمت إضافة.</string>
     <string name="changed">تغير.</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">تركيب المكونات في حاجة.</string>
     <string name="report_site">تقرير الموقع</string>
     <string name="report_down">يرجى تقديم عنوان الموقع حيث لا يمكن تنزيل الفيديو.</string>
     <string name="report_dark">من فضلك قل لي عنوان الموقع الذي يواجه مشاكل مع المظهر الداكن.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">هناك مشكلة في إعدادات إعلانك. يرجى تعيينه مرة أخرى.</string>
     <string name="original_size">الحجم الأصلي</string>
     <string name="reduced_size">حجم مخفض (موصى به)</string>
+    <string name="site_app">إظهار تطبيق الموقع</string>
     <string name="finger_print">التعرف على بصمات الأصابع</string>
     <string name="finger_unavailable">لا يمكن للمستخدم المصادقة لأن الجهاز غير متوفر. الرجاء معاودة المحاولة في وقت لاحق.</string>
     <string name="finger_register">لا يمكن للمستخدم المصادقة لعدم وجود بصمة إصبع مسجلة.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">صحة</string>
     <string name="search_icon">زر البحث</string>
     <string name="no_news">لم يتم العثور على أخبار.</string>
+    <string name="vpn_active">تمكين VPN</string>
+    <string name="vpn_deactive">VPN معطل</string>
+    <string name="vpn_server">الخادم</string>
+    <string name="visit_site">قم بزيارة الموقع</string>
 </resources>

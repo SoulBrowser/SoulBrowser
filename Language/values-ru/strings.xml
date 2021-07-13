@@ -413,8 +413,8 @@
     <string name="show_reader">Показать кнопку режима чтения</string>
     <string name="album_shortcut">Создать ярлык альбома</string>
     <string name="album_short_info">Создать ярлык альбома на главном экране.</string>
-    <string name="cast_shortcut">Создать ярлык трасляции</string>
-    <string name="cast_short_info">Создать ярлык трасляции на главном экране.</string>
+    <string name="cast_shortcut">Создать ярлык трансляции</string>
+    <string name="cast_short_info">Создать ярлык трансляции на главном экране.</string>
     <string name="list_menu">Меню</string>
     <string name="ads_white">Белый список объявлений</string>
     <string name="pop_white">Белый список всплывающих окон</string>
@@ -510,7 +510,6 @@
     <string name="added">Добавлено</string>
     <string name="changed">Изменено</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">Требуется установка плагина.</string>
     <string name="report_site">Сообщить о проблемах с сайтом</string>
     <string name="report_down">Пожалуйста, укажите адрес сайта, где Вы не можете скачать видео.</string>
     <string name="report_dark">Укажите адрес сайта, на котором возникают проблемы с темной темой.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">Проблема с настройками рекламы. Пожалуйста, установите их снова.</string>
     <string name="original_size">Оригинальный размер</string>
     <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
+    <string name="site_app">Показать кнопку приложения сайта</string>
     <string name="finger_print">Отпечаток пальца</string>
     <string name="finger_unavailable">Пользователь не может пройти аутентификацию, потому что оборудование недоступно. Попробуйте позже.</string>
     <string name="finger_register">Пользователь не может пройти аутентификацию, потому что отпечаток пальца не зарегистрирован.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Здоровье</string>
     <string name="search_icon">Кнопка поиска</string>
     <string name="no_news">Новостей не найдено.</string>
+    <string name="vpn_active">VPN активирован</string>
+    <string name="vpn_deactive">VPN деактивирован</string>
+    <string name="vpn_server">Сервер</string>
+    <string name="visit_site">Посетите сайт</string>
 </resources>

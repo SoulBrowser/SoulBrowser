@@ -510,7 +510,6 @@
     <string name="added">Đã thêm</string>
     <string name="changed">Thay đổi</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">Yêu cầu cài đặt trình cắm.</string>
     <string name="report_site">Trang web báo cáo</string>
     <string name="report_down">Vui lòng cung cấp địa chỉ của trang web nơi bạn không thể tải xuống video.</string>
     <string name="report_dark">Vui lòng cung cấp địa chỉ của trang web đang gặp sự cố với chủ đề tối.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">Có vấn đề với cài đặt quảng cáo. Vui lòng đặt lại.</string>
     <string name="original_size">Kích thước nguyên mẫu</string>
     <string name="reduced_size">Giảm kích thước (khuyến nghị)</string>
+    <string name="site_app">Nút hiển thị ứng dụng trang web</string>
     <string name="finger_print">Vân tay</string>
     <string name="finger_unavailable">Người dùng không thể xác thực vì phần cứng không khả dụng. Thử lại sau.</string>
     <string name="finger_register">Người dùng không thể xác thực vì không có vân tay nào được đăng ký.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Sức khỏe</string>
     <string name="search_icon">Nút tìm kiếm</string>
     <string name="no_news">Không có tin tức được tìm thấy.</string>
+    <string name="vpn_active">VPN được kích hoạt</string>
+    <string name="vpn_deactive">VPN bị vô hiệu hóa</string>
+    <string name="vpn_server">Máy chủ</string>
+    <string name="visit_site">Thăm trang web</string>
 </resources>

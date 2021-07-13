@@ -510,7 +510,6 @@
     <string name="added">Додано</string>
     <string name="changed">Змінено</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">Потрібно встановити плагін.</string>
     <string name="report_site">Повідомити про сайт</string>
     <string name="report_down">Вкажіть, будь ласка, адресу веб-сайту, на якому неможливо завантажити відео.</string>
     <string name="report_dark">Будь ласка, вкажіть адресу веб-сайту, який має проблеми з темною темою.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">Виникла проблема з налаштуваннями реклами. Будь ласка, встановіть їх знову.</string>
     <string name="original_size">Оригінальний розмір</string>
     <string name="reduced_size">Зменшений розмір (рекомендується)</string>
+    <string name="site_app">Показати кнопку додатка сайту</string>
     <string name="finger_print">Відбиток пальця</string>
     <string name="finger_unavailable">Користувач не може автентифікуватися, оскільки обладнання недоступне. Спробуйте ще раз пізніше.</string>
     <string name="finger_register">Користувач не може автентифікуватися, оскільки відбиток пальця не зареєстровано.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Здоров\'я</string>
     <string name="search_icon">Кнопка пошуку</string>
     <string name="no_news">Новин не знайдено.</string>
+    <string name="vpn_active">VPN активовано</string>
+    <string name="vpn_deactive">VPN деактивовано</string>
+    <string name="vpn_server">Сервер</string>
+    <string name="visit_site">Відвідайте сайт</string>
 </resources>

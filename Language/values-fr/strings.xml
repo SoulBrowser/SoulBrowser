@@ -510,7 +510,6 @@
     <string name="added">Ajouté</string>
     <string name="changed">Changé</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">L\'installation de plugin est requise.</string>
     <string name="report_site">Rapport d\'erreur</string>
     <string name="report_down">Veuillez fournir l\'adresse du site dont vous ne pouvez pas télécharger la vidéo.</string>
     <string name="report_dark">Veuillez fournir l\'adresse du site qui rencontre des problèmes avec le thème sombre.</string>
@@ -652,7 +651,7 @@
     <string name="tab_keyboard">Activer le clavier lors de l\'ajout d\'un onglet</string>
     <string name="swipe">Glisser</string>
     <string name="page_move">Déplacer la page</string>
-    <string name="tab_move">Déplacer la onglet</string>
+    <string name="tab_move">Déplacer l\'onglet</string>
     <string name="move_up">Haut</string>
     <string name="move_down">Bas</string>
     <string name="move_left">Gauche</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">Il y a un problème avec les paramètres d\'annonce. Veuillez le régler à nouveau.</string>
     <string name="original_size">Format original</string>
     <string name="reduced_size">Taille réduite (recommandé)</string>
+    <string name="site_app">Afficher le bouton de l\'application du site</string>
     <string name="finger_print">Empreinte digitale</string>
     <string name="finger_unavailable">L\'utilisateur ne peut pas s\'authentifier car le matériel n\'est pas disponible. Réessayez plus tard.</string>
     <string name="finger_register">L\'utilisateur ne peut pas s\'authentifier car aucune empreinte digitale n\'est enregistrée.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Santé</string>
     <string name="search_icon">Bouton de recherche</string>
     <string name="no_news">Aucune nouvelle n\'a été trouvée.</string>
+    <string name="vpn_active">VPN est activé</string>
+    <string name="vpn_deactive">VPN est désactivé</string>
+    <string name="vpn_server">Serveur</string>
+    <string name="visit_site">Visiter le site</string>
 </resources>

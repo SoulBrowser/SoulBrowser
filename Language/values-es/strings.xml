@@ -510,7 +510,6 @@
     <string name="added">Agregado</string>
     <string name="changed">Cambiado</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">Se requiere instalación enchufable.</string>
     <string name="report_site">Informe del sitio</string>
     <string name="report_down">Proporcione la dirección del sitio donde no puede descargar el video.</string>
     <string name="report_dark">Proporcione la dirección del sitio que tiene problemas con el tema oscuro.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">Hay un problema con la configuración de anuncios. Vuelva a configurarlo.</string>
     <string name="original_size">Tamaño original</string>
     <string name="reduced_size">Tamaño reducido (recomendado)</string>
+    <string name="site_app">Mostrar el botón de la aplicación del sitio</string>
     <string name="finger_print">Huella dactilar</string>
     <string name="finger_unavailable">El usuario no puede autenticarse porque el hardware no está disponible. Vuelve a intentarlo más tarde.</string>
     <string name="finger_register">El usuario no puede autenticarse porque no se registra ninguna huella digital.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Salud</string>
     <string name="search_icon">Botón de búsqueda</string>
     <string name="no_news">No se encontraron noticias.</string>
+    <string name="vpn_active">VPN está activado</string>
+    <string name="vpn_deactive">VPN está desactivado</string>
+    <string name="vpn_server">Servidor</string>
+    <string name="visit_site">Visitar el sitio</string>
 </resources>

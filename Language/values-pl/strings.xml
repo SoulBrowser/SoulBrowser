@@ -510,7 +510,6 @@
     <string name="added">Dodano</string>
     <string name="changed">Zmieniono</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">Wymagana jest instalacja wtyczki.</string>
     <string name="report_site">Zgłoś stronę</string>
     <string name="report_down">Podaj adres strony, z której nie można pobrać filmu.</string>
     <string name="report_dark">Podaj adres witryny, która ma problemy z ciemnym motywem.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">Wystąpił problem z ustawieniami reklam. Ustaw ponownie.</string>
     <string name="original_size">Oryginalny rozmiar</string>
     <string name="reduced_size">Zmniejszony rozmiar (zalecane)</string>
+    <string name="site_app">Pokaż przycisk aplikacji witryny</string>
     <string name="finger_print">Odcisk palca</string>
     <string name="finger_unavailable">Użytkownik nie może się uwierzytelnić, ponieważ sprzęt jest niedostępny. Spróbuj ponownie później.</string>
     <string name="finger_register">Użytkownik nie może się uwierzytelnić, ponieważ nie jest zarejestrowany żaden odcisk palca.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Zdrowie</string>
     <string name="search_icon">Przycisk wyszukiwania</string>
     <string name="no_news">Nie znaleziono żadnych wiadomości.</string>
+    <string name="vpn_active">VPN jest aktywowany</string>
+    <string name="vpn_deactive">VPN jest wyłączony</string>
+    <string name="vpn_server">Serwer</string>
+    <string name="visit_site">Odwiedź stronę</string>
 </resources>

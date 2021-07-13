@@ -510,7 +510,6 @@
     <string name="added">已新增</string>
     <string name="changed">已變更</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">需要插件安裝</string>
     <string name="report_site">報告網站</string>
     <string name="report_down">請提供您無法下載影片的網站網址</string>
     <string name="report_dark">請提供深色主題有問題的網站網址</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">廣告設置存在問題。 請重新設置</string>
     <string name="original_size">原始尺寸</string>
     <string name="reduced_size">縮小尺寸（推薦）</string>
+    <string name="site_app">顯示網站應用程序按鈕</string>
     <string name="finger_print">指紋</string>
     <string name="finger_unavailable">由於硬件不可用，用戶無法進行身份驗證。 稍後再試</string>
     <string name="finger_register">用戶無法驗證，因為未註冊任何指紋</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">健康</string>
     <string name="search_icon">搜索按鈕</string>
     <string name="no_news">沒有找到任何消息</string>
+    <string name="vpn_active">VPN已激活</string>
+    <string name="vpn_deactive">VPN已停用</string>
+    <string name="vpn_server">服務器</string>
+    <string name="visit_site">訪問網站</string>
 </resources>

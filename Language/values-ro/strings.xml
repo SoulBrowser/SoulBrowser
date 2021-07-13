@@ -510,7 +510,6 @@
     <string name="added">Adăugat</string>
     <string name="changed">Schimbat</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">Este necesară instalarea pluginului.</string>
     <string name="report_site">Site raport</string>
     <string name="report_down">Vă rugăm să furnizați adresa site-ului unde videoclipul nu poate fi descărcat.</string>
     <string name="report_dark">Vă rugăm să furnizați adresa site-ului care are probleme cu tema întunecată.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">Există o problemă cu setările pentru anunțuri. Vă rugăm să setați din nou.</string>
     <string name="original_size">Mărimea originală</string>
     <string name="reduced_size">Dimensiune redusă (recomandat)</string>
+    <string name="site_app">Afișați butonul aplicației site-ului</string>
     <string name="finger_print">Amprentă digitală</string>
     <string name="finger_unavailable">Utilizatorul nu se poate autentifica deoarece hardware-ul nu este disponibil. Încercați mai târziu.</string>
     <string name="finger_register">Utilizatorul nu se poate autentifica deoarece nu este înregistrată nicio amprentă.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Sănătate</string>
     <string name="search_icon">Butonul de căutare</string>
     <string name="no_news">Nu s-au găsit noutăți.</string>
+    <string name="vpn_active">VPN este activat</string>
+    <string name="vpn_deactive">VPN este dezactivat</string>
+    <string name="vpn_server">Server</string>
+    <string name="visit_site">Vizitați site-ul</string>
 </resources>

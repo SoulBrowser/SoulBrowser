@@ -510,7 +510,6 @@
     <string name="added">Katma</string>
     <string name="changed">Değişmiş</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">Eklenti kurulumu gereklidir.</string>
     <string name="report_site">Site bildir</string>
     <string name="report_down">Lütfen videoyu indiremediğiniz sitenin adresini belirtin.</string>
     <string name="report_dark">Lütfen karanlık temayla sorun yaşayan sitenin adresini sağlayın.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">Reklam ayarlarında bir sorun var. Lütfen yeniden ayarlayın.</string>
     <string name="original_size">Orijinal boyut</string>
     <string name="reduced_size">Küçültülmüş boyut (önerilir)</string>
+    <string name="site_app">Site uygulaması düğmesini göster</string>
     <string name="finger_print">Parmak izi</string>
     <string name="finger_unavailable">Donanım kullanılamadığı için kullanıcı kimlik doğrulaması yapamaz. Daha sonra tekrar deneyin.</string>
     <string name="finger_register">Kullanıcı, kayıtlı parmak izi olmadığı için kimlik doğrulayamaz.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Sağlık</string>
     <string name="search_icon">Arama düğmesi</string>
     <string name="no_news">Haber bulunamadı.</string>
+    <string name="vpn_active">VPN etkin</string>
+    <string name="vpn_deactive">VPN devre dışı</string>
+    <string name="vpn_server">Sunucu</string>
+    <string name="visit_site">Siteyi ziyaret et</string>
 </resources>

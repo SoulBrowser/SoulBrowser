@@ -510,7 +510,6 @@
     <string name="added">已添加</string>
     <string name="changed">已变更</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">需要安装插件</string>
     <string name="report_site">反馈网站</string>
     <string name="report_down">请提供无法下载视频的网站地址</string>
     <string name="report_dark">请提供深色主题有问题的网站地址</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">广告设置存在问题。 请重新设置</string>
     <string name="original_size">原始尺寸</string>
     <string name="reduced_size">缩小尺寸（推荐）</string>
+    <string name="site_app">显示网站应用程序按钮</string>
     <string name="finger_print">指纹</string>
     <string name="finger_unavailable">由于硬件不可用，用户无法进行身份验证。 稍后再试</string>
     <string name="finger_register">用户无法验证，因为未注册任何指纹</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">健康</string>
     <string name="search_icon">搜索按钮</string>
     <string name="no_news">没有找到任何消息</string>
+    <string name="vpn_active">VPN已激活</string>
+    <string name="vpn_deactive">VPN已停用</string>
+    <string name="vpn_server">服务器</string>
+    <string name="visit_site">访问网站</string>
 </resources>

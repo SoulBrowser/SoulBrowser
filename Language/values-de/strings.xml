@@ -510,7 +510,6 @@
     <string name="added">Hinzugefügt</string>
     <string name="changed">Geändert</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">Plugin-Installation ist erforderlich.</string>
     <string name="report_site">Website melden</string>
     <string name="report_down">Bitte geben Sie die Adresse der Seite an, auf der das Video nicht heruntergeladen werden kann.</string>
     <string name="report_dark">Bitte geben Sie die Adresse der Seite an, auf der Probleme mit dem dunklen Thema auftreten.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">Es liegt ein Problem mit den Anzeigeneinstellungen vor. Bitte stellen Sie es erneut ein.</string>
     <string name="original_size">Originalgröße</string>
     <string name="reduced_size">Reduzierte Größe (empfohlen)</string>
+    <string name="site_app">Schaltfläche Site-App anzeigen</string>
     <string name="finger_print">Fingerabdruck</string>
     <string name="finger_unavailable">Der Benutzer kann sich nicht authentifizieren, da die Hardware nicht verfügbar ist. Versuchen Sie es später erneut.</string>
     <string name="finger_register">Der Benutzer kann sich nicht authentifizieren, da kein Fingerabdruck registriert ist.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Gesundheit</string>
     <string name="search_icon">Suchschaltfläche</string>
     <string name="no_news">Es wurden keine Nachrichten gefunden.</string>
+    <string name="vpn_active">VPN ist aktiviert</string>
+    <string name="vpn_deactive">VPN ist deaktiviert</string>
+    <string name="vpn_server">Server</string>
+    <string name="visit_site">Besuchen Sie die Website</string>
 </resources>

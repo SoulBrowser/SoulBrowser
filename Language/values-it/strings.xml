@@ -510,7 +510,6 @@
     <string name="added">Aggiunto</string>
     <string name="changed">Cambiato</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">È richiesta l\'installazione del plugin.</string>
     <string name="report_site">Segnala sito</string>
     <string name="report_down">Fornisci l\'indirizzo del sito in cui non è possibile scaricare il video.</string>
     <string name="report_dark">Fornisci l\'indirizzo del sito che ha problemi con il tema scuro.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">C\'è un problema con le impostazioni degli annunci. Per favore impostalo di nuovo.</string>
     <string name="original_size">Misura originale</string>
     <string name="reduced_size">Dimensioni ridotte (consigliato)</string>
+    <string name="site_app">Mostra il pulsante dell\'app del sito</string>
     <string name="finger_print">impronta digitale</string>
     <string name="finger_unavailable">L\'utente non può autenticarsi perché l\'hardware non è disponibile. Riprovare più tardi.</string>
     <string name="finger_register">L\'utente non può autenticarsi perché non è stata registrata alcuna impronta digitale.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Salute</string>
     <string name="search_icon">Pulsante di ricerca</string>
     <string name="no_news">Nessuna notizie è stata trovata.</string>
+    <string name="vpn_active">La VPN è attivata</string>
+    <string name="vpn_deactive">La VPN è disattivata</string>
+    <string name="vpn_server">Server</string>
+    <string name="visit_site">Visita il sito</string>
 </resources>

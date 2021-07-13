@@ -510,7 +510,6 @@
     <string name="added">ที่เพิ่ม</string>
     <string name="changed">การเปลี่ยนแปลง</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">จำเป็นต้องมีการติดตั้งปลั๊กอิน</string>
     <string name="report_site">เว็บไซต์รายงาน</string>
     <string name="report_down">โปรดระบุที่อยู่ของเว็บไซต์ที่คุณไม่สามารถดาวน์โหลดวิดีโอได้</string>
     <string name="report_dark">โปรดระบุที่อยู่ของไซต์ที่มีปัญหากับธีมสีเข้ม</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">มีปัญหากับการตั้งค่าโฆษณา กรุณาตั้งค่าใหม่อีกครั้ง</string>
     <string name="original_size">ขนาดเดิม</string>
     <string name="reduced_size">ลดขนาดลง (แนะนำ)</string>
+    <string name="site_app">แสดงปุ่มแอปไซต์</string>
     <string name="finger_print">ลายนิ้วมือ</string>
     <string name="finger_unavailable">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากฮาร์ดแวร์ไม่พร้อมใช้งาน โปรดลองอีกครั้งในภายหลัง</string>
     <string name="finger_register">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากไม่มีการลงทะเบียนลายนิ้วมือ</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">สุขภาพ</string>
     <string name="search_icon">ปุ่มค้นหา</string>
     <string name="no_news">ไม่พบข่าว</string>
+    <string name="vpn_active">เปิดใช้งาน VPN</string>
+    <string name="vpn_deactive">ปิดการใช้งาน VPN</string>
+    <string name="vpn_server">เซิร์ฟเวอร์</string>
+    <string name="visit_site">เยี่ยมชมเว็บไซต์</string>
 </resources>

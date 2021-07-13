@@ -510,7 +510,6 @@
     <string name="added">Added</string>
     <string name="changed">Changed</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">Plugin installation is required.</string>
     <string name="report_site">Report site</string>
     <string name="report_down">Please provide the address of the site where the video can not be downloaded.</string>
     <string name="report_dark">Please provide the address of the site that is having problems with the dark theme.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">There is a problem with ad settings. Please set it again.</string>
     <string name="original_size">Original size</string>
     <string name="reduced_size">Reduced size (recommended)</string>
+    <string name="site_app">Show site app button</string>
     <string name="finger_print">Fingerprint</string>
     <string name="finger_unavailable">The user can\'t authenticate because the hardware is unavailable. Try again later.</string>
     <string name="finger_register">The user can\'t authenticate because no fingerprint is enrolled.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Health</string>
     <string name="search_icon">Search button</string>
     <string name="no_news">No news was found.</string>
+    <string name="vpn_active">VPN is activated</string>
+    <string name="vpn_deactive">VPN is deactivated</string>
+    <string name="vpn_server">Server</string>
+    <string name="visit_site">Visit the site</string>
 </resources>

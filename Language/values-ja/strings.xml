@@ -510,7 +510,6 @@
     <string name="added">追加された</string>
     <string name="changed">変更された</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">プラグインのインストールが必要です。</string>
     <string name="report_site">サイト情報提供</string>
     <string name="report_down">動画をダウンロードすることができないサイトのアドレスを教えてください。</string>
     <string name="report_dark">ダークテーマで問題が発生しているサイトのアドレスを入力してください。</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">広告設定に問題があります。 再度設定してください。</string>
     <string name="original_size">元のサイズ</string>
     <string name="reduced_size">縮小されたサイズ（推奨）</string>
+    <string name="site_app">サイトアプリボタンを表示</string>
     <string name="finger_print">指紋</string>
     <string name="finger_unavailable">ハードウェアが利用できないため、ユーザーは認証できません。 あとでもう一度試してみてください。</string>
     <string name="finger_register">指紋が登録されていないため、ユーザーは認証できません。</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">健康</string>
     <string name="search_icon">検索ボタン</string>
     <string name="no_news">検出されたニュースがありません。</string>
+    <string name="vpn_active">VPNが有効になっています</string>
+    <string name="vpn_deactive">VPNが無効になりました</string>
+    <string name="vpn_server">サーバー</string>
+    <string name="visit_site">サイトを訪問</string>
 </resources>

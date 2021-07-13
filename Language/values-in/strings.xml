@@ -510,7 +510,6 @@
     <string name="added">Ditambahkan</string>
     <string name="changed">Berubah</string>
     <string name="vpn">VPN</string>
-    <string name="plugin_guide">Diperlukan instalasi plugin.</string>
     <string name="report_site">Laporkan situs</string>
     <string name="report_down">Harap berikan alamat situs tempat Anda tidak dapat mengunduh video.</string>
     <string name="report_dark">Berikan alamat situs yang mengalami masalah dengan tema gelap.</string>
@@ -802,6 +801,7 @@
     <string name="ads_invalid_info">Ada masalah dengan pengaturan iklan. Harap setel lagi.</string>
     <string name="original_size">Ukuran asli</string>
     <string name="reduced_size">Ukuran yang diperkecil (disarankan)</string>
+    <string name="site_app">Tampilkan tombol aplikasi situs</string>
     <string name="finger_print">Sidik jari</string>
     <string name="finger_unavailable">Pengguna tidak dapat mengautentikasi karena perangkat keras tidak tersedia. Coba lagi nanti.</string>
     <string name="finger_register">Pengguna tidak dapat mengautentikasi karena tidak ada sidik jari yang terdaftar.</string>
@@ -853,4 +853,8 @@
     <string name="news_topic_health">Kesehatan</string>
     <string name="search_icon">Tombol pencarian</string>
     <string name="no_news">Tidak ada berita yang ditemukan.</string>
+    <string name="vpn_active">VPN diaktifkan</string>
+    <string name="vpn_deactive">VPN dinonaktifkan</string>
+    <string name="vpn_server">Server</string>
+    <string name="visit_site">Kunjungi situsnya</string>
 </resources>
