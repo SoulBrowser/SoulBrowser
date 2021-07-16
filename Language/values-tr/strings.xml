@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Başlat düğmesine basarak, Soul Browser\nHizmet Şartlarını ve Gizlilik Bildirimini kabul etmiş olursunuz.</string>
+    <string name="notice">Başlat düğmesine basarak, Soul Browser\n%1$snı ve %2$sni kabul etmiş olursunuz.</string>
     <string name="tos">Hizmet Şartları</string>
     <string name="privacy">Gizlilik Bildirimi</string>
     <string name="start">Başlat</string>
@@ -180,6 +180,7 @@
     <string name="order_by">Sipariş</string>
     <string name="order_ascend">Yükseliş</string>
     <string name="order_descend">Azalan</string>
+    <string name="folder_top">En üste klasör</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">Reklam ayarlarında bir sorun var. Lütfen yeniden ayarlayın.</string>
     <string name="original_size">Orijinal boyut</string>
     <string name="reduced_size">Küçültülmüş boyut (önerilir)</string>
-    <string name="site_app">Site uygulaması düğmesini göster</string>
+    <string name="site_app">Uygulama ile açmak için düğmeyi göster</string>
     <string name="finger_print">Parmak izi</string>
     <string name="finger_unavailable">Donanım kullanılamadığı için kullanıcı kimlik doğrulaması yapamaz. Daha sonra tekrar deneyin.</string>
     <string name="finger_register">Kullanıcı, kayıtlı parmak izi olmadığı için kimlik doğrulayamaz.</string>

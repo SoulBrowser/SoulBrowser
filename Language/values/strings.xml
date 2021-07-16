@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">By pressing the Start button, you agree to the Soul Browser\nTerms of Service and Privacy Notice.</string>
+    <string name="notice">By pressing the Start button, you agree to the Soul Browser\n%1$s and %2$s.</string>
     <string name="tos">Terms of Service</string>
     <string name="privacy">Privacy Notice</string>
     <string name="start">Start</string>
@@ -180,6 +180,7 @@
     <string name="order_by">Order</string>
     <string name="order_ascend">Ascend</string>
     <string name="order_descend">Descend</string>
+    <string name="folder_top">Folder to top</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">There is a problem with ad settings. Please set it again.</string>
     <string name="original_size">Original size</string>
     <string name="reduced_size">Reduced size (recommended)</string>
-    <string name="site_app">Show site app button</string>
+    <string name="site_app">Show button to open with app</string>
     <string name="finger_print">Fingerprint</string>
     <string name="finger_unavailable">The user can\'t authenticate because the hardware is unavailable. Try again later.</string>
     <string name="finger_register">The user can\'t authenticate because no fingerprint is enrolled.</string>

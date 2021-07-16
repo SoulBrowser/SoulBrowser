@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">โดยการกดปุ่ม เริ่มต้น ถือว่าคุณยอมรับข้อกำหนดในการให้บริการของ Soul Browser และประกาศความเป็นส่วนตัว</string>
+    <string name="notice">โดยการกดปุ่ม เริ่มต้น ถือว่าคุณยอมรับ%1$sของ Soul Browser และ%2$s</string>
     <string name="tos">ข้อกำหนดในการให้บริการ</string>
     <string name="privacy">ประกาศความเป็นส่วนตัว</string>
     <string name="start">เริ่มต้น</string>
@@ -180,6 +180,7 @@
     <string name="order_by">คำสั่งซื้อ</string>
     <string name="order_ascend">ขึ้นไป</string>
     <string name="order_descend">ลง</string>
+    <string name="folder_top">โฟลเดอร์ด้านบน</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">มีปัญหากับการตั้งค่าโฆษณา กรุณาตั้งค่าใหม่อีกครั้ง</string>
     <string name="original_size">ขนาดเดิม</string>
     <string name="reduced_size">ลดขนาดลง (แนะนำ)</string>
-    <string name="site_app">แสดงปุ่มแอปไซต์</string>
+    <string name="site_app">แสดงปุ่มเพื่อเปิดด้วยแอพ</string>
     <string name="finger_print">ลายนิ้วมือ</string>
     <string name="finger_unavailable">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากฮาร์ดแวร์ไม่พร้อมใช้งาน โปรดลองอีกครั้งในภายหลัง</string>
     <string name="finger_register">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากไม่มีการลงทะเบียนลายนิ้วมือ</string>

@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Bằng cách nhấn vào nút Bắt đầu, bạn đồng ý với Soul Browser Điều khoản dịch vụ và Chính sách Bảo mật.</string>
+    <string name="notice">Bằng cách nhấn vào nút Bắt đầu, bạn đồng ý với Soul Browser %1$s và %2$s.</string>
     <string name="tos">Điều khoản dịch vụ</string>
     <string name="privacy">Chính sách Bảo mật</string>
     <string name="start">Bắt đầu</string>
@@ -180,6 +180,7 @@
     <string name="order_by">Gọi món</string>
     <string name="order_ascend">Lên</string>
     <string name="order_descend">Xuống</string>
+    <string name="folder_top">Thư mục lên đầu</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">Có vấn đề với cài đặt quảng cáo. Vui lòng đặt lại.</string>
     <string name="original_size">Kích thước nguyên mẫu</string>
     <string name="reduced_size">Giảm kích thước (khuyến nghị)</string>
-    <string name="site_app">Nút hiển thị ứng dụng trang web</string>
+    <string name="site_app">Hiển thị nút để mở bằng ứng dụng</string>
     <string name="finger_print">Vân tay</string>
     <string name="finger_unavailable">Người dùng không thể xác thực vì phần cứng không khả dụng. Thử lại sau.</string>
     <string name="finger_register">Người dùng không thể xác thực vì không có vân tay nào được đăng ký.</string>

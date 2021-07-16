@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Dengan menekan tombol Mulai, Anda menyetujui Soul Browser\nKetentuan Layanan dan Pemberitahuan Privasi.</string>
+    <string name="notice">Dengan menekan tombol Mulai, Anda menyetujui Soul Browser\n%1$s dan %2$s.</string>
     <string name="tos">Ketentuan Layanan</string>
     <string name="privacy">Pemberitahuan Privasi</string>
     <string name="start">Mulai</string>
@@ -180,6 +180,7 @@
     <string name="order_by">Pesan</string>
     <string name="order_ascend">Naik</string>
     <string name="order_descend">Turun</string>
+    <string name="folder_top">Folder ke atas</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">Ada masalah dengan pengaturan iklan. Harap setel lagi.</string>
     <string name="original_size">Ukuran asli</string>
     <string name="reduced_size">Ukuran yang diperkecil (disarankan)</string>
-    <string name="site_app">Tampilkan tombol aplikasi situs</string>
+    <string name="site_app">Tampilkan tombol untuk membuka dengan aplikasi</string>
     <string name="finger_print">Sidik jari</string>
     <string name="finger_unavailable">Pengguna tidak dapat mengautentikasi karena perangkat keras tidak tersedia. Coba lagi nanti.</string>
     <string name="finger_register">Pengguna tidak dapat mengautentikasi karena tidak ada sidik jari yang terdaftar.</string>

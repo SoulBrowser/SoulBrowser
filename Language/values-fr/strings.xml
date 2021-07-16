@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">En appuyant sur le bouton Début, vous acceptez les Conditions d\'utilisation et la Politique de confidentialité de Soul Browser.</string>
+    <string name="notice">En appuyant sur le bouton Début, vous acceptez les %1$s et la %2$s de Soul Browser.</string>
     <string name="tos">Conditions d\'utilisation</string>
     <string name="privacy">Politique de confidentialité</string>
     <string name="start">Début</string>
@@ -180,6 +180,7 @@
     <string name="order_by">Ordre</string>
     <string name="order_ascend">Ascendant</string>
     <string name="order_descend">Descendant</string>
+    <string name="folder_top">Dossier en haut</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">Il y a un problème avec les paramètres d\'annonce. Veuillez le régler à nouveau.</string>
     <string name="original_size">Format original</string>
     <string name="reduced_size">Taille réduite (recommandé)</string>
-    <string name="site_app">Afficher le bouton de l\'application du site</string>
+    <string name="site_app">Afficher le bouton pour ouvrir avec l\'application</string>
     <string name="finger_print">Empreinte digitale</string>
     <string name="finger_unavailable">L\'utilisateur ne peut pas s\'authentifier car le matériel n\'est pas disponible. Réessayez plus tard.</string>
     <string name="finger_register">L\'utilisateur ne peut pas s\'authentifier car aucune empreinte digitale n\'est enregistrée.</string>

@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Prin apăsarea butonului Start, sunteți de acord cu Browser-ul Soul\nTermeni și condiții și Notificare de confidențialitate.</string>
+    <string name="notice">Prin apăsarea butonului Start, sunteți de acord cu Browser-ul Soul\n%1$s și %2$s.</string>
     <string name="tos">Termeni și condiții</string>
     <string name="privacy">Notificare de confidențialitate</string>
     <string name="start">Start</string>
@@ -180,6 +180,7 @@
     <string name="order_by">Comanda</string>
     <string name="order_ascend">Urca</string>
     <string name="order_descend">Coborî</string>
+    <string name="folder_top">Dosar sus</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">Există o problemă cu setările pentru anunțuri. Vă rugăm să setați din nou.</string>
     <string name="original_size">Mărimea originală</string>
     <string name="reduced_size">Dimensiune redusă (recomandat)</string>
-    <string name="site_app">Afișați butonul aplicației site-ului</string>
+    <string name="site_app">Afișați butonul pentru a deschide cu aplicația</string>
     <string name="finger_print">Amprentă digitală</string>
     <string name="finger_unavailable">Utilizatorul nu se poate autentifica deoarece hardware-ul nu este disponibil. Încercați mai târziu.</string>
     <string name="finger_register">Utilizatorul nu se poate autentifica deoarece nu este înregistrată nicio amprentă.</string>

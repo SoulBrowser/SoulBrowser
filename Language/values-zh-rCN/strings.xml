@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">按下开始按钮即表示你同意 Soul Browser 使用条款和隐私政策</string>
+    <string name="notice">按下开始按钮即表示你同意 Soul Browser %1$s和%2$s</string>
     <string name="tos">使用条款</string>
     <string name="privacy">隐私政策</string>
     <string name="start">开始</string>
@@ -180,6 +180,7 @@
     <string name="order_by">顺序</string>
     <string name="order_ascend">升序</string>
     <string name="order_descend">降序</string>
+    <string name="folder_top">文件夹到顶部</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">广告设置存在问题。 请重新设置</string>
     <string name="original_size">原始尺寸</string>
     <string name="reduced_size">缩小尺寸（推荐）</string>
-    <string name="site_app">显示网站应用程序按钮</string>
+    <string name="site_app">显示按钮以使用应用程序打开</string>
     <string name="finger_print">指纹</string>
     <string name="finger_unavailable">由于硬件不可用，用户无法进行身份验证。 稍后再试</string>
     <string name="finger_register">用户无法验证，因为未注册任何指纹</string>

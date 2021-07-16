@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">開始ボタンを押すと、 Soul Browser利用規約と個人情報保護ポリシーに同意します。</string>
+    <string name="notice">開始ボタンを押すと、 Soul Browser %1$sと%2$sに同意します。</string>
     <string name="tos">利用規約</string>
     <string name="privacy">個人情報保護ポリシー</string>
     <string name="start">開始</string>
@@ -180,6 +180,7 @@
     <string name="order_by">順</string>
     <string name="order_ascend">昇順</string>
     <string name="order_descend">降順</string>
+    <string name="folder_top">フォルダを先頭に</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">広告設定に問題があります。 再度設定してください。</string>
     <string name="original_size">元のサイズ</string>
     <string name="reduced_size">縮小されたサイズ（推奨）</string>
-    <string name="site_app">サイトアプリボタンを表示</string>
+    <string name="site_app">アプリで開くボタンを表示</string>
     <string name="finger_print">指紋</string>
     <string name="finger_unavailable">ハードウェアが利用できないため、ユーザーは認証できません。 あとでもう一度試してみてください。</string>
     <string name="finger_register">指紋が登録されていないため、ユーザーは認証できません。</string>

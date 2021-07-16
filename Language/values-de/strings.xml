@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Durch drücken der Starttaste stimmen Sie den Nutzungsbedingungen und Datenschutzbestimmungen von Soul Browser zu.</string>
+    <string name="notice">Durch drücken der Starttaste stimmen Sie den %1$s und %2$s von Soul Browser zu.</string>
     <string name="tos">Nutzungsbedingungen</string>
     <string name="privacy">Datenschutzbestimmungen</string>
     <string name="start">Starten</string>
@@ -180,6 +180,7 @@
     <string name="order_by">Orndnen nach</string>
     <string name="order_ascend">Aufsteigend</string>
     <string name="order_descend">Absteigend</string>
+    <string name="folder_top">Ordner nach oben</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">Es liegt ein Problem mit den Anzeigeneinstellungen vor. Bitte stellen Sie es erneut ein.</string>
     <string name="original_size">Originalgröße</string>
     <string name="reduced_size">Reduzierte Größe (empfohlen)</string>
-    <string name="site_app">Schaltfläche Site-App anzeigen</string>
+    <string name="site_app">Schaltfläche zum Öffnen mit App anzeigen</string>
     <string name="finger_print">Fingerabdruck</string>
     <string name="finger_unavailable">Der Benutzer kann sich nicht authentifizieren, da die Hardware nicht verfügbar ist. Versuchen Sie es später erneut.</string>
     <string name="finger_register">Der Benutzer kann sich nicht authentifizieren, da kein Fingerabdruck registriert ist.</string>

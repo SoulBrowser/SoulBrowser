@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Натиснувши кнопку «Старт», Ви погоджуєтесь із Умови використання та Повідомлення про конфіденційність браузера Soul.</string>
+    <string name="notice">Натиснувши кнопку «Старт», Ви погоджуєтесь із %1$s та %2$s браузера Soul.</string>
     <string name="tos">Умови використання</string>
     <string name="privacy">Повідомлення про конфіденційність</string>
     <string name="start">Старт</string>
@@ -180,6 +180,7 @@
     <string name="order_by">Порядок</string>
     <string name="order_ascend">По зростанню</string>
     <string name="order_descend">По спаданню</string>
+    <string name="folder_top">Папку до початку</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">Виникла проблема з налаштуваннями реклами. Будь ласка, встановіть їх знову.</string>
     <string name="original_size">Оригінальний розмір</string>
     <string name="reduced_size">Зменшений розмір (рекомендується)</string>
-    <string name="site_app">Показати кнопку додатка сайту</string>
+    <string name="site_app">Кнопка Показати, щоб відкрити програму</string>
     <string name="finger_print">Відбиток пальця</string>
     <string name="finger_unavailable">Користувач не може автентифікуватися, оскільки обладнання недоступне. Спробуйте ще раз пізніше.</string>
     <string name="finger_register">Користувач не може автентифікуватися, оскільки відбиток пальця не зареєстровано.</string>

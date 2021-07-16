@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Ao pressionar botão Começar, você concorda com Soul Browser Termos de serviço e Política de privacidade.</string>
+    <string name="notice">Ao pressionar botão Começar, você concorda com Soul Browser %1$s e %2$s.</string>
     <string name="tos">Termos de serviço</string>
     <string name="privacy">Política de privacidade</string>
     <string name="start">Começar</string>
@@ -180,6 +180,7 @@
     <string name="order_by">Ordem</string>
     <string name="order_ascend">Subir</string>
     <string name="order_descend">Descer</string>
+    <string name="folder_top">Pasta para cima</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">Há um problema com as configurações do anúncio. Defina novamente.</string>
     <string name="original_size">Tamanho original</string>
     <string name="reduced_size">Tamanho reduzido (recomendado)</string>
-    <string name="site_app">Mostrar botão do aplicativo do site</string>
+    <string name="site_app">Mostrar botão para abrir com o aplicativo</string>
     <string name="finger_print">Impressão digital</string>
     <string name="finger_unavailable">O usuário não pode autenticar porque o hardware não está disponível. Tente mais tarde.</string>
     <string name="finger_register">O usuário não pode autenticar porque nenhuma impressão digital está registrada.</string>

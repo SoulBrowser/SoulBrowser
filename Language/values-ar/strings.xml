@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">بالضغط على زر ابدأ ، فإنك توافق على متصفح الروح\nشروط الخدمة وإشعار الخصوصية.</string>
+    <string name="notice">بالضغط على زر ابدأ ، فإنك توافق على متصفح الروح\n%1$s و%2$s.</string>
     <string name="tos">شروط الخدمة</string>
     <string name="privacy">إشعار الخصوصية</string>
     <string name="start">بداية</string>
@@ -180,6 +180,7 @@
     <string name="order_by">ترتيب</string>
     <string name="order_ascend">تصاعدي</string>
     <string name="order_descend">تنازلي</string>
+    <string name="folder_top">مجلد لأعلى</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">هناك مشكلة في إعدادات إعلانك. يرجى تعيينه مرة أخرى.</string>
     <string name="original_size">الحجم الأصلي</string>
     <string name="reduced_size">حجم مخفض (موصى به)</string>
-    <string name="site_app">إظهار تطبيق الموقع</string>
+    <string name="site_app">زر إظهار لفتح مع التطبيق</string>
     <string name="finger_print">التعرف على بصمات الأصابع</string>
     <string name="finger_unavailable">لا يمكن للمستخدم المصادقة لأن الجهاز غير متوفر. الرجاء معاودة المحاولة في وقت لاحق.</string>
     <string name="finger_register">لا يمكن للمستخدم المصادقة لعدم وجود بصمة إصبع مسجلة.</string>

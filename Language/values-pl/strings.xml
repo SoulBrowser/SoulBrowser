@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Naciskając przycisk Początek, akceptujesz Przeglądarkę Dusz\nWarunki korzystania z usługi i Informacja o prywatności.</string>
+    <string name="notice">Naciskając przycisk Początek, akceptujesz Przeglądarkę Dusz\n%1$s i %2$s.</string>
     <string name="tos">Warunki korzystania z usługi</string>
     <string name="privacy">Informacja o prywatności</string>
     <string name="start">Początek</string>
@@ -180,6 +180,7 @@
     <string name="order_by">Kolejność</string>
     <string name="order_ascend">Rosnąco</string>
     <string name="order_descend">Malejąco</string>
+    <string name="folder_top">Folder na górę</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">Wystąpił problem z ustawieniami reklam. Ustaw ponownie.</string>
     <string name="original_size">Oryginalny rozmiar</string>
     <string name="reduced_size">Zmniejszony rozmiar (zalecane)</string>
-    <string name="site_app">Pokaż przycisk aplikacji witryny</string>
+    <string name="site_app">Pokaż przycisk, aby otworzyć za pomocą aplikacji</string>
     <string name="finger_print">Odcisk palca</string>
     <string name="finger_unavailable">Użytkownik nie może się uwierzytelnić, ponieważ sprzęt jest niedostępny. Spróbuj ponownie później.</string>
     <string name="finger_register">Użytkownik nie może się uwierzytelnić, ponieważ nie jest zarejestrowany żaden odcisk palca.</string>

@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">시작 버튼을 누르시면, Soul Browser\n이용약관과 개인정보 보호정책에 동의하게 됩니다.</string>
+    <string name="notice">시작 버튼을 누르시면, Soul Browser\n%1$s과 %2$s에 동의하게 됩니다.</string>
     <string name="tos">이용약관</string>
     <string name="privacy">개인정보 보호정책</string>
     <string name="start">시작</string>
@@ -180,6 +180,7 @@
     <string name="order_by">순서</string>
     <string name="order_ascend">오름차순</string>
     <string name="order_descend">내림차순</string>
+    <string name="folder_top">폴더를 맨 위로</string>
     <string name="google">구글</string>
     <string name="bing">빙</string>
     <string name="yahoo">야후</string>
@@ -801,7 +802,7 @@
     <string name="ads_invalid_info">광고 설정에 문제가 있습니다. 다시 설정하십시오.</string>
     <string name="original_size">원래 크기</string>
     <string name="reduced_size">축소된 크기 (권장)</string>
-    <string name="site_app">사이트 앱 표시</string>
+    <string name="site_app">앱으로 여는 버튼 표시</string>
     <string name="finger_print">지문 인식</string>
     <string name="finger_unavailable">하드웨어를 사용할 수 없기 때문에 사용자가 인증할 수 없습니다. 나중에 다시 시도하십시오.</string>
     <string name="finger_register">등록된 지문이 없기 때문에 사용자가 인증할 수 없습니다.</string>
