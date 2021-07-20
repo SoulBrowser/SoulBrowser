@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">Можно установить ландшафтный режим и портретный режим по-разному.</string>
     <string name="double_tap_guide_2">Чтобы установить альбомный режим поверните устройство по горизонтали.</string>
     <string name="not_support_site">Некоторые сайты могут не поддерживаться.</string>
+    <string name="not_support_locale">Он может поддерживаться не во всех регионах.</string>
     <string name="restart">Начать сначала</string>
     <string name="down_fail_guide">Файл может быть повреждён.</string>
     <string name="default_filter">Встроенный фильтр</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Можно перемещаться нажав и удерживая значок.</string>
     <string name="quick_guide_2">2. Можно создавать папки перекрывая значки.</string>
     <string name="column_count">Кол-во столбцов</string>
+    <string name="tab_add_pos">Где добавить вкладки</string>
+    <string name="tab_add_next">Рядом с текущей вкладкой</string>
+    <string name="tab_add_last">Конец списка вкладок</string>
     <string name="auto_group">Автогруппировка вкладок</string>
     <string name="auto_group_info">Автогруппировка при открытии нового сайта.</string>
     <string name="tab_guide_1">1. Перемещайтесь нажимая и удерживая вкладку.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN деактивирован</string>
     <string name="vpn_server">Сервер</string>
     <string name="visit_site">Посетите сайт</string>
+    <string name="home_exit">Действие кнопки Назад на главной странице</string>
 </resources>

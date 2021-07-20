@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">È possibile impostare la modalità orizzontale e verticale in modo diverso.</string>
     <string name="double_tap_guide_2">Per impostare la modalità orizzontale, ruota il dispositivo in orizzontale.</string>
     <string name="not_support_site">Alcuni siti potrebbero non essere supportati.</string>
+    <string name="not_support_locale">Potrebbe non essere supportato in tutte le regioni.</string>
     <string name="restart">Ricomincia</string>
     <string name="down_fail_guide">Il file potrebbe essere danneggiato.</string>
     <string name="default_filter">Filtro incorporato</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Puoi muoverti tenendo premuta l\'icona.</string>
     <string name="quick_guide_2">2. È possibile creare cartelle sovrapponendo le icone.</string>
     <string name="column_count">Conteggio colonne</string>
+    <string name="tab_add_pos">Dove aggiungere schede tab</string>
+    <string name="tab_add_next">Accanto alla scheda corrente</string>
+    <string name="tab_add_last">Fine dell\'elenco delle schede</string>
     <string name="auto_group">Raggruppamento automatico</string>
     <string name="auto_group_info">Vengono raggruppati automaticamente quando si apre una nuova finestra sul sito.</string>
     <string name="tab_guide_1">1. Puoi muoverti premendo e tenendo premuta la scheda.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">La VPN è disattivata</string>
     <string name="vpn_server">Server</string>
     <string name="visit_site">Visita il sito</string>
+    <string name="home_exit">Azione del pulsante Indietro sulla home page</string>
 </resources>

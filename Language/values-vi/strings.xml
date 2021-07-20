@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">Bạn có thể đặt chế độ ngang và chế độ dọc khác nhau.</string>
     <string name="double_tap_guide_2">Để đặt chế độ ngang, hãy xoay thiết bị của bạn theo chiều ngang.</string>
     <string name="not_support_site">Một số trang web có thể không được hỗ trợ.</string>
+    <string name="not_support_locale">Nó có thể không được hỗ trợ ở tất cả các khu vực.</string>
     <string name="restart">Khởi động lại</string>
     <string name="down_fail_guide">Các tập tin có thể bị hư hỏng.</string>
     <string name="default_filter">Bộ lọc tích hợp</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ biểu tượng.</string>
     <string name="quick_guide_2">2. Bạn có thể tạo thư mục bằng các biểu tượng chồng lên nhau.</string>
     <string name="column_count">Số cột</string>
+    <string name="tab_add_pos">Thêm tab vào đâu</string>
+    <string name="tab_add_next">Bên cạnh tab hiện tại</string>
+    <string name="tab_add_last">Cuối danh sách tab</string>
     <string name="auto_group">Nhóm tự động</string>
     <string name="auto_group_info">Chúng tự động được nhóm lại khi một cửa sổ mới mở ra trên trang web.</string>
     <string name="tab_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ tab.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN bị vô hiệu hóa</string>
     <string name="vpn_server">Máy chủ</string>
     <string name="visit_site">Thăm trang web</string>
+    <string name="home_exit">Hành động của nút quay lại trên trang chủ</string>
 </resources>

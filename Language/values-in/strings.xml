@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">Anda dapat mengatur mode lansekap dan mode potret secara berbeda.</string>
     <string name="double_tap_guide_2">Untuk menyetel mode lanskap, putar perangkat Anda secara horizontal.</string>
     <string name="not_support_site">Beberapa situs mungkin tidak didukung.</string>
+    <string name="not_support_locale">Ini mungkin tidak didukung di semua wilayah.</string>
     <string name="restart">Mengulang kembali</string>
     <string name="down_fail_guide">File mungkin rusak.</string>
     <string name="default_filter">Filter bawaan</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Anda dapat bergerak dengan menekan dan menahan ikon.</string>
     <string name="quick_guide_2">2. Anda dapat membuat folder dengan ikon yang tumpang tindih.</string>
     <string name="column_count">Jumlah kolom</string>
+    <string name="tab_add_pos">Tempat menambahkan tab tab</string>
+    <string name="tab_add_next">Di sebelah tab saat ini</string>
+    <string name="tab_add_last">Akhir daftar tab</string>
     <string name="auto_group">Pengelompokan otomatis</string>
     <string name="auto_group_info">Mereka secara otomatis dikelompokkan ketika jendela baru terbuka di situs.</string>
     <string name="tab_guide_1">1. Anda dapat bergerak dengan menekan dan menahan tab.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN dinonaktifkan</string>
     <string name="vpn_server">Server</string>
     <string name="visit_site">Kunjungi situsnya</string>
+    <string name="home_exit">Tindakan tombol kembali di halaman beranda</string>
 </resources>

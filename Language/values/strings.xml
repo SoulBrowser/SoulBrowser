@@ -205,7 +205,7 @@
     <string name="double_back">Back button twice to app exit</string>
     <string name="press_again">Press again to exit.</string>
     <string name="last_noti">Last page notification</string>
-    <string name="last_noti_info">If you click the previous button on the last page of the tab, it is notified that it is the last page of the tab.</string>
+    <string name="last_noti_info">If you click the back button on the last page of the tab, it is notified that it is the last page of the tab.</string>
     <string name="last_page_noti">This is the last page of the tab.</string>
     <string name="title">Title</string>
     <string name="artist">Artist</string>
@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">You can set landscape mode and portrait mode differently.</string>
     <string name="double_tap_guide_2">To set landscape mode, rotate your device horizontally.</string>
     <string name="not_support_site">Some sites may not be supported.</string>
+    <string name="not_support_locale">It may not be supported in all regions.</string>
     <string name="restart">Restart</string>
     <string name="down_fail_guide">The file may be damaged.</string>
     <string name="default_filter">Built-in filter</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. You can move by pressing and holding the icon.</string>
     <string name="quick_guide_2">2. You can create folders by overlapping icons.</string>
     <string name="column_count">Columns count</string>
+    <string name="tab_add_pos">Where to add tabs</string>
+    <string name="tab_add_next">Next to the current tab</string>
+    <string name="tab_add_last">End of tab list</string>
     <string name="auto_group">Automatic grouping</string>
     <string name="auto_group_info">They are automatically grouped when a new window opens on the site.</string>
     <string name="tab_guide_1">1. You can move by pressing and holding the tab.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN is deactivated</string>
     <string name="vpn_server">Server</string>
     <string name="visit_site">Visit the site</string>
+    <string name="home_exit">Back button action on home page</string>
 </resources>

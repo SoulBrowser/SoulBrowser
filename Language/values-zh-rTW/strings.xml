@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">您可以不同地設置橫向模式和縱向模式</string>
     <string name="double_tap_guide_2">要設置橫向模式，請水平旋轉設備</string>
     <string name="not_support_site">某些網站可能不受支持</string>
+    <string name="not_support_locale">可能並非所有地區都支持它</string>
     <string name="restart">重新開始</string>
     <string name="down_fail_guide">該文件可能已損壞</string>
     <string name="default_filter">內置過濾器</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. 您可以按住圖標來移動</string>
     <string name="quick_guide_2">2. 您可以通過重疊圖標來創建文件夾</string>
     <string name="column_count">列數</string>
+    <string name="tab_add_pos">在哪裡添加標籤</string>
+    <string name="tab_add_next">在當前選項卡旁邊</string>
+    <string name="tab_add_last">標籤列表結束</string>
     <string name="auto_group">自動分組</string>
     <string name="auto_group_info">在站點上打開新窗口時，它們會自動分組</string>
     <string name="tab_guide_1">1. 您可以通過按住選項卡來移動</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN已停用</string>
     <string name="vpn_server">服務器</string>
     <string name="visit_site">訪問網站</string>
+    <string name="home_exit">主頁上的後退按鈕操作</string>
 </resources>

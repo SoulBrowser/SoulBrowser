@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">Ви можете встановити ландшафтний режим і портретний режим по-різному.</string>
     <string name="double_tap_guide_2">Щоб встановити альбомний режим, поверніть пристрій горизонтально.</string>
     <string name="not_support_site">Деякі сайти можуть не підтримуватися.</string>
+    <string name="not_support_locale">Він може підтримуватися не у всіх регіонах.</string>
     <string name="restart">Перезапустити</string>
     <string name="down_fail_guide">Файл може бути пошкоджений.</string>
     <string name="default_filter">Вбудований фільтр</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Ви можете рухатися, натискаючи та утримуючи піктограму.</string>
     <string name="quick_guide_2">2. Ви можете створювати папки, перекриваючи піктограми.</string>
     <string name="column_count">Колонки підраховуються</string>
+    <string name="tab_add_pos">Куди додати вкладки</string>
+    <string name="tab_add_next">Поруч із поточною вкладкою</string>
+    <string name="tab_add_last">Кінець списку вкладок</string>
     <string name="auto_group">Автоматичне групування</string>
     <string name="auto_group_info">Вони автоматично групуються, коли на сайті відкривається нове вікно.</string>
     <string name="tab_guide_1">1. Ви можете рухатися, натискаючи та утримуючи вкладку.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN деактивовано</string>
     <string name="vpn_server">Сервер</string>
     <string name="visit_site">Відвідайте сайт</string>
+    <string name="home_exit">Дія кнопки Назад на домашній сторінці</string>
 </resources>

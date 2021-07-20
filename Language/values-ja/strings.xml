@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">横モードと縦モードを別々に設定することができます。</string>
     <string name="double_tap_guide_2">横モードを設定するには、機器を水平に回転させるします。</string>
     <string name="not_support_site">一部のサイトでは、サポートされないことがあります。</string>
+    <string name="not_support_locale">一部の地域ではサポートされないことがあります。</string>
     <string name="restart">再起動</string>
     <string name="down_fail_guide">ファイルが壊れている可能性があります。</string>
     <string name="default_filter">内蔵フィルタ</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. アイコンを長押しして移動することができます。</string>
     <string name="quick_guide_2">2. アイコンを重ねフォルダを作成することができます。</string>
     <string name="column_count">列数</string>
+    <string name="tab_add_pos">タブの追加位置</string>
+    <string name="tab_add_next">現在のタブの隣</string>
+    <string name="tab_add_last">タブのリストの終わり</string>
     <string name="auto_group">自動グループ化</string>
     <string name="auto_group_info">サイトで新しいウィンドウが開いたら、自動的にグループ化されます。</string>
     <string name="tab_guide_1">1. タブを押したままに移動することができます。</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPNが無効になりました</string>
     <string name="vpn_server">サーバー</string>
     <string name="visit_site">サイトを訪問</string>
+    <string name="home_exit">ホームページの戻るボタンのアクション</string>
 </resources>

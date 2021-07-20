@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">가로 모드와 세로 모드를 다르게 설정할 수 있습니다.</string>
     <string name="double_tap_guide_2">가로 모드를 설정하려면 기기를 가로로 회전하세요.</string>
     <string name="not_support_site">일부 사이트는 지원되지 않을 수 있습니다.</string>
+    <string name="not_support_locale">일부 지역에서는 지원되지 않을 수 있습니다.</string>
     <string name="restart">재시작</string>
     <string name="down_fail_guide">파일이 손상되었을 수 있습니다.</string>
     <string name="default_filter">내장 필터</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. 아이콘을 길게 눌러 이동할 수 있습니다.</string>
     <string name="quick_guide_2">2. 아이콘을 겹쳐서 폴더를 만들 수 있습니다.</string>
     <string name="column_count">열 수</string>
+    <string name="tab_add_pos">탭 추가 위치</string>
+    <string name="tab_add_next">현재 탭 옆</string>
+    <string name="tab_add_last">탭 목록 끝</string>
     <string name="auto_group">자동 그룹화</string>
     <string name="auto_group_info">사이트에서 새 창이 열리면 자동으로 그룹화됩니다.</string>
     <string name="tab_guide_1">1. 탭을 길게 눌러 이동할 수 있습니다.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN 비활성화됨</string>
     <string name="vpn_server">서버</string>
     <string name="visit_site">사이트 방문</string>
+    <string name="home_exit">홈페이지에서 이전 버튼 동작</string>
 </resources>

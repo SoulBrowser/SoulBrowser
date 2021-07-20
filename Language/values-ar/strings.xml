@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">يمكن ضبط الوضع الأفقي والوضع الرأسي بشكل مختلف.</string>
     <string name="double_tap_guide_2">لتعيين الوضع الأفقي ، قم بتدوير جهازك أفقيًا.</string>
     <string name="not_support_site">قد لا يتم دعم بعض المواقع.</string>
+    <string name="not_support_locale">قد لا يكون مدعومًا في جميع المناطق.</string>
     <string name="restart">إعادة تشغيل</string>
     <string name="down_fail_guide">قد يكون الملف تالفًا.</string>
     <string name="default_filter">مرشح مدمج</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على الأيقونة.</string>
     <string name="quick_guide_2">2. يمكنك إنشاء مجلدات من خلال تداخل الرموز.</string>
     <string name="column_count">عدد الأعمدة</string>
+    <string name="tab_add_pos">أين تضيف علامات التبويب</string>
+    <string name="tab_add_next">بجوار علامة التبويب الحالية</string>
+    <string name="tab_add_last">نهاية قائمة علامات التبويب</string>
     <string name="auto_group">التجميع التلقائي</string>
     <string name="auto_group_info">يتم تجميعها تلقائيًا عند فتح نافذة جديدة على الموقع.</string>
     <string name="tab_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على علامة التبويب.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN معطل</string>
     <string name="vpn_server">الخادم</string>
     <string name="visit_site">قم بزيارة الموقع</string>
+    <string name="home_exit">إجراء زر الرجوع على الصفحة الرئيسية</string>
 </resources>

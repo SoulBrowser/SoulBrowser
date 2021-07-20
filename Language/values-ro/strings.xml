@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">Puteți seta modul peisaj și modul portret diferit.</string>
     <string name="double_tap_guide_2">Pentru a seta modul peisaj, rotiți dispozitivul pe orizontală.</string>
     <string name="not_support_site">Este posibil ca unele site-uri să nu fie acceptate.</string>
+    <string name="not_support_locale">Este posibil să nu fie acceptat în toate regiunile.</string>
     <string name="restart">Repornire</string>
     <string name="down_fail_guide">Fișierul poate fi deteriorat.</string>
     <string name="default_filter">Filtru încorporat</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Vă puteți mișca apăsând și menținând apăsată pictograma.</string>
     <string name="quick_guide_2">2. Puteți crea foldere prin suprapunerea pictogramelor.</string>
     <string name="column_count">Numărul de coloane</string>
+    <string name="tab_add_pos">Unde să adăugați file</string>
+    <string name="tab_add_next">Lângă fila curentă</string>
+    <string name="tab_add_last">Sfârșitul listei de file</string>
     <string name="auto_group">Gruparea automată</string>
     <string name="auto_group_info">Acestea sunt grupate automat când se deschide o nouă fereastră pe site.</string>
     <string name="tab_guide_1">1. Vă puteți mișca apăsând și menținând apăsată fila.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN este dezactivat</string>
     <string name="vpn_server">Server</string>
     <string name="visit_site">Vizitați site-ul</string>
+    <string name="home_exit">Acțiunea butonului Înapoi pe pagina principală</string>
 </resources>

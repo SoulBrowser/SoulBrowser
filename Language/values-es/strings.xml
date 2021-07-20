@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">Puede configurar el modo horizontal y el modo vertical de manera diferente.</string>
     <string name="double_tap_guide_2">Para configurar el modo horizontal, gire su dispositivo horizontalmente.</string>
     <string name="not_support_site">Algunos sitios pueden no ser compatibles.</string>
+    <string name="not_support_locale">Es posible que no sea compatible con todas las regiones.</string>
     <string name="restart">Reiniciar</string>
     <string name="down_fail_guide">El archivo puede estar dañado.</string>
     <string name="default_filter">Filtro incorporado</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Puedes moverte presionando y manteniendo presionado el ícono.</string>
     <string name="quick_guide_2">2. Puede crear carpetas superponiendo iconos.</string>
     <string name="column_count">Recuento de columnas</string>
+    <string name="tab_add_pos">Dónde agregar pestañas</string>
+    <string name="tab_add_next">Junto a la pestaña actual</string>
+    <string name="tab_add_last">Final de la lista de pestañas</string>
     <string name="auto_group">Agrupación automática</string>
     <string name="auto_group_info">Se agrupan automáticamente cuando se abre una nueva ventana en el sitio.</string>
     <string name="tab_guide_1">1. Puedes moverte presionando y manteniendo presionada la pestaña.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN está desactivado</string>
     <string name="vpn_server">Servidor</string>
     <string name="visit_site">Visitar el sitio</string>
+    <string name="home_exit">Acción del botón Atrás en la página de inicio</string>
 </resources>

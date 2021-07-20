@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">Tryb krajobrazowy i tryb portretowy można ustawić inaczej.</string>
     <string name="double_tap_guide_2">Aby ustawić tryb poziomy, obróć urządzenie poziomo.</string>
     <string name="not_support_site">Niektóre witryny mogą nie być obsługiwane.</string>
+    <string name="not_support_locale">Może nie być obsługiwany we wszystkich regionach.</string>
     <string name="restart">Uruchom ponownie</string>
     <string name="down_fail_guide">Plik może być uszkodzony.</string>
     <string name="default_filter">Wbudowany filtr</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Możesz poruszać się naciskając i przytrzymując ikonę.</string>
     <string name="quick_guide_2">2. Możesz tworzyć foldery, nakładając na siebie ikony.</string>
     <string name="column_count">Liczba kolumn</string>
+    <string name="tab_add_pos">Gdzie dodać zakładki</string>
+    <string name="tab_add_next">Obok aktualnej zakładki</string>
+    <string name="tab_add_last">Koniec listy kart</string>
     <string name="auto_group">Automatyczne grupowanie</string>
     <string name="auto_group_info">Są one automatycznie grupowane, gdy w witrynie otworzy się nowe okno.</string>
     <string name="tab_guide_1">1. Możesz poruszać się naciskając i przytrzymując zakładkę.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN jest wyłączony</string>
     <string name="vpn_server">Serwer</string>
     <string name="visit_site">Odwiedź stronę</string>
+    <string name="home_exit">Działanie przycisku Wstecz na stronie głównej</string>
 </resources>

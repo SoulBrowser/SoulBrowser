@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">Manzara modunu ve portre modunu farklı şekilde ayarlayabilirsiniz.</string>
     <string name="double_tap_guide_2">Manzara modunu ayarlamak için cihazınızı yatay olarak döndürün.</string>
     <string name="not_support_site">Bazı siteler desteklenmiyor olabilir.</string>
+    <string name="not_support_locale">Tüm bölgelerde desteklenmeyebilir.</string>
     <string name="restart">Tekrar başlat</string>
     <string name="down_fail_guide">Dosya zarar görmüş olabilir.</string>
     <string name="default_filter">Yerleşik filtre</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Simgeye basılı tutarak hareket edebilirsiniz.</string>
     <string name="quick_guide_2">2. Üst üste gelen simgelerle klasörler oluşturabilirsiniz.</string>
     <string name="column_count">Sütun sayısı</string>
+    <string name="tab_add_pos">Sekmeler nereye eklenir</string>
+    <string name="tab_add_next">Geçerli sekmenin yanında</string>
+    <string name="tab_add_last">Sekme listesinin sonu</string>
     <string name="auto_group">Otomatik gruplama</string>
     <string name="auto_group_info">Sitede yeni bir pencere açıldığında otomatik olarak gruplanırlar.</string>
     <string name="tab_guide_1">1. Sekmeyi basılı tutarak hareket edebilirsiniz.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN devre dışı</string>
     <string name="vpn_server">Sunucu</string>
     <string name="visit_site">Siteyi ziyaret et</string>
+    <string name="home_exit">Ana sayfada geri düğmesi eylemi</string>
 </resources>

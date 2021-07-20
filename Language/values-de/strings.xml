@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">Sie können den Quer und Hochformatmodus unterschiedlich einstellen.</string>
     <string name="double_tap_guide_2">Drehen Sie Ihr Gerät horizontal, um den Querformatmodus einzustellen.</string>
     <string name="not_support_site">Einige Websites werden möglicherweise nicht unterstützt.</string>
+    <string name="not_support_locale">Es wird möglicherweise nicht in allen Regionen unterstützt.</string>
     <string name="restart">Neustart</string>
     <string name="down_fail_guide">Die Datei ist möglicherweise beschädigt.</string>
     <string name="default_filter">Eingebauter Filter</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Sie können sich bewegen, indem Sie das Symbol gedrückt halten.</string>
     <string name="quick_guide_2">2. Sie können Ordner erstellen, indem Sie Symbole überlappen.</string>
     <string name="column_count">Spaltenanzahl</string>
+    <string name="tab_add_pos">Wo Tabs hinzugefügt werden add</string>
+    <string name="tab_add_next">Neben der aktuellen Registerkarte</string>
+    <string name="tab_add_last">Ende der Tab-Liste</string>
     <string name="auto_group">Automatische Gruppierung</string>
     <string name="auto_group_info">Sie werden automatisch gruppiert, wenn ein neues Fenster auf der Site geöffnet wird.</string>
     <string name="tab_guide_1">1. Sie können sich bewegen, indem Sie die Lasche gedrückt halten.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN ist deaktiviert</string>
     <string name="vpn_server">Server</string>
     <string name="visit_site">Besuchen Sie die Website</string>
+    <string name="home_exit">Aktion der Zurück-Taste auf der Startseite home</string>
 </resources>

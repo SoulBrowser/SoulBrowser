@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">Vous pouvez définir le mode paysage et le mode portrait différemment.</string>
     <string name="double_tap_guide_2">Pour définir le mode paysage, faites pivoter votre appareil horizontalement.</string>
     <string name="not_support_site">Certains sites peuvent ne pas être pris en charge.</string>
+    <string name="not_support_locale">Il peut ne pas être pris en charge dans toutes les régions.</string>
     <string name="restart">Redémarrer</string>
     <string name="down_fail_guide">Le fichier est peut-être endommagé.</string>
     <string name="default_filter">Filtre intégré</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. Vous pouvez déplacer par un appui long sur les icônes.</string>
     <string name="quick_guide_2">2. Vous pouvez créer des dossiers en superposant des icônes.</string>
     <string name="column_count">Nombre de colonnes</string>
+    <string name="tab_add_pos">Où ajouter des onglets</string>
+    <string name="tab_add_next">À côté de l\'onglet actuel</string>
+    <string name="tab_add_last">Fin de la liste des onglets</string>
     <string name="auto_group">Regroupement automatique</string>
     <string name="auto_group_info">Ils sont automatiquement regroupés lorsqu\'une nouvelle fenêtre s\'ouvre sur le site.</string>
     <string name="tab_guide_1">1. Vous pouvez vous déplacer en appuyant sur l\'onglet et en le maintenant enfoncé.</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">VPN est désactivé</string>
     <string name="vpn_server">Serveur</string>
     <string name="visit_site">Visiter le site</string>
+    <string name="home_exit">Action du bouton Retour sur la page d\'accueil</string>
 </resources>

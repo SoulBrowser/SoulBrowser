@@ -680,6 +680,7 @@
     <string name="double_tap_guide_1">คุณสามารถตั้งค่าโหมดแนวนอนและแนวตั้งได้แตกต่างกัน</string>
     <string name="double_tap_guide_2">ในการตั้งค่าโหมดแนวนอนให้หมุนอุปกรณ์ของคุณในแนวนอน</string>
     <string name="not_support_site">บางเว็บไซต์อาจไม่รองรับ</string>
+    <string name="not_support_locale">อาจไม่รองรับในทุกภูมิภาค</string>
     <string name="restart">เริ่มต้นใหม่</string>
     <string name="down_fail_guide">ไฟล์อาจเสียหาย</string>
     <string name="default_filter">ฟิลเตอร์ในตัว</string>
@@ -830,6 +831,9 @@
     <string name="quick_guide_1">1. คุณสามารถย้ายได้โดยกดไอคอนค้างไว้</string>
     <string name="quick_guide_2">2. คุณสามารถสร้างโฟลเดอร์โดยใช้ไอคอนที่ทับซ้อนกัน</string>
     <string name="column_count">จำนวนคอลัมน์</string>
+    <string name="tab_add_pos">จะเพิ่มแท็บได้ที่ไหน</string>
+    <string name="tab_add_next">ถัดจากแท็บปัจจุบัน</string>
+    <string name="tab_add_last">ท้ายรายการแท็บ</string>
     <string name="auto_group">การจัดกลุ่มอัตโนมัติ</string>
     <string name="auto_group_info">พวกเขาจะถูกจัดกลุ่มโดยอัตโนมัติเมื่อหน้าต่างใหม่เปิดขึ้นบนไซต์</string>
     <string name="tab_guide_1">1. คุณสามารถย้ายได้โดยกดแท็บค้างไว้</string>
@@ -858,4 +862,5 @@
     <string name="vpn_deactive">ปิดการใช้งาน VPN</string>
     <string name="vpn_server">เซิร์ฟเวอร์</string>
     <string name="visit_site">เยี่ยมชมเว็บไซต์</string>
+    <string name="home_exit">การทำงานของปุ่มย้อนกลับในหน้าแรก</string>
 </resources>
