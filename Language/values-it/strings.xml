@@ -207,6 +207,7 @@
     <string name="last_noti">Notifica dell\'ultima pagina</string>
     <string name="last_noti_info">Se fai clic sul pulsante Precedente nell\'ultima pagina della scheda, viene notificato che si tratta dell\'ultima pagina della scheda.</string>
     <string name="last_page_noti">Questa è l\'ultima pagina della scheda.</string>
+    <string name="last_swipe">Scorri la pagina dall\'ultima pagina per chiudere la scheda</string>
     <string name="title">Titolo</string>
     <string name="artist">Artista</string>
     <string name="album">Album</string>

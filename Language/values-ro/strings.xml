@@ -207,6 +207,7 @@
     <string name="last_noti">Notificare ultima pagină</string>
     <string name="last_noti_info">Dacă faceți clic pe butonul Precedent de pe ultima pagină a filei, este notificat că este ultima pagină a filei.</string>
     <string name="last_page_noti">Aceasta este ultima pagină a filei.</string>
+    <string name="last_swipe">Glisați pagina din ultima pagină pentru a închide fila</string>
     <string name="title">Titlu</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>

@@ -207,6 +207,7 @@
     <string name="last_noti">Son sayfa bildirimi</string>
     <string name="last_noti_info">Sekmenin son sayfasındaki Önceki düğmesine tıklarsanız, sekmenin son sayfası olduğu bildirilir.</string>
     <string name="last_page_noti">Bu, sekmenin son sayfasıdır.</string>
+    <string name="last_swipe">Sekmeyi kapatmak için sayfayı son sayfadan kaydırın</string>
     <string name="title">Başlık</string>
     <string name="artist">Sanatçı</string>
     <string name="album">Albüm</string>

@@ -207,6 +207,7 @@
     <string name="last_noti">Уведомление о последней странице</string>
     <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление о последней странице вкладки.</string>
     <string name="last_page_noti">Это последняя страница вкладки.</string>
+    <string name="last_swipe">Проведите по странице с последней страницы, чтобы закрыть вкладку</string>
     <string name="title">Заголовок</string>
     <string name="artist">Исполнитель</string>
     <string name="album">Альбом</string>

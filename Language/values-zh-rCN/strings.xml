@@ -207,6 +207,7 @@
     <string name="last_noti">最后一页提示</string>
     <string name="last_noti_info">如果单击选项卡最后一页上的返回按钮，则会通知它是选项卡最后一页</string>
     <string name="last_page_noti">这是选项卡的最后一页</string>
+    <string name="last_swipe">从最后一页开始滑动页面以关闭选项卡</string>
     <string name="title">主题</string>
     <string name="artist">艺术家</string>
     <string name="album">相册</string>

@@ -207,6 +207,7 @@
     <string name="last_noti">最後一頁通知</string>
     <string name="last_noti_info">如果單擊選項卡最後一頁上的\'上一步\'按鈕，則會通知它是選項卡最後一頁</string>
     <string name="last_page_noti">這是選項卡的最後一頁</string>
+    <string name="last_swipe">從最後一頁開始滑動頁面以關閉選項卡</string>
     <string name="title">主題</string>
     <string name="artist">歌手</string>
     <string name="album">相簿</string>

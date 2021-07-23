@@ -207,6 +207,7 @@
     <string name="last_noti">إشعار آخر صفحة</string>
     <string name="last_noti_info">إذا قمت بالنقر فوق الزر السابق في الصفحة الأخيرة من علامة التبويب ، فسيتم إعلامك بأنها الصفحة الأخيرة من علامة التبويب.</string>
     <string name="last_page_noti">هذه هي الصفحة الأخيرة من علامة التبويب.</string>
+    <string name="last_swipe">انتقد الصفحة من الصفحة الأخيرة لإغلاق علامة التبويب</string>
     <string name="title">لقب</string>
     <string name="artist">مغني</string>
     <string name="album">الألبوم</string>

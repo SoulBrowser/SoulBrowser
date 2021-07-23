@@ -207,6 +207,7 @@
     <string name="last_noti">การแจ้งเตือนหน้าสุดท้าย</string>
     <string name="last_noti_info">หากคุณคลิกปุ่มก่อนหน้าในหน้าสุดท้ายของแท็บจะได้รับแจ้งว่าเป็นหน้าสุดท้ายของแท็บ</string>
     <string name="last_page_noti">นี่คือหน้าสุดท้ายของแท็บ</string>
+    <string name="last_swipe">ปัดหน้าจากหน้าสุดท้ายเพื่อปิดแท็บ</string>
     <string name="title">หัวข้อ</string>
     <string name="artist">ศิลปิน</string>
     <string name="album">อัลบั้ม</string>

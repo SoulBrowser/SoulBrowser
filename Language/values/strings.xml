@@ -207,6 +207,7 @@
     <string name="last_noti">Last page notification</string>
     <string name="last_noti_info">If you click the back button on the last page of the tab, it is notified that it is the last page of the tab.</string>
     <string name="last_page_noti">This is the last page of the tab.</string>
+    <string name="last_swipe">Swipe the page from the last page to close the tab</string>
     <string name="title">Title</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>

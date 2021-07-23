@@ -207,6 +207,7 @@
     <string name="last_noti">最終ページの通知</string>
     <string name="last_noti_info">タブの最後のページで、以前のボタンを押すと、タブの最後のページであることを通知します。</string>
     <string name="last_page_noti">タブの最後のページです。</string>
+    <string name="last_swipe">最後のページで、ページをスワイプしてタブを閉じる</string>
     <string name="title">タイトル</string>
     <string name="artist">歌手</string>
     <string name="album">アルバム</string>

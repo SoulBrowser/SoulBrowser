@@ -207,6 +207,7 @@
     <string name="last_noti">Letzte Seite - Benachrichtigung</string>
     <string name="last_noti_info">Wenn Sie auf der letzten Seite der Registerkarte auf die Schaltfläche Zurück klicken, wird benachrichtigt, dass es sich um die letzte Seite der Registerkarte handelt.</string>
     <string name="last_page_noti">Dies ist die letzte Seite der Registerkarte.</string>
+    <string name="last_swipe">Wischen Sie von der letzten Seite über die Seite, um die Registerkarte zu schließen</string>
     <string name="title">Titel</string>
     <string name="artist">Künstler</string>
     <string name="album">Album</string>

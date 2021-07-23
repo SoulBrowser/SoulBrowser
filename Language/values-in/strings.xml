@@ -207,6 +207,7 @@
     <string name="last_noti">Pemberitahuan halaman terakhir</string>
     <string name="last_noti_info">Jika Anda mengklik tombol Sebelumnya pada halaman terakhir dari tab, akan diberitahukan bahwa itu adalah halaman terakhir dari tab.</string>
     <string name="last_page_noti">Ini adalah halaman terakhir dari tab tersebut.</string>
+    <string name="last_swipe">Geser halaman dari halaman terakhir untuk menutup tab</string>
     <string name="title">Judul</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>

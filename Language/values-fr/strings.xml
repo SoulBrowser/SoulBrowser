@@ -207,6 +207,7 @@
     <string name="last_noti">Notification de dernier onglet</string>
     <string name="last_noti_info">Si vous cliquez sur le bouton Précédent sur le dernier onglet, il est averti qu\'il s\'agit du dernier onglet.</string>
     <string name="last_page_noti">Dernier onglet.</string>
+    <string name="last_swipe">Faites glisser la page à partir de la dernière page pour fermer l\'onglet</string>
     <string name="title">Titre</string>
     <string name="artist">Artiste</string>
     <string name="album">Album</string>

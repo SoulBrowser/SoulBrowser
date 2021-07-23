@@ -207,6 +207,7 @@
     <string name="last_noti">Thông báo trang cuối</string>
     <string name="last_noti_info">Nếu bạn nhấp vào nút Trước trên trang cuối cùng của tab, nó sẽ được thông báo rằng đó là trang cuối cùng của tab.</string>
     <string name="last_page_noti">Đây là trang cuối cùng của tab.</string>
+    <string name="last_swipe">Vuốt trang từ trang cuối cùng để đóng tab</string>
     <string name="title">Tiêu đề</string>
     <string name="artist">Nghệ sĩ</string>
     <string name="album">Album</string>

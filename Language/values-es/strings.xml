@@ -207,6 +207,7 @@
     <string name="last_noti">Notificación de la última página</string>
     <string name="last_noti_info">Si hace clic en el botón Anterior en la última página de la pestaña, se le notifica que es la última página de la pestaña.</string>
     <string name="last_page_noti">Esta es la última página de la pestaña.</string>
+    <string name="last_swipe">Desliza la página desde la última página para cerrar la pestaña</string>
     <string name="title">Título</string>
     <string name="artist">Artista</string>
     <string name="album">Álbum</string>

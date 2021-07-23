@@ -207,6 +207,7 @@
     <string name="last_noti">Notificação da última página</string>
     <string name="last_noti_info">Se você clicar no botão Anterior na última página da guia, ele será notificado de que é a última página da guia.</string>
     <string name="last_page_noti">Esta é a última página da guia.</string>
+    <string name="last_swipe">Deslize a página da última página para fechar a guia</string>
     <string name="title">Título</string>
     <string name="artist">Artista</string>
     <string name="album">Álbum</string>

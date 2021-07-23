@@ -207,6 +207,7 @@
     <string name="last_noti">마지막 페이지 알림</string>
     <string name="last_noti_info">탭의 마지막 페이지에서 이전 버튼을 누르면, 탭의 마지막 페이지임을 알립니다.</string>
     <string name="last_page_noti">탭의 마지막 페이지입니다.</string>
+    <string name="last_swipe">마지막 페이지에서 페이지를 스와이프하여 탭 닫기</string>
     <string name="title">제목</string>
     <string name="artist">가수</string>
     <string name="album">앨범</string>
