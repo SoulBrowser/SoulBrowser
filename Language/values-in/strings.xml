@@ -25,6 +25,7 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Unduh</string>
+    <string name="down_set">Unduh</string>
     <string name="fast_down">Unduhan cepat</string>
     <string name="fast_down_guide">\'Unduhan cepat\' menggunakan lebih banyak sumber daya.</string>
     <string name="down_again">Unduh lagi</string>

@@ -25,6 +25,7 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">تحميل</string>
+    <string name="down_set">تحميل</string>
     <string name="fast_down">تحميل سريع</string>
     <string name="fast_down_guide">تستخدم التنزيلات الأسرع موارد أكثر.</string>
     <string name="down_again">تحميل مرة أخرى</string>

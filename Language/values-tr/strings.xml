@@ -25,6 +25,7 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">İndir</string>
+    <string name="down_set">İndir</string>
     <string name="fast_down">Hızlı indirme</string>
     <string name="fast_down_guide">\'Hızlı indirme\' daha fazla kaynak kullanır.</string>
     <string name="down_again">Tekrar indir</string>

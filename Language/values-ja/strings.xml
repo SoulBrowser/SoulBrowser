@@ -25,6 +25,7 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">ダウンロード</string>
+    <string name="down_set">ダウンロード</string>
     <string name="fast_down">高速ダウンロード</string>
     <string name="fast_down_guide">\'高速ダウンロード\'は、より多くのリソースを使用します。</string>
     <string name="down_again">再度ダウンロード</string>

@@ -25,6 +25,7 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Завантаження</string>
+    <string name="down_set">Завантаження</string>
     <string name="fast_down">Швидке завантаження</string>
     <string name="fast_down_guide">\'Швидке завантаження\' використовує більше ресурсів.</string>
     <string name="down_again">Завантажте ще раз</string>

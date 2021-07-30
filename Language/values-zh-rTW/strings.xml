@@ -25,6 +25,7 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">下載</string>
+    <string name="down_set">下載</string>
     <string name="fast_down">快速下載</string>
     <string name="fast_down_guide">\'快速下載\' 使用更多資源</string>
     <string name="down_again">重新下載</string>

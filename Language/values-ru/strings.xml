@@ -25,6 +25,7 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Скачать</string>
+    <string name="down_set">Загрузки</string>
     <string name="fast_down">Быстрая загрузка</string>
     <string name="fast_down_guide">\'Быстрая загрузка\' требует больше ресурсов.</string>
     <string name="down_again">Загрузить снова</string>
@@ -51,7 +52,7 @@
     <string name="print_success">Успешно распечатано</string>
     <string name="print_fail">Сбой печати</string>
     <string name="translate">Перевести</string>
-    <string name="translator">Движок перевода</string>
+    <string name="translator">Переводчик</string>
     <string name="trans_auto">Автоперевод</string>
     <string name="trans_except">Исключить из перевода</string>
     <string name="trans_except_info">Можно исключить сайты из автоперевода.</string>
@@ -228,7 +229,7 @@
     <string name="camcorder">Видеокамера</string>
     <string name="web_edit_hint">Поиск или ввод URL</string>
     <string name="web_search">Веб-поиск</string>
-    <string name="search_engine">Поисковый движок</string>
+    <string name="search_engine">Поисковая система</string>
     <string name="search_url">Поиск</string>
     <string name="screen_off">Тайм-аут экрана</string>
     <string name="screen_system">Системные настройки</string>
@@ -592,7 +593,7 @@
     <string name="tts_disabled">TTS отключен.</string>
     <string name="tts_info_1">Когда Вы нажимаете текст, отображаемый в браузере, он читается вслух.</string>
     <string name="tts_info_2">Когда Вы нажимаете текст, он читается вслух.</string>
-    <string name="detail_setting">Подробные настройки</string>
+    <string name="detail_setting">Расширенные настройки</string>
     <string name="voice_speed">Скорость голоса</string>
     <string name="voice_tone">Голосовой тон</string>
     <string name="stop_icon">Кнопка стоп</string>

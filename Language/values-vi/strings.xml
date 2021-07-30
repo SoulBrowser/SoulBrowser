@@ -25,6 +25,7 @@
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
     <string name="download">Tải xuống</string>
+    <string name="down_set">Tải xuống</string>
     <string name="fast_down">Tải xuống nhanh</string>
     <string name="fast_down_guide">\'Tải xuống nhanh\' sử dụng nhiều tài nguyên hơn.</string>
     <string name="down_again">Tải xuống lại</string>
