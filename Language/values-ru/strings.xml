@@ -208,7 +208,7 @@
     <string name="last_noti">Уведомление о последней странице</string>
     <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление</string>
     <string name="last_page_noti">Это последняя страница вкладки.</string>
-    <string name="last_swipe">Проведите по странице с последней страницы, чтобы закрыть вкладку</string>
+    <string name="last_swipe">Закрывать вкладку с последней страницей свайпом</string>
     <string name="title">Заголовок</string>
     <string name="artist">Исполнитель</string>
     <string name="album">Альбом</string>
@@ -392,8 +392,8 @@
     <string name="bot_input">Нижняя адресная строка</string>
     <string name="address_menu">Меню адресной строки</string>
     <string name="show_tab_bar">Показать панель вкладок</string>
-    <string name="tab_swipe_up">Проведите вверх по панели вкладок</string>
-    <string name="tab_swipe_dn">Проведите вниз по панели вкладок</string>
+    <string name="tab_swipe_up">Свайп вверх по панели вкладок</string>
+    <string name="tab_swipe_dn">Свайп вниз по панели вкладок</string>
     <string name="above_top">Над верхней панелью</string>
     <string name="below_top">Под верхней панелью</string>
     <string name="above_bot">Над нижней панелью</string>
@@ -535,7 +535,7 @@
     <string name="font_info_2">Шрифты, установленные другими приложениями, могут не применяться.</string>
     <string name="font_info_3">Создайте папку и поместите в неё TTF шрифт, который Вы хотите использовать напрямую.</string>
     <string name="font_info_4">Если значок, используемый на сайте, отсутствует в таблице изменённых шрифтов, он отображается как [X].</string>
-    <string name="tv_cast">Передача на ТВ</string>
+    <string name="tv_cast">Трансляция</string>
     <string name="media_route_menu_title">Играть&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>
     <string name="cast_info_1">Если обнаружен Chromecast, в верхней части экрана появится значок.</string>
@@ -703,7 +703,7 @@
     <string name="web_bring_down">Опустить браузер</string>
     <string name="active_function">Активируйте функцию.</string>
     <string name="tab_loop">Зациклить вкладки</string>
-    <string name="tab_loop_info">Переключение между первой и последней вкладками</string>
+    <string name="tab_loop_info">Переключаться между первой и последней вкладками</string>
     <string name="swipe_sense">Чувствительность смахивания</string>
     <string name="only_text">Только текст</string>
     <string name="default_size">Размер по умолчанию</string>
@@ -833,7 +833,7 @@
     <string name="quick_guide_1">1. Можно перемещаться нажав и удерживая значок.</string>
     <string name="quick_guide_2">2. Можно создавать папки перекрывая значки.</string>
     <string name="column_count">Кол-во столбцов</string>
-    <string name="tab_add_pos">Где добавить вкладки</string>
+    <string name="tab_add_pos">Позиция новой вкладки</string>
     <string name="tab_add_next">Рядом с текущей вкладкой</string>
     <string name="tab_add_last">Конец списка вкладок</string>
     <string name="auto_group">Автогруппировка вкладок</string>
@@ -841,7 +841,7 @@
     <string name="tab_guide_1">1. Перемещайте вкладку длинным нажатием на ней.</string>
     <string name="tab_guide_2">2. Создавайте папки, перекрывая другие вкладки.</string>
     <string name="debug_mode">Веб-отладка</string>
-    <string name="debug_mode_info">Отладка USB.</string>
+    <string name="debug_mode_info">Отладка по USB.</string>
     <string name="default_browser">Установить как браузер по умолчанию</string>
     <string name="news_title">Новости</string>
     <string name="news_loading">Загрузка новостей&#8230;</string>
