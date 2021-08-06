@@ -805,7 +805,7 @@
     <string name="ads_invalid_info">Проблема с настройками рекламы. Поправьте настройки.</string>
     <string name="original_size">Оригинальный размер</string>
     <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
-    <string name="site_app">Показать кнопку для открытия через приложение</string>
+    <string name="site_app">Показать кнопку для открытия в приложении</string>
     <string name="finger_print">Отпечаток пальца</string>
     <string name="finger_unavailable">Пользователь не может пройти аутентификацию, так как оборудование недоступно. Попробуйте позже.</string>
     <string name="finger_register">Пользователь не может пройти аутентификацию, так как отпечаток пальца не зарегистрирован.</string>
