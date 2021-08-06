@@ -631,7 +631,7 @@
     <string name="swipe_up">Смахивание вверх</string>
     <string name="memo_title">Блокнот</string>
     <string name="memo_guide">Можно зарегистрировать часто используемые предложения.</string>
-    <string name="page_source">Исходный текст страницы</string>
+    <string name="page_source">Исходный код страницы</string>
     <string name="delete_tab">Закрыть вкладку</string>
     <string name="delete_one_tab">Закрыть текущую вкладку</string>
     <string name="delete_all_tab">Закрыть все вкладки</string>
