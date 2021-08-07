@@ -2,9 +2,9 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Нажимая кнопку «Начать работу», Вы соглашаетесь с %1$s и %2$s Soul браузера.</string>
-    <string name="tos">Условиями использования</string>
-    <string name="privacy">Политикой конфиденциальности</string>
+    <string name="notice">Нажимая кнопку «Начать работу», Вы соглашаетесь с Условиями использования и Политикой конфиденциальности браузера Soul.</string>
+    <string name="tos">Условия использования</string>
+    <string name="privacy">Политика конфиденциальности</string>
     <string name="start">Начать работу</string>
     <string name="info">Информация</string>
     <string name="app_ver">Версия приложения</string>
@@ -83,7 +83,7 @@
     <string name="edit">Pедактировать</string>
     <string name="share">Поделиться</string>
     <string name="details">Детали</string>
-    <string name="down_skip_pixel">1 пикс изображение</string>
+    <string name="down_skip_pixel">1 пикс. изображение</string>
     <string name="image_split">Разделить изображение</string>
     <string name="move_to">Перейти к</string>
     <string name="skip">Пропускать</string>
@@ -181,7 +181,7 @@
     <string name="order_by">Порядок</string>
     <string name="order_ascend">По возрастанию</string>
     <string name="order_descend">По убыванию</string>
-    <string name="folder_top">Папка наверх</string>
+    <string name="folder_top">Вверх</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -197,7 +197,7 @@
     <string name="page">Страница</string>
     <string name="delete_cache">Очистить кэш</string>
     <string name="cache">Кэш</string>
-    <string name="cache_info">Файлы просмотренных веб-страниц (напр., изображения)</string>
+    <string name="cache_info">Файлы просмотренных веб-страниц (напр. изображения)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Информация, сохранённая во время просмотра веб-страниц (например, данные для входа)</string>
     <string name="no_rotate">Не переворачивать экран</string>
@@ -206,9 +206,9 @@
     <string name="double_back">Двойное нажатие для выхода из браузера</string>
     <string name="press_again">Нажмите ещё раз для выхода.</string>
     <string name="last_noti">Уведомление о последней странице</string>
-    <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление о последней странице вкладки.</string>
+    <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление</string>
     <string name="last_page_noti">Это последняя страница вкладки.</string>
-    <string name="last_swipe">Проведите по странице с последней страницы, чтобы закрыть вкладку</string>
+    <string name="last_swipe">Закрывать вкладку с последней страницей свайпом</string>
     <string name="title">Заголовок</string>
     <string name="artist">Исполнитель</string>
     <string name="album">Альбом</string>
@@ -217,7 +217,7 @@
     <string name="size">Размер</string>
     <string name="resolution">Разрешение</string>
     <string name="quality">Качество</string>
-    <string name="modified">Последнее изменение</string>
+    <string name="modified">Посл. изменение</string>
     <string name="url">URL</string>
     <string name="domain_name">Domain</string>
     <string name="domain_url">Домен или URL</string>
@@ -243,8 +243,8 @@
     <string name="type">Тип</string>
     <string name="page_effect">Эффект страницы</string>
     <string name="page_scroll">Прокрутка страницы</string>
-    <string name="list_hori">Списки (Горизонтальный)</string>
-    <string name="list_vert">Списки (Вертикальный)</string>
+    <string name="list_hori">Список (Горизонтальный)</string>
+    <string name="list_vert">Список (Вертикальный)</string>
     <string name="best_size">Лучший размер</string>
     <string name="best_info">Лучший размер для текущего типа</string>
     <string name="reduce_image">Уменьшить изображение</string>
@@ -370,10 +370,10 @@
     <string name="extract">Экспорт</string>
     <string name="loading">Загрузка&#8230;</string>
     <string name="waiting">Пожалуйста, подождите.</string>
-    <string name="repeat_on">Режим повтора выключен</string>
+    <string name="repeat_on">Режим повтора включен</string>
     <string name="repeat_off">Режим повтора отключён</string>
     <string name="important_copyright">Авторское право - важно.</string>
-    <string name="cancelled">Отменено.</string>
+    <string name="cancelled">Отменено</string>
     <string name="locale">Язык</string>
     <string name="locale_restart">Язык изменился, поэтому нужно перезапустить приложение.</string>
     <string name="lang_res">Ресурсы перевода</string>
@@ -392,8 +392,8 @@
     <string name="bot_input">Нижняя адресная строка</string>
     <string name="address_menu">Меню адресной строки</string>
     <string name="show_tab_bar">Показать панель вкладок</string>
-    <string name="tab_swipe_up">Проведите вверх по панели вкладок</string>
-    <string name="tab_swipe_dn">Проведите вниз по панели вкладок</string>
+    <string name="tab_swipe_up">Свайп вверх по панели вкладок</string>
+    <string name="tab_swipe_dn">Свайп вниз по панели вкладок</string>
     <string name="above_top">Над верхней панелью</string>
     <string name="below_top">Под верхней панелью</string>
     <string name="above_bot">Над нижней панелью</string>
@@ -409,7 +409,7 @@
     <string name="two_finger_info_2">Проведите двумя пальцами вниз, чтобы закрыть вкладку.</string>
     <string name="show_scroll">Показать ползунок прокрутки</string>
     <string name="show_up">Показать кнопку перехода наверх</string>
-    <string name="qrcode_title">QR кода</string>
+    <string name="qrcode_title">QR-код</string>
     <string name="show_qrcode">Показать кнопку QR-кода</string>
     <string name="voice_title">Голосовой поиск</string>
     <string name="show_voice">Показать кнопку голосового поиска</string>
@@ -535,7 +535,7 @@
     <string name="font_info_2">Шрифты, установленные другими приложениями, могут не применяться.</string>
     <string name="font_info_3">Создайте папку и поместите в неё TTF шрифт, который Вы хотите использовать напрямую.</string>
     <string name="font_info_4">Если значок, используемый на сайте, отсутствует в таблице изменённых шрифтов, он отображается как [X].</string>
-    <string name="tv_cast">Телепередачи</string>
+    <string name="tv_cast">Трансляция</string>
     <string name="media_route_menu_title">Играть&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>
     <string name="cast_info_1">Если обнаружен Chromecast, в верхней части экрана появится значок.</string>
@@ -551,12 +551,12 @@
     <string name="iphone">iPhone</string>
     <string name="ipad">iPad</string>
     <string name="user_defined">Пользовательский</string>
-    <string name="cast_on">Включить cast</string>
+    <string name="cast_on">Включить трансляцию</string>
     <string name="show_full">Кнопка полного экрана</string>
     <string name="icon_color">Цвет кнопки</string>
     <string name="thank_you">Спасибо</string>
     <string name="storage_guide_1">Обновлено для Android 10.</string>
-    <string name="storage_guide_2">Начиная с Android 10 применяется политика \'Объем хранения\'.</string>
+    <string name="storage_guide_2">Начиная с Android 10 применяется политика \'Scoped storage\'.</string>
     <string name="storage_guide_3">Сохранение списка и сохранение пути были инициализированы.</string>
     <string name="storage_guide_4">Файлы сохраняются.</string>
     <string name="not_selected">Не выбран</string>
@@ -564,9 +564,9 @@
     <string name="scan_dir">Сканирование каталога</string>
     <string name="dir_scanning">Каталог сканируется.</string>
     <string name="no_added">Нет файлов для добавления.</string>
-    <string name="file_added">Добавлено %d файла</string>
+    <string name="file_added">Добавлено %d файлов</string>
     <string name="no_found">Файлов не найдено.</string>
-    <string name="file_found">Найдено %d файла</string>
+    <string name="file_found">Найдено %d файлов</string>
     <string name="storage_device">Устройство</string>
     <string name="storage_sdcard">SD карта</string>
     <string name="sort_guide_1">Нажмите и удерживайте список, чтобы перейти в режим редактирования.</string>
@@ -610,7 +610,7 @@
     <string name="web_stream">(Веб-трансляция)</string>
     <string name="grid_mode">Режим сетки</string>
     <string name="list_mode">Режим списка</string>
-    <string name="simple_mode">Режим простой</string>
+    <string name="simple_mode">Простой режим</string>
     <string name="accept_cookie">Разрешать Cookie (Рекомендуется)</string>
     <string name="accept_cookie_info_1">Позволяет сайту хранить или читать Cookie.</string>
     <string name="accept_cookie_info_2">Некоторые сайты могут работать некорректно, если Вы не разрешаете Cookie.</string>
@@ -621,7 +621,7 @@
     <string name="disable_js">Отключить JavaScript</string>
     <string name="js_enabled">JavaScript включен.</string>
     <string name="js_disabled">JavaScript отключён.</string>
-    <string name="icon_edit_guide_1">1. Щёлкните значок, чтобы изменить функцию.</string>
+    <string name="icon_edit_guide_1">1. Нажмите на значок, чтобы изменить функцию.</string>
     <string name="icon_edit_guide_2">2. Перетащите значок, чтобы изменить его положение.</string>
     <string name="short_edit_guide">Можно установить функцию для кратковременного нажатия значка на нижней панели.</string>
     <string name="long_edit_guide">Можно установить функцию для нажатия и удержания кнопки на нижней панели.</string>
@@ -629,9 +629,9 @@
     <string name="short_press">Короткое нажатие</string>
     <string name="long_press">Долгое нажатие</string>
     <string name="swipe_up">Смахивание вверх</string>
-    <string name="memo_title">Напоминание</string>
+    <string name="memo_title">Блокнот</string>
     <string name="memo_guide">Можно зарегистрировать часто используемые предложения.</string>
-    <string name="page_source">Исходный текст страницы</string>
+    <string name="page_source">Исходный код страницы</string>
     <string name="delete_tab">Закрыть вкладку</string>
     <string name="delete_one_tab">Закрыть текущую вкладку</string>
     <string name="delete_all_tab">Закрыть все вкладки</string>
@@ -659,14 +659,14 @@
     <string name="move_down">Вниз</string>
     <string name="move_left">Влево</string>
     <string name="move_right">Вправо</string>
-    <string name="swipe_guide_1">1. Нажмите на область чтобы изменить функцию.</string>
-    <string name="swipe_guide_2">2. Перетащите область чтобы изменить размер.</string>
+    <string name="swipe_guide_1">1. Нажмите, чтобы изменить функцию.</string>
+    <string name="swipe_guide_2">2. Перетащите, чтобы изменить размер.</string>
     <string name="small_icon">Маленький значок</string>
     <string name="small_list">Компактный список</string>
     <string name="large_list">Крупный список</string>
     <string name="icon_mode">Режим значков</string>
     <string name="page_mode">Режим страницы</string>
-    <string name="full_screen">Полноэкранный</string>
+    <string name="full_screen">Полноэкранный режим</string>
     <string name="scroll_mode">Режим прокрутки</string>
     <string name="scroll_guide_1">1. Отображает страницу, загруженную до сих пор.</string>
     <string name="scroll_guide_2">2. Отображает страницу в пределах доступного лимита памяти.</string>
@@ -682,7 +682,7 @@
     <string name="double_tap_guide_1">Можно установить ландшафтный режим и портретный режим по-разному.</string>
     <string name="double_tap_guide_2">Чтобы установить альбомный режим поверните устройство по горизонтали.</string>
     <string name="not_support_site">Некоторые сайты могут не поддерживаться.</string>
-    <string name="not_support_locale">Он может поддерживаться не во всех регионах.</string>
+    <string name="not_support_locale">Может не поддерживаться в некоторых регионах.</string>
     <string name="restart">Начать сначала</string>
     <string name="down_fail_guide">Файл может быть повреждён.</string>
     <string name="default_filter">Встроенный фильтр</string>
@@ -703,7 +703,7 @@
     <string name="web_bring_down">Опустить браузер</string>
     <string name="active_function">Активируйте функцию.</string>
     <string name="tab_loop">Зациклить вкладки</string>
-    <string name="tab_loop_info">Переключение между первой и последней вкладками</string>
+    <string name="tab_loop_info">Переключаться между первой и последней вкладками</string>
     <string name="swipe_sense">Чувствительность смахивания</string>
     <string name="only_text">Только текст</string>
     <string name="default_size">Размер по умолчанию</string>
@@ -725,7 +725,7 @@
     <string name="remove_ads">Удалить рекламу в приложении</string>
     <string name="remove_ads_info_1">Один платеж навсегда удалит рекламу в приложении.</string>
     <string name="remove_ads_info_2">Он всегда действителен, если счёт, используемый для оплаты, тот же.</string>
-    <string name="remove_ads_info_3">Реклама в приложении и реклама на веб-сайте разные.</string>
+    <string name="remove_ads_info_3">Реклама в приложении и реклама на сайте разные.</string>
     <string name="remove_ads_info_4">Функция удаления рекламы на сайте бесплатна.</string>
     <string name="donate_1">Пожертвовать (Молоко)</string>
     <string name="donate_2">Пожертвовать (Гамбургер)</string>
@@ -759,7 +759,7 @@
     <string name="filter_user_1">Можно заблокировать больше рекламы, добавив фильтры.</string>
     <string name="filter_user_2">Можно использовать фильтры, написанные в формате EasyList.</string>
     <string name="filter_user_3">Есть несколько типов фильтров EasyList. (По странам, по функциям)</string>
-    <string name="filter_user_4">Можно выбрать и использовать подходящий фильтр.</string>
+    <string name="filter_user_4">Можете выбрать и использовать подходящий Вам фильтр.</string>
     <string name="filter_user_5">Если есть проблема с фильтром, страница может отображаться некорректно.</string>
     <string name="size_fit">По экрану</string>
     <string name="size_real">Фактический размер</string>
@@ -805,7 +805,7 @@
     <string name="ads_invalid_info">Проблема с настройками рекламы. Поправьте настройки.</string>
     <string name="original_size">Оригинальный размер</string>
     <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
-    <string name="site_app">Показать кнопку для открытия с приложением</string>
+    <string name="site_app">Показать кнопку для открытия в приложении</string>
     <string name="finger_print">Отпечаток пальца</string>
     <string name="finger_unavailable">Пользователь не может пройти аутентификацию, так как оборудование недоступно. Попробуйте позже.</string>
     <string name="finger_register">Пользователь не может пройти аутентификацию, так как отпечаток пальца не зарегистрирован.</string>
@@ -821,27 +821,27 @@
     <string name="gesture_block_site">Сайт с блокировкой жестов</string>
     <string name="gesture_block_info_1">Можно зарегистрировать сайты, не использующие жесты.</string>
     <string name="gesture_block_info_2">Применяется только к жестам в центре экрана.</string>
-    <string name="gesture_block_info_3">Это не относится к жестам по краям экрана.</string>
+    <string name="gesture_block_info_3">Не влияет на жесты по краям экрана.</string>
     <string name="enable_adblock">Блокировщик рекламы включен</string>
     <string name="disable_adblock">Блокировщик рекламы отключен</string>
     <string name="adblock_enabled">Блокировка рекламы включена.</string>
     <string name="adblock_disabled">Блокировка рекламы отключена.</string>
     <string name="menu_guide">Нажмите и удерживайте значок, чтобы изменить функцию.</string>
-    <string name="down_service">Soul загрузчик</string>
+    <string name="down_service">Загрузчик Soul</string>
     <string name="auto_comp">Автозаполнение</string>
-    <string name="check_element">Контроль элементов (тонконастраиваемая блокировка)</string>
+    <string name="check_element">Контроль элементов (точечная блокировка)</string>
     <string name="quick_guide_1">1. Можно перемещаться нажав и удерживая значок.</string>
     <string name="quick_guide_2">2. Можно создавать папки перекрывая значки.</string>
     <string name="column_count">Кол-во столбцов</string>
-    <string name="tab_add_pos">Где добавить вкладки</string>
+    <string name="tab_add_pos">Позиция новой вкладки</string>
     <string name="tab_add_next">Рядом с текущей вкладкой</string>
     <string name="tab_add_last">Конец списка вкладок</string>
     <string name="auto_group">Автогруппировка вкладок</string>
-    <string name="auto_group_info">Автогруппировка при открытии нового сайта.</string>
-    <string name="tab_guide_1">1. Перемещайтесь нажимая и удерживая вкладку.</string>
-    <string name="tab_guide_2">2. Создавайте папки перекрывая вкладки.</string>
+    <string name="auto_group_info">Автогруппировка при открытии нового сайта</string>
+    <string name="tab_guide_1">1. Перемещайте вкладку длинным нажатием на ней.</string>
+    <string name="tab_guide_2">2. Создавайте папки, перекрывая другие вкладки.</string>
     <string name="debug_mode">Веб-отладка</string>
-    <string name="debug_mode_info">Отладка USB.</string>
+    <string name="debug_mode_info">Отладка по USB.</string>
     <string name="default_browser">Установить как браузер по умолчанию</string>
     <string name="news_title">Новости</string>
     <string name="news_loading">Загрузка новостей&#8230;</string>
@@ -864,5 +864,5 @@
     <string name="vpn_deactive">VPN деактивирован</string>
     <string name="vpn_server">Сервер</string>
     <string name="visit_site">Посетите сайт</string>
-    <string name="home_exit">Действие кнопки Назад на главной странице</string>
-</resources>
+    <string name="home_exit">Действие кнопки Назад на домашней странице</string>
+</resources> 
