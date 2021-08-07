@@ -3,6 +3,7 @@
 Reference 1 : values-ko  Korean
 Reference 2 : values     English
 
+values-ar        Arabic
 values-de        German
 values-es        Spanish
 values-fr        French
