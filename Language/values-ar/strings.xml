@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">بالضغط على زر ابدأ ، فإنك توافق على متصفح الروح\n%1$s و%2$s.</string>
+    <string name="notice_tos">شروط الخدمة</string>
+    <string name="notice_privacy">إشعار الخصوصية</string>
     <string name="tos">شروط الخدمة</string>
     <string name="privacy">إشعار الخصوصية</string>
     <string name="start">بداية</string>

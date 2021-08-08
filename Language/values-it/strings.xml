@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Premendo il pulsante Iniziare, accetti Soul Browser %1$s e %2$s.</string>
+    <string name="notice_tos">Termini di servizio</string>
+    <string name="notice_privacy">Informativa sulla privacy</string>
     <string name="tos">Termini di servizio</string>
     <string name="privacy">Informativa sulla privacy</string>
     <string name="start">Iniziare</string>

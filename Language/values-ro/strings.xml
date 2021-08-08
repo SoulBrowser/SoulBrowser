@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Prin apăsarea butonului Start, sunteți de acord cu Browser-ul Soul\n%1$s și %2$s.</string>
+    <string name="notice_tos">Termeni și condiții</string>
+    <string name="notice_privacy">Notificare de confidențialitate</string>
     <string name="tos">Termeni și condiții</string>
     <string name="privacy">Notificare de confidențialitate</string>
     <string name="start">Start</string>

@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Naciskając przycisk Początek, akceptujesz Przeglądarkę Dusz\n%1$s i %2$s.</string>
+    <string name="notice_tos">Warunki korzystania z usługi</string>
+    <string name="notice_privacy">Informacja o prywatności</string>
     <string name="tos">Warunki korzystania z usługi</string>
     <string name="privacy">Informacja o prywatności</string>
     <string name="start">Początek</string>

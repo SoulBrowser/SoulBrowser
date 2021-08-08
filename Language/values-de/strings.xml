@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Durch drücken der Starttaste stimmen Sie den %1$s und %2$s von Soul Browser zu.</string>
+    <string name="notice_tos">Nutzungsbedingungen</string>
+    <string name="notice_privacy">Datenschutzbestimmungen</string>
     <string name="tos">Nutzungsbedingungen</string>
     <string name="privacy">Datenschutzbestimmungen</string>
     <string name="start">Starten</string>

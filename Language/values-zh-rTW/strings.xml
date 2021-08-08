@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">按下開放按鈕即表示您同意 Soul Browser %1$s和%2$s</string>
+    <string name="notice_tos">使用條款</string>
+    <string name="notice_privacy">隱私政策</string>
     <string name="tos">使用條款</string>
     <string name="privacy">隱私政策</string>
     <string name="start">開放</string>

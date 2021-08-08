@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Bằng cách nhấn vào nút Bắt đầu, bạn đồng ý với Soul Browser %1$s và %2$s.</string>
+    <string name="notice_tos">Điều khoản dịch vụ</string>
+    <string name="notice_privacy">Chính sách Bảo mật</string>
     <string name="tos">Điều khoản dịch vụ</string>
     <string name="privacy">Chính sách Bảo mật</string>
     <string name="start">Bắt đầu</string>

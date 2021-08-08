@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Al presionar el botón Comenzar, aceptas los %1$s y la %2$s de Soul Browser.</string>
+    <string name="notice_tos">Términos de servicio</string>
+    <string name="notice_privacy">Política de privacidad</string>
     <string name="tos">Términos de servicio</string>
     <string name="privacy">Política de privacidad</string>
     <string name="start">Comenzar</string>
@@ -345,8 +347,8 @@
     <string name="desk_one">Escritorio (Pestaña actual)</string>
     <string name="desk_all">Escritorio (Todas las pestañas)</string>
     <string name="show_image">Mostrar imagen</string>
-    <string name="block_images">Imagen de bloque</string>
-    <string name="block_a_image">Imagen de bloque</string>
+    <string name="block_images">Bloquear imagen</string>
+    <string name="block_a_image">Bloquear imagen</string>
     <string name="blocked_image">Imágenes bloqueadas</string>
     <string name="block_confirm">¿Quieres bloquearlo?</string>
     <string name="block_apply">Bloquear</string>

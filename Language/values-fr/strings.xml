@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">En appuyant sur le bouton Début, vous acceptez les %1$s et la %2$s de Soul Browser.</string>
+    <string name="notice_tos">Conditions d\'utilisation</string>
+    <string name="notice_privacy">Politique de confidentialité</string>
     <string name="tos">Conditions d\'utilisation</string>
     <string name="privacy">Politique de confidentialité</string>
     <string name="start">Début</string>

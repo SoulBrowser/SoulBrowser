@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Натиснувши кнопку «Старт», Ви погоджуєтесь із %1$s та %2$s браузера Soul.</string>
+    <string name="notice_tos">Умови використання</string>
+    <string name="notice_privacy">Повідомлення про конфіденційність</string>
     <string name="tos">Умови використання</string>
     <string name="privacy">Повідомлення про конфіденційність</string>
     <string name="start">Старт</string>

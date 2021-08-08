@@ -2,7 +2,9 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Нажимая кнопку «Начать работу», Вы соглашаетесь с Условиями использования и Политикой конфиденциальности браузера Soul.</string>
+    <string name="notice">Нажимая кнопку «Начать работу», Вы соглашаетесь с %1$s и %2$s браузера Soul.</string>
+    <string name="notice_tos">Условиями использования</string>
+    <string name="notice_privacy">Политикой конфиденциальности</string>
     <string name="tos">Условия использования</string>
     <string name="privacy">Политика конфиденциальности</string>
     <string name="start">Начать работу</string>
@@ -181,7 +183,7 @@
     <string name="order_by">Порядок</string>
     <string name="order_ascend">По возрастанию</string>
     <string name="order_descend">По убыванию</string>
-    <string name="folder_top">Вверх</string>
+    <string name="folder_top">Папка вверх</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -199,14 +201,14 @@
     <string name="cache">Кэш</string>
     <string name="cache_info">Файлы просмотренных веб-страниц (напр. изображения)</string>
     <string name="cookie">Cookie</string>
-    <string name="cookie_info">Информация, сохранённая во время просмотра веб-страниц (например, данные для входа)</string>
+    <string name="cookie_info">Информация, сохранённая во время просмотра веб-страниц (напр. данные для входа)</string>
     <string name="no_rotate">Не переворачивать экран</string>
     <string name="screen_rotate_info">Экран всегда отображается вертикально.</string>
     <string name="vol_scroll">Прокрутка страницы клавишами регулировки громкости</string>
     <string name="double_back">Двойное нажатие для выхода из браузера</string>
     <string name="press_again">Нажмите ещё раз для выхода.</string>
     <string name="last_noti">Уведомление о последней странице</string>
-    <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление</string>
+    <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление.</string>
     <string name="last_page_noti">Это последняя страница вкладки.</string>
     <string name="last_swipe">Закрывать вкладку с последней страницей свайпом</string>
     <string name="title">Заголовок</string>
@@ -837,7 +839,7 @@
     <string name="tab_add_next">Рядом с текущей вкладкой</string>
     <string name="tab_add_last">Конец списка вкладок</string>
     <string name="auto_group">Автогруппировка вкладок</string>
-    <string name="auto_group_info">Автогруппировка при открытии нового сайта</string>
+    <string name="auto_group_info">Автогруппировка при открытии нового сайта.</string>
     <string name="tab_guide_1">1. Перемещайте вкладку длинным нажатием на ней.</string>
     <string name="tab_guide_2">2. Создавайте папки, перекрывая другие вкладки.</string>
     <string name="debug_mode">Веб-отладка</string>
@@ -865,4 +867,4 @@
     <string name="vpn_server">Сервер</string>
     <string name="visit_site">Посетите сайт</string>
     <string name="home_exit">Действие кнопки Назад на домашней странице</string>
-</resources> 
+</resources>

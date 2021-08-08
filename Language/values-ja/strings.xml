@@ -3,6 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">開始ボタンを押すと、 Soul Browser %1$sと%2$sに同意します。</string>
+    <string name="notice_tos">利用規約</string>
+    <string name="notice_privacy">個人情報保護ポリシー</string>
     <string name="tos">利用規約</string>
     <string name="privacy">個人情報保護ポリシー</string>
     <string name="start">開始</string>
