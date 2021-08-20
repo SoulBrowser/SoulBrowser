@@ -867,4 +867,5 @@
     <string name="vpn_server">Server</string>
     <string name="visit_site">Vizitați site-ul</string>
     <string name="home_exit">Acțiunea butonului Înapoi pe pagina principală</string>
+    <string name="out_of_memory">Memorie insuficienta.</string>
 </resources>

@@ -867,4 +867,5 @@
     <string name="vpn_server">Máy chủ</string>
     <string name="visit_site">Thăm trang web</string>
     <string name="home_exit">Hành động của nút quay lại trên trang chủ</string>
+    <string name="out_of_memory">Không đủ bộ nhớ.</string>
 </resources>

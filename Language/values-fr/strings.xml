@@ -867,4 +867,5 @@
     <string name="vpn_server">Serveur</string>
     <string name="visit_site">Visiter le site</string>
     <string name="home_exit">Action du bouton Retour sur la page d\'accueil</string>
+    <string name="out_of_memory">Mémoire insuffisante.</string>
 </resources>

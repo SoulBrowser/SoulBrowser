@@ -867,4 +867,5 @@
     <string name="vpn_server">服務器</string>
     <string name="visit_site">訪問網站</string>
     <string name="home_exit">主頁上的後退按鈕操作</string>
+    <string name="out_of_memory">內存不足</string>
 </resources>

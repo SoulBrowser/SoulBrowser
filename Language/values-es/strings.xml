@@ -10,7 +10,7 @@
     <string name="start">Comenzar</string>
     <string name="info">Información</string>
     <string name="app_ver">Versión de aplicacion</string>
-    <string name="license">Licencias de código abierto</string>
+    <string name="license">Licencias de código abrir</string>
     <string name="show_license">Licencia</string>
     <string name="feedback">Enviar comentarios</string>
     <string name="item">&#160;artículo</string>
@@ -113,9 +113,9 @@
     <string name="open_app">Aplicación</string>
     <string name="link_app">Abrir enlace con la aplicación</string>
     <string name="link">Enlace</string>
-    <string name="open_url">Abierto</string>
+    <string name="open_url">Abrir</string>
     <string name="new_url">Nueva pestaña</string>
-    <string name="back_url">Fondo pestaña</string>
+    <string name="back_url">Abrir en el fondo</string>
     <string name="copy_url">Copiar URL</string>
     <string name="paste_url">Pegar URL</string>
     <string name="open_copied_url">Abrir URL copiada</string>
@@ -145,7 +145,7 @@
     <string name="undelete">Recuperar</string>
     <string name="close">Cerrar</string>
     <string name="app_exit">Salir app</string>
-    <string name="open">Abierto</string>
+    <string name="open">Abrir</string>
     <string name="image_fail">No se pudo cargar la imagen</string>
     <string name="time_h">h</string>
     <string name="time_m">m</string>
@@ -164,7 +164,7 @@
     <string name="show_detail">Mostrar info detallada</string>
     <string name="show_single">Título de una sola línea</string>
     <string name="show_recent">Marcar archivo reciente</string>
-    <string name="open_as">Abierto como</string>
+    <string name="open_as">Abrir como</string>
     <string name="open_continue">Abrir en la posición anterior</string>
     <string name="pull_refresh">Deslice para actualizar</string>
     <string name="refresh">Actualizar</string>
@@ -785,7 +785,7 @@
     <string name="save_data">Almacenamiento de datos</string>
     <string name="level_strong">Fuerte</string>
     <string name="level_weak">Débiles</string>
-    <string name="open_limit">Límite abierto</string>
+    <string name="open_limit">Límite abrir</string>
     <string name="open_limit_info">Cuando se excede el límite, el primer elemento se elimina automáticamente.</string>
     <string name="down_manager">Gestor de descargas</string>
     <string name="down_manager_info1">Puede usar su aplicación de descarga favorita como administrador de descargas.</string>
@@ -867,4 +867,5 @@
     <string name="vpn_server">Servidor</string>
     <string name="visit_site">Visitar el sitio</string>
     <string name="home_exit">Acción del botón Atrás en la página de inicio</string>
+    <string name="out_of_memory">Memoria insuficiente.</string>
 </resources>

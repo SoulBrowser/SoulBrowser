@@ -867,4 +867,5 @@
     <string name="vpn_server">Server</string>
     <string name="visit_site">Kunjungi situsnya</string>
     <string name="home_exit">Tindakan tombol kembali di halaman beranda</string>
+    <string name="out_of_memory">Memori tidak cukup.</string>
 </resources>

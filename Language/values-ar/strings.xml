@@ -867,4 +867,5 @@
     <string name="vpn_server">الخادم</string>
     <string name="visit_site">قم بزيارة الموقع</string>
     <string name="home_exit">إجراء زر الرجوع على الصفحة الرئيسية</string>
+    <string name="out_of_memory">الذاكرة غير كافية.</string>
 </resources>

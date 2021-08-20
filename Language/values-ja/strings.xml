@@ -867,4 +867,5 @@
     <string name="vpn_server">サーバー</string>
     <string name="visit_site">サイトを訪問</string>
     <string name="home_exit">ホームページの戻るボタンのアクション</string>
+    <string name="out_of_memory">メモリが不足しています。</string>
 </resources>

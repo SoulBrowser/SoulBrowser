@@ -867,4 +867,5 @@
     <string name="vpn_server">เซิร์ฟเวอร์</string>
     <string name="visit_site">เยี่ยมชมเว็บไซต์</string>
     <string name="home_exit">การทำงานของปุ่มย้อนกลับในหน้าแรก</string>
+    <string name="out_of_memory">หน่วยความจำไม่เพียงพอ.</string>
 </resources>
