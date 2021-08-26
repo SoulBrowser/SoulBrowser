@@ -147,6 +147,8 @@
     <string name="app_exit">Keluar aplikasi</string>
     <string name="open">Buka</string>
     <string name="image_fail">Gagal memuat gambar</string>
+    <string name="time_day">hari</string>
+    <string name="time_days">hari</string>
     <string name="time_h">j</string>
     <string name="time_m">m</string>
     <string name="time_s">k</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">Aktifkan pemeran</string>
     <string name="show_full">Tombol layar penuh</string>
     <string name="icon_color">Warna tombol</string>
-    <string name="thank_you">Terima kasih</string>
     <string name="storage_guide_1">Diperbarui untuk Android 10.</string>
     <string name="storage_guide_2">Pada Android 10, kebijakan \'Penyimpanan Scoped\' berlaku.</string>
     <string name="storage_guide_3">Simpan daftar dan simpan jalur telah diinisialisasi.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">Itu selalu valid jika akun yang digunakan untuk pembayaran sama.</string>
     <string name="remove_ads_info_3">Iklan dalam aplikasi dan iklan di situs web berbeda.</string>
     <string name="remove_ads_info_4">Fitur penghapusan iklan situs web ini gratis.</string>
+    <string name="reward_ads">Hapus Iklan Dalam Aplikasi dengan Menonton Iklan</string>
+    <string name="reward_ads_info_1">Iklan dalam aplikasi dihapus selama 6 jam saat Anda menonton iklan sampai akhir.</string>
+    <string name="reward_ads_info_2">Menghapus aplikasi atau data aplikasi akan menyetel ulang waktu yang tersisa.</string>
+    <string name="reward_ads_info_3">Tidak ada pengaruhnya jika Anda sudah membelinya.</string>
+    <string name="reward_ads_time">Waktu yang tersisa</string>
     <string name="donate_1">Sumbangan (Susu)</string>
     <string name="donate_2">Sumbangan (Roti isi daging)</string>
     <string name="donate_3">Sumbangan (Makan malam)</string>
     <string name="donate_info">Terima kasih telah menggunakan Soul Browser.\nSoul Browser dikelola oleh donasi Anda.</string>
+    <string name="pay_free">Gratis</string>
     <string name="paid">Membeli</string>
     <string name="already_paid">Sudah dibeli.</string>
     <string name="pay_fail">Sebuah kesalahan telah terjadi.\nSilakan coba lagi nanti.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">Kunjungi situsnya</string>
     <string name="home_exit">Tindakan tombol kembali di halaman beranda</string>
     <string name="out_of_memory">Memori tidak cukup.</string>
+    <string name="auto_detect">Deteksi otomatis</string>
+    <string name="allow_all_site">Semua situs diizinkan</string>
+    <string name="block_harm_site">Blokir situs berbahaya</string>
 </resources>

@@ -147,6 +147,8 @@
     <string name="app_exit">앱 종료</string>
     <string name="open">열기</string>
     <string name="image_fail">이미지 로딩 실패</string>
+    <string name="time_day">일</string>
+    <string name="time_days">일</string>
     <string name="time_h">시간</string>
     <string name="time_m">분</string>
     <string name="time_s">초</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">캐스트 사용</string>
     <string name="show_full">전체 화면 버튼</string>
     <string name="icon_color">버튼 색상</string>
-    <string name="thank_you">감사합니다</string>
     <string name="storage_guide_1">Android 10 용으로 업데이트되었습니다.</string>
     <string name="storage_guide_2">Android 10부터는 \'Scoped Storage\'정책이 적용됩니다.</string>
     <string name="storage_guide_3">저장 목록과 저장 경로가 초기화되었습니다.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">결제에 사용한 계정이 동일하면 항상 유효합니다.</string>
     <string name="remove_ads_info_3">인앱 광고와 웹 사이트의 광고는 다릅니다.</string>
     <string name="remove_ads_info_4">웹 사이트의 광고 제거 기능은 무료입니다.</string>
+    <string name="reward_ads">광고 시청으로 인앱 광고 제거</string>
+    <string name="reward_ads_info_1">광고를 끝까지 시청하면 인앱 광고가 6시간 동안 제거됩니다.</string>
+    <string name="reward_ads_info_2">앱 또는 앱의 데이터를 삭제하면 남은 시간이 초기화됩니다.</string>
+    <string name="reward_ads_info_3">이미 구매한 경우에는 효과가 없습니다.</string>
+    <string name="reward_ads_time">남은 시간</string>
     <string name="donate_1">기부 (우유)</string>
     <string name="donate_2">기부 (햄버거)</string>
     <string name="donate_3">기부 (만찬)</string>
     <string name="donate_info">Soul Browser를 사용해 주셔서 감사합니다.\nSoul Browser는 여러분의 기부로 유지됩니다.</string>
+    <string name="pay_free">무료</string>
     <string name="paid">구매함</string>
     <string name="already_paid">이미 구매했습니다.</string>
     <string name="pay_fail">오류가 발생했습니다.\n잠시 후 다시 시도해 주세요.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">사이트 방문</string>
     <string name="home_exit">홈페이지에서 이전 버튼 동작</string>
     <string name="out_of_memory">메모리가 부족합니다.</string>
+    <string name="auto_detect">자동 감지</string>
+    <string name="allow_all_site">모든 사이트 허용</string>
+    <string name="block_harm_site">유해 사이트 차단</string>
 </resources>

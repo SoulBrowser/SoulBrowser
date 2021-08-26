@@ -147,6 +147,8 @@
     <string name="app_exit">Выйти из приложения</string>
     <string name="open">Открыть</string>
     <string name="image_fail">Не удалось загрузить изображение</string>
+    <string name="time_day">день</string>
+    <string name="time_days">дня</string>
     <string name="time_h">ч</string>
     <string name="time_m">м</string>
     <string name="time_s">с</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">Включить трансляцию</string>
     <string name="show_full">Кнопка полного экрана</string>
     <string name="icon_color">Цвет кнопки</string>
-    <string name="thank_you">Спасибо</string>
     <string name="storage_guide_1">Обновлено для Android 10.</string>
     <string name="storage_guide_2">Начиная с Android 10 применяется политика \'Scoped storage\'.</string>
     <string name="storage_guide_3">Сохранение списка и сохранение пути были инициализированы.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">Он всегда действителен, если счёт, используемый для оплаты, тот же.</string>
     <string name="remove_ads_info_3">Реклама в приложении и реклама на сайте разные.</string>
     <string name="remove_ads_info_4">Функция удаления рекламы на сайте бесплатна.</string>
+    <string name="reward_ads">Удалите рекламу в приложениях, просматривая рекламу</string>
+    <string name="reward_ads_info_1">Реклама в приложении удаляется на 6 часов, когда вы просматриваете рекламу до конца.</string>
+    <string name="reward_ads_info_2">Удаление приложения или данных приложения сбрасывает оставшееся время.</string>
+    <string name="reward_ads_info_3">Он не действует, если вы его уже купили.</string>
+    <string name="reward_ads_time">Времени осталось</string>
     <string name="donate_1">Пожертвовать (Молоко)</string>
     <string name="donate_2">Пожертвовать (Гамбургер)</string>
     <string name="donate_3">Пожертвовать (Ужин)</string>
     <string name="donate_info">Спасибо за использование Soul Browser.\nSoul Browser поддерживается за счет вашего пожертвования.</string>
+    <string name="pay_free">Бесплатно</string>
     <string name="paid">Куплено</string>
     <string name="already_paid">Он уже куплен.</string>
     <string name="pay_fail">Произошла ошибка.\nПожалуйста, попробуйте позже.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">Посетите сайт</string>
     <string name="home_exit">Действие кнопки Назад на домашней странице</string>
     <string name="out_of_memory">Недостаточно памяти.</string>
+    <string name="auto_detect">Автоматическое обнаружение</string>
+    <string name="allow_all_site">Все сайты разрешены</string>
+    <string name="block_harm_site">Блокировать вредоносные сайты</string>
 </resources>

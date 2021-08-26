@@ -147,6 +147,8 @@
     <string name="app_exit">アプリを終了</string>
     <string name="open">オープン</string>
     <string name="image_fail">画像の読み込みに失敗し</string>
+    <string name="time_day">日</string>
+    <string name="time_days">日</string>
     <string name="time_h">時間</string>
     <string name="time_m">分</string>
     <string name="time_s">秒</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">キャストを有効に</string>
     <string name="show_full">フルスクリーンボタン</string>
     <string name="icon_color">ボタンの色</string>
-    <string name="thank_you">ありがとうございます</string>
     <string name="storage_guide_1">Android 10用に更新されました。</string>
     <string name="storage_guide_2">Android10から\'Scoped Storage\'ポリシーが適用されます。</string>
     <string name="storage_guide_3">保存リストと保存先のパスが初期化されました。</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">支払いに使用したアカウントが同じであれば、常に有効です。</string>
     <string name="remove_ads_info_3">アプリ内広告とウェブサイトの広告は異なります。</string>
     <string name="remove_ads_info_4">ウェブサイトの広告を削除機能は無料です。</string>
+    <string name="reward_ads">広告視聴にアプリ内広告を削除</string>
+    <string name="reward_ads_info_1">広告を最後まで視聴するアプリ内広告は6時間中に削除されます。</string>
+    <string name="reward_ads_info_2">アプリやアプリのデータを削除すると、残り時間が初期化されます。</string>
+    <string name="reward_ads_info_3">既に購入した場合には効果がありません。</string>
+    <string name="reward_ads_time">残り時間</string>
     <string name="donate_1">寄付 (牛乳)</string>
     <string name="donate_2">寄付 (ハンバーガー)</string>
     <string name="donate_3">寄付 (晩ごはん)</string>
     <string name="donate_info">Soul Browserを使っていただきありがとうございます。\nSoul Browserは、あなたの寄付で維持されます。</string>
+    <string name="pay_free">無料</string>
     <string name="paid">購入する</string>
     <string name="already_paid">それは既に購入しました。</string>
     <string name="pay_fail">エラーが発生しました。\n後でやり直してください。</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">サイトを訪問</string>
     <string name="home_exit">ホームページの戻るボタンのアクション</string>
     <string name="out_of_memory">メモリが不足しています。</string>
+    <string name="auto_detect">自動検出</string>
+    <string name="allow_all_site">すべてのサイトを許可</string>
+    <string name="block_harm_site">有害サイトをブロック</string>
 </resources>

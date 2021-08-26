@@ -147,6 +147,8 @@
     <string name="app_exit">Quitter app</string>
     <string name="open">Ouvrir</string>
     <string name="image_fail">Impossible de charger image</string>
+    <string name="time_day">jour</string>
+    <string name="time_days">jours</string>
     <string name="time_h">h</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">Activer la diffusion</string>
     <string name="show_full">Bouton plein écran</string>
     <string name="icon_color">Couleur du bouton</string>
-    <string name="thank_you">Merci</string>
     <string name="storage_guide_1">Mis à jour pour Android 10.</string>
     <string name="storage_guide_2">À partir d\'Android 10, la politique de \'Stockage étendu\' s\'applique.</string>
     <string name="storage_guide_3">La liste de sauvegarde et le chemin de sauvegarde ont été initialisés.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">Il est toujours valable si le compte utilisé pour le paiement est le même.</string>
     <string name="remove_ads_info_3">Les publicités intégrées aux applications et les publicités sur un site Web sont différentes.</string>
     <string name="remove_ads_info_4">La fonction de suppression des publicités du site Web est gratuite.</string>
+    <string name="reward_ads">Supprimer les publicités intégrées à l\'application en regardant les publicités</string>
+    <string name="reward_ads_info_1">Les publicités intégrées à l\'application sont supprimées pendant 6 heures lorsque vous regardez la publicité jusqu\'à la fin.</string>
+    <string name="reward_ads_info_2">La suppression d\'une application ou des données d\'une application réinitialise le temps restant.</string>
+    <string name="reward_ads_info_3">Il n\'a aucun effet si vous l\'avez déjà acheté.</string>
+    <string name="reward_ads_time">Temps restant</string>
     <string name="donate_1">Don (Lait)</string>
     <string name="donate_2">Don (Hamburger)</string>
     <string name="donate_3">Don (Dîner)</string>
     <string name="donate_info">Merci d\'utiliser Soul Browser.\nSoul Browser est maintenu par votre don.</string>
+    <string name="pay_free">Libre</string>
     <string name="paid">Acheté</string>
     <string name="already_paid">Déjà acheté.</string>
     <string name="pay_fail">Une erreur est survenue.\nVeuillez réessayer plus tard.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">Visiter le site</string>
     <string name="home_exit">Action du bouton Retour sur la page d\'accueil</string>
     <string name="out_of_memory">Mémoire insuffisante.</string>
+    <string name="auto_detect">Détection automatique</string>
+    <string name="allow_all_site">Tous les sites autorisés</string>
+    <string name="block_harm_site">Bloquer les sites nuisibles</string>
 </resources>

@@ -147,6 +147,8 @@
     <string name="app_exit">Thoát ứng dụng</string>
     <string name="open">Mở</string>
     <string name="image_fail">Không thể tải hình ảnh</string>
+    <string name="time_day">ngày</string>
+    <string name="time_days">ngày</string>
     <string name="time_h">g</string>
     <string name="time_m">p</string>
     <string name="time_s">g</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">Cho phép diễn viên</string>
     <string name="show_full">Nút toàn màn hình</string>
     <string name="icon_color">Màu nút</string>
-    <string name="thank_you">Cảm ơn</string>
     <string name="storage_guide_1">Đã cập nhật cho Android 10.</string>
     <string name="storage_guide_2">Kể từ Android 10, chính sách \'Lưu trữ có phạm vi\' được áp dụng.</string>
     <string name="storage_guide_3">Lưu danh sách và lưu đường dẫn đã được khởi tạo.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">Nó luôn hợp lệ nếu tài khoản được sử dụng để thanh toán giống nhau.</string>
     <string name="remove_ads_info_3">Quảng cáo trong ứng dụng và quảng cáo trên một trang web là khác nhau.</string>
     <string name="remove_ads_info_4">Tính năng loại bỏ quảng cáo của trang web là miễn phí.</string>
+    <string name="reward_ads">Xóa quảng cáo trong ứng dụng bằng cách xem quảng cáo</string>
+    <string name="reward_ads_info_1">Quảng cáo trong ứng dụng bị loại bỏ trong 6 giờ khi bạn xem quảng cáo đến hết.</string>
+    <string name="reward_ads_info_2">Xóa ứng dụng hoặc dữ liệu của ứng dụng sẽ đặt lại thời gian còn lại.</string>
+    <string name="reward_ads_info_3">Nó không có hiệu lực nếu bạn đã mua nó.</string>
+    <string name="reward_ads_time">Thời gian còn lại</string>
     <string name="donate_1">Quyên góp (Sữa)</string>
     <string name="donate_2">Quyên góp (Bánh hamburger)</string>
     <string name="donate_3">Quyên góp (Bữa tối)</string>
     <string name="donate_info">Cảm ơn bạn đã sử dụng Soul Browser.\nSoul Browser được duy trì bởi sự đóng góp của bạn.</string>
+    <string name="pay_free">Miễn phí</string>
     <string name="paid">Đã mua</string>
     <string name="already_paid">Nó đã được mua.</string>
     <string name="pay_fail">Một lỗi đã xảy ra.\nVui lòng thử lại sau.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">Thăm trang web</string>
     <string name="home_exit">Hành động của nút quay lại trên trang chủ</string>
     <string name="out_of_memory">Không đủ bộ nhớ.</string>
+    <string name="auto_detect">Tự động phát hiện</string>
+    <string name="allow_all_site">Tất cả các trang web được phép</string>
+    <string name="block_harm_site">Chặn các trang web có hại</string>
 </resources>

@@ -147,6 +147,8 @@
     <string name="app_exit">Esci app</string>
     <string name="open">Apri</string>
     <string name="image_fail">Impossibile caricare immagine</string>
+    <string name="time_day">giorno</string>
+    <string name="time_days">giorni</string>
     <string name="time_h">o</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">Abilita cast</string>
     <string name="show_full">Pulsante a schermo intero</string>
     <string name="icon_color">Colore pulsante</string>
-    <string name="thank_you">Grazie</string>
     <string name="storage_guide_1">Aggiornato per Android 10.</string>
     <string name="storage_guide_2">A partire da Android 10, si applica la norma \'Archiviazione con ambito\'.</string>
     <string name="storage_guide_3">Elenco di salvataggio e percorso di salvataggio sono stati inizializzati.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">È sempre valido se l\'account utilizzato per il pagamento è lo stesso.</string>
     <string name="remove_ads_info_3">Gli annunci in-app e gli annunci su un sito web sono diversi.</string>
     <string name="remove_ads_info_4">La funzione di rimozione degli annunci del sito Web è gratuita.</string>
+    <string name="reward_ads">Rimuovi gli annunci in-app guardando gli annunci</string>
+    <string name="reward_ads_info_1">Gli annunci in-app vengono rimossi per 6 ore quando guardi l\'annuncio fino alla fine.</string>
+    <string name="reward_ads_info_2">L\'eliminazione di un\'app o dei dati di un\'app azzera il tempo rimanente.</string>
+    <string name="reward_ads_info_3">Non ha alcun effetto se l\'hai già acquistato.</string>
+    <string name="reward_ads_time">Tempo rimanente</string>
     <string name="donate_1">Donare (Latte)</string>
     <string name="donate_2">Donare (Hamburger)</string>
     <string name="donate_3">Donare (Cena)</string>
     <string name="donate_info">Grazie per aver utilizzato Soul Browser.\nSoul Browser è mantenuto dalla tua donazione.</string>
+    <string name="pay_free">Gratuito</string>
     <string name="paid">Acquistato</string>
     <string name="already_paid">È già stato acquistato.</string>
     <string name="pay_fail">C\'è stato un errore.\nPer favore riprova più tardi.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">Visita il sito</string>
     <string name="home_exit">Azione del pulsante Indietro sulla home page</string>
     <string name="out_of_memory">Memoria insufficiente.</string>
+    <string name="auto_detect">Rilevamento automatico</string>
+    <string name="allow_all_site">Tutti i siti consentiti</string>
+    <string name="block_harm_site">Blocca i siti dannosi</string>
 </resources>

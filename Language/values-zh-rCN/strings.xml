@@ -147,6 +147,8 @@
     <string name="app_exit">退出应用</string>
     <string name="open">打开</string>
     <string name="image_fail">无法加载图像</string>
+    <string name="time_day">天</string>
+    <string name="time_days">天</string>
     <string name="time_h">小时</string>
     <string name="time_m">分</string>
     <string name="time_s">秒</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">启用投屏</string>
     <string name="show_full">全屏按钮</string>
     <string name="icon_color">按钮颜色</string>
-    <string name="thank_you">谢谢啦</string>
     <string name="storage_guide_1">已针对 Android 10 更新</string>
     <string name="storage_guide_2">从 Android 10 开始，适用\'范围存储\'策略</string>
     <string name="storage_guide_3">保存列表和保存路径已初始化</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">如果用于支付的帐户相同，则始终有效。</string>
     <string name="remove_ads_info_3">应用内广告和网站上的广告是不同的。</string>
     <string name="remove_ads_info_4">该网站的广告删除功能是免费的。</string>
+    <string name="reward_ads">通过观看广告移除应用内广告</string>
+    <string name="reward_ads_info_1">当您观看广告时，应用内广告会被移除 6 小时</string>
+    <string name="reward_ads_info_2">删除应用程序或应用程序的数据会重置剩余时间</string>
+    <string name="reward_ads_info_3">如果您已经购买，则没有任何影响</string>
+    <string name="reward_ads_time">剩余时间</string>
     <string name="donate_1">请作者喝瓶牛奶</string>
     <string name="donate_2">请作者吃个汉堡包</string>
     <string name="donate_3">请作者吃顿晚餐</string>
     <string name="donate_info">感谢您使用 Soul Browser\nSoul Browser 由您的捐赠维护</string>
+    <string name="pay_free">免费</string>
     <string name="paid">已购买</string>
     <string name="already_paid">已购买</string>
     <string name="pay_fail">发生了错误\n请稍后再试</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">访问网站</string>
     <string name="home_exit">主页上的后退按钮操作</string>
     <string name="out_of_memory">内存不足</string>
+    <string name="auto_detect">自动检测</string>
+    <string name="allow_all_site">允许所有网站</string>
+    <string name="block_harm_site">阻止有害站点</string>
 </resources>

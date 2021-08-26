@@ -147,6 +147,8 @@
     <string name="app_exit">Ieșiți din aplicație</string>
     <string name="open">Deschide</string>
     <string name="image_fail">Nu a putut încărca imaginea</string>
+    <string name="time_day">zi</string>
+    <string name="time_days">zile</string>
     <string name="time_h">o</string>
     <string name="time_m">m</string>
     <string name="time_s">d</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">Activați cast</string>
     <string name="show_full">Buton ecran complet</string>
     <string name="icon_color">Culoarea butonului</string>
-    <string name="thank_you">Mulțumesc</string>
     <string name="storage_guide_1">Actualizat pentru Android 10.</string>
     <string name="storage_guide_2">Începând cu Android 10, se aplică politica \'Scoped Storage\'.</string>
     <string name="storage_guide_3">Lista de salvare și calea de salvare au fost inițializate.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">Este întotdeauna valabil dacă contul utilizat pentru plată este același.</string>
     <string name="remove_ads_info_3">Anunțurile în aplicație și anunțurile de pe un site web sunt diferite.</string>
     <string name="remove_ads_info_4">Funcția de eliminare a anunțurilor site-ului este gratuită.</string>
+    <string name="reward_ads">Eliminați anunțurile în aplicație urmărind anunțurile</string>
+    <string name="reward_ads_info_1">Anunțurile în aplicație sunt eliminate timp de 6 ore când urmăriți anunțul până la final.</string>
+    <string name="reward_ads_info_2">Ștergerea unei aplicații sau a datelor aplicației resetează timpul rămas.</string>
+    <string name="reward_ads_info_3">Nu are niciun efect dacă l-ați cumpărat deja.</string>
+    <string name="reward_ads_time">Timp ramas</string>
     <string name="donate_1">Donează (Lapte)</string>
     <string name="donate_2">Donează (Hamburger)</string>
     <string name="donate_3">Donează (Cină)</string>
     <string name="donate_info">Vă mulțumim că ați folosit Soul Browser.\nSoul Browser este menținut prin donația dvs.</string>
+    <string name="pay_free">Liber</string>
     <string name="paid">Cumparat</string>
     <string name="already_paid">A fost deja cumpărat.</string>
     <string name="pay_fail">A avut loc o eroare.\nVă rugăm să încercați din nou mai târziu.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">Vizitați site-ul</string>
     <string name="home_exit">Acțiunea butonului Înapoi pe pagina principală</string>
     <string name="out_of_memory">Memorie insuficienta.</string>
+    <string name="auto_detect">Detectare automată</string>
+    <string name="allow_all_site">Toate site-urile sunt permise</string>
+    <string name="block_harm_site">Blocați site-urile dăunătoare</string>
 </resources>

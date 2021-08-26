@@ -147,6 +147,8 @@
     <string name="app_exit">ออกจากแอป</string>
     <string name="open">เปิด</string>
     <string name="image_fail">ไม่สามารถโหลดภาพ</string>
+    <string name="time_day">วัน</string>
+    <string name="time_days">วัน</string>
     <string name="time_h">ชั่</string>
     <string name="time_m">น</string>
     <string name="time_s">ที่</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">เปิดใช้งานการส่ง</string>
     <string name="show_full">ปุ่มเต็มหน้าจอ</string>
     <string name="icon_color">สีของปุ่ม</string>
-    <string name="thank_you">ขอขอบคุณ</string>
     <string name="storage_guide_1">อัปเดตสำหรับ Android 10.</string>
     <string name="storage_guide_2">ตั้งแต่ Android 10 นโยบาย \'Scoped Storage\' จะมีผลบังคับใช้</string>
     <string name="storage_guide_3">บันทึกรายการและเส้นทางการบันทึกได้รับการเริ่มต้น</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">จะใช้ได้เสมอหากบัญชีที่ใช้ในการชำระเงินเหมือนกัน</string>
     <string name="remove_ads_info_3">โฆษณาในแอปและโฆษณาบนเว็บไซต์แตกต่างกัน</string>
     <string name="remove_ads_info_4">คุณลักษณะการลบโฆษณาของเว็บไซต์นั้นไม่มีค่าใช้จ่าย</string>
+    <string name="reward_ads">ลบโฆษณาในแอปด้วยการดูโฆษณา</string>
+    <string name="reward_ads_info_1">โฆษณาในแอปจะถูกลบออกเป็นเวลา 6 ชั่วโมงเมื่อคุณดูโฆษณาจนจบ</string>
+    <string name="reward_ads_info_2">การลบแอพหรือข้อมูลของแอพจะรีเซ็ตเวลาที่เหลืออยู่</string>
+    <string name="reward_ads_info_3">ไม่มีผลหากคุณซื้อไปแล้ว</string>
+    <string name="reward_ads_time">เวลาที่เหลืออยู่</string>
     <string name="donate_1">บริจาค (นม)</string>
     <string name="donate_2">บริจาค (แฮมเบอร์เกอร์)</string>
     <string name="donate_3">บริจาค (อาหารเย็น)</string>
     <string name="donate_info">ขอบคุณที่ใช้ Soul Browser\nSoul Browser ได้รับการดูแลโดยการบริจาคของคุณ</string>
+    <string name="pay_free">ฟรี</string>
     <string name="paid">ซื้อแล้ว</string>
     <string name="already_paid">มันถูกซื้อแล้ว</string>
     <string name="pay_fail">เกิดข้อผิดพลาด.\nโปรดลองอีกครั้งในภายหลัง.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">เยี่ยมชมเว็บไซต์</string>
     <string name="home_exit">การทำงานของปุ่มย้อนกลับในหน้าแรก</string>
     <string name="out_of_memory">หน่วยความจำไม่เพียงพอ.</string>
+    <string name="auto_detect">การตรวจจับอัตโนมัติ</string>
+    <string name="allow_all_site">อนุญาตทุกไซต์</string>
+    <string name="block_harm_site">บล็อกไซต์ที่เป็นอันตราย</string>
 </resources>

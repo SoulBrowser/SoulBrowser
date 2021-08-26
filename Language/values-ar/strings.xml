@@ -147,6 +147,8 @@
     <string name="app_exit">اخرج من التطبيق</string>
     <string name="open">حرارة</string>
     <string name="image_fail">فشل تحميل الصورة</string>
+    <string name="time_day">يوم</string>
+    <string name="time_days">أيام</string>
     <string name="time_h">الوقت</string>
     <string name="time_m">دقيقة</string>
     <string name="time_s">ثانيا</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">استخدام المصبوب</string>
     <string name="show_full">زر ملء الشاشة</string>
     <string name="icon_color">لون الزر</string>
-    <string name="thank_you">شكرا لك</string>
     <string name="storage_guide_1">تم التحديث لنظام Android 10.</string>
     <string name="storage_guide_2">بدءًا من Android 10 ، يتم تطبيق سياسة Scoped Storage.</string>
     <string name="storage_guide_3">تم تهيئة قائمة الحفظ ومسار الحفظ.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">يكون دائمًا صالحًا إذا كان الحساب المستخدم للدفع هو نفسه.</string>
     <string name="remove_ads_info_3">تختلف الإعلانات داخل التطبيق والإعلانات على موقع الويب.</string>
     <string name="remove_ads_info_4">ميزة إزالة الإعلانات من موقع الويب مجانية.</string>
+    <string name="reward_ads">إزالة الإعلانات داخل التطبيق عن طريق مشاهدة الإعلانات</string>
+    <string name="reward_ads_info_1">تتم إزالة الإعلانات داخل التطبيق لمدة 6 ساعات عندما تشاهد الإعلان حتى النهاية.</string>
+    <string name="reward_ads_info_2">يؤدي حذف بيانات التطبيق أو التطبيق إلى إعادة تعيين الوقت المتبقي.</string>
+    <string name="reward_ads_info_3">ليس له أي تأثير إذا كنت قد اشتريته بالفعل.</string>
+    <string name="reward_ads_time">الوقت المتبقي</string>
     <string name="donate_1">تبرع (حليب)</string>
     <string name="donate_2">تبرع (همبرغر)</string>
     <string name="donate_3">تبرع (عشاء)</string>
     <string name="donate_info">شكرًا لك على استخدام متصفح الروح.\nيتم الحفاظ على متصفح الروح من خلال تبرعك.</string>
+    <string name="pay_free">مجانا</string>
     <string name="paid">تم شراؤها</string>
     <string name="already_paid">لقد اشتريته بالفعل.</string>
     <string name="pay_fail">حدث خطأ.\nيرجى المحاولة مرة أخرى في بضع دقائق.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">قم بزيارة الموقع</string>
     <string name="home_exit">إجراء زر الرجوع على الصفحة الرئيسية</string>
     <string name="out_of_memory">الذاكرة غير كافية.</string>
+    <string name="auto_detect">كشف ألي</string>
+    <string name="allow_all_site">جميع المواقع مسموح بها</string>
+    <string name="block_harm_site">منع المواقع الضارة</string>
 </resources>

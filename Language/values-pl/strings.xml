@@ -147,6 +147,8 @@
     <string name="app_exit">Wyjdź z aplikacji</string>
     <string name="open">Otwórz</string>
     <string name="image_fail">Nie udało się załadować obrazu</string>
+    <string name="time_day">dzień</string>
+    <string name="time_days">dni</string>
     <string name="time_h">g</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">Włącz przesyłanie</string>
     <string name="show_full">Przycisk pełnego ekranu</string>
     <string name="icon_color">Kolor przycisku</string>
-    <string name="thank_you">Dziękuję</string>
     <string name="storage_guide_1">Zaktualizowano dla Android 10.</string>
     <string name="storage_guide_2">W systemie Android 10 obowiązują zasady \'Scoped Storage\'.</string>
     <string name="storage_guide_3">Zainicjowano listę zapisywania i ścieżkę zapisu.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">Jest zawsze ważne, jeśli konto używane do płatności jest takie samo.</string>
     <string name="remove_ads_info_3">Reklamy w aplikacji i reklamy w witrynie są różne.</string>
     <string name="remove_ads_info_4">Funkcja usuwania reklam w witrynie jest bezpłatna.</string>
+    <string name="reward_ads">Usuń reklamy w aplikacji, oglądając reklamy</string>
+    <string name="reward_ads_info_1">Reklamy w aplikacji są usuwane na 6 godzin, gdy oglądasz reklamę do końca.</string>
+    <string name="reward_ads_info_2">Usunięcie aplikacji lub danych aplikacji resetuje pozostały czas.</string>
+    <string name="reward_ads_info_3">Nie ma żadnego efektu, jeśli już go kupiłeś.</string>
+    <string name="reward_ads_time">Pozostały czas</string>
     <string name="donate_1">Podarować (Mleko)</string>
     <string name="donate_2">Podarować (Hamburger)</string>
     <string name="donate_3">Podarować (Obiad)</string>
     <string name="donate_info">Dziękujemy za korzystanie z przeglądarki Soul Browser.\nSoul Browser jest utrzymywana z Twojej darowizny.</string>
+    <string name="pay_free">Darmowy</string>
     <string name="paid">Zakupione</string>
     <string name="already_paid">Został już zakupiony.</string>
     <string name="pay_fail">Wystąpił błąd.\nSpróbuj ponownie później.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">Odwiedź stronę</string>
     <string name="home_exit">Działanie przycisku Wstecz na stronie głównej</string>
     <string name="out_of_memory">Niewystarczająca pamięć.</string>
+    <string name="auto_detect">Automatyczne wykrywanie</string>
+    <string name="allow_all_site">Wszystkie witryny dozwolone</string>
+    <string name="block_harm_site">Blokuj szkodliwe witryny</string>
 </resources>

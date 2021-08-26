@@ -147,6 +147,8 @@
     <string name="app_exit">Вихід із додатку</string>
     <string name="open">Відкрити</string>
     <string name="image_fail">Не вдалося завантажити зображення</string>
+    <string name="time_day">день</string>
+    <string name="time_days">дні</string>
     <string name="time_h">год</string>
     <string name="time_m">хв</string>
     <string name="time_s">сек</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">Увімкнути трансляцію</string>
     <string name="show_full">Повноекранна кнопка</string>
     <string name="icon_color">Колір кнопки</string>
-    <string name="thank_you">Дякую</string>
     <string name="storage_guide_1">Оновлено для Android 10.</string>
     <string name="storage_guide_2">Станом на Android 10 застосовується політика \'Скорочене зберігання\'.</string>
     <string name="storage_guide_3">Список і шлях зберігання ініціалізовано.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">Він завжди діє, якщо рахунок, який використовується для оплати, однаковий.</string>
     <string name="remove_ads_info_3">Оголошення в додатку та оголошення на веб-сайті відрізняються.</string>
     <string name="remove_ads_info_4">Функція видалення оголошень на веб-сайті безкоштовна.</string>
+    <string name="reward_ads">Видаліть оголошення в додатку, переглянувши оголошення</string>
+    <string name="reward_ads_info_1">Оголошення в додатку видаляються на 6 годин, коли ви переглянете оголошення до кінця.</string>
+    <string name="reward_ads_info_2">Видалення програми або даних програми скидає час, що залишився.</string>
+    <string name="reward_ads_info_3">Це не діє, якщо ви його вже купили.</string>
+    <string name="reward_ads_time">Час, що залишився</string>
     <string name="donate_1">Пожертвувати (Молоко)</string>
     <string name="donate_2">Пожертвувати (Rамбургер)</string>
     <string name="donate_3">Пожертвувати (Вечеря)</string>
     <string name="donate_info">Дякуємо за користування браузером Soul.\nБраузер Soul підтримується вашими пожертвами.</string>
+    <string name="pay_free">Безкоштовно</string>
     <string name="paid">Придбано</string>
     <string name="already_paid">Його вже придбали.</string>
     <string name="pay_fail">Сталася помилка.\nБудь ласка спробуйте пізніше.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">Відвідайте сайт</string>
     <string name="home_exit">Дія кнопки Назад на домашній сторінці</string>
     <string name="out_of_memory">Недостатня пам’ять.</string>
+    <string name="auto_detect">Автоматичне виявлення</string>
+    <string name="allow_all_site">Усі сайти дозволені</string>
+    <string name="block_harm_site">Блокувати шкідливі сайти</string>
 </resources>

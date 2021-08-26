@@ -147,6 +147,8 @@
     <string name="app_exit">Uygulamadan çık</string>
     <string name="open">Aç</string>
     <string name="image_fail">Resim yüklenemedi</string>
+    <string name="time_day">gün</string>
+    <string name="time_days">gün</string>
     <string name="time_h">s</string>
     <string name="time_m">d</string>
     <string name="time_s">i</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">Yayınlamayı etkinleştir</string>
     <string name="show_full">Tam ekran düğmesi</string>
     <string name="icon_color">Düğme rengi</string>
-    <string name="thank_you">Teşekkür ederim</string>
     <string name="storage_guide_1">Android 10 için güncellendi.</string>
     <string name="storage_guide_2">Android 10\'dan itibaren \'Kapsamlı Depolama\' politikası geçerlidir.</string>
     <string name="storage_guide_3">Kayıt listesi ve kayıt yolu başlatıldı.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">Ödeme için kullanılan hesabın aynı olması her zaman geçerlidir.</string>
     <string name="remove_ads_info_3">Bir web sitesindeki uygulama içi reklamlar ve reklamlar farklıdır.</string>
     <string name="remove_ads_info_4">Web sitesinin reklam kaldırma özelliği ücretsizdir.</string>
+    <string name="reward_ads">Reklamları İzleyerek Uygulama İçi Reklamları Kaldırın</string>
+    <string name="reward_ads_info_1">Reklamı sonuna kadar izlediğinizde uygulama içi reklamlar 6 saat süreyle kaldırılır.</string>
+    <string name="reward_ads_info_2">Bir uygulamanın veya uygulamanın verilerinin silinmesi, kalan süreyi sıfırlar.</string>
+    <string name="reward_ads_info_3">Zaten satın aldıysanız hiçbir etkisi yoktur.</string>
+    <string name="reward_ads_time">Kalan süre</string>
     <string name="donate_1">Bağış (Süt)</string>
     <string name="donate_2">Bağış (Hamburger)</string>
     <string name="donate_3">Bağış (Akşam yemegi)</string>
     <string name="donate_info">Soul Browser kullandığınız için teşekkür ederiz.\nSoul Browser bağışınız ile korunur.</string>
+    <string name="pay_free">Bedava</string>
     <string name="paid">Satın alındı</string>
     <string name="already_paid">Zaten satın alındı.</string>
     <string name="pay_fail">Bir hata oluştu.\nLütfen daha sonra tekrar deneyiniz.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">Siteyi ziyaret et</string>
     <string name="home_exit">Ana sayfada geri düğmesi eylemi</string>
     <string name="out_of_memory">Yetersiz hafıza.</string>
+    <string name="auto_detect">Otomatik algılama</string>
+    <string name="allow_all_site">Tüm sitelere izin verilir</string>
+    <string name="block_harm_site">Zararlı siteleri engelle</string>
 </resources>

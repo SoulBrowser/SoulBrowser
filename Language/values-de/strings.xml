@@ -147,6 +147,8 @@
     <string name="app_exit">App beenden</string>
     <string name="open">Öffnen</string>
     <string name="image_fail">Fehler beim Laden des Bildes</string>
+    <string name="time_day">Tag</string>
+    <string name="time_days">Tage</string>
     <string name="time_h">s</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>
@@ -556,7 +558,6 @@
     <string name="cast_on">Anzeige aktivieren</string>
     <string name="show_full">Vollbildschaltfläche</string>
     <string name="icon_color">Tastenfarbe</string>
-    <string name="thank_you">Danke</string>
     <string name="storage_guide_1">Aktualisiert für Android 10.</string>
     <string name="storage_guide_2">Ab Android 10 gilt die Richtlinie \'Scoped Storage\'.</string>
     <string name="storage_guide_3">Speicherliste und Speicherpfad wurden initialisiert.</string>
@@ -729,10 +730,16 @@
     <string name="remove_ads_info_2">Es ist immer gültig, wenn das zur Zahlung verwendete Konto dasselbe ist.</string>
     <string name="remove_ads_info_3">In-App-Anzeigen und Anzeigen auf einer Website sind unterschiedlich.</string>
     <string name="remove_ads_info_4">Die Funktion zum Entfernen von Anzeigen auf der Website ist kostenlos.</string>
+    <string name="reward_ads">Entfernen Sie In-App-Anzeigen, indem Sie sich Anzeigen ansehen</string>
+    <string name="reward_ads_info_1">In-App-Anzeigen werden 6 Stunden lang entfernt, wenn Sie die Anzeige bis zum Ende ansehen.</string>
+    <string name="reward_ads_info_2">Durch das Löschen einer App oder der Daten einer App wird die verbleibende Zeit zurückgesetzt.</string>
+    <string name="reward_ads_info_3">Es hat keine Auswirkung, wenn Sie es bereits gekauft haben.</string>
+    <string name="reward_ads_time">Verbleibende Zeit</string>
     <string name="donate_1">Spenden (Milch)</string>
     <string name="donate_2">Spenden (Hamburger)</string>
     <string name="donate_3">Spenden (Abendessen)</string>
     <string name="donate_info">Vielen Dank, dass Sie Soul Browser verwenden.\nSoul Browser wird durch Ihre Spende gepflegt.</string>
+    <string name="pay_free">Kostenlos</string>
     <string name="paid">Gekauft</string>
     <string name="already_paid">Es wurde bereits gekauft.</string>
     <string name="pay_fail">Ein Fehler ist aufgetreten.\nBitte versuchen Sie es später noch einmal.</string>
@@ -868,4 +875,7 @@
     <string name="visit_site">Besuchen Sie die Website</string>
     <string name="home_exit">Aktion der Zurück-Taste auf der Startseite home</string>
     <string name="out_of_memory">Nicht genügend Speicher.</string>
+    <string name="auto_detect">Automatische Erkennung</string>
+    <string name="allow_all_site">Alle Websites erlaubt</string>
+    <string name="block_harm_site">Blockieren Sie schädliche Websites</string>
 </resources>
