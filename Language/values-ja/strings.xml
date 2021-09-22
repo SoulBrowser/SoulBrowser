@@ -306,7 +306,6 @@
     <string name="photo_editor">フォトエディター</string>
     <string name="color_size">太さ</string>
     <string name="color_alpha">透明度</string>
-    <string name="bottom_size">下部バーサイズ</string>
     <string name="add_icon">追加ボタン</string>
     <string name="close_icon">閉じるボタン</string>
     <string name="size_width">幅</string>
@@ -391,9 +390,10 @@
     <string name="gesture">ジェスチャー</string>
     <string name="show_status">ステータスバーを表示</string>
     <string name="show_navi">ソフトキーを表示</string>
-    <string name="address_pos">アドレスバーの表示</string>
     <string name="address_title">アドレスバーにタイトルを表示</string>
-    <string name="bot_input">下部のアドレスバー</string>
+    <string name="address_icon">アドレスバーの編集ボタン</string>
+    <string name="addr_icon_info">2.アイコンをクリックして削除することができます。</string>
+    <string name="address_bar">アドレスバー</string>
     <string name="address_menu">アドレスバーメニュー</string>
     <string name="show_tab_bar">タブバーを表示</string>
     <string name="tab_swipe_up">タブバー上スワイプ</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">二本の指で左右にスワイプしてタブを移動します。</string>
     <string name="two_finger_info_2">二本の指で下にスワイプしてタブを削除します。</string>
     <string name="show_scroll">スクロールバーを表示</string>
-    <string name="show_up">トップへ移動ボタンを表示</string>
+    <string name="show_up">ページのトップへボタン</string>
     <string name="qrcode_title">QRコード</string>
-    <string name="show_qrcode">QRコードボタンを表示</string>
     <string name="voice_title">音声検索</string>
-    <string name="show_voice">音声検索ボタンを表示</string>
-    <string name="show_reader">リーダーモードボタンを表示</string>
     <string name="album_shortcut">アルバムのショートカットを作成</string>
     <string name="album_short_info">ホーム画面にアルバムショートカットボタンを作成します。</string>
     <string name="cast_shortcut">TVキャストのショートカットを作成</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">ホーム画面に追加</string>
     <string name="set_homepage">ホームページに設定</string>
     <string name="setted">設定されています。</string>
-    <string name="top_bar">上部バー</string>
-    <string name="bottom_bar">下部バー</string>
     <string name="video_url">動画のURL</string>
     <string name="address_guide_1">再生中の動画を長押ししてアドレスをコピーします。</string>
     <string name="address_guide_2">コピーしたアドレスを入力します。</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScriptが無効になっています。</string>
     <string name="icon_edit_guide_1">1. アイコンをクリックして、機能を変更してください。</string>
     <string name="icon_edit_guide_2">2. アイコンをドラッグして位置を変更してください。</string>
-    <string name="short_edit_guide">下部バーのアイコンを短く押したとき、使用する機能を設定することができます。</string>
     <string name="long_edit_guide">下部バーのアイコンを長く押したとき、使用する機能を設定することができます。</string>
     <string name="swipe_edit_guide">下部バーのアイコンを上スワイプするとき、使用する機能を設定することができます。</string>
-    <string name="short_press">短く押す</string>
     <string name="long_press">長押し</string>
     <string name="swipe_up">上スワイプ</string>
     <string name="memo_title">メモ</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">小さいアイコン</string>
     <string name="small_list">小さなリスト</string>
     <string name="large_list">大きなリスト</string>
-    <string name="icon_mode">アイコンモード</string>
-    <string name="page_mode">ページモード</string>
     <string name="full_screen">全画面表示</string>
     <string name="scroll_mode">スクロールモード</string>
     <string name="scroll_guide_1">1. これまでに読み込まれたページを表示します。</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">アプリやアプリのデータを削除すると、残り時間が初期化されます。</string>
     <string name="reward_ads_info_3">既に購入した場合には効果がありません。</string>
     <string name="reward_ads_time">残り時間</string>
-    <string name="donate_1">寄付 (牛乳)</string>
-    <string name="donate_2">寄付 (ハンバーガー)</string>
-    <string name="donate_3">寄付 (晩ごはん)</string>
+    <string name="donate_1">寄付（コーヒー）</string>
+    <string name="donate_2">寄付（ハンバーガー）</string>
+    <string name="donate_3">寄付（晩ごはん）</string>
     <string name="donate_info">Soul Browserを使っていただきありがとうございます。\nSoul Browserは、あなたの寄付で維持されます。</string>
     <string name="pay_free">無料</string>
     <string name="paid">購入する</string>
@@ -774,15 +765,11 @@
     <string name="size_real">実際のサイズ</string>
     <string name="block_ssl">SSLエラーブロック</string>
     <string name="block_ssl_info">SSLエラーが発生した場合、ページが自動的に安全なページに移動します。</string>
-    <string name="menu_noti_1">メニューアイコンを変更することができません。</string>
-    <string name="menu_noti_2">メニューアイコンは下のバーにのみ配置することができます。</string>
     <string name="screen_filter">スクリーンフィルター</string>
     <string name="filter_color">フィルタの色</string>
     <string name="always_use">常に使用</string>
     <string name="only_use_secret">シークレットモードでのみ使用</string>
     <string name="only_night">夜間モードでのみ使用</string>
-    <string name="night_mode">ナイトモード</string>
-    <string name="day_mode">週間モード</string>
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
     <string name="use_tab_anim">タブのアニメーションを使用</string>
     <string name="suggest_engine">提案エンジン</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">広告設定に問題があります。 再度設定してください。</string>
     <string name="original_size">元のサイズ</string>
     <string name="reduced_size">縮小されたサイズ（推奨）</string>
-    <string name="site_app">アプリで開くボタンを表示</string>
     <string name="finger_print">指紋</string>
     <string name="finger_unavailable">ハードウェアが利用できないため、ユーザーは認証できません。 あとでもう一度試してみてください。</string>
     <string name="finger_register">指紋が登録されていないため、ユーザーは認証できません。</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">広告ブロッカーオフ</string>
     <string name="adblock_enabled">広告ブロッカーが有効になっています。</string>
     <string name="adblock_disabled">広告ブロッカーが無効になっています。</string>
-    <string name="menu_guide">アイコンを長押しすると機能を変更することができます。</string>
     <string name="down_service">Soulダウンロードサービス</string>
     <string name="auto_comp">オートコンプリート</string>
     <string name="check_element">要素を検証（より細かいブロック）</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">自動検出</string>
     <string name="allow_all_site">すべてのサイトを許可</string>
     <string name="block_harm_site">有害サイトをブロック</string>
+    <string name="two_lines">2ライン</string>
+    <string name="three_lines">3ライン</string>
+    <string name="expand_mode">拡張モード</string>
+    <string name="layout_title">レイアウト</string>
+    <string name="update_noti">レイアウト構造が変更されました。\nその結果、関連する設定が変更されました。</string>
+    <string name="tab_indicator">タブインジケーター</string>
+    <string name="tab_indi_info">タブボタンにタブ位置とタブの数を表示</string>
+    <string name="not_space">スペースが不足しています。</string>
 </resources>

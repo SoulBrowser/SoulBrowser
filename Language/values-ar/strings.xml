@@ -306,7 +306,6 @@
     <string name="photo_editor">معدل الصور</string>
     <string name="color_size">سماكة</string>
     <string name="color_alpha">الشفافية</string>
-    <string name="bottom_size">حجم الشريط السفلي</string>
     <string name="add_icon">زر الإضافة</string>
     <string name="close_icon">زر الاغلاق</string>
     <string name="size_width">العرض</string>
@@ -391,9 +390,10 @@
     <string name="gesture">إيماءة</string>
     <string name="show_status">أظهر شريط الحالة</string>
     <string name="show_navi">عرض الأزرار</string>
-    <string name="address_pos">عرض شريط العنوان</string>
     <string name="address_title">إظهار العنوان في شريط العنوان</string>
-    <string name="bot_input">شريط العنوان في الأسفل</string>
+    <string name="address_icon">تحرير أزرار شريط العناوين</string>
+    <string name="addr_icon_info">2. يمكنك إزالته عن طريق النقر فوق الرمز.</string>
+    <string name="address_bar">شريط العنوان</string>
     <string name="address_menu">قائمة شريط العناوين</string>
     <string name="show_tab_bar">إظهار شريط علامات التبويب</string>
     <string name="tab_swipe_up">اسحب شريط علامات التبويب لأعلى</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">اسحب لليسار أو لليمين بإصبعين لتحريك الصنبور.</string>
     <string name="two_finger_info_2">اسحب لأسفل بإصبعين لإزالة علامة التبويب.</string>
     <string name="show_scroll">إظهار شريط التمرير</string>
-    <string name="show_up">إظهار زر العودة إلى الأعلى</string>
+    <string name="show_up">زر العودة الى اعلى</string>
     <string name="qrcode_title">رمز الاستجابة السريعة</string>
-    <string name="show_qrcode">عرض زر رمز الاستجابة السريعة</string>
     <string name="voice_title">البحث الصوتي</string>
-    <string name="show_voice">إظهار زر البحث الصوتي</string>
-    <string name="show_reader">إظهار زر وضع القارئ</string>
     <string name="album_shortcut">قم بإنشاء اختصار الألبوم</string>
     <string name="album_short_info">قم بإنشاء زر اختصار ألبوم على الشاشة الرئيسية.</string>
     <string name="cast_shortcut">إنشاء اختصار TV Cast</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">أضف إلى الشاشة الرئيسية</string>
     <string name="set_homepage">تعيين كصفحة رئيسية</string>
     <string name="setted">تم تعيينه.</string>
-    <string name="top_bar">الشريط العلوى</string>
-    <string name="bottom_bar">شريط أسفل</string>
     <string name="video_url">رابط الفيديو</string>
     <string name="address_guide_1">اضغط مع الاستمرار على تشغيل الفيديو لنسخ العنوان.</string>
     <string name="address_guide_2">أدخل العنوان المنسوخ.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">تم تعطيل JavaScript.</string>
     <string name="icon_edit_guide_1">1. انقر فوق الرمز لتغيير الوظيفة.</string>
     <string name="icon_edit_guide_2">2. اسحب الرمز لتغيير الموقع.</string>
-    <string name="short_edit_guide">يمكنك ضبط الوظيفة المراد استخدامها عند الضغط لفترة قصيرة على الرمز الموجود في الشريط السفلي.</string>
     <string name="long_edit_guide">يمكنك ضبط الوظيفة لاستخدامها عند الضغط لفترة طويلة على الرمز الموجود في الشريط السفلي.</string>
     <string name="swipe_edit_guide">يمكنك ضبط الوظيفة لاستخدامها عند التمرير سريعًا فوق الرمز الموجود في الشريط السفلي.</string>
-    <string name="short_press">ضغطة قصيرة</string>
     <string name="long_press">ضغطة طويلة</string>
     <string name="swipe_up">اسحب للاعلى</string>
     <string name="memo_title">مذكرة</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">أيقونة صغيرة</string>
     <string name="small_list">قائمة صغيرة</string>
     <string name="large_list">قائمة كبيرة</string>
-    <string name="icon_mode">وضع الرمز</string>
-    <string name="page_mode">وضع الصفحة</string>
     <string name="full_screen">تكبير الشاشة</string>
     <string name="scroll_mode">وضع التمرير</string>
     <string name="scroll_guide_1">1. اعرض الصفحات التي تم تحميلها حتى الآن.</string>
@@ -735,7 +726,7 @@
     <string name="reward_ads_info_2">يؤدي حذف بيانات التطبيق أو التطبيق إلى إعادة تعيين الوقت المتبقي.</string>
     <string name="reward_ads_info_3">ليس له أي تأثير إذا كنت قد اشتريته بالفعل.</string>
     <string name="reward_ads_time">الوقت المتبقي</string>
-    <string name="donate_1">تبرع (حليب)</string>
+    <string name="donate_1">تبرع (قهوة)</string>
     <string name="donate_2">تبرع (همبرغر)</string>
     <string name="donate_3">تبرع (عشاء)</string>
     <string name="donate_info">شكرًا لك على استخدام متصفح الروح.\nيتم الحفاظ على متصفح الروح من خلال تبرعك.</string>
@@ -774,15 +765,11 @@
     <string name="size_real">الحجم الأصلي</string>
     <string name="block_ssl">حظر خطأ SSL</string>
     <string name="block_ssl_info">عند حدوث خطأ SSL ، يتم توجيهك تلقائيًا إلى صفحة آمنة.</string>
-    <string name="menu_noti_1">لا يمكن تغيير رمز القائمة.</string>
-    <string name="menu_noti_2">يمكن وضع رموز القائمة على الشريط السفلي فقط.</string>
     <string name="screen_filter">فلتر الشاشة</string>
     <string name="filter_color">لون الفلتر</string>
     <string name="always_use">دائما يستخدم</string>
     <string name="only_use_secret">تستخدم فقط في وضع التصفح المتخفي</string>
     <string name="only_night">استخدم فقط في الوضع الليلي</string>
-    <string name="night_mode">الوضع الليلي</string>
-    <string name="day_mode">وضع اليوم</string>
     <string name="use_scroll_anim">استخدم التمرير للرسوم المتحركة</string>
     <string name="use_tab_anim">استخدام الحنفية الرسوم المتحركة</string>
     <string name="suggest_engine">محرك الاقتراح</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">هناك مشكلة في إعدادات إعلانك. يرجى تعيينه مرة أخرى.</string>
     <string name="original_size">الحجم الأصلي</string>
     <string name="reduced_size">حجم مخفض (موصى به)</string>
-    <string name="site_app">زر إظهار لفتح مع التطبيق</string>
     <string name="finger_print">التعرف على بصمات الأصابع</string>
     <string name="finger_unavailable">لا يمكن للمستخدم المصادقة لأن الجهاز غير متوفر. الرجاء معاودة المحاولة في وقت لاحق.</string>
     <string name="finger_register">لا يمكن للمستخدم المصادقة لعدم وجود بصمة إصبع مسجلة.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">قم بإيقاف تشغيل منع الإعلانات</string>
     <string name="adblock_enabled">تم تنشيط منع الإعلانات.</string>
     <string name="adblock_disabled">تم تعطيل منع الإعلانات.</string>
-    <string name="menu_guide">اضغط لفترة طويلة على الأيقونة لتغيير الوظيفة.</string>
     <string name="down_service">Soul تحميل الخدمة</string>
     <string name="auto_comp">الإكمال التلقائي</string>
     <string name="check_element">فحص العنصر (مزيد من الحجب الدقيق)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">كشف ألي</string>
     <string name="allow_all_site">جميع المواقع مسموح بها</string>
     <string name="block_harm_site">منع المواقع الضارة</string>
+    <string name="two_lines">2 خطوط</string>
+    <string name="three_lines">3 خطوط</string>
+    <string name="expand_mode">الوضع الموسع</string>
+    <string name="layout_title">نسق</string>
+    <string name="update_noti">لقد تغير هيكل التخطيط.\nنتيجة لذلك ، تم تغيير الإعدادات ذات الصلة.</string>
+    <string name="tab_indicator">مؤشر الجدولة</string>
+    <string name="tab_indi_info">عرض موضع علامة التبويب وعدد علامات التبويب على زر علامة التبويب</string>
+    <string name="not_space">مساحة غير كافية.</string>
 </resources>

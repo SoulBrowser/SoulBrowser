@@ -306,7 +306,6 @@
     <string name="photo_editor">Editor de fotos</string>
     <string name="color_size">Espessura</string>
     <string name="color_alpha">Transparência</string>
-    <string name="bottom_size">Tamanho da barra inferior</string>
     <string name="add_icon">Botão adicionar</string>
     <string name="close_icon">Botão fechar</string>
     <string name="size_width">Largura</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Gestos</string>
     <string name="show_status">Mostrar barra status</string>
     <string name="show_navi">Mostrar botões virtuais</string>
-    <string name="address_pos">Mostrar barra de endereço</string>
     <string name="address_title">Mostrar título na barra de endereço</string>
-    <string name="bot_input">Barra de endereço embaixo</string>
+    <string name="address_icon">Editar botões da barra de endereço</string>
+    <string name="addr_icon_info">2. Você pode removê-lo clicando no ícone.</string>
+    <string name="address_bar">Barra de endereço</string>
     <string name="address_menu">Menu da barra de endereços</string>
     <string name="show_tab_bar">Mostrar barra de guias</string>
     <string name="tab_swipe_up">Deslizar barra de guias para cima</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Deslize para a esquerda e a direita com dois dedos para mover guias.</string>
     <string name="two_finger_info_2">Deslize para baixo com dois dedos para fechar a guia.</string>
     <string name="show_scroll">Mostrar barra rolagem</string>
-    <string name="show_up">Mostrar botão Ir para o topo</string>
+    <string name="show_up">Voltar ao botão superior</string>
     <string name="qrcode_title">Código QR</string>
-    <string name="show_qrcode">Mostrar botão código QR</string>
     <string name="voice_title">Pesquisa por voz</string>
-    <string name="show_voice">Mostrar botão de pesquisa por voz</string>
-    <string name="show_reader">Mostrar botão modo leitor</string>
     <string name="album_shortcut">Criar atalho para álbum</string>
     <string name="album_short_info">Criar um botão de atalho do álbum na tela inicial.</string>
     <string name="cast_shortcut">Criar atalho para transmitir</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Adicionar à tela inicial</string>
     <string name="set_homepage">Definir como página inicial</string>
     <string name="setted">Definição realizada.</string>
-    <string name="top_bar">Barra superior</string>
-    <string name="bottom_bar">Barra inferior</string>
     <string name="video_url">URL do vídeo</string>
     <string name="address_guide_1">Pressione e segure o vídeo sendo reproduzido para copiar o endereço.</string>
     <string name="address_guide_2">Digite o endereço copiado.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript está desabilitado.</string>
     <string name="icon_edit_guide_1">1. Clique no ícone para alterar a função.</string>
     <string name="icon_edit_guide_2">2. Arraste o ícone para alterar sua posição.</string>
-    <string name="short_edit_guide">Você pode definir a função a ser usada ao pressionar rapidamente o ícone na barra inferior.</string>
     <string name="long_edit_guide">Você pode definir a função a ser usada quando pressionar e segurar o ícone na barra inferior.</string>
     <string name="swipe_edit_guide">Você pode definir a função a usar ao deslizar o ícone na barra inferior.</string>
-    <string name="short_press">Toque curto</string>
     <string name="long_press">Pressionamento</string>
     <string name="swipe_up">Deslize para cima</string>
     <string name="memo_title">Nota</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Ícone pequeno</string>
     <string name="small_list">Lista pequena</string>
     <string name="large_list">Lista grande</string>
-    <string name="icon_mode">Modo de ícone</string>
-    <string name="page_mode">Modo de página</string>
     <string name="full_screen">Tela cheia</string>
     <string name="scroll_mode">Modo de rolagem</string>
     <string name="scroll_guide_1">1. Exibe a página carregada até o momento.</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">Excluir um aplicativo ou os dados de um aplicativo redefine o tempo restante.</string>
     <string name="reward_ads_info_3">Não tem efeito se você já o comprou.</string>
     <string name="reward_ads_time">Tempo restante</string>
-    <string name="donate_1">Doar (Leite)</string>
-    <string name="donate_2">Doar (Hambúrguer)</string>
-    <string name="donate_3">Doar (Jantar)</string>
+    <string name="donate_1">Doação (Café)</string>
+    <string name="donate_2">Doação (Hambúrguer)</string>
+    <string name="donate_3">Doação (Jantar)</string>
     <string name="donate_info">Obrigado por usar o Soul Browser.\nO Soul Browser é mantido por sua doação.</string>
     <string name="pay_free">Gratuitamente</string>
     <string name="paid">Comprado</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Tamanho real</string>
     <string name="block_ssl">Bloqueio em erro SSL</string>
     <string name="block_ssl_info">Quando ocorre um erro de SSL, a página vai automaticamente para uma página segura.</string>
-    <string name="menu_noti_1">O ícone do menu não pode ser alterado.</string>
-    <string name="menu_noti_2">Os ícones do menu só podem ser colocados na barra inferior.</string>
     <string name="screen_filter">Filtro de tela</string>
     <string name="filter_color">Cor do filtro</string>
     <string name="always_use">Usar sempre</string>
     <string name="only_use_secret">Usado apenas no modo de navegação anônima</string>
     <string name="only_night">Usar apenas no modo noturno</string>
-    <string name="night_mode">Modo noturno</string>
-    <string name="day_mode">Modo diurno</string>
     <string name="use_scroll_anim">Usar animação de rolagem</string>
     <string name="use_tab_anim">Usar animação de toque</string>
     <string name="suggest_engine">Motor de sugestão</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Há um problema com as configurações do anúncio. Defina novamente.</string>
     <string name="original_size">Tamanho original</string>
     <string name="reduced_size">Tamanho reduzido (recomendado)</string>
-    <string name="site_app">Mostrar botão para abrir com o aplicativo</string>
     <string name="finger_print">Impressão digital</string>
     <string name="finger_unavailable">O usuário não pode autenticar porque o hardware não está disponível. Tente mais tarde.</string>
     <string name="finger_register">O usuário não pode autenticar porque nenhuma impressão digital está registrada.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Bloqueador de anúncios desativado</string>
     <string name="adblock_enabled">O bloqueador de anúncios está ativado.</string>
     <string name="adblock_disabled">O bloqueador de anúncios está desativado.</string>
-    <string name="menu_guide">Pressione longamente o ícone para alterar a função.</string>
     <string name="down_service">Soul serviço de download</string>
     <string name="auto_comp">Autocompletar</string>
     <string name="check_element">Inspeção de elemento (bloqueio mais refinado)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Detecção automática</string>
     <string name="allow_all_site">Todos os sites são permitidos</string>
     <string name="block_harm_site">Bloquear sites prejudiciais</string>
+    <string name="two_lines">2 linhas</string>
+    <string name="three_lines">3 linhas</string>
+    <string name="expand_mode">Modo expandido</string>
+    <string name="layout_title">Layout</string>
+    <string name="update_noti">A estrutura do layout mudou.\nComo resultado, as configurações relevantes foram alteradas.</string>
+    <string name="tab_indicator">Indicador de guia</string>
+    <string name="tab_indi_info">Exibir a posição da guia e o número de guias no botão da guia</string>
+    <string name="not_space">Espaço insuficiente.</string>
 </resources>

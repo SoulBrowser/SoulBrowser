@@ -306,7 +306,6 @@
     <string name="photo_editor">Editor foto</string>
     <string name="color_size">Grosime</string>
     <string name="color_alpha">Transparență</string>
-    <string name="bottom_size">Dimensiunea barei inferioare</string>
     <string name="add_icon">Buton adăugare</string>
     <string name="close_icon">Butonul închidere</string>
     <string name="size_width">Lăţime</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Afișează bara de stare</string>
     <string name="show_navi">Afișează tasta soft</string>
-    <string name="address_pos">Afișați bara de adrese</string>
     <string name="address_title">Afișați titlul în bara de adrese</string>
-    <string name="bot_input">Bara de adrese de jos</string>
+    <string name="address_icon">Editați butoanele barei de adrese</string>
+    <string name="addr_icon_info">2. Puteți să-l eliminați făcând clic pe pictogramă.</string>
+    <string name="address_bar">Bara de adresa</string>
     <string name="address_menu">Meniul barei de adrese</string>
     <string name="show_tab_bar">Afișează bara de file</string>
     <string name="tab_swipe_up">Glisați în sus bara de file</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Glisați spre stânga și spre dreapta cu două degete pentru a muta file.</string>
     <string name="two_finger_info_2">Glisați în jos cu două degete pentru a elimina fila.</string>
     <string name="show_scroll">Afișează bara de defilare</string>
-    <string name="show_up">Afișați butonul de sus</string>
+    <string name="show_up">Butonul înapoi sus</string>
     <string name="qrcode_title">Cod QR</string>
-    <string name="show_qrcode">Afișare buton cod QR</string>
     <string name="voice_title">Căutare vocală</string>
-    <string name="show_voice">Afișați butonul de căutare vocală</string>
-    <string name="show_reader">Afișare buton modul cititor</string>
     <string name="album_shortcut">Creare scurtătură de album</string>
     <string name="album_short_info">Creați un buton pentru scurtăturile album pe ecranul de pornire.</string>
     <string name="cast_shortcut">Creați scurtătură de turnare TV</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Adăugare la ecranul principal</string>
     <string name="set_homepage">Setați ca pagină de pornire</string>
     <string name="setted">A fost setat.</string>
-    <string name="top_bar">Bara de sus</string>
-    <string name="bottom_bar">Bara de jos</string>
     <string name="video_url">URL video</string>
     <string name="address_guide_1">Apăsați și mențineți apăsat videoclipul redat pentru a copia adresa.</string>
     <string name="address_guide_2">Introduceți adresa copiată.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript este dezactivat.</string>
     <string name="icon_edit_guide_1">1. Faceți clic pe pictogramă pentru a schimba funcția.</string>
     <string name="icon_edit_guide_2">2. Trageți pictograma pentru a-i schimba poziția.</string>
-    <string name="short_edit_guide">Puteți seta funcția care va fi utilizată când apăsați scurt pictograma din bara de jos.</string>
     <string name="long_edit_guide">Puteți seta funcția pe care o utilizați când apăsați și țineți apăsată pictograma de pe bara de jos.</string>
     <string name="swipe_edit_guide">Puteți seta funcția pe care o folosiți atunci când treceți pictograma în bara de jos.</string>
-    <string name="short_press">Apăsare scurtă</string>
     <string name="long_press">Apasare prelungită</string>
     <string name="swipe_up">Glisati in sus</string>
     <string name="memo_title">Notificare</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Pictogramă mică</string>
     <string name="small_list">Lista mică</string>
     <string name="large_list">Lista mare</string>
-    <string name="icon_mode">Mod pictogramă</string>
-    <string name="page_mode">Mod pagină</string>
     <string name="full_screen">Ecran complet</string>
     <string name="scroll_mode">Modul de derulare</string>
     <string name="scroll_guide_1">1. Afișează pagina încărcată până acum.</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">Ștergerea unei aplicații sau a datelor aplicației resetează timpul rămas.</string>
     <string name="reward_ads_info_3">Nu are niciun efect dacă l-ați cumpărat deja.</string>
     <string name="reward_ads_time">Timp ramas</string>
-    <string name="donate_1">Donează (Lapte)</string>
-    <string name="donate_2">Donează (Hamburger)</string>
-    <string name="donate_3">Donează (Cină)</string>
+    <string name="donate_1">Donație (Cafea)</string>
+    <string name="donate_2">Donație (Hamburger)</string>
+    <string name="donate_3">Donație (Cină)</string>
     <string name="donate_info">Vă mulțumim că ați folosit Soul Browser.\nSoul Browser este menținut prin donația dvs.</string>
     <string name="pay_free">Liber</string>
     <string name="paid">Cumparat</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Dimensiunea reală</string>
     <string name="block_ssl">Blocare eroare SSL</string>
     <string name="block_ssl_info">Când apare o eroare SSL, pagina trece automat la o pagină sigură.</string>
-    <string name="menu_noti_1">Pictograma meniului nu poate fi modificată.</string>
-    <string name="menu_noti_2">Pictogramele meniului pot fi plasate numai pe bara de jos.</string>
     <string name="screen_filter">Filtru ecran</string>
     <string name="filter_color">Culoarea filtrului</string>
     <string name="always_use">Folosiți întotdeauna</string>
     <string name="only_use_secret">Folosit numai în modul incognito</string>
     <string name="only_night">Folosit numai în modul de noapte</string>
-    <string name="night_mode">Mod de noapte</string>
-    <string name="day_mode">Mod zi</string>
     <string name="use_scroll_anim">Utilizați animația de defilare</string>
     <string name="use_tab_anim">Utilizați animația prin atingere</string>
     <string name="suggest_engine">Motor de sugestii</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Există o problemă cu setările pentru anunțuri. Vă rugăm să setați din nou.</string>
     <string name="original_size">Mărimea originală</string>
     <string name="reduced_size">Dimensiune redusă (recomandat)</string>
-    <string name="site_app">Afișați butonul pentru a deschide cu aplicația</string>
     <string name="finger_print">Amprentă digitală</string>
     <string name="finger_unavailable">Utilizatorul nu se poate autentifica deoarece hardware-ul nu este disponibil. Încercați mai târziu.</string>
     <string name="finger_register">Utilizatorul nu se poate autentifica deoarece nu este înregistrată nicio amprentă.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Blocarea anunțurilor este dezactivată</string>
     <string name="adblock_enabled">Blocarea anunțurilor este activată.</string>
     <string name="adblock_disabled">Blocarea anunțurilor este dezactivată.</string>
-    <string name="menu_guide">Apăsați lung pictograma pentru a schimba funcția.</string>
     <string name="down_service">Serviciu de descărcare Soul</string>
     <string name="auto_comp">Completare automată</string>
     <string name="check_element">Inspecția elementelor (blocare mai fină)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Detectare automată</string>
     <string name="allow_all_site">Toate site-urile sunt permise</string>
     <string name="block_harm_site">Blocați site-urile dăunătoare</string>
+    <string name="two_lines">2 rânduri</string>
+    <string name="three_lines">3 rânduri</string>
+    <string name="expand_mode">Mod extins</string>
+    <string name="layout_title">Aspect</string>
+    <string name="update_noti">Structura aspectului s-a schimbat.\nCa urmare, setările relevante au fost modificate.</string>
+    <string name="tab_indicator">Indicator filă</string>
+    <string name="tab_indi_info">Afișați poziția filei și numărul de file pe butonul de filă</string>
+    <string name="not_space">Spatiu insuficient.</string>
 </resources>

@@ -306,7 +306,6 @@
     <string name="photo_editor">Fotoeditor</string>
     <string name="color_size">Größe</string>
     <string name="color_alpha">Transparenz</string>
-    <string name="bottom_size">Größe der unteren Leiste</string>
     <string name="add_icon">Schaltfläche Hinzufügen</string>
     <string name="close_icon">Schaltfläche Schließen</string>
     <string name="size_width">Breite</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Gesten</string>
     <string name="show_status">Statusleiste anzeigen</string>
     <string name="show_navi">Navigationsleiste anzeigen</string>
-    <string name="address_pos">Adressleiste anzeigen</string>
     <string name="address_title">Titel in Adressleiste anzeigen</string>
-    <string name="bot_input">Untere Adressleiste</string>
+    <string name="address_icon">Schaltflächen in der Adressleiste bearbeiten</string>
+    <string name="addr_icon_info">2. Sie können es entfernen, indem Sie auf das Symbol klicken.</string>
+    <string name="address_bar">Adressleiste</string>
     <string name="address_menu">Adressleistenmenü</string>
     <string name="show_tab_bar">Tableiste anzeigen</string>
     <string name="tab_swipe_up">Wischen Sie der Tabnleiste nach oben</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Streichen Sie mit zwei Fingern nach links und rechts, um der Tabn zu verschieben.</string>
     <string name="two_finger_info_2">Wischen Sie mit zwei Fingern nach unten, um der Tab zu entfernen.</string>
     <string name="show_scroll">Bildlaufleiste anzeigen</string>
-    <string name="show_up">Schaltfläche \'Nach oben\' zeigen</string>
+    <string name="show_up">Zurück zum Anfangsknopf</string>
     <string name="qrcode_title">QR-Code</string>
-    <string name="show_qrcode">Schaltfläche QR-Code anzeigen</string>
     <string name="voice_title">Sprachsuche</string>
-    <string name="show_voice">Sprachsuchschaltfläche anzeigen</string>
-    <string name="show_reader">Schaltfläche Lesemodus anzeigen</string>
     <string name="album_shortcut">Albumverknüpfung erstellen</string>
     <string name="album_short_info">Albumverknüpfung-Schaltfläche auf dem Startbildschirm erstellen.</string>
     <string name="cast_shortcut">TV-Anzeige-Verknüpfung erstellen</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Zum Startbildschirm hinzufügen</string>
     <string name="set_homepage">Als Startseite festlegen</string>
     <string name="setted">Wurde festgelegt.</string>
-    <string name="top_bar">Obere Leiste</string>
-    <string name="bottom_bar">Untere Leiste</string>
     <string name="video_url">Video-URL</string>
     <string name="address_guide_1">Halten Sie das abgespielte Video gedrückt, um die Adresse zu kopieren.</string>
     <string name="address_guide_2">Geben Sie die kopierte Adresse ein.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript ist deaktiviert.</string>
     <string name="icon_edit_guide_1">1. Klicken Sie auf das Symbol, um die Funktion zu ändern.</string>
     <string name="icon_edit_guide_2">2. Ziehen Sie das Symbol, um seine Position zu ändern.</string>
-    <string name="short_edit_guide">Sie können die zu verwendende Funktion einstellen, wenn Sie das Symbol in der unteren Leiste kurz drücken.</string>
     <string name="long_edit_guide">Sie können die zu verwendende Funktion einstellen, wenn Sie das Symbol in der unteren Leiste gedrückt halten.</string>
     <string name="swipe_edit_guide">Sie können die Funktion festlegen, die beim Wischen des Symbols in der unteren Leiste verwendet werden soll.</string>
-    <string name="short_press">Kurz drücken</string>
     <string name="long_press">Lange drücken</string>
     <string name="swipe_up">Nach oben wischen</string>
     <string name="memo_title">Memo</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Kleines Symbol</string>
     <string name="small_list">Kleine Liste</string>
     <string name="large_list">Große Liste</string>
-    <string name="icon_mode">Symbolmodus</string>
-    <string name="page_mode">Seitenmodus</string>
     <string name="full_screen">Ganzer Bildschirm</string>
     <string name="scroll_mode">Bildlaufmodus</string>
     <string name="scroll_guide_1">1. Zeigt die bisher geladene Seite an.</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">Durch das Löschen einer App oder der Daten einer App wird die verbleibende Zeit zurückgesetzt.</string>
     <string name="reward_ads_info_3">Es hat keine Auswirkung, wenn Sie es bereits gekauft haben.</string>
     <string name="reward_ads_time">Verbleibende Zeit</string>
-    <string name="donate_1">Spenden (Milch)</string>
-    <string name="donate_2">Spenden (Hamburger)</string>
-    <string name="donate_3">Spenden (Abendessen)</string>
+    <string name="donate_1">Spende (Kaffee)</string>
+    <string name="donate_2">Spende (Hamburger)</string>
+    <string name="donate_3">Spende (Abendessen)</string>
     <string name="donate_info">Vielen Dank, dass Sie Soul Browser verwenden.\nSoul Browser wird durch Ihre Spende gepflegt.</string>
     <string name="pay_free">Kostenlos</string>
     <string name="paid">Gekauft</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Tatsächliche Größe</string>
     <string name="block_ssl">Blockierung von SSL-Fehlern</string>
     <string name="block_ssl_info">Wenn ein SSL-Fehler auftritt, wechselt die Seite automatisch zu einer sicheren Seite.</string>
-    <string name="menu_noti_1">Das Menüsymbol kann nicht geändert werden.</string>
-    <string name="menu_noti_2">Menüsymbole können nur in der unteren Leiste platziert werden.</string>
     <string name="screen_filter">Bildschirmfilter</string>
     <string name="filter_color">Filterfarbe</string>
     <string name="always_use">Immer verwenden</string>
     <string name="only_use_secret">Wird nur im Inkognito-Modus verwendet</string>
     <string name="only_night">Wird nur im Nachtmodus verwendet</string>
-    <string name="night_mode">Nacht-Modus</string>
-    <string name="day_mode">Tages-Modus</string>
     <string name="use_scroll_anim">Bildlaufanimation verwenden</string>
     <string name="use_tab_anim">Tipp-Animation verwenden</string>
     <string name="suggest_engine">Vorschlagsmanagement</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Es liegt ein Problem mit den Anzeigeneinstellungen vor. Bitte stellen Sie es erneut ein.</string>
     <string name="original_size">Originalgröße</string>
     <string name="reduced_size">Reduzierte Größe (empfohlen)</string>
-    <string name="site_app">Schaltfläche zum Öffnen mit App anzeigen</string>
     <string name="finger_print">Fingerabdruck</string>
     <string name="finger_unavailable">Der Benutzer kann sich nicht authentifizieren, da die Hardware nicht verfügbar ist. Versuchen Sie es später erneut.</string>
     <string name="finger_register">Der Benutzer kann sich nicht authentifizieren, da kein Fingerabdruck registriert ist.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Werbeblocker aus</string>
     <string name="adblock_enabled">Der Anzeigenblocker ist aktiviert.</string>
     <string name="adblock_disabled">Der Werbeblocker ist deaktiviert.</string>
-    <string name="menu_guide">Drücken Sie lange auf das Symbol, um die Funktion zu ändern.</string>
     <string name="down_service">Soul Download-Service</string>
     <string name="auto_comp">Automatische Vervollständigung</string>
     <string name="check_element">Elementinspektion (feinkörnigere Blockierung)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Automatische Erkennung</string>
     <string name="allow_all_site">Alle Websites erlaubt</string>
     <string name="block_harm_site">Blockieren Sie schädliche Websites</string>
+    <string name="two_lines">2 Zeilen</string>
+    <string name="three_lines">3 Zeilen</string>
+    <string name="expand_mode">Erweiterter Modus</string>
+    <string name="layout_title">Layout</string>
+    <string name="update_noti">Die Layoutstruktur hat sich geändert.\nAls Ergebnis wurden die entsprechenden Einstellungen geändert.</string>
+    <string name="tab_indicator">Tab-Anzeige</string>
+    <string name="tab_indi_info">Registerkartenposition und Anzahl der Registerkarten auf der Registerkartenschaltfläche anzeigen</string>
+    <string name="not_space">Nicht genug Platz.</string>
 </resources>

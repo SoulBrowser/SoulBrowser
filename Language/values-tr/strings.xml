@@ -306,7 +306,6 @@
     <string name="photo_editor">Fotoğraf düzenleyici</string>
     <string name="color_size">Kalınlık</string>
     <string name="color_alpha">Şeffaflık</string>
-    <string name="bottom_size">Alt çubuk boyutu</string>
     <string name="add_icon">Ekle düğmesi</string>
     <string name="close_icon">Kapat düğmesi</string>
     <string name="size_width">Genişlik</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Hareketler</string>
     <string name="show_status">Durum çubuğunu göster</string>
     <string name="show_navi">Ekran tuşunu göster</string>
-    <string name="address_pos">Adres çubuğunu göster</string>
     <string name="address_title">Başlığı adres çubuğunda göster</string>
-    <string name="bot_input">Alt adres çubuğu</string>
+    <string name="address_icon">Adres çubuğu düğmelerini düzenle</string>
+    <string name="addr_icon_info">2. Simgeye tıklayarak kaldırabilirsiniz.</string>
+    <string name="address_bar">Adres çubuğu</string>
     <string name="address_menu">Adres çubuğu menüsü</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
     <string name="tab_swipe_up">Sekme çubuğunu yukarı kaydırın</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Sekmeleri taşımak için iki parmağınızla sola ve sağa kaydırın.</string>
     <string name="two_finger_info_2">Sekmeyi çıkarmak için iki parmağınızla aşağı kaydırın.</string>
     <string name="show_scroll">Kaydırma çubuğunu göster</string>
-    <string name="show_up">En üste git düğmesini göster</string>
+    <string name="show_up">Başa dön düğmesi</string>
     <string name="qrcode_title">QR kod</string>
-    <string name="show_qrcode">QR kod düğmesini göster</string>
     <string name="voice_title">Sesli arama</string>
-    <string name="show_voice">Sesli arama düğmesini göster</string>
-    <string name="show_reader">Okuyucu modu düğmesini göster</string>
     <string name="album_shortcut">Albüm kısayolu oluştur</string>
     <string name="album_short_info">Ana ekranda bir albüm kısayolu düğmesi oluşturun.</string>
     <string name="cast_shortcut">TV yayın kısayolu oluştur</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Ana ekrana ekle</string>
     <string name="set_homepage">Anasayfa olarak ayarla</string>
     <string name="setted">Ayarlandı.</string>
-    <string name="top_bar">Üst çubuk</string>
-    <string name="bottom_bar">Alt çubuk</string>
     <string name="video_url">Video linki</string>
     <string name="address_guide_1">Adresi kopyalamak için oynatılan videoyu basılı tutun.</string>
     <string name="address_guide_2">Kopyalanan adresi girin.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript devre dışı bırakıldı.</string>
     <string name="icon_edit_guide_1">1. İşlevi değiştirmek için simgeye tıklayın.</string>
     <string name="icon_edit_guide_2">2. Konumunu değiştirmek için simgeyi sürükleyin.</string>
-    <string name="short_edit_guide">Alt çubuktaki simgeye kısa bastığınızda kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="long_edit_guide">Alt çubuktaki simgeyi basılı tuttuğunuzda kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="swipe_edit_guide">Alt çubuktaki simgeyi yukarı kaydırırken kullanılacak işlevi ayarlayabilirsiniz.</string>
-    <string name="short_press">Kısa basın</string>
     <string name="long_press">Uzun basma</string>
     <string name="swipe_up">Yukarı kaydırın</string>
     <string name="memo_title">Not</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Küçük simge</string>
     <string name="small_list">Küçük liste</string>
     <string name="large_list">Geniş liste</string>
-    <string name="icon_mode">Simge modu</string>
-    <string name="page_mode">Sayfa modu</string>
     <string name="full_screen">Tam ekran</string>
     <string name="scroll_mode">Kaydırma modu</string>
     <string name="scroll_guide_1">1. Şimdiye kadar yüklenen sayfayı görüntüler.</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">Bir uygulamanın veya uygulamanın verilerinin silinmesi, kalan süreyi sıfırlar.</string>
     <string name="reward_ads_info_3">Zaten satın aldıysanız hiçbir etkisi yoktur.</string>
     <string name="reward_ads_time">Kalan süre</string>
-    <string name="donate_1">Bağış (Süt)</string>
+    <string name="donate_1">Bağış (Kahve)</string>
     <string name="donate_2">Bağış (Hamburger)</string>
-    <string name="donate_3">Bağış (Akşam yemegi)</string>
+    <string name="donate_3">Bağış (Akşam yemeği)</string>
     <string name="donate_info">Soul Browser kullandığınız için teşekkür ederiz.\nSoul Browser bağışınız ile korunur.</string>
     <string name="pay_free">Bedava</string>
     <string name="paid">Satın alındı</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Gerçek boyutu</string>
     <string name="block_ssl">SSL hatası engelleme</string>
     <string name="block_ssl_info">Bir SSL hatası oluştuğunda, sayfa otomatik olarak güvenli bir sayfaya gider.</string>
-    <string name="menu_noti_1">Menü simgesi değiştirilemez.</string>
-    <string name="menu_noti_2">Menü simgeleri yalnızca alt çubuğa yerleştirilebilir.</string>
     <string name="screen_filter">Ekran filtresi</string>
     <string name="filter_color">Filtre rengi</string>
     <string name="always_use">Her zaman kullan</string>
     <string name="only_use_secret">Yalnızca gizli modda kullanılır</string>
     <string name="only_night">Yalnızca gece modunda kullanılır</string>
-    <string name="night_mode">Gece modu</string>
-    <string name="day_mode">Gündüz modu</string>
     <string name="use_scroll_anim">Kaydırma animasyonunu kullan</string>
     <string name="use_tab_anim">Dokunma animasyonunu kullan</string>
     <string name="suggest_engine">Öneri motoru</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Reklam ayarlarında bir sorun var. Lütfen yeniden ayarlayın.</string>
     <string name="original_size">Orijinal boyut</string>
     <string name="reduced_size">Küçültülmüş boyut (önerilir)</string>
-    <string name="site_app">Uygulama ile açmak için düğmeyi göster</string>
     <string name="finger_print">Parmak izi</string>
     <string name="finger_unavailable">Donanım kullanılamadığı için kullanıcı kimlik doğrulaması yapamaz. Daha sonra tekrar deneyin.</string>
     <string name="finger_register">Kullanıcı, kayıtlı parmak izi olmadığı için kimlik doğrulayamaz.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Reklam engelleyici kapalı</string>
     <string name="adblock_enabled">Reklam engelleyici etkinleştirildi.</string>
     <string name="adblock_disabled">Reklam engelleyici devre dışı bırakıldı.</string>
-    <string name="menu_guide">İşlevi değiştirmek için simgeye uzun basın.</string>
     <string name="down_service">Soul indirme hizmeti</string>
     <string name="auto_comp">Otomatik tamamlama</string>
     <string name="check_element">Eleman denetimi (daha ince taneli engelleme)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Otomatik algılama</string>
     <string name="allow_all_site">Tüm sitelere izin verilir</string>
     <string name="block_harm_site">Zararlı siteleri engelle</string>
+    <string name="two_lines">2 satır</string>
+    <string name="three_lines">3 satır</string>
+    <string name="expand_mode">Genişletilmiş mod</string>
+    <string name="layout_title">Yerleşim</string>
+    <string name="update_noti">Düzen yapısı değişti.\nSonuç olarak, ilgili ayarlar değiştirildi.</string>
+    <string name="tab_indicator">Sekme göstergesi</string>
+    <string name="tab_indi_info">Sekme düğmesindeki sekme konumunu ve sekme sayısını görüntüleme</string>
+    <string name="not_space">Yeterli alan yok.</string>
 </resources>

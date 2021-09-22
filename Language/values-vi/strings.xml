@@ -306,7 +306,6 @@
     <string name="photo_editor">Trình chỉnh sửa ảnh</string>
     <string name="color_size">Độ dày</string>
     <string name="color_alpha">Minh bạch</string>
-    <string name="bottom_size">Kích thước thanh dưới cùng</string>
     <string name="add_icon">Thêm nút</string>
     <string name="close_icon">Nút đóng</string>
     <string name="size_width">Chiều rộng</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Cử chỉ</string>
     <string name="show_status">Thanh trạng thái chương trình</string>
     <string name="show_navi">Hiển thị phím mềm</string>
-    <string name="address_pos">Hiển thị thanh địa chỉ</string>
     <string name="address_title">Hiển thị tiêu đề trong thanh địa chỉ</string>
-    <string name="bot_input">Thanh địa chỉ dưới cùng</string>
+    <string name="address_icon">Chỉnh sửa các nút trên thanh địa chỉ</string>
+    <string name="addr_icon_info">2. Bạn có thể loại bỏ nó bằng cách nhấp vào biểu tượng.</string>
+    <string name="address_bar">Thanh địa chỉ</string>
     <string name="address_menu">Menu thanh địa chỉ</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
     <string name="tab_swipe_up">Vuốt thanh tab lên</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Vuốt sang trái và phải bằng hai ngón tay để di chuyển các tab.</string>
     <string name="two_finger_info_2">Vuốt xuống bằng hai ngón tay để xóa tab.</string>
     <string name="show_scroll">Hiển thị thanh cuộn</string>
-    <string name="show_up">Hiển thị nút trên cùng</string>
+    <string name="show_up">Nút quay lại đầu trang</string>
     <string name="qrcode_title">Mã QR</string>
-    <string name="show_qrcode">Hiển thị nút mã QR</string>
     <string name="voice_title">Tìm kiếm bằng giọng nói</string>
-    <string name="show_voice">Hiển thị nút tìm kiếm bằng giọng nói</string>
-    <string name="show_reader">Hiển thị nút chế độ đọc</string>
     <string name="album_shortcut">Tạo lối tắt album</string>
     <string name="album_short_info">Tạo một nút tắt album trên màn hình chính.</string>
     <string name="cast_shortcut">Tạo lối tắt truyền hình</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Thêm vào màn hình chính</string>
     <string name="set_homepage">Đặt làm trang chủ</string>
     <string name="setted">Đã được thiết lập.</string>
-    <string name="top_bar">Thanh trên cùng</string>
-    <string name="bottom_bar">Thanh dưới cùng</string>
     <string name="video_url">URL video</string>
     <string name="address_guide_1">Nhấn và giữ video đang phát để sao chép địa chỉ.</string>
     <string name="address_guide_2">Nhập địa chỉ sao chép.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript bị tắt.</string>
     <string name="icon_edit_guide_1">1. Nhấp vào biểu tượng để thay đổi chức năng.</string>
     <string name="icon_edit_guide_2">2. Kéo biểu tượng để thay đổi vị trí của nó.</string>
-    <string name="short_edit_guide">Bạn có thể đặt chức năng được sử dụng khi nhấn nhanh vào biểu tượng trên thanh dưới cùng.</string>
     <string name="long_edit_guide">Bạn có thể đặt chức năng sử dụng khi nhấn và giữ biểu tượng trên thanh dưới cùng.</string>
     <string name="swipe_edit_guide">Bạn có thể thiết lập chức năng để sử dụng khi vuốt lên biểu tượng trên thanh dưới cùng.</string>
-    <string name="short_press">Báo chí ngắn</string>
     <string name="long_press">Nhấn dài</string>
     <string name="swipe_up">Kéo mạnh lên</string>
     <string name="memo_title">Ghi nhớ</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Biểu tượng nhỏ</string>
     <string name="small_list">Danh sách nhỏ</string>
     <string name="large_list">Danh sách lớn</string>
-    <string name="icon_mode">Chế độ biểu tượng</string>
-    <string name="page_mode">Chế độ trang</string>
     <string name="full_screen">Toàn màn hình</string>
     <string name="scroll_mode">Chế độ cuộn</string>
     <string name="scroll_guide_1">1. Hiển thị trang được tải cho đến nay.</string>
@@ -735,8 +726,8 @@
     <string name="reward_ads_info_2">Xóa ứng dụng hoặc dữ liệu của ứng dụng sẽ đặt lại thời gian còn lại.</string>
     <string name="reward_ads_info_3">Nó không có hiệu lực nếu bạn đã mua nó.</string>
     <string name="reward_ads_time">Thời gian còn lại</string>
-    <string name="donate_1">Quyên góp (Sữa)</string>
-    <string name="donate_2">Quyên góp (Bánh hamburger)</string>
+    <string name="donate_1">Quyên góp (Cà phê)</string>
+    <string name="donate_2">Quyên góp (Hamburger)</string>
     <string name="donate_3">Quyên góp (Bữa tối)</string>
     <string name="donate_info">Cảm ơn bạn đã sử dụng Soul Browser.\nSoul Browser được duy trì bởi sự đóng góp của bạn.</string>
     <string name="pay_free">Miễn phí</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Kích thước thực sự</string>
     <string name="block_ssl">Chặn lỗi SSL</string>
     <string name="block_ssl_info">Khi xảy ra lỗi SSL, trang sẽ tự động chuyển đến trang an toàn.</string>
-    <string name="menu_noti_1">Biểu tượng menu không thể thay đổi.</string>
-    <string name="menu_noti_2">Biểu tượng menu chỉ có thể được đặt trên thanh dưới cùng.</string>
     <string name="screen_filter">Lọc màn hình</string>
     <string name="filter_color">Màu bộ lọc</string>
     <string name="always_use">Luôn luôn sử dụng</string>
     <string name="only_use_secret">Chỉ được sử dụng ở chế độ ẩn danh</string>
     <string name="only_night">Chỉ sử dụng ở chế độ ban đêm</string>
-    <string name="night_mode">Chế độ ban đêm</string>
-    <string name="day_mode">Chế độ ngày</string>
     <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
     <string name="use_tab_anim">Sử dụng hoạt ảnh nhấn</string>
     <string name="suggest_engine">Công cụ đề xuất</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Có vấn đề với cài đặt quảng cáo. Vui lòng đặt lại.</string>
     <string name="original_size">Kích thước nguyên mẫu</string>
     <string name="reduced_size">Giảm kích thước (khuyến nghị)</string>
-    <string name="site_app">Hiển thị nút để mở bằng ứng dụng</string>
     <string name="finger_print">Vân tay</string>
     <string name="finger_unavailable">Người dùng không thể xác thực vì phần cứng không khả dụng. Thử lại sau.</string>
     <string name="finger_register">Người dùng không thể xác thực vì không có vân tay nào được đăng ký.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Trình chặn quảng cáo đang tắt</string>
     <string name="adblock_enabled">Trình chặn quảng cáo được bật.</string>
     <string name="adblock_disabled">Trình chặn quảng cáo bị tắt.</string>
-    <string name="menu_guide">Nhấn và giữ biểu tượng để thay đổi chức năng.</string>
     <string name="down_service">Dịch vụ tải xuống Soul</string>
     <string name="auto_comp">Tự động hoàn thành</string>
     <string name="check_element">Kiểm tra phần tử (chặn chi tiết hơn)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Tự động phát hiện</string>
     <string name="allow_all_site">Tất cả các trang web được phép</string>
     <string name="block_harm_site">Chặn các trang web có hại</string>
+    <string name="two_lines">2 dòng</string>
+    <string name="three_lines">3 dòng</string>
+    <string name="expand_mode">Chế độ mở rộng</string>
+    <string name="layout_title">Bố trí</string>
+    <string name="update_noti">Cấu trúc bố cục đã thay đổi.\nKết quả là, các cài đặt có liên quan đã được thay đổi.</string>
+    <string name="tab_indicator">Chỉ báo tab</string>
+    <string name="tab_indi_info">Hiển thị vị trí tab và số lượng tab trên nút tab</string>
+    <string name="not_space">Không đủ không gian.</string>
 </resources>

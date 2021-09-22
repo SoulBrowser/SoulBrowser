@@ -306,7 +306,6 @@
     <string name="photo_editor">Photo editor</string>
     <string name="color_size">Thickness</string>
     <string name="color_alpha">Transparency</string>
-    <string name="bottom_size">Bottom bar size</string>
     <string name="add_icon">Add button</string>
     <string name="close_icon">Close button</string>
     <string name="size_width">Width</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Show status bar</string>
     <string name="show_navi">Show soft key</string>
-    <string name="address_pos">Show address bar</string>
     <string name="address_title">Show title in address bar</string>
-    <string name="bot_input">Bottom address bar</string>
+    <string name="address_icon">Edit address bar buttons</string>
+    <string name="addr_icon_info">2. You can remove it by clicking the icon.</string>
+    <string name="address_bar">Address bar</string>
     <string name="address_menu">Address bar menu</string>
     <string name="show_tab_bar">Show tab bar</string>
     <string name="tab_swipe_up">Swipe up tab bar</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Swipe left and right with two fingers to move tab.</string>
     <string name="two_finger_info_2">Swipe down with two fingers to remove tab.</string>
     <string name="show_scroll">Show scroll bar</string>
-    <string name="show_up">Show go to top button</string>
+    <string name="show_up">Back to top button</string>
     <string name="qrcode_title">QR code</string>
-    <string name="show_qrcode">Show QR code button</string>
     <string name="voice_title">Voice search</string>
-    <string name="show_voice">Show voice search button</string>
-    <string name="show_reader">Show reader mode button</string>
     <string name="album_shortcut">Create album shortcut</string>
     <string name="album_short_info">Create an album shortcut button on the home screen.</string>
     <string name="cast_shortcut">Create TV cast shortcut</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Add to home screen</string>
     <string name="set_homepage">Set as homepage</string>
     <string name="setted">Has been set.</string>
-    <string name="top_bar">Top bar</string>
-    <string name="bottom_bar">Bottom bar</string>
     <string name="video_url">Video URL</string>
     <string name="address_guide_1">Press and hold the video being played to copy the address.</string>
     <string name="address_guide_2">Enter the copied address.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript is disabled.</string>
     <string name="icon_edit_guide_1">1. Click the icon to change the function.</string>
     <string name="icon_edit_guide_2">2. Drag the icon to change the position.</string>
-    <string name="short_edit_guide">You can set the function to be used when you short-press the icon on the bottom bar.</string>
     <string name="long_edit_guide">You can set the function to use when you press and hold the icon on the bottom bar.</string>
     <string name="swipe_edit_guide">You can set the function to use when swiping up the icon on the bottom bar.</string>
-    <string name="short_press">Short press</string>
     <string name="long_press">Long press</string>
     <string name="swipe_up">Swipe up</string>
     <string name="memo_title">Memo</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Small icon</string>
     <string name="small_list">Small list</string>
     <string name="large_list">Large list</string>
-    <string name="icon_mode">Icon mode</string>
-    <string name="page_mode">Page mode</string>
     <string name="full_screen">Full screen</string>
     <string name="scroll_mode">Scroll mode</string>
     <string name="scroll_guide_1">1. Displays the page loaded so far.</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">Deleting an app or app\'s data resets the remaining time.</string>
     <string name="reward_ads_info_3">It has no effect if you have already purchased it.</string>
     <string name="reward_ads_time">Time remaining</string>
-    <string name="donate_1">Donate (Milk)</string>
-    <string name="donate_2">Donate (Hamburger)</string>
-    <string name="donate_3">Donate (Dinner)</string>
+    <string name="donate_1">Donation (Coffee)</string>
+    <string name="donate_2">Donation (Hamburger)</string>
+    <string name="donate_3">Donation (Dinner)</string>
     <string name="donate_info">Thank you for using Soul Browser.\nSoul Browser is maintained by your donation.</string>
     <string name="pay_free">Free</string>
     <string name="paid">Purchased</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Actual size</string>
     <string name="block_ssl">SSL error blocking</string>
     <string name="block_ssl_info">When an SSL error occurs, the page automatically goes to a safe page.</string>
-    <string name="menu_noti_1">Menu icon cannot be changed.</string>
-    <string name="menu_noti_2">Menu icons can only be placed on the bottom bar.</string>
     <string name="screen_filter">Screen filter</string>
     <string name="filter_color">Filter color</string>
     <string name="always_use">Always use</string>
     <string name="only_use_secret">Only used in incognito mode</string>
     <string name="only_night">Only used in night mode</string>
-    <string name="night_mode">Night mode</string>
-    <string name="day_mode">Day mode</string>
     <string name="use_scroll_anim">Use scroll animation</string>
     <string name="use_tab_anim">Use tap animation</string>
     <string name="suggest_engine">Suggestion engine</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">There is a problem with ad settings. Please set it again.</string>
     <string name="original_size">Original size</string>
     <string name="reduced_size">Reduced size (recommended)</string>
-    <string name="site_app">Show button to open with app</string>
     <string name="finger_print">Fingerprint</string>
     <string name="finger_unavailable">The user can\'t authenticate because the hardware is unavailable. Try again later.</string>
     <string name="finger_register">The user can\'t authenticate because no fingerprint is enrolled.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Ad blocker off</string>
     <string name="adblock_enabled">Ad blocker is enabled.</string>
     <string name="adblock_disabled">Ad blocker is disabled.</string>
-    <string name="menu_guide">Long press the icon to change the function.</string>
     <string name="down_service">Soul download service</string>
     <string name="auto_comp">Auto complete</string>
     <string name="check_element">Element inspection (more fine-grained blocking)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Automatic detection</string>
     <string name="allow_all_site">All sites allowed</string>
     <string name="block_harm_site">Block harmful sites</string>
+    <string name="two_lines">2 lines</string>
+    <string name="three_lines">3 lines</string>
+    <string name="expand_mode">Expanded mode</string>
+    <string name="layout_title">Layout</string>
+    <string name="update_noti">The layout structure has changed.\nAs a result, the relevant settings were changed.</string>
+    <string name="tab_indicator">Tab indicator</string>
+    <string name="tab_indi_info">Show tab position and number of tabs on tab button</string>
+    <string name="not_space">Not enough space.</string>
 </resources>

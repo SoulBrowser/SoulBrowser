@@ -306,7 +306,6 @@
     <string name="photo_editor">Éditeur de photos</string>
     <string name="color_size">Épaisseur</string>
     <string name="color_alpha">Transparence</string>
-    <string name="bottom_size">Taille de la barre inférieure</string>
     <string name="add_icon">Ajouter un bouton</string>
     <string name="close_icon">Bouton Fermer</string>
     <string name="size_width">Largeur</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Geste</string>
     <string name="show_status">Afficher la barre d\'état</string>
     <string name="show_navi">Afficher la touche programmable</string>
-    <string name="address_pos">Afficher la barre d\'adresse</string>
     <string name="address_title">Afficher le titre dans la barre d\'adresse</string>
-    <string name="bot_input">Barre d\'adresse inférieure</string>
+    <string name="address_icon">Modifier les boutons de la barre d\'adresse</string>
+    <string name="addr_icon_info">2. Vous pouvez le supprimer en cliquant sur l\'icône.</string>
+    <string name="address_bar">Barre d\'adresse</string>
     <string name="address_menu">Menu de la barre d\'adresse</string>
     <string name="show_tab_bar">Afficher la barre d\'onglets</string>
     <string name="tab_swipe_up">Faites glisser la barre d\'onglets vers le haut</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Glissez vers la gauche et la droite avec deux doigts pour déplacer les onglets.</string>
     <string name="two_finger_info_2">Glissez vers le bas avec deux doigts pour retirer l\'onglet.</string>
     <string name="show_scroll">Afficher barre de défilement</string>
-    <string name="show_up">Afficher le bouton go to top</string>
+    <string name="show_up">Bouton retour en haut</string>
     <string name="qrcode_title">Code QR</string>
-    <string name="show_qrcode">Afficher bouton code QR</string>
     <string name="voice_title">Recherche vocale</string>
-    <string name="show_voice">Afficher le bouton de recherche vocale</string>
-    <string name="show_reader">Afficher bouton mode lecteur</string>
     <string name="album_shortcut">Créer un raccourci d\'album</string>
     <string name="album_short_info">Créez un bouton de raccourci d\'album sur l\'écran d\'accueil.</string>
     <string name="cast_shortcut">Créer un raccourci de diffusion TV</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Ajouter à l\'écran d\'accueil</string>
     <string name="set_homepage">Définir comme page d\'accueil</string>
     <string name="setted">Effectué.</string>
-    <string name="top_bar">Barre supérieure</string>
-    <string name="bottom_bar">Barre inférieure</string>
     <string name="video_url">URL de vidéo</string>
     <string name="address_guide_1">Appuyez et maintenez la vidéo en cours de lecture pour copier l\'adresse.</string>
     <string name="address_guide_2">Saisissez l\'adresse copiée.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript est désactivé.</string>
     <string name="icon_edit_guide_1">1. Cliquez sur l\'icône pour changer la fonction.</string>
     <string name="icon_edit_guide_2">2. Faites glisser l\'icône pour changer sa position.</string>
-    <string name="short_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous appuyez brièvement sur l\'icône de la barre inférieure.</string>
     <string name="long_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous maintenez enfoncée l\'icône sur la barre inférieure.</string>
     <string name="swipe_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous faites glisser l\'icône sur la barre inférieure.</string>
-    <string name="short_press">Appui court</string>
     <string name="long_press">Appui long</string>
     <string name="swipe_up">Balayez vers le haut</string>
     <string name="memo_title">Note</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Petite icône</string>
     <string name="small_list">Petite liste</string>
     <string name="large_list">Grande liste</string>
-    <string name="icon_mode">Mode icône</string>
-    <string name="page_mode">Mode page</string>
     <string name="full_screen">Plein écran</string>
     <string name="scroll_mode">Mode défilement</string>
     <string name="scroll_guide_1">1. Affiche la page chargée jusqu\'à présent.</string>
@@ -735,7 +726,7 @@
     <string name="reward_ads_info_2">La suppression d\'une application ou des données d\'une application réinitialise le temps restant.</string>
     <string name="reward_ads_info_3">Il n\'a aucun effet si vous l\'avez déjà acheté.</string>
     <string name="reward_ads_time">Temps restant</string>
-    <string name="donate_1">Don (Lait)</string>
+    <string name="donate_1">Don (Café)</string>
     <string name="donate_2">Don (Hamburger)</string>
     <string name="donate_3">Don (Dîner)</string>
     <string name="donate_info">Merci d\'utiliser Soul Browser.\nSoul Browser est maintenu par votre don.</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Taille actuelle</string>
     <string name="block_ssl">Blocage des erreurs SSL</string>
     <string name="block_ssl_info">Lorsqu\'une erreur SSL se produit, la page accède automatiquement à une page sécurisée.</string>
-    <string name="menu_noti_1">L\'icône de menu ne peut pas être modifiée.</string>
-    <string name="menu_noti_2">Les icônes de menu ne peuvent être placées que sur la barre inférieure.</string>
     <string name="screen_filter">Filtre d\'écran</string>
     <string name="filter_color">Couleur du filtre</string>
     <string name="always_use">Toujours utiliser</string>
     <string name="only_use_secret">Utilisé uniquement en mode navigation privée</string>
     <string name="only_night">Utilisé uniquement en mode nuit</string>
-    <string name="night_mode">Mode nuit</string>
-    <string name="day_mode">Mode jour</string>
     <string name="use_scroll_anim">Utiliser l\'animation de défilement</string>
     <string name="use_tab_anim">Utiliser l\'animation tactile</string>
     <string name="suggest_engine">Moteur de suggestion</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Il y a un problème avec les paramètres d\'annonce. Veuillez le régler à nouveau.</string>
     <string name="original_size">Format original</string>
     <string name="reduced_size">Taille réduite (recommandé)</string>
-    <string name="site_app">Afficher le bouton pour ouvrir avec l\'application</string>
     <string name="finger_print">Empreinte digitale</string>
     <string name="finger_unavailable">L\'utilisateur ne peut pas s\'authentifier car le matériel n\'est pas disponible. Réessayez plus tard.</string>
     <string name="finger_register">L\'utilisateur ne peut pas s\'authentifier car aucune empreinte digitale n\'est enregistrée.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Désactiver bloqueur de publicités</string>
     <string name="adblock_enabled">Le bloqueur de publicités est activé.</string>
     <string name="adblock_disabled">Le bloqueur de publicités est désactivé.</string>
-    <string name="menu_guide">Appuyez longuement sur l\'icône pour changer la fonction.</string>
     <string name="down_service">Service de téléchargement Soul</string>
     <string name="auto_comp">Saisie automatique</string>
     <string name="check_element">Inspection des éléments (blocage plus fin)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Détection automatique</string>
     <string name="allow_all_site">Tous les sites autorisés</string>
     <string name="block_harm_site">Bloquer les sites nuisibles</string>
+    <string name="two_lines">2 lignes</string>
+    <string name="three_lines">3 lignes</string>
+    <string name="expand_mode">Mode étendu</string>
+    <string name="layout_title">Disposition</string>
+    <string name="update_noti">La structure de mise en page a changé.\nEn conséquence, les paramètres pertinents ont été modifiés.</string>
+    <string name="tab_indicator">Indicateur d\'onglet</string>
+    <string name="tab_indi_info">Afficher la position de l\'onglet et le nombre d\'onglets sur le bouton d\'onglet</string>
+    <string name="not_space">Pas assez d\'espace.</string>
 </resources>

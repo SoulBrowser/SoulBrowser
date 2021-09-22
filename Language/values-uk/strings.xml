@@ -306,7 +306,6 @@
     <string name="photo_editor">фоторедактор</string>
     <string name="color_size">Товщина</string>
     <string name="color_alpha">Прозорість</string>
-    <string name="bottom_size">Розмір нижньої панелі</string>
     <string name="add_icon">Кнопка додати</string>
     <string name="close_icon">Кнопка закриття</string>
     <string name="size_width">Ширина</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Жест</string>
     <string name="show_status">Показати рядок стану</string>
     <string name="show_navi">Показати програмну клавішу</string>
-    <string name="address_pos">Показати адресний рядок</string>
     <string name="address_title">Показати заголовок в адресному рядку</string>
-    <string name="bot_input">Нижній адресний рядок</string>
+    <string name="address_icon">Змінити кнопки адресного рядка</string>
+    <string name="addr_icon_info">2. Ви можете видалити його, натиснувши значок.</string>
+    <string name="address_bar">Адресний рядок</string>
     <string name="address_menu">Меню адресного рядка</string>
     <string name="show_tab_bar">Показувати панель вкладок</string>
     <string name="tab_swipe_up">Проведіть пальцем по вкладці вгору</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Щоб перемістити вкладку, проведіть двома пальцями вліво і вправо.</string>
     <string name="two_finger_info_2">Щоб закрити вкладку, проведіть вниз двома пальцями.</string>
     <string name="show_scroll">Показати смугу прокрутки</string>
-    <string name="show_up">Показати кнопку переходу вгору</string>
+    <string name="show_up">Кнопка повернення до початку</string>
     <string name="qrcode_title">QR-код</string>
-    <string name="show_qrcode">Показати кнопку QR-коду</string>
     <string name="voice_title">Голосовий пошук</string>
-    <string name="show_voice">Показати кнопку голосового пошуку</string>
-    <string name="show_reader">Показати кнопку режиму читання</string>
     <string name="album_shortcut">Створення ярлика альбому</string>
     <string name="album_short_info">Створіть ярлик альбому на головному екрані.</string>
     <string name="cast_shortcut">Створення ярлика трансляції</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Додати на головний екран</string>
     <string name="set_homepage">Встановити як домашню сторінку</string>
     <string name="setted">Встановлено.</string>
-    <string name="top_bar">Верхня панель</string>
-    <string name="bottom_bar">Нижня панель</string>
     <string name="video_url">URL-адреса відео</string>
     <string name="address_guide_1">Натисніть і утримуйте відтворюване відео, щоб скопіювати адресу.</string>
     <string name="address_guide_2">Введіть скопійовану адресу.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript вимкнено.</string>
     <string name="icon_edit_guide_1">1. Клацніть на піктограму, щоб змінити функцію.</string>
     <string name="icon_edit_guide_2">2. Перетягніть піктограму, щоб змінити її положення.</string>
-    <string name="short_edit_guide">Ви можете встановити функцію, яка буде використовуватися при короткому натисканні значка на нижній панелі.</string>
     <string name="long_edit_guide">Ви можете встановити функцію, яку потрібно використовувати, натискаючи та утримуючи піктограму на нижній панелі.</string>
     <string name="swipe_edit_guide">Ви можете встановити функцію, яка буде використовуватись під час розгортання значка на нижній панелі.</string>
-    <string name="short_press">Коротке натискання</string>
     <string name="long_press">Тривале натискання</string>
     <string name="swipe_up">Проведіть пальцем вгору</string>
     <string name="memo_title">Пам\'ятка</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Невеликий значок</string>
     <string name="small_list">Список (зменшений шрифт)</string>
     <string name="large_list">Список (збільшений шрифт)</string>
-    <string name="icon_mode">Режим значків</string>
-    <string name="page_mode">Режим сторінки</string>
     <string name="full_screen">Повноекранний</string>
     <string name="scroll_mode">Режим прокрутки</string>
     <string name="scroll_guide_1">1. Відображає завантажену сторінку.</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">Видалення програми або даних програми скидає час, що залишився.</string>
     <string name="reward_ads_info_3">Це не діє, якщо ви його вже купили.</string>
     <string name="reward_ads_time">Час, що залишився</string>
-    <string name="donate_1">Пожертвувати (Молоко)</string>
-    <string name="donate_2">Пожертвувати (Rамбургер)</string>
-    <string name="donate_3">Пожертвувати (Вечеря)</string>
+    <string name="donate_1">Пожертвування (Кава)</string>
+    <string name="donate_2">Пожертвування (Гамбургер)</string>
+    <string name="donate_3">Пожертвування (Вечеря)</string>
     <string name="donate_info">Дякуємо за користування браузером Soul.\nБраузер Soul підтримується вашими пожертвами.</string>
     <string name="pay_free">Безкоштовно</string>
     <string name="paid">Придбано</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Реальний розмір</string>
     <string name="block_ssl">Блокування помилок SSL</string>
     <string name="block_ssl_info">Коли виникає помилка SSL, браузер автоматично переходить на безпечну сторінку.</string>
-    <string name="menu_noti_1">Піктограму меню змінити не можна.</string>
-    <string name="menu_noti_2">Значки меню можна розміщувати лише на нижній панелі.</string>
     <string name="screen_filter">Екранний фільтр</string>
     <string name="filter_color">Колір фільтра</string>
     <string name="always_use">Завжди використовуйте</string>
     <string name="only_use_secret">Використовується лише в режимі анонімного перегляду</string>
     <string name="only_night">Використовується лише в нічному режимі</string>
-    <string name="night_mode">Нічний режим</string>
-    <string name="day_mode">Денний режим</string>
     <string name="use_scroll_anim">Показувати анімацію прокрутки</string>
     <string name="use_tab_anim">Використовуйте анімацію натисканням</string>
     <string name="suggest_engine">Механізм пропозицій</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Виникла проблема з налаштуваннями реклами. Будь ласка, встановіть їх знову.</string>
     <string name="original_size">Оригінальний розмір</string>
     <string name="reduced_size">Зменшений розмір (рекомендується)</string>
-    <string name="site_app">Кнопка Показати, щоб відкрити програму</string>
     <string name="finger_print">Відбиток пальця</string>
     <string name="finger_unavailable">Користувач не може автентифікуватися, оскільки обладнання недоступне. Спробуйте ще раз пізніше.</string>
     <string name="finger_register">Користувач не може автентифікуватися, оскільки відбиток пальця не зареєстровано.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Блокування реклами вимкнено</string>
     <string name="adblock_enabled">Блокування реклами ввімкнено.</string>
     <string name="adblock_disabled">Блокування реклами вимкнено.</string>
-    <string name="menu_guide">Довго натискайте піктограму, щоб змінити функцію.</string>
     <string name="down_service">Служба завантаження Soul</string>
     <string name="auto_comp">Автозаповнення</string>
     <string name="check_element">Перевірка елементів (більш дрібнозернисте блокування)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Автоматичне виявлення</string>
     <string name="allow_all_site">Усі сайти дозволені</string>
     <string name="block_harm_site">Блокувати шкідливі сайти</string>
+    <string name="two_lines">2 рядки</string>
+    <string name="three_lines">3 рядки</string>
+    <string name="expand_mode">Розширений режим</string>
+    <string name="layout_title">Макет</string>
+    <string name="update_noti">Структура макета змінилася.\nВ результаті відповідні налаштування були змінені.</string>
+    <string name="tab_indicator">Індикатор вкладки</string>
+    <string name="tab_indi_info">Відображення положення та кількості вкладок на кнопці вкладки</string>
+    <string name="not_space">Не вистачає місця.</string>
 </resources>

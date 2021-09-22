@@ -306,7 +306,6 @@
     <string name="photo_editor">Editor de fotos</string>
     <string name="color_size">Espesor</string>
     <string name="color_alpha">Transparencia</string>
-    <string name="bottom_size">Tamaño de la barra inferior</string>
     <string name="add_icon">Botón agregar</string>
     <string name="close_icon">Botón cerrar</string>
     <string name="size_width">Anchura</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Gesto</string>
     <string name="show_status">Mostrar barra estado</string>
     <string name="show_navi">Mostrar tecla programable</string>
-    <string name="address_pos">Mostrar barra de direcciones</string>
     <string name="address_title">Mostrar título en la barra de direcciones</string>
-    <string name="bot_input">Barra de direcciones inferior</string>
+    <string name="address_icon">Editar botones de la barra de direcciones</string>
+    <string name="addr_icon_info">2. Puede eliminarlo haciendo clic en el icono.</string>
+    <string name="address_bar">Barra de dirección</string>
     <string name="address_menu">Menú de la barra de direcciones</string>
     <string name="show_tab_bar">Mostrar barra de pestañas</string>
     <string name="tab_swipe_up">Desliza hacia arriba la barra de pestañas</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Deslice hacia la izquierda y hacia la derecha con dos dedos para mover las pestañas.</string>
     <string name="two_finger_info_2">Deslice hacia abajo con dos dedos para quitar la pestaña.</string>
     <string name="show_scroll">Mostrar barra de desplazamiento</string>
-    <string name="show_up">Mostrar ir al botón superior</string>
+    <string name="show_up">Volver al botón superior</string>
     <string name="qrcode_title">Código QR</string>
-    <string name="show_qrcode">Mostrar botón código QR</string>
     <string name="voice_title">Búsqueda por voz</string>
-    <string name="show_voice">Mostrar botón de búsqueda por voz</string>
-    <string name="show_reader">Mostrar botón modo lector</string>
     <string name="album_shortcut">Crear acceso directo al álbum</string>
     <string name="album_short_info">Cree un botón de acceso directo del álbum en la pantalla de inicio.</string>
     <string name="cast_shortcut">Crear acceso directo para emitir a TV</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Añadir a pantalla principal</string>
     <string name="set_homepage">Establecer como página de inicio</string>
     <string name="setted">Ha sido establecido.</string>
-    <string name="top_bar">Barra superior</string>
-    <string name="bottom_bar">Barra inferior</string>
     <string name="video_url">URL del vídeo</string>
     <string name="address_guide_1">Mantenga presionado el video que se está reproduciendo para copiar la dirección.</string>
     <string name="address_guide_2">Ingrese la dirección copiada.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript está desactivado.</string>
     <string name="icon_edit_guide_1">1. Haga clic en el icono para cambiar la función.</string>
     <string name="icon_edit_guide_2">2. Arrastre el icono para cambiar su posición.</string>
-    <string name="short_edit_guide">Puede configurar la función que se utilizará cuando presione brevemente el icono en la barra inferior.</string>
     <string name="long_edit_guide">Puede configurar la función para usar cuando mantiene presionado el icono en la barra inferior.</string>
     <string name="swipe_edit_guide">Puede configurar la función para usar al deslizar hacia arriba el icono en la barra inferior.</string>
-    <string name="short_press">Prensa corta</string>
     <string name="long_press">Pulsación larga</string>
     <string name="swipe_up">Muévase hacia arriba</string>
     <string name="memo_title">Memorándum</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Pequeño icono</string>
     <string name="small_list">Pequeña lista</string>
     <string name="large_list">Lista grande</string>
-    <string name="icon_mode">Modo de icono</string>
-    <string name="page_mode">Modo de página</string>
     <string name="full_screen">Pantalla completa</string>
     <string name="scroll_mode">Modo de desplazamiento</string>
     <string name="scroll_guide_1">1. Muestra la página cargada hasta ahora.</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">Eliminar una aplicación o los datos de una aplicación restablece el tiempo restante.</string>
     <string name="reward_ads_info_3">No tiene ningún efecto si ya lo ha comprado.</string>
     <string name="reward_ads_time">Tiempo restante</string>
-    <string name="donate_1">Donar (Leche)</string>
-    <string name="donate_2">Donar (Hamburguesa)</string>
-    <string name="donate_3">Donar (Cena)</string>
+    <string name="donate_1">Donación (Café)</string>
+    <string name="donate_2">Donación (Hamburguesa)</string>
+    <string name="donate_3">Donación (Cena)</string>
     <string name="donate_info">Gracias por usar Soul Browser.\nSoul Browser se mantiene gracias a su donación.</string>
     <string name="pay_free">Gratis</string>
     <string name="paid">Comprado</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Tamaño real</string>
     <string name="block_ssl">Bloqueo de errores SSL</string>
     <string name="block_ssl_info">Cuando ocurre un error de SSL, la página pasa automáticamente a una página segura.</string>
-    <string name="menu_noti_1">El icono del menú no se puede cambiar.</string>
-    <string name="menu_noti_2">Los iconos de menú solo se pueden colocar en la barra inferior.</string>
     <string name="screen_filter">Filtro de pantalla</string>
     <string name="filter_color">Color de filtro</string>
     <string name="always_use">Siempre usa</string>
     <string name="only_use_secret">Solo se usa en modo incógnito</string>
     <string name="only_night">Solo se usa en modo nocturno</string>
-    <string name="night_mode">Modo nocturno</string>
-    <string name="day_mode">Modo día</string>
     <string name="use_scroll_anim">Usar animación de desplazamiento</string>
     <string name="use_tab_anim">Usar animación de toque</string>
     <string name="suggest_engine">Motor de sugerencias</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Hay un problema con la configuración de anuncios. Vuelva a configurarlo.</string>
     <string name="original_size">Tamaño original</string>
     <string name="reduced_size">Tamaño reducido (recomendado)</string>
-    <string name="site_app">Mostrar botón para abrir con la aplicación</string>
     <string name="finger_print">Huella dactilar</string>
     <string name="finger_unavailable">El usuario no puede autenticarse porque el hardware no está disponible. Vuelve a intentarlo más tarde.</string>
     <string name="finger_register">El usuario no puede autenticarse porque no se registra ninguna huella digital.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Bloqueador de anuncios desactivado</string>
     <string name="adblock_enabled">El bloqueador de anuncios está habilitado.</string>
     <string name="adblock_disabled">El bloqueador de anuncios está desactivado.</string>
-    <string name="menu_guide">Mantenga pulsado el icono para cambiar la función.</string>
     <string name="down_service">Soul servicio de descarga</string>
     <string name="auto_comp">Autocompletar</string>
     <string name="check_element">Inspección de elementos (bloqueo más detallado)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Detección automática</string>
     <string name="allow_all_site">Todos los sitios permitidos</string>
     <string name="block_harm_site">Bloquear sitios dañinos</string>
+    <string name="two_lines">2 líneas</string>
+    <string name="three_lines">3 líneas</string>
+    <string name="expand_mode">Modo expandido</string>
+    <string name="layout_title">Diseño</string>
+    <string name="update_noti">La estructura del diseño ha cambiado.\nComo resultado, se cambiaron las configuraciones relevantes.</string>
+    <string name="tab_indicator">Indicador de pestaña</string>
+    <string name="tab_indi_info">Mostrar la posición de la pestaña y el número de pestañas en el botón de pestaña</string>
+    <string name="not_space">Sin espacio suficiente.</string>
 </resources>

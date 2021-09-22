@@ -306,7 +306,6 @@
     <string name="photo_editor">Editor di foto</string>
     <string name="color_size">Spessore</string>
     <string name="color_alpha">Trasparenza</string>
-    <string name="bottom_size">Dimensioni della barra inferiore</string>
     <string name="add_icon">Pulsante aggiungi</string>
     <string name="close_icon">Pulsante chiudi</string>
     <string name="size_width">Larghezza</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Gesti</string>
     <string name="show_status">Mostra barra di stato</string>
     <string name="show_navi">Mostra tasto funzione</string>
-    <string name="address_pos">Mostra barra degli indirizzi</string>
     <string name="address_title">Mostra il titolo nella barra degli indirizzi</string>
-    <string name="bot_input">Barra degli indirizzi inferiore</string>
+    <string name="address_icon">Modifica i pulsanti della barra degli indirizzi</string>
+    <string name="addr_icon_info">2. Puoi rimuoverlo facendo clic sull\'icona.</string>
+    <string name="address_bar">Barra degli indirizzi</string>
     <string name="address_menu">Menu della barra degli indirizzi</string>
     <string name="show_tab_bar">Mostra barra delle schede</string>
     <string name="tab_swipe_up">Scorri verso l\'alto la barra delle schede</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Scorri a sinistra e a destra con due dita per spostare le schede.</string>
     <string name="two_finger_info_2">Scorri verso il basso con due dita per rimuovere la schede.</string>
     <string name="show_scroll">Mostra barra scorrimento</string>
-    <string name="show_up">Mostra vai al pulsante in alto</string>
+    <string name="show_up">Pulsante torna in alto</string>
     <string name="qrcode_title">Codice QR</string>
-    <string name="show_qrcode">Mostra pulsante codice QR</string>
     <string name="voice_title">Ricerca vocale</string>
-    <string name="show_voice">Mostra il pulsante di ricerca vocale</string>
-    <string name="show_reader">Mostra pulsante modalità reader</string>
     <string name="album_shortcut">Crea scorciatoia per album</string>
     <string name="album_short_info">Crea un pulsante di scelta rapida dell\'album nella schermata principale.</string>
     <string name="cast_shortcut">Crea scorciatoia per cast TV</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Aggiungi alla schermata home</string>
     <string name="set_homepage">Imposta come pagina iniziale</string>
     <string name="setted">È stato impostato.</string>
-    <string name="top_bar">Barra superiore</string>
-    <string name="bottom_bar">Barra inferiore</string>
     <string name="video_url">URL del video</string>
     <string name="address_guide_1">Tieni premuto il video in riproduzione per copiare l\'indirizzo.</string>
     <string name="address_guide_2">Inserisci l\'indirizzo copiato.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript è disabilitato.</string>
     <string name="icon_edit_guide_1">1. Fare clic sull\'icona per modificare la funzione.</string>
     <string name="icon_edit_guide_2">2. Trascina l\'icona per modificarne la posizione.</string>
-    <string name="short_edit_guide">È possibile impostare la funzione da utilizzare quando si preme brevemente l\'icona nella barra in basso.</string>
     <string name="long_edit_guide">È possibile impostare la funzione da utilizzare quando si tiene premuta l\'icona sulla barra in basso.</string>
     <string name="swipe_edit_guide">È possibile impostare la funzione da utilizzare quando si scorre verso l\'alto l\'icona sulla barra in basso.</string>
-    <string name="short_press">Pressione breve</string>
     <string name="long_press">Premere a lungo</string>
     <string name="swipe_up">Scorrere verso l\'alto</string>
     <string name="memo_title">Promemoria</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Piccola icona</string>
     <string name="small_list">Piccola lista</string>
     <string name="large_list">Elenco ampio</string>
-    <string name="icon_mode">Modalità estesa</string>
-    <string name="page_mode">Modalità pagina</string>
     <string name="full_screen">Schermo intero</string>
     <string name="scroll_mode">Modalità di scorrimento</string>
     <string name="scroll_guide_1">1. Visualizza la pagina caricata finora.</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">L\'eliminazione di un\'app o dei dati di un\'app azzera il tempo rimanente.</string>
     <string name="reward_ads_info_3">Non ha alcun effetto se l\'hai già acquistato.</string>
     <string name="reward_ads_time">Tempo rimanente</string>
-    <string name="donate_1">Donare (Latte)</string>
-    <string name="donate_2">Donare (Hamburger)</string>
-    <string name="donate_3">Donare (Cena)</string>
+    <string name="donate_1">Donazione (Caffè)</string>
+    <string name="donate_2">Donazione (Hamburger)</string>
+    <string name="donate_3">Donazione (Cena)</string>
     <string name="donate_info">Grazie per aver utilizzato Soul Browser.\nSoul Browser è mantenuto dalla tua donazione.</string>
     <string name="pay_free">Gratuito</string>
     <string name="paid">Acquistato</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Dimensione reale</string>
     <string name="block_ssl">Blocco degli errori SSL</string>
     <string name="block_ssl_info">Quando si verifica un errore SSL, la pagina passa automaticamente a una pagina sicura.</string>
-    <string name="menu_noti_1">L\'icona del menu non può essere modificata.</string>
-    <string name="menu_noti_2">Le icone dei menu possono essere posizionate solo sulla barra inferiore.</string>
     <string name="screen_filter">Filtro a schermo</string>
     <string name="filter_color">Colore del filtro</string>
     <string name="always_use">Usa sempre</string>
     <string name="only_use_secret">Utilizzato solo in modalità di navigazione in incognito</string>
     <string name="only_night">Utilizzato solo in modalità notturna</string>
-    <string name="night_mode">Modalità notturna</string>
-    <string name="day_mode">Modalità giorno</string>
     <string name="use_scroll_anim">Usa l\'animazione di scorrimento</string>
     <string name="use_tab_anim">Usa l\'animazione del tocco</string>
     <string name="suggest_engine">Motore di suggerimenti</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">C\'è un problema con le impostazioni degli annunci. Per favore impostalo di nuovo.</string>
     <string name="original_size">Misura originale</string>
     <string name="reduced_size">Dimensioni ridotte (consigliato)</string>
-    <string name="site_app">Mostra il pulsante per aprire link nelle app</string>
     <string name="finger_print">impronta digitale</string>
     <string name="finger_unavailable">L\'utente non può autenticarsi perché l\'hardware non è disponibile. Riprovare più tardi.</string>
     <string name="finger_register">L\'utente non può autenticarsi perché non è stata registrata alcuna impronta digitale.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Blocco annunci disattivato</string>
     <string name="adblock_enabled">Il blocco degli annunci è attivato.</string>
     <string name="adblock_disabled">Il blocco degli annunci è disattivato.</string>
-    <string name="menu_guide">Premere a lungo l\'icona per modificare la funzione.</string>
     <string name="down_service">Servizio di download di Soul</string>
     <string name="auto_comp">Completamento automatico</string>
     <string name="check_element">Ispezione degli elementi (blocco più a grana fine)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Rilevamento automatico</string>
     <string name="allow_all_site">Tutti i siti consentiti</string>
     <string name="block_harm_site">Blocca i siti dannosi</string>
+    <string name="two_lines">2 linee</string>
+    <string name="three_lines">3 linee</string>
+    <string name="expand_mode">Modalità estesa</string>
+    <string name="layout_title">Disposizione</string>
+    <string name="update_noti">La struttura del layout è cambiata.\nDi conseguenza, le impostazioni pertinenti sono state modificate.</string>
+    <string name="tab_indicator">Indicatore di schede</string>
+    <string name="tab_indi_info">Visualizza la posizione della scheda e il numero di schede sul pulsante della scheda</string>
+    <string name="not_space">Non abbastanza spazio.</string>
 </resources>

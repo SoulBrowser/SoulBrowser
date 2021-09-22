@@ -306,7 +306,6 @@
     <string name="photo_editor">Editor foto</string>
     <string name="color_size">Ketebalan</string>
     <string name="color_alpha">Transparansi</string>
-    <string name="bottom_size">Ukuran batang bawah</string>
     <string name="add_icon">Tambahkan tombol</string>
     <string name="close_icon">Tombol tutup</string>
     <string name="size_width">Lebar</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Tampilkan bilah status</string>
     <string name="show_navi">Tampilkan tombol lunak</string>
-    <string name="address_pos">Tampilkan bilah alamat</string>
     <string name="address_title">Tampilkan judul di bilah alamat</string>
-    <string name="bot_input">Bilah alamat bawah</string>
+    <string name="address_icon">Edit tombol bilah alamat</string>
+    <string name="addr_icon_info">2. Anda dapat menghapusnya dengan mengklik ikon.</string>
+    <string name="address_bar">Bilah alamat</string>
     <string name="address_menu">Menu bilah alamat</string>
     <string name="show_tab_bar">Tampilkan bilah tab</string>
     <string name="tab_swipe_up">Geser bilah tab ke atas</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Geser ke kiri dan kanan dengan dua jari untuk memindahkan tab.</string>
     <string name="two_finger_info_2">Geser ke bawah dengan dua jari untuk menghapus tab.</string>
     <string name="show_scroll">Tampilkan bilah gulir</string>
-    <string name="show_up">Tampilkan tombol pergi ke atas</string>
+    <string name="show_up">Tombol kembali ke atas</string>
     <string name="qrcode_title">Kode QR</string>
-    <string name="show_qrcode">Tampilan tombol kode QR</string>
     <string name="voice_title">Pencarian suara</string>
-    <string name="show_voice">Tampilkan tombol pencarian suara</string>
-    <string name="show_reader">Tampilan tombol mode pembaca</string>
     <string name="album_shortcut">Buat pintasan album</string>
     <string name="album_short_info">Buat tombol pintas album di layar beranda.</string>
     <string name="cast_shortcut">Buat pintasan transmisi TV</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Tambahkan ke layar beranda</string>
     <string name="set_homepage">Setel sebagai homepage</string>
     <string name="setted">Telah di atur.</string>
-    <string name="top_bar">Bilah atas</string>
-    <string name="bottom_bar">Bilah bawah</string>
     <string name="video_url">URL video</string>
     <string name="address_guide_1">Tekan dan tahan video yang sedang diputar untuk menyalin alamat.</string>
     <string name="address_guide_2">Masukkan alamat yang disalin.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript dinonaktifkan.</string>
     <string name="icon_edit_guide_1">1. Klik ikon tersebut untuk mengubah fungsinya.</string>
     <string name="icon_edit_guide_2">2. Seret ikon untuk mengubah posisinya.</string>
-    <string name="short_edit_guide">Anda dapat mengatur fungsi yang akan digunakan saat Anda menekan singkat ikon di bilah bawah.</string>
     <string name="long_edit_guide">Anda dapat mengatur fungsi untuk digunakan saat Anda menekan dan menahan ikon di bilah bawah.</string>
     <string name="swipe_edit_guide">Anda dapat mengatur fungsi yang akan digunakan saat menggesek ikon di bar bagian bawah.</string>
-    <string name="short_press">Tekan singkat</string>
     <string name="long_press">Tekan lama</string>
     <string name="swipe_up">Geser ke atas</string>
     <string name="memo_title">Memo</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Ikon kecil</string>
     <string name="small_list">Daftar kecil</string>
     <string name="large_list">Daftar besar</string>
-    <string name="icon_mode">Mode ikon</string>
-    <string name="page_mode">Mode halaman</string>
     <string name="full_screen">Layar penuh</string>
     <string name="scroll_mode">Mode gulir</string>
     <string name="scroll_guide_1">1. Menampilkan halaman yang dimuat sejauh ini.</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">Menghapus aplikasi atau data aplikasi akan menyetel ulang waktu yang tersisa.</string>
     <string name="reward_ads_info_3">Tidak ada pengaruhnya jika Anda sudah membelinya.</string>
     <string name="reward_ads_time">Waktu yang tersisa</string>
-    <string name="donate_1">Sumbangan (Susu)</string>
-    <string name="donate_2">Sumbangan (Roti isi daging)</string>
-    <string name="donate_3">Sumbangan (Makan malam)</string>
+    <string name="donate_1">Donasi (Kopi)</string>
+    <string name="donate_2">Donasi (Hamburger)</string>
+    <string name="donate_3">Donasi (Makan Malam)</string>
     <string name="donate_info">Terima kasih telah menggunakan Soul Browser.\nSoul Browser dikelola oleh donasi Anda.</string>
     <string name="pay_free">Gratis</string>
     <string name="paid">Membeli</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Ukuran sebenarnya</string>
     <string name="block_ssl">Pemblokiran kesalahan SSL</string>
     <string name="block_ssl_info">Ketika terjadi kesalahan SSL, halaman secara otomatis masuk ke halaman aman.</string>
-    <string name="menu_noti_1">Ikon menu tidak dapat diubah.</string>
-    <string name="menu_noti_2">Ikon menu hanya dapat ditempatkan di bilah bawah.</string>
     <string name="screen_filter">Filter layar</string>
     <string name="filter_color">Warna filter</string>
     <string name="always_use">Selalu gunakan</string>
     <string name="only_use_secret">Hanya digunakan dalam mode penyamaran</string>
     <string name="only_night">Hanya digunakan dalam mode malam</string>
-    <string name="night_mode">Mode malam</string>
-    <string name="day_mode">Mode hari</string>
     <string name="use_scroll_anim">Gunakan animasi gulir</string>
     <string name="use_tab_anim">Gunakan animasi ketuk</string>
     <string name="suggest_engine">Mesin saran</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Ada masalah dengan pengaturan iklan. Harap setel lagi.</string>
     <string name="original_size">Ukuran asli</string>
     <string name="reduced_size">Ukuran yang diperkecil (disarankan)</string>
-    <string name="site_app">Tampilkan tombol untuk membuka dengan aplikasi</string>
     <string name="finger_print">Sidik jari</string>
     <string name="finger_unavailable">Pengguna tidak dapat mengautentikasi karena perangkat keras tidak tersedia. Coba lagi nanti.</string>
     <string name="finger_register">Pengguna tidak dapat mengautentikasi karena tidak ada sidik jari yang terdaftar.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Pemblokir iklan tidak aktif</string>
     <string name="adblock_enabled">Pemblokir iklan diaktifkan.</string>
     <string name="adblock_disabled">Pemblokir iklan dinonaktifkan.</string>
-    <string name="menu_guide">Tekan lama ikon untuk mengubah fungsi.</string>
     <string name="down_service">Layanan unduhan Soul</string>
     <string name="auto_comp">Pelengkapan otomatis</string>
     <string name="check_element">Pemeriksaan elemen (pemblokiran yang lebih halus)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Deteksi otomatis</string>
     <string name="allow_all_site">Semua situs diizinkan</string>
     <string name="block_harm_site">Blokir situs berbahaya</string>
+    <string name="two_lines">2 baris</string>
+    <string name="three_lines">3 baris</string>
+    <string name="expand_mode">Modus yang diperluas</string>
+    <string name="layout_title">Tata letak</string>
+    <string name="update_noti">Struktur tata letak telah berubah.\nAkibatnya, pengaturan yang relevan diubah.</string>
+    <string name="tab_indicator">Indikator tab</string>
+    <string name="tab_indi_info">Tampilkan posisi tab dan jumlah tab pada tombol tab</string>
+    <string name="not_space">Tidak cukup ruang.</string>
 </resources>

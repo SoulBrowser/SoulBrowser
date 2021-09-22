@@ -306,7 +306,6 @@
     <string name="photo_editor">포토 에디터</string>
     <string name="color_size">굵기</string>
     <string name="color_alpha">투명도</string>
-    <string name="bottom_size">하단바 크기</string>
     <string name="add_icon">추가 버튼</string>
     <string name="close_icon">닫기 버튼</string>
     <string name="size_width">폭</string>
@@ -391,9 +390,10 @@
     <string name="gesture">제스처</string>
     <string name="show_status">상태표시줄 표시</string>
     <string name="show_navi">소프트키 표시</string>
-    <string name="address_pos">주소표시줄 표시</string>
     <string name="address_title">주소표시줄에 제목 표시</string>
-    <string name="bot_input">하단 주소표시줄</string>
+    <string name="address_icon">주소표시줄 버튼 편집</string>
+    <string name="addr_icon_info">2. 아이콘을 클릭해서 제거할 수 있습니다.</string>
+    <string name="address_bar">주소표시줄</string>
     <string name="address_menu">주소표시줄 메뉴</string>
     <string name="show_tab_bar">탭바 표시</string>
     <string name="tab_swipe_up">탭바를 위로 스와이프</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">두 손가락으로 좌우로 스와이프하여 탭을 이동합니다.</string>
     <string name="two_finger_info_2">두 손가락으로 아래로 스와이프하여 탭을 제거합니다.</string>
     <string name="show_scroll">스크롤바 표시</string>
-    <string name="show_up">맨 위로 이동 버튼 표시</string>
+    <string name="show_up">맨 위로 이동 버튼</string>
     <string name="qrcode_title">QR코드</string>
-    <string name="show_qrcode">QR코드 버튼 표시</string>
     <string name="voice_title">음성 검색</string>
-    <string name="show_voice">음성 검색 버튼 표시</string>
-    <string name="show_reader">리더 모드 버튼 표시</string>
     <string name="album_shortcut">앨범 바로가기 만들기</string>
     <string name="album_short_info">홈 화면에 앨범 바로가기 버튼을 만듭니다.</string>
     <string name="cast_shortcut">TV 캐스트 바로가기 만들기</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">홈 화면에 추가</string>
     <string name="set_homepage">홈페이지로 설정</string>
     <string name="setted">설정되었습니다.</string>
-    <string name="top_bar">상단바</string>
-    <string name="bottom_bar">하단바</string>
     <string name="video_url">동영상 URL</string>
     <string name="address_guide_1">재생 중인 동영상을 길게 눌러 주소를 복사합니다.</string>
     <string name="address_guide_2">복사한 주소를 입력합니다.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">자바스크립트가 비활성화되었습니다.</string>
     <string name="icon_edit_guide_1">1. 아이콘을 클릭하여 기능을 변경하세요.</string>
     <string name="icon_edit_guide_2">2. 아이콘을 드래그하여 위치를 변경하세요.</string>
-    <string name="short_edit_guide">하단바의 아이콘을 짧게 눌렀을 때 사용할 기능을 설정할 수 있습니다.</string>
     <string name="long_edit_guide">하단바의 아이콘을 길게 눌렀을 때 사용할 기능을 설정할 수 있습니다.</string>
     <string name="swipe_edit_guide">하단바의 아이콘을 위로 스와이프할 때 사용할 기능을 설정할 수 있습니다.</string>
-    <string name="short_press">짧게 누르기</string>
     <string name="long_press">길게 누르기</string>
     <string name="swipe_up">위로 스와이프</string>
     <string name="memo_title">메모</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">작은 아이콘</string>
     <string name="small_list">작은 리스트</string>
     <string name="large_list">큰 리스트</string>
-    <string name="icon_mode">아이콘 모드</string>
-    <string name="page_mode">페이지 모드</string>
     <string name="full_screen">전체 화면</string>
     <string name="scroll_mode">스크롤 모드</string>
     <string name="scroll_guide_1">1. 지금까지 로드된 페이지를 표시합니다.</string>
@@ -735,7 +726,7 @@
     <string name="reward_ads_info_2">앱 또는 앱의 데이터를 삭제하면 남은 시간이 초기화됩니다.</string>
     <string name="reward_ads_info_3">이미 구매한 경우에는 효과가 없습니다.</string>
     <string name="reward_ads_time">남은 시간</string>
-    <string name="donate_1">기부 (우유)</string>
+    <string name="donate_1">기부 (커피)</string>
     <string name="donate_2">기부 (햄버거)</string>
     <string name="donate_3">기부 (만찬)</string>
     <string name="donate_info">Soul Browser를 사용해 주셔서 감사합니다.\nSoul Browser는 여러분의 기부로 유지됩니다.</string>
@@ -774,15 +765,11 @@
     <string name="size_real">실제 크기</string>
     <string name="block_ssl">SSL 오류 차단</string>
     <string name="block_ssl_info">SSL 오류가 발생하면 자동으로 안전한 페이지로 이동합니다.</string>
-    <string name="menu_noti_1">메뉴 아이콘은 변경할 수 없습니다.</string>
-    <string name="menu_noti_2">메뉴 아이콘은 하단바에만 배치할 수 있습니다.</string>
     <string name="screen_filter">화면 필터</string>
     <string name="filter_color">필터 색상</string>
     <string name="always_use">항상 사용</string>
     <string name="only_use_secret">시크릿 모드에서만 사용</string>
     <string name="only_night">야간 모드에만 사용</string>
-    <string name="night_mode">야간 모드</string>
-    <string name="day_mode">주간 모드</string>
     <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
     <string name="use_tab_anim">탭 애니메이션 사용</string>
     <string name="suggest_engine">제안 엔진</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">광고 설정에 문제가 있습니다. 다시 설정하십시오.</string>
     <string name="original_size">원래 크기</string>
     <string name="reduced_size">축소된 크기 (권장)</string>
-    <string name="site_app">앱으로 여는 버튼 표시</string>
     <string name="finger_print">지문 인식</string>
     <string name="finger_unavailable">하드웨어를 사용할 수 없기 때문에 사용자가 인증할 수 없습니다. 나중에 다시 시도하십시오.</string>
     <string name="finger_register">등록된 지문이 없기 때문에 사용자가 인증할 수 없습니다.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">광고 차단 끄기</string>
     <string name="adblock_enabled">광고 차단이 활성화되었습니다.</string>
     <string name="adblock_disabled">광고 차단이 비활성화되었습니다.</string>
-    <string name="menu_guide">아이콘을 길게 누르면 기능을 변경할 수 있습니다.</string>
     <string name="down_service">Soul 다운로드 서비스</string>
     <string name="auto_comp">자동 완성</string>
     <string name="check_element">요소 검사 (더 세밀한 차단)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">자동 감지</string>
     <string name="allow_all_site">모든 사이트 허용</string>
     <string name="block_harm_site">유해 사이트 차단</string>
+    <string name="two_lines">2 라인</string>
+    <string name="three_lines">3 라인</string>
+    <string name="expand_mode">펼친 모드</string>
+    <string name="layout_title">레이아웃</string>
+    <string name="update_noti">레이아웃 구조가 변경되었습니다.\n그로 인해 관련된 설정이 변경되었습니다.</string>
+    <string name="tab_indicator">탭 인디케이터</string>
+    <string name="tab_indi_info">탭 버튼에 탭 위치와 탭 개수 표시</string>
+    <string name="not_space">공간이 부족합니다.</string>
 </resources>

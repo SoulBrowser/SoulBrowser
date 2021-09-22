@@ -168,7 +168,7 @@
     <string name="show_recent">Отметить недавний файл</string>
     <string name="open_as">Открыть как</string>
     <string name="open_continue">Открыть в предыдущей позиции</string>
-    <string name="pull_refresh">Потяните, чтобы обновить</string>
+    <string name="pull_refresh">Обновить страницу свайпом вниз</string>
     <string name="refresh">Обновить</string>
     <string name="sort">Сортировать</string>
     <string name="group_by">Группа по</string>
@@ -306,8 +306,7 @@
     <string name="photo_editor">Редактор фотографий</string>
     <string name="color_size">Толщина</string>
     <string name="color_alpha">Прозрачность</string>
-    <string name="bottom_size">Размер нижней панели</string>
-    <string name="add_icon">Кнопка добавления</string>
+    <string name="add_icon">Кнопка новой</string>
     <string name="close_icon">Кнопка закрытия</string>
     <string name="size_width">Ширина</string>
     <string name="size_height">Высота</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Жесты</string>
     <string name="show_status">Показывать строку состояния</string>
     <string name="show_navi">Показывать панель навигации</string>
-    <string name="address_pos">Положение адресной строки</string>
     <string name="address_title">Показать заголовок в адресной строке</string>
-    <string name="bot_input">Нижняя адресная строка</string>
+    <string name="address_icon">Кнопки редактирования адресной строки</string>
+    <string name="addr_icon_info">2. Вы можете удалить его, щелкнув значок.</string>
+    <string name="address_bar">Адресная строка</string>
     <string name="address_menu">Меню адресной строки</string>
     <string name="show_tab_bar">Показать панель вкладок</string>
     <string name="tab_swipe_up">Свайп вверх по панели вкладок</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Проведите двумя пальцами влево и вправо для переключения вкладок.</string>
     <string name="two_finger_info_2">Проведите двумя пальцами вниз, чтобы закрыть вкладку.</string>
     <string name="show_scroll">Показать ползунок прокрутки</string>
-    <string name="show_up">Показать кнопку перехода наверх</string>
+    <string name="show_up">Вернуться к верхней кнопке</string>
     <string name="qrcode_title">QR-код</string>
-    <string name="show_qrcode">Показать кнопку QR-кода</string>
     <string name="voice_title">Голосовой поиск</string>
-    <string name="show_voice">Показать кнопку голосового поиска</string>
-    <string name="show_reader">Показать кнопку режима чтения</string>
     <string name="album_shortcut">Создать ярлык альбома</string>
     <string name="album_short_info">Создать ярлык альбома на главном экране.</string>
     <string name="cast_shortcut">Создать ярлык трансляции</string>
@@ -491,9 +488,9 @@
     <string name="already_added">Уже добавлено</string>
     <string name="secret_reset">Сбросить пароль</string>
     <string name="secret_reset_guide">Сброс удалит все данные в режиме инкогнито.</string>
-    <string name="lock_reset_target">Цель инициализации</string>
-    <string name="lock_reset_info">Если вы забудете пароль и инициализируете экран блокировки, выбранные данные будут удалены.</string>
-    <string name="lock_reset_guide">Данные удаляются при инициализации.</string>
+    <string name="lock_reset_target">Удалить эти данные при сбросе пароля</string>
+    <string name="lock_reset_info">Если вы забудете пароль и нажмёте кнопку сброса, удалятся выбранные данные.</string>
+    <string name="lock_reset_guide">Данные будут удалены при сбросе пароля.</string>
     <string name="lock_secret_guide">Удаляются только данные в режиме инкогнито.</string>
     <string name="reset_noti">Сброшено.</string>
     <string name="pass_hint">Введите не менее 4 символов</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Добавить на домашний экран</string>
     <string name="set_homepage">Установить как домашнюю страницу</string>
     <string name="setted">Установлено.</string>
-    <string name="top_bar">Верхняя панель</string>
-    <string name="bottom_bar">Нижняя панель</string>
     <string name="video_url">URL видео</string>
     <string name="address_guide_1">Нажмите и удерживайте воспроизводимое видео, чтобы скопировать адрес.</string>
     <string name="address_guide_2">Введите скопированный адрес.</string>
@@ -598,7 +593,7 @@
     <string name="tts_info_2">Когда Вы нажимаете текст, он читается вслух.</string>
     <string name="detail_setting">Расширенные настройки</string>
     <string name="voice_speed">Скорость голоса</string>
-    <string name="voice_tone">Голосовой тон</string>
+    <string name="voice_tone">Тон голоса</string>
     <string name="stop_icon">Кнопка стоп</string>
     <string name="stop_icon_info_1">Появляется на экране во время воспроизведения голоса.</string>
     <string name="stop_icon_info_2">Можно свободно перемещать по экрану.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript отключён.</string>
     <string name="icon_edit_guide_1">1. Нажмите на значок, чтобы изменить функцию.</string>
     <string name="icon_edit_guide_2">2. Перетащите значок, чтобы изменить его положение.</string>
-    <string name="short_edit_guide">Можно установить функцию для кратковременного нажатия значка на нижней панели.</string>
     <string name="long_edit_guide">Можно установить функцию для нажатия и удержания кнопки на нижней панели.</string>
     <string name="swipe_edit_guide">Можно установить функцию для смахивания вверх от кнопки на нижней панели.</string>
-    <string name="short_press">Короткое нажатие</string>
     <string name="long_press">Долгое нажатие</string>
     <string name="swipe_up">Смахивание вверх</string>
     <string name="memo_title">Блокнот</string>
@@ -640,7 +633,7 @@
     <string name="delete_all_tab">Закрыть все вкладки</string>
     <string name="delete_other_tab">Закрыть другие вкладки</string>
     <string name="mini_mode">Мини-режим</string>
-    <string name="home_close">Нажмите на значок домашней страницы, чтобы закрыть все вкладки</string>
+    <string name="home_close">Нажатие кнопки дом. страницы закрывает все вкладки</string>
     <string name="reader_mode">Режим чтения</string>
     <string name="reader_empty">На этой странице нет содержимого.</string>
     <string name="site_warning">Предупреждение безопасности</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Маленький значок</string>
     <string name="small_list">Компактный список</string>
     <string name="large_list">Крупный список</string>
-    <string name="icon_mode">Режим значков</string>
-    <string name="page_mode">Режим страницы</string>
     <string name="full_screen">Полноэкранный режим</string>
     <string name="scroll_mode">Режим прокрутки</string>
     <string name="scroll_guide_1">1. Отображает страницу, загруженную до сих пор.</string>
@@ -707,7 +698,7 @@
     <string name="active_function">Активируйте функцию.</string>
     <string name="tab_loop">Зациклить вкладки</string>
     <string name="tab_loop_info">Переключаться между первой и последней вкладками</string>
-    <string name="swipe_sense">Чувствительность смахивания</string>
+    <string name="swipe_sense">Чувствительность свайпа</string>
     <string name="only_text">Только текст</string>
     <string name="default_size">Размер по умолчанию</string>
     <string name="text_zoom">Увеличить текст</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">Удаление приложения или данных приложения сбрасывает оставшееся время.</string>
     <string name="reward_ads_info_3">Он не действует, если вы его уже купили.</string>
     <string name="reward_ads_time">Времени осталось</string>
-    <string name="donate_1">Пожертвовать (Молоко)</string>
-    <string name="donate_2">Пожертвовать (Гамбургер)</string>
-    <string name="donate_3">Пожертвовать (Ужин)</string>
+    <string name="donate_1">Пожертвование (Кофе)</string>
+    <string name="donate_2">Пожертвование (Гамбургер)</string>
+    <string name="donate_3">Пожертвование (Ужин)</string>
     <string name="donate_info">Спасибо за использование Soul Browser.\nSoul Browser поддерживается за счет вашего пожертвования.</string>
     <string name="pay_free">Бесплатно</string>
     <string name="paid">Куплено</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Фактический размер</string>
     <string name="block_ssl">Блокировка ошибок SSL</string>
     <string name="block_ssl_info">При возникновении ошибки SSL происходит автоматический переход на безопасную страницу.</string>
-    <string name="menu_noti_1">Значок меню изменить нельзя.</string>
-    <string name="menu_noti_2">Иконки меню можно разместить только на нижней панели.</string>
     <string name="screen_filter">Экранный фильтр</string>
     <string name="filter_color">Цвет фильтра</string>
     <string name="always_use">Всегда использовать</string>
     <string name="only_use_secret">Исп-ть только в режиме инкогнито</string>
     <string name="only_night">Исп-ть только в ночном режиме</string>
-    <string name="night_mode">Ночной режим</string>
-    <string name="day_mode">Дневной режим</string>
     <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
     <string name="use_tab_anim">Использовать анимацию касания</string>
     <string name="suggest_engine">Движок поисковых предложений</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Проблема с настройками рекламы. Поправьте настройки.</string>
     <string name="original_size">Оригинальный размер</string>
     <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
-    <string name="site_app">Показать кнопку для открытия в приложении</string>
     <string name="finger_print">Отпечаток пальца</string>
     <string name="finger_unavailable">Пользователь не может пройти аутентификацию, так как оборудование недоступно. Попробуйте позже.</string>
     <string name="finger_register">Пользователь не может пройти аутентификацию, так как отпечаток пальца не зарегистрирован.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Блокировщик рекламы отключен</string>
     <string name="adblock_enabled">Блокировка рекламы включена.</string>
     <string name="adblock_disabled">Блокировка рекламы отключена.</string>
-    <string name="menu_guide">Нажмите и удерживайте значок, чтобы изменить функцию.</string>
     <string name="down_service">Загрузчик Soul</string>
     <string name="auto_comp">Автозаполнение</string>
     <string name="check_element">Контроль элементов (точечная блокировка)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Автоматическое обнаружение</string>
     <string name="allow_all_site">Все сайты разрешены</string>
     <string name="block_harm_site">Блокировать вредоносные сайты</string>
+    <string name="two_lines">2 строки</string>
+    <string name="three_lines">3 строки</string>
+    <string name="expand_mode">Расширенный режим</string>
+    <string name="layout_title">Макет</string>
+    <string name="update_noti">Изменилась структура макета.\nВ результате были изменены соответствующие настройки.</string>
+    <string name="tab_indicator">Индикатор вкладки</string>
+    <string name="tab_indi_info">Отображение положения вкладки и количества вкладок на кнопке вкладки</string>
+    <string name="not_space">Недостаточно пространства.</string>
 </resources>

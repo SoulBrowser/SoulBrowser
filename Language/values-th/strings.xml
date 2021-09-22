@@ -306,7 +306,6 @@
     <string name="photo_editor">ตัวแก้ไขรูปภาพ</string>
     <string name="color_size">ความหนา</string>
     <string name="color_alpha">ความโปร่งใส</string>
-    <string name="bottom_size">ขนาดแถบด้านล่าง</string>
     <string name="add_icon">ปุ่มเพิ่ม</string>
     <string name="close_icon">ปุ่มปิด</string>
     <string name="size_width">ความกว้าง</string>
@@ -391,9 +390,10 @@
     <string name="gesture">ท่าทาง</string>
     <string name="show_status">แสดงแถบสถานะ</string>
     <string name="show_navi">แสดงปุ่มซอฟท์คีย์</string>
-    <string name="address_pos">แสดงแถบที่อยู่</string>
     <string name="address_title">แสดงชื่อในแถบที่อยู่</string>
-    <string name="bot_input">แถบที่อยู่ด้านล่าง</string>
+    <string name="address_icon">แก้ไขปุ่มแถบที่อยู่</string>
+    <string name="addr_icon_info">2. คุณสามารถลบออกได้โดยคลิกที่ไอคอน</string>
+    <string name="address_bar">แถบที่อยู่</string>
     <string name="address_menu">เมนูแถบที่อยู่</string>
     <string name="show_tab_bar">แสดงแถบแท็บ</string>
     <string name="tab_swipe_up">ปัดขึ้นแถบแท็บ</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">ปัดไปทางซ้ายและขวาด้วยสองนิ้วเพื่อเลื่อนแท็บ</string>
     <string name="two_finger_info_2">ปัดสองนิ้วลงเพื่อลบแท็บ</string>
     <string name="show_scroll">แสดงแถบเลื่อน</string>
-    <string name="show_up">แสดงปุ่มไปที่ด้านบนสุด</string>
+    <string name="show_up">กลับไปด้านบนปุ่ม</string>
     <string name="qrcode_title">รหัส QR</string>
-    <string name="show_qrcode">แสดงปุ่มรหัส QR</string>
     <string name="voice_title">ค้นหาด้วยเสียง</string>
-    <string name="show_voice">แสดงปุ่มค้นหาด้วยเสียง</string>
-    <string name="show_reader">ปุ่มแสดงโหมดผู้อ่าน</string>
     <string name="album_shortcut">สร้างทางลัดอัลบั้ม</string>
     <string name="album_short_info">สร้างปุ่มทางลัดอัลบั้มบนหน้าจอหลัก</string>
     <string name="cast_shortcut">สร้างทางลัดการส่งสัญญาณทีวี</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">เพิ่มไปที่หน้าจอหลัก</string>
     <string name="set_homepage">ตั้งเป็นหน้าแรก</string>
     <string name="setted">ได้มีการตั้งค่า</string>
-    <string name="top_bar">แถบด้านบน</string>
-    <string name="bottom_bar">แถบด้านล่าง</string>
     <string name="video_url">URL วิดีโอ</string>
     <string name="address_guide_1">กดวิดีโอที่กำลังเล่นค้างไว้เพื่อคัดลอกที่อยู่</string>
     <string name="address_guide_2">ป้อนที่อยู่ที่คัดลอก</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript ถูกปิดใช้งาน</string>
     <string name="icon_edit_guide_1">1. คลิกไอคอนเพื่อเปลี่ยนฟังก์ชัน</string>
     <string name="icon_edit_guide_2">2. ลากไอคอนเพื่อเปลี่ยนตำแหน่ง</string>
-    <string name="short_edit_guide">คุณสามารถตั้งค่าฟังก์ชันที่จะใช้เมื่อคุณกดสั้น ๆ ที่ไอคอนที่แถบด้านล่าง</string>
     <string name="long_edit_guide">คุณสามารถตั้งค่าฟังก์ชั่นที่จะใช้เมื่อคุณกดไอคอนบนแถบด้านล่างค้างไว้</string>
     <string name="swipe_edit_guide">คุณสามารถตั้งค่าฟังก์ชั่นที่จะใช้เมื่อปัดขึ้นไอคอนบนแถบด้านล่าง</string>
-    <string name="short_press">กดสั้นๆ</string>
     <string name="long_press">กดแบบยาว</string>
     <string name="swipe_up">ปัดขึ้น</string>
     <string name="memo_title">บันทึก</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">ไอคอนขนาดเล็ก</string>
     <string name="small_list">รายการเล็ก ๆ</string>
     <string name="large_list">รายการใหญ่</string>
-    <string name="icon_mode">โหมดไอคอน</string>
-    <string name="page_mode">โหมดหน้า</string>
     <string name="full_screen">เต็มจอ</string>
     <string name="scroll_mode">โหมดเลื่อน</string>
     <string name="scroll_guide_1">1. แสดงหน้าโหลดจนถึงตอนนี้</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">การลบแอพหรือข้อมูลของแอพจะรีเซ็ตเวลาที่เหลืออยู่</string>
     <string name="reward_ads_info_3">ไม่มีผลหากคุณซื้อไปแล้ว</string>
     <string name="reward_ads_time">เวลาที่เหลืออยู่</string>
-    <string name="donate_1">บริจาค (นม)</string>
+    <string name="donate_1">บริจาค (กาแฟ)</string>
     <string name="donate_2">บริจาค (แฮมเบอร์เกอร์)</string>
-    <string name="donate_3">บริจาค (อาหารเย็น)</string>
+    <string name="donate_3">บริจาค (อาหารค่ำ)</string>
     <string name="donate_info">ขอบคุณที่ใช้ Soul Browser\nSoul Browser ได้รับการดูแลโดยการบริจาคของคุณ</string>
     <string name="pay_free">ฟรี</string>
     <string name="paid">ซื้อแล้ว</string>
@@ -774,15 +765,11 @@
     <string name="size_real">ขนาดที่แท้จริง</string>
     <string name="block_ssl">การบล็อกข้อผิดพลาด SSL</string>
     <string name="block_ssl_info">เมื่อเกิดข้อผิดพลาด SSL เพจจะไปที่เซฟเพจโดยอัตโนมัติ</string>
-    <string name="menu_noti_1">ไม่สามารถเปลี่ยนไอคอนเมนูได้</string>
-    <string name="menu_noti_2">ไอคอนเมนูสามารถวางได้ที่แถบด้านล่างเท่านั้น</string>
     <string name="screen_filter">ตัวกรองหน้าจอ</string>
     <string name="filter_color">กรองสี</string>
     <string name="always_use">ใช้เสมอ</string>
     <string name="only_use_secret">ใช้เฉพาะในโหมดไม่ระบุตัวตน</string>
     <string name="only_night">ใช้ในโหมดกลางคืนเท่านั้น</string>
-    <string name="night_mode">โหมดกลางคืน</string>
-    <string name="day_mode">โหมดวัน</string>
     <string name="use_scroll_anim">ใช้ภาพเคลื่อนไหวแบบเลื่อน</string>
     <string name="use_tab_anim">ใช้แอนิเมชั่นการแตะ</string>
     <string name="suggest_engine">เครื่องมือข้อเสนอแนะ</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">มีปัญหากับการตั้งค่าโฆษณา กรุณาตั้งค่าใหม่อีกครั้ง</string>
     <string name="original_size">ขนาดเดิม</string>
     <string name="reduced_size">ลดขนาดลง (แนะนำ)</string>
-    <string name="site_app">แสดงปุ่มเพื่อเปิดด้วยแอพ</string>
     <string name="finger_print">ลายนิ้วมือ</string>
     <string name="finger_unavailable">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากฮาร์ดแวร์ไม่พร้อมใช้งาน โปรดลองอีกครั้งในภายหลัง</string>
     <string name="finger_register">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากไม่มีการลงทะเบียนลายนิ้วมือ</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">ปิดตัวบล็อกโฆษณา</string>
     <string name="adblock_enabled">เปิดใช้งาน Ad blocker</string>
     <string name="adblock_disabled">ปิดใช้ตัวบล็อกโฆษณา</string>
-    <string name="menu_guide">กดไอคอนค้างไว้เพื่อเปลี่ยนฟังก์ชัน</string>
     <string name="down_service">บริการดาวน์โหลด Soul</string>
     <string name="auto_comp">เติมข้อความอัตโนมัติ</string>
     <string name="check_element">การตรวจสอบองค์ประกอบ (การปิดกั้นแบบละเอียดยิ่งขึ้น)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">การตรวจจับอัตโนมัติ</string>
     <string name="allow_all_site">อนุญาตทุกไซต์</string>
     <string name="block_harm_site">บล็อกไซต์ที่เป็นอันตราย</string>
+    <string name="two_lines">2 เส้น</string>
+    <string name="three_lines">3 เส้น</string>
+    <string name="expand_mode">โหมดขยาย</string>
+    <string name="layout_title">เลย์เอาต์</string>
+    <string name="update_noti">โครงสร้างเค้าโครงมีการเปลี่ยนแปลง\nด้วยเหตุนี้ การตั้งค่าที่เกี่ยวข้องจึงเปลี่ยนไป</string>
+    <string name="tab_indicator">ตัวบ่งชี้แท็บ</string>
+    <string name="tab_indi_info">แสดงตำแหน่งแท็บและจำนวนแท็บบนปุ่มแท็บ</string>
+    <string name="not_space">พื้นที่ว่างไม่เพียงพอ.</string>
 </resources>

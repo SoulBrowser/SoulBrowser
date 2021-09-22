@@ -306,7 +306,6 @@
     <string name="photo_editor">照片編輯器</string>
     <string name="color_size">厚度</string>
     <string name="color_alpha">透明度</string>
-    <string name="bottom_size">底欄尺寸</string>
     <string name="add_icon">添加按鈕</string>
     <string name="close_icon">關閉按鈕</string>
     <string name="size_width">寬度</string>
@@ -391,9 +390,10 @@
     <string name="gesture">手勢</string>
     <string name="show_status">顯示狀態欄</string>
     <string name="show_navi">顯示虛擬鍵</string>
-    <string name="address_pos">顯示網址欄</string>
     <string name="address_title">在地址欄中顯示標題</string>
-    <string name="bot_input">底部網址欄</string>
+    <string name="address_icon">編輯地址欄按鈕</string>
+    <string name="addr_icon_info">2. 您可以通過單擊圖標將其刪除</string>
+    <string name="address_bar">地址欄</string>
     <string name="address_menu">網址欄菜單</string>
     <string name="show_tab_bar">顯示分頁欄</string>
     <string name="tab_swipe_up">向上滑動分頁欄</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">用雙指滑動左右滑動以移動分頁</string>
     <string name="two_finger_info_2">用雙指滑動向下滑動以移除分頁</string>
     <string name="show_scroll">顯示滾動條</string>
-    <string name="show_up">顯示轉到頂部按鈕</string>
+    <string name="show_up">返回頂部按鈕</string>
     <string name="qrcode_title">二維碼</string>
-    <string name="show_qrcode">二維碼按鈕顯示</string>
     <string name="voice_title">聲音搜索</string>
-    <string name="show_voice">顯示語音搜索按鈕</string>
-    <string name="show_reader">閱讀器模式按鈕顯示</string>
     <string name="album_shortcut">創建相簿快捷方式</string>
     <string name="album_short_info">在主螢幕上創建相簿快捷方式按鈕</string>
     <string name="cast_shortcut">創建電視投放快捷方式</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">新增到主螢幕</string>
     <string name="set_homepage">設為主頁</string>
     <string name="setted">已設置</string>
-    <string name="top_bar">頂欄</string>
-    <string name="bottom_bar">底欄</string>
     <string name="video_url">影片網址</string>
     <string name="address_guide_1">按住正在播放的影片以復制網址</string>
     <string name="address_guide_2">輸入複製的網址</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript 已禁用</string>
     <string name="icon_edit_guide_1">1. 單擊圖標更改功能</string>
     <string name="icon_edit_guide_2">2. 拖動圖標以更改其位置</string>
-    <string name="short_edit_guide">您可以設置短按底部欄上的圖標時要使用的功能</string>
     <string name="long_edit_guide">您可以設置按住底欄上的圖標時要使用的功能</string>
     <string name="swipe_edit_guide">您可以設置在向上滑動底部欄上的圖標時要使用的功能</string>
-    <string name="short_press">短按</string>
     <string name="long_press">長按</string>
     <string name="swipe_up">向上滑動</string>
     <string name="memo_title">備忘錄</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">小圖標</string>
     <string name="small_list">小清單</string>
     <string name="large_list">大清單</string>
-    <string name="icon_mode">圖標模式</string>
-    <string name="page_mode">頁面模式</string>
     <string name="full_screen">全螢幕</string>
     <string name="scroll_mode">滾動模式</string>
     <string name="scroll_guide_1">1. 顯示到目前為止加載的頁面</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">刪除應用程序或應用程序的數據會重置剩餘時間</string>
     <string name="reward_ads_info_3">如果您已經購買，則沒有任何影響</string>
     <string name="reward_ads_time">剩餘時間</string>
-    <string name="donate_1">捐（牛奶）</string>
-    <string name="donate_2">捐（漢堡包）</string>
-    <string name="donate_3">捐（晚餐）</string>
+    <string name="donate_1">捐贈（咖啡）</string>
+    <string name="donate_2">捐贈（漢堡包）</string>
+    <string name="donate_3">捐贈（晚餐）</string>
     <string name="donate_info">感謝您使用 Soul Browser\nSoul Browser 由您的捐贈維護</string>
     <string name="pay_free">自由</string>
     <string name="paid">已購買</string>
@@ -774,15 +765,11 @@
     <string name="size_real">真實大小</string>
     <string name="block_ssl">SSL 錯誤阻止</string>
     <string name="block_ssl_info">發生 SSL 錯誤時，頁面將自動轉到安全頁面</string>
-    <string name="menu_noti_1">菜單圖標無法更改</string>
-    <string name="menu_noti_2">菜單圖標只能放在底部欄上</string>
     <string name="screen_filter">螢幕過濾器</string>
     <string name="filter_color">濾色</string>
     <string name="always_use">一律使用</string>
     <string name="only_use_secret">僅在隱身模式下使用</string>
     <string name="only_night">僅在夜間模式下使用</string>
-    <string name="night_mode">夜間模式</string>
-    <string name="day_mode">日間模式</string>
     <string name="use_scroll_anim">使用滾動動畫</string>
     <string name="use_tab_anim">使用點擊動畫</string>
     <string name="suggest_engine">建議引擎</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">廣告設置存在問題。 請重新設置</string>
     <string name="original_size">原始尺寸</string>
     <string name="reduced_size">縮小尺寸（推薦）</string>
-    <string name="site_app">顯示按鈕以使用應用程序打開</string>
     <string name="finger_print">指紋</string>
     <string name="finger_unavailable">由於硬件不可用，用戶無法進行身份驗證。 稍後再試</string>
     <string name="finger_register">用戶無法驗證，因為未註冊任何指紋</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">廣告攔截器已關閉</string>
     <string name="adblock_enabled">廣告攔截器已啟用</string>
     <string name="adblock_disabled">廣告攔截器已禁用</string>
-    <string name="menu_guide">長按圖標可更改功能</string>
     <string name="down_service">Soul下載服務</string>
     <string name="auto_comp">自動完成</string>
     <string name="check_element">元素檢查（更細粒度的阻塞）</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">自動檢測</string>
     <string name="allow_all_site">允許所有網站</string>
     <string name="block_harm_site">阻止有害站點</string>
+    <string name="two_lines">2 行</string>
+    <string name="three_lines">3 行</string>
+    <string name="expand_mode">擴展模式</string>
+    <string name="layout_title">佈局</string>
+    <string name="update_noti">佈局結構發生了變化\n因此，更改了相關設置</string>
+    <string name="tab_indicator">標籤指示器</string>
+    <string name="tab_indi_info">在選項卡按鈕上顯示選項卡位置和選項卡數量</string>
+    <string name="not_space">沒有足夠的空位</string>
 </resources>

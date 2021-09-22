@@ -306,7 +306,6 @@
     <string name="photo_editor">Edytor zdjęć</string>
     <string name="color_size">Grubość</string>
     <string name="color_alpha">Przezroczystość</string>
-    <string name="bottom_size">Rozmiar dolnego paska</string>
     <string name="add_icon">Dodaj przycisk</string>
     <string name="close_icon">Przycisk zamykania</string>
     <string name="size_width">Szerokość</string>
@@ -391,9 +390,10 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Pokaż pasek stanu</string>
     <string name="show_navi">Pokaż pasek przycisków</string>
-    <string name="address_pos">Pokaż pasek adresu</string>
     <string name="address_title">Pokaż tytuł na pasku adresu</string>
-    <string name="bot_input">Dolny pasek adresu</string>
+    <string name="address_icon">Edytuj przyciski paska adresu</string>
+    <string name="addr_icon_info">2. Możesz go usunąć, klikając ikonę.</string>
+    <string name="address_bar">Pasek adresu</string>
     <string name="address_menu">Menu paska adresu</string>
     <string name="show_tab_bar">Pokaż pasek kart</string>
     <string name="tab_swipe_up">Przesuń w górę pasek kart</string>
@@ -412,12 +412,9 @@
     <string name="two_finger_info_1">Przesuń dwoma palcami w lewo i w prawo, aby przenieść tabulatory.</string>
     <string name="two_finger_info_2">Przesuń dwoma palcami w dół, aby usunąć kartę.</string>
     <string name="show_scroll">Pokaż pasek przewijania</string>
-    <string name="show_up">Pokaż idź do górnego przycisku</string>
+    <string name="show_up">Przycisk powrót do góry</string>
     <string name="qrcode_title">Kodu QR</string>
-    <string name="show_qrcode">Pokaż przycisk kodu QR</string>
     <string name="voice_title">Szukanie głosowe</string>
-    <string name="show_voice">Pokaż przycisk wyszukiwania głosowego</string>
-    <string name="show_reader">Pokaż przycisk tryb czytnika</string>
     <string name="album_shortcut">Utwórz skrót do albumu</string>
     <string name="album_short_info">Utwórz przycisk skrótu do albumu na ekranie głównym.</string>
     <string name="cast_shortcut">Utwórz skrót do obsada telewizyjna</string>
@@ -579,8 +576,6 @@
     <string name="add_homescreen">Dodaj do ekranu głównego</string>
     <string name="set_homepage">Ustaw jako stronę główną</string>
     <string name="setted">Ustawiono.</string>
-    <string name="top_bar">Górny pasek</string>
-    <string name="bottom_bar">Dolny pasek</string>
     <string name="video_url">URL wideo</string>
     <string name="address_guide_1">Naciśnij i przytrzymaj odtwarzane wideo, aby skopiować adres.</string>
     <string name="address_guide_2">Wpisz skopiowany adres.</string>
@@ -626,10 +621,8 @@
     <string name="js_disabled">JavaScript jest wyłączony.</string>
     <string name="icon_edit_guide_1">1. Kliknij ikonę, aby zmienić funkcję.</string>
     <string name="icon_edit_guide_2">2. Przeciągnij ikonę, aby zmienić jej położenie.</string>
-    <string name="short_edit_guide">Możesz ustawić funkcję, która będzie używana po krótkim naciśnięciu ikony na dolnym pasku.</string>
     <string name="long_edit_guide">Możesz ustawić funkcję, która będzie używana po naciśnięciu i przytrzymaniu ikony na dolnym pasku.</string>
     <string name="swipe_edit_guide">Możesz ustawić funkcję, która będzie używana podczas przesuwania w górę ikony na dolnym pasku.</string>
-    <string name="short_press">Krótkie naciśnięcie</string>
     <string name="long_press">Długie naciśnięcie</string>
     <string name="swipe_up">Przesuń palcem w górę</string>
     <string name="memo_title">Notatka</string>
@@ -667,8 +660,6 @@
     <string name="small_icon">Mała ikona</string>
     <string name="small_list">Mała lista</string>
     <string name="large_list">Duża lista</string>
-    <string name="icon_mode">Tryb ikon</string>
-    <string name="page_mode">Tryb strony</string>
     <string name="full_screen">Pełny ekran</string>
     <string name="scroll_mode">Tryb przewijania</string>
     <string name="scroll_guide_1">1. Wyświetla stronę załadowaną do tej pory.</string>
@@ -735,9 +726,9 @@
     <string name="reward_ads_info_2">Usunięcie aplikacji lub danych aplikacji resetuje pozostały czas.</string>
     <string name="reward_ads_info_3">Nie ma żadnego efektu, jeśli już go kupiłeś.</string>
     <string name="reward_ads_time">Pozostały czas</string>
-    <string name="donate_1">Podarować (Mleko)</string>
-    <string name="donate_2">Podarować (Hamburger)</string>
-    <string name="donate_3">Podarować (Obiad)</string>
+    <string name="donate_1">Darowizna (Kawa)</string>
+    <string name="donate_2">Darowizna (Hamburger)</string>
+    <string name="donate_3">Darowizna (Obiad)</string>
     <string name="donate_info">Dziękujemy za korzystanie z przeglądarki Soul Browser.\nSoul Browser jest utrzymywana z Twojej darowizny.</string>
     <string name="pay_free">Darmowy</string>
     <string name="paid">Zakupione</string>
@@ -774,15 +765,11 @@
     <string name="size_real">Rzeczywisty rozmiar</string>
     <string name="block_ssl">Blokowanie błędów SSL</string>
     <string name="block_ssl_info">Gdy wystąpi błąd SSL, strona automatycznie przechodzi do bezpiecznej strony.</string>
-    <string name="menu_noti_1">Nie można zmienić ikony menu.</string>
-    <string name="menu_noti_2">Ikony menu można umieszczać tylko na dolnym pasku.</string>
     <string name="screen_filter">Filtr ekranu</string>
     <string name="filter_color">Kolor filtra</string>
     <string name="always_use">Zawsze używaj</string>
     <string name="only_use_secret">Używane tylko w trybie incognito</string>
     <string name="only_night">Używany tylko w trybie nocnym</string>
-    <string name="night_mode">Tryb nocny</string>
-    <string name="day_mode">Tryb dzienny</string>
     <string name="use_scroll_anim">Użyj animacji przewijania</string>
     <string name="use_tab_anim">Użyj animacji dotknięcia</string>
     <string name="suggest_engine">Silnik sugestii</string>
@@ -814,7 +801,6 @@
     <string name="ads_invalid_info">Wystąpił problem z ustawieniami reklam. Ustaw ponownie.</string>
     <string name="original_size">Oryginalny rozmiar</string>
     <string name="reduced_size">Zmniejszony rozmiar (zalecane)</string>
-    <string name="site_app">Pokaż przycisk, aby otworzyć za pomocą aplikacji</string>
     <string name="finger_print">Odcisk palca</string>
     <string name="finger_unavailable">Użytkownik nie może się uwierzytelnić, ponieważ sprzęt jest niedostępny. Spróbuj ponownie później.</string>
     <string name="finger_register">Użytkownik nie może się uwierzytelnić, ponieważ nie jest zarejestrowany żaden odcisk palca.</string>
@@ -835,7 +821,6 @@
     <string name="disable_adblock">Blokowanie reklam wyłączone</string>
     <string name="adblock_enabled">Blokowanie reklam jest włączone.</string>
     <string name="adblock_disabled">Blokowanie reklam jest wyłączone.</string>
-    <string name="menu_guide">Długo naciśnij ikonę, aby zmienić funkcję.</string>
     <string name="down_service">Usługa pobierania Soul</string>
     <string name="auto_comp">Autouzupełnienie</string>
     <string name="check_element">Kontrola elementów (bardziej drobnoziarniste blokowanie)</string>
@@ -878,4 +863,12 @@
     <string name="auto_detect">Automatyczne wykrywanie</string>
     <string name="allow_all_site">Wszystkie witryny dozwolone</string>
     <string name="block_harm_site">Blokuj szkodliwe witryny</string>
+    <string name="two_lines">2 linie</string>
+    <string name="three_lines">3 linie</string>
+    <string name="expand_mode">Tryb rozszerzony</string>
+    <string name="layout_title">Układ</string>
+    <string name="update_noti">Zmieniła się struktura układu.\nW rezultacie odpowiednie ustawienia zostały zmienione.</string>
+    <string name="tab_indicator">Wskaźnik zakładki</string>
+    <string name="tab_indi_info">Wyświetl pozycję zakładki i liczbę zakładek na przycisku zakładki</string>
+    <string name="not_space">Niewystarczająco miejsca.</string>
 </resources>
