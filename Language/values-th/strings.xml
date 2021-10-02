@@ -477,7 +477,7 @@
     <string name="memory_warning_1">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น</string>
     <string name="memory_warning_2">ระวังเมื่อใช้กับอุปกรณ์ที่มีหน่วยความจำขนาดเล็ก</string>
     <string name="android_support">รองรับตั้งแต่ Android %d</string>
-    <string name="secret_data">การแยกข้อมูลเว็บ</string>
+    <string name="secret_data">การแยกข้อมูลเว็บ (การแยกการเข้าสู่ระบบ)</string>
     <string name="secret_data_info_1">แยกการจัดการข้อมูลเช่นคุกกี้และแคช</string>
     <string name="secret_data_info_2">ด้วยตัวเลือกนี้แอปจะเริ่มทำงานในโหมดปกติเสมอ</string>
     <string name="secret_data_info_3">ปิดใช้งานตัวเลือกนี้เพื่อใช้โหมดไม่ระบุตัวตนตามค่าเริ่มต้น</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">โฆษณาในแอปและโฆษณาบนเว็บไซต์แตกต่างกัน</string>
     <string name="remove_ads_info_4">คุณลักษณะการลบโฆษณาของเว็บไซต์นั้นไม่มีค่าใช้จ่าย</string>
     <string name="reward_ads">ลบโฆษณาในแอปด้วยการดูโฆษณา</string>
-    <string name="reward_ads_info_1">โฆษณาในแอปจะถูกลบออกเป็นเวลา 6 ชั่วโมงเมื่อคุณดูโฆษณาจนจบ</string>
+    <string name="reward_ads_info_1">เมื่อคุณดูโฆษณาจนจบ โฆษณาในแอปจะถูกลบออกเป็นเวลา 1 ชั่วโมง</string>
     <string name="reward_ads_info_2">การลบแอพหรือข้อมูลของแอพจะรีเซ็ตเวลาที่เหลืออยู่</string>
     <string name="reward_ads_info_3">ไม่มีผลหากคุณซื้อไปแล้ว</string>
     <string name="reward_ads_time">เวลาที่เหลืออยู่</string>
@@ -770,6 +770,8 @@
     <string name="always_use">ใช้เสมอ</string>
     <string name="only_use_secret">ใช้เฉพาะในโหมดไม่ระบุตัวตน</string>
     <string name="only_night">ใช้ในโหมดกลางคืนเท่านั้น</string>
+    <string name="night_mode">โหมดกลางคืน</string>
+    <string name="day_mode">โหมดวัน</string>
     <string name="use_scroll_anim">ใช้ภาพเคลื่อนไหวแบบเลื่อน</string>
     <string name="use_tab_anim">ใช้แอนิเมชั่นการแตะ</string>
     <string name="suggest_engine">เครื่องมือข้อเสนอแนะ</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 เส้น</string>
     <string name="expand_mode">โหมดขยาย</string>
     <string name="layout_title">เลย์เอาต์</string>
-    <string name="update_noti">โครงสร้างเค้าโครงมีการเปลี่ยนแปลง\nด้วยเหตุนี้ การตั้งค่าที่เกี่ยวข้องจึงเปลี่ยนไป</string>
     <string name="tab_indicator">ตัวบ่งชี้แท็บ</string>
     <string name="tab_indi_info">แสดงตำแหน่งแท็บและจำนวนแท็บบนปุ่มแท็บ</string>
     <string name="not_space">พื้นที่ว่างไม่เพียงพอ.</string>
+    <string name="bar_remove_info">หากต้องการลบแถบด้านบน ให้ลบไอคอนทั้งหมดออกจากแถบด้านบน</string>
+    <string name="db_changed_noti">ไฟล์สำรองนี้สร้างขึ้นโดยใช้ฐานข้อมูลเก่า\nมีการใช้ฐานข้อมูลใหม่ในเวอร์ชันล่าสุด\nDB เก่าไม่สามารถเข้ากันได้อย่างสมบูรณ์อีกต่อไป\nเราขอแนะนำให้คุณสร้างไฟล์สำรองใหม่</string>
+    <string name="need_login">กรุณาเข้าสู่ระบบ.</string>
+    <string name="login_google">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="log_out">ออกจากระบบ</string>
 </resources>

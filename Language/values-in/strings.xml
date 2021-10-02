@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Fitur ini menggunakan lebih banyak memori.</string>
     <string name="memory_warning_2">Hati-hati saat menggunakannya pada perangkat dengan memori rendah.</string>
     <string name="android_support">Didukung sejak Android %d.</string>
-    <string name="secret_data">Pemisahan data web</string>
+    <string name="secret_data">Pemisahan Data Web (Pemisahan Login)</string>
     <string name="secret_data_info_1">Kelola data secara terpisah seperti cookie dan cache.</string>
     <string name="secret_data_info_2">Dengan opsi ini, aplikasi akan selalu dimulai dalam mode normal.</string>
     <string name="secret_data_info_3">Nonaktifkan opsi ini untuk menggunakan mode penyamaran secara default.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">Iklan dalam aplikasi dan iklan di situs web berbeda.</string>
     <string name="remove_ads_info_4">Fitur penghapusan iklan situs web ini gratis.</string>
     <string name="reward_ads">Hapus Iklan Dalam Aplikasi dengan Menonton Iklan</string>
-    <string name="reward_ads_info_1">Iklan dalam aplikasi dihapus selama 6 jam saat Anda menonton iklan sampai akhir.</string>
+    <string name="reward_ads_info_1">Saat Anda menonton iklan sampai akhir, iklan dalam aplikasi akan dihapus selama 1 jam.</string>
     <string name="reward_ads_info_2">Menghapus aplikasi atau data aplikasi akan menyetel ulang waktu yang tersisa.</string>
     <string name="reward_ads_info_3">Tidak ada pengaruhnya jika Anda sudah membelinya.</string>
     <string name="reward_ads_time">Waktu yang tersisa</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Selalu gunakan</string>
     <string name="only_use_secret">Hanya digunakan dalam mode penyamaran</string>
     <string name="only_night">Hanya digunakan dalam mode malam</string>
+    <string name="night_mode">Mode malam</string>
+    <string name="day_mode">Mode hari</string>
     <string name="use_scroll_anim">Gunakan animasi gulir</string>
     <string name="use_tab_anim">Gunakan animasi ketuk</string>
     <string name="suggest_engine">Mesin saran</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 baris</string>
     <string name="expand_mode">Modus yang diperluas</string>
     <string name="layout_title">Tata letak</string>
-    <string name="update_noti">Struktur tata letak telah berubah.\nAkibatnya, pengaturan yang relevan diubah.</string>
     <string name="tab_indicator">Indikator tab</string>
     <string name="tab_indi_info">Tampilkan posisi tab dan jumlah tab pada tombol tab</string>
     <string name="not_space">Tidak cukup ruang.</string>
+    <string name="bar_remove_info">Untuk menghapus bilah atas, hapus semua ikon dari bilah atas.</string>
+    <string name="db_changed_noti">File cadangan ini dibuat berdasarkan DB lama.\nDB baru telah diterapkan di versi terbaru.\nDB lama tidak lagi sepenuhnya kompatibel.\nKami menyarankan Anda membuat file cadangan baru.</string>
+    <string name="need_login">Silahkan masuk.</string>
+    <string name="login_google">Masuk dengan Google</string>
+    <string name="log_out">Keluar</string>
 </resources>

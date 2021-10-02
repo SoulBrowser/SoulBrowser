@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Questa funzione utilizza più memoria.</string>
     <string name="memory_warning_2">Fare attenzione quando si utilizza su dispositivi con poca memoria.</string>
     <string name="android_support">Supportato da Android %d.</string>
-    <string name="secret_data">Separazione dei dati Web</string>
+    <string name="secret_data">Separazione dati web (separazione login)</string>
     <string name="secret_data_info_1">Gestisci separatamente dati come cookie e cache.</string>
     <string name="secret_data_info_2">Con questa opzione, l\'app si avvierà sempre in modalità normale.</string>
     <string name="secret_data_info_3">Disattiva questa opzione per utilizzare la modalità di navigazione in incognito per impostazione predefinita.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">Gli annunci in-app e gli annunci su un sito web sono diversi.</string>
     <string name="remove_ads_info_4">La funzione di rimozione degli annunci del sito Web è gratuita.</string>
     <string name="reward_ads">Rimuovi gli annunci in-app guardando gli annunci</string>
-    <string name="reward_ads_info_1">Gli annunci in-app vengono rimossi per 6 ore quando guardi l\'annuncio fino alla fine.</string>
+    <string name="reward_ads_info_1">Quando guardi l\'annuncio fino alla fine, l\'annuncio in-app verrà rimosso per 1 ora.</string>
     <string name="reward_ads_info_2">L\'eliminazione di un\'app o dei dati di un\'app azzera il tempo rimanente.</string>
     <string name="reward_ads_info_3">Non ha alcun effetto se l\'hai già acquistato.</string>
     <string name="reward_ads_time">Tempo rimanente</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Usa sempre</string>
     <string name="only_use_secret">Utilizzato solo in modalità di navigazione in incognito</string>
     <string name="only_night">Utilizzato solo in modalità notturna</string>
+    <string name="night_mode">Modalità notturna</string>
+    <string name="day_mode">Modalità giorno</string>
     <string name="use_scroll_anim">Usa l\'animazione di scorrimento</string>
     <string name="use_tab_anim">Usa l\'animazione del tocco</string>
     <string name="suggest_engine">Motore di suggerimenti</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 linee</string>
     <string name="expand_mode">Modalità estesa</string>
     <string name="layout_title">Disposizione</string>
-    <string name="update_noti">La struttura del layout è cambiata.\nDi conseguenza, le impostazioni pertinenti sono state modificate.</string>
     <string name="tab_indicator">Indicatore di schede</string>
     <string name="tab_indi_info">Visualizza la posizione della scheda e il numero di schede sul pulsante della scheda</string>
     <string name="not_space">Non abbastanza spazio.</string>
+    <string name="bar_remove_info">Per rimuovere la barra in alto, elimina tutte le icone dalla barra in alto.</string>
+    <string name="db_changed_noti">Questo file di backup è stato creato sulla base di un vecchio DB.\nNell\'ultima versione è stato applicato un nuovo DB.\nI vecchi DB non sono più completamente compatibili.\nTi consigliamo di creare un nuovo file di backup.</string>
+    <string name="need_login">Accedere prego.</string>
+    <string name="login_google">Accedi con Google</string>
+    <string name="log_out">Disconnettersi</string>
 </resources>

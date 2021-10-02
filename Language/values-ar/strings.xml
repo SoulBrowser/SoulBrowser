@@ -477,7 +477,7 @@
     <string name="memory_warning_1">تستخدم هذه الميزة المزيد من الذاكرة.</string>
     <string name="memory_warning_2">كن حذرًا عند استخدامه على الأجهزة ذات الذاكرة الصغيرة.</string>
     <string name="android_support">مدعوم من Android %d.</string>
-    <string name="secret_data">فصل بيانات الويب</string>
+    <string name="secret_data">فصل بيانات الويب (فصل تسجيل الدخول)</string>
     <string name="secret_data_info_1">إدارة البيانات بشكل منفصل مثل ملفات تعريف الارتباط وذاكرة التخزين المؤقت.</string>
     <string name="secret_data_info_2">باستخدام هذا الخيار ، سيبدأ التطبيق دائمًا في الوضع العادي.</string>
     <string name="secret_data_info_3">قم بتعطيل هذا الخيار لاستخدام وضع التصفح المتخفي افتراضيًا.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">تختلف الإعلانات داخل التطبيق والإعلانات على موقع الويب.</string>
     <string name="remove_ads_info_4">ميزة إزالة الإعلانات من موقع الويب مجانية.</string>
     <string name="reward_ads">إزالة الإعلانات داخل التطبيق عن طريق مشاهدة الإعلانات</string>
-    <string name="reward_ads_info_1">تتم إزالة الإعلانات داخل التطبيق لمدة 6 ساعات عندما تشاهد الإعلان حتى النهاية.</string>
+    <string name="reward_ads_info_1">عندما تشاهد الإعلان حتى النهاية ، ستتم إزالة الإعلان داخل التطبيق لمدة ساعة واحدة.</string>
     <string name="reward_ads_info_2">يؤدي حذف بيانات التطبيق أو التطبيق إلى إعادة تعيين الوقت المتبقي.</string>
     <string name="reward_ads_info_3">ليس له أي تأثير إذا كنت قد اشتريته بالفعل.</string>
     <string name="reward_ads_time">الوقت المتبقي</string>
@@ -770,6 +770,8 @@
     <string name="always_use">دائما يستخدم</string>
     <string name="only_use_secret">تستخدم فقط في وضع التصفح المتخفي</string>
     <string name="only_night">استخدم فقط في الوضع الليلي</string>
+    <string name="night_mode">الوضع الليلي</string>
+    <string name="day_mode">وضع اليوم</string>
     <string name="use_scroll_anim">استخدم التمرير للرسوم المتحركة</string>
     <string name="use_tab_anim">استخدام الحنفية الرسوم المتحركة</string>
     <string name="suggest_engine">محرك الاقتراح</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 خطوط</string>
     <string name="expand_mode">الوضع الموسع</string>
     <string name="layout_title">نسق</string>
-    <string name="update_noti">لقد تغير هيكل التخطيط.\nنتيجة لذلك ، تم تغيير الإعدادات ذات الصلة.</string>
     <string name="tab_indicator">مؤشر الجدولة</string>
     <string name="tab_indi_info">عرض موضع علامة التبويب وعدد علامات التبويب على زر علامة التبويب</string>
     <string name="not_space">مساحة غير كافية.</string>
+    <string name="bar_remove_info">لإزالة الشريط العلوي ، احذف جميع الرموز من الشريط العلوي.</string>
+    <string name="db_changed_noti">تم إنشاء ملف النسخ الاحتياطي هذا بناءً على قاعدة بيانات قديمة.\nتم تطبيق قاعدة بيانات جديدة في أحدث إصدار.\nلم تعد قواعد البيانات القديمة متوافقة تمامًا.\nنوصي بإنشاء ملف نسخ احتياطي جديد.</string>
+    <string name="need_login">الرجاء تسجيل الدخول.</string>
+    <string name="login_google">الدخول مع جوجل</string>
+    <string name="log_out">تسجيل خروج</string>
 </resources>

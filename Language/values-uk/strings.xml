@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Ця функція використовує більше пам\'яті.</string>
     <string name="memory_warning_2">Будьте обережні при використанні на пристроях з малою пам\'яттю.</string>
     <string name="android_support">Підтримується з Android %d.</string>
-    <string name="secret_data">Розділення веб-даних</string>
+    <string name="secret_data">Розділення веб -даних (розділення входу)</string>
     <string name="secret_data_info_1">Окремо керуйте такими даними, як файли cookie та кеш.</string>
     <string name="secret_data_info_2">За допомогою цієї опції програма завжди запускатиметься у звичайному режимі.</string>
     <string name="secret_data_info_3">Вимкніть цю опцію, щоб використовувати режим анонімного перегляду за замовчуванням.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">Оголошення в додатку та оголошення на веб-сайті відрізняються.</string>
     <string name="remove_ads_info_4">Функція видалення оголошень на веб-сайті безкоштовна.</string>
     <string name="reward_ads">Видаліть оголошення в додатку, переглянувши оголошення</string>
-    <string name="reward_ads_info_1">Оголошення в додатку видаляються на 6 годин, коли ви переглянете оголошення до кінця.</string>
+    <string name="reward_ads_info_1">Коли ви переглянете оголошення до кінця, оголошення в додатку буде видалено на 1 годину.</string>
     <string name="reward_ads_info_2">Видалення програми або даних програми скидає час, що залишився.</string>
     <string name="reward_ads_info_3">Це не діє, якщо ви його вже купили.</string>
     <string name="reward_ads_time">Час, що залишився</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Завжди використовуйте</string>
     <string name="only_use_secret">Використовується лише в режимі анонімного перегляду</string>
     <string name="only_night">Використовується лише в нічному режимі</string>
+    <string name="night_mode">Нічний режим</string>
+    <string name="day_mode">Денний режим</string>
     <string name="use_scroll_anim">Показувати анімацію прокрутки</string>
     <string name="use_tab_anim">Використовуйте анімацію натисканням</string>
     <string name="suggest_engine">Механізм пропозицій</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 рядки</string>
     <string name="expand_mode">Розширений режим</string>
     <string name="layout_title">Макет</string>
-    <string name="update_noti">Структура макета змінилася.\nВ результаті відповідні налаштування були змінені.</string>
     <string name="tab_indicator">Індикатор вкладки</string>
     <string name="tab_indi_info">Відображення положення та кількості вкладок на кнопці вкладки</string>
     <string name="not_space">Не вистачає місця.</string>
+    <string name="bar_remove_info">Щоб видалити верхню панель, видаліть усі значки з верхньої панелі.</string>
+    <string name="db_changed_noti">Цей файл резервної копії створено на основі старої БД.\nВ останній версії застосовано нову БД.\nСтарі БД більше не повністю сумісні.\nМи рекомендуємо створити новий файл резервної копії.</string>
+    <string name="need_login">Увійдіть, будь ласка.</string>
+    <string name="login_google">Увійдіть у Google</string>
+    <string name="log_out">Вийти</string>
 </resources>

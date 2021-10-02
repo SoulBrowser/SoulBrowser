@@ -473,11 +473,11 @@
     <string name="reinput">請再次輸入</string>
     <string name="wrong_input">輸入無效</string>
     <string name="continue_input">繼續</string>
-    <string name="pip_home">使用主頁鍵切換到 PIP</string>
+    <string name="pip_home">使用主頁鍵切換到畫中畫</string>
     <string name="memory_warning_1">此功能使用更多的內存</string>
     <string name="memory_warning_2">在內存較小的設備上使用時要小心</string>
     <string name="android_support">自 Android %d 開始受支持</string>
-    <string name="secret_data">Web 數據分離</string>
+    <string name="secret_data">網頁數據分離（登錄分離）</string>
     <string name="secret_data_info_1">分別管理 Cookie 和緩存之類的數據</string>
     <string name="secret_data_info_2">使用此選項，該應用將始終以正常模式啟動</string>
     <string name="secret_data_info_3">默認情況下，禁用此選項以使用隱身模式</string>
@@ -517,8 +517,8 @@
     <string name="report_site">報告網站</string>
     <string name="report_down">請提供您無法下載影片的網站網址</string>
     <string name="report_dark">請提供深色主題有問題的網站網址</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">在 YouTube 播放期間按Home鍵切換到 PIP 模式</string>
+    <string name="youtube_pip">YouTube 畫中畫</string>
+    <string name="youtube_pip_info">在 YouTube 播放期間按Home鍵切換到畫中畫模式</string>
     <string name="back_play">後台播放</string>
     <string name="back_play_info">根據 YouTube 政策，不支持 YouTube 後台播放</string>
     <string name="normal_rate">正常</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">應用內廣告和網站上的廣告是不同的。</string>
     <string name="remove_ads_info_4">該網站的廣告刪除功能是免費的。</string>
     <string name="reward_ads">通過觀看廣告移除應用內廣告</string>
-    <string name="reward_ads_info_1">當您觀看廣告時，應用內廣告會被移除 6 小時</string>
+    <string name="reward_ads_info_1">當您觀看廣告時，應用內廣告將被移除 1 小時</string>
     <string name="reward_ads_info_2">刪除應用程序或應用程序的數據會重置剩餘時間</string>
     <string name="reward_ads_info_3">如果您已經購買，則沒有任何影響</string>
     <string name="reward_ads_time">剩餘時間</string>
@@ -770,6 +770,8 @@
     <string name="always_use">一律使用</string>
     <string name="only_use_secret">僅在隱身模式下使用</string>
     <string name="only_night">僅在夜間模式下使用</string>
+    <string name="night_mode">夜間模式</string>
+    <string name="day_mode">日間模式</string>
     <string name="use_scroll_anim">使用滾動動畫</string>
     <string name="use_tab_anim">使用點擊動畫</string>
     <string name="suggest_engine">建議引擎</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 行</string>
     <string name="expand_mode">擴展模式</string>
     <string name="layout_title">佈局</string>
-    <string name="update_noti">佈局結構發生了變化\n因此，更改了相關設置</string>
     <string name="tab_indicator">標籤指示器</string>
     <string name="tab_indi_info">在選項卡按鈕上顯示選項卡位置和選項卡數量</string>
     <string name="not_space">沒有足夠的空位</string>
+    <string name="bar_remove_info">要刪除頂部欄，請刪除頂部欄中的所有圖標</string>
+    <string name="db_changed_noti">此備份文件是基於舊數據庫創建的\n在最新版本中應用了一個新的 DB\n舊數據庫不再完全兼容\n我們建議您創建一個新的備份文件</string>
+    <string name="need_login">請登錄</string>
+    <string name="login_google">使用 Google 登錄</string>
+    <string name="log_out">登出</string>
 </resources>

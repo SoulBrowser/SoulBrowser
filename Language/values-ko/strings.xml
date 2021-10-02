@@ -477,7 +477,7 @@
     <string name="memory_warning_1">이 기능은 더 많은 메모리를 사용합니다.</string>
     <string name="memory_warning_2">메모리가 작은 장치에서 사용할 때는 주의하십시오.</string>
     <string name="android_support">Android %d부터 지원됩니다.</string>
-    <string name="secret_data">웹 데이터 분리</string>
+    <string name="secret_data">웹 데이터 분리 (로그인 분리)</string>
     <string name="secret_data_info_1">쿠키, 캐시 등의 데이터를 별도로 관리합니다.</string>
     <string name="secret_data_info_2">이 옵션을 사용하면 앱이 항상 일반 모드로 시작됩니다.</string>
     <string name="secret_data_info_3">시크릿 모드를 기본으로 사용하려면, 이 옵션을 비활성화하세요.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">인앱 광고와 웹 사이트의 광고는 다릅니다.</string>
     <string name="remove_ads_info_4">웹 사이트의 광고 제거 기능은 무료입니다.</string>
     <string name="reward_ads">광고 시청으로 인앱 광고 제거</string>
-    <string name="reward_ads_info_1">광고를 끝까지 시청하면 인앱 광고가 6시간 동안 제거됩니다.</string>
+    <string name="reward_ads_info_1">광고를 끝까지 시청하면, 인앱 광고가 1시간 동안 제거됩니다.</string>
     <string name="reward_ads_info_2">앱 또는 앱의 데이터를 삭제하면 남은 시간이 초기화됩니다.</string>
     <string name="reward_ads_info_3">이미 구매한 경우에는 효과가 없습니다.</string>
     <string name="reward_ads_time">남은 시간</string>
@@ -770,6 +770,8 @@
     <string name="always_use">항상 사용</string>
     <string name="only_use_secret">시크릿 모드에서만 사용</string>
     <string name="only_night">야간 모드에만 사용</string>
+    <string name="night_mode">야간 모드</string>
+    <string name="day_mode">주간 모드</string>
     <string name="use_scroll_anim">스크롤 애니메이션 사용</string>
     <string name="use_tab_anim">탭 애니메이션 사용</string>
     <string name="suggest_engine">제안 엔진</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 라인</string>
     <string name="expand_mode">펼친 모드</string>
     <string name="layout_title">레이아웃</string>
-    <string name="update_noti">레이아웃 구조가 변경되었습니다.\n그로 인해 관련된 설정이 변경되었습니다.</string>
     <string name="tab_indicator">탭 인디케이터</string>
     <string name="tab_indi_info">탭 버튼에 탭 위치와 탭 개수 표시</string>
     <string name="not_space">공간이 부족합니다.</string>
+    <string name="bar_remove_info">상단바를 제거하려면 상단바에서 모든 아이콘을 삭제하세요.</string>
+    <string name="db_changed_noti">이 백업 파일은 오래된 DB를 기반으로 생성되었습니다.\n최근 버전에서 새로운 DB가 적용되었습니다.\n오래된 DB는 더 이상 완전히 호환되지 않습니다.\n새 백업 파일을 생성하는 것이 좋습니다.</string>
+    <string name="need_login">로그인 해주세요.</string>
+    <string name="login_google">Google로 로그인</string>
+    <string name="log_out">로그 아웃</string>
 </resources>

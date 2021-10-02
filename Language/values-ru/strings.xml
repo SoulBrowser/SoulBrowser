@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Эта функция использует больше памяти.</string>
     <string name="memory_warning_2">Будьте осторожны при использовании на устройствах с небольшим объёмом памяти.</string>
     <string name="android_support">Поддерживается с Android %d.</string>
-    <string name="secret_data">Разделение веб-данных</string>
+    <string name="secret_data">Разделение веб-данных (разделение входа в систему)</string>
     <string name="secret_data_info_1">Раздельно управлять файлами cookie и кешем.</string>
     <string name="secret_data_info_2">С этой опцией приложение всегда будет запускаться в обычном режиме.</string>
     <string name="secret_data_info_3">Отключите этот параметр, чтобы по умолчанию использовать режим инкогнито.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">Реклама в приложении и реклама на сайте разные.</string>
     <string name="remove_ads_info_4">Функция удаления рекламы на сайте бесплатна.</string>
     <string name="reward_ads">Удалите рекламу в приложениях, просматривая рекламу</string>
-    <string name="reward_ads_info_1">Реклама в приложении удаляется на 6 часов, когда вы просматриваете рекламу до конца.</string>
+    <string name="reward_ads_info_1">Когда вы просмотрите рекламу до конца, реклама в приложении будет удалена на 1 час.</string>
     <string name="reward_ads_info_2">Удаление приложения или данных приложения сбрасывает оставшееся время.</string>
     <string name="reward_ads_info_3">Он не действует, если вы его уже купили.</string>
     <string name="reward_ads_time">Времени осталось</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Всегда использовать</string>
     <string name="only_use_secret">Исп-ть только в режиме инкогнито</string>
     <string name="only_night">Исп-ть только в ночном режиме</string>
+    <string name="night_mode">Ночной режим</string>
+    <string name="day_mode">Дневной режим</string>
     <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
     <string name="use_tab_anim">Использовать анимацию касания</string>
     <string name="suggest_engine">Движок поисковых предложений</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 строки</string>
     <string name="expand_mode">Расширенный режим</string>
     <string name="layout_title">Макет</string>
-    <string name="update_noti">Изменилась структура макета.\nВ результате были изменены соответствующие настройки.</string>
     <string name="tab_indicator">Индикатор вкладки</string>
     <string name="tab_indi_info">Отображение положения вкладки и количества вкладок на кнопке вкладки</string>
     <string name="not_space">Недостаточно пространства.</string>
+    <string name="bar_remove_info">Чтобы удалить верхнюю панель, удалите все значки с верхней панели.</string>
+    <string name="db_changed_noti">Этот файл резервной копии был создан на основе старой БД.\nВ последней версии применена новая БД.\nСтарые БД больше не полностью совместимы.\nМы рекомендуем вам создать новый файл резервной копии.</string>
+    <string name="need_login">Пожалуйста, войдите.</string>
+    <string name="login_google">Войти через Google</string>
+    <string name="log_out">Выйти</string>
 </resources>

@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Tính năng này sử dụng nhiều bộ nhớ hơn.</string>
     <string name="memory_warning_2">Cẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
     <string name="android_support">Được hỗ trợ kể từ Android %d.</string>
-    <string name="secret_data">Tách dữ liệu web</string>
+    <string name="secret_data">Tách dữ liệu web (Tách đăng nhập)</string>
     <string name="secret_data_info_1">Quản lý riêng biệt dữ liệu như cookie và bộ nhớ cache.</string>
     <string name="secret_data_info_2">Với tùy chọn này, ứng dụng sẽ luôn khởi động ở chế độ bình thường.</string>
     <string name="secret_data_info_3">Tắt tùy chọn này để sử dụng chế độ ẩn danh theo mặc định.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">Quảng cáo trong ứng dụng và quảng cáo trên một trang web là khác nhau.</string>
     <string name="remove_ads_info_4">Tính năng loại bỏ quảng cáo của trang web là miễn phí.</string>
     <string name="reward_ads">Xóa quảng cáo trong ứng dụng bằng cách xem quảng cáo</string>
-    <string name="reward_ads_info_1">Quảng cáo trong ứng dụng bị loại bỏ trong 6 giờ khi bạn xem quảng cáo đến hết.</string>
+    <string name="reward_ads_info_1">Khi bạn xem quảng cáo đến cuối, quảng cáo trong ứng dụng sẽ bị xóa trong 1 giờ.</string>
     <string name="reward_ads_info_2">Xóa ứng dụng hoặc dữ liệu của ứng dụng sẽ đặt lại thời gian còn lại.</string>
     <string name="reward_ads_info_3">Nó không có hiệu lực nếu bạn đã mua nó.</string>
     <string name="reward_ads_time">Thời gian còn lại</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Luôn luôn sử dụng</string>
     <string name="only_use_secret">Chỉ được sử dụng ở chế độ ẩn danh</string>
     <string name="only_night">Chỉ sử dụng ở chế độ ban đêm</string>
+    <string name="night_mode">Chế độ ban đêm</string>
+    <string name="day_mode">Chế độ ngày</string>
     <string name="use_scroll_anim">Sử dụng hoạt ảnh cuộn</string>
     <string name="use_tab_anim">Sử dụng hoạt ảnh nhấn</string>
     <string name="suggest_engine">Công cụ đề xuất</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 dòng</string>
     <string name="expand_mode">Chế độ mở rộng</string>
     <string name="layout_title">Bố trí</string>
-    <string name="update_noti">Cấu trúc bố cục đã thay đổi.\nKết quả là, các cài đặt có liên quan đã được thay đổi.</string>
     <string name="tab_indicator">Chỉ báo tab</string>
     <string name="tab_indi_info">Hiển thị vị trí tab và số lượng tab trên nút tab</string>
     <string name="not_space">Không đủ không gian.</string>
+    <string name="bar_remove_info">Để xóa thanh trên cùng, hãy xóa tất cả các biểu tượng khỏi thanh trên cùng.</string>
+    <string name="db_changed_noti">Tệp sao lưu này được tạo dựa trên một DB cũ.\nMột DB mới đã được áp dụng trong phiên bản mới nhất.\nCác DB cũ không còn tương thích hoàn toàn.\nChúng tôi khuyên bạn nên tạo một tệp sao lưu mới.</string>
+    <string name="need_login">Xin vui lòng đăng nhập.</string>
+    <string name="login_google">Đăng nhập bằng Google</string>
+    <string name="log_out">Đăng xuất</string>
 </resources>

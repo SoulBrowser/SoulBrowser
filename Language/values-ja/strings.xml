@@ -477,7 +477,7 @@
     <string name="memory_warning_1">この機能は、より多くのメモリを使用します。</string>
     <string name="memory_warning_2">メモリが小さなデバイスで使用するときは注意してください。</string>
     <string name="android_support">Android %dからサポートされます。</string>
-    <string name="secret_data">Webデータ分離</string>
+    <string name="secret_data">Webデータ分離（ログイン分離）</string>
     <string name="secret_data_info_1">クッキー、キャッシュなどのデータを別々に管理します。</string>
     <string name="secret_data_info_2">このオプションを使用すると、アプリが常に通常モードで起動されます。</string>
     <string name="secret_data_info_3">基本的にはシークレットモードを使用するには、このオプションを無効にします。</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">アプリ内広告とウェブサイトの広告は異なります。</string>
     <string name="remove_ads_info_4">ウェブサイトの広告を削除機能は無料です。</string>
     <string name="reward_ads">広告視聴にアプリ内広告を削除</string>
-    <string name="reward_ads_info_1">広告を最後まで視聴するアプリ内広告は6時間中に削除されます。</string>
+    <string name="reward_ads_info_1">広告を最後まで視聴したら、アプリ内広告が1時間中に削除されます。</string>
     <string name="reward_ads_info_2">アプリやアプリのデータを削除すると、残り時間が初期化されます。</string>
     <string name="reward_ads_info_3">既に購入した場合には効果がありません。</string>
     <string name="reward_ads_time">残り時間</string>
@@ -770,6 +770,8 @@
     <string name="always_use">常に使用</string>
     <string name="only_use_secret">シークレットモードでのみ使用</string>
     <string name="only_night">夜間モードでのみ使用</string>
+    <string name="night_mode">ナイトモード</string>
+    <string name="day_mode">週間モード</string>
     <string name="use_scroll_anim">スクロールアニメーションを使用</string>
     <string name="use_tab_anim">タブのアニメーションを使用</string>
     <string name="suggest_engine">提案エンジン</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3ライン</string>
     <string name="expand_mode">拡張モード</string>
     <string name="layout_title">レイアウト</string>
-    <string name="update_noti">レイアウト構造が変更されました。\nその結果、関連する設定が変更されました。</string>
     <string name="tab_indicator">タブインジケーター</string>
     <string name="tab_indi_info">タブボタンにタブ位置とタブの数を表示</string>
     <string name="not_space">スペースが不足しています。</string>
+    <string name="bar_remove_info">上部バーを削除するには、上部のバーで、すべてのアイコンを削除してください。</string>
+    <string name="db_changed_noti">このバックアップファイルは、古いDBに基づいて生成されました。\n最近のバージョンでは、新しいDBが適用されました。\n古いDBは、もはや完全に互換性がありません。\n新しいバックアップファイルを作成することをお勧め。</string>
+    <string name="need_login">ログインしてください。</string>
+    <string name="login_google">Googleでサインイン</string>
+    <string name="log_out">ログアウト</string>
 </resources>

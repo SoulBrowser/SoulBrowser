@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Este recurso usa mais memória.</string>
     <string name="memory_warning_2">Tenha cuidado ao usar em dispositivos com pouca memória.</string>
     <string name="android_support">Suportado desde o Android %d.</string>
-    <string name="secret_data">Separação de dados da web</string>
+    <string name="secret_data">Separação de dados da web (separação de login)</string>
     <string name="secret_data_info_1">Gerencie dados separadamente, como cookies e cache.</string>
     <string name="secret_data_info_2">Com esta opção, o aplicativo sempre iniciará no modo normal.</string>
     <string name="secret_data_info_3">Desative esta opção para usar o modo de navegação anônima por padrão.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">Anúncios no aplicativo e anúncios em um site são diferentes.</string>
     <string name="remove_ads_info_4">O recurso de remoção de anúncios do site é gratuito.</string>
     <string name="reward_ads">Remova anúncios no aplicativo assistindo a anúncios</string>
-    <string name="reward_ads_info_1">Os anúncios no aplicativo são removidos por 6 horas quando você assiste o anúncio até o fim.</string>
+    <string name="reward_ads_info_1">Quando você assistir o anúncio até o fim, o anúncio no aplicativo será removido por 1 hora.</string>
     <string name="reward_ads_info_2">Excluir um aplicativo ou os dados de um aplicativo redefine o tempo restante.</string>
     <string name="reward_ads_info_3">Não tem efeito se você já o comprou.</string>
     <string name="reward_ads_time">Tempo restante</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Sempre use</string>
     <string name="only_use_secret">Usado apenas no modo de navegação anônima</string>
     <string name="only_night">Usado apenas no modo noturno</string>
+    <string name="night_mode">Modo noturno</string>
+    <string name="day_mode">Modo diurno</string>
     <string name="use_scroll_anim">Use a animação de rolagem</string>
     <string name="use_tab_anim">Use a animação de toque</string>
     <string name="suggest_engine">Motor de sugestão</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 linhas</string>
     <string name="expand_mode">Modo expandido</string>
     <string name="layout_title">Layout</string>
-    <string name="update_noti">A estrutura do layout mudou.\nComo resultado, as configurações relevantes foram alteradas.</string>
     <string name="tab_indicator">Indicador de guia</string>
     <string name="tab_indi_info">Exibir a posição da guia e o número de guias no botão da guia</string>
     <string name="not_space">Espaço insuficiente.</string>
+    <string name="bar_remove_info">Para remover a barra superior, exclua todos os ícones da barra superior.</string>
+    <string name="db_changed_noti">Este arquivo de backup foi criado com base em um banco de dados antigo.\nUm novo banco de dados foi aplicado na versão mais recente.\nBDs antigos não são mais totalmente compatíveis.\nRecomendamos que você crie um novo arquivo de backup.</string>
+    <string name="need_login">Por favor entre.</string>
+    <string name="login_google">Faça login no Google</string>
+    <string name="log_out">Sair</string>
 </resources>

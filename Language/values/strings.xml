@@ -477,7 +477,7 @@
     <string name="memory_warning_1">This feature uses more memory.</string>
     <string name="memory_warning_2">Be careful when using on devices with small memory.</string>
     <string name="android_support">Supported since Android %d.</string>
-    <string name="secret_data">Web data separation</string>
+    <string name="secret_data">Web Data Separation (Login Separation)</string>
     <string name="secret_data_info_1">Separately manage data such as cookies and cache.</string>
     <string name="secret_data_info_2">With this option, the app will always start in normal mode.</string>
     <string name="secret_data_info_3">Disable this option to use incognito mode by default.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">In-app ads and ads on websites are different.</string>
     <string name="remove_ads_info_4">The website\'s ads removal feature is free.</string>
     <string name="reward_ads">Remove in-app ads by watching ads</string>
-    <string name="reward_ads_info_1">In-app ads are removed for 6 hours when you watch the ad to the end.</string>
+    <string name="reward_ads_info_1">When you watch the ad to the end, the in-app ad will be removed for 1 hour.</string>
     <string name="reward_ads_info_2">Deleting an app or app\'s data resets the remaining time.</string>
     <string name="reward_ads_info_3">It has no effect if you have already purchased it.</string>
     <string name="reward_ads_time">Time remaining</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Always use</string>
     <string name="only_use_secret">Only used in incognito mode</string>
     <string name="only_night">Only used in night mode</string>
+    <string name="night_mode">Night mode</string>
+    <string name="day_mode">Day mode</string>
     <string name="use_scroll_anim">Use scroll animation</string>
     <string name="use_tab_anim">Use tap animation</string>
     <string name="suggest_engine">Suggestion engine</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 lines</string>
     <string name="expand_mode">Expanded mode</string>
     <string name="layout_title">Layout</string>
-    <string name="update_noti">The layout structure has changed.\nAs a result, the relevant settings were changed.</string>
     <string name="tab_indicator">Tab indicator</string>
     <string name="tab_indi_info">Show tab position and number of tabs on tab button</string>
     <string name="not_space">Not enough space.</string>
+    <string name="bar_remove_info">To remove the top bar, delete all icons from the top bar.</string>
+    <string name="db_changed_noti">This backup file was created based on an old DB.\nA new DB has been applied in the latest version.\nOld DBs are no longer fully compatible.\nWe recommend that you create a new backup file.</string>
+    <string name="need_login">Please sign in.</string>
+    <string name="login_google">Sign in with Google</string>
+    <string name="log_out">Sign out</string>
 </resources>

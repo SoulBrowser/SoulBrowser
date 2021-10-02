@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Diese Funktion benötigt mehr Speicher.</string>
     <string name="memory_warning_2">Seien sie vorsichtig, wenn sie Geräte mit kleinem Speicher verwenden.</string>
     <string name="android_support">Unterstützt seit Android %d.</string>
-    <string name="secret_data">Trennung von Webdaten</string>
+    <string name="secret_data">Web-Datentrennung (Login-Trennung)</string>
     <string name="secret_data_info_1">Verwalten Sie Daten wie Cookies und Cache separat.</string>
     <string name="secret_data_info_2">Mit dieser Option startet die App immer im normalen Modus.</string>
     <string name="secret_data_info_3">Deaktivieren Sie diese Option, um standardmäßig den Inkognito-Modus zu verwenden.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">In-App-Anzeigen und Anzeigen auf einer Website sind unterschiedlich.</string>
     <string name="remove_ads_info_4">Die Funktion zum Entfernen von Anzeigen auf der Website ist kostenlos.</string>
     <string name="reward_ads">Entfernen Sie In-App-Anzeigen, indem Sie sich Anzeigen ansehen</string>
-    <string name="reward_ads_info_1">In-App-Anzeigen werden 6 Stunden lang entfernt, wenn Sie die Anzeige bis zum Ende ansehen.</string>
+    <string name="reward_ads_info_1">Wenn Sie die Anzeige bis zum Ende ansehen, wird die In-App-Anzeige 1 Stunde lang entfernt.</string>
     <string name="reward_ads_info_2">Durch das Löschen einer App oder der Daten einer App wird die verbleibende Zeit zurückgesetzt.</string>
     <string name="reward_ads_info_3">Es hat keine Auswirkung, wenn Sie es bereits gekauft haben.</string>
     <string name="reward_ads_time">Verbleibende Zeit</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Immer verwenden</string>
     <string name="only_use_secret">Wird nur im Inkognito-Modus verwendet</string>
     <string name="only_night">Wird nur im Nachtmodus verwendet</string>
+    <string name="night_mode">Nacht-Modus</string>
+    <string name="day_mode">Tages-Modus</string>
     <string name="use_scroll_anim">Bildlaufanimation verwenden</string>
     <string name="use_tab_anim">Tipp-Animation verwenden</string>
     <string name="suggest_engine">Vorschlagsmanagement</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 Zeilen</string>
     <string name="expand_mode">Erweiterter Modus</string>
     <string name="layout_title">Layout</string>
-    <string name="update_noti">Die Layoutstruktur hat sich geändert.\nAls Ergebnis wurden die entsprechenden Einstellungen geändert.</string>
     <string name="tab_indicator">Tab-Anzeige</string>
     <string name="tab_indi_info">Registerkartenposition und Anzahl der Registerkarten auf der Registerkartenschaltfläche anzeigen</string>
     <string name="not_space">Nicht genug Platz.</string>
+    <string name="bar_remove_info">Um die obere Leiste zu entfernen, löschen Sie alle Symbole aus der oberen Leiste.</string>
+    <string name="db_changed_noti">Diese Sicherungsdatei wurde basierend auf einer alten DB erstellt.\nIn der neuesten Version wurde eine neue DB angelegt.\nAlte DBs sind nicht mehr voll kompatibel.\nWir empfehlen Ihnen, eine neue Sicherungsdatei zu erstellen.</string>
+    <string name="need_login">Bitte loggen Sie sich ein.</string>
+    <string name="login_google">Anmeldung mit Google</string>
+    <string name="log_out">Ausloggen</string>
 </resources>

@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Esta función usa más memoria.</string>
     <string name="memory_warning_2">Tenga cuidado cuando lo use en dispositivos con poca memoria.</string>
     <string name="android_support">Compatible desde Android %d.</string>
-    <string name="secret_data">Separación de datos web</string>
+    <string name="secret_data">Separación de datos web (separación de inicio de sesión)</string>
     <string name="secret_data_info_1">Administre por separado datos como cookies y caché.</string>
     <string name="secret_data_info_2">Con esta opción, la aplicación siempre se iniciará en modo normal.</string>
     <string name="secret_data_info_3">Desactive esta opción para utilizar el modo incógnito de forma predeterminada.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">Los anuncios en la aplicación y los anuncios en un sitio web son diferentes.</string>
     <string name="remove_ads_info_4">La función de eliminación de anuncios del sitio web es gratuita.</string>
     <string name="reward_ads">Elimina los anuncios en la aplicación viendo anuncios</string>
-    <string name="reward_ads_info_1">Los anuncios en la aplicación se eliminan durante 6 horas cuando mira el anuncio hasta el final.</string>
+    <string name="reward_ads_info_1">Cuando vea el anuncio hasta el final, el anuncio en la aplicación se eliminará durante 1 hora.</string>
     <string name="reward_ads_info_2">Eliminar una aplicación o los datos de una aplicación restablece el tiempo restante.</string>
     <string name="reward_ads_info_3">No tiene ningún efecto si ya lo ha comprado.</string>
     <string name="reward_ads_time">Tiempo restante</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Siempre usa</string>
     <string name="only_use_secret">Solo se usa en modo incógnito</string>
     <string name="only_night">Solo se usa en modo nocturno</string>
+    <string name="night_mode">Modo nocturno</string>
+    <string name="day_mode">Modo día</string>
     <string name="use_scroll_anim">Usar animación de desplazamiento</string>
     <string name="use_tab_anim">Usar animación de toque</string>
     <string name="suggest_engine">Motor de sugerencias</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 líneas</string>
     <string name="expand_mode">Modo expandido</string>
     <string name="layout_title">Diseño</string>
-    <string name="update_noti">La estructura del diseño ha cambiado.\nComo resultado, se cambiaron las configuraciones relevantes.</string>
     <string name="tab_indicator">Indicador de pestaña</string>
     <string name="tab_indi_info">Mostrar la posición de la pestaña y el número de pestañas en el botón de pestaña</string>
     <string name="not_space">Sin espacio suficiente.</string>
+    <string name="bar_remove_info">Para eliminar la barra superior, elimine todos los iconos de la barra superior.</string>
+    <string name="db_changed_noti">Este archivo de respaldo se creó en base a una base de datos antigua.\nSe ha aplicado una nueva base de datos en la última versión.\nLas bases de datos antiguas ya no son totalmente compatibles.\nLe recomendamos que cree un nuevo archivo de copia de seguridad.</string>
+    <string name="need_login">Por favor Iniciar sesión.</string>
+    <string name="login_google">Inicia sesión con Google</string>
+    <string name="log_out">Cerrar sesión</string>
 </resources>

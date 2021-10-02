@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Cette fonction utilise plus de mémoire.</string>
     <string name="memory_warning_2">Soyez prudent lorsque vous utilisez sur des appareils avec une petite mémoire.</string>
     <string name="android_support">Pris en charge depuis Android %d.</string>
-    <string name="secret_data">Séparation des données Web</string>
+    <string name="secret_data">Séparation des données Web (séparation de connexion)</string>
     <string name="secret_data_info_1">Gérez séparément les données telles que les cookies et le cache.</string>
     <string name="secret_data_info_2">Avec cette option, l\'application démarrera toujours en mode normal.</string>
     <string name="secret_data_info_3">Désactivez cette option pour utiliser le mode navigation privée par défaut.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">Les publicités intégrées aux applications et les publicités sur un site Web sont différentes.</string>
     <string name="remove_ads_info_4">La fonction de suppression des publicités du site Web est gratuite.</string>
     <string name="reward_ads">Supprimer les publicités intégrées à l\'application en regardant les publicités</string>
-    <string name="reward_ads_info_1">Les publicités intégrées à l\'application sont supprimées pendant 6 heures lorsque vous regardez la publicité jusqu\'à la fin.</string>
+    <string name="reward_ads_info_1">Lorsque vous regardez l\'annonce jusqu\'à la fin, l\'annonce intégrée à l\'application est supprimée pendant 1 heure.</string>
     <string name="reward_ads_info_2">La suppression d\'une application ou des données d\'une application réinitialise le temps restant.</string>
     <string name="reward_ads_info_3">Il n\'a aucun effet si vous l\'avez déjà acheté.</string>
     <string name="reward_ads_time">Temps restant</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Toujours utiliser</string>
     <string name="only_use_secret">Utilisé uniquement en mode navigation privée</string>
     <string name="only_night">Utilisé uniquement en mode nuit</string>
+    <string name="night_mode">Mode nuit</string>
+    <string name="day_mode">Mode jour</string>
     <string name="use_scroll_anim">Utiliser l\'animation de défilement</string>
     <string name="use_tab_anim">Utiliser l\'animation tactile</string>
     <string name="suggest_engine">Moteur de suggestion</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 lignes</string>
     <string name="expand_mode">Mode étendu</string>
     <string name="layout_title">Disposition</string>
-    <string name="update_noti">La structure de mise en page a changé.\nEn conséquence, les paramètres pertinents ont été modifiés.</string>
     <string name="tab_indicator">Indicateur d\'onglet</string>
     <string name="tab_indi_info">Afficher la position de l\'onglet et le nombre d\'onglets sur le bouton d\'onglet</string>
     <string name="not_space">Pas assez d\'espace.</string>
+    <string name="bar_remove_info">Pour supprimer la barre supérieure, supprimez toutes les icônes de la barre supérieure.</string>
+    <string name="db_changed_noti">Ce fichier de sauvegarde a été créé sur la base d\'une ancienne base de données.\nUne nouvelle base de données a été appliquée dans la dernière version.\nLes anciennes bases de données ne sont plus entièrement compatibles.\nNous vous recommandons de créer un nouveau fichier de sauvegarde.</string>
+    <string name="need_login">Veuillez vous connecter.</string>
+    <string name="login_google">Connectez-vous avec Google</string>
+    <string name="log_out">Se déconnecter</string>
 </resources>

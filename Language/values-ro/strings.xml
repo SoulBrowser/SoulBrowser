@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Această caracteristică folosește mai multă memorie.</string>
     <string name="memory_warning_2">Aveți grijă când utilizați pe dispozitive cu memorie mică.</string>
     <string name="android_support">Suportat de la Android %d.</string>
-    <string name="secret_data">Separarea datelor web</string>
+    <string name="secret_data">Separarea datelor web (Separarea autentificării)</string>
     <string name="secret_data_info_1">Gestionează separat date precum cookie-uri și cache.</string>
     <string name="secret_data_info_2">Cu această opțiune, aplicația va porni întotdeauna în modul normal.</string>
     <string name="secret_data_info_3">Dezactivați această opțiune pentru a utiliza în mod implicit modul incognito.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">Anunțurile în aplicație și anunțurile de pe un site web sunt diferite.</string>
     <string name="remove_ads_info_4">Funcția de eliminare a anunțurilor site-ului este gratuită.</string>
     <string name="reward_ads">Eliminați anunțurile în aplicație urmărind anunțurile</string>
-    <string name="reward_ads_info_1">Anunțurile în aplicație sunt eliminate timp de 6 ore când urmăriți anunțul până la final.</string>
+    <string name="reward_ads_info_1">Când urmăriți anunțul până la final, anunțul din aplicație va fi eliminat timp de 1 oră.</string>
     <string name="reward_ads_info_2">Ștergerea unei aplicații sau a datelor aplicației resetează timpul rămas.</string>
     <string name="reward_ads_info_3">Nu are niciun efect dacă l-ați cumpărat deja.</string>
     <string name="reward_ads_time">Timp ramas</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Folosiți întotdeauna</string>
     <string name="only_use_secret">Folosit numai în modul incognito</string>
     <string name="only_night">Folosit numai în modul de noapte</string>
+    <string name="night_mode">Mod de noapte</string>
+    <string name="day_mode">Mod zi</string>
     <string name="use_scroll_anim">Utilizați animația de defilare</string>
     <string name="use_tab_anim">Utilizați animația prin atingere</string>
     <string name="suggest_engine">Motor de sugestii</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 rânduri</string>
     <string name="expand_mode">Mod extins</string>
     <string name="layout_title">Aspect</string>
-    <string name="update_noti">Structura aspectului s-a schimbat.\nCa urmare, setările relevante au fost modificate.</string>
     <string name="tab_indicator">Indicator filă</string>
     <string name="tab_indi_info">Afișați poziția filei și numărul de file pe butonul de filă</string>
     <string name="not_space">Spatiu insuficient.</string>
+    <string name="bar_remove_info">Pentru a elimina bara de sus, ștergeți toate pictogramele din bara de sus.</string>
+    <string name="db_changed_noti">Acest fișier de rezervă a fost creat pe baza unui vechi DB.\nUn nou DB a fost aplicat în cea mai recentă versiune.\nDB-urile vechi nu mai sunt pe deplin compatibile.\nVă recomandăm să creați un nou fișier de rezervă.</string>
+    <string name="need_login">Va rugam sa va logati.</string>
+    <string name="login_google">Conectați-vă cu Google</string>
+    <string name="log_out">Deconectează-te</string>
 </resources>

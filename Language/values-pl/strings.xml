@@ -477,7 +477,7 @@
     <string name="memory_warning_1">Ta funkcja zużywa więcej pamięci.</string>
     <string name="memory_warning_2">Zachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
     <string name="android_support">Obsługiwane od Android %d.</string>
-    <string name="secret_data">Separacja danych w sieci</string>
+    <string name="secret_data">Separacja danych internetowych (separacja logowania)</string>
     <string name="secret_data_info_1">Oddzielnie zarządzaj danymi, takimi jak pliki cookie i pamięć podręczna.</string>
     <string name="secret_data_info_2">Dzięki tej opcji aplikacja będzie zawsze uruchamiać się w trybie normalnym.</string>
     <string name="secret_data_info_3">Wyłącz tę opcję, aby domyślnie używać trybu incognito.</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">Reklamy w aplikacji i reklamy w witrynie są różne.</string>
     <string name="remove_ads_info_4">Funkcja usuwania reklam w witrynie jest bezpłatna.</string>
     <string name="reward_ads">Usuń reklamy w aplikacji, oglądając reklamy</string>
-    <string name="reward_ads_info_1">Reklamy w aplikacji są usuwane na 6 godzin, gdy oglądasz reklamę do końca.</string>
+    <string name="reward_ads_info_1">Gdy obejrzysz reklamę do końca, reklama w aplikacji zostanie usunięta na 1 godzinę.</string>
     <string name="reward_ads_info_2">Usunięcie aplikacji lub danych aplikacji resetuje pozostały czas.</string>
     <string name="reward_ads_info_3">Nie ma żadnego efektu, jeśli już go kupiłeś.</string>
     <string name="reward_ads_time">Pozostały czas</string>
@@ -770,6 +770,8 @@
     <string name="always_use">Zawsze używaj</string>
     <string name="only_use_secret">Używane tylko w trybie incognito</string>
     <string name="only_night">Używany tylko w trybie nocnym</string>
+    <string name="night_mode">Tryb nocny</string>
+    <string name="day_mode">Tryb dzienny</string>
     <string name="use_scroll_anim">Użyj animacji przewijania</string>
     <string name="use_tab_anim">Użyj animacji dotknięcia</string>
     <string name="suggest_engine">Silnik sugestii</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 linie</string>
     <string name="expand_mode">Tryb rozszerzony</string>
     <string name="layout_title">Układ</string>
-    <string name="update_noti">Zmieniła się struktura układu.\nW rezultacie odpowiednie ustawienia zostały zmienione.</string>
     <string name="tab_indicator">Wskaźnik zakładki</string>
     <string name="tab_indi_info">Wyświetl pozycję zakładki i liczbę zakładek na przycisku zakładki</string>
     <string name="not_space">Niewystarczająco miejsca.</string>
+    <string name="bar_remove_info">Aby usunąć górny pasek, usuń wszystkie ikony z górnego paska.</string>
+    <string name="db_changed_noti">Ten plik kopii zapasowej został utworzony na podstawie starej bazy danych.\nW najnowszej wersji zastosowano nową bazę danych.\nStare bazy danych nie są już w pełni kompatybilne.\nZalecamy utworzenie nowego pliku kopii zapasowej.</string>
+    <string name="need_login">Proszę się zalogować.</string>
+    <string name="login_google">Zaloguj się przez Google</string>
+    <string name="log_out">Wyloguj</string>
 </resources>

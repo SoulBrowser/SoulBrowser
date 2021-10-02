@@ -473,11 +473,11 @@
     <string name="reinput">请再次输入</string>
     <string name="wrong_input">输入无效</string>
     <string name="continue_input">继续</string>
-    <string name="pip_home">使用主页键切换到 PIP</string>
+    <string name="pip_home">使用主页键切换到画中画</string>
     <string name="memory_warning_1">此功能使用更多的内存</string>
     <string name="memory_warning_2">内存小的同学谨慎使用</string>
     <string name="android_support">自 Android %d 开始受支持</string>
-    <string name="secret_data">Web 数据分离</string>
+    <string name="secret_data">网页数据分离（登录分离）</string>
     <string name="secret_data_info_1">分别管理 Cookie 和缓存之类的数据</string>
     <string name="secret_data_info_2">使用此选项，该应用将始终以正常模式启动</string>
     <string name="secret_data_info_3">默认情况下，禁用此选项以使用隐身模式</string>
@@ -517,8 +517,8 @@
     <string name="report_site">反馈网站</string>
     <string name="report_down">请提供无法下载视频的网站地址</string>
     <string name="report_dark">请提供深色主题有问题的网站地址</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">在 YouTube 播放期间按下主页键切换到 PIP 模式</string>
+    <string name="youtube_pip">YouTube 画中画</string>
+    <string name="youtube_pip_info">在 YouTube 播放期间按下主页键切换到画中画模式</string>
     <string name="back_play">后台播放</string>
     <string name="back_play_info">根据 YouTube 政策，不支持 YouTube 后台播放。</string>
     <string name="normal_rate">正常</string>
@@ -722,7 +722,7 @@
     <string name="remove_ads_info_3">应用内广告和网站上的广告是不同的。</string>
     <string name="remove_ads_info_4">该网站的广告删除功能是免费的。</string>
     <string name="reward_ads">通过观看广告移除应用内广告</string>
-    <string name="reward_ads_info_1">当您观看广告时，应用内广告会被移除 6 小时</string>
+    <string name="reward_ads_info_1">当您观看广告时，应用内广告将被移除 1 小时</string>
     <string name="reward_ads_info_2">删除应用程序或应用程序的数据会重置剩余时间</string>
     <string name="reward_ads_info_3">如果您已经购买，则没有任何影响</string>
     <string name="reward_ads_time">剩余时间</string>
@@ -770,6 +770,8 @@
     <string name="always_use">总是使用</string>
     <string name="only_use_secret">仅在隐身模式下使用</string>
     <string name="only_night">仅在夜间模式下使用</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="day_mode">日间模式</string>
     <string name="use_scroll_anim">滚动动画</string>
     <string name="use_tab_anim">使用点击动画</string>
     <string name="suggest_engine">建议引擎</string>
@@ -867,8 +869,12 @@
     <string name="three_lines">3 行</string>
     <string name="expand_mode">扩展模式</string>
     <string name="layout_title">布局</string>
-    <string name="update_noti">布局结构发生了变化\n因此，更改了相关设置</string>
     <string name="tab_indicator">标签指示器</string>
     <string name="tab_indi_info">在选项卡按钮上显示选项卡位置和选项卡数量</string>
     <string name="not_space">没有足够的空位</string>
+    <string name="bar_remove_info">要删除顶部栏，请删除顶部栏中的所有图标</string>
+    <string name="db_changed_noti">此备份文件是基于旧数据库创建的\n在最新版本中应用了一个新的 DB\n旧数据库不再完全兼容\n我们建议您创建一个新的备份文件</string>
+    <string name="need_login">请登录</string>
+    <string name="login_google">使用 Google 登录</string>
+    <string name="log_out">登出</string>
 </resources>
