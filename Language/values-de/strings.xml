@@ -293,7 +293,7 @@
     <string name="right_title">Urheberrecht</string>
     <string name="guide_right_1">Beachten Sie immer das Urheberrecht.</string>
     <string name="guide_right_2">Die Verwendung von urheberrechtlich geschützten Werken ohne Zustimmung des Urhebers ist eine Urheberrechtsverletzung. Sie sind für alle Urheberrechtsverletzungen verantwortlich.</string>
-    <string name="guide_right_3">Wenn Sie Fragen zum urheberrecht haben, wenden Sie sich bitte an die Website.</string>
+    <string name="guide_right_3">Wenn Sie Fragen zum Urheberrecht haben, wenden Sie sich bitte an die Website.</string>
     <string name="set_wallpaper">Als Hintergrundbild festlegen</string>
     <string name="crop_save">Zuschneiden</string>
     <string name="pdf_crop_guide">Ränder aus PDF-Dateien entfernen.</string>
@@ -345,10 +345,10 @@
     <string name="free_scale">Zwei-Finger-Zoom</string>
     <string name="mobile_mode">Mobil</string>
     <string name="desk_mode">Mobil / Desktop</string>
-    <string name="desk_one">Desktop (Aktuelle Tab)</string>
+    <string name="desk_one">Desktop (Aktueller Tab)</string>
     <string name="desk_all">Desktop (Alle Tabs)</string>
     <string name="show_image">Bild anzeigen</string>
-    <string name="block_images">Bild blockieren</string>
+    <string name="block_images">Bilder blockieren</string>
     <string name="block_a_image">Bild blockieren</string>
     <string name="blocked_image">Blockierte Bilder</string>
     <string name="block_confirm">Möchten Sie das Bild blockieren?</string>
@@ -761,7 +761,7 @@
     <string name="filter_user_3">Es gibt verschiedene Arten von EasyList-Filtern. (Nach Land, nach Funktion)</string>
     <string name="filter_user_4">Sie können den für Sie geeigneten Filter auswählen und verwenden.</string>
     <string name="filter_user_5">Wenn ein Problem mit dem Filter vorliegt, wird die Seite möglicherweise nicht normal angezeigt.</string>
-    <string name="size_fit">Bildschirm passen</string>
+    <string name="size_fit">An Bildschirm anpassen</string>
     <string name="size_real">Tatsächliche Größe</string>
     <string name="block_ssl">Blockierung von SSL-Fehlern</string>
     <string name="block_ssl_info">Wenn ein SSL-Fehler auftritt, wechselt die Seite automatisch zu einer sicheren Seite.</string>
@@ -811,7 +811,7 @@
     <string name="finger_unsupported">Der Benutzer kann sich nicht authentifizieren, da die angegebenen Optionen nicht mit der aktuellen Android-Version kompatibel sind.</string>
     <string name="finger_unknown">Es kann nicht festgestellt werden, ob sich der Benutzer authentifizieren kann.</string>
     <string name="use_gesture">Verwenden Sie Gesten</string>
-    <string name="enable_gesture">Gesten weiter</string>
+    <string name="enable_gesture">Gesten an</string>
     <string name="disable_gesture">Gesten aus</string>
     <string name="gesture_enabled">Gesten sind aktiviert.</string>
     <string name="gesture_disabled">Gesten sind deaktiviert.</string>
