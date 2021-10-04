@@ -264,7 +264,7 @@
     <string name="tap_turn">Нажмите, чтобы перевернуть страницы</string>
     <string name="volume_turn">Переключение клавишами регулировки громкости</string>
     <string name="ok">OK</string>
-    <string name="success">Успех</string>
+    <string name="success">Успешно</string>
     <string name="fail">Не удалось</string>
     <string name="play">Играть</string>
     <string name="play_error">Ошибка воспроизведения</string>
