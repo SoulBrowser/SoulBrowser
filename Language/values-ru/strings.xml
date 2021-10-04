@@ -391,8 +391,8 @@
     <string name="show_status">Показывать строку состояния</string>
     <string name="show_navi">Показывать панель навигации</string>
     <string name="address_title">Показать заголовок в адресной строке</string>
-    <string name="address_icon">Кнопки редактирования адресной строки</string>
-    <string name="addr_icon_info">2. Вы можете удалить его, щелкнув значок.</string>
+    <string name="address_icon">Кнопки при редактировании адресной строки</string>
+    <string name="addr_icon_info">2. Вы можете удалить его, нажав на значок.</string>
     <string name="address_bar">Адресная строка</string>
     <string name="address_menu">Меню адресной строки</string>
     <string name="show_tab_bar">Показать панель вкладок</string>
@@ -412,7 +412,7 @@
     <string name="two_finger_info_1">Проведите двумя пальцами влево и вправо для переключения вкладок.</string>
     <string name="two_finger_info_2">Проведите двумя пальцами вниз, чтобы закрыть вкладку.</string>
     <string name="show_scroll">Показать ползунок прокрутки</string>
-    <string name="show_up">Вернуться к верхней кнопке</string>
+    <string name="show_up">Кнопка прокрутки наверх</string>
     <string name="qrcode_title">QR-код</string>
     <string name="voice_title">Голосовой поиск</string>
     <string name="album_shortcut">Создать ярлык альбома</string>
@@ -438,7 +438,7 @@
     <string name="video_down_guide_1">При обнаружении видео на экране появляется кнопка загрузки.</string>
     <string name="video_down_guide_2">Кнопки не отображаются для видео, которые нельзя загрузить.</string>
     <string name="video_down_guide_3">Некоторые сайты должны воспроизводить видео до его обнаружения.\nУ разных сайтов разное поведение.</string>
-    <string name="video_down_guide_4">Из-за политики YouTube видео YouTube не могут быть загружены.</string>
+    <string name="video_down_guide_4">Из-за политики YouTube видео не могут быть загружены.</string>
     <string name="video_full_guide_1">Загружаемые видео можно воспроизводить в полноэкранном режиме.</string>
     <string name="video_full_guide_2">Неподдерживаемые форматы не имеют кнопок.</string>
     <string name="down_limit">Одновременная загрузка</string>
@@ -520,7 +520,7 @@
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Нажмите клавишу Домой во время воспроизведения YouTube, для переключения в режим PIP.</string>
     <string name="back_play">Фоновое воспроизведение</string>
-    <string name="back_play_info">Из-за политики YouTube фоновое воспроизведение YouTube не поддерживается.</string>
+    <string name="back_play_info">Из-за политики YouTube фоновое воспроизведение видео не поддерживается.</string>
     <string name="normal_rate">Обычный</string>
     <string name="file_list">Список файлов</string>
     <string name="not_show">Не показывать</string>
@@ -638,7 +638,7 @@
     <string name="reader_empty">На этой странице нет содержимого.</string>
     <string name="site_warning">Предупреждение безопасности</string>
     <string name="site_exit">Перейти на безопасную страницу</string>
-    <string name="site_continue">Продолжить (Небезопасно)</string>
+    <string name="site_continue">Продолжить (небезопасно)</string>
     <string name="site_theme">Тема сайта</string>
     <string name="site_theme_info">Если посещаемый вами сайт поддерживает темы, они применятся в браузере.</string>
     <string name="prev_tab">Предыдущая вкладка</string>
@@ -671,7 +671,7 @@
     <string name="move_bot">В конец</string>
     <string name="scroll_up">Прокрутить вверх</string>
     <string name="scroll_down">Прокрутить вниз</string>
-    <string name="open_with">Открыть в</string>
+    <string name="open_with">Открыть через</string>
     <string name="double_tap">Двойное нажатие</string>
     <string name="double_tap_guide_1">Можно установить ландшафтный режим и портретный режим по-разному.</string>
     <string name="double_tap_guide_2">Чтобы установить альбомный режим поверните устройство по горизонтали.</string>
@@ -819,8 +819,8 @@
     <string name="gesture_block_info_1">Можно зарегистрировать сайты, не использующие жесты.</string>
     <string name="gesture_block_info_2">Применяется только к жестам в центре экрана.</string>
     <string name="gesture_block_info_3">Не влияет на жесты по краям экрана.</string>
-    <string name="enable_adblock">Блокировщик рекламы включен</string>
-    <string name="disable_adblock">Блокировщик рекламы отключен</string>
+    <string name="enable_adblock">Блок. рекламы включен</string>
+    <string name="disable_adblock">Блок. рекламы отключен</string>
     <string name="adblock_enabled">Блокировка рекламы включена.</string>
     <string name="adblock_disabled">Блокировка рекламы отключена.</string>
     <string name="down_service">Загрузчик Soul</string>
