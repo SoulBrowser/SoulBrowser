@@ -4,9 +4,9 @@
     <string name="app_name">Soul</string>
     <string name="notice">By pressing the Start button, you agree to the Soul Browser\n%1$s and %2$s.</string>
     <string name="notice_tos">Terms of Service</string>
-    <string name="notice_privacy">Privacy Notice</string>
+    <string name="notice_privacy">Privacy Policy</string>
     <string name="tos">Terms of Service</string>
-    <string name="privacy">Privacy Notice</string>
+    <string name="privacy">Privacy Policy</string>
     <string name="start">Start</string>
     <string name="info">Information</string>
     <string name="app_ver">App version</string>
@@ -450,6 +450,7 @@
     <string name="add_page">Add current page</string>
     <string name="history_time">Retention period</string>
     <string name="history_zero">Do not save</string>
+    <string name="history_1day">1 day</string>
     <string name="history_1week">1 week</string>
     <string name="history_1mon">1 month</string>
     <string name="history_6mon">6 months</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">You can register frequently used sentences.</string>
     <string name="page_source">Page source</string>
     <string name="delete_tab">Close tab</string>
-    <string name="delete_one_tab">Close current tab</string>
     <string name="delete_all_tab">Close all tabs</string>
     <string name="delete_other_tab">Close other tabs</string>
     <string name="mini_mode">Mini mode</string>
@@ -877,4 +877,6 @@
     <string name="need_login">Please sign in.</string>
     <string name="login_google">Sign in with Google</string>
     <string name="log_out">Sign out</string>
+    <string name="auto_update">Auto update</string>
+    <string name="update_time">Update cycle</string>
 </resources>

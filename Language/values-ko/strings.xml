@@ -450,6 +450,7 @@
     <string name="add_page">현재 페이지 추가</string>
     <string name="history_time">저장 기간</string>
     <string name="history_zero">저장 안함</string>
+    <string name="history_1day">1일</string>
     <string name="history_1week">1주일</string>
     <string name="history_1mon">1개월</string>
     <string name="history_6mon">6개월</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">자주 사용하는 문장을 등록할 수 있습니다.</string>
     <string name="page_source">페이지 소스</string>
     <string name="delete_tab">탭 닫기</string>
-    <string name="delete_one_tab">현재 탭 닫기</string>
     <string name="delete_all_tab">모든 탭 닫기</string>
     <string name="delete_other_tab">다른 탭 닫기</string>
     <string name="mini_mode">미니 모드</string>
@@ -877,4 +877,6 @@
     <string name="need_login">로그인 해주세요.</string>
     <string name="login_google">Google로 로그인</string>
     <string name="log_out">로그 아웃</string>
+    <string name="auto_update">자동 업데이트</string>
+    <string name="update_time">업데이트 주기</string>
 </resources>

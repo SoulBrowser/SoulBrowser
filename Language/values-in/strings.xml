@@ -450,6 +450,7 @@
     <string name="add_page">Tambahkan halaman saat ini</string>
     <string name="history_time">Masa retensi</string>
     <string name="history_zero">Jangan simpan</string>
+    <string name="history_1day">1 hari</string>
     <string name="history_1week">1 minggu</string>
     <string name="history_1mon">1 bulan</string>
     <string name="history_6mon">6 bulan</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">Anda dapat mendaftarkan kalimat yang sering digunakan.</string>
     <string name="page_source">Sumber halaman</string>
     <string name="delete_tab">Tutup tab</string>
-    <string name="delete_one_tab">Tutup tab saat ini</string>
     <string name="delete_all_tab">Tutup semua tab</string>
     <string name="delete_other_tab">Tutup tab lain</string>
     <string name="mini_mode">Mode mini</string>
@@ -877,4 +877,6 @@
     <string name="need_login">Silahkan masuk.</string>
     <string name="login_google">Masuk dengan Google</string>
     <string name="log_out">Keluar</string>
+    <string name="auto_update">Pembaruan otomatis</string>
+    <string name="update_time">Siklus pembaruan</string>
 </resources>

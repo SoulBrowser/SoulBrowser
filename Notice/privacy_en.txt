@@ -1,5 +1,5 @@
 
-Soul Browser Privacy Notice
+Soul Browser Privacy Policy
 
 SoulSoft (here in after referred to as "Company") values ​​the privacy of users and handles them with particular attention.
 In order to respect and protect the privacy of users, company has established the following basic principles and adheres to it.
@@ -21,7 +21,17 @@ Nothing.
 Soul Browser does not collect any personal information.
 
 
-3. Rights and exercise methods of users and legal representatives
+3. Google Drive
+
+Soul Browser supports Google Drive to store and share app's backup data.
+Soul Browser does not use Google Drive for any purpose other than storing and sharing backup data.
+Soul Browser complies with Google Drive terms and conditions.
+
+Users can store and share your backup data in the following locations
+Settings > Data backup > Google Drive > Import / Export
+
+
+4. Rights and exercise methods of users and legal representatives
 
 Users can withdraw their consent to collect and use personal information through deletion of the application at any time.
 For children under the age of 14, the legal representative reserves the right to withdraw the consent to collect and use the child's personal information.
@@ -32,7 +42,7 @@ Company does not deliberately collect personal information to children by unders
 If it is confirmed that the company collected personal information from the child by mistake not intended, the company will take reasonable measures to solve the problem promptly.
 
 
-4. Questions / Opinions / complaints related to management of personal information
+5. Questions / Opinions / complaints related to management of personal information
 
 If you have any questions related to your personal information, please contact us below.
 Soul Browser Mail : soulbrowser.com@outlook.com
@@ -44,9 +54,9 @@ If you need to declare or consult about infringement of other personal informati
 3) Cyber ​​safety office of the National Police Agency (cyberbureau.police.go.kr / no station number 182)
 
 
-5. Change of personal information protection policy
+6. Change of personal information protection policy
 
 Company frequently uses company's Privacy Policy for various reasons, such as improving the processing procedures of user's personal information, reflecting changes to company's services, or complying with related laws You can change.
 
 
-Last updated : December 30, 2019
+Last updated : October 5, 2021

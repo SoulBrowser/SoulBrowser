@@ -450,6 +450,7 @@
     <string name="add_page">添加当前页面</string>
     <string name="history_time">保留时限</string>
     <string name="history_zero">不保存</string>
+    <string name="history_1day">1天</string>
     <string name="history_1week">1个星期</string>
     <string name="history_1mon">1个月</string>
     <string name="history_6mon">6个月</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">在此添加文本，点击可复制。</string>
     <string name="page_source">网页源代码</string>
     <string name="delete_tab">关闭标签</string>
-    <string name="delete_one_tab">关闭当前标签</string>
     <string name="delete_all_tab">关闭所有标签</string>
     <string name="delete_other_tab">关闭其它标签</string>
     <string name="mini_mode">迷你模式</string>
@@ -877,4 +877,6 @@
     <string name="need_login">请登录</string>
     <string name="login_google">使用 Google 登录</string>
     <string name="log_out">登出</string>
+    <string name="auto_update">自动更新</string>
+    <string name="update_time">更新周期</string>
 </resources>

@@ -450,6 +450,7 @@
     <string name="add_page">Agregar página actual</string>
     <string name="history_time">Periodo de tiempo</string>
     <string name="history_zero">No guardar</string>
+    <string name="history_1day">1 día</string>
     <string name="history_1week">1 semana</string>
     <string name="history_1mon">1 mes</string>
     <string name="history_6mon">6 meses</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">Puede registrar oraciones de uso frecuente.</string>
     <string name="page_source">Fuente de la página</string>
     <string name="delete_tab">Cerrar pestaña</string>
-    <string name="delete_one_tab">Cierre la pestaña actual</string>
     <string name="delete_all_tab">Cierra todas las pestañas</string>
     <string name="delete_other_tab">Cerrar otras pestañas</string>
     <string name="mini_mode">Mini modo</string>
@@ -877,4 +877,6 @@
     <string name="need_login">Por favor Iniciar sesión.</string>
     <string name="login_google">Inicia sesión con Google</string>
     <string name="log_out">Cerrar sesión</string>
+    <string name="auto_update">Actualización automática</string>
+    <string name="update_time">Ciclo de actualización</string>
 </resources>

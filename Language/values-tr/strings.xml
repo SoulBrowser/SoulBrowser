@@ -450,6 +450,7 @@
     <string name="add_page">Geçerli sayfa ekle</string>
     <string name="history_time">Saklama süresi</string>
     <string name="history_zero">Kaydetme</string>
+    <string name="history_1day">1 gün</string>
     <string name="history_1week">1 hafta</string>
     <string name="history_1mon">1 ay</string>
     <string name="history_6mon">6 ay</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">Sık kullanılan cümleleri kaydedebilirsiniz.</string>
     <string name="page_source">Sayfa kaynağı</string>
     <string name="delete_tab">Sekmeyi kapat</string>
-    <string name="delete_one_tab">Geçerli sekmeyi kapat</string>
     <string name="delete_all_tab">Tüm sekmeleri kapat</string>
     <string name="delete_other_tab">Diğer sekmeleri kapat</string>
     <string name="mini_mode">Mini mod</string>
@@ -877,4 +877,6 @@
     <string name="need_login">Lütfen giriş yapın.</string>
     <string name="login_google">Google ile giriş yap</string>
     <string name="log_out">Çıkış Yap</string>
+    <string name="auto_update">Otomatik güncelleme</string>
+    <string name="update_time">Güncelleme döngüsü</string>
 </resources>

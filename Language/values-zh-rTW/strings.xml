@@ -450,6 +450,7 @@
     <string name="add_page">添加當前頁面</string>
     <string name="history_time">保留期</string>
     <string name="history_zero">不保存</string>
+    <string name="history_1day">1天</string>
     <string name="history_1week">1個星期</string>
     <string name="history_1mon">1個月</string>
     <string name="history_6mon">6個月</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">您可以註冊常用句子</string>
     <string name="page_source">頁面來源</string>
     <string name="delete_tab">關閉標籤</string>
-    <string name="delete_one_tab">關閉當前分頁</string>
     <string name="delete_all_tab">關閉所有分頁</string>
     <string name="delete_other_tab">關閉其他分頁</string>
     <string name="mini_mode">迷你模式</string>
@@ -877,4 +877,6 @@
     <string name="need_login">請登錄</string>
     <string name="login_google">使用 Google 登錄</string>
     <string name="log_out">登出</string>
+    <string name="auto_update">自動更新</string>
+    <string name="update_time">更新周期</string>
 </resources>

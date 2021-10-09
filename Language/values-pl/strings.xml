@@ -450,6 +450,7 @@
     <string name="add_page">Dodaj bieżącą stronę</string>
     <string name="history_time">Okres przechowywania</string>
     <string name="history_zero">Nie zapisuj</string>
+    <string name="history_1day">1 dzień</string>
     <string name="history_1week">1 tydzień</string>
     <string name="history_1mon">1 miesiąc</string>
     <string name="history_6mon">6 miesięcy</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">Możesz zarejestrować często używane zdania.</string>
     <string name="page_source">Źródło strony</string>
     <string name="delete_tab">Zamknij kartę</string>
-    <string name="delete_one_tab">Zamknij kartę</string>
     <string name="delete_all_tab">Zamknąć wszystkie zakładki</string>
     <string name="delete_other_tab">Zamknij inne karty</string>
     <string name="mini_mode">Tryb mini</string>
@@ -877,4 +877,6 @@
     <string name="need_login">Proszę się zalogować.</string>
     <string name="login_google">Zaloguj się przez Google</string>
     <string name="log_out">Wyloguj</string>
+    <string name="auto_update">Automatyczna aktualizacja</string>
+    <string name="update_time">Cykl aktualizacji</string>
 </resources>

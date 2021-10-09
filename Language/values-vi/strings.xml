@@ -450,6 +450,7 @@
     <string name="add_page">Thêm trang hiện tại</string>
     <string name="history_time">Thời gian lưu giữ</string>
     <string name="history_zero">Đừng tiết kiệm</string>
+    <string name="history_1day">1 ngày</string>
     <string name="history_1week">1 tuần</string>
     <string name="history_1mon">1 tháng</string>
     <string name="history_6mon">6 tháng</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">Bạn có thể đăng ký câu thường xuyên sử dụng.</string>
     <string name="page_source">Nguồn trang</string>
     <string name="delete_tab">Đóng tab</string>
-    <string name="delete_one_tab">Đóng tab hiện tại</string>
     <string name="delete_all_tab">Đóng tất cả cửa sổ</string>
     <string name="delete_other_tab">Đóng các tab khác</string>
     <string name="mini_mode">Chế độ nhỏ</string>
@@ -877,4 +877,6 @@
     <string name="need_login">Xin vui lòng đăng nhập.</string>
     <string name="login_google">Đăng nhập bằng Google</string>
     <string name="log_out">Đăng xuất</string>
+    <string name="auto_update">Cập nhật tự động</string>
+    <string name="update_time">Chu kỳ cập nhật</string>
 </resources>

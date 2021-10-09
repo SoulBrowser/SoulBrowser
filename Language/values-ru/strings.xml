@@ -391,7 +391,7 @@
     <string name="show_status">Показывать строку состояния</string>
     <string name="show_navi">Показывать панель навигации</string>
     <string name="address_title">Показать заголовок в адресной строке</string>
-    <string name="address_icon">Кнопки при редактировании адресной строки</string>
+    <string name="address_icon">Кнопки редактирования адресной строки</string>
     <string name="addr_icon_info">2. Вы можете удалить его, нажав на значок.</string>
     <string name="address_bar">Адресная строка</string>
     <string name="address_menu">Меню адресной строки</string>
@@ -438,7 +438,7 @@
     <string name="video_down_guide_1">При обнаружении видео на экране появляется кнопка загрузки.</string>
     <string name="video_down_guide_2">Кнопки не отображаются для видео, которые нельзя загрузить.</string>
     <string name="video_down_guide_3">Некоторые сайты должны воспроизводить видео до его обнаружения.\nУ разных сайтов разное поведение.</string>
-    <string name="video_down_guide_4">Из-за политики YouTube видео не могут быть загружены.</string>
+    <string name="video_down_guide_4">Из-за политики YouTube видео YouTube не могут быть загружены.</string>
     <string name="video_full_guide_1">Загружаемые видео можно воспроизводить в полноэкранном режиме.</string>
     <string name="video_full_guide_2">Неподдерживаемые форматы не имеют кнопок.</string>
     <string name="down_limit">Одновременная загрузка</string>
@@ -450,6 +450,7 @@
     <string name="add_page">Добавить текущую страницу</string>
     <string name="history_time">Срок хранения</string>
     <string name="history_zero">Не сохранять</string>
+    <string name="history_1day">1 день</string>
     <string name="history_1week">1 неделя</string>
     <string name="history_1mon">1 месяц</string>
     <string name="history_6mon">6 месяцев</string>
@@ -520,7 +521,7 @@
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Нажмите клавишу Домой во время воспроизведения YouTube, для переключения в режим PIP.</string>
     <string name="back_play">Фоновое воспроизведение</string>
-    <string name="back_play_info">Из-за политики YouTube фоновое воспроизведение видео не поддерживается.</string>
+    <string name="back_play_info">Из-за политики YouTube фоновое воспроизведение YouTube не поддерживается.</string>
     <string name="normal_rate">Обычный</string>
     <string name="file_list">Список файлов</string>
     <string name="not_show">Не показывать</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">Можно зарегистрировать часто используемые предложения.</string>
     <string name="page_source">Исходный код страницы</string>
     <string name="delete_tab">Закрыть вкладку</string>
-    <string name="delete_one_tab">Закрыть текущую вкладку</string>
     <string name="delete_all_tab">Закрыть все вкладки</string>
     <string name="delete_other_tab">Закрыть другие вкладки</string>
     <string name="mini_mode">Мини-режим</string>
@@ -638,7 +638,7 @@
     <string name="reader_empty">На этой странице нет содержимого.</string>
     <string name="site_warning">Предупреждение безопасности</string>
     <string name="site_exit">Перейти на безопасную страницу</string>
-    <string name="site_continue">Продолжить (небезопасно)</string>
+    <string name="site_continue">Продолжить (Небезопасно)</string>
     <string name="site_theme">Тема сайта</string>
     <string name="site_theme_info">Если посещаемый вами сайт поддерживает темы, они применятся в браузере.</string>
     <string name="prev_tab">Предыдущая вкладка</string>
@@ -819,8 +819,8 @@
     <string name="gesture_block_info_1">Можно зарегистрировать сайты, не использующие жесты.</string>
     <string name="gesture_block_info_2">Применяется только к жестам в центре экрана.</string>
     <string name="gesture_block_info_3">Не влияет на жесты по краям экрана.</string>
-    <string name="enable_adblock">Блок. рекламы включен</string>
-    <string name="disable_adblock">Блок. рекламы отключен</string>
+    <string name="enable_adblock">Включите блокировку рекламы</string>
+    <string name="disable_adblock">Отключить блокировку рекламы</string>
     <string name="adblock_enabled">Блокировка рекламы включена.</string>
     <string name="adblock_disabled">Блокировка рекламы отключена.</string>
     <string name="down_service">Загрузчик Soul</string>
@@ -877,4 +877,6 @@
     <string name="need_login">Пожалуйста, войдите.</string>
     <string name="login_google">Войти через Google</string>
     <string name="log_out">Выйти</string>
+    <string name="auto_update">Автоматическое обновление</string>
+    <string name="update_time">Цикл обновления</string>
 </resources>

@@ -450,6 +450,7 @@
     <string name="add_page">เพิ่มหน้าปัจจุบัน</string>
     <string name="history_time">ระยะเวลาการเก็บรักษา</string>
     <string name="history_zero">อย่าบันทึก</string>
+    <string name="history_1day">1 วัน</string>
     <string name="history_1week">1 สัปดาห์</string>
     <string name="history_1mon">1 เดือน</string>
     <string name="history_6mon">6 เดือน</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">คุณสามารถลงทะเบียนประโยคที่ใช้บ่อย</string>
     <string name="page_source">แหล่งที่มาของหน้า</string>
     <string name="delete_tab">ปิดแท็บ</string>
-    <string name="delete_one_tab">ปิดแท็บปัจจุบัน</string>
     <string name="delete_all_tab">ปิดแท็บทั้งหมด</string>
     <string name="delete_other_tab">ปิดแท็บอื่น ๆ</string>
     <string name="mini_mode">โหมดมินิ</string>
@@ -877,4 +877,6 @@
     <string name="need_login">กรุณาเข้าสู่ระบบ.</string>
     <string name="login_google">ลงชื่อเข้าใช้ด้วย Google</string>
     <string name="log_out">ออกจากระบบ</string>
+    <string name="auto_update">อัปเดตอัตโนมัติ</string>
+    <string name="update_time">รอบการอัพเดท</string>
 </resources>

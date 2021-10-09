@@ -450,6 +450,7 @@
     <string name="add_page">Adăugați pagina curentă</string>
     <string name="history_time">Perioada de păstrare</string>
     <string name="history_zero">Nu salvați</string>
+    <string name="history_1day">1 zi</string>
     <string name="history_1week">1 săptămână</string>
     <string name="history_1mon">1 lună</string>
     <string name="history_6mon">6 luni</string>
@@ -629,7 +630,6 @@
     <string name="memo_guide">Puteți înregistra propoziții utilizate frecvent.</string>
     <string name="page_source">Sursa paginii</string>
     <string name="delete_tab">Închideți fila</string>
-    <string name="delete_one_tab">Inchide fereastra curenta</string>
     <string name="delete_all_tab">Inchide toate filele</string>
     <string name="delete_other_tab">Închideți alte file</string>
     <string name="mini_mode">Mod mini</string>
@@ -877,4 +877,6 @@
     <string name="need_login">Va rugam sa va logati.</string>
     <string name="login_google">Conectați-vă cu Google</string>
     <string name="log_out">Deconectează-te</string>
+    <string name="auto_update">Actualizare automată</string>
+    <string name="update_time">Ciclu de actualizare</string>
 </resources>
