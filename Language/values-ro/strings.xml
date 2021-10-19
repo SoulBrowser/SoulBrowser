@@ -204,8 +204,7 @@
     <string name="cache_info">Fișiere create pe parcursul navigării web (de ex. imagini)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informații create în timpul navigării web (de exemplu, date de conectare)</string>
-    <string name="no_rotate">Nu rotiți ecranul</string>
-    <string name="screen_rotate_info">Ecranul este afișat întotdeauna pe verticală.</string>
+    <string name="screen_rotate">Rotația ecranului</string>
     <string name="vol_scroll">Parcurgeți paginile web cu tastele de volum</string>
     <string name="double_back">butonul Înapoi de două ori pentru a ieși din aplicație</string>
     <string name="press_again">Apăsați din nou pentru a ieși.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Afișează bara de stare</string>
     <string name="show_navi">Afișează tasta soft</string>
-    <string name="address_title">Afișați titlul în bara de adrese</string>
-    <string name="address_icon">Editați butoanele barei de adrese</string>
+    <string name="address_icon">Butonul barei de adrese</string>
     <string name="addr_icon_info">2. Puteți să-l eliminați făcând clic pe pictogramă.</string>
     <string name="address_bar">Bara de adresa</string>
     <string name="address_menu">Meniul barei de adrese</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">Dezactivați JavaScript</string>
     <string name="js_enabled">JavaScript este activat.</string>
     <string name="js_disabled">JavaScript este dezactivat.</string>
-    <string name="icon_edit_guide_1">1. Faceți clic pe pictogramă pentru a schimba funcția.</string>
-    <string name="icon_edit_guide_2">2. Trageți pictograma pentru a-i schimba poziția.</string>
+    <string name="icon_edit_guide">2. Puteți să o modificați făcând clic pe pictogramă.</string>
     <string name="long_edit_guide">Puteți seta funcția pe care o utilizați când apăsați și țineți apăsată pictograma de pe bara de jos.</string>
     <string name="swipe_edit_guide">Puteți seta funcția pe care o folosiți atunci când treceți pictograma în bara de jos.</string>
     <string name="long_press">Apasare prelungită</string>

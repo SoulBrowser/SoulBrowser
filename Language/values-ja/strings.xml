@@ -204,8 +204,7 @@
     <string name="cache_info">ウェブ閲覧中に生成されたファイル (例 : 画像)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">ウェブ閲覧中に生成された情報 (例 : ログイン情報)</string>
-    <string name="no_rotate">画面回転しない</string>
-    <string name="screen_rotate_info">画面は常に垂直に表示されます。</string>
+    <string name="screen_rotate">画面の回転</string>
     <string name="vol_scroll">ボリュームキーWebページのスクロール</string>
     <string name="double_back">戻るボタン二度押しアプリを終了</string>
     <string name="press_again">終了するにはもう一度押す。</string>
@@ -390,8 +389,7 @@
     <string name="gesture">ジェスチャー</string>
     <string name="show_status">ステータスバーを表示</string>
     <string name="show_navi">ソフトキーを表示</string>
-    <string name="address_title">アドレスバーにタイトルを表示</string>
-    <string name="address_icon">アドレスバーの編集ボタン</string>
+    <string name="address_icon">アドレスバーのボタン</string>
     <string name="addr_icon_info">2.アイコンをクリックして削除することができます。</string>
     <string name="address_bar">アドレスバー</string>
     <string name="address_menu">アドレスバーメニュー</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">JavaScript無効に</string>
     <string name="js_enabled">JavaScriptが有効になりました。</string>
     <string name="js_disabled">JavaScriptが無効になっています。</string>
-    <string name="icon_edit_guide_1">1. アイコンをクリックして、機能を変更してください。</string>
-    <string name="icon_edit_guide_2">2. アイコンをドラッグして位置を変更してください。</string>
+    <string name="icon_edit_guide">2. アイコンをクリックして変更することができます。</string>
     <string name="long_edit_guide">下部バーのアイコンを長く押したとき、使用する機能を設定することができます。</string>
     <string name="swipe_edit_guide">下部バーのアイコンを上スワイプするとき、使用する機能を設定することができます。</string>
     <string name="long_press">長押し</string>

@@ -204,8 +204,7 @@
     <string name="cache_info">Pliki utworzone podczas przeglądania stron internetowych (np. obrazy)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informacje tworzone podczas przeglądania stron internetowych (np. dane logowania)</string>
-    <string name="no_rotate">Nie obracaj ekranu</string>
-    <string name="screen_rotate_info">Ekran jest zawsze wyświetlany pionowo.</string>
+    <string name="screen_rotate">Obrót ekranu</string>
     <string name="vol_scroll">Przewiń strony internetowe za pomocą klawiszy głośności</string>
     <string name="double_back">Dwa razy przycisk Wstecz, aby wyjść z aplikacji</string>
     <string name="press_again">Naciśnij ponownie, aby wyjść.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Pokaż pasek stanu</string>
     <string name="show_navi">Pokaż pasek przycisków</string>
-    <string name="address_title">Pokaż tytuł na pasku adresu</string>
-    <string name="address_icon">Edytuj przyciski paska adresu</string>
+    <string name="address_icon">Przycisk paska adresu</string>
     <string name="addr_icon_info">2. Możesz go usunąć, klikając ikonę.</string>
     <string name="address_bar">Pasek adresu</string>
     <string name="address_menu">Menu paska adresu</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">Wyłącz JavaScript</string>
     <string name="js_enabled">JavaScript jest włączony.</string>
     <string name="js_disabled">JavaScript jest wyłączony.</string>
-    <string name="icon_edit_guide_1">1. Kliknij ikonę, aby zmienić funkcję.</string>
-    <string name="icon_edit_guide_2">2. Przeciągnij ikonę, aby zmienić jej położenie.</string>
+    <string name="icon_edit_guide">2. Możesz to zmienić, klikając ikonę.</string>
     <string name="long_edit_guide">Możesz ustawić funkcję, która będzie używana po naciśnięciu i przytrzymaniu ikony na dolnym pasku.</string>
     <string name="swipe_edit_guide">Możesz ustawić funkcję, która będzie używana podczas przesuwania w górę ikony na dolnym pasku.</string>
     <string name="long_press">Długie naciśnięcie</string>

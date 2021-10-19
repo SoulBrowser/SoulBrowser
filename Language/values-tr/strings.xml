@@ -204,8 +204,7 @@
     <string name="cache_info">Web\'de gezinme sırasında oluşturulan dosyalar (ör. görüntüler)</string>
     <string name="cookie">Çerez</string>
     <string name="cookie_info">Web\'de gezinme sırasında oluşturulan bilgiler (ör. giriş bilgileri)</string>
-    <string name="no_rotate">Ekranı döndürme</string>
-    <string name="screen_rotate_info">Ekran her zaman dikey olarak görüntülenir.</string>
+    <string name="screen_rotate">Ekran döndürme</string>
     <string name="vol_scroll">Web sayfalarını ses tuşları ile kaydırma</string>
     <string name="double_back">Uygulamadan çıkmak için iki kez geri düğmesi</string>
     <string name="press_again">Çıkmak için tekrar basın.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Hareketler</string>
     <string name="show_status">Durum çubuğunu göster</string>
     <string name="show_navi">Ekran tuşunu göster</string>
-    <string name="address_title">Başlığı adres çubuğunda göster</string>
-    <string name="address_icon">Adres çubuğu düğmelerini düzenle</string>
+    <string name="address_icon">Adres çubuğu düğmesi</string>
     <string name="addr_icon_info">2. Simgeye tıklayarak kaldırabilirsiniz.</string>
     <string name="address_bar">Adres çubuğu</string>
     <string name="address_menu">Adres çubuğu menüsü</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">JavaScript devredışı bırak</string>
     <string name="js_enabled">JavaScript etkinleştirildi.</string>
     <string name="js_disabled">JavaScript devre dışı bırakıldı.</string>
-    <string name="icon_edit_guide_1">1. İşlevi değiştirmek için simgeye tıklayın.</string>
-    <string name="icon_edit_guide_2">2. Konumunu değiştirmek için simgeyi sürükleyin.</string>
+    <string name="icon_edit_guide">2. Simgeye tıklayarak değiştirebilirsiniz.</string>
     <string name="long_edit_guide">Alt çubuktaki simgeyi basılı tuttuğunuzda kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="swipe_edit_guide">Alt çubuktaki simgeyi yukarı kaydırırken kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="long_press">Uzun basma</string>

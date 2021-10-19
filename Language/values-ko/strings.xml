@@ -204,8 +204,7 @@
     <string name="cache_info">웹 탐색 ​​중 생성된 파일 (예 : 이미지)</string>
     <string name="cookie">쿠키</string>
     <string name="cookie_info">웹 탐색 ​​중 생성 된 정보 (예 : 로그인 정보)</string>
-    <string name="no_rotate">화면 회전 안함</string>
-    <string name="screen_rotate_info">화면이 항상 세로로 표시됩니다.</string>
+    <string name="screen_rotate">화면 회전</string>
     <string name="vol_scroll">볼륨 키로 웹페이지 스크롤</string>
     <string name="double_back">이전 버튼 두번 눌러 앱 종료</string>
     <string name="press_again">한번 더 누르면 종료됩니다.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">제스처</string>
     <string name="show_status">상태표시줄 표시</string>
     <string name="show_navi">소프트키 표시</string>
-    <string name="address_title">주소표시줄에 제목 표시</string>
-    <string name="address_icon">주소표시줄 버튼 편집</string>
+    <string name="address_icon">주소표시줄 버튼</string>
     <string name="addr_icon_info">2. 아이콘을 클릭해서 제거할 수 있습니다.</string>
     <string name="address_bar">주소표시줄</string>
     <string name="address_menu">주소표시줄 메뉴</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">자바스크립트 끄기</string>
     <string name="js_enabled">자바스크립트가 활성화되었습니다.</string>
     <string name="js_disabled">자바스크립트가 비활성화되었습니다.</string>
-    <string name="icon_edit_guide_1">1. 아이콘을 클릭하여 기능을 변경하세요.</string>
-    <string name="icon_edit_guide_2">2. 아이콘을 드래그하여 위치를 변경하세요.</string>
+    <string name="icon_edit_guide">2. 아이콘을 클릭해서 변경할 수 있습니다.</string>
     <string name="long_edit_guide">하단바의 아이콘을 길게 눌렀을 때 사용할 기능을 설정할 수 있습니다.</string>
     <string name="swipe_edit_guide">하단바의 아이콘을 위로 스와이프할 때 사용할 기능을 설정할 수 있습니다.</string>
     <string name="long_press">길게 누르기</string>

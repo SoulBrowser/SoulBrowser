@@ -204,8 +204,7 @@
     <string name="cache_info">Dateien, die beim Surfen im internet erstellt wurden (z.B. Bilder)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informationen, die beim Surfen im Internet erstellt wurden (z.B. Anmeldeinformationen)</string>
-    <string name="no_rotate">Bildschirm nicht drehen</string>
-    <string name="screen_rotate_info">Der Bildschirm wird immer vertikal angezeigt.</string>
+    <string name="screen_rotate">Bildschirm Rotation</string>
     <string name="vol_scroll">Mit Lautstärketasten durch Webseiten blättern</string>
     <string name="double_back">Zurücktaste zweimal drücken, um die App zu schließen</string>
     <string name="press_again">Zum Beenden erneut drücken.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Gesten</string>
     <string name="show_status">Statusleiste anzeigen</string>
     <string name="show_navi">Navigationsleiste anzeigen</string>
-    <string name="address_title">Titel in Adressleiste anzeigen</string>
-    <string name="address_icon">Schaltflächen in der Adressleiste bearbeiten</string>
+    <string name="address_icon">Schaltfläche in der Adressleiste</string>
     <string name="addr_icon_info">2. Sie können es entfernen, indem Sie auf das Symbol klicken.</string>
     <string name="address_bar">Adressleiste</string>
     <string name="address_menu">Adressleistenmenü</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">JavaScript deaktivieren</string>
     <string name="js_enabled">JavaScript ist aktiviert.</string>
     <string name="js_disabled">JavaScript ist deaktiviert.</string>
-    <string name="icon_edit_guide_1">1. Klicken Sie auf das Symbol, um die Funktion zu ändern.</string>
-    <string name="icon_edit_guide_2">2. Ziehen Sie das Symbol, um seine Position zu ändern.</string>
+    <string name="icon_edit_guide">2. Sie können es ändern, indem Sie auf das Symbol klicken.</string>
     <string name="long_edit_guide">Sie können die zu verwendende Funktion einstellen, wenn Sie das Symbol in der unteren Leiste gedrückt halten.</string>
     <string name="swipe_edit_guide">Sie können die Funktion festlegen, die beim Wischen des Symbols in der unteren Leiste verwendet werden soll.</string>
     <string name="long_press">Lange drücken</string>

@@ -204,8 +204,7 @@
     <string name="cache_info">网页浏览期间创建的文件（示例：图像）</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">网页浏览期间创建的信息（示例：登录信息）</string>
-    <string name="no_rotate">禁用旋屏</string>
-    <string name="screen_rotate_info">始终竖屏显示</string>
+    <string name="screen_rotate">屏幕旋转</string>
     <string name="vol_scroll">音量键滚动网页</string>
     <string name="double_back">双击返回按钮退出应用程序</string>
     <string name="press_again">再按一次退出</string>
@@ -390,8 +389,7 @@
     <string name="gesture">手势</string>
     <string name="show_status">显示通知栏</string>
     <string name="show_navi">显示虚拟按键</string>
-    <string name="address_title">在地址栏中显示标题</string>
-    <string name="address_icon">编辑地址栏按钮</string>
+    <string name="address_icon">地址栏按钮</string>
     <string name="addr_icon_info">2. 您可以通过单击图标将其删除</string>
     <string name="address_bar">地址栏</string>
     <string name="address_menu">地址栏菜单</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">禁用 JavaScript 脚本</string>
     <string name="js_enabled">已启用 JavaScript 脚本</string>
     <string name="js_disabled">已禁用 JavaScript 脚本</string>
-    <string name="icon_edit_guide_1">1. 单击图标更改功能</string>
-    <string name="icon_edit_guide_2">2. 拖动图标以更改位置</string>
+    <string name="icon_edit_guide">2. 您可以通过单击图标来更改它</string>
     <string name="long_edit_guide">你可以设置按住底栏上的图标时要使用的功能</string>
     <string name="swipe_edit_guide">你可以设置在向上滑动底栏上图标时要使用的功能</string>
     <string name="long_press">长按</string>

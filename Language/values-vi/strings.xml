@@ -204,8 +204,7 @@
     <string name="cache_info">Tập tin được tạo trong quá trình duyệt web (ví dụ : hình ảnh)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Thông tin được tạo trong quá trình duyệt web (ví dụ : đăng nhập thông tin)</string>
-    <string name="no_rotate">Không xoay màn hình</string>
-    <string name="screen_rotate_info">Màn hình luôn hiển thị theo chiều dọc.</string>
+    <string name="screen_rotate">Xoay màn hình</string>
     <string name="vol_scroll">Cuộn trang web với các phím âm lượng</string>
     <string name="double_back">Nút quay lại hai lần để thoát ứng dụng</string>
     <string name="press_again">Nhấn một lần nữa để thoát.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Cử chỉ</string>
     <string name="show_status">Thanh trạng thái chương trình</string>
     <string name="show_navi">Hiển thị phím mềm</string>
-    <string name="address_title">Hiển thị tiêu đề trong thanh địa chỉ</string>
-    <string name="address_icon">Chỉnh sửa các nút trên thanh địa chỉ</string>
+    <string name="address_icon">Nút thanh địa chỉ</string>
     <string name="addr_icon_info">2. Bạn có thể loại bỏ nó bằng cách nhấp vào biểu tượng.</string>
     <string name="address_bar">Thanh địa chỉ</string>
     <string name="address_menu">Menu thanh địa chỉ</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">Vô hiệu hóa JavaScript</string>
     <string name="js_enabled">JavaScript được kích hoạt.</string>
     <string name="js_disabled">JavaScript bị tắt.</string>
-    <string name="icon_edit_guide_1">1. Nhấp vào biểu tượng để thay đổi chức năng.</string>
-    <string name="icon_edit_guide_2">2. Kéo biểu tượng để thay đổi vị trí của nó.</string>
+    <string name="icon_edit_guide">2. Bạn có thể thay đổi nó bằng cách nhấp vào biểu tượng.</string>
     <string name="long_edit_guide">Bạn có thể đặt chức năng sử dụng khi nhấn và giữ biểu tượng trên thanh dưới cùng.</string>
     <string name="swipe_edit_guide">Bạn có thể thiết lập chức năng để sử dụng khi vuốt lên biểu tượng trên thanh dưới cùng.</string>
     <string name="long_press">Nhấn dài</string>

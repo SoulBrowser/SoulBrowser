@@ -204,8 +204,7 @@
     <string name="cache_info">Archivos creados durante la navegación web (p.ej. imágenes)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Información creada durante la navegación web (p.ej. información entrar)</string>
-    <string name="no_rotate">No rotar la pantalla</string>
-    <string name="screen_rotate_info">La pantalla siempre se muestra verticalmente.</string>
+    <string name="screen_rotate">Rotacion de pantalla</string>
     <string name="vol_scroll">Desplazarse por páginas web con teclas de volumen</string>
     <string name="double_back">Atrás botón dos veces a la salida de la aplicación</string>
     <string name="press_again">Presione nuevamente para salir.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Gesto</string>
     <string name="show_status">Mostrar barra estado</string>
     <string name="show_navi">Mostrar tecla programable</string>
-    <string name="address_title">Mostrar título en la barra de direcciones</string>
-    <string name="address_icon">Editar botones de la barra de direcciones</string>
+    <string name="address_icon">Botón de la barra de direcciones</string>
     <string name="addr_icon_info">2. Puede eliminarlo haciendo clic en el icono.</string>
     <string name="address_bar">Barra de dirección</string>
     <string name="address_menu">Menú de la barra de direcciones</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">Desactivar JavaScript</string>
     <string name="js_enabled">JavaScript está habilitado.</string>
     <string name="js_disabled">JavaScript está desactivado.</string>
-    <string name="icon_edit_guide_1">1. Haga clic en el icono para cambiar la función.</string>
-    <string name="icon_edit_guide_2">2. Arrastre el icono para cambiar su posición.</string>
+    <string name="icon_edit_guide">2. Puede cambiarlo haciendo clic en el icono.</string>
     <string name="long_edit_guide">Puede configurar la función para usar cuando mantiene presionado el icono en la barra inferior.</string>
     <string name="swipe_edit_guide">Puede configurar la función para usar al deslizar hacia arriba el icono en la barra inferior.</string>
     <string name="long_press">Pulsación larga</string>

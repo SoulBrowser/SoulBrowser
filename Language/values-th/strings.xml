@@ -204,8 +204,7 @@
     <string name="cache_info">ไฟล์ที่สร้างขึ้นระหว่างการท่องเว็บ (เช่นภาพ)</string>
     <string name="cookie">คุกกี้</string>
     <string name="cookie_info">ข้อมูลที่สร้างขึ้นระหว่างการท่องเว็บ (เช่นข้อมูลเข้าสู่ระบบ)</string>
-    <string name="no_rotate">อย่าหมุนหน้าจอ</string>
-    <string name="screen_rotate_info">หน้าจอจะแสดงผลในแนวตั้งเสมอ</string>
+    <string name="screen_rotate">การหมุนหน้าจอ</string>
     <string name="vol_scroll">เลื่อนหน้าเว็บด้วยปุ่มปรับระดับเสียง</string>
     <string name="double_back">Back สองครั้งเพื่อออกจากแอป</string>
     <string name="press_again">กดอีกครั้งเพื่อออก</string>
@@ -390,8 +389,7 @@
     <string name="gesture">ท่าทาง</string>
     <string name="show_status">แสดงแถบสถานะ</string>
     <string name="show_navi">แสดงปุ่มซอฟท์คีย์</string>
-    <string name="address_title">แสดงชื่อในแถบที่อยู่</string>
-    <string name="address_icon">แก้ไขปุ่มแถบที่อยู่</string>
+    <string name="address_icon">ปุ่มแถบที่อยู่</string>
     <string name="addr_icon_info">2. คุณสามารถลบออกได้โดยคลิกที่ไอคอน</string>
     <string name="address_bar">แถบที่อยู่</string>
     <string name="address_menu">เมนูแถบที่อยู่</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">ปิดการใช้งาน JavaScript</string>
     <string name="js_enabled">เปิดใช้งาน JavaScript</string>
     <string name="js_disabled">JavaScript ถูกปิดใช้งาน</string>
-    <string name="icon_edit_guide_1">1. คลิกไอคอนเพื่อเปลี่ยนฟังก์ชัน</string>
-    <string name="icon_edit_guide_2">2. ลากไอคอนเพื่อเปลี่ยนตำแหน่ง</string>
+    <string name="icon_edit_guide">2. คุณสามารถเปลี่ยนได้โดยคลิกที่ไอคอน</string>
     <string name="long_edit_guide">คุณสามารถตั้งค่าฟังก์ชั่นที่จะใช้เมื่อคุณกดไอคอนบนแถบด้านล่างค้างไว้</string>
     <string name="swipe_edit_guide">คุณสามารถตั้งค่าฟังก์ชั่นที่จะใช้เมื่อปัดขึ้นไอคอนบนแถบด้านล่าง</string>
     <string name="long_press">กดแบบยาว</string>

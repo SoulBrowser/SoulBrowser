@@ -204,8 +204,7 @@
     <string name="cache_info">الملفات التي تم إنشاؤها أثناء تصفح الويب (مثل الصور)</string>
     <string name="cookie">بسكويت</string>
     <string name="cookie_info">المعلومات التي يتم إنشاؤها أثناء تصفح الويب (مثل معلومات تسجيل الدخول)</string>
-    <string name="no_rotate">لا يوجد دوران للشاشة</string>
-    <string name="screen_rotate_info">يتم دائمًا عرض الشاشة عموديًا.</string>
+    <string name="screen_rotate">دوران الشاشة</string>
     <string name="vol_scroll">تصفح صفحات الويب باستخدام مفاتيح مستوى الصوت</string>
     <string name="double_back">أغلق التطبيق بالضغط على الزر السابق مرتين</string>
     <string name="press_again">اضغط مرة أخرى للإنهاء.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">إيماءة</string>
     <string name="show_status">أظهر شريط الحالة</string>
     <string name="show_navi">عرض الأزرار</string>
-    <string name="address_title">إظهار العنوان في شريط العنوان</string>
-    <string name="address_icon">تحرير أزرار شريط العناوين</string>
+    <string name="address_icon">زر شريط العنوان</string>
     <string name="addr_icon_info">2. يمكنك إزالته عن طريق النقر فوق الرمز.</string>
     <string name="address_bar">شريط العنوان</string>
     <string name="address_menu">قائمة شريط العناوين</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">قم بإيقاف تشغيل JavaScript</string>
     <string name="js_enabled">تم تمكين JavaScript.</string>
     <string name="js_disabled">تم تعطيل JavaScript.</string>
-    <string name="icon_edit_guide_1">1. انقر فوق الرمز لتغيير الوظيفة.</string>
-    <string name="icon_edit_guide_2">2. اسحب الرمز لتغيير الموقع.</string>
+    <string name="icon_edit_guide">2. يمكنك تغييره بالضغط على الأيقونة.</string>
     <string name="long_edit_guide">يمكنك ضبط الوظيفة لاستخدامها عند الضغط لفترة طويلة على الرمز الموجود في الشريط السفلي.</string>
     <string name="swipe_edit_guide">يمكنك ضبط الوظيفة لاستخدامها عند التمرير سريعًا فوق الرمز الموجود في الشريط السفلي.</string>
     <string name="long_press">ضغطة طويلة</string>

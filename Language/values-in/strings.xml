@@ -204,8 +204,7 @@
     <string name="cache_info">File yang dibuat selama penjelajahan web (mis. gambar)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informasi yang dibuat selama penjelajahan web (mis. informasi login)</string>
-    <string name="no_rotate">Jangan putar layar</string>
-    <string name="screen_rotate_info">Layar selalu ditampilkan secara vertikal.</string>
+    <string name="screen_rotate">Perputaran layar</string>
     <string name="vol_scroll">Gulir halaman web dengan tombol volume</string>
     <string name="double_back">Tekan tombol kembali dua kali untuk keluar dari aplikasi</string>
     <string name="press_again">Tekan lagi untuk keluar.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Tampilkan bilah status</string>
     <string name="show_navi">Tampilkan tombol lunak</string>
-    <string name="address_title">Tampilkan judul di bilah alamat</string>
-    <string name="address_icon">Edit tombol bilah alamat</string>
+    <string name="address_icon">Tombol bilah alamat</string>
     <string name="addr_icon_info">2. Anda dapat menghapusnya dengan mengklik ikon.</string>
     <string name="address_bar">Bilah alamat</string>
     <string name="address_menu">Menu bilah alamat</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">Nonaktifkan JavaScript</string>
     <string name="js_enabled">JavaScript diaktifkan.</string>
     <string name="js_disabled">JavaScript dinonaktifkan.</string>
-    <string name="icon_edit_guide_1">1. Klik ikon tersebut untuk mengubah fungsinya.</string>
-    <string name="icon_edit_guide_2">2. Seret ikon untuk mengubah posisinya.</string>
+    <string name="icon_edit_guide">2. Anda dapat mengubahnya dengan mengklik ikon.</string>
     <string name="long_edit_guide">Anda dapat mengatur fungsi untuk digunakan saat Anda menekan dan menahan ikon di bilah bawah.</string>
     <string name="swipe_edit_guide">Anda dapat mengatur fungsi yang akan digunakan saat menggesek ikon di bar bagian bawah.</string>
     <string name="long_press">Tekan lama</string>

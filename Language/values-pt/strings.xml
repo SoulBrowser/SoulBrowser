@@ -204,8 +204,7 @@
     <string name="cache_info">Arquivos criados durante a navegação na web (exemplo : imagens)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informações criadas durante a navegação na web (exemplo : informação de login)</string>
-    <string name="no_rotate">Não gire a tela</string>
-    <string name="screen_rotate_info">A tela é sempre exibida verticalmente.</string>
+    <string name="screen_rotate">Rotação da tela</string>
     <string name="vol_scroll">Rolar páginas da web com teclas de volume</string>
     <string name="double_back">Botão voltar duas vezes para a saída do aplicativo</string>
     <string name="press_again">Pressione novamente para sair.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Gesto</string>
     <string name="show_status">Mostrar barra status</string>
     <string name="show_navi">Mostrar tecla programável</string>
-    <string name="address_title">Mostrar título na barra de endereço</string>
-    <string name="address_icon">Editar botões da barra de endereço</string>
+    <string name="address_icon">Botão da barra de endereço</string>
     <string name="addr_icon_info">2. Você pode removê-lo clicando no ícone.</string>
     <string name="address_bar">Barra de endereço</string>
     <string name="address_menu">Menu da barra de endereços</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">Desativar JavaScript</string>
     <string name="js_enabled">JavaScript está habilitado.</string>
     <string name="js_disabled">JavaScript está desabilitado.</string>
-    <string name="icon_edit_guide_1">1. Clique no ícone para alterar a função.</string>
-    <string name="icon_edit_guide_2">2. Arraste o ícone para alterar sua posição.</string>
+    <string name="icon_edit_guide">2. Você pode alterá-lo clicando no ícone.</string>
     <string name="long_edit_guide">Você pode definir a função a ser usada quando pressionar e segurar o ícone na barra inferior.</string>
     <string name="swipe_edit_guide">Você pode definir a função a usar ao deslizar o ícone na barra inferior.</string>
     <string name="long_press">Pressão longa</string>

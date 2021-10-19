@@ -204,8 +204,7 @@
     <string name="cache_info">Web瀏覽期間創建的文件（示例：圖片）</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Web瀏覽期間創建的資訊（示例：登入資訊）</string>
-    <string name="no_rotate">不要旋轉螢幕</string>
-    <string name="screen_rotate_info">螢幕始終垂直顯示</string>
+    <string name="screen_rotate">屏幕旋轉</string>
     <string name="vol_scroll">使用音量鍵滾動網頁</string>
     <string name="double_back">雙擊返回按鈕退出應用程式</string>
     <string name="press_again">再按一次退出</string>
@@ -390,8 +389,7 @@
     <string name="gesture">手勢</string>
     <string name="show_status">顯示狀態欄</string>
     <string name="show_navi">顯示虛擬鍵</string>
-    <string name="address_title">在地址欄中顯示標題</string>
-    <string name="address_icon">編輯地址欄按鈕</string>
+    <string name="address_icon">地址欄按鈕</string>
     <string name="addr_icon_info">2. 您可以通過單擊圖標將其刪除</string>
     <string name="address_bar">地址欄</string>
     <string name="address_menu">網址欄菜單</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">禁用 JavaScript</string>
     <string name="js_enabled">啟用了 JavaScript</string>
     <string name="js_disabled">JavaScript 已禁用</string>
-    <string name="icon_edit_guide_1">1. 單擊圖標更改功能</string>
-    <string name="icon_edit_guide_2">2. 拖動圖標以更改其位置</string>
+    <string name="icon_edit_guide">2. 您可以通過單擊圖標來更改它</string>
     <string name="long_edit_guide">您可以設置按住底欄上的圖標時要使用的功能</string>
     <string name="swipe_edit_guide">您可以設置在向上滑動底部欄上的圖標時要使用的功能</string>
     <string name="long_press">長按</string>

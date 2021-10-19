@@ -204,8 +204,7 @@
     <string name="cache_info">Fichiers créés lors de la navigation sur le web (exemple : images)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informations créés lors de la navigation sur le web (exemple : Informations de connexion)</string>
-    <string name="no_rotate">Ne pas faire pivoter l\'écran</string>
-    <string name="screen_rotate_info">L\'écran est toujours affiché verticalement.</string>
+    <string name="screen_rotate">Rotation de l\'écran</string>
     <string name="vol_scroll">Faire défiler les pages web avec les touches de volume</string>
     <string name="double_back">Double appui sur bouton retour pour quitter</string>
     <string name="press_again">Appuyer à nouveau pour quitter.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Geste</string>
     <string name="show_status">Afficher la barre d\'état</string>
     <string name="show_navi">Afficher la touche programmable</string>
-    <string name="address_title">Afficher le titre dans la barre d\'adresse</string>
-    <string name="address_icon">Modifier les boutons de la barre d\'adresse</string>
+    <string name="address_icon">Bouton de la barre d\'adresse</string>
     <string name="addr_icon_info">2. Vous pouvez le supprimer en cliquant sur l\'icône.</string>
     <string name="address_bar">Barre d\'adresse</string>
     <string name="address_menu">Menu de la barre d\'adresse</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">Désactiver JavaScript</string>
     <string name="js_enabled">JavaScript est activé.</string>
     <string name="js_disabled">JavaScript est désactivé.</string>
-    <string name="icon_edit_guide_1">1. Cliquez sur l\'icône pour changer la fonction.</string>
-    <string name="icon_edit_guide_2">2. Faites glisser l\'icône pour changer sa position.</string>
+    <string name="icon_edit_guide">2. Vous pouvez le modifier en cliquant sur l\'icône.</string>
     <string name="long_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous maintenez enfoncée l\'icône sur la barre inférieure.</string>
     <string name="swipe_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous faites glisser l\'icône sur la barre inférieure.</string>
     <string name="long_press">Appui long</string>

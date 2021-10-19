@@ -204,8 +204,7 @@
     <string name="cache_info">Files created during web browsing (e.g. images)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Information created during web browsing (e.g. login information)</string>
-    <string name="no_rotate">Do not rotate screen</string>
-    <string name="screen_rotate_info">The screen is always displayed vertically.</string>
+    <string name="screen_rotate">Screen rotation</string>
     <string name="vol_scroll">Scroll web pages with volume keys</string>
     <string name="double_back">Back button twice to app exit</string>
     <string name="press_again">Press again to exit.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Show status bar</string>
     <string name="show_navi">Show soft key</string>
-    <string name="address_title">Show title in address bar</string>
-    <string name="address_icon">Edit address bar buttons</string>
+    <string name="address_icon">Address bar button</string>
     <string name="addr_icon_info">2. You can remove it by clicking the icon.</string>
     <string name="address_bar">Address bar</string>
     <string name="address_menu">Address bar menu</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">Disable JavaScript</string>
     <string name="js_enabled">JavaScript is enabled.</string>
     <string name="js_disabled">JavaScript is disabled.</string>
-    <string name="icon_edit_guide_1">1. Click the icon to change the function.</string>
-    <string name="icon_edit_guide_2">2. Drag the icon to change the position.</string>
+    <string name="icon_edit_guide">2. You can change it by clicking the icon.</string>
     <string name="long_edit_guide">You can set the function to use when you press and hold the icon on the bottom bar.</string>
     <string name="swipe_edit_guide">You can set the function to use when swiping up the icon on the bottom bar.</string>
     <string name="long_press">Long press</string>

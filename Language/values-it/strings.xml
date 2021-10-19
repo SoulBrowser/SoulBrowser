@@ -204,8 +204,7 @@
     <string name="cache_info">File creati durante la navigazione web (esempio : immagini)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informazioni create durante la navigazione web (esempio : informazioni di accesso)</string>
-    <string name="no_rotate">Non ruotare lo schermo</string>
-    <string name="screen_rotate_info">Lo schermo è sempre visualizzato verticalmente.</string>
+    <string name="screen_rotate">Rotazione dello schermo</string>
     <string name="vol_scroll">Scorri le pagine web con i tasti del volume</string>
     <string name="double_back">Pulsante indietro due volte per uscire da app</string>
     <string name="press_again">Premere di nuovo per uscire.</string>
@@ -390,8 +389,7 @@
     <string name="gesture">Gesti</string>
     <string name="show_status">Mostra barra di stato</string>
     <string name="show_navi">Mostra tasto funzione</string>
-    <string name="address_title">Mostra il titolo nella barra degli indirizzi</string>
-    <string name="address_icon">Modifica i pulsanti della barra degli indirizzi</string>
+    <string name="address_icon">Pulsante della barra degli indirizzi</string>
     <string name="addr_icon_info">2. Puoi rimuoverlo facendo clic sull\'icona.</string>
     <string name="address_bar">Barra degli indirizzi</string>
     <string name="address_menu">Menu della barra degli indirizzi</string>
@@ -620,8 +618,7 @@
     <string name="disable_js">Disabilita JavaScript</string>
     <string name="js_enabled">JavaScript è abilitato.</string>
     <string name="js_disabled">JavaScript è disabilitato.</string>
-    <string name="icon_edit_guide_1">1. Fare clic sull\'icona per modificare la funzione.</string>
-    <string name="icon_edit_guide_2">2. Trascina l\'icona per modificarne la posizione.</string>
+    <string name="icon_edit_guide">2. Puoi modificarlo facendo clic sull\'icona.</string>
     <string name="long_edit_guide">È possibile impostare la funzione da utilizzare quando si tiene premuta l\'icona sulla barra in basso.</string>
     <string name="swipe_edit_guide">È possibile impostare la funzione da utilizzare quando si scorre verso l\'alto l\'icona sulla barra in basso.</string>
     <string name="long_press">Premere a lungo</string>
