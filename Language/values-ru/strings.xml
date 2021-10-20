@@ -222,7 +222,7 @@
     <string name="quality">Качество</string>
     <string name="modified">Посл. изменение</string>
     <string name="url">URL</string>
-    <string name="domain_name">Domain</string>
+    <string name="domain_name">Домен</string>
     <string name="domain_url">Домен или URL</string>
     <string name="add">Добавить</string>
     <string name="home_page">Домашняя страница</string>
@@ -305,7 +305,7 @@
     <string name="photo_editor">Редактор фотографий</string>
     <string name="color_size">Толщина</string>
     <string name="color_alpha">Прозрачность</string>
-    <string name="add_icon">Кнопка новой</string>
+    <string name="add_icon">Кнопка добавления</string>
     <string name="close_icon">Кнопка закрытия</string>
     <string name="size_width">Ширина</string>
     <string name="size_height">Высота</string>
@@ -389,7 +389,7 @@
     <string name="gesture">Жесты</string>
     <string name="show_status">Показывать строку состояния</string>
     <string name="show_navi">Показывать панель навигации</string>
-    <string name="address_icon">Кнопка адресной строки</string>
+    <string name="address_icon">Кнопки адресной строки</string>
     <string name="addr_icon_info">2. Вы можете удалить его, нажав на значок.</string>
     <string name="address_bar">Адресная строка</string>
     <string name="address_menu">Меню адресной строки</string>
@@ -612,7 +612,7 @@
     <string name="accept_cookie_info_1">Позволяет сайту хранить или читать Cookie.</string>
     <string name="accept_cookie_info_2">Некоторые сайты могут работать некорректно, если Вы не разрешаете Cookie.</string>
     <string name="third_cookie">Сторонние файлы cookie</string>
-    <string name="java_script">Использование JavaScript (Рекомендуется)</string>
+    <string name="java_script">Использовать JavaScript (рекомендуется)</string>
     <string name="java_script_info">Некоторые функции браузера не будут работать, если JavaScript отключен.</string>
     <string name="enable_js">Включить JavaScript</string>
     <string name="disable_js">Отключить JavaScript</string>
