@@ -612,7 +612,7 @@
     <string name="accept_cookie_info_1">Позволяет сайту хранить или читать Cookie.</string>
     <string name="accept_cookie_info_2">Некоторые сайты могут работать некорректно, если Вы не разрешаете Cookie.</string>
     <string name="third_cookie">Сторонние файлы cookie</string>
-    <string name="java_script">Использовать JavaScript (рекомендуется)</string>
+    <string name="java_script">Использовать JavaScript (Рекомендуется)</string>
     <string name="java_script_info">Некоторые функции браузера не будут работать, если JavaScript отключен.</string>
     <string name="enable_js">Включить JavaScript</string>
     <string name="disable_js">Отключить JavaScript</string>
@@ -799,7 +799,7 @@
     <string name="ads_invalid">Недействительная</string>
     <string name="ads_invalid_info">Проблема с настройками рекламы. Поправьте настройки.</string>
     <string name="original_size">Оригинальный размер</string>
-    <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
+    <string name="reduced_size">Уменьшенный размер (Рекомендуется)</string>
     <string name="finger_print">Отпечаток пальца</string>
     <string name="finger_unavailable">Пользователь не может пройти аутентификацию, так как оборудование недоступно. Попробуйте позже.</string>
     <string name="finger_register">Пользователь не может пройти аутентификацию, так как отпечаток пальца не зарегистрирован.</string>

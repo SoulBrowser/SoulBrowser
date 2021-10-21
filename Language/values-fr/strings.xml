@@ -608,7 +608,7 @@
     <string name="grid_mode">Mode grille</string>
     <string name="list_mode">Mode liste</string>
     <string name="simple_mode">Mode simple</string>
-    <string name="accept_cookie">Cookies acceptés (recommandé)</string>
+    <string name="accept_cookie">Cookies acceptés (Recommandés)</string>
     <string name="accept_cookie_info_1">Permet au site de stocker ou de lire des cookies.</string>
     <string name="accept_cookie_info_2">Certains sites peuvent ne pas fonctionner correctement si vous n\'acceptez pas les cookies.</string>
     <string name="third_cookie">Cookies tiers</string>
@@ -799,7 +799,7 @@
     <string name="ads_invalid">Invalide</string>
     <string name="ads_invalid_info">Il y a un problème avec les paramètres d\'annonce. Veuillez le régler à nouveau.</string>
     <string name="original_size">Format original</string>
-    <string name="reduced_size">Taille réduite (recommandé)</string>
+    <string name="reduced_size">Taille réduite (Recommandés)</string>
     <string name="finger_print">Empreinte digitale</string>
     <string name="finger_unavailable">L\'utilisateur ne peut pas s\'authentifier car le matériel n\'est pas disponible. Réessayez plus tard.</string>
     <string name="finger_register">L\'utilisateur ne peut pas s\'authentifier car aucune empreinte digitale n\'est enregistrée.</string>

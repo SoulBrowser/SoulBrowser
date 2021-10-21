@@ -799,7 +799,7 @@
     <string name="ads_invalid">Invalid</string>
     <string name="ads_invalid_info">There is a problem with ad settings. Please set it again.</string>
     <string name="original_size">Original size</string>
-    <string name="reduced_size">Reduced size (recommended)</string>
+    <string name="reduced_size">Reduced size (Recommended)</string>
     <string name="finger_print">Fingerprint</string>
     <string name="finger_unavailable">The user can\'t authenticate because the hardware is unavailable. Try again later.</string>
     <string name="finger_register">The user can\'t authenticate because no fingerprint is enrolled.</string>
