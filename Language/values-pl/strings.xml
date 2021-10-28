@@ -58,6 +58,7 @@
     <string name="trans_auto">Automatyczne tłumaczenie</string>
     <string name="trans_except">Witryna wyjątków</string>
     <string name="trans_except_info">Możesz zarejestrować witryny, które nie korzystają z automatycznego tłumaczenia.</string>
+    <string name="google_trans">Google Tłumacz</string>
     <string name="find_word">Znajdź na stronie</string>
     <string name="verify_image">Weryfikacja obrazu</string>
     <string name="create_album">Utwórz albumu</string>
@@ -235,7 +236,6 @@
     <string name="search_engine">Wyszukiwarka</string>
     <string name="search_url">Szukaj</string>
     <string name="screen_off">Limit czasu ekranu</string>
-    <string name="screen_system">Ustawienia systemowe</string>
     <string name="screen_hour">1 godzina</string>
     <string name="screen_always">Zawsze włączony</string>
     <string name="screen_info_system">Zależy od ustawień systemu</string>
@@ -388,11 +388,12 @@
     <string name="system_name">System</string>
     <string name="gesture">Gest</string>
     <string name="show_status">Pokaż pasek stanu</string>
-    <string name="show_navi">Pokaż pasek przycisków</string>
-    <string name="address_icon">Przycisk paska adresu</string>
+    <string name="show_navi">Pokaż pasek nawigacyjny</string>
+    <string name="address_label">Etykieta paska wyszukiwania</string>
+    <string name="address_icon">Przycisk paska wyszukiwania</string>
     <string name="addr_icon_info">2. Możesz go usunąć, klikając ikonę.</string>
-    <string name="address_bar">Pasek adresu</string>
-    <string name="address_menu">Menu paska adresu</string>
+    <string name="address_bar">Pasek wyszukiwania</string>
+    <string name="address_menu">Menu paska wyszukiwania</string>
     <string name="show_tab_bar">Pokaż pasek kart</string>
     <string name="tab_swipe_up">Przesuń w górę pasek kart</string>
     <string name="tab_swipe_dn">Przeciągnij w dół pasek kart</string>
@@ -552,7 +553,7 @@
     <string name="ipad">iPad</string>
     <string name="user_defined">Niestandardowe</string>
     <string name="cast_on">Włącz przesyłanie</string>
-    <string name="show_full">Przycisk pełnego ekranu</string>
+    <string name="show_full">Przycisk odtwarzania na pełnym ekranie</string>
     <string name="icon_color">Kolor przycisku</string>
     <string name="storage_guide_1">Zaktualizowano dla Android 10.</string>
     <string name="storage_guide_2">W systemie Android 10 obowiązują zasady \'Scoped Storage\'.</string>
@@ -658,6 +659,7 @@
     <string name="small_list">Mała lista</string>
     <string name="large_list">Duża lista</string>
     <string name="full_screen">Pełny ekran</string>
+    <string name="screen_title">Ekran</string>
     <string name="scroll_mode">Tryb przewijania</string>
     <string name="scroll_guide_1">1. Wyświetla stronę załadowaną do tej pory.</string>
     <string name="scroll_guide_2">2. Wyświetla stronę w ramach dostępnego limitu pamięci.</string>
@@ -706,7 +708,6 @@
     <string name="theme_web">Przeglądarka</string>
     <string name="theme_light">Jasny motyw</string>
     <string name="theme_dark">Ciemny motyw</string>
-    <string name="theme_system">Systemu motyw</string>
     <string name="background">Tło</string>
     <string name="search_suggest">Sugestie wyszukiwania</string>
     <string name="at_bottom">Na dnie</string>
@@ -791,7 +792,7 @@
     <string name="video_player">Gracz</string>
     <string name="security">Bezpieczeństwo</string>
     <string name="keyboard_secure">Bezpieczeństwo klawiatury</string>
-    <string name="keyboard_secure_info_1">Cokolwiek wpiszesz w pasku adresu za pomocą klawiatury, nie zostanie zapisane.</string>
+    <string name="keyboard_secure_info_1">Nie zapisuje tego, co wpisujesz w pasku wyszukiwania za pomocą klawiatury.</string>
     <string name="keyboard_secure_info_2">Niektóre klawiatury mogą nie być obsługiwane.</string>
     <string name="ads_type">Typ reklamy</string>
     <string name="ads_persornal">Spersonalizowane reklamy</string>

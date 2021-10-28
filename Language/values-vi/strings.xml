@@ -58,6 +58,7 @@
     <string name="trans_auto">Bản dịch tự động</string>
     <string name="trans_except">Trang web ngoại lệ</string>
     <string name="trans_except_info">Bạn có thể đăng ký các trang web không sử dụng dịch tự động.</string>
+    <string name="google_trans">Google Dịch</string>
     <string name="find_word">Tìm ở trang</string>
     <string name="verify_image">Xác minh hình ảnh</string>
     <string name="create_album">Tạo album</string>
@@ -235,7 +236,6 @@
     <string name="search_engine">Máy tìm kiếm</string>
     <string name="search_url">Tìm kiếm</string>
     <string name="screen_off">Thời gian chờ màn hình</string>
-    <string name="screen_system">Thiết lập hệ thống</string>
     <string name="screen_hour">1 giờ</string>
     <string name="screen_always">Luôn luôn</string>
     <string name="screen_info_system">Phụ thuộc vào thiết lập hệ thống</string>
@@ -388,11 +388,12 @@
     <string name="system_name">Hệ thống</string>
     <string name="gesture">Cử chỉ</string>
     <string name="show_status">Thanh trạng thái chương trình</string>
-    <string name="show_navi">Hiển thị phím mềm</string>
-    <string name="address_icon">Nút thanh địa chỉ</string>
+    <string name="show_navi">Hiển thị thanh điều hướng</string>
+    <string name="address_label">Nhãn thanh tìm kiếm</string>
+    <string name="address_icon">Nút thanh tìm kiếm</string>
     <string name="addr_icon_info">2. Bạn có thể loại bỏ nó bằng cách nhấp vào biểu tượng.</string>
-    <string name="address_bar">Thanh địa chỉ</string>
-    <string name="address_menu">Menu thanh địa chỉ</string>
+    <string name="address_bar">Thanh tìm kiếm</string>
+    <string name="address_menu">Menu thanh tìm kiếm</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
     <string name="tab_swipe_up">Vuốt thanh tab lên</string>
     <string name="tab_swipe_dn">Vuốt thanh tab xuống</string>
@@ -552,7 +553,7 @@
     <string name="ipad">iPad</string>
     <string name="user_defined">Tùy chỉnh</string>
     <string name="cast_on">Cho phép diễn viên</string>
-    <string name="show_full">Nút toàn màn hình</string>
+    <string name="show_full">Nút phát toàn màn hình</string>
     <string name="icon_color">Màu nút</string>
     <string name="storage_guide_1">Đã cập nhật cho Android 10.</string>
     <string name="storage_guide_2">Kể từ Android 10, chính sách \'Lưu trữ có phạm vi\' được áp dụng.</string>
@@ -658,6 +659,7 @@
     <string name="small_list">Danh sách nhỏ</string>
     <string name="large_list">Danh sách lớn</string>
     <string name="full_screen">Toàn màn hình</string>
+    <string name="screen_title">Màn</string>
     <string name="scroll_mode">Chế độ cuộn</string>
     <string name="scroll_guide_1">1. Hiển thị trang được tải cho đến nay.</string>
     <string name="scroll_guide_2">2. Hiển thị trang trong giới hạn bộ nhớ khả dụng.</string>
@@ -706,7 +708,6 @@
     <string name="theme_web">Trình duyệt</string>
     <string name="theme_light">Chủ đề ánh sáng</string>
     <string name="theme_dark">Chủ đề tối</string>
-    <string name="theme_system">Chủ đề hệ thống</string>
     <string name="background">Lý lịch</string>
     <string name="search_suggest">Đề xuất tìm kiếm</string>
     <string name="at_bottom">Ở dưới cùng</string>
@@ -791,7 +792,7 @@
     <string name="video_player">Người chơi</string>
     <string name="security">Bảo vệ</string>
     <string name="keyboard_secure">Bảo mật bàn phím</string>
-    <string name="keyboard_secure_info_1">Bất cứ điều gì bạn nhập vào thanh địa chỉ bằng bàn phím sẽ không được lưu.</string>
+    <string name="keyboard_secure_info_1">Nó không lưu những gì bạn nhập vào thanh tìm kiếm bằng bàn phím.</string>
     <string name="keyboard_secure_info_2">Một số bàn phím có thể không được hỗ trợ.</string>
     <string name="ads_type">Loại quảng cáo</string>
     <string name="ads_persornal">Quảng cáo được cá nhân hóa</string>

@@ -58,6 +58,7 @@
     <string name="trans_auto">Traducere automată</string>
     <string name="trans_except">Site de excepție</string>
     <string name="trans_except_info">Puteți înregistra site-uri care nu utilizează traducerea automată.</string>
+    <string name="google_trans">Google Translate</string>
     <string name="find_word">Găsiți în pagina</string>
     <string name="verify_image">Verificare imagine</string>
     <string name="create_album">Creare album</string>
@@ -235,7 +236,6 @@
     <string name="search_engine">Motorul de căutare</string>
     <string name="search_url">Căutare</string>
     <string name="screen_off">Timeout ecran</string>
-    <string name="screen_system">Setarea sistemului</string>
     <string name="screen_hour">1 oră</string>
     <string name="screen_always">Întotdeauna pe</string>
     <string name="screen_info_system">Depinde de setarea sistemului</string>
@@ -388,11 +388,12 @@
     <string name="system_name">Sistem</string>
     <string name="gesture">Gest</string>
     <string name="show_status">Afișează bara de stare</string>
-    <string name="show_navi">Afișează tasta soft</string>
-    <string name="address_icon">Butonul barei de adrese</string>
+    <string name="show_navi">Afișează bara de navigare</string>
+    <string name="address_label">Eticheta barei de căutare</string>
+    <string name="address_icon">Butonul din bara de căutare</string>
     <string name="addr_icon_info">2. Puteți să-l eliminați făcând clic pe pictogramă.</string>
-    <string name="address_bar">Bara de adresa</string>
-    <string name="address_menu">Meniul barei de adrese</string>
+    <string name="address_bar">Bara de căutare</string>
+    <string name="address_menu">Meniul barei de căutare</string>
     <string name="show_tab_bar">Afișează bara de file</string>
     <string name="tab_swipe_up">Glisați în sus bara de file</string>
     <string name="tab_swipe_dn">Glisați în jos pe bara de file</string>
@@ -552,7 +553,7 @@
     <string name="ipad">iPad</string>
     <string name="user_defined">Personalizat</string>
     <string name="cast_on">Activați cast</string>
-    <string name="show_full">Buton ecran complet</string>
+    <string name="show_full">Butonul de redare pe ecran complet</string>
     <string name="icon_color">Culoarea butonului</string>
     <string name="storage_guide_1">Actualizat pentru Android 10.</string>
     <string name="storage_guide_2">Începând cu Android 10, se aplică politica \'Scoped Storage\'.</string>
@@ -658,6 +659,7 @@
     <string name="small_list">Lista mică</string>
     <string name="large_list">Lista mare</string>
     <string name="full_screen">Ecran complet</string>
+    <string name="screen_title">Ecran</string>
     <string name="scroll_mode">Modul de derulare</string>
     <string name="scroll_guide_1">1. Afișează pagina încărcată până acum.</string>
     <string name="scroll_guide_2">2. Afișează pagina în limita de memorie disponibilă.</string>
@@ -706,7 +708,6 @@
     <string name="theme_web">Browser</string>
     <string name="theme_light">Tema ușoară</string>
     <string name="theme_dark">Tema întunecată</string>
-    <string name="theme_system">Tema sistemului</string>
     <string name="background">Fundal</string>
     <string name="search_suggest">Sugestii de căutare</string>
     <string name="at_bottom">În partea de jos</string>
@@ -791,7 +792,7 @@
     <string name="video_player">Jucător</string>
     <string name="security">Securitate</string>
     <string name="keyboard_secure">Securitate tastatură</string>
-    <string name="keyboard_secure_info_1">Ceea ce tastați în bara de adrese cu tastatura nu este salvat.</string>
+    <string name="keyboard_secure_info_1">Nu salvează ceea ce tastați în bara de căutare cu tastatura.</string>
     <string name="keyboard_secure_info_2">Este posibil ca unele tastaturi să nu fie acceptate.</string>
     <string name="ads_type">Tipul de anunț</string>
     <string name="ads_persornal">Anunțuri personalizate</string>

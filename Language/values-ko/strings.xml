@@ -58,6 +58,7 @@
     <string name="trans_auto">자동 번역</string>
     <string name="trans_except">번역 예외 사이트</string>
     <string name="trans_except_info">자동 번역을 사용하지 않는 사이트를 등록할 수 있습니다.</string>
+    <string name="google_trans">Google 번역</string>
     <string name="find_word">페이지에서 찾기</string>
     <string name="verify_image">이미지 확인</string>
     <string name="create_album">앨범 만들기</string>
@@ -235,7 +236,6 @@
     <string name="search_engine">검색 엔진</string>
     <string name="search_url">검색</string>
     <string name="screen_off">화면 자동 꺼짐</string>
-    <string name="screen_system">시스템 설정</string>
     <string name="screen_hour">1시간</string>
     <string name="screen_always">항상 켜짐</string>
     <string name="screen_info_system">시스템 설정 값에 따름</string>
@@ -387,12 +387,13 @@
     <string name="storage">저장소</string>
     <string name="system_name">시스템</string>
     <string name="gesture">제스처</string>
-    <string name="show_status">상태표시줄 표시</string>
-    <string name="show_navi">소프트키 표시</string>
-    <string name="address_icon">주소표시줄 버튼</string>
+    <string name="show_status">상태바 표시</string>
+    <string name="show_navi">네비바 표시</string>
+    <string name="address_label">검색바 라벨</string>
+    <string name="address_icon">검색바 버튼</string>
     <string name="addr_icon_info">2. 아이콘을 클릭해서 제거할 수 있습니다.</string>
-    <string name="address_bar">주소표시줄</string>
-    <string name="address_menu">주소표시줄 메뉴</string>
+    <string name="address_bar">검색바</string>
+    <string name="address_menu">검색바 메뉴</string>
     <string name="show_tab_bar">탭바 표시</string>
     <string name="tab_swipe_up">탭바를 위로 스와이프</string>
     <string name="tab_swipe_dn">탭바를 아래로 스와이프</string>
@@ -552,7 +553,7 @@
     <string name="ipad">iPad</string>
     <string name="user_defined">사용자 정의</string>
     <string name="cast_on">캐스트 사용</string>
-    <string name="show_full">전체 화면 버튼</string>
+    <string name="show_full">전체 화면으로 재생 버튼</string>
     <string name="icon_color">버튼 색상</string>
     <string name="storage_guide_1">Android 10 용으로 업데이트되었습니다.</string>
     <string name="storage_guide_2">Android 10부터는 \'Scoped Storage\'정책이 적용됩니다.</string>
@@ -658,6 +659,7 @@
     <string name="small_list">작은 리스트</string>
     <string name="large_list">큰 리스트</string>
     <string name="full_screen">전체 화면</string>
+    <string name="screen_title">화면</string>
     <string name="scroll_mode">스크롤 모드</string>
     <string name="scroll_guide_1">1. 지금까지 로드된 페이지를 표시합니다.</string>
     <string name="scroll_guide_2">2. 사용 가능한 메모리 제한 내에서 페이지를 표시합니다.</string>
@@ -706,7 +708,6 @@
     <string name="theme_web">브라우저</string>
     <string name="theme_light">밝은 테마</string>
     <string name="theme_dark">어두운 테마</string>
-    <string name="theme_system">시스템 테마</string>
     <string name="background">배경</string>
     <string name="search_suggest">검색 제안</string>
     <string name="at_bottom">하단에</string>
@@ -791,7 +792,7 @@
     <string name="video_player">플레이어</string>
     <string name="security">보안</string>
     <string name="keyboard_secure">키보드 보안</string>
-    <string name="keyboard_secure_info_1">키보드로 주소표시줄에 입력한 내용을 저장하지 않습니다.</string>
+    <string name="keyboard_secure_info_1">키보드로 검색바에 입력한 내용을 저장하지 않습니다.</string>
     <string name="keyboard_secure_info_2">일부 키보드는 지원되지 않을 수 있습니다.</string>
     <string name="ads_type">광고 유형</string>
     <string name="ads_persornal">개인 맞춤 광고</string>

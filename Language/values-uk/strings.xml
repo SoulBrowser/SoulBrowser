@@ -58,6 +58,7 @@
     <string name="trans_auto">Автоматичний переклад</string>
     <string name="trans_except">Сайт винятків</string>
     <string name="trans_except_info">Ви можете зареєструвати сайти, які не використовують автоматичний переклад.</string>
+    <string name="google_trans">Google Перекладач</string>
     <string name="find_word">Знайти на сторінці</string>
     <string name="verify_image">Підтвердження зображення</string>
     <string name="create_album">Створити альбом</string>
@@ -235,7 +236,6 @@
     <string name="search_engine">Пошукова система</string>
     <string name="search_url">Пошук</string>
     <string name="screen_off">Час очікування екрана</string>
-    <string name="screen_system">Налаштування системи</string>
     <string name="screen_hour">1 година</string>
     <string name="screen_always">Завжди</string>
     <string name="screen_info_system">Залежить від налаштування системи</string>
@@ -388,11 +388,12 @@
     <string name="system_name">Система</string>
     <string name="gesture">Жест</string>
     <string name="show_status">Показати рядок стану</string>
-    <string name="show_navi">Показати програмну клавішу</string>
-    <string name="address_icon">Кнопка адресного рядка</string>
+    <string name="show_navi">Показати панель навігації</string>
+    <string name="address_label">Мітка рядка пошуку</string>
+    <string name="address_icon">Кнопка рядка пошуку</string>
     <string name="addr_icon_info">2. Ви можете видалити його, натиснувши значок.</string>
-    <string name="address_bar">Адресний рядок</string>
-    <string name="address_menu">Меню адресного рядка</string>
+    <string name="address_bar">Панель пошуку</string>
+    <string name="address_menu">Меню рядка пошуку</string>
     <string name="show_tab_bar">Показувати панель вкладок</string>
     <string name="tab_swipe_up">Проведіть пальцем по вкладці вгору</string>
     <string name="tab_swipe_dn">Проведіть вниз по панелі вкладок</string>
@@ -552,7 +553,7 @@
     <string name="ipad">iPad</string>
     <string name="user_defined">Користувацька</string>
     <string name="cast_on">Увімкнути трансляцію</string>
-    <string name="show_full">Повноекранна кнопка</string>
+    <string name="show_full">Кнопка відтворення на весь екран</string>
     <string name="icon_color">Колір кнопки</string>
     <string name="storage_guide_1">Оновлено для Android 10.</string>
     <string name="storage_guide_2">Станом на Android 10 застосовується політика \'Скорочене зберігання\'.</string>
@@ -658,6 +659,7 @@
     <string name="small_list">Список (зменшений шрифт)</string>
     <string name="large_list">Список (збільшений шрифт)</string>
     <string name="full_screen">Повноекранний</string>
+    <string name="screen_title">Екран</string>
     <string name="scroll_mode">Режим прокрутки</string>
     <string name="scroll_guide_1">1. Відображає завантажену сторінку.</string>
     <string name="scroll_guide_2">2. Відображає сторінку в межах доступної межі пам\'яті.</string>
@@ -706,7 +708,6 @@
     <string name="theme_web">Браузер</string>
     <string name="theme_light">Світла тема</string>
     <string name="theme_dark">Темна тема</string>
-    <string name="theme_system">Тема системи</string>
     <string name="background">Фон</string>
     <string name="search_suggest">Пошукові підказки</string>
     <string name="at_bottom">Внизу</string>
@@ -791,7 +792,7 @@
     <string name="video_player">Програвач</string>
     <string name="security">Безпека</string>
     <string name="keyboard_secure">Безпека клавіатури</string>
-    <string name="keyboard_secure_info_1">Все, що ви вводите в адресний рядок за допомогою клавіатури, не зберігається.</string>
+    <string name="keyboard_secure_info_1">Він не зберігає те, що ви вводите в рядку пошуку за допомогою клавіатури.</string>
     <string name="keyboard_secure_info_2">Деякі клавіатури можуть не підтримуватися.</string>
     <string name="ads_type">Тип оголошення</string>
     <string name="ads_persornal">Персоналізована реклама</string>
