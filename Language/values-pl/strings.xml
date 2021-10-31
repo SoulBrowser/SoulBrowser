@@ -26,6 +26,7 @@
     <string name="doc">Dokument</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">Galeria</string>
     <string name="download">Pobierz</string>
     <string name="down_set">Pobierz</string>
     <string name="fast_down">Szybkie pobieranie</string>
@@ -48,8 +49,6 @@
     <string name="save_success">Zapisz sukces</string>
     <string name="save_fail">Zapis nie powiódł się</string>
     <string name="capture">Zrzut ekranu</string>
-    <string name="capture_success">Sukces</string>
-    <string name="capture_fail">Niepowodzenie</string>
     <string name="print_page">Drukuj / PDF</string>
     <string name="print_success">Sukces drukowania</string>
     <string name="print_fail">Drukowanie nie powiodło się</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">Może nie być obsługiwany we wszystkich regionach.</string>
     <string name="restart">Uruchom ponownie</string>
     <string name="down_fail_guide">Plik może być uszkodzony.</string>
-    <string name="default_filter">Wbudowany filtr</string>
-    <string name="user_filter">Filtr użytkownika</string>
+    <string name="ads_filter">Filtr</string>
     <string name="filter_search">Filtr wyszukiwania</string>
     <string name="filter_info">Używanie wielu filtrów jednocześnie może spowolnić działanie przeglądarki.</string>
     <string name="backup_title">Backup danych</string>
@@ -877,4 +875,5 @@
     <string name="log_out">Wyloguj</string>
     <string name="auto_update">Automatyczna aktualizacja</string>
     <string name="update_time">Cykl aktualizacji</string>
+    <string name="exit_rem_mem">Gdy aplikacja zostanie zamknięta, zostanie usunięta z pamięci.</string>
 </resources>

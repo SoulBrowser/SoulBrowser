@@ -26,6 +26,7 @@
     <string name="doc">Documento</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">Galleria</string>
     <string name="download">Download</string>
     <string name="down_set">Download</string>
     <string name="fast_down">Download veloce</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">Il video live non può essere scaricato.</string>
     <string name="save_success">Salva successo</string>
     <string name="save_fail">Salva fallito</string>
-    <string name="capture">Cattura schermata</string>
-    <string name="capture_success">Successo</string>
-    <string name="capture_fail">Fallito</string>
+    <string name="capture">Immagine dello schermo</string>
     <string name="print_page">Stampa / PDF</string>
     <string name="print_success">Stampa successo</string>
     <string name="print_fail">Stampa fallita</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">Potrebbe non essere supportato in tutte le regioni.</string>
     <string name="restart">Ricomincia</string>
     <string name="down_fail_guide">Il file potrebbe essere danneggiato.</string>
-    <string name="default_filter">Filtro incorporato</string>
-    <string name="user_filter">Filtro utente</string>
+    <string name="ads_filter">Filtro</string>
     <string name="filter_search">Filtro di ricerca</string>
     <string name="filter_info">L\'uso di più filtri contemporaneamente può rallentare le prestazioni del browser.</string>
     <string name="backup_title">Backup dei dati</string>
@@ -877,4 +875,5 @@
     <string name="log_out">Disconnettersi</string>
     <string name="auto_update">Aggiornamento automatico</string>
     <string name="update_time">Ciclo di aggiornamento</string>
+    <string name="exit_rem_mem">Quando l\'app esce, viene rimossa dalla memoria.</string>
 </resources>

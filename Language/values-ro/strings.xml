@@ -26,6 +26,7 @@
     <string name="doc">Document</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">Galerie</string>
     <string name="download">Descărcare</string>
     <string name="down_set">Descărcare</string>
     <string name="fast_down">Descărcare rapidă</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">Videoclipul live nu poate fi descărcat.</string>
     <string name="save_success">Salvați succes</string>
     <string name="save_fail">Salvare eșuată</string>
-    <string name="capture">Captura ecranului</string>
-    <string name="capture_success">Succes</string>
-    <string name="capture_fail">Eșuat</string>
+    <string name="capture">Captură de ecran</string>
     <string name="print_page">Imprimare / PDF</string>
     <string name="print_success">Succes de tipărire</string>
     <string name="print_fail">Imprimare eșuată</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">Este posibil să nu fie acceptat în toate regiunile.</string>
     <string name="restart">Repornire</string>
     <string name="down_fail_guide">Fișierul poate fi deteriorat.</string>
-    <string name="default_filter">Filtru încorporat</string>
-    <string name="user_filter">Filtru utilizator</string>
+    <string name="ads_filter">Filtru</string>
     <string name="filter_search">Filtru de căutare</string>
     <string name="filter_info">Utilizarea mai multor filtre în același timp poate încetini performanța browserului.</string>
     <string name="backup_title">Copia de rezerva a datelor</string>
@@ -877,4 +875,5 @@
     <string name="log_out">Deconectează-te</string>
     <string name="auto_update">Actualizare automată</string>
     <string name="update_time">Ciclu de actualizare</string>
+    <string name="exit_rem_mem">Când aplicația iese, aceasta este eliminată din memorie.</string>
 </resources>

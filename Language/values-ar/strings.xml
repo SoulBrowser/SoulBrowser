@@ -26,6 +26,7 @@
     <string name="doc">وثيقة</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">صالة عرض</string>
     <string name="download">تحميل</string>
     <string name="down_set">تحميل</string>
     <string name="fast_down">تحميل سريع</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">قد لا يتم تنزيل الفيديو المباشر.</string>
     <string name="save_success">احفظ النجاح</string>
     <string name="save_fail">فشل عملية الحفظ</string>
-    <string name="capture">تصوير الشاشة</string>
-    <string name="capture_success">حقق النجاح</string>
-    <string name="capture_fail">التقاط الفشل</string>
+    <string name="capture">لقطة شاشة</string>
     <string name="print_page">طباعة / PDF</string>
     <string name="print_success">نجاح الطباعة</string>
     <string name="print_fail">فشل الطباعة</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">قد لا يكون مدعومًا في جميع المناطق.</string>
     <string name="restart">إعادة تشغيل</string>
     <string name="down_fail_guide">قد يكون الملف تالفًا.</string>
-    <string name="default_filter">مرشح مدمج</string>
-    <string name="user_filter">مرشح المستخدم</string>
+    <string name="ads_filter">منقي</string>
     <string name="filter_search">بحث التصفية</string>
     <string name="filter_info">يمكن أن يؤدي استخدام عوامل تصفية متعددة في نفس الوقت إلى إبطاء أداء المتصفح.</string>
     <string name="backup_title">النسخ الاحتياطي للبيانات</string>
@@ -877,4 +875,5 @@
     <string name="log_out">تسجيل خروج</string>
     <string name="auto_update">التحديث التلقائي</string>
     <string name="update_time">دورة التحديث</string>
+    <string name="exit_rem_mem">عند خروج التطبيق ، تتم إزالته من الذاكرة.</string>
 </resources>

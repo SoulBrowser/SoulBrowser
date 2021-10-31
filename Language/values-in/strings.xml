@@ -26,6 +26,7 @@
     <string name="doc">Dokumen</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">Galeri</string>
     <string name="download">Unduh</string>
     <string name="down_set">Unduh</string>
     <string name="fast_down">Unduhan cepat</string>
@@ -48,8 +49,6 @@
     <string name="save_success">Simpan sukses</string>
     <string name="save_fail">Simpan gagal</string>
     <string name="capture">Tangkapan layar</string>
-    <string name="capture_success">Sukses</string>
-    <string name="capture_fail">Gagal</string>
     <string name="print_page">Cetak / PDF</string>
     <string name="print_success">Keberhasilan cetak</string>
     <string name="print_fail">Print Failed</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">Ini mungkin tidak didukung di semua wilayah.</string>
     <string name="restart">Mengulang kembali</string>
     <string name="down_fail_guide">File mungkin rusak.</string>
-    <string name="default_filter">Filter bawaan</string>
-    <string name="user_filter">Filter pengguna</string>
+    <string name="ads_filter">Saring</string>
     <string name="filter_search">Cari filter</string>
     <string name="filter_info">Menggunakan beberapa filter sekaligus dapat memperlambat kinerja browser.</string>
     <string name="backup_title">Cadangan data</string>
@@ -877,4 +875,5 @@
     <string name="log_out">Keluar</string>
     <string name="auto_update">Pembaruan otomatis</string>
     <string name="update_time">Siklus pembaruan</string>
+    <string name="exit_rem_mem">Saat aplikasi keluar, itu dihapus dari memori.</string>
 </resources>

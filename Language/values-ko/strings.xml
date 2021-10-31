@@ -26,6 +26,7 @@
     <string name="doc">문서</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">갤러리</string>
     <string name="download">다운로드</string>
     <string name="down_set">다운로드</string>
     <string name="fast_down">빠른 다운로드</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">라이브 영상은 다운로드가 안 될 수 있습니다.</string>
     <string name="save_success">저장 성공</string>
     <string name="save_fail">저장 실패</string>
-    <string name="capture">화면 캡처</string>
-    <string name="capture_success">캡처 성공</string>
-    <string name="capture_fail">캡처 실패</string>
+    <string name="capture">스크린샷</string>
     <string name="print_page">인쇄 / PDF</string>
     <string name="print_success">인쇄 성공</string>
     <string name="print_fail">인쇄 실패</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">일부 지역에서는 지원되지 않을 수 있습니다.</string>
     <string name="restart">재시작</string>
     <string name="down_fail_guide">파일이 손상되었을 수 있습니다.</string>
-    <string name="default_filter">내장 필터</string>
-    <string name="user_filter">사용자 필터</string>
+    <string name="ads_filter">필터</string>
     <string name="filter_search">필터 검색</string>
     <string name="filter_info">여러 필터를 동시에 사용하면 브라우저 성능이 느려질 수 있습니다.</string>
     <string name="backup_title">데이터 백업</string>
@@ -877,4 +875,5 @@
     <string name="log_out">로그 아웃</string>
     <string name="auto_update">자동 업데이트</string>
     <string name="update_time">업데이트 주기</string>
+    <string name="exit_rem_mem">앱 종료 시 메모리에서 제거</string>
 </resources>

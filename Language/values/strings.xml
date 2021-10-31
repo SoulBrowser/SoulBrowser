@@ -26,6 +26,7 @@
     <string name="doc">Document</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">Gallery</string>
     <string name="download">Download</string>
     <string name="down_set">Download</string>
     <string name="fast_down">Fast download</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">Live video may not be downloaded.</string>
     <string name="save_success">Save success</string>
     <string name="save_fail">Save failed</string>
-    <string name="capture">Screen capture</string>
-    <string name="capture_success">Success</string>
-    <string name="capture_fail">Failed</string>
+    <string name="capture">Screenshot</string>
     <string name="print_page">Print / PDF</string>
     <string name="print_success">Print success</string>
     <string name="print_fail">Print Failed</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">It may not be supported in all regions.</string>
     <string name="restart">Restart</string>
     <string name="down_fail_guide">The file may be damaged.</string>
-    <string name="default_filter">Built-in filter</string>
-    <string name="user_filter">User filter</string>
+    <string name="ads_filter">Filter</string>
     <string name="filter_search">Search filter</string>
     <string name="filter_info">Using multiple filters at the same time can slow browser performance.</string>
     <string name="backup_title">Data backup</string>
@@ -877,4 +875,5 @@
     <string name="log_out">Sign out</string>
     <string name="auto_update">Auto update</string>
     <string name="update_time">Update cycle</string>
+    <string name="exit_rem_mem">When the app exits, it is removed from memory.</string>
 </resources>

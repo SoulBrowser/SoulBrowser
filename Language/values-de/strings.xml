@@ -26,6 +26,7 @@
     <string name="doc">Dokument</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">Galerie</string>
     <string name="download">Herunterladen</string>
     <string name="down_set">Herunterladen</string>
     <string name="fast_down">Schneller herunterladen</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">Live-Videos können möglicherweise nicht heruntergeladen werden.</string>
     <string name="save_success">Speichern erfolgreich</string>
     <string name="save_fail">Fehlgeschlagen</string>
-    <string name="capture">Bildschirmaufnahme</string>
-    <string name="capture_success">Erfolg</string>
-    <string name="capture_fail">Fehlgeschlagen</string>
+    <string name="capture">Bildschirmfoto</string>
     <string name="print_page">Drucken / PDF</string>
     <string name="print_success">Drucken erfolgreich</string>
     <string name="print_fail">Drucken fehlgeschlagen</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">Es wird möglicherweise nicht in allen Regionen unterstützt.</string>
     <string name="restart">Neustart</string>
     <string name="down_fail_guide">Die Datei ist möglicherweise beschädigt.</string>
-    <string name="default_filter">Eingebauter Filter</string>
-    <string name="user_filter">Benutzerfilter</string>
+    <string name="ads_filter">Filter</string>
     <string name="filter_search">Suchfilter</string>
     <string name="filter_info">Die gleichzeitige Verwendung mehrerer Filter kann die Browserleistung beeinträchtigen.</string>
     <string name="backup_title">Datensicherung</string>
@@ -877,4 +875,5 @@
     <string name="log_out">Ausloggen</string>
     <string name="auto_update">Automatisches Update</string>
     <string name="update_time">Aktualisierungszyklus</string>
+    <string name="exit_rem_mem">Wenn die App beendet wird, wird sie aus dem Speicher entfernt.</string>
 </resources>

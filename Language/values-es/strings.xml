@@ -26,6 +26,7 @@
     <string name="doc">Documento</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">Galería</string>
     <string name="download">Descargas</string>
     <string name="down_set">Descargas</string>
     <string name="fast_down">Descarga rápida</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">El video en vivo no se puede descargar.</string>
     <string name="save_success">Guardar correcto</string>
     <string name="save_fail">Guardar fallido</string>
-    <string name="capture">Captura pantalla</string>
-    <string name="capture_success">Captura correcta</string>
-    <string name="capture_fail">Captura fallida</string>
+    <string name="capture">Captura de pantalla</string>
     <string name="print_page">Imprimir / PDF</string>
     <string name="print_success">Impresión correcta</string>
     <string name="print_fail">Impresión fallida</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">Es posible que no sea compatible con todas las regiones.</string>
     <string name="restart">Reiniciar</string>
     <string name="down_fail_guide">El archivo puede estar dañado.</string>
-    <string name="default_filter">Filtro incorporado</string>
-    <string name="user_filter">Filtro de usuario</string>
+    <string name="ads_filter">Filtrar</string>
     <string name="filter_search">Filtro de búsqueda</string>
     <string name="filter_info">El uso de varios filtros al mismo tiempo puede ralentizar el rendimiento del navegador.</string>
     <string name="backup_title">Copias de seguridad</string>
@@ -877,4 +875,5 @@
     <string name="log_out">Cerrar sesión</string>
     <string name="auto_update">Actualización automática</string>
     <string name="update_time">Ciclo de actualización</string>
+    <string name="exit_rem_mem">Cuando la aplicación se cierra, se elimina de la memoria.</string>
 </resources>

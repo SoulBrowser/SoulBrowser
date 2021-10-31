@@ -26,6 +26,7 @@
     <string name="doc">文書</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">ギャラリー</string>
     <string name="download">ダウンロード</string>
     <string name="down_set">ダウンロード</string>
     <string name="fast_down">高速ダウンロード</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">生放送中の映像は、ダウンロードにならないことがあります。</string>
     <string name="save_success">保存成功</string>
     <string name="save_fail">保存で失敗</string>
-    <string name="capture">画面キャプチャ</string>
-    <string name="capture_success">成功</string>
-    <string name="capture_fail">失敗</string>
+    <string name="capture">スクリーンショット</string>
     <string name="print_page">印刷 / PDF</string>
     <string name="print_success">印刷成功</string>
     <string name="print_fail">印刷に失敗し</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">一部の地域ではサポートされないことがあります。</string>
     <string name="restart">再起動</string>
     <string name="down_fail_guide">ファイルが壊れている可能性があります。</string>
-    <string name="default_filter">内蔵フィルタ</string>
-    <string name="user_filter">ユーザーフィルター</string>
+    <string name="ads_filter">フィルター</string>
     <string name="filter_search">フィルタを検索</string>
     <string name="filter_info">複数のフィルタを同時に使用すると、ブラウザーのパフォーマンスが低下することがあります。</string>
     <string name="backup_title">データのバックアップ</string>
@@ -877,4 +875,5 @@
     <string name="log_out">ログアウト</string>
     <string name="auto_update">自動更新</string>
     <string name="update_time">更新頻度</string>
+    <string name="exit_rem_mem">アプリが終了するとメモリから削除されます。</string>
 </resources>

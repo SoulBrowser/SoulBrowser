@@ -26,6 +26,7 @@
     <string name="doc">Документ</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">Галерея</string>
     <string name="download">Скачать</string>
     <string name="down_set">Загрузки</string>
     <string name="fast_down">Быстрая загрузка</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">Живое видео не может быть загружено.</string>
     <string name="save_success">Успешно загружено</string>
     <string name="save_fail">Загрузка не удалась</string>
-    <string name="capture">Захват экрана</string>
-    <string name="capture_success">Успешно захвачено</string>
-    <string name="capture_fail">Не удалось захватить</string>
+    <string name="capture">Скриншот</string>
     <string name="print_page">Печать / PDF</string>
     <string name="print_success">Успешно распечатано</string>
     <string name="print_fail">Сбой печати</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">Может не поддерживаться в некоторых регионах.</string>
     <string name="restart">Начать сначала</string>
     <string name="down_fail_guide">Файл может быть повреждён.</string>
-    <string name="default_filter">Встроенный фильтр</string>
-    <string name="user_filter">Пользовательский фильтр</string>
+    <string name="ads_filter">Фильтр</string>
     <string name="filter_search">Фильтр поиска</string>
     <string name="filter_info">Использование нескольких фильтров одновременно может снизить производительность браузера.</string>
     <string name="backup_title">Резервное копирование данных</string>
@@ -877,4 +875,5 @@
     <string name="log_out">Выйти</string>
     <string name="auto_update">Автоматическое обновление</string>
     <string name="update_time">Цикл обновления</string>
+    <string name="exit_rem_mem">Когда приложение закрывается, оно удаляется из памяти.</string>
 </resources>

@@ -26,6 +26,7 @@
     <string name="doc">เอกสาร</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">แกลลอรี่</string>
     <string name="download">ดาวน์โหลด</string>
     <string name="down_set">ดาวน์โหลด</string>
     <string name="fast_down">ดาวน์โหลดอย่างรวดเร็ว</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">ไม่สามารถดาวน์โหลดวิดีโอสด</string>
     <string name="save_success">บันทึกความสำเร็จ</string>
     <string name="save_fail">บันทึกล้มเหลว</string>
-    <string name="capture">การดักจับหน้าจอ</string>
-    <string name="capture_success">สำเร็จ</string>
-    <string name="capture_fail">ล้มเหลว</string>
+    <string name="capture">ภาพหน้าจอ</string>
     <string name="print_page">พิมพ์ / PDF</string>
     <string name="print_success">ความสำเร็จในการพิมพ์</string>
     <string name="print_fail">การพิมพ์ล้มเหลว</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">อาจไม่รองรับในทุกภูมิภาค</string>
     <string name="restart">เริ่มต้นใหม่</string>
     <string name="down_fail_guide">ไฟล์อาจเสียหาย</string>
-    <string name="default_filter">ฟิลเตอร์ในตัว</string>
-    <string name="user_filter">ตัวกรองผู้ใช้</string>
+    <string name="ads_filter">กรอง</string>
     <string name="filter_search">ตัวกรองการค้นหา</string>
     <string name="filter_info">การใช้ตัวกรองหลายตัวพร้อมกันอาจทำให้ประสิทธิภาพเบราว์เซอร์ช้าลง</string>
     <string name="backup_title">สำรองข้อมูล</string>
@@ -877,4 +875,5 @@
     <string name="log_out">ออกจากระบบ</string>
     <string name="auto_update">อัปเดตอัตโนมัติ</string>
     <string name="update_time">รอบการอัพเดท</string>
+    <string name="exit_rem_mem">เมื่อออกจากแอพ จะถูกลบออกจากหน่วยความจำ</string>
 </resources>

@@ -26,6 +26,7 @@
     <string name="doc">文件</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">画廊</string>
     <string name="download">下载</string>
     <string name="down_set">下载</string>
     <string name="fast_down">快速下载</string>
@@ -47,9 +48,7 @@
     <string name="live_fail">直播可能无法下载</string>
     <string name="save_success">保存成功</string>
     <string name="save_fail">保存失败</string>
-    <string name="capture">屏幕截图</string>
-    <string name="capture_success">截图成功</string>
-    <string name="capture_fail">截图失败</string>
+    <string name="capture">截屏</string>
     <string name="print_page">打印 / PDF</string>
     <string name="print_success">打印成功</string>
     <string name="print_fail">打印失败</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">可能并非所有地区都支持它</string>
     <string name="restart">重新开始</string>
     <string name="down_fail_guide">该文件可能已损坏</string>
-    <string name="default_filter">内置过滤器</string>
-    <string name="user_filter">用户过滤器</string>
+    <string name="ads_filter">筛选</string>
     <string name="filter_search">搜索过滤器</string>
     <string name="filter_info">同时使用多个过滤器会降低浏览器性能</string>
     <string name="backup_title">数据备份</string>
@@ -877,4 +875,5 @@
     <string name="log_out">登出</string>
     <string name="auto_update">自动更新</string>
     <string name="update_time">更新周期</string>
+    <string name="exit_rem_mem">当应用程序退出时，它会从内存中删除</string>
 </resources>

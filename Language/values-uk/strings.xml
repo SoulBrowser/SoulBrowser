@@ -26,6 +26,7 @@
     <string name="doc">Документ</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">Галерея</string>
     <string name="download">Завантаження</string>
     <string name="down_set">Завантаження</string>
     <string name="fast_down">Швидке завантаження</string>
@@ -48,8 +49,6 @@
     <string name="save_success">Вдало завантажено</string>
     <string name="save_fail">Не вдалося зберегти</string>
     <string name="capture">Скріншот</string>
-    <string name="capture_success">Роздруковано успішно</string>
-    <string name="capture_fail">Не вдалося роздрукувати</string>
     <string name="print_page">Друк/PDF</string>
     <string name="print_success">Роздруковано успiшно</string>
     <string name="print_fail">Не вдалося надрукувати</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">Він може підтримуватися не у всіх регіонах.</string>
     <string name="restart">Перезапустити</string>
     <string name="down_fail_guide">Файл може бути пошкоджений.</string>
-    <string name="default_filter">Вбудований фільтр</string>
-    <string name="user_filter">Фільтр користувача</string>
+    <string name="ads_filter">Фільтр</string>
     <string name="filter_search">Пошук фільтра</string>
     <string name="filter_info">Використання декількох фільтрів одночасно може уповільнити роботу браузера.</string>
     <string name="backup_title">Резервне копіювання даних</string>
@@ -877,4 +875,5 @@
     <string name="log_out">Вийти</string>
     <string name="auto_update">Автоматичне оновлення</string>
     <string name="update_time">Цикл оновлення</string>
+    <string name="exit_rem_mem">Коли програма закривається, вона видаляється з пам’яті.</string>
 </resources>

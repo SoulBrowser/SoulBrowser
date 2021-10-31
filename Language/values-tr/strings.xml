@@ -26,6 +26,7 @@
     <string name="doc">Belge</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
+    <string name="gallery">Galeri</string>
     <string name="download">İndir</string>
     <string name="down_set">İndir</string>
     <string name="fast_down">Hızlı indirme</string>
@@ -48,8 +49,6 @@
     <string name="save_success">Başarıyı kaydet</string>
     <string name="save_fail">Kaydetme işlemi başarısız oldu</string>
     <string name="capture">Ekran görüntüsü</string>
-    <string name="capture_success">Başarı</string>
-    <string name="capture_fail">Başarısız</string>
     <string name="print_page">Yazdır / PDF</string>
     <string name="print_success">Baskı başarısı</string>
     <string name="print_fail">Yazdırılamadı</string>
@@ -678,8 +677,7 @@
     <string name="not_support_locale">Tüm bölgelerde desteklenmeyebilir.</string>
     <string name="restart">Tekrar başlat</string>
     <string name="down_fail_guide">Dosya zarar görmüş olabilir.</string>
-    <string name="default_filter">Yerleşik filtre</string>
-    <string name="user_filter">Kullanıcı filtresi</string>
+    <string name="ads_filter">Filtre</string>
     <string name="filter_search">Arama filtresi</string>
     <string name="filter_info">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
     <string name="backup_title">Veri yedekleme</string>
@@ -877,4 +875,5 @@
     <string name="log_out">Çıkış Yap</string>
     <string name="auto_update">Otomatik güncelleme</string>
     <string name="update_time">Güncelleme döngüsü</string>
+    <string name="exit_rem_mem">Uygulama çıktığında, bellekten kaldırılır.</string>
 </resources>
