@@ -643,8 +643,8 @@
     <string name="accent_tab">선택된 탭 강조</string>
     <string name="accent_text">텍스트 강조</string>
     <string name="accent_color">강조 색상</string>
-    <string name="app_keyboard">앱 시작시 키보드 활성화</string>
-    <string name="tab_keyboard">탭 추가시 키보드 활성화</string>
+    <string name="app_keyboard">앱 시작 시 키보드 활성화</string>
+    <string name="tab_keyboard">탭 추가 시 키보드 활성화</string>
     <string name="swipe">스와이프</string>
     <string name="page_move">페이지 이동</string>
     <string name="tab_move">탭 이동</string>
@@ -677,7 +677,7 @@
     <string name="not_support_locale">일부 지역에서는 지원되지 않을 수 있습니다.</string>
     <string name="restart">재시작</string>
     <string name="down_fail_guide">파일이 손상되었을 수 있습니다.</string>
-    <string name="ads_filter">필터</string>
+    <string name="ads_filter">광고 필터</string>
     <string name="filter_search">필터 검색</string>
     <string name="filter_info">여러 필터를 동시에 사용하면 브라우저 성능이 느려질 수 있습니다.</string>
     <string name="backup_title">데이터 백업</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">자동 업데이트</string>
     <string name="update_time">업데이트 주기</string>
     <string name="exit_rem_mem">앱 종료 시 메모리에서 제거</string>
+    <string name="patch_noti">보안 패치가 적용되었습니다.</string>
 </resources>

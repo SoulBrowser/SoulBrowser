@@ -677,7 +677,7 @@
     <string name="not_support_locale">一部の地域ではサポートされないことがあります。</string>
     <string name="restart">再起動</string>
     <string name="down_fail_guide">ファイルが壊れている可能性があります。</string>
-    <string name="ads_filter">フィルター</string>
+    <string name="ads_filter">広告フィルタ</string>
     <string name="filter_search">フィルタを検索</string>
     <string name="filter_info">複数のフィルタを同時に使用すると、ブラウザーのパフォーマンスが低下することがあります。</string>
     <string name="backup_title">データのバックアップ</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">自動更新</string>
     <string name="update_time">更新頻度</string>
     <string name="exit_rem_mem">アプリが終了するとメモリから削除されます。</string>
+    <string name="patch_noti">セキュリティパッチが適用されました。</string>
 </resources>

@@ -677,7 +677,7 @@
     <string name="not_support_locale">Este posibil să nu fie acceptat în toate regiunile.</string>
     <string name="restart">Repornire</string>
     <string name="down_fail_guide">Fișierul poate fi deteriorat.</string>
-    <string name="ads_filter">Filtru</string>
+    <string name="ads_filter">Filtru de anunțuri</string>
     <string name="filter_search">Filtru de căutare</string>
     <string name="filter_info">Utilizarea mai multor filtre în același timp poate încetini performanța browserului.</string>
     <string name="backup_title">Copia de rezerva a datelor</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">Actualizare automată</string>
     <string name="update_time">Ciclu de actualizare</string>
     <string name="exit_rem_mem">Când aplicația iese, aceasta este eliminată din memorie.</string>
+    <string name="patch_noti">A fost aplicat un patch de securitate.</string>
 </resources>

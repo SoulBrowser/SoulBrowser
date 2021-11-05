@@ -677,7 +677,7 @@
     <string name="not_support_locale">Il peut ne pas être pris en charge dans toutes les régions.</string>
     <string name="restart">Redémarrer</string>
     <string name="down_fail_guide">Le fichier est peut-être endommagé.</string>
-    <string name="ads_filter">Filtre</string>
+    <string name="ads_filter">Filtre publicitaire</string>
     <string name="filter_search">Filtre de recherche</string>
     <string name="filter_info">L\'utilisation de plusieurs filtres en même temps peut ralentir les performances du navigateur.</string>
     <string name="backup_title">Sauvegarde de données</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">Mise à jour automatique</string>
     <string name="update_time">Cycle de mise à jour</string>
     <string name="exit_rem_mem">Lorsque l\'application se ferme, elle est supprimée de la mémoire.</string>
+    <string name="patch_noti">Un correctif de sécurité a été appliqué.</string>
 </resources>

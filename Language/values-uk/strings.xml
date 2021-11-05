@@ -677,7 +677,7 @@
     <string name="not_support_locale">Він може підтримуватися не у всіх регіонах.</string>
     <string name="restart">Перезапустити</string>
     <string name="down_fail_guide">Файл може бути пошкоджений.</string>
-    <string name="ads_filter">Фільтр</string>
+    <string name="ads_filter">Рекламний фільтр</string>
     <string name="filter_search">Пошук фільтра</string>
     <string name="filter_info">Використання декількох фільтрів одночасно може уповільнити роботу браузера.</string>
     <string name="backup_title">Резервне копіювання даних</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">Автоматичне оновлення</string>
     <string name="update_time">Цикл оновлення</string>
     <string name="exit_rem_mem">Коли програма закривається, вона видаляється з пам’яті.</string>
+    <string name="patch_noti">Застосовано виправлення безпеки.</string>
 </resources>

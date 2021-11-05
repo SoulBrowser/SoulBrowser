@@ -677,7 +677,7 @@
     <string name="not_support_locale">Tüm bölgelerde desteklenmeyebilir.</string>
     <string name="restart">Tekrar başlat</string>
     <string name="down_fail_guide">Dosya zarar görmüş olabilir.</string>
-    <string name="ads_filter">Filtre</string>
+    <string name="ads_filter">Reklam filtresi</string>
     <string name="filter_search">Arama filtresi</string>
     <string name="filter_info">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
     <string name="backup_title">Veri yedekleme</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">Otomatik güncelleme</string>
     <string name="update_time">Güncelleme döngüsü</string>
     <string name="exit_rem_mem">Uygulama çıktığında, bellekten kaldırılır.</string>
+    <string name="patch_noti">Bir güvenlik yaması uygulandı.</string>
 </resources>

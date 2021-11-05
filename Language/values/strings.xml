@@ -677,7 +677,7 @@
     <string name="not_support_locale">It may not be supported in all regions.</string>
     <string name="restart">Restart</string>
     <string name="down_fail_guide">The file may be damaged.</string>
-    <string name="ads_filter">Filter</string>
+    <string name="ads_filter">Ad filter</string>
     <string name="filter_search">Search filter</string>
     <string name="filter_info">Using multiple filters at the same time can slow browser performance.</string>
     <string name="backup_title">Data backup</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">Auto update</string>
     <string name="update_time">Update cycle</string>
     <string name="exit_rem_mem">When the app exits, it is removed from memory.</string>
+    <string name="patch_noti">A security patch has been applied.</string>
 </resources>

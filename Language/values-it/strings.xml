@@ -677,7 +677,7 @@
     <string name="not_support_locale">Potrebbe non essere supportato in tutte le regioni.</string>
     <string name="restart">Ricomincia</string>
     <string name="down_fail_guide">Il file potrebbe essere danneggiato.</string>
-    <string name="ads_filter">Filtro</string>
+    <string name="ads_filter">Filtro degli annunci</string>
     <string name="filter_search">Filtro di ricerca</string>
     <string name="filter_info">L\'uso di più filtri contemporaneamente può rallentare le prestazioni del browser.</string>
     <string name="backup_title">Backup dei dati</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">Aggiornamento automatico</string>
     <string name="update_time">Ciclo di aggiornamento</string>
     <string name="exit_rem_mem">Quando l\'app esce, viene rimossa dalla memoria.</string>
+    <string name="patch_noti">È stata applicata una patch di sicurezza.</string>
 </resources>

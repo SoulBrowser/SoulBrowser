@@ -677,7 +677,7 @@
     <string name="not_support_locale">Nó có thể không được hỗ trợ ở tất cả các khu vực.</string>
     <string name="restart">Khởi động lại</string>
     <string name="down_fail_guide">Các tập tin có thể bị hư hỏng.</string>
-    <string name="ads_filter">Lọc</string>
+    <string name="ads_filter">Bộ lọc quảng cáo</string>
     <string name="filter_search">Bộ lọc tìm kiếm</string>
     <string name="filter_info">Sử dụng nhiều bộ lọc cùng một lúc có thể làm chậm hiệu suất trình duyệt.</string>
     <string name="backup_title">Sao lưu dữ liệu</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">Cập nhật tự động</string>
     <string name="update_time">Chu kỳ cập nhật</string>
     <string name="exit_rem_mem">Khi ứng dụng thoát, nó sẽ bị xóa khỏi bộ nhớ.</string>
+    <string name="patch_noti">Một bản vá bảo mật đã được áp dụng.</string>
 </resources>

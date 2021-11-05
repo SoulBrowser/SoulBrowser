@@ -677,7 +677,7 @@
     <string name="not_support_locale">อาจไม่รองรับในทุกภูมิภาค</string>
     <string name="restart">เริ่มต้นใหม่</string>
     <string name="down_fail_guide">ไฟล์อาจเสียหาย</string>
-    <string name="ads_filter">กรอง</string>
+    <string name="ads_filter">ตัวกรองโฆษณา</string>
     <string name="filter_search">ตัวกรองการค้นหา</string>
     <string name="filter_info">การใช้ตัวกรองหลายตัวพร้อมกันอาจทำให้ประสิทธิภาพเบราว์เซอร์ช้าลง</string>
     <string name="backup_title">สำรองข้อมูล</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">อัปเดตอัตโนมัติ</string>
     <string name="update_time">รอบการอัพเดท</string>
     <string name="exit_rem_mem">เมื่อออกจากแอพ จะถูกลบออกจากหน่วยความจำ</string>
+    <string name="patch_noti">แพตช์ความปลอดภัยถูกนำมาใช้</string>
 </resources>

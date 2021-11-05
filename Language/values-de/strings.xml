@@ -677,7 +677,7 @@
     <string name="not_support_locale">Es wird möglicherweise nicht in allen Regionen unterstützt.</string>
     <string name="restart">Neustart</string>
     <string name="down_fail_guide">Die Datei ist möglicherweise beschädigt.</string>
-    <string name="ads_filter">Filter</string>
+    <string name="ads_filter">Anzeigenfilter</string>
     <string name="filter_search">Suchfilter</string>
     <string name="filter_info">Die gleichzeitige Verwendung mehrerer Filter kann die Browserleistung beeinträchtigen.</string>
     <string name="backup_title">Datensicherung</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">Automatisches Update</string>
     <string name="update_time">Aktualisierungszyklus</string>
     <string name="exit_rem_mem">Wenn die App beendet wird, wird sie aus dem Speicher entfernt.</string>
+    <string name="patch_noti">Ein Sicherheitspatch wurde angewendet.</string>
 </resources>

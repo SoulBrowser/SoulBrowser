@@ -677,7 +677,7 @@
     <string name="not_support_locale">Es posible que no sea compatible con todas las regiones.</string>
     <string name="restart">Reiniciar</string>
     <string name="down_fail_guide">El archivo puede estar dañado.</string>
-    <string name="ads_filter">Filtrar</string>
+    <string name="ads_filter">Filtro de anuncios</string>
     <string name="filter_search">Filtro de búsqueda</string>
     <string name="filter_info">El uso de varios filtros al mismo tiempo puede ralentizar el rendimiento del navegador.</string>
     <string name="backup_title">Copias de seguridad</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">Actualización automática</string>
     <string name="update_time">Ciclo de actualización</string>
     <string name="exit_rem_mem">Cuando la aplicación se cierra, se elimina de la memoria.</string>
+    <string name="patch_noti">Se ha aplicado un parche de seguridad.</string>
 </resources>

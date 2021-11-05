@@ -677,7 +677,7 @@
     <string name="not_support_locale">Ini mungkin tidak didukung di semua wilayah.</string>
     <string name="restart">Mengulang kembali</string>
     <string name="down_fail_guide">File mungkin rusak.</string>
-    <string name="ads_filter">Saring</string>
+    <string name="ads_filter">Filter iklan</string>
     <string name="filter_search">Cari filter</string>
     <string name="filter_info">Menggunakan beberapa filter sekaligus dapat memperlambat kinerja browser.</string>
     <string name="backup_title">Cadangan data</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">Pembaruan otomatis</string>
     <string name="update_time">Siklus pembaruan</string>
     <string name="exit_rem_mem">Saat aplikasi keluar, itu dihapus dari memori.</string>
+    <string name="patch_noti">Patch keamanan telah diterapkan.</string>
 </resources>

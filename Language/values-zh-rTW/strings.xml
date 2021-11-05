@@ -677,7 +677,7 @@
     <string name="not_support_locale">可能並非所有地區都支持它</string>
     <string name="restart">重新開始</string>
     <string name="down_fail_guide">該文件可能已損壞</string>
-    <string name="ads_filter">篩選</string>
+    <string name="ads_filter">廣告過濾器</string>
     <string name="filter_search">搜索過濾器</string>
     <string name="filter_info">同時使用多個過濾器會降低瀏覽器性能</string>
     <string name="backup_title">數據備份</string>
@@ -876,4 +876,5 @@
     <string name="auto_update">自動更新</string>
     <string name="update_time">更新周期</string>
     <string name="exit_rem_mem">當應用程序退出時，它會從內存中刪除</string>
+    <string name="patch_noti">已應用安全補丁</string>
 </resources>
