@@ -689,9 +689,6 @@
     <string name="not_changed">Không có thay đổi đã được thực hiện.</string>
     <string name="app_restart">Bạn cần khởi động lại ứng dụng.</string>
     <string name="reader_guide">Bấm và giữ để chọn văn bản, bạn chỉ có thể phát văn bản đã chọn.</string>
-    <string name="web_pull_down">Kéo trình duyệt xuống</string>
-    <string name="pull_down_info">Bạn có thể kéo trình duyệt xuống.\nĐiều này dành cho người dùng một tay.</string>
-    <string name="web_bring_down">Hạ trình duyệt</string>
     <string name="active_function">Kích hoạt chức năng.</string>
     <string name="tab_loop">Vòng lặp tab</string>
     <string name="tab_loop_info">Chuyển đổi giữa tab đầu tiên và tab cuối cùng</string>
@@ -877,4 +874,9 @@
     <string name="update_time">Chu kỳ cập nhật</string>
     <string name="exit_rem_mem">Khi ứng dụng thoát, nó sẽ bị xóa khỏi bộ nhớ.</string>
     <string name="patch_noti">Một bản vá bảo mật đã được áp dụng.</string>
+    <string name="onehand_mode">Chế độ một tay</string>
+    <string name="onehand_icon">Nút chế độ một tay</string>
+    <string name="onehand_area">Kích thước khu vực</string>
+    <string name="onehand_noti">Nhấn vào khu vực này.</string>
+    <string name="not_support_land">Không được hỗ trợ ở chế độ ngang.</string>
 </resources>

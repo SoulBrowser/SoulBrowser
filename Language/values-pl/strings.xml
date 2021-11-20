@@ -689,9 +689,6 @@
     <string name="not_changed">Nie wprowadzono żadnych zmian.</string>
     <string name="app_restart">Musisz ponownie uruchomić aplikację.</string>
     <string name="reader_guide">Naciśnij i przytrzymaj, aby zaznaczyć tekst, możesz odtwarzać tylko wybrany tekst.</string>
-    <string name="web_pull_down">Rozwiń przeglądarkę</string>
-    <string name="pull_down_info">Możesz rozwinąć przeglądarkę.\nTo jest dla użytkowników jednoręcznych.</string>
-    <string name="web_bring_down">Dolna przeglądarka</string>
     <string name="active_function">Aktywuj funkcję.</string>
     <string name="tab_loop">Pętla zakładek</string>
     <string name="tab_loop_info">Przełącz między pierwszą a ostatnią kartą</string>
@@ -877,4 +874,9 @@
     <string name="update_time">Cykl aktualizacji</string>
     <string name="exit_rem_mem">Gdy aplikacja zostanie zamknięta, zostanie usunięta z pamięci.</string>
     <string name="patch_noti">Zastosowano poprawkę bezpieczeństwa.</string>
+    <string name="onehand_mode">Tryb jednoręczny</string>
+    <string name="onehand_icon">Przycisk trybu jednoręcznego</string>
+    <string name="onehand_area">Rozmiar obszaru</string>
+    <string name="onehand_noti">Dotknij tego obszaru.</string>
+    <string name="not_support_land">Nieobsługiwane w trybie poziomym.</string>
 </resources>

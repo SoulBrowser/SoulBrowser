@@ -689,9 +689,6 @@
     <string name="not_changed">Nu s-au făcut modificări.</string>
     <string name="app_restart">Trebuie să reporniți aplicația.</string>
     <string name="reader_guide">Apăsați și mențineți apăsat pentru a selecta text, puteți reda doar textul selectat.</string>
-    <string name="web_pull_down">Trageți în jos browserul</string>
-    <string name="pull_down_info">Puteți trage în jos browserul.\nAceasta este pentru utilizatorii cu o singură mână.</string>
-    <string name="web_bring_down">Navigator inferior</string>
     <string name="active_function">Activați funcția.</string>
     <string name="tab_loop">Bucla tab</string>
     <string name="tab_loop_info">Comutați între prima și ultima filă</string>
@@ -877,4 +874,9 @@
     <string name="update_time">Ciclu de actualizare</string>
     <string name="exit_rem_mem">Când aplicația iese, aceasta este eliminată din memorie.</string>
     <string name="patch_noti">A fost aplicat un patch de securitate.</string>
+    <string name="onehand_mode">Modul cu o singură mână</string>
+    <string name="onehand_icon">Buton de mod cu o singură mână</string>
+    <string name="onehand_area">Dimensiunea zonei</string>
+    <string name="onehand_noti">Atingeți această zonă.</string>
+    <string name="not_support_land">Nu este acceptat în modul peisaj.</string>
 </resources>

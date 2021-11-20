@@ -689,9 +689,6 @@
     <string name="not_changed">Никаких изменений не было сделано.</string>
     <string name="app_restart">Вам необходимо перезапустить приложение.</string>
     <string name="reader_guide">Нажмите и удерживайте, чтобы выбрать текст, вы можете воспроизводить только выбранный текст.</string>
-    <string name="web_pull_down">Опустить содержимое страницы</string>
-    <string name="pull_down_info">Вы можете опустить элементы вверху страницы свайпом вниз.\nОблегчает использование одной рукой.</string>
-    <string name="web_bring_down">Опустить браузер</string>
     <string name="active_function">Активируйте функцию.</string>
     <string name="tab_loop">Зациклить вкладки</string>
     <string name="tab_loop_info">Переключаться между первой и последней вкладками</string>
@@ -877,4 +874,9 @@
     <string name="update_time">Цикл обновления</string>
     <string name="exit_rem_mem">Когда приложение закрывается, оно удаляется из памяти.</string>
     <string name="patch_noti">Был применен патч безопасности.</string>
+    <string name="onehand_mode">Одноручный режим</string>
+    <string name="onehand_icon">Кнопка режима работы одной рукой</string>
+    <string name="onehand_area">Размер области</string>
+    <string name="onehand_noti">Коснитесь этой области.</string>
+    <string name="not_support_land">Не поддерживается в ландшафтном режиме.</string>
 </resources>

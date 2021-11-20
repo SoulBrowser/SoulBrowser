@@ -689,9 +689,6 @@
     <string name="not_changed">Non sono state apportate modifiche.</string>
     <string name="app_restart">Devi riavviare l\'app.</string>
     <string name="reader_guide">Tenere premuto per selezionare il testo, è possibile riprodurre solo il testo selezionato.</string>
-    <string name="web_pull_down">Abbassa il browser</string>
-    <string name="pull_down_info">Puoi aprire il browser.\nQuesto è per utenti con una sola mano.</string>
-    <string name="web_bring_down">Browser inferiore</string>
     <string name="active_function">Attiva la funzione</string>
     <string name="tab_loop">Tab loop</string>
     <string name="tab_loop_info">Passa dalla prima all\'ultima schede</string>
@@ -877,4 +874,9 @@
     <string name="update_time">Ciclo di aggiornamento</string>
     <string name="exit_rem_mem">Quando l\'app esce, viene rimossa dalla memoria.</string>
     <string name="patch_noti">È stata applicata una patch di sicurezza.</string>
+    <string name="onehand_mode">Modalità a una mano</string>
+    <string name="onehand_icon">Pulsante modalità a una mano</string>
+    <string name="onehand_area">Dimensione dell\'area</string>
+    <string name="onehand_noti">Tocca quest\'area.</string>
+    <string name="not_support_land">Non supportato in modalità orizzontale.</string>
 </resources>
