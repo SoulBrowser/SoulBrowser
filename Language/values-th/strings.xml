@@ -751,8 +751,6 @@
     <string name="page_tab_info">เมื่อสร้างแท็บใหม่</string>
     <string name="filter_user_1">คุณสามารถบล็อกโฆษณาเพิ่มเติมได้โดยเพิ่มตัวกรอง</string>
     <string name="filter_user_2">คุณสามารถใช้ตัวกรองที่เขียนในรูปแบบ EasyList</string>
-    <string name="filter_user_3">ตัวกรอง EasyList มีหลายประเภท (ตามประเทศตามฟังก์ชัน)</string>
-    <string name="filter_user_4">คุณสามารถเลือกและใช้ฟิลเตอร์ที่เหมาะกับคุณได้</string>
     <string name="filter_user_5">หากมีปัญหากับตัวกรองหน้าอาจไม่แสดงตามปกติ</string>
     <string name="size_fit">พอดีกับหน้าจอ</string>
     <string name="size_real">ขนาดที่แท้จริง</string>

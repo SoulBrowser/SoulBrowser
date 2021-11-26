@@ -751,8 +751,6 @@
     <string name="page_tab_info">Când creați o filă nouă</string>
     <string name="filter_user_1">Puteți bloca mai multe reclame adăugând filtre.</string>
     <string name="filter_user_2">Puteți utiliza filtre scrise în format EasyList.</string>
-    <string name="filter_user_3">Există mai multe tipuri de filtre EasyList. (După țară, după funcție)</string>
-    <string name="filter_user_4">Puteți selecta și utiliza filtrul care vi se potrivește.</string>
     <string name="filter_user_5">Dacă există o problemă cu filtrul, este posibil ca pagina să nu fie afișată normal.</string>
     <string name="size_fit">Potrivirea ecranului</string>
     <string name="size_real">Dimensiunea reală</string>

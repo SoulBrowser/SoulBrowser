@@ -751,8 +751,6 @@
     <string name="page_tab_info">При створенні нової вкладки</string>
     <string name="filter_user_1">Ви можете заблокувати більше оголошень, додавши фільтри.</string>
     <string name="filter_user_2">Ви можете використовувати фільтри, написані у форматі EasyList.</string>
-    <string name="filter_user_3">Існує кілька типів фільтрів EasyList. (За країною, за функцією)</string>
-    <string name="filter_user_4">Ви можете вибрати та використовувати фільтр, який вам підходить.</string>
     <string name="filter_user_5">Якщо є проблема з фільтром, сторінка може не відображатися нормально.</string>
     <string name="size_fit">По розміру екрану</string>
     <string name="size_real">Реальний розмір</string>

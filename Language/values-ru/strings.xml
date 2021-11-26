@@ -751,8 +751,6 @@
     <string name="page_tab_info">При создании новой вкладки</string>
     <string name="filter_user_1">Можно заблокировать больше рекламы, добавив фильтры.</string>
     <string name="filter_user_2">Можно использовать фильтры, написанные в формате EasyList.</string>
-    <string name="filter_user_3">Есть несколько типов фильтров EasyList. (По странам, по функциям)</string>
-    <string name="filter_user_4">Можете выбрать и использовать подходящий Вам фильтр.</string>
     <string name="filter_user_5">Если есть проблема с фильтром, страница может отображаться некорректно.</string>
     <string name="size_fit">По экрану</string>
     <string name="size_real">Фактический размер</string>

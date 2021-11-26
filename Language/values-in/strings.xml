@@ -751,8 +751,6 @@
     <string name="page_tab_info">Saat membuat tab baru</string>
     <string name="filter_user_1">Anda dapat memblokir lebih banyak iklan dengan menambahkan filter.</string>
     <string name="filter_user_2">Anda dapat menggunakan filter yang ditulis dalam format EasyList.</string>
-    <string name="filter_user_3">Ada beberapa jenis filter EasyList. (Berdasarkan negara, berdasarkan fungsi)</string>
-    <string name="filter_user_4">Anda dapat memilih dan menggunakan filter yang sesuai dengan Anda.</string>
     <string name="filter_user_5">Jika ada masalah dengan filter, halaman mungkin tidak ditampilkan secara normal.</string>
     <string name="size_fit">Kesesuaian layar</string>
     <string name="size_real">Ukuran sebenarnya</string>

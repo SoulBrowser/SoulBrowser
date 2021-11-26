@@ -751,8 +751,6 @@
     <string name="page_tab_info">建立新分页时</string>
     <string name="filter_user_1">您可以通过添加过滤器来屏蔽更多广告</string>
     <string name="filter_user_2">你可以使用以 EasyList 格式编写的过滤器</string>
-    <string name="filter_user_3">EasyList 过滤器有几种类型（按国家，按功能）</string>
-    <string name="filter_user_4">你可以选择并使用适合你的过滤器</string>
     <string name="filter_user_5">如果过滤器有问题，则该页面可能无法正常显示</string>
     <string name="size_fit">屏幕适合</string>
     <string name="size_real">真实大小</string>

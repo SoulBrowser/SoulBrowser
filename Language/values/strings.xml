@@ -751,8 +751,6 @@
     <string name="page_tab_info">When creating a new tab</string>
     <string name="filter_user_1">You can block more ads by adding filters.</string>
     <string name="filter_user_2">You can use filters written in EasyList format.</string>
-    <string name="filter_user_3">There are several types of EasyList filters. (By country, by function)</string>
-    <string name="filter_user_4">You can select and use the filter that suits you.</string>
     <string name="filter_user_5">If there is a problem with the filter, the page may not be displayed normally.</string>
     <string name="size_fit">Screen fit</string>
     <string name="size_real">Actual size</string>

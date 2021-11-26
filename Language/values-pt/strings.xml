@@ -751,8 +751,6 @@
     <string name="page_tab_info">Ao criar uma nova guia</string>
     <string name="filter_user_1">Você pode bloquear mais anúncios adicionando filtros.</string>
     <string name="filter_user_2">Você pode usar filtros escritos no formato EasyList.</string>
-    <string name="filter_user_3">Existem vários tipos de filtros EasyList. (Por país, por função)</string>
-    <string name="filter_user_4">Você pode selecionar e usar o filtro que mais lhe convier.</string>
     <string name="filter_user_5">Se houver um problema com o filtro, a página pode não ser exibida normalmente.</string>
     <string name="size_fit">Ajuste da tela</string>
     <string name="size_real">Tamanho atual</string>

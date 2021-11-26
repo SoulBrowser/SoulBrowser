@@ -751,8 +751,6 @@
     <string name="page_tab_info">Yeni bir sekme oluştururken</string>
     <string name="filter_user_1">Filtreler ekleyerek daha fazla reklamı engelleyebilirsiniz.</string>
     <string name="filter_user_2">EasyList formatında yazılmış filtreleri kullanabilirsiniz.</string>
-    <string name="filter_user_3">Birkaç tür EasyList filtresi vardır. (Ülkeye göre, işleve göre)</string>
-    <string name="filter_user_4">Size uygun filtreyi seçip kullanabilirsiniz.</string>
     <string name="filter_user_5">Filtrede bir sorun varsa, sayfa normal şekilde görüntülenmeyebilir.</string>
     <string name="size_fit">Ekran uyumu</string>
     <string name="size_real">Gerçek boyutu</string>

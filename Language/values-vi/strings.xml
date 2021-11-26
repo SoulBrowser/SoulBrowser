@@ -751,8 +751,6 @@
     <string name="page_tab_info">Khi tạo một tab mới</string>
     <string name="filter_user_1">Bạn có thể chặn nhiều quảng cáo hơn bằng cách thêm bộ lọc.</string>
     <string name="filter_user_2">Bạn có thể sử dụng các bộ lọc được viết ở định dạng EasyList.</string>
-    <string name="filter_user_3">Có một số loại bộ lọc EasyList. (Theo quốc gia, theo chức năng)</string>
-    <string name="filter_user_4">Bạn có thể chọn và sử dụng bộ lọc phù hợp với mình.</string>
     <string name="filter_user_5">Nếu có vấn đề với bộ lọc, trang có thể không được hiển thị bình thường.</string>
     <string name="size_fit">Màn hình phù hợp</string>
     <string name="size_real">Kích thước thực sự</string>

@@ -751,8 +751,6 @@
     <string name="page_tab_info">Beim Erstellen einer neuen Tab</string>
     <string name="filter_user_1">Sie können weitere Anzeigen blockieren, indem Sie Filter hinzufügen.</string>
     <string name="filter_user_2">Sie können Filter verwenden, die im EasyList-Format geschrieben sind.</string>
-    <string name="filter_user_3">Es gibt verschiedene Arten von EasyList-Filtern. (Nach Land, nach Funktion)</string>
-    <string name="filter_user_4">Sie können den für Sie geeigneten Filter auswählen und verwenden.</string>
     <string name="filter_user_5">Wenn ein Problem mit dem Filter vorliegt, wird die Seite möglicherweise nicht normal angezeigt.</string>
     <string name="size_fit">An Bildschirm anpassen</string>
     <string name="size_real">Tatsächliche Größe</string>

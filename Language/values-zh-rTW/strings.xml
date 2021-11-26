@@ -751,8 +751,6 @@
     <string name="page_tab_info">建立新分頁時</string>
     <string name="filter_user_1">您可以通過添加過濾器來屏蔽更多廣告</string>
     <string name="filter_user_2">您可以使用以 EasyList 格式編寫的過濾器</string>
-    <string name="filter_user_3">EasyList 過濾器有幾種類型（按國家，按功能）</string>
-    <string name="filter_user_4">您可以選擇並使用適合您的過濾器</string>
     <string name="filter_user_5">如果過濾器有問題，則該頁面可能無法正常顯示</string>
     <string name="size_fit">螢幕適合</string>
     <string name="size_real">真實大小</string>

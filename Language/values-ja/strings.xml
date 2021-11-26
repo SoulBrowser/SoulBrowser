@@ -751,8 +751,6 @@
     <string name="page_tab_info">新しいタブを作成するときに</string>
     <string name="filter_user_1">フィルタを追加して、より多くの広告をブロックすることができます。</string>
     <string name="filter_user_2">EasyList形式で作成されたフィルタを使用することができます。</string>
-    <string name="filter_user_3">EasyListフィルタは、複数の種類があります。（国別、機能別）</string>
-    <string name="filter_user_4">自分に合ったフィルタを選択して使用することができます。</string>
     <string name="filter_user_5">フィルタに問題があれば、ページが正常に表示されないことがあります。</string>
     <string name="size_fit">画面カスタマイズ</string>
     <string name="size_real">実際のサイズ</string>
