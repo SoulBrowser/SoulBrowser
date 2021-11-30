@@ -684,7 +684,7 @@
     <string name="backup_import">Impor</string>
     <string name="backup_export">Ekspor</string>
     <string name="backup_target">Silakan pilih target.</string>
-    <string name="saving">Penghematan&#8230;</string>
+    <string name="saving">Simpan&#8230;</string>
     <string name="save_empty">Tidak ada yang bisa diselamatkan.</string>
     <string name="not_changed">Tidak ada perubahan yang dilakukan.</string>
     <string name="app_restart">Anda perlu memulai ulang aplikasi.</string>
@@ -751,7 +751,7 @@
     <string name="page_tab_info">Saat membuat tab baru</string>
     <string name="filter_user_1">Anda dapat memblokir lebih banyak iklan dengan menambahkan filter.</string>
     <string name="filter_user_2">Anda dapat menggunakan filter yang ditulis dalam format EasyList.</string>
-    <string name="filter_user_5">Jika ada masalah dengan filter, halaman mungkin tidak ditampilkan secara normal.</string>
+    <string name="filter_user_3">Jika ada masalah dengan filter, halaman mungkin tidak ditampilkan secara normal.</string>
     <string name="size_fit">Kesesuaian layar</string>
     <string name="size_real">Ukuran sebenarnya</string>
     <string name="block_ssl">Pemblokiran kesalahan SSL</string>
@@ -769,7 +769,7 @@
     <string name="without_load">Kembali tanpa penyegaran</string>
     <string name="without_load_info_1">Jika Anda membuka terlalu banyak halaman, browser Anda mungkin lambat.</string>
     <string name="without_load_info_2">Memori yang digunakan untuk komposisi halaman secara otomatis dihapus saat aplikasi ditutup.</string>
-    <string name="save_data">Penghematan data</string>
+    <string name="save_data">Simpan data</string>
     <string name="level_strong">Kuat</string>
     <string name="level_weak">Lemah</string>
     <string name="open_limit">Batas terbuka</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Keamanan Keyboard</string>
     <string name="keyboard_secure_info_1">Itu tidak menyimpan apa yang Anda ketik di bilah pencarian dengan keyboard.</string>
     <string name="keyboard_secure_info_2">Beberapa keyboard mungkin tidak didukung.</string>
-    <string name="ads_type">Jenis iklan</string>
-    <string name="ads_persornal">Iklan yang dipersonalisasi</string>
-    <string name="ads_no_persornal">Iklan yang tidak dipersonalisasi</string>
-    <string name="ads_invalid">Tidak valid</string>
-    <string name="ads_invalid_info">Ada masalah dengan pengaturan iklan. Harap setel lagi.</string>
+    <string name="noti_invalid">Tidak valid</string>
     <string name="original_size">Ukuran asli</string>
     <string name="reduced_size">Ukuran yang diperkecil (disarankan)</string>
     <string name="finger_print">Sidik jari</string>

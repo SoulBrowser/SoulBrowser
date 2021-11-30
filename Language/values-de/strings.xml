@@ -751,7 +751,7 @@
     <string name="page_tab_info">Beim Erstellen einer neuen Tab</string>
     <string name="filter_user_1">Sie können weitere Anzeigen blockieren, indem Sie Filter hinzufügen.</string>
     <string name="filter_user_2">Sie können Filter verwenden, die im EasyList-Format geschrieben sind.</string>
-    <string name="filter_user_5">Wenn ein Problem mit dem Filter vorliegt, wird die Seite möglicherweise nicht normal angezeigt.</string>
+    <string name="filter_user_3">Wenn ein Problem mit dem Filter vorliegt, wird die Seite möglicherweise nicht normal angezeigt.</string>
     <string name="size_fit">An Bildschirm anpassen</string>
     <string name="size_real">Tatsächliche Größe</string>
     <string name="block_ssl">Blockierung von SSL-Fehlern</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Tastatursicherheit</string>
     <string name="keyboard_secure_info_1">Es wird nicht gespeichert, was Sie mit der Tastatur in die Suchleiste eingeben.</string>
     <string name="keyboard_secure_info_2">Einige Tastaturen werden möglicherweise nicht unterstützt.</string>
-    <string name="ads_type">Anzeigentyp</string>
-    <string name="ads_persornal">Personalisierte Anzeigen</string>
-    <string name="ads_no_persornal">Nicht personalisierte Anzeigen</string>
-    <string name="ads_invalid">Ungültig</string>
-    <string name="ads_invalid_info">Es liegt ein Problem mit den Anzeigeneinstellungen vor. Bitte stellen Sie es erneut ein.</string>
+    <string name="noti_invalid">Ungültig</string>
     <string name="original_size">Originalgröße</string>
     <string name="reduced_size">Reduzierte Größe (empfohlen)</string>
     <string name="finger_print">Fingerabdruck</string>

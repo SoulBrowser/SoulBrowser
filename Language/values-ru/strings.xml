@@ -751,7 +751,7 @@
     <string name="page_tab_info">При создании новой вкладки</string>
     <string name="filter_user_1">Можно заблокировать больше рекламы, добавив фильтры.</string>
     <string name="filter_user_2">Можно использовать фильтры, написанные в формате EasyList.</string>
-    <string name="filter_user_5">Если есть проблема с фильтром, страница может отображаться некорректно.</string>
+    <string name="filter_user_3">Если есть проблема с фильтром, страница может отображаться некорректно.</string>
     <string name="size_fit">По экрану</string>
     <string name="size_real">Фактический размер</string>
     <string name="block_ssl">Блокировка ошибок SSL</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Безопасность клавиатуры</string>
     <string name="keyboard_secure_info_1">Он не сохраняет то, что вы вводите в строке поиска с помощью клавиатуры.</string>
     <string name="keyboard_secure_info_2">Некоторые клавиатуры не поддерживаются.</string>
-    <string name="ads_type">Тип рекламы</string>
-    <string name="ads_persornal">Персонализированная реклама</string>
-    <string name="ads_no_persornal">Неперсонализированная реклама</string>
-    <string name="ads_invalid">Недействительная</string>
-    <string name="ads_invalid_info">Проблема с настройками рекламы. Поправьте настройки.</string>
+    <string name="noti_invalid">Недействительная</string>
     <string name="original_size">Оригинальный размер</string>
     <string name="reduced_size">Уменьшенный размер (Рекомендуется)</string>
     <string name="finger_print">Отпечаток пальца</string>

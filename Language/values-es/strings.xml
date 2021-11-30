@@ -751,7 +751,7 @@
     <string name="page_tab_info">Al crear una nueva pestaña</string>
     <string name="filter_user_1">Puede bloquear más anuncios agregando filtros.</string>
     <string name="filter_user_2">Puede utilizar filtros escritos en formato EasyList.</string>
-    <string name="filter_user_5">Si hay un problema con el filtro, es posible que la página no se muestre normalmente.</string>
+    <string name="filter_user_3">Si hay un problema con el filtro, es posible que la página no se muestre normalmente.</string>
     <string name="size_fit">Ajuste de pantalla</string>
     <string name="size_real">Tamaño real</string>
     <string name="block_ssl">Bloqueo de errores SSL</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Seguridad del teclado</string>
     <string name="keyboard_secure_info_1">No guarda lo que escribe en la barra de búsqueda con el teclado.</string>
     <string name="keyboard_secure_info_2">Es posible que algunos teclados no sean compatibles.</string>
-    <string name="ads_type">Tipo de anuncio</string>
-    <string name="ads_persornal">Anuncios personalizados</string>
-    <string name="ads_no_persornal">Anuncios no personalizados</string>
-    <string name="ads_invalid">Inválido</string>
-    <string name="ads_invalid_info">Hay un problema con la configuración de anuncios. Vuelva a configurarlo.</string>
+    <string name="noti_invalid">Inválido</string>
     <string name="original_size">Tamaño original</string>
     <string name="reduced_size">Tamaño reducido (recomendado)</string>
     <string name="finger_print">Huella dactilar</string>

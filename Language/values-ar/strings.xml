@@ -751,7 +751,7 @@
     <string name="page_tab_info">عند إنشاء علامة تبويب جديدة</string>
     <string name="filter_user_1">يمكنك منع المزيد من الإعلانات عن طريق إضافة عوامل تصفية.</string>
     <string name="filter_user_2">يمكن استخدام المرشحات المكتوبة بتنسيق EasyList.</string>
-    <string name="filter_user_5">إذا كانت هناك مشكلة في الفلتر ، فقد لا يتم عرض الصفحة بشكل طبيعي.</string>
+    <string name="filter_user_3">إذا كانت هناك مشكلة في الفلتر ، فقد لا يتم عرض الصفحة بشكل طبيعي.</string>
     <string name="size_fit">تناسب الشاشة</string>
     <string name="size_real">الحجم الأصلي</string>
     <string name="block_ssl">حظر خطأ SSL</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">أمان لوحة المفاتيح</string>
     <string name="keyboard_secure_info_1">لا يحفظ ما تكتبه في شريط البحث باستخدام لوحة المفاتيح.</string>
     <string name="keyboard_secure_info_2">قد لا تكون بعض لوحات المفاتيح مدعومة.</string>
-    <string name="ads_type">نوع الإعلان</string>
-    <string name="ads_persornal">الإعلانات المخصصة</string>
-    <string name="ads_no_persornal">الإعلانات غير المخصصة</string>
-    <string name="ads_invalid">غير صالح</string>
-    <string name="ads_invalid_info">هناك مشكلة في إعدادات إعلانك. يرجى تعيينه مرة أخرى.</string>
+    <string name="noti_invalid">غير صالح</string>
     <string name="original_size">الحجم الأصلي</string>
     <string name="reduced_size">حجم مخفض (موصى به)</string>
     <string name="finger_print">التعرف على بصمات الأصابع</string>

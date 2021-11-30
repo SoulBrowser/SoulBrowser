@@ -751,7 +751,7 @@
     <string name="page_tab_info">Lors de la création d\'un nouvel onglet</string>
     <string name="filter_user_1">Vous pouvez bloquer plus d\'annonces en ajoutant des filtres.</string>
     <string name="filter_user_2">Vous pouvez utiliser des filtres écrits au format EasyList.</string>
-    <string name="filter_user_5">S\'il y a un problème avec le filtre, la page peut ne pas s\'afficher normalement.</string>
+    <string name="filter_user_3">S\'il y a un problème avec le filtre, la page peut ne pas s\'afficher normalement.</string>
     <string name="size_fit">Ajustement de l\'écran</string>
     <string name="size_real">Taille actuelle</string>
     <string name="block_ssl">Blocage des erreurs SSL</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Sécurité par clavier</string>
     <string name="keyboard_secure_info_1">Il n\'enregistre pas ce que vous tapez dans la barre de recherche avec le clavier.</string>
     <string name="keyboard_secure_info_2">Certains claviers peuvent ne pas être pris en charge.</string>
-    <string name="ads_type">Type d\'annonce</string>
-    <string name="ads_persornal">Annonces personnalisées</string>
-    <string name="ads_no_persornal">Annonces non personnalisées</string>
-    <string name="ads_invalid">Invalide</string>
-    <string name="ads_invalid_info">Il y a un problème avec les paramètres d\'annonce. Veuillez le régler à nouveau.</string>
+    <string name="noti_invalid">Invalide</string>
     <string name="original_size">Format original</string>
     <string name="reduced_size">Taille réduite (Recommandés)</string>
     <string name="finger_print">Empreinte digitale</string>

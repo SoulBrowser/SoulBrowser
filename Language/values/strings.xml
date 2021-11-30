@@ -751,7 +751,7 @@
     <string name="page_tab_info">When creating a new tab</string>
     <string name="filter_user_1">You can block more ads by adding filters.</string>
     <string name="filter_user_2">You can use filters written in EasyList format.</string>
-    <string name="filter_user_5">If there is a problem with the filter, the page may not be displayed normally.</string>
+    <string name="filter_user_3">If there is a problem with the filter, the page may not be displayed normally.</string>
     <string name="size_fit">Screen fit</string>
     <string name="size_real">Actual size</string>
     <string name="block_ssl">SSL error blocking</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Keyboard security</string>
     <string name="keyboard_secure_info_1">It does not save what you type in the search bar with the keyboard.</string>
     <string name="keyboard_secure_info_2">Some keyboards may not be supported.</string>
-    <string name="ads_type">Ad type</string>
-    <string name="ads_persornal">Personalized ads</string>
-    <string name="ads_no_persornal">Non personalized ads</string>
-    <string name="ads_invalid">Invalid</string>
-    <string name="ads_invalid_info">There is a problem with ad settings. Please set it again.</string>
+    <string name="noti_invalid">Invalid</string>
     <string name="original_size">Original size</string>
     <string name="reduced_size">Reduced size (Recommended)</string>
     <string name="finger_print">Fingerprint</string>

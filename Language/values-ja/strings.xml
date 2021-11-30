@@ -751,7 +751,7 @@
     <string name="page_tab_info">新しいタブを作成するときに</string>
     <string name="filter_user_1">フィルタを追加して、より多くの広告をブロックすることができます。</string>
     <string name="filter_user_2">EasyList形式で作成されたフィルタを使用することができます。</string>
-    <string name="filter_user_5">フィルタに問題があれば、ページが正常に表示されないことがあります。</string>
+    <string name="filter_user_3">フィルタに問題があれば、ページが正常に表示されないことがあります。</string>
     <string name="size_fit">画面カスタマイズ</string>
     <string name="size_real">実際のサイズ</string>
     <string name="block_ssl">SSLエラーブロック</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">キーボードセキュリティ</string>
     <string name="keyboard_secure_info_1">キーボードで検索バーに入力した内容を保存していません。</string>
     <string name="keyboard_secure_info_2">一部のキーボードはサポートされないことがあります。</string>
-    <string name="ads_type">広告タイプ</string>
-    <string name="ads_persornal">パーソナライズされた広告</string>
-    <string name="ads_no_persornal">パーソナライズされていない広告</string>
-    <string name="ads_invalid">無効</string>
-    <string name="ads_invalid_info">広告設定に問題があります。 再度設定してください。</string>
+    <string name="noti_invalid">無効</string>
     <string name="original_size">元のサイズ</string>
     <string name="reduced_size">縮小されたサイズ（推奨）</string>
     <string name="finger_print">指紋</string>

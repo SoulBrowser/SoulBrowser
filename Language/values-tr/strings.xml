@@ -751,7 +751,7 @@
     <string name="page_tab_info">Yeni bir sekme oluştururken</string>
     <string name="filter_user_1">Filtreler ekleyerek daha fazla reklamı engelleyebilirsiniz.</string>
     <string name="filter_user_2">EasyList formatında yazılmış filtreleri kullanabilirsiniz.</string>
-    <string name="filter_user_5">Filtrede bir sorun varsa, sayfa normal şekilde görüntülenmeyebilir.</string>
+    <string name="filter_user_3">Filtrede bir sorun varsa, sayfa normal şekilde görüntülenmeyebilir.</string>
     <string name="size_fit">Ekran uyumu</string>
     <string name="size_real">Gerçek boyutu</string>
     <string name="block_ssl">SSL hatası engelleme</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Klavye güvenliği</string>
     <string name="keyboard_secure_info_1">Klavye ile arama çubuğuna yazdıklarınızı kaydetmez.</string>
     <string name="keyboard_secure_info_2">Bazı klavyeler desteklenmeyebilir.</string>
-    <string name="ads_type">Reklam türü</string>
-    <string name="ads_persornal">Kişiselleştirilmiş reklamlar</string>
-    <string name="ads_no_persornal">Kişiselleştirilmemiş reklamlar</string>
-    <string name="ads_invalid">Geçersiz</string>
-    <string name="ads_invalid_info">Reklam ayarlarında bir sorun var. Lütfen yeniden ayarlayın.</string>
+    <string name="noti_invalid">Geçersiz</string>
     <string name="original_size">Orijinal boyut</string>
     <string name="reduced_size">Küçültülmüş boyut (önerilir)</string>
     <string name="finger_print">Parmak izi</string>

@@ -751,7 +751,7 @@
     <string name="page_tab_info">Când creați o filă nouă</string>
     <string name="filter_user_1">Puteți bloca mai multe reclame adăugând filtre.</string>
     <string name="filter_user_2">Puteți utiliza filtre scrise în format EasyList.</string>
-    <string name="filter_user_5">Dacă există o problemă cu filtrul, este posibil ca pagina să nu fie afișată normal.</string>
+    <string name="filter_user_3">Dacă există o problemă cu filtrul, este posibil ca pagina să nu fie afișată normal.</string>
     <string name="size_fit">Potrivirea ecranului</string>
     <string name="size_real">Dimensiunea reală</string>
     <string name="block_ssl">Blocare eroare SSL</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Securitate tastatură</string>
     <string name="keyboard_secure_info_1">Nu salvează ceea ce tastați în bara de căutare cu tastatura.</string>
     <string name="keyboard_secure_info_2">Este posibil ca unele tastaturi să nu fie acceptate.</string>
-    <string name="ads_type">Tipul de anunț</string>
-    <string name="ads_persornal">Anunțuri personalizate</string>
-    <string name="ads_no_persornal">Anunțuri nepersonalizate</string>
-    <string name="ads_invalid">Invalid</string>
-    <string name="ads_invalid_info">Există o problemă cu setările pentru anunțuri. Vă rugăm să setați din nou.</string>
+    <string name="noti_invalid">Invalid</string>
     <string name="original_size">Mărimea originală</string>
     <string name="reduced_size">Dimensiune redusă (recomandat)</string>
     <string name="finger_print">Amprentă digitală</string>

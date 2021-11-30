@@ -751,7 +751,7 @@
     <string name="page_tab_info">เมื่อสร้างแท็บใหม่</string>
     <string name="filter_user_1">คุณสามารถบล็อกโฆษณาเพิ่มเติมได้โดยเพิ่มตัวกรอง</string>
     <string name="filter_user_2">คุณสามารถใช้ตัวกรองที่เขียนในรูปแบบ EasyList</string>
-    <string name="filter_user_5">หากมีปัญหากับตัวกรองหน้าอาจไม่แสดงตามปกติ</string>
+    <string name="filter_user_3">หากมีปัญหากับตัวกรองหน้าอาจไม่แสดงตามปกติ</string>
     <string name="size_fit">พอดีกับหน้าจอ</string>
     <string name="size_real">ขนาดที่แท้จริง</string>
     <string name="block_ssl">การบล็อกข้อผิดพลาด SSL</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">ความปลอดภัยของคีย์บอร์ด</string>
     <string name="keyboard_secure_info_1">จะไม่บันทึกสิ่งที่คุณพิมพ์ในแถบค้นหาด้วยแป้นพิมพ์</string>
     <string name="keyboard_secure_info_2">แป้นพิมพ์บางรุ่นอาจไม่รองรับ</string>
-    <string name="ads_type">ประเภทโฆษณา</string>
-    <string name="ads_persornal">โฆษณาส่วนบุคคล</string>
-    <string name="ads_no_persornal">ไม่ใช่โฆษณาที่ปรับตามโปรไฟล์ของผู้ใช้</string>
-    <string name="ads_invalid">ไม่ถูกต้อง</string>
-    <string name="ads_invalid_info">มีปัญหากับการตั้งค่าโฆษณา กรุณาตั้งค่าใหม่อีกครั้ง</string>
+    <string name="noti_invalid">ไม่ถูกต้อง</string>
     <string name="original_size">ขนาดเดิม</string>
     <string name="reduced_size">ลดขนาดลง (แนะนำ)</string>
     <string name="finger_print">ลายนิ้วมือ</string>

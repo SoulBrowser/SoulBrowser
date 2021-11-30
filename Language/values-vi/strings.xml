@@ -751,7 +751,7 @@
     <string name="page_tab_info">Khi tạo một tab mới</string>
     <string name="filter_user_1">Bạn có thể chặn nhiều quảng cáo hơn bằng cách thêm bộ lọc.</string>
     <string name="filter_user_2">Bạn có thể sử dụng các bộ lọc được viết ở định dạng EasyList.</string>
-    <string name="filter_user_5">Nếu có vấn đề với bộ lọc, trang có thể không được hiển thị bình thường.</string>
+    <string name="filter_user_3">Nếu có vấn đề với bộ lọc, trang có thể không được hiển thị bình thường.</string>
     <string name="size_fit">Màn hình phù hợp</string>
     <string name="size_real">Kích thước thực sự</string>
     <string name="block_ssl">Chặn lỗi SSL</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Bảo mật bàn phím</string>
     <string name="keyboard_secure_info_1">Nó không lưu những gì bạn nhập vào thanh tìm kiếm bằng bàn phím.</string>
     <string name="keyboard_secure_info_2">Một số bàn phím có thể không được hỗ trợ.</string>
-    <string name="ads_type">Loại quảng cáo</string>
-    <string name="ads_persornal">Quảng cáo được cá nhân hóa</string>
-    <string name="ads_no_persornal">Quảng cáo không được cá nhân hóa</string>
-    <string name="ads_invalid">không hợp lệ</string>
-    <string name="ads_invalid_info">Có vấn đề với cài đặt quảng cáo. Vui lòng đặt lại.</string>
+    <string name="noti_invalid">không hợp lệ</string>
     <string name="original_size">Kích thước nguyên mẫu</string>
     <string name="reduced_size">Giảm kích thước (khuyến nghị)</string>
     <string name="finger_print">Vân tay</string>

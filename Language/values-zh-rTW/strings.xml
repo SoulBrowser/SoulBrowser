@@ -751,7 +751,7 @@
     <string name="page_tab_info">建立新分頁時</string>
     <string name="filter_user_1">您可以通過添加過濾器來屏蔽更多廣告</string>
     <string name="filter_user_2">您可以使用以 EasyList 格式編寫的過濾器</string>
-    <string name="filter_user_5">如果過濾器有問題，則該頁面可能無法正常顯示</string>
+    <string name="filter_user_3">如果過濾器有問題，則該頁面可能無法正常顯示</string>
     <string name="size_fit">螢幕適合</string>
     <string name="size_real">真實大小</string>
     <string name="block_ssl">SSL 錯誤阻止</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">鍵盤安全性</string>
     <string name="keyboard_secure_info_1">它不會保存您使用鍵盤在搜索欄中鍵入的內容</string>
     <string name="keyboard_secure_info_2">某些鍵盤可能不受支持</string>
-    <string name="ads_type">廣告類型</string>
-    <string name="ads_persornal">個性化廣告</string>
-    <string name="ads_no_persornal">非個性化廣告</string>
-    <string name="ads_invalid">無效</string>
-    <string name="ads_invalid_info">廣告設置存在問題。 請重新設置</string>
+    <string name="noti_invalid">無效</string>
     <string name="original_size">原始尺寸</string>
     <string name="reduced_size">縮小尺寸（推薦）</string>
     <string name="finger_print">指紋</string>

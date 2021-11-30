@@ -751,7 +751,7 @@
     <string name="page_tab_info">Ao criar uma nova guia</string>
     <string name="filter_user_1">Você pode bloquear mais anúncios adicionando filtros.</string>
     <string name="filter_user_2">Você pode usar filtros escritos no formato EasyList.</string>
-    <string name="filter_user_5">Se houver um problema com o filtro, a página pode não ser exibida normalmente.</string>
+    <string name="filter_user_3">Se houver um problema com o filtro, a página pode não ser exibida normalmente.</string>
     <string name="size_fit">Ajuste da tela</string>
     <string name="size_real">Tamanho atual</string>
     <string name="block_ssl">Bloqueio de erro SSL</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Segurança de teclado</string>
     <string name="keyboard_secure_info_1">Ele não salva o que você digita na barra de pesquisa com o teclado.</string>
     <string name="keyboard_secure_info_2">Alguns teclados podem não ser suportados.</string>
-    <string name="ads_type">Tipo de anúncio</string>
-    <string name="ads_persornal">Anúncios personalizados</string>
-    <string name="ads_no_persornal">Anúncios não personalizados</string>
-    <string name="ads_invalid">Inválido</string>
-    <string name="ads_invalid_info">Há um problema com as configurações do anúncio. Defina novamente.</string>
+    <string name="noti_invalid">Inválido</string>
     <string name="original_size">Tamanho original</string>
     <string name="reduced_size">Tamanho reduzido (recomendado)</string>
     <string name="finger_print">Impressão digital</string>

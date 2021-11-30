@@ -751,7 +751,7 @@
     <string name="page_tab_info">Podczas tworzenia nowej karty</string>
     <string name="filter_user_1">Możesz zablokować więcej reklam, dodając filtry.</string>
     <string name="filter_user_2">Możesz używać filtrów napisanych w formacie EasyList.</string>
-    <string name="filter_user_5">Jeśli występuje problem z filtrem, strona może nie być wyświetlana normalnie.</string>
+    <string name="filter_user_3">Jeśli występuje problem z filtrem, strona może nie być wyświetlana normalnie.</string>
     <string name="size_fit">Dopasować do ekranu</string>
     <string name="size_real">Rzeczywisty rozmiar</string>
     <string name="block_ssl">Blokowanie błędów SSL</string>
@@ -787,11 +787,7 @@
     <string name="keyboard_secure">Bezpieczeństwo klawiatury</string>
     <string name="keyboard_secure_info_1">Nie zapisuje tego, co wpisujesz w pasku wyszukiwania za pomocą klawiatury.</string>
     <string name="keyboard_secure_info_2">Niektóre klawiatury mogą nie być obsługiwane.</string>
-    <string name="ads_type">Typ reklamy</string>
-    <string name="ads_persornal">Spersonalizowane reklamy</string>
-    <string name="ads_no_persornal">Reklamy niespersonalizowane</string>
-    <string name="ads_invalid">Nieważny</string>
-    <string name="ads_invalid_info">Wystąpił problem z ustawieniami reklam. Ustaw ponownie.</string>
+    <string name="noti_invalid">Nieważny</string>
     <string name="original_size">Oryginalny rozmiar</string>
     <string name="reduced_size">Zmniejszony rozmiar (zalecane)</string>
     <string name="finger_print">Odcisk palca</string>
