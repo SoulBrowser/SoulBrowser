@@ -317,8 +317,6 @@
     <string name="deny">Negar</string>
     <string name="location">Localização</string>
     <string name="site_permission">Este site solicita a seguinte permissão</string>
-    <string name="camera_required">Permissão de câmera necessária</string>
-    <string name="audio_required">Permissão de áudio necessária</string>
     <string name="permission_granted">Permissão garantida</string>
     <string name="permission_denied">Permissão negada</string>
     <string name="no_permission">Sem permissão</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">Devido à política do YouTube, os vídeos do YouTube não podem ser baixados.</string>
     <string name="video_full_guide_1">Vídeos para download podem ser reproduzidos em tela cheia.</string>
     <string name="video_full_guide_2">Formatos não suportados não têm botões.</string>
+    <string name="video_full_guide_3">Vídeos que não permitem reprodução externa no site não podem ser reproduzidos.</string>
     <string name="down_limit">Download simultâneo</string>
     <string name="down_limit_info">Baixar muitos arquivos ao mesmo tempo pode diminuir a velocidade do seu dispositivo e causar problemas.</string>
     <string name="not_allow">Não permita</string>
@@ -512,7 +511,7 @@
     <string name="resize">Redimensionar</string>
     <string name="added">Adicionado</string>
     <string name="changed">Alterado</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Relatório de site</string>
     <string name="report_down">Forneça o endereço do site onde você não pode baixar o vídeo.</string>
     <string name="report_dark">Forneça o endereço do site que está tendo problemas com o tema escuro.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Filtro de anúncio</string>
     <string name="filter_search">Filtro de pesquisa</string>
     <string name="filter_info">O uso de vários filtros ao mesmo tempo pode diminuir o desempenho do navegador.</string>
-    <string name="backup_title">Backup de dados</string>
+    <string name="backup_title">Backup</string>
     <string name="backup_import">Importar</string>
     <string name="backup_export">Exportar</string>
     <string name="backup_target">Por favor, selecione um alvo.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Saúde</string>
     <string name="search_icon">Botão de busca</string>
     <string name="no_news">Nenhuma notícia foi encontrada.</string>
-    <string name="vpn_active">VPN está ativada</string>
-    <string name="vpn_deactive">VPN está desativada</string>
+    <string name="vpn_active">DNS está ativada</string>
+    <string name="vpn_deactive">DNS está desativada</string>
     <string name="vpn_server">Servidor</string>
     <string name="visit_site">Visite o site</string>
     <string name="home_exit">Ação do botão Voltar na página inicial</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Exibir a posição da guia e o número de guias no botão da guia</string>
     <string name="not_space">Espaço insuficiente.</string>
     <string name="bar_remove_info">Para remover a barra superior, exclua todos os ícones da barra superior.</string>
-    <string name="db_changed_noti">Este arquivo de backup foi criado com base em um banco de dados antigo.\nUm novo banco de dados foi aplicado na versão mais recente.\nBDs antigos não são mais totalmente compatíveis.\nRecomendamos que você crie um novo arquivo de backup.</string>
+    <string name="backup_changed_1">O formato do arquivo de backup mudou.</string>
+    <string name="backup_changed_2">Arquivos de backup de versões anteriores não são mais suportados.</string>
+    <string name="backup_changed_3">Por favor, crie um novo arquivo de backup.</string>
     <string name="need_login">Por favor entre.</string>
     <string name="login_google">Faça login no Google</string>
     <string name="log_out">Sair</string>
     <string name="auto_update">Atualização automática</string>
     <string name="update_time">Ciclo de atualização</string>
     <string name="exit_rem_mem">Quando o aplicativo é encerrado, ele é removido da memória.</string>
-    <string name="patch_noti">Um patch de segurança foi aplicado.</string>
     <string name="onehand_mode">Modo de uma mão</string>
     <string name="onehand_icon">Botão de modo com uma mão</string>
     <string name="onehand_area">Tamanho da área</string>
     <string name="onehand_noti">Toque nesta área.</string>
     <string name="not_support_land">Não compatível com o modo paisagem.</string>
+    <string name="intro_text_1">Várias funções</string>
+    <string name="intro_text_2">Fácil de usar</string>
+    <string name="intro_text_3">Personalizar tudo</string>
+    <string name="intro_text_4">Navegação segura</string>
 </resources>

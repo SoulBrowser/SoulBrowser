@@ -317,8 +317,6 @@
     <string name="deny">거부</string>
     <string name="location">위치</string>
     <string name="site_permission">이 사이트에서 다음 권한을 요청합니다.</string>
-    <string name="camera_required">카메라 권한 필요</string>
-    <string name="audio_required">오디오 권한 필요</string>
     <string name="permission_granted">권한 허락됨</string>
     <string name="permission_denied">권한 거부됨</string>
     <string name="no_permission">권한 없음</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">YouTube 정책에 의해, YouTube 동영상은 다운로드할 수 없습니다.</string>
     <string name="video_full_guide_1">다운로드 가능한 동영상을 전체 화면으로 재생합니다.</string>
     <string name="video_full_guide_2">지원되지 않는 포맷은 버튼이 나타나지 않습니다.</string>
+    <string name="video_full_guide_3">사이트에서 외부 재생이 허용되지 않는 동영상은 재생할 수 없습니다.</string>
     <string name="down_limit">동시 다운로드</string>
     <string name="down_limit_info">너무 많은 파일을 동시에 다운로드하면, 디바이스가 느려지고 문제가 발생할 수 있습니다.</string>
     <string name="not_allow">허용 안함</string>
@@ -512,7 +511,7 @@
     <string name="resize">크기 조정</string>
     <string name="added">추가되었습니다.</string>
     <string name="changed">변경되었습니다.</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">사이트 제보</string>
     <string name="report_down">동영상을 다운로드할 수 없는 사이트의 주소를 알려주세요.</string>
     <string name="report_dark">어두운 테마에 문제가 있는 사이트의 주소를 알려주세요.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">광고 필터</string>
     <string name="filter_search">필터 검색</string>
     <string name="filter_info">여러 필터를 동시에 사용하면 브라우저 성능이 느려질 수 있습니다.</string>
-    <string name="backup_title">데이터 백업</string>
+    <string name="backup_title">백업</string>
     <string name="backup_import">불러오기</string>
     <string name="backup_export">내보내기</string>
     <string name="backup_target">대상을 선택하세요.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">건강</string>
     <string name="search_icon">검색 버튼</string>
     <string name="no_news">검색된 뉴스가 없습니다.</string>
-    <string name="vpn_active">VPN 활성화됨</string>
-    <string name="vpn_deactive">VPN 비활성화됨</string>
+    <string name="vpn_active">DNS 활성화됨</string>
+    <string name="vpn_deactive">DNS 비활성화됨</string>
     <string name="vpn_server">서버</string>
     <string name="visit_site">사이트 방문</string>
     <string name="home_exit">홈페이지에서 이전 버튼 동작</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">탭 버튼에 탭 위치와 탭 개수 표시</string>
     <string name="not_space">공간이 부족합니다.</string>
     <string name="bar_remove_info">상단바를 제거하려면 상단바에서 모든 아이콘을 삭제하세요.</string>
-    <string name="db_changed_noti">이 백업 파일은 오래된 DB를 기반으로 생성되었습니다.\n최근 버전에서 새로운 DB가 적용되었습니다.\n오래된 DB는 더 이상 완전히 호환되지 않습니다.\n새 백업 파일을 생성하는 것이 좋습니다.</string>
+    <string name="backup_changed_1">백업 파일 형식이 변경되었습니다.</string>
+    <string name="backup_changed_2">이전 버전의 백업 파일은 더 이상 지원되지 않습니다.</string>
+    <string name="backup_changed_3">새 백업 파일을 만들어 주세요.</string>
     <string name="need_login">로그인 해주세요.</string>
     <string name="login_google">Google로 로그인</string>
     <string name="log_out">로그 아웃</string>
     <string name="auto_update">자동 업데이트</string>
     <string name="update_time">업데이트 주기</string>
     <string name="exit_rem_mem">앱 종료 시 메모리에서 제거</string>
-    <string name="patch_noti">보안 패치가 적용되었습니다.</string>
     <string name="onehand_mode">한 손 사용 모드</string>
     <string name="onehand_icon">한 손 사용 모드 버튼</string>
     <string name="onehand_area">영역 크기</string>
     <string name="onehand_noti">이 영역을 탭해보세요.</string>
     <string name="not_support_land">가로 모드에서는 지원되지 않습니다.</string>
+    <string name="intro_text_1">다양한 기능</string>
+    <string name="intro_text_2">사용하기 쉬운</string>
+    <string name="intro_text_3">모든 것을 사용자 정의</string>
+    <string name="intro_text_4">안전한 브라우징</string>
 </resources>

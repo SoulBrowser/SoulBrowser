@@ -317,8 +317,6 @@
     <string name="deny">Verweigern</string>
     <string name="location">Ort</string>
     <string name="site_permission">Diese Seite benötigt folgende Erlaubnis</string>
-    <string name="camera_required">Kameraerlaubnis erforderlich</string>
-    <string name="audio_required">Audioerlaubnis erforderlich</string>
     <string name="permission_granted">Erlaubnis erteilt</string>
     <string name="permission_denied">Erlaubnis verweigert</string>
     <string name="no_permission">Keine Erlaubnis</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">Aufgrund der YouTube-Richtlinie können YouTube Videos nicht heruntergeladen werden.</string>
     <string name="video_full_guide_1">Herunterladbare Videos können im Vollbildmodus abgespielt werden.</string>
     <string name="video_full_guide_2">Nicht unterstützte Formate haben keine Schaltflächen.</string>
+    <string name="video_full_guide_3">Videos, die keine externe Wiedergabe auf der Site zulassen, können nicht wiedergegeben werden.</string>
     <string name="down_limit">Gleichzeitige Downloads</string>
     <string name="down_limit_info">Das gleichzeitige Herunterladen zu vieler Dateien kann ihr Gerät verlangsamen und Probleme verursachen.</string>
     <string name="not_allow">Nicht erlaubt</string>
@@ -512,7 +511,7 @@
     <string name="resize">Größe ändern</string>
     <string name="added">Hinzugefügt</string>
     <string name="changed">Geändert</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Website melden</string>
     <string name="report_down">Bitte geben Sie die Adresse der Seite an, auf der das Video nicht heruntergeladen werden kann.</string>
     <string name="report_dark">Bitte geben Sie die Adresse der Seite an, auf der Probleme mit dem dunklen Thema auftreten.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Anzeigenfilter</string>
     <string name="filter_search">Suchfilter</string>
     <string name="filter_info">Die gleichzeitige Verwendung mehrerer Filter kann die Browserleistung beeinträchtigen.</string>
-    <string name="backup_title">Datensicherung</string>
+    <string name="backup_title">Backup</string>
     <string name="backup_import">Importieren</string>
     <string name="backup_export">Exportieren</string>
     <string name="backup_target">Bitte wählen Sie ein Ziel.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Gesundheit</string>
     <string name="search_icon">Suchschaltfläche</string>
     <string name="no_news">Es wurden keine Nachrichten gefunden.</string>
-    <string name="vpn_active">VPN ist aktiviert</string>
-    <string name="vpn_deactive">VPN ist deaktiviert</string>
+    <string name="vpn_active">DNS ist aktiviert</string>
+    <string name="vpn_deactive">DNS ist deaktiviert</string>
     <string name="vpn_server">Server</string>
     <string name="visit_site">Besuchen Sie die Website</string>
     <string name="home_exit">Aktion der Zurück-Taste auf der Startseite home</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Registerkartenposition und Anzahl der Registerkarten auf der Registerkartenschaltfläche anzeigen</string>
     <string name="not_space">Nicht genug Platz.</string>
     <string name="bar_remove_info">Um die obere Leiste zu entfernen, löschen Sie alle Symbole aus der oberen Leiste.</string>
-    <string name="db_changed_noti">Diese Sicherungsdatei wurde basierend auf einer alten DB erstellt.\nIn der neuesten Version wurde eine neue DB angelegt.\nAlte DBs sind nicht mehr voll kompatibel.\nWir empfehlen Ihnen, eine neue Sicherungsdatei zu erstellen.</string>
+    <string name="backup_changed_1">Das Backup-Dateiformat hat sich geändert.</string>
+    <string name="backup_changed_2">Sicherungsdateien aus früheren Versionen werden nicht mehr unterstützt.</string>
+    <string name="backup_changed_3">Bitte erstellen Sie eine neue Sicherungsdatei.</string>
     <string name="need_login">Bitte loggen Sie sich ein.</string>
     <string name="login_google">Anmeldung mit Google</string>
     <string name="log_out">Ausloggen</string>
     <string name="auto_update">Automatisches Update</string>
     <string name="update_time">Aktualisierungszyklus</string>
     <string name="exit_rem_mem">Wenn die App beendet wird, wird sie aus dem Speicher entfernt.</string>
-    <string name="patch_noti">Ein Sicherheitspatch wurde angewendet.</string>
     <string name="onehand_mode">Einhandmodus</string>
     <string name="onehand_icon">Einhand-Modustaste</string>
     <string name="onehand_area">Flächengröße</string>
     <string name="onehand_noti">Tippen Sie auf diesen Bereich.</string>
     <string name="not_support_land">Wird im Querformat nicht unterstützt.</string>
+    <string name="intro_text_1">Verschiedene Funktionen</string>
+    <string name="intro_text_2">Einfach zu verwenden</string>
+    <string name="intro_text_3">Alles anpassen</string>
+    <string name="intro_text_4">Sicheres Surfen</string>
 </resources>

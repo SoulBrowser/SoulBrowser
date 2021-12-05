@@ -317,8 +317,6 @@
     <string name="deny">Negare</string>
     <string name="location">Locație</string>
     <string name="site_permission">Acest site solicită permisiunea următoare</string>
-    <string name="camera_required">Este necesară permisiunea pentru cameră</string>
-    <string name="audio_required">Este necesară permisiunea audio</string>
     <string name="permission_granted">Permis acordat</string>
     <string name="permission_denied">Permisul refuzat</string>
     <string name="no_permission">Fără permisiune</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">Datorită politicii YouTube, videoclipurile YouTube nu pot fi descărcate.</string>
     <string name="video_full_guide_1">Clipurile video descărcate pot fi redate pe ecran complet.</string>
     <string name="video_full_guide_2">Formatele neacceptate nu au butoane.</string>
+    <string name="video_full_guide_3">Videoclipurile care nu permit redarea externă pe site nu pot fi redate.</string>
     <string name="down_limit">Descărcare simultană</string>
     <string name="down_limit_info">Descărcarea prea multor fișiere în același timp poate încetini dispozitivul și provoca probleme.</string>
     <string name="not_allow">Nu permiteți</string>
@@ -512,7 +511,7 @@
     <string name="resize">Redimensionare</string>
     <string name="added">Adăugat</string>
     <string name="changed">Schimbat</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Site raport</string>
     <string name="report_down">Vă rugăm să furnizați adresa site-ului unde videoclipul nu poate fi descărcat.</string>
     <string name="report_dark">Vă rugăm să furnizați adresa site-ului care are probleme cu tema întunecată.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Filtru de anunțuri</string>
     <string name="filter_search">Filtru de căutare</string>
     <string name="filter_info">Utilizarea mai multor filtre în același timp poate încetini performanța browserului.</string>
-    <string name="backup_title">Copia de rezerva a datelor</string>
+    <string name="backup_title">Rezervă</string>
     <string name="backup_import">Importați</string>
     <string name="backup_export">Exportați</string>
     <string name="backup_target">Vă rugăm să selectați o țintă.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Sănătate</string>
     <string name="search_icon">Butonul de căutare</string>
     <string name="no_news">Nu s-au găsit noutăți.</string>
-    <string name="vpn_active">VPN este activat</string>
-    <string name="vpn_deactive">VPN este dezactivat</string>
+    <string name="vpn_active">DNS este activat</string>
+    <string name="vpn_deactive">DNS este dezactivat</string>
     <string name="vpn_server">Server</string>
     <string name="visit_site">Vizitați site-ul</string>
     <string name="home_exit">Acțiunea butonului Înapoi pe pagina principală</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Afișați poziția filei și numărul de file pe butonul de filă</string>
     <string name="not_space">Spatiu insuficient.</string>
     <string name="bar_remove_info">Pentru a elimina bara de sus, ștergeți toate pictogramele din bara de sus.</string>
-    <string name="db_changed_noti">Acest fișier de rezervă a fost creat pe baza unui vechi DB.\nUn nou DB a fost aplicat în cea mai recentă versiune.\nDB-urile vechi nu mai sunt pe deplin compatibile.\nVă recomandăm să creați un nou fișier de rezervă.</string>
+    <string name="backup_changed_1">Formatul fișierului de rezervă s-a schimbat.</string>
+    <string name="backup_changed_2">Fișierele de rezervă din versiunile anterioare nu mai sunt acceptate.</string>
+    <string name="backup_changed_3">Creați un nou fișier de rezervă.</string>
     <string name="need_login">Va rugam sa va logati.</string>
     <string name="login_google">Conectați-vă cu Google</string>
     <string name="log_out">Deconectează-te</string>
     <string name="auto_update">Actualizare automată</string>
     <string name="update_time">Ciclu de actualizare</string>
     <string name="exit_rem_mem">Când aplicația iese, aceasta este eliminată din memorie.</string>
-    <string name="patch_noti">A fost aplicat un patch de securitate.</string>
     <string name="onehand_mode">Modul cu o singură mână</string>
     <string name="onehand_icon">Buton de mod cu o singură mână</string>
     <string name="onehand_area">Dimensiunea zonei</string>
     <string name="onehand_noti">Atingeți această zonă.</string>
     <string name="not_support_land">Nu este acceptat în modul peisaj.</string>
+    <string name="intro_text_1">Diverse funcții</string>
+    <string name="intro_text_2">Ușor de folosit</string>
+    <string name="intro_text_3">Personaliza totul</string>
+    <string name="intro_text_4">Navigare sigura</string>
 </resources>

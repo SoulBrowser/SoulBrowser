@@ -317,8 +317,6 @@
     <string name="deny">Phủ nhận</string>
     <string name="location">Địa điểm</string>
     <string name="site_permission">Trang web này yêu cầu sự cho phép sau</string>
-    <string name="camera_required">Yêu cầu quyền đối với máy ảnh</string>
-    <string name="audio_required">Yêu cầu cho phép âm thanh</string>
     <string name="permission_granted">Đã được cho phép</string>
     <string name="permission_denied">Quyền bị từ chối</string>
     <string name="no_permission">Không cho phép</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">Do chính sách của YouTube, video YouTube không thể được tải xuống.</string>
     <string name="video_full_guide_1">Video tải về có thể được phát ở toàn màn hình.</string>
     <string name="video_full_guide_2">Các định dạng không được hỗ trợ không có nút.</string>
+    <string name="video_full_guide_3">Các video không cho phép phát lại bên ngoài trên trang web sẽ không thể phát được.</string>
     <string name="down_limit">Tải xuống đồng thời</string>
     <string name="down_limit_info">Tải xuống quá nhiều tệp cùng một lúc có thể làm chậm thiết bị của bạn và gây ra sự cố.</string>
     <string name="not_allow">Không cho phép</string>
@@ -512,7 +511,7 @@
     <string name="resize">Thay đổi kích thước</string>
     <string name="added">Đã thêm</string>
     <string name="changed">Thay đổi</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Trang web báo cáo</string>
     <string name="report_down">Vui lòng cung cấp địa chỉ của trang web nơi bạn không thể tải xuống video.</string>
     <string name="report_dark">Vui lòng cung cấp địa chỉ của trang web đang gặp sự cố với chủ đề tối.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Bộ lọc quảng cáo</string>
     <string name="filter_search">Bộ lọc tìm kiếm</string>
     <string name="filter_info">Sử dụng nhiều bộ lọc cùng một lúc có thể làm chậm hiệu suất trình duyệt.</string>
-    <string name="backup_title">Sao lưu dữ liệu</string>
+    <string name="backup_title">Sao lưu</string>
     <string name="backup_import">Nhập khẩu</string>
     <string name="backup_export">Xuất khẩu</string>
     <string name="backup_target">Vui lòng chọn một mục tiêu.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Sức khỏe</string>
     <string name="search_icon">Nút tìm kiếm</string>
     <string name="no_news">Không có tin tức được tìm thấy.</string>
-    <string name="vpn_active">VPN được kích hoạt</string>
-    <string name="vpn_deactive">VPN bị vô hiệu hóa</string>
+    <string name="vpn_active">DNS được kích hoạt</string>
+    <string name="vpn_deactive">DNS bị vô hiệu hóa</string>
     <string name="vpn_server">Máy chủ</string>
     <string name="visit_site">Thăm trang web</string>
     <string name="home_exit">Hành động của nút quay lại trên trang chủ</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Hiển thị vị trí tab và số lượng tab trên nút tab</string>
     <string name="not_space">Không đủ không gian.</string>
     <string name="bar_remove_info">Để xóa thanh trên cùng, hãy xóa tất cả các biểu tượng khỏi thanh trên cùng.</string>
-    <string name="db_changed_noti">Tệp sao lưu này được tạo dựa trên một DB cũ.\nMột DB mới đã được áp dụng trong phiên bản mới nhất.\nCác DB cũ không còn tương thích hoàn toàn.\nChúng tôi khuyên bạn nên tạo một tệp sao lưu mới.</string>
+    <string name="backup_changed_1">Định dạng tệp sao lưu đã thay đổi.</string>
+    <string name="backup_changed_2">Các tệp sao lưu từ các phiên bản trước không còn được hỗ trợ.</string>
+    <string name="backup_changed_3">Vui lòng tạo một tệp sao lưu mới.</string>
     <string name="need_login">Xin vui lòng đăng nhập.</string>
     <string name="login_google">Đăng nhập bằng Google</string>
     <string name="log_out">Đăng xuất</string>
     <string name="auto_update">Cập nhật tự động</string>
     <string name="update_time">Chu kỳ cập nhật</string>
     <string name="exit_rem_mem">Khi ứng dụng thoát, nó sẽ bị xóa khỏi bộ nhớ.</string>
-    <string name="patch_noti">Một bản vá bảo mật đã được áp dụng.</string>
     <string name="onehand_mode">Chế độ một tay</string>
     <string name="onehand_icon">Nút chế độ một tay</string>
     <string name="onehand_area">Kích thước khu vực</string>
     <string name="onehand_noti">Nhấn vào khu vực này.</string>
     <string name="not_support_land">Không được hỗ trợ ở chế độ ngang.</string>
+    <string name="intro_text_1">Các chức năng khác nhau</string>
+    <string name="intro_text_2">Dễ sử dụng</string>
+    <string name="intro_text_3">Tùy chỉnh mọi thứ</string>
+    <string name="intro_text_4">Duyệt web an toàn</string>
 </resources>

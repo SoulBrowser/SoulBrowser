@@ -317,8 +317,6 @@
     <string name="deny">Запретить</string>
     <string name="location">Pасположение</string>
     <string name="site_permission">Этот сайт запрашивает следующее разрешение</string>
-    <string name="camera_required">Требуется разрешение камеры</string>
-    <string name="audio_required">Требуется разрешение аудио</string>
     <string name="permission_granted">Разрешение предоставлено</string>
     <string name="permission_denied">Доступ запрещен</string>
     <string name="no_permission">Нет разрешения</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">Из-за политики YouTube видео YouTube не могут быть загружены.</string>
     <string name="video_full_guide_1">Загружаемые видео можно воспроизводить в полноэкранном режиме.</string>
     <string name="video_full_guide_2">Неподдерживаемые форматы не имеют кнопок.</string>
+    <string name="video_full_guide_3">Видео, которые не позволяют внешнее воспроизведение на сайте, не могут быть воспроизведены.</string>
     <string name="down_limit">Одновременная загрузка</string>
     <string name="down_limit_info">Загрузка слишком большого количества файлов одновременно может замедлить работу устройства и вызвать проблемы.</string>
     <string name="not_allow">Не разрешать</string>
@@ -512,7 +511,7 @@
     <string name="resize">Изменение размера</string>
     <string name="added">Добавлено</string>
     <string name="changed">Изменено</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Сообщить о проблемах с сайтом</string>
     <string name="report_down">Пожалуйста, укажите адрес сайта, где Вы не можете скачать видео.</string>
     <string name="report_dark">Укажите адрес сайта, на котором возникают проблемы с темной темой.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Рекламный фильтр</string>
     <string name="filter_search">Фильтр поиска</string>
     <string name="filter_info">Использование нескольких фильтров одновременно может снизить производительность браузера.</string>
-    <string name="backup_title">Резервное копирование данных</string>
+    <string name="backup_title">Резервные</string>
     <string name="backup_import">Импорт</string>
     <string name="backup_export">Экспорт</string>
     <string name="backup_target">Пожалуйста, выберите цель.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Здоровье</string>
     <string name="search_icon">Кнопка поиска</string>
     <string name="no_news">Новости не найдены.</string>
-    <string name="vpn_active">VPN активирован</string>
-    <string name="vpn_deactive">VPN деактивирован</string>
+    <string name="vpn_active">DNS активирован</string>
+    <string name="vpn_deactive">DNS деактивирован</string>
     <string name="vpn_server">Сервер</string>
     <string name="visit_site">Посетите сайт</string>
     <string name="home_exit">Действие кнопки Назад на домашней странице</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Отображение положения вкладки и количества вкладок на кнопке вкладки</string>
     <string name="not_space">Недостаточно пространства.</string>
     <string name="bar_remove_info">Чтобы удалить верхнюю панель, удалите все значки с верхней панели.</string>
-    <string name="db_changed_noti">Этот файл резервной копии был создан на основе старой БД.\nВ последней версии применена новая БД.\nСтарые БД больше не полностью совместимы.\nМы рекомендуем вам создать новый файл резервной копии.</string>
+    <string name="backup_changed_1">Формат файла резервной копии изменился.</string>
+    <string name="backup_changed_2">Файлы резервных копий из предыдущих версий больше не поддерживаются.</string>
+    <string name="backup_changed_3">Пожалуйста, создайте новый файл резервной копии.</string>
     <string name="need_login">Пожалуйста, войдите.</string>
     <string name="login_google">Войти через Google</string>
     <string name="log_out">Выйти</string>
     <string name="auto_update">Автоматическое обновление</string>
     <string name="update_time">Цикл обновления</string>
     <string name="exit_rem_mem">Когда приложение закрывается, оно удаляется из памяти.</string>
-    <string name="patch_noti">Был применен патч безопасности.</string>
     <string name="onehand_mode">Одноручный режим</string>
     <string name="onehand_icon">Кнопка режима работы одной рукой</string>
     <string name="onehand_area">Размер области</string>
     <string name="onehand_noti">Коснитесь этой области.</string>
     <string name="not_support_land">Не поддерживается в ландшафтном режиме.</string>
+    <string name="intro_text_1">Различные функции</string>
+    <string name="intro_text_2">Легко использовать</string>
+    <string name="intro_text_3">Настроить все</string>
+    <string name="intro_text_4">Безопасный просмотр</string>
 </resources>

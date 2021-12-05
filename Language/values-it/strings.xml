@@ -317,8 +317,6 @@
     <string name="deny">Negare</string>
     <string name="location">Posizione</string>
     <string name="site_permission">Questo sito richiede la seguente autorizzazione</string>
-    <string name="camera_required">Permesso di macchina fotografica richiesto</string>
-    <string name="audio_required">Permesso di audio richiesto</string>
     <string name="permission_granted">Permesso accordato</string>
     <string name="permission_denied">Permesso negato</string>
     <string name="no_permission">Nessun permesso</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">A causa delle norme di YouTube, i video di YouTube non possono essere scaricati.</string>
     <string name="video_full_guide_1">I video scaricabili possono essere riprodotti a schermo intero.</string>
     <string name="video_full_guide_2">I formati non supportati non hanno pulsanti.</string>
+    <string name="video_full_guide_3">I video che non consentono la riproduzione esterna sul sito non possono essere riprodotti.</string>
     <string name="down_limit">Download simultaneo</string>
     <string name="down_limit_info">Il download di troppi file contemporaneamente può rallentare il dispositivo e causare problemi.</string>
     <string name="not_allow">Non permettere</string>
@@ -512,7 +511,7 @@
     <string name="resize">Ridimensionamento</string>
     <string name="added">Aggiunto</string>
     <string name="changed">Cambiato</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Segnala sito</string>
     <string name="report_down">Fornisci l\'indirizzo del sito in cui non è possibile scaricare il video.</string>
     <string name="report_dark">Fornisci l\'indirizzo del sito che ha problemi con il tema scuro.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Filtro degli annunci</string>
     <string name="filter_search">Filtro di ricerca</string>
     <string name="filter_info">L\'uso di più filtri contemporaneamente può rallentare le prestazioni del browser.</string>
-    <string name="backup_title">Backup dei dati</string>
+    <string name="backup_title">Backup</string>
     <string name="backup_import">Importa</string>
     <string name="backup_export">Esporta</string>
     <string name="backup_target">Seleziona un obiettivo.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Salute</string>
     <string name="search_icon">Pulsante di ricerca</string>
     <string name="no_news">Nessuna notizie è stata trovata.</string>
-    <string name="vpn_active">La VPN è attivata</string>
-    <string name="vpn_deactive">La VPN è disattivata</string>
+    <string name="vpn_active">La DNS è attivata</string>
+    <string name="vpn_deactive">La DNS è disattivata</string>
     <string name="vpn_server">Server</string>
     <string name="visit_site">Visita il sito</string>
     <string name="home_exit">Azione del pulsante Indietro sulla home page</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Visualizza la posizione della scheda e il numero di schede sul pulsante della scheda</string>
     <string name="not_space">Non abbastanza spazio.</string>
     <string name="bar_remove_info">Per rimuovere la barra in alto, elimina tutte le icone dalla barra in alto.</string>
-    <string name="db_changed_noti">Questo file di backup è stato creato sulla base di un vecchio DB.\nNell\'ultima versione è stato applicato un nuovo DB.\nI vecchi DB non sono più completamente compatibili.\nTi consigliamo di creare un nuovo file di backup.</string>
+    <string name="backup_changed_1">Il formato del file di backup è cambiato.</string>
+    <string name="backup_changed_2">I file di backup delle versioni precedenti non sono più supportati.</string>
+    <string name="backup_changed_3">Si prega di creare un nuovo file di backup.</string>
     <string name="need_login">Accedere prego.</string>
     <string name="login_google">Accedi con Google</string>
     <string name="log_out">Disconnettersi</string>
     <string name="auto_update">Aggiornamento automatico</string>
     <string name="update_time">Ciclo di aggiornamento</string>
     <string name="exit_rem_mem">Quando l\'app esce, viene rimossa dalla memoria.</string>
-    <string name="patch_noti">È stata applicata una patch di sicurezza.</string>
     <string name="onehand_mode">Modalità a una mano</string>
     <string name="onehand_icon">Pulsante modalità a una mano</string>
     <string name="onehand_area">Dimensione dell\'area</string>
     <string name="onehand_noti">Tocca quest\'area.</string>
     <string name="not_support_land">Non supportato in modalità orizzontale.</string>
+    <string name="intro_text_1">Varie funzioni</string>
+    <string name="intro_text_2">Facile da usare</string>
+    <string name="intro_text_3">Personalizza tutto</string>
+    <string name="intro_text_4">Navigazione sicura</string>
 </resources>

@@ -317,8 +317,6 @@
     <string name="deny">Reddetmek</string>
     <string name="location">Konum</string>
     <string name="site_permission">Bu site aşağıdaki izni istiyor</string>
-    <string name="camera_required">Kamera izni gerekli</string>
-    <string name="audio_required">Ses izni gerekli</string>
     <string name="permission_granted">İzin verildi</string>
     <string name="permission_denied">İzin reddedildi</string>
     <string name="no_permission">İzin yok</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">YouTube politikası nedeniyle, YouTube videoları indirilemiyor.</string>
     <string name="video_full_guide_1">İndirilebilir videolar tam ekranda oynatılabilir.</string>
     <string name="video_full_guide_2">Desteklenmeyen formatlarda düğme yoktur.</string>
+    <string name="video_full_guide_3">Sitede harici oynatmaya izin vermeyen videolar oynatılamaz.</string>
     <string name="down_limit">Eşzamanlı indirme</string>
     <string name="down_limit_info">Aynı anda çok fazla dosya indirmek, cihazınızı yavaşlatabilir ve sorunlara neden olabilir.</string>
     <string name="not_allow">İzin verme</string>
@@ -512,7 +511,7 @@
     <string name="resize">Yeniden boyutlandırma</string>
     <string name="added">Katma</string>
     <string name="changed">Değişmiş</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Site bildir</string>
     <string name="report_down">Lütfen videoyu indiremediğiniz sitenin adresini belirtin.</string>
     <string name="report_dark">Lütfen karanlık temayla sorun yaşayan sitenin adresini sağlayın.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Reklam filtresi</string>
     <string name="filter_search">Arama filtresi</string>
     <string name="filter_info">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
-    <string name="backup_title">Veri yedekleme</string>
+    <string name="backup_title">Yedek</string>
     <string name="backup_import">İthalat</string>
     <string name="backup_export">İhracat</string>
     <string name="backup_target">Lütfen bir hedef seçin.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Sağlık</string>
     <string name="search_icon">Arama düğmesi</string>
     <string name="no_news">Haber bulunamadı.</string>
-    <string name="vpn_active">VPN etkin</string>
-    <string name="vpn_deactive">VPN devre dışı</string>
+    <string name="vpn_active">DNS etkin</string>
+    <string name="vpn_deactive">DNS devre dışı</string>
     <string name="vpn_server">Sunucu</string>
     <string name="visit_site">Siteyi ziyaret et</string>
     <string name="home_exit">Ana sayfada geri düğmesi eylemi</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Sekme düğmesindeki sekme konumunu ve sekme sayısını görüntüleme</string>
     <string name="not_space">Yeterli alan yok.</string>
     <string name="bar_remove_info">Üst çubuğu kaldırmak için üst çubuktaki tüm simgeleri silin.</string>
-    <string name="db_changed_noti">Bu yedekleme dosyası, eski bir DB temel alınarak oluşturulmuştur.\nEn son sürümde yeni bir DB uygulandı.\nEski DB\'ler artık tam uyumlu değil.\nYeni bir yedekleme dosyası oluşturmanızı öneririz.</string>
+    <string name="backup_changed_1">Yedek dosya formatı değişti.</string>
+    <string name="backup_changed_2">Önceki sürümlerden yedekleme dosyaları artık desteklenmemektedir.</string>
+    <string name="backup_changed_3">Lütfen yeni bir yedekleme dosyası oluşturun.</string>
     <string name="need_login">Lütfen giriş yapın.</string>
     <string name="login_google">Google ile giriş yap</string>
     <string name="log_out">Çıkış Yap</string>
     <string name="auto_update">Otomatik güncelleme</string>
     <string name="update_time">Güncelleme döngüsü</string>
     <string name="exit_rem_mem">Uygulama çıktığında, bellekten kaldırılır.</string>
-    <string name="patch_noti">Bir güvenlik yaması uygulandı.</string>
     <string name="onehand_mode">Tek elle mod</string>
     <string name="onehand_icon">Tek elle mod düğmesi</string>
     <string name="onehand_area">Alan boyutu</string>
     <string name="onehand_noti">Bu alana dokunun.</string>
     <string name="not_support_land">Manzara modunda desteklenmez.</string>
+    <string name="intro_text_1">Çeşitli fonksiyonlar</string>
+    <string name="intro_text_2">Kullanımı kolay</string>
+    <string name="intro_text_3">Her şeyi özelleştir</string>
+    <string name="intro_text_4">Güvenli Gezinti</string>
 </resources>

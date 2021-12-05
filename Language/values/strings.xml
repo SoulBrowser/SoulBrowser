@@ -317,8 +317,6 @@
     <string name="deny">Deny</string>
     <string name="location">Location</string>
     <string name="site_permission">This site requests the following permission</string>
-    <string name="camera_required">Camera permission required</string>
-    <string name="audio_required">Audio permission required</string>
     <string name="permission_granted">Permission granted</string>
     <string name="permission_denied">Permission denied</string>
     <string name="no_permission">No permission</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">Due to YouTube policy, YouTube videos can not be downloaded.</string>
     <string name="video_full_guide_1">Downloadable videos can be played in full screen.</string>
     <string name="video_full_guide_2">Unsupported formats do not have buttons.</string>
+    <string name="video_full_guide_3">Videos that do not allow external playback on the site cannot be played.</string>
     <string name="down_limit">Concurrent download</string>
     <string name="down_limit_info">Downloading too many files at the same time can slow device and cause problems.</string>
     <string name="not_allow">Do not allow</string>
@@ -512,7 +511,7 @@
     <string name="resize">Resize</string>
     <string name="added">Added</string>
     <string name="changed">Changed</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Report site</string>
     <string name="report_down">Please provide the address of the site where the video can not be downloaded.</string>
     <string name="report_dark">Please provide the address of the site that is having problems with the dark theme.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Ad filter</string>
     <string name="filter_search">Search filter</string>
     <string name="filter_info">Using multiple filters at the same time can slow browser performance.</string>
-    <string name="backup_title">Data backup</string>
+    <string name="backup_title">Backup</string>
     <string name="backup_import">Import</string>
     <string name="backup_export">Export</string>
     <string name="backup_target">Please select a target.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Health</string>
     <string name="search_icon">Search button</string>
     <string name="no_news">No news was found.</string>
-    <string name="vpn_active">VPN is activated</string>
-    <string name="vpn_deactive">VPN is deactivated</string>
+    <string name="vpn_active">DNS is activated</string>
+    <string name="vpn_deactive">DNS is deactivated</string>
     <string name="vpn_server">Server</string>
     <string name="visit_site">Visit the site</string>
     <string name="home_exit">Back button action on home page</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Show tab position and number of tabs on tab button</string>
     <string name="not_space">Not enough space.</string>
     <string name="bar_remove_info">To remove the top bar, delete all icons from the top bar.</string>
-    <string name="db_changed_noti">This backup file was created based on an old DB.\nA new DB has been applied in the latest version.\nOld DBs are no longer fully compatible.\nWe recommend that you create a new backup file.</string>
+    <string name="backup_changed_1">The backup file format has changed.</string>
+    <string name="backup_changed_2">Backup files from previous versions are no longer supported.</string>
+    <string name="backup_changed_3">Please create a new backup file.</string>
     <string name="need_login">Please sign in.</string>
     <string name="login_google">Sign in with Google</string>
     <string name="log_out">Sign out</string>
     <string name="auto_update">Auto update</string>
     <string name="update_time">Update cycle</string>
     <string name="exit_rem_mem">When the app exits, it is removed from memory.</string>
-    <string name="patch_noti">A security patch has been applied.</string>
     <string name="onehand_mode">One-handed mode</string>
     <string name="onehand_icon">One-handed mode button</string>
     <string name="onehand_area">Area size</string>
     <string name="onehand_noti">Tap this area.</string>
     <string name="not_support_land">Not supported in landscape mode.</string>
+    <string name="intro_text_1">Various functions</string>
+    <string name="intro_text_2">Easy to use</string>
+    <string name="intro_text_3">Customize everything</string>
+    <string name="intro_text_4">Safe Browsing</string>
 </resources>

@@ -317,8 +317,6 @@
     <string name="deny">拒絕</string>
     <string name="location">所在位置</string>
     <string name="site_permission">本網站要求以下許可</string>
-    <string name="camera_required">需要相機權限</string>
-    <string name="audio_required">需要音頻許可</string>
     <string name="permission_granted">權限授予</string>
     <string name="permission_denied">沒有權限</string>
     <string name="no_permission">沒有權限</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">根據YouTube政策，YouTube影片無法下載</string>
     <string name="video_full_guide_1">可下載的影片可以全螢幕播放</string>
     <string name="video_full_guide_2">不支持的格式沒有按鈕</string>
+    <string name="video_full_guide_3">網站上不允許外部播放的視頻無法播放</string>
     <string name="down_limit">同時下載</string>
     <string name="down_limit_info">同時下載太多文件可能會降低設備速度並引起問題</string>
     <string name="not_allow">不允許</string>
@@ -512,7 +511,7 @@
     <string name="resize">調整大小</string>
     <string name="added">已新增</string>
     <string name="changed">已變更</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">報告網站</string>
     <string name="report_down">請提供您無法下載影片的網站網址</string>
     <string name="report_dark">請提供深色主題有問題的網站網址</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">廣告過濾器</string>
     <string name="filter_search">搜索過濾器</string>
     <string name="filter_info">同時使用多個過濾器會降低瀏覽器性能</string>
-    <string name="backup_title">數據備份</string>
+    <string name="backup_title">備份</string>
     <string name="backup_import">導入</string>
     <string name="backup_export">匯出</string>
     <string name="backup_target">請選擇一個目標</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">健康</string>
     <string name="search_icon">搜索按鈕</string>
     <string name="no_news">沒有找到任何消息</string>
-    <string name="vpn_active">VPN已激活</string>
-    <string name="vpn_deactive">VPN已停用</string>
+    <string name="vpn_active">DNS 已激活</string>
+    <string name="vpn_deactive">DNS 已停用</string>
     <string name="vpn_server">服務器</string>
     <string name="visit_site">訪問網站</string>
     <string name="home_exit">主頁上的後退按鈕操作</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">在選項卡按鈕上顯示選項卡位置和選項卡數量</string>
     <string name="not_space">沒有足夠的空位</string>
     <string name="bar_remove_info">要刪除頂部欄，請刪除頂部欄中的所有圖標</string>
-    <string name="db_changed_noti">此備份文件是基於舊數據庫創建的\n在最新版本中應用了一個新的 DB\n舊數據庫不再完全兼容\n我們建議您創建一個新的備份文件</string>
+    <string name="backup_changed_1">備份文件格式已更改</string>
+    <string name="backup_changed_2">不再支持以前版本的備份文件</string>
+    <string name="backup_changed_3">請創建一個新的備份文件</string>
     <string name="need_login">請登錄</string>
     <string name="login_google">使用 Google 登錄</string>
     <string name="log_out">登出</string>
     <string name="auto_update">自動更新</string>
     <string name="update_time">更新周期</string>
     <string name="exit_rem_mem">當應用程序退出時，它會從內存中刪除</string>
-    <string name="patch_noti">已應用安全補丁</string>
     <string name="onehand_mode">單手模式</string>
     <string name="onehand_icon">單手模式按鈕</string>
     <string name="onehand_area">面積大小</string>
     <string name="onehand_noti">點按此區域</string>
     <string name="not_support_land">橫向模式不支持</string>
+    <string name="intro_text_1">各種功能</string>
+    <string name="intro_text_2">便於使用</string>
+    <string name="intro_text_3">定制一切</string>
+    <string name="intro_text_4">安全瀏覽</string>
 </resources>

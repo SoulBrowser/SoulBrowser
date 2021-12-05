@@ -317,8 +317,6 @@
     <string name="deny">Negar</string>
     <string name="location">Ubicación</string>
     <string name="site_permission">Este sitio solicita el siguiente permiso</string>
-    <string name="camera_required">Se requiere permiso de cámara</string>
-    <string name="audio_required">Se requiere permiso de audio</string>
     <string name="permission_granted">Permiso concedido</string>
     <string name="permission_denied">Permiso denegado</string>
     <string name="no_permission">Sin permiso</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">Debido a la política de YouTube, los videos de YouTube no se pueden descargar.</string>
     <string name="video_full_guide_1">Los videos descargables se pueden reproducir en pantalla completa.</string>
     <string name="video_full_guide_2">Los formatos no compatibles no tienen botones.</string>
+    <string name="video_full_guide_3">Los videos que no permiten la reproducción externa en el sitio no se pueden reproducir.</string>
     <string name="down_limit">Descarga simultánea</string>
     <string name="down_limit_info">Descargar demasiados archivos al mismo tiempo puede ralentizar su dispositivo y causar problemas.</string>
     <string name="not_allow">No permitir</string>
@@ -512,7 +511,7 @@
     <string name="resize">Redimensionar</string>
     <string name="added">Agregado</string>
     <string name="changed">Cambiado</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Informe del sitio</string>
     <string name="report_down">Proporcione la dirección del sitio donde no puede descargar el video.</string>
     <string name="report_dark">Proporcione la dirección del sitio que tiene problemas con el tema oscuro.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Filtro de anuncios</string>
     <string name="filter_search">Filtro de búsqueda</string>
     <string name="filter_info">El uso de varios filtros al mismo tiempo puede ralentizar el rendimiento del navegador.</string>
-    <string name="backup_title">Copias de seguridad</string>
+    <string name="backup_title">Respaldo</string>
     <string name="backup_import">Importar</string>
     <string name="backup_export">Exportar</string>
     <string name="backup_target">Por favor seleccione un objetivo.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Salud</string>
     <string name="search_icon">Botón de búsqueda</string>
     <string name="no_news">No se encontraron noticias.</string>
-    <string name="vpn_active">VPN está activado</string>
-    <string name="vpn_deactive">VPN está desactivado</string>
+    <string name="vpn_active">DNS está activado</string>
+    <string name="vpn_deactive">DNS está desactivado</string>
     <string name="vpn_server">Servidor</string>
     <string name="visit_site">Visitar el sitio</string>
     <string name="home_exit">Acción del botón Atrás en la página de inicio</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Mostrar la posición de la pestaña y el número de pestañas en el botón de pestaña</string>
     <string name="not_space">Sin espacio suficiente.</string>
     <string name="bar_remove_info">Para eliminar la barra superior, elimine todos los iconos de la barra superior.</string>
-    <string name="db_changed_noti">Este archivo de respaldo se creó en base a una base de datos antigua.\nSe ha aplicado una nueva base de datos en la última versión.\nLas bases de datos antiguas ya no son totalmente compatibles.\nLe recomendamos que cree un nuevo archivo de copia de seguridad.</string>
+    <string name="backup_changed_1">El formato del archivo de respaldo ha cambiado.</string>
+    <string name="backup_changed_2">Los archivos de respaldo de versiones anteriores ya no son compatibles.</string>
+    <string name="backup_changed_3">Cree un nuevo archivo de copia de seguridad.</string>
     <string name="need_login">Por favor Iniciar sesión.</string>
     <string name="login_google">Inicia sesión con Google</string>
     <string name="log_out">Cerrar sesión</string>
     <string name="auto_update">Actualización automática</string>
     <string name="update_time">Ciclo de actualización</string>
     <string name="exit_rem_mem">Cuando la aplicación se cierra, se elimina de la memoria.</string>
-    <string name="patch_noti">Se ha aplicado un parche de seguridad.</string>
     <string name="onehand_mode">Modo de una mano</string>
     <string name="onehand_icon">Botón de modo de una mano</string>
     <string name="onehand_area">Tamaño del área</string>
     <string name="onehand_noti">Toque esta área.</string>
     <string name="not_support_land">No es compatible con el modo horizontal.</string>
+    <string name="intro_text_1">Varias funciones</string>
+    <string name="intro_text_2">Fácil de usar</string>
+    <string name="intro_text_3">Personalizar todo</string>
+    <string name="intro_text_4">Navegación segura</string>
 </resources>

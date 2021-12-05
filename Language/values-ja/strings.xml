@@ -317,8 +317,6 @@
     <string name="deny">拒否</string>
     <string name="location">位置</string>
     <string name="site_permission">このサイトは次の許可を要求します</string>
-    <string name="camera_required">カメラ権限が必要</string>
-    <string name="audio_required">オーディオ権限が必要</string>
     <string name="permission_granted">権限された許可</string>
     <string name="permission_denied">アクセス拒否</string>
     <string name="no_permission">権限なし</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">YouTubeのポリシーにより、YouTubeのビデオは、ダウンロードすることができません。</string>
     <string name="video_full_guide_1">ダウンロード可能な動画をフルスクリーンで再生することができます。</string>
     <string name="video_full_guide_2">サポートされていないフォーマットは、ボタンが表示されません。</string>
+    <string name="video_full_guide_3">サイトで外部再生が許可されていない動画は再生できません。</string>
     <string name="down_limit">同時ダウンロード</string>
     <string name="down_limit_info">あまりにも多くのファイルを同時にダウンロードすると、デバイスが遅くなり、問題が発生する可能性があります。</string>
     <string name="not_allow">許可しない</string>
@@ -512,7 +511,7 @@
     <string name="resize">サイズ調整</string>
     <string name="added">追加された</string>
     <string name="changed">変更された</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">サイト情報提供</string>
     <string name="report_down">動画をダウンロードすることができないサイトのアドレスを教えてください。</string>
     <string name="report_dark">ダークテーマで問題が発生しているサイトのアドレスを入力してください。</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">広告フィルタ</string>
     <string name="filter_search">フィルタを検索</string>
     <string name="filter_info">複数のフィルタを同時に使用すると、ブラウザーのパフォーマンスが低下することがあります。</string>
-    <string name="backup_title">データのバックアップ</string>
+    <string name="backup_title">バックアップ</string>
     <string name="backup_import">インポート</string>
     <string name="backup_export">エクスポート</string>
     <string name="backup_target">対象を選択します。</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">健康</string>
     <string name="search_icon">検索ボタン</string>
     <string name="no_news">検出されたニュースがありません。</string>
-    <string name="vpn_active">VPNが有効になっています</string>
-    <string name="vpn_deactive">VPNが無効になりました</string>
+    <string name="vpn_active">DNSが有効になっています</string>
+    <string name="vpn_deactive">DNSが無効になりました</string>
     <string name="vpn_server">サーバー</string>
     <string name="visit_site">サイトを訪問</string>
     <string name="home_exit">ホームページの戻るボタンのアクション</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">タブボタンにタブ位置とタブの数を表示</string>
     <string name="not_space">スペースが不足しています。</string>
     <string name="bar_remove_info">上部バーを削除するには、上部のバーで、すべてのアイコンを削除してください。</string>
-    <string name="db_changed_noti">このバックアップファイルは、古いDBに基づいて生成されました。\n最近のバージョンでは、新しいDBが適用されました。\n古いDBは、もはや完全に互換性がありません。\n新しいバックアップファイルを作成することをお勧め。</string>
+    <string name="backup_changed_1">バックアップファイルの種類が変更されました。</string>
+    <string name="backup_changed_2">以前のバージョンのバックアップファイルはサポートされなくなりました。</string>
+    <string name="backup_changed_3">新しいバックアップファイルを作成してください。</string>
     <string name="need_login">ログインしてください。</string>
     <string name="login_google">Googleでサインイン</string>
     <string name="log_out">ログアウト</string>
     <string name="auto_update">自動更新</string>
     <string name="update_time">更新頻度</string>
     <string name="exit_rem_mem">アプリが終了するとメモリから削除されます。</string>
-    <string name="patch_noti">セキュリティパッチが適用されました。</string>
     <string name="onehand_mode">片手モード</string>
     <string name="onehand_icon">片手モードボタン</string>
     <string name="onehand_area">エリアサイズ</string>
     <string name="onehand_noti">このエリアをタップしてみてください。</string>
     <string name="not_support_land">水平モードではサポートされていません。</string>
+    <string name="intro_text_1">さまざまな機能</string>
+    <string name="intro_text_2">使いやすい</string>
+    <string name="intro_text_3">すべてをカスタマイズ</string>
+    <string name="intro_text_4">セーフブラウジング</string>
 </resources>

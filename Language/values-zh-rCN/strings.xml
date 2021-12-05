@@ -317,8 +317,6 @@
     <string name="deny">拒绝</string>
     <string name="location">所在位置</string>
     <string name="site_permission">本网站要求以下许可</string>
-    <string name="camera_required">需要相机权限</string>
-    <string name="audio_required">需要音频许可</string>
     <string name="permission_granted">请授予权限</string>
     <string name="permission_denied">没有权限</string>
     <string name="no_permission">没有权限</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">不能下载 YouTube 视频。</string>
     <string name="video_full_guide_1">下载的视频可全屏播放</string>
     <string name="video_full_guide_2">不支持的格式没有按钮</string>
+    <string name="video_full_guide_3">网站上不允许外部播放的视频无法播放</string>
     <string name="down_limit">同时下载数</string>
     <string name="down_limit_info">同时下载太多文件可能会降低设备速度并出现问题</string>
     <string name="not_allow">不允许</string>
@@ -512,7 +511,7 @@
     <string name="resize">调整大小</string>
     <string name="added">已添加</string>
     <string name="changed">已变更</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">反馈网站</string>
     <string name="report_down">请提供无法下载视频的网站地址</string>
     <string name="report_dark">请提供深色主题有问题的网站地址</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">广告过滤器</string>
     <string name="filter_search">搜索过滤器</string>
     <string name="filter_info">同时使用多个过滤器会降低浏览器性能</string>
-    <string name="backup_title">数据备份</string>
+    <string name="backup_title">备份</string>
     <string name="backup_import">导入</string>
     <string name="backup_export">导出</string>
     <string name="backup_target">请选择一个目标</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">健康</string>
     <string name="search_icon">搜索按钮</string>
     <string name="no_news">没有找到任何消息</string>
-    <string name="vpn_active">VPN已激活</string>
-    <string name="vpn_deactive">VPN已停用</string>
+    <string name="vpn_active">DNS 已激活</string>
+    <string name="vpn_deactive">DNS 已停用</string>
     <string name="vpn_server">服务器</string>
     <string name="visit_site">访问网站</string>
     <string name="home_exit">主页上的后退按钮操作</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">在选项卡按钮上显示选项卡位置和选项卡数量</string>
     <string name="not_space">没有足够的空位</string>
     <string name="bar_remove_info">要删除顶部栏，请删除顶部栏中的所有图标</string>
-    <string name="db_changed_noti">此备份文件是基于旧数据库创建的\n在最新版本中应用了一个新的 DB\n旧数据库不再完全兼容\n我们建议您创建一个新的备份文件</string>
+    <string name="backup_changed_1">备份文件格式已更改</string>
+    <string name="backup_changed_2">不再支持以前版本的备份文件</string>
+    <string name="backup_changed_3">请创建一个新的备份文件</string>
     <string name="need_login">请登录</string>
     <string name="login_google">使用 Google 登录</string>
     <string name="log_out">登出</string>
     <string name="auto_update">自动更新</string>
     <string name="update_time">更新周期</string>
     <string name="exit_rem_mem">当应用程序退出时，它会从内存中删除</string>
-    <string name="patch_noti">已应用安全补丁</string>
     <string name="onehand_mode">单手模式</string>
     <string name="onehand_icon">单手模式按钮</string>
     <string name="onehand_area">面积大小</string>
     <string name="onehand_noti">点按此区域</string>
     <string name="not_support_land">横向模式不支持</string>
+    <string name="intro_text_1">各种功能</string>
+    <string name="intro_text_2">便于使用</string>
+    <string name="intro_text_3">定制一切</string>
+    <string name="intro_text_4">安全浏览</string>
 </resources>

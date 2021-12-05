@@ -317,8 +317,6 @@
     <string name="deny">Zaprzeczać</string>
     <string name="location">Lokalizacja</string>
     <string name="site_permission">Ta strona wymaga następującego pozwolenia</string>
-    <string name="camera_required">Wymagane uprawnienie do kamery</string>
-    <string name="audio_required">Wymagane zezwolenie audio</string>
     <string name="permission_granted">Zezwolenie przyznane</string>
     <string name="permission_denied">Odmowa dostępu</string>
     <string name="no_permission">Brak uprawnień</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">Ze względu na zasady YouTube nie można pobierać filmów z YouTube.</string>
     <string name="video_full_guide_1">Filmy do pobrania można odtwarzać na pełnym ekranie.</string>
     <string name="video_full_guide_2">Nieobsługiwane formaty nie mają przycisków.</string>
+    <string name="video_full_guide_3">Nie można odtwarzać filmów, które nie pozwalają na odtwarzanie zewnętrzne w witrynie.</string>
     <string name="down_limit">Jednoczesne pobieranie</string>
     <string name="down_limit_info">Pobieranie zbyt wielu plików jednocześnie może spowolnić urządzenie i powodować problemy.</string>
     <string name="not_allow">Nie zezwalaj</string>
@@ -512,7 +511,7 @@
     <string name="resize">Zmień rozmiar</string>
     <string name="added">Dodano</string>
     <string name="changed">Zmieniono</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Zgłoś stronę</string>
     <string name="report_down">Podaj adres strony, z której nie można pobrać filmu.</string>
     <string name="report_dark">Podaj adres witryny, która ma problemy z ciemnym motywem.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Filtr reklam</string>
     <string name="filter_search">Filtr wyszukiwania</string>
     <string name="filter_info">Używanie wielu filtrów jednocześnie może spowolnić działanie przeglądarki.</string>
-    <string name="backup_title">Backup danych</string>
+    <string name="backup_title">Zapasowej</string>
     <string name="backup_import">Importuj</string>
     <string name="backup_export">Eksportuj</string>
     <string name="backup_target">Wybierz cel.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Zdrowie</string>
     <string name="search_icon">Przycisk wyszukiwania</string>
     <string name="no_news">Nie znaleziono żadnych wiadomości.</string>
-    <string name="vpn_active">VPN jest aktywowany</string>
-    <string name="vpn_deactive">VPN jest wyłączony</string>
+    <string name="vpn_active">DNS jest aktywowany</string>
+    <string name="vpn_deactive">DNS jest wyłączony</string>
     <string name="vpn_server">Serwer</string>
     <string name="visit_site">Odwiedź stronę</string>
     <string name="home_exit">Działanie przycisku Wstecz na stronie głównej</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Wyświetl pozycję zakładki i liczbę zakładek na przycisku zakładki</string>
     <string name="not_space">Niewystarczająco miejsca.</string>
     <string name="bar_remove_info">Aby usunąć górny pasek, usuń wszystkie ikony z górnego paska.</string>
-    <string name="db_changed_noti">Ten plik kopii zapasowej został utworzony na podstawie starej bazy danych.\nW najnowszej wersji zastosowano nową bazę danych.\nStare bazy danych nie są już w pełni kompatybilne.\nZalecamy utworzenie nowego pliku kopii zapasowej.</string>
+    <string name="backup_changed_1">Zmienił się format pliku kopii zapasowej.</string>
+    <string name="backup_changed_2">Pliki kopii zapasowych z poprzednich wersji nie są już obsługiwane.</string>
+    <string name="backup_changed_3">Utwórz nowy plik kopii zapasowej.</string>
     <string name="need_login">Proszę się zalogować.</string>
     <string name="login_google">Zaloguj się przez Google</string>
     <string name="log_out">Wyloguj</string>
     <string name="auto_update">Automatyczna aktualizacja</string>
     <string name="update_time">Cykl aktualizacji</string>
     <string name="exit_rem_mem">Gdy aplikacja zostanie zamknięta, zostanie usunięta z pamięci.</string>
-    <string name="patch_noti">Zastosowano poprawkę bezpieczeństwa.</string>
     <string name="onehand_mode">Tryb jednoręczny</string>
     <string name="onehand_icon">Przycisk trybu jednoręcznego</string>
     <string name="onehand_area">Rozmiar obszaru</string>
     <string name="onehand_noti">Dotknij tego obszaru.</string>
     <string name="not_support_land">Nieobsługiwane w trybie poziomym.</string>
+    <string name="intro_text_1">Różne funkcje</string>
+    <string name="intro_text_2">Łatwy w użyciu</string>
+    <string name="intro_text_3">Dostosuj wszystko</string>
+    <string name="intro_text_4">Bezpieczne przeglądanie</string>
 </resources>

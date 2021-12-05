@@ -317,8 +317,6 @@
     <string name="deny">إنكار</string>
     <string name="location">موقعك</string>
     <string name="site_permission">يطلب هذا الموقع الأذونات التالية:</string>
-    <string name="camera_required">مطلوب إذن الكاميرا</string>
-    <string name="audio_required">مطلوب إذن الصوت</string>
     <string name="permission_granted">تم تأمين التصريح</string>
     <string name="permission_denied">طلب الاذن مرفوض</string>
     <string name="no_permission">لا يوجد إذن</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">نظرًا لسياسة YouTube ، لا يمكن تنزيل مقاطع فيديو YouTube.</string>
     <string name="video_full_guide_1">تشغيل الفيديو القابل للتنزيل في وضع ملء الشاشة.</string>
     <string name="video_full_guide_2">لا يظهر الزر للتنسيقات غير المعتمدة.</string>
+    <string name="video_full_guide_3">لا يمكن تشغيل مقاطع الفيديو التي لا تسمح بالتشغيل الخارجي على الموقع.</string>
     <string name="down_limit">تنزيل متزامن</string>
     <string name="down_limit_info">قد يؤدي تنزيل عدد كبير جدًا من الملفات في نفس الوقت إلى إبطاء جهازك والتسبب في حدوث مشكلات.</string>
     <string name="not_allow">غير مسموح</string>
@@ -512,7 +511,7 @@
     <string name="resize">تغيير الحجم</string>
     <string name="added">تمت إضافة.</string>
     <string name="changed">تغير.</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">تقرير الموقع</string>
     <string name="report_down">يرجى تقديم عنوان الموقع حيث لا يمكن تنزيل الفيديو.</string>
     <string name="report_dark">من فضلك قل لي عنوان الموقع الذي يواجه مشاكل مع المظهر الداكن.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">مرشح الإعلانات</string>
     <string name="filter_search">بحث التصفية</string>
     <string name="filter_info">يمكن أن يؤدي استخدام عوامل تصفية متعددة في نفس الوقت إلى إبطاء أداء المتصفح.</string>
-    <string name="backup_title">النسخ الاحتياطي للبيانات</string>
+    <string name="backup_title">دعم</string>
     <string name="backup_import">حمل</string>
     <string name="backup_export">يصدر</string>
     <string name="backup_target">الرجاء تحديد هدف.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">صحة</string>
     <string name="search_icon">زر البحث</string>
     <string name="no_news">لم يتم العثور على أخبار.</string>
-    <string name="vpn_active">تمكين VPN</string>
-    <string name="vpn_deactive">VPN معطل</string>
+    <string name="vpn_active">تمكين DNS</string>
+    <string name="vpn_deactive">DNS معطل</string>
     <string name="vpn_server">الخادم</string>
     <string name="visit_site">قم بزيارة الموقع</string>
     <string name="home_exit">إجراء زر الرجوع على الصفحة الرئيسية</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">عرض موضع علامة التبويب وعدد علامات التبويب على زر علامة التبويب</string>
     <string name="not_space">مساحة غير كافية.</string>
     <string name="bar_remove_info">لإزالة الشريط العلوي ، احذف جميع الرموز من الشريط العلوي.</string>
-    <string name="db_changed_noti">تم إنشاء ملف النسخ الاحتياطي هذا بناءً على قاعدة بيانات قديمة.\nتم تطبيق قاعدة بيانات جديدة في أحدث إصدار.\nلم تعد قواعد البيانات القديمة متوافقة تمامًا.\nنوصي بإنشاء ملف نسخ احتياطي جديد.</string>
+    <string name="backup_changed_1">تم تغيير تنسيق ملف النسخ الاحتياطي.</string>
+    <string name="backup_changed_2">لم تعد ملفات النسخ الاحتياطي من الإصدارات السابقة مدعومة.</string>
+    <string name="backup_changed_3">الرجاء إنشاء ملف نسخ احتياطي جديد.</string>
     <string name="need_login">الرجاء تسجيل الدخول.</string>
     <string name="login_google">الدخول مع جوجل</string>
     <string name="log_out">تسجيل خروج</string>
     <string name="auto_update">التحديث التلقائي</string>
     <string name="update_time">دورة التحديث</string>
     <string name="exit_rem_mem">عند خروج التطبيق ، تتم إزالته من الذاكرة.</string>
-    <string name="patch_noti">تم تطبيق تصحيح الأمان.</string>
     <string name="onehand_mode">الوضع بيد واحدة</string>
     <string name="onehand_icon">زر الوضع بيد واحدة</string>
     <string name="onehand_area">حجم المنطقة</string>
     <string name="onehand_noti">اضغط على هذه المنطقة.</string>
     <string name="not_support_land">غير مدعوم في الوضع الأفقي.</string>
+    <string name="intro_text_1">وظائف مختلفة</string>
+    <string name="intro_text_2">سهل الاستخدام</string>
+    <string name="intro_text_3">تخصيص كل شيء</string>
+    <string name="intro_text_4">التصفح الآمن</string>
 </resources>

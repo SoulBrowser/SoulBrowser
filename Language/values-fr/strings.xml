@@ -317,8 +317,6 @@
     <string name="deny">Refuser</string>
     <string name="location">Emplacement</string>
     <string name="site_permission">Ce site demande l\'autorisation suivante</string>
-    <string name="camera_required">Autorisation de caméra requise</string>
-    <string name="audio_required">Autorisation d\'audio requise</string>
     <string name="permission_granted">Permission accordée</string>
     <string name="permission_denied">Permission refusée</string>
     <string name="no_permission">Aucune permission</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">En raison de la politique de YouTube, les vidéos YouTube ne peuvent pas être téléchargées.</string>
     <string name="video_full_guide_1">Les vidéos téléchargeables peuvent être lues en plein écran.</string>
     <string name="video_full_guide_2">Les formats non pris en charge n\'ont pas de boutons.</string>
+    <string name="video_full_guide_3">Les vidéos qui ne permettent pas la lecture externe sur le site ne peuvent pas être lues.</string>
     <string name="down_limit">Téléchargement simultané</string>
     <string name="down_limit_info">Télécharger trop de fichiers en même temps peut ralentir votre appareil et provoquer des problèmes.</string>
     <string name="not_allow">Ne pas autoriser</string>
@@ -512,7 +511,7 @@
     <string name="resize">Redimensionner</string>
     <string name="added">Ajouté</string>
     <string name="changed">Changé</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Rapport d\'erreur</string>
     <string name="report_down">Veuillez fournir l\'adresse du site dont vous ne pouvez pas télécharger la vidéo.</string>
     <string name="report_dark">Veuillez fournir l\'adresse du site qui rencontre des problèmes avec le thème sombre.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Filtre publicitaire</string>
     <string name="filter_search">Filtre de recherche</string>
     <string name="filter_info">L\'utilisation de plusieurs filtres en même temps peut ralentir les performances du navigateur.</string>
-    <string name="backup_title">Sauvegarde de données</string>
+    <string name="backup_title">Sauvegarde</string>
     <string name="backup_import">Importer</string>
     <string name="backup_export">Exporter</string>
     <string name="backup_target">Veuillez sélectionner une cible.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Santé</string>
     <string name="search_icon">Bouton de recherche</string>
     <string name="no_news">Aucune nouvelle n\'a été trouvée.</string>
-    <string name="vpn_active">VPN est activé</string>
-    <string name="vpn_deactive">VPN est désactivé</string>
+    <string name="vpn_active">DNS est activé</string>
+    <string name="vpn_deactive">DNS est désactivé</string>
     <string name="vpn_server">Serveur</string>
     <string name="visit_site">Visiter le site</string>
     <string name="home_exit">Action du bouton Retour sur la page d\'accueil</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Afficher la position de l\'onglet et le nombre d\'onglets sur le bouton d\'onglet</string>
     <string name="not_space">Pas assez d\'espace.</string>
     <string name="bar_remove_info">Pour supprimer la barre supérieure, supprimez toutes les icônes de la barre supérieure.</string>
-    <string name="db_changed_noti">Ce fichier de sauvegarde a été créé sur la base d\'une ancienne base de données.\nUne nouvelle base de données a été appliquée dans la dernière version.\nLes anciennes bases de données ne sont plus entièrement compatibles.\nNous vous recommandons de créer un nouveau fichier de sauvegarde.</string>
+    <string name="backup_changed_1">Le format du fichier de sauvegarde a changé.</string>
+    <string name="backup_changed_2">Les fichiers de sauvegarde des versions précédentes ne sont plus pris en charge.</string>
+    <string name="backup_changed_3">Veuillez créer un nouveau fichier de sauvegarde.</string>
     <string name="need_login">Veuillez vous connecter.</string>
     <string name="login_google">Connectez-vous avec Google</string>
     <string name="log_out">Se déconnecter</string>
     <string name="auto_update">Mise à jour automatique</string>
     <string name="update_time">Cycle de mise à jour</string>
     <string name="exit_rem_mem">Lorsque l\'application se ferme, elle est supprimée de la mémoire.</string>
-    <string name="patch_noti">Un correctif de sécurité a été appliqué.</string>
     <string name="onehand_mode">Mode à une main</string>
     <string name="onehand_icon">Bouton de mode à une main</string>
     <string name="onehand_area">Taille de la zone</string>
     <string name="onehand_noti">Appuyez sur cette zone.</string>
     <string name="not_support_land">Non pris en charge en mode paysage.</string>
+    <string name="intro_text_1">Diverses fonctions</string>
+    <string name="intro_text_2">Facile à utiliser</string>
+    <string name="intro_text_3">Tout personnaliser</string>
+    <string name="intro_text_4">Navigation sûre</string>
 </resources>

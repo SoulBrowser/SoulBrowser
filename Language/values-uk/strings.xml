@@ -317,8 +317,6 @@
     <string name="deny">Заборонити</string>
     <string name="location">Розташування</string>
     <string name="site_permission">Цей сайт вимагає наступного дозволу</string>
-    <string name="camera_required">Потрібен дозвіл камери</string>
-    <string name="audio_required">Потрібен дозвіл на аудіо</string>
     <string name="permission_granted">Дозвіл надано</string>
     <string name="permission_denied">У дозволі відмовлено</string>
     <string name="no_permission">Немає дозволу</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">Через політику YouTube відео YouTube не можна завантажувати.</string>
     <string name="video_full_guide_1">Завантажувані відео можна відтворювати на весь екран.</string>
     <string name="video_full_guide_2">Непідтримувані формати не мають кнопок.</string>
+    <string name="video_full_guide_3">Відео, які не допускають зовнішнього відтворення на сайті, не можна відтворювати.</string>
     <string name="down_limit">Одночасне завантаження</string>
     <string name="down_limit_info">Одночасне завантаження занадто багатьох файлів може сповільнити пристрій і спричинити проблеми.</string>
     <string name="not_allow">Не дозволяти</string>
@@ -512,7 +511,7 @@
     <string name="resize">Змініть розмір</string>
     <string name="added">Додано</string>
     <string name="changed">Змінено</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Повідомити про сайт</string>
     <string name="report_down">Вкажіть, будь ласка, адресу веб-сайту, на якому неможливо завантажити відео.</string>
     <string name="report_dark">Будь ласка, вкажіть адресу веб-сайту, який має проблеми з темною темою.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Рекламний фільтр</string>
     <string name="filter_search">Пошук фільтра</string>
     <string name="filter_info">Використання декількох фільтрів одночасно може уповільнити роботу браузера.</string>
-    <string name="backup_title">Резервне копіювання даних</string>
+    <string name="backup_title">Резервне</string>
     <string name="backup_import">Імпорт</string>
     <string name="backup_export">Експорт</string>
     <string name="backup_target">Виберіть ціль.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Здоров\'я</string>
     <string name="search_icon">Кнопка пошуку</string>
     <string name="no_news">Новин не знайдено.</string>
-    <string name="vpn_active">VPN активовано</string>
-    <string name="vpn_deactive">VPN деактивовано</string>
+    <string name="vpn_active">DNS активовано</string>
+    <string name="vpn_deactive">DNS деактивовано</string>
     <string name="vpn_server">Сервер</string>
     <string name="visit_site">Відвідайте сайт</string>
     <string name="home_exit">Дія кнопки Назад на домашній сторінці</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Відображення положення та кількості вкладок на кнопці вкладки</string>
     <string name="not_space">Не вистачає місця.</string>
     <string name="bar_remove_info">Щоб видалити верхню панель, видаліть усі значки з верхньої панелі.</string>
-    <string name="db_changed_noti">Цей файл резервної копії створено на основі старої БД.\nВ останній версії застосовано нову БД.\nСтарі БД більше не повністю сумісні.\nМи рекомендуємо створити новий файл резервної копії.</string>
+    <string name="backup_changed_1">Формат файлу резервної копії змінився.</string>
+    <string name="backup_changed_2">Резервні копії файлів попередніх версій більше не підтримуються.</string>
+    <string name="backup_changed_3">Будь ласка, створіть новий файл резервної копії.</string>
     <string name="need_login">Увійдіть, будь ласка.</string>
     <string name="login_google">Увійдіть у Google</string>
     <string name="log_out">Вийти</string>
     <string name="auto_update">Автоматичне оновлення</string>
     <string name="update_time">Цикл оновлення</string>
     <string name="exit_rem_mem">Коли програма закривається, вона видаляється з пам’яті.</string>
-    <string name="patch_noti">Застосовано виправлення безпеки.</string>
     <string name="onehand_mode">Режим однією рукою</string>
     <string name="onehand_icon">Кнопка режиму однією рукою</string>
     <string name="onehand_area">Розмір площі</string>
     <string name="onehand_noti">Торкніться цієї області.</string>
     <string name="not_support_land">Не підтримується в альбомному режимі.</string>
+    <string name="intro_text_1">Різноманітні функції</string>
+    <string name="intro_text_2">Простий у використанні</string>
+    <string name="intro_text_3">Налаштувати все</string>
+    <string name="intro_text_4">Безпечний перегляд</string>
 </resources>

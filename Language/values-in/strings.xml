@@ -317,8 +317,6 @@
     <string name="deny">Menyangkal</string>
     <string name="location">Lokasi</string>
     <string name="site_permission">Situs ini meminta izin berikut</string>
-    <string name="camera_required">Izin kamera diperlukan</string>
-    <string name="audio_required">Izin audio diperlukan</string>
     <string name="permission_granted">Izin diberikan</string>
     <string name="permission_denied">Izin ditolak</string>
     <string name="no_permission">Tidak ada izin</string>
@@ -439,6 +437,7 @@
     <string name="video_down_guide_4">Karena kebijakan YouTube, video YouTube tidak dapat diunduh.</string>
     <string name="video_full_guide_1">Video yang dapat diunduh dapat diputar dalam layar penuh.</string>
     <string name="video_full_guide_2">Format yang tidak didukung tidak memiliki tombol.</string>
+    <string name="video_full_guide_3">Video yang tidak mengizinkan pemutaran eksternal di situs tidak dapat diputar.</string>
     <string name="down_limit">Pengunduhan secara bersamaan</string>
     <string name="down_limit_info">Mengunduh terlalu banyak file secara bersamaan dapat memperlambat perangkat Anda dan menyebabkan masalah.</string>
     <string name="not_allow">Jangan izinkan</string>
@@ -512,7 +511,7 @@
     <string name="resize">Ubah ukuran</string>
     <string name="added">Ditambahkan</string>
     <string name="changed">Berubah</string>
-    <string name="vpn">VPN</string>
+    <string name="vpn">DNS</string>
     <string name="report_site">Laporkan situs</string>
     <string name="report_down">Harap berikan alamat situs tempat Anda tidak dapat mengunduh video.</string>
     <string name="report_dark">Berikan alamat situs yang mengalami masalah dengan tema gelap.</string>
@@ -680,7 +679,7 @@
     <string name="ads_filter">Filter iklan</string>
     <string name="filter_search">Cari filter</string>
     <string name="filter_info">Menggunakan beberapa filter sekaligus dapat memperlambat kinerja browser.</string>
-    <string name="backup_title">Cadangan data</string>
+    <string name="backup_title">Cadangan</string>
     <string name="backup_import">Impor</string>
     <string name="backup_export">Ekspor</string>
     <string name="backup_target">Silakan pilih target.</string>
@@ -843,8 +842,8 @@
     <string name="news_topic_health">Kesehatan</string>
     <string name="search_icon">Tombol pencarian</string>
     <string name="no_news">Tidak ada berita yang ditemukan.</string>
-    <string name="vpn_active">VPN diaktifkan</string>
-    <string name="vpn_deactive">VPN dinonaktifkan</string>
+    <string name="vpn_active">DNS diaktifkan</string>
+    <string name="vpn_deactive">DNS dinonaktifkan</string>
     <string name="vpn_server">Server</string>
     <string name="visit_site">Kunjungi situsnya</string>
     <string name="home_exit">Tindakan tombol kembali di halaman beranda</string>
@@ -860,17 +859,22 @@
     <string name="tab_indi_info">Tampilkan posisi tab dan jumlah tab pada tombol tab</string>
     <string name="not_space">Tidak cukup ruang.</string>
     <string name="bar_remove_info">Untuk menghapus bilah atas, hapus semua ikon dari bilah atas.</string>
-    <string name="db_changed_noti">File cadangan ini dibuat berdasarkan DB lama.\nDB baru telah diterapkan di versi terbaru.\nDB lama tidak lagi sepenuhnya kompatibel.\nKami menyarankan Anda membuat file cadangan baru.</string>
+    <string name="backup_changed_1">Format file cadangan telah berubah.</string>
+    <string name="backup_changed_2">File cadangan dari versi sebelumnya tidak lagi didukung.</string>
+    <string name="backup_changed_3">Silakan buat file cadangan baru.</string>
     <string name="need_login">Silahkan masuk.</string>
     <string name="login_google">Masuk dengan Google</string>
     <string name="log_out">Keluar</string>
     <string name="auto_update">Pembaruan otomatis</string>
     <string name="update_time">Siklus pembaruan</string>
     <string name="exit_rem_mem">Saat aplikasi keluar, itu dihapus dari memori.</string>
-    <string name="patch_noti">Patch keamanan telah diterapkan.</string>
     <string name="onehand_mode">Mode satu tangan</string>
     <string name="onehand_icon">Tombol mode satu tangan</string>
     <string name="onehand_area">Ukuran area</string>
     <string name="onehand_noti">Ketuk area ini.</string>
     <string name="not_support_land">Tidak didukung dalam mode lanskap.</string>
+    <string name="intro_text_1">Berbagai fungsi</string>
+    <string name="intro_text_2">Mudah digunakan</string>
+    <string name="intro_text_3">Sesuaikan semuanya</string>
+    <string name="intro_text_4">Penelusuran yang aman</string>
 </resources>
