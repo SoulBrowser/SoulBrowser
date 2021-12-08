@@ -867,7 +867,6 @@
     <string name="log_out">Keluar</string>
     <string name="auto_update">Pembaruan otomatis</string>
     <string name="update_time">Siklus pembaruan</string>
-    <string name="exit_rem_mem">Saat aplikasi keluar, itu dihapus dari memori.</string>
     <string name="onehand_mode">Mode satu tangan</string>
     <string name="onehand_icon">Tombol mode satu tangan</string>
     <string name="onehand_area">Ukuran area</string>

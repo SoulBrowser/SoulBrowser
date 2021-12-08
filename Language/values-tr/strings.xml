@@ -867,7 +867,6 @@
     <string name="log_out">Çıkış Yap</string>
     <string name="auto_update">Otomatik güncelleme</string>
     <string name="update_time">Güncelleme döngüsü</string>
-    <string name="exit_rem_mem">Uygulama çıktığında, bellekten kaldırılır.</string>
     <string name="onehand_mode">Tek elle mod</string>
     <string name="onehand_icon">Tek elle mod düğmesi</string>
     <string name="onehand_area">Alan boyutu</string>

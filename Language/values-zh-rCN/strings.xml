@@ -867,7 +867,6 @@
     <string name="log_out">登出</string>
     <string name="auto_update">自动更新</string>
     <string name="update_time">更新周期</string>
-    <string name="exit_rem_mem">当应用程序退出时，它会从内存中删除</string>
     <string name="onehand_mode">单手模式</string>
     <string name="onehand_icon">单手模式按钮</string>
     <string name="onehand_area">面积大小</string>

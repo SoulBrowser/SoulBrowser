@@ -867,7 +867,6 @@
     <string name="log_out">Ausloggen</string>
     <string name="auto_update">Automatisches Update</string>
     <string name="update_time">Aktualisierungszyklus</string>
-    <string name="exit_rem_mem">Wenn die App beendet wird, wird sie aus dem Speicher entfernt.</string>
     <string name="onehand_mode">Einhandmodus</string>
     <string name="onehand_icon">Einhand-Modustaste</string>
     <string name="onehand_area">Flächengröße</string>

@@ -867,7 +867,6 @@
     <string name="log_out">تسجيل خروج</string>
     <string name="auto_update">التحديث التلقائي</string>
     <string name="update_time">دورة التحديث</string>
-    <string name="exit_rem_mem">عند خروج التطبيق ، تتم إزالته من الذاكرة.</string>
     <string name="onehand_mode">الوضع بيد واحدة</string>
     <string name="onehand_icon">زر الوضع بيد واحدة</string>
     <string name="onehand_area">حجم المنطقة</string>

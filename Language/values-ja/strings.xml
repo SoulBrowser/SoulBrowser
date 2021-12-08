@@ -867,7 +867,6 @@
     <string name="log_out">ログアウト</string>
     <string name="auto_update">自動更新</string>
     <string name="update_time">更新頻度</string>
-    <string name="exit_rem_mem">アプリが終了するとメモリから削除されます。</string>
     <string name="onehand_mode">片手モード</string>
     <string name="onehand_icon">片手モードボタン</string>
     <string name="onehand_area">エリアサイズ</string>

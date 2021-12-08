@@ -867,7 +867,6 @@
     <string name="log_out">Вийти</string>
     <string name="auto_update">Автоматичне оновлення</string>
     <string name="update_time">Цикл оновлення</string>
-    <string name="exit_rem_mem">Коли програма закривається, вона видаляється з пам’яті.</string>
     <string name="onehand_mode">Режим однією рукою</string>
     <string name="onehand_icon">Кнопка режиму однією рукою</string>
     <string name="onehand_area">Розмір площі</string>

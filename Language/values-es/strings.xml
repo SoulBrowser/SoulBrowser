@@ -867,7 +867,6 @@
     <string name="log_out">Cerrar sesión</string>
     <string name="auto_update">Actualización automática</string>
     <string name="update_time">Ciclo de actualización</string>
-    <string name="exit_rem_mem">Cuando la aplicación se cierra, se elimina de la memoria.</string>
     <string name="onehand_mode">Modo de una mano</string>
     <string name="onehand_icon">Botón de modo de una mano</string>
     <string name="onehand_area">Tamaño del área</string>

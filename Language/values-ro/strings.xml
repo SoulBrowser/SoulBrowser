@@ -867,7 +867,6 @@
     <string name="log_out">Deconectează-te</string>
     <string name="auto_update">Actualizare automată</string>
     <string name="update_time">Ciclu de actualizare</string>
-    <string name="exit_rem_mem">Când aplicația iese, aceasta este eliminată din memorie.</string>
     <string name="onehand_mode">Modul cu o singură mână</string>
     <string name="onehand_icon">Buton de mod cu o singură mână</string>
     <string name="onehand_area">Dimensiunea zonei</string>

@@ -867,7 +867,6 @@
     <string name="log_out">Wyloguj</string>
     <string name="auto_update">Automatyczna aktualizacja</string>
     <string name="update_time">Cykl aktualizacji</string>
-    <string name="exit_rem_mem">Gdy aplikacja zostanie zamknięta, zostanie usunięta z pamięci.</string>
     <string name="onehand_mode">Tryb jednoręczny</string>
     <string name="onehand_icon">Przycisk trybu jednoręcznego</string>
     <string name="onehand_area">Rozmiar obszaru</string>

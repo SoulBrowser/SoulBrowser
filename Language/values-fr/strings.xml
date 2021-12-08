@@ -867,7 +867,6 @@
     <string name="log_out">Se déconnecter</string>
     <string name="auto_update">Mise à jour automatique</string>
     <string name="update_time">Cycle de mise à jour</string>
-    <string name="exit_rem_mem">Lorsque l\'application se ferme, elle est supprimée de la mémoire.</string>
     <string name="onehand_mode">Mode à une main</string>
     <string name="onehand_icon">Bouton de mode à une main</string>
     <string name="onehand_area">Taille de la zone</string>

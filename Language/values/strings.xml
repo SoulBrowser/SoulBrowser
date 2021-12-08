@@ -867,7 +867,6 @@
     <string name="log_out">Sign out</string>
     <string name="auto_update">Auto update</string>
     <string name="update_time">Update cycle</string>
-    <string name="exit_rem_mem">When the app exits, it is removed from memory.</string>
     <string name="onehand_mode">One-handed mode</string>
     <string name="onehand_icon">One-handed mode button</string>
     <string name="onehand_area">Area size</string>

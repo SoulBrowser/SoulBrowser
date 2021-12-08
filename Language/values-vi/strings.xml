@@ -867,7 +867,6 @@
     <string name="log_out">Đăng xuất</string>
     <string name="auto_update">Cập nhật tự động</string>
     <string name="update_time">Chu kỳ cập nhật</string>
-    <string name="exit_rem_mem">Khi ứng dụng thoát, nó sẽ bị xóa khỏi bộ nhớ.</string>
     <string name="onehand_mode">Chế độ một tay</string>
     <string name="onehand_icon">Nút chế độ một tay</string>
     <string name="onehand_area">Kích thước khu vực</string>

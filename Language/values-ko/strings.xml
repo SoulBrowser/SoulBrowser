@@ -867,7 +867,6 @@
     <string name="log_out">로그 아웃</string>
     <string name="auto_update">자동 업데이트</string>
     <string name="update_time">업데이트 주기</string>
-    <string name="exit_rem_mem">앱 종료 시 메모리에서 제거</string>
     <string name="onehand_mode">한 손 사용 모드</string>
     <string name="onehand_icon">한 손 사용 모드 버튼</string>
     <string name="onehand_area">영역 크기</string>

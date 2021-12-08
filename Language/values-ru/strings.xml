@@ -867,7 +867,6 @@
     <string name="log_out">Выйти</string>
     <string name="auto_update">Автоматическое обновление</string>
     <string name="update_time">Цикл обновления</string>
-    <string name="exit_rem_mem">Когда приложение закрывается, оно удаляется из памяти.</string>
     <string name="onehand_mode">Одноручный режим</string>
     <string name="onehand_icon">Кнопка режима работы одной рукой</string>
     <string name="onehand_area">Размер области</string>
