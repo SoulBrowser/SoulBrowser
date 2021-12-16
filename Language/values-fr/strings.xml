@@ -336,6 +336,9 @@
     <string name="now_delete">Effacer maintenant</string>
     <string name="exit_delete">Supprimer à la sortie</string>
     <string name="exit_guide">Lorsque vous quittez l\'application, votre activité web sera supprimée.</string>
+    <string name="exit_del_noti">Notification lors de la suppression</string>
+    <string name="exit_noti_1">&#60; Suppression à la sortie &#62;\n%s supprimés.</string>
+    <string name="exit_noti_2">&#60; Suppression à la sortie &#62;\n%s supprimés.</string>
     <string name="web_page">Page Web</string>
     <string name="text_size">Taille de texte</string>
     <string name="free_scale">Zoom avant avec deux doigts</string>

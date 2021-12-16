@@ -336,6 +336,9 @@
     <string name="now_delete">立即删除</string>
     <string name="exit_delete">退出时删除</string>
     <string name="exit_guide">退出应用程序后， 你的网络记录将被删除</string>
+    <string name="exit_del_noti">删除通知</string>
+    <string name="exit_noti_1">&#60; 退出时清除 &#62;\n%s 已删除</string>
+    <string name="exit_noti_2">&#60; 退出时清除 &#62;\n%s 已删除</string>
     <string name="web_page">网页</string>
     <string name="text_size">字体大小</string>
     <string name="free_scale">用两根手指放大</string>

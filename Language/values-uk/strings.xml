@@ -336,6 +336,9 @@
     <string name="now_delete">Видалити зараз</string>
     <string name="exit_delete">Видалити при виході</string>
     <string name="exit_guide">Після виходу із браузера ваша веб-активність буде видалена.</string>
+    <string name="exit_del_noti">Повідомлення при видаленні</string>
+    <string name="exit_noti_1">&#60; Очистити при виході &#62;\n%s видалено.</string>
+    <string name="exit_noti_2">&#60; Очистити при виході &#62;\n%s видалено.</string>
     <string name="web_page">Веб-сторінка</string>
     <string name="text_size">Розмір тексту</string>
     <string name="free_scale">Збільшити зображення двома пальцями</string>

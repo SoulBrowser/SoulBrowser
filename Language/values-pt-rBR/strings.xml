@@ -336,6 +336,9 @@
     <string name="now_delete">Excluir agora</string>
     <string name="exit_delete">Excluir ao sair</string>
     <string name="exit_guide">Quando você sair do aplicativo, sua atividade na web será excluída.</string>
+    <string name="exit_del_noti">Notificação ao excluir</string>
+    <string name="exit_noti_1">&#60; Limpar ao sair &#62;\n%s excluídos.</string>
+    <string name="exit_noti_2">&#60; Limpar ao sair &#62;\n%s excluídos.</string>
     <string name="web_page">Página da web</string>
     <string name="text_size">Tamanho do texto</string>
     <string name="free_scale">Zoom com dois dedos</string>

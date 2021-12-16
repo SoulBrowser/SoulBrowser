@@ -336,6 +336,9 @@
     <string name="now_delete">Șterge acum</string>
     <string name="exit_delete">Ștergeți la ieșire</string>
     <string name="exit_guide">Când ieșiți din aplicație, activitatea dvs. web va fi ștearsă.</string>
+    <string name="exit_del_noti">Notificare la ștergere</string>
+    <string name="exit_noti_1">Șterge la ieșire\n%s șters.</string>
+    <string name="exit_noti_2">Șterge la ieșire\n%s șters.</string>
     <string name="web_page">Pagină web</string>
     <string name="text_size">Dimensiunea textului</string>
     <string name="free_scale">Măriți cu două degete</string>

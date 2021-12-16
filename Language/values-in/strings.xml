@@ -336,6 +336,9 @@
     <string name="now_delete">Hapus sekarang</string>
     <string name="exit_delete">Hapus saat keluar</string>
     <string name="exit_guide">Saat Anda keluar dari aplikasi, aktivitas web Anda akan dihapus.</string>
+    <string name="exit_del_noti">Pemberitahuan saat dihapus</string>
+    <string name="exit_noti_1">&#60; Bersihkan saat keluar &#62;\n%s dihapus.</string>
+    <string name="exit_noti_2">&#60; Bersihkan saat keluar &#62;\n%s dihapus.</string>
     <string name="web_page">Halaman web</string>
     <string name="text_size">Ukuran teks</string>
     <string name="free_scale">Perbesar dengan dua jari</string>

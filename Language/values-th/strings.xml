@@ -336,6 +336,9 @@
     <string name="now_delete">ลบทันที</string>
     <string name="exit_delete">ลบเมื่อออก</string>
     <string name="exit_guide">เมื่อคุณออกจากแอปกิจกรรมบนเว็บของคุณจะถูกลบ</string>
+    <string name="exit_del_noti">แจ้งเตือนเมื่อถูกลบ</string>
+    <string name="exit_noti_1">&#60; ล้างเมื่อออก &#62;\n%s ลบ.</string>
+    <string name="exit_noti_2">&#60; ล้างเมื่อออก &#62;\n%s ลบ.</string>
     <string name="web_page">หน้าเว็บ</string>
     <string name="text_size">ขนาดตัวอักษร</string>
     <string name="free_scale">ซูมเข้าด้วยสองนิ้ว</string>

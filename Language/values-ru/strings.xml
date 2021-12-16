@@ -84,7 +84,7 @@
     <string name="estimated">Расчётное время</string>
     <string name="edit">Pедактировать</string>
     <string name="share">Поделиться</string>
-    <string name="details">Детали</string>
+    <string name="details">Подробности</string>
     <string name="down_skip_pixel">1 пикс. изображение</string>
     <string name="image_split">Разделить изображение</string>
     <string name="move_to">Перейти к</string>
@@ -336,6 +336,9 @@
     <string name="now_delete">Удалить сейчас</string>
     <string name="exit_delete">Удалить при выходе</string>
     <string name="exit_guide">При выходе из приложения, ваша веб-активность будет удалена.</string>
+    <string name="exit_del_noti">Уведомление при удалении</string>
+    <string name="exit_noti_1">&#60; Очистить при выходе &#62;\n%s удалены.</string>
+    <string name="exit_noti_2">&#60; Очистить при выходе &#62;\n%s удалены.</string>
     <string name="web_page">Веб-страница</string>
     <string name="text_size">Размер текста</string>
     <string name="free_scale">Увеличение двумя пальцами</string>
@@ -466,7 +469,7 @@
     <string name="only_secret">Относится только к режиму инкогнито</string>
     <string name="unlock">Разблокировать</string>
     <string name="lock_pin">PIN</string>
-    <string name="lock_pattern">Рисунок</string>
+    <string name="lock_pattern">Графический ключ</string>
     <string name="input">Пожалуйста, введите</string>
     <string name="reinput">Пожалуйста, введите его снова</string>
     <string name="wrong_input">Неверный ввод</string>
@@ -679,7 +682,7 @@
     <string name="ads_filter">Рекламный фильтр</string>
     <string name="filter_search">Фильтр поиска</string>
     <string name="filter_info">Использование нескольких фильтров одновременно может снизить производительность браузера.</string>
-    <string name="backup_title">Резервные</string>
+    <string name="backup_title">Резервное копирование и восстановление</string>
     <string name="backup_import">Импорт</string>
     <string name="backup_export">Экспорт</string>
     <string name="backup_target">Пожалуйста, выберите цель.</string>

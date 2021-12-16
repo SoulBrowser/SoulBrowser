@@ -336,6 +336,9 @@
     <string name="now_delete">Jetzt löschen</string>
     <string name="exit_delete">Beim Beenden löschen</string>
     <string name="exit_guide">Wenn Sie die App beenden, wird ihre Webaktivität gelöscht.</string>
+    <string name="exit_del_noti">Benachrichtigung beim Löschen</string>
+    <string name="exit_noti_1">&#60; Beim Beenden löschen &#62;\n%s gelöscht.</string>
+    <string name="exit_noti_2">&#60; Beim Beenden löschen &#62;\n%s gelöscht.</string>
     <string name="web_page">Webseite</string>
     <string name="text_size">Textgröße</string>
     <string name="free_scale">Zwei-Finger-Zoom</string>

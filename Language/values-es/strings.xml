@@ -336,6 +336,9 @@
     <string name="now_delete">Elimina ahora</string>
     <string name="exit_delete">Eliminar al salir</string>
     <string name="exit_guide">Al salir de la aplicación, se eliminará su actividad web.</string>
+    <string name="exit_del_noti">Notificación cuando se elimina</string>
+    <string name="exit_noti_1">&#60; Claro a la salida &#62;\n%s eliminadas.</string>
+    <string name="exit_noti_2">&#60; Claro a la salida &#62;\n%s eliminadas.</string>
     <string name="web_page">Página web</string>
     <string name="text_size">Tamaño del texto</string>
     <string name="free_scale">Acercar con dos dedos</string>

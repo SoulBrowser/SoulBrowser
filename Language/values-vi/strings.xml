@@ -336,6 +336,9 @@
     <string name="now_delete">Xóa ngay bây giờ</string>
     <string name="exit_delete">Xóa khi thoát</string>
     <string name="exit_guide">Khi bạn thoát khỏi ứng dụng, hoạt động web của bạn sẽ bị xóa.</string>
+    <string name="exit_del_noti">Thông báo khi bị xóa</string>
+    <string name="exit_noti_1">&#60; Xóa khi thoát &#62;\nĐã xóa %s.</string>
+    <string name="exit_noti_2">&#60; Xóa khi thoát &#62;\nĐã xóa %s.</string>
     <string name="web_page">Trang web</string>
     <string name="text_size">Cỡ chữ</string>
     <string name="free_scale">Phóng to bằng hai ngón tay</string>

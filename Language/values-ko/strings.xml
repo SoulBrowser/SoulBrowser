@@ -336,6 +336,9 @@
     <string name="now_delete">지금 삭제</string>
     <string name="exit_delete">종료 시 삭제</string>
     <string name="exit_guide">앱 종료 시, 웹 활동 내용이 삭제됩니다.</string>
+    <string name="exit_del_noti">삭제 시 알림</string>
+    <string name="exit_noti_1">&#60; 종료 시 삭제 &#62;\n%s가 삭제되었습니다.</string>
+    <string name="exit_noti_2">&#60; 종료 시 삭제 &#62;\n%s이 삭제되었습니다.</string>
     <string name="web_page">웹페이지</string>
     <string name="text_size">글자 크기</string>
     <string name="free_scale">두 손가락으로 확대</string>

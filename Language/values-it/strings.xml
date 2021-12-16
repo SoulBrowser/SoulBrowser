@@ -336,6 +336,9 @@
     <string name="now_delete">Elimina ora</string>
     <string name="exit_delete">Elimina all\'uscita</string>
     <string name="exit_guide">Quando esci dall\'app, la tua attività web verrà cancellata.</string>
+    <string name="exit_del_noti">Notifica quando eliminata</string>
+    <string name="exit_noti_1">&#60; Cancella all\'uscita &#62;\n%s cancellati.</string>
+    <string name="exit_noti_2">&#60; Cancella all\'uscita &#62;\n%s cancellati.</string>
     <string name="web_page">Pagina web</string>
     <string name="text_size">Dimensione carattere</string>
     <string name="free_scale">Ingrandisci con due dita</string>

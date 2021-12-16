@@ -336,6 +336,9 @@
     <string name="now_delete">احذف الان</string>
     <string name="exit_delete">حذف عند الخروج</string>
     <string name="exit_guide">عند إغلاق التطبيق ، يتم حذف محتوى نشاط الويب.</string>
+    <string name="exit_del_noti">الإخطار بالحذف</string>
+    <string name="exit_noti_1">&#60; مسح عند الخروج &#62;\n%s تم الحذف.</string>
+    <string name="exit_noti_2">&#60; مسح عند الخروج &#62;\n%s تم الحذف.</string>
     <string name="web_page">صفحة على الإنترنت</string>
     <string name="text_size">حجم الخط</string>
     <string name="free_scale">تكبير بإصبعين</string>

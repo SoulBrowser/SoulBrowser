@@ -336,6 +336,9 @@
     <string name="now_delete">Usuń teraz</string>
     <string name="exit_delete">Usuń przy wyjściu</string>
     <string name="exit_guide">Po zamknięciu aplikacji Twoja aktywność internetowa zostanie usunięta.</string>
+    <string name="exit_del_noti">Powiadomienie po usunięciu</string>
+    <string name="exit_noti_1">&#60; Wyczyść przy wyjściu &#62;\n%s usunięte.</string>
+    <string name="exit_noti_2">&#60; Wyczyść przy wyjściu &#62;\n%s usunięte.</string>
     <string name="web_page">Strona internetowa</string>
     <string name="text_size">Rozmiar tekstu</string>
     <string name="free_scale">Powiększ dwoma palcami</string>

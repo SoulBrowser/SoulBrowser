@@ -336,6 +336,9 @@
     <string name="now_delete">今削除</string>
     <string name="exit_delete">終了時に削除</string>
     <string name="exit_guide">アプリ終了時には、 Web活動内容が削除されます。</string>
+    <string name="exit_del_noti">削除時に通知</string>
+    <string name="exit_noti_1">&#60; 終了時にクリア &#62;\n%sが削除されて。</string>
+    <string name="exit_noti_2">&#60; 終了時にクリア &#62;\n%sが削除されて。</string>
     <string name="web_page">Webページ</string>
     <string name="text_size">文字サイズ</string>
     <string name="free_scale">二本の指で拡大</string>

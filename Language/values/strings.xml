@@ -336,6 +336,9 @@
     <string name="now_delete">Delete now</string>
     <string name="exit_delete">Delete on exit</string>
     <string name="exit_guide">When you exit the app, your web activity will be deleted.</string>
+    <string name="exit_del_noti">Notification when deleted</string>
+    <string name="exit_noti_1">&#60; Clear on exit &#62;\n%s deleted.</string>
+    <string name="exit_noti_2">&#60; Clear on exit &#62;\n%s deleted.</string>
     <string name="web_page">Web page</string>
     <string name="text_size">Text size</string>
     <string name="free_scale">Zoom in with two fingers</string>

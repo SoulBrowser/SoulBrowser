@@ -336,6 +336,9 @@
     <string name="now_delete">Şimdi sil</string>
     <string name="exit_delete">Çıkışta sil</string>
     <string name="exit_guide">Uygulamadan çıktığınızda web etkinliğiniz silinecek.</string>
+    <string name="exit_del_noti">Silindiğinde bildirim</string>
+    <string name="exit_noti_1">&#60; Çıkışta temizle &#62;\n%s silindi.</string>
+    <string name="exit_noti_2">&#60; Çıkışta temizle &#62;\n%s silindi.</string>
     <string name="web_page">Internet sayfası</string>
     <string name="text_size">Metin boyutu</string>
     <string name="free_scale">İki parmağınızla yakınlaştırın</string>
