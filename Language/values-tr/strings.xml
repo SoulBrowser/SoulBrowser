@@ -879,4 +879,6 @@
     <string name="intro_text_2">Kullanımı kolay</string>
     <string name="intro_text_3">Her şeyi özelleştir</string>
     <string name="intro_text_4">Güvenli Gezinti</string>
+    <string name="space_title">Uzay</string>
+    <string name="space_guide">Çalışan ekranda boşluklar görünmez.</string>
 </resources>

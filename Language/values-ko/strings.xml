@@ -879,4 +879,6 @@
     <string name="intro_text_2">사용하기 쉬운</string>
     <string name="intro_text_3">모든 것을 사용자 정의</string>
     <string name="intro_text_4">안전한 브라우징</string>
+    <string name="space_title">공간</string>
+    <string name="space_guide">공간은 실행 중인 화면에서는 표시되지 않습니다.</string>
 </resources>

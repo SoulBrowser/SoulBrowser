@@ -879,4 +879,6 @@
     <string name="intro_text_2">Простий у використанні</string>
     <string name="intro_text_3">Налаштувати все</string>
     <string name="intro_text_4">Безпечний перегляд</string>
+    <string name="space_title">Простір</string>
+    <string name="space_guide">На робочому екрані пробіли не видно.</string>
 </resources>

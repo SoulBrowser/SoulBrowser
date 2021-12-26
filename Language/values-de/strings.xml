@@ -879,4 +879,6 @@
     <string name="intro_text_2">Einfach zu verwenden</string>
     <string name="intro_text_3">Alles anpassen</string>
     <string name="intro_text_4">Sicheres Surfen</string>
+    <string name="space_title">Platz</string>
+    <string name="space_guide">Leerzeichen sind auf dem laufenden Bildschirm nicht sichtbar.</string>
 </resources>

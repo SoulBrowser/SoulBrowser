@@ -879,4 +879,6 @@
     <string name="intro_text_2">Facile à utiliser</string>
     <string name="intro_text_3">Tout personnaliser</string>
     <string name="intro_text_4">Navigation sûre</string>
+    <string name="space_title">Espace</string>
+    <string name="space_guide">Les espaces ne sont pas visibles sur l\'écran de fonctionnement.</string>
 </resources>

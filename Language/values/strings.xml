@@ -879,4 +879,6 @@
     <string name="intro_text_2">Easy to use</string>
     <string name="intro_text_3">Customize everything</string>
     <string name="intro_text_4">Safe Browsing</string>
+    <string name="space_title">Space</string>
+    <string name="space_guide">Spaces are not visible on the running screen.</string>
 </resources>

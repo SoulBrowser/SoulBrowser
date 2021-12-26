@@ -879,4 +879,6 @@
     <string name="intro_text_2">使いやすい</string>
     <string name="intro_text_3">すべてをカスタマイズ</string>
     <string name="intro_text_4">セーフブラウジング</string>
+    <string name="space_title">スペース</string>
+    <string name="space_guide">スペースは実行中の画面には表示されません。</string>
 </resources>

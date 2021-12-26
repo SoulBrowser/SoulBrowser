@@ -879,4 +879,6 @@
     <string name="intro_text_2">Легко использовать</string>
     <string name="intro_text_3">Настроить все</string>
     <string name="intro_text_4">Безопасный просмотр</string>
+    <string name="space_title">Космос</string>
+    <string name="space_guide">Пробелы не видны на рабочем экране.</string>
 </resources>

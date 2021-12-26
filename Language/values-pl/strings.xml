@@ -879,4 +879,6 @@
     <string name="intro_text_2">Łatwy w użyciu</string>
     <string name="intro_text_3">Dostosuj wszystko</string>
     <string name="intro_text_4">Bezpieczne przeglądanie</string>
+    <string name="space_title">Przestrzeń</string>
+    <string name="space_guide">Spacje nie są widoczne na uruchomionym ekranie.</string>
 </resources>

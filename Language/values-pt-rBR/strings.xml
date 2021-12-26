@@ -879,4 +879,6 @@
     <string name="intro_text_2">Fácil de usar</string>
     <string name="intro_text_3">Personalizar tudo</string>
     <string name="intro_text_4">Navegação segura</string>
+    <string name="space_title">Espaço</string>
+    <string name="space_guide">Os espaços não são visíveis na tela de corrida.</string>
 </resources>

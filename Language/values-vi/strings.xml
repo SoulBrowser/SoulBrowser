@@ -879,4 +879,6 @@
     <string name="intro_text_2">Dễ sử dụng</string>
     <string name="intro_text_3">Tùy chỉnh mọi thứ</string>
     <string name="intro_text_4">Duyệt web an toàn</string>
+    <string name="space_title">Khoảng trống</string>
+    <string name="space_guide">Dấu cách không hiển thị trên màn hình đang chạy.</string>
 </resources>

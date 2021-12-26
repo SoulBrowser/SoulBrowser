@@ -879,4 +879,6 @@
     <string name="intro_text_2">便于使用</string>
     <string name="intro_text_3">定制一切</string>
     <string name="intro_text_4">安全浏览</string>
+    <string name="space_title">空间</string>
+    <string name="space_guide">运行屏幕上看不到空格</string>
 </resources>

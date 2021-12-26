@@ -879,4 +879,6 @@
     <string name="intro_text_2">Ușor de folosit</string>
     <string name="intro_text_3">Personaliza totul</string>
     <string name="intro_text_4">Navigare sigura</string>
+    <string name="space_title">Spaţiu</string>
+    <string name="space_guide">Spațiile nu sunt vizibile pe ecranul de rulare.</string>
 </resources>

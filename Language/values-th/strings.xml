@@ -879,4 +879,6 @@
     <string name="intro_text_2">ง่ายต่อการใช้</string>
     <string name="intro_text_3">ปรับแต่งทุกอย่าง</string>
     <string name="intro_text_4">ท่องเว็บอย่างปลอดภัย</string>
+    <string name="space_title">ช่องว่าง</string>
+    <string name="space_guide">ช่องว่างไม่ปรากฏบนหน้าจอที่กำลังรันอยู่</string>
 </resources>

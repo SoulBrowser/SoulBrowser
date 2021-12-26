@@ -879,4 +879,6 @@
     <string name="intro_text_2">سهل الاستخدام</string>
     <string name="intro_text_3">تخصيص كل شيء</string>
     <string name="intro_text_4">التصفح الآمن</string>
+    <string name="space_title">الفراغ</string>
+    <string name="space_guide">المساحات غير مرئية على شاشة التشغيل.</string>
 </resources>

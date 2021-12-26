@@ -879,4 +879,6 @@
     <string name="intro_text_2">Mudah digunakan</string>
     <string name="intro_text_3">Sesuaikan semuanya</string>
     <string name="intro_text_4">Penelusuran yang aman</string>
+    <string name="space_title">Ruang angkasa</string>
+    <string name="space_guide">Spasi tidak terlihat di layar yang sedang berjalan.</string>
 </resources>
