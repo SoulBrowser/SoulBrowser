@@ -881,4 +881,6 @@
     <string name="intro_text_4">Penelusuran yang aman</string>
     <string name="space_title">Ruang angkasa</string>
     <string name="space_guide">Spasi tidak terlihat di layar yang sedang berjalan.</string>
+    <string name="openapp_guide_1">Buka aplikasi lain yang dapat meluncurkan tautan itu.</string>
+    <string name="openapp_guide_2">Misalnya, buka tautan YouTube dengan aplikasi YouTube.</string>
 </resources>

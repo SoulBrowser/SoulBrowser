@@ -881,4 +881,6 @@
     <string name="intro_text_4">Navigazione sicura</string>
     <string name="space_title">Spazio</string>
     <string name="space_guide">Gli spazi non sono visibili nella schermata di esecuzione.</string>
+    <string name="openapp_guide_1">Apri un\'altra app in grado di avviare quel collegamento.</string>
+    <string name="openapp_guide_2">Ad esempio, apri un collegamento YouTube con l\'app YouTube.</string>
 </resources>

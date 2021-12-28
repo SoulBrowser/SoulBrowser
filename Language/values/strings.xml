@@ -881,4 +881,6 @@
     <string name="intro_text_4">Safe Browsing</string>
     <string name="space_title">Space</string>
     <string name="space_guide">Spaces are not visible on the running screen.</string>
+    <string name="openapp_guide_1">Open another app that can launch that link.</string>
+    <string name="openapp_guide_2">For example, open a YouTube link with the YouTube app.</string>
 </resources>

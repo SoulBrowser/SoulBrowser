@@ -881,4 +881,6 @@
     <string name="intro_text_4">Navegação segura</string>
     <string name="space_title">Espaço</string>
     <string name="space_guide">Os espaços não são visíveis na tela de corrida.</string>
+    <string name="openapp_guide_1">Abra outro aplicativo que possa iniciar esse link.</string>
+    <string name="openapp_guide_2">Por exemplo, abra um link do YouTube com o aplicativo YouTube.</string>
 </resources>

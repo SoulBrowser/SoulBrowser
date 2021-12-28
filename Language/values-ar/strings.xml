@@ -881,4 +881,6 @@
     <string name="intro_text_4">التصفح الآمن</string>
     <string name="space_title">الفراغ</string>
     <string name="space_guide">المساحات غير مرئية على شاشة التشغيل.</string>
+    <string name="openapp_guide_1">افتح تطبيقًا آخر يمكنه تشغيل هذا الرابط.</string>
+    <string name="openapp_guide_2">على سبيل المثال ، افتح رابط YouTube باستخدام تطبيق YouTube.</string>
 </resources>

@@ -881,4 +881,6 @@
     <string name="intro_text_4">Duyệt web an toàn</string>
     <string name="space_title">Khoảng trống</string>
     <string name="space_guide">Dấu cách không hiển thị trên màn hình đang chạy.</string>
+    <string name="openapp_guide_1">Mở một ứng dụng khác có thể khởi chạy liên kết đó.</string>
+    <string name="openapp_guide_2">Ví dụ: mở liên kết YouTube với ứng dụng YouTube.</string>
 </resources>

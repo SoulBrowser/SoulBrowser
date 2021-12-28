@@ -881,4 +881,6 @@
     <string name="intro_text_4">안전한 브라우징</string>
     <string name="space_title">공간</string>
     <string name="space_guide">공간은 실행 중인 화면에서는 표시되지 않습니다.</string>
+    <string name="openapp_guide_1">해당 링크를 실행할 수 있는 다른 앱을 엽니다.</string>
+    <string name="openapp_guide_2">예를 들어 YouTube 앱으로 YouTube 링크를 엽니다.</string>
 </resources>

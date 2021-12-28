@@ -881,4 +881,6 @@
     <string name="intro_text_4">Navigare sigura</string>
     <string name="space_title">Spaţiu</string>
     <string name="space_guide">Spațiile nu sunt vizibile pe ecranul de rulare.</string>
+    <string name="openapp_guide_1">Deschideți o altă aplicație care poate lansa acel link.</string>
+    <string name="openapp_guide_2">De exemplu, deschideți un link YouTube cu aplicația YouTube.</string>
 </resources>

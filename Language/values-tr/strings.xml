@@ -881,4 +881,6 @@
     <string name="intro_text_4">Güvenli Gezinti</string>
     <string name="space_title">Uzay</string>
     <string name="space_guide">Çalışan ekranda boşluklar görünmez.</string>
+    <string name="openapp_guide_1">Bu bağlantıyı başlatabilecek başka bir uygulama açın.</string>
+    <string name="openapp_guide_2">Örneğin, YouTube uygulamasıyla bir YouTube bağlantısı açın.</string>
 </resources>

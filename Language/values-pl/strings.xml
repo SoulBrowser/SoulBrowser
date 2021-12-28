@@ -881,4 +881,6 @@
     <string name="intro_text_4">Bezpieczne przeglądanie</string>
     <string name="space_title">Przestrzeń</string>
     <string name="space_guide">Spacje nie są widoczne na uruchomionym ekranie.</string>
+    <string name="openapp_guide_1">Otwórz inną aplikację, która może uruchomić ten link.</string>
+    <string name="openapp_guide_2">Na przykład otwórz link do YouTube w aplikacji YouTube.</string>
 </resources>

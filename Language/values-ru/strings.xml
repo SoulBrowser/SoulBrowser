@@ -204,7 +204,7 @@
     <string name="cache_info">Файлы просмотренных веб-страниц (напр. изображения)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Информация, сохранённая во время просмотра веб-страниц (напр. данные для входа)</string>
-    <string name="screen_rotate">Поворот экрана</string>
+    <string name="screen_rotate">Ориентация экрана</string>
     <string name="vol_scroll">Прокрутка страницы клавишами регулировки громкости</string>
     <string name="double_back">Двойное нажатие для выхода из браузера</string>
     <string name="press_again">Нажмите ещё раз для выхода.</string>
@@ -881,4 +881,6 @@
     <string name="intro_text_4">Безопасный просмотр</string>
     <string name="space_title">Космос</string>
     <string name="space_guide">Пробелы не видны на рабочем экране.</string>
+    <string name="openapp_guide_1">Откройте другое приложение, которое может запускать эту ссылку.</string>
+    <string name="openapp_guide_2">Например, откройте ссылку YouTube в приложении YouTube.</string>
 </resources>

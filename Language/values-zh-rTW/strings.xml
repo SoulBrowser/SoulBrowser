@@ -881,4 +881,6 @@
     <string name="intro_text_4">安全瀏覽</string>
     <string name="space_title">空間</string>
     <string name="space_guide">運行屏幕上看不到空格</string>
+    <string name="openapp_guide_1">打開另一個可以啟動該鏈接的應用程序</string>
+    <string name="openapp_guide_2">例如，使用 YouTube 應用打開 YouTube 鏈接</string>
 </resources>

@@ -881,4 +881,6 @@
     <string name="intro_text_4">ท่องเว็บอย่างปลอดภัย</string>
     <string name="space_title">ช่องว่าง</string>
     <string name="space_guide">ช่องว่างไม่ปรากฏบนหน้าจอที่กำลังรันอยู่</string>
+    <string name="openapp_guide_1">เปิดแอปอื่นที่สามารถเปิดลิงก์นั้นได้</string>
+    <string name="openapp_guide_2">ตัวอย่างเช่น เปิดลิงก์ YouTube ด้วยแอป YouTube</string>
 </resources>
