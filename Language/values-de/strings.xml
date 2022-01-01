@@ -395,8 +395,8 @@
     <string name="address_bar">Suchleiste</string>
     <string name="address_menu">Menü der Suchleiste</string>
     <string name="show_tab_bar">Tableiste anzeigen</string>
-    <string name="tab_swipe_up">Wischen Sie der Tabnleiste nach oben</string>
-    <string name="tab_swipe_dn">Wischen Sie über der Tabnleiste</string>
+    <string name="tab_swipe_up">Wischen Sie der Tableiste nach oben</string>
+    <string name="tab_swipe_dn">Wischen Sie über der Tableiste</string>
     <string name="above_top">Oberhalb oberer Leiste</string>
     <string name="below_top">Unterhalb oberer Leiste</string>
     <string name="above_bot">Oberhalb unterer Leiste</string>
@@ -408,7 +408,7 @@
     <string name="video_download">Video herunterladen</string>
     <string name="show_video_button">Schaltfläche für Videodownload anzeigen</string>
     <string name="two_finger">(Zwei Finger)</string>
-    <string name="two_finger_info_1">Streichen Sie mit zwei Fingern nach links und rechts, um der Tabn zu verschieben.</string>
+    <string name="two_finger_info_1">Streichen Sie mit zwei Fingern nach links und rechts, um der Tab zu verschieben.</string>
     <string name="two_finger_info_2">Wischen Sie mit zwei Fingern nach unten, um der Tab zu entfernen.</string>
     <string name="show_scroll">Bildlaufleiste anzeigen</string>
     <string name="show_up">Zurück zum Anfangsknopf</string>
@@ -808,8 +808,8 @@
     <string name="gesture_block_info_1">Sie können Websites registrieren, die keine Gesten verwenden.</string>
     <string name="gesture_block_info_2">Gilt nur für Gesten in der Mitte des Bildschirms.</string>
     <string name="gesture_block_info_3">Dies gilt nicht für Gesten an den Bildschirmrändern.</string>
-    <string name="enable_adblock">Werbeblocker aktiviert</string>
-    <string name="disable_adblock">Werbeblocker aus</string>
+    <string name="enable_adblock">Werbeblocker aktivieren</string>
+    <string name="disable_adblock">Werbeblocker deaktivieren</string>
     <string name="adblock_enabled">Der Anzeigenblocker ist aktiviert.</string>
     <string name="adblock_disabled">Der Werbeblocker ist deaktiviert.</string>
     <string name="down_service">Soul Download-Service</string>
