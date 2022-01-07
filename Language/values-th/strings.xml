@@ -242,6 +242,7 @@
     <string name="rotation">การหมุน</string>
     <string name="view_port">แนวตั้ง</string>
     <string name="view_land">แนวนอน</string>
+    <string name="land_mode">โหมดแนวนอน</string>
     <string name="type">ชนิด</string>
     <string name="page_effect">เอฟเฟกต์หน้า</string>
     <string name="page_scroll">เลื่อนหน้า</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">ไม่รองรับบางรูปแบบ</string>
     <string name="user_agent">ตัวแทนผู้ใช้</string>
     <string name="default_title">ค่าเริ่มต้น</string>
-    <string name="default_android">Android (ค่าเริ่มต้น)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">ประเพณี</string>
     <string name="cast_on">เปิดใช้งานการส่ง</string>
     <string name="show_full">ปุ่มเล่นแบบเต็มหน้าจอ</string>

@@ -242,6 +242,7 @@
     <string name="rotation">دوران</string>
     <string name="view_port">رأسي</string>
     <string name="view_land">عرضي</string>
+    <string name="land_mode">وضعية الشاشة العريضة</string>
     <string name="type">النظام</string>
     <string name="page_effect">تأثير الصفحة</string>
     <string name="page_scroll">تمرير الصفحة</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">بعض التنسيقات غير مدعومة.</string>
     <string name="user_agent">وكيل المستخدم</string>
     <string name="default_title">أساسي</string>
-    <string name="default_android">Android (افتراضي)</string>
-    <string name="iphone">ايفون</string>
-    <string name="ipad">اى باد</string>
     <string name="user_defined">مخصص</string>
     <string name="cast_on">استخدام المصبوب</string>
     <string name="show_full">زر التشغيل في وضع ملء الشاشة</string>

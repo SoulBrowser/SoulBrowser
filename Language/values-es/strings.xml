@@ -242,6 +242,7 @@
     <string name="rotation">Rotación</string>
     <string name="view_port">Retrato</string>
     <string name="view_land">Paisaje</string>
+    <string name="land_mode">Modo paisaje</string>
     <string name="type">Tipo</string>
     <string name="page_effect">Efecto página</string>
     <string name="page_scroll">Desplazamiento página</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">Algunos formatos no son compatibles.</string>
     <string name="user_agent">Agente de usuario</string>
     <string name="default_title">Defecto</string>
-    <string name="default_android">Android (Defecto)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">Personalizado</string>
     <string name="cast_on">Habilitar Enviar a TV</string>
     <string name="show_full">Botón de reproducción en pantalla completa</string>

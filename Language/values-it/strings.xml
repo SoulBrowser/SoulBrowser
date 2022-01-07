@@ -242,6 +242,7 @@
     <string name="rotation">Rotazione</string>
     <string name="view_port">Orizzontalmente</string>
     <string name="view_land">Paesaggio</string>
+    <string name="land_mode">Modalità panoramica</string>
     <string name="type">Tipo</string>
     <string name="page_effect">Effetto pagina</string>
     <string name="page_scroll">Scorrimento pagina</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">Alcuni formati non sono supportati.</string>
     <string name="user_agent">Agente utente</string>
     <string name="default_title">Predefinito</string>
-    <string name="default_android">Android (Predefinito)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">Costume</string>
     <string name="cast_on">Abilita cast</string>
     <string name="show_full">Pulsante Riproduci a schermo intero</string>

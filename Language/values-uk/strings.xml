@@ -242,6 +242,7 @@
     <string name="rotation">Обертання</string>
     <string name="view_port">Портрет</string>
     <string name="view_land">Альбом</string>
+    <string name="land_mode">Ландшафтний режим</string>
     <string name="type">Тип</string>
     <string name="page_effect">Ефект сторінки</string>
     <string name="page_scroll">Прокрутка сторінки</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">Деякі формати не підтримуються.</string>
     <string name="user_agent">Агент користувача</string>
     <string name="default_title">За замовчуванням</string>
-    <string name="default_android">Android (за замовчуванням)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">Користувацька</string>
     <string name="cast_on">Увімкнути трансляцію</string>
     <string name="show_full">Кнопка відтворення на весь екран</string>

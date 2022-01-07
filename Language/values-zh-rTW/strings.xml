@@ -242,6 +242,7 @@
     <string name="rotation">迴轉</string>
     <string name="view_port">肖像</string>
     <string name="view_land">風景</string>
+    <string name="land_mode">橫向模式</string>
     <string name="type">系統</string>
     <string name="page_effect">頁面效果</string>
     <string name="page_scroll">頁面滾動</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">不支持某些格式</string>
     <string name="user_agent">用戶代理</string>
     <string name="default_title">預設</string>
-    <string name="default_android">Android（預設）</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">自訂</string>
     <string name="cast_on">啟用投射</string>
     <string name="show_full">全屏播放按鈕</string>

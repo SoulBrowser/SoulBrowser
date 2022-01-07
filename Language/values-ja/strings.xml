@@ -242,6 +242,7 @@
     <string name="rotation">回転</string>
     <string name="view_port">縦</string>
     <string name="view_land">横</string>
+    <string name="land_mode">横モード</string>
     <string name="type">方式</string>
     <string name="page_effect">ページ効果</string>
     <string name="page_scroll">ページスクロール</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">いくつかのフォーマットはサポートされていません。</string>
     <string name="user_agent">ユーザーエージェント</string>
     <string name="default_title">デフォルト</string>
-    <string name="default_android">Android (デフォルト)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">ユーザー定義</string>
     <string name="cast_on">キャストを有効に</string>
     <string name="show_full">フルスクリーンで再生ボタン</string>

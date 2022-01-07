@@ -242,6 +242,7 @@
     <string name="rotation">Rotație</string>
     <string name="view_port">Portret</string>
     <string name="view_land">Peisaj</string>
+    <string name="land_mode">Modul orizontal</string>
     <string name="type">Tip</string>
     <string name="page_effect">Efect de pagină</string>
     <string name="page_scroll">Derulare pagină</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">Unele formate nu sunt acceptate.</string>
     <string name="user_agent">Agent utilizator</string>
     <string name="default_title">Implicit</string>
-    <string name="default_android">Android (Implicit)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">Personalizat</string>
     <string name="cast_on">Activați cast</string>
     <string name="show_full">Butonul de redare pe ecran complet</string>

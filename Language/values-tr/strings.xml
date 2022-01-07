@@ -242,6 +242,7 @@
     <string name="rotation">Rotasyon</string>
     <string name="view_port">Dikey</string>
     <string name="view_land">Manzara</string>
+    <string name="land_mode">Peyzaj modu</string>
     <string name="type">Yazım</string>
     <string name="page_effect">Sayfa efekti</string>
     <string name="page_scroll">Sayfa kaydırma</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">Bazı biçimler desteklenmez.</string>
     <string name="user_agent">Kullanıcı aracısı</string>
     <string name="default_title">Varsayılan</string>
-    <string name="default_android">Android (Varsayılan)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">Görenek</string>
     <string name="cast_on">Yayınlamayı etkinleştir</string>
     <string name="show_full">Tam ekranda oynat düğmesi</string>

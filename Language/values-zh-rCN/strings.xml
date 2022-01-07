@@ -242,6 +242,7 @@
     <string name="rotation">旋转</string>
     <string name="view_port">竖屏</string>
     <string name="view_land">横屏</string>
+    <string name="land_mode">横向模式</string>
     <string name="type">类型</string>
     <string name="page_effect">特效翻页</string>
     <string name="page_scroll">滚动翻页</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">不支持某些格式</string>
     <string name="user_agent">UA 标识</string>
     <string name="default_title">默认</string>
-    <string name="default_android">Android（默认）</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">自定义</string>
     <string name="cast_on">启用投屏</string>
     <string name="show_full">全屏播放按钮</string>

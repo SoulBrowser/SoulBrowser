@@ -242,6 +242,7 @@
     <string name="rotation">Rotação</string>
     <string name="view_port">Retrato</string>
     <string name="view_land">Paisagem</string>
+    <string name="land_mode">Modo paisagem</string>
     <string name="type">Tipo</string>
     <string name="page_effect">Efeito da página</string>
     <string name="page_scroll">Rolagem da página</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">Alguns formatos não são suportados.</string>
     <string name="user_agent">Agente de usuário</string>
     <string name="default_title">Padrão</string>
-    <string name="default_android">Android (Padrão)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">Personalizado</string>
     <string name="cast_on">Ativar transmissão</string>
     <string name="show_full">Botão Play em tela cheia</string>

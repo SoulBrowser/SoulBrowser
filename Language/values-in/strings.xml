@@ -242,6 +242,7 @@
     <string name="rotation">Rotasi</string>
     <string name="view_port">Potret</string>
     <string name="view_land">Lanskap</string>
+    <string name="land_mode">Mode lanskap</string>
     <string name="type">Ketik</string>
     <string name="page_effect">Efek halaman</string>
     <string name="page_scroll">Gulir halaman</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">Beberapa format tidak didukung.</string>
     <string name="user_agent">Agen pengguna</string>
     <string name="default_title">Default</string>
-    <string name="default_android">Android (Default)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">Kebiasaan</string>
     <string name="cast_on">Aktifkan pemeran</string>
     <string name="show_full">Tombol putar di layar penuh</string>

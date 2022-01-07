@@ -242,6 +242,7 @@
     <string name="rotation">Поворот</string>
     <string name="view_port">Вертикальный</string>
     <string name="view_land">Горизонтальный</string>
+    <string name="land_mode">Ландшафтный режим</string>
     <string name="type">Тип</string>
     <string name="page_effect">Эффект страницы</string>
     <string name="page_scroll">Прокрутка страницы</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">Некоторые форматы не поддерживаются.</string>
     <string name="user_agent">Пользовательский агент</string>
     <string name="default_title">По умолчанию</string>
-    <string name="default_android">Android (По умолчанию)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">Пользовательский</string>
     <string name="cast_on">Включить трансляцию</string>
     <string name="show_full">Кнопка воспроизведения в полноэкранном режиме</string>

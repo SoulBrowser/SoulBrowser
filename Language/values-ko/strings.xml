@@ -242,6 +242,7 @@
     <string name="rotation">회전</string>
     <string name="view_port">세로</string>
     <string name="view_land">가로</string>
+    <string name="land_mode">가로 모드</string>
     <string name="type">방식</string>
     <string name="page_effect">페이지 이펙트</string>
     <string name="page_scroll">페이지 스크롤</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">일부 포맷은 지원되지 않습니다.</string>
     <string name="user_agent">유저 에이전트</string>
     <string name="default_title">기본</string>
-    <string name="default_android">Android (기본)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">사용자 정의</string>
     <string name="cast_on">캐스트 사용</string>
     <string name="show_full">전체 화면으로 재생 버튼</string>

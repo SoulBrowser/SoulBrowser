@@ -242,6 +242,7 @@
     <string name="rotation">Rotation</string>
     <string name="view_port">Portrait</string>
     <string name="view_land">Landscape</string>
+    <string name="land_mode">Landscape mode</string>
     <string name="type">Type</string>
     <string name="page_effect">Page effect</string>
     <string name="page_scroll">Page scroll</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">Some formats are not supported.</string>
     <string name="user_agent">User agent</string>
     <string name="default_title">Default</string>
-    <string name="default_android">Android (Default)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">Custom</string>
     <string name="cast_on">Enable cast</string>
     <string name="show_full">Play button in full screen</string>

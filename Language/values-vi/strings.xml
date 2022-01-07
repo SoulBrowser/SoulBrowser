@@ -242,6 +242,7 @@
     <string name="rotation">Vòng xoay</string>
     <string name="view_port">Chân dung</string>
     <string name="view_land">Phong cảnh</string>
+    <string name="land_mode">Chế độ phong cảnh</string>
     <string name="type">Kiểu</string>
     <string name="page_effect">Hiệu ứng trang</string>
     <string name="page_scroll">Cuộn trang</string>
@@ -549,9 +550,6 @@
     <string name="cast_info_7">Một số định dạng không được hỗ trợ.</string>
     <string name="user_agent">Đại lý người dùng</string>
     <string name="default_title">Mặc định</string>
-    <string name="default_android">Android (Mặc định)</string>
-    <string name="iphone">iPhone</string>
-    <string name="ipad">iPad</string>
     <string name="user_defined">Tùy chỉnh</string>
     <string name="cast_on">Cho phép diễn viên</string>
     <string name="show_full">Nút phát toàn màn hình</string>
