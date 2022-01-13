@@ -879,4 +879,5 @@
     <string name="space_guide">Spasi tidak terlihat di layar yang sedang berjalan.</string>
     <string name="openapp_guide_1">Buka aplikasi lain yang dapat meluncurkan tautan itu.</string>
     <string name="openapp_guide_2">Misalnya, buka tautan YouTube dengan aplikasi YouTube.</string>
+    <string name="recommend">Menyarankan</string>
 </resources>

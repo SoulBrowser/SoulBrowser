@@ -879,4 +879,5 @@
     <string name="space_guide">На робочому екрані пробіли не видно.</string>
     <string name="openapp_guide_1">Відкрийте іншу програму, яка може запустити це посилання.</string>
     <string name="openapp_guide_2">Наприклад, відкрийте посилання YouTube за допомогою програми YouTube.</string>
+    <string name="recommend">Рекомендую</string>
 </resources>

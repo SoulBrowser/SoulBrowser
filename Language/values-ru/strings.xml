@@ -879,4 +879,5 @@
     <string name="space_guide">Пробелы не видны на рабочем экране.</string>
     <string name="openapp_guide_1">Откройте другое приложение, которое может запускать эту ссылку.</string>
     <string name="openapp_guide_2">Например, откройте ссылку YouTube в приложении YouTube.</string>
+    <string name="recommend">Рекомендовать</string>
 </resources>

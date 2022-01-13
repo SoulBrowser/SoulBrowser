@@ -879,4 +879,5 @@
     <string name="space_guide">Les espaces ne sont pas visibles sur l\'écran de fonctionnement.</string>
     <string name="openapp_guide_1">Ouvrez une autre application qui peut lancer ce lien.</string>
     <string name="openapp_guide_2">Par exemple, ouvrez un lien YouTube avec l\'application YouTube.</string>
+    <string name="recommend">Recommander</string>
 </resources>

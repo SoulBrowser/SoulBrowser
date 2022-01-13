@@ -879,4 +879,5 @@
     <string name="space_guide">ช่องว่างไม่ปรากฏบนหน้าจอที่กำลังรันอยู่</string>
     <string name="openapp_guide_1">เปิดแอปอื่นที่สามารถเปิดลิงก์นั้นได้</string>
     <string name="openapp_guide_2">ตัวอย่างเช่น เปิดลิงก์ YouTube ด้วยแอป YouTube</string>
+    <string name="recommend">แนะนำ</string>
 </resources>

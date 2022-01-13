@@ -879,4 +879,5 @@
     <string name="space_guide">运行屏幕上看不到空格</string>
     <string name="openapp_guide_1">打开另一个可以启动该链接的应用程序</string>
     <string name="openapp_guide_2">例如，使用 YouTube 应用打开 YouTube 链接</string>
+    <string name="recommend">推荐</string>
 </resources>

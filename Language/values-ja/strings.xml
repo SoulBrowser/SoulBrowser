@@ -879,4 +879,5 @@
     <string name="space_guide">スペースは実行中の画面には表示されません。</string>
     <string name="openapp_guide_1">そのリンクを実行できる他のアプリを開きます。</string>
     <string name="openapp_guide_2">たとえば、YouTube アプリで YouTube リンクを開きます。</string>
+    <string name="recommend">推奨</string>
 </resources>

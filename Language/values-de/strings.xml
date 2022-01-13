@@ -879,4 +879,5 @@
     <string name="space_guide">Leerzeichen sind auf dem laufenden Bildschirm nicht sichtbar.</string>
     <string name="openapp_guide_1">Öffnen Sie eine andere App, die diesen Link starten kann.</string>
     <string name="openapp_guide_2">Öffnen Sie beispielsweise einen YouTube-Link mit der YouTube-App.</string>
+    <string name="recommend">Empfehlen</string>
 </resources>
