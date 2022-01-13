@@ -678,7 +678,6 @@
     <string name="restart">Reiniciar</string>
     <string name="down_fail_guide">O arquivo pode estar danificado.</string>
     <string name="ads_filter">Filtro de anúncio</string>
-    <string name="filter_search">Filtro de pesquisa</string>
     <string name="filter_info">O uso de vários filtros ao mesmo tempo pode diminuir o desempenho do navegador.</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Importar</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">Ao iniciar o aplicativo</string>
     <string name="page_tab_info">Ao criar uma nova guia</string>
     <string name="filter_user_1">Você pode bloquear mais anúncios adicionando filtros.</string>
-    <string name="filter_user_2">Você pode usar filtros escritos no formato EasyList.</string>
-    <string name="filter_user_3">Se houver um problema com o filtro, a página pode não ser exibida normalmente.</string>
+    <string name="filter_user_2">Se houver um problema com o filtro, a página pode não ser exibida normalmente.</string>
     <string name="size_fit">Ajuste da tela</string>
     <string name="size_real">Tamanho atual</string>
     <string name="block_ssl">Bloqueio de erro SSL</string>

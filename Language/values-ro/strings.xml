@@ -678,7 +678,6 @@
     <string name="restart">Repornire</string>
     <string name="down_fail_guide">Fișierul poate fi deteriorat.</string>
     <string name="ads_filter">Filtru de anunțuri</string>
-    <string name="filter_search">Filtru de căutare</string>
     <string name="filter_info">Utilizarea mai multor filtre în același timp poate încetini performanța browserului.</string>
     <string name="backup_title">Rezervă</string>
     <string name="backup_import">Importați</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">La pornirea aplicației</string>
     <string name="page_tab_info">Când creați o filă nouă</string>
     <string name="filter_user_1">Puteți bloca mai multe reclame adăugând filtre.</string>
-    <string name="filter_user_2">Puteți utiliza filtre scrise în format EasyList.</string>
-    <string name="filter_user_3">Dacă există o problemă cu filtrul, este posibil ca pagina să nu fie afișată normal.</string>
+    <string name="filter_user_2">Dacă există o problemă cu filtrul, este posibil ca pagina să nu fie afișată normal.</string>
     <string name="size_fit">Potrivirea ecranului</string>
     <string name="size_real">Dimensiunea reală</string>
     <string name="block_ssl">Blocare eroare SSL</string>

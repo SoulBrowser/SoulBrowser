@@ -678,7 +678,6 @@
     <string name="restart">Начать сначала</string>
     <string name="down_fail_guide">Файл может быть повреждён.</string>
     <string name="ads_filter">Рекламный фильтр</string>
-    <string name="filter_search">Фильтр поиска</string>
     <string name="filter_info">Использование нескольких фильтров одновременно может снизить производительность браузера.</string>
     <string name="backup_title">Резервное копирование и восстановление</string>
     <string name="backup_import">Импорт</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">При запуске приложения</string>
     <string name="page_tab_info">При создании новой вкладки</string>
     <string name="filter_user_1">Можно заблокировать больше рекламы, добавив фильтры.</string>
-    <string name="filter_user_2">Можно использовать фильтры, написанные в формате EasyList.</string>
-    <string name="filter_user_3">Если есть проблема с фильтром, страница может отображаться некорректно.</string>
+    <string name="filter_user_2">Если есть проблема с фильтром, страница может отображаться некорректно.</string>
     <string name="size_fit">По экрану</string>
     <string name="size_real">Фактический размер</string>
     <string name="block_ssl">Блокировка ошибок SSL</string>

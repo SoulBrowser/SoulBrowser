@@ -678,7 +678,6 @@
     <string name="restart">Tekrar başlat</string>
     <string name="down_fail_guide">Dosya zarar görmüş olabilir.</string>
     <string name="ads_filter">Reklam filtresi</string>
-    <string name="filter_search">Arama filtresi</string>
     <string name="filter_info">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
     <string name="backup_title">Yedek</string>
     <string name="backup_import">İthalat</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">Uygulamayı başlatırken</string>
     <string name="page_tab_info">Yeni bir sekme oluştururken</string>
     <string name="filter_user_1">Filtreler ekleyerek daha fazla reklamı engelleyebilirsiniz.</string>
-    <string name="filter_user_2">EasyList formatında yazılmış filtreleri kullanabilirsiniz.</string>
-    <string name="filter_user_3">Filtrede bir sorun varsa, sayfa normal şekilde görüntülenmeyebilir.</string>
+    <string name="filter_user_2">Filtrede bir sorun varsa, sayfa normal şekilde görüntülenmeyebilir.</string>
     <string name="size_fit">Ekran uyumu</string>
     <string name="size_real">Gerçek boyutu</string>
     <string name="block_ssl">SSL hatası engelleme</string>

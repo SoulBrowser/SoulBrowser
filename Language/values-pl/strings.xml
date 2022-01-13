@@ -678,7 +678,6 @@
     <string name="restart">Uruchom ponownie</string>
     <string name="down_fail_guide">Plik może być uszkodzony.</string>
     <string name="ads_filter">Filtr reklam</string>
-    <string name="filter_search">Filtr wyszukiwania</string>
     <string name="filter_info">Używanie wielu filtrów jednocześnie może spowolnić działanie przeglądarki.</string>
     <string name="backup_title">Zapasowej</string>
     <string name="backup_import">Importuj</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">Podczas uruchamiania aplikacji</string>
     <string name="page_tab_info">Podczas tworzenia nowej karty</string>
     <string name="filter_user_1">Możesz zablokować więcej reklam, dodając filtry.</string>
-    <string name="filter_user_2">Możesz używać filtrów napisanych w formacie EasyList.</string>
-    <string name="filter_user_3">Jeśli występuje problem z filtrem, strona może nie być wyświetlana normalnie.</string>
+    <string name="filter_user_2">Jeśli występuje problem z filtrem, strona może nie być wyświetlana normalnie.</string>
     <string name="size_fit">Dopasować do ekranu</string>
     <string name="size_real">Rzeczywisty rozmiar</string>
     <string name="block_ssl">Blokowanie błędów SSL</string>

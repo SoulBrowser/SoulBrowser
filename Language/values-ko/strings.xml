@@ -678,7 +678,6 @@
     <string name="restart">재시작</string>
     <string name="down_fail_guide">파일이 손상되었을 수 있습니다.</string>
     <string name="ads_filter">광고 필터</string>
-    <string name="filter_search">필터 검색</string>
     <string name="filter_info">여러 필터를 동시에 사용하면 브라우저 성능이 느려질 수 있습니다.</string>
     <string name="backup_title">백업</string>
     <string name="backup_import">불러오기</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">앱을 시작할 때</string>
     <string name="page_tab_info">새 탭을 만들 때</string>
     <string name="filter_user_1">필터를 추가하여 더 많은 광고를 차단할 수 있습니다.</string>
-    <string name="filter_user_2">EasyList 형식으로 작성된 필터를 사용하실 수 있습니다.</string>
-    <string name="filter_user_3">필터에 문제가 있으면, 페이지가 정상적으로 표시되지 않을 수 있습니다.</string>
+    <string name="filter_user_2">필터에 문제가 있으면, 페이지가 정상적으로 표시되지 않을 수 있습니다.</string>
     <string name="size_fit">화면 맞춤</string>
     <string name="size_real">실제 크기</string>
     <string name="block_ssl">SSL 오류 차단</string>

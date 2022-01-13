@@ -678,7 +678,6 @@
     <string name="restart">重新開始</string>
     <string name="down_fail_guide">該文件可能已損壞</string>
     <string name="ads_filter">廣告過濾器</string>
-    <string name="filter_search">搜索過濾器</string>
     <string name="filter_info">同時使用多個過濾器會降低瀏覽器性能</string>
     <string name="backup_title">備份</string>
     <string name="backup_import">導入</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">啟動應用程序時</string>
     <string name="page_tab_info">建立新分頁時</string>
     <string name="filter_user_1">您可以通過添加過濾器來屏蔽更多廣告</string>
-    <string name="filter_user_2">您可以使用以 EasyList 格式編寫的過濾器</string>
-    <string name="filter_user_3">如果過濾器有問題，則該頁面可能無法正常顯示</string>
+    <string name="filter_user_2">如果過濾器有問題，則該頁面可能無法正常顯示</string>
     <string name="size_fit">螢幕適合</string>
     <string name="size_real">真實大小</string>
     <string name="block_ssl">SSL 錯誤阻止</string>

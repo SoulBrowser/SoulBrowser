@@ -678,7 +678,6 @@
     <string name="restart">Restart</string>
     <string name="down_fail_guide">The file may be damaged.</string>
     <string name="ads_filter">Ad filter</string>
-    <string name="filter_search">Search filter</string>
     <string name="filter_info">Using multiple filters at the same time can slow browser performance.</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Import</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">When starting the app</string>
     <string name="page_tab_info">When creating a new tab</string>
     <string name="filter_user_1">You can block more ads by adding filters.</string>
-    <string name="filter_user_2">You can use filters written in EasyList format.</string>
-    <string name="filter_user_3">If there is a problem with the filter, the page may not be displayed normally.</string>
+    <string name="filter_user_2">If there is a problem with the filter, the page may not be displayed normally.</string>
     <string name="size_fit">Screen fit</string>
     <string name="size_real">Actual size</string>
     <string name="block_ssl">SSL error blocking</string>

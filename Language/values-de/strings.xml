@@ -678,7 +678,6 @@
     <string name="restart">Neustart</string>
     <string name="down_fail_guide">Die Datei ist möglicherweise beschädigt.</string>
     <string name="ads_filter">Anzeigenfilter</string>
-    <string name="filter_search">Suchfilter</string>
     <string name="filter_info">Die gleichzeitige Verwendung mehrerer Filter kann die Browserleistung beeinträchtigen.</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Importieren</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">Beim Starten der App</string>
     <string name="page_tab_info">Beim Erstellen einer neuen Tab</string>
     <string name="filter_user_1">Sie können weitere Anzeigen blockieren, indem Sie Filter hinzufügen.</string>
-    <string name="filter_user_2">Sie können Filter verwenden, die im EasyList-Format geschrieben sind.</string>
-    <string name="filter_user_3">Wenn ein Problem mit dem Filter vorliegt, wird die Seite möglicherweise nicht normal angezeigt.</string>
+    <string name="filter_user_2">Wenn ein Problem mit dem Filter vorliegt, wird die Seite möglicherweise nicht normal angezeigt.</string>
     <string name="size_fit">An Bildschirm anpassen</string>
     <string name="size_real">Tatsächliche Größe</string>
     <string name="block_ssl">Blockierung von SSL-Fehlern</string>

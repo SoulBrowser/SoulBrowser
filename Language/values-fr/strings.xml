@@ -678,7 +678,6 @@
     <string name="restart">Redémarrer</string>
     <string name="down_fail_guide">Le fichier est peut-être endommagé.</string>
     <string name="ads_filter">Filtre publicitaire</string>
-    <string name="filter_search">Filtre de recherche</string>
     <string name="filter_info">L\'utilisation de plusieurs filtres en même temps peut ralentir les performances du navigateur.</string>
     <string name="backup_title">Sauvegarde</string>
     <string name="backup_import">Importer</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">Au démarrage de l\'application</string>
     <string name="page_tab_info">Lors de la création d\'un nouvel onglet</string>
     <string name="filter_user_1">Vous pouvez bloquer plus d\'annonces en ajoutant des filtres.</string>
-    <string name="filter_user_2">Vous pouvez utiliser des filtres écrits au format EasyList.</string>
-    <string name="filter_user_3">S\'il y a un problème avec le filtre, la page peut ne pas s\'afficher normalement.</string>
+    <string name="filter_user_2">S\'il y a un problème avec le filtre, la page peut ne pas s\'afficher normalement.</string>
     <string name="size_fit">Ajustement de l\'écran</string>
     <string name="size_real">Taille actuelle</string>
     <string name="block_ssl">Blocage des erreurs SSL</string>

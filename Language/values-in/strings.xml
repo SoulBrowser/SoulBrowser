@@ -678,7 +678,6 @@
     <string name="restart">Mengulang kembali</string>
     <string name="down_fail_guide">File mungkin rusak.</string>
     <string name="ads_filter">Filter iklan</string>
-    <string name="filter_search">Cari filter</string>
     <string name="filter_info">Menggunakan beberapa filter sekaligus dapat memperlambat kinerja browser.</string>
     <string name="backup_title">Cadangan</string>
     <string name="backup_import">Impor</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">Saat memulai aplikasi</string>
     <string name="page_tab_info">Saat membuat tab baru</string>
     <string name="filter_user_1">Anda dapat memblokir lebih banyak iklan dengan menambahkan filter.</string>
-    <string name="filter_user_2">Anda dapat menggunakan filter yang ditulis dalam format EasyList.</string>
-    <string name="filter_user_3">Jika ada masalah dengan filter, halaman mungkin tidak ditampilkan secara normal.</string>
+    <string name="filter_user_2">Jika ada masalah dengan filter, halaman mungkin tidak ditampilkan secara normal.</string>
     <string name="size_fit">Kesesuaian layar</string>
     <string name="size_real">Ukuran sebenarnya</string>
     <string name="block_ssl">Pemblokiran kesalahan SSL</string>

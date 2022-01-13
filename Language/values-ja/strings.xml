@@ -678,7 +678,6 @@
     <string name="restart">再起動</string>
     <string name="down_fail_guide">ファイルが壊れている可能性があります。</string>
     <string name="ads_filter">広告フィルタ</string>
-    <string name="filter_search">フィルタを検索</string>
     <string name="filter_info">複数のフィルタを同時に使用すると、ブラウザーのパフォーマンスが低下することがあります。</string>
     <string name="backup_title">バックアップ</string>
     <string name="backup_import">インポート</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">アプリを起動したとき</string>
     <string name="page_tab_info">新しいタブを作成するときに</string>
     <string name="filter_user_1">フィルタを追加して、より多くの広告をブロックすることができます。</string>
-    <string name="filter_user_2">EasyList形式で作成されたフィルタを使用することができます。</string>
-    <string name="filter_user_3">フィルタに問題があれば、ページが正常に表示されないことがあります。</string>
+    <string name="filter_user_2">フィルタに問題があれば、ページが正常に表示されないことがあります。</string>
     <string name="size_fit">画面カスタマイズ</string>
     <string name="size_real">実際のサイズ</string>
     <string name="block_ssl">SSLエラーブロック</string>

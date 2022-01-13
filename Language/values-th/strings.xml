@@ -678,7 +678,6 @@
     <string name="restart">เริ่มต้นใหม่</string>
     <string name="down_fail_guide">ไฟล์อาจเสียหาย</string>
     <string name="ads_filter">ตัวกรองโฆษณา</string>
-    <string name="filter_search">ตัวกรองการค้นหา</string>
     <string name="filter_info">การใช้ตัวกรองหลายตัวพร้อมกันอาจทำให้ประสิทธิภาพเบราว์เซอร์ช้าลง</string>
     <string name="backup_title">สำรองข้อมูล</string>
     <string name="backup_import">นำเข้า</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">เมื่อเริ่มต้นแอป</string>
     <string name="page_tab_info">เมื่อสร้างแท็บใหม่</string>
     <string name="filter_user_1">คุณสามารถบล็อกโฆษณาเพิ่มเติมได้โดยเพิ่มตัวกรอง</string>
-    <string name="filter_user_2">คุณสามารถใช้ตัวกรองที่เขียนในรูปแบบ EasyList</string>
-    <string name="filter_user_3">หากมีปัญหากับตัวกรองหน้าอาจไม่แสดงตามปกติ</string>
+    <string name="filter_user_2">หากมีปัญหากับตัวกรองหน้าอาจไม่แสดงตามปกติ</string>
     <string name="size_fit">พอดีกับหน้าจอ</string>
     <string name="size_real">ขนาดที่แท้จริง</string>
     <string name="block_ssl">การบล็อกข้อผิดพลาด SSL</string>

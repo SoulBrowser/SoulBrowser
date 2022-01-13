@@ -678,7 +678,6 @@
     <string name="restart">Ricomincia</string>
     <string name="down_fail_guide">Il file potrebbe essere danneggiato.</string>
     <string name="ads_filter">Filtro degli annunci</string>
-    <string name="filter_search">Filtro di ricerca</string>
     <string name="filter_info">L\'uso di più filtri contemporaneamente può rallentare le prestazioni del browser.</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Importa</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">Quando si avvia l\'app</string>
     <string name="page_tab_info">Quando si crea una nuova schede</string>
     <string name="filter_user_1">Puoi bloccare più annunci aggiungendo filtri.</string>
-    <string name="filter_user_2">Puoi utilizzare filtri scritti in formato EasyList.</string>
-    <string name="filter_user_3">Se c\'è un problema con il filtro, la pagina potrebbe non essere visualizzata normalmente.</string>
+    <string name="filter_user_2">Se c\'è un problema con il filtro, la pagina potrebbe non essere visualizzata normalmente.</string>
     <string name="size_fit">Adatta allo schermo</string>
     <string name="size_real">Dimensione reale</string>
     <string name="block_ssl">Blocco degli errori SSL</string>

@@ -221,7 +221,7 @@
     <string name="resolution">Дозвіл</string>
     <string name="quality">Якість</string>
     <string name="modified">Остання зміна</string>
-    <string name="url">URL-адреса</string>
+    <string name="url">URL</string>
     <string name="domain_name">Домен</string>
     <string name="domain_url">Домен або URL-адреса</string>
     <string name="add">Додати</string>
@@ -678,7 +678,6 @@
     <string name="restart">Перезапустити</string>
     <string name="down_fail_guide">Файл може бути пошкоджений.</string>
     <string name="ads_filter">Рекламний фільтр</string>
-    <string name="filter_search">Пошук фільтра</string>
     <string name="filter_info">Використання декількох фільтрів одночасно може уповільнити роботу браузера.</string>
     <string name="backup_title">Резервне</string>
     <string name="backup_import">Імпорт</string>
@@ -750,8 +749,7 @@
     <string name="page_start_info">Під час запуску програми</string>
     <string name="page_tab_info">При створенні нової вкладки</string>
     <string name="filter_user_1">Ви можете заблокувати більше оголошень, додавши фільтри.</string>
-    <string name="filter_user_2">Ви можете використовувати фільтри, написані у форматі EasyList.</string>
-    <string name="filter_user_3">Якщо є проблема з фільтром, сторінка може не відображатися нормально.</string>
+    <string name="filter_user_2">Якщо є проблема з фільтром, сторінка може не відображатися нормально.</string>
     <string name="size_fit">По розміру екрану</string>
     <string name="size_real">Реальний розмір</string>
     <string name="block_ssl">Блокування помилок SSL</string>
