@@ -687,7 +687,6 @@
     <string name="save_empty">Nu este nimic de salvat.</string>
     <string name="not_changed">Nu s-au făcut modificări.</string>
     <string name="app_restart">Trebuie să reporniți aplicația.</string>
-    <string name="reader_guide">Apăsați și mențineți apăsat pentru a selecta text, puteți reda doar textul selectat.</string>
     <string name="active_function">Activați funcția.</string>
     <string name="tab_loop">Bucla tab</string>
     <string name="tab_loop_info">Comutați între prima și ultima filă</string>

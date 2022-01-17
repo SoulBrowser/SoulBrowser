@@ -687,7 +687,6 @@
     <string name="save_empty">لا يوجد شيء لحفظه.</string>
     <string name="not_changed">لم يتغير شيء.</string>
     <string name="app_restart">تحتاج إلى إعادة تشغيل التطبيق.</string>
-    <string name="reader_guide">إذا ضغطت مع الاستمرار على نص لتحديده ، فيمكن تشغيل النص المحدد فقط.</string>
     <string name="active_function">يرجى تفعيل الوظيفة.</string>
     <string name="tab_loop">حلقة النقر</string>
     <string name="tab_loop_info">التبديل بين علامة التبويب الأولى والأخيرة</string>

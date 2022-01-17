@@ -687,7 +687,6 @@
     <string name="save_empty">没有什么可保存的</string>
     <string name="not_changed">尚未进行任何更改</string>
     <string name="app_restart">您需要重新启动应用程序</string>
-    <string name="reader_guide">按住以选择文本，你只能播放所选的文本</string>
     <string name="active_function">激活功能</string>
     <string name="tab_loop">标签循环</string>
     <string name="tab_loop_info">在第一个和最后一个标签之间切换</string>

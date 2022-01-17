@@ -687,7 +687,6 @@
     <string name="save_empty">Зберегти нема чого.</string>
     <string name="not_changed">Жодних змін не внесено.</string>
     <string name="app_restart">Вам потрібно перезапустити програму.</string>
-    <string name="reader_guide">Натисніть і утримуйте, щоб вибрати текст. Ви можете відтворювати лише вибраний текст.</string>
     <string name="active_function">Активуйте функцію.</string>
     <string name="tab_loop">Цикл табуляції</string>
     <string name="tab_loop_info">Перехід між першою та останньою вкладкою</string>

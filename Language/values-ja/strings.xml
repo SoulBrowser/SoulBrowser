@@ -687,7 +687,6 @@
     <string name="save_empty">保存内容がありません。</string>
     <string name="not_changed">変更された内容がありません。</string>
     <string name="app_restart">アプリを再起動する必要があります。</string>
-    <string name="reader_guide">長く押して、テキストを選択すると、選択したテキストのみを再生することができます。</string>
     <string name="active_function">機能を有効にしてください。</string>
     <string name="tab_loop">タブループ</string>
     <string name="tab_loop_info">最初のタブと最後のタブを切り替える</string>

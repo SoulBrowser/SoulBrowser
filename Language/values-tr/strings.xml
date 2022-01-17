@@ -687,7 +687,6 @@
     <string name="save_empty">Kurtarılacak bir şey yok.</string>
     <string name="not_changed">Hiçbir değişiklik yapılmadı.</string>
     <string name="app_restart">Uygulamayı yeniden başlatmanız gerekiyor.</string>
-    <string name="reader_guide">Metin seçmek için basılı tutun, yalnızca seçilen metni oynatabilirsiniz.</string>
     <string name="active_function">İşlevi etkinleştirin.</string>
     <string name="tab_loop">Sekme döngüsü</string>
     <string name="tab_loop_info">İlk ve son sekme arasında geçiş yap</string>

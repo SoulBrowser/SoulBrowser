@@ -687,7 +687,6 @@
     <string name="save_empty">No hay nada que salvar.</string>
     <string name="not_changed">No se han hecho cambios.</string>
     <string name="app_restart">Debes reiniciar la aplicación.</string>
-    <string name="reader_guide">Mantenga presionado para seleccionar texto, solo puede reproducir el texto seleccionado.</string>
     <string name="active_function">Activa la función.</string>
     <string name="tab_loop">Bucle de pestaña</string>
     <string name="tab_loop_info">Cambiar entre la primera y la última pestaña</string>

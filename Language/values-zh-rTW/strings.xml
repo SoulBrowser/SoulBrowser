@@ -687,7 +687,6 @@
     <string name="save_empty">沒有什麼可保存的</string>
     <string name="not_changed">尚未進行任何更改</string>
     <string name="app_restart">您需要重新啟動應用程序</string>
-    <string name="reader_guide">按住以選擇文本，您只能播放所選的文本</string>
     <string name="active_function">啟用功能</string>
     <string name="tab_loop">分頁循環</string>
     <string name="tab_loop_info">在第一個和最後一個分頁之間切換</string>

@@ -687,7 +687,6 @@
     <string name="save_empty">Tidak ada yang bisa diselamatkan.</string>
     <string name="not_changed">Tidak ada perubahan yang dilakukan.</string>
     <string name="app_restart">Anda perlu memulai ulang aplikasi.</string>
-    <string name="reader_guide">Tekan dan tahan untuk memilih teks, Anda hanya dapat memutar teks yang dipilih.</string>
     <string name="active_function">Aktifkan fungsinya.</string>
     <string name="tab_loop">Lingkaran tab</string>
     <string name="tab_loop_info">Beralih antara tab pertama dan terakhir</string>

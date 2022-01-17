@@ -687,7 +687,6 @@
     <string name="save_empty">Không có gì để tiết kiệm.</string>
     <string name="not_changed">Không có thay đổi đã được thực hiện.</string>
     <string name="app_restart">Bạn cần khởi động lại ứng dụng.</string>
-    <string name="reader_guide">Bấm và giữ để chọn văn bản, bạn chỉ có thể phát văn bản đã chọn.</string>
     <string name="active_function">Kích hoạt chức năng.</string>
     <string name="tab_loop">Vòng lặp tab</string>
     <string name="tab_loop_info">Chuyển đổi giữa tab đầu tiên và tab cuối cùng</string>

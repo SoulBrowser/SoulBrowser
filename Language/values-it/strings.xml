@@ -687,7 +687,6 @@
     <string name="save_empty">Non c\'è nulla da salvare.</string>
     <string name="not_changed">Non sono state apportate modifiche.</string>
     <string name="app_restart">Devi riavviare l\'app.</string>
-    <string name="reader_guide">Tenere premuto per selezionare il testo, è possibile riprodurre solo il testo selezionato.</string>
     <string name="active_function">Attiva la funzione</string>
     <string name="tab_loop">Tab loop</string>
     <string name="tab_loop_info">Passa dalla prima all\'ultima schede</string>

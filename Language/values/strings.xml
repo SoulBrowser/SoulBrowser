@@ -687,7 +687,6 @@
     <string name="save_empty">There is nothing to save.</string>
     <string name="not_changed">No changes have been made.</string>
     <string name="app_restart">You need to restart the app.</string>
-    <string name="reader_guide">Press and hold to select text, you can play only the selected text.</string>
     <string name="active_function">Activate the function.</string>
     <string name="tab_loop">Tab loop</string>
     <string name="tab_loop_info">Switch between first and last tab</string>

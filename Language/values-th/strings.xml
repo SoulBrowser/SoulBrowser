@@ -687,7 +687,6 @@
     <string name="save_empty">ไม่มีอะไรจะบันทึก</string>
     <string name="not_changed">ไม่มีการเปลี่ยนแปลงใด ๆ</string>
     <string name="app_restart">คุณต้องรีสตาร์ทแอป</string>
-    <string name="reader_guide">กดค้างไว้เพื่อเลือกข้อความคุณสามารถเล่นเฉพาะข้อความที่เลือก</string>
     <string name="active_function">เปิดใช้งานฟังก์ชั่น</string>
     <string name="tab_loop">ห่วงแท็บ</string>
     <string name="tab_loop_info">สลับระหว่างแท็บแรกและแท็บสุดท้าย</string>

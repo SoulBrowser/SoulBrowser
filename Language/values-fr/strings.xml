@@ -687,7 +687,6 @@
     <string name="save_empty">Il n\'y a rien à sauvegarder.</string>
     <string name="not_changed">Aucun changement n\'a été fait.</string>
     <string name="app_restart">Vous devez redémarrer l\'application.</string>
-    <string name="reader_guide">Appuyez et maintenez pour sélectionner le texte, vous ne pouvez lire que le texte sélectionné.</string>
     <string name="active_function">Activez la fonction.</string>
     <string name="tab_loop">Boucle de tabulation</string>
     <string name="tab_loop_info">Basculer entre le premier et le dernier onglet</string>

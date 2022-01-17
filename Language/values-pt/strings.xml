@@ -687,7 +687,6 @@
     <string name="save_empty">Não há nada para salvar.</string>
     <string name="not_changed">Nenhuma alteração foi feita.</string>
     <string name="app_restart">Você precisa reiniciar o aplicativo.</string>
-    <string name="reader_guide">Pressione e segure para selecionar o texto, você pode reproduzir apenas o texto selecionado.</string>
     <string name="active_function">Ative a função.</string>
     <string name="tab_loop">Laço de tabulação</string>
     <string name="tab_loop_info">Alternar entre a primeira e a última guia</string>

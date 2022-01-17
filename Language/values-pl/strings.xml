@@ -687,7 +687,6 @@
     <string name="save_empty">Nie ma nic do uratowania.</string>
     <string name="not_changed">Nie wprowadzono żadnych zmian.</string>
     <string name="app_restart">Musisz ponownie uruchomić aplikację.</string>
-    <string name="reader_guide">Naciśnij i przytrzymaj, aby zaznaczyć tekst, możesz odtwarzać tylko wybrany tekst.</string>
     <string name="active_function">Aktywuj funkcję.</string>
     <string name="tab_loop">Pętla zakładek</string>
     <string name="tab_loop_info">Przełącz między pierwszą a ostatnią kartą</string>

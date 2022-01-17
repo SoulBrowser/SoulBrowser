@@ -687,7 +687,6 @@
     <string name="save_empty">Es gibt nichts zu speichern.</string>
     <string name="not_changed">Es wurden keine Änderungen vorgenommen.</string>
     <string name="app_restart">Sie müssen die App neu starten.</string>
-    <string name="reader_guide">Gedrückt halten, um Text auszuwählen. Sie können nur den ausgewählten Text abspielen.</string>
     <string name="active_function">Aktivieren Sie die Funktion.</string>
     <string name="tab_loop">Tab-Schleife</string>
     <string name="tab_loop_info">Wechseln Sie zwischen der ersten und der letzten Tab</string>
