@@ -69,7 +69,7 @@
     <string name="history">歷史</string>
     <string name="setting">設置</string>
     <string name="create_folder">創建文件夾</string>
-    <string name="move">旅行</string>
+    <string name="move">移動</string>
     <string name="delete">刪除</string>
     <string name="delete_file">刪除文件</string>
     <string name="delete_record">刪除記錄</string>
@@ -317,6 +317,7 @@
     <string name="allow">允許</string>
     <string name="deny">拒絕</string>
     <string name="location">所在位置</string>
+    <string name="permission">允許</string>
     <string name="site_permission">本網站要求以下許可</string>
     <string name="permission_granted">權限授予</string>
     <string name="permission_denied">沒有權限</string>
@@ -804,7 +805,7 @@
     <string name="gesture_block_info_2">僅適用於螢幕中央的手勢</string>
     <string name="gesture_block_info_3">它不適用於螢幕邊緣的手勢</string>
     <string name="enable_adblock">啟用廣告攔截器</string>
-    <string name="disable_adblock">廣告攔截器已關閉</string>
+    <string name="disable_adblock">關閉廣告攔截器</string>
     <string name="adblock_enabled">廣告攔截器已啟用</string>
     <string name="adblock_disabled">廣告攔截器已禁用</string>
     <string name="down_service">Soul下載服務</string>

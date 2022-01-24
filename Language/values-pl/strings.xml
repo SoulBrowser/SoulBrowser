@@ -317,6 +317,7 @@
     <string name="allow">Zezwól</string>
     <string name="deny">Zaprzeczać</string>
     <string name="location">Lokalizacja</string>
+    <string name="permission">Pozwolenie</string>
     <string name="site_permission">Ta strona wymaga następującego pozwolenia</string>
     <string name="permission_granted">Zezwolenie przyznane</string>
     <string name="permission_denied">Odmowa dostępu</string>

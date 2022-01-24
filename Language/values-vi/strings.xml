@@ -317,6 +317,7 @@
     <string name="allow">Cho phép</string>
     <string name="deny">Phủ nhận</string>
     <string name="location">Địa điểm</string>
+    <string name="permission">Sự cho phép</string>
     <string name="site_permission">Trang web này yêu cầu sự cho phép sau</string>
     <string name="permission_granted">Đã được cho phép</string>
     <string name="permission_denied">Quyền bị từ chối</string>

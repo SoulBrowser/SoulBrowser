@@ -317,6 +317,7 @@
     <string name="allow">قبول</string>
     <string name="deny">إنكار</string>
     <string name="location">موقعك</string>
+    <string name="permission">إذن</string>
     <string name="site_permission">يطلب هذا الموقع الأذونات التالية:</string>
     <string name="permission_granted">تم تأمين التصريح</string>
     <string name="permission_denied">طلب الاذن مرفوض</string>

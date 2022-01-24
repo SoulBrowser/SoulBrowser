@@ -317,6 +317,7 @@
     <string name="allow">Permite</string>
     <string name="deny">Negare</string>
     <string name="location">Locație</string>
+    <string name="permission">Permisiune</string>
     <string name="site_permission">Acest site solicită permisiunea următoare</string>
     <string name="permission_granted">Permis acordat</string>
     <string name="permission_denied">Permisul refuzat</string>

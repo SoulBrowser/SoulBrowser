@@ -317,6 +317,7 @@
     <string name="allow">Permitir</string>
     <string name="deny">Negar</string>
     <string name="location">Localização</string>
+    <string name="permission">Permissão</string>
     <string name="site_permission">Este site solicita a seguinte permissão</string>
     <string name="permission_granted">Permissão garantida</string>
     <string name="permission_denied">Permissão negada</string>

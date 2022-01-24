@@ -317,6 +317,7 @@
     <string name="allow">Дозволити</string>
     <string name="deny">Заборонити</string>
     <string name="location">Розташування</string>
+    <string name="permission">Дозвіл</string>
     <string name="site_permission">Цей сайт вимагає наступного дозволу</string>
     <string name="permission_granted">Дозвіл надано</string>
     <string name="permission_denied">У дозволі відмовлено</string>

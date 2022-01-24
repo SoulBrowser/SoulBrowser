@@ -317,6 +317,7 @@
     <string name="allow">許可</string>
     <string name="deny">拒否</string>
     <string name="location">位置</string>
+    <string name="permission">許可</string>
     <string name="site_permission">このサイトは次の許可を要求します</string>
     <string name="permission_granted">権限された許可</string>
     <string name="permission_denied">アクセス拒否</string>

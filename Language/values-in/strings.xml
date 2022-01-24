@@ -317,6 +317,7 @@
     <string name="allow">Mengizinkan</string>
     <string name="deny">Menyangkal</string>
     <string name="location">Lokasi</string>
+    <string name="permission">Izin</string>
     <string name="site_permission">Situs ini meminta izin berikut</string>
     <string name="permission_granted">Izin diberikan</string>
     <string name="permission_denied">Izin ditolak</string>

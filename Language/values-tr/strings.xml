@@ -317,6 +317,7 @@
     <string name="allow">İzin vermek</string>
     <string name="deny">Reddetmek</string>
     <string name="location">Konum</string>
+    <string name="permission">İzin</string>
     <string name="site_permission">Bu site aşağıdaki izni istiyor</string>
     <string name="permission_granted">İzin verildi</string>
     <string name="permission_denied">İzin reddedildi</string>

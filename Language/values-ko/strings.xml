@@ -317,6 +317,7 @@
     <string name="allow">수락</string>
     <string name="deny">거부</string>
     <string name="location">위치</string>
+    <string name="permission">권한</string>
     <string name="site_permission">이 사이트에서 다음 권한을 요청합니다.</string>
     <string name="permission_granted">권한 허락됨</string>
     <string name="permission_denied">권한 거부됨</string>

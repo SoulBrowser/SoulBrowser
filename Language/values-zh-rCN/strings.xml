@@ -317,6 +317,7 @@
     <string name="allow">允许</string>
     <string name="deny">拒绝</string>
     <string name="location">所在位置</string>
+    <string name="permission">允许</string>
     <string name="site_permission">本网站要求以下许可</string>
     <string name="permission_granted">请授予权限</string>
     <string name="permission_denied">没有权限</string>

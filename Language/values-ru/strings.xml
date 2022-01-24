@@ -317,6 +317,7 @@
     <string name="allow">Разрешить</string>
     <string name="deny">Запретить</string>
     <string name="location">Pасположение</string>
+    <string name="permission">Разрешение</string>
     <string name="site_permission">Этот сайт запрашивает следующее разрешение</string>
     <string name="permission_granted">Разрешение предоставлено</string>
     <string name="permission_denied">Доступ запрещен</string>
@@ -810,7 +811,7 @@
     <string name="down_service">Загрузчик Soul</string>
     <string name="auto_comp">Автозаполнение</string>
     <string name="check_element">Контроль элементов (точечная блокировка)</string>
-    <string name="quick_guide_1">1. Можно перемещаться нажав и удерживая значок.</string>
+    <string name="quick_guide_1">1. Можно переместить любой значок, удерживая его.</string>
     <string name="quick_guide_2">2. Можно создавать папки перекрывая значки.</string>
     <string name="column_count">Кол-во столбцов</string>
     <string name="tab_add_pos">Позиция новой вкладки</string>

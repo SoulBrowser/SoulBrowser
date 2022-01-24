@@ -317,6 +317,7 @@
     <string name="allow">อนุญาต</string>
     <string name="deny">ปฏิเสธ</string>
     <string name="location">ที่ตั้ง</string>
+    <string name="permission">การอนุญาต</string>
     <string name="site_permission">เว็บไซต์นี้ขออนุญาตดังต่อไปนี้</string>
     <string name="permission_granted">สิทธิ์ที่ได้รับอนุญาต</string>
     <string name="permission_denied">ปฏิเสธการอนุญาต</string>
