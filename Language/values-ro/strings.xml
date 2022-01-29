@@ -538,7 +538,6 @@
     <string name="font_info_1">Puteți schimba fontul paginilor web cu fișiere TTF în stocare internă sau card SD.</string>
     <string name="font_info_2">Fonturile instalate de alte aplicații s-ar putea să nu se aplice.</string>
     <string name="font_info_3">Creați un folder aleator și puneți fișierul TTF pe care doriți să-l utilizați direct.</string>
-    <string name="font_info_4">Dacă pictograma utilizată pe site nu se află în tabelul de font modificat, este afișată ca [X].</string>
     <string name="tv_cast">Turnare TV</string>
     <string name="media_route_menu_title">Joacă pe&#8230;</string>
     <string name="introducing_cast">Atingeți pentru a arunca media la televizor</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Deschideți o altă aplicație care poate lansa acel link.</string>
     <string name="openapp_guide_2">De exemplu, deschideți un link YouTube cu aplicația YouTube.</string>
     <string name="recommend">Recomanda</string>
+    <string name="sub_file">Fișier cu subtitrare</string>
+    <string name="sub_setting">Setări de subtitrare</string>
+    <string name="sub_on">Subtitrare activată</string>
+    <string name="sub_off">Subtitrare dezactivată</string>
+    <string name="sub_sync">Sincronizare subtitrare</string>
+    <string name="sub_line">Contur</string>
 </resources>

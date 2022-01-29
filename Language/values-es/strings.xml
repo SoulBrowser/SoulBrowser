@@ -538,7 +538,6 @@
     <string name="font_info_1">Puede cambiar la fuente de las páginas web con archivos TTF en almacenamiento interno o tarjeta SD.</string>
     <string name="font_info_2">Es posible que no se apliquen las fuentes instaladas por otras aplicaciones.</string>
     <string name="font_info_3">Cree una carpeta aleatoria y coloque el archivo TTF que desea usar directamente.</string>
-    <string name="font_info_4">Si el icono utilizado en el sitio no está en la tabla de fuentes modificadas, se muestra como [X].</string>
     <string name="tv_cast">Enviar a TV</string>
     <string name="media_route_menu_title">Aprovecharse de&#8230;</string>
     <string name="introducing_cast">Toca para transmitir contenido multimedia a tu TV</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Abra otra aplicación que pueda iniciar ese enlace.</string>
     <string name="openapp_guide_2">Por ejemplo, abra un enlace de YouTube con la aplicación de YouTube.</string>
     <string name="recommend">Recomendar</string>
+    <string name="sub_file">Archivo de subtítulos</string>
+    <string name="sub_setting">Configuración de subtítulos</string>
+    <string name="sub_on">Subtítulo en</string>
+    <string name="sub_off">Subtítulo desactivado</string>
+    <string name="sub_sync">Sincronización de subtítulos</string>
+    <string name="sub_line">Contorno</string>
 </resources>

@@ -538,7 +538,6 @@
     <string name="font_info_1">Dahili depolama veya SD karttaki TTF dosyalarıyla web sayfalarının yazı tipini değiştirebilirsiniz.</string>
     <string name="font_info_2">Diğer uygulamalar tarafından yüklenen yazı tipleri geçerli olmayabilir.</string>
     <string name="font_info_3">Rastgele bir klasör oluşturun ve doğrudan kullanmak istediğiniz TTF dosyasını yerleştirin.</string>
-    <string name="font_info_4">Site tarafından kullanılan simge değiştirilen yazı tipi tablosunda yoksa, [X] olarak görüntülenir.</string>
     <string name="tv_cast">TV yayını</string>
     <string name="media_route_menu_title">Oynamak&#8230;</string>
     <string name="introducing_cast">Medyayı TV\'nize yayınlamak için dokunun</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Bu bağlantıyı başlatabilecek başka bir uygulama açın.</string>
     <string name="openapp_guide_2">Örneğin, YouTube uygulamasıyla bir YouTube bağlantısı açın.</string>
     <string name="recommend">Önermek</string>
+    <string name="sub_file">Altyazı dosyası</string>
+    <string name="sub_setting">Altyazı ayarları</string>
+    <string name="sub_on">Altyazı açık</string>
+    <string name="sub_off">Altyazı kapalı</string>
+    <string name="sub_sync">Altyazı senkronizasyonu</string>
+    <string name="sub_line">Anahat</string>
 </resources>

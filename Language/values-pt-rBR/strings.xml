@@ -538,7 +538,6 @@
     <string name="font_info_1">Você pode alterar a fonte das páginas da web com arquivos TTF no armazenamento interno ou no cartão SD.</string>
     <string name="font_info_2">As fontes instaladas por outros aplicativos podem não ser aplicadas.</string>
     <string name="font_info_3">Crie uma pasta aleatória e coloque o arquivo TTF que você deseja usar diretamente.</string>
-    <string name="font_info_4">Se o ícone usado no site não estiver na tabela de fontes alteradas, ele será exibido como [X].</string>
     <string name="tv_cast">Transmissão para TV</string>
     <string name="media_route_menu_title">Reproduzir em&#8230;</string>
     <string name="introducing_cast">Toque para transmitir mídia à sua TV</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Abra outro aplicativo que possa iniciar esse link.</string>
     <string name="openapp_guide_2">Por exemplo, abra um link do YouTube com o aplicativo YouTube.</string>
     <string name="recommend">Recomendar</string>
+    <string name="sub_file">Arquivo de legenda</string>
+    <string name="sub_setting">Configurações de legendas</string>
+    <string name="sub_on">Legenda ativada</string>
+    <string name="sub_off">Legenda desativada</string>
+    <string name="sub_sync">Sincronização de legendas</string>
+    <string name="sub_line">Contorno</string>
 </resources>

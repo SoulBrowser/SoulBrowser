@@ -538,7 +538,6 @@
     <string name="font_info_1">Вы можете изменить шрифт веб страниц TTF файлами из внутренней памяти или с SD-карты.</string>
     <string name="font_info_2">Шрифты, установленные другими приложениями, могут не применяться.</string>
     <string name="font_info_3">Создайте папку и поместите в неё TTF шрифт, который Вы хотите использовать напрямую.</string>
-    <string name="font_info_4">Если значок, используемый на сайте, отсутствует в таблице изменённых шрифтов, он отображается как [X].</string>
     <string name="tv_cast">Трансляция</string>
     <string name="media_route_menu_title">Играть&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Откройте другое приложение, которое может запускать эту ссылку.</string>
     <string name="openapp_guide_2">Например, откройте ссылку YouTube в приложении YouTube.</string>
     <string name="recommend">Рекомендовать</string>
+    <string name="sub_file">Файл субтитров</string>
+    <string name="sub_setting">Настройки субтитров</string>
+    <string name="sub_on">Субтитры включены</string>
+    <string name="sub_off">Субтитры отключены</string>
+    <string name="sub_sync">Синхронизация субтитров</string>
+    <string name="sub_line">Контур</string>
 </resources>

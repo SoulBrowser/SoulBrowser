@@ -538,7 +538,6 @@
     <string name="font_info_1">Vous pouvez changer la police des pages web avec des fichiers TTF dans le stockage interne ou la carte SD.</string>
     <string name="font_info_2">Les polices installées par d\'autres applications peuvent ne pas s\'appliquer.</string>
     <string name="font_info_3">Créez un dossier aléatoire et mettez directement le fichier TTF que vous souhaitez utiliser.</string>
-    <string name="font_info_4">Si l\'icône utilisée sur le site ne se trouve pas dans la table de polices modifiée, elle s\'affiche sous la forme [X].</string>
     <string name="tv_cast">Diffusion TV</string>
     <string name="media_route_menu_title">Jouer sur&#8230;</string>
     <string name="introducing_cast">Touchez pour diffuser du contenu multimédia sur votre téléviseur</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Ouvrez une autre application qui peut lancer ce lien.</string>
     <string name="openapp_guide_2">Par exemple, ouvrez un lien YouTube avec l\'application YouTube.</string>
     <string name="recommend">Recommander</string>
+    <string name="sub_file">Fichier de sous-titres</string>
+    <string name="sub_setting">Paramètres des sous-titres</string>
+    <string name="sub_on">Sous-titre activé</string>
+    <string name="sub_off">Sous-titre désactivé</string>
+    <string name="sub_sync">Synchronisation des sous-titres</string>
+    <string name="sub_line">Présenter</string>
 </resources>

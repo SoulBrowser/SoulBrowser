@@ -538,7 +538,6 @@
     <string name="font_info_1">Możesz zmienić czcionkę stron internetowych z plikami TTF w pamięci wewnętrznej lub na karcie SD.</string>
     <string name="font_info_2">Czcionki zainstalowane przez inne aplikacje mogą nie mieć zastosowania.</string>
     <string name="font_info_3">Utwórz losowy folder i umieść bezpośrednio plik TTF, którego chcesz użyć.</string>
-    <string name="font_info_4">Jeśli ikona używana w witrynie nie znajduje się w zmienionej tabeli czcionek, jest wyświetlana jako [X].</string>
     <string name="tv_cast">Obsada telewizyjna</string>
     <string name="media_route_menu_title">Graj na&#8230;</string>
     <string name="introducing_cast">Dotknij, aby przesłać multimedia na telewizor</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Otwórz inną aplikację, która może uruchomić ten link.</string>
     <string name="openapp_guide_2">Na przykład otwórz link do YouTube w aplikacji YouTube.</string>
     <string name="recommend">Polecić</string>
+    <string name="sub_file">Plik z napisami</string>
+    <string name="sub_setting">Ustawienia napisów</string>
+    <string name="sub_on">Napisy włączone</string>
+    <string name="sub_off">Napisy wyłączone</string>
+    <string name="sub_sync">Synchronizacja napisów</string>
+    <string name="sub_line">Zarys</string>
 </resources>

@@ -538,7 +538,6 @@
     <string name="font_info_1">È possibile modificare il carattere delle pagine Web con i file TTF nella memoria interna o nella schede SD.</string>
     <string name="font_info_2">I caratteri installati da altre app potrebbero non essere applicabili.</string>
     <string name="font_info_3">Crea una cartella casuale e inserisci il file TTF che desideri utilizzare direttamente.</string>
-    <string name="font_info_4">Se l\'icona utilizzata nel sito non si trova nella tabella dei caratteri modificata, viene visualizzata come [X].</string>
     <string name="tv_cast">Cast TV</string>
     <string name="media_route_menu_title">Continua a giocare&#8230;</string>
     <string name="introducing_cast">Tocca per trasmettere contenuti multimediali alla TV</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Apri un\'altra app in grado di avviare quel collegamento.</string>
     <string name="openapp_guide_2">Ad esempio, apri un collegamento YouTube con l\'app YouTube.</string>
     <string name="recommend">Consiglia</string>
+    <string name="sub_file">File dei sottotitoli</string>
+    <string name="sub_setting">Impostazioni dei sottotitoli</string>
+    <string name="sub_on">Sottotitolo attivato</string>
+    <string name="sub_off">Sottotitoli disattivati</string>
+    <string name="sub_sync">Sincronizzazione dei sottotitoli</string>
+    <string name="sub_line">Schema</string>
 </resources>

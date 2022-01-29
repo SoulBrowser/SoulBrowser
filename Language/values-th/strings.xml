@@ -538,7 +538,6 @@
     <string name="font_info_1">คุณสามารถเปลี่ยนแบบอักษรของหน้าเว็บด้วยไฟล์ TTF ในที่เก็บข้อมูลภายในหรือการ์ด SD</string>
     <string name="font_info_2">แบบอักษรที่ติดตั้งโดยแอพอื่นอาจใช้ไม่ได้</string>
     <string name="font_info_3">สร้างโฟลเดอร์สุ่มและวางไฟล์ TTF ที่คุณต้องการใช้โดยตรง</string>
-    <string name="font_info_4">หากไอคอนที่ใช้บนไซต์ไม่ได้อยู่ในตารางฟอนต์ที่เปลี่ยนแปลงมันจะแสดงเป็น [X]</string>
     <string name="tv_cast">รายการทีวี</string>
     <string name="media_route_menu_title">เล่นบน&#8230;</string>
     <string name="introducing_cast">แตะเพื่อส่งสื่อไปยังทีวีของคุณ</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">เปิดแอปอื่นที่สามารถเปิดลิงก์นั้นได้</string>
     <string name="openapp_guide_2">ตัวอย่างเช่น เปิดลิงก์ YouTube ด้วยแอป YouTube</string>
     <string name="recommend">แนะนำ</string>
+    <string name="sub_file">ไฟล์คำบรรยาย</string>
+    <string name="sub_setting">การตั้งค่าคำบรรยาย</string>
+    <string name="sub_on">คำบรรยายบน</string>
+    <string name="sub_off">ปิดคำบรรยาย</string>
+    <string name="sub_sync">การซิงค์คำบรรยาย</string>
+    <string name="sub_line">เค้าร่าง</string>
 </resources>

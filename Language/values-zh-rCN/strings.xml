@@ -538,7 +538,6 @@
     <string name="font_info_1">你可以使用内部存储器或闪存卡中的 TTF 字体文件更改网页的字体</string>
     <string name="font_info_2">其它应用安装的字体可能不适用</string>
     <string name="font_info_3">创建一个文件夹，然后直接放置要使用的 TTF 字体文件</string>
-    <string name="font_info_4">如果站点上使用的图标不在更改的字体表中，则显示为[X]</string>
     <string name="tv_cast">电视投屏</string>
     <string name="media_route_menu_title">继续播放&#8230;</string>
     <string name="introducing_cast">轻触即可将媒体投放到电视上</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">打开另一个可以启动该链接的应用程序</string>
     <string name="openapp_guide_2">例如，使用 YouTube 应用打开 YouTube 链接</string>
     <string name="recommend">推荐</string>
+    <string name="sub_file">字幕文件</string>
+    <string name="sub_setting">字幕设置</string>
+    <string name="sub_on">字幕开启</string>
+    <string name="sub_off">字幕关闭</string>
+    <string name="sub_sync">字幕同步</string>
+    <string name="sub_line">大纲</string>
 </resources>

@@ -538,7 +538,6 @@
     <string name="font_info_1">内部ストレージまたはSDカードのTTFファイルとしてWebページのフォントを変更することができます。</string>
     <string name="font_info_2">他のアプリからのインストールされたフォントは適用されないことがあります。</string>
     <string name="font_info_3">任意のフォルダを作成し、使用するTTFファイルを直接挿入します。</string>
-    <string name="font_info_4">サイトで使用されるアイコンが変更されたフォントテーブルにない場合は、[X]と表示されます。</string>
     <string name="tv_cast">TVキャスト</string>
     <string name="media_route_menu_title">でプレイ&#8230;</string>
     <string name="introducing_cast">タップしてメディアをテレビにキャストします</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">そのリンクを実行できる他のアプリを開きます。</string>
     <string name="openapp_guide_2">たとえば、YouTube アプリで YouTube リンクを開きます。</string>
     <string name="recommend">推奨</string>
+    <string name="sub_file">字幕ファイル</string>
+    <string name="sub_setting">字幕設定</string>
+    <string name="sub_on">字幕</string>
+    <string name="sub_off">字幕オフ</string>
+    <string name="sub_sync">字幕同期</string>
+    <string name="sub_line">アウトライン</string>
 </resources>

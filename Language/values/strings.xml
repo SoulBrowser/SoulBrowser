@@ -538,7 +538,6 @@
     <string name="font_info_1">You can change the font of web pages with TTF files in internal storage or SD card.</string>
     <string name="font_info_2">Fonts installed by other apps may not apply.</string>
     <string name="font_info_3">Create a random folder and put the TTF file you want to use directly.</string>
-    <string name="font_info_4">If the icon used on the site is not in the changed font table, it is displayed as [X].</string>
     <string name="tv_cast">TV cast</string>
     <string name="media_route_menu_title">Play on&#8230;</string>
     <string name="introducing_cast">Touch to cast media to your TV</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Open another app that can launch that link.</string>
     <string name="openapp_guide_2">For example, open a YouTube link with the YouTube app.</string>
     <string name="recommend">Recommend</string>
+    <string name="sub_file">Subtitle file</string>
+    <string name="sub_setting">Subtitle settings</string>
+    <string name="sub_on">Subtitle on</string>
+    <string name="sub_off">Subtitle off</string>
+    <string name="sub_sync">Subtitle sync</string>
+    <string name="sub_line">Outline</string>
 </resources>

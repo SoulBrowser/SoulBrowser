@@ -538,7 +538,6 @@
     <string name="font_info_1">Sie können die Schriftart von Webseiten mit TTF-Dateien im internen Speicher oder auf der SD-Karte ändern.</string>
     <string name="font_info_2">Von anderen Apps installierte Schriftarten funktionieren möglicherweise nicht.</string>
     <string name="font_info_3">Erstellen Sie einen zufälligen Ordner und legen Sie die TTF-Datei, die Sie verwenden möchten, direkt ab.</string>
-    <string name="font_info_4">Wenn sich das auf der Site verwendete Symbol nicht in der geänderten Schriftartentabelle befindet, wird es als [X] angezeigt.</string>
     <string name="tv_cast">TV-Anzeige</string>
     <string name="media_route_menu_title">Weiterspielen&#8230;</string>
     <string name="introducing_cast">Berühren, um Medien auf ihr Fernsehgerät zu übertragen</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Öffnen Sie eine andere App, die diesen Link starten kann.</string>
     <string name="openapp_guide_2">Öffnen Sie beispielsweise einen YouTube-Link mit der YouTube-App.</string>
     <string name="recommend">Empfehlen</string>
+    <string name="sub_file">Untertiteldatei</string>
+    <string name="sub_setting">Untertiteleinstellungen</string>
+    <string name="sub_on">Untertitel an</string>
+    <string name="sub_off">Untertitel aus</string>
+    <string name="sub_sync">Untertitel synchronisieren</string>
+    <string name="sub_line">Gliederung</string>
 </resources>

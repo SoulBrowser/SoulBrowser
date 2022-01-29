@@ -538,7 +538,6 @@
     <string name="font_info_1">يمكنك تغيير خط صفحة الويب باستخدام ملف TTF في وحدة التخزين الداخلية أو بطاقة SD.</string>
     <string name="font_info_2">قد لا يتم تطبيق الخطوط المثبتة بواسطة تطبيقات أخرى.</string>
     <string name="font_info_3">قم بإنشاء مجلد عشوائي ووضع ملف TTF الذي تريد استخدامه مباشرة.</string>
-    <string name="font_info_4">إذا لم تكن الأيقونة المستخدمة في الموقع موجودة في جدول الخطوط التي تم تغييرها ، فسيتم عرضها على شكل [X].</string>
     <string name="tv_cast">طاقم تلفزيوني</string>
     <string name="media_route_menu_title">لعب</string>
     <string name="introducing_cast">انقر لنقل الوسائط إلى التلفزيون.</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">افتح تطبيقًا آخر يمكنه تشغيل هذا الرابط.</string>
     <string name="openapp_guide_2">على سبيل المثال ، افتح رابط YouTube باستخدام تطبيق YouTube.</string>
     <string name="recommend">نوصي</string>
+    <string name="sub_file">ملف الترجمة</string>
+    <string name="sub_setting">إعدادات الترجمة</string>
+    <string name="sub_on">تشغيل الترجمة</string>
+    <string name="sub_off">الترجمة متوقفة</string>
+    <string name="sub_sync">مزامنة الترجمة</string>
+    <string name="sub_line">الخطوط العريضة</string>
 </resources>

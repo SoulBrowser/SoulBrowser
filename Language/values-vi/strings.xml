@@ -538,7 +538,6 @@
     <string name="font_info_1">Bạn có thể thay đổi phông chữ của các trang web với các tệp TTF trong bộ nhớ trong hoặc thẻ SD.</string>
     <string name="font_info_2">Phông chữ được cài đặt bởi các ứng dụng khác có thể không áp dụng.</string>
     <string name="font_info_3">Tạo một thư mục ngẫu nhiên và đặt tệp TTF bạn muốn sử dụng trực tiếp.</string>
-    <string name="font_info_4">Nếu biểu tượng được sử dụng trên trang web không nằm trong bảng phông chữ đã thay đổi, nó sẽ được hiển thị là [X].</string>
     <string name="tv_cast">Diễn viên truyền hình</string>
     <string name="media_route_menu_title">Chơi trên&#8230;</string>
     <string name="introducing_cast">Chạm để truyền phương tiện tới TV của bạn</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Mở một ứng dụng khác có thể khởi chạy liên kết đó.</string>
     <string name="openapp_guide_2">Ví dụ: mở liên kết YouTube với ứng dụng YouTube.</string>
     <string name="recommend">Giới thiệu</string>
+    <string name="sub_file">Tệp phụ đề</string>
+    <string name="sub_setting">Cài đặt phụ đề</string>
+    <string name="sub_on">Phụ đề đang bật</string>
+    <string name="sub_off">Phụ đề tắt</string>
+    <string name="sub_sync">Đồng bộ phụ đề</string>
+    <string name="sub_line">Đề cương</string>
 </resources>

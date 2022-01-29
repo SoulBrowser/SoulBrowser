@@ -538,7 +538,6 @@
     <string name="font_info_1">Anda dapat mengubah font halaman web dengan file TTF di penyimpanan internal atau kartu SD.</string>
     <string name="font_info_2">Font yang dipasang oleh aplikasi lain mungkin tidak berlaku.</string>
     <string name="font_info_3">Buat folder acak dan letakkan file TTF yang ingin Anda gunakan secara langsung.</string>
-    <string name="font_info_4">Jika ikon yang digunakan di situs tidak dalam tabel font yang diubah, itu ditampilkan sebagai [X].</string>
     <string name="tv_cast">Transmisi TV</string>
     <string name="media_route_menu_title">Mainkan&#8230;</string>
     <string name="introducing_cast">Sentuh untuk memasukkan media ke TV Anda</string>
@@ -880,4 +879,10 @@
     <string name="openapp_guide_1">Buka aplikasi lain yang dapat meluncurkan tautan itu.</string>
     <string name="openapp_guide_2">Misalnya, buka tautan YouTube dengan aplikasi YouTube.</string>
     <string name="recommend">Menyarankan</string>
+    <string name="sub_file">Berkas subtitel</string>
+    <string name="sub_setting">Pengaturan subtitle</string>
+    <string name="sub_on">Subtitle aktif</string>
+    <string name="sub_off">Subtitel mati</string>
+    <string name="sub_sync">Sinkronisasi subtitle</string>
+    <string name="sub_line">Garis besar</string>
 </resources>
