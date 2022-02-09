@@ -42,7 +42,6 @@
     <string name="reserved">예약됨</string>
     <string name="registered">대기열에 등록됨</string>
     <string name="down_expire_1">다운로드 수가 제한을 초과하면, 대기열에 등록됩니다.</string>
-    <string name="down_expire_2">대기 시간이 길어지면, 주소가 만료되어 다운로드가 실패할 수 있습니다.</string>
     <string name="down_complete">다운로드 완료</string>
     <string name="down_fail">다운로드 실패</string>
     <string name="live_fail">라이브 영상은 다운로드가 안 될 수 있습니다.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">한도를 초과하면 첫 번째 항목이 자동으로 삭제됩니다.</string>
     <string name="down_manager">다운로드 매니저</string>
     <string name="down_manager_info1">선호하는 다운로더 앱을 다운로드 매니저로 사용하실 수 있습니다.</string>
-    <string name="down_manager_info2">대용량 파일을 다운로드 할 때 브라우저가 느려질 수 있습니다.</string>
     <string name="down_manager_info3">브라우저와 다운로드를 분리하여 웹 서핑을 더 빠르게 할 수 있습니다.</string>
     <string name="other_app">다른 앱</string>
     <string name="web_title">웹</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">자막 끄기</string>
     <string name="sub_sync">자막 싱크</string>
     <string name="sub_line">외곽선</string>
+    <string name="sub_guide">자막을 드래그하여 위치를 변경할 수 있습니다.</string>
 </resources>

@@ -42,7 +42,6 @@
     <string name="reserved">Zarezerwowany</string>
     <string name="registered">Zarejestrowany w kolejce</string>
     <string name="down_expire_1">Jeśli liczba pobrań przekroczy limit, zostanie umieszczony w kolejce.</string>
-    <string name="down_expire_2">Jeśli czas oczekiwania jest długi, adres może wygasnąć, a pobieranie może się nie powieść.</string>
     <string name="down_complete">Pobieranie zakończone</string>
     <string name="down_fail">Pobieranie nie powiodło się</string>
     <string name="live_fail">Wideo na żywo może nie zostać pobrane.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">Po przekroczeniu limitu pierwsza pozycja jest automatycznie usuwana.</string>
     <string name="down_manager">Menadżer pobierania</string>
     <string name="down_manager_info1">Możesz używać swojej ulubionej aplikacji do pobierania jako menedżera pobierania.</string>
-    <string name="down_manager_info2">Twoja przeglądarka może działać wolno podczas pobierania dużych plików.</string>
     <string name="down_manager_info3">Możesz szybciej surfować po Internecie, oddzielając przeglądarkę od pobierania.</string>
     <string name="other_app">Inne aplikacje</string>
     <string name="web_title">Sieć</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Napisy wyłączone</string>
     <string name="sub_sync">Synchronizacja napisów</string>
     <string name="sub_line">Zarys</string>
+    <string name="sub_guide">Możesz zmienić pozycję, przeciągając napisy.</string>
 </resources>

@@ -42,7 +42,6 @@
     <string name="reserved">Reservado</string>
     <string name="registered">Registrado en la cola</string>
     <string name="down_expire_1">Si el número de descargas excede el límite, se pondrá en cola.</string>
-    <string name="down_expire_2">Si el tiempo de espera es largo, la dirección puede caducar y la descarga puede fallar.</string>
     <string name="down_complete">Descarga completa</string>
     <string name="down_fail">Descarga fallida</string>
     <string name="live_fail">El video en vivo no se puede descargar.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">Cuando se excede el límite, el primer elemento se elimina automáticamente.</string>
     <string name="down_manager">Gestor de descargas</string>
     <string name="down_manager_info1">Puede usar su aplicación de descarga favorita como administrador de descargas.</string>
-    <string name="down_manager_info2">Su navegador puede ser lento al descargar archivos grandes.</string>
     <string name="down_manager_info3">Puede navegar por la web más rápido separando su navegador y las descargas.</string>
     <string name="other_app">Otras aplicaciones</string>
     <string name="web_title">Web</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Subtítulo desactivado</string>
     <string name="sub_sync">Sincronización de subtítulos</string>
     <string name="sub_line">Contorno</string>
+    <string name="sub_guide">Puedes cambiar la posición arrastrando los subtítulos.</string>
 </resources>

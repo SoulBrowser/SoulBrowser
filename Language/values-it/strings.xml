@@ -42,7 +42,6 @@
     <string name="reserved">Riservato</string>
     <string name="registered">Registrato nella coda</string>
     <string name="down_expire_1">Se il numero di download supera il limite, verrà messo in coda.</string>
-    <string name="down_expire_2">Se il tempo di attesa è lungo, l\'indirizzo potrebbe scadere e il download potrebbe non riuscire.</string>
     <string name="down_complete">Download completato</string>
     <string name="down_fail">Download fallito</string>
     <string name="live_fail">Il video live non può essere scaricato.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">Quando il limite viene superato, il primo elemento viene automaticamente eliminato.</string>
     <string name="down_manager">Download manager</string>
     <string name="down_manager_info1">Puoi utilizzare la tua app di download preferita come gestore di download.</string>
-    <string name="down_manager_info2">Il tuo browser potrebbe essere lento durante il download di file di grandi dimensioni.</string>
     <string name="down_manager_info3">Puoi navigare sul Web più velocemente separando il browser e i download.</string>
     <string name="other_app">Altre app</string>
     <string name="web_title">Ragnatela</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Sottotitoli disattivati</string>
     <string name="sub_sync">Sincronizzazione dei sottotitoli</string>
     <string name="sub_line">Schema</string>
+    <string name="sub_guide">Puoi cambiare la posizione trascinando i sottotitoli.</string>
 </resources>

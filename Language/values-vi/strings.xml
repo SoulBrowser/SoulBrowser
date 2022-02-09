@@ -42,7 +42,6 @@
     <string name="reserved">Dành riêng</string>
     <string name="registered">Đăng ký vào hàng đợi</string>
     <string name="down_expire_1">Nếu số lượng tải xuống vượt quá giới hạn, nó sẽ được xếp hàng.</string>
-    <string name="down_expire_2">Nếu thời gian chờ đợi lâu, địa chỉ có thể hết hạn và quá trình tải xuống có thể thất bại.</string>
     <string name="down_complete">Tải xuống hoàn tất</string>
     <string name="down_fail">Tải xuống thất bại</string>
     <string name="live_fail">Video trực tiếp có thể không được tải xuống.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">Khi vượt quá giới hạn, mục đầu tiên sẽ tự động bị xóa.</string>
     <string name="down_manager">Quản lý download</string>
     <string name="down_manager_info1">Bạn có thể sử dụng ứng dụng trình tải xuống yêu thích của mình làm trình quản lý tải xuống.</string>
-    <string name="down_manager_info2">Trình duyệt của bạn có thể chậm khi tải xuống các tệp lớn.</string>
     <string name="down_manager_info3">Bạn có thể lướt web nhanh hơn bằng cách tách trình duyệt và tải xuống.</string>
     <string name="other_app">Những ứng dụng khác</string>
     <string name="web_title">Web</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Phụ đề tắt</string>
     <string name="sub_sync">Đồng bộ phụ đề</string>
     <string name="sub_line">Đề cương</string>
+    <string name="sub_guide">Bạn có thể thay đổi vị trí bằng cách kéo phụ đề.</string>
 </resources>

@@ -42,7 +42,6 @@
     <string name="reserved">Reserved</string>
     <string name="registered">Registered to the queue</string>
     <string name="down_expire_1">If the number of downloads exceeds the limit, it will be queued.</string>
-    <string name="down_expire_2">If the wait time is long, the address may expire and the download may fail.</string>
     <string name="down_complete">Download complete</string>
     <string name="down_fail">Download failed</string>
     <string name="live_fail">Live video may not be downloaded.</string>
@@ -582,7 +581,7 @@
     <string name="trans_report">Report translation errors</string>
     <string name="trans_report_info">Please help translate. ❤</string>
     <string name="trans_report_guide">[Incorrect translation] &#62; [Correct translation]</string>
-    <string name="tts_mode">Text To Speech</string>
+    <string name="tts_mode">Text to Speech</string>
     <string name="tts_on">Enable TTS</string>
     <string name="enable_tts">Enable TTS</string>
     <string name="disable_tts">Disable TTS</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">When the limit is exceeded, the first item is automatically deleted.</string>
     <string name="down_manager">Download manager</string>
     <string name="down_manager_info1">You can use your favorite downloader app as a download manager.</string>
-    <string name="down_manager_info2">Your browser may be slow when downloading large files.</string>
     <string name="down_manager_info3">You can surf the web faster by separating your browser and downloads.</string>
     <string name="other_app">Other apps</string>
     <string name="web_title">Web</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Subtitle off</string>
     <string name="sub_sync">Subtitle sync</string>
     <string name="sub_line">Outline</string>
+    <string name="sub_guide">You can change the position by dragging the subtitles.</string>
 </resources>

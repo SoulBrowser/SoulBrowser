@@ -42,7 +42,6 @@
     <string name="reserved">ลิขสิทธิ์</string>
     <string name="registered">ลงทะเบียนกับคิว</string>
     <string name="down_expire_1">หากจำนวนการดาวน์โหลดเกินขีด จำกัด จะมีการจัดคิวไว้</string>
-    <string name="down_expire_2">หากเวลารอนานที่อยู่อาจหมดอายุและการดาวน์โหลดอาจล้มเหลว</string>
     <string name="down_complete">ดาวน์โหลดเสร็จสมบูรณ์</string>
     <string name="down_fail">การดาวน์โหลดล้มเหลว</string>
     <string name="live_fail">ไม่สามารถดาวน์โหลดวิดีโอสด</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">เมื่อเกินขีด จำกัด รายการแรกจะถูกลบโดยอัตโนมัติ</string>
     <string name="down_manager">ตัวจัดการการดาวน์โหลด</string>
     <string name="down_manager_info1">คุณสามารถใช้แอพดาวน์โหลดที่คุณชื่นชอบเป็นตัวจัดการการดาวน์โหลด</string>
-    <string name="down_manager_info2">เบราว์เซอร์ของคุณอาจทำงานช้าเมื่อดาวน์โหลดไฟล์ขนาดใหญ่</string>
     <string name="down_manager_info3">คุณสามารถท่องเว็บได้เร็วขึ้นโดยแยกเบราว์เซอร์และการดาวน์โหลด</string>
     <string name="other_app">แอพอื่น ๆ</string>
     <string name="web_title">เว็บ</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">ปิดคำบรรยาย</string>
     <string name="sub_sync">การซิงค์คำบรรยาย</string>
     <string name="sub_line">เค้าร่าง</string>
+    <string name="sub_guide">คุณสามารถเปลี่ยนตำแหน่งได้โดยการลากคำบรรยาย</string>
 </resources>

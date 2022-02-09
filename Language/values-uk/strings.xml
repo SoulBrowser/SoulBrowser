@@ -42,7 +42,6 @@
     <string name="reserved">Зарезервований</string>
     <string name="registered">Додано в чергу</string>
     <string name="down_expire_1">Якщо кількість завантажень перевищує ліміт, воно буде в черзі.</string>
-    <string name="down_expire_2">Якщо час очікування довгий, адреса може закінчитися, а завантаження може не вдатися.</string>
     <string name="down_complete">Завантаження завершено</string>
     <string name="down_fail">Не вдалося завантажити</string>
     <string name="live_fail">Вiдео Наживо може не завантажуватися.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">Коли ліміт перевищений, перший елемент автоматично видаляється.</string>
     <string name="down_manager">Менеджер завантажень</string>
     <string name="down_manager_info1">Ви можете використовувати свій улюблений додаток у якості менеджера завантажень.</string>
-    <string name="down_manager_info2">Ваш браузер може працювати повільно під час завантаження великих файлів.</string>
     <string name="down_manager_info3">Ви можете швидше переглядати веб-сторінки, відокремлюючи браузер та завантаження.</string>
     <string name="other_app">Інші програми</string>
     <string name="web_title">Інтернет</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Субтитри вимкнено</string>
     <string name="sub_sync">Синхронізація субтитрів</string>
     <string name="sub_line">Контур</string>
+    <string name="sub_guide">Ви можете змінити положення, перетягнувши субтитри.</string>
 </resources>

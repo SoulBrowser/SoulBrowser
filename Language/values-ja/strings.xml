@@ -42,7 +42,6 @@
     <string name="reserved">予約済み</string>
     <string name="registered">キューに登録さ</string>
     <string name="down_expire_1">ダウンロード数が制限を超えた場合、キューに登録されます。</string>
-    <string name="down_expire_2">待機時間が長ければ、アドレスが期限切れダウンロードが失敗することがあります。</string>
     <string name="down_complete">ダウンロード完了</string>
     <string name="down_fail">ダウンロード失敗</string>
     <string name="live_fail">生放送中の映像は、ダウンロードにならないことがあります。</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">制限を超えると、最初の項目が自動的に削除されます。</string>
     <string name="down_manager">ダウンロードマネージャー</string>
     <string name="down_manager_info1">好ましいダウンローダアプリをダウンロードマネージャとして使用することができます。</string>
-    <string name="down_manager_info2">大容量のファイルをダウンロードすると、ブラウザが遅くなることがあります。</string>
     <string name="down_manager_info3">ブラウザとダウンロードを分離して、Webサーフィンをより速くすることができます。</string>
     <string name="other_app">他のアプリ</string>
     <string name="web_title">ウェブ</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">字幕オフ</string>
     <string name="sub_sync">字幕同期</string>
     <string name="sub_line">アウトライン</string>
+    <string name="sub_guide">字幕をドラッグして位置を変更できます。</string>
 </resources>

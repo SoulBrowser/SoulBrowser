@@ -42,7 +42,6 @@
     <string name="reserved">Réservé</string>
     <string name="registered">Enregistré dans la file d\'attente</string>
     <string name="down_expire_1">Si le nombre de téléchargements dépasse la limite, il sera mis en file d\'attente.</string>
-    <string name="down_expire_2">Si le temps d\'attente est long, l\'adresse peut expirer et le téléchargement peut échouer.</string>
     <string name="down_complete">Téléchargement terminé</string>
     <string name="down_fail">Téléchargement échoué</string>
     <string name="live_fail">La vidéo en direct ne peut pas être téléchargée.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">Lorsque la limite est dépassée, le premier élément est automatiquement supprimé.</string>
     <string name="down_manager">Gestionnaire de téléchargement</string>
     <string name="down_manager_info1">Vous pouvez utiliser votre application de téléchargement préférée comme gestionnaire de téléchargement.</string>
-    <string name="down_manager_info2">Votre navigateur peut être lent lors du téléchargement de fichiers volumineux.</string>
     <string name="down_manager_info3">Vous pouvez surfer plus rapidement sur le Web en séparant votre navigateur et vos téléchargements.</string>
     <string name="other_app">Autres applications</string>
     <string name="web_title">Internet</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Sous-titre désactivé</string>
     <string name="sub_sync">Synchronisation des sous-titres</string>
     <string name="sub_line">Présenter</string>
+    <string name="sub_guide">Vous pouvez modifier la position en faisant glisser les sous-titres.</string>
 </resources>

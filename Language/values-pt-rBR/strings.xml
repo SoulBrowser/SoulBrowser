@@ -42,7 +42,6 @@
     <string name="reserved">Reservado</string>
     <string name="registered">Adicionado à fila</string>
     <string name="down_expire_1">Se o número de downloads exceder o limite, o excedente será colocado na fila.</string>
-    <string name="down_expire_2">Se o tempo de espera for longo, o endereço poderá expirar e o download poderá falhar.</string>
     <string name="down_complete">Download completo</string>
     <string name="down_fail">O download falhou</string>
     <string name="live_fail">O vídeo ao vivo pôde não ser baixado.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">Quando o limite é excedido, o primeiro item é excluído automaticamente.</string>
     <string name="down_manager">Gerenciador de downloads</string>
     <string name="down_manager_info1">Você pode usar seu aplicativo de download favorito como gerenciador de download.</string>
-    <string name="down_manager_info2">Seu navegador pode ficar lento ao fazer download de arquivos grandes.</string>
     <string name="down_manager_info3">Você pode navegar na web mais rápido separando o navegador e os downloads.</string>
     <string name="other_app">Outros aplicativos</string>
     <string name="web_title">Rede</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Legenda desativada</string>
     <string name="sub_sync">Sincronização de legendas</string>
     <string name="sub_line">Contorno</string>
+    <string name="sub_guide">Você pode alterar a posição arrastando as legendas.</string>
 </resources>

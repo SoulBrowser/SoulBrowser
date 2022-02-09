@@ -42,7 +42,6 @@
     <string name="reserved">Rezerve</string>
     <string name="registered">Sıraya kayıtlı</string>
     <string name="down_expire_1">İndirme sayısı limiti aşarsa, sıraya alınır.</string>
-    <string name="down_expire_2">Bekleme süresi uzunsa, adres sona erebilir ve indirme işlemi başarısız olabilir.</string>
     <string name="down_complete">İndirme tamamlandı</string>
     <string name="down_fail">İndirme başarısız oldu</string>
     <string name="live_fail">Canlı video indirilemez.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">Limit aşıldığında, ilk öğe otomatik olarak silinir.</string>
     <string name="down_manager">İndirme yöneticisi</string>
     <string name="down_manager_info1">En sevdiğiniz indirme uygulamasını bir indirme yöneticisi olarak kullanabilirsiniz.</string>
-    <string name="down_manager_info2">Büyük dosyaları indirirken tarayıcınız yavaş olabilir.</string>
     <string name="down_manager_info3">Tarayıcınızı ve indirilenleri ayırarak web\'de daha hızlı gezinebilirsiniz.</string>
     <string name="other_app">Diğer uygulamalar</string>
     <string name="web_title">Ağ</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Altyazı kapalı</string>
     <string name="sub_sync">Altyazı senkronizasyonu</string>
     <string name="sub_line">Anahat</string>
+    <string name="sub_guide">Altyazıları sürükleyerek konumu değiştirebilirsiniz.</string>
 </resources>

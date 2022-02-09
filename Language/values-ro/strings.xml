@@ -42,7 +42,6 @@
     <string name="reserved">Rezervat</string>
     <string name="registered">Înregistrat la coadă</string>
     <string name="down_expire_1">Dacă numărul de descărcări depășește limita, acesta va fi pus în coadă.</string>
-    <string name="down_expire_2">Dacă timpul de așteptare este lung, adresa poate să expire și descărcarea poate eșua.</string>
     <string name="down_complete">Descărcare completă</string>
     <string name="down_fail">Descărcare eșuată</string>
     <string name="live_fail">Videoclipul live nu poate fi descărcat.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">Când limita este depășită, primul element este șters automat.</string>
     <string name="down_manager">Administrator de descărcări</string>
     <string name="down_manager_info1">Puteți utiliza aplicația dvs. preferată de descărcare ca manager de descărcare.</string>
-    <string name="down_manager_info2">Browserul dvs. poate fi lent atunci când descărcați fișiere mari.</string>
     <string name="down_manager_info3">Puteți naviga pe web mai repede separând browserul și descărcările.</string>
     <string name="other_app">Alte aplicatii</string>
     <string name="web_title">Web</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Subtitrare dezactivată</string>
     <string name="sub_sync">Sincronizare subtitrare</string>
     <string name="sub_line">Contur</string>
+    <string name="sub_guide">Poți schimba poziția trăgând subtitrările.</string>
 </resources>

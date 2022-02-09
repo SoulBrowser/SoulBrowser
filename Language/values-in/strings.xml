@@ -42,7 +42,6 @@
     <string name="reserved">Dicadangkan</string>
     <string name="registered">Terdaftar ke antrian</string>
     <string name="down_expire_1">Jika jumlah unduhan melebihi batas, itu akan diantrekan.</string>
-    <string name="down_expire_2">Jika waktu tunggu lama, alamat mungkin kedaluwarsa dan unduhan mungkin gagal.</string>
     <string name="down_complete">Unduh selesai</string>
     <string name="down_fail">Unduhan gagal</string>
     <string name="live_fail">Video langsung mungkin tidak dapat diunduh.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">Ketika batas terlampaui, item pertama secara otomatis dihapus.</string>
     <string name="down_manager">Manajer unduhan</string>
     <string name="down_manager_info1">Anda dapat menggunakan aplikasi pengunduh favorit Anda sebagai pengelola unduhan.</string>
-    <string name="down_manager_info2">Browser Anda mungkin lambat saat mendownload file besar.</string>
     <string name="down_manager_info3">Anda dapat menjelajahi web lebih cepat dengan memisahkan browser dan unduhan Anda.</string>
     <string name="other_app">Aplikasi lain</string>
     <string name="web_title">Web</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">Subtitel mati</string>
     <string name="sub_sync">Sinkronisasi subtitle</string>
     <string name="sub_line">Garis besar</string>
+    <string name="sub_guide">Anda dapat mengubah posisi dengan menyeret subtitle.</string>
 </resources>

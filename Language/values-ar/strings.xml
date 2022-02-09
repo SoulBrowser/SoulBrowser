@@ -42,7 +42,6 @@
     <string name="reserved">محجوز</string>
     <string name="registered">مسجل في قائمة الانتظار</string>
     <string name="down_expire_1">عندما يتجاوز عدد التنزيلات الحد ، يتم وضعه في قائمة الانتظار.</string>
-    <string name="down_expire_2">إذا زاد وقت الانتظار ، فقد تنتهي صلاحية العنوان وقد يفشل التنزيل.</string>
     <string name="down_complete">تم التحميل</string>
     <string name="down_fail">التحميل فشل</string>
     <string name="live_fail">قد لا يتم تنزيل الفيديو المباشر.</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">عند تجاوز الحد ، يتم حذف العنصر الأول تلقائيًا.</string>
     <string name="down_manager">مدير التحميل</string>
     <string name="down_manager_info1">يمكنك استخدام تطبيق التنزيل المفضل لديك كمدير تنزيل.</string>
-    <string name="down_manager_info2">يمكن أن يكون متصفحك بطيئًا عند تنزيل ملفات كبيرة.</string>
     <string name="down_manager_info3">يمكنك تصفح الويب بشكل أسرع من خلال فصل المتصفح عن التنزيلات.</string>
     <string name="other_app">تطبيقات أخرى</string>
     <string name="web_title">الويب</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">الترجمة متوقفة</string>
     <string name="sub_sync">مزامنة الترجمة</string>
     <string name="sub_line">الخطوط العريضة</string>
+    <string name="sub_guide">يمكنك تغيير الموضع عن طريق سحب الترجمة.</string>
 </resources>

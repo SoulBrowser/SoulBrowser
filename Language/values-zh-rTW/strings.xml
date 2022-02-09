@@ -42,7 +42,6 @@
     <string name="reserved">已預留</string>
     <string name="registered">註冊到隊列</string>
     <string name="down_expire_1">如果下載數量超過限制，則將排隊</string>
-    <string name="down_expire_2">如果等待時間長，網址可能會過期，下載可能會失敗</string>
     <string name="down_complete">下載完成</string>
     <string name="down_fail">下載失敗</string>
     <string name="live_fail">實時影片可能無法下載</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">當超過限制時，第一項將被自動刪除</string>
     <string name="down_manager">下載管理器</string>
     <string name="down_manager_info1">您可以將自己喜歡的下載器應用程序用作下載管理器</string>
-    <string name="down_manager_info2">下載大文件時，瀏覽器可能會變慢</string>
     <string name="down_manager_info3">通過分離瀏覽器和下載，您可以更快地上網</string>
     <string name="other_app">其他應用</string>
     <string name="web_title">網頁</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">字幕關閉</string>
     <string name="sub_sync">字幕同步</string>
     <string name="sub_line">大綱</string>
+    <string name="sub_guide">您可以通過拖動字幕來更改位置</string>
 </resources>

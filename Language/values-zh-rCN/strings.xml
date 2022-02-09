@@ -42,7 +42,6 @@
     <string name="reserved">已预留</string>
     <string name="registered">添加到队列</string>
     <string name="down_expire_1">如果下载数量超过限制，则将排队</string>
-    <string name="down_expire_2">如果等待时间长，链接可能会过期，下载可能会失败</string>
     <string name="down_complete">下载完成</string>
     <string name="down_fail">下载失败</string>
     <string name="live_fail">直播可能无法下载</string>
@@ -773,7 +772,6 @@
     <string name="open_limit_info">当超过限制时，第一项将被自动删除</string>
     <string name="down_manager">下载管理器</string>
     <string name="down_manager_info1">您可以将自己喜欢的下载器应用程序用作下载管理器</string>
-    <string name="down_manager_info2">下载大文件可能会拖慢浏览器速度</string>
     <string name="down_manager_info3">将下载任务托管给下载器能获得更快的速度</string>
     <string name="other_app">其他应用</string>
     <string name="web_title">网页</string>
@@ -885,4 +883,5 @@
     <string name="sub_off">字幕关闭</string>
     <string name="sub_sync">字幕同步</string>
     <string name="sub_line">大纲</string>
+    <string name="sub_guide">您可以通过拖动字幕来更改位置</string>
 </resources>
