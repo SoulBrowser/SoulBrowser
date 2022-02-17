@@ -84,8 +84,6 @@
     <string name="edit">Bearbeiten</string>
     <string name="share">Teilen</string>
     <string name="details">Details</string>
-    <string name="down_skip_pixel">1-Pixel-Bild</string>
-    <string name="image_split">Bild teilen</string>
     <string name="move_to">Ziehen nach</string>
     <string name="skip">Überspringen</string>
     <string name="overwrite">Überschreiben</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">Als Startseite festlegen</string>
     <string name="setted">Wurde festgelegt.</string>
     <string name="video_url">Video-URL</string>
-    <string name="address_guide_1">Halten Sie das abgespielte Video gedrückt, um die Adresse zu kopieren.</string>
+    <string name="address_guide_1">Klicken Sie auf das Teilen-Symbol des Videos, um den Link zu kopieren.</string>
     <string name="address_guide_2">Geben Sie die kopierte Adresse ein.</string>
     <string name="no_down_video">Es gibt keine herunterladbaren Videos.</string>
     <string name="trans_report">Übersetzungsfehler melden</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">Untertitel synchronisieren</string>
     <string name="sub_line">Gliederung</string>
     <string name="sub_guide">Sie können die Position ändern, indem Sie die Untertitel ziehen.</string>
+    <string name="multi">Multi</string>
 </resources>

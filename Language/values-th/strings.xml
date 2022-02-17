@@ -84,8 +84,6 @@
     <string name="edit">แก้ไข</string>
     <string name="share">แชร์</string>
     <string name="details">รายละเอียด</string>
-    <string name="down_skip_pixel">รูปภาพ 1 พิกเซล</string>
-    <string name="image_split">แบ่งภาพ</string>
     <string name="move_to">ย้ายไปที่</string>
     <string name="skip">ข้าม</string>
     <string name="overwrite">เขียนทับ</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">ตั้งเป็นหน้าแรก</string>
     <string name="setted">ได้มีการตั้งค่า</string>
     <string name="video_url">URL วิดีโอ</string>
-    <string name="address_guide_1">กดวิดีโอที่กำลังเล่นค้างไว้เพื่อคัดลอกที่อยู่</string>
+    <string name="address_guide_1">คลิกไอคอนแชร์ของวิดีโอเพื่อคัดลอกลิงก์</string>
     <string name="address_guide_2">ป้อนที่อยู่ที่คัดลอก</string>
     <string name="no_down_video">ไม่มีวิดีโอที่สามารถดาวน์โหลดได้</string>
     <string name="trans_report">รายงานข้อผิดพลาดการแปล</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">การซิงค์คำบรรยาย</string>
     <string name="sub_line">เค้าร่าง</string>
     <string name="sub_guide">คุณสามารถเปลี่ยนตำแหน่งได้โดยการลากคำบรรยาย</string>
+    <string name="multi">Multi</string>
 </resources>

@@ -84,8 +84,6 @@
     <string name="edit">編集</string>
     <string name="share">共有</string>
     <string name="details">詳細</string>
-    <string name="down_skip_pixel">1ピクセルの画像</string>
-    <string name="image_split">分割画像</string>
     <string name="move_to">移動先</string>
     <string name="skip">スキップ</string>
     <string name="overwrite">上書き</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">ホームページに設定</string>
     <string name="setted">設定されています。</string>
     <string name="video_url">動画のURL</string>
-    <string name="address_guide_1">再生中の動画を長押ししてアドレスをコピーします。</string>
+    <string name="address_guide_1">動画の共有アイコンをクリックしてリンクをコピーします。</string>
     <string name="address_guide_2">コピーしたアドレスを入力します。</string>
     <string name="no_down_video">ダウンロード可能なビデオがありません。</string>
     <string name="trans_report">翻訳エラーを報告</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">字幕同期</string>
     <string name="sub_line">アウトライン</string>
     <string name="sub_guide">字幕をドラッグして位置を変更できます。</string>
+    <string name="multi">マルチ</string>
 </resources>

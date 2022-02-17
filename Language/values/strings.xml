@@ -84,8 +84,6 @@
     <string name="edit">Edit</string>
     <string name="share">Share</string>
     <string name="details">Details</string>
-    <string name="down_skip_pixel">1 pixel image</string>
-    <string name="image_split">Split image</string>
     <string name="move_to">Move to</string>
     <string name="skip">Skip</string>
     <string name="overwrite">Overwrite</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">Set as homepage</string>
     <string name="setted">Has been set.</string>
     <string name="video_url">Video URL</string>
-    <string name="address_guide_1">Press and hold the video being played to copy the address.</string>
+    <string name="address_guide_1">Click the video\'s share icon to copy the link.</string>
     <string name="address_guide_2">Enter the copied address.</string>
     <string name="no_down_video">There are no downloadable videos.</string>
     <string name="trans_report">Report translation errors</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">Subtitle sync</string>
     <string name="sub_line">Outline</string>
     <string name="sub_guide">You can change the position by dragging the subtitles.</string>
+    <string name="multi">Multi</string>
 </resources>

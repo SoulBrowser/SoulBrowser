@@ -84,8 +84,6 @@
     <string name="edit">Modifica</string>
     <string name="share">Condividi</string>
     <string name="details">Dettagli</string>
-    <string name="down_skip_pixel">1 pixel immagine</string>
-    <string name="image_split">Immagine divisa</string>
     <string name="move_to">Vai a</string>
     <string name="skip">Salta</string>
     <string name="overwrite">Sovrascrivere</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">Imposta come pagina iniziale</string>
     <string name="setted">È stato impostato.</string>
     <string name="video_url">URL del video</string>
-    <string name="address_guide_1">Tieni premuto il video in riproduzione per copiare l\'indirizzo.</string>
+    <string name="address_guide_1">Fare clic sull\'icona di condivisione del video per copiare il collegamento.</string>
     <string name="address_guide_2">Inserisci l\'indirizzo copiato.</string>
     <string name="no_down_video">Non ci sono video scaricabili.</string>
     <string name="trans_report">Segnala errori di traduzione</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">Sincronizzazione dei sottotitoli</string>
     <string name="sub_line">Schema</string>
     <string name="sub_guide">Puoi cambiare la posizione trascinando i sottotitoli.</string>
+    <string name="multi">Multi</string>
 </resources>

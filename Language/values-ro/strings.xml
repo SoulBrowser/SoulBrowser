@@ -84,8 +84,6 @@
     <string name="edit">Editați</string>
     <string name="share">Acțiune</string>
     <string name="details">Detalii</string>
-    <string name="down_skip_pixel">1 pixeli imagine</string>
-    <string name="image_split">Imagine despărțită</string>
     <string name="move_to">Mutare la</string>
     <string name="skip">Ocolire</string>
     <string name="overwrite">Suprascriere</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">Setați ca pagină de pornire</string>
     <string name="setted">A fost setat.</string>
     <string name="video_url">URL video</string>
-    <string name="address_guide_1">Apăsați și mențineți apăsat videoclipul redat pentru a copia adresa.</string>
+    <string name="address_guide_1">Faceți clic pe pictograma de distribuire a videoclipului pentru a copia linkul.</string>
     <string name="address_guide_2">Introduceți adresa copiată.</string>
     <string name="no_down_video">Nu există videoclipuri descărcabile.</string>
     <string name="trans_report">Raportați erori de traducere</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">Sincronizare subtitrare</string>
     <string name="sub_line">Contur</string>
     <string name="sub_guide">Poți schimba poziția trăgând subtitrările.</string>
+    <string name="multi">Multi</string>
 </resources>

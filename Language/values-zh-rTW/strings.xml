@@ -84,8 +84,6 @@
     <string name="edit">編輯</string>
     <string name="share">分享</string>
     <string name="details">詳細資訊</string>
-    <string name="down_skip_pixel">1像素圖片</string>
-    <string name="image_split">拆分圖片</string>
     <string name="move_to">去哪裡</string>
     <string name="skip">跳躍</string>
     <string name="overwrite">覆蓋</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">設為主頁</string>
     <string name="setted">已設置</string>
     <string name="video_url">影片網址</string>
-    <string name="address_guide_1">按住正在播放的影片以復制網址</string>
+    <string name="address_guide_1">單擊視頻的共享圖標以復制鏈接</string>
     <string name="address_guide_2">輸入複製的網址</string>
     <string name="no_down_video">沒有可下載的影片</string>
     <string name="trans_report">報告翻譯錯誤</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">字幕同步</string>
     <string name="sub_line">大綱</string>
     <string name="sub_guide">您可以通過拖動字幕來更改位置</string>
+    <string name="multi">多</string>
 </resources>

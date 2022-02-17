@@ -84,8 +84,6 @@
     <string name="edit">Chỉnh sửa</string>
     <string name="share">Chia sẻ</string>
     <string name="details">Chi tiết</string>
-    <string name="down_skip_pixel">1 hình ảnh pixel</string>
-    <string name="image_split">Chia ảnh</string>
     <string name="move_to">Di chuyển đến</string>
     <string name="skip">Bỏ qua</string>
     <string name="overwrite">Ghi đè</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">Đặt làm trang chủ</string>
     <string name="setted">Đã được thiết lập.</string>
     <string name="video_url">URL video</string>
-    <string name="address_guide_1">Nhấn và giữ video đang phát để sao chép địa chỉ.</string>
+    <string name="address_guide_1">Nhấp vào biểu tượng chia sẻ của video để sao chép liên kết.</string>
     <string name="address_guide_2">Nhập địa chỉ sao chép.</string>
     <string name="no_down_video">Không có video tải về.</string>
     <string name="trans_report">Báo cáo lỗi dịch</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">Đồng bộ phụ đề</string>
     <string name="sub_line">Đề cương</string>
     <string name="sub_guide">Bạn có thể thay đổi vị trí bằng cách kéo phụ đề.</string>
+    <string name="multi">Đa</string>
 </resources>

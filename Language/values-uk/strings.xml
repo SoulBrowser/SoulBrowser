@@ -84,8 +84,6 @@
     <string name="edit">Редагувати</string>
     <string name="share">Поділитися</string>
     <string name="details">Деталі</string>
-    <string name="down_skip_pixel">1 піксельне зображення</string>
-    <string name="image_split">Розділити зображення</string>
     <string name="move_to">Перейдіть до</string>
     <string name="skip">Пропустити</string>
     <string name="overwrite">Переписати</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">Встановити як домашню сторінку</string>
     <string name="setted">Встановлено.</string>
     <string name="video_url">URL-адреса відео</string>
-    <string name="address_guide_1">Натисніть і утримуйте відтворюване відео, щоб скопіювати адресу.</string>
+    <string name="address_guide_1">Щоб скопіювати посилання, натисніть значок "Поділитися".</string>
     <string name="address_guide_2">Введіть скопійовану адресу.</string>
     <string name="no_down_video">Немає завантажуваних відео.</string>
     <string name="trans_report">Повідомити про помилки в перекладі</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">Синхронізація субтитрів</string>
     <string name="sub_line">Контур</string>
     <string name="sub_guide">Ви можете змінити положення, перетягнувши субтитри.</string>
+    <string name="multi">Мульти</string>
 </resources>

@@ -84,8 +84,6 @@
     <string name="edit">Düzenle</string>
     <string name="share">Paylaş</string>
     <string name="details">Ayrıntılar</string>
-    <string name="down_skip_pixel">1 piksel resim</string>
-    <string name="image_split">Resmi böl</string>
     <string name="move_to">Şuraya git</string>
     <string name="skip">Atla</string>
     <string name="overwrite">Üzerine yaz</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">Anasayfa olarak ayarla</string>
     <string name="setted">Ayarlandı.</string>
     <string name="video_url">Video linki</string>
-    <string name="address_guide_1">Adresi kopyalamak için oynatılan videoyu basılı tutun.</string>
+    <string name="address_guide_1">Bağlantıyı kopyalamak için videonun paylaşım simgesini tıklayın.</string>
     <string name="address_guide_2">Kopyalanan adresi girin.</string>
     <string name="no_down_video">İndirilebilir video yok.</string>
     <string name="trans_report">Çeviri hatalarını bildirin</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">Altyazı senkronizasyonu</string>
     <string name="sub_line">Anahat</string>
     <string name="sub_guide">Altyazıları sürükleyerek konumu değiştirebilirsiniz.</string>
+    <string name="multi">Çok</string>
 </resources>

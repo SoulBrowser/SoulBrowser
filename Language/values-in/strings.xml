@@ -84,8 +84,6 @@
     <string name="edit">Edit</string>
     <string name="share">Bagikan</string>
     <string name="details">Detail</string>
-    <string name="down_skip_pixel">gambar 1 piksel</string>
-    <string name="image_split">Pisahkan gambar</string>
     <string name="move_to">Pindah ke</string>
     <string name="skip">Lewati</string>
     <string name="overwrite">Timpa</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">Setel sebagai homepage</string>
     <string name="setted">Telah di atur.</string>
     <string name="video_url">URL video</string>
-    <string name="address_guide_1">Tekan dan tahan video yang sedang diputar untuk menyalin alamat.</string>
+    <string name="address_guide_1">Klik ikon bagikan video untuk menyalin tautan.</string>
     <string name="address_guide_2">Masukkan alamat yang disalin.</string>
     <string name="no_down_video">Tidak ada video yang dapat diunduh.</string>
     <string name="trans_report">Laporkan kesalahan terjemahan</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">Sinkronisasi subtitle</string>
     <string name="sub_line">Garis besar</string>
     <string name="sub_guide">Anda dapat mengubah posisi dengan menyeret subtitle.</string>
+    <string name="multi">Multi</string>
 </resources>

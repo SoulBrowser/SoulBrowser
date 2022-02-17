@@ -84,8 +84,6 @@
     <string name="edit">Pедактировать</string>
     <string name="share">Поделиться</string>
     <string name="details">Подробности</string>
-    <string name="down_skip_pixel">1 пикс. изображение</string>
-    <string name="image_split">Разделить изображение</string>
     <string name="move_to">Перейти к</string>
     <string name="skip">Пропускать</string>
     <string name="overwrite">Переписать</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">Установить как домашнюю страницу</string>
     <string name="setted">Установлено.</string>
     <string name="video_url">URL видео</string>
-    <string name="address_guide_1">Нажмите и удерживайте воспроизводимое видео, чтобы скопировать адрес.</string>
+    <string name="address_guide_1">Щелкните значок общего доступа к видео, чтобы скопировать ссылку.</string>
     <string name="address_guide_2">Введите скопированный адрес.</string>
     <string name="no_down_video">Нет загружаемых видео.</string>
     <string name="trans_report">Сообщить об ошибках перевода</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">Синхронизация субтитров</string>
     <string name="sub_line">Контур</string>
     <string name="sub_guide">Вы можете изменить положение, перетаскивая субтитры.</string>
+    <string name="multi">Мульти</string>
 </resources>

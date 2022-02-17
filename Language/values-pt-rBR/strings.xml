@@ -84,8 +84,6 @@
     <string name="edit">Editar</string>
     <string name="share">Compartilhar</string>
     <string name="details">Detalhes</string>
-    <string name="down_skip_pixel">Imagem de 1 pixel</string>
-    <string name="image_split">Imagem dividida</string>
     <string name="move_to">Mover para</string>
     <string name="skip">Ignorar</string>
     <string name="overwrite">Sobrescrever</string>
@@ -575,7 +573,7 @@
     <string name="set_homepage">Definir como página inicial</string>
     <string name="setted">Definição realizada.</string>
     <string name="video_url">URL do vídeo</string>
-    <string name="address_guide_1">Pressione e segure o vídeo sendo reproduzido para copiar o endereço.</string>
+    <string name="address_guide_1">Clique no ícone de compartilhamento do vídeo para copiar o link.</string>
     <string name="address_guide_2">Digite o endereço copiado.</string>
     <string name="no_down_video">Não há vídeos para download.</string>
     <string name="trans_report">Relatar erros de tradução</string>
@@ -884,4 +882,5 @@
     <string name="sub_sync">Sincronização de legendas</string>
     <string name="sub_line">Contorno</string>
     <string name="sub_guide">Você pode alterar a posição arrastando as legendas.</string>
+    <string name="multi">Multi</string>
 </resources>
