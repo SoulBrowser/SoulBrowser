@@ -19,7 +19,7 @@ In order to help understanding of users who do not have Korean as their mother t
 
 2.1. Google Drive SDK
 Collected data : name, email address
-Purpose of collection : Identification of users when backing up data
+Purpose of collection : identification of users when backing up data
 
 2.2. Google Mobile Ads SDK
 Collected data : crash logs, diagnostics, page views and taps, devices or other identifiers in the app.
