@@ -573,9 +573,10 @@
     <string name="set_homepage">Ustaw jako stronę główną</string>
     <string name="setted">Ustawiono.</string>
     <string name="video_url">URL wideo</string>
-    <string name="address_guide_1">Kliknij ikonę udostępniania filmu, aby skopiować link.</string>
-    <string name="address_guide_2">Wpisz skopiowany adres.</string>
+    <string name="address_guide_1">Skopiuj link z filmu.</string>
+    <string name="address_guide_2">Wpisz skopiowany link.</string>
     <string name="no_down_video">Brak filmów do pobrania.</string>
+    <string name="error_video">Ten film nie jest obsługiwany.</string>
     <string name="trans_report">Zgłoś błędy w tłumaczeniu</string>
     <string name="trans_report_info">Proszę pomóż przetłumaczyć. ❤</string>
     <string name="trans_report_guide">[Niepoprawne tłumaczenie] &#62; [Poprawne tłumaczenie]</string>

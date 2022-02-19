@@ -573,9 +573,10 @@
     <string name="set_homepage">Setați ca pagină de pornire</string>
     <string name="setted">A fost setat.</string>
     <string name="video_url">URL video</string>
-    <string name="address_guide_1">Faceți clic pe pictograma de distribuire a videoclipului pentru a copia linkul.</string>
-    <string name="address_guide_2">Introduceți adresa copiată.</string>
+    <string name="address_guide_1">Copiați linkul din videoclip.</string>
+    <string name="address_guide_2">Introduceți linkul copiat.</string>
     <string name="no_down_video">Nu există videoclipuri descărcabile.</string>
+    <string name="error_video">Acest videoclip nu este acceptat.</string>
     <string name="trans_report">Raportați erori de traducere</string>
     <string name="trans_report_info">Vă rugăm să ajutați la traducere. ❤</string>
     <string name="trans_report_guide">[Traducere incorectă] &#62; [Traducere corectă]</string>

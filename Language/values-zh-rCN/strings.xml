@@ -573,9 +573,10 @@
     <string name="set_homepage">设为主页</string>
     <string name="setted">已设置</string>
     <string name="video_url">视频网址</string>
-    <string name="address_guide_1">单击视频的共享图标以复制链接</string>
-    <string name="address_guide_2">输入复制的地址</string>
+    <string name="address_guide_1">复制视频中的链接</string>
+    <string name="address_guide_2">输入复制的链接</string>
     <string name="no_down_video">没有可下载的视频</string>
+    <string name="error_video">不支持此视频</string>
     <string name="trans_report">反馈翻译错误</string>
     <string name="trans_report_info">请帮忙翻译 ❤</string>
     <string name="trans_report_guide">[错误的翻译] &#62; [正确的翻译]</string>

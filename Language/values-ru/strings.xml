@@ -573,9 +573,10 @@
     <string name="set_homepage">Установить как домашнюю страницу</string>
     <string name="setted">Установлено.</string>
     <string name="video_url">URL видео</string>
-    <string name="address_guide_1">Щелкните значок общего доступа к видео, чтобы скопировать ссылку.</string>
-    <string name="address_guide_2">Введите скопированный адрес.</string>
+    <string name="address_guide_1">Скопируйте ссылку из видео.</string>
+    <string name="address_guide_2">Введите скопированную ссылку.</string>
     <string name="no_down_video">Нет загружаемых видео.</string>
+    <string name="error_video">Это видео не поддерживается.</string>
     <string name="trans_report">Сообщить об ошибках перевода</string>
     <string name="trans_report_info">Пожалуйста, помогите перевести. ❤</string>
     <string name="trans_report_guide">[Неверный перевод] &#62; [Правильный перевод]</string>

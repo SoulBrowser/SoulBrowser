@@ -573,9 +573,10 @@
     <string name="set_homepage">تعيين كصفحة رئيسية</string>
     <string name="setted">تم تعيينه.</string>
     <string name="video_url">رابط الفيديو</string>
-    <string name="address_guide_1">انقر فوق رمز مشاركة الفيديو لنسخ الرابط.</string>
-    <string name="address_guide_2">أدخل العنوان المنسوخ.</string>
+    <string name="address_guide_1">انسخ الرابط من الفيديو.</string>
+    <string name="address_guide_2">أدخل الرابط المنسوخ.</string>
     <string name="no_down_video">لا توجد مقاطع فيديو قابلة للتنزيل.</string>
+    <string name="error_video">هذا الفيديو غير مدعوم.</string>
     <string name="trans_report">الإبلاغ عن أخطاء الترجمة</string>
     <string name="trans_report_info">الرجاء مساعدتي في الترجمة. ❤</string>
     <string name="trans_report_guide">[ترجمة غير صحيحة] > [الترجمة الصحيحة]</string>

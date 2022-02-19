@@ -573,9 +573,10 @@
     <string name="set_homepage">Anasayfa olarak ayarla</string>
     <string name="setted">Ayarlandı.</string>
     <string name="video_url">Video linki</string>
-    <string name="address_guide_1">Bağlantıyı kopyalamak için videonun paylaşım simgesini tıklayın.</string>
-    <string name="address_guide_2">Kopyalanan adresi girin.</string>
+    <string name="address_guide_1">Bağlantıyı videodan kopyalayın.</string>
+    <string name="address_guide_2">Kopyalanan bağlantıyı girin.</string>
     <string name="no_down_video">İndirilebilir video yok.</string>
+    <string name="error_video">Bu video desteklenmiyor.</string>
     <string name="trans_report">Çeviri hatalarını bildirin</string>
     <string name="trans_report_info">Lütfen çeviriye yardım edin. ❤</string>
     <string name="trans_report_guide">[Yanlış çeviri] &#62; [Doğru çeviri]</string>

@@ -573,9 +573,10 @@
     <string name="set_homepage">Definir como página inicial</string>
     <string name="setted">Foi definido.</string>
     <string name="video_url">URL do vídeo</string>
-    <string name="address_guide_1">Clique no ícone de compartilhamento do vídeo para copiar o link.</string>
-    <string name="address_guide_2">Digite o endereço copiado.</string>
+    <string name="address_guide_1">Copie o link do vídeo.</string>
+    <string name="address_guide_2">Insira o link copiado.</string>
     <string name="no_down_video">Não há vídeos para download.</string>
+    <string name="error_video">Este vídeo não é compatível.</string>
     <string name="trans_report">Relatar erros de tradução</string>
     <string name="trans_report_info">Por favor, ajude a traduzir. ❤</string>
     <string name="trans_report_guide">[Tradução incorreta] &#62; [Tradução correta]</string>

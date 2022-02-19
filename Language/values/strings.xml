@@ -573,9 +573,10 @@
     <string name="set_homepage">Set as homepage</string>
     <string name="setted">Has been set.</string>
     <string name="video_url">Video URL</string>
-    <string name="address_guide_1">Click the video\'s share icon to copy the link.</string>
-    <string name="address_guide_2">Enter the copied address.</string>
+    <string name="address_guide_1">Copy the link from the video.</string>
+    <string name="address_guide_2">Enter the copied link.</string>
     <string name="no_down_video">There are no downloadable videos.</string>
+    <string name="error_video">This video is not supported.</string>
     <string name="trans_report">Report translation errors</string>
     <string name="trans_report_info">Please help translate. ❤</string>
     <string name="trans_report_guide">[Incorrect translation] &#62; [Correct translation]</string>

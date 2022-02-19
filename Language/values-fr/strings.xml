@@ -573,9 +573,10 @@
     <string name="set_homepage">Définir comme page d\'accueil</string>
     <string name="setted">Effectué.</string>
     <string name="video_url">URL de vidéo</string>
-    <string name="address_guide_1">Cliquez sur l\'icône de partage de la vidéo pour copier le lien.</string>
-    <string name="address_guide_2">Saisissez l\'adresse copiée.</string>
+    <string name="address_guide_1">Copiez le lien de la vidéo.</string>
+    <string name="address_guide_2">Entrez le lien copié.</string>
     <string name="no_down_video">Il n\'y a pas de vidéos téléchargeables.</string>
+    <string name="error_video">Cette vidéo n\'est pas prise en charge.</string>
     <string name="trans_report">Signaler des erreurs de traduction</string>
     <string name="trans_report_info">Aidez-nous à traduire. ❤</string>
     <string name="trans_report_guide">[Traduction incorrecte] &#62; [Traduction correcte]</string>
