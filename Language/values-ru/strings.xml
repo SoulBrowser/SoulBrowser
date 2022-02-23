@@ -30,7 +30,7 @@
     <string name="download">Скачать</string>
     <string name="down_set">Загрузки</string>
     <string name="fast_down">Быстрая загрузка</string>
-    <string name="fast_down_guide">\'Быстрая загрузка\' требует больше ресурсов.</string>
+    <string name="fast_down_guide">Эта функция использует больше ресурсов.</string>
     <string name="down_again">Загрузить снова</string>
     <string name="down_page">Сохранить страницу</string>
     <string name="down_list">Загрузки</string>
@@ -357,6 +357,7 @@
     <string name="server_error">Сервер не отвечает.</string>
     <string name="server_delay">Ответ сервера медленный.</string>
     <string name="not_support_video">Эта функция не поддерживается для этого видео.</string>
+    <string name="not_support_fast">Этот файл не поддерживает быструю загрузку.</string>
     <string name="control_bright">Контроль яркости</string>
     <string name="control_volume">Контроль громкости</string>
     <string name="volume">Громкость</string>

@@ -30,7 +30,7 @@
     <string name="download">Завантаження</string>
     <string name="down_set">Завантаження</string>
     <string name="fast_down">Швидке завантаження</string>
-    <string name="fast_down_guide">\'Швидке завантаження\' використовує більше ресурсів.</string>
+    <string name="fast_down_guide">Ця функція використовує більше ресурсів.</string>
     <string name="down_again">Завантажте ще раз</string>
     <string name="down_page">Зберегти сторінку</string>
     <string name="down_list">Завантаження</string>
@@ -357,6 +357,7 @@
     <string name="server_error">Сервер не відповідає.</string>
     <string name="server_delay">Відповідь сервера повільна.</string>
     <string name="not_support_video">Ця функція не підтримується для цього відео.</string>
+    <string name="not_support_fast">Цей файл не підтримується для швидкого завантаження.</string>
     <string name="control_bright">Контроль яскравості</string>
     <string name="control_volume">Контроль гучності</string>
     <string name="volume">Гучність</string>

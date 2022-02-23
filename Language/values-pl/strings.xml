@@ -30,7 +30,7 @@
     <string name="download">Pobierz</string>
     <string name="down_set">Pobierz</string>
     <string name="fast_down">Szybkie pobieranie</string>
-    <string name="fast_down_guide">\'Szybkie pobieranie\' zużywa więcej zasobów.</string>
+    <string name="fast_down_guide">Ta funkcja zużywa więcej zasobów.</string>
     <string name="down_again">Pobierz ponownie</string>
     <string name="down_page">Zapisz stronę</string>
     <string name="down_list">Pobieranie</string>
@@ -357,6 +357,7 @@
     <string name="server_error">Serwer nie odpowiada.</string>
     <string name="server_delay">Odpowiedź serwera jest niska.</string>
     <string name="not_support_video">Ta funkcja nie jest obsługiwana w tym filmie.</string>
+    <string name="not_support_fast">Ten plik nie jest obsługiwany do szybkiego pobierania.</string>
     <string name="control_bright">Kontrola jasności</string>
     <string name="control_volume">Regulacja głośności</string>
     <string name="volume">Tom</string>

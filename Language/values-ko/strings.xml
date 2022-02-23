@@ -30,7 +30,7 @@
     <string name="download">다운로드</string>
     <string name="down_set">다운로드</string>
     <string name="fast_down">빠른 다운로드</string>
-    <string name="fast_down_guide">\'빠른 다운로드\'는 더 많은 자원을 사용합니다.</string>
+    <string name="fast_down_guide">이 기능은 더 많은 자원을 사용합니다.</string>
     <string name="down_again">다시 다운로드</string>
     <string name="down_page">페이지 저장</string>
     <string name="down_list">다운로드</string>
@@ -357,6 +357,7 @@
     <string name="server_error">서버가 응답하지 않습니다.</string>
     <string name="server_delay">서버 응답이 느립니다.</string>
     <string name="not_support_video">이 영상은 해당 기능이 지원되지 않습니다.</string>
+    <string name="not_support_fast">이 파일은 빠른 다운로드가 지원되지 않습니다.</string>
     <string name="control_bright">밝기 조절</string>
     <string name="control_volume">음량 조절</string>
     <string name="volume">음량</string>

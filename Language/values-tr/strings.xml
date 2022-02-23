@@ -30,7 +30,7 @@
     <string name="download">İndir</string>
     <string name="down_set">İndir</string>
     <string name="fast_down">Hızlı indirme</string>
-    <string name="fast_down_guide">\'Hızlı indirme\' daha fazla kaynak kullanır.</string>
+    <string name="fast_down_guide">Bu özellik daha fazla kaynak kullanır.</string>
     <string name="down_again">Tekrar indir</string>
     <string name="down_page">Sayfayı kaydet</string>
     <string name="down_list">İndirilenler</string>
@@ -357,6 +357,7 @@
     <string name="server_error">Sunucu yanıt vermiyor.</string>
     <string name="server_delay">Sunucu yanıtı yavaş.</string>
     <string name="not_support_video">Bu özellik bu video için desteklenmiyor.</string>
+    <string name="not_support_fast">Bu dosya hızlı indirme için desteklenmiyor.</string>
     <string name="control_bright">Parlaklık kontrolü</string>
     <string name="control_volume">Ses düzeyi kontrolü</string>
     <string name="volume">Ses</string>

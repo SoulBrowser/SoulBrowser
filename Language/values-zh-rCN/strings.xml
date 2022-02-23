@@ -30,7 +30,7 @@
     <string name="download">下载</string>
     <string name="down_set">下载</string>
     <string name="fast_down">快速下载</string>
-    <string name="fast_down_guide">\'快速下载\' 使用更多资源</string>
+    <string name="fast_down_guide">此功能使用更多资源</string>
     <string name="down_again">重新下载</string>
     <string name="down_page">保存页面</string>
     <string name="down_list">下载记录</string>
@@ -357,6 +357,7 @@
     <string name="server_error">服务器没有响应</string>
     <string name="server_delay">服务器响应很慢</string>
     <string name="not_support_video">此视频不支持此功能</string>
+    <string name="not_support_fast">此文件不支持快速下载</string>
     <string name="control_bright">亮度控制</string>
     <string name="control_volume">音量控制</string>
     <string name="volume">音量</string>

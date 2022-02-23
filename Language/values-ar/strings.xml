@@ -30,7 +30,7 @@
     <string name="download">تحميل</string>
     <string name="down_set">تحميل</string>
     <string name="fast_down">تحميل سريع</string>
-    <string name="fast_down_guide">تستخدم التنزيلات الأسرع موارد أكثر.</string>
+    <string name="fast_down_guide">تستخدم هذه الميزة المزيد من الموارد.</string>
     <string name="down_again">تحميل مرة أخرى</string>
     <string name="down_page">احفظ الصفحة</string>
     <string name="down_list">تحميل</string>
@@ -357,6 +357,7 @@
     <string name="server_error">الخادم لا يستجيب.</string>
     <string name="server_delay">استجابة الخادم بطيئة.</string>
     <string name="not_support_video">هذا الفيديو لا يدعم هذه الوظيفة.</string>
+    <string name="not_support_fast">هذا الملف غير مدعوم للتنزيل السريع.</string>
     <string name="control_bright">سيطرة سطوع</string>
     <string name="control_volume">التحكم في مستوى الصوت</string>
     <string name="volume">الصوت</string>

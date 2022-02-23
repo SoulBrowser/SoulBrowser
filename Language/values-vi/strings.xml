@@ -30,7 +30,7 @@
     <string name="download">Tải xuống</string>
     <string name="down_set">Tải xuống</string>
     <string name="fast_down">Tải xuống nhanh</string>
-    <string name="fast_down_guide">\'Tải xuống nhanh\' sử dụng nhiều tài nguyên hơn.</string>
+    <string name="fast_down_guide">Tính năng này sử dụng nhiều tài nguyên hơn.</string>
     <string name="down_again">Tải xuống lại</string>
     <string name="down_page">Lưu trang</string>
     <string name="down_list">Danh sách tải xuống</string>
@@ -357,6 +357,7 @@
     <string name="server_error">Máy chủ không phản hồi.</string>
     <string name="server_delay">Máy chủ phản hồi chậm.</string>
     <string name="not_support_video">Tính năng này không được hỗ trợ cho video này.</string>
+    <string name="not_support_fast">Tệp này không được hỗ trợ để tải xuống nhanh.</string>
     <string name="control_bright">Kiểm soát độ sáng</string>
     <string name="control_volume">Điều khiển âm lượng</string>
     <string name="volume">Âm lượng</string>

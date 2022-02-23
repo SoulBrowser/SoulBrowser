@@ -30,7 +30,7 @@
     <string name="download">Unduh</string>
     <string name="down_set">Unduh</string>
     <string name="fast_down">Unduhan cepat</string>
-    <string name="fast_down_guide">\'Unduhan cepat\' menggunakan lebih banyak sumber daya.</string>
+    <string name="fast_down_guide">Fitur ini menggunakan lebih banyak sumber daya.</string>
     <string name="down_again">Unduh lagi</string>
     <string name="down_page">Simpan halaman</string>
     <string name="down_list">Unduhan</string>
@@ -357,6 +357,7 @@
     <string name="server_error">Server tidak merespons.</string>
     <string name="server_delay">Respons server lambat.</string>
     <string name="not_support_video">Fitur ini tidak didukung untuk video ini.</string>
+    <string name="not_support_fast">File ini tidak didukung untuk pengunduhan cepat.</string>
     <string name="control_bright">Kontrol kecerahan</string>
     <string name="control_volume">Kontrol volume</string>
     <string name="volume">Volume</string>

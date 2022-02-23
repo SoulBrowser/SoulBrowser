@@ -30,7 +30,7 @@
     <string name="download">Download</string>
     <string name="down_set">Download</string>
     <string name="fast_down">Download rápido</string>
-    <string name="fast_down_guide">\'Download rápido\' usa mais recursos.</string>
+    <string name="fast_down_guide">Esse recurso usa mais recursos.</string>
     <string name="down_again">Baixar novamente</string>
     <string name="down_page">Salvar página</string>
     <string name="down_list">Downloads</string>
@@ -357,6 +357,7 @@
     <string name="server_error">O servidor não está respondendo.</string>
     <string name="server_delay">A resposta do servidor é lenta.</string>
     <string name="not_support_video">Este recurso não é compatível com este vídeo.</string>
+    <string name="not_support_fast">Este arquivo não é suportado para download rápido.</string>
     <string name="control_bright">Controle de brilho</string>
     <string name="control_volume">Controle de volume</string>
     <string name="volume">Volume</string>

@@ -30,7 +30,7 @@
     <string name="download">ダウンロード</string>
     <string name="down_set">ダウンロード</string>
     <string name="fast_down">高速ダウンロード</string>
-    <string name="fast_down_guide">\'高速ダウンロード\'は、より多くのリソースを使用します。</string>
+    <string name="fast_down_guide">この機能はより多くのリソースを使用します。</string>
     <string name="down_again">再度ダウンロード</string>
     <string name="down_page">ページ保存</string>
     <string name="down_list">ダウンロード履歴</string>
@@ -357,6 +357,7 @@
     <string name="server_error">サーバーが応答しません。</string>
     <string name="server_delay">サーバーの応答が遅くなります。</string>
     <string name="not_support_video">この動画は、 その機能がサポートされていません</string>
+    <string name="not_support_fast">このファイルは、クイックダウンロードはサポートされていません。</string>
     <string name="control_bright">明るさの調整</string>
     <string name="control_volume">音量調節</string>
     <string name="volume">音量</string>
