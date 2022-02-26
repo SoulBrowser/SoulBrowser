@@ -405,7 +405,7 @@
     <string name="fix_bot">Thanh dưới cố định</string>
     <string name="start_page">Trang bắt đầu</string>
     <string name="show_image_info">Hiển thị hình ảnh của một trang web.</string>
-    <string name="video_download">Tải xuống video</string>
+    <string name="video_download">Tải Video</string>
     <string name="show_video_button">Nút tải xuống video</string>
     <string name="two_finger">(Hai ngón tay)</string>
     <string name="two_finger_info_1">Vuốt sang trái và phải bằng hai ngón tay để di chuyển các tab.</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">Thêm vào màn hình chính</string>
     <string name="set_homepage">Đặt làm trang chủ</string>
     <string name="setted">Đã được thiết lập.</string>
-    <string name="video_url">URL video</string>
-    <string name="address_guide_1">Sao chép liên kết từ video.</string>
-    <string name="address_guide_2">Nhập liên kết đã sao chép.</string>
     <string name="no_down_video">Không có video tải về.</string>
-    <string name="error_video">Video này không được hỗ trợ.</string>
     <string name="trans_report">Báo cáo lỗi dịch</string>
     <string name="trans_report_info">Xin hãy giúp dịch. ❤</string>
     <string name="trans_report_guide">[Bản dịch không chính xác] &#62; [Bản dịch chính xác]</string>

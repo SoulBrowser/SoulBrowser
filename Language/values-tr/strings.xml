@@ -405,7 +405,7 @@
     <string name="fix_bot">Alt çubuğu sabitle</string>
     <string name="start_page">Başlangıç sayfası</string>
     <string name="show_image_info">Bir web sayfasının resmini görüntüleyin.</string>
-    <string name="video_download">Video indirme</string>
+    <string name="video_download">Video İndir</string>
     <string name="show_video_button">Video indirme düğmesi</string>
     <string name="two_finger">(İki parmak)</string>
     <string name="two_finger_info_1">Sekmeleri taşımak için iki parmağınızla sola ve sağa kaydırın.</string>
@@ -479,7 +479,7 @@
     <string name="memory_warning_2">Küçük belleğe sahip cihazlarda kullanırken dikkatli olun.</string>
     <string name="android_support">Android %d\'dan beri desteklenmektedir.</string>
     <string name="secret_data">Web Veri Ayırma (Login Ayırma)</string>
-    <string name="secret_data_info_1">Çerezler ve önbellek gibi verileri ayrı ayrı yönetin.</string>
+    <string name="secret_data_info_1">Çerezler ve önbellek gibi verileri ayrı olarak yönetin.</string>
     <string name="secret_data_info_2">Bu seçenekle, uygulama her zaman normal modda başlayacaktır.</string>
     <string name="secret_data_info_3">Varsayılan olarak gizli modu kullanmak için bu seçeneği devre dışı bırakın.</string>
     <string name="secret_hist">Geçmişi kaydet</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">Ana ekrana ekle</string>
     <string name="set_homepage">Anasayfa olarak ayarla</string>
     <string name="setted">Ayarlandı.</string>
-    <string name="video_url">Video linki</string>
-    <string name="address_guide_1">Bağlantıyı videodan kopyalayın.</string>
-    <string name="address_guide_2">Kopyalanan bağlantıyı girin.</string>
     <string name="no_down_video">İndirilebilir video yok.</string>
-    <string name="error_video">Bu video desteklenmiyor.</string>
     <string name="trans_report">Çeviri hatalarını bildirin</string>
     <string name="trans_report_info">Lütfen çeviriye yardım edin. ❤</string>
     <string name="trans_report_guide">[Yanlış çeviri] &#62; [Doğru çeviri]</string>

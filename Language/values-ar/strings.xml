@@ -405,7 +405,7 @@
     <string name="fix_bot">شريط سفلي ثابت</string>
     <string name="start_page">أبدأ الصفحة</string>
     <string name="show_image_info">يعرض صورة لصفحة الويب.</string>
-    <string name="video_download">تنزيل الفيديو</string>
+    <string name="video_download">تحميل الفيديو</string>
     <string name="show_video_button">زر تنزيل الفيديو</string>
     <string name="two_finger">(إصبعين)</string>
     <string name="two_finger_info_1">اسحب لليسار أو لليمين بإصبعين لتحريك الصنبور.</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">أضف إلى الشاشة الرئيسية</string>
     <string name="set_homepage">تعيين كصفحة رئيسية</string>
     <string name="setted">تم تعيينه.</string>
-    <string name="video_url">رابط الفيديو</string>
-    <string name="address_guide_1">انسخ الرابط من الفيديو.</string>
-    <string name="address_guide_2">أدخل الرابط المنسوخ.</string>
     <string name="no_down_video">لا توجد مقاطع فيديو قابلة للتنزيل.</string>
-    <string name="error_video">هذا الفيديو غير مدعوم.</string>
     <string name="trans_report">الإبلاغ عن أخطاء الترجمة</string>
     <string name="trans_report_info">الرجاء مساعدتي في الترجمة. ❤</string>
     <string name="trans_report_guide">[ترجمة غير صحيحة] > [الترجمة الصحيحة]</string>

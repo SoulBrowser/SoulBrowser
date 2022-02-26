@@ -405,7 +405,7 @@
     <string name="fix_bot">Bara de jos fixată</string>
     <string name="start_page">Pagina de pornire</string>
     <string name="show_image_info">Afișează imagini ale unei pagini web.</string>
-    <string name="video_download">Descărcare video</string>
+    <string name="video_download">Descărcați Videoclipul</string>
     <string name="show_video_button">Butonul de descărcare video</string>
     <string name="two_finger">(Două degete)</string>
     <string name="two_finger_info_1">Glisați spre stânga și spre dreapta cu două degete pentru a muta file.</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">Adăugare la ecranul principal</string>
     <string name="set_homepage">Setați ca pagină de pornire</string>
     <string name="setted">A fost setat.</string>
-    <string name="video_url">URL video</string>
-    <string name="address_guide_1">Copiați linkul din videoclip.</string>
-    <string name="address_guide_2">Introduceți linkul copiat.</string>
     <string name="no_down_video">Nu există videoclipuri descărcabile.</string>
-    <string name="error_video">Acest videoclip nu este acceptat.</string>
     <string name="trans_report">Raportați erori de traducere</string>
     <string name="trans_report_info">Vă rugăm să ajutați la traducere. ❤</string>
     <string name="trans_report_guide">[Traducere incorectă] &#62; [Traducere corectă]</string>

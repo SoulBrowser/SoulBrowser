@@ -405,7 +405,7 @@
     <string name="fix_bot">Закрепить нижнюю панель</string>
     <string name="start_page">Начальная страница</string>
     <string name="show_image_info">Показывать изображения веб-страницы.</string>
-    <string name="video_download">Скачать видео</string>
+    <string name="video_download">Скачать Видео</string>
     <string name="show_video_button">Кнопка загрузки видео</string>
     <string name="two_finger">(Два пальца)</string>
     <string name="two_finger_info_1">Проведите двумя пальцами влево и вправо для переключения вкладок.</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">Добавить на домашний экран</string>
     <string name="set_homepage">Установить как домашнюю страницу</string>
     <string name="setted">Установлено.</string>
-    <string name="video_url">URL видео</string>
-    <string name="address_guide_1">Скопируйте ссылку из видео.</string>
-    <string name="address_guide_2">Введите скопированную ссылку.</string>
     <string name="no_down_video">Нет загружаемых видео.</string>
-    <string name="error_video">Это видео не поддерживается.</string>
     <string name="trans_report">Сообщить об ошибках перевода</string>
     <string name="trans_report_info">Пожалуйста, помогите перевести. ❤</string>
     <string name="trans_report_guide">[Неверный перевод] &#62; [Правильный перевод]</string>

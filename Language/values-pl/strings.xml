@@ -405,7 +405,7 @@
     <string name="fix_bot">Przypiąć dolny pasek</string>
     <string name="start_page">Strona początkowa</string>
     <string name="show_image_info">Wyświetl obrazy strony internetowej.</string>
-    <string name="video_download">Pobieranie wideo</string>
+    <string name="video_download">Ściągnij Wideo</string>
     <string name="show_video_button">Przycisk pobierania wideo</string>
     <string name="two_finger">(Dwa palce)</string>
     <string name="two_finger_info_1">Przesuń dwoma palcami w lewo i w prawo, aby przenieść tabulatory.</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">Dodaj do ekranu głównego</string>
     <string name="set_homepage">Ustaw jako stronę główną</string>
     <string name="setted">Ustawiono.</string>
-    <string name="video_url">URL wideo</string>
-    <string name="address_guide_1">Skopiuj link z filmu.</string>
-    <string name="address_guide_2">Wpisz skopiowany link.</string>
     <string name="no_down_video">Brak filmów do pobrania.</string>
-    <string name="error_video">Ten film nie jest obsługiwany.</string>
     <string name="trans_report">Zgłoś błędy w tłumaczeniu</string>
     <string name="trans_report_info">Proszę pomóż przetłumaczyć. ❤</string>
     <string name="trans_report_guide">[Niepoprawne tłumaczenie] &#62; [Poprawne tłumaczenie]</string>

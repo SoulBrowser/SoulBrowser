@@ -405,7 +405,7 @@
     <string name="fix_bot">Batang bawah diperbaiki</string>
     <string name="start_page">Halaman awal</string>
     <string name="show_image_info">Tampilkan gambar halaman web.</string>
-    <string name="video_download">Pengunduhan video</string>
+    <string name="video_download">Unduh Video</string>
     <string name="show_video_button">Tombol unduh video</string>
     <string name="two_finger">(Dua jari)</string>
     <string name="two_finger_info_1">Geser ke kiri dan kanan dengan dua jari untuk memindahkan tab.</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">Tambahkan ke layar beranda</string>
     <string name="set_homepage">Setel sebagai homepage</string>
     <string name="setted">Telah di atur.</string>
-    <string name="video_url">URL video</string>
-    <string name="address_guide_1">Salin tautan dari video.</string>
-    <string name="address_guide_2">Masukkan tautan yang disalin.</string>
     <string name="no_down_video">Tidak ada video yang dapat diunduh.</string>
-    <string name="error_video">Video ini tidak didukung.</string>
     <string name="trans_report">Laporkan kesalahan terjemahan</string>
     <string name="trans_report_info">Tolong bantu terjemahkan. ❤</string>
     <string name="trans_report_guide">[Terjemahan salah] &#62; [Terjemahan yang benar]</string>

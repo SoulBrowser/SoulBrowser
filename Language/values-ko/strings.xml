@@ -573,11 +573,7 @@
     <string name="add_homescreen">홈 화면에 추가</string>
     <string name="set_homepage">홈페이지로 설정</string>
     <string name="setted">설정되었습니다.</string>
-    <string name="video_url">동영상 URL</string>
-    <string name="address_guide_1">동영상의 링크를 복사합니다.</string>
-    <string name="address_guide_2">복사한 링크를 입력합니다.</string>
     <string name="no_down_video">다운로드 가능한 동영상이 없습니다.</string>
-    <string name="error_video">지원되지 않는 영상입니다.</string>
     <string name="trans_report">번역 오류 신고</string>
     <string name="trans_report_info">번역을 도와주세요. ❤</string>
     <string name="trans_report_guide">[잘못된 번역] &#62; [올바른 번역]</string>

@@ -405,7 +405,7 @@
     <string name="fix_bot">底欄固定</string>
     <string name="start_page">首頁</string>
     <string name="show_image_info">顯示網頁圖片</string>
-    <string name="video_download">影片下載</string>
+    <string name="video_download">下載視頻</string>
     <string name="show_video_button">影片下載按鈕</string>
     <string name="two_finger">（雙指滑動）</string>
     <string name="two_finger_info_1">用雙指滑動左右滑動以移動分頁</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">新增到主螢幕</string>
     <string name="set_homepage">設為主頁</string>
     <string name="setted">已設置</string>
-    <string name="video_url">影片網址</string>
-    <string name="address_guide_1">複製視頻中的鏈接</string>
-    <string name="address_guide_2">輸入複製的鏈接</string>
     <string name="no_down_video">沒有可下載的影片</string>
-    <string name="error_video">不支持此視頻</string>
     <string name="trans_report">報告翻譯錯誤</string>
     <string name="trans_report_info">請幫忙翻譯 ❤</string>
     <string name="trans_report_guide">[錯誤的翻譯] &#62; [正確的翻譯]</string>

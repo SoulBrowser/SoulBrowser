@@ -573,11 +573,7 @@
     <string name="add_homescreen">เพิ่มไปที่หน้าจอหลัก</string>
     <string name="set_homepage">ตั้งเป็นหน้าแรก</string>
     <string name="setted">ได้มีการตั้งค่า</string>
-    <string name="video_url">URL วิดีโอ</string>
-    <string name="address_guide_1">คัดลอกลิงค์จากวิดีโอ</string>
-    <string name="address_guide_2">ป้อนลิงค์ที่คัดลอก</string>
     <string name="no_down_video">ไม่มีวิดีโอที่สามารถดาวน์โหลดได้</string>
-    <string name="error_video">ไม่รองรับวิดีโอนี้</string>
     <string name="trans_report">รายงานข้อผิดพลาดการแปล</string>
     <string name="trans_report_info">โปรดช่วยแปล ❤</string>
     <string name="trans_report_guide">[แปลไม่ถูกต้อง] &#62; [แปลถูกต้อง]</string>

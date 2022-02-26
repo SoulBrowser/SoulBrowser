@@ -405,7 +405,7 @@
     <string name="fix_bot">Untere Leiste fixieren</string>
     <string name="start_page">Startseite</string>
     <string name="show_image_info">Bildinformationen anzeigen.</string>
-    <string name="video_download">Video herunterladen</string>
+    <string name="video_download">Video Herunterladen</string>
     <string name="show_video_button">Schaltfläche für Videodownload anzeigen</string>
     <string name="two_finger">(Zwei Finger)</string>
     <string name="two_finger_info_1">Streichen Sie mit zwei Fingern nach links und rechts, um der Tab zu verschieben.</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">Zum Startbildschirm hinzufügen</string>
     <string name="set_homepage">Als Startseite festlegen</string>
     <string name="setted">Wurde festgelegt.</string>
-    <string name="video_url">Video-URL</string>
-    <string name="address_guide_1">Kopieren Sie den Link aus dem Video.</string>
-    <string name="address_guide_2">Geben Sie den kopierten Link ein.</string>
     <string name="no_down_video">Es gibt keine herunterladbaren Videos.</string>
-    <string name="error_video">Dieses Video wird nicht unterstützt.</string>
     <string name="trans_report">Übersetzungsfehler melden</string>
     <string name="trans_report_info">Bitte helfen Sie beim Übersetzen. ❤</string>
     <string name="trans_report_guide">[Falsche Übersetzung] &#62; [Korrekte Übersetzung]</string>

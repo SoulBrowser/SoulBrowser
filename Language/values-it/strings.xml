@@ -405,7 +405,7 @@
     <string name="fix_bot">Barra inferiore fissa</string>
     <string name="start_page">Pagina iniziale</string>
     <string name="show_image_info">Visualizza un\'immagine di una pagina web.</string>
-    <string name="video_download">Download video</string>
+    <string name="video_download">Scarica Video</string>
     <string name="show_video_button">Pulsante download video</string>
     <string name="two_finger">(Due dita)</string>
     <string name="two_finger_info_1">Scorri a sinistra e a destra con due dita per spostare le schede.</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">Aggiungi alla schermata home</string>
     <string name="set_homepage">Imposta come pagina iniziale</string>
     <string name="setted">È stato impostato.</string>
-    <string name="video_url">URL del video</string>
-    <string name="address_guide_1">Copia il link dal video.</string>
-    <string name="address_guide_2">Inserisci il link copiato.</string>
     <string name="no_down_video">Non ci sono video scaricabili.</string>
-    <string name="error_video">Questo video non è supportato.</string>
     <string name="trans_report">Segnala errori di traduzione</string>
     <string name="trans_report_info">Per favore aiutaci a tradurre. ❤</string>
     <string name="trans_report_guide">[Traduzione errata] &#62; [Traduzione corretta]</string>

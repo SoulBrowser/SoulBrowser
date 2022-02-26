@@ -405,7 +405,7 @@
     <string name="fix_bot">Bottom bar fixed</string>
     <string name="start_page">Start page</string>
     <string name="show_image_info">Display images of a webpage.</string>
-    <string name="video_download">Video download</string>
+    <string name="video_download">Download Video</string>
     <string name="show_video_button">Video download button</string>
     <string name="two_finger">(Two fingers)</string>
     <string name="two_finger_info_1">Swipe left and right with two fingers to move tab.</string>
@@ -573,11 +573,7 @@
     <string name="add_homescreen">Add to home screen</string>
     <string name="set_homepage">Set as homepage</string>
     <string name="setted">Has been set.</string>
-    <string name="video_url">Video URL</string>
-    <string name="address_guide_1">Copy the link from the video.</string>
-    <string name="address_guide_2">Enter the copied link.</string>
     <string name="no_down_video">There are no downloadable videos.</string>
-    <string name="error_video">This video is not supported.</string>
     <string name="trans_report">Report translation errors</string>
     <string name="trans_report_info">Please help translate. ❤</string>
     <string name="trans_report_guide">[Incorrect translation] &#62; [Correct translation]</string>
