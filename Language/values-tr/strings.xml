@@ -585,6 +585,7 @@
     <string name="tts_disabled">TTS devre dışı bırakıldı.</string>
     <string name="tts_info_1">Tarayıcıda görüntülenen metni tıklattığınızda, sesli olarak okunur.</string>
     <string name="tts_info_2">Metin tıklandığında sesli olarak okunur.</string>
+    <string name="speak_page">Yüksek sesle oku</string>
     <string name="detail_setting">Ayrıntılı ayarlar</string>
     <string name="voice_speed">Ses hızı</string>
     <string name="voice_tone">Ses tonu</string>

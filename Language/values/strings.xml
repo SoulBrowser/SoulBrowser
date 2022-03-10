@@ -585,6 +585,7 @@
     <string name="tts_disabled">TTS is disabled.</string>
     <string name="tts_info_1">When you click the text displayed in the browser, it is read by voice.</string>
     <string name="tts_info_2">When text is clicked, it is read by voice.</string>
+    <string name="speak_page">Read aloud</string>
     <string name="detail_setting">Detailed settings</string>
     <string name="voice_speed">Voice speed</string>
     <string name="voice_tone">Voice tone</string>

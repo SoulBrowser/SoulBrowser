@@ -585,6 +585,7 @@
     <string name="tts_disabled">TTSは無効になっています。</string>
     <string name="tts_info_1">ブラウザに表示された文字をクリックすると、音声で読み上げます。</string>
     <string name="tts_info_2">文字をクリックすると、音声で読み上げます。</string>
+    <string name="speak_page">声を出して読む</string>
     <string name="detail_setting">詳細設定</string>
     <string name="voice_speed">音声速度</string>
     <string name="voice_tone">音声トーン</string>

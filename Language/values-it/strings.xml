@@ -585,6 +585,7 @@
     <string name="tts_disabled">TTS è disabilitato.</string>
     <string name="tts_info_1">Quando si fa clic sul testo visualizzato nel browser, viene letto con la voce.</string>
     <string name="tts_info_2">Quando si fa clic sul testo, questo viene letto con la voce.</string>
+    <string name="speak_page">Leggere ad alta voce</string>
     <string name="detail_setting">Impostazioni dettagliate</string>
     <string name="voice_speed">Velocità di voce</string>
     <string name="voice_tone">Tono di voce</string>

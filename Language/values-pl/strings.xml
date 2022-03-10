@@ -585,6 +585,7 @@
     <string name="tts_disabled">TTS jest wyłączony.</string>
     <string name="tts_info_1">Po kliknięciu tekstu wyświetlanego w przeglądarce jest on odczytywany głosem.</string>
     <string name="tts_info_2">Kliknięty tekst jest czytany głosem.</string>
+    <string name="speak_page">Czytać na głos</string>
     <string name="detail_setting">Szczegółowe ustawienia</string>
     <string name="voice_speed">Szybkość głosu</string>
     <string name="voice_tone">Ton głosu</string>

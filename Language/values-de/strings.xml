@@ -585,6 +585,7 @@
     <string name="tts_disabled">TTS ist deaktiviert.</string>
     <string name="tts_info_1">Wenn Sie auf den im Browser angezeigten Text klicken, wird er per Spracheingabe gelesen.</string>
     <string name="tts_info_2">Wenn auf Text geklickt wird, wird er per Sprache gelesen.</string>
+    <string name="speak_page">Vorlesen</string>
     <string name="detail_setting">Detaillierte Einstellungen</string>
     <string name="voice_speed">Sprachgeschwindigkeit</string>
     <string name="voice_tone">Sprachton</string>

@@ -585,6 +585,7 @@
     <string name="tts_disabled">TTS bị vô hiệu hóa.</string>
     <string name="tts_info_1">Khi bạn bấm vào văn bản được hiển thị trong trình duyệt, nó được đọc bằng giọng nói.</string>
     <string name="tts_info_2">Khi văn bản được nhấp, nó được đọc bằng giọng nói.</string>
+    <string name="speak_page">Đọc lớn tiếng</string>
     <string name="detail_setting">Cài đặt chi tiết</string>
     <string name="voice_speed">Tốc độ giọng nói</string>
     <string name="voice_tone">Tông giọng</string>

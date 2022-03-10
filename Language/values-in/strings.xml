@@ -319,7 +319,7 @@
     <string name="permission_granted">Izin diberikan</string>
     <string name="permission_denied">Izin ditolak</string>
     <string name="no_permission">Tidak ada izin</string>
-    <string name="ads_block">Pemblokir Ad</string>
+    <string name="ads_block">Pemblokir iklan</string>
     <string name="ads_block_info">Setidaknya satu filter harus aktif untuk memblokir iklan.</string>
     <string name="filtered_image">Gambar yang difilter (%d)</string>
     <string name="update">Memperbarui</string>
@@ -585,6 +585,7 @@
     <string name="tts_disabled">TTS dinonaktifkan.</string>
     <string name="tts_info_1">Ketika Anda mengklik teks yang ditampilkan di browser, itu dibaca dengan suara.</string>
     <string name="tts_info_2">Ketika teks diklik, itu dibaca dengan suara.</string>
+    <string name="speak_page">Bacalah dengan keras</string>
     <string name="detail_setting">Pengaturan detail</string>
     <string name="voice_speed">Kecepatan suara</string>
     <string name="voice_tone">Nada suara</string>

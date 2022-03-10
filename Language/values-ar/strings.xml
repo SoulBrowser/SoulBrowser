@@ -585,6 +585,7 @@
     <string name="tts_disabled">تم تعطيل تحويل النص إلى كلام.</string>
     <string name="tts_info_1">عند النقر فوق حرف معروض في المتصفح ، تتم قراءته بصوت عالٍ.</string>
     <string name="tts_info_2">عندما تضغط على الحرف ،\nاقرأها بصوت عالٍ.</string>
+    <string name="speak_page">اقرأ بصوت عالي</string>
     <string name="detail_setting">الإعداد التفصيلي</string>
     <string name="voice_speed">سرعة الصوت</string>
     <string name="voice_tone">نغمة الصوت</string>

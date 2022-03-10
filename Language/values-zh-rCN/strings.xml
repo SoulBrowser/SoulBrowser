@@ -585,6 +585,7 @@
     <string name="tts_disabled">TTS已禁用</string>
     <string name="tts_info_1">单击浏览器中显示的文本时，将通过语音读取</string>
     <string name="tts_info_2">单击文本后，将通过语音读取</string>
+    <string name="speak_page">大声朗读</string>
     <string name="detail_setting">详细设置</string>
     <string name="voice_speed">语音速度</string>
     <string name="voice_tone">语音语调</string>

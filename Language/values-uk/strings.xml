@@ -585,6 +585,7 @@
     <string name="tts_disabled">TTS вимкнено.</string>
     <string name="tts_info_1">При натисканні на текст, який відображається в браузері, він читається голосом.</string>
     <string name="tts_info_2">Коли текст натиснуто, він читається голосом.</string>
+    <string name="speak_page">Читати вголос</string>
     <string name="detail_setting">Детальні налаштування</string>
     <string name="voice_speed">Швидкість голосу</string>
     <string name="voice_tone">Тон голосу</string>
