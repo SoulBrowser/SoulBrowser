@@ -384,7 +384,7 @@
     <string name="prefix">Tiền tố</string>
     <string name="clean_mode">Chế độ sạch</string>
     <string name="site">Trang web</string>
-    <string name="storage">Cửa hàng</string>
+    <string name="storage">Vị trí tải xuống</string>
     <string name="system_name">Hệ thống</string>
     <string name="gesture">Cử chỉ</string>
     <string name="show_status">Thanh trạng thái chương trình</string>
@@ -394,7 +394,7 @@
     <string name="addr_icon_info">2. Bạn có thể loại bỏ nó bằng cách nhấp vào biểu tượng.</string>
     <string name="address_bar">Thanh tìm kiếm</string>
     <string name="address_menu">Menu thanh tìm kiếm</string>
-    <string name="show_tab_bar">Sekme çubuğunu göster</string>
+    <string name="show_tab_bar">Hiển thị thanh tab</string>
     <string name="tab_swipe_up">Vuốt thanh tab lên</string>
     <string name="tab_swipe_dn">Vuốt thanh tab xuống</string>
     <string name="above_top">Trên thanh trên cùng</string>
