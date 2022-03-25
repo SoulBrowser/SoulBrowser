@@ -519,7 +519,7 @@
     <string name="report_down">動画をダウンロードすることができないサイトのアドレスを教えてください。</string>
     <string name="report_dark">ダークテーマで問題が発生しているサイトのアドレスを入力してください。</string>
     <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">YouTube再生中ホムキを押すと、PIPモードに切り替えます。</string>
+    <string name="youtube_pip_info">YouTube再生中ホームボタンを押すと、PIPモードに切り替えます。</string>
     <string name="back_play">バックグラウンド再生</string>
     <string name="back_play_info">YouTubeのポリシーにより、YouTubeのバックグラウンド再生はサポートされていません。</string>
     <string name="normal_rate">通常</string>
