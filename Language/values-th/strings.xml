@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[แปลไม่ถูกต้อง] &#62; [แปลถูกต้อง]</string>
     <string name="tts_mode">ข้อความเป็นคำพูด</string>
     <string name="tts_on">เปิดใช้งาน TTS</string>
-    <string name="enable_tts">เปิดใช้งาน TTS</string>
-    <string name="disable_tts">ปิดใช้งาน TTS</string>
-    <string name="tts_enabled">เปิดใช้งาน TTS แล้ว</string>
-    <string name="tts_disabled">TTS ถูกปิดใช้งาน</string>
     <string name="tts_info_1">เมื่อคุณคลิกข้อความที่แสดงในเบราว์เซอร์จะถูกอ่านด้วยเสียง</string>
     <string name="tts_info_2">เมื่อข้อความถูกคลิกมันจะอ่านด้วยเสียง</string>
     <string name="speak_page">อ่านออกเสียง</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากตัวเลือกที่ระบุไม่เข้ากันกับ Android เวอร์ชันปัจจุบัน</string>
     <string name="finger_unknown">ไม่สามารถระบุได้ว่าผู้ใช้สามารถตรวจสอบสิทธิ์ได้หรือไม่</string>
     <string name="use_gesture">ใช้ท่าทาง</string>
-    <string name="enable_gesture">ท่าทางสัมผัส</string>
-    <string name="disable_gesture">ท่าทางสัมผัสปิด</string>
-    <string name="gesture_enabled">เปิดใช้ท่าทางสัมผัสแล้ว</string>
-    <string name="gesture_disabled">ท่าทางสัมผัสถูกปิดใช้งาน</string>
     <string name="gesture_block_site">ไซต์บล็อกท่าทาง</string>
     <string name="gesture_block_info_1">คุณสามารถลงทะเบียนไซต์ที่ไม่ใช้ท่าทางสัมผัส</string>
     <string name="gesture_block_info_2">ใช้กับท่าทางสัมผัสตรงกลางหน้าจอเท่านั้น</string>

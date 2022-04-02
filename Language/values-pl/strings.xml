@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[Niepoprawne tłumaczenie] &#62; [Poprawne tłumaczenie]</string>
     <string name="tts_mode">Tekst na mowę</string>
     <string name="tts_on">Włącz TTS</string>
-    <string name="enable_tts">Włącz TTS</string>
-    <string name="disable_tts">Wyłącz TTS</string>
-    <string name="tts_enabled">TTS jest włączony.</string>
-    <string name="tts_disabled">TTS jest wyłączony.</string>
     <string name="tts_info_1">Po kliknięciu tekstu wyświetlanego w przeglądarce jest on odczytywany głosem.</string>
     <string name="tts_info_2">Kliknięty tekst jest czytany głosem.</string>
     <string name="speak_page">Czytać na głos</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">Użytkownik nie może się uwierzytelnić, ponieważ określone opcje są niezgodne z bieżącą wersją Androida.</string>
     <string name="finger_unknown">Nie można określić, czy użytkownik może się uwierzytelnić.</string>
     <string name="use_gesture">Używaj gestów</string>
-    <string name="enable_gesture">Gesty włączone</string>
-    <string name="disable_gesture">Gesty wyłączone</string>
-    <string name="gesture_enabled">Gesty są włączone.</string>
-    <string name="gesture_disabled">Gesty są wyłączone.</string>
     <string name="gesture_block_site">Witryna blokująca gesty</string>
     <string name="gesture_block_info_1">Możesz zarejestrować strony, które nie używają gestów.</string>
     <string name="gesture_block_info_2">Dotyczy tylko gestów na środku ekranu.</string>

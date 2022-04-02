@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[Yanlış çeviri] &#62; [Doğru çeviri]</string>
     <string name="tts_mode">Sesli Metin Okuma</string>
     <string name="tts_on">TTS\'yi etkinleştir</string>
-    <string name="enable_tts">TTS\'yi etkinleştir</string>
-    <string name="disable_tts">TTS\'yi devre dışı bırak</string>
-    <string name="tts_enabled">TTS etkinleştirildi.</string>
-    <string name="tts_disabled">TTS devre dışı bırakıldı.</string>
     <string name="tts_info_1">Tarayıcıda görüntülenen metni tıklattığınızda, sesli olarak okunur.</string>
     <string name="tts_info_2">Metin tıklandığında sesli olarak okunur.</string>
     <string name="speak_page">Yüksek sesle oku</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">Belirtilen seçenekler mevcut Android sürümüyle uyumlu olmadığından kullanıcı kimlik doğrulaması yapamaz.</string>
     <string name="finger_unknown">Kullanıcının kimlik doğrulaması yapıp yapamayacağı belirlenemiyor.</string>
     <string name="use_gesture">Hareketler kullanın</string>
-    <string name="enable_gesture">Hareketler açık</string>
-    <string name="disable_gesture">Hareketler kapalı</string>
-    <string name="gesture_enabled">Hareketler etkinleştirildi.</string>
-    <string name="gesture_disabled">Hareketler devre dışı bırakıldı.</string>
     <string name="gesture_block_site">Hareket engelleme sitesi</string>
     <string name="gesture_block_info_1">Hareketler kullanmayan siteleri kaydedebilirsiniz.</string>
     <string name="gesture_block_info_2">Yalnızca ekranın ortasındaki hareketler için geçerlidir.</string>

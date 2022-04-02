@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[Traducere incorectă] &#62; [Traducere corectă]</string>
     <string name="tts_mode">Text la vorbire</string>
     <string name="tts_on">Activați TTS</string>
-    <string name="enable_tts">Activați TTS</string>
-    <string name="disable_tts">Dezactivați TTS</string>
-    <string name="tts_enabled">TTS este activat.</string>
-    <string name="tts_disabled">TTS este dezactivat.</string>
     <string name="tts_info_1">Când faceți clic pe textul afișat în browser, acesta este citit prin voce.</string>
     <string name="tts_info_2">Când faceți clic pe text, acesta este citit prin voce.</string>
     <string name="speak_page">Citește cu voce tare</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">Utilizatorul nu se poate autentifica deoarece opțiunile specificate sunt incompatibile cu versiunea curentă de Android.</string>
     <string name="finger_unknown">Nu se poate stabili dacă utilizatorul se poate autentifica.</string>
     <string name="use_gesture">Folosiți gesturi</string>
-    <string name="enable_gesture">Gesturi aprinse</string>
-    <string name="disable_gesture">Gesturi oprite</string>
-    <string name="gesture_enabled">Gesturile sunt activate.</string>
-    <string name="gesture_disabled">Gesturile sunt dezactivate.</string>
     <string name="gesture_block_site">Site de blocare a gesturilor</string>
     <string name="gesture_block_info_1">Puteți înregistra site-uri care nu folosesc gesturi.</string>
     <string name="gesture_block_info_2">Se aplică numai gesturilor din centrul ecranului.</string>

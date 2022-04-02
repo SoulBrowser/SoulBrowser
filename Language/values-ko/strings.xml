@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[잘못된 번역] &#62; [올바른 번역]</string>
     <string name="tts_mode">텍스트 음성 지원</string>
     <string name="tts_on">TTS 사용</string>
-    <string name="enable_tts">TTS 켜기</string>
-    <string name="disable_tts">TTS 끄기</string>
-    <string name="tts_enabled">TTS가 활성화되었습니다.</string>
-    <string name="tts_disabled">TTS가 비활성화되었습니다.</string>
     <string name="tts_info_1">브라우저에 표시된 문자를 클릭하면, 음성으로 읽어줍니다.</string>
     <string name="tts_info_2">문자를 클릭하면,\n음성으로 읽어줍니다.</string>
     <string name="speak_page">소리내어 읽기</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">지정된 옵션이 현재 Android 버전과 호환되지 않기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unknown">사용자가 인증할 수 있는지 여부를 확인할 수 없습니다.</string>
     <string name="use_gesture">제스처 사용</string>
-    <string name="enable_gesture">제스처 켜기</string>
-    <string name="disable_gesture">제스처 끄기</string>
-    <string name="gesture_enabled">제스처가 활성화되었습니다.</string>
-    <string name="gesture_disabled">제스처가 비활성화되었습니다.</string>
     <string name="gesture_block_site">제스처 차단 사이트</string>
     <string name="gesture_block_info_1">제스처를 사용하지 않는 사이트를 등록할 수 있습니다.</string>
     <string name="gesture_block_info_2">화면 중앙의 제스처에만 적용됩니다.</string>

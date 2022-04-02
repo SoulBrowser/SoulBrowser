@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[Неправильний переклад ] &#62; [Правильний переклад]</string>
     <string name="tts_mode">Текст в голос</string>
     <string name="tts_on">Увімкнути TTS</string>
-    <string name="enable_tts">Увімкнути TTS</string>
-    <string name="disable_tts">Вимкніть TTS</string>
-    <string name="tts_enabled">TTS увімкнено.</string>
-    <string name="tts_disabled">TTS вимкнено.</string>
     <string name="tts_info_1">При натисканні на текст, який відображається в браузері, він читається голосом.</string>
     <string name="tts_info_2">Коли текст натиснуто, він читається голосом.</string>
     <string name="speak_page">Читати вголос</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">Користувач не може автентифікуватися, оскільки вказані параметри несумісні з поточною версією Android.</string>
     <string name="finger_unknown">Неможливо визначити, чи може користувач пройти автентифікацію.</string>
     <string name="use_gesture">Використовуйте жести</string>
-    <string name="enable_gesture">Жести на</string>
-    <string name="disable_gesture">Жести вимкнено</string>
-    <string name="gesture_enabled">Жести ввімкнено.</string>
-    <string name="gesture_disabled">Жести відключені.</string>
     <string name="gesture_block_site">Сайт, що блокує жести</string>
     <string name="gesture_block_info_1">Ви можете зареєструвати сайти, які не використовують жести.</string>
     <string name="gesture_block_info_2">Застосовується лише до жестів у центрі екрана.</string>

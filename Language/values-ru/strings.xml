@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[Неверный перевод] &#62; [Правильный перевод]</string>
     <string name="tts_mode">Текст в речь</string>
     <string name="tts_on">Включить TTS</string>
-    <string name="enable_tts">Включить TTS</string>
-    <string name="disable_tts">Отключить TTS</string>
-    <string name="tts_enabled">TTS включен.</string>
-    <string name="tts_disabled">TTS отключен.</string>
     <string name="tts_info_1">Когда Вы нажимаете текст, отображаемый в браузере, он читается вслух.</string>
     <string name="tts_info_2">Когда Вы нажимаете текст, он читается вслух.</string>
     <string name="speak_page">Читай вслух</string>
@@ -626,7 +622,7 @@
     <string name="delete_all_tab">Закрыть все вкладка</string>
     <string name="delete_other_tab">Закрыть другие вкладка</string>
     <string name="mini_mode">Мини-режим</string>
-    <string name="home_close">Нажатие кнопки дом. страницы закрывает все вкладки</string>
+    <string name="home_close">Закрывать все вкладки при нажатии кнопки домашней страницы</string>
     <string name="reader_mode">Режим чтения</string>
     <string name="reader_empty">На этой странице нет содержимого.</string>
     <string name="site_warning">Предупреждение безопасности</string>
@@ -758,7 +754,7 @@
     <string name="day_mode">Дневной режим</string>
     <string name="use_scroll_anim">Использовать анимацию прокрутки</string>
     <string name="use_tab_anim">Использовать анимацию касания</string>
-    <string name="suggest_engine">Служба подсказок поиска</string>
+    <string name="suggest_engine">Служба поисковых предложений</string>
     <string name="without_load">Не обновлять вкладку при возвращении</string>
     <string name="without_load_info_1">Если открыто слишком много вкладок, браузер  работает медленно.</string>
     <string name="without_load_info_2">Память, используемая для композиции страницы, автоматически удаляется при закрытии приложения.</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">Пользователь не может пройти аутентификацию, так как указанные параметры несовместимы с текущей версией Android.</string>
     <string name="finger_unknown">Невозможно определить, может ли пользователь пройти аутентификацию.</string>
     <string name="use_gesture">Использовать жесты</string>
-    <string name="enable_gesture">Жесты вкл</string>
-    <string name="disable_gesture">Жесты выкл</string>
-    <string name="gesture_enabled">Жесты включены.</string>
-    <string name="gesture_disabled">Жесты отключены.</string>
     <string name="gesture_block_site">Сайт с блокировкой жестов</string>
     <string name="gesture_block_info_1">Можно зарегистрировать сайты, не использующие жесты.</string>
     <string name="gesture_block_info_2">Применяется только к жестам в центре экрана.</string>
@@ -873,7 +865,7 @@
     <string name="space_guide">Пробелы не видны на рабочем экране.</string>
     <string name="openapp_guide_1">Откройте другое приложение, которое может запускать эту ссылку.</string>
     <string name="openapp_guide_2">Например, откройте ссылку YouTube в приложении YouTube.</string>
-    <string name="recommend">Рекомендовать</string>
+    <string name="recommend">Рекомендуем</string>
     <string name="sub_file">Файл субтитров</string>
     <string name="sub_setting">Настройки субтитров</string>
     <string name="sub_on">Субтитры включены</string>

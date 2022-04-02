@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[Bản dịch không chính xác] &#62; [Bản dịch chính xác]</string>
     <string name="tts_mode">Chuyển văn bản thành giọng nói</string>
     <string name="tts_on">Kích hoạt TTS</string>
-    <string name="enable_tts">Bật TTS</string>
-    <string name="disable_tts">Tắt TTS</string>
-    <string name="tts_enabled">TTS được bật.</string>
-    <string name="tts_disabled">TTS bị vô hiệu hóa.</string>
     <string name="tts_info_1">Khi bạn bấm vào văn bản được hiển thị trong trình duyệt, nó được đọc bằng giọng nói.</string>
     <string name="tts_info_2">Khi văn bản được nhấp, nó được đọc bằng giọng nói.</string>
     <string name="speak_page">Đọc lớn tiếng</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">Người dùng không thể xác thực vì các tùy chọn được chỉ định không tương thích với phiên bản Android hiện tại.</string>
     <string name="finger_unknown">Không thể xác định xem người dùng có thể xác thực hay không.</string>
     <string name="use_gesture">Sử dụng cử chỉ</string>
-    <string name="enable_gesture">Cử chỉ trên</string>
-    <string name="disable_gesture">Cử chỉ tắt</string>
-    <string name="gesture_enabled">Cử chỉ được kích hoạt.</string>
-    <string name="gesture_disabled">Cử chỉ bị vô hiệu hóa.</string>
     <string name="gesture_block_site">Trang web chặn cử chỉ</string>
     <string name="gesture_block_info_1">Bạn có thể đăng ký các trang web không sử dụng cử chỉ.</string>
     <string name="gesture_block_info_2">Chỉ áp dụng cho các cử chỉ ở giữa màn hình.</string>

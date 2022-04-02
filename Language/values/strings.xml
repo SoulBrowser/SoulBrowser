@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[Incorrect translation] &#62; [Correct translation]</string>
     <string name="tts_mode">Text to Speech</string>
     <string name="tts_on">Enable TTS</string>
-    <string name="enable_tts">Enable TTS</string>
-    <string name="disable_tts">Disable TTS</string>
-    <string name="tts_enabled">TTS is enabled.</string>
-    <string name="tts_disabled">TTS is disabled.</string>
     <string name="tts_info_1">When you click the text displayed in the browser, it is read by voice.</string>
     <string name="tts_info_2">When text is clicked, it is read by voice.</string>
     <string name="speak_page">Read aloud</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">The user can\'t authenticate because the specified options are incompatible with the current Android version.</string>
     <string name="finger_unknown">Unable to determine whether the user can authenticate.</string>
     <string name="use_gesture">Use gestures</string>
-    <string name="enable_gesture">Gestures on</string>
-    <string name="disable_gesture">Gestures off</string>
-    <string name="gesture_enabled">Gestures are enabled.</string>
-    <string name="gesture_disabled">Gestures are disabled.</string>
     <string name="gesture_block_site">Gesture blocking site</string>
     <string name="gesture_block_info_1">You can register sites that do not use gestures.</string>
     <string name="gesture_block_info_2">Applies only to gestures in the center of the screen.</string>

@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[ترجمة غير صحيحة] > [الترجمة الصحيحة]</string>
     <string name="tts_mode">دعم تحويل النص إلى كلام</string>
     <string name="tts_on">استخدام تحويل النص إلى كلام</string>
-    <string name="enable_tts">قم بتشغيل TTS</string>
-    <string name="disable_tts">قم بإيقاف تشغيل تحويل النص إلى كلام</string>
-    <string name="tts_enabled">تم تنشيط TTS.</string>
-    <string name="tts_disabled">تم تعطيل تحويل النص إلى كلام.</string>
     <string name="tts_info_1">عند النقر فوق حرف معروض في المتصفح ، تتم قراءته بصوت عالٍ.</string>
     <string name="tts_info_2">عندما تضغط على الحرف ،\nاقرأها بصوت عالٍ.</string>
     <string name="speak_page">اقرأ بصوت عالي</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">لا يمكن للمستخدم المصادقة لأن الخيار المحدد غير متوافق مع إصدار Android الحالي.</string>
     <string name="finger_unknown">لا يمكن تحديد ما إذا كان يمكن للمستخدم المصادقة.</string>
     <string name="use_gesture">استخدم الإيماءات</string>
-    <string name="enable_gesture">تم تشغيل الإيماءة</string>
-    <string name="disable_gesture">بادرة قبالة</string>
-    <string name="gesture_enabled">تم تفعيل الإيماءات.</string>
-    <string name="gesture_disabled">تم تعطيل الإيماءات.</string>
     <string name="gesture_block_site">موقع منع الإيماءات</string>
     <string name="gesture_block_info_1">يمكنك تسجيل المواقع التي لا تستخدم الإيماءات.</string>
     <string name="gesture_block_info_2">ينطبق فقط على الإيماءات في وسط الشاشة.</string>

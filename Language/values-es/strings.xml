@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[Traducción incorrecta] &#62; [Traducción correcta]</string>
     <string name="tts_mode">Texto a voz</string>
     <string name="tts_on">Habilitar TTS</string>
-    <string name="enable_tts">Habilitar TTS</string>
-    <string name="disable_tts">Desactivar TTS</string>
-    <string name="tts_enabled">TTS está habilitado.</string>
-    <string name="tts_disabled">TTS está desactivado.</string>
     <string name="tts_info_1">Cuando hace clic en el texto que se muestra en el navegador, se lee por voz.</string>
     <string name="tts_info_2">Cuando se hace clic en el texto, se lee por voz.</string>
     <string name="speak_page">Leer en voz alta</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">El usuario no puede autenticarse porque las opciones especificadas son incompatibles con la versión actual de Android.</string>
     <string name="finger_unknown">No se puede determinar si el usuario puede autenticarse.</string>
     <string name="use_gesture">Usa gestos</string>
-    <string name="enable_gesture">Gestos en</string>
-    <string name="disable_gesture">Gestos fuera</string>
-    <string name="gesture_enabled">Los gestos están habilitados.</string>
-    <string name="gesture_disabled">Los gestos están desactivados.</string>
     <string name="gesture_block_site">Sitio de bloqueo de gestos</string>
     <string name="gesture_block_info_1">Puede registrar sitios que no utilizan gestos.</string>
     <string name="gesture_block_info_2">Se aplica solo a los gestos en el centro de la pantalla.</string>

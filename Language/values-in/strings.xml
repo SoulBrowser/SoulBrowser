@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[Terjemahan salah] &#62; [Terjemahan yang benar]</string>
     <string name="tts_mode">Teks pidato</string>
     <string name="tts_on">Aktifkan TTS</string>
-    <string name="enable_tts">Aktifkan TTS</string>
-    <string name="disable_tts">Nonaktifkan TTS</string>
-    <string name="tts_enabled">TTS diaktifkan.</string>
-    <string name="tts_disabled">TTS dinonaktifkan.</string>
     <string name="tts_info_1">Ketika Anda mengklik teks yang ditampilkan di browser, itu dibaca dengan suara.</string>
     <string name="tts_info_2">Ketika teks diklik, itu dibaca dengan suara.</string>
     <string name="speak_page">Bacalah dengan keras</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">Pengguna tidak dapat mengautentikasi karena opsi yang ditentukan tidak kompatibel dengan versi Android saat ini.</string>
     <string name="finger_unknown">Tidak dapat menentukan apakah pengguna dapat mengautentikasi.</string>
     <string name="use_gesture">Gunakan gerakan</string>
-    <string name="enable_gesture">Gestur aktif</string>
-    <string name="disable_gesture">Gestur mati</string>
-    <string name="gesture_enabled">Gestur diaktifkan.</string>
-    <string name="gesture_disabled">Gestur dinonaktifkan.</string>
     <string name="gesture_block_site">Situs pemblokiran isyarat</string>
     <string name="gesture_block_info_1">Anda dapat mendaftarkan situs yang tidak menggunakan isyarat.</string>
     <string name="gesture_block_info_2">Berlaku hanya untuk isyarat di tengah layar.</string>

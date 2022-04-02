@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[错误的翻译] &#62; [正确的翻译]</string>
     <string name="tts_mode">文字转语音</string>
     <string name="tts_on">启用文字转语音</string>
-    <string name="enable_tts">启用TTS</string>
-    <string name="disable_tts">禁用TTS</string>
-    <string name="tts_enabled">TTS已启用</string>
-    <string name="tts_disabled">TTS已禁用</string>
     <string name="tts_info_1">单击浏览器中显示的文本时，将通过语音读取</string>
     <string name="tts_info_2">单击文本后，将通过语音读取</string>
     <string name="speak_page">大声朗读</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">由于指定的选项与当前的Android版本不兼容，因此用户无法进行身份验证</string>
     <string name="finger_unknown">无法确定用户是否可以认证</string>
     <string name="use_gesture">使用手势</string>
-    <string name="enable_gesture">手势</string>
-    <string name="disable_gesture">手势关闭</string>
-    <string name="gesture_enabled">手势已启用</string>
-    <string name="gesture_disabled">手势已禁用</string>
     <string name="gesture_block_site">手势阻止站点</string>
     <string name="gesture_block_info_1">您可以注册不使用手势的网站</string>
     <string name="gesture_block_info_2">仅适用于屏幕中央的手势</string>

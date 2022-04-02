@@ -579,10 +579,6 @@
     <string name="trans_report_guide">[Traduction incorrecte] &#62; [Traduction correcte]</string>
     <string name="tts_mode">Texte pour parler</string>
     <string name="tts_on">Activer TTS</string>
-    <string name="enable_tts">Activer TTS</string>
-    <string name="disable_tts">Désactiver TTS</string>
-    <string name="tts_enabled">TTS est activé.</string>
-    <string name="tts_disabled">TTS est désactivé.</string>
     <string name="tts_info_1">Lorsque vous cliquez sur le texte affiché dans le navigateur, il est lu par la voix.</string>
     <string name="tts_info_2">Lorsque le texte est cliqué, il est lu par la voix.</string>
     <string name="speak_page">Lit à voix haute</string>
@@ -790,10 +786,6 @@
     <string name="finger_unsupported">L\'utilisateur ne peut pas s\'authentifier car les options spécifiées sont incompatibles avec la version actuelle d\'Android.</string>
     <string name="finger_unknown">Impossible de déterminer si l\'utilisateur peut s\'authentifier.</string>
     <string name="use_gesture">Utilisez des gestes</string>
-    <string name="enable_gesture">Activer gestes</string>
-    <string name="disable_gesture">Désactiver gestes</string>
-    <string name="gesture_enabled">Les gestes sont activés.</string>
-    <string name="gesture_disabled">Les gestes sont désactivés.</string>
     <string name="gesture_block_site">Sites avec gestes désactivés</string>
     <string name="gesture_block_info_1">Pour enregistrer des sites où les gestes sont désactivés.</string>
     <string name="gesture_block_info_2">S\'applique uniquement aux gestes au centre de l\'écran.</string>
