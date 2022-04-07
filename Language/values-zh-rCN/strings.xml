@@ -758,7 +758,7 @@
     <string name="without_load">返回无刷新</string>
     <string name="without_load_info_1">如果打开的页面太多，则浏览器可能运行缓慢。</string>
     <string name="without_load_info_2">关闭应用程序后，用于载入页面的内存会自动删除。</string>
-    <string name="save_data">数据保存</string>
+    <string name="save_data">节省流量</string>
     <string name="level_strong">很强</string>
     <string name="level_weak">弱</string>
     <string name="open_limit">标签限量</string>
