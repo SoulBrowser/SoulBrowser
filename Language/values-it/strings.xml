@@ -874,4 +874,5 @@
     <string name="sub_line">Schema</string>
     <string name="sub_guide">Puoi cambiare la posizione trascinando i sottotitoli.</string>
     <string name="multi">Multi</string>
+    <string name="notification">Notifica</string>
 </resources>

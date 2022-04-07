@@ -874,4 +874,5 @@
     <string name="sub_line">Zarys</string>
     <string name="sub_guide">Możesz zmienić pozycję, przeciągając napisy.</string>
     <string name="multi">Wielo</string>
+    <string name="notification">Powiadomienie</string>
 </resources>

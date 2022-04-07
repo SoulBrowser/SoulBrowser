@@ -874,4 +874,5 @@
     <string name="sub_line">เค้าร่าง</string>
     <string name="sub_guide">คุณสามารถเปลี่ยนตำแหน่งได้โดยการลากคำบรรยาย</string>
     <string name="multi">Multi</string>
+    <string name="notification">การแจ้งเตือน</string>
 </resources>

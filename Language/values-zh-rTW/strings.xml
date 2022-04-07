@@ -874,4 +874,5 @@
     <string name="sub_line">大綱</string>
     <string name="sub_guide">您可以通過拖動字幕來更改位置</string>
     <string name="multi">多</string>
+    <string name="notification">通知</string>
 </resources>

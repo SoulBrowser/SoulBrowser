@@ -874,4 +874,5 @@
     <string name="sub_line">Đề cương</string>
     <string name="sub_guide">Bạn có thể thay đổi vị trí bằng cách kéo phụ đề.</string>
     <string name="multi">Đa</string>
+    <string name="notification">Thông báo</string>
 </resources>

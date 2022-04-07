@@ -874,4 +874,5 @@
     <string name="sub_line">Контур</string>
     <string name="sub_guide">Ви можете змінити положення, перетягнувши субтитри.</string>
     <string name="multi">Мульти</string>
+    <string name="notification">Повідомлення</string>
 </resources>

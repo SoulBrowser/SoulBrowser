@@ -874,4 +874,5 @@
     <string name="sub_line">Anahat</string>
     <string name="sub_guide">Altyazıları sürükleyerek konumu değiştirebilirsiniz.</string>
     <string name="multi">Çok</string>
+    <string name="notification">Bildirim</string>
 </resources>

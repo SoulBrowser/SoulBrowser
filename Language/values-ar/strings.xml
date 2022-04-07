@@ -874,4 +874,5 @@
     <string name="sub_line">الخطوط العريضة</string>
     <string name="sub_guide">يمكنك تغيير الموضع عن طريق سحب الترجمة.</string>
     <string name="multi">متعددة</string>
+    <string name="notification">تنبيه</string>
 </resources>

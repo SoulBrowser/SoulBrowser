@@ -874,4 +874,5 @@
     <string name="sub_line">アウトライン</string>
     <string name="sub_guide">字幕をドラッグして位置を変更できます。</string>
     <string name="multi">マルチ</string>
+    <string name="notification">通知</string>
 </resources>
