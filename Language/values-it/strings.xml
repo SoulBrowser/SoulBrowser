@@ -875,4 +875,8 @@
     <string name="sub_guide">Puoi cambiare la posizione trascinando i sottotitoli.</string>
     <string name="multi">Multi</string>
     <string name="notification">Notifica</string>
+    <string name="audio_file">Traccia audio</string>
+    <string name="audio_on">Attiva l\'audio</string>
+    <string name="audio_off">Disattivare l\'audio</string>
+    <string name="audio_sync">Dissipatore audio</string>
 </resources>

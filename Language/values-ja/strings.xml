@@ -875,4 +875,8 @@
     <string name="sub_guide">字幕をドラッグして位置を変更できます。</string>
     <string name="multi">マルチ</string>
     <string name="notification">通知</string>
+    <string name="audio_file">オーディオトラック</string>
+    <string name="audio_on">オーディオをオンにする</string>
+    <string name="audio_off">オーディオをオフにする</string>
+    <string name="audio_sync">オーディオシンク</string>
 </resources>

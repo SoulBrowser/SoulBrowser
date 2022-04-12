@@ -875,4 +875,8 @@
     <string name="sub_guide">يمكنك تغيير الموضع عن طريق سحب الترجمة.</string>
     <string name="multi">متعددة</string>
     <string name="notification">تنبيه</string>
+    <string name="audio_file">مقطع صوتي</string>
+    <string name="audio_on">تشغيل الصوت</string>
+    <string name="audio_off">قم بإيقاف تشغيل الصوت</string>
+    <string name="audio_sync">بالوعة الصوت</string>
 </resources>

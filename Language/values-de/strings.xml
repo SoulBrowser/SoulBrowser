@@ -875,4 +875,8 @@
     <string name="sub_guide">Sie können die Position ändern, indem Sie die Untertitel ziehen.</string>
     <string name="multi">Multi</string>
     <string name="notification">Benachrichtigung</string>
+    <string name="audio_file">Audiospur</string>
+    <string name="audio_on">Ton einschalten</string>
+    <string name="audio_off">Ton ausschalten</string>
+    <string name="audio_sync">Audiosenke</string>
 </resources>

@@ -875,4 +875,8 @@
     <string name="sub_guide">Puedes cambiar la posición arrastrando los subtítulos.</string>
     <string name="multi">Multi</string>
     <string name="notification">Notificación</string>
+    <string name="audio_file">Pista de audio</string>
+    <string name="audio_on">Encender audio</string>
+    <string name="audio_off">Apaga el audio</string>
+    <string name="audio_sync">Sumidero de audio</string>
 </resources>

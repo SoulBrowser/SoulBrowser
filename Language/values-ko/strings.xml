@@ -875,4 +875,8 @@
     <string name="sub_guide">자막을 드래그하여 위치를 변경할 수 있습니다.</string>
     <string name="multi">멀티</string>
     <string name="notification">알림</string>
+    <string name="audio_file">오디오 트랙</string>
+    <string name="audio_on">오디오 켜기</string>
+    <string name="audio_off">오디오 끄기</string>
+    <string name="audio_sync">오디오 싱크</string>
 </resources>

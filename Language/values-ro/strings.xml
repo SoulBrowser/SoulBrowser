@@ -875,4 +875,8 @@
     <string name="sub_guide">Poți schimba poziția trăgând subtitrările.</string>
     <string name="multi">Multi</string>
     <string name="notification">Notificare</string>
+    <string name="audio_file">Pistă audio</string>
+    <string name="audio_on">Porniți audio</string>
+    <string name="audio_off">Dezactivați sunetul</string>
+    <string name="audio_sync">Chiuveta audio</string>
 </resources>

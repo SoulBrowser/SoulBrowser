@@ -875,4 +875,8 @@
     <string name="sub_guide">Anda dapat mengubah posisi dengan menyeret subtitle.</string>
     <string name="multi">Multi</string>
     <string name="notification">Pemberitahuan</string>
+    <string name="audio_file">Trek audio</string>
+    <string name="audio_on">Nyalakan audio</string>
+    <string name="audio_off">Matikan audio</string>
+    <string name="audio_sync">Wastafel audio</string>
 </resources>

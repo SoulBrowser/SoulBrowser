@@ -875,4 +875,8 @@
     <string name="sub_guide">Altyazıları sürükleyerek konumu değiştirebilirsiniz.</string>
     <string name="multi">Çok</string>
     <string name="notification">Bildirim</string>
+    <string name="audio_file">Müzik parçası</string>
+    <string name="audio_on">Sesi aç</string>
+    <string name="audio_off">Sesi kapat</string>
+    <string name="audio_sync">Ses havuzu</string>
 </resources>

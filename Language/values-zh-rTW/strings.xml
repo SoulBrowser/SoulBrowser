@@ -875,4 +875,8 @@
     <string name="sub_guide">您可以通過拖動字幕來更改位置</string>
     <string name="multi">多</string>
     <string name="notification">通知</string>
+    <string name="audio_file">音軌</string>
+    <string name="audio_on">打開音頻</string>
+    <string name="audio_off">關閉音頻</string>
+    <string name="audio_sync">音頻接收器</string>
 </resources>

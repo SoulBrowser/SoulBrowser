@@ -875,4 +875,8 @@
     <string name="sub_guide">Bạn có thể thay đổi vị trí bằng cách kéo phụ đề.</string>
     <string name="multi">Đa</string>
     <string name="notification">Thông báo</string>
+    <string name="audio_file">Track âm thanh</string>
+    <string name="audio_on">Bật âm thanh</string>
+    <string name="audio_off">Tắt âm thanh</string>
+    <string name="audio_sync">Bồn rửa âm thanh</string>
 </resources>

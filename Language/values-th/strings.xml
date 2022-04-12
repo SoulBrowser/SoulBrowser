@@ -875,4 +875,8 @@
     <string name="sub_guide">คุณสามารถเปลี่ยนตำแหน่งได้โดยการลากคำบรรยาย</string>
     <string name="multi">Multi</string>
     <string name="notification">การแจ้งเตือน</string>
+    <string name="audio_file">แทร็กเสียง</string>
+    <string name="audio_on">เปิดเสียง</string>
+    <string name="audio_off">ปิดเสียง</string>
+    <string name="audio_sync">อ่างเสียง</string>
 </resources>

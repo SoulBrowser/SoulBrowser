@@ -875,4 +875,8 @@
     <string name="sub_guide">Ви можете змінити положення, перетягнувши субтитри.</string>
     <string name="multi">Мульти</string>
     <string name="notification">Повідомлення</string>
+    <string name="audio_file">Звукова доріжка</string>
+    <string name="audio_on">Увімкніть аудіо</string>
+    <string name="audio_off">Вимкнути звук</string>
+    <string name="audio_sync">Аудіо мийка</string>
 </resources>

@@ -875,4 +875,8 @@
     <string name="sub_guide">You can change the position by dragging the subtitles.</string>
     <string name="multi">Multi</string>
     <string name="notification">Notification</string>
+    <string name="audio_file">Audio track</string>
+    <string name="audio_on">Audio on</string>
+    <string name="audio_off">Audio off</string>
+    <string name="audio_sync">Audio sink</string>
 </resources>
