@@ -97,7 +97,7 @@
     <string name="normal_start">Запустить в обычном режиме</string>
     <string name="prev_page">Пред. стр-ца</string>
     <string name="next_page">След. стр-ца</string>
-    <string name="tab_gesture">Жест вкладка</string>
+    <string name="tab_gesture">Жест вкладки</string>
     <string name="pop_block">Блокировщик всплывающих окон</string>
     <string name="pop_block_info1">Блокировать все всплывающие окна</string>
     <string name="pop_block_info2">Блокировать открытие других сайтов (в т.ч. рекламных)</string>
