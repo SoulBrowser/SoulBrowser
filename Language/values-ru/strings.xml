@@ -131,7 +131,7 @@
     <string name="only_image">Просмотр только изображений</string>
     <string name="downall_image">Сохранить все изображения</string>
     <string name="tab_list">Список вкладок</string>
-    <string name="tab_item">Вкладка</string>
+    <string name="tab_item">Вкладки</string>
     <string name="tab_tip">Если открыто слишком много вкладок, браузер может работать медленней</string>
     <string name="no_image">Без изображений</string>
     <string name="no_title">Без заголовка</string>
@@ -206,8 +206,8 @@
     <string name="double_back">Двойное нажатие для выхода из браузера</string>
     <string name="press_again">Нажмите ещё раз для выхода.</string>
     <string name="last_noti">Уведомление о последней странице</string>
-    <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладка, появится уведомление.</string>
-    <string name="last_page_noti">Это последняя страница вкладка.</string>
+    <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление.</string>
+    <string name="last_page_noti">Это последняя страница вкладки.</string>
     <string name="last_swipe">Закрывать вкладку с последней страницей свайпом</string>
     <string name="title">Заголовок</string>
     <string name="artist">Исполнитель</string>
@@ -390,7 +390,7 @@
     <string name="show_status">Показывать строку состояния</string>
     <string name="show_navi">Показать панель навигации</string>
     <string name="address_label">Ярлык панели поиска</string>
-    <string name="address_icon">Кнопка панели поиска</string>
+    <string name="address_icon">Кнопки панели поиска</string>
     <string name="addr_icon_info">2. Вы можете удалить его, нажав на значок.</string>
     <string name="address_bar">Панель поиска</string>
     <string name="address_menu">Меню панели поиска</string>
@@ -504,8 +504,8 @@
     <string name="import_no_book">Отсутствуют закладки в обычном режиме .</string>
     <string name="import_no_history">Отсутствует история в обычном режиме.</string>
     <string name="import_no_password">Отсутствует пароль в обычном режиме.</string>
-    <string name="keep_tab">Сохранять вкладка</string>
-    <string name="keep_tab_info">Вкладка инкогнито сохраняются при переходе в обычный режим.</string>
+    <string name="keep_tab">Сохранять вкладку</string>
+    <string name="keep_tab_info">Вкладки инкогнито сохраняются при переходе в обычный режим.</string>
     <string name="keep_login">Войдите в систему</string>
     <string name="keep_login_info">Информация для входа в режим инкогнито сохраняется при переходе в обычный режим.</string>
     <string name="secret_exit">Выход из режима инкогнито</string>
@@ -581,7 +581,7 @@
     <string name="tts_on">Включить TTS</string>
     <string name="tts_info_1">Когда Вы нажимаете текст, отображаемый в браузере, он читается вслух.</string>
     <string name="tts_info_2">Когда Вы нажимаете текст, он читается вслух.</string>
-    <string name="speak_page">Читай вслух</string>
+    <string name="speak_page">Читать вслух</string>
     <string name="detail_setting">Расширенные настройки</string>
     <string name="voice_speed">Скорость голоса</string>
     <string name="voice_tone">Тон голоса</string>
@@ -619,8 +619,8 @@
     <string name="memo_guide">Можно зарегистрировать часто используемые предложения.</string>
     <string name="page_source">Исходный код страницы</string>
     <string name="delete_tab">Закрыть вкладку</string>
-    <string name="delete_all_tab">Закрыть все вкладка</string>
-    <string name="delete_other_tab">Закрыть другие вкладка</string>
+    <string name="delete_all_tab">Закрыть все вкладки</string>
+    <string name="delete_other_tab">Закрыть другие вкладки</string>
     <string name="mini_mode">Мини-режим</string>
     <string name="home_close">Закрывать все вкладки при нажатии кнопки домашней страницы</string>
     <string name="reader_mode">Режим чтения</string>
@@ -636,7 +636,7 @@
     <string name="accent_text">Текст выделения</string>
     <string name="accent_color">Цвет выделения</string>
     <string name="app_keyboard">Активировать клавиатуру при запуске приложения</string>
-    <string name="tab_keyboard">Активировать клавиатуру при добавлении вкладка</string>
+    <string name="tab_keyboard">Активировать клавиатуру при добавлении вкладки</string>
     <string name="swipe">Свайп</string>
     <string name="page_move">Переместить страницу</string>
     <string name="tab_move">Переместить вкладку</string>
