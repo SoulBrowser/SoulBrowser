@@ -878,5 +878,9 @@
     <string name="audio_file">Audiospur</string>
     <string name="audio_on">Ton einschalten</string>
     <string name="audio_off">Ton ausschalten</string>
-    <string name="audio_sync">Audiosenke</string>
+    <string name="audio_sync">Audio-Synchronisation</string>
+    <string name="audio_error">Audiowiedergabe fehlgeschlagen</string>
+    <string name="float_button">Schwebende Schaltfläche</string>
+    <string name="button_title">Taste</string>
+    <string name="always_visible">Immer sichtbar</string>
 </resources>

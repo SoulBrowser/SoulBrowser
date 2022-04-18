@@ -878,5 +878,9 @@
     <string name="audio_file">Müzik parçası</string>
     <string name="audio_on">Sesi aç</string>
     <string name="audio_off">Sesi kapat</string>
-    <string name="audio_sync">Ses havuzu</string>
+    <string name="audio_sync">Ses senkronizasyonu</string>
+    <string name="audio_error">Ses çalma başarısız oldu</string>
+    <string name="float_button">Kayan düğme</string>
+    <string name="button_title">Buton</string>
+    <string name="always_visible">Her zaman görünür</string>
 </resources>

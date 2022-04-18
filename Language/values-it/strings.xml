@@ -878,5 +878,9 @@
     <string name="audio_file">Traccia audio</string>
     <string name="audio_on">Attiva l\'audio</string>
     <string name="audio_off">Disattivare l\'audio</string>
-    <string name="audio_sync">Dissipatore audio</string>
+    <string name="audio_sync">Sincronizzazione audio</string>
+    <string name="audio_error">Riproduzione audio non riuscita</string>
+    <string name="float_button">Pulsante mobile</string>
+    <string name="button_title">Pulsante</string>
+    <string name="always_visible">Sempre visibile</string>
 </resources>

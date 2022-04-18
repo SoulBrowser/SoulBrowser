@@ -878,5 +878,9 @@
     <string name="audio_file">แทร็กเสียง</string>
     <string name="audio_on">เปิดเสียง</string>
     <string name="audio_off">ปิดเสียง</string>
-    <string name="audio_sync">อ่างเสียง</string>
+    <string name="audio_sync">ซิงค์เสียง</string>
+    <string name="audio_error">การเล่นเสียงล้มเหลว</string>
+    <string name="float_button">ปุ่มลอย</string>
+    <string name="button_title">ปุ่ม</string>
+    <string name="always_visible">มองเห็นได้เสมอ</string>
 </resources>

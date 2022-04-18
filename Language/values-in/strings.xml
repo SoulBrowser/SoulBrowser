@@ -878,5 +878,9 @@
     <string name="audio_file">Trek audio</string>
     <string name="audio_on">Nyalakan audio</string>
     <string name="audio_off">Matikan audio</string>
-    <string name="audio_sync">Wastafel audio</string>
+    <string name="audio_sync">Sinkronisasi audio</string>
+    <string name="audio_error">Pemutaran audio gagal</string>
+    <string name="float_button">Tombol mengambang</string>
+    <string name="button_title">Tombol</string>
+    <string name="always_visible">Selalu terlihat</string>
 </resources>

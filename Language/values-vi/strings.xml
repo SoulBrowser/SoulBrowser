@@ -878,5 +878,9 @@
     <string name="audio_file">Track âm thanh</string>
     <string name="audio_on">Bật âm thanh</string>
     <string name="audio_off">Tắt âm thanh</string>
-    <string name="audio_sync">Bồn rửa âm thanh</string>
+    <string name="audio_sync">Đồng bộ hóa âm thanh</string>
+    <string name="audio_error">Phát lại âm thanh không thành công</string>
+    <string name="float_button">Nút nổi</string>
+    <string name="button_title">Cái nút</string>
+    <string name="always_visible">Luôn luôn nhìn thấy</string>
 </resources>

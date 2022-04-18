@@ -131,7 +131,7 @@
     <string name="only_image">Просмотр только изображений</string>
     <string name="downall_image">Сохранить все изображения</string>
     <string name="tab_list">Список вкладок</string>
-    <string name="tab_item">Вкладки</string>
+    <string name="tab_item">Вкладка</string>
     <string name="tab_tip">Если открыто слишком много вкладок, браузер может работать медленней</string>
     <string name="no_image">Без изображений</string>
     <string name="no_title">Без заголовка</string>
@@ -878,5 +878,9 @@
     <string name="audio_file">Аудио трек</string>
     <string name="audio_on">Включить звук</string>
     <string name="audio_off">Выключить звук</string>
-    <string name="audio_sync">Аудио раковина</string>
+    <string name="audio_sync">Аудио синхронизация</string>
+    <string name="audio_error">Не удалось воспроизвести аудио</string>
+    <string name="float_button">Плавающая кнопка</string>
+    <string name="button_title">Кнопка</string>
+    <string name="always_visible">Всегда видимый</string>
 </resources>

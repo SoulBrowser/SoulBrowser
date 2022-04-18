@@ -879,4 +879,8 @@
     <string name="audio_on">오디오 켜기</string>
     <string name="audio_off">오디오 끄기</string>
     <string name="audio_sync">오디오 싱크</string>
+    <string name="audio_error">오디오 재생 실패</string>
+    <string name="float_button">플로팅 버튼</string>
+    <string name="button_title">버튼</string>
+    <string name="always_visible">항상 보이기</string>
 </resources>

@@ -878,5 +878,9 @@
     <string name="audio_file">Ścieżka dźwiękowa</string>
     <string name="audio_on">Włącz dźwięk</string>
     <string name="audio_off">Wyłącz dźwięk</string>
-    <string name="audio_sync">Ujście dźwięku</string>
+    <string name="audio_sync">Synchronizacja dźwięku</string>
+    <string name="audio_error">Odtwarzanie dźwięku nie powiodło się</string>
+    <string name="float_button">Pływający przycisk</string>
+    <string name="button_title">Przycisk</string>
+    <string name="always_visible">Zawsze widoczny</string>
 </resources>

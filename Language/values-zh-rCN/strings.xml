@@ -878,5 +878,9 @@
     <string name="audio_file">音轨</string>
     <string name="audio_on">打开音频</string>
     <string name="audio_off">关闭音频</string>
-    <string name="audio_sync">音频接收器</string>
+    <string name="audio_sync">音频同步</string>
+    <string name="audio_error">音频播放失败</string>
+    <string name="float_button">浮动按钮</string>
+    <string name="button_title">按钮</string>
+    <string name="always_visible">始终可见</string>
 </resources>

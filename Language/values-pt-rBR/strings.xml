@@ -878,5 +878,9 @@
     <string name="audio_file">Faixa de áudio</string>
     <string name="audio_on">Ativar o áudio</string>
     <string name="audio_off">Desligue o áudio</string>
-    <string name="audio_sync">Coletor de áudio</string>
+    <string name="audio_sync">Sincronização de áudio</string>
+    <string name="audio_error">Falha na reprodução de áudio</string>
+    <string name="float_button">Botão flutuante</string>
+    <string name="button_title">Botão</string>
+    <string name="always_visible">Sempre visível</string>
 </resources>

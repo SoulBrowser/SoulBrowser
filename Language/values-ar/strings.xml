@@ -878,5 +878,9 @@
     <string name="audio_file">مقطع صوتي</string>
     <string name="audio_on">تشغيل الصوت</string>
     <string name="audio_off">قم بإيقاف تشغيل الصوت</string>
-    <string name="audio_sync">بالوعة الصوت</string>
+    <string name="audio_sync">مزامنة الصوت</string>
+    <string name="audio_error">فشل تشغيل الصوت</string>
+    <string name="float_button">زر عائم</string>
+    <string name="button_title">زر</string>
+    <string name="always_visible">دائما مرئي</string>
 </resources>

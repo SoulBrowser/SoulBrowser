@@ -878,5 +878,9 @@
     <string name="audio_file">Pistă audio</string>
     <string name="audio_on">Porniți audio</string>
     <string name="audio_off">Dezactivați sunetul</string>
-    <string name="audio_sync">Chiuveta audio</string>
+    <string name="audio_sync">Sincronizare audio</string>
+    <string name="audio_error">Redarea audio a eșuat</string>
+    <string name="float_button">Buton plutitor</string>
+    <string name="button_title">Buton</string>
+    <string name="always_visible">Mereu vizibile</string>
 </resources>

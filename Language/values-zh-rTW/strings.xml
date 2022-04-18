@@ -878,5 +878,9 @@
     <string name="audio_file">音軌</string>
     <string name="audio_on">打開音頻</string>
     <string name="audio_off">關閉音頻</string>
-    <string name="audio_sync">音頻接收器</string>
+    <string name="audio_sync">音頻同步</string>
+    <string name="audio_error">音頻播放失敗</string>
+    <string name="float_button">浮動按鈕</string>
+    <string name="button_title">按鈕</string>
+    <string name="always_visible">始終可見</string>
 </resources>

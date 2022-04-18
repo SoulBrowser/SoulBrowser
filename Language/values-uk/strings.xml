@@ -878,5 +878,9 @@
     <string name="audio_file">Звукова доріжка</string>
     <string name="audio_on">Увімкніть аудіо</string>
     <string name="audio_off">Вимкнути звук</string>
-    <string name="audio_sync">Аудіо мийка</string>
+    <string name="audio_sync">Синхронізація аудіо</string>
+    <string name="audio_error">Помилка відтворення аудіо</string>
+    <string name="float_button">Плаваюча кнопка</string>
+    <string name="button_title">Кнопка</string>
+    <string name="always_visible">Завжди видно</string>
 </resources>

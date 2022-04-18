@@ -878,5 +878,9 @@
     <string name="audio_file">Piste audio</string>
     <string name="audio_on">Activer le son</string>
     <string name="audio_off">Désactiver le son</string>
-    <string name="audio_sync">Audio évier</string>
+    <string name="audio_sync">Synchronisation audio</string>
+    <string name="audio_error">La lecture audio a échoué</string>
+    <string name="float_button">Bouton flottant</string>
+    <string name="button_title">Bouton</string>
+    <string name="always_visible">Toujours visible</string>
 </resources>

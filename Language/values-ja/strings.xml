@@ -878,5 +878,9 @@
     <string name="audio_file">オーディオトラック</string>
     <string name="audio_on">オーディオをオンにする</string>
     <string name="audio_off">オーディオをオフにする</string>
-    <string name="audio_sync">オーディオシンク</string>
+    <string name="audio_sync">オーディオ同期</string>
+    <string name="audio_error">オーディオ再生に失敗</string>
+    <string name="float_button">フローティングボタン</string>
+    <string name="button_title">ボタン</string>
+    <string name="always_visible">いつも見える</string>
 </resources>

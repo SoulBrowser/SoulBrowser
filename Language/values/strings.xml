@@ -878,5 +878,9 @@
     <string name="audio_file">Audio track</string>
     <string name="audio_on">Audio on</string>
     <string name="audio_off">Audio off</string>
-    <string name="audio_sync">Audio sink</string>
+    <string name="audio_sync">Audio sync</string>
+    <string name="audio_error">Audio playback failed</string>
+    <string name="float_button">Floating button</string>
+    <string name="button_title">Button</string>
+    <string name="always_visible">Always visible</string>
 </resources>
