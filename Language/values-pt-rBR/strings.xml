@@ -99,6 +99,7 @@
     <string name="next_page">Avançar página</string>
     <string name="tab_gesture">Gestos de guia</string>
     <string name="pop_block">Bloqueador de popups</string>
+    <string name="pop_blocked">Popup bloqueado</string>
     <string name="pop_block_info1">Bloquear todos os popups</string>
     <string name="pop_block_info2">Bloquear quando outros sites são abertos (incluindo sites de publicidade)</string>
     <string name="pop_block_info3">Bloquear apenas popups suspeitos de serem anúncios</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">A atualização falhou.</string>
     <string name="guide_ads_allow">Você pode registrar sites que podem anunciar.</string>
     <string name="guide_pop_allow">Você pode registrar sites que são permitidos popups.</string>
-    <string name="guide_popup_1">Você está prestes a abrir uma nova página neste site.</string>
-    <string name="guide_popup_2">A nova página pode conter anúncios.</string>
-    <string name="guide_popup_3">Você pode selecionar a operação desejada no menu.</string>
-    <string name="url_blocked">Site perigoso bloqueado.</string>
-    <string name="please_retry">Por favor, tente novamente.</string>
-    <string name="blocked">Bloqueado</string>
     <string name="now_delete">Excluir agora</string>
     <string name="exit_delete">Excluir ao sair</string>
     <string name="exit_guide">Quando você sair do aplicativo, sua atividade na web será excluída.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">O botão não aparece para vídeos que não podem ser baixados.</string>
     <string name="video_down_guide_3">Alguns sites precisam reproduzir o vídeo antes que o vídeo seja detectado.\nSites diferentes têm comportamentos diferentes.</string>
     <string name="video_down_guide_4">Devido à política do YouTube, os vídeos do YouTube não podem ser baixados.</string>
-    <string name="video_full_guide_1">Vídeos baixáveis podem ser reproduzidos em tela cheia.</string>
+    <string name="video_full_guide_1">Reproduza vídeos para download com o player de vídeo.</string>
     <string name="video_full_guide_2">Formatos não suportados não mostram botões.</string>
     <string name="video_full_guide_3">Vídeos que não permitem reprodução externa no site não podem ser reproduzidos.</string>
     <string name="down_limit">Download simultâneo</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Padrão</string>
     <string name="user_defined">Personalizado</string>
     <string name="cast_on">Ativar transmissão</string>
-    <string name="show_full">Botão Play em tela cheia</string>
+    <string name="show_full">Botão do player de vídeo</string>
     <string name="icon_color">Cor do botão</string>
     <string name="storage_guide_1">Atualizado para o Android 10.</string>
     <string name="storage_guide_2">No Android 10, a política de \'Armazenamento por escopo\' se aplica.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Tempo restante</string>
     <string name="donate_1">Doação (Café)</string>
     <string name="donate_2">Doação (Hambúrguer)</string>
-    <string name="donate_3">Doação (Jantar)</string>
+    <string name="donate_3">Doação (Frango frito)</string>
+    <string name="donate_4">Doação (Pizza)</string>
+    <string name="donate_5">Doação (Jantar)</string>
     <string name="donate_info">Obrigado por usar o Soul Browser.\nO Soul Browser é mantido por sua doação.</string>
     <string name="pay_free">Gratuitamente</string>
     <string name="paid">Comprado</string>

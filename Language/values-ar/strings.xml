@@ -99,6 +99,7 @@
     <string name="next_page">الصفحة التالية</string>
     <string name="tab_gesture">اضغط على إيماءة</string>
     <string name="pop_block">مانع النوافذ المنبثقة</string>
+    <string name="pop_blocked">منعت المنبثقة</string>
     <string name="pop_block_info1">حظر جميع النوافذ المنبثقة</string>
     <string name="pop_block_info2">حظر عند فتح مواقع أخرى (بما في ذلك المواقع الإعلانية)</string>
     <string name="pop_block_info3">حظر النوافذ المنبثقة فقط المشتبه في كونها إعلانات</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">فشل التحديث.</string>
     <string name="guide_ads_allow">يمكنك تسجيل المواقع التي يُسمح فيها بالإعلان.</string>
     <string name="guide_pop_allow">يمكنك تسجيل موقع يسمح بالنوافذ المنبثقة.</string>
-    <string name="guide_popup_1">أنت تحاول فتح صفحة جديدة على هذا الموقع.</string>
-    <string name="guide_popup_2">قد تحتوي الصفحات الجديدة على إعلانات.</string>
-    <string name="guide_popup_3">يمكنك تحديد الإجراء المطلوب من القائمة.</string>
-    <string name="url_blocked">تم حظر المواقع الخطرة.</string>
-    <string name="please_retry">حاول مرة اخرى.</string>
-    <string name="blocked">ممنوع</string>
     <string name="now_delete">احذف الان</string>
     <string name="exit_delete">حذف عند الخروج</string>
     <string name="exit_guide">عند إغلاق التطبيق ، يتم حذف محتوى نشاط الويب.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">لا يظهر الزر لمقاطع الفيديو التي لا يمكن تنزيلها.</string>
     <string name="video_down_guide_3">تحتاج بعض المواقع إلى تشغيل الفيديو قبل اكتشاف الفيديو.\nالمواقع المختلفة لها سلوكيات مختلفة.</string>
     <string name="video_down_guide_4">نظرًا لسياسة YouTube ، لا يمكن تنزيل مقاطع فيديو YouTube.</string>
-    <string name="video_full_guide_1">تشغيل الفيديو القابل للتنزيل في وضع ملء الشاشة.</string>
+    <string name="video_full_guide_1">قم بتشغيل مقاطع الفيديو القابلة للتنزيل باستخدام مشغل الفيديو.</string>
     <string name="video_full_guide_2">لا يظهر الزر للتنسيقات غير المعتمدة.</string>
     <string name="video_full_guide_3">لا يمكن تشغيل مقاطع الفيديو التي لا تسمح بالتشغيل الخارجي على الموقع.</string>
     <string name="down_limit">تنزيل متزامن</string>
@@ -550,7 +545,7 @@
     <string name="default_title">أساسي</string>
     <string name="user_defined">مخصص</string>
     <string name="cast_on">استخدام المصبوب</string>
-    <string name="show_full">زر التشغيل في وضع ملء الشاشة</string>
+    <string name="show_full">زر مشغل الفيديو</string>
     <string name="icon_color">لون الزر</string>
     <string name="storage_guide_1">تم التحديث لنظام Android 10.</string>
     <string name="storage_guide_2">بدءًا من Android 10 ، يتم تطبيق سياسة Scoped Storage.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">الوقت المتبقي</string>
     <string name="donate_1">تبرع (قهوة)</string>
     <string name="donate_2">تبرع (همبرغر)</string>
-    <string name="donate_3">تبرع (عشاء)</string>
+    <string name="donate_3">تبرع (دجاج مقلي)</string>
+    <string name="donate_4">تبرع (بيتزا)</string>
+    <string name="donate_5">تبرع (عشاء)</string>
     <string name="donate_info">شكرًا لك على استخدام متصفح الروح.\nيتم الحفاظ على متصفح الروح من خلال تبرعك.</string>
     <string name="pay_free">مجانا</string>
     <string name="paid">تم شراؤها</string>

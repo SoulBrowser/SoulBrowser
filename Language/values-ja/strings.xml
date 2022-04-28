@@ -99,6 +99,7 @@
     <string name="next_page">次のページ</string>
     <string name="tab_gesture">タブ ジェスチャー</string>
     <string name="pop_block">Popupブロッカー</string>
+    <string name="pop_blocked">ポップアップがブロックされました</string>
     <string name="pop_block_info1">すべてのポップアップをブロック</string>
     <string name="pop_block_info2">他のサイトを開いたときブロック（広告サイトを含む）</string>
     <string name="pop_block_info3">広告の疑いポップアップのみをブロック</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">更新に失敗しました。</string>
     <string name="guide_ads_allow">広告が許可されているサイトを登録することができます。</string>
     <string name="guide_pop_allow">Popupが許可されているサイトを登録することができます。</string>
-    <string name="guide_popup_1">このサイトでは、新しいページを開こうとします。</string>
-    <string name="guide_popup_2">新しいページには広告が含まれていることがあります。</string>
-    <string name="guide_popup_3">メニューからご希望の作業を選択することができます。</string>
-    <string name="url_blocked">危険なサイトブロック。</string>
-    <string name="please_retry">もう一度試してください。</string>
-    <string name="blocked">ブロック</string>
     <string name="now_delete">今削除</string>
     <string name="exit_delete">終了時に削除</string>
     <string name="exit_guide">アプリ終了時には、 Web活動内容が削除されます。</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">ダウンロードできない動画はボタンが表示されません。</string>
     <string name="video_down_guide_3">いくつかのサイトは、ビデオを再生しなければならビデオが検出されます。\nサイトごとに動作が異なります。</string>
     <string name="video_down_guide_4">YouTubeのポリシーにより、YouTubeのビデオは、ダウンロードすることができません。</string>
-    <string name="video_full_guide_1">ダウンロード可能な動画をフルスクリーンで再生することができます。</string>
+    <string name="video_full_guide_1">ダウンロード可能な動画をビデオプレーヤーで再生します。</string>
     <string name="video_full_guide_2">サポートされていないフォーマットは、ボタンが表示されません。</string>
     <string name="video_full_guide_3">サイトで外部再生が許可されていない動画は再生できません。</string>
     <string name="down_limit">同時ダウンロード</string>
@@ -550,7 +545,7 @@
     <string name="default_title">デフォルト</string>
     <string name="user_defined">ユーザー定義</string>
     <string name="cast_on">キャストを有効に</string>
-    <string name="show_full">フルスクリーンで再生ボタン</string>
+    <string name="show_full">ビデオプレーヤーボタン</string>
     <string name="icon_color">ボタンの色</string>
     <string name="storage_guide_1">Android 10用に更新されました。</string>
     <string name="storage_guide_2">Android10から\'Scoped Storage\'ポリシーが適用されます。</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">残り時間</string>
     <string name="donate_1">寄付（コーヒー）</string>
     <string name="donate_2">寄付（ハンバーガー）</string>
-    <string name="donate_3">寄付（晩ごはん）</string>
+    <string name="donate_3">寄付（フライドチキン)</string>
+    <string name="donate_4">寄付（ピザ)</string>
+    <string name="donate_5">寄付（晩ごはん）</string>
     <string name="donate_info">Soul Browserを使っていただきありがとうございます。\nSoul Browserは、あなたの寄付で維持されます。</string>
     <string name="pay_free">無料</string>
     <string name="paid">購入する</string>

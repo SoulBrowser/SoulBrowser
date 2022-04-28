@@ -99,6 +99,7 @@
     <string name="next_page">След. стр-ца</string>
     <string name="tab_gesture">Жест вкладки</string>
     <string name="pop_block">Блокировщик всплывающих окон</string>
+    <string name="pop_blocked">Всплывающее окно заблокировано</string>
     <string name="pop_block_info1">Блокировать все всплывающие окна</string>
     <string name="pop_block_info2">Блокировать открытие других сайтов (в т.ч. рекламных)</string>
     <string name="pop_block_info3">Блокировать только всплывающие окна, при подозрении на рекламу</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Не удалось выполнить обновление.</string>
     <string name="guide_ads_allow">Можно зарегистрировать сайты, на которых разрешена реклама.</string>
     <string name="guide_pop_allow">Можно зарегистрировать сайты, на которых разрешены всплывающие окна.</string>
-    <string name="guide_popup_1">Вы собираетесь открыть новую страницу на этом сайте.</string>
-    <string name="guide_popup_2">Новая страница может содержать рекламу.</string>
-    <string name="guide_popup_3">Вы можете выбрать нужную операцию из меню.</string>
-    <string name="url_blocked">Опасный сайт заблокирован.</string>
-    <string name="please_retry">Попробуйте ещё раз.</string>
-    <string name="blocked">Заблокировано</string>
     <string name="now_delete">Удалить сейчас</string>
     <string name="exit_delete">Удалить при выходе</string>
     <string name="exit_guide">При выходе из приложения, ваша веб-активность будет удалена.</string>
@@ -389,7 +384,7 @@
     <string name="gesture">Жесты</string>
     <string name="show_status">Показывать строку состояния</string>
     <string name="show_navi">Показать панель навигации</string>
-    <string name="address_label">Ярлык панели поиска</string>
+    <string name="address_label">Контент панели поиска</string>
     <string name="address_icon">Кнопки панели поиска</string>
     <string name="addr_icon_info">2. Вы можете удалить его, нажав на значок.</string>
     <string name="address_bar">Панель поиска</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Кнопки не отображаются для видео, которые нельзя загрузить.</string>
     <string name="video_down_guide_3">Некоторые сайты должны воспроизводить видео до его обнаружения.\nУ разных сайтов разное поведение.</string>
     <string name="video_down_guide_4">Из-за политики YouTube видео YouTube не могут быть загружены.</string>
-    <string name="video_full_guide_1">Загружаемые видео можно воспроизводить в полноэкранном режиме.</string>
+    <string name="video_full_guide_1">Воспроизведение загружаемых видео с помощью видеоплеера.</string>
     <string name="video_full_guide_2">Неподдерживаемые форматы не имеют кнопок.</string>
     <string name="video_full_guide_3">Видео, которые не позволяют внешнее воспроизведение на сайте, не могут быть воспроизведены.</string>
     <string name="down_limit">Одновременная загрузка</string>
@@ -550,7 +545,7 @@
     <string name="default_title">По умолчанию</string>
     <string name="user_defined">Пользовательский</string>
     <string name="cast_on">Включить трансляцию</string>
-    <string name="show_full">Кнопка воспроизведения в полноэкранном режиме</string>
+    <string name="show_full">Кнопка видеоплеера</string>
     <string name="icon_color">Цвет кнопки</string>
     <string name="storage_guide_1">Обновлено для Android 10.</string>
     <string name="storage_guide_2">Начиная с Android 10 применяется политика \'Scoped storage\'.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Времени осталось</string>
     <string name="donate_1">Пожертвование (Кофе)</string>
     <string name="donate_2">Пожертвование (Гамбургер)</string>
-    <string name="donate_3">Пожертвование (Ужин)</string>
+    <string name="donate_3">Пожертвование (Жареная курочка)</string>
+    <string name="donate_4">Пожертвование (Пицца)</string>
+    <string name="donate_5">Пожертвование (Ужин)</string>
     <string name="donate_info">Спасибо за использование Soul Browser.\nSoul Browser поддерживается за счет вашего пожертвования.</string>
     <string name="pay_free">Бесплатно</string>
     <string name="paid">Куплено</string>

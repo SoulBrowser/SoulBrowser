@@ -99,6 +99,7 @@
     <string name="next_page">Nächste Seite</string>
     <string name="tab_gesture">Tab-Geste</string>
     <string name="pop_block">Popup blockieren</string>
+    <string name="pop_blocked">Popup blockiert</string>
     <string name="pop_block_info1">Blockiere alle Popups</string>
     <string name="pop_block_info2">Blockieren, wenn andere Websites geöffnet werden (einschließlich Werbeseiten)</string>
     <string name="pop_block_info3">Blockieren Sie nur Popups, die als Anzeigen verdächtigt werden</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Aktualisierung fehlgeschlagen.</string>
     <string name="guide_ads_allow">Sie können Seiten registrieren, die Werbung schalten dürfen.</string>
     <string name="guide_pop_allow">Sie können Seiten registrieren, für die Popups zulässig sind.</string>
-    <string name="guide_popup_1">Sie sind dabei, eine neue Seite auf dieser Seite zu öffnen.</string>
-    <string name="guide_popup_2">Die neue Seite enthält möglicherweise Werbung.</string>
-    <string name="guide_popup_3">Sie können den gewünschten Vorgang aus dem Menü auswählen.</string>
-    <string name="url_blocked">Gefährliche Adresse blockiert.</string>
-    <string name="please_retry">Bitte versuche es erneut.</string>
-    <string name="blocked">Blockiert</string>
     <string name="now_delete">Jetzt löschen</string>
     <string name="exit_delete">Beim Beenden löschen</string>
     <string name="exit_guide">Wenn Sie die App beenden, wird ihre Webaktivität gelöscht.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Für Videos, die nicht heruntergeladen werden können, wird keine Schaltfläche angezeigt.</string>
     <string name="video_down_guide_3">Einige Seiten müssen das Video abspielen, bevor das Video erkannt wird.\nUnterschiedliche Websiten haben ein unterschiedliches Verhalten.</string>
     <string name="video_down_guide_4">Aufgrund der YouTube-Richtlinie können YouTube Videos nicht heruntergeladen werden.</string>
-    <string name="video_full_guide_1">Herunterladbare Videos können im Vollbildmodus abgespielt werden.</string>
+    <string name="video_full_guide_1">Spielen Sie herunterladbare Videos mit dem Videoplayer ab.</string>
     <string name="video_full_guide_2">Nicht unterstützte Formate haben keine Schaltflächen.</string>
     <string name="video_full_guide_3">Videos, die keine externe Wiedergabe auf der Site zulassen, können nicht wiedergegeben werden.</string>
     <string name="down_limit">Gleichzeitige Downloads</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Standard</string>
     <string name="user_defined">Benutzerdefiniert</string>
     <string name="cast_on">Anzeige aktivieren</string>
-    <string name="show_full">Play-Button im Vollbildmodus</string>
+    <string name="show_full">Video-Player-Schaltfläche</string>
     <string name="icon_color">Tastenfarbe</string>
     <string name="storage_guide_1">Aktualisiert für Android 10.</string>
     <string name="storage_guide_2">Ab Android 10 gilt die Richtlinie \'Scoped Storage\'.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Verbleibende Zeit</string>
     <string name="donate_1">Spende (Kaffee)</string>
     <string name="donate_2">Spende (Hamburger)</string>
-    <string name="donate_3">Spende (Abendessen)</string>
+    <string name="donate_3">Spende (Gebratenes Huhn)</string>
+    <string name="donate_4">Spende (Pizza)</string>
+    <string name="donate_5">Spende (Abendessen)</string>
     <string name="donate_info">Vielen Dank, dass Sie Soul Browser verwenden.\nSoul Browser wird durch Ihre Spende gepflegt.</string>
     <string name="pay_free">Kostenlos</string>
     <string name="paid">Gekauft</string>

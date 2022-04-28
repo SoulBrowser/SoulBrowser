@@ -99,6 +99,7 @@
     <string name="next_page">Pagina seguente</string>
     <string name="tab_gesture">Gesto schede</string>
     <string name="pop_block">Blocca popup</string>
+    <string name="pop_blocked">Popup bloccato</string>
     <string name="pop_block_info1">Blocca tutti i popup</string>
     <string name="pop_block_info2">Blocca quando vengono aperti altri siti (compresi i siti pubblicitari)</string>
     <string name="pop_block_info3">Blocca solo i popup sospettati come annunci</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Aggiornamento fallito.</string>
     <string name="guide_ads_allow">È possibile registrare siti che possono fare Ad.</string>
     <string name="guide_pop_allow">È possibile registrare siti a cui sono consentiti i popup.</string>
-    <string name="guide_popup_1">Stai per aprire una nuova pagina su questo sito.</string>
-    <string name="guide_popup_2">La nuova pagina può contenere annunci.</string>
-    <string name="guide_popup_3">È possibile selezionare l\'operazione desiderata dal menu.</string>
-    <string name="url_blocked">Sito pericoloso bloccato.</string>
-    <string name="please_retry">Per favore riprova.</string>
-    <string name="blocked">Bloccato</string>
     <string name="now_delete">Elimina ora</string>
     <string name="exit_delete">Elimina all\'uscita</string>
     <string name="exit_guide">Quando esci dall\'app, la tua attività web verrà cancellata.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Il pulsante non viene visualizzato per i video che non possono essere scaricati.</string>
     <string name="video_down_guide_3">Alcuni siti devono riprodurre il video prima che il video venga rilevato.\nSiti diversi hanno comportamenti diversi.</string>
     <string name="video_down_guide_4">A causa delle norme di YouTube, i video di YouTube non possono essere scaricati.</string>
-    <string name="video_full_guide_1">I video scaricabili possono essere riprodotti a schermo intero.</string>
+    <string name="video_full_guide_1">Riproduci video scaricabili con il lettore video.</string>
     <string name="video_full_guide_2">I formati non supportati non hanno pulsanti.</string>
     <string name="video_full_guide_3">I video che non consentono la riproduzione esterna sul sito non possono essere riprodotti.</string>
     <string name="down_limit">Download simultaneo</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Predefinito</string>
     <string name="user_defined">Costume</string>
     <string name="cast_on">Abilita cast</string>
-    <string name="show_full">Pulsante Riproduci a schermo intero</string>
+    <string name="show_full">Pulsante del lettore video</string>
     <string name="icon_color">Colore pulsante</string>
     <string name="storage_guide_1">Aggiornato per Android 10.</string>
     <string name="storage_guide_2">A partire da Android 10, si applica la norma \'Archiviazione con ambito\'.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Tempo rimanente</string>
     <string name="donate_1">Donazione (Caffè)</string>
     <string name="donate_2">Donazione (Hamburger)</string>
-    <string name="donate_3">Donazione (Cena)</string>
+    <string name="donate_3">Donazione (Pollo fritto)</string>
+    <string name="donate_4">Donazione (Pizza)</string>
+    <string name="donate_5">Donazione (Cena)</string>
     <string name="donate_info">Grazie per aver utilizzato Soul Browser.\nSoul Browser è mantenuto dalla tua donazione.</string>
     <string name="pay_free">Gratuito</string>
     <string name="paid">Acquistato</string>

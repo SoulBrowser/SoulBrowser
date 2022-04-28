@@ -99,6 +99,7 @@
     <string name="next_page">下一页</string>
     <string name="tab_gesture">标签手势</string>
     <string name="pop_block">阻止弹窗</string>
+    <string name="pop_blocked">弹出窗口被阻止</string>
     <string name="pop_block_info1">阻止所有弹出窗口</string>
     <string name="pop_block_info2">当其他网站（包括广告网站）打开时阻止</string>
     <string name="pop_block_info3">仅阻止疑似是广告的弹出式窗口</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">更新失败</string>
     <string name="guide_ads_allow">在特定的网站上禁用广告拦截</string>
     <string name="guide_pop_allow">在特定的网站上允许弹窗</string>
-    <string name="guide_popup_1">你将从此站点打开一个新页面</string>
-    <string name="guide_popup_2">新页面可能包含广告</string>
-    <string name="guide_popup_3">你可以从菜单中选择所需的操作</string>
-    <string name="url_blocked">危险的网站已被屏蔽</string>
-    <string name="please_retry">请再试一次</string>
-    <string name="blocked">已屏蔽</string>
     <string name="now_delete">立即删除</string>
     <string name="exit_delete">退出时删除</string>
     <string name="exit_guide">退出应用程序后， 你的网络记录将被删除</string>
@@ -437,8 +432,8 @@
     <string name="video_down_guide_1">检测到视频时，屏幕上会出现一个下载按钮</string>
     <string name="video_down_guide_2">对于无法下载的视频， 不显示按钮</string>
     <string name="video_down_guide_3">某些站点需要播放视频之后才能检测到\n不同站点具有不同情况</string>
-    <string name="video_down_guide_4">不能下载 YouTube 视频。</string>
-    <string name="video_full_guide_1">下载的视频可全屏播放</string>
+    <string name="video_down_guide_4">由于 YouTube 政策，无法下载 YouTube 视频</string>
+    <string name="video_full_guide_1">使用视频播放器播放可下载的视频</string>
     <string name="video_full_guide_2">不支持的格式没有按钮</string>
     <string name="video_full_guide_3">网站上不允许外部播放的视频无法播放</string>
     <string name="down_limit">同时下载数</string>
@@ -550,7 +545,7 @@
     <string name="default_title">默认</string>
     <string name="user_defined">自定义</string>
     <string name="cast_on">启用投屏</string>
-    <string name="show_full">全屏播放按钮</string>
+    <string name="show_full">视频播放器按钮</string>
     <string name="icon_color">按钮颜色</string>
     <string name="storage_guide_1">已针对 Android 10 更新</string>
     <string name="storage_guide_2">从 Android 10 开始，适用\'范围存储\'策略</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">剩余时间</string>
     <string name="donate_1">捐赠（咖啡）</string>
     <string name="donate_2">捐赠（汉堡包）</string>
-    <string name="donate_3">捐赠（晚餐）</string>
+    <string name="donate_3">捐赠（炸鸡)</string>
+    <string name="donate_4">捐赠（比萨)</string>
+    <string name="donate_5">捐赠（晚餐）</string>
     <string name="donate_info">感谢您使用 Soul Browser\nSoul Browser 由您的捐赠维护</string>
     <string name="pay_free">免费</string>
     <string name="paid">已购买</string>

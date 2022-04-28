@@ -99,6 +99,7 @@
     <string name="next_page">หน้าถัดไป</string>
     <string name="tab_gesture">ท่าทางสัมผัสของแท็บ</string>
     <string name="pop_block">ตัวบล็อกป๊อปอัป</string>
+    <string name="pop_blocked">ป๊อปอัปถูกบล็อก</string>
     <string name="pop_block_info1">บล็อกป๊อปอัปทั้งหมด</string>
     <string name="pop_block_info2">บล็อกเมื่อมีการเปิดไซต์อื่น ๆ (รวมถึงไซต์โฆษณา)</string>
     <string name="pop_block_info3">บล็อกเฉพาะป๊อปอัปที่สงสัยว่าเป็นโฆษณา</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">การอัปเดตล้มเหลว</string>
     <string name="guide_ads_allow">คุณสามารถลงทะเบียนไซต์ที่ได้รับอนุญาตโฆษณา</string>
     <string name="guide_pop_allow">คุณสามารถลงทะเบียนไซต์ที่อนุญาตป๊อปอัป</string>
-    <string name="guide_popup_1">คุณกำลังจะเปิดหน้าใหม่ในเว็บไซต์นี้</string>
-    <string name="guide_popup_2">หน้าใหม่อาจมีโฆษณา</string>
-    <string name="guide_popup_3">คุณสามารถเลือกการทำงานที่ต้องการได้จากเมนู</string>
-    <string name="url_blocked">ไซต์ที่เป็นอันตรายถูกบล็อก</string>
-    <string name="please_retry">โปรดลองอีกครั้ง</string>
-    <string name="blocked">อุดตัน</string>
     <string name="now_delete">ลบทันที</string>
     <string name="exit_delete">ลบเมื่อออก</string>
     <string name="exit_guide">เมื่อคุณออกจากแอปกิจกรรมบนเว็บของคุณจะถูกลบ</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">ปุ่มไม่ปรากฏขึ้นสำหรับวิดีโอที่ไม่สามารถดาวน์โหลดได้</string>
     <string name="video_down_guide_3">บางเว็บไซต์จำเป็นต้องเล่นวิดีโอก่อนตรวจพบวิดีโอ\nไซต์ที่ต่างกันมีพฤติกรรมที่แตกต่างกัน</string>
     <string name="video_down_guide_4">เนื่องจากนโยบาย YouTube ไม่สามารถดาวน์โหลดวิดีโอ YouTube ได้</string>
-    <string name="video_full_guide_1">วิดีโอที่ดาวน์โหลดได้สามารถเล่นได้แบบเต็มหน้าจอ</string>
+    <string name="video_full_guide_1">เล่นวิดีโอที่ดาวน์โหลดได้ด้วยเครื่องเล่นวิดีโอ</string>
     <string name="video_full_guide_2">รูปแบบที่ไม่รองรับไม่มีปุ่ม</string>
     <string name="video_full_guide_3">ไม่สามารถเล่นวิดีโอที่ไม่อนุญาตให้เล่นภายนอกบนไซต์ได้</string>
     <string name="down_limit">ดาวน์โหลดพร้อมกัน</string>
@@ -550,7 +545,7 @@
     <string name="default_title">ค่าเริ่มต้น</string>
     <string name="user_defined">ประเพณี</string>
     <string name="cast_on">เปิดใช้งานการส่ง</string>
-    <string name="show_full">ปุ่มเล่นแบบเต็มหน้าจอ</string>
+    <string name="show_full">ปุ่มเครื่องเล่นวิดีโอ</string>
     <string name="icon_color">สีของปุ่ม</string>
     <string name="storage_guide_1">อัปเดตสำหรับ Android 10.</string>
     <string name="storage_guide_2">ตั้งแต่ Android 10 นโยบาย \'Scoped Storage\' จะมีผลบังคับใช้</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">เวลาที่เหลืออยู่</string>
     <string name="donate_1">บริจาค (กาแฟ)</string>
     <string name="donate_2">บริจาค (แฮมเบอร์เกอร์)</string>
-    <string name="donate_3">บริจาค (อาหารค่ำ)</string>
+    <string name="donate_3">บริจาค (ไก่ทอด)</string>
+    <string name="donate_4">บริจาค (พิซซ่า)</string>
+    <string name="donate_5">บริจาค (อาหารค่ำ)</string>
     <string name="donate_info">ขอบคุณที่ใช้ Soul Browser\nSoul Browser ได้รับการดูแลโดยการบริจาคของคุณ</string>
     <string name="pay_free">ฟรี</string>
     <string name="paid">ซื้อแล้ว</string>

@@ -99,6 +99,7 @@
     <string name="next_page">Page suivante</string>
     <string name="tab_gesture">Geste onglet</string>
     <string name="pop_block">Bloquer popup</string>
+    <string name="pop_blocked">Popup bloqué</string>
     <string name="pop_block_info1">Bloquer toutes les pop-ups</string>
     <string name="pop_block_info2">Bloquer lorsque d\'autres sites sont ouverts (y compris les sites publicitaires)</string>
     <string name="pop_block_info3">Bloquez uniquement les fenêtres contextuelles suspectées d\'être des publicités</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Échec.</string>
     <string name="guide_ads_allow">Vous pouvez enregistrer des sites autorisés à faire des annonces.</string>
     <string name="guide_pop_allow">Vous pouvez enregistrer des sites autorisés à ouvrir des fenêtres contextuelles.</string>
-    <string name="guide_popup_1">Vous êtes sur le point d\'ouvrir une nouvelle page sur ce site.</string>
-    <string name="guide_popup_2">La nouvelle page peut contenir des annonces.</string>
-    <string name="guide_popup_3">Vous pouvez sélectionner l\'opération souhaitée dans le menu.</string>
-    <string name="url_blocked">Site dangereux bloqué.</string>
-    <string name="please_retry">Veuillez réessayer.</string>
-    <string name="blocked">Bloqué</string>
     <string name="now_delete">Effacer maintenant</string>
     <string name="exit_delete">Supprimer à la sortie</string>
     <string name="exit_guide">Lorsque vous quittez l\'application, votre activité web sera supprimée.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Les bouton n\'apparaissent pas pour les vidéo qui ne peuvent pas être téléchargées.</string>
     <string name="video_down_guide_3">Certains sites doivent lire la vidéo avant que la vidéo ne soit détectée.\nDifférents sites ont un comportement différent.</string>
     <string name="video_down_guide_4">En raison de la politique de YouTube, les vidéos YouTube ne peuvent pas être téléchargées.</string>
-    <string name="video_full_guide_1">Les vidéos téléchargeables peuvent être lues en plein écran.</string>
+    <string name="video_full_guide_1">Lire des vidéos téléchargeables avec un lecteur vidéo.</string>
     <string name="video_full_guide_2">Les formats non pris en charge n\'ont pas de boutons.</string>
     <string name="video_full_guide_3">Les vidéos qui ne permettent pas la lecture externe sur le site ne peuvent pas être lues.</string>
     <string name="down_limit">Téléchargement simultané</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Défaut</string>
     <string name="user_defined">Personnalisé</string>
     <string name="cast_on">Activer la diffusion</string>
-    <string name="show_full">Bouton de lecture en plein écran</string>
+    <string name="show_full">Bouton du lecteur vidéo</string>
     <string name="icon_color">Couleur du bouton</string>
     <string name="storage_guide_1">Mis à jour pour Android 10.</string>
     <string name="storage_guide_2">À partir d\'Android 10, la politique de \'Stockage étendu\' s\'applique.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Temps restant</string>
     <string name="donate_1">Don (Café)</string>
     <string name="donate_2">Don (Hamburger)</string>
-    <string name="donate_3">Don (Dîner)</string>
+    <string name="donate_3">Don (Poulet frit)</string>
+    <string name="donate_4">Don (Pizza)</string>
+    <string name="donate_5">Don (Dîner)</string>
     <string name="donate_info">Merci d\'utiliser Soul Browser.\nSoul Browser est maintenu par votre don.</string>
     <string name="pay_free">Libre</string>
     <string name="paid">Acheté</string>

@@ -99,6 +99,7 @@
     <string name="next_page">Halaman berikutnya</string>
     <string name="tab_gesture">Gerakan tab</string>
     <string name="pop_block">Pemblokir popup</string>
+    <string name="pop_blocked">Munculan diblokir</string>
     <string name="pop_block_info1">Blokir semua popup</string>
     <string name="pop_block_info2">Blokir ketika situs lain dibuka (termasuk situs periklanan)</string>
     <string name="pop_block_info3">Blokir hanya popup yang dicurigai sebagai iklan</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Pembaruan gagal.</string>
     <string name="guide_ads_allow">Anda dapat mendaftarkan situs yang diizinkan Ad.</string>
     <string name="guide_pop_allow">Anda dapat mendaftarkan situs yang diizinkan popup.</string>
-    <string name="guide_popup_1">Anda akan membuka halaman baru di situs ini.</string>
-    <string name="guide_popup_2">Halaman baru dapat berisi iklan.</string>
-    <string name="guide_popup_3">Anda dapat memilih operasi yang diinginkan dari menu.</string>
-    <string name="url_blocked">Situs berbahaya diblokir.</string>
-    <string name="please_retry">Silakan coba lagi.</string>
-    <string name="blocked">Dicekal</string>
     <string name="now_delete">Hapus sekarang</string>
     <string name="exit_delete">Hapus saat keluar</string>
     <string name="exit_guide">Saat Anda keluar dari aplikasi, aktivitas web Anda akan dihapus.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Tombol tidak muncul untuk video yang tidak dapat diunduh.</string>
     <string name="video_down_guide_3">Beberapa situs perlu memutar video sebelum video terdeteksi.\nSitus yang berbeda memiliki perilaku yang berbeda pula.</string>
     <string name="video_down_guide_4">Karena kebijakan YouTube, video YouTube tidak dapat diunduh.</string>
-    <string name="video_full_guide_1">Video yang dapat diunduh dapat diputar dalam layar penuh.</string>
+    <string name="video_full_guide_1">Putar video yang dapat diunduh dengan pemutar video.</string>
     <string name="video_full_guide_2">Format yang tidak didukung tidak memiliki tombol.</string>
     <string name="video_full_guide_3">Video yang tidak mengizinkan pemutaran eksternal di situs tidak dapat diputar.</string>
     <string name="down_limit">Pengunduhan secara bersamaan</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Default</string>
     <string name="user_defined">Kebiasaan</string>
     <string name="cast_on">Aktifkan pemeran</string>
-    <string name="show_full">Tombol putar di layar penuh</string>
+    <string name="show_full">Tombol pemutar video</string>
     <string name="icon_color">Warna tombol</string>
     <string name="storage_guide_1">Diperbarui untuk Android 10.</string>
     <string name="storage_guide_2">Pada Android 10, kebijakan \'Penyimpanan Scoped\' berlaku.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Waktu yang tersisa</string>
     <string name="donate_1">Donasi (Kopi)</string>
     <string name="donate_2">Donasi (Hamburger)</string>
-    <string name="donate_3">Donasi (Makan Malam)</string>
+    <string name="donate_3">Donasi (Ayam goreng)</string>
+    <string name="donate_4">Donasi (Pizza)</string>
+    <string name="donate_5">Donasi (Makan Malam)</string>
     <string name="donate_info">Terima kasih telah menggunakan Soul Browser.\nSoul Browser dikelola oleh donasi Anda.</string>
     <string name="pay_free">Gratis</string>
     <string name="paid">Membeli</string>

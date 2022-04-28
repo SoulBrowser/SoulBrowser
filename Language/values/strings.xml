@@ -99,6 +99,7 @@
     <string name="next_page">Next page</string>
     <string name="tab_gesture">Tab gesture</string>
     <string name="pop_block">Popup blocker</string>
+    <string name="pop_blocked">Popup blocked</string>
     <string name="pop_block_info1">Block all popups</string>
     <string name="pop_block_info2">Block when other sites are opened (including advertising sites)</string>
     <string name="pop_block_info3">Block only popups that are suspected as ads</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Update failed.</string>
     <string name="guide_ads_allow">You can register sites that are allowed Ad.</string>
     <string name="guide_pop_allow">You can register sites that are allowed popup.</string>
-    <string name="guide_popup_1">You are about to open a new page on this site.</string>
-    <string name="guide_popup_2">The new page may contain ads.</string>
-    <string name="guide_popup_3">You can select the desired operation from the menu.</string>
-    <string name="url_blocked">Dangerous site blocked.</string>
-    <string name="please_retry">Please try again.</string>
-    <string name="blocked">Blocked</string>
     <string name="now_delete">Delete now</string>
     <string name="exit_delete">Delete on exit</string>
     <string name="exit_guide">When you exit the app, your web activity will be deleted.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Button do not appear for video that can not be downloaded.</string>
     <string name="video_down_guide_3">Some sites need to play the video before the video is detected.\nDifferent sites have different behavior.</string>
     <string name="video_down_guide_4">Due to YouTube policy, YouTube videos can not be downloaded.</string>
-    <string name="video_full_guide_1">Downloadable videos can be played in full screen.</string>
+    <string name="video_full_guide_1">Play downloadable videos with video player.</string>
     <string name="video_full_guide_2">Unsupported formats do not have buttons.</string>
     <string name="video_full_guide_3">Videos that do not allow external playback on the site cannot be played.</string>
     <string name="down_limit">Concurrent download</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Default</string>
     <string name="user_defined">Custom</string>
     <string name="cast_on">Enable cast</string>
-    <string name="show_full">Play button in full screen</string>
+    <string name="show_full">Video player button</string>
     <string name="icon_color">Button color</string>
     <string name="storage_guide_1">Updated for Android 10.</string>
     <string name="storage_guide_2">As of Android 10, the \'Scoped Storage\' policy applies.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Time remaining</string>
     <string name="donate_1">Donation (Coffee)</string>
     <string name="donate_2">Donation (Hamburger)</string>
-    <string name="donate_3">Donation (Dinner)</string>
+    <string name="donate_3">Donation (Fried chicken)</string>
+    <string name="donate_4">Donation (Pizza)</string>
+    <string name="donate_5">Donation (Dinner)</string>
     <string name="donate_info">Thank you for using Soul Browser.\nSoul Browser is maintained by your donation.</string>
     <string name="pay_free">Free</string>
     <string name="paid">Purchased</string>

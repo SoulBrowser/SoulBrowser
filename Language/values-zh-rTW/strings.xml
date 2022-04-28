@@ -99,6 +99,7 @@
     <string name="next_page">下一頁</string>
     <string name="tab_gesture">分頁手勢</string>
     <string name="pop_block">彈出窗口阻止程序</string>
+    <string name="pop_blocked">彈出窗口被阻止</string>
     <string name="pop_block_info1">阻止所有彈出窗口</string>
     <string name="pop_block_info2">當其他網站（包括廣告網站）打開時阻止</string>
     <string name="pop_block_info3">僅阻止懷疑是廣告的彈出式窗口</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">更新失敗</string>
     <string name="guide_ads_allow">您可以註冊允許做廣告的網站</string>
     <string name="guide_pop_allow">您可以註冊允許彈出窗口的站點</string>
-    <string name="guide_popup_1">您將在此站點上打開一個新頁面</string>
-    <string name="guide_popup_2">新頁面可能包含廣告</string>
-    <string name="guide_popup_3">您可以從選單中選擇所需的操作</string>
-    <string name="url_blocked">危險的網站被封鎖了</string>
-    <string name="please_retry">請再試一次</string>
-    <string name="blocked">受阻</string>
     <string name="now_delete">立即刪除</string>
     <string name="exit_delete">退出時刪除</string>
     <string name="exit_guide">退出應用程式後， 您的網路活動將被刪除</string>
@@ -437,8 +432,8 @@
     <string name="video_down_guide_1">檢測到影片時，螢幕上會出現一個下載按鈕</string>
     <string name="video_down_guide_2">對於無法下載的影片， 不顯示按鈕</string>
     <string name="video_down_guide_3">在檢測到影片之前，某些站點需要播放影片\n不同的站點具有不同的行為</string>
-    <string name="video_down_guide_4">根據YouTube政策，YouTube影片無法下載</string>
-    <string name="video_full_guide_1">可下載的影片可以全螢幕播放</string>
+    <string name="video_down_guide_4">由於 YouTube 政策，無法下載 YouTube 視頻</string>
+    <string name="video_full_guide_1">使用視頻播放器播放可下載的視頻</string>
     <string name="video_full_guide_2">不支持的格式沒有按鈕</string>
     <string name="video_full_guide_3">網站上不允許外部播放的視頻無法播放</string>
     <string name="down_limit">同時下載</string>
@@ -519,7 +514,7 @@
     <string name="report_down">請提供您無法下載影片的網站網址</string>
     <string name="report_dark">請提供深色主題有問題的網站網址</string>
     <string name="youtube_pip">YouTube 畫中畫</string>
-    <string name="youtube_pip_info">在 YouTube 播放期間按Home鍵切換到畫中畫模式</string>
+    <string name="youtube_pip_info">在 YouTube 播放期間按 Home 鍵切換到畫中畫模式</string>
     <string name="back_play">後台播放</string>
     <string name="back_play_info">根據 YouTube 政策，不支持 YouTube 後台播放</string>
     <string name="normal_rate">正常</string>
@@ -550,7 +545,7 @@
     <string name="default_title">預設</string>
     <string name="user_defined">自訂</string>
     <string name="cast_on">啟用投射</string>
-    <string name="show_full">全屏播放按鈕</string>
+    <string name="show_full">視頻播放器按鈕</string>
     <string name="icon_color">按鈕顏色</string>
     <string name="storage_guide_1">已針對 Android 10 更新</string>
     <string name="storage_guide_2">從 Android 10 開始，適用\'範圍存儲\'策略</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">剩餘時間</string>
     <string name="donate_1">捐贈（咖啡）</string>
     <string name="donate_2">捐贈（漢堡包）</string>
-    <string name="donate_3">捐贈（晚餐）</string>
+    <string name="donate_3">捐贈（炸雞)</string>
+    <string name="donate_4">捐贈（比薩)</string>
+    <string name="donate_5">捐贈（晚餐）</string>
     <string name="donate_info">感謝您使用 Soul Browser\nSoul Browser 由您的捐贈維護</string>
     <string name="pay_free">自由</string>
     <string name="paid">已購買</string>

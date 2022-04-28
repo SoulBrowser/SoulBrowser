@@ -99,6 +99,7 @@
     <string name="next_page">다음 페이지</string>
     <string name="tab_gesture">탭 제스처</string>
     <string name="pop_block">팝업 차단</string>
+    <string name="pop_blocked">팝업 차단됨</string>
     <string name="pop_block_info1">모든 팝업 차단</string>
     <string name="pop_block_info2">다른 사이트가 열릴 때 차단 (광고 사이트 포함)</string>
     <string name="pop_block_info3">광고로 의심되는 팝업만 차단</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">업데이트에 실패했습니다.</string>
     <string name="guide_ads_allow">광고가 허용되는 사이트를 등록할 수 있습니다.</string>
     <string name="guide_pop_allow">팝업이 허용되는 사이트를 등록할 수 있습니다.</string>
-    <string name="guide_popup_1">이 사이트에서 새 페이지를 열려고 합니다.</string>
-    <string name="guide_popup_2">새 페이지에는 광고가 포함되어 있을 수 있습니다.</string>
-    <string name="guide_popup_3">메뉴에서 원하시는 작업을 선택하실 수 있습니다.</string>
-    <string name="url_blocked">위험한 사이트가 차단되었습니다.</string>
-    <string name="please_retry">다시 시도해 주세요.</string>
-    <string name="blocked">차단됨</string>
     <string name="now_delete">지금 삭제</string>
     <string name="exit_delete">종료 시 삭제</string>
     <string name="exit_guide">앱 종료 시, 웹 활동 내용이 삭제됩니다.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">다운로드할 수 없는 동영상은 버튼이 나타나지 않습니다.</string>
     <string name="video_down_guide_3">일부 사이트는 동영상을 재생해야 동영상이 감지됩니다.\n사이트마다 동작이 다릅니다.</string>
     <string name="video_down_guide_4">YouTube 정책에 의해, YouTube 동영상은 다운로드할 수 없습니다.</string>
-    <string name="video_full_guide_1">다운로드 가능한 동영상을 전체 화면으로 재생합니다.</string>
+    <string name="video_full_guide_1">다운로드 가능한 동영상을 비디오 플레이어로 재생합니다.</string>
     <string name="video_full_guide_2">지원되지 않는 포맷은 버튼이 나타나지 않습니다.</string>
     <string name="video_full_guide_3">사이트에서 외부 재생이 허용되지 않는 동영상은 재생할 수 없습니다.</string>
     <string name="down_limit">동시 다운로드</string>
@@ -550,7 +545,7 @@
     <string name="default_title">기본</string>
     <string name="user_defined">사용자 정의</string>
     <string name="cast_on">캐스트 사용</string>
-    <string name="show_full">전체 화면으로 재생 버튼</string>
+    <string name="show_full">비디오 플레이어 버튼</string>
     <string name="icon_color">버튼 색상</string>
     <string name="storage_guide_1">Android 10 용으로 업데이트되었습니다.</string>
     <string name="storage_guide_2">Android 10부터는 \'Scoped Storage\'정책이 적용됩니다.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">남은 시간</string>
     <string name="donate_1">기부 (커피)</string>
     <string name="donate_2">기부 (햄버거)</string>
-    <string name="donate_3">기부 (만찬)</string>
+    <string name="donate_3">기부 (치킨)</string>
+    <string name="donate_4">기부 (피자)</string>
+    <string name="donate_5">기부 (만찬)</string>
     <string name="donate_info">Soul Browser를 사용해 주셔서 감사합니다.\nSoul Browser는 여러분의 기부로 유지됩니다.</string>
     <string name="pay_free">무료</string>
     <string name="paid">구매함</string>

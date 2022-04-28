@@ -99,6 +99,7 @@
     <string name="next_page">Sonraki sayfa</string>
     <string name="tab_gesture">Sekme hareketi</string>
     <string name="pop_block">Popup engelleyicisi</string>
+    <string name="pop_blocked">Popup engellendi</string>
     <string name="pop_block_info1">Tüm popup\'ları engelle</string>
     <string name="pop_block_info2">Diğer siteler açıldığında engelle (reklam siteleri dahil)</string>
     <string name="pop_block_info3">Yalnızca reklam olduğundan şüphelenilen popup\'ları engelle</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Güncelleme başarısız oldu.</string>
     <string name="guide_ads_allow">İlana izin verilen siteleri kaydedebilirsiniz.</string>
     <string name="guide_pop_allow">Açılır pencereye izin verilen siteleri kaydedebilirsiniz.</string>
-    <string name="guide_popup_1">Bu sitede yeni bir sayfa açmak üzeresiniz.</string>
-    <string name="guide_popup_2">Yeni sayfa reklam içerebilir.</string>
-    <string name="guide_popup_3">İstediğiniz işlemi menüden seçebilirsiniz.</string>
-    <string name="url_blocked">Tehlikeli site engellendi.</string>
-    <string name="please_retry">Lütfen tekrar deneyin.</string>
-    <string name="blocked">Tıkalı</string>
     <string name="now_delete">Şimdi sil</string>
     <string name="exit_delete">Çıkışta sil</string>
     <string name="exit_guide">Uygulamadan çıktığınızda web etkinliğiniz silinecek.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Button indirilemeyen video için görünmüyor.</string>
     <string name="video_down_guide_3">Bazı sitelerin video algılanmadan önce videoyu oynatması gerekir.\nFarklı siteler farklı davranışlara sahiptir.</string>
     <string name="video_down_guide_4">YouTube politikası nedeniyle, YouTube videoları indirilemiyor.</string>
-    <string name="video_full_guide_1">İndirilebilir videolar tam ekranda oynatılabilir.</string>
+    <string name="video_full_guide_1">Video oynatıcı ile indirilebilir videoları oynatın.</string>
     <string name="video_full_guide_2">Desteklenmeyen formatlarda düğme yoktur.</string>
     <string name="video_full_guide_3">Sitede harici oynatmaya izin vermeyen videolar oynatılamaz.</string>
     <string name="down_limit">Eşzamanlı indirme</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Varsayılan</string>
     <string name="user_defined">Görenek</string>
     <string name="cast_on">Yayınlamayı etkinleştir</string>
-    <string name="show_full">Tam ekranda oynat düğmesi</string>
+    <string name="show_full">Video oynatıcı düğmesi</string>
     <string name="icon_color">Düğme rengi</string>
     <string name="storage_guide_1">Android 10 için güncellendi.</string>
     <string name="storage_guide_2">Android 10\'dan itibaren \'Kapsamlı Depolama\' politikası geçerlidir.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Kalan süre</string>
     <string name="donate_1">Bağış (Kahve)</string>
     <string name="donate_2">Bağış (Hamburger)</string>
-    <string name="donate_3">Bağış (Akşam yemeği)</string>
+    <string name="donate_3">Bağış (Kızarmış tavuk)</string>
+    <string name="donate_4">Bağış (Pizza)</string>
+    <string name="donate_5">Bağış (Akşam yemeği)</string>
     <string name="donate_info">Soul Browser kullandığınız için teşekkür ederiz.\nSoul Browser bağışınız ile korunur.</string>
     <string name="pay_free">Bedava</string>
     <string name="paid">Satın alındı</string>

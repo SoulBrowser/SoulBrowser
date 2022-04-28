@@ -99,6 +99,7 @@
     <string name="next_page">Następna strona</string>
     <string name="tab_gesture">Gest tabulacji</string>
     <string name="pop_block">Blokowanie wyskakujących okienek</string>
+    <string name="pop_blocked">Popup zablokowany</string>
     <string name="pop_block_info1">Blokuj wszystkie wyskakujące okienka</string>
     <string name="pop_block_info2">Blokuj, gdy otwierane są inne witryny (w tym witryny reklamowe)</string>
     <string name="pop_block_info3">Blokuj tylko wyskakujące okienka, które są podejrzewane o reklamy</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Aktualizacja nie powiodła się.</string>
     <string name="guide_ads_allow">Możesz zarejestrować witryny, które są dozwolone Reklamy.</string>
     <string name="guide_pop_allow">Możesz zarejestrować strony, które są dozwolone wyskakujące okienka.</string>
-    <string name="guide_popup_1">Za chwilę otworzysz nową stronę w tej witrynie.</string>
-    <string name="guide_popup_2">Nowa strona może zawierać reklamy.</string>
-    <string name="guide_popup_3">Możesz wybrać żądaną operację z menu.</string>
-    <string name="url_blocked">Niebezpieczna strona zablokowana.</string>
-    <string name="please_retry">Spróbuj ponownie.</string>
-    <string name="blocked">Zablokowany</string>
     <string name="now_delete">Usuń teraz</string>
     <string name="exit_delete">Usuń przy wyjściu</string>
     <string name="exit_guide">Po zamknięciu aplikacji Twoja aktywność internetowa zostanie usunięta.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Przycisk nie pojawia się w przypadku filmów, których nie można pobrać.</string>
     <string name="video_down_guide_3">Niektóre strony muszą odtworzyć wideo, zanim zostanie wykryty.\nRóżne strony zachowują się inaczej.</string>
     <string name="video_down_guide_4">Ze względu na zasady YouTube nie można pobierać filmów z YouTube.</string>
-    <string name="video_full_guide_1">Filmy do pobrania można odtwarzać na pełnym ekranie.</string>
+    <string name="video_full_guide_1">Odtwarzaj filmy do pobrania za pomocą odtwarzacza wideo.</string>
     <string name="video_full_guide_2">Nieobsługiwane formaty nie mają przycisków.</string>
     <string name="video_full_guide_3">Nie można odtwarzać filmów, które nie pozwalają na odtwarzanie zewnętrzne w witrynie.</string>
     <string name="down_limit">Jednoczesne pobieranie</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Domyślnie</string>
     <string name="user_defined">Niestandardowe</string>
     <string name="cast_on">Włącz przesyłanie</string>
-    <string name="show_full">Przycisk odtwarzania na pełnym ekranie</string>
+    <string name="show_full">Przycisk odtwarzacza wideo</string>
     <string name="icon_color">Kolor przycisku</string>
     <string name="storage_guide_1">Zaktualizowano dla Android 10.</string>
     <string name="storage_guide_2">W systemie Android 10 obowiązują zasady \'Scoped Storage\'.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Pozostały czas</string>
     <string name="donate_1">Darowizna (Kawa)</string>
     <string name="donate_2">Darowizna (Hamburger)</string>
-    <string name="donate_3">Darowizna (Obiad)</string>
+    <string name="donate_3">Darowizna (Smażony kurczak)</string>
+    <string name="donate_4">Darowizna (Pizza)</string>
+    <string name="donate_5">Darowizna (Obiad)</string>
     <string name="donate_info">Dziękujemy za korzystanie z przeglądarki Soul Browser.\nSoul Browser jest utrzymywana z Twojej darowizny.</string>
     <string name="pay_free">Darmowy</string>
     <string name="paid">Zakupione</string>

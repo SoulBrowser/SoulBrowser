@@ -99,6 +99,7 @@
     <string name="next_page">Trang tiếp theo</string>
     <string name="tab_gesture">Cử chỉ tab</string>
     <string name="pop_block">Chặn popup</string>
+    <string name="pop_blocked">Bật lên bị chặn</string>
     <string name="pop_block_info1">Chặn tất cả cửa sổ bật lên</string>
     <string name="pop_block_info2">Chặn khi các trang web khác được mở (bao gồm cả các trang web quảng cáo)</string>
     <string name="pop_block_info3">Chỉ chặn các cửa sổ bật lên bị nghi ngờ là quảng cáo</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Cập nhật không thành công.</string>
     <string name="guide_ads_allow">Bạn có thể đăng ký các trang web được phép quảng cáo.</string>
     <string name="guide_pop_allow">Bạn có thể đăng ký các trang web được phép popup.</string>
-    <string name="guide_popup_1">Bạn sắp mở một trang mới trên trang web này.</string>
-    <string name="guide_popup_2">Trang mới có thể chứa quảng cáo.</string>
-    <string name="guide_popup_3">Bạn có thể chọn thao tác mong muốn từ menu.</string>
-    <string name="url_blocked">Trang web nguy hiểm bị chặn.</string>
-    <string name="please_retry">Vui lòng thử lại.</string>
-    <string name="blocked">Bị chặn</string>
     <string name="now_delete">Xóa ngay bây giờ</string>
     <string name="exit_delete">Xóa khi thoát</string>
     <string name="exit_guide">Khi bạn thoát khỏi ứng dụng, hoạt động web của bạn sẽ bị xóa.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Các nút không xuất hiện cho các video không thể tải xuống.</string>
     <string name="video_down_guide_3">Một số trang web cần phát video trước khi phát hiện video.\nCác trang web khác nhau có hành vi khác nhau.</string>
     <string name="video_down_guide_4">Do chính sách của YouTube, video YouTube không thể được tải xuống.</string>
-    <string name="video_full_guide_1">Video tải về có thể được phát ở toàn màn hình.</string>
+    <string name="video_full_guide_1">Phát video có thể tải xuống bằng trình phát video.</string>
     <string name="video_full_guide_2">Các định dạng không được hỗ trợ không có nút.</string>
     <string name="video_full_guide_3">Các video không cho phép phát lại bên ngoài trên trang web sẽ không thể phát được.</string>
     <string name="down_limit">Tải xuống đồng thời</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Mặc định</string>
     <string name="user_defined">Tùy chỉnh</string>
     <string name="cast_on">Cho phép truyền màn hình</string>
-    <string name="show_full">Nút phát toàn màn hình</string>
+    <string name="show_full">Nút trình phát video</string>
     <string name="icon_color">Màu nút</string>
     <string name="storage_guide_1">Đã cập nhật cho Android 10.</string>
     <string name="storage_guide_2">Kể từ Android 10, chính sách \'Lưu trữ có phạm vi\' được áp dụng.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Thời gian còn lại</string>
     <string name="donate_1">Quyên góp (Cà phê)</string>
     <string name="donate_2">Quyên góp (Hamburger)</string>
-    <string name="donate_3">Quyên góp (Bữa tối)</string>
+    <string name="donate_3">Quyên góp (Gà rán)</string>
+    <string name="donate_4">Quyên góp (Pizza)</string>
+    <string name="donate_5">Quyên góp (Bữa tối)</string>
     <string name="donate_info">Cảm ơn bạn đã sử dụng Soul Browser.\nSoul Browser được duy trì bởi sự đóng góp của bạn.</string>
     <string name="pay_free">Miễn phí</string>
     <string name="paid">Đã mua</string>

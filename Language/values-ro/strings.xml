@@ -99,6 +99,7 @@
     <string name="next_page">Pagina următoare</string>
     <string name="tab_gesture">Gest tab</string>
     <string name="pop_block">Blocator popup</string>
+    <string name="pop_blocked">Popup blocat</string>
     <string name="pop_block_info1">Blocați toate ferestrele popup</string>
     <string name="pop_block_info2">Blocați când sunt deschise alte site-uri (inclusiv site-uri de publicitate)</string>
     <string name="pop_block_info3">Blocați numai ferestrele popup suspectate ca reclame</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Actualizare eșuată.</string>
     <string name="guide_ads_allow">Puteți înregistra site-uri care au permis anunțul.</string>
     <string name="guide_pop_allow">Puteți înregistra site-uri care sunt autorizate.</string>
-    <string name="guide_popup_1">Ești pe cale să deschizi o nouă pagină pe acest site.</string>
-    <string name="guide_popup_2">Noua pagină poate conține reclame.</string>
-    <string name="guide_popup_3">Puteți selecta operațiunea dorită din meniu.</string>
-    <string name="url_blocked">Site periculos blocat.</string>
-    <string name="please_retry">Încercați din nou.</string>
-    <string name="blocked">Blocat</string>
     <string name="now_delete">Șterge acum</string>
     <string name="exit_delete">Ștergeți la ieșire</string>
     <string name="exit_guide">Când ieșiți din aplicație, activitatea dvs. web va fi ștearsă.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Butonul nu apare pentru videoclipuri care nu pot fi descărcate.</string>
     <string name="video_down_guide_3">Unele site-uri trebuie să redea videoclipul înainte de detectarea videoclipului.\nSite-urile diferite au un comportament diferit.</string>
     <string name="video_down_guide_4">Datorită politicii YouTube, videoclipurile YouTube nu pot fi descărcate.</string>
-    <string name="video_full_guide_1">Clipurile video descărcate pot fi redate pe ecran complet.</string>
+    <string name="video_full_guide_1">Redați videoclipuri descărcabile cu player video.</string>
     <string name="video_full_guide_2">Formatele neacceptate nu au butoane.</string>
     <string name="video_full_guide_3">Videoclipurile care nu permit redarea externă pe site nu pot fi redate.</string>
     <string name="down_limit">Descărcare simultană</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Implicit</string>
     <string name="user_defined">Personalizat</string>
     <string name="cast_on">Activați cast</string>
-    <string name="show_full">Butonul de redare pe ecran complet</string>
+    <string name="show_full">Butonul de redare video</string>
     <string name="icon_color">Culoarea butonului</string>
     <string name="storage_guide_1">Actualizat pentru Android 10.</string>
     <string name="storage_guide_2">Începând cu Android 10, se aplică politica \'Scoped Storage\'.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Timp ramas</string>
     <string name="donate_1">Donație (Cafea)</string>
     <string name="donate_2">Donație (Hamburger)</string>
-    <string name="donate_3">Donație (Cină)</string>
+    <string name="donate_3">Donație (Pui prăjit)</string>
+    <string name="donate_4">Donație (Pizza)</string>
+    <string name="donate_5">Donație (Cină)</string>
     <string name="donate_info">Vă mulțumim că ați folosit Soul Browser.\nSoul Browser este menținut prin donația dvs.</string>
     <string name="pay_free">Liber</string>
     <string name="paid">Cumparat</string>

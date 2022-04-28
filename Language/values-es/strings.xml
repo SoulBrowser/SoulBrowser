@@ -99,6 +99,7 @@
     <string name="next_page">Siguiente página</string>
     <string name="tab_gesture">Gesto pestaña</string>
     <string name="pop_block">Bloquear popup</string>
+    <string name="pop_blocked">Ventana emergente bloqueada</string>
     <string name="pop_block_info1">Bloquear todas las ventanas emergentes</string>
     <string name="pop_block_info2">Bloquear cuando se abren otros sitios (incluidos los sitios de publicidad)</string>
     <string name="pop_block_info3">Bloquear solo las ventanas emergentes que se sospecha que son anuncios</string>
@@ -326,12 +327,6 @@
     <string name="update_fail">Actualización fallida.</string>
     <string name="guide_ads_allow">Puede registrar sitios que están autorizados a anunciar.</string>
     <string name="guide_pop_allow">Puede registrar sitios que están permitidos popup.</string>
-    <string name="guide_popup_1">Está a punto de abrir una nueva página en este sitio.</string>
-    <string name="guide_popup_2">La nueva página puede contener anuncios.</string>
-    <string name="guide_popup_3">Puede seleccionar la operación deseada desde el menú.</string>
-    <string name="url_blocked">Sitio peligroso bloqueado.</string>
-    <string name="please_retry">Por favor intente de nuevo.</string>
-    <string name="blocked">Bloqueado</string>
     <string name="now_delete">Elimina ahora</string>
     <string name="exit_delete">Eliminar al salir</string>
     <string name="exit_guide">Al salir de la aplicación, se eliminará su actividad web.</string>
@@ -438,7 +433,7 @@
     <string name="video_down_guide_2">Los botones no aparecen para los videos que no se pueden descargar.</string>
     <string name="video_down_guide_3">Algunos sitios necesitan reproducir el video antes de que se detecte el video.\nDiferentes sitios tienen un comportamiento diferente.</string>
     <string name="video_down_guide_4">Debido a la política de YouTube, los videos de YouTube no se pueden descargar.</string>
-    <string name="video_full_guide_1">Los videos descargables se pueden reproducir en pantalla completa.</string>
+    <string name="video_full_guide_1">Reproducir videos descargables con reproductor de video.</string>
     <string name="video_full_guide_2">Los formatos no compatibles no tienen botones.</string>
     <string name="video_full_guide_3">Los videos que no permiten la reproducción externa en el sitio no se pueden reproducir.</string>
     <string name="down_limit">Descarga simultánea</string>
@@ -550,7 +545,7 @@
     <string name="default_title">Defecto</string>
     <string name="user_defined">Personalizado</string>
     <string name="cast_on">Habilitar Enviar a TV</string>
-    <string name="show_full">Botón de reproducción en pantalla completa</string>
+    <string name="show_full">Botón del reproductor de vídeo</string>
     <string name="icon_color">Color del botón</string>
     <string name="storage_guide_1">Actualizado para Android 10.</string>
     <string name="storage_guide_2">A partir de Android 10, se aplica la política de \'Almacenamiento con ámbito\'.</string>
@@ -711,7 +706,9 @@
     <string name="reward_ads_time">Tiempo restante</string>
     <string name="donate_1">Donación (Café)</string>
     <string name="donate_2">Donación (Hamburguesa)</string>
-    <string name="donate_3">Donación (Cena)</string>
+    <string name="donate_3">Donación (Pollo frito)</string>
+    <string name="donate_4">Donación (Pizza)</string>
+    <string name="donate_5">Donación (Cena)</string>
     <string name="donate_info">Gracias por usar Soul Browser.\nSoul Browser se mantiene gracias a su donación.</string>
     <string name="pay_free">Gratis</string>
     <string name="paid">Comprado</string>
