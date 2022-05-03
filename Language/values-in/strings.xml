@@ -702,7 +702,6 @@
     <string name="reward_ads">Hapus Iklan Dalam Aplikasi dengan Menonton Iklan</string>
     <string name="reward_ads_info_1">Saat Anda menonton iklan sampai akhir, iklan dalam aplikasi akan dihapus selama 1 jam.</string>
     <string name="reward_ads_info_2">Menghapus aplikasi atau data aplikasi akan menyetel ulang waktu yang tersisa.</string>
-    <string name="reward_ads_info_3">Tidak ada pengaruhnya jika Anda sudah membelinya.</string>
     <string name="reward_ads_time">Waktu yang tersisa</string>
     <string name="donate_1">Donasi (Kopi)</string>
     <string name="donate_2">Donasi (Hamburger)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Tombol mengambang</string>
     <string name="button_title">Tombol</string>
     <string name="always_visible">Selalu terlihat</string>
+    <string name="guide_tsfile">Jika file dienkripsi, file tidak dapat diputar.</string>
 </resources>

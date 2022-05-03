@@ -702,7 +702,6 @@
     <string name="reward_ads">Usuń reklamy w aplikacji, oglądając reklamy</string>
     <string name="reward_ads_info_1">Gdy obejrzysz reklamę do końca, reklama w aplikacji zostanie usunięta na 1 godzinę.</string>
     <string name="reward_ads_info_2">Usunięcie aplikacji lub danych aplikacji resetuje pozostały czas.</string>
-    <string name="reward_ads_info_3">Nie ma żadnego efektu, jeśli już go kupiłeś.</string>
     <string name="reward_ads_time">Pozostały czas</string>
     <string name="donate_1">Darowizna (Kawa)</string>
     <string name="donate_2">Darowizna (Hamburger)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Pływający przycisk</string>
     <string name="button_title">Przycisk</string>
     <string name="always_visible">Zawsze widoczny</string>
+    <string name="guide_tsfile">Jeśli plik jest zaszyfrowany, nie można go odtworzyć.</string>
 </resources>

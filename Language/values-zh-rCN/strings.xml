@@ -702,7 +702,6 @@
     <string name="reward_ads">通过观看广告移除应用内广告</string>
     <string name="reward_ads_info_1">当您观看广告时，应用内广告将被移除 1 小时</string>
     <string name="reward_ads_info_2">删除应用程序或应用程序的数据会重置剩余时间</string>
-    <string name="reward_ads_info_3">如果您已经购买，则没有任何影响</string>
     <string name="reward_ads_time">剩余时间</string>
     <string name="donate_1">捐赠（咖啡）</string>
     <string name="donate_2">捐赠（汉堡包）</string>
@@ -880,4 +879,5 @@
     <string name="float_button">浮动按钮</string>
     <string name="button_title">按钮</string>
     <string name="always_visible">始终可见</string>
+    <string name="guide_tsfile">如果文件被加密，则无法播放</string>
 </resources>

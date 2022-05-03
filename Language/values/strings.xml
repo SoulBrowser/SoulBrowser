@@ -702,7 +702,6 @@
     <string name="reward_ads">Remove in-app ads by watching ads</string>
     <string name="reward_ads_info_1">When you watch the ad to the end, the in-app ad will be removed for 1 hour.</string>
     <string name="reward_ads_info_2">Deleting an app or app\'s data resets the remaining time.</string>
-    <string name="reward_ads_info_3">It has no effect if you have already purchased it.</string>
     <string name="reward_ads_time">Time remaining</string>
     <string name="donate_1">Donation (Coffee)</string>
     <string name="donate_2">Donation (Hamburger)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Floating button</string>
     <string name="button_title">Button</string>
     <string name="always_visible">Always visible</string>
+    <string name="guide_tsfile">If the file is encrypted, it cannot be played.</string>
 </resources>

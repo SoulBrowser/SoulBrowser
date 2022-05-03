@@ -702,7 +702,6 @@
     <string name="reward_ads">Xóa quảng cáo trong ứng dụng bằng cách xem quảng cáo</string>
     <string name="reward_ads_info_1">Khi bạn xem quảng cáo đến cuối, quảng cáo trong ứng dụng sẽ bị xóa trong 1 giờ.</string>
     <string name="reward_ads_info_2">Xóa ứng dụng hoặc dữ liệu của ứng dụng sẽ đặt lại thời gian còn lại.</string>
-    <string name="reward_ads_info_3">Nó không có hiệu lực nếu bạn đã mua nó.</string>
     <string name="reward_ads_time">Thời gian còn lại</string>
     <string name="donate_1">Quyên góp (Cà phê)</string>
     <string name="donate_2">Quyên góp (Hamburger)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Nút nổi</string>
     <string name="button_title">Cái nút</string>
     <string name="always_visible">Luôn luôn nhìn thấy</string>
+    <string name="guide_tsfile">Nếu tệp được mã hóa, nó không thể phát được.</string>
 </resources>

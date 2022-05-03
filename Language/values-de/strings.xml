@@ -702,7 +702,6 @@
     <string name="reward_ads">Entfernen Sie In-App-Anzeigen, indem Sie sich Anzeigen ansehen</string>
     <string name="reward_ads_info_1">Wenn Sie die Anzeige bis zum Ende ansehen, wird die In-App-Anzeige 1 Stunde lang entfernt.</string>
     <string name="reward_ads_info_2">Durch das Löschen einer App oder der Daten einer App wird die verbleibende Zeit zurückgesetzt.</string>
-    <string name="reward_ads_info_3">Es hat keine Auswirkung, wenn Sie es bereits gekauft haben.</string>
     <string name="reward_ads_time">Verbleibende Zeit</string>
     <string name="donate_1">Spende (Kaffee)</string>
     <string name="donate_2">Spende (Hamburger)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Schwebende Schaltfläche</string>
     <string name="button_title">Taste</string>
     <string name="always_visible">Immer sichtbar</string>
+    <string name="guide_tsfile">Wenn die Datei verschlüsselt ist, kann sie nicht wiedergegeben werden.</string>
 </resources>

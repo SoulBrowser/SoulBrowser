@@ -702,7 +702,6 @@
     <string name="reward_ads">Reklamları İzleyerek Uygulama İçi Reklamları Kaldırın</string>
     <string name="reward_ads_info_1">Reklamı sonuna kadar izlediğinizde uygulama içi reklam 1 saatliğine kaldırılacaktır.</string>
     <string name="reward_ads_info_2">Bir uygulamanın veya uygulamanın verilerinin silinmesi, kalan süreyi sıfırlar.</string>
-    <string name="reward_ads_info_3">Zaten satın aldıysanız hiçbir etkisi yoktur.</string>
     <string name="reward_ads_time">Kalan süre</string>
     <string name="donate_1">Bağış (Kahve)</string>
     <string name="donate_2">Bağış (Hamburger)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Kayan düğme</string>
     <string name="button_title">Buton</string>
     <string name="always_visible">Her zaman görünür</string>
+    <string name="guide_tsfile">Dosya şifreliyse oynatılamaz.</string>
 </resources>

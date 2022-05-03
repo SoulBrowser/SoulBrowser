@@ -702,7 +702,6 @@
     <string name="reward_ads">Elimina los anuncios en la aplicación viendo anuncios</string>
     <string name="reward_ads_info_1">Cuando vea el anuncio hasta el final, el anuncio en la aplicación se eliminará durante 1 hora.</string>
     <string name="reward_ads_info_2">Eliminar una aplicación o los datos de una aplicación restablece el tiempo restante.</string>
-    <string name="reward_ads_info_3">No tiene ningún efecto si ya lo ha comprado.</string>
     <string name="reward_ads_time">Tiempo restante</string>
     <string name="donate_1">Donación (Café)</string>
     <string name="donate_2">Donación (Hamburguesa)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Botón flotante</string>
     <string name="button_title">Botón</string>
     <string name="always_visible">Siempre visible</string>
+    <string name="guide_tsfile">Si el archivo está encriptado, no se puede reproducir.</string>
 </resources>

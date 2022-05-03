@@ -702,7 +702,6 @@
     <string name="reward_ads">Eliminați anunțurile în aplicație urmărind anunțurile</string>
     <string name="reward_ads_info_1">Când urmăriți anunțul până la final, anunțul din aplicație va fi eliminat timp de 1 oră.</string>
     <string name="reward_ads_info_2">Ștergerea unei aplicații sau a datelor aplicației resetează timpul rămas.</string>
-    <string name="reward_ads_info_3">Nu are niciun efect dacă l-ați cumpărat deja.</string>
     <string name="reward_ads_time">Timp ramas</string>
     <string name="donate_1">Donație (Cafea)</string>
     <string name="donate_2">Donație (Hamburger)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Buton plutitor</string>
     <string name="button_title">Buton</string>
     <string name="always_visible">Mereu vizibile</string>
+    <string name="guide_tsfile">Dacă fișierul este criptat, nu poate fi redat.</string>
 </resources>

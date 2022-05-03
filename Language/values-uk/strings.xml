@@ -702,7 +702,6 @@
     <string name="reward_ads">Видаліть оголошення в додатку, переглянувши оголошення</string>
     <string name="reward_ads_info_1">Коли ви переглянете оголошення до кінця, оголошення в додатку буде видалено на 1 годину.</string>
     <string name="reward_ads_info_2">Видалення програми або даних програми скидає час, що залишився.</string>
-    <string name="reward_ads_info_3">Це не діє, якщо ви його вже купили.</string>
     <string name="reward_ads_time">Час, що залишився</string>
     <string name="donate_1">Пожертвування (Кава)</string>
     <string name="donate_2">Пожертвування (Гамбургер)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Плаваюча кнопка</string>
     <string name="button_title">Кнопка</string>
     <string name="always_visible">Завжди видно</string>
+    <string name="guide_tsfile">Якщо файл зашифрований, його неможливо відтворити.</string>
 </resources>

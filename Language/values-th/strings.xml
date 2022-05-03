@@ -702,7 +702,6 @@
     <string name="reward_ads">ลบโฆษณาในแอปด้วยการดูโฆษณา</string>
     <string name="reward_ads_info_1">เมื่อคุณดูโฆษณาจนจบ โฆษณาในแอปจะถูกลบออกเป็นเวลา 1 ชั่วโมง</string>
     <string name="reward_ads_info_2">การลบแอพหรือข้อมูลของแอพจะรีเซ็ตเวลาที่เหลืออยู่</string>
-    <string name="reward_ads_info_3">ไม่มีผลหากคุณซื้อไปแล้ว</string>
     <string name="reward_ads_time">เวลาที่เหลืออยู่</string>
     <string name="donate_1">บริจาค (กาแฟ)</string>
     <string name="donate_2">บริจาค (แฮมเบอร์เกอร์)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">ปุ่มลอย</string>
     <string name="button_title">ปุ่ม</string>
     <string name="always_visible">มองเห็นได้เสมอ</string>
+    <string name="guide_tsfile">หากไฟล์ถูกเข้ารหัส จะไม่สามารถเล่นได้</string>
 </resources>

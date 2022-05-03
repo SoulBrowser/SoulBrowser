@@ -702,7 +702,6 @@
     <string name="reward_ads">إزالة الإعلانات داخل التطبيق عن طريق مشاهدة الإعلانات</string>
     <string name="reward_ads_info_1">عندما تشاهد الإعلان حتى النهاية ، ستتم إزالة الإعلان داخل التطبيق لمدة ساعة واحدة.</string>
     <string name="reward_ads_info_2">يؤدي حذف بيانات التطبيق أو التطبيق إلى إعادة تعيين الوقت المتبقي.</string>
-    <string name="reward_ads_info_3">ليس له أي تأثير إذا كنت قد اشتريته بالفعل.</string>
     <string name="reward_ads_time">الوقت المتبقي</string>
     <string name="donate_1">تبرع (قهوة)</string>
     <string name="donate_2">تبرع (همبرغر)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">زر عائم</string>
     <string name="button_title">زر</string>
     <string name="always_visible">دائما مرئي</string>
+    <string name="guide_tsfile">إذا تم تشفير الملف ، فلا يمكن تشغيله.</string>
 </resources>

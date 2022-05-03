@@ -702,7 +702,6 @@
     <string name="reward_ads">Rimuovi gli annunci in-app guardando gli annunci</string>
     <string name="reward_ads_info_1">Quando guardi l\'annuncio fino alla fine, l\'annuncio in-app verrà rimosso per 1 ora.</string>
     <string name="reward_ads_info_2">L\'eliminazione di un\'app o dei dati di un\'app azzera il tempo rimanente.</string>
-    <string name="reward_ads_info_3">Non ha alcun effetto se l\'hai già acquistato.</string>
     <string name="reward_ads_time">Tempo rimanente</string>
     <string name="donate_1">Donazione (Caffè)</string>
     <string name="donate_2">Donazione (Hamburger)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Pulsante mobile</string>
     <string name="button_title">Pulsante</string>
     <string name="always_visible">Sempre visibile</string>
+    <string name="guide_tsfile">Se il file è crittografato, non può essere riprodotto.</string>
 </resources>

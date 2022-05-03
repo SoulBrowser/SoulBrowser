@@ -702,7 +702,6 @@
     <string name="reward_ads">広告視聴にアプリ内広告を削除</string>
     <string name="reward_ads_info_1">広告を最後まで視聴したら、アプリ内広告が1時間中に削除されます。</string>
     <string name="reward_ads_info_2">アプリやアプリのデータを削除すると、残り時間が初期化されます。</string>
-    <string name="reward_ads_info_3">既に購入した場合には効果がありません。</string>
     <string name="reward_ads_time">残り時間</string>
     <string name="donate_1">寄付（コーヒー）</string>
     <string name="donate_2">寄付（ハンバーガー）</string>
@@ -880,4 +879,5 @@
     <string name="float_button">フローティングボタン</string>
     <string name="button_title">ボタン</string>
     <string name="always_visible">いつも見える</string>
+    <string name="guide_tsfile">ファイルが暗号化されていると再生できません。</string>
 </resources>

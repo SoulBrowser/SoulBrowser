@@ -702,7 +702,6 @@
     <string name="reward_ads">광고 시청으로 인앱 광고 제거</string>
     <string name="reward_ads_info_1">광고를 끝까지 시청하면, 인앱 광고가 1시간 동안 제거됩니다.</string>
     <string name="reward_ads_info_2">앱 또는 앱의 데이터를 삭제하면 남은 시간이 초기화됩니다.</string>
-    <string name="reward_ads_info_3">이미 구매한 경우에는 효과가 없습니다.</string>
     <string name="reward_ads_time">남은 시간</string>
     <string name="donate_1">기부 (커피)</string>
     <string name="donate_2">기부 (햄버거)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">플로팅 버튼</string>
     <string name="button_title">버튼</string>
     <string name="always_visible">항상 보이기</string>
+    <string name="guide_tsfile">파일이 암호화되어 있으면 재생할 수 없습니다.</string>
 </resources>

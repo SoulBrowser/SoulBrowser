@@ -702,7 +702,6 @@
     <string name="reward_ads">Supprimer les publicités intégrées à l\'application en regardant les publicités</string>
     <string name="reward_ads_info_1">Lorsque vous regardez l\'annonce jusqu\'à la fin, l\'annonce intégrée à l\'application est supprimée pendant 1 heure.</string>
     <string name="reward_ads_info_2">La suppression d\'une application ou des données d\'une application réinitialise le temps restant.</string>
-    <string name="reward_ads_info_3">Il n\'a aucun effet si vous l\'avez déjà acheté.</string>
     <string name="reward_ads_time">Temps restant</string>
     <string name="donate_1">Don (Café)</string>
     <string name="donate_2">Don (Hamburger)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Bouton flottant</string>
     <string name="button_title">Bouton</string>
     <string name="always_visible">Toujours visible</string>
+    <string name="guide_tsfile">Si le fichier est crypté, il ne peut pas être lu.</string>
 </resources>

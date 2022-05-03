@@ -702,7 +702,6 @@
     <string name="reward_ads">Удалите рекламу в приложениях, просматривая рекламу</string>
     <string name="reward_ads_info_1">Когда вы просмотрите рекламу до конца, реклама в приложении будет удалена на 1 час.</string>
     <string name="reward_ads_info_2">Удаление приложения или данных приложения сбрасывает оставшееся время.</string>
-    <string name="reward_ads_info_3">Он не действует, если вы его уже купили.</string>
     <string name="reward_ads_time">Времени осталось</string>
     <string name="donate_1">Пожертвование (Кофе)</string>
     <string name="donate_2">Пожертвование (Гамбургер)</string>
@@ -880,4 +879,5 @@
     <string name="float_button">Плавающая кнопка</string>
     <string name="button_title">Кнопка</string>
     <string name="always_visible">Всегда видимый</string>
+    <string name="guide_tsfile">Если файл зашифрован, его невозможно воспроизвести.</string>
 </resources>
