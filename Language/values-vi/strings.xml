@@ -616,6 +616,7 @@
     <string name="delete_tab">Đóng tab</string>
     <string name="delete_all_tab">Đóng tất cả cửa sổ</string>
     <string name="delete_other_tab">Đóng các tab khác</string>
+    <string name="group_other_tab">Đóng các tab khác trong nhóm</string>
     <string name="mini_mode">Chế độ nhỏ</string>
     <string name="home_close">Nhấp vào biểu tượng trang chủ để đóng tất cả các tab</string>
     <string name="reader_mode">Chế độ đầu đọc</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">Nếu trang web bạn truy cập hỗ trợ các chủ đề, nó sẽ áp dụng cho trình duyệt của bạn.</string>
     <string name="prev_tab">Tab trước</string>
     <string name="next_tab">Tab tiếp theo</string>
-    <string name="accent_tab">Đánh dấu tab đã chọn</string>
     <string name="accent_text">Văn bản nổi bật</string>
     <string name="accent_color">Tô màu</string>
     <string name="app_keyboard">Kích hoạt bàn phím khi khởi động ứng dụng</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Thêm tab vào đâu</string>
     <string name="tab_add_next">Bên cạnh tab hiện tại</string>
     <string name="tab_add_last">Cuối danh sách tab</string>
+    <string name="tab_group">Tập đoàn</string>
     <string name="auto_group">Nhóm tự động</string>
     <string name="auto_group_info">Chúng tự động được nhóm lại khi một cửa sổ mới mở ra trên trang web.</string>
     <string name="tab_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ tab.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Phụ đề tắt</string>
     <string name="sub_sync">Đồng bộ phụ đề</string>
     <string name="sub_line">Đề cương</string>
+    <string name="outline_color">Màu phác thảo</string>
     <string name="sub_guide">Bạn có thể thay đổi vị trí bằng cách kéo phụ đề.</string>
     <string name="multi">Đa</string>
     <string name="notification">Thông báo</string>

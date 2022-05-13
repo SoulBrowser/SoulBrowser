@@ -616,6 +616,7 @@
     <string name="delete_tab">ปิดแท็บ</string>
     <string name="delete_all_tab">ปิดแท็บทั้งหมด</string>
     <string name="delete_other_tab">ปิดแท็บอื่น ๆ</string>
+    <string name="group_other_tab">ปิดแท็บอื่นๆ ภายในกลุ่ม</string>
     <string name="mini_mode">โหมดมินิ</string>
     <string name="home_close">คลิกที่ไอคอนหน้าแรกเพื่อปิดแท็บทั้งหมด</string>
     <string name="reader_mode">โหมดผู้อ่าน</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">หากไซต์ที่คุณเยี่ยมชมรองรับธีมไซต์นั้นจะใช้กับเบราว์เซอร์ของคุณ</string>
     <string name="prev_tab">แท็บก่อนหน้า</string>
     <string name="next_tab">แท็บถัดไป</string>
-    <string name="accent_tab">ไฮไลต์แท็บที่เลือก</string>
     <string name="accent_text">ไฮไลต์ข้อความ</string>
     <string name="accent_color">เน้นสี</string>
     <string name="app_keyboard">การเปิดใช้งานแป้นพิมพ์เมื่อเริ่มต้นแอป</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">จะเพิ่มแท็บได้ที่ไหน</string>
     <string name="tab_add_next">ถัดจากแท็บปัจจุบัน</string>
     <string name="tab_add_last">ท้ายรายการแท็บ</string>
+    <string name="tab_group">กลุ่ม</string>
     <string name="auto_group">การจัดกลุ่มอัตโนมัติ</string>
     <string name="auto_group_info">พวกเขาจะถูกจัดกลุ่มโดยอัตโนมัติเมื่อหน้าต่างใหม่เปิดขึ้นบนไซต์</string>
     <string name="tab_guide_1">1. คุณสามารถย้ายได้โดยกดแท็บค้างไว้</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">ปิดคำบรรยาย</string>
     <string name="sub_sync">การซิงค์คำบรรยาย</string>
     <string name="sub_line">เค้าร่าง</string>
+    <string name="outline_color">สีเค้าร่าง</string>
     <string name="sub_guide">คุณสามารถเปลี่ยนตำแหน่งได้โดยการลากคำบรรยาย</string>
     <string name="multi">Multi</string>
     <string name="notification">การแจ้งเตือน</string>

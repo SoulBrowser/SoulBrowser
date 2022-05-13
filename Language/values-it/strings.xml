@@ -616,6 +616,7 @@
     <string name="delete_tab">Chiudi schede</string>
     <string name="delete_all_tab">Chiudi tutte le schede</string>
     <string name="delete_other_tab">Chiudi le altre schede</string>
+    <string name="group_other_tab">Chiudi le altre schede all\'interno del gruppo</string>
     <string name="mini_mode">Modalità mini</string>
     <string name="home_close">Fare clic sull\'icona della homepage per chiudere tutte le schede</string>
     <string name="reader_mode">Modalità reader</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">Se il sito che visiti supporta temi, si applica al tuo browser.</string>
     <string name="prev_tab">Schede precedente</string>
     <string name="next_tab">Schede successiva</string>
-    <string name="accent_tab">Evidenzia la schede selezionata</string>
     <string name="accent_text">Testo evidenziato</string>
     <string name="accent_color">Evidenzia il colore</string>
     <string name="app_keyboard">Attivazione della tastiera all\'avvio dell\'app</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Dove aggiungere schede tab</string>
     <string name="tab_add_next">Accanto alla schede corrente</string>
     <string name="tab_add_last">Fine dell\'elenco delle schede</string>
+    <string name="tab_group">Gruppo</string>
     <string name="auto_group">Raggruppamento automatico</string>
     <string name="auto_group_info">Vengono raggruppate automaticamente quando si apre una nuova finestra sul sito.</string>
     <string name="tab_guide_1">1. Puoi muoverti premendo e tenendo premuta la schede.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Sottotitoli disattivati</string>
     <string name="sub_sync">Sincronizzazione dei sottotitoli</string>
     <string name="sub_line">Schema</string>
+    <string name="outline_color">Colore del contorno</string>
     <string name="sub_guide">Puoi cambiare la posizione trascinando i sottotitoli.</string>
     <string name="multi">Multi</string>
     <string name="notification">Notifica</string>

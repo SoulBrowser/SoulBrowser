@@ -616,6 +616,7 @@
     <string name="delete_tab">Tutup tab</string>
     <string name="delete_all_tab">Tutup semua tab</string>
     <string name="delete_other_tab">Tutup tab lain</string>
+    <string name="group_other_tab">Tutup tab lain dalam grup</string>
     <string name="mini_mode">Mode mini</string>
     <string name="home_close">Klik ikon beranda untuk menutup semua tab</string>
     <string name="reader_mode">Mode pembaca</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">Jika situs yang Anda kunjungi mendukung tema, itu berlaku untuk browser Anda.</string>
     <string name="prev_tab">Tab sebelumnya</string>
     <string name="next_tab">Tab selanjutnya</string>
-    <string name="accent_tab">Sorot tab yang dipilih</string>
     <string name="accent_text">Sorot teks</string>
     <string name="accent_color">Warna sorot</string>
     <string name="app_keyboard">Aktivasi keyboard saat memulai aplikasi</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Tempat menambahkan tab tab</string>
     <string name="tab_add_next">Di sebelah tab saat ini</string>
     <string name="tab_add_last">Akhir daftar tab</string>
+    <string name="tab_group">Kelompok</string>
     <string name="auto_group">Pengelompokan otomatis</string>
     <string name="auto_group_info">Mereka secara otomatis dikelompokkan ketika jendela baru terbuka di situs.</string>
     <string name="tab_guide_1">1. Anda dapat bergerak dengan menekan dan menahan tab.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Subtitel mati</string>
     <string name="sub_sync">Sinkronisasi subtitle</string>
     <string name="sub_line">Garis besar</string>
+    <string name="outline_color">Warna garis besar</string>
     <string name="sub_guide">Anda dapat mengubah posisi dengan menyeret subtitle.</string>
     <string name="multi">Multi</string>
     <string name="notification">Pemberitahuan</string>

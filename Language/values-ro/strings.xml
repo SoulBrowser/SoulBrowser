@@ -616,6 +616,7 @@
     <string name="delete_tab">Închideți fila</string>
     <string name="delete_all_tab">Inchide toate filele</string>
     <string name="delete_other_tab">Închideți alte file</string>
+    <string name="group_other_tab">Închideți celelalte file din grup</string>
     <string name="mini_mode">Mod mini</string>
     <string name="home_close">Faceți clic pe pictograma paginii de pornire pentru a închide toate filele</string>
     <string name="reader_mode">Modul cititor</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">Dacă site ul pe care îl accesați acceptă teme, se aplică browserului dvs.</string>
     <string name="prev_tab">Fila anterioară</string>
     <string name="next_tab">Fila următoare</string>
-    <string name="accent_tab">Evidențiați fila selectată</string>
     <string name="accent_text">Text subliniat</string>
     <string name="accent_color">Evidențiați culoarea</string>
     <string name="app_keyboard">Activarea tastaturii la pornirea aplicației</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Unde să adăugați file</string>
     <string name="tab_add_next">Lângă fila curentă</string>
     <string name="tab_add_last">Sfârșitul listei de file</string>
+    <string name="tab_group">Grup</string>
     <string name="auto_group">Gruparea automată</string>
     <string name="auto_group_info">Acestea sunt grupate automat când se deschide o nouă fereastră pe site.</string>
     <string name="tab_guide_1">1. Vă puteți mișca apăsând și menținând apăsată fila.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Subtitrare dezactivată</string>
     <string name="sub_sync">Sincronizare subtitrare</string>
     <string name="sub_line">Contur</string>
+    <string name="outline_color">Culoarea conturului</string>
     <string name="sub_guide">Poți schimba poziția trăgând subtitrările.</string>
     <string name="multi">Multi</string>
     <string name="notification">Notificare</string>

@@ -616,6 +616,7 @@
     <string name="delete_tab">关闭标签</string>
     <string name="delete_all_tab">关闭所有标签</string>
     <string name="delete_other_tab">关闭其它标签</string>
+    <string name="group_other_tab">关闭组内的其他选项卡</string>
     <string name="mini_mode">迷你模式</string>
     <string name="home_close">单击主页图标以关闭所有标签</string>
     <string name="reader_mode">阅读模式</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">当你访问的网站支持主题时适用</string>
     <string name="prev_tab">上一个标签</string>
     <string name="next_tab">下一个标签</string>
-    <string name="accent_tab">突出显示选定的标签</string>
     <string name="accent_text">突出显示文字</string>
     <string name="accent_color">突出显示颜色</string>
     <string name="app_keyboard">应用启动时激活键盘</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">在哪里添加标签</string>
     <string name="tab_add_next">在当前选项卡旁边</string>
     <string name="tab_add_last">标签列表结束</string>
+    <string name="tab_group">团体</string>
     <string name="auto_group">自动分组</string>
     <string name="auto_group_info">在站点上打开新窗口时，它们会自动分组</string>
     <string name="tab_guide_1">1. 您可以通过按住选项卡来移动</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">字幕关闭</string>
     <string name="sub_sync">字幕同步</string>
     <string name="sub_line">大纲</string>
+    <string name="outline_color">轮廓颜色</string>
     <string name="sub_guide">您可以通过拖动字幕来更改位置</string>
     <string name="multi">多</string>
     <string name="notification">通知</string>

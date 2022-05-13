@@ -616,6 +616,7 @@
     <string name="delete_tab">Fermer l\'onglet</string>
     <string name="delete_all_tab">Fermer tous les onglets</string>
     <string name="delete_other_tab">Fermer les autres onglets</string>
+    <string name="group_other_tab">Fermer les autres onglets du groupe</string>
     <string name="mini_mode">Mini mode</string>
     <string name="home_close">Cliquez sur l\'icône de la page d\'accueil pour fermer tous les onglets</string>
     <string name="reader_mode">Mode lecteur</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">Si le site que vous visitez prend en charge des thèmes, il s\'applique à votre navigateur.</string>
     <string name="prev_tab">Onglet précédent</string>
     <string name="next_tab">Onglet suivant</string>
-    <string name="accent_tab">Mettre en surbrillance l\'onglet sélectionné</string>
     <string name="accent_text">Texte surligné</string>
     <string name="accent_color">Couleur de surbrillance</string>
     <string name="app_keyboard">Activation du clavier au démarrage de l\'application</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Où ajouter des onglets</string>
     <string name="tab_add_next">À côté de l\'onglet actuel</string>
     <string name="tab_add_last">Fin de la liste des onglets</string>
+    <string name="tab_group">Grouper</string>
     <string name="auto_group">Regroupement automatique</string>
     <string name="auto_group_info">Ils sont automatiquement regroupés lorsqu\'une nouvelle fenêtre s\'ouvre sur le site.</string>
     <string name="tab_guide_1">1. Vous pouvez vous déplacer en appuyant sur l\'onglet et en le maintenant enfoncé.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Sous-titre désactivé</string>
     <string name="sub_sync">Synchronisation des sous-titres</string>
     <string name="sub_line">Présenter</string>
+    <string name="outline_color">Couleur de contour</string>
     <string name="sub_guide">Vous pouvez modifier la position en faisant glisser les sous-titres.</string>
     <string name="multi">Multi</string>
     <string name="notification">Notification</string>

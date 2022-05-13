@@ -616,6 +616,7 @@
     <string name="delete_tab">Close tab</string>
     <string name="delete_all_tab">Close all tabs</string>
     <string name="delete_other_tab">Close other tabs</string>
+    <string name="group_other_tab">Close other tabs within the group</string>
     <string name="mini_mode">Mini mode</string>
     <string name="home_close">Click on the homepage icon to close all tabs</string>
     <string name="reader_mode">Reader mode</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">If the site you visit supports themes, it applies to browser.</string>
     <string name="prev_tab">Previous tab</string>
     <string name="next_tab">Next tab</string>
-    <string name="accent_tab">Highlight selected tab</string>
     <string name="accent_text">Highlight text</string>
     <string name="accent_color">Highlight color</string>
     <string name="app_keyboard">Keyboard activation on app startup</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Where to add tabs</string>
     <string name="tab_add_next">Next to the current tab</string>
     <string name="tab_add_last">End of tab list</string>
+    <string name="tab_group">Group</string>
     <string name="auto_group">Automatic grouping</string>
     <string name="auto_group_info">They are automatically grouped when a new window opens on the site.</string>
     <string name="tab_guide_1">1. You can move by pressing and holding the tab.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Subtitle off</string>
     <string name="sub_sync">Subtitle sync</string>
     <string name="sub_line">Outline</string>
+    <string name="outline_color">Outline color</string>
     <string name="sub_guide">You can change the position by dragging the subtitles.</string>
     <string name="multi">Multi</string>
     <string name="notification">Notification</string>

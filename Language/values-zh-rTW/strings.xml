@@ -616,6 +616,7 @@
     <string name="delete_tab">關閉標籤</string>
     <string name="delete_all_tab">關閉所有分頁</string>
     <string name="delete_other_tab">關閉其他分頁</string>
+    <string name="group_other_tab">關閉組內的其他選項卡</string>
     <string name="mini_mode">迷你模式</string>
     <string name="home_close">單擊主頁圖標以關閉所有分頁</string>
     <string name="reader_mode">閱讀器模式</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">如果您訪問的網站支持主題，則適用於您的瀏覽器</string>
     <string name="prev_tab">上一個分頁</string>
     <string name="next_tab">下一個分頁</string>
-    <string name="accent_tab">突出顯示選定的分頁</string>
     <string name="accent_text">突出显示文字</string>
     <string name="accent_color">突出顯示顏色</string>
     <string name="app_keyboard">應用啟動時啟用鍵盤</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">在哪裡添加標籤</string>
     <string name="tab_add_next">在當前選項卡旁邊</string>
     <string name="tab_add_last">標籤列表結束</string>
+    <string name="tab_group">團體</string>
     <string name="auto_group">自動分組</string>
     <string name="auto_group_info">在站點上打開新窗口時，它們會自動分組</string>
     <string name="tab_guide_1">1. 您可以通過按住選項卡來移動</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">字幕關閉</string>
     <string name="sub_sync">字幕同步</string>
     <string name="sub_line">大綱</string>
+    <string name="outline_color">輪廓顏色</string>
     <string name="sub_guide">您可以通過拖動字幕來更改位置</string>
     <string name="multi">多</string>
     <string name="notification">通知</string>

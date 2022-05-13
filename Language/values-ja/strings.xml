@@ -616,6 +616,7 @@
     <string name="delete_tab">タブを閉じる</string>
     <string name="delete_all_tab">すべてのタブを閉じる</string>
     <string name="delete_other_tab">他のタブを閉じる</string>
+    <string name="group_other_tab">グループ内の他のタブを閉じる</string>
     <string name="mini_mode">ミニモード</string>
     <string name="home_close">ホームページのアイコンをクリックして、すべてのタブを閉じる</string>
     <string name="reader_mode">リーダーモード</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">訪問したサイトがテーマをサポートしている場合は、ブラウザに適用されます。</string>
     <string name="prev_tab">前のタブ</string>
     <string name="next_tab">次のタブ</string>
-    <string name="accent_tab">選択されたタブを強調</string>
     <string name="accent_text">テキストを強調表示</string>
     <string name="accent_color">ハイライトカラー</string>
     <string name="app_keyboard">アプリの起動時にキーボードを有効に</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">タブの追加位置</string>
     <string name="tab_add_next">現在のタブの隣</string>
     <string name="tab_add_last">タブのリストの終わり</string>
+    <string name="tab_group">グループ</string>
     <string name="auto_group">自動グループ化</string>
     <string name="auto_group_info">サイトで新しいウィンドウが開いたら、自動的にグループ化されます。</string>
     <string name="tab_guide_1">1. タブを押したままに移動することができます。</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">字幕オフ</string>
     <string name="sub_sync">字幕同期</string>
     <string name="sub_line">アウトライン</string>
+    <string name="outline_color">アウトラインの色</string>
     <string name="sub_guide">字幕をドラッグして位置を変更できます。</string>
     <string name="multi">マルチ</string>
     <string name="notification">通知</string>

@@ -616,6 +616,7 @@
     <string name="delete_tab">Закрити вкладку</string>
     <string name="delete_all_tab">Закрийте всі вкладки</string>
     <string name="delete_other_tab">Закрийте інші вкладки</string>
+    <string name="group_other_tab">Закрийте інші вкладки в групі</string>
     <string name="mini_mode">Міні-режим</string>
     <string name="home_close">Натисніть на піктограму домашньої сторінки, щоб закрити всі вкладки</string>
     <string name="reader_mode">Режим читання</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">Якщо веб-сайт, який ви відвідуєте, підтримує теми, він стосується браузера.</string>
     <string name="prev_tab">Попередня вкладка</string>
     <string name="next_tab">Наступна вкладка</string>
-    <string name="accent_tab">Виділити вибрану вкладку</string>
     <string name="accent_text">Виділити текст</string>
     <string name="accent_color">Колір виділення</string>
     <string name="app_keyboard">Активація клавіатури під час запуску програми</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Куди додати вкладки</string>
     <string name="tab_add_next">Поруч із поточною вкладкою</string>
     <string name="tab_add_last">Кінець списку вкладок</string>
+    <string name="tab_group">Група</string>
     <string name="auto_group">Автоматичне групування</string>
     <string name="auto_group_info">Вони автоматично групуються, коли на сайті відкривається нове вікно.</string>
     <string name="tab_guide_1">1. Ви можете рухатися, натискаючи та утримуючи вкладку.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Субтитри вимкнено</string>
     <string name="sub_sync">Синхронізація субтитрів</string>
     <string name="sub_line">Контур</string>
+    <string name="outline_color">Колір контуру</string>
     <string name="sub_guide">Ви можете змінити положення, перетягнувши субтитри.</string>
     <string name="multi">Мульти</string>
     <string name="notification">Повідомлення</string>

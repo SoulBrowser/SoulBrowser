@@ -616,6 +616,7 @@
     <string name="delete_tab">Sekmeyi kapat</string>
     <string name="delete_all_tab">Tüm sekmeleri kapat</string>
     <string name="delete_other_tab">Diğer sekmeleri kapat</string>
+    <string name="group_other_tab">Grup içindeki diğer sekmeleri kapatın</string>
     <string name="mini_mode">Mini mod</string>
     <string name="home_close">Tüm sekmeleri kapatmak için ana sayfa simgesini tıklayın</string>
     <string name="reader_mode">Okuyucu modu</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">Ziyaret ettiğiniz site temaları destekliyorsa, tarayıcınız için geçerlidir.</string>
     <string name="prev_tab">Önceki sekme</string>
     <string name="next_tab">Sonraki sekme</string>
-    <string name="accent_tab">Seçili sekmeyi vurgula</string>
     <string name="accent_text">Metni vurgulamak</string>
     <string name="accent_color">Vurgu rengi</string>
     <string name="app_keyboard">Uygulama başlangıcında klavye aktivasyonu</string>
@@ -667,8 +667,8 @@
     <string name="ads_filter">Reklam filtresi</string>
     <string name="filter_info">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
     <string name="backup_title">Yedek</string>
-    <string name="backup_import">İthalat</string>
-    <string name="backup_export">İhracat</string>
+    <string name="backup_import">İçe aktar</string>
+    <string name="backup_export">Dışa yükle</string>
     <string name="backup_target">Lütfen bir hedef seçin.</string>
     <string name="saving">Tasarruf&#8230;</string>
     <string name="save_empty">Kurtarılacak bir şey yok.</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Sekmeler nereye eklenir</string>
     <string name="tab_add_next">Geçerli sekmenin yanında</string>
     <string name="tab_add_last">Sekme listesinin sonu</string>
+    <string name="tab_group">Grup</string>
     <string name="auto_group">Otomatik gruplama</string>
     <string name="auto_group_info">Sitede yeni bir pencere açıldığında otomatik olarak gruplanırlar.</string>
     <string name="tab_guide_1">1. Sekmeyi basılı tutarak hareket edebilirsiniz.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Altyazı kapalı</string>
     <string name="sub_sync">Altyazı senkronizasyonu</string>
     <string name="sub_line">Anahat</string>
+    <string name="outline_color">Anahat rengi</string>
     <string name="sub_guide">Altyazıları sürükleyerek konumu değiştirebilirsiniz.</string>
     <string name="multi">Çok</string>
     <string name="notification">Bildirim</string>

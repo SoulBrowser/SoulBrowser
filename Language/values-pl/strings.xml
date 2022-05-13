@@ -616,6 +616,7 @@
     <string name="delete_tab">Zamknij kartę</string>
     <string name="delete_all_tab">Zamknąć wszystkie zakładki</string>
     <string name="delete_other_tab">Zamknij inne karty</string>
+    <string name="group_other_tab">Zamknij inne karty w grupie</string>
     <string name="mini_mode">Tryb mini</string>
     <string name="home_close">Kliknij ikonę strony głównej, aby zamknąć wszystkie karty</string>
     <string name="reader_mode">Tryb czytnika</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">Jeśli odwiedzana witryna obsługuje motywy, dotyczy przeglądarki.</string>
     <string name="prev_tab">Poprzednia karta</string>
     <string name="next_tab">Następna karta</string>
-    <string name="accent_tab">Podświetl wybraną kartę</string>
     <string name="accent_text">Zaznaczanie tekstu</string>
     <string name="accent_color">Podświetlony kolor</string>
     <string name="app_keyboard">Aktywacja klawiatury podczas uruchamiania aplikacji</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Gdzie dodać zakładki</string>
     <string name="tab_add_next">Obok aktualnej zakładki</string>
     <string name="tab_add_last">Koniec listy kart</string>
+    <string name="tab_group">Grupa</string>
     <string name="auto_group">Automatyczne grupowanie</string>
     <string name="auto_group_info">Są one automatycznie grupowane, gdy w witrynie otworzy się nowe okno.</string>
     <string name="tab_guide_1">1. Możesz poruszać się naciskając i przytrzymując zakładkę.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Napisy wyłączone</string>
     <string name="sub_sync">Synchronizacja napisów</string>
     <string name="sub_line">Zarys</string>
+    <string name="outline_color">Kolor konturu</string>
     <string name="sub_guide">Możesz zmienić pozycję, przeciągając napisy.</string>
     <string name="multi">Wielo</string>
     <string name="notification">Powiadomienie</string>

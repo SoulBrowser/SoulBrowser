@@ -616,6 +616,7 @@
     <string name="delete_tab">Закрыть вкладку</string>
     <string name="delete_all_tab">Закрыть все вкладки</string>
     <string name="delete_other_tab">Закрыть другие вкладки</string>
+    <string name="group_other_tab">Закройте другие вкладки в группе</string>
     <string name="mini_mode">Мини-режим</string>
     <string name="home_close">Закрывать все вкладки при нажатии кнопки домашней страницы</string>
     <string name="reader_mode">Режим чтения</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">Если посещаемый вами сайт поддерживает темы, они применятся в браузере.</string>
     <string name="prev_tab">Предыдущая вкладка</string>
     <string name="next_tab">Следующая вкладка</string>
-    <string name="accent_tab">Выделить выбранную вкладку</string>
     <string name="accent_text">Текст выделения</string>
     <string name="accent_color">Цвет выделения</string>
     <string name="app_keyboard">Активировать клавиатуру при запуске приложения</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Позиция новой вкладки</string>
     <string name="tab_add_next">Рядом с текущей вкладкой</string>
     <string name="tab_add_last">Конец списка вкладок</string>
+    <string name="tab_group">Группа</string>
     <string name="auto_group">Автогруппировка вкладок</string>
     <string name="auto_group_info">Автогруппировка при открытии нового сайта.</string>
     <string name="tab_guide_1">1. Перемещайте вкладку длинным нажатием на ней.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Субтитры отключены</string>
     <string name="sub_sync">Синхронизация субтитров</string>
     <string name="sub_line">Контур</string>
+    <string name="outline_color">Цвет контура</string>
     <string name="sub_guide">Вы можете изменить положение, перетаскивая субтитры.</string>
     <string name="multi">Мульти</string>
     <string name="notification">Уведомление</string>

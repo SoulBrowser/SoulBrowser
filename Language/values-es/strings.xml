@@ -616,6 +616,7 @@
     <string name="delete_tab">Cerrar pestaña</string>
     <string name="delete_all_tab">Cierra todas las pestañas</string>
     <string name="delete_other_tab">Cerrar otras pestañas</string>
+    <string name="group_other_tab">Cerrar otras pestañas dentro del grupo</string>
     <string name="mini_mode">Mini modo</string>
     <string name="home_close">Haga clic en el icono de la página de inicio para cerrar todas las pestañas.</string>
     <string name="reader_mode">Modo lector</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">Si el sitio que visita admite temas, se aplica a su navegador.</string>
     <string name="prev_tab">Pestaña anterior</string>
     <string name="next_tab">Pestaña siguiente</string>
-    <string name="accent_tab">Resaltar pestaña seleccionada</string>
     <string name="accent_text">Subrayar el texto</string>
     <string name="accent_color">Color de resaltado</string>
     <string name="app_keyboard">Activación del teclado al iniciar la aplicación</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">Dónde agregar pestañas</string>
     <string name="tab_add_next">Junto a la pestaña actual</string>
     <string name="tab_add_last">Final de la lista de pestañas</string>
+    <string name="tab_group">Grupo</string>
     <string name="auto_group">Agrupación automática</string>
     <string name="auto_group_info">Se agrupan automáticamente cuando se abre una nueva ventana en el sitio.</string>
     <string name="tab_guide_1">1. Puedes moverte presionando y manteniendo presionada la pestaña.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">Subtítulo desactivado</string>
     <string name="sub_sync">Sincronización de subtítulos</string>
     <string name="sub_line">Contorno</string>
+    <string name="outline_color">color de contorno</string>
     <string name="sub_guide">Puedes cambiar la posición arrastrando los subtítulos.</string>
     <string name="multi">Multi</string>
     <string name="notification">Notificación</string>

@@ -616,6 +616,7 @@
     <string name="delete_tab">إغلاق علامة التبويب</string>
     <string name="delete_all_tab">أغلق كل علامات التبويب</string>
     <string name="delete_other_tab">أغلق علامات التبويب الأخرى</string>
+    <string name="group_other_tab">أغلق علامات التبويب الأخرى داخل المجموعة</string>
     <string name="mini_mode">الوضع المصغر</string>
     <string name="home_close">انقر فوق أيقونة الصفحة الرئيسية لإغلاق جميع علامات التبويب</string>
     <string name="reader_mode">وضع القارئ</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">إذا كان الموقع الذي تزوره يدعم السمة ، فسيتم تطبيقه على متصفحك.</string>
     <string name="prev_tab">علامة التبويب السابقة</string>
     <string name="next_tab">علامة التبويب التالية</string>
-    <string name="accent_tab">قم بتمييز علامة التبويب المحددة</string>
     <string name="accent_text">تسليط الضوء على النص</string>
     <string name="accent_color">تسليط الضوء على اللون</string>
     <string name="app_keyboard">تنشيط لوحة المفاتيح عند بدء تشغيل التطبيق</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">أين تضيف علامات التبويب</string>
     <string name="tab_add_next">بجوار علامة التبويب الحالية</string>
     <string name="tab_add_last">نهاية قائمة علامات التبويب</string>
+    <string name="tab_group">مجموعة</string>
     <string name="auto_group">التجميع التلقائي</string>
     <string name="auto_group_info">يتم تجميعها تلقائيًا عند فتح نافذة جديدة على الموقع.</string>
     <string name="tab_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على علامة التبويب.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">الترجمة متوقفة</string>
     <string name="sub_sync">مزامنة الترجمة</string>
     <string name="sub_line">الخطوط العريضة</string>
+    <string name="outline_color">لون المخطط التفصيلي</string>
     <string name="sub_guide">يمكنك تغيير الموضع عن طريق سحب الترجمة.</string>
     <string name="multi">متعددة</string>
     <string name="notification">تنبيه</string>

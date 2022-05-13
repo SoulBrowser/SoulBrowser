@@ -616,6 +616,7 @@
     <string name="delete_tab">탭 닫기</string>
     <string name="delete_all_tab">모든 탭 닫기</string>
     <string name="delete_other_tab">다른 탭 닫기</string>
+    <string name="group_other_tab">그룹 내의 다른 탭 닫기</string>
     <string name="mini_mode">미니 모드</string>
     <string name="home_close">홈페이지 아이콘 클릭하여 모든 탭 닫기</string>
     <string name="reader_mode">리더 모드</string>
@@ -627,7 +628,6 @@
     <string name="site_theme_info">방문한 사이트가 테마를 지원하는 경우 브라우저에 적용됩니다.</string>
     <string name="prev_tab">이전 탭</string>
     <string name="next_tab">다음 탭</string>
-    <string name="accent_tab">선택된 탭 강조</string>
     <string name="accent_text">텍스트 강조</string>
     <string name="accent_color">강조 색상</string>
     <string name="app_keyboard">앱 시작 시 키보드 활성화</string>
@@ -799,6 +799,7 @@
     <string name="tab_add_pos">탭 추가 위치</string>
     <string name="tab_add_next">현재 탭 옆</string>
     <string name="tab_add_last">탭 목록 끝</string>
+    <string name="tab_group">그룹</string>
     <string name="auto_group">자동 그룹화</string>
     <string name="auto_group_info">사이트에서 새 창이 열리면 자동으로 그룹화됩니다.</string>
     <string name="tab_guide_1">1. 탭을 길게 눌러 이동할 수 있습니다.</string>
@@ -868,6 +869,7 @@
     <string name="sub_off">자막 끄기</string>
     <string name="sub_sync">자막 싱크</string>
     <string name="sub_line">외곽선</string>
+    <string name="outline_color">외곽선 색상</string>
     <string name="sub_guide">자막을 드래그하여 위치를 변경할 수 있습니다.</string>
     <string name="multi">멀티</string>
     <string name="notification">알림</string>
