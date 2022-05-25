@@ -78,6 +78,7 @@
     <string name="swipe_delete">Swipe delete</string>
     <string name="rename">Rename</string>
     <string name="apply_url_equal">Applied equally to others</string>
+    <string name="apply_pass_equal">Applied equally to others</string>
     <string name="change_before">Before change</string>
     <string name="change_after">after change</string>
     <string name="estimated">Estimated time</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">Existing file</string>
     <string name="exist_name">Existing name</string>
     <string name="exist_url">Existing URL</string>
+    <string name="exist_pass">Existing password</string>
     <string name="next_file">Next file</string>
     <string name="empty">Empty</string>
     <string name="share_limit">Up to 100 supported</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">There is no bookmark in normal mode.</string>
     <string name="import_no_history">There is no history in normal mode.</string>
     <string name="import_no_password">There is no password in normal mode.</string>
+    <string name="no_password">There is no password.</string>
+    <string name="export_csv">Export to CSV</string>
+    <string name="import_csv">Import from CSV</string>
     <string name="keep_tab">Keep tabs</string>
     <string name="keep_tab_info">Incognito tabs are retained when you change to normal mode.</string>
     <string name="keep_login">Keep logged in</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Small list</string>
     <string name="large_list">Large list</string>
     <string name="full_screen">Full screen</string>
-    <string name="screen_title">Screen</string>
+    <string name="full_tool">Full screen and Toolbar</string>
+    <string name="display_title">Display</string>
     <string name="scroll_mode">Scroll mode</string>
     <string name="scroll_guide_1">1. Displays the page loaded so far.</string>
     <string name="scroll_guide_2">2. Displays the page within the available memory limit.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Time remaining</string>
     <string name="donate_1">Donation (Coffee)</string>
     <string name="donate_2">Donation (Hamburger)</string>
-    <string name="donate_3">Donation (Fried chicken)</string>
-    <string name="donate_4">Donation (Pizza)</string>
-    <string name="donate_5">Donation (Dinner)</string>
+    <string name="donate_3">Donation (Pizza)</string>
     <string name="donate_info">Thank you for using Soul Browser.\nSoul Browser is maintained by your donation.</string>
     <string name="pay_free">Free</string>
     <string name="paid">Purchased</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Button</string>
     <string name="always_visible">Always visible</string>
     <string name="guide_tsfile">If the file is encrypted, it cannot be played.</string>
+    <string name="view_certi">View Certificate</string>
+    <string name="no_info">No information</string>
 </resources>

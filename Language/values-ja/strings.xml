@@ -78,6 +78,7 @@
     <string name="swipe_delete">スワイプ削除</string>
     <string name="rename">名前の変更</string>
     <string name="apply_url_equal">他のファイルにも同様に適用</string>
+    <string name="apply_pass_equal">他のパスワードにも同様に適用</string>
     <string name="change_before">変更前</string>
     <string name="change_after">変更後</string>
     <string name="estimated">予想時間</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">存在しているファイル</string>
     <string name="exist_name">存在している名前</string>
     <string name="exist_url">存在しているURL</string>
+    <string name="exist_pass">存在するパスワード</string>
     <string name="next_file">次のファイル</string>
     <string name="empty">空</string>
     <string name="share_limit">100個までサポート</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">通常モードではブックマークはありません。</string>
     <string name="import_no_history">通常モードには履歴はありません。</string>
     <string name="import_no_password">通常モードにパスワードがありません。</string>
+    <string name="no_password">パスワードはありません。</string>
+    <string name="export_csv">CSVにエクスポート</string>
+    <string name="import_csv">CSVからインポート</string>
     <string name="keep_tab">タブを維持</string>
     <string name="keep_tab_info">通常モードに変更しても、シークレットタブが維持されます。</string>
     <string name="keep_login">ログインを維持</string>
@@ -645,7 +650,8 @@
     <string name="small_list">小さなリスト</string>
     <string name="large_list">大きなリスト</string>
     <string name="full_screen">全画面表示</string>
-    <string name="screen_title">画面</string>
+    <string name="full_tool">フルスクリーンとツールバー</string>
+    <string name="display_title">ディスプレイ</string>
     <string name="scroll_mode">スクロールモード</string>
     <string name="scroll_guide_1">1. これまでに読み込まれたページを表示します。</string>
     <string name="scroll_guide_2">2. 使用可能なメモリ制限内でページを表示します。</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">残り時間</string>
     <string name="donate_1">寄付（コーヒー）</string>
     <string name="donate_2">寄付（ハンバーガー）</string>
-    <string name="donate_3">寄付（フライドチキン)</string>
-    <string name="donate_4">寄付（ピザ)</string>
-    <string name="donate_5">寄付（晩ごはん）</string>
+    <string name="donate_3">寄付（ピザ)</string>
     <string name="donate_info">Soul Browserを使っていただきありがとうございます。\nSoul Browserは、あなたの寄付で維持されます。</string>
     <string name="pay_free">無料</string>
     <string name="paid">購入する</string>
@@ -882,4 +886,6 @@
     <string name="button_title">ボタン</string>
     <string name="always_visible">いつも見える</string>
     <string name="guide_tsfile">ファイルが暗号化されていると再生できません。</string>
+    <string name="view_certi">ビューの証明書</string>
+    <string name="no_info">情報なし</string>
 </resources>

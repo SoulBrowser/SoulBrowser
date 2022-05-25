@@ -78,6 +78,7 @@
     <string name="swipe_delete">滑動刪除</string>
     <string name="rename">名稱變更</string>
     <string name="apply_url_equal">同樣適用於其他文件</string>
+    <string name="apply_pass_equal">將相同應用於其他密碼</string>
     <string name="change_before">變更前</string>
     <string name="change_after">變更後</string>
     <string name="estimated">預計時間</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">現有文件</string>
     <string name="exist_name">現有名稱</string>
     <string name="exist_url">現有URL</string>
+    <string name="exist_pass">現有密碼</string>
     <string name="next_file">下一個文件</string>
     <string name="empty">空</string>
     <string name="share_limit">支持高達100</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">普通模式下沒有書籤</string>
     <string name="import_no_history">正常模式下沒有歷史記錄</string>
     <string name="import_no_password">普通模式下沒有密碼</string>
+    <string name="no_password">沒有密碼</string>
+    <string name="export_csv">導出為 CSV</string>
+    <string name="import_csv">從 CSV 導入</string>
     <string name="keep_tab">保持分頁</string>
     <string name="keep_tab_info">當您更改為普通模式時，隱身分頁會保留</string>
     <string name="keep_login">保持登入狀態</string>
@@ -645,7 +650,8 @@
     <string name="small_list">小清單</string>
     <string name="large_list">大清單</string>
     <string name="full_screen">全螢幕</string>
-    <string name="screen_title">屏幕</string>
+    <string name="full_tool">全屏和工具欄</string>
+    <string name="display_title">展示</string>
     <string name="scroll_mode">滾動模式</string>
     <string name="scroll_guide_1">1. 顯示到目前為止加載的頁面</string>
     <string name="scroll_guide_2">2. 在可用內存限制內顯示頁面</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">剩餘時間</string>
     <string name="donate_1">捐贈（咖啡）</string>
     <string name="donate_2">捐贈（漢堡包）</string>
-    <string name="donate_3">捐贈（炸雞)</string>
-    <string name="donate_4">捐贈（比薩)</string>
-    <string name="donate_5">捐贈（晚餐）</string>
+    <string name="donate_3">捐贈（比薩)</string>
     <string name="donate_info">感謝您使用 Soul Browser\nSoul Browser 由您的捐贈維護</string>
     <string name="pay_free">自由</string>
     <string name="paid">已購買</string>
@@ -882,4 +886,6 @@
     <string name="button_title">按鈕</string>
     <string name="always_visible">始終可見</string>
     <string name="guide_tsfile">如果文件被加密，則無法播放</string>
+    <string name="view_certi">查看證書</string>
+    <string name="no_info">無信息</string>
 </resources>

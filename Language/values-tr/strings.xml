@@ -78,6 +78,7 @@
     <string name="swipe_delete">Kaydır sil</string>
     <string name="rename">Yeniden Adlandır</string>
     <string name="apply_url_equal">Diğerlerine eşit olarak uygulanır</string>
+    <string name="apply_pass_equal">Aynısını diğer şifrelere de uygula</string>
     <string name="change_before">Değişiklikten önce</string>
     <string name="change_after">Değişiklikten sonra</string>
     <string name="estimated">Tahmini süre</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">Mevcut dosya</string>
     <string name="exist_name">Mevcut ad</string>
     <string name="exist_url">Mevcut URL</string>
+    <string name="exist_pass">Mevcut şifre</string>
     <string name="next_file">Sonraki dosya</string>
     <string name="empty">Empty</string>
     <string name="share_limit">Maksimum 100 desteklenir</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">Normal modda hiç yer imi yok.</string>
     <string name="import_no_history">Normal modda geçmiş yok.</string>
     <string name="import_no_password">Normal modda şifre yoktur.</string>
+    <string name="no_password">Şifre yok.</string>
+    <string name="export_csv">CSV\'ye aktar</string>
+    <string name="import_csv">CSV\'den içe aktar</string>
     <string name="keep_tab">Sekmeleri sakla</string>
     <string name="keep_tab_info">Normal moda geçtiğinizde gizli sekmeler korunur.</string>
     <string name="keep_login">Giriş yapmaya devam et</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Küçük liste</string>
     <string name="large_list">Geniş liste</string>
     <string name="full_screen">Tam ekran</string>
-    <string name="screen_title">Ekran</string>
+    <string name="full_tool">Tam ekran ve Araç Çubuğu</string>
+    <string name="display_title">Görüntüle</string>
     <string name="scroll_mode">Kaydırma modu</string>
     <string name="scroll_guide_1">1. Şimdiye kadar yüklenen sayfayı görüntüler.</string>
     <string name="scroll_guide_2">2. Sayfayı kullanılabilir bellek sınırı dahilinde görüntüler.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Kalan süre</string>
     <string name="donate_1">Bağış (Kahve)</string>
     <string name="donate_2">Bağış (Hamburger)</string>
-    <string name="donate_3">Bağış (Kızarmış tavuk)</string>
-    <string name="donate_4">Bağış (Pizza)</string>
-    <string name="donate_5">Bağış (Akşam yemeği)</string>
+    <string name="donate_3">Bağış (Pizza)</string>
     <string name="donate_info">Soul Browser kullandığınız için teşekkür ederiz.\nSoul Browser bağışınız ile korunur.</string>
     <string name="pay_free">Bedava</string>
     <string name="paid">Satın alındı</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Buton</string>
     <string name="always_visible">Her zaman görünür</string>
     <string name="guide_tsfile">Dosya şifreliyse oynatılamaz.</string>
+    <string name="view_certi">Sertifikayı Görüntüle</string>
+    <string name="no_info">Bilgi yok</string>
 </resources>

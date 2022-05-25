@@ -78,6 +78,7 @@
     <string name="swipe_delete">Deslize para excluir</string>
     <string name="rename">Renomear</string>
     <string name="apply_url_equal">Aplica-se igualmente a outras</string>
+    <string name="apply_pass_equal">Aplique o mesmo a outras senhas</string>
     <string name="change_before">Antes da mudança</string>
     <string name="change_after">Depois da mudança</string>
     <string name="estimated">Tempo estimado</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">Arquivo existente</string>
     <string name="exist_name">Nome existente</string>
     <string name="exist_url">URL existente</string>
+    <string name="exist_pass">Senha existente</string>
     <string name="next_file">Próximo arquivo</string>
     <string name="empty">Vazio</string>
     <string name="share_limit">Até 100 suportados</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">Não há favoritos no modo normal.</string>
     <string name="import_no_history">Não há histórico no modo normal.</string>
     <string name="import_no_password">Não há senha no modo normal.</string>
+    <string name="no_password">Não há senha.</string>
+    <string name="export_csv">Exportar para CSV</string>
+    <string name="import_csv">Importar de CSV</string>
     <string name="keep_tab">Manter guias</string>
     <string name="keep_tab_info">Guias anônimas são mantidas quando você muda para o modo normal.</string>
     <string name="keep_login">Manter-se conectado</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Lista pequena</string>
     <string name="large_list">Lista grande</string>
     <string name="full_screen">Tela cheia</string>
-    <string name="screen_title">Tela</string>
+    <string name="full_tool">Tela cheia e barra de ferramentas</string>
+    <string name="display_title">Mostrar</string>
     <string name="scroll_mode">Modo de rolagem</string>
     <string name="scroll_guide_1">1. Exibe a página carregada até o momento.</string>
     <string name="scroll_guide_2">2. Exibe a página dentro do limite de memória disponível.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Tempo restante</string>
     <string name="donate_1">Doação (Café)</string>
     <string name="donate_2">Doação (Hambúrguer)</string>
-    <string name="donate_3">Doação (Frango frito)</string>
-    <string name="donate_4">Doação (Pizza)</string>
-    <string name="donate_5">Doação (Jantar)</string>
+    <string name="donate_3">Doação (Pizza)</string>
     <string name="donate_info">Obrigado por usar o Soul Browser.\nO Soul Browser é mantido por sua doação.</string>
     <string name="pay_free">Gratuitamente</string>
     <string name="paid">Comprado</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Botão</string>
     <string name="always_visible">Sempre visível</string>
     <string name="guide_tsfile">Se o arquivo estiver criptografado, ele não poderá ser reproduzido.</string>
+    <string name="view_certi">Ver certificado</string>
+    <string name="no_info">Nenhuma informação</string>
 </resources>

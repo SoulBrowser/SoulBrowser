@@ -78,6 +78,7 @@
     <string name="swipe_delete">Удаление свайпом</string>
     <string name="rename">Переименовать</string>
     <string name="apply_url_equal">Применяется одинаково для других</string>
+    <string name="apply_pass_equal">Примените то же самое к другим паролям</string>
     <string name="change_before">До изменения</string>
     <string name="change_after">После изменения</string>
     <string name="estimated">Расчётное время</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">Существующий файл</string>
     <string name="exist_name">Существующее имя</string>
     <string name="exist_url">Существующий URL</string>
+    <string name="exist_pass">Существующий пароль</string>
     <string name="next_file">Следующий файл</string>
     <string name="empty">Пустой</string>
     <string name="share_limit">Поддержка до 100</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">Отсутствуют закладки в обычном режиме .</string>
     <string name="import_no_history">Отсутствует история в обычном режиме.</string>
     <string name="import_no_password">Отсутствует пароль в обычном режиме.</string>
+    <string name="no_password">Пароля нет.</string>
+    <string name="export_csv">Экспорт в CSV</string>
+    <string name="import_csv">Импорт из CSV</string>
     <string name="keep_tab">Сохранять вкладку</string>
     <string name="keep_tab_info">Вкладки инкогнито сохраняются при переходе в обычный режим.</string>
     <string name="keep_login">Войдите в систему</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Компактный список</string>
     <string name="large_list">Крупный список</string>
     <string name="full_screen">Полноэкранный режим</string>
-    <string name="screen_title">Экран</string>
+    <string name="full_tool">Полный экран и панель инструментов</string>
+    <string name="display_title">Отображать</string>
     <string name="scroll_mode">Режим прокрутки</string>
     <string name="scroll_guide_1">1. Отображает страницу, загруженную до сих пор.</string>
     <string name="scroll_guide_2">2. Отображает страницу в пределах доступного лимита памяти.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Времени осталось</string>
     <string name="donate_1">Пожертвование (Кофе)</string>
     <string name="donate_2">Пожертвование (Гамбургер)</string>
-    <string name="donate_3">Пожертвование (Жареная курочка)</string>
-    <string name="donate_4">Пожертвование (Пицца)</string>
-    <string name="donate_5">Пожертвование (Ужин)</string>
+    <string name="donate_3">Пожертвование (Пицца)</string>
     <string name="donate_info">Спасибо за использование Soul Browser.\nSoul Browser поддерживается за счет вашего пожертвования.</string>
     <string name="pay_free">Бесплатно</string>
     <string name="paid">Куплено</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Кнопка</string>
     <string name="always_visible">Всегда видимый</string>
     <string name="guide_tsfile">Если файл зашифрован, его невозможно воспроизвести.</string>
+    <string name="view_certi">Просмотреть сертификат</string>
+    <string name="no_info">Нет информации</string>
 </resources>

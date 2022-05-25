@@ -78,6 +78,7 @@
     <string name="swipe_delete">Видалення змахуванням</string>
     <string name="rename">Перейменуйте</string>
     <string name="apply_url_equal">Застосовується однаково до інших</string>
+    <string name="apply_pass_equal">Застосуйте те саме до інших паролів</string>
     <string name="change_before">Перед зміною</string>
     <string name="change_after">Після зміни</string>
     <string name="estimated">Розрахунковий час</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">Існуючий файл</string>
     <string name="exist_name">Існуюча назва</string>
     <string name="exist_url">Існуюча URL-адреса</string>
+    <string name="exist_pass">Існуючий пароль</string>
     <string name="next_file">Наступний файл</string>
     <string name="empty">Порожній</string>
     <string name="share_limit">До 100 підтримуваних</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">У звичайному режимі закладки немає.</string>
     <string name="import_no_history">У звичайному режимі немає історії.</string>
     <string name="import_no_password">У звичайному режимі немає пароля.</string>
+    <string name="no_password">Немає пароля.</string>
+    <string name="export_csv">Експортувати в CSV</string>
+    <string name="import_csv">Імпорт із CSV</string>
     <string name="keep_tab">Зберегти вкладки</string>
     <string name="keep_tab_info">Вкладки режиму анонімного перегляду зберігаються, коли ви переходите на звичайний режим.</string>
     <string name="keep_login">Увійти в систему</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Список (зменшений шрифт)</string>
     <string name="large_list">Список (збільшений шрифт)</string>
     <string name="full_screen">Повноекранний</string>
-    <string name="screen_title">Екран</string>
+    <string name="full_tool">Повний екран і панель інструментів</string>
+    <string name="display_title">Дисплей</string>
     <string name="scroll_mode">Режим прокрутки</string>
     <string name="scroll_guide_1">1. Відображає завантажену сторінку.</string>
     <string name="scroll_guide_2">2. Відображає сторінку в межах доступної межі пам\'яті.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Час, що залишився</string>
     <string name="donate_1">Пожертвування (Кава)</string>
     <string name="donate_2">Пожертвування (Гамбургер)</string>
-    <string name="donate_3">Пожертвування (Смажене курча)</string>
-    <string name="donate_4">Пожертвування (Піца)</string>
-    <string name="donate_5">Пожертвування (Вечеря)</string>
+    <string name="donate_3">Пожертвування (Піца)</string>
     <string name="donate_info">Дякуємо за користування браузером Soul.\nБраузер Soul підтримується вашими пожертвами.</string>
     <string name="pay_free">Безкоштовно</string>
     <string name="paid">Придбано</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Кнопка</string>
     <string name="always_visible">Завжди видно</string>
     <string name="guide_tsfile">Якщо файл зашифрований, його неможливо відтворити.</string>
+    <string name="view_certi">Переглянути сертифікат</string>
+    <string name="no_info">Немає інформації</string>
 </resources>

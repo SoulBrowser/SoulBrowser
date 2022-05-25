@@ -78,6 +78,7 @@
     <string name="swipe_delete">Glisser pour supprimer</string>
     <string name="rename">Renommer</string>
     <string name="apply_url_equal">Appliqué également aux autres</string>
+    <string name="apply_pass_equal">Appliquer la même chose aux autres mots de passe</string>
     <string name="change_before">Avant le changement</string>
     <string name="change_after">Après le changement</string>
     <string name="estimated">Temps estimé</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">Fichier existant</string>
     <string name="exist_name">Nom existant</string>
     <string name="exist_url">URL existante</string>
+    <string name="exist_pass">Mot de passe existant</string>
     <string name="next_file">Prochain fichier</string>
     <string name="empty">Vide</string>
     <string name="share_limit">Jusqu 100 prises en charge</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">Il n\'y a pas de signet en mode normal.</string>
     <string name="import_no_history">Il n\'y a pas d\'historique en mode normal.</string>
     <string name="import_no_password">Il n\'y a pas de mot de passe en mode normal.</string>
+    <string name="no_password">Il n\'y a pas de mot de passe.</string>
+    <string name="export_csv">Exporter vers CSV</string>
+    <string name="import_csv">Importer depuis CSV</string>
     <string name="keep_tab">Conserver les onglets</string>
     <string name="keep_tab_info">Les onglets de navigation privée sont conservés lorsque vous passez en mode normal.</string>
     <string name="keep_login">Rester connecté</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Petite liste</string>
     <string name="large_list">Grande liste</string>
     <string name="full_screen">Plein écran</string>
-    <string name="screen_title">Filtrer</string>
+    <string name="full_tool">Plein écran et barre d\'outils</string>
+    <string name="display_title">Affichage</string>
     <string name="scroll_mode">Mode défilement</string>
     <string name="scroll_guide_1">1. Affiche la page chargée jusqu\'à présent.</string>
     <string name="scroll_guide_2">2. Affiche la page dans la limite de mémoire disponible.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Temps restant</string>
     <string name="donate_1">Don (Café)</string>
     <string name="donate_2">Don (Hamburger)</string>
-    <string name="donate_3">Don (Poulet frit)</string>
-    <string name="donate_4">Don (Pizza)</string>
-    <string name="donate_5">Don (Dîner)</string>
+    <string name="donate_3">Don (Pizza)</string>
     <string name="donate_info">Merci d\'utiliser Soul Browser.\nSoul Browser est maintenu par votre don.</string>
     <string name="pay_free">Libre</string>
     <string name="paid">Acheté</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Bouton</string>
     <string name="always_visible">Toujours visible</string>
     <string name="guide_tsfile">Si le fichier est crypté, il ne peut pas être lu.</string>
+    <string name="view_certi">Afficher le certificat</string>
+    <string name="no_info">Aucune information</string>
 </resources>

@@ -78,6 +78,7 @@
     <string name="swipe_delete">스와이프 삭제</string>
     <string name="rename">이름 변경</string>
     <string name="apply_url_equal">다른 URL도 동일하게 적용</string>
+    <string name="apply_pass_equal">다른 비밀번호도 동일하게 적용</string>
     <string name="change_before">변경 전</string>
     <string name="change_after">변경 후</string>
     <string name="estimated">예상 시간</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">존재하는 파일</string>
     <string name="exist_name">존재하는 이름</string>
     <string name="exist_url">존재하는 URL</string>
+    <string name="exist_pass">존재하는 비밀번호</string>
     <string name="next_file">다음 파일</string>
     <string name="empty">비어 있음</string>
     <string name="share_limit">100개까지 지원</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">일반 모드에 북마크가 없습니다.</string>
     <string name="import_no_history">일반 모드에 방문 기록이 없습니다.</string>
     <string name="import_no_password">일반 모드에 비밀번호가 없습니다.</string>
+    <string name="no_password">비밀번호가 없습니다.</string>
+    <string name="export_csv">CSV로 내보내기</string>
+    <string name="import_csv">CSV에서 가져오기</string>
     <string name="keep_tab">탭 유지</string>
     <string name="keep_tab_info">일반 모드로 변경해도 시크릿 탭이 유지됩니다.</string>
     <string name="keep_login">로그인 유지</string>
@@ -645,7 +650,8 @@
     <string name="small_list">작은 리스트</string>
     <string name="large_list">큰 리스트</string>
     <string name="full_screen">전체 화면</string>
-    <string name="screen_title">화면</string>
+    <string name="full_tool">전체 화면 및 툴바</string>
+    <string name="display_title">디스플레이</string>
     <string name="scroll_mode">스크롤 모드</string>
     <string name="scroll_guide_1">1. 지금까지 로드된 페이지를 표시합니다.</string>
     <string name="scroll_guide_2">2. 사용 가능한 메모리 제한 내에서 페이지를 표시합니다.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">남은 시간</string>
     <string name="donate_1">기부 (커피)</string>
     <string name="donate_2">기부 (햄버거)</string>
-    <string name="donate_3">기부 (치킨)</string>
-    <string name="donate_4">기부 (피자)</string>
-    <string name="donate_5">기부 (만찬)</string>
+    <string name="donate_3">기부 (피자)</string>
     <string name="donate_info">Soul Browser를 사용해 주셔서 감사합니다.\nSoul Browser는 여러분의 기부로 유지됩니다.</string>
     <string name="pay_free">무료</string>
     <string name="paid">구매함</string>
@@ -882,4 +886,6 @@
     <string name="button_title">버튼</string>
     <string name="always_visible">항상 보이기</string>
     <string name="guide_tsfile">파일이 암호화되어 있으면 재생할 수 없습니다.</string>
+    <string name="view_certi">인증서 보기</string>
+    <string name="no_info">정보 없음</string>
 </resources>

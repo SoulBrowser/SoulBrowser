@@ -78,6 +78,7 @@
     <string name="swipe_delete">Przesuń i usuń</string>
     <string name="rename">Zmień nazwę</string>
     <string name="apply_url_equal">Stosowane w równym stopniu do innych</string>
+    <string name="apply_pass_equal">Zastosuj to samo do innych haseł</string>
     <string name="change_before">Przed zmianą</string>
     <string name="change_after">po zmianie</string>
     <string name="estimated">Szacowany czas</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">Istniejący plik</string>
     <string name="exist_name">Istniejąca nazwa</string>
     <string name="exist_url">Istniejący URL</string>
+    <string name="exist_pass">Istniejące hasło</string>
     <string name="next_file">Następny plik</string>
     <string name="empty">Pusty</string>
     <string name="share_limit">Obsługiwanych maksymalnie 100</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">W trybie normalnym nie ma zakładki.</string>
     <string name="import_no_history">W trybie normalnym nie ma historii.</string>
     <string name="import_no_password">W trybie normalnym nie ma hasła.</string>
+    <string name="no_password">Nie ma hasła.</string>
+    <string name="export_csv">Eksportuj do CSV</string>
+    <string name="import_csv">Importuj z CSV</string>
     <string name="keep_tab">Trzymaj się</string>
     <string name="keep_tab_info">Karty incognito są zachowywane po przejściu do trybu normalnego.</string>
     <string name="keep_login">Nie wylogowuj się</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Mała lista</string>
     <string name="large_list">Duża lista</string>
     <string name="full_screen">Pełny ekran</string>
-    <string name="screen_title">Ekran</string>
+    <string name="full_tool">Pełny ekran i pasek narzędzi</string>
+    <string name="display_title">Wyświetlacz</string>
     <string name="scroll_mode">Tryb przewijania</string>
     <string name="scroll_guide_1">1. Wyświetla stronę załadowaną do tej pory.</string>
     <string name="scroll_guide_2">2. Wyświetla stronę w ramach dostępnego limitu pamięci.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Pozostały czas</string>
     <string name="donate_1">Darowizna (Kawa)</string>
     <string name="donate_2">Darowizna (Hamburger)</string>
-    <string name="donate_3">Darowizna (Smażony kurczak)</string>
-    <string name="donate_4">Darowizna (Pizza)</string>
-    <string name="donate_5">Darowizna (Obiad)</string>
+    <string name="donate_3">Darowizna (Pizza)</string>
     <string name="donate_info">Dziękujemy za korzystanie z przeglądarki Soul Browser.\nSoul Browser jest utrzymywana z Twojej darowizny.</string>
     <string name="pay_free">Darmowy</string>
     <string name="paid">Zakupione</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Przycisk</string>
     <string name="always_visible">Zawsze widoczny</string>
     <string name="guide_tsfile">Jeśli plik jest zaszyfrowany, nie można go odtworzyć.</string>
+    <string name="view_certi">Wyświetl certyfikat</string>
+    <string name="no_info">Brak informacji</string>
 </resources>

@@ -78,6 +78,7 @@
     <string name="swipe_delete">Vuốt xóa</string>
     <string name="rename">Đổi tên</string>
     <string name="apply_url_equal">Áp dụng bình đẳng cho người khác</string>
+    <string name="apply_pass_equal">Áp dụng tương tự cho các mật khẩu khác</string>
     <string name="change_before">Trước khi thay đổi</string>
     <string name="change_after">Sau khi thay đổi</string>
     <string name="estimated">Thơi gian dự định</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">Tệp đã tồn tại</string>
     <string name="exist_name">Tên đã tồn tại</string>
     <string name="exist_url">Địa chỉ đã tồn tại</string>
+    <string name="exist_pass">Mật khẩu đã có người sử dụng</string>
     <string name="next_file">Tập tin tiếp theo</string>
     <string name="empty">Trống</string>
     <string name="share_limit">Lên đến 100 hỗ trợ</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">Không có dấu trang trong chế độ bình thường.</string>
     <string name="import_no_history">Không có lịch sử trong chế độ bình thường.</string>
     <string name="import_no_password">Không có mật khẩu trong chế độ bình thường.</string>
+    <string name="no_password">Không có mật khẩu.</string>
+    <string name="export_csv">Xuất sang CSV</string>
+    <string name="import_csv">Nhập từ CSV</string>
     <string name="keep_tab">Giữ các tab</string>
     <string name="keep_tab_info">Các tab ẩn danh được giữ lại khi bạn thay đổi sang chế độ bình thường.</string>
     <string name="keep_login">Tiếp tục đăng nhập</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Danh sách nhỏ</string>
     <string name="large_list">Danh sách lớn</string>
     <string name="full_screen">Toàn màn hình</string>
-    <string name="screen_title">Màn hình</string>
+    <string name="full_tool">Toàn màn hình và Thanh công cụ</string>
+    <string name="display_title">Trưng bày</string>
     <string name="scroll_mode">Chế độ cuộn</string>
     <string name="scroll_guide_1">1. Hiển thị trang được tải cho đến nay.</string>
     <string name="scroll_guide_2">2. Hiển thị trang trong giới hạn bộ nhớ khả dụng.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Thời gian còn lại</string>
     <string name="donate_1">Quyên góp (Cà phê)</string>
     <string name="donate_2">Quyên góp (Hamburger)</string>
-    <string name="donate_3">Quyên góp (Gà rán)</string>
-    <string name="donate_4">Quyên góp (Pizza)</string>
-    <string name="donate_5">Quyên góp (Bữa tối)</string>
+    <string name="donate_3">Quyên góp (Pizza)</string>
     <string name="donate_info">Cảm ơn bạn đã sử dụng Soul Browser.\nSoul Browser được duy trì bởi sự đóng góp của bạn.</string>
     <string name="pay_free">Miễn phí</string>
     <string name="paid">Đã mua</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Cái nút</string>
     <string name="always_visible">Luôn luôn nhìn thấy</string>
     <string name="guide_tsfile">Nếu tệp được mã hóa, nó không thể phát được.</string>
+    <string name="view_certi">Xem chứng chỉ</string>
+    <string name="no_info">Không có thông tin</string>
 </resources>

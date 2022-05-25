@@ -78,6 +78,7 @@
     <string name="swipe_delete">ปัดลบ</string>
     <string name="rename">ตั้งชื่อใหม่</string>
     <string name="apply_url_equal">ใช้กับคนอื่น ๆ อย่างเท่าเทียมกัน</string>
+    <string name="apply_pass_equal">ใช้เหมือนกันกับรหัสผ่านอื่น ๆ</string>
     <string name="change_before">ก่อนการเปลี่ยนแปลง</string>
     <string name="change_after">หลังการเปลี่ยนแปลง</string>
     <string name="estimated">เวลาโดยประมาณ</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">ไฟล์ที่มีอยู่</string>
     <string name="exist_name">ชื่อที่มีอยู่</string>
     <string name="exist_url">URL ที่มีอยู่</string>
+    <string name="exist_pass">รหัสผ่านที่มีอยู่</string>
     <string name="next_file">ไฟล์ถัดไป</string>
     <string name="empty">ว่างเปล่า</string>
     <string name="share_limit">รองรับได้ถึง 100 รายการ</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">ไม่มีบุ๊กมาร์กในโหมดปกติ</string>
     <string name="import_no_history">ไม่มีประวัติในโหมดปกติ</string>
     <string name="import_no_password">ไม่มีรหัสผ่านในโหมดปกติ</string>
+    <string name="no_password">ไม่มีรหัสผ่าน</string>
+    <string name="export_csv">ส่งออกเป็น CSV</string>
+    <string name="import_csv">นำเข้าจาก CSV</string>
     <string name="keep_tab">เก็บแท็บ</string>
     <string name="keep_tab_info">แท็บไม่ระบุตัวตนจะถูกเก็บไว้เมื่อคุณเปลี่ยนเป็นโหมดปกติ</string>
     <string name="keep_login">เก็บไว้ในระบบ</string>
@@ -645,7 +650,8 @@
     <string name="small_list">รายการเล็ก ๆ</string>
     <string name="large_list">รายการใหญ่</string>
     <string name="full_screen">เต็มจอ</string>
-    <string name="screen_title">หน้าจอ</string>
+    <string name="full_tool">เต็มหน้าจอและแถบเครื่องมือ</string>
+    <string name="display_title">แสดง</string>
     <string name="scroll_mode">โหมดเลื่อน</string>
     <string name="scroll_guide_1">1. แสดงหน้าโหลดจนถึงตอนนี้</string>
     <string name="scroll_guide_2">2. แสดงหน้าภายในขีด จำกัด หน่วยความจำที่มีอยู่</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">เวลาที่เหลืออยู่</string>
     <string name="donate_1">บริจาค (กาแฟ)</string>
     <string name="donate_2">บริจาค (แฮมเบอร์เกอร์)</string>
-    <string name="donate_3">บริจาค (ไก่ทอด)</string>
-    <string name="donate_4">บริจาค (พิซซ่า)</string>
-    <string name="donate_5">บริจาค (อาหารค่ำ)</string>
+    <string name="donate_3">บริจาค (พิซซ่า)</string>
     <string name="donate_info">ขอบคุณที่ใช้ Soul Browser\nSoul Browser ได้รับการดูแลโดยการบริจาคของคุณ</string>
     <string name="pay_free">ฟรี</string>
     <string name="paid">ซื้อแล้ว</string>
@@ -882,4 +886,6 @@
     <string name="button_title">ปุ่ม</string>
     <string name="always_visible">มองเห็นได้เสมอ</string>
     <string name="guide_tsfile">หากไฟล์ถูกเข้ารหัส จะไม่สามารถเล่นได้</string>
+    <string name="view_certi">ดูใบรับรอง</string>
+    <string name="no_info">ไม่มีข้อมูล</string>
 </resources>

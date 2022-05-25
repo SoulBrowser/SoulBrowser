@@ -78,6 +78,7 @@
     <string name="swipe_delete">انتقد حذف</string>
     <string name="rename">تغيير الاسم</string>
     <string name="apply_url_equal">نفس الشيء بالنسبة لعناوين URL الأخرى</string>
+    <string name="apply_pass_equal">قم بتطبيق نفس الشيء على كلمات المرور الأخرى</string>
     <string name="change_before">قبل التغيير</string>
     <string name="change_after">بعد، بعدما</string>
     <string name="estimated">الوقت المقدر</string>
@@ -111,7 +112,7 @@
     <string name="open_app">برنامج</string>
     <string name="link_app">افتح الرابط مع التطبيق</string>
     <string name="link">حلقة الوصل</string>
-    <string name="open_url">حرارة</string>
+    <string name="open_url">فتح</string>
     <string name="new_url">علامة تبويب جديدة</string>
     <string name="back_url">علامة تبويب الخلفية</string>
     <string name="copy_url">إنسخ الرابط</string>
@@ -143,7 +144,7 @@
     <string name="undelete">الحذف</string>
     <string name="close">أغلق</string>
     <string name="app_exit">اخرج من التطبيق</string>
-    <string name="open">حرارة</string>
+    <string name="open">فتح</string>
     <string name="image_fail">فشل تحميل الصورة</string>
     <string name="time_day">يوم</string>
     <string name="time_days">أيام</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">ملف موجود</string>
     <string name="exist_name">اسم موجود</string>
     <string name="exist_url">URL موجود</string>
+    <string name="exist_pass">كلمة السر الموجودة حاليا</string>
     <string name="next_file">الملف التالي</string>
     <string name="empty">فارغة</string>
     <string name="share_limit">دعم ما يصل إلى 100</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">لا توجد إشارات مرجعية في الوضع العادي.</string>
     <string name="import_no_history">لا يوجد تاريخ للتاريخ في الوضع العادي.</string>
     <string name="import_no_password">لا توجد كلمة مرور في الوضع العادي.</string>
+    <string name="no_password">لا توجد كلمة مرور.</string>
+    <string name="export_csv">تصدير إلى CSV</string>
+    <string name="import_csv">استيراد من CSV</string>
     <string name="keep_tab">حافظ على علامة التبويب</string>
     <string name="keep_tab_info">حتى إذا قمت بالتغيير إلى الوضع العادي ، فسيتم الاحتفاظ بعلامة تبويب التصفح المتخفي.</string>
     <string name="keep_login">حافظ على تسجيل الدخول</string>
@@ -645,7 +650,8 @@
     <string name="small_list">قائمة صغيرة</string>
     <string name="large_list">قائمة كبيرة</string>
     <string name="full_screen">تكبير الشاشة</string>
-    <string name="screen_title">شاشة</string>
+    <string name="full_tool">ملء الشاشة وشريط الأدوات</string>
+    <string name="display_title">عرض</string>
     <string name="scroll_mode">وضع التمرير</string>
     <string name="scroll_guide_1">1. اعرض الصفحات التي تم تحميلها حتى الآن.</string>
     <string name="scroll_guide_2">2. اعرض الصفحة في حدود الذاكرة المتاحة.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">الوقت المتبقي</string>
     <string name="donate_1">تبرع (قهوة)</string>
     <string name="donate_2">تبرع (همبرغر)</string>
-    <string name="donate_3">تبرع (دجاج مقلي)</string>
-    <string name="donate_4">تبرع (بيتزا)</string>
-    <string name="donate_5">تبرع (عشاء)</string>
+    <string name="donate_3">تبرع (بيتزا)</string>
     <string name="donate_info">شكرًا لك على استخدام متصفح الروح.\nيتم الحفاظ على متصفح الروح من خلال تبرعك.</string>
     <string name="pay_free">مجانا</string>
     <string name="paid">تم شراؤها</string>
@@ -806,7 +810,7 @@
     <string name="tab_guide_2">2. يمكنك إنشاء مجلدات من خلال تداخل علامات التبويب.</string>
     <string name="debug_mode">تصحيح أخطاء الويب</string>
     <string name="debug_mode_info">يمكنك التصحيح باستخدام USB.</string>
-    <string name="default_browser">على النحو المستعرض الافتراضي</string>
+    <string name="default_browser">تعيين كمتصفح إفتراضي</string>
     <string name="news_title">أخبار</string>
     <string name="news_loading">تحميل الأخبار&#8230;</string>
     <string name="news_show">عرض الأخبار</string>
@@ -882,4 +886,6 @@
     <string name="button_title">زر</string>
     <string name="always_visible">دائما مرئي</string>
     <string name="guide_tsfile">إذا تم تشفير الملف ، فلا يمكن تشغيله.</string>
+    <string name="view_certi">مشاهدة الشهادة</string>
+    <string name="no_info">لا يوجد معلومات</string>
 </resources>

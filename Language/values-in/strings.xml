@@ -78,6 +78,7 @@
     <string name="swipe_delete">Geser hapus</string>
     <string name="rename">Ubah nama</string>
     <string name="apply_url_equal">Diterapkan sama untuk orang lain</string>
+    <string name="apply_pass_equal">Terapkan hal yang sama untuk kata sandi lainnya</string>
     <string name="change_before">Sebelum berubah</string>
     <string name="change_after">Setelah berubah</string>
     <string name="estimated">Perkiraan waktu</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">File yang ada</string>
     <string name="exist_name">Nama yang ada</string>
     <string name="exist_url">URL yang ada</string>
+    <string name="exist_pass">Kata sandi yang ada</string>
     <string name="next_file">File selanjutnya</string>
     <string name="empty">Empty</string>
     <string name="share_limit">Hingga 100 didukung</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">Tidak ada bookmark dalam mode normal.</string>
     <string name="import_no_history">Tidak ada riwayat dalam mode normal.</string>
     <string name="import_no_password">Tidak ada kata sandi dalam mode normal.</string>
+    <string name="no_password">Tidak ada kata sandi.</string>
+    <string name="export_csv">Ekspor ke CSV</string>
+    <string name="import_csv">Impor dari CSV</string>
     <string name="keep_tab">Tetap awasi</string>
     <string name="keep_tab_info">Tab penyamaran dipertahankan saat Anda beralih ke mode normal.</string>
     <string name="keep_login">Tetap masuk</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Daftar kecil</string>
     <string name="large_list">Daftar besar</string>
     <string name="full_screen">Layar penuh</string>
-    <string name="screen_title">Layar</string>
+    <string name="full_tool">Layar penuh dan Bilah Alat</string>
+    <string name="display_title">Menampilkan</string>
     <string name="scroll_mode">Mode gulir</string>
     <string name="scroll_guide_1">1. Menampilkan halaman yang dimuat sejauh ini.</string>
     <string name="scroll_guide_2">2. Menampilkan halaman dalam batas memori yang tersedia.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Waktu yang tersisa</string>
     <string name="donate_1">Donasi (Kopi)</string>
     <string name="donate_2">Donasi (Hamburger)</string>
-    <string name="donate_3">Donasi (Ayam goreng)</string>
-    <string name="donate_4">Donasi (Pizza)</string>
-    <string name="donate_5">Donasi (Makan Malam)</string>
+    <string name="donate_3">Donasi (Pizza)</string>
     <string name="donate_info">Terima kasih telah menggunakan Soul Browser.\nSoul Browser dikelola oleh donasi Anda.</string>
     <string name="pay_free">Gratis</string>
     <string name="paid">Membeli</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Tombol</string>
     <string name="always_visible">Selalu terlihat</string>
     <string name="guide_tsfile">Jika file dienkripsi, file tidak dapat diputar.</string>
+    <string name="view_certi">Lihat Sertifikat</string>
+    <string name="no_info">Tidak ada informasi</string>
 </resources>

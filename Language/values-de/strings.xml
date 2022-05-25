@@ -78,6 +78,7 @@
     <string name="swipe_delete">Wischen entfernen</string>
     <string name="rename">Umbenennen</string>
     <string name="apply_url_equal">Auf andere URL gleichermaßen anwenden</string>
+    <string name="apply_pass_equal">Wenden Sie dasselbe auf andere Passwörter an</string>
     <string name="change_before">Vor dem Wechsel</string>
     <string name="change_after">Nach dem Wechsel</string>
     <string name="estimated">Geschätzte Zeit</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">Bestehende Datei</string>
     <string name="exist_name">Vorhandener Name</string>
     <string name="exist_url">Bestehende URL</string>
+    <string name="exist_pass">Bestehendes Passwort</string>
     <string name="next_file">Nächste Datei</string>
     <string name="empty">Leer</string>
     <string name="share_limit">Bis zu 100 unterstützt</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">Im normalen Modus ist kein Lesezeichen vorhanden.</string>
     <string name="import_no_history">Im normalen Modus gibt es keinen Verlauf.</string>
     <string name="import_no_password">Im normalen Modus gibt es kein Passwort.</string>
+    <string name="no_password">Es gibt kein Passwort.</string>
+    <string name="export_csv">In CSV exportieren</string>
+    <string name="import_csv">Aus CSV importieren</string>
     <string name="keep_tab">Tab-Übersicht behalten</string>
     <string name="keep_tab_info">Inkognito-Tabs bleiben erhalten, wenn Sie in den normalen Modus wechseln.</string>
     <string name="keep_login">Eingeloggt bleiben</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Kleine Liste</string>
     <string name="large_list">Große Liste</string>
     <string name="full_screen">Ganzer Bildschirm</string>
-    <string name="screen_title">Bildschirm</string>
+    <string name="full_tool">Vollbild und Symbolleiste</string>
+    <string name="display_title">Anzeige</string>
     <string name="scroll_mode">Bildlaufmodus</string>
     <string name="scroll_guide_1">1. Zeigt die bisher geladene Seite an.</string>
     <string name="scroll_guide_2">2. Zeigt die Seite innerhalb des verfügbaren Speicherlimits an.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Verbleibende Zeit</string>
     <string name="donate_1">Spende (Kaffee)</string>
     <string name="donate_2">Spende (Hamburger)</string>
-    <string name="donate_3">Spende (Gebratenes Huhn)</string>
-    <string name="donate_4">Spende (Pizza)</string>
-    <string name="donate_5">Spende (Abendessen)</string>
+    <string name="donate_3">Spende (Pizza)</string>
     <string name="donate_info">Vielen Dank, dass Sie Soul Browser verwenden.\nSoul Browser wird durch Ihre Spende gepflegt.</string>
     <string name="pay_free">Kostenlos</string>
     <string name="paid">Gekauft</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Taste</string>
     <string name="always_visible">Immer sichtbar</string>
     <string name="guide_tsfile">Wenn die Datei verschlüsselt ist, kann sie nicht wiedergegeben werden.</string>
+    <string name="view_certi">Zertifikat ansehen</string>
+    <string name="no_info">Keine Information</string>
 </resources>

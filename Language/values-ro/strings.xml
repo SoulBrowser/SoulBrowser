@@ -78,6 +78,7 @@
     <string name="swipe_delete">Glisați ștergerea</string>
     <string name="rename">Redenumește</string>
     <string name="apply_url_equal">Se aplică în mod egal și altora</string>
+    <string name="apply_pass_equal">Aplicați același lucru și altor parole</string>
     <string name="change_before">Înainte de a schimba</string>
     <string name="change_after">după modificare</string>
     <string name="estimated">Timp estimat</string>
@@ -277,6 +278,7 @@
     <string name="exist_file">Fișier existent</string>
     <string name="exist_name">Numele existent</string>
     <string name="exist_url">URL existent</string>
+    <string name="exist_pass">Parola existenta</string>
     <string name="next_file">Fișierul următor</string>
     <string name="empty">Gol</string>
     <string name="share_limit">Până la 100 acceptate</string>
@@ -499,6 +501,9 @@
     <string name="import_no_book">Nu există marcaj în mod normal.</string>
     <string name="import_no_history">Nu există istoric în modul normal.</string>
     <string name="import_no_password">Nu există nicio parolă în modul normal.</string>
+    <string name="no_password">Nu există nicio parolă.</string>
+    <string name="export_csv">Exportați în CSV</string>
+    <string name="import_csv">Importați din CSV</string>
     <string name="keep_tab">Mențineți filele</string>
     <string name="keep_tab_info">Filele de incognito sunt păstrate atunci când treceți la modul normal.</string>
     <string name="keep_login">Continuați conectarea</string>
@@ -645,7 +650,8 @@
     <string name="small_list">Lista mică</string>
     <string name="large_list">Lista mare</string>
     <string name="full_screen">Ecran complet</string>
-    <string name="screen_title">Ecran</string>
+    <string name="full_tool">Ecran complet și Bara de instrumente</string>
+    <string name="display_title">Afişa</string>
     <string name="scroll_mode">Modul de derulare</string>
     <string name="scroll_guide_1">1. Afișează pagina încărcată până acum.</string>
     <string name="scroll_guide_2">2. Afișează pagina în limita de memorie disponibilă.</string>
@@ -705,9 +711,7 @@
     <string name="reward_ads_time">Timp ramas</string>
     <string name="donate_1">Donație (Cafea)</string>
     <string name="donate_2">Donație (Hamburger)</string>
-    <string name="donate_3">Donație (Pui prăjit)</string>
-    <string name="donate_4">Donație (Pizza)</string>
-    <string name="donate_5">Donație (Cină)</string>
+    <string name="donate_3">Donație (Pizza)</string>
     <string name="donate_info">Vă mulțumim că ați folosit Soul Browser.\nSoul Browser este menținut prin donația dvs.</string>
     <string name="pay_free">Liber</string>
     <string name="paid">Cumparat</string>
@@ -882,4 +886,6 @@
     <string name="button_title">Buton</string>
     <string name="always_visible">Mereu vizibile</string>
     <string name="guide_tsfile">Dacă fișierul este criptat, nu poate fi redat.</string>
+    <string name="view_certi">Vizualizare certificat</string>
+    <string name="no_info">Fara informatii</string>
 </resources>
