@@ -5,8 +5,6 @@
     <string name="notice">Naciskając przycisk Początek, akceptujesz Przeglądarkę Dusz\n%1$s i %2$s.</string>
     <string name="notice_tos">Warunki korzystania z usługi</string>
     <string name="notice_privacy">Informacja o prywatności</string>
-    <string name="tos">Warunki korzystania z usługi</string>
-    <string name="privacy">Informacja o prywatności</string>
     <string name="start">Początek</string>
     <string name="info">Informacje</string>
     <string name="app_ver">Wersja aplikacji</string>
@@ -157,8 +155,12 @@
     <string name="password_save">Zapisz hasło</string>
     <string name="password_confirm">Czy chcesz zapisać swoje hasło?</string>
     <string name="password_info">Przechowuje oddzielnie hasła w trybie normalnym i trybie incognito.</string>
-    <string name="password_lock">Najpierw skonfiguruj ekran blokady.\nTo dla twojej prywatności.</string>
+    <string name="password_button">Przycisk menedżera haseł</string>
+    <string name="password_lock_1">Najpierw skonfiguruj ekran blokady.</string>
+    <string name="password_lock_2">To dla twojej prywatności.</string>
     <string name="password_reset_guide">Zresetowanie spowoduje usunięcie wszystkich danych powiązanych z hasłem.</string>
+    <string name="login_lock">Bezpieczeństwo logowania</string>
+    <string name="login_lock_info">Ekran blokady zostanie uruchomiony przed zalogowaniem się przy użyciu zapisanego hasła.</string>
     <string name="canceling">Anulowanie&#8230;</string>
     <string name="checking">Sprawdzanie&#8230;</string>
     <string name="finishing">Kończąc&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">Podaj adres witryny, która ma problemy z ciemnym motywem.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Naciśnij klawisz Home podczas odtwarzania YouTube, aby przełączyć na tryb PIP.</string>
+    <string name="youtube_unmute">Wyłącz wyciszenie YouTube</string>
+    <string name="youtube_tab">Otwórz link do YouTube w nowej karcie</string>
+    <string name="youtube_auto">Autoodtwarzanie w YouTube</string>
     <string name="back_play">Odtwarzanie w tle</string>
     <string name="back_play_info">Ze względu na zasady YouTube odtwarzanie w tle YouTube nie jest obsługiwane.</string>
     <string name="normal_rate">Normalna</string>
@@ -529,6 +534,7 @@
     <string name="show_center">Centrum</string>
     <string name="show_right">Prawo</string>
     <string name="tip">Wskazówka</string>
+    <string name="similar_function">Podobna funkcja</string>
     <string name="web_content">Treść internetowa</string>
     <string name="customize">Dostosowywanie</string>
     <string name="font">Czcionka</string>
@@ -646,7 +652,7 @@
     <string name="move_right">Prawo</string>
     <string name="swipe_guide_1">1. Kliknij obszar, aby zmienić funkcję.</string>
     <string name="swipe_guide_2">2. Przeciągnij obszar, aby zmienić rozmiar.</string>
-    <string name="small_icon">Mała ikona</string>
+    <string name="big_icon">Duża ikona</string>
     <string name="small_list">Mała lista</string>
     <string name="large_list">Duża lista</string>
     <string name="full_screen">Pełny ekran</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">Plik może być uszkodzony.</string>
     <string name="ads_filter">Filtr reklam</string>
     <string name="filter_info">Używanie wielu filtrów jednocześnie może spowolnić działanie przeglądarki.</string>
+    <string name="filter_country">Kraj</string>
     <string name="backup_title">Zapasowej</string>
     <string name="backup_import">Importuj</string>
     <string name="backup_export">Eksportuj</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">Gdzie dodać zakładki</string>
     <string name="tab_add_next">Obok aktualnej zakładki</string>
     <string name="tab_add_last">Koniec listy kart</string>
-    <string name="tab_group">Grupa</string>
+    <string name="group_title">Grupa</string>
     <string name="auto_group">Automatyczne grupowanie</string>
     <string name="auto_group_info">Są one automatycznie grupowane, gdy w witrynie otworzy się nowe okno.</string>
     <string name="tab_guide_1">1. Możesz poruszać się naciskając i przytrzymując zakładkę.</string>

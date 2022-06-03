@@ -5,8 +5,6 @@
     <string name="notice">Al presionar el botón Comenzar, aceptas los %1$s y la %2$s de Soul Browser.</string>
     <string name="notice_tos">Términos de servicio</string>
     <string name="notice_privacy">Política de privacidad</string>
-    <string name="tos">Términos de servicio</string>
-    <string name="privacy">Política de privacidad</string>
     <string name="start">Comenzar</string>
     <string name="info">Información</string>
     <string name="app_ver">Versión de aplicacion</string>
@@ -157,8 +155,12 @@
     <string name="password_save">Guardar contraseña</string>
     <string name="password_confirm">¿Quieres guardar tu contraseña?</string>
     <string name="password_info">Almacena las contraseñas en modo normal y modo incógnito por separado.</string>
-    <string name="password_lock">Primero configure una pantalla de bloqueo.\nEsto es para tu privacidad.</string>
+    <string name="password_button">Botón del administrador de contraseñas</string>
+    <string name="password_lock_1">Primero configure una pantalla de bloqueo.</string>
+    <string name="password_lock_2">Esto es para tu privacidad.</string>
     <string name="password_reset_guide">El restablecimiento borrará todos los datos asociados con la contraseña.</string>
+    <string name="login_lock">Seguridad de inicio de sesión</string>
+    <string name="login_lock_info">La pantalla de bloqueo se iniciará antes de iniciar sesión con la contraseña guardada.</string>
     <string name="canceling">Cancelado&#8230;</string>
     <string name="checking">Comprobación&#8230;</string>
     <string name="finishing">Acabado&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">Proporcione la dirección del sitio que tiene problemas con el tema oscuro.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Presione la tecla de inicio durante la reproducción de YouTube para cambiar al modo PIP.</string>
+    <string name="youtube_unmute">No silenciar YouTube</string>
+    <string name="youtube_tab">Abrir enlace de YouTube en una pestaña nueva</string>
+    <string name="youtube_auto">Reproducción automática de YouTube</string>
     <string name="back_play">Reproducción de fondo</string>
     <string name="back_play_info">Debido a la política de YouTube, la reproducción en segundo plano de YouTube no es compatible.</string>
     <string name="normal_rate">Normal</string>
@@ -529,6 +534,7 @@
     <string name="show_center">Centro</string>
     <string name="show_right">Derecha</string>
     <string name="tip">Insinuación</string>
+    <string name="similar_function">Función similar</string>
     <string name="web_content">Contenido web</string>
     <string name="customize">Personalización</string>
     <string name="font">Fuente</string>
@@ -646,7 +652,7 @@
     <string name="move_right">Derecha</string>
     <string name="swipe_guide_1">1. Haga clic en el área para cambiar la función.</string>
     <string name="swipe_guide_2">2. Arrastre el área para cambiar el tamaño.</string>
-    <string name="small_icon">Pequeño icono</string>
+    <string name="big_icon">Gran icono</string>
     <string name="small_list">Pequeña lista</string>
     <string name="large_list">Lista grande</string>
     <string name="full_screen">Pantalla completa</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">El archivo puede estar dañado.</string>
     <string name="ads_filter">Filtro de anuncios</string>
     <string name="filter_info">El uso de varios filtros al mismo tiempo puede ralentizar el rendimiento del navegador.</string>
+    <string name="filter_country">País</string>
     <string name="backup_title">Respaldo</string>
     <string name="backup_import">Importar</string>
     <string name="backup_export">Exportar</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">Dónde agregar pestañas</string>
     <string name="tab_add_next">Junto a la pestaña actual</string>
     <string name="tab_add_last">Final de la lista de pestañas</string>
-    <string name="tab_group">Grupo</string>
+    <string name="group_title">Grupo</string>
     <string name="auto_group">Agrupación automática</string>
     <string name="auto_group_info">Se agrupan automáticamente cuando se abre una nueva ventana en el sitio.</string>
     <string name="tab_guide_1">1. Puedes moverte presionando y manteniendo presionada la pestaña.</string>

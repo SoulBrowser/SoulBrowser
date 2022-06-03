@@ -5,8 +5,6 @@
     <string name="notice">按下开始按钮即表示你同意 Soul Browser %1$s和%2$s</string>
     <string name="notice_tos">使用条款</string>
     <string name="notice_privacy">隐私政策</string>
-    <string name="tos">使用条款</string>
-    <string name="privacy">隐私政策</string>
     <string name="start">开始</string>
     <string name="info">关于</string>
     <string name="app_ver">应用程式版本</string>
@@ -48,7 +46,7 @@
     <string name="save_success">保存成功</string>
     <string name="save_fail">保存失败</string>
     <string name="capture">截屏</string>
-    <string name="print_page">打印 / PDF</string>
+    <string name="print_page">打印／PDF</string>
     <string name="print_success">打印成功</string>
     <string name="print_fail">打印失败</string>
     <string name="translate">翻译</string>
@@ -157,8 +155,12 @@
     <string name="password_save">保存密码</string>
     <string name="password_confirm">你要保存密码吗？</string>
     <string name="password_info">分别在正常模式和无痕模式下存储密码</string>
-    <string name="password_lock">请先设置密码\n这可以保护你的隐私</string>
+    <string name="password_button">密码管理器按钮</string>
+    <string name="password_lock_1">请先设置密码</string>
+    <string name="password_lock_2">这可以保护你的隐私</string>
     <string name="password_reset_guide">重置将清除与密码关联的所有数据</string>
+    <string name="login_lock">登录安全</string>
+    <string name="login_lock_info">锁定屏幕将在使用保存的密码登录之前启动</string>
     <string name="canceling">取消&#8230;</string>
     <string name="checking">检查中&#8230;</string>
     <string name="finishing">正在完成&#160;</string>
@@ -296,7 +298,7 @@
     <string name="set_wallpaper">设置壁纸</string>
     <string name="crop_save">完成</string>
     <string name="pdf_crop_guide">从 PDF 文件中删除边距</string>
-    <string name="guide_pinch">放大 / 缩小</string>
+    <string name="guide_pinch">放大／缩小</string>
     <string name="dark_mode">主题</string>
     <string name="dark_mode_info_2">使用时请注意</string>
     <string name="message_confirm">不要再显示此消息</string>
@@ -339,7 +341,7 @@
     <string name="text_size">字体大小</string>
     <string name="free_scale">用两根手指放大</string>
     <string name="mobile_mode">移动模式</string>
-    <string name="desk_mode">移动模式 / 桌面模式</string>
+    <string name="desk_mode">移动模式／桌面模式</string>
     <string name="desk_one">桌面模式（当前标签）</string>
     <string name="desk_all">桌面模式（所有标签）</string>
     <string name="show_image">有图模式</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">请提供深色主题有问题的网站地址</string>
     <string name="youtube_pip">YouTube 画中画</string>
     <string name="youtube_pip_info">在 YouTube 播放期间按下主页键切换到画中画模式</string>
+    <string name="youtube_unmute">取消静音 YouTube</string>
+    <string name="youtube_tab">在新标签页中打开 YouTube 链接</string>
+    <string name="youtube_auto">YouTube 自动播放</string>
     <string name="back_play">后台播放</string>
     <string name="back_play_info">根据 YouTube 政策，不支持 YouTube 后台播放。</string>
     <string name="normal_rate">正常</string>
@@ -529,6 +534,7 @@
     <string name="show_center">中心</string>
     <string name="show_right">右边</string>
     <string name="tip">提示</string>
+    <string name="similar_function">类似功能</string>
     <string name="web_content">网页内容</string>
     <string name="customize">个性化</string>
     <string name="font">字体</string>
@@ -646,7 +652,7 @@
     <string name="move_right">右</string>
     <string name="swipe_guide_1">1. 单击该区域以更改功能</string>
     <string name="swipe_guide_2">2. 拖动区域以更改大小</string>
-    <string name="small_icon">小图标</string>
+    <string name="big_icon">大图标</string>
     <string name="small_list">小列表</string>
     <string name="large_list">大列表</string>
     <string name="full_screen">全屏页面</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">该文件可能已损坏</string>
     <string name="ads_filter">广告过滤器</string>
     <string name="filter_info">同时使用多个过滤器会降低浏览器性能</string>
+    <string name="filter_country">国家</string>
     <string name="backup_title">备份</string>
     <string name="backup_import">导入</string>
     <string name="backup_export">导出</string>
@@ -711,7 +718,7 @@
     <string name="reward_ads_time">剩余时间</string>
     <string name="donate_1">捐赠（咖啡）</string>
     <string name="donate_2">捐赠（汉堡包）</string>
-    <string name="donate_3">捐赠（比萨)</string>
+    <string name="donate_3">捐赠（比萨）</string>
     <string name="donate_info">感谢您使用 Soul Browser\nSoul Browser 由您的捐赠维护</string>
     <string name="pay_free">免费</string>
     <string name="paid">已购买</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">在哪里添加标签</string>
     <string name="tab_add_next">在当前选项卡旁边</string>
     <string name="tab_add_last">标签列表结束</string>
-    <string name="tab_group">团体</string>
+    <string name="group_title">团体</string>
     <string name="auto_group">自动分组</string>
     <string name="auto_group_info">在站点上打开新窗口时，它们会自动分组</string>
     <string name="tab_guide_1">1. 您可以通过按住选项卡来移动</string>

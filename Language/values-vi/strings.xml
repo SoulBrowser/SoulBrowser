@@ -5,8 +5,6 @@
     <string name="notice">Bằng cách nhấn vào nút Bắt đầu, bạn đồng ý với Soul Browser %1$s và %2$s.</string>
     <string name="notice_tos">Điều khoản dịch vụ</string>
     <string name="notice_privacy">Chính sách Bảo mật</string>
-    <string name="tos">Điều khoản dịch vụ</string>
-    <string name="privacy">Chính sách Bảo mật</string>
     <string name="start">Bắt đầu</string>
     <string name="info">Thông tin</string>
     <string name="app_ver">Phiên bản ứng dụng</string>
@@ -157,8 +155,12 @@
     <string name="password_save">Lưu mật khẩu</string>
     <string name="password_confirm">Bạn có muốn lưu mật khẩu của bạn?</string>
     <string name="password_info">Lưu trữ mật khẩu ở chế độ bình thường và chế độ ẩn danh riêng biệt.</string>
-    <string name="password_lock">Vui lòng thiết lập màn hình khóa trước.\nĐiều này là cho sự riêng tư của bạn.</string>
+    <string name="password_button">Nút quản lý mật khẩu</string>
+    <string name="password_lock_1">Vui lòng thiết lập màn hình khóa trước.</string>
+    <string name="password_lock_2">Điều này là cho sự riêng tư của bạn.</string>
     <string name="password_reset_guide">Đặt lại sẽ xóa tất cả dữ liệu liên quan đến mật khẩu.</string>
+    <string name="login_lock">Đăng nhập bảo mật</string>
+    <string name="login_lock_info">Màn hình khóa sẽ khởi chạy trước khi đăng nhập bằng mật khẩu đã lưu.</string>
     <string name="canceling">Hủy&#8230;</string>
     <string name="checking">Kiểm tra&#8230;</string>
     <string name="finishing">Hoàn thiện&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">Vui lòng cung cấp địa chỉ của trang web đang gặp sự cố với chủ đề tối.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Bấm phím Home trong khi phát lại YouTube để chuyển sang chế độ PIP.</string>
+    <string name="youtube_unmute">Bật tiếng YouTube</string>
+    <string name="youtube_tab">Mở liên kết YouTube trong một tab mới</string>
+    <string name="youtube_auto">Tự động phát trên YouTube</string>
     <string name="back_play">Phát lại nền</string>
     <string name="back_play_info">Do chính sách của YouTube, phát lại nền YouTube không được hỗ trợ.</string>
     <string name="normal_rate">Bình thường</string>
@@ -529,6 +534,7 @@
     <string name="show_center">Trung tâm</string>
     <string name="show_right">Phải</string>
     <string name="tip">Dấu</string>
+    <string name="similar_function">Chức năng tương tự</string>
     <string name="web_content">Nội dung web</string>
     <string name="customize">Tùy chỉnh</string>
     <string name="font">Phông chữ</string>
@@ -646,7 +652,7 @@
     <string name="move_right">Phải</string>
     <string name="swipe_guide_1">1. Nhấn vào khu vực để thay đổi chức năng.</string>
     <string name="swipe_guide_2">2. Kéo khu vực để thay đổi kích thước.</string>
-    <string name="small_icon">Biểu tượng nhỏ</string>
+    <string name="big_icon">Biểu tượng lớn</string>
     <string name="small_list">Danh sách nhỏ</string>
     <string name="large_list">Danh sách lớn</string>
     <string name="full_screen">Toàn màn hình</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">Các tập tin có thể bị hư hỏng.</string>
     <string name="ads_filter">Bộ lọc quảng cáo</string>
     <string name="filter_info">Sử dụng nhiều bộ lọc cùng một lúc có thể làm chậm hiệu suất trình duyệt.</string>
+    <string name="filter_country">Quốc gia</string>
     <string name="backup_title">Sao lưu</string>
     <string name="backup_import">Nhập sao lưu</string>
     <string name="backup_export">Xuất sao lưu</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">Thêm tab vào đâu</string>
     <string name="tab_add_next">Bên cạnh tab hiện tại</string>
     <string name="tab_add_last">Cuối danh sách tab</string>
-    <string name="tab_group">Tập đoàn</string>
+    <string name="group_title">Tập đoàn</string>
     <string name="auto_group">Nhóm tự động</string>
     <string name="auto_group_info">Chúng tự động được nhóm lại khi một cửa sổ mới mở ra trên trang web.</string>
     <string name="tab_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ tab.</string>

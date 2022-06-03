@@ -5,8 +5,6 @@
     <string name="notice">Başlat düğmesine basarak, Soul Browser\n%1$snı ve %2$sni kabul etmiş olursunuz.</string>
     <string name="notice_tos">Hizmet Şartları</string>
     <string name="notice_privacy">Gizlilik Bildirimi</string>
-    <string name="tos">Hizmet Şartları</string>
-    <string name="privacy">Gizlilik Bildirimi</string>
     <string name="start">Başlat</string>
     <string name="info">Bilgi</string>
     <string name="app_ver">Uygulama sürümü</string>
@@ -150,15 +148,19 @@
     <string name="time_days">gün</string>
     <string name="time_h">s</string>
     <string name="time_m">d</string>
-    <string name="time_s">i</string>
+    <string name="time_s">s</string>
     <string name="password">Şifre</string>
     <string name="input_password">Şifreyi girin</string>
     <string name="invalid_password">Geçersiz şifre</string>
     <string name="password_save">Parolayı kaydet</string>
     <string name="password_confirm">Şifrenizi kaydetmek ister misiniz?</string>
     <string name="password_info">Parolaları normal modda ve gizli modda ayrı olarak saklar.</string>
-    <string name="password_lock">Lütfen önce bir kilit ekranı ayarlayın.\nBu gizliliğiniz içindir.</string>
+    <string name="password_button">Şifre yöneticisi düğmesi</string>
+    <string name="password_lock_1">Lütfen önce bir kilit ekranı ayarlayın.</string>
+    <string name="password_lock_2">Bu gizliliğiniz içindir.</string>
     <string name="password_reset_guide">Sıfırlama işlemi, parola ile ilişkili tüm verileri siler.</string>
+    <string name="login_lock">Giriş güvenliği</string>
+    <string name="login_lock_info">Kaydedilmiş şifre ile giriş yapmadan önce kilit ekranı açılacaktır.</string>
     <string name="canceling">İptal&#8230;</string>
     <string name="checking">Kontrol etme&#8230;</string>
     <string name="finishing">Sonu&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">Lütfen karanlık temayla sorun yaşayan sitenin adresini sağlayın.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">PIP moduna geçmek için YouTube oynatma sırasında Giriş tuşuna basın.</string>
+    <string name="youtube_unmute">YouTube\'un sesini aç</string>
+    <string name="youtube_tab">YouTube bağlantısını yeni bir sekmede açın</string>
+    <string name="youtube_auto">YouTube otomatik oynatma</string>
     <string name="back_play">Arka planda oynatma</string>
     <string name="back_play_info">YouTube politikası nedeniyle, YouTube arka plan oynatımı desteklenmiyor.</string>
     <string name="normal_rate">Normal</string>
@@ -529,6 +534,7 @@
     <string name="show_center">Merkez</string>
     <string name="show_right">Sağ taraf</string>
     <string name="tip">İpucu</string>
+    <string name="similar_function">Benzer işlev</string>
     <string name="web_content">Web içeriği</string>
     <string name="customize">Kişiselleştir</string>
     <string name="font">Yazı</string>
@@ -646,7 +652,7 @@
     <string name="move_right">Sağ</string>
     <string name="swipe_guide_1">1. İşlevi değiştirmek için alanı tıklayın.</string>
     <string name="swipe_guide_2">2. Boyutu değiştirmek için alanı sürükleyin.</string>
-    <string name="small_icon">Küçük simge</string>
+    <string name="big_icon">Büyük simge</string>
     <string name="small_list">Küçük liste</string>
     <string name="large_list">Geniş liste</string>
     <string name="full_screen">Tam ekran</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">Dosya zarar görmüş olabilir.</string>
     <string name="ads_filter">Reklam filtresi</string>
     <string name="filter_info">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
+    <string name="filter_country">Ülke</string>
     <string name="backup_title">Yedek</string>
     <string name="backup_import">İçe aktar</string>
     <string name="backup_export">Dışa yükle</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">Sekmeler nereye eklenir</string>
     <string name="tab_add_next">Geçerli sekmenin yanında</string>
     <string name="tab_add_last">Sekme listesinin sonu</string>
-    <string name="tab_group">Grup</string>
+    <string name="group_title">Grup</string>
     <string name="auto_group">Otomatik gruplama</string>
     <string name="auto_group_info">Sitede yeni bir pencere açıldığında otomatik olarak gruplanırlar.</string>
     <string name="tab_guide_1">1. Sekmeyi basılı tutarak hareket edebilirsiniz.</string>

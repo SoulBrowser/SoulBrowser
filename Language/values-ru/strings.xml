@@ -3,10 +3,8 @@
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Нажимая кнопку «Начать работу», Вы соглашаетесь с %1$s и %2$s браузера Soul.</string>
-    <string name="notice_tos">Условиями использования</string>
-    <string name="notice_privacy">Политикой конфиденциальности</string>
-    <string name="tos">Условия использования</string>
-    <string name="privacy">Политика конфиденциальности</string>
+    <string name="notice_tos">Условия использования</string>
+    <string name="notice_privacy">Политика конфиденциальности</string>
     <string name="start">Начать работу</string>
     <string name="info">Информация</string>
     <string name="app_ver">Версия приложения</string>
@@ -157,8 +155,12 @@
     <string name="password_save">Сохранить пароль</string>
     <string name="password_confirm">Вы хотите сохранить свой пароль?</string>
     <string name="password_info">Сохранять пароли в обычном режиме и режиме инкогнито отдельно.</string>
-    <string name="password_lock">Сначала настройте экран блокировки.\nЭто для вашей конфиденциальности.</string>
+    <string name="password_button">Кнопка менеджера паролей</string>
+    <string name="password_lock_1">Сначала настройте экран блокировки.</string>
+    <string name="password_lock_2">Это для вашей конфиденциальности.</string>
     <string name="password_reset_guide">Сброс удалит все данные, связанные с паролем.</string>
+    <string name="login_lock">Безопасность входа</string>
+    <string name="login_lock_info">Экран блокировки запустится перед входом в систему с сохраненным паролем.</string>
     <string name="canceling">Отмена&#8230;</string>
     <string name="checking">Проверка&#8230;</string>
     <string name="finishing">в конце&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">Укажите адрес сайта, на котором возникают проблемы с темной темой.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Нажмите клавишу Домой во время воспроизведения YouTube, для переключения в режим PIP.</string>
+    <string name="youtube_unmute">Включить YouTube</string>
+    <string name="youtube_tab">Открыть ссылку YouTube в новой вкладке</string>
+    <string name="youtube_auto">Автозапуск YouTube</string>
     <string name="back_play">Фоновое воспроизведение</string>
     <string name="back_play_info">Из-за политики YouTube фоновое воспроизведение YouTube не поддерживается.</string>
     <string name="normal_rate">Обычный</string>
@@ -529,6 +534,7 @@
     <string name="show_center">Центр</string>
     <string name="show_right">Справа</string>
     <string name="tip">Подсказка</string>
+    <string name="similar_function">Аналогичная функция</string>
     <string name="web_content">Веб-контент</string>
     <string name="customize">Персонализация</string>
     <string name="font">Шрифт</string>
@@ -646,7 +652,7 @@
     <string name="move_right">Вправо</string>
     <string name="swipe_guide_1">1. Нажмите, чтобы изменить функцию.</string>
     <string name="swipe_guide_2">2. Перетащите, чтобы изменить размер.</string>
-    <string name="small_icon">Маленький значок</string>
+    <string name="big_icon">Большая иконка</string>
     <string name="small_list">Компактный список</string>
     <string name="large_list">Крупный список</string>
     <string name="full_screen">Полноэкранный режим</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">Файл может быть повреждён.</string>
     <string name="ads_filter">Рекламный фильтр</string>
     <string name="filter_info">Использование нескольких фильтров одновременно может снизить производительность браузера.</string>
+    <string name="filter_country">Страна</string>
     <string name="backup_title">Резервное копирование и восстановление</string>
     <string name="backup_import">Импорт</string>
     <string name="backup_export">Экспорт</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">Позиция новой вкладки</string>
     <string name="tab_add_next">Рядом с текущей вкладкой</string>
     <string name="tab_add_last">Конец списка вкладок</string>
-    <string name="tab_group">Группа</string>
+    <string name="group_title">Группа</string>
     <string name="auto_group">Автогруппировка вкладок</string>
     <string name="auto_group_info">Автогруппировка при открытии нового сайта.</string>
     <string name="tab_guide_1">1. Перемещайте вкладку длинным нажатием на ней.</string>

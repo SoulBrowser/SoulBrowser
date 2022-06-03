@@ -5,8 +5,6 @@
     <string name="notice">시작 버튼을 누르시면, Soul Browser\n%1$s과 %2$s에 동의하게 됩니다.</string>
     <string name="notice_tos">이용약관</string>
     <string name="notice_privacy">개인정보 보호정책</string>
-    <string name="tos">이용약관</string>
-    <string name="privacy">개인정보 보호정책</string>
     <string name="start">시작</string>
     <string name="info">정보</string>
     <string name="app_ver">앱 버전</string>
@@ -157,8 +155,12 @@
     <string name="password_save">비밀번호 저장</string>
     <string name="password_confirm">비밀번호를 저장하시겠습니까?</string>
     <string name="password_info">일반 모드와 시크릿 모드의 비밀 번호를 별도로 저장합니다.</string>
-    <string name="password_lock">잠금화면을 먼저 설정해 주세요.\n개인 정보 보호를 위해서입니다.</string>
+    <string name="password_button">비밀번호 관리 버튼</string>
+    <string name="password_lock_1">잠금화면을 먼저 설정해 주세요.</string>
+    <string name="password_lock_2">개인 정보 보호를 위해서입니다.</string>
     <string name="password_reset_guide">초기화하면 비밀번호와 관련된 모든 데이터가 삭제됩니다.</string>
+    <string name="login_lock">로그인 보안</string>
+    <string name="login_lock_info">저장된 비밀번호로 로그인하기 전에 잠금 화면이 실행됩니다.</string>
     <string name="canceling">취소 중&#8230;</string>
     <string name="checking">확인 중&#8230;</string>
     <string name="finishing">마무리 중&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">어두운 테마에 문제가 있는 사이트의 주소를 알려주세요.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">YouTube 재생 중 홈키를 누르면, PIP 모드로 전환됩니다.</string>
+    <string name="youtube_unmute">YouTube 음소거 해제</string>
+    <string name="youtube_tab">YouTube 링크를 새 탭에서 열기</string>
+    <string name="youtube_auto">YouTube 자동 재생</string>
     <string name="back_play">백그라운드 재생</string>
     <string name="back_play_info">YouTube 정책에 의해, YouTube 백그라운드 재생은 지원되지 않습니다.</string>
     <string name="normal_rate">보통</string>
@@ -529,6 +534,7 @@
     <string name="show_center">가운데</string>
     <string name="show_right">오른쪽</string>
     <string name="tip">팁</string>
+    <string name="similar_function">유사한 기능</string>
     <string name="web_content">웹 컨텐츠</string>
     <string name="customize">커스터마이징</string>
     <string name="font">폰트</string>
@@ -646,7 +652,7 @@
     <string name="move_right">오른쪽</string>
     <string name="swipe_guide_1">1. 영역을 클릭하여 기능을 변경하세요.</string>
     <string name="swipe_guide_2">2. 영역을 드래그하여 크기를 변경하세요.</string>
-    <string name="small_icon">작은 아이콘</string>
+    <string name="big_icon">큰 아이콘</string>
     <string name="small_list">작은 리스트</string>
     <string name="large_list">큰 리스트</string>
     <string name="full_screen">전체 화면</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">파일이 손상되었을 수 있습니다.</string>
     <string name="ads_filter">광고 필터</string>
     <string name="filter_info">여러 필터를 동시에 사용하면 브라우저 성능이 느려질 수 있습니다.</string>
+    <string name="filter_country">국가</string>
     <string name="backup_title">백업</string>
     <string name="backup_import">불러오기</string>
     <string name="backup_export">내보내기</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">탭 추가 위치</string>
     <string name="tab_add_next">현재 탭 옆</string>
     <string name="tab_add_last">탭 목록 끝</string>
-    <string name="tab_group">그룹</string>
+    <string name="group_title">그룹</string>
     <string name="auto_group">자동 그룹화</string>
     <string name="auto_group_info">사이트에서 새 창이 열리면 자동으로 그룹화됩니다.</string>
     <string name="tab_guide_1">1. 탭을 길게 눌러 이동할 수 있습니다.</string>

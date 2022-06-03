@@ -5,8 +5,6 @@
     <string name="notice">By pressing the Start button, you agree to the Soul Browser\n%1$s and %2$s.</string>
     <string name="notice_tos">Terms of Service</string>
     <string name="notice_privacy">Privacy Policy</string>
-    <string name="tos">Terms of Service</string>
-    <string name="privacy">Privacy Policy</string>
     <string name="start">Start</string>
     <string name="info">Information</string>
     <string name="app_ver">App version</string>
@@ -157,8 +155,12 @@
     <string name="password_save">Save Password</string>
     <string name="password_confirm">Do you want to save your password?</string>
     <string name="password_info">Stores passwords in normal mode and incognito mode separately.</string>
-    <string name="password_lock">Please set up a lock screen first.\nThis is for your privacy.</string>
+    <string name="password_button">Password manager button</string>
+    <string name="password_lock_1">Please set up a lock screen first.</string>
+    <string name="password_lock_2">This is for your privacy.</string>
     <string name="password_reset_guide">Resetting will delete all data associated with the password.</string>
+    <string name="login_lock">Login security</string>
+    <string name="login_lock_info">The lock screen will launch before logging in with the saved password.</string>
     <string name="canceling">Canceling&#8230;</string>
     <string name="checking">Checking&#8230;</string>
     <string name="finishing">Finishing&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">Please provide the address of the site that is having problems with the dark theme.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Press the Home key during YouTube playback to switch to PIP mode.</string>
+    <string name="youtube_unmute">Unmute YouTube</string>
+    <string name="youtube_tab">Open YouTube link in new tab</string>
+    <string name="youtube_auto">YouTube autoplay</string>
     <string name="back_play">Background playback</string>
     <string name="back_play_info">Due to YouTube policy, YouTube background playback is not supported.</string>
     <string name="normal_rate">Normal</string>
@@ -529,6 +534,7 @@
     <string name="show_center">Center</string>
     <string name="show_right">Right</string>
     <string name="tip">Tip</string>
+    <string name="similar_function">Similar function</string>
     <string name="web_content">Web content</string>
     <string name="customize">Customize</string>
     <string name="font">Font</string>
@@ -646,7 +652,7 @@
     <string name="move_right">Right</string>
     <string name="swipe_guide_1">1. Click the area to change the function.</string>
     <string name="swipe_guide_2">2. Drag the area to change the size.</string>
-    <string name="small_icon">Small icon</string>
+    <string name="big_icon">Big icon</string>
     <string name="small_list">Small list</string>
     <string name="large_list">Large list</string>
     <string name="full_screen">Full screen</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">The file may be damaged.</string>
     <string name="ads_filter">Ad filter</string>
     <string name="filter_info">Using multiple filters at the same time can slow browser performance.</string>
+    <string name="filter_country">Country</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Import</string>
     <string name="backup_export">Export</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">Where to add tabs</string>
     <string name="tab_add_next">Next to the current tab</string>
     <string name="tab_add_last">End of tab list</string>
-    <string name="tab_group">Group</string>
+    <string name="group_title">Group</string>
     <string name="auto_group">Automatic grouping</string>
     <string name="auto_group_info">They are automatically grouped when a new window opens on the site.</string>
     <string name="tab_guide_1">1. You can move by pressing and holding the tab.</string>

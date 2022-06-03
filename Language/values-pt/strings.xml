@@ -5,8 +5,6 @@
     <string name="notice">Ao pressionar botão Começar, você concorda com Soul Browser %1$s e %2$s.</string>
     <string name="notice_tos">Termos de serviço</string>
     <string name="notice_privacy">Política de privacidade</string>
-    <string name="tos">Termos de serviço</string>
-    <string name="privacy">Política de privacidade</string>
     <string name="start">Começar</string>
     <string name="info">Informação</string>
     <string name="app_ver">Versão do aplicativo</string>
@@ -157,8 +155,12 @@
     <string name="password_save">Salvar senha</string>
     <string name="password_confirm">Deseja salvar sua senha?</string>
     <string name="password_info">Armazena senhas no modo normal e no modo de navegação anônima separadamente.</string>
-    <string name="password_lock">Primeiro, configure uma tela de bloqueio.\nIsto é para sua privacidade.</string>
+    <string name="password_button">Botão gerenciador de senhas</string>
+    <string name="password_lock_1">Primeiro, configure uma tela de bloqueio.</string>
+    <string name="password_lock_2">Isto é para sua privacidade.</string>
     <string name="password_reset_guide">A redefinição apagará todos os dados associados à senha.</string>
+    <string name="login_lock">Segurança de login</string>
+    <string name="login_lock_info">A tela de bloqueio será iniciada antes de fazer login com a senha salva.</string>
     <string name="canceling">Cancelar&#8230;</string>
     <string name="checking">Verificar&#8230;</string>
     <string name="finishing">Acabamento&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">Forneça o endereço do site que está tendo problemas com o tema escuro.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Pressione a tecla Home durante a reprodução do YouTube para alternar para o modo PIP.</string>
+    <string name="youtube_unmute">Ativar o som do YouTube</string>
+    <string name="youtube_tab">Abra o link do YouTube em uma nova guia</string>
+    <string name="youtube_auto">Reprodução automática do YouTube</string>
     <string name="back_play">Reprodução em segundo plano</string>
     <string name="back_play_info">Devido à política do YouTube, a reprodução em segundo plano do YouTube não é suportada.</string>
     <string name="normal_rate">Normal</string>
@@ -529,6 +534,7 @@
     <string name="show_center">Centro</string>
     <string name="show_right">Lado direito</string>
     <string name="tip">Dica</string>
+    <string name="similar_function">Função semelhante</string>
     <string name="web_content">Conteúdo da web</string>
     <string name="customize">Customizando</string>
     <string name="font">Fonte</string>
@@ -646,7 +652,7 @@
     <string name="move_right">Direita</string>
     <string name="swipe_guide_1">1. Clique na área para alterar a função.</string>
     <string name="swipe_guide_2">2. Arraste a área para alterar o tamanho.</string>
-    <string name="small_icon">Ícone pequeno</string>
+    <string name="big_icon">Ícone grande</string>
     <string name="small_list">Lista pequena</string>
     <string name="large_list">Lista grande</string>
     <string name="full_screen">Tela cheia</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">O arquivo pode estar danificado.</string>
     <string name="ads_filter">Filtro de anúncio</string>
     <string name="filter_info">O uso de vários filtros ao mesmo tempo pode diminuir o desempenho do navegador.</string>
+    <string name="filter_country">País</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Importar</string>
     <string name="backup_export">Exportar</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">Onde adicionar guias</string>
     <string name="tab_add_next">Próximo à guia atual</string>
     <string name="tab_add_last">Fim da lista de guias</string>
-    <string name="tab_group">Grupo</string>
+    <string name="group_title">Grupo</string>
     <string name="auto_group">Agrupamento automático</string>
     <string name="auto_group_info">Eles são agrupados automaticamente quando uma nova janela é aberta no site.</string>
     <string name="tab_guide_1">1. Você pode mover pressionando e segurando a guia.</string>

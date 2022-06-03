@@ -5,8 +5,6 @@
     <string name="notice">開始ボタンを押すと、 Soul Browser %1$sと%2$sに同意します。</string>
     <string name="notice_tos">利用規約</string>
     <string name="notice_privacy">個人情報保護ポリシー</string>
-    <string name="tos">利用規約</string>
-    <string name="privacy">個人情報保護ポリシー</string>
     <string name="start">開始</string>
     <string name="info">情報</string>
     <string name="app_ver">アプリのバージョン</string>
@@ -48,7 +46,7 @@
     <string name="save_success">保存成功</string>
     <string name="save_fail">保存で失敗</string>
     <string name="capture">スクリーンショット</string>
-    <string name="print_page">印刷 / PDF</string>
+    <string name="print_page">印刷／PDF</string>
     <string name="print_success">印刷成功</string>
     <string name="print_fail">印刷に失敗し</string>
     <string name="translate">翻訳</string>
@@ -157,8 +155,12 @@
     <string name="password_save">パスワードを保存</string>
     <string name="password_confirm">パスワードを保存しますか？</string>
     <string name="password_info">通常モードとシークレットモードのパスワードを別々に保存します。</string>
-    <string name="password_lock">ロック画面を先に設定してください。\n個人情報保護のためです。</string>
+    <string name="password_button">パスワードマネージャーボタン</string>
+    <string name="password_lock_1">ロック画面を先に設定してください。</string>
+    <string name="password_lock_2">個人情報保護のためです。</string>
     <string name="password_reset_guide">初期化すると、パスワードに関連するすべてのデータが削除されます。</string>
+    <string name="login_lock">ログインセキュリティ</string>
+    <string name="login_lock_info">保存したパスワードでログインする前にロック画面が起動します。</string>
     <string name="canceling">キャンセル中&#8230;</string>
     <string name="checking">確認中&#8230;</string>
     <string name="finishing">仕上げ中&#160;</string>
@@ -200,9 +202,9 @@
     <string name="page">ページ</string>
     <string name="delete_cache">Cacheの消去</string>
     <string name="cache">Cache</string>
-    <string name="cache_info">ウェブ閲覧中に生成されたファイル (例 : 画像)</string>
+    <string name="cache_info">ウェブ閲覧中に生成されたファイル（例：画像）</string>
     <string name="cookie">Cookie</string>
-    <string name="cookie_info">ウェブ閲覧中に生成された情報 (例 : ログイン情報)</string>
+    <string name="cookie_info">ウェブ閲覧中に生成された情報（例：ログイン情報）</string>
     <string name="screen_rotate">画面の回転</string>
     <string name="vol_scroll">ボリュームキーWebページのスクロール</string>
     <string name="double_back">戻るボタン二度押しアプリを終了</string>
@@ -245,13 +247,13 @@
     <string name="type">方式</string>
     <string name="page_effect">ページ効果</string>
     <string name="page_scroll">ページスクロール</string>
-    <string name="list_hori">リスト (左右)</string>
-    <string name="list_vert">リスト (上下)</string>
+    <string name="list_hori">リスト（左右）</string>
+    <string name="list_vert">リスト（上下）</string>
     <string name="best_size">ベストサイズ</string>
     <string name="best_info">現在のタイプに最適なサイズ</string>
     <string name="reduce_image">画像を縮小する</string>
     <string name="reduce_info">表示された画像が画面より大きい場合</string>
-    <string name="page_split">分割ページ (2 ページ)</string>
+    <string name="page_split">分割ページ（2 ページ）</string>
     <string name="split_info">横の長さが縦より長いイメージ</string>
     <string name="margin">間隔</string>
     <string name="forward">前方</string>
@@ -296,7 +298,7 @@
     <string name="set_wallpaper">壁紙の設定</string>
     <string name="crop_save">トリミング</string>
     <string name="pdf_crop_guide">PDFファイルの余白を削除します。</string>
-    <string name="guide_pinch">拡大 / 縮小</string>
+    <string name="guide_pinch">拡大／縮小</string>
     <string name="dark_mode">テーマ</string>
     <string name="dark_mode_info_2">使用時に、注意してください。</string>
     <string name="message_confirm">このメッセージを次から表示しない</string>
@@ -324,7 +326,7 @@
     <string name="no_permission">権限なし</string>
     <string name="ads_block">広告ブロック</string>
     <string name="ads_block_info">広告をブロックするには、複数のフィルタが有効になっている必要があります。</string>
-    <string name="filtered_image">フィルタリングされた画像 (%d)</string>
+    <string name="filtered_image">フィルタリングされた画像（%d）</string>
     <string name="update">アップデート</string>
     <string name="update_fail">更新に失敗しました。</string>
     <string name="guide_ads_allow">広告が許可されているサイトを登録することができます。</string>
@@ -339,7 +341,7 @@
     <string name="text_size">文字サイズ</string>
     <string name="free_scale">二本の指で拡大</string>
     <string name="mobile_mode">モバイル</string>
-    <string name="desk_mode">モバイル/デスクトップ</string>
+    <string name="desk_mode">モバイル／デスクトップ</string>
     <string name="desk_one">デスクトップ（現在のタブ）</string>
     <string name="desk_all">デスクトップ（すべてのタブ）</string>
     <string name="show_image">画像表示</string>
@@ -404,7 +406,7 @@
     <string name="show_image_info">Webページの画像を表示します。</string>
     <string name="video_download">ビデオをダウンロード</string>
     <string name="show_video_button">ビデオダウンロードボタン</string>
-    <string name="two_finger">(二本の指)</string>
+    <string name="two_finger">（二本の指）</string>
     <string name="two_finger_info_1">二本の指で左右にスワイプしてタブを移動します。</string>
     <string name="two_finger_info_2">二本の指で下にスワイプしてタブを削除します。</string>
     <string name="show_scroll">スクロールバーを表示</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">ダークテーマで問題が発生しているサイトのアドレスを入力してください。</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">YouTube再生中ホームボタンを押すと、PIPモードに切り替えます。</string>
+    <string name="youtube_unmute">YouTubeのミュートを解除</string>
+    <string name="youtube_tab">新しいタブでYouTubeリンクを開く</string>
+    <string name="youtube_auto">YouTubeの自動再生</string>
     <string name="back_play">バックグラウンド再生</string>
     <string name="back_play_info">YouTubeのポリシーにより、YouTubeのバックグラウンド再生はサポートされていません。</string>
     <string name="normal_rate">通常</string>
@@ -529,6 +534,7 @@
     <string name="show_center">中央</string>
     <string name="show_right">右</string>
     <string name="tip">ヒント</string>
+    <string name="similar_function">同様の機能</string>
     <string name="web_content">Webコンテンツ</string>
     <string name="customize">カスタマイズ</string>
     <string name="font">フォント</string>
@@ -596,7 +602,7 @@
     <string name="drag_volume">タッチによる音量調節</string>
     <string name="drag_volume_info">画面右側の領域をドラッグして音量を変更します。</string>
     <string name="local_file">ローカルファイル</string>
-    <string name="web_stream">(ウェブストリーミング)</string>
+    <string name="web_stream">（ウェブストリーミング）</string>
     <string name="grid_mode">グリッドモード</string>
     <string name="list_mode">リストモード</string>
     <string name="simple_mode">シンプルモード</string>
@@ -604,7 +610,7 @@
     <string name="accept_cookie_info_1">サイトからのクッキーを保存したり、読み取ることができます。</string>
     <string name="accept_cookie_info_2">クッキーを許可しない場合、一部のサイトが正常に動作しない場合があります。</string>
     <string name="third_cookie">サードパーティのCookie</string>
-    <string name="java_script">JavaScriptを使用して (推奨)</string>
+    <string name="java_script">JavaScriptを使用して（推奨）</string>
     <string name="java_script_info">JavaScriptが無効になっている場合、一部のブラウザの機能が動作しません。</string>
     <string name="enable_js">JavaScript有効に</string>
     <string name="disable_js">JavaScript無効に</string>
@@ -628,7 +634,7 @@
     <string name="reader_empty">このページには、本文の内容がありません。</string>
     <string name="site_warning">セキュリティ警告</string>
     <string name="site_exit">安全なページに移動</string>
-    <string name="site_continue">継続 (安全でない)</string>
+    <string name="site_continue">継続（安全でない）</string>
     <string name="site_theme">サイトのテーマ</string>
     <string name="site_theme_info">訪問したサイトがテーマをサポートしている場合は、ブラウザに適用されます。</string>
     <string name="prev_tab">前のタブ</string>
@@ -646,7 +652,7 @@
     <string name="move_right">右</string>
     <string name="swipe_guide_1">1. 領域をクリックして、機能を変更してください。</string>
     <string name="swipe_guide_2">2. 領域をドラッグして、サイズを変更してください。</string>
-    <string name="small_icon">小さいアイコン</string>
+    <string name="big_icon">大きなアイコン</string>
     <string name="small_list">小さなリスト</string>
     <string name="large_list">大きなリスト</string>
     <string name="full_screen">全画面表示</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">ファイルが壊れている可能性があります。</string>
     <string name="ads_filter">広告フィルタ</string>
     <string name="filter_info">複数のフィルタを同時に使用すると、ブラウザーのパフォーマンスが低下することがあります。</string>
+    <string name="filter_country">国</string>
     <string name="backup_title">バックアップ</string>
     <string name="backup_import">インポート</string>
     <string name="backup_export">エクスポート</string>
@@ -711,7 +718,7 @@
     <string name="reward_ads_time">残り時間</string>
     <string name="donate_1">寄付（コーヒー）</string>
     <string name="donate_2">寄付（ハンバーガー）</string>
-    <string name="donate_3">寄付（ピザ)</string>
+    <string name="donate_3">寄付（ピザ）</string>
     <string name="donate_info">Soul Browserを使っていただきありがとうございます。\nSoul Browserは、あなたの寄付で維持されます。</string>
     <string name="pay_free">無料</string>
     <string name="paid">購入する</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">タブの追加位置</string>
     <string name="tab_add_next">現在のタブの隣</string>
     <string name="tab_add_last">タブのリストの終わり</string>
-    <string name="tab_group">グループ</string>
+    <string name="group_title">グループ</string>
     <string name="auto_group">自動グループ化</string>
     <string name="auto_group_info">サイトで新しいウィンドウが開いたら、自動的にグループ化されます。</string>
     <string name="tab_guide_1">1. タブを押したままに移動することができます。</string>

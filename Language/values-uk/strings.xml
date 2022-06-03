@@ -5,8 +5,6 @@
     <string name="notice">Натиснувши кнопку «Старт», Ви погоджуєтесь із %1$s та %2$s браузера Soul.</string>
     <string name="notice_tos">Умови використання</string>
     <string name="notice_privacy">Повідомлення про конфіденційність</string>
-    <string name="tos">Умови використання</string>
-    <string name="privacy">Повідомлення про конфіденційність</string>
     <string name="start">Старт</string>
     <string name="info">Інформація</string>
     <string name="app_ver">Версія програми</string>
@@ -157,8 +155,12 @@
     <string name="password_save">Зберегти пароль</string>
     <string name="password_confirm">Ви хочете зберегти свій пароль?</string>
     <string name="password_info">Зберігає паролі в звичайному режимі та таємному режимі окремо.</string>
-    <string name="password_lock">Спершу налаштуйте екран блокування.\nЦе для вашої конфіденційності.</string>
+    <string name="password_button">Кнопка менеджера паролів</string>
+    <string name="password_lock_1">Спершу налаштуйте екран блокування.</string>
+    <string name="password_lock_2">Це для вашої конфіденційності.</string>
     <string name="password_reset_guide">Перезавантаження скине всі дані, пов\'язані з паролем.</string>
+    <string name="login_lock">Безпека входу</string>
+    <string name="login_lock_info">Екран блокування запускається перед входом із збереженим паролем.</string>
     <string name="canceling">Скасування&#8230;</string>
     <string name="checking">Перевірка&#8230;</string>
     <string name="finishing">Оздоблення&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">Будь ласка, вкажіть адресу веб-сайту, який має проблеми з темною темою.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Натисніть домашню клавішу під час відтворення на YouTube, щоб перейти в режим PIP.</string>
+    <string name="youtube_unmute">Увімкнути YouTube</string>
+    <string name="youtube_tab">Відкрийте посилання YouTube у новій вкладці</string>
+    <string name="youtube_auto">Автозапуск YouTube</string>
     <string name="back_play">Фонове відтворення</string>
     <string name="back_play_info">Через політику YouTube відтворення фонового режиму YouTube не підтримується.</string>
     <string name="normal_rate">Нормальний</string>
@@ -529,6 +534,7 @@
     <string name="show_center">Центр</string>
     <string name="show_right">Праворуч</string>
     <string name="tip">Підказка</string>
+    <string name="similar_function">Подібна функція</string>
     <string name="web_content">Веб-вміст</string>
     <string name="customize">Персоналізація</string>
     <string name="font">Шрифт</string>
@@ -646,7 +652,7 @@
     <string name="move_right">Праворуч</string>
     <string name="swipe_guide_1">1. Натиснiть на область, щоб змінити функцію.</string>
     <string name="swipe_guide_2">2. Перетягніть область, щоб змінити розмір.</string>
-    <string name="small_icon">Невеликий значок</string>
+    <string name="big_icon">Велика ікона</string>
     <string name="small_list">Список (зменшений шрифт)</string>
     <string name="large_list">Список (збільшений шрифт)</string>
     <string name="full_screen">Повноекранний</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">Файл може бути пошкоджений.</string>
     <string name="ads_filter">Рекламний фільтр</string>
     <string name="filter_info">Використання декількох фільтрів одночасно може уповільнити роботу браузера.</string>
+    <string name="filter_country">Країна</string>
     <string name="backup_title">Резервне</string>
     <string name="backup_import">Імпорт</string>
     <string name="backup_export">Експорт</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">Куди додати вкладки</string>
     <string name="tab_add_next">Поруч із поточною вкладкою</string>
     <string name="tab_add_last">Кінець списку вкладок</string>
-    <string name="tab_group">Група</string>
+    <string name="group_title">Група</string>
     <string name="auto_group">Автоматичне групування</string>
     <string name="auto_group_info">Вони автоматично групуються, коли на сайті відкривається нове вікно.</string>
     <string name="tab_guide_1">1. Ви можете рухатися, натискаючи та утримуючи вкладку.</string>

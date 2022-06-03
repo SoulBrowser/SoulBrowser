@@ -5,8 +5,6 @@
     <string name="notice">Premendo il pulsante Iniziare, accetti Soul Browser %1$s e %2$s.</string>
     <string name="notice_tos">Termini di servizio</string>
     <string name="notice_privacy">Informativa sulla privacy</string>
-    <string name="tos">Termini di servizio</string>
-    <string name="privacy">Informativa sulla privacy</string>
     <string name="start">Iniziare</string>
     <string name="info">Informazioni</string>
     <string name="app_ver">Versione dell\'app</string>
@@ -157,8 +155,12 @@
     <string name="password_save">Salva password</string>
     <string name="password_confirm">Vuoi salvare la tua password?</string>
     <string name="password_info">Memorizza le password in modalità normale e in incognito separatamente.</string>
-    <string name="password_lock">Si prega di impostare prima una schermata di blocco.\nQuesto è per la tua privacy.</string>
+    <string name="password_button">Pulsante Gestione password</string>
+    <string name="password_lock_1">Si prega di impostare prima una schermata di blocco.</string>
+    <string name="password_lock_2">Questo è per la tua privacy.</string>
     <string name="password_reset_guide">Il ripristino cancellerà tutti i dati associati alle password.</string>
+    <string name="login_lock">Sicurezza di accesso</string>
+    <string name="login_lock_info">La schermata di blocco si avvierà prima di accedere con la password salvata.</string>
     <string name="canceling">Annullamento&#8230;</string>
     <string name="checking">Verifica&#8230;</string>
     <string name="finishing">Fine&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">Fornisci l\'indirizzo del sito che ha problemi con il tema scuro.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Premere il tasto Home durante la riproduzione di YouTube per passare alla modalità PIP.</string>
+    <string name="youtube_unmute">Riattiva YouTube</string>
+    <string name="youtube_tab">Apri il link YouTube in una nuova scheda</string>
+    <string name="youtube_auto">Riproduzione automatica di YouTube</string>
     <string name="back_play">Riproduzione in background</string>
     <string name="back_play_info">A causa delle norme di YouTube, la riproduzione in background di YouTube non è supportata.</string>
     <string name="normal_rate">Normale</string>
@@ -529,6 +534,7 @@
     <string name="show_center">Centro</string>
     <string name="show_right">Lato destro</string>
     <string name="tip">Suggerimento</string>
+    <string name="similar_function">Funzione simile</string>
     <string name="web_content">Contenuto web</string>
     <string name="customize">Personalizzazione</string>
     <string name="font">Caratteri</string>
@@ -646,7 +652,7 @@
     <string name="move_right">Destra</string>
     <string name="swipe_guide_1">1. Fare clic sull\'area per modificare la funzione.</string>
     <string name="swipe_guide_2">2. Trascina l\'area per modificare le dimensioni.</string>
-    <string name="small_icon">Piccola icona</string>
+    <string name="big_icon">Grande icona</string>
     <string name="small_list">Piccola lista</string>
     <string name="large_list">Elenco ampio</string>
     <string name="full_screen">Schermo intero</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">Il file potrebbe essere danneggiato.</string>
     <string name="ads_filter">Filtro degli annunci</string>
     <string name="filter_info">L\'uso di più filtri contemporaneamente può rallentare le prestazioni del browser.</string>
+    <string name="filter_country">Paese</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Importa</string>
     <string name="backup_export">Esporta</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">Dove aggiungere schede tab</string>
     <string name="tab_add_next">Accanto alla schede corrente</string>
     <string name="tab_add_last">Fine dell\'elenco delle schede</string>
-    <string name="tab_group">Gruppo</string>
+    <string name="group_title">Gruppo</string>
     <string name="auto_group">Raggruppamento automatico</string>
     <string name="auto_group_info">Vengono raggruppate automaticamente quando si apre una nuova finestra sul sito.</string>
     <string name="tab_guide_1">1. Puoi muoverti premendo e tenendo premuta la schede.</string>

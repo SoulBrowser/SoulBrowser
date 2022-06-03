@@ -5,8 +5,6 @@
     <string name="notice">En appuyant sur le bouton Début, vous acceptez les %1$s et la %2$s de Soul Browser.</string>
     <string name="notice_tos">Conditions d\'utilisation</string>
     <string name="notice_privacy">Politique de confidentialité</string>
-    <string name="tos">Conditions d\'utilisation</string>
-    <string name="privacy">Politique de confidentialité</string>
     <string name="start">Début</string>
     <string name="info">Informations</string>
     <string name="app_ver">Version de l\'application</string>
@@ -157,8 +155,12 @@
     <string name="password_save">Enregistrer le mot de passe</string>
     <string name="password_confirm">Voulez vous enregistrer votre mot de passe ?</string>
     <string name="password_info">Stocke les mots de passe en mode normal et en mode navigation privée séparément.</string>
-    <string name="password_lock">Veuillez d\'abord configurer un écran de verrouillage.\nC\'est pour votre intimité.</string>
+    <string name="password_button">Bouton gestionnaire de mots de passe</string>
+    <string name="password_lock_1">Veuillez d\'abord configurer un écran de verrouillage.</string>
+    <string name="password_lock_2">C\'est pour votre intimité.</string>
     <string name="password_reset_guide">La réinitialisation effacera toutes les données associées au mot de passe.</string>
+    <string name="login_lock">Sécurité de connexion</string>
+    <string name="login_lock_info">L\'écran de verrouillage se lancera avant de vous connecter avec le mot de passe enregistré.</string>
     <string name="canceling">Annulation&#8230;</string>
     <string name="checking">Vérification&#8230;</string>
     <string name="finishing">Finalisation&#160;</string>
@@ -520,6 +522,9 @@
     <string name="report_dark">Veuillez fournir l\'adresse du site qui rencontre des problèmes avec le thème sombre.</string>
     <string name="youtube_pip">YouTube PIP</string>
     <string name="youtube_pip_info">Appuyez sur la touche Accueil pendant la lecture de YouTube pour passer en mode PIP.</string>
+    <string name="youtube_unmute">Activer YouTube</string>
+    <string name="youtube_tab">Ouvrir le lien YouTube dans un nouvel onglet</string>
+    <string name="youtube_auto">Lecture automatique YouTube</string>
     <string name="back_play">Lecture en arrière plan</string>
     <string name="back_play_info">En raison de la politique de YouTube, la lecture en arrière plan de YouTube n\'est pas prise en charge.</string>
     <string name="normal_rate">Ordinaire</string>
@@ -529,6 +534,7 @@
     <string name="show_center">Centre</string>
     <string name="show_right">Droit</string>
     <string name="tip">Conseil</string>
+    <string name="similar_function">Fonction similaire</string>
     <string name="web_content">Contenu Web</string>
     <string name="customize">Personnalisation</string>
     <string name="font">Police</string>
@@ -646,7 +652,7 @@
     <string name="move_right">Droite</string>
     <string name="swipe_guide_1">1. Cliquez sur la zone pour changer la fonction.</string>
     <string name="swipe_guide_2">2. Faites glisser la zone pour modifier la taille.</string>
-    <string name="small_icon">Petite icône</string>
+    <string name="big_icon">Grande icône</string>
     <string name="small_list">Petite liste</string>
     <string name="large_list">Grande liste</string>
     <string name="full_screen">Plein écran</string>
@@ -672,6 +678,7 @@
     <string name="down_fail_guide">Le fichier est peut-être endommagé.</string>
     <string name="ads_filter">Filtre publicitaire</string>
     <string name="filter_info">L\'utilisation de plusieurs filtres en même temps peut ralentir les performances du navigateur.</string>
+    <string name="filter_country">Pays</string>
     <string name="backup_title">Sauvegarde</string>
     <string name="backup_import">Importer</string>
     <string name="backup_export">Exporter</string>
@@ -803,7 +810,7 @@
     <string name="tab_add_pos">Où ajouter des onglets</string>
     <string name="tab_add_next">À côté de l\'onglet actuel</string>
     <string name="tab_add_last">Fin de la liste des onglets</string>
-    <string name="tab_group">Grouper</string>
+    <string name="group_title">Grouper</string>
     <string name="auto_group">Regroupement automatique</string>
     <string name="auto_group_info">Ils sont automatiquement regroupés lorsqu\'une nouvelle fenêtre s\'ouvre sur le site.</string>
     <string name="tab_guide_1">1. Vous pouvez vous déplacer en appuyant sur l\'onglet et en le maintenant enfoncé.</string>
