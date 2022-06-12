@@ -749,7 +749,6 @@
     <string name="filter_user_1">Możesz zablokować więcej reklam, dodając filtry.</string>
     <string name="filter_user_2">Jeśli występuje problem z filtrem, strona może nie być wyświetlana normalnie.</string>
     <string name="size_fit">Dopasować do ekranu</string>
-    <string name="size_real">Rzeczywisty rozmiar</string>
     <string name="block_ssl">Blokowanie błędów SSL</string>
     <string name="block_ssl_info">Gdy wystąpi błąd SSL, strona automatycznie przechodzi do bezpiecznej strony.</string>
     <string name="screen_filter">Filtr ekranu</string>

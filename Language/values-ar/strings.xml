@@ -749,7 +749,6 @@
     <string name="filter_user_1">يمكنك منع المزيد من الإعلانات عن طريق إضافة عوامل تصفية.</string>
     <string name="filter_user_2">إذا كانت هناك مشكلة في الفلتر ، فقد لا يتم عرض الصفحة بشكل طبيعي.</string>
     <string name="size_fit">تناسب الشاشة</string>
-    <string name="size_real">الحجم الأصلي</string>
     <string name="block_ssl">حظر خطأ SSL</string>
     <string name="block_ssl_info">عند حدوث خطأ SSL ، يتم توجيهك تلقائيًا إلى صفحة آمنة.</string>
     <string name="screen_filter">فلتر الشاشة</string>

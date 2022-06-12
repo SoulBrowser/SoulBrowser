@@ -749,7 +749,6 @@
     <string name="filter_user_1">Vous pouvez bloquer plus d\'annonces en ajoutant des filtres.</string>
     <string name="filter_user_2">S\'il y a un problème avec le filtre, la page peut ne pas s\'afficher normalement.</string>
     <string name="size_fit">Ajustement de l\'écran</string>
-    <string name="size_real">Taille actuelle</string>
     <string name="block_ssl">Blocage des erreurs SSL</string>
     <string name="block_ssl_info">Lorsqu\'une erreur SSL se produit, la page accède automatiquement à une page sécurisée.</string>
     <string name="screen_filter">Filtre d\'écran</string>

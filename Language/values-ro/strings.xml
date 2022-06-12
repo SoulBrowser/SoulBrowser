@@ -749,7 +749,6 @@
     <string name="filter_user_1">Puteți bloca mai multe reclame adăugând filtre.</string>
     <string name="filter_user_2">Dacă există o problemă cu filtrul, este posibil ca pagina să nu fie afișată normal.</string>
     <string name="size_fit">Potrivirea ecranului</string>
-    <string name="size_real">Dimensiunea reală</string>
     <string name="block_ssl">Blocare eroare SSL</string>
     <string name="block_ssl_info">Când apare o eroare SSL, pagina trece automat la o pagină sigură.</string>
     <string name="screen_filter">Filtru ecran</string>

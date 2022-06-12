@@ -749,7 +749,6 @@
     <string name="filter_user_1">You can block more ads by adding filters.</string>
     <string name="filter_user_2">If there is a problem with the filter, the page may not be displayed normally.</string>
     <string name="size_fit">Screen fit</string>
-    <string name="size_real">Actual size</string>
     <string name="block_ssl">SSL error blocking</string>
     <string name="block_ssl_info">When an SSL error occurs, the page automatically goes to a safe page.</string>
     <string name="screen_filter">Screen filter</string>

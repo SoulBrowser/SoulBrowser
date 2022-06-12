@@ -749,7 +749,6 @@
     <string name="filter_user_1">フィルタを追加して、より多くの広告をブロックすることができます。</string>
     <string name="filter_user_2">フィルタに問題があれば、ページが正常に表示されないことがあります。</string>
     <string name="size_fit">画面カスタマイズ</string>
-    <string name="size_real">実際のサイズ</string>
     <string name="block_ssl">SSLエラーブロック</string>
     <string name="block_ssl_info">SSLエラーが発生した場合、ページが自動的に安全なページに移動します。</string>
     <string name="screen_filter">スクリーンフィルター</string>

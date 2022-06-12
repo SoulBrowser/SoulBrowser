@@ -749,7 +749,6 @@
     <string name="filter_user_1">คุณสามารถบล็อกโฆษณาเพิ่มเติมได้โดยเพิ่มตัวกรอง</string>
     <string name="filter_user_2">หากมีปัญหากับตัวกรองหน้าอาจไม่แสดงตามปกติ</string>
     <string name="size_fit">พอดีกับหน้าจอ</string>
-    <string name="size_real">ขนาดที่แท้จริง</string>
     <string name="block_ssl">การบล็อกข้อผิดพลาด SSL</string>
     <string name="block_ssl_info">เมื่อเกิดข้อผิดพลาด SSL เพจจะไปที่เซฟเพจโดยอัตโนมัติ</string>
     <string name="screen_filter">ตัวกรองหน้าจอ</string>

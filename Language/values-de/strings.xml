@@ -749,7 +749,6 @@
     <string name="filter_user_1">Sie können weitere Anzeigen blockieren, indem Sie Filter hinzufügen.</string>
     <string name="filter_user_2">Wenn ein Problem mit dem Filter vorliegt, wird die Seite möglicherweise nicht normal angezeigt.</string>
     <string name="size_fit">An Bildschirm anpassen</string>
-    <string name="size_real">Tatsächliche Größe</string>
     <string name="block_ssl">Blockierung von SSL-Fehlern</string>
     <string name="block_ssl_info">Wenn ein SSL-Fehler auftritt, wechselt die Seite automatisch zu einer sicheren Seite.</string>
     <string name="screen_filter">Bildschirmfilter</string>

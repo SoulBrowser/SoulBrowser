@@ -749,7 +749,6 @@
     <string name="filter_user_1">Filtreler ekleyerek daha fazla reklamı engelleyebilirsiniz.</string>
     <string name="filter_user_2">Filtrede bir sorun varsa, sayfa normal şekilde görüntülenmeyebilir.</string>
     <string name="size_fit">Ekran uyumu</string>
-    <string name="size_real">Gerçek boyutu</string>
     <string name="block_ssl">SSL hatası engelleme</string>
     <string name="block_ssl_info">Bir SSL hatası oluştuğunda, sayfa otomatik olarak güvenli bir sayfaya gider.</string>
     <string name="screen_filter">Ekran filtresi</string>

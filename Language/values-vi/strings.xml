@@ -749,7 +749,6 @@
     <string name="filter_user_1">Bạn có thể chặn nhiều quảng cáo hơn bằng cách thêm bộ lọc.</string>
     <string name="filter_user_2">Nếu có vấn đề với bộ lọc, trang có thể không được hiển thị bình thường.</string>
     <string name="size_fit">Màn hình phù hợp</string>
-    <string name="size_real">Kích thước thực sự</string>
     <string name="block_ssl">Chặn lỗi SSL</string>
     <string name="block_ssl_info">Khi xảy ra lỗi SSL, trang sẽ tự động chuyển đến trang an toàn.</string>
     <string name="screen_filter">Lọc màn hình</string>

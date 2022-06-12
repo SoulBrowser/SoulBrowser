@@ -749,7 +749,6 @@
     <string name="filter_user_1">您可以透過新增過濾器來封鎖更多廣告</string>
     <string name="filter_user_2">如果過濾器有問題，則該頁面可能無法正常顯示</string>
     <string name="size_fit">適應螢幕</string>
-    <string name="size_real">實際大小</string>
     <string name="block_ssl">封鎖 SSL 錯誤</string>
     <string name="block_ssl_info">發生 SSL 錯誤時，頁面將自動跳轉到安全頁面</string>
     <string name="screen_filter">螢幕過濾器</string>

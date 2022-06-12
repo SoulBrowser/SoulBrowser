@@ -749,7 +749,6 @@
     <string name="filter_user_1">您可以通过添加过滤器来屏蔽更多广告</string>
     <string name="filter_user_2">如果过滤器有问题，则该页面可能无法正常显示</string>
     <string name="size_fit">屏幕适合</string>
-    <string name="size_real">真实大小</string>
     <string name="block_ssl">SSL 错误阻止</string>
     <string name="block_ssl_info">SSL 错误发生时，页面将自动转到安全页面</string>
     <string name="screen_filter">屏幕过滤器</string>

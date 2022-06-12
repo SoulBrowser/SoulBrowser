@@ -749,7 +749,6 @@
     <string name="filter_user_1">Можно заблокировать больше рекламы, добавив фильтры.</string>
     <string name="filter_user_2">Если есть проблема с фильтром, страница может отображаться некорректно.</string>
     <string name="size_fit">По экрану</string>
-    <string name="size_real">Фактический размер</string>
     <string name="block_ssl">Блокировка ошибок SSL</string>
     <string name="block_ssl_info">При возникновении ошибки SSL происходит автоматический переход на безопасную страницу.</string>
     <string name="screen_filter">Экранный фильтр</string>
