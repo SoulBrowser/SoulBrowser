@@ -592,8 +592,8 @@
     <string name="voice_speed">Tốc độ giọng nói</string>
     <string name="voice_tone">Tông giọng</string>
     <string name="stop_icon">Nút dừng</string>
-    <string name="stop_icon_info_1">Xuất hiện trên màn hình trong khi giọng nói đang phát.</string>
-    <string name="stop_icon_info_2">Bạn có thể di chuyển vị trí một cách tự do.</string>
+    <string name="stop_icon_info">Xuất hiện trên màn hình trong khi giọng nói đang phát.</string>
+    <string name="long_move_guide">Bạn có thể di chuyển bằng cách nhấn và giữ nút.</string>
     <string name="not_support_device">Không được hỗ trợ trên thiết bị này.</string>
     <string name="drag_seek">Điều hướng màn hình bằng cách chạm</string>
     <string name="drag_seek_info">Kéo màn hình sang trái hoặc phải để điều hướng màn hình.</string>

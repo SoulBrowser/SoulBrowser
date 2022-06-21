@@ -87,7 +87,7 @@
     <string name="skip">건너뛰기</string>
     <string name="overwrite">덮어쓰기</string>
     <string name="new_tab">새 탭</string>
-    <string name="open_new_tab">새 탭으로 열기</string>
+    <string name="open_new_tab">새 탭에서 열기</string>
     <string name="new_secret_tab">새 시크릿 탭</string>
     <string name="secret_tab">시크릿 탭</string>
     <string name="normal_tab">일반 탭</string>
@@ -592,8 +592,8 @@
     <string name="voice_speed">음성 속도</string>
     <string name="voice_tone">음성 톤</string>
     <string name="stop_icon">정지 버튼</string>
-    <string name="stop_icon_info_1">음성이 재생되는 동안 화면에 나타납니다.</string>
-    <string name="stop_icon_info_2">위치를 자유롭게 이동할 수 있습니다.</string>
+    <string name="stop_icon_info">음성이 재생되는 동안 화면에 나타납니다.</string>
+    <string name="long_move_guide">버튼을 길게 눌러 이동할 수 있습니다.</string>
     <string name="not_support_device">이 디바이스에서는 지원되지 않습니다.</string>
     <string name="drag_seek">터치로 화면 탐색</string>
     <string name="drag_seek_info">화면을 좌우로 드래그해서 화면을 탐색합니다.</string>

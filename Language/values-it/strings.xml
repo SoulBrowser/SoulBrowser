@@ -592,8 +592,8 @@
     <string name="voice_speed">Velocità di voce</string>
     <string name="voice_tone">Tono di voce</string>
     <string name="stop_icon">Pulsante di arresto</string>
-    <string name="stop_icon_info_1">Appare sullo schermo mentre la voce suona.</string>
-    <string name="stop_icon_info_2">È possibile spostare la posizione liberamente.</string>
+    <string name="stop_icon_info">Appare sullo schermo mentre la voce suona.</string>
+    <string name="long_move_guide">Puoi muoverti tenendo premuto il pulsante.</string>
     <string name="not_support_device">Non supportato su questo dispositivo.</string>
     <string name="drag_seek">Navigazione sullo schermo al tocco</string>
     <string name="drag_seek_info">Trascina lo schermo a sinistra oa destra per navigare nello schermo.</string>

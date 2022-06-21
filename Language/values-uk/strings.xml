@@ -592,8 +592,8 @@
     <string name="voice_speed">Швидкість голосу</string>
     <string name="voice_tone">Тон голосу</string>
     <string name="stop_icon">Кнопка зупинки</string>
-    <string name="stop_icon_info_1">З\'являється на екрані під час відтворення голосу.</string>
-    <string name="stop_icon_info_2">Ви можете вiльно переміщувати положення .</string>
+    <string name="stop_icon_info">З\'являється на екрані під час відтворення голосу.</string>
+    <string name="long_move_guide">Ви можете рухатися, натиснувши та утримуючи кнопку.</string>
     <string name="not_support_device">Не підтримується на цьому пристрої.</string>
     <string name="drag_seek">Екранна навігація на дотик</string>
     <string name="drag_seek_info">Перетягніть екран вліво або вправо для навігації по екрану.</string>

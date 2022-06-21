@@ -592,8 +592,8 @@
     <string name="voice_speed">語音速度</string>
     <string name="voice_tone">語音音調</string>
     <string name="stop_icon">停止按鈕</string>
-    <string name="stop_icon_info_1">播放聲音時出現在螢幕上</string>
-    <string name="stop_icon_info_2">您可以自由移動位置</string>
+    <string name="stop_icon_info">播放聲音時出現在螢幕上</string>
+    <string name="long_move_guide">您可以通過按住按鈕移動</string>
     <string name="not_support_device">該裝置不支援</string>
     <string name="drag_seek">觸摸螢幕導航</string>
     <string name="drag_seek_info">向左或向右拖曳螢幕以瀏覽螢幕</string>

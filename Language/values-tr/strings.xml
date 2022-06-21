@@ -592,8 +592,8 @@
     <string name="voice_speed">Ses hızı</string>
     <string name="voice_tone">Ses tonu</string>
     <string name="stop_icon">Durdurma düğmesi</string>
-    <string name="stop_icon_info_1">Ses çalarken ekranda belirir.</string>
-    <string name="stop_icon_info_2">Konumu serbestçe hareket ettirebilirsiniz.</string>
+    <string name="stop_icon_info">Ses çalarken ekranda belirir.</string>
+    <string name="long_move_guide">Düğmeye basılı tutarak hareket edebilirsiniz.</string>
     <string name="not_support_device">Bu cihazda desteklenmiyor.</string>
     <string name="drag_seek">Dokunarak ekran navigasyonu</string>
     <string name="drag_seek_info">Ekranda gezinmek için ekranı sola veya sağa sürükleyin.</string>

@@ -87,7 +87,7 @@
     <string name="skip">Skip</string>
     <string name="overwrite">Overwrite</string>
     <string name="new_tab">New tab</string>
-    <string name="open_new_tab">Open in a new tab</string>
+    <string name="open_new_tab">Open in new tab</string>
     <string name="new_secret_tab">New incognito tab</string>
     <string name="secret_tab">Incognito tab</string>
     <string name="normal_tab">Normal tab</string>
@@ -592,8 +592,8 @@
     <string name="voice_speed">Voice speed</string>
     <string name="voice_tone">Voice tone</string>
     <string name="stop_icon">Stop button</string>
-    <string name="stop_icon_info_1">Appears on the screen while the voice is playing.</string>
-    <string name="stop_icon_info_2">You can move the position freely.</string>
+    <string name="stop_icon_info">Appears on the screen while the voice is playing.</string>
+    <string name="long_move_guide">You can move by pressing and holding the button.</string>
     <string name="not_support_device">Not supported on this device.</string>
     <string name="drag_seek">Screen navigation by touch</string>
     <string name="drag_seek_info">Drag the screen left or right to navigate the screen.</string>

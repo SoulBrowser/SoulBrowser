@@ -592,8 +592,8 @@
     <string name="voice_speed">Vitesse de voix</string>
     <string name="voice_tone">Tonalité de voix</string>
     <string name="stop_icon">Bouton d\'arrêt</string>
-    <string name="stop_icon_info_1">Apparaît à l\'écran pendant la lecture de la voix.</string>
-    <string name="stop_icon_info_2">Vous pouvez déplacer la position librement.</string>
+    <string name="stop_icon_info">Apparaît à l\'écran pendant la lecture de la voix.</string>
+    <string name="long_move_guide">Vous pouvez vous déplacer en appuyant longuement sur le bouton.</string>
     <string name="not_support_device">Non pris en charge sur cet appareil.</string>
     <string name="drag_seek">Navigation par écran tactile</string>
     <string name="drag_seek_info">Faites glisser l\'écran vers la gauche ou la droite pour parcourir l\'écran.</string>

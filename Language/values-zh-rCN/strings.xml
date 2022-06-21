@@ -592,8 +592,8 @@
     <string name="voice_speed">语音速度</string>
     <string name="voice_tone">语音语调</string>
     <string name="stop_icon">停止按钮</string>
-    <string name="stop_icon_info_1">播放声音时出现在屏幕上</string>
-    <string name="stop_icon_info_2">你可以自由移动位置</string>
+    <string name="stop_icon_info">播放声音时出现在屏幕上</string>
+    <string name="long_move_guide">您可以通过按住按钮移动</string>
     <string name="not_support_device">该设备不支持</string>
     <string name="drag_seek">触摸屏导航</string>
     <string name="drag_seek_info">向左或向右拖动屏幕以浏览屏幕</string>

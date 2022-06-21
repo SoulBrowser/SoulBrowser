@@ -592,8 +592,8 @@
     <string name="voice_speed">Velocidade de voz</string>
     <string name="voice_tone">Tom de voz</string>
     <string name="stop_icon">Botão de parar</string>
-    <string name="stop_icon_info_1">Aparece na tela enquanto a voz está reproduzindo.</string>
-    <string name="stop_icon_info_2">Você pode mover a posição livremente.</string>
+    <string name="stop_icon_info">Aparece na tela enquanto a voz está reproduzindo.</string>
+    <string name="long_move_guide">Você pode mover pressionando e segurando o botão.</string>
     <string name="not_support_device">Não suportado neste dispositivo.</string>
     <string name="drag_seek">Navegação na tela por toque</string>
     <string name="drag_seek_info">Arraste a tela para a esquerda ou direita para navegar na tela.</string>

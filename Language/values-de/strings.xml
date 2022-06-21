@@ -592,8 +592,8 @@
     <string name="voice_speed">Sprachgeschwindigkeit</string>
     <string name="voice_tone">Sprachton</string>
     <string name="stop_icon">Stopptaste</string>
-    <string name="stop_icon_info_1">Erscheint auf dem Bildschirm, während die Stimme abgespielt wird.</string>
-    <string name="stop_icon_info_2">Sie können die Position frei bewegen.</string>
+    <string name="stop_icon_info">Erscheint auf dem Bildschirm, während die Stimme abgespielt wird.</string>
+    <string name="long_move_guide">Sie können sich bewegen, indem Sie die Taste gedrückt halten.</string>
     <string name="not_support_device">Wird auf diesem Gerät nicht unterstützt.</string>
     <string name="drag_seek">Bildschirmnavigation durch Berühren</string>
     <string name="drag_seek_info">Ziehen Sie den Bildschirm nach links oder rechts, um durch den Bildschirm zu navigieren.</string>

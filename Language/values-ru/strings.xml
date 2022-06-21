@@ -592,8 +592,8 @@
     <string name="voice_speed">Скорость голоса</string>
     <string name="voice_tone">Тон голоса</string>
     <string name="stop_icon">Кнопка остановки</string>
-    <string name="stop_icon_info_1">Появляется на экране во время воспроизведения голоса.</string>
-    <string name="stop_icon_info_2">Можно свободно перемещать по экрану.</string>
+    <string name="stop_icon_info">Появляется на экране во время воспроизведения голоса.</string>
+    <string name="long_move_guide">Вы можете двигаться, нажав и удерживая кнопку.</string>
     <string name="not_support_device">Не поддерживается на этом устройстве.</string>
     <string name="drag_seek">Сенсорная навигация по экрану</string>
     <string name="drag_seek_info">Проведите влево или вправо для перемотки.</string>
@@ -657,7 +657,7 @@
     <string name="large_list">Крупный список</string>
     <string name="full_screen">Полноэкранный режим</string>
     <string name="full_tool">Полный экран и панель инструментов</string>
-    <string name="display_title">Отображать</string>
+    <string name="display_title">Дисплей</string>
     <string name="scroll_mode">Режим прокрутки</string>
     <string name="scroll_guide_1">1. Отображает страницу, загруженную до сих пор.</string>
     <string name="scroll_guide_2">2. Отображает страницу в пределах доступного лимита памяти.</string>
