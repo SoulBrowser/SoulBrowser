@@ -792,8 +792,8 @@
     <string name="finger_unsupported">Пользователь не может пройти аутентификацию, так как указанные параметры несовместимы с текущей версией Android.</string>
     <string name="finger_unknown">Невозможно определить, может ли пользователь пройти аутентификацию.</string>
     <string name="use_gesture">Использовать жесты</string>
-    <string name="gesture_block_site">Сайт с блокировкой жестов</string>
-    <string name="gesture_block_info_1">Можно зарегистрировать сайты, не использующие жесты.</string>
+    <string name="gesture_block_site">Список сайтов с отключёнными жестами</string>
+    <string name="gesture_block_info_1">Жесты не работают на сайтах, которые есть в этом списке.</string>
     <string name="gesture_block_info_2">Применяется только к жестам в центре экрана.</string>
     <string name="gesture_block_info_3">Не влияет на жесты по краям экрана.</string>
     <string name="enable_adblock">Включить блокировку рекламы</string>
