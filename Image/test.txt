@@ -1,6 +1,6 @@
 ! Title: List-KR
 ! Description: List-KR for AdGuard. Do not add this filter into your DNS filter.
-! Version: 2022.703.9
+! Version: 2022.704.3
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -143,6 +143,7 @@
 ||bidr.io^
 ||bidswitch.net^
 ||taboola.com^
+||ad.pping.kr^
 ||adimg.newstomato.com^
 ||imasdk.googleapis.com^
 ||nkwadv.nate.com^
@@ -299,6 +300,11 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||api.pping.kr/front/*/ad/
+||cdnjs.happyshopping.kr/_*/css/*/pages/adv.css
+||api.pping.kr/front/*/ads/
+||api.pping.kr/front/*/curation/
+||cdnimg.happyshopping.kr/img_ad/
 ||image.kyobobook.co.kr//ink/images/prom/
 ||imac.kyobobook.co.kr/html/INK/$subdocument
 ||image.kyobobook.co.kr/ink/images/prom/
@@ -724,6 +730,8 @@ newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^=
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+pping.kr##.HAdLine
+pping.kr##iframe[src*="//ad.pping.kr/"]
 kyobobook.co.kr##.box_login_inner > div[class^="popup_content"]
 kyobobook.co.kr##body.welcome .content_middle div[class^="ad_"]
 kyobobook.co.kr##body.welcome #container > div[class^="bg_welcome_"]:not([style]):nth-child(-n+3)
@@ -1294,6 +1302,7 @@ x86.co.kr#@#.download_ad
 @@||dcinside.co.kr/viewimage.php?$media,image,stealth
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98466 [Stealth Mode - Referrer]
 @@||ac*.namu.la^$domain=arca.live,media,image,stealth
+sso.pping.kr#$#.content_join { margin-left: calc(50% - 200px) !important; }
 kyobobook.co.kr#$#.box_login_inner > div[class^="login_content"] { margin-left: calc(50% - 166px) !important; }
 kyobobook.co.kr#$#.search_input > input#searchKeyword { background-image: none !important; }
 kyobobook.co.kr#$#.box_welcome_kyobo.type_2, .box_welcome_kyobo.type_2 .list_welcome_kyobo { width: 100% !important; }
@@ -1346,6 +1355,7 @@ sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+pping.kr#?#.main_contents > div[class^="sc-"]:has(img[src*="//cdnimg.happyshopping.kr/img_ad/"])
 pedia.watcha.com#?#div[class*="-ContentSections"] div[class^="css-"] section:has(section[class*="-ContentSection"] div[class*="-AdContainer"])
 search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(iframe[src*="//ad.search.nate.com/"])
 search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(#bizDirtColl)
@@ -1427,6 +1437,7 @@ blacktoon174.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon181
 !! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+pping.kr#%#//scriptlet("remove-attr", "placeholder", "input.search_input", "asap stay")
 kyobobook.co.kr#%#//scriptlet("abort-current-inline-script", "jQuery", "#mainEventDiv")
 kyobobook.co.kr#%#//scriptlet("abort-current-inline-script", "shuffleItsbest", "itsbestArray")
 newstomato.com#%#//scriptlet("abort-current-inline-script", "getAdvertise")
@@ -1465,7 +1476,8 @@ imbc.com#%#//scriptlet("set-constant", "vrixadsdk", "undefined")
 lover91.net#%#//scriptlet("set-constant", "app_domains", "emptyObj")
 ~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
 m.inven.co.kr#%#//scriptlet("set-constant", "MOBILE.Ad", "null")
-!!s.ppomppu.co.kr#%#AG_onLoad(() => { if (/^https:\/\/s\.ppomppu\.co\.kr\/\?(ismobile=1&|)target=.{1,}\&encode=on$/g.test(document.location.href)) {  if (/^(https|http):\/\/click\.linkprice\.com\/click.php\?.{1,}&tu=/.test(atob(document.location.search.split("&").find(element => /^(\?|)target=/.test(element)).replace("?", "").replace("target=", "")))) { document.location.replace(decodeURIComponent(atob(document.location.search.split("&").find(element => /^(\?|)target=/.test(element)).replace("?", "").replace("target=", "")).split("&").find(element => /^tu=/.test(element)).replace("tu=", ""))); } else { document.location.replace(atob(document.location.search.split("&")[0].replace("?target=", ""))); }}})();
+!!m.ppomppu.co.kr#%#AG_onLoad(() => { if (/^https:\/\/m\.ppomppu\.co\.kr\/new\/hotdeal\//g.test(document.location.href)) { new MutationObserver((o) => { Array.from(o[0].addedNodes).filter(e => /[0-9]{7,9}$/.test(e.className) && e.tagName !== undefined).forEach((e) => { if (/^https:\/\/m\.ppomppu\.co\.kr\/new\/hotdeal\/\?act=bridge&.{1,}click\.linkprice\.com/g.test(e.querySelector(".view > a").href)) { e.querySelector(".view > a").href = decodeURIComponent(decodeURIComponent(e.querySelector(".view > a").href.split("?")[1].split("&").find((k) => { return /^url=/g.test(k); }).replace("url=", "")).split("?")[1].split("&").find((k) => { return /^tu=/g.test(k); }).replace("tu=", "")); } else { e.querySelector(".view > a").href = decodeURIComponent(e.querySelector(".view > a").href.split("?")[1].split("&").find((k) => { return /^url=/g.test(k); }).replace("url=", "")); } e.querySelector("p > a[href*=\"ppomppu.co.kr/new/hotdeal/\"]").href = e.querySelector(".view > a").href; }) }).observe(document.querySelector(".hotDeal_goods > ul#hotdeal"), { childList: true }); } })();
+~m.ppomppu.co.kr,ppomppu.co.kr#%#AG_onLoad(() => { if (/^https:\/\/www\.ppomppu\.co\.kr\/hotdeal\//g.test(document.location.href)) { new MutationObserver((o) => { Array.from(o[0].addedNodes).filter(e => /[0-9]{7,9}$/.test(e.className) && /ppomppu\.co\.kr\/hotdeal\/\?/.test(e.querySelector(".view > a"))).forEach((e) => { if (/^https:\/\/www\.ppomppu\.co\.kr\/hotdeal\/\?act=bridge&.{1,}click\.linkprice\.com/g.test(e.querySelector(".view > a").href)) { e.querySelector(".view > a").href = decodeURIComponent(decodeURIComponent(e.querySelector(".view > a").href.split("?")[1].split("&").find((k) => { return /^url=/g.test(k); }).replace("url=", "")).split("?")[1].split("&").find((k) => { return /^tu=/g.test(k); }).replace("tu=", "")); } else { e.querySelector(".view > a").href = decodeURIComponent(e.querySelector(".view > a").href.split("?")[1].split("&").find((k) => { return /^url=/g.test(k); }).replace("url=", "")); } e.querySelector("p > a[href*=\"ppomppu.co.kr/hotdeal/\"]").href = e.querySelector(".view > a").href; }) }).observe(document.querySelector(".hotDeal_goods > ul#hotdeal"), { childList: true }); } })();
 m.compuzone.co.kr#%#AG_onLoad(() => { if (document.querySelector("input#SearchTermAdTxt").value === "") { document.querySelector("input#SearchProductKey").value = ""; document.querySelector("input.m_gnb_search_input").value = ""; } })();
 ~m.compuzone.co.kr,compuzone.co.kr#%#AG_onLoad(() => { if (document.querySelector("input[name=SearchProductKey]").value === "") { document.querySelector("input#HeadSearchKeyword").value = ""; document.querySelector("input#fixedSearchKeyword").value = ""; } })();
 quasarzone.com#%#AG_onLoad(() => { Array.from(document.querySelectorAll(".market-info-view-wrap table.market-info-view-table tbody > tr")).filter(element => element.querySelector("th").innerText === "링크" ).forEach((element) => { element.querySelector("td > a").href = element.querySelector("td > a").innerText; })})();
