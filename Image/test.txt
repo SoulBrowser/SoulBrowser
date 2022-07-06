@@ -1,6 +1,6 @@
 ! Title: List-KR
 ! Description: List-KR for AdGuard. Do not add this filter into your DNS filter.
-! Version: 2022.704.3
+! Version: 2022.705.6
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -300,6 +300,10 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||resources-rmcnmv.pstatic.net/ditto/c/
+||search.pstatic.net/common/?src=https%3A%2F%2Fditto-phinf.pstatic.net%2F
+||ssl.pstatic.net/adimg3.search/o/ditto/
+/^https:\/\/[a-z0-9]{3,4}-g-naver-vod\.pstatic\.net\/ditto\/c\/read\/v[0-9]{1,3}\/VOD_ALPHA\/ditto_/
 ||api.pping.kr/front/*/ad/
 ||cdnjs.happyshopping.kr/_*/css/*/pages/adv.css
 ||api.pping.kr/front/*/ads/
@@ -665,6 +669,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/booktoki[0-9]{3,4}\.com\/tokinbtoki\/[0-9]{2,}/
 ||hcdn1.maxsocdn.net^$domain=sogirl.so
 ||1.bp.blogspot.com^$domain=sogirl.so
 ||toonimg.com/data/files/banner/
@@ -679,16 +684,16 @@
 /^(http|https):\/\/manaboza[0-9]{2,3}\.com\/static\/image\/header\//
 ||torrentmode.com/bbs/zn_bimg/bannerhit.php$document
 ||torrentmode.com/data/zn_bimg/
-||cloudaaaa.com^$domain=toonsarang58.com|toonsarang59.com|toonsarang60.com|toonsarang61.com|toonsarang62.com|toonsarang63.com|toonsarang64.com|toonsarang65.com|toonsarang66.com|toonsarang67.com|toonsarang68.com
+||cloudaaaa.com^$domain=toonsarang65.com|toonsarang66.com|toonsarang67.com|toonsarang68.com|toonsarang69.com|toonsarang70.com|toonsarang71.com|toonsarang72.com|toonsarang73.com|toonsarang74.com|toonsarang75.com
 /^https:\/\/toonsarang[0-9]{2,4}\.com\/bbs\/bannerhit\.php/$document
 /^https:\/\/agit[0-9]{3,4}\.com\/upload\/[0-9]{4}\/[0-9]{4}\/[0-9]{21}/
 /^https:\/\/newtoon[0-9]{3,4}\.com\/banner\//
-||cloudaaaa.com^$domain=copytoon268.com|copytoon269.com|copytoon270.com|copytoon271.com|copytoon272.com|copytoon273.com|copytoon274.com|copytoon275.com|copytoon276.com|copytoon277.com
+||cloudaaaa.com^$domain=copytoon275.com|copytoon276.com|copytoon277.com|copytoon278.com|copytoon279.com|copytoon280.com|copytoon281.com|copytoon282.com|copytoon283.com|copytoon284.com
 /^https:\/\/hodu[0-9]{3,4}\.net\/_book\/_Contents\/banner\//
 /^https:\/\/bam[0-9]{3,4}co\.com\/_book\/_Contents\/banner\//
-||blogger.googleusercontent.com/img/$domain=hdhd133.net|hdhd134.net|hdhd135.net|hdhd136.net|hdhd137.net|hdhd138.net|hdhd139.net|hdhd140.net|hdhd141.net|hdhd142.net|hdhd143.net|hdhd144.net
-||i.imgur.com^$domain=hdhd133.net|hdhd134.net|hdhd135.net|hdhd136.net|hdhd137.net|hdhd138.net|hdhd139.net|hdhd140.net|hdhd141.net|hdhd142.net|hdhd143.net|hdhd144.net
-/^https:\/\/imgcloud[0-9]{2,}\.net\//$domain=wfwf207.com|wfwf207.com|wfwf208.com|wfwf209.com|wfwf210.com|wfwf211.com|wfwf212.com|wfwf213.com|wfwf214.com|wfwf215.com|wfwf216.com|wfwf217.com|wfwf218.com
+||blogger.googleusercontent.com/img/$domain=hdhd146.net|hdhd147.net|hdhd148.net|hdhd149.net|hdhd150.net|hdhd151.net|hdhd152.net|hdhd153.net|hdhd154.net|hdhd155.net|hdhd156.net|hdhd157.net|hdhd158.net|hdhd159.net|hdhd160.net|hdhd161.net
+||i.imgur.com^$domain=hdhd146.net|hdhd147.net|hdhd148.net|hdhd149.net|hdhd150.net|hdhd151.net|hdhd152.net|hdhd153.net|hdhd154.net|hdhd155.net|hdhd156.net|hdhd157.net|hdhd158.net|hdhd159.net|hdhd160.net|hdhd161.net
+/^https:\/\/imgcloud[0-9]{2,}\.net\//$domain=wfwf214.com|wfwf215.com|wfwf216.com|wfwf217.com|wfwf218.com|wfwf219.com|wfwf220.com|wfwf221.com|wfwf222.com|wfwf223.com|wfwf224.com|wfwf225.com|wfwf226.com
 /^https:\/\/[0-9a-z\.]{1,}\.blogspot\.com\//$domain=blacktoon174.com|blacktoon178.com|blacktoon179.com|blacktoon180.com|blacktoon181.com|blacktoon182.com|blacktoon183.com|blacktoon184.com|blacktoon185.com|blacktoon186.com|blacktoon187.com|blacktoon188.com
 /^https:\/\/blacktoon[0-9]{3,4}\.com\/upload\/[0-9]{4}\/[0-9]{4}\/[0-9]{21}/
 /^https:\/\/newtoki[0-9]{3,6}\.com\/bbs\/linkbn\.php/$document
@@ -714,7 +719,7 @@ order.kyobobook.co.kr,newstomato.com,newsen.com,toomics.com,m.ytn.co.kr,djtimes.
 ! ##div[class^="ad"]
 ppomppu.co.kr,m.newsen.com,peterpanz.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com,sports.chosun.com##div[class^="ad"]
 ! ##div[class^="banner_"]
-prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
+search.11st.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
 hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
@@ -730,6 +735,10 @@ newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^=
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="recommend"]
+search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="focus"]
+search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="power"]
+search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="focus_bottom"]
 pping.kr##.HAdLine
 pping.kr##iframe[src*="//ad.pping.kr/"]
 kyobobook.co.kr##.box_login_inner > div[class^="popup_content"]
@@ -757,11 +766,6 @@ dpg.danawa.com##div[id*="_ad_"]
 m.humoruniv.com##body > div[style^="margin:"]:not([class]):not([id]) > div[style^="width:"]:not([class]):not([id])
 thelec.kr##div[onclick^="wcs.event("]
 m.star.mt.co.kr###content > div[style^="background:"][class]
-11st.co.kr##.b_main_md_recommend
-11st.co.kr###rcmdPrd.rcmd_prd
-11st.co.kr##[data-log-actionid-area][data-is-ab-send].hotClick_wrap
-11st.co.kr##.top_favorite.cfix
-11st.co.kr###product_listing > [class][data-log-actionid-area^="ad"]
 m.humoruniv.com###comment > ul > div[id][style]
 news.nate.com##div[class*="ad"]
 news.nate.com###newsSidebar > div[class$="AD"]
@@ -997,9 +1001,6 @@ shopping.interpark.com###btnlist > .listTitle:nth-child(1)
 shopping.interpark.com##.AdvertisingList
 shopping.interpark.com###powerLink
 itempage3.auction.co.kr##iframe[src*="//ad.auction.co.kr/"]
-11st.co.kr##.l_product_view_wrap > [data-log-actionid-area="relation_ad"].c_product_item_list
-11st.co.kr##.l_product_view_wrap > #recommend_top
-search.11st.co.kr##.search_content > section[data-log-actionid-area="recommend"]
 lawtimes.co.kr##a[href^="/Tracks/Banner-Log/"]
 boannews.com##div[id^="powerbiz"]
 boannews.com##iframe[src^="/main_contents/main_banner_"]
@@ -1112,8 +1113,6 @@ search.naver.com##.api_banner
 m.naver.com##div.brick-vowel > div[data-block-code="AD-SMART-CHANNEL"].MM_DA_SMARTCHANNEL
 m.coupang.com##.plp-default__item.search-product__cmg-badge
 m.coupang.com##div[data-page-type="brandSDP"][id$="carousel-products"]
-11st.co.kr##section[data-log-actionid-area="focus"].search_section
-11st.co.kr##section[data-log-actionid-area="plus"].search_section
 slist.kr##.ad-template
 daily.hankooki.com,slist.kr###wingBanner
 fow.kr##.neo_top_center
@@ -1257,30 +1256,30 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
 moviepang.net##.sidebar[style] > aside[id^="text-"][class] ~ aside[id^="text-"][class]
-frtoon119.com,frtoon120.com,frtoon121.com,frtoon122.com,frtoon123.com,frtoon124.com,frtoon125.com,frtoon126.com,frtoon127.com,frtoon128.com,frtoon129.com,frtoon130.com,frtoon131.com##.ad-form > .row > div[class^="col-md-"]
+frtoon122.com,frtoon123.com,frtoon124.com,frtoon125.com,frtoon126.com,frtoon127.com,frtoon128.com,frtoon129.com,frtoon130.com,frtoon131.com,frtoon132.com,frtoon132.com,frtoon134.com##.ad-form > .row > div[class^="col-md-"]
 buzztoon167.com,buzztoon168.com,buzztoon169.com,buzztoon170.com,buzztoon171.com,buzztoon172.com,buzztoon173.com,buzztoon174.com,buzztoon175.com,buzztoon176.com,buzztoon177.com,buzztoon178.com##.container-lg:not(.mt-2) > .row:nth-child(1)
-funbe117.com,funbe118.com,funbe119.com,funbe120.com,funbe121.com,funbe122.com,funbe123.com,funbe124.com,funbe125.com,funbe126.com,funbe127.com,funbe128.com##div[class$="mobile-banner"][style]
+funbe124.com,funbe125.com,funbe126.com,funbe127.com,funbe128.com,funbe129.com,funbe130.com,funbe131.com,funbe132.com,funbe133.com,funbe134.com,funbe135.com,funbe136.com##div[class$="mobile-banner"][style]
 toon123.com##main > section[style]:not([class])
 anilife.live##.MainBnnWrap
-manaboza01.com,manaboza02.com,manaboza03.com,manaboza04.com,manaboza05.com,manaboza06.com,manaboza07.com,manaboza08.com,manaboza09.com,manaboza10.com,manaboza11.com##.payment_fullbnr
-manaboza01.com,manaboza02.com,manaboza03.com,manaboza04.com,manaboza05.com,manaboza06.com,manaboza07.com,manaboza08.com,manaboza09.com,manaboza10.com,manaboza11.com##.comic_bot_bnr
+manaboza09.com,manaboza10.com,manaboza11.com,manaboza12.com,manaboza13.com,manaboza14.com,manaboza15.com,manaboza16.com,manaboza17.com,manaboza18.com,manaboza19.com,manaboza20.com##.payment_fullbnr
+manaboza09.com,manaboza10.com,manaboza11.com,manaboza12.com,manaboza13.com,manaboza14.com,manaboza15.com,manaboza16.com,manaboza17.com,manaboza18.com,manaboza19.com,manaboza20.com##.comic_bot_bnr
 torrentmode.com##a[href^="https://torrentmode.com/bbs/bannerhit.php"]
-toonsarang62.com,toonsarang63.com,toonsarang64.com,toonsarang65.com,toonsarang66.com,toonsarang67.com,toonsarang68.com,toonsarang69.com,toonsarang70.com,toonsarang71.com,toonsarang72.com##.row.w_banner
-agit144.com,agit145.com,agit146.com,agit147.com,agit148.com,agit149.com,agit150.com,agit151.com,agit152.com,agit153.com,agit154.com,agit155.com##.container.banner + .banner
-newtoon120.com,newtoon121.com,newtoon122.com,newtoon123.com,newtoon124.com,newtoon125.com,newtoon126.com,newtoon127.com,newtoon128.com,newtoon129.com,newtoon130.com##.ad-form > .row > div[class^="col-md-"]
-copytoon272.com,copytoon273.com,copytoon274.com,copytoon275.com,copytoon276.com,copytoon277.com,copytoon278.com,copytoon279.com,copytoon280.com,copytoon281.com##.row.w_banner
+toonsarang65.com,toonsarang66.com,toonsarang67.com,toonsarang68.com,toonsarang69.com,toonsarang70.com,toonsarang71.com,toonsarang72.com,toonsarang73.com,toonsarang74.com,toonsarang75.com##.row.w_banner
+agit147.com,agit148.com,agit149.com,agit150.com,agit151.com,agit152.com,agit153.com,agit154.com,agit155.com,agit156.com,agit157.com,agit158.com##.container.banner + .banner
+newtoon123.com,newtoon124.com,newtoon125.com,newtoon126.com,newtoon127.com,newtoon128.com,newtoon129.com,newtoon130.com,newtoon131.com,newtoon132.com,newtoon133.com##.ad-form > .row > div[class^="col-md-"]
+copytoon275.com,copytoon276.com,copytoon277.com,copytoon278.com,copytoon279.com,copytoon280.com,copytoon281.com,copytoon282.com,copytoon283.com,copytoon284.com##.row.w_banner
 hodu252.net,hodu253.net,hodu254.net,hodu255.net,hodu256.net,hodu257.net,hodu258.net,hodu259.net,hodu260.net,hodu261.net,hodu262.net,hodu263.net##.sub-contents > .banner
 bam256co.com,bam257co.com,bam258co.com,bam259co.com,bam260co.com,bam261co.com,bam262co.com,bam263co.com,bam264co.com,bam265co.com,bam266co.com##.sub-contents > .banner
-wfwf211.com,wfwf212.com,wfwf213.com,wfwf214.com,wfwf215.com,wfwf216.com,wfwf217.com,wfwf218.com,wfwf219.com,wfwf220.com,wfwf221.com,wfwf222.com,wfwf223.com##.top-banner
+wfwf214.com,wfwf215.com,wfwf216.com,wfwf217.com,wfwf218.com,wfwf219.com,wfwf220.com,wfwf221.com,wfwf222.com,wfwf223.com,wfwf224.com,wfwf225.com,wfwf226.com##.top-banner
 blacktoon174.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon181.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com,blacktoon187.com,blacktoon188.com##.banner.container > .row > .col-6
-newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com,newtoki150.com,newtoki151.com,newtoki152.com,newtoki153.com,newtoki154.com###hd_pop
-newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com,newtoki150.com,newtoki151.com,newtoki152.com,newtoki153.com,newtoki154.com##img[src^="/tokinbtoki/"]
-toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com##.bnt > div[class^="bancol"]
-toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
-toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com##div[class$="mobile-banner"][style]
-manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net##[style="margin-bottom: 20px;"].row.row-15
-manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net##.basic-banner.row.row-10
-manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net##.board-tail-banner
+newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com,newtoki150.com,newtoki151.com,newtoki152.com,newtoki153.com,newtoki154.com,newtoki155.com,newtoki156.com,newtoki157.com,booktoki144.com,booktoki145.com,booktoki146.com,booktoki147.com,booktoki148.com,booktoki149.com,booktoki150.com,booktoki151.com,booktoki152.com,booktoki153.com,booktoki154.com,booktoki155.com,booktoki156.com,booktoki157.com###hd_pop
+newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com,newtoki150.com,newtoki151.com,newtoki152.com,newtoki153.com,newtoki154.com,newtoki155.com,newtoki156.com,newtoki157.com,booktoki144.com,booktoki145.com,booktoki146.com,booktoki147.com,booktoki148.com,booktoki149.com,booktoki150.com,booktoki151.com,booktoki152.com,booktoki153.com,booktoki154.com,booktoki155.com,booktoki156.com,booktoki157.com##img[src^="/tokinbtoki/"]
+toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com,toonkor132.com,toonkor133.com,toonkor134.com,toonkor135.com,toonkor136.com,toonkor137.com##.bnt > div[class^="bancol"]
+toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com,toonkor132.com,toonkor133.com,toonkor134.com,toonkor135.com,toonkor136.com,toonkor137.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
+toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com,toonkor132.com,toonkor133.com,toonkor134.com,toonkor135.com,toonkor136.com,toonkor137.com##div[class$="mobile-banner"][style]
+manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net,manatoki154.net,manatoki155.net,manatoki156.net##[style="margin-bottom: 20px;"].row.row-15
+manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net,manatoki154.net,manatoki155.net,manatoki156.net##.basic-banner.row.row-10
+manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net,manatoki154.net,manatoki155.net,manatoki156.net##.board-tail-banner
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
@@ -1404,7 +1403,7 @@ etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
 skytoon32.com,skytoon33.com,skytoon34.com,skytoon35.com,skytoon36.com,skytoon37.com,skytoon38.com,skytoon39.com,skytoon40.com,skytoon41.com,skytoon42.com,skytoon43.com#?#.vod > .row:has(img[src*=".toonimg.com/data/files/banner/"])
-toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com#?#.navbar-nav > li[class]:has(> a[href$="/토토보증업체"][alt="토토보증업체"])
+toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com,toonkor132.com,toonkor133.com,toonkor134.com,toonkor135.com,toonkor136.com,toonkor137.com#?#.navbar-nav > li[class]:has(> a[href$="/토토보증업체"][alt="토토보증업체"])
 news.op.gg#$?#header + div[class] div[class^="css-"] > div[class^="css-"] > div[class^="css-"]:has( ~ .youtube-iframe) { margin-top: 8px !important; }
 5donews.co.kr#$?#.body > .content.xe_content:not(:has(article)) { width: auto !important; }
 mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !important; }
@@ -1431,17 +1430,22 @@ m.ppomppu.co.kr#?#.community-board-notice-box > #bbs_inform:has(> ul > li span:c
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
-frtoon119.com,frtoon120.com,frtoon121.com,frtoon122.com,frtoon123.com,frtoon124.com,frtoon125.com,frtoon126.com,frtoon127.com,frtoon128.com,frtoon129.com,frtoon130.com,frtoon131.com#?#.alert-danger.container:contains([AD])
-hdhd139.net,hdhd140.net,hdhd141.net,hdhd142.net,hdhd143.net,hdhd144.net,hdhd145.net,hdhd146.net,hdhd147.net,hdhd148.net,hdhd149.net,hdhd150.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
+frtoon122.com,frtoon123.com,frtoon124.com,frtoon125.com,frtoon126.com,frtoon127.com,frtoon128.com,frtoon129.com,frtoon130.com,frtoon131.com,frtoon132.com,frtoon132.com,frtoon134.com#?#.alert-danger.container:contains([AD])
+hdhd146.net,hdhd147.net,hdhd148.net,hdhd149.net,hdhd150.net,hdhd151.net,hdhd152.net,hdhd153.net,hdhd154.net,hdhd155.net,hdhd156.net,hdhd157.net,hdhd158.net,hdhd159.net,hdhd160.net,hdhd161.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
 blacktoon174.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon181.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com,blacktoon187.com,blacktoon188.com#?#.alert.alert-danger:has(> a:contains([AD]))
 !! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.bottomFocusPrdList", "undefined")
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.focusPrdList", "undefined")
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.DABanner", "undefined")
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.JBPBanner", "undefined")
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.lnbAdBanner", "undefined")
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.powerPrdList", "undefined")
 pping.kr#%#//scriptlet("remove-attr", "placeholder", "input.search_input", "asap stay")
 kyobobook.co.kr#%#//scriptlet("abort-current-inline-script", "jQuery", "#mainEventDiv")
 kyobobook.co.kr#%#//scriptlet("abort-current-inline-script", "shuffleItsbest", "itsbestArray")
 newstomato.com#%#//scriptlet("abort-current-inline-script", "getAdvertise")
-m.search.naver.com#%#//scriptlet("abort-on-property-read", "Element.prototype.className", "_initializePlayer")
 pedia.watcha.com#%#//scriptlet("remove-attr", "class|src", "a[class*='-StylelessHref-AdImage']", "asap stay")
 op.gg#%#//scriptlet("json-prune", "text_banner image_banner")
 dpg.danawa.com#%#//scriptlet("set-constant", "COMMUNITY_AD_UTILS", "emptyObj")
