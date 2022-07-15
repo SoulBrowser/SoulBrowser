@@ -800,7 +800,8 @@
     <string name="disable_adblock">Bloqueador de anuncios desactivado</string>
     <string name="adblock_enabled">El bloqueador de anuncios está habilitado.</string>
     <string name="adblock_disabled">El bloqueador de anuncios está desactivado.</string>
-    <string name="down_service">Soul servicio de descarga</string>
+    <string name="down_service">Servicio de descarga</string>
+    <string name="service_exit">Terminación del servicio</string>
     <string name="auto_comp">Autocompletar</string>
     <string name="check_element">Inspección de elementos (bloqueo más detallado)</string>
     <string name="quick_guide_1">1. Puedes moverte presionando y manteniendo presionado el ícono.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">Si el archivo está encriptado, no se puede reproducir.</string>
     <string name="view_certi">Ver Certificado</string>
     <string name="no_info">Sin información</string>
+    <string name="size_guide_1">A veces, cuando descarga un archivo, el tamaño total del archivo sigue cambiando.</string>
+    <string name="size_guide_2">Esto se debe a que este es el tamaño esperado del archivo, no el tamaño real del archivo.</string>
+    <string name="size_guide_3">Para algunos archivos, se pueden usar más datos para obtener el tamaño real del archivo.</string>
+    <string name="size_guide_4">Depende del tipo de archivo que quieras descargar.</string>
+    <string name="size_guide_5">Por lo tanto, algunos archivos le darán un tamaño estimado en lugar del tamaño real durante la descarga.</string>
 </resources>

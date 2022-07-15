@@ -800,7 +800,8 @@
     <string name="disable_adblock">Werbeblocker deaktivieren</string>
     <string name="adblock_enabled">Der Anzeigenblocker ist aktiviert.</string>
     <string name="adblock_disabled">Der Werbeblocker ist deaktiviert.</string>
-    <string name="down_service">Soul Download-Service</string>
+    <string name="down_service">Download-Dienst</string>
+    <string name="service_exit">Dienstbeendigung</string>
     <string name="auto_comp">Automatische Vervollständigung</string>
     <string name="check_element">Elementinspektion (feinkörnigere Blockierung)</string>
     <string name="quick_guide_1">1. Sie können sich bewegen, indem Sie das Symbol gedrückt halten.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">Wenn die Datei verschlüsselt ist, kann sie nicht wiedergegeben werden.</string>
     <string name="view_certi">Zertifikat ansehen</string>
     <string name="no_info">Keine Information</string>
+    <string name="size_guide_1">Wenn Sie eine Datei herunterladen, ändert sich manchmal die Gesamtgröße der Datei ständig.</string>
+    <string name="size_guide_2">Dies liegt daran, dass dies die erwartete Größe der Datei ist, nicht die tatsächliche Größe der Datei.</string>
+    <string name="size_guide_3">Bei einigen Dateien werden möglicherweise mehr Daten verwendet, um die tatsächliche Größe der Datei zu ermitteln.</string>
+    <string name="size_guide_4">Es hängt davon ab, welche Art von Datei Sie herunterladen möchten.</string>
+    <string name="size_guide_5">Daher geben einige Dateien beim Herunterladen die geschätzte Größe anstelle der tatsächlichen Größe an.</string>
 </resources>

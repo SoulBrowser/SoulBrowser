@@ -800,7 +800,8 @@
     <string name="disable_adblock">Отключить блокировку рекламы</string>
     <string name="adblock_enabled">Блокировка рекламы включена.</string>
     <string name="adblock_disabled">Блокировка рекламы отключена.</string>
-    <string name="down_service">Загрузчик Soul</string>
+    <string name="down_service">Сервис загрузки</string>
+    <string name="service_exit">Прекращение обслуживания</string>
     <string name="auto_comp">Автозаполнение</string>
     <string name="check_element">Контроль элементов (точечная блокировка)</string>
     <string name="quick_guide_1">1. Можно переместить любой значок, удерживая его.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">Если файл зашифрован, его невозможно воспроизвести.</string>
     <string name="view_certi">Просмотреть сертификат</string>
     <string name="no_info">Нет информации</string>
+    <string name="size_guide_1">Иногда, когда вы загружаете файл, общий размер файла продолжает меняться.</string>
+    <string name="size_guide_2">Это связано с тем, что это ожидаемый размер файла, а не фактический размер файла.</string>
+    <string name="size_guide_3">Для некоторых файлов может потребоваться больше данных, чтобы получить фактический размер файла.</string>
+    <string name="size_guide_4">Это зависит от того, какой файл вы хотите загрузить.</string>
+    <string name="size_guide_5">Таким образом, некоторые файлы будут давать вам приблизительный размер, а не фактический размер при загрузке.</string>
 </resources>

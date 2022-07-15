@@ -800,7 +800,8 @@
     <string name="disable_adblock">Blokowanie reklam wyłączone</string>
     <string name="adblock_enabled">Blokowanie reklam jest włączone.</string>
     <string name="adblock_disabled">Blokowanie reklam jest wyłączone.</string>
-    <string name="down_service">Usługa pobierania Soul</string>
+    <string name="down_service">Usługa pobierania</string>
+    <string name="service_exit">Zakończenie usługi</string>
     <string name="auto_comp">Autouzupełnienie</string>
     <string name="check_element">Kontrola elementów (bardziej drobnoziarniste blokowanie)</string>
     <string name="quick_guide_1">1. Możesz poruszać się naciskając i przytrzymując ikonę.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">Jeśli plik jest zaszyfrowany, nie można go odtworzyć.</string>
     <string name="view_certi">Wyświetl certyfikat</string>
     <string name="no_info">Brak informacji</string>
+    <string name="size_guide_1">Czasami podczas pobierania pliku zmienia się jego ogólny rozmiar.</string>
+    <string name="size_guide_2">Dzieje się tak, ponieważ jest to oczekiwany rozmiar pliku, a nie rzeczywisty rozmiar pliku.</string>
+    <string name="size_guide_3">W przypadku niektórych plików do uzyskania rzeczywistego rozmiaru pliku można użyć większej ilości danych.</string>
+    <string name="size_guide_4">To zależy od rodzaju pliku, który chcesz pobrać.</string>
+    <string name="size_guide_5">Niektóre pliki podają szacowany rozmiar zamiast rzeczywistego rozmiaru podczas pobierania.</string>
 </resources>

@@ -800,7 +800,8 @@
     <string name="disable_adblock">قم بإيقاف تشغيل منع الإعلانات</string>
     <string name="adblock_enabled">تم تنشيط منع الإعلانات.</string>
     <string name="adblock_disabled">تم تعطيل منع الإعلانات.</string>
-    <string name="down_service">Soul تحميل الخدمة</string>
+    <string name="down_service">خدمة التنزيل</string>
+    <string name="service_exit">إنهاء الخدمة</string>
     <string name="auto_comp">الإكمال التلقائي</string>
     <string name="check_element">فحص العنصر (مزيد من الحجب الدقيق)</string>
     <string name="quick_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على الأيقونة.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">إذا تم تشفير الملف ، فلا يمكن تشغيله.</string>
     <string name="view_certi">مشاهدة الشهادة</string>
     <string name="no_info">لا يوجد معلومات</string>
+    <string name="size_guide_1">في بعض الأحيان عند تنزيل ملف ، يتغير الحجم الإجمالي للملف باستمرار.</string>
+    <string name="size_guide_2">هذا لأن هذا هو الحجم المتوقع للملف ، وليس الحجم الفعلي للملف.</string>
+    <string name="size_guide_3">بالنسبة لبعض الملفات ، يمكن استخدام المزيد من البيانات للحصول على الحجم الفعلي للملف.</string>
+    <string name="size_guide_4">يعتمد ذلك على نوع الملف الذي تريد تنزيله.</string>
+    <string name="size_guide_5">لذلك ستمنحك بعض الملفات الحجم المقدر بدلاً من الحجم الفعلي أثناء التنزيل.</string>
 </resources>

@@ -800,7 +800,8 @@
     <string name="disable_adblock">Désactiver bloqueur de publicités</string>
     <string name="adblock_enabled">Le bloqueur de publicités est activé.</string>
     <string name="adblock_disabled">Le bloqueur de publicités est désactivé.</string>
-    <string name="down_service">Service de téléchargement Soul</string>
+    <string name="down_service">Service de téléchargement</string>
+    <string name="service_exit">Résiliation du service</string>
     <string name="auto_comp">Saisie automatique</string>
     <string name="check_element">Inspection des éléments (blocage plus fin)</string>
     <string name="quick_guide_1">1. Vous pouvez déplacer par un appui long sur les icônes.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">Si le fichier est crypté, il ne peut pas être lu.</string>
     <string name="view_certi">Afficher le certificat</string>
     <string name="no_info">Aucune information</string>
+    <string name="size_guide_1">Parfois, lorsque vous téléchargez un fichier, la taille globale du fichier ne cesse de changer.</string>
+    <string name="size_guide_2">En effet, il s\'agit de la taille attendue du fichier, et non de la taille réelle du fichier.</string>
+    <string name="size_guide_3">Pour certains fichiers, davantage de données peuvent être utilisées pour obtenir la taille réelle du fichier.</string>
+    <string name="size_guide_4">Cela dépend du type de fichier que vous souhaitez télécharger.</string>
+    <string name="size_guide_5">Ainsi, certains fichiers vous donneront une taille estimée au lieu de la taille réelle lors du téléchargement.</string>
 </resources>

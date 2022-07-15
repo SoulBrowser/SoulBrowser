@@ -800,7 +800,8 @@
     <string name="disable_adblock">Blocarea anunțurilor este dezactivată</string>
     <string name="adblock_enabled">Blocarea anunțurilor este activată.</string>
     <string name="adblock_disabled">Blocarea anunțurilor este dezactivată.</string>
-    <string name="down_service">Serviciu de descărcare Soul</string>
+    <string name="down_service">Serviciu de descărcare</string>
+    <string name="service_exit">Încetarea serviciului</string>
     <string name="auto_comp">Completare automată</string>
     <string name="check_element">Inspecția elementelor (blocare mai fină)</string>
     <string name="quick_guide_1">1. Vă puteți mișca apăsând și menținând apăsată pictograma.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">Dacă fișierul este criptat, nu poate fi redat.</string>
     <string name="view_certi">Vizualizare certificat</string>
     <string name="no_info">Fara informatii</string>
+    <string name="size_guide_1">Uneori, atunci când descărcați un fișier, dimensiunea totală a fișierului continuă să se schimbe.</string>
+    <string name="size_guide_2">Acest lucru se datorează faptului că aceasta este dimensiunea așteptată a fișierului, nu dimensiunea reală a fișierului.</string>
+    <string name="size_guide_3">Pentru unele fișiere, pot fi utilizate mai multe date pentru a obține dimensiunea reală a fișierului.</string>
+    <string name="size_guide_4">Depinde de ce tip de fișier doriți să descărcați.</string>
+    <string name="size_guide_5">Deci, unele fișiere vă vor oferi dimensiunea estimată în loc de dimensiunea reală în timpul descărcării.</string>
 </resources>

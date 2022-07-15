@@ -800,7 +800,8 @@
     <string name="disable_adblock">Trình chặn quảng cáo đang tắt</string>
     <string name="adblock_enabled">Trình chặn quảng cáo được bật.</string>
     <string name="adblock_disabled">Trình chặn quảng cáo bị tắt.</string>
-    <string name="down_service">Dịch vụ tải xuống Soul</string>
+    <string name="down_service">Tải xuống dịch vụ</string>
+    <string name="service_exit">Chấm dứt dịch vụ</string>
     <string name="auto_comp">Tự động hoàn thành</string>
     <string name="check_element">Kiểm tra phần tử (chặn chi tiết hơn)</string>
     <string name="quick_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ biểu tượng.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">Nếu tệp được mã hóa, nó không thể phát được.</string>
     <string name="view_certi">Xem chứng chỉ</string>
     <string name="no_info">Không có thông tin</string>
+    <string name="size_guide_1">Đôi khi khi bạn tải xuống một tệp, kích thước tổng thể của tệp liên tục thay đổi.</string>
+    <string name="size_guide_2">Điều này là do đây là kích thước dự kiến ​​của tệp, không phải là kích thước thực của tệp.</string>
+    <string name="size_guide_3">Đối với một số tệp, nhiều dữ liệu hơn có thể được sử dụng để có được kích thước thực của tệp.</string>
+    <string name="size_guide_4">Nó phụ thuộc vào loại tệp bạn muốn tải xuống.</string>
+    <string name="size_guide_5">Vì vậy, một số tệp sẽ cung cấp cho bạn kích thước ước tính thay vì kích thước thực trong khi tải xuống.</string>
 </resources>

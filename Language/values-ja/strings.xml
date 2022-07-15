@@ -800,7 +800,8 @@
     <string name="disable_adblock">広告ブロッカーオフ</string>
     <string name="adblock_enabled">広告ブロッカーが有効になっています。</string>
     <string name="adblock_disabled">広告ブロッカーが無効になっています。</string>
-    <string name="down_service">Soulダウンロードサービス</string>
+    <string name="down_service">ダウンロードサービス</string>
+    <string name="service_exit">サービス終了</string>
     <string name="auto_comp">オートコンプリート</string>
     <string name="check_element">要素を検証（より細かいブロック）</string>
     <string name="quick_guide_1">1. アイコンを長押しして移動することができます。</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">ファイルが暗号化されていると再生できません。</string>
     <string name="view_certi">ビューの証明書</string>
     <string name="no_info">情報なし</string>
+    <string name="size_guide_1">ファイルをダウンロードすると、ファイルの合計サイズが変更され続ける場合があります。</string>
+    <string name="size_guide_2">これは、ファイルの実際のサイズではなく、ファイルの予想サイズであるためです。</string>
+    <string name="size_guide_3">一部のファイルでは、ファイルの実際のサイズを取得する過程でより多くのデータが使用される場合があります。</string>
+    <string name="size_guide_4">ダウンロードするファイルの種類によって異なります。</string>
+    <string name="size_guide_5">したがって、一部のファイルは、ダウンロード中に実際のサイズではなく予想されるサイズを提供します。</string>
 </resources>

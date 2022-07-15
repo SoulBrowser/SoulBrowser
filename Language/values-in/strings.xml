@@ -800,7 +800,8 @@
     <string name="disable_adblock">Pemblokir iklan tidak aktif</string>
     <string name="adblock_enabled">Pemblokir iklan diaktifkan.</string>
     <string name="adblock_disabled">Pemblokir iklan dinonaktifkan.</string>
-    <string name="down_service">Layanan unduhan Soul</string>
+    <string name="down_service">Unduh layanan</string>
+    <string name="service_exit">Penghentian layanan</string>
     <string name="auto_comp">Pelengkapan otomatis</string>
     <string name="check_element">Pemeriksaan elemen (pemblokiran yang lebih halus)</string>
     <string name="quick_guide_1">1. Anda dapat bergerak dengan menekan dan menahan ikon.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">Jika file dienkripsi, file tidak dapat diputar.</string>
     <string name="view_certi">Lihat Sertifikat</string>
     <string name="no_info">Tidak ada informasi</string>
+    <string name="size_guide_1">Terkadang saat Anda mengunduh file, ukuran keseluruhan file terus berubah.</string>
+    <string name="size_guide_2">Ini karena ini adalah ukuran file yang diharapkan, bukan ukuran file yang sebenarnya.</string>
+    <string name="size_guide_3">Untuk beberapa file, lebih banyak data dapat digunakan untuk mendapatkan ukuran file yang sebenarnya.</string>
+    <string name="size_guide_4">Itu tergantung pada jenis file apa yang ingin Anda unduh.</string>
+    <string name="size_guide_5">Jadi beberapa file akan memberi Anda perkiraan ukuran alih-alih ukuran sebenarnya saat mengunduh.</string>
 </resources>

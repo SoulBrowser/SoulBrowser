@@ -800,7 +800,8 @@
     <string name="disable_adblock">ปิดตัวบล็อกโฆษณา</string>
     <string name="adblock_enabled">เปิดใช้งาน Ad blocker</string>
     <string name="adblock_disabled">ปิดใช้ตัวบล็อกโฆษณา</string>
-    <string name="down_service">บริการดาวน์โหลด Soul</string>
+    <string name="down_service">ดาวน์โหลดบริการ</string>
+    <string name="service_exit">การยกเลิกบริการ</string>
     <string name="auto_comp">เติมข้อความอัตโนมัติ</string>
     <string name="check_element">การตรวจสอบองค์ประกอบ (การปิดกั้นแบบละเอียดยิ่งขึ้น)</string>
     <string name="quick_guide_1">1. คุณสามารถย้ายได้โดยกดไอคอนค้างไว้</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">หากไฟล์ถูกเข้ารหัส จะไม่สามารถเล่นได้</string>
     <string name="view_certi">ดูใบรับรอง</string>
     <string name="no_info">ไม่มีข้อมูล</string>
+    <string name="size_guide_1">บางครั้งเมื่อคุณดาวน์โหลดไฟล์ ขนาดโดยรวมของไฟล์จะเปลี่ยนแปลงตลอดเวลา</string>
+    <string name="size_guide_2">เนื่องจากเป็นขนาดที่คาดไว้ของไฟล์ ไม่ใช่ขนาดจริงของไฟล์</string>
+    <string name="size_guide_3">สำหรับบางไฟล์ อาจใช้ข้อมูลเพิ่มเติมเพื่อให้ได้ขนาดที่แท้จริงของไฟล์</string>
+    <string name="size_guide_4">ขึ้นอยู่กับชนิดของไฟล์ที่คุณต้องการดาวน์โหลด</string>
+    <string name="size_guide_5">ดังนั้นไฟล์บางไฟล์จะให้ขนาดโดยประมาณแทนขนาดจริงในขณะดาวน์โหลด</string>
 </resources>

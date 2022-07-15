@@ -800,7 +800,8 @@
     <string name="disable_adblock">Блокування реклами вимкнено</string>
     <string name="adblock_enabled">Блокування реклами ввімкнено.</string>
     <string name="adblock_disabled">Блокування реклами вимкнено.</string>
-    <string name="down_service">Служба завантаження Soul</string>
+    <string name="down_service">Сервіс завантаження</string>
+    <string name="service_exit">Припинення обслуговування</string>
     <string name="auto_comp">Автозаповнення</string>
     <string name="check_element">Перевірка елементів (більш дрібнозернисте блокування)</string>
     <string name="quick_guide_1">1. Ви можете рухатися, натискаючи та утримуючи піктограму.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">Якщо файл зашифрований, його неможливо відтворити.</string>
     <string name="view_certi">Переглянути сертифікат</string>
     <string name="no_info">Немає інформації</string>
+    <string name="size_guide_1">Іноді, коли ви завантажуєте файл, загальний розмір файлу постійно змінюється.</string>
+    <string name="size_guide_2">Це тому, що це очікуваний розмір файлу, а не його фактичний розмір.</string>
+    <string name="size_guide_3">Для деяких файлів може використовуватися більше даних, щоб отримати фактичний розмір файлу.</string>
+    <string name="size_guide_4">Це залежить від типу файлу, який ви хочете завантажити.</string>
+    <string name="size_guide_5">Тому під час завантаження деякі файли вказуватимуть приблизний розмір замість фактичного.</string>
 </resources>

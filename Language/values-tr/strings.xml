@@ -800,7 +800,8 @@
     <string name="disable_adblock">Reklam engelleyici kapalı</string>
     <string name="adblock_enabled">Reklam engelleyici etkinleştirildi.</string>
     <string name="adblock_disabled">Reklam engelleyici devre dışı bırakıldı.</string>
-    <string name="down_service">Soul indirme hizmeti</string>
+    <string name="down_service">İndirme hizmeti</string>
+    <string name="service_exit">Hizmet sonlandırması</string>
     <string name="auto_comp">Otomatik tamamlama</string>
     <string name="check_element">Eleman denetimi (daha ince taneli engelleme)</string>
     <string name="quick_guide_1">1. Simgeye basılı tutarak hareket edebilirsiniz.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">Dosya şifreliyse oynatılamaz.</string>
     <string name="view_certi">Sertifikayı Görüntüle</string>
     <string name="no_info">Bilgi yok</string>
+    <string name="size_guide_1">Bazen bir dosyayı indirdiğinizde dosyanın genel boyutu değişmeye devam eder.</string>
+    <string name="size_guide_2">Bunun nedeni, dosyanın gerçek boyutunun değil, dosyanın beklenen boyutunun olmasıdır.</string>
+    <string name="size_guide_3">Bazı dosyalar için, dosyanın gerçek boyutunu elde etmek için daha fazla veri kullanılabilir.</string>
+    <string name="size_guide_4">Ne tür bir dosya indirmek istediğinize bağlıdır.</string>
+    <string name="size_guide_5">Bu nedenle bazı dosyalar indirirken size gerçek boyut yerine tahmini boyutu verecektir.</string>
 </resources>

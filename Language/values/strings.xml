@@ -800,7 +800,8 @@
     <string name="disable_adblock">Ad blocker off</string>
     <string name="adblock_enabled">Ad blocker is enabled.</string>
     <string name="adblock_disabled">Ad blocker is disabled.</string>
-    <string name="down_service">Soul download service</string>
+    <string name="down_service">Download service</string>
+    <string name="service_exit">Service termination</string>
     <string name="auto_comp">Auto complete</string>
     <string name="check_element">Element inspection (more fine-grained blocking)</string>
     <string name="quick_guide_1">1. You can move by pressing and holding the icon.</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">If the file is encrypted, it cannot be played.</string>
     <string name="view_certi">View Certificate</string>
     <string name="no_info">No information</string>
+    <string name="size_guide_1">Sometimes when you download a file, the overall size of the file keeps changing.</string>
+    <string name="size_guide_2">This is because this is the estimated size of the file, not the actual size of the file.</string>
+    <string name="size_guide_3">For some files, more data may be used to get the actual size of the file.</string>
+    <string name="size_guide_4">It depends on what kind of file you want to download.</string>
+    <string name="size_guide_5">So some files will give you estimated size instead of actual size while downloading.</string>
 </resources>

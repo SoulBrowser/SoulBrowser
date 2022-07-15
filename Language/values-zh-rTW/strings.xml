@@ -800,7 +800,8 @@
     <string name="disable_adblock">關閉廣告攔截</string>
     <string name="adblock_enabled">廣告攔截器已啟用</string>
     <string name="adblock_disabled">廣告攔截器已停用</string>
-    <string name="down_service">Soul 下載服務</string>
+    <string name="down_service">下載服務</string>
+    <string name="service_exit">服務終止</string>
     <string name="auto_comp">自動完成</string>
     <string name="check_element">元素檢查（更細粒度的封鎖）</string>
     <string name="quick_guide_1">1. 您可以按住圖示來移動</string>
@@ -894,4 +895,9 @@
     <string name="guide_tsfile">如果檔案被加密，則無法播放</string>
     <string name="view_certi">查看證書</string>
     <string name="no_info">無資訊</string>
+    <string name="size_guide_1">有時，當您下載文件時，文件的整體大小會不斷變化</string>
+    <string name="size_guide_2">這是因為這是文件的預期大小，而不是文件的實際大小</string>
+    <string name="size_guide_3">對於某些文件，可能會使用更多數據來獲取文件的實際大小</string>
+    <string name="size_guide_4">這取決於您要下載的文件類型</string>
+    <string name="size_guide_5">因此，有些文件會在下載時為您提供估計大小而不是實際大小</string>
 </resources>
