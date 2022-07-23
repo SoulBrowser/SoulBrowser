@@ -373,6 +373,7 @@
     <string name="waiting">しばらくお待ちください。</string>
     <string name="repeat_on">繰り返しモードオン</string>
     <string name="repeat_off">繰り返しモードオフ</string>
+    <string name="repeat_play">リピートプレイ</string>
     <string name="important_copyright">著作権は非常に重要です。</string>
     <string name="cancelled">キャンセルされました。</string>
     <string name="locale">言語</string>
@@ -677,8 +678,8 @@
     <string name="restart">再起動</string>
     <string name="down_fail_guide">ファイルが壊れている可能性があります。</string>
     <string name="ads_filter">広告フィルタ</string>
+    <string name="user_filter">ユーザーフィルター</string>
     <string name="filter_info">複数のフィルタを同時に使用すると、ブラウザーのパフォーマンスが低下することがあります。</string>
-    <string name="filter_country">国</string>
     <string name="backup_title">バックアップ</string>
     <string name="backup_import">インポート</string>
     <string name="backup_export">エクスポート</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">一部のファイルでは、ファイルの実際のサイズを取得する過程でより多くのデータが使用される場合があります。</string>
     <string name="size_guide_4">ダウンロードするファイルの種類によって異なります。</string>
     <string name="size_guide_5">したがって、一部のファイルは、ダウンロード中に実際のサイズではなく予想されるサイズを提供します。</string>
+    <string name="size_guide_6">ダウンロード結果に違いはありません。</string>
+    <string name="torrent_down">Torrentダウンロード</string>
 </resources>

@@ -373,6 +373,7 @@
     <string name="waiting">Por favor, aguarde.</string>
     <string name="repeat_on">Modo de repetição</string>
     <string name="repeat_off">Modo de repetição desligado</string>
+    <string name="repeat_play">Repetir a reprodução</string>
     <string name="important_copyright">Copyright é muito importante.</string>
     <string name="cancelled">Cancelado</string>
     <string name="locale">Língua</string>
@@ -677,8 +678,8 @@
     <string name="restart">Reiniciar</string>
     <string name="down_fail_guide">O arquivo pode estar danificado.</string>
     <string name="ads_filter">Filtro de anúncio</string>
+    <string name="user_filter">Filtro de usuário</string>
     <string name="filter_info">O uso de vários filtros ao mesmo tempo pode diminuir o desempenho do navegador.</string>
-    <string name="filter_country">País</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Importar</string>
     <string name="backup_export">Exportar</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">Para alguns arquivos, mais dados podem ser usados ​​para obter o tamanho real do arquivo.</string>
     <string name="size_guide_4">Depende do tipo de arquivo que você deseja baixar.</string>
     <string name="size_guide_5">Portanto, alguns arquivos fornecerão o tamanho estimado em vez do tamanho real durante o download.</string>
+    <string name="size_guide_6">Não há diferença nos resultados do download.</string>
+    <string name="torrent_down">Baixar torrent</string>
 </resources>

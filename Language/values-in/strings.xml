@@ -373,6 +373,7 @@
     <string name="waiting">Mohon tunggu.</string>
     <string name="repeat_on">Mode ulang pada</string>
     <string name="repeat_off">Mode ulang mati</string>
+    <string name="repeat_play">Putar ulang</string>
     <string name="important_copyright">Hak cipta sangat penting.</string>
     <string name="cancelled">Dibatalkan</string>
     <string name="locale">Bahasa</string>
@@ -677,8 +678,8 @@
     <string name="restart">Mengulang kembali</string>
     <string name="down_fail_guide">File mungkin rusak.</string>
     <string name="ads_filter">Filter iklan</string>
+    <string name="user_filter">Filter pengguna</string>
     <string name="filter_info">Menggunakan beberapa filter sekaligus dapat memperlambat kinerja browser.</string>
-    <string name="filter_country">Negara</string>
     <string name="backup_title">Cadangan</string>
     <string name="backup_import">Impor</string>
     <string name="backup_export">Ekspor</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">Untuk beberapa file, lebih banyak data dapat digunakan untuk mendapatkan ukuran file yang sebenarnya.</string>
     <string name="size_guide_4">Itu tergantung pada jenis file apa yang ingin Anda unduh.</string>
     <string name="size_guide_5">Jadi beberapa file akan memberi Anda perkiraan ukuran alih-alih ukuran sebenarnya saat mengunduh.</string>
+    <string name="size_guide_6">Tidak ada perbedaan dalam hasil unduhan.</string>
+    <string name="torrent_down">Unduh torrent</string>
 </resources>

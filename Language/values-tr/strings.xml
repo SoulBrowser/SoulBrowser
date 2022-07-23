@@ -373,6 +373,7 @@
     <string name="waiting">Lütfen bekle.</string>
     <string name="repeat_on">Modu tekrar et</string>
     <string name="repeat_off">Modu tekrar et</string>
+    <string name="repeat_play">Tekrar oynatma</string>
     <string name="important_copyright">Telif hakkı çok önemlidir.</string>
     <string name="cancelled">İptal edildi</string>
     <string name="locale">Dil</string>
@@ -677,8 +678,8 @@
     <string name="restart">Tekrar başlat</string>
     <string name="down_fail_guide">Dosya zarar görmüş olabilir.</string>
     <string name="ads_filter">Reklam filtresi</string>
+    <string name="user_filter">Kullanıcı filtresi</string>
     <string name="filter_info">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
-    <string name="filter_country">Ülke</string>
     <string name="backup_title">Yedek</string>
     <string name="backup_import">İçe aktar</string>
     <string name="backup_export">Dışa yükle</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">Bazı dosyalar için, dosyanın gerçek boyutunu elde etmek için daha fazla veri kullanılabilir.</string>
     <string name="size_guide_4">Ne tür bir dosya indirmek istediğinize bağlıdır.</string>
     <string name="size_guide_5">Bu nedenle bazı dosyalar indirirken size gerçek boyut yerine tahmini boyutu verecektir.</string>
+    <string name="size_guide_6">İndirme sonuçlarında hiçbir fark yoktur.</string>
+    <string name="torrent_down">Torrent indirme</string>
 </resources>

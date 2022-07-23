@@ -373,6 +373,7 @@
     <string name="waiting">잠시만 기다려 주세요.</string>
     <string name="repeat_on">반복 모드 사용</string>
     <string name="repeat_off">반복 모드 꺼짐</string>
+    <string name="repeat_play">반복 재생</string>
     <string name="important_copyright">저작권은 매우 중요합니다.</string>
     <string name="cancelled">취소되었습니다.</string>
     <string name="locale">언어</string>
@@ -677,8 +678,8 @@
     <string name="restart">재시작</string>
     <string name="down_fail_guide">파일이 손상되었을 수 있습니다.</string>
     <string name="ads_filter">광고 필터</string>
+    <string name="user_filter">사용자 필터</string>
     <string name="filter_info">여러 필터를 동시에 사용하면 브라우저 성능이 느려질 수 있습니다.</string>
-    <string name="filter_country">국가</string>
     <string name="backup_title">백업</string>
     <string name="backup_import">불러오기</string>
     <string name="backup_export">내보내기</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">일부 파일의 경우 파일의 실제 크기를 가져오는 과정에서 더 많은 데이터가 사용될 수 있습니다.</string>
     <string name="size_guide_4">다운로드하려는 파일의 종류에 따라 다릅니다.</string>
     <string name="size_guide_5">따라서 일부 파일은 다운로드하는 동안 실제 크기 대신 예상 크기를 제공합니다.</string>
+    <string name="size_guide_6">다운로드 결과에는 차이가 없습니다.</string>
+    <string name="torrent_down">토렌트 다운로드</string>
 </resources>

@@ -373,6 +373,7 @@
     <string name="waiting">Please wait.</string>
     <string name="repeat_on">Repeat mode on</string>
     <string name="repeat_off">Repeat mode off</string>
+    <string name="repeat_play">Repeat play</string>
     <string name="important_copyright">Copyright is very important.</string>
     <string name="cancelled">Cancelled</string>
     <string name="locale">Language</string>
@@ -677,8 +678,8 @@
     <string name="restart">Restart</string>
     <string name="down_fail_guide">The file may be damaged.</string>
     <string name="ads_filter">Ad filter</string>
+    <string name="user_filter">User filter</string>
     <string name="filter_info">Using multiple filters at the same time can slow browser performance.</string>
-    <string name="filter_country">Country</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Import</string>
     <string name="backup_export">Export</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">For some files, more data may be used to get the actual size of the file.</string>
     <string name="size_guide_4">It depends on what kind of file you want to download.</string>
     <string name="size_guide_5">So some files will give you estimated size instead of actual size while downloading.</string>
+    <string name="size_guide_6">There is no difference in the download results.</string>
+    <string name="torrent_down">Torrent download</string>
 </resources>

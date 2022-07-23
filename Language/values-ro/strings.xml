@@ -373,6 +373,7 @@
     <string name="waiting">Te rog asteapta.</string>
     <string name="repeat_on">Modul de repetare pe</string>
     <string name="repeat_off">Repetă modul oprit</string>
+    <string name="repeat_play">Repetă jocul</string>
     <string name="important_copyright">Drepturile de autor sunt foarte importante.</string>
     <string name="cancelled">Anulat</string>
     <string name="locale">Language</string>
@@ -677,8 +678,8 @@
     <string name="restart">Repornire</string>
     <string name="down_fail_guide">Fișierul poate fi deteriorat.</string>
     <string name="ads_filter">Filtru de anunțuri</string>
+    <string name="user_filter">Filtru utilizator</string>
     <string name="filter_info">Utilizarea mai multor filtre în același timp poate încetini performanța browserului.</string>
-    <string name="filter_country">Țară</string>
     <string name="backup_title">Rezervă</string>
     <string name="backup_import">Importați</string>
     <string name="backup_export">Exportați</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">Pentru unele fișiere, pot fi utilizate mai multe date pentru a obține dimensiunea reală a fișierului.</string>
     <string name="size_guide_4">Depinde de ce tip de fișier doriți să descărcați.</string>
     <string name="size_guide_5">Deci, unele fișiere vă vor oferi dimensiunea estimată în loc de dimensiunea reală în timpul descărcării.</string>
+    <string name="size_guide_6">Nu există nicio diferență în rezultatele de descărcare.</string>
+    <string name="torrent_down">Descărcare torrent</string>
 </resources>

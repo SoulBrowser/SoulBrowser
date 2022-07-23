@@ -373,6 +373,7 @@
     <string name="waiting">Будь ласка, почекайте.</string>
     <string name="repeat_on">Режим повторення увімкнено</string>
     <string name="repeat_off">Режим повторення вимкнено</string>
+    <string name="repeat_play">Повторне відтворення</string>
     <string name="important_copyright">Авторські права дуже важливі.</string>
     <string name="cancelled">Скасовано</string>
     <string name="locale">Мова</string>
@@ -677,8 +678,8 @@
     <string name="restart">Перезапустити</string>
     <string name="down_fail_guide">Файл може бути пошкоджений.</string>
     <string name="ads_filter">Рекламний фільтр</string>
+    <string name="user_filter">Фільтр користувача</string>
     <string name="filter_info">Використання декількох фільтрів одночасно може уповільнити роботу браузера.</string>
-    <string name="filter_country">Країна</string>
     <string name="backup_title">Резервне</string>
     <string name="backup_import">Імпорт</string>
     <string name="backup_export">Експорт</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">Для деяких файлів може використовуватися більше даних, щоб отримати фактичний розмір файлу.</string>
     <string name="size_guide_4">Це залежить від типу файлу, який ви хочете завантажити.</string>
     <string name="size_guide_5">Тому під час завантаження деякі файли вказуватимуть приблизний розмір замість фактичного.</string>
+    <string name="size_guide_6">Немає різниці в результатах завантаження.</string>
+    <string name="torrent_down">Торрент завантаження</string>
 </resources>

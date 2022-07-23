@@ -373,6 +373,7 @@
     <string name="waiting">Пожалуйста, подождите.</string>
     <string name="repeat_on">Режим повтора включен</string>
     <string name="repeat_off">Режим повтора отключён</string>
+    <string name="repeat_play">Повторить воспроизведение</string>
     <string name="important_copyright">Авторское право - важно.</string>
     <string name="cancelled">Отменено</string>
     <string name="locale">Язык</string>
@@ -677,8 +678,8 @@
     <string name="restart">Начать сначала</string>
     <string name="down_fail_guide">Файл может быть повреждён.</string>
     <string name="ads_filter">Рекламный фильтр</string>
+    <string name="user_filter">Пользовательский фильтр</string>
     <string name="filter_info">Использование нескольких фильтров одновременно может снизить производительность браузера.</string>
-    <string name="filter_country">Страна</string>
     <string name="backup_title">Резервное копирование и восстановление</string>
     <string name="backup_import">Импорт</string>
     <string name="backup_export">Экспорт</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">Для некоторых файлов может потребоваться больше данных, чтобы получить фактический размер файла.</string>
     <string name="size_guide_4">Это зависит от того, какой файл вы хотите загрузить.</string>
     <string name="size_guide_5">Таким образом, некоторые файлы будут давать вам приблизительный размер, а не фактический размер при загрузке.</string>
+    <string name="size_guide_6">Разницы в результатах загрузки нет.</string>
+    <string name="torrent_down">Скачать торрент</string>
 </resources>

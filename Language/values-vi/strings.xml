@@ -373,6 +373,7 @@
     <string name="waiting">Xin vui lòng chờ đợi.</string>
     <string name="repeat_on">Lặp lại chế độ trên</string>
     <string name="repeat_off">Lặp lại chế độ tắt</string>
+    <string name="repeat_play">Chơi lại</string>
     <string name="important_copyright">Bản quyền là rất quan trọng.</string>
     <string name="cancelled">Đã hủy</string>
     <string name="locale">Ngôn ngữ</string>
@@ -677,8 +678,8 @@
     <string name="restart">Khởi động lại</string>
     <string name="down_fail_guide">Các tập tin có thể bị hư hỏng.</string>
     <string name="ads_filter">Bộ lọc quảng cáo</string>
+    <string name="user_filter">Bộ lọc người dùng</string>
     <string name="filter_info">Sử dụng nhiều bộ lọc cùng một lúc có thể làm chậm hiệu suất trình duyệt.</string>
-    <string name="filter_country">Quốc gia</string>
     <string name="backup_title">Sao lưu</string>
     <string name="backup_import">Nhập sao lưu</string>
     <string name="backup_export">Xuất sao lưu</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">Đối với một số tệp, nhiều dữ liệu hơn có thể được sử dụng để có được kích thước thực của tệp.</string>
     <string name="size_guide_4">Nó phụ thuộc vào loại tệp bạn muốn tải xuống.</string>
     <string name="size_guide_5">Vì vậy, một số tệp sẽ cung cấp cho bạn kích thước ước tính thay vì kích thước thực trong khi tải xuống.</string>
+    <string name="size_guide_6">Không có sự khác biệt trong kết quả tải xuống.</string>
+    <string name="torrent_down">Tải xuống Torrent</string>
 </resources>

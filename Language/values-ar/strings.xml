@@ -373,6 +373,7 @@
     <string name="waiting">أرجو الإنتظار.</string>
     <string name="repeat_on">استخدم وضع التكرار</string>
     <string name="repeat_off">كرر وضع إيقاف</string>
+    <string name="repeat_play">كرر اللعب</string>
     <string name="important_copyright">حقوق التأليف والنشر مهمة جدا.</string>
     <string name="cancelled">ألغيت.</string>
     <string name="locale">لغة</string>
@@ -677,8 +678,8 @@
     <string name="restart">إعادة تشغيل</string>
     <string name="down_fail_guide">قد يكون الملف تالفًا.</string>
     <string name="ads_filter">مرشح الإعلانات</string>
+    <string name="user_filter">مرشح المستخدم</string>
     <string name="filter_info">يمكن أن يؤدي استخدام عوامل تصفية متعددة في نفس الوقت إلى إبطاء أداء المتصفح.</string>
-    <string name="filter_country">بلد</string>
     <string name="backup_title">دعم</string>
     <string name="backup_import">حمل</string>
     <string name="backup_export">يصدر</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">بالنسبة لبعض الملفات ، يمكن استخدام المزيد من البيانات للحصول على الحجم الفعلي للملف.</string>
     <string name="size_guide_4">يعتمد ذلك على نوع الملف الذي تريد تنزيله.</string>
     <string name="size_guide_5">لذلك ستمنحك بعض الملفات الحجم المقدر بدلاً من الحجم الفعلي أثناء التنزيل.</string>
+    <string name="size_guide_6">لا يوجد فرق في نتائج التنزيل.</string>
+    <string name="torrent_down">تنزيل التورنت</string>
 </resources>

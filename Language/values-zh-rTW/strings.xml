@@ -373,6 +373,7 @@
     <string name="waiting">請稍等</string>
     <string name="repeat_on">循環模式開啟</string>
     <string name="repeat_off">循環模式關閉</string>
+    <string name="repeat_play">重複播放</string>
     <string name="important_copyright">版權非常重要</string>
     <string name="cancelled">它已被取消</string>
     <string name="locale">語言</string>
@@ -677,8 +678,8 @@
     <string name="restart">重新開始</string>
     <string name="down_fail_guide">該檔案已損壞</string>
     <string name="ads_filter">廣告過濾器</string>
+    <string name="user_filter">用戶過濾器</string>
     <string name="filter_info">同時使用多個過濾器會降低瀏覽器效能</string>
-    <string name="filter_country">國家</string>
     <string name="backup_title">備份</string>
     <string name="backup_import">匯入</string>
     <string name="backup_export">匯出</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">對於某些文件，可能會使用更多數據來獲取文件的實際大小</string>
     <string name="size_guide_4">這取決於您要下載的文件類型</string>
     <string name="size_guide_5">因此，有些文件會在下載時為您提供估計大小而不是實際大小</string>
+    <string name="size_guide_6">下載結果沒有區別</string>
+    <string name="torrent_down">洪流下載</string>
 </resources>

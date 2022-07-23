@@ -373,6 +373,7 @@
     <string name="waiting">Warten Sie mal.</string>
     <string name="repeat_on">Wiederholungssmodus ein</string>
     <string name="repeat_off">Wiederholungsmodus aus</string>
+    <string name="repeat_play">Wiederholen Sie das Spiel</string>
     <string name="important_copyright">Das Urheberrecht ist sehr wichtig.</string>
     <string name="cancelled">Abgebrochen</string>
     <string name="locale">Sprache</string>
@@ -677,8 +678,8 @@
     <string name="restart">Neustart</string>
     <string name="down_fail_guide">Die Datei ist möglicherweise beschädigt.</string>
     <string name="ads_filter">Anzeigenfilter</string>
+    <string name="user_filter">Benutzerfilter</string>
     <string name="filter_info">Die gleichzeitige Verwendung mehrerer Filter kann die Browserleistung beeinträchtigen.</string>
-    <string name="filter_country">Land</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Importieren</string>
     <string name="backup_export">Exportieren</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">Bei einigen Dateien werden möglicherweise mehr Daten verwendet, um die tatsächliche Größe der Datei zu ermitteln.</string>
     <string name="size_guide_4">Es hängt davon ab, welche Art von Datei Sie herunterladen möchten.</string>
     <string name="size_guide_5">Daher geben einige Dateien beim Herunterladen die geschätzte Größe anstelle der tatsächlichen Größe an.</string>
+    <string name="size_guide_6">Es gibt keinen Unterschied in den Download-Ergebnissen.</string>
+    <string name="torrent_down">Torrent-Download</string>
 </resources>

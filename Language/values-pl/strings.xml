@@ -373,6 +373,7 @@
     <string name="waiting">Proszę czekać.</string>
     <string name="repeat_on">Tryb powtarzania włączony</string>
     <string name="repeat_off">Tryb powtarzania wyłączony</string>
+    <string name="repeat_play">Powtórz odtwarzanie</string>
     <string name="important_copyright">Prawo autorskie jest bardzo ważne.</string>
     <string name="cancelled">Anulowany</string>
     <string name="locale">Język</string>
@@ -677,8 +678,8 @@
     <string name="restart">Uruchom ponownie</string>
     <string name="down_fail_guide">Plik może być uszkodzony.</string>
     <string name="ads_filter">Filtr reklam</string>
+    <string name="user_filter">Filtr użytkownika</string>
     <string name="filter_info">Używanie wielu filtrów jednocześnie może spowolnić działanie przeglądarki.</string>
-    <string name="filter_country">Kraj</string>
     <string name="backup_title">Zapasowej</string>
     <string name="backup_import">Importuj</string>
     <string name="backup_export">Eksportuj</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">W przypadku niektórych plików do uzyskania rzeczywistego rozmiaru pliku można użyć większej ilości danych.</string>
     <string name="size_guide_4">To zależy od rodzaju pliku, który chcesz pobrać.</string>
     <string name="size_guide_5">Niektóre pliki podają szacowany rozmiar zamiast rzeczywistego rozmiaru podczas pobierania.</string>
+    <string name="size_guide_6">Nie ma różnicy w wynikach pobierania.</string>
+    <string name="torrent_down">Pobieranie torrenta</string>
 </resources>

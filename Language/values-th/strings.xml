@@ -373,6 +373,7 @@
     <string name="waiting">โปรดรอ.</string>
     <string name="repeat_on">โหมดทำซ้ำใน</string>
     <string name="repeat_off">ปิดโหมดการทำซ้ำ</string>
+    <string name="repeat_play">เล่นซ้ำ</string>
     <string name="important_copyright">ลิขสิทธิ์มีความสำคัญมาก</string>
     <string name="cancelled">ยกเลิกแล้ว</string>
     <string name="locale">ภาษา</string>
@@ -677,8 +678,8 @@
     <string name="restart">เริ่มต้นใหม่</string>
     <string name="down_fail_guide">ไฟล์อาจเสียหาย</string>
     <string name="ads_filter">ตัวกรองโฆษณา</string>
+    <string name="user_filter">ตัวกรองผู้ใช้</string>
     <string name="filter_info">การใช้ตัวกรองหลายตัวพร้อมกันอาจทำให้ประสิทธิภาพเบราว์เซอร์ช้าลง</string>
-    <string name="filter_country">ประเทศ</string>
     <string name="backup_title">สำรองข้อมูล</string>
     <string name="backup_import">นำเข้า</string>
     <string name="backup_export">ส่งออก</string>
@@ -900,4 +901,6 @@
     <string name="size_guide_3">สำหรับบางไฟล์ อาจใช้ข้อมูลเพิ่มเติมเพื่อให้ได้ขนาดที่แท้จริงของไฟล์</string>
     <string name="size_guide_4">ขึ้นอยู่กับชนิดของไฟล์ที่คุณต้องการดาวน์โหลด</string>
     <string name="size_guide_5">ดังนั้นไฟล์บางไฟล์จะให้ขนาดโดยประมาณแทนขนาดจริงในขณะดาวน์โหลด</string>
+    <string name="size_guide_6">ไม่มีความแตกต่างในผลลัพธ์การดาวน์โหลด</string>
+    <string name="torrent_down">ดาวน์โหลดทอร์เรนต์</string>
 </resources>
