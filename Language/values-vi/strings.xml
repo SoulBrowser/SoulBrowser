@@ -52,7 +52,9 @@
     <string name="translate">Phiên dịch</string>
     <string name="translator">Công cụ dịch thuật</string>
     <string name="trans_auto">Bản dịch tự động</string>
-    <string name="trans_except">Trang web ngoại lệ</string>
+    <string name="trans_block_site">Chặn các bản dịch tự động trên trang web hiện tại</string>
+    <string name="trans_block_page">Chặn các bản dịch tự động trên trang hiện tại</string>
+    <string name="trans_except">Bản dịch tự động danh sách cấm</string>
     <string name="trans_except_info">Bạn có thể đăng ký các trang web không sử dụng dịch tự động.</string>
     <string name="google_trans">Google Dịch</string>
     <string name="find_word">Tìm ở trang</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">Tạo một nút tắt truyền hình trên màn hình chính.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Danh sách cho phép quảng cáo</string>
+    <string name="ads_allow_site">Cho phép quảng cáo trên trang web hiện tại</string>
+    <string name="ads_allow_page">Cho phép quảng cáo trên trang hiện tại</string>
     <string name="pop_white">Danh sách cho phép popup</string>
     <string name="pop_allow">Cho phép bật lên</string>
-    <string name="pop_allow_site">Cho phép trên trang web hiện tại</string>
-    <string name="pop_allow_page">Cho phép trên trang hiện tại</string>
-    <string name="pop_confirm_1">Bạn có muốn cho phép cửa sổ bật lên không?</string>
-    <string name="pop_confirm_2">Bạn có thể tiếp xúc với các quảng cáo nguy hiểm.</string>
-    <string name="pop_allowed">Cửa sổ bật lên đã được phép.</string>
+    <string name="pop_allow_site">Cho phép cửa sổ bật lên trên trang web hiện tại</string>
+    <string name="pop_allow_page">Cho phép cửa sổ bật lên trên trang hiện tại</string>
     <string name="image_list">Danh sách hình ảnh</string>
     <string name="image_cast_guide_1">Ghé thăm trang web với hình ảnh.</string>
     <string name="image_cast_guide_2">Chọn \'Chỉ xem hình ảnh\' hoặc \'Lưu tất cả hình ảnh\'.</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">Cho phép trang web lưu trữ hoặc đọc cookie.</string>
     <string name="accept_cookie_info_2">Một số trang web có thể không hoạt động đúng nếu bạn không chấp nhận cookie.</string>
     <string name="third_cookie">Cookie của bên thứ ba</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">Sử dụng JavaScript (Khuyến nghị)</string>
     <string name="java_script_info">Một số tính năng của trình duyệt sẽ không hoạt động nếu JavaScript bị tắt.</string>
-    <string name="enable_js">Bật JavaScript</string>
-    <string name="disable_js">Vô hiệu hóa JavaScript</string>
-    <string name="js_enabled">JavaScript được kích hoạt.</string>
-    <string name="js_disabled">JavaScript bị tắt.</string>
     <string name="icon_edit_guide">2. Bạn có thể thay đổi nó bằng cách nhấp vào biểu tượng.</string>
     <string name="long_edit_guide">Bạn có thể đặt chức năng sử dụng khi nhấn và giữ biểu tượng trên thanh dưới cùng.</string>
     <string name="swipe_edit_guide">Bạn có thể thiết lập chức năng để sử dụng khi vuốt lên biểu tượng trên thanh dưới cùng.</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">Phóng to văn bản</string>
     <string name="zoom_icon">Nút phóng to</string>
     <string name="zoom_size">Kích thước mở rộng</string>
+    <string name="js_block_site">Chặn JavaScript trên trang web hiện tại</string>
+    <string name="js_block_page">Chặn JavaScript trên trang hiện tại</string>
     <string name="js_black">Danh sách đen JavaScript</string>
     <string name="js_black_info">Bạn có thể đăng ký các trang web chặn JavaScript.</string>
     <string name="theme_web">Trình duyệt</string>
@@ -780,7 +780,7 @@
     <string name="video_player">Trình phát video</string>
     <string name="security">Bảo vệ</string>
     <string name="keyboard_secure">Bảo mật bàn phím</string>
-    <string name="keyboard_secure_info_1">Nó không lưu những gì bạn nhập vào thanh tìm kiếm bằng bàn phím.</string>
+    <string name="keyboard_secure_info_1">Nó không lưu những gì bạn gõ trên bàn phím.</string>
     <string name="keyboard_secure_info_2">Một số bàn phím có thể không được hỗ trợ.</string>
     <string name="noti_invalid">không hợp lệ</string>
     <string name="original_size">Kích thước nguyên mẫu</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">Người dùng không thể xác thực vì các tùy chọn được chỉ định không tương thích với phiên bản Android hiện tại.</string>
     <string name="finger_unknown">Không thể xác định xem người dùng có thể xác thực hay không.</string>
     <string name="use_gesture">Sử dụng cử chỉ</string>
-    <string name="gesture_block_site">Trang web chặn cử chỉ</string>
+    <string name="gesture_block_site">Chặn cử chỉ trên trang web hiện tại</string>
+    <string name="gesture_block_page">Chặn cử chỉ trên trang hiện tại</string>
+    <string name="gesture_block_list">Danh sách đen cử chỉ</string>
     <string name="gesture_block_info_1">Bạn có thể đăng ký các trang web không sử dụng cử chỉ.</string>
     <string name="gesture_block_info_2">Chỉ áp dụng cho các cử chỉ ở giữa màn hình.</string>
     <string name="gesture_block_info_3">Nó không áp dụng cho các cử chỉ ở các cạnh của màn hình.</string>
-    <string name="enable_adblock">Trình chặn quảng cáo đang bật</string>
-    <string name="disable_adblock">Trình chặn quảng cáo đang tắt</string>
-    <string name="adblock_enabled">Trình chặn quảng cáo được bật.</string>
-    <string name="adblock_disabled">Trình chặn quảng cáo bị tắt.</string>
     <string name="down_service">Tải xuống dịch vụ</string>
     <string name="service_exit">Chấm dứt dịch vụ</string>
     <string name="auto_comp">Tự động hoàn thành</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">Điều này là do đây là kích thước dự kiến ​​của tệp, không phải là kích thước thực của tệp.</string>
     <string name="size_guide_3">Đối với một số tệp, nhiều dữ liệu hơn có thể được sử dụng để có được kích thước thực của tệp.</string>
     <string name="size_guide_4">Nó phụ thuộc vào loại tệp bạn muốn tải xuống.</string>
-    <string name="size_guide_5">Vì vậy, một số tệp sẽ cung cấp cho bạn kích thước ước tính thay vì kích thước thực trong khi tải xuống.</string>
+    <string name="size_guide_5">Để tránh sử dụng dữ liệu không cần thiết, một số tệp cung cấp kích thước ước tính thay vì kích thước thực của chúng trong quá trình tải xuống.</string>
     <string name="size_guide_6">Không có sự khác biệt trong kết quả tải xuống.</string>
     <string name="torrent_down">Tải xuống Torrent</string>
 </resources>

@@ -52,7 +52,9 @@
     <string name="translate">Traduire</string>
     <string name="translator">Moteur de traduction</string>
     <string name="trans_auto">Traduction automatique</string>
-    <string name="trans_except">Site d\'exception</string>
+    <string name="trans_block_site">Bloquer les traductions automatiques sur le site actuel</string>
+    <string name="trans_block_page">Bloquer les traductions automatiques sur la page en cours</string>
+    <string name="trans_except">Liste noire de traduction automatique</string>
     <string name="trans_except_info">Vous pouvez enregistrer des sites qui n\'utilisent pas la traduction automatique.</string>
     <string name="google_trans">Google Traduction</string>
     <string name="find_word">Rechercher dans page</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">Créez un bouton de raccourci de diffusion TV sur l\'écran d\'accueil.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Liste blanche Ad</string>
+    <string name="ads_allow_site">Autoriser les annonces sur le site actuel</string>
+    <string name="ads_allow_page">Autoriser les annonces sur la page actuelle</string>
     <string name="pop_white">Liste blanche popup</string>
     <string name="pop_allow">Autoriser le popup</string>
-    <string name="pop_allow_site">Autoriser sur le site actuel</string>
-    <string name="pop_allow_page">Autoriser sur la page actuelle</string>
-    <string name="pop_confirm_1">Voulez-vous autoriser le popup?</string>
-    <string name="pop_confirm_2">Vous pouvez être exposé à des publicités dangereuses.</string>
-    <string name="pop_allowed">Les fenêtres contextuelles étaient autorisées.</string>
+    <string name="pop_allow_site">Autoriser les fenêtres contextuelles sur le site actuel</string>
+    <string name="pop_allow_page">Autoriser les fenêtres contextuelles sur la page actuelle</string>
     <string name="image_list">Liste images</string>
     <string name="image_cast_guide_1">Visitez le site avec l\'image.</string>
     <string name="image_cast_guide_2">Sélectionnez \'Voir seulement les images\' ou \'Enregistrer toutes images\'.</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">Permet au site de stocker ou de lire des cookies.</string>
     <string name="accept_cookie_info_2">Certains sites peuvent ne pas fonctionner correctement si vous n\'acceptez pas les cookies.</string>
     <string name="third_cookie">Cookies tiers</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">Utiliser JavaScript (Recommandés)</string>
     <string name="java_script_info">Certaines fonctionnalités du navigateur ne fonctionneront pas si JavaScript est désactivé.</string>
-    <string name="enable_js">Activer JavaScript</string>
-    <string name="disable_js">Désactiver JavaScript</string>
-    <string name="js_enabled">JavaScript est activé.</string>
-    <string name="js_disabled">JavaScript est désactivé.</string>
     <string name="icon_edit_guide">2. Vous pouvez le modifier en cliquant sur l\'icône.</string>
     <string name="long_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous maintenez enfoncée l\'icône sur la barre inférieure.</string>
     <string name="swipe_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous faites glisser l\'icône sur la barre inférieure.</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">Zoomer sur le texte</string>
     <string name="zoom_icon">Bouton Zoom avant</string>
     <string name="zoom_size">Taille agrandie</string>
+    <string name="js_block_site">Bloquer JavaScript sur le site actuel</string>
+    <string name="js_block_page">Bloquer JavaScript sur la page en cours</string>
     <string name="js_black">Liste noire JavaScript</string>
     <string name="js_black_info">Vous pouvez enregistrer des sites qui bloquent JavaScript.</string>
     <string name="theme_web">Navigateur</string>
@@ -780,7 +780,7 @@
     <string name="video_player">Lecteur video</string>
     <string name="security">Sécurité</string>
     <string name="keyboard_secure">Sécurité par clavier</string>
-    <string name="keyboard_secure_info_1">Il n\'enregistre pas ce que vous tapez dans la barre de recherche avec le clavier.</string>
+    <string name="keyboard_secure_info_1">Il n\'enregistre pas ce que vous tapez sur le clavier.</string>
     <string name="keyboard_secure_info_2">Certains claviers peuvent ne pas être pris en charge.</string>
     <string name="noti_invalid">Invalide</string>
     <string name="original_size">Format original</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">L\'utilisateur ne peut pas s\'authentifier car les options spécifiées sont incompatibles avec la version actuelle d\'Android.</string>
     <string name="finger_unknown">Impossible de déterminer si l\'utilisateur peut s\'authentifier.</string>
     <string name="use_gesture">Utilisez des gestes</string>
-    <string name="gesture_block_site">Sites avec gestes désactivés</string>
+    <string name="gesture_block_site">Bloquer les gestes sur le site actuel</string>
+    <string name="gesture_block_page">Bloquer les gestes sur la page actuelle</string>
+    <string name="gesture_block_list">Liste noire des gestes</string>
     <string name="gesture_block_info_1">Pour enregistrer des sites où les gestes sont désactivés.</string>
     <string name="gesture_block_info_2">S\'applique uniquement aux gestes au centre de l\'écran.</string>
     <string name="gesture_block_info_3">Ne s\'applique pas aux gestes sur les bords de l\'écran.</string>
-    <string name="enable_adblock">Activer bloqueur de publicités</string>
-    <string name="disable_adblock">Désactiver bloqueur de publicités</string>
-    <string name="adblock_enabled">Le bloqueur de publicités est activé.</string>
-    <string name="adblock_disabled">Le bloqueur de publicités est désactivé.</string>
     <string name="down_service">Service de téléchargement</string>
     <string name="service_exit">Résiliation du service</string>
     <string name="auto_comp">Saisie automatique</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">En effet, il s\'agit de la taille attendue du fichier, et non de la taille réelle du fichier.</string>
     <string name="size_guide_3">Pour certains fichiers, davantage de données peuvent être utilisées pour obtenir la taille réelle du fichier.</string>
     <string name="size_guide_4">Cela dépend du type de fichier que vous souhaitez télécharger.</string>
-    <string name="size_guide_5">Ainsi, certains fichiers vous donneront une taille estimée au lieu de la taille réelle lors du téléchargement.</string>
+    <string name="size_guide_5">Pour éviter une utilisation inutile des données, certains fichiers fournissent une taille estimée au lieu de leur taille réelle lors du téléchargement.</string>
     <string name="size_guide_6">Il n\'y a aucune différence dans les résultats de téléchargement.</string>
     <string name="torrent_down">Téléchargement de torrents</string>
 </resources>

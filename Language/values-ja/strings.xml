@@ -52,7 +52,9 @@
     <string name="translate">翻訳</string>
     <string name="translator">翻訳エンジン</string>
     <string name="trans_auto">自動翻訳</string>
-    <string name="trans_except">翻訳例外サイト</string>
+    <string name="trans_block_site">現在のサイトで自動翻訳をブロックする</string>
+    <string name="trans_block_page">現在のページで自動翻訳をブロックする</string>
+    <string name="trans_except">自動翻訳ブラックリスト</string>
     <string name="trans_except_info">自動翻訳を使用していないサイトを登録することができます。</string>
     <string name="google_trans">Google 翻訳</string>
     <string name="find_word">ページ内検索</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">ホーム画面にTVキャストショートカットボタンを作成します。</string>
     <string name="list_menu">メニュー</string>
     <string name="ads_white">広告許可リスト</string>
+    <string name="ads_allow_site">現在のサイトに広告を許可する</string>
+    <string name="ads_allow_page">現在のページに広告を許可する</string>
     <string name="pop_white">Popup許可リスト</string>
     <string name="pop_allow">ポップアップを許可</string>
-    <string name="pop_allow_site">現在のサイトで許可する</string>
-    <string name="pop_allow_page">現在のページで許可</string>
-    <string name="pop_confirm_1">ポップアップを許可しますか？</string>
-    <string name="pop_confirm_2">危険な広告にさらされることがあります。</string>
-    <string name="pop_allowed">ポップアップが許可されました。</string>
+    <string name="pop_allow_site">現在のサイトでポップアップを許可する</string>
+    <string name="pop_allow_page">現在のページでポップアップを許可する</string>
     <string name="image_list">画像リスト</string>
     <string name="image_cast_guide_1">画像があるサイトをご覧ください。</string>
     <string name="image_cast_guide_2">\'画像のみを表示\'や\'すべての画像を保存\'を選択します</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">サイトからのクッキーを保存したり、読み取ることができます。</string>
     <string name="accept_cookie_info_2">クッキーを許可しない場合、一部のサイトが正常に動作しない場合があります。</string>
     <string name="third_cookie">サードパーティのCookie</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">JavaScriptを使用して（推奨）</string>
     <string name="java_script_info">JavaScriptが無効になっている場合、一部のブラウザの機能が動作しません。</string>
-    <string name="enable_js">JavaScript有効に</string>
-    <string name="disable_js">JavaScript無効に</string>
-    <string name="js_enabled">JavaScriptが有効になりました。</string>
-    <string name="js_disabled">JavaScriptが無効になっています。</string>
     <string name="icon_edit_guide">2. アイコンをクリックして変更することができます。</string>
     <string name="long_edit_guide">下部バーのアイコンを長く押したとき、使用する機能を設定することができます。</string>
     <string name="swipe_edit_guide">下部バーのアイコンを上スワイプするとき、使用する機能を設定することができます。</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">文字拡大</string>
     <string name="zoom_icon">拡大ボタン</string>
     <string name="zoom_size">拡大されたサイズ</string>
+    <string name="js_block_site">現在のサイトでJavaScriptをブロック</string>
+    <string name="js_block_page">現在のページでJavaScriptをブロック</string>
     <string name="js_black">JavaScriptブラックリスト</string>
     <string name="js_black_info">JavaScriptをブロックするサイトを登録することができます。</string>
     <string name="theme_web">ブラウザ</string>
@@ -780,7 +780,7 @@
     <string name="video_player">プレーヤー</string>
     <string name="security">セキュリティ</string>
     <string name="keyboard_secure">キーボードセキュリティ</string>
-    <string name="keyboard_secure_info_1">キーボードで検索バーに入力した内容を保存していません。</string>
+    <string name="keyboard_secure_info_1">キーボードで入力した内容は保存しません。</string>
     <string name="keyboard_secure_info_2">一部のキーボードはサポートされないことがあります。</string>
     <string name="noti_invalid">無効</string>
     <string name="original_size">元のサイズ</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">指定されたオプションが現在のAndroidバージョンと互換性がないため、ユーザーは認証できません。</string>
     <string name="finger_unknown">ユーザーが認証できるかどうかを判断できません。</string>
     <string name="use_gesture">ジェスチャの使用</string>
-    <string name="gesture_block_site">ジェスチャーブロックサイト</string>
+    <string name="gesture_block_site">現在のサイトでジェスチャーをブロック</string>
+    <string name="gesture_block_page">現在のページでジェスチャーをブロックする</string>
+    <string name="gesture_block_list">ジェスチャーブラックリスト</string>
     <string name="gesture_block_info_1">ジェスチャーを使用しないサイトを登録できます。</string>
     <string name="gesture_block_info_2">画面中央のジェスチャーのみ適用されます。</string>
     <string name="gesture_block_info_3">画面の端のジェスチャーは適用されません。</string>
-    <string name="enable_adblock">上の広告ブロッカー</string>
-    <string name="disable_adblock">広告ブロッカーオフ</string>
-    <string name="adblock_enabled">広告ブロッカーが有効になっています。</string>
-    <string name="adblock_disabled">広告ブロッカーが無効になっています。</string>
     <string name="down_service">ダウンロードサービス</string>
     <string name="service_exit">サービス終了</string>
     <string name="auto_comp">オートコンプリート</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">これは、ファイルの実際のサイズではなく、ファイルの予想サイズであるためです。</string>
     <string name="size_guide_3">一部のファイルでは、ファイルの実際のサイズを取得する過程でより多くのデータが使用される場合があります。</string>
     <string name="size_guide_4">ダウンロードするファイルの種類によって異なります。</string>
-    <string name="size_guide_5">したがって、一部のファイルは、ダウンロード中に実際のサイズではなく予想されるサイズを提供します。</string>
+    <string name="size_guide_5">不要なデータの使用を防ぐために、いくつかのファイルは、ダウンロード中に実際のサイズではなく予想サイズを提供します。</string>
     <string name="size_guide_6">ダウンロード結果に違いはありません。</string>
     <string name="torrent_down">Torrentダウンロード</string>
 </resources>

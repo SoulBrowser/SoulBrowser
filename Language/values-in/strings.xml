@@ -52,7 +52,9 @@
     <string name="translate">Terjemahan</string>
     <string name="translator">Mesin terjemahan</string>
     <string name="trans_auto">Terjemahan otomatis</string>
-    <string name="trans_except">Situs pengecualian</string>
+    <string name="trans_block_site">Blokir terjemahan otomatis di situs saat ini</string>
+    <string name="trans_block_page">Blokir terjemahan otomatis di halaman saat ini</string>
+    <string name="trans_except">Daftar hitam terjemahan otomatis</string>
     <string name="trans_except_info">Anda dapat mendaftarkan situs yang tidak menggunakan terjemahan otomatis.</string>
     <string name="google_trans">Google Penerjemah</string>
     <string name="find_word">Temukan di halaman</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">Buat tombol pintas transmisi TV di layar beranda.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Daftar putih Ad</string>
+    <string name="ads_allow_site">Izinkan iklan di situs saat ini</string>
+    <string name="ads_allow_page">Izinkan iklan di halaman saat ini</string>
     <string name="pop_white">Daftar putih popup</string>
     <string name="pop_allow">Izinkan munculan</string>
-    <string name="pop_allow_site">Izinkan di situs saat ini</string>
-    <string name="pop_allow_page">Izinkan di halaman saat ini</string>
-    <string name="pop_confirm_1">Apakah Anda ingin mengizinkan popup?</string>
-    <string name="pop_confirm_2">Anda mungkin terpapar iklan berbahaya.</string>
-    <string name="pop_allowed">Popup diizinkan.</string>
+    <string name="pop_allow_site">Izinkan popup di situs saat ini</string>
+    <string name="pop_allow_page">Izinkan popup di halaman saat ini</string>
     <string name="image_list">Daftar gambar</string>
     <string name="image_cast_guide_1">Kunjungi situs dengan gambar.</string>
     <string name="image_cast_guide_2">Pilih \'Lihat hanya gambar\' atau \'Simpan semua gambar\'.</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">Mengizinkan situs menyimpan atau membaca cookie.</string>
     <string name="accept_cookie_info_2">Beberapa situs mungkin tidak berfungsi dengan baik jika Anda tidak menerima cookie.</string>
     <string name="third_cookie">Cookie pihak ketiga</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">Menggunakan JavaScript (Disarankan)</string>
     <string name="java_script_info">Beberapa fitur browser tidak akan berfungsi jika JavaScript dinonaktifkan.</string>
-    <string name="enable_js">Aktifkan JavaScript</string>
-    <string name="disable_js">Nonaktifkan JavaScript</string>
-    <string name="js_enabled">JavaScript diaktifkan.</string>
-    <string name="js_disabled">JavaScript dinonaktifkan.</string>
     <string name="icon_edit_guide">2. Anda dapat mengubahnya dengan mengklik ikon.</string>
     <string name="long_edit_guide">Anda dapat mengatur fungsi untuk digunakan saat Anda menekan dan menahan ikon di bilah bawah.</string>
     <string name="swipe_edit_guide">Anda dapat mengatur fungsi yang akan digunakan saat menggesek ikon di bar bagian bawah.</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">Teks memperbesar</string>
     <string name="zoom_icon">Tombol perbesar</string>
     <string name="zoom_size">Ukuran diperbesar</string>
+    <string name="js_block_site">Blokir JavaScript di situs saat ini</string>
+    <string name="js_block_page">Blokir JavaScript di halaman saat ini</string>
     <string name="js_black">Daftar hitam JavaScript</string>
     <string name="js_black_info">Anda dapat mendaftarkan situs yang memblokir JavaScript.</string>
     <string name="theme_web">Browser</string>
@@ -780,7 +780,7 @@
     <string name="video_player">Pemain</string>
     <string name="security">Keamanan</string>
     <string name="keyboard_secure">Keamanan Keyboard</string>
-    <string name="keyboard_secure_info_1">Itu tidak menyimpan apa yang Anda ketik di bilah pencarian dengan keyboard.</string>
+    <string name="keyboard_secure_info_1">Itu tidak menyimpan apa yang Anda ketik di keyboard.</string>
     <string name="keyboard_secure_info_2">Beberapa keyboard mungkin tidak didukung.</string>
     <string name="noti_invalid">Tidak valid</string>
     <string name="original_size">Ukuran asli</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">Pengguna tidak dapat mengautentikasi karena opsi yang ditentukan tidak kompatibel dengan versi Android saat ini.</string>
     <string name="finger_unknown">Tidak dapat menentukan apakah pengguna dapat mengautentikasi.</string>
     <string name="use_gesture">Gunakan gerakan</string>
-    <string name="gesture_block_site">Situs pemblokiran isyarat</string>
+    <string name="gesture_block_site">Blokir gerakan di situs saat ini</string>
+    <string name="gesture_block_page">Blokir gerakan di halaman saat ini</string>
+    <string name="gesture_block_list">Daftar hitam gerakan</string>
     <string name="gesture_block_info_1">Anda dapat mendaftarkan situs yang tidak menggunakan isyarat.</string>
     <string name="gesture_block_info_2">Berlaku hanya untuk isyarat di tengah layar.</string>
     <string name="gesture_block_info_3">Ini tidak berlaku untuk isyarat di tepi layar.</string>
-    <string name="enable_adblock">Pemblokir iklan aktif</string>
-    <string name="disable_adblock">Pemblokir iklan tidak aktif</string>
-    <string name="adblock_enabled">Pemblokir iklan diaktifkan.</string>
-    <string name="adblock_disabled">Pemblokir iklan dinonaktifkan.</string>
     <string name="down_service">Unduh layanan</string>
     <string name="service_exit">Penghentian layanan</string>
     <string name="auto_comp">Pelengkapan otomatis</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">Ini karena ini adalah ukuran file yang diharapkan, bukan ukuran file yang sebenarnya.</string>
     <string name="size_guide_3">Untuk beberapa file, lebih banyak data dapat digunakan untuk mendapatkan ukuran file yang sebenarnya.</string>
     <string name="size_guide_4">Itu tergantung pada jenis file apa yang ingin Anda unduh.</string>
-    <string name="size_guide_5">Jadi beberapa file akan memberi Anda perkiraan ukuran alih-alih ukuran sebenarnya saat mengunduh.</string>
+    <string name="size_guide_5">Untuk menghindari penggunaan data yang tidak perlu, beberapa file memberikan perkiraan ukuran alih-alih ukuran sebenarnya selama pengunduhan.</string>
     <string name="size_guide_6">Tidak ada perbedaan dalam hasil unduhan.</string>
     <string name="torrent_down">Unduh torrent</string>
 </resources>

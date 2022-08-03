@@ -52,7 +52,9 @@
     <string name="translate">翻譯</string>
     <string name="translator">翻譯引擎</string>
     <string name="trans_auto">自動翻譯</string>
-    <string name="trans_except">例外網站</string>
+    <string name="trans_block_site">阻止當前站點上的自動翻譯</string>
+    <string name="trans_block_page">在當前頁面阻止自動翻譯</string>
+    <string name="trans_except">自動翻譯黑名單</string>
     <string name="trans_except_info">您可以輸入不使用自動翻譯的網站</string>
     <string name="google_trans">Google 翻譯</string>
     <string name="find_word">在頁面中查找</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">在主螢幕上建立一個電視投放快捷按鈕</string>
     <string name="list_menu">選單</string>
     <string name="ads_white">廣告白名單</string>
+    <string name="ads_allow_site">允許在當前網站上投放廣告</string>
+    <string name="ads_allow_page">允許在當前頁面上投放廣告</string>
     <string name="pop_white">彈出視窗白名單</string>
     <string name="pop_allow">允許彈出視窗</string>
-    <string name="pop_allow_site">在目前網站上允許</string>
-    <string name="pop_allow_page">在目前頁面上允許</string>
-    <string name="pop_confirm_1">您要允許彈出視窗嗎？</string>
-    <string name="pop_confirm_2">您可能會接觸到危險的廣告</string>
-    <string name="pop_allowed">允許彈出視窗</string>
+    <string name="pop_allow_site">允許在當前站點上彈出窗口</string>
+    <string name="pop_allow_page">允許在當前頁面上彈出窗口</string>
     <string name="image_list">圖片列表</string>
     <string name="image_cast_guide_1">訪問帶有圖片的網站</string>
     <string name="image_cast_guide_2">選擇\'僅查看圖片\'或\'儲存所有圖片\'</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">允許網站儲存或讀取 Cookie。</string>
     <string name="accept_cookie_info_2">如果您不接受 Cookie，則某些網站可能無法正常運行。</string>
     <string name="third_cookie">第三方 Cookie</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">使用 JavaScript（推薦）</string>
     <string name="java_script_info">如果停用 JavaScript，則瀏覽器的某些功能將無法使用</string>
-    <string name="enable_js">啟用 JavaScript</string>
-    <string name="disable_js">停用 JavaScript</string>
-    <string name="js_enabled">JavaScript 已啟用</string>
-    <string name="js_disabled">JavaScript 已停用</string>
     <string name="icon_edit_guide">2. 您可以透過點選圖示來變更它</string>
     <string name="long_edit_guide">您可以設定按住底欄上的圖示時要使用的功能</string>
     <string name="swipe_edit_guide">您可以設定向上滑動底欄上的圖示時要使用的功能</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">文字縮放</string>
     <string name="zoom_icon">放大按鈕</string>
     <string name="zoom_size">放大尺寸</string>
+    <string name="js_block_site">在當前站點上阻止 JavaScript</string>
+    <string name="js_block_page">在當前頁面上阻止 JavaScript</string>
     <string name="js_black">JavaScript 黑名單</string>
     <string name="js_black_info">您可以輸入封鎖 JavaScript 的網站</string>
     <string name="theme_web">瀏覽器</string>
@@ -780,7 +780,7 @@
     <string name="video_player">播放器</string>
     <string name="security">安全</string>
     <string name="keyboard_secure">鍵盤安全</string>
-    <string name="keyboard_secure_info_1">它不會儲存您在使用鍵盤時於搜尋欄中輸入的內容</string>
+    <string name="keyboard_secure_info_1">它不會保存您在鍵盤上鍵入的內容</string>
     <string name="keyboard_secure_info_2">某些鍵盤可能不支援</string>
     <string name="noti_invalid">無效</string>
     <string name="original_size">原始尺寸</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">由於指定的選項與目前的 Android 版本不相容，因此使用者無法進行身份驗證。</string>
     <string name="finger_unknown">無法確定使用者是否可以進行身份驗證。</string>
     <string name="use_gesture">使用手勢</string>
-    <string name="gesture_block_site">手勢封鎖網站</string>
+    <string name="gesture_block_site">阻止當前站點上的手勢</string>
+    <string name="gesture_block_page">阻止當前頁面上的手勢</string>
+    <string name="gesture_block_list">手勢黑名單</string>
     <string name="gesture_block_info_1">您可以輸入不使用手勢的網站</string>
     <string name="gesture_block_info_2">僅適用於螢幕中央手勢</string>
     <string name="gesture_block_info_3">不適用於螢幕邊緣手勢</string>
-    <string name="enable_adblock">開啟廣告攔截</string>
-    <string name="disable_adblock">關閉廣告攔截</string>
-    <string name="adblock_enabled">廣告攔截器已啟用</string>
-    <string name="adblock_disabled">廣告攔截器已停用</string>
     <string name="down_service">下載服務</string>
     <string name="service_exit">服務終止</string>
     <string name="auto_comp">自動完成</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">這是因為這是文件的預期大小，而不是文件的實際大小</string>
     <string name="size_guide_3">對於某些文件，可能會使用更多數據來獲取文件的實際大小</string>
     <string name="size_guide_4">這取決於您要下載的文件類型</string>
-    <string name="size_guide_5">因此，有些文件會在下載時為您提供估計大小而不是實際大小</string>
+    <string name="size_guide_5">為避免不必要的數據使用，某些文件在下載期間提供估計大小而不是實際大小</string>
     <string name="size_guide_6">下載結果沒有區別</string>
     <string name="torrent_down">洪流下載</string>
 </resources>

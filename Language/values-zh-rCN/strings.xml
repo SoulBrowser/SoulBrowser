@@ -52,7 +52,9 @@
     <string name="translate">翻译</string>
     <string name="translator">翻译引擎</string>
     <string name="trans_auto">自动翻译</string>
-    <string name="trans_except">翻译异常站点</string>
+    <string name="trans_block_site">阻止当前站点上的自动翻译</string>
+    <string name="trans_block_page">在当前页面阻止自动翻译</string>
+    <string name="trans_except">自动翻译黑名单</string>
     <string name="trans_except_info">您可以注册不使用自动翻译的站点</string>
     <string name="google_trans">Google 翻译</string>
     <string name="find_word">在页面中查找</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">在主屏幕上创建一个电视投屏快捷按钮</string>
     <string name="list_menu">菜单</string>
     <string name="ads_white">广告白名单</string>
+    <string name="ads_allow_site">允许在当前网站上投放广告</string>
+    <string name="ads_allow_page">允许在当前页面上投放广告</string>
     <string name="pop_white">弹窗白名单</string>
     <string name="pop_allow">允许弹窗</string>
-    <string name="pop_allow_site">允许在当前站点上</string>
-    <string name="pop_allow_page">在当前页面上允许</string>
-    <string name="pop_confirm_1">您要允许弹出窗口吗？</string>
-    <string name="pop_confirm_2">你可能会接触到危险的广告</string>
-    <string name="pop_allowed">允许弹出窗口</string>
+    <string name="pop_allow_site">允许在当前站点上弹出窗口</string>
+    <string name="pop_allow_page">允许在当前页面上弹出窗口</string>
     <string name="image_list">图片列表</string>
     <string name="image_cast_guide_1">访问带有图片的网站</string>
     <string name="image_cast_guide_2">选择\'仅查看图像\'或\'保存所有图像\'</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">允许网站存储或读取 Cookie。</string>
     <string name="accept_cookie_info_2">如果你不允许 Cookie，则某些网站可能无法正常运作。</string>
     <string name="third_cookie">第三方 Cookie</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">使用 JavaScript 脚本（推荐）</string>
     <string name="java_script_info">如果禁用了 JavaScript 脚本，某些网页将不能正常运作。</string>
-    <string name="enable_js">启用 JavaScript 脚本</string>
-    <string name="disable_js">禁用 JavaScript 脚本</string>
-    <string name="js_enabled">已启用 JavaScript 脚本</string>
-    <string name="js_disabled">已禁用 JavaScript 脚本</string>
     <string name="icon_edit_guide">2. 您可以通过单击图标来更改它</string>
     <string name="long_edit_guide">你可以设置按住底栏上的图标时要使用的功能</string>
     <string name="swipe_edit_guide">你可以设置在向上滑动底栏上图标时要使用的功能</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">文字放大</string>
     <string name="zoom_icon">放大按钮</string>
     <string name="zoom_size">放大尺寸</string>
+    <string name="js_block_site">在当前站点上阻止 JavaScript</string>
+    <string name="js_block_page">在当前页面上阻止 JavaScript</string>
     <string name="js_black">JavaScript 黑名单</string>
     <string name="js_black_info">添加禁用 JavaScript 的网站</string>
     <string name="theme_web">浏览器</string>
@@ -780,7 +780,7 @@
     <string name="video_player">播放器</string>
     <string name="security">安全</string>
     <string name="keyboard_secure">键盘安全性</string>
-    <string name="keyboard_secure_info_1">它不会保存您使用键盘在搜索栏中键入的内容</string>
+    <string name="keyboard_secure_info_1">它不会保存您在键盘上键入的内容</string>
     <string name="keyboard_secure_info_2">但是某些键盘可能不受支持</string>
     <string name="noti_invalid">无效</string>
     <string name="original_size">原始尺寸</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">由于指定的选项与当前的Android版本不兼容，因此用户无法进行身份验证</string>
     <string name="finger_unknown">无法确定用户是否可以认证</string>
     <string name="use_gesture">使用手势</string>
-    <string name="gesture_block_site">手势阻止站点</string>
+    <string name="gesture_block_site">阻止当前站点上的手势</string>
+    <string name="gesture_block_page">阻止当前页面上的手势</string>
+    <string name="gesture_block_list">手势黑名单</string>
     <string name="gesture_block_info_1">您可以注册不使用手势的网站</string>
     <string name="gesture_block_info_2">仅适用于屏幕中央的手势</string>
     <string name="gesture_block_info_3">它不适用于屏幕边缘的手势</string>
-    <string name="enable_adblock">启用广告拦截器</string>
-    <string name="disable_adblock">禁用广告拦截器</string>
-    <string name="adblock_enabled">广告拦截器已启用</string>
-    <string name="adblock_disabled">广告拦截器已禁用</string>
     <string name="down_service">下载服务</string>
     <string name="service_exit">服务终止</string>
     <string name="auto_comp">自动完成</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">这是因为这是文件的预期大小，而不是文件的实际大小</string>
     <string name="size_guide_3">对于某些文件，可能会使用更多数据来获取文件的实际大小</string>
     <string name="size_guide_4">这取决于您要下载的文件类型</string>
-    <string name="size_guide_5">因此，有些文件会在下载时为您提供估计大小而不是实际大小</string>
+    <string name="size_guide_5">为避免不必要的数据使用，某些文件在下载期间提供估计大小而不是实际大小</string>
     <string name="size_guide_6">下载结果没有区别</string>
     <string name="torrent_down">洪流下载</string>
 </resources>

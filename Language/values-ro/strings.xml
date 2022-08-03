@@ -52,7 +52,9 @@
     <string name="translate">Traduceți</string>
     <string name="translator">Motor de traducere</string>
     <string name="trans_auto">Traducere automată</string>
-    <string name="trans_except">Site de excepție</string>
+    <string name="trans_block_site">Blocați traducerile automate pe site-ul curent</string>
+    <string name="trans_block_page">Blocați traducerile automate pe pagina curentă</string>
+    <string name="trans_except">Lista neagră de traducere automată</string>
     <string name="trans_except_info">Puteți înregistra site-uri care nu utilizează traducerea automată.</string>
     <string name="google_trans">Google Translate</string>
     <string name="find_word">Găsiți în pagina</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">Creați un buton pentru scurtăturile turnare TV pe ecranul de pornire.</string>
     <string name="list_menu">Meniu</string>
     <string name="ads_white">Lista albă anunțurilor</string>
+    <string name="ads_allow_site">Permiteți anunțuri pe site-ul actual</string>
+    <string name="ads_allow_page">Permiteți anunțuri pe pagina curentă</string>
     <string name="pop_white">Listă albă popup</string>
     <string name="pop_allow">Permiteți popup</string>
-    <string name="pop_allow_site">Permiteți pe site-ul curent</string>
-    <string name="pop_allow_page">Permiteți pe pagina curentă</string>
-    <string name="pop_confirm_1">Doriți să permiteți popup-ul?</string>
-    <string name="pop_confirm_2">S-ar putea să fiți expus la reclame periculoase.</string>
-    <string name="pop_allowed">Pop-up-urile au fost permise.</string>
+    <string name="pop_allow_site">Permite popup pe site-ul curent</string>
+    <string name="pop_allow_page">Permite popup pe pagina curentă</string>
     <string name="image_list">Listă de imagini</string>
     <string name="image_cast_guide_1">Accesați site-ul cu imaginea.</string>
     <string name="image_cast_guide_2">Selectați \'Afișați doar imagini\' sau \'Salvați toate imaginile\'.</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">Permite site ului să stocheze sau să citească cookie uri.</string>
     <string name="accept_cookie_info_2">Este posibil ca unele site uri să nu funcționeze corect dacă nu acceptați cookie uri.</string>
     <string name="third_cookie">Cookie-uri terță parte</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">Folosind JavaScript (Recomandate)</string>
     <string name="java_script_info">Unele funcții ale browserului nu vor funcționa dacă JavaScript este dezactivat.</string>
-    <string name="enable_js">Permite JavaScript</string>
-    <string name="disable_js">Dezactivați JavaScript</string>
-    <string name="js_enabled">JavaScript este activat.</string>
-    <string name="js_disabled">JavaScript este dezactivat.</string>
     <string name="icon_edit_guide">2. Puteți să o modificați făcând clic pe pictogramă.</string>
     <string name="long_edit_guide">Puteți seta funcția pe care o utilizați când apăsați și țineți apăsată pictograma de pe bara de jos.</string>
     <string name="swipe_edit_guide">Puteți seta funcția pe care o folosiți atunci când treceți pictograma în bara de jos.</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">Măriți textul</string>
     <string name="zoom_icon">Buton pentru zoom</string>
     <string name="zoom_size">Dimensiuni mari</string>
+    <string name="js_block_site">Blocați JavaScript pe site-ul curent</string>
+    <string name="js_block_page">Blocați JavaScript pe pagina curentă</string>
     <string name="js_black">Lista neagră JavaScript</string>
     <string name="js_black_info">Puteți înregistra site-uri care blochează JavaScript.</string>
     <string name="theme_web">Browser</string>
@@ -780,7 +780,7 @@
     <string name="video_player">Jucător</string>
     <string name="security">Securitate</string>
     <string name="keyboard_secure">Securitate tastatură</string>
-    <string name="keyboard_secure_info_1">Nu salvează ceea ce tastați în bara de căutare cu tastatura.</string>
+    <string name="keyboard_secure_info_1">Nu salvează ceea ce tastați pe tastatură.</string>
     <string name="keyboard_secure_info_2">Este posibil ca unele tastaturi să nu fie acceptate.</string>
     <string name="noti_invalid">Invalid</string>
     <string name="original_size">Mărimea originală</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">Utilizatorul nu se poate autentifica deoarece opțiunile specificate sunt incompatibile cu versiunea curentă de Android.</string>
     <string name="finger_unknown">Nu se poate stabili dacă utilizatorul se poate autentifica.</string>
     <string name="use_gesture">Folosiți gesturi</string>
-    <string name="gesture_block_site">Site de blocare a gesturilor</string>
+    <string name="gesture_block_site">Blocați gesturile pe site-ul curent</string>
+    <string name="gesture_block_page">Blocați gesturile pe pagina curentă</string>
+    <string name="gesture_block_list">Lista neagră a gesturilor</string>
     <string name="gesture_block_info_1">Puteți înregistra site-uri care nu folosesc gesturi.</string>
     <string name="gesture_block_info_2">Se aplică numai gesturilor din centrul ecranului.</string>
     <string name="gesture_block_info_3">Nu se aplică gesturilor de pe marginile ecranului.</string>
-    <string name="enable_adblock">Blocare anunțuri activată</string>
-    <string name="disable_adblock">Blocarea anunțurilor este dezactivată</string>
-    <string name="adblock_enabled">Blocarea anunțurilor este activată.</string>
-    <string name="adblock_disabled">Blocarea anunțurilor este dezactivată.</string>
     <string name="down_service">Serviciu de descărcare</string>
     <string name="service_exit">Încetarea serviciului</string>
     <string name="auto_comp">Completare automată</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">Acest lucru se datorează faptului că aceasta este dimensiunea așteptată a fișierului, nu dimensiunea reală a fișierului.</string>
     <string name="size_guide_3">Pentru unele fișiere, pot fi utilizate mai multe date pentru a obține dimensiunea reală a fișierului.</string>
     <string name="size_guide_4">Depinde de ce tip de fișier doriți să descărcați.</string>
-    <string name="size_guide_5">Deci, unele fișiere vă vor oferi dimensiunea estimată în loc de dimensiunea reală în timpul descărcării.</string>
+    <string name="size_guide_5">Pentru a evita utilizarea inutilă a datelor, unele fișiere oferă o dimensiune estimată în loc de dimensiunea lor reală în timpul descărcării.</string>
     <string name="size_guide_6">Nu există nicio diferență în rezultatele de descărcare.</string>
     <string name="torrent_down">Descărcare torrent</string>
 </resources>

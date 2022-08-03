@@ -52,7 +52,9 @@
     <string name="translate">Tłumaczyć</string>
     <string name="translator">Silnik tłumaczeń</string>
     <string name="trans_auto">Automatyczne tłumaczenie</string>
-    <string name="trans_except">Witryna wyjątków</string>
+    <string name="trans_block_site">Blokuj automatyczne tłumaczenia w bieżącej witrynie</string>
+    <string name="trans_block_page">Blokuj automatyczne tłumaczenia na bieżącej stronie</string>
+    <string name="trans_except">Czarna lista tłumaczeń automatycznych</string>
     <string name="trans_except_info">Możesz zarejestrować witryny, które nie korzystają z automatycznego tłumaczenia.</string>
     <string name="google_trans">Google Tłumacz</string>
     <string name="find_word">Znajdź na stronie</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">Utwórz przycisk skrótu do obsada telewizyjna na ekranie głównym.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Biała lista reklam</string>
+    <string name="ads_allow_site">Zezwalaj na reklamy w bieżącej witrynie</string>
+    <string name="ads_allow_page">Zezwalaj na reklamy na bieżącej stronie</string>
     <string name="pop_white">Biała lista wyskakująca</string>
     <string name="pop_allow">Zezwól na wyskakujące okienko</string>
-    <string name="pop_allow_site">Zezwól w bieżącej witrynie</string>
-    <string name="pop_allow_page">Zezwól na bieżącej stronie</string>
-    <string name="pop_confirm_1">Czy chcesz zezwolić na wyskakujące okienka?</string>
-    <string name="pop_confirm_2">Możesz być narażony na niebezpieczne reklamy.</string>
-    <string name="pop_allowed">Dozwolone były wyskakujące okienka.</string>
+    <string name="pop_allow_site">Zezwól na wyskakujące okienka w bieżącej witrynie</string>
+    <string name="pop_allow_page">Zezwól na wyskakujące okienka na bieżącej stronie</string>
     <string name="image_list">Lista obrazków</string>
     <string name="image_cast_guide_1">Odwiedź stronę z obrazem.</string>
     <string name="image_cast_guide_2">Wybierz „Wyświetl tylko obrazy” lub „Zapisz wszystkie obrazy”.</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">Pozwala stronie na przechowywanie lub odczytywanie plików cookie.</string>
     <string name="accept_cookie_info_2">Niektóre witryny mogą nie działać poprawnie, jeśli nie akceptujesz plików cookie.</string>
     <string name="third_cookie">Pliki cookie stron trzecich</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">Za pomocą JavaScript (Zalecane)</string>
     <string name="java_script_info">Niektóre funkcje przeglądarki nie będą działać, jeśli JavaScript jest wyłączony.</string>
-    <string name="enable_js">Włącz JavaScript</string>
-    <string name="disable_js">Wyłącz JavaScript</string>
-    <string name="js_enabled">JavaScript jest włączony.</string>
-    <string name="js_disabled">JavaScript jest wyłączony.</string>
     <string name="icon_edit_guide">2. Możesz to zmienić, klikając ikonę.</string>
     <string name="long_edit_guide">Możesz ustawić funkcję, która będzie używana po naciśnięciu i przytrzymaniu ikony na dolnym pasku.</string>
     <string name="swipe_edit_guide">Możesz ustawić funkcję, która będzie używana podczas przesuwania w górę ikony na dolnym pasku.</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">Powiększ tekst</string>
     <string name="zoom_icon">Przycisk powiększania</string>
     <string name="zoom_size">Powiększony rozmiar</string>
+    <string name="js_block_site">Blokuj JavaScript w bieżącej witrynie</string>
+    <string name="js_block_page">Blokuj JavaScript na bieżącej stronie</string>
     <string name="js_black">Czarna lista JavaScript</string>
     <string name="js_black_info">Możesz zarejestrować witryny, które blokują JavaScript.</string>
     <string name="theme_web">Przeglądarka</string>
@@ -780,7 +780,7 @@
     <string name="video_player">Gracz</string>
     <string name="security">Bezpieczeństwo</string>
     <string name="keyboard_secure">Bezpieczeństwo klawiatury</string>
-    <string name="keyboard_secure_info_1">Nie zapisuje tego, co wpisujesz w pasku wyszukiwania za pomocą klawiatury.</string>
+    <string name="keyboard_secure_info_1">Nie zapisuje tego, co wpisujesz na klawiaturze.</string>
     <string name="keyboard_secure_info_2">Niektóre klawiatury mogą nie być obsługiwane.</string>
     <string name="noti_invalid">Nieważny</string>
     <string name="original_size">Oryginalny rozmiar</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">Użytkownik nie może się uwierzytelnić, ponieważ określone opcje są niezgodne z bieżącą wersją Androida.</string>
     <string name="finger_unknown">Nie można określić, czy użytkownik może się uwierzytelnić.</string>
     <string name="use_gesture">Używaj gestów</string>
-    <string name="gesture_block_site">Witryna blokująca gesty</string>
+    <string name="gesture_block_site">Blokuj gesty w bieżącej witrynie</string>
+    <string name="gesture_block_page">Blokuj gesty na bieżącej stronie</string>
+    <string name="gesture_block_list">Czarna lista gestów</string>
     <string name="gesture_block_info_1">Możesz zarejestrować strony, które nie używają gestów.</string>
     <string name="gesture_block_info_2">Dotyczy tylko gestów na środku ekranu.</string>
     <string name="gesture_block_info_3">Nie dotyczy gestów na krawędziach ekranu.</string>
-    <string name="enable_adblock">Blokowanie reklam włączone</string>
-    <string name="disable_adblock">Blokowanie reklam wyłączone</string>
-    <string name="adblock_enabled">Blokowanie reklam jest włączone.</string>
-    <string name="adblock_disabled">Blokowanie reklam jest wyłączone.</string>
     <string name="down_service">Usługa pobierania</string>
     <string name="service_exit">Zakończenie usługi</string>
     <string name="auto_comp">Autouzupełnienie</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">Dzieje się tak, ponieważ jest to oczekiwany rozmiar pliku, a nie rzeczywisty rozmiar pliku.</string>
     <string name="size_guide_3">W przypadku niektórych plików do uzyskania rzeczywistego rozmiaru pliku można użyć większej ilości danych.</string>
     <string name="size_guide_4">To zależy od rodzaju pliku, który chcesz pobrać.</string>
-    <string name="size_guide_5">Niektóre pliki podają szacowany rozmiar zamiast rzeczywistego rozmiaru podczas pobierania.</string>
+    <string name="size_guide_5">Aby uniknąć niepotrzebnego wykorzystania danych, podczas pobierania niektóre pliki mają szacowany rozmiar zamiast rzeczywistego rozmiaru.</string>
     <string name="size_guide_6">Nie ma różnicy w wynikach pobierania.</string>
     <string name="torrent_down">Pobieranie torrenta</string>
 </resources>

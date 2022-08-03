@@ -52,7 +52,9 @@
     <string name="translate">ترجمة</string>
     <string name="translator">محرك الترجمة</string>
     <string name="trans_auto">الترجمة الآلية</string>
-    <string name="trans_except">موقع الاستثناء</string>
+    <string name="trans_block_site">منع الترجمات الآلية في الموقع الحالي</string>
+    <string name="trans_block_page">منع الترجمات الآلية في الصفحة الحالية</string>
+    <string name="trans_except">القائمة السوداء للترجمة التلقائية</string>
     <string name="trans_except_info">يمكنك تسجيل المواقع التي لا تستخدم الترجمة الآلية.</string>
     <string name="google_trans">ترجمة Google</string>
     <string name="find_word">العثور على الصفحة</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">قم بإنشاء زر اختصار البث التلفزيوني على شاشتك الرئيسية.</string>
     <string name="list_menu">قائمة</string>
     <string name="ads_white">القائمة البيضاء للإعلان</string>
+    <string name="ads_allow_site">السماح بالإعلانات على الموقع الحالي</string>
+    <string name="ads_allow_page">السماح بالإعلانات على الصفحة الحالية</string>
     <string name="pop_white">القائمة البيضاء المنبثقة</string>
     <string name="pop_allow">السماح بالنافذة المنبثقة</string>
-    <string name="pop_allow_site">مسموح به في الموقع الحالي</string>
-    <string name="pop_allow_page">السماح في الصفحة الحالية</string>
-    <string name="pop_confirm_1">هل تريد السماح بالنوافذ المنبثقة؟</string>
-    <string name="pop_confirm_2">قد تتعرض لإعلانات خطيرة.</string>
-    <string name="pop_allowed">تم السماح بالنوافذ المنبثقة.</string>
+    <string name="pop_allow_site">السماح بالنوافذ المنبثقة على الموقع الحالي</string>
+    <string name="pop_allow_page">السماح بالقافزة المنبثقة على الصفحة الحالية</string>
     <string name="image_list">قائمة الصور</string>
     <string name="image_cast_guide_1">قم بزيارة موقع بالصور.</string>
     <string name="image_cast_guide_2">حدد عرض الصور فقط أو حفظ كل الصور.</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">يسمح للموقع بتخزين أو قراءة ملفات تعريف الارتباط.</string>
     <string name="accept_cookie_info_2">إذا كنت لا تسمح بملفات تعريف الارتباط ، فقد لا تعمل بعض المواقع بشكل صحيح.</string>
     <string name="third_cookie">ملفات تعريف ارتباط الطرف الثالث</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">استخدم JavaScript (مستحسن)</string>
     <string name="java_script_info">سيؤدي تعطيل JavaScript إلى توقف بعض ميزات المتصفح عن العمل.</string>
-    <string name="enable_js">قم بتشغيل JavaScript</string>
-    <string name="disable_js">قم بإيقاف تشغيل JavaScript</string>
-    <string name="js_enabled">تم تمكين JavaScript.</string>
-    <string name="js_disabled">تم تعطيل JavaScript.</string>
     <string name="icon_edit_guide">2. يمكنك تغييره بالضغط على الأيقونة.</string>
     <string name="long_edit_guide">يمكنك ضبط الوظيفة لاستخدامها عند الضغط لفترة طويلة على الرمز الموجود في الشريط السفلي.</string>
     <string name="swipe_edit_guide">يمكنك ضبط الوظيفة لاستخدامها عند التمرير سريعًا فوق الرمز الموجود في الشريط السفلي.</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">تكبير الحرف</string>
     <string name="zoom_icon">زر التكبير</string>
     <string name="zoom_size">حجم كبير</string>
+    <string name="js_block_site">منع جافا سكريبت على الموقع الحالي</string>
+    <string name="js_block_page">منع جافا سكريبت في الصفحة الحالية</string>
     <string name="js_black">قائمة حظر جافا سكريبت</string>
     <string name="js_black_info">يمكنك تسجيل المواقع التي تحظر JavaScript.</string>
     <string name="theme_web">المتصفح</string>
@@ -780,7 +780,7 @@
     <string name="video_player">لاعب</string>
     <string name="security">الأمان</string>
     <string name="keyboard_secure">أمان لوحة المفاتيح</string>
-    <string name="keyboard_secure_info_1">لا يحفظ ما تكتبه في شريط البحث باستخدام لوحة المفاتيح.</string>
+    <string name="keyboard_secure_info_1">لا يحفظ ما تكتبه على لوحة المفاتيح.</string>
     <string name="keyboard_secure_info_2">قد لا تكون بعض لوحات المفاتيح مدعومة.</string>
     <string name="noti_invalid">غير صالح</string>
     <string name="original_size">الحجم الأصلي</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">لا يمكن للمستخدم المصادقة لأن الخيار المحدد غير متوافق مع إصدار Android الحالي.</string>
     <string name="finger_unknown">لا يمكن تحديد ما إذا كان يمكن للمستخدم المصادقة.</string>
     <string name="use_gesture">استخدم الإيماءات</string>
-    <string name="gesture_block_site">موقع منع الإيماءات</string>
+    <string name="gesture_block_site">إيماءات الحظر على الموقع الحالي</string>
+    <string name="gesture_block_page">إيماءات الحظر على الصفحة الحالية</string>
+    <string name="gesture_block_list">القائمة السوداء للإيماءات</string>
     <string name="gesture_block_info_1">يمكنك تسجيل المواقع التي لا تستخدم الإيماءات.</string>
     <string name="gesture_block_info_2">ينطبق فقط على الإيماءات في وسط الشاشة.</string>
     <string name="gesture_block_info_3">لا ينطبق على الإيماءات على حواف الشاشة.</string>
-    <string name="enable_adblock">قم بتشغيل حظر الإعلانات</string>
-    <string name="disable_adblock">قم بإيقاف تشغيل منع الإعلانات</string>
-    <string name="adblock_enabled">تم تنشيط منع الإعلانات.</string>
-    <string name="adblock_disabled">تم تعطيل منع الإعلانات.</string>
     <string name="down_service">خدمة التنزيل</string>
     <string name="service_exit">إنهاء الخدمة</string>
     <string name="auto_comp">الإكمال التلقائي</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">هذا لأن هذا هو الحجم المتوقع للملف ، وليس الحجم الفعلي للملف.</string>
     <string name="size_guide_3">بالنسبة لبعض الملفات ، يمكن استخدام المزيد من البيانات للحصول على الحجم الفعلي للملف.</string>
     <string name="size_guide_4">يعتمد ذلك على نوع الملف الذي تريد تنزيله.</string>
-    <string name="size_guide_5">لذلك ستمنحك بعض الملفات الحجم المقدر بدلاً من الحجم الفعلي أثناء التنزيل.</string>
+    <string name="size_guide_5">لتجنب الاستخدام غير الضروري للبيانات ، توفر بعض الملفات حجمًا تقديريًا بدلاً من حجمها الفعلي أثناء التنزيل.</string>
     <string name="size_guide_6">لا يوجد فرق في نتائج التنزيل.</string>
     <string name="torrent_down">تنزيل التورنت</string>
 </resources>

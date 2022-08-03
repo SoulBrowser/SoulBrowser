@@ -52,7 +52,9 @@
     <string name="translate">번역</string>
     <string name="translator">번역기</string>
     <string name="trans_auto">자동 번역</string>
-    <string name="trans_except">번역 예외 사이트</string>
+    <string name="trans_block_site">현재 사이트에서 자동 번역 차단</string>
+    <string name="trans_block_page">현재 페이지에서 자동 번역 차단</string>
+    <string name="trans_except">자동 번역 차단 목록</string>
     <string name="trans_except_info">자동 번역을 사용하지 않는 사이트를 등록할 수 있습니다.</string>
     <string name="google_trans">Google 번역</string>
     <string name="find_word">페이지에서 찾기</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">홈 화면에 TV 캐스트 바로가기 버튼을 만듭니다.</string>
     <string name="list_menu">메뉴</string>
     <string name="ads_white">광고 허용 목록</string>
+    <string name="ads_allow_site">현재 사이트에서 광고 허용</string>
+    <string name="ads_allow_page">현재 페이지에서 광고 허용</string>
     <string name="pop_white">팝업 허용 목록</string>
     <string name="pop_allow">팝업 허용</string>
-    <string name="pop_allow_site">현재 사이트에서 허용</string>
-    <string name="pop_allow_page">현재 페이지에서 허용</string>
-    <string name="pop_confirm_1">팝업을 허용 하시겠습니까?</string>
-    <string name="pop_confirm_2">위험한 광고에 노출 될 수 있습니다.</string>
-    <string name="pop_allowed">팝업이 허용되었습니다.</string>
+    <string name="pop_allow_site">현재 사이트에서 팝업 허용</string>
+    <string name="pop_allow_page">현재 페이지에서 팝업 허용</string>
     <string name="image_list">이미지 목록</string>
     <string name="image_cast_guide_1">이미지가 있는 사이트를 방문합니다.</string>
     <string name="image_cast_guide_2">\'이미지만 보기\'나 \'이미지 모두 저장\'을 선택합니다.</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">사이트에서 쿠키를 저장하거나 읽도록 허용합니다.</string>
     <string name="accept_cookie_info_2">쿠키를 허용하지 않으면 일부 사이트가 정상 동작하지 않을 수 있습니다.</string>
     <string name="third_cookie">타사 쿠키</string>
+    <string name="js_title">자바스크립트</string>
     <string name="java_script">자바스크립트 사용 (권장)</string>
     <string name="java_script_info">자바스크립트를 비활성화하면 브라우저의 일부 기능이 동작하지 않게 됩니다.</string>
-    <string name="enable_js">자바스크립트 켜기</string>
-    <string name="disable_js">자바스크립트 끄기</string>
-    <string name="js_enabled">자바스크립트가 활성화되었습니다.</string>
-    <string name="js_disabled">자바스크립트가 비활성화되었습니다.</string>
     <string name="icon_edit_guide">2. 아이콘을 클릭해서 변경할 수 있습니다.</string>
     <string name="long_edit_guide">하단바의 아이콘을 길게 눌렀을 때 사용할 기능을 설정할 수 있습니다.</string>
     <string name="swipe_edit_guide">하단바의 아이콘을 위로 스와이프할 때 사용할 기능을 설정할 수 있습니다.</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">글자 확대</string>
     <string name="zoom_icon">확대 버튼</string>
     <string name="zoom_size">확대 크기</string>
+    <string name="js_block_site">현재 사이트에서 자바스크립트 차단</string>
+    <string name="js_block_page">현재 페이지에서 자바스크립트 차단</string>
     <string name="js_black">자바스크립트 차단 목록</string>
     <string name="js_black_info">자바스크립트를 차단하는 사이트를 등록할 수 있습니다.</string>
     <string name="theme_web">브라우저</string>
@@ -780,7 +780,7 @@
     <string name="video_player">플레이어</string>
     <string name="security">보안</string>
     <string name="keyboard_secure">키보드 보안</string>
-    <string name="keyboard_secure_info_1">키보드로 검색바에 입력한 내용을 저장하지 않습니다.</string>
+    <string name="keyboard_secure_info_1">키보드로 입력한 내용을 저장하지 않습니다.</string>
     <string name="keyboard_secure_info_2">일부 키보드는 지원되지 않을 수 있습니다.</string>
     <string name="noti_invalid">유효하지 않음</string>
     <string name="original_size">원래 크기</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">지정된 옵션이 현재 Android 버전과 호환되지 않기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unknown">사용자가 인증할 수 있는지 여부를 확인할 수 없습니다.</string>
     <string name="use_gesture">제스처 사용</string>
-    <string name="gesture_block_site">제스처 차단 사이트</string>
+    <string name="gesture_block_site">현재 사이트에서 제스처 차단</string>
+    <string name="gesture_block_page">현재 페이지에서 제스처 차단</string>
+    <string name="gesture_block_list">제스처 차단 목록</string>
     <string name="gesture_block_info_1">제스처를 사용하지 않는 사이트를 등록할 수 있습니다.</string>
     <string name="gesture_block_info_2">화면 중앙의 제스처에만 적용됩니다.</string>
     <string name="gesture_block_info_3">화면 가장자리의 제스처에는 적용되지 않습니다.</string>
-    <string name="enable_adblock">광고 차단 켜기</string>
-    <string name="disable_adblock">광고 차단 끄기</string>
-    <string name="adblock_enabled">광고 차단이 활성화되었습니다.</string>
-    <string name="adblock_disabled">광고 차단이 비활성화되었습니다.</string>
     <string name="down_service">다운로드 서비스</string>
     <string name="service_exit">서비스 종료</string>
     <string name="auto_comp">자동 완성</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">이것은 파일의 실제 크기가 아니라 파일의 예상 크기이기 때문입니다.</string>
     <string name="size_guide_3">일부 파일의 경우 파일의 실제 크기를 가져오는 과정에서 더 많은 데이터가 사용될 수 있습니다.</string>
     <string name="size_guide_4">다운로드하려는 파일의 종류에 따라 다릅니다.</string>
-    <string name="size_guide_5">따라서 일부 파일은 다운로드하는 동안 실제 크기 대신 예상 크기를 제공합니다.</string>
+    <string name="size_guide_5">불필요한 데이터 사용을 방지하기 위해, 일부 파일은 다운로드하는 동안 실제 크기 대신 예상 크기를 제공합니다.</string>
     <string name="size_guide_6">다운로드 결과에는 차이가 없습니다.</string>
     <string name="torrent_down">토렌트 다운로드</string>
 </resources>

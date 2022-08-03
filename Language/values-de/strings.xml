@@ -52,7 +52,9 @@
     <string name="translate">Übersetzen</string>
     <string name="translator">Übersetzungsdienst</string>
     <string name="trans_auto">Automatische Übersetzung</string>
-    <string name="trans_except">Ausnahme für Seiten</string>
+    <string name="trans_block_site">Automatische Übersetzungen auf der aktuellen Seite blockieren</string>
+    <string name="trans_block_page">Automatische Übersetzungen auf der aktuellen Adresse blockieren</string>
+    <string name="trans_except">Schwarze Liste für automatische Übersetzungen</string>
     <string name="trans_except_info">Sie können Websites registrieren, die keine automatische Übersetzung verwenden.</string>
     <string name="google_trans">Google Übersetzer</string>
     <string name="find_word">Auf Seite finden</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">TV-Anzeige-Verknüpfungs-Schaltfläche auf dem Startbildschirm erstellen.</string>
     <string name="list_menu">Menü</string>
     <string name="ads_white">Whitelist für Werbung</string>
+    <string name="ads_allow_site">Anzeigen auf aktueller Seite zulassen</string>
+    <string name="ads_allow_page">Anzeigen auf aktueller Adresse zulassen</string>
     <string name="pop_white">Popup whitelist</string>
     <string name="pop_allow">Popup zulassen</string>
-    <string name="pop_allow_site">Auf aktueller Domain zulassen</string>
-    <string name="pop_allow_page">Auf aktueller Seite zulassen</string>
-    <string name="pop_confirm_1">Möchten Sie Popup zulassen?</string>
-    <string name="pop_confirm_2">Sie sind möglicherweise gefährlicher Werbung ausgesetzt.</string>
-    <string name="pop_allowed">Popups waren erlaubt.</string>
+    <string name="pop_allow_site">Popup auf aktueller Seite zulassen</string>
+    <string name="pop_allow_page">Popup auf aktueller Adresse zulassen</string>
     <string name="image_list">Bildliste</string>
     <string name="image_cast_guide_1">Besuchen Sie die Website des Bildes.</string>
     <string name="image_cast_guide_2">Wähle \'Nur Bilder anzeigen\' oder \'Alle Bilder speichern\'.</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">Ermöglicht der Seite das Speichern oder Lesen von Cookies.</string>
     <string name="accept_cookie_info_2">Einige Webseiten funktionieren möglicherweise nicht ordnungsgemäß, wenn Sie keine Cookies akzeptieren.</string>
     <string name="third_cookie">Cookies von Drittanbietern</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">Verwenden von JavaScript (empfohlen)</string>
     <string name="java_script_info">Einige Browserfunktionen funktionieren nicht, wenn JavaScript deaktiviert ist.</string>
-    <string name="enable_js">JavaScript aktivieren</string>
-    <string name="disable_js">JavaScript deaktivieren</string>
-    <string name="js_enabled">JavaScript ist aktiviert.</string>
-    <string name="js_disabled">JavaScript ist deaktiviert.</string>
     <string name="icon_edit_guide">2. Sie können es ändern, indem Sie auf das Symbol klicken.</string>
     <string name="long_edit_guide">Sie können die zu verwendende Funktion einstellen, wenn Sie das Symbol in der unteren Leiste gedrückt halten.</string>
     <string name="swipe_edit_guide">Sie können die Funktion festlegen, die beim Wischen des Symbols in der unteren Leiste verwendet werden soll.</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">Text vergrößern</string>
     <string name="zoom_icon">Schaltfläche zum Vergrößern</string>
     <string name="zoom_size">Vergrößerte Ansicht</string>
+    <string name="js_block_site">Blockieren Sie JavaScript auf der aktuellen Seite</string>
+    <string name="js_block_page">Blockieren Sie JavaScript von der aktuellen Adresse</string>
     <string name="js_black">JavaScript Blacklist</string>
     <string name="js_black_info">Sie können Websites registrieren, die JavaScript blockieren.</string>
     <string name="theme_web">Browser</string>
@@ -780,7 +780,7 @@
     <string name="video_player">Video-Player</string>
     <string name="security">Sicherheit</string>
     <string name="keyboard_secure">Tastatursicherheit</string>
-    <string name="keyboard_secure_info_1">Es wird nicht gespeichert, was Sie mit der Tastatur in die Suchleiste eingeben.</string>
+    <string name="keyboard_secure_info_1">Es speichert nicht, was Sie auf der Tastatur eingeben.</string>
     <string name="keyboard_secure_info_2">Einige Tastaturen werden möglicherweise nicht unterstützt.</string>
     <string name="noti_invalid">Ungültig</string>
     <string name="original_size">Originalgröße</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">Der Benutzer kann sich nicht authentifizieren, da die angegebenen Optionen nicht mit der aktuellen Android-Version kompatibel sind.</string>
     <string name="finger_unknown">Es kann nicht festgestellt werden, ob sich der Benutzer authentifizieren kann.</string>
     <string name="use_gesture">Verwenden Sie Gesten</string>
-    <string name="gesture_block_site">Ausnahmen für Gesten</string>
+    <string name="gesture_block_site">Gesten auf der aktuellen Seite blockieren</string>
+    <string name="gesture_block_page">Gesten von der aktuellen Adresse blockieren</string>
+    <string name="gesture_block_list">Schwarze Liste für Gesten</string>
     <string name="gesture_block_info_1">Sie können Websites registrieren, die keine Gesten verwenden.</string>
     <string name="gesture_block_info_2">Gilt nur für Gesten in der Mitte des Bildschirms.</string>
     <string name="gesture_block_info_3">Dies gilt nicht für Gesten an den Bildschirmrändern.</string>
-    <string name="enable_adblock">Werbeblocker aktivieren</string>
-    <string name="disable_adblock">Werbeblocker deaktivieren</string>
-    <string name="adblock_enabled">Der Anzeigenblocker ist aktiviert.</string>
-    <string name="adblock_disabled">Der Werbeblocker ist deaktiviert.</string>
     <string name="down_service">Download-Dienst</string>
     <string name="service_exit">Dienstbeendigung</string>
     <string name="auto_comp">Automatische Vervollständigung</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">Dies liegt daran, dass dies die erwartete Größe der Datei ist, nicht die tatsächliche Größe der Datei.</string>
     <string name="size_guide_3">Bei einigen Dateien werden möglicherweise mehr Daten verwendet, um die tatsächliche Größe der Datei zu ermitteln.</string>
     <string name="size_guide_4">Es hängt davon ab, welche Art von Datei Sie herunterladen möchten.</string>
-    <string name="size_guide_5">Daher geben einige Dateien beim Herunterladen die geschätzte Größe anstelle der tatsächlichen Größe an.</string>
+    <string name="size_guide_5">Um unnötigen Datenverbrauch zu vermeiden, geben einige Dateien beim Herunterladen eine geschätzte Größe anstelle ihrer tatsächlichen Größe an.</string>
     <string name="size_guide_6">Es gibt keinen Unterschied in den Download-Ergebnissen.</string>
     <string name="torrent_down">Torrent-Download</string>
 </resources>

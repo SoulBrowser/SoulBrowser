@@ -52,7 +52,9 @@
     <string name="translate">Translate</string>
     <string name="translator">Translation engine</string>
     <string name="trans_auto">Automatic translation</string>
-    <string name="trans_except">Exception site</string>
+    <string name="trans_block_site">Block automatic translations on the current site</string>
+    <string name="trans_block_page">Block automatic translations on the current page</string>
+    <string name="trans_except">Automatic translation blacklist</string>
     <string name="trans_except_info">You can register sites that do not use automatic translation.</string>
     <string name="google_trans">Google Translate</string>
     <string name="find_word">Find in page</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">Create a TV cast shortcut button on the home screen.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Ad whitelist</string>
+    <string name="ads_allow_site">Allow ads on current site</string>
+    <string name="ads_allow_page">Allow ads on current page</string>
     <string name="pop_white">Popup whitelist</string>
     <string name="pop_allow">Allow popup</string>
-    <string name="pop_allow_site">Allow on current site</string>
-    <string name="pop_allow_page">Allow on current page</string>
-    <string name="pop_confirm_1">Do you want to allow popup?</string>
-    <string name="pop_confirm_2">You may be exposed to dangerous advertisements.</string>
-    <string name="pop_allowed">Popups were allowed.</string>
+    <string name="pop_allow_site">Allow popup on current site</string>
+    <string name="pop_allow_page">Allow popup on current page</string>
     <string name="image_list">Image list</string>
     <string name="image_cast_guide_1">Visit the site with the image.</string>
     <string name="image_cast_guide_2">Select \'View only images\' or \'Save all images\'.</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">Allows the site to store or read cookies.</string>
     <string name="accept_cookie_info_2">Some sites may not function properly if you do not accept cookies.</string>
     <string name="third_cookie">Third party cookies</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">Using JavaScript (Recommended)</string>
     <string name="java_script_info">Some browser features will not work if JavaScript is disabled.</string>
-    <string name="enable_js">Enable JavaScript</string>
-    <string name="disable_js">Disable JavaScript</string>
-    <string name="js_enabled">JavaScript is enabled.</string>
-    <string name="js_disabled">JavaScript is disabled.</string>
     <string name="icon_edit_guide">2. You can change it by clicking the icon.</string>
     <string name="long_edit_guide">You can set the function to use when you press and hold the icon on the bottom bar.</string>
     <string name="swipe_edit_guide">You can set the function to use when swiping up the icon on the bottom bar.</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">Text zoom in</string>
     <string name="zoom_icon">Zoom in button</string>
     <string name="zoom_size">Enlarged size</string>
+    <string name="js_block_site">Block JavaScript on the current site</string>
+    <string name="js_block_page">Block JavaScript on the current page</string>
     <string name="js_black">JavaScript blacklist</string>
     <string name="js_black_info">You can register sites that block JavaScript.</string>
     <string name="theme_web">Browser</string>
@@ -780,7 +780,7 @@
     <string name="video_player">Player</string>
     <string name="security">Security</string>
     <string name="keyboard_secure">Keyboard security</string>
-    <string name="keyboard_secure_info_1">It does not save what you type in the search bar with the keyboard.</string>
+    <string name="keyboard_secure_info_1">It does not save what you type on the keyboard.</string>
     <string name="keyboard_secure_info_2">Some keyboards may not be supported.</string>
     <string name="noti_invalid">Invalid</string>
     <string name="original_size">Original size</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">The user can\'t authenticate because the specified options are incompatible with the current Android version.</string>
     <string name="finger_unknown">Unable to determine whether the user can authenticate.</string>
     <string name="use_gesture">Use gestures</string>
-    <string name="gesture_block_site">Gesture blocking site</string>
+    <string name="gesture_block_site">Block gestures on the current site</string>
+    <string name="gesture_block_page">Block gestures on the current page</string>
+    <string name="gesture_block_list">Gesture blacklist</string>
     <string name="gesture_block_info_1">You can register sites that do not use gestures.</string>
     <string name="gesture_block_info_2">Applies only to gestures in the center of the screen.</string>
     <string name="gesture_block_info_3">It does not apply to gestures at the edges of the screen.</string>
-    <string name="enable_adblock">Ad blocker on</string>
-    <string name="disable_adblock">Ad blocker off</string>
-    <string name="adblock_enabled">Ad blocker is enabled.</string>
-    <string name="adblock_disabled">Ad blocker is disabled.</string>
     <string name="down_service">Download service</string>
     <string name="service_exit">Service termination</string>
     <string name="auto_comp">Auto complete</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">This is because this is the estimated size of the file, not the actual size of the file.</string>
     <string name="size_guide_3">For some files, more data may be used to get the actual size of the file.</string>
     <string name="size_guide_4">It depends on what kind of file you want to download.</string>
-    <string name="size_guide_5">So some files will give you estimated size instead of actual size while downloading.</string>
+    <string name="size_guide_5">To avoid unnecessary data usage, some files provide estimated size instead of actual size during download.</string>
     <string name="size_guide_6">There is no difference in the download results.</string>
     <string name="torrent_down">Torrent download</string>
 </resources>

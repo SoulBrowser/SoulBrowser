@@ -52,7 +52,9 @@
     <string name="translate">Переклад</string>
     <string name="translator">Механізм перекладу</string>
     <string name="trans_auto">Автоматичний переклад</string>
-    <string name="trans_except">Сайт винятків</string>
+    <string name="trans_block_site">Заблокувати автоматичний переклад на поточному сайті</string>
+    <string name="trans_block_page">Заблокувати автоматичний переклад на поточній сторінці</string>
+    <string name="trans_except">Чорний список автоматичного перекладу</string>
     <string name="trans_except_info">Ви можете зареєструвати сайти, які не використовують автоматичний переклад.</string>
     <string name="google_trans">Google Перекладач</string>
     <string name="find_word">Знайти на сторінці</string>
@@ -420,13 +422,12 @@
     <string name="cast_short_info">Створіть ярлик трансляції на головному екрані.</string>
     <string name="list_menu">Меню</string>
     <string name="ads_white">Білий список реклами</string>
+    <string name="ads_allow_site">Дозволити рекламу на поточному сайті</string>
+    <string name="ads_allow_page">Дозволити рекламу на поточній сторінці</string>
     <string name="pop_white">Білий список спливаючих вікон</string>
     <string name="pop_allow">Дозволити спливаюче вікно</string>
-    <string name="pop_allow_site">Дозволити на поточному сайті</string>
-    <string name="pop_allow_page">Дозволити на поточній сторінці</string>
-    <string name="pop_confirm_1">Ви хочете дозволити спливаюче вікно?</string>
-    <string name="pop_confirm_2">Ви можете наштовхнутися на небезпечну рекламу.</string>
-    <string name="pop_allowed">Спливаючі вікна дозволялися.</string>
+    <string name="pop_allow_site">Дозволити спливаючі вікна на поточному сайті</string>
+    <string name="pop_allow_page">Дозволити спливаюче вікно на поточній сторінці</string>
     <string name="image_list">Список зображень</string>
     <string name="image_cast_guide_1">Завітайте на сайт із зображенням.</string>
     <string name="image_cast_guide_2">Виберіть \'Перегляд лише зображень\' або \'Зберегти всі зображення\'.</string>
@@ -611,12 +612,9 @@
     <string name="accept_cookie_info_1">Дозволяє сайту зберігати чи читати файли cookie.</string>
     <string name="accept_cookie_info_2">Деякі сайти можуть не працювати належним чином, якщо Ви не приймаєте файли cookie.</string>
     <string name="third_cookie">Сторонні файли cookie</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">Використовувати JavaScript (Рекомендується)</string>
     <string name="java_script_info">Деякі функції браузера не працюватимуть, якщо JavaScript вимкнено.</string>
-    <string name="enable_js">Увімкнути JavaScript</string>
-    <string name="disable_js">Вимкнути JavaScript</string>
-    <string name="js_enabled">JavaScript увімкнено.</string>
-    <string name="js_disabled">JavaScript вимкнено.</string>
     <string name="icon_edit_guide">2. Ви можете змінити його, натиснувши значок.</string>
     <string name="long_edit_guide">Ви можете встановити функцію, яку потрібно використовувати, натискаючи та утримуючи піктограму на нижній панелі.</string>
     <string name="swipe_edit_guide">Ви можете встановити функцію, яка буде використовуватись під час розгортання значка на нижній панелі.</string>
@@ -697,6 +695,8 @@
     <string name="text_zoom">Збільшити текст</string>
     <string name="zoom_icon">Кнопка збільшення</string>
     <string name="zoom_size">Збільшений розмір</string>
+    <string name="js_block_site">Заблокувати JavaScript на поточному сайті</string>
+    <string name="js_block_page">Заблокувати JavaScript на поточній сторінці</string>
     <string name="js_black">Чорний список JavaScript</string>
     <string name="js_black_info">Ви можете зареєструвати сайти, на яких JavaScript блокуватиметься.</string>
     <string name="theme_web">Браузер</string>
@@ -780,7 +780,7 @@
     <string name="video_player">Програвач</string>
     <string name="security">Безпека</string>
     <string name="keyboard_secure">Безпека клавіатури</string>
-    <string name="keyboard_secure_info_1">Він не зберігає те, що ви вводите в рядку пошуку за допомогою клавіатури.</string>
+    <string name="keyboard_secure_info_1">Він не зберігає те, що ви вводите на клавіатурі.</string>
     <string name="keyboard_secure_info_2">Деякі клавіатури можуть не підтримуватися.</string>
     <string name="noti_invalid">Недійсний</string>
     <string name="original_size">Оригінальний розмір</string>
@@ -793,14 +793,12 @@
     <string name="finger_unsupported">Користувач не може автентифікуватися, оскільки вказані параметри несумісні з поточною версією Android.</string>
     <string name="finger_unknown">Неможливо визначити, чи може користувач пройти автентифікацію.</string>
     <string name="use_gesture">Використовуйте жести</string>
-    <string name="gesture_block_site">Сайт, що блокує жести</string>
+    <string name="gesture_block_site">Блокувати жести на поточному сайті</string>
+    <string name="gesture_block_page">Блокувати жести на поточній сторінці</string>
+    <string name="gesture_block_list">Чорний список жестів</string>
     <string name="gesture_block_info_1">Ви можете зареєструвати сайти, які не використовують жести.</string>
     <string name="gesture_block_info_2">Застосовується лише до жестів у центрі екрана.</string>
     <string name="gesture_block_info_3">Це не стосується жестів по краях екрана.</string>
-    <string name="enable_adblock">Блокування реклами увімкнено</string>
-    <string name="disable_adblock">Блокування реклами вимкнено</string>
-    <string name="adblock_enabled">Блокування реклами ввімкнено.</string>
-    <string name="adblock_disabled">Блокування реклами вимкнено.</string>
     <string name="down_service">Сервіс завантаження</string>
     <string name="service_exit">Припинення обслуговування</string>
     <string name="auto_comp">Автозаповнення</string>
@@ -900,7 +898,7 @@
     <string name="size_guide_2">Це тому, що це очікуваний розмір файлу, а не його фактичний розмір.</string>
     <string name="size_guide_3">Для деяких файлів може використовуватися більше даних, щоб отримати фактичний розмір файлу.</string>
     <string name="size_guide_4">Це залежить від типу файлу, який ви хочете завантажити.</string>
-    <string name="size_guide_5">Тому під час завантаження деякі файли вказуватимуть приблизний розмір замість фактичного.</string>
+    <string name="size_guide_5">Щоб уникнути непотрібного використання даних, деякі файли під час завантаження вказують приблизний розмір замість фактичного.</string>
     <string name="size_guide_6">Немає різниці в результатах завантаження.</string>
     <string name="torrent_down">Торрент завантаження</string>
 </resources>
