@@ -70,6 +70,9 @@ a|ruc|open_popup_mobileweb
 b|rue|//an.yandex.ru/system/context.js
 b|rue|amp-ad-verifying-keyset.json
 b|ru=|https://cdn.adsafeprotected.com/iasPET.1.js
+b|rue|.js|ruc|/amp-ad-
+b|rue|.js|ruc|/amp-sticky-ad-
+b|rue|.js|ruc|/amp-auto-ads-
 //eg
 yahoo.com##div[class*="pencil-ad"],div[class="caas-da"],div[id*="ad_wp"],div[id*="pencilAd"],li[class*="native-ad"],li[class*="stream-ad"],li[class*="stream-sm-ad"]
 reddit.com##a[rel="nofollow"],a[rel="noopener"],a[rel="sponsored"],[class^="xPromo"]
