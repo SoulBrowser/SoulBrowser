@@ -56,9 +56,9 @@ b|vhe|canyoublockit.com|ruc|interstitial-ads
 b|vhe|canyoublockit.com|rue|invoke.js
 b|vhe|canyoublockit.com|rue|.mp4|rh=|cdn.cloudfrale.com
 a|vhe|shrib.com
-b|vh=|ham|rhe|tsyndicate.com
-b|vh=|izle|rhe|track.adform.net
-b|vh=|izle|rue|.mp4|rhc|cdn
+b|vh=|sb_ham|rhe|tsyndicate.com
+b|vh=|sb_izle|rhe|track.adform.net
+b|vh=|sb_izle|rue|.mp4|rhc|cdn
 a|vhe|4kjav.co|rh=|pagead2.googlesyndication.com
 a|vhc|daum|rh=|display.ad.daum.net
 a|vu=|https://noonoo.tv/|rus|https://noonoo-images.studiouniversal.net/banner/
