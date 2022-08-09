@@ -45,20 +45,21 @@ b|vhc|9anime|rhe|prownl.com
 b|vhc|9anime|rhe|roujaufu.net
 b|vhc|9anime|rhe|seeptauw.net
 b|vhc|9anime|rhe|webpinp.com
-b|vhe|adblock-tester.com|ruc|ads
-b|vhe|adblock-tester.com|ruc|advertis
-b|vhe|adblock-tester.com|ruc|sentry
-b|vhe|checkadblock.ru|ruc|ads
-b|vhe|checkadblock.ru|ruc|advertis
-b|vhe|checkadblock.ru|ruc|sentry
+b|vhe|adblock-tester.com,checkadblock.ru|ruc|ads
+b|vhe|adblock-tester.com,checkadblock.ru|ruc|advertis
+b|vhe|adblock-tester.com,checkadblock.ru|ruc|analytics
+b|vhe|adblock-tester.com,checkadblock.ru|ruc|bugsnag
+b|vhe|adblock-tester.com,checkadblock.ru|ruc|hotjar
+b|vhe|adblock-tester.com,checkadblock.ru|ruc|sentry
+b|vhe|adblock-tester.com,checkadblock.ru|ruc|yandex
 b|vhe|canyoublockit.com|rhe|passiveinitialclass.com
 b|vhe|canyoublockit.com|ruc|interstitial-ads
 b|vhe|canyoublockit.com|rue|invoke.js
 b|vhe|canyoublockit.com|rue|.mp4|rh=|cdn.cloudfrale.com
 a|vhe|shrib.com
-b|vh=|sb_ham|rhe|tsyndicate.com
-b|vh=|sb_izle|rhe|track.adform.net
-b|vh=|sb_izle|rue|.mp4|rhc|cdn
+b|vh=|dft_ham|rhe|tsyndicate.com
+b|vh=|dft_izle|rhe|track.adform.net
+b|vh=|dft_izle|rue|.mp4|rhc|cdn
 a|vhe|4kjav.co|rh=|pagead2.googlesyndication.com
 a|vhc|daum|rh=|display.ad.daum.net
 a|vu=|https://noonoo.tv/|rus|https://noonoo-images.studiouniversal.net/banner/
@@ -73,6 +74,13 @@ b|ru=|https://cdn.adsafeprotected.com/iasPET.1.js
 b|rue|.js|ruc|/amp-ad-
 b|rue|.js|ruc|/amp-sticky-ad-
 b|rue|.js|ruc|/amp-auto-ads-
+//vg
+vh=|dft_you|ytm-companion-ad-renderer,ytm-promoted-sparkles-web-renderer
+vhc|9anime|iframe[class*="eww"],div[style*="Player.png"],iframe[class*="padPreload"],script[crossorigin*="anonymous"],script[data-cfasync*="false"],script[src*="adsco.re"],script[src*="invoke.js"],script[src*="lolsefti.com"],script[src*="premiumvertising.com"],script[src*="webpinp.com"]
+//vk
+vhs|manatoki,newtoki|div[class*="id_bbn"],div[class*="banner"]
+vhs|marumaru|div[class*="banner"]
+vh=|dft_yap|a[target="_blank"]
 //eg
 yahoo.com##div[class*="pencil-ad"],div[class="caas-da"],div[id*="ad_wp"],div[id*="pencilAd"],li[class*="native-ad"],li[class*="stream-ad"],li[class*="stream-sm-ad"]
 reddit.com##a[rel="nofollow"],a[rel="noopener"],a[rel="sponsored"],[class^="xPromo"]
@@ -98,6 +106,7 @@ detik.com##div[class*="ads-slot"],div[class*="box-ads"]
 online.viks.tv##div[style*="display: block; height: 300px; width: 600px"]
 prostomob.com##div[class*="td-g-rec-id-content_top"]
 shrib.com##div[id*="tabula"]
+adblock-tester.com,checkadblock.ru##[type*="flash"]
 0629.com.ua##div[style*="height: 110px; display: block; width: 3"]
 xhamster.com##div[class*="wio-"],div[class*="promo-banner"],div[class*="spot-container"],div[class*="banner-container"],div[class*="replacement-template"],div[class*="big-thumb-block"],a[href*="api/external"]
 //ek
