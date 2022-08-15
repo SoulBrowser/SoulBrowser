@@ -325,6 +325,7 @@
     <string name="site_permission">Цей сайт вимагає наступного дозволу</string>
     <string name="permission_granted">Дозвіл надано</string>
     <string name="permission_denied">У дозволі відмовлено</string>
+    <string name="permission_removed">Дозвіл видалено</string>
     <string name="no_permission">Немає дозволу</string>
     <string name="ads_block">Блокатор реклами</string>
     <string name="ads_block_info">Принаймні один фільтр повинен бути активним, щоб блокувати рекламу.</string>
@@ -350,8 +351,8 @@
     <string name="block_images">Блокувати зображення</string>
     <string name="block_a_image">Заблокувати зображення</string>
     <string name="blocked_image">Заблоковані зображення</string>
-    <string name="block_confirm">Ви хочете заблокувати це?</string>
-    <string name="block_apply">Блок</string>
+    <string name="item_block_site">Заблокувати на поточному сайті</string>
+    <string name="item_block_page">Заблокувати на поточній сторінці</string>
     <string name="reset">Скидання налаштувань</string>
     <string name="reset_confirm">Скинути роботу?</string>
     <string name="check_network">Перевірте стан мережі.</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">Щоб уникнути непотрібного використання даних, деякі файли під час завантаження вказують приблизний розмір замість фактичного.</string>
     <string name="size_guide_6">Немає різниці в результатах завантаження.</string>
     <string name="torrent_down">Торрент завантаження</string>
+    <string name="crash_guide_1">Виникла проблема з відображенням веб-сторінки.</string>
+    <string name="crash_guide_2">Якщо ви часто бачите цей екран, перевірте наступні функції.</string>
+    <string name="block_amp">Вимкніть Google AMP</string>
+    <string name="block_amp_info">Вимкніть Google AMP у результатах пошуку Google.</string>
 </resources>

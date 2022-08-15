@@ -325,6 +325,7 @@
     <string name="site_permission">本網站要求以下權限</string>
     <string name="permission_granted">授予權限</string>
     <string name="permission_denied">沒有權限</string>
+    <string name="permission_removed">已刪除權限</string>
     <string name="no_permission">沒有權限</string>
     <string name="ads_block">廣告封鎖</string>
     <string name="ads_block_info">至少需要啟用一個過濾器才能封鎖廣告</string>
@@ -350,8 +351,8 @@
     <string name="block_images">禁用圖片</string>
     <string name="block_a_image">隱藏圖片</string>
     <string name="blocked_image">已隱藏的圖片</string>
-    <string name="block_confirm">您要封鎖它嗎？</string>
-    <string name="block_apply">封鎖</string>
+    <string name="item_block_site">在當前站點上阻止</string>
+    <string name="item_block_page">在當前頁面上阻止</string>
     <string name="reset">初始化</string>
     <string name="reset_confirm">你想重設您的工作嗎？</string>
     <string name="check_network">請檢查您的網路狀態</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">為避免不必要的數據使用，某些文件在下載期間提供估計大小而不是實際大小</string>
     <string name="size_guide_6">下載結果沒有區別</string>
     <string name="torrent_down">洪流下載</string>
+    <string name="crash_guide_1">顯示網頁時出現問題</string>
+    <string name="crash_guide_2">如果您經常看到此屏幕，請檢查以下功能</string>
+    <string name="block_amp">禁用谷歌 AMP</string>
+    <string name="block_amp_info">在 Google 搜索結果中禁用 Google AMP</string>
 </resources>

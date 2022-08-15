@@ -325,6 +325,7 @@
     <string name="site_permission">Этот сайт запрашивает следующее разрешения</string>
     <string name="permission_granted">Разрешения предоставлено</string>
     <string name="permission_denied">Доступ запрещен</string>
+    <string name="permission_removed">Разрешение удалено</string>
     <string name="no_permission">Нет разрешения</string>
     <string name="ads_block">Блокировщик рекламы</string>
     <string name="ads_block_info">Для блокировки рекламы должен быть активен хотя бы один фильтр.</string>
@@ -350,8 +351,8 @@
     <string name="block_images">Блокировать изображения</string>
     <string name="block_a_image">Заблокировать изображение</string>
     <string name="blocked_image">Заблокированные изображения</string>
-    <string name="block_confirm">Вы хотите его заблокировать?</string>
-    <string name="block_apply">Заблокировать</string>
+    <string name="item_block_site">Заблокировать на текущем сайте</string>
+    <string name="item_block_page">Заблокировать на текущей странице</string>
     <string name="reset">Сброс</string>
     <string name="reset_confirm">Вы хотите сбросить свою работу?</string>
     <string name="check_network">Проверьте состояние сети.</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">Чтобы избежать ненужного использования данных, некоторые файлы во время загрузки предоставляют приблизительный размер вместо фактического размера.</string>
     <string name="size_guide_6">Разницы в результатах загрузки нет.</string>
     <string name="torrent_down">Скачать торрент</string>
+    <string name="crash_guide_1">Возникла проблема с отображением веб-страницы.</string>
+    <string name="crash_guide_2">Если вы часто видите этот экран, проверьте следующие функции.</string>
+    <string name="block_amp">Отключить Google AMP</string>
+    <string name="block_amp_info">Отключите Google AMP в результатах поиска Google.</string>
 </resources>

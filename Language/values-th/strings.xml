@@ -325,6 +325,7 @@
     <string name="site_permission">เว็บไซต์นี้ขออนุญาตดังต่อไปนี้</string>
     <string name="permission_granted">สิทธิ์ที่ได้รับอนุญาต</string>
     <string name="permission_denied">ปฏิเสธการอนุญาต</string>
+    <string name="permission_removed">ลบสิทธิ์</string>
     <string name="no_permission">ไม่ได้รับอนุญาต</string>
     <string name="ads_block">บล็อกโฆษณา</string>
     <string name="ads_block_info">ต้องใช้ตัวกรองอย่างน้อยหนึ่งรายการเพื่อบล็อกโฆษณา</string>
@@ -350,8 +351,8 @@
     <string name="block_images">บล็อกภาพ</string>
     <string name="block_a_image">บล็อกรูปภาพ</string>
     <string name="blocked_image">รูปภาพที่ถูกบล็อก</string>
-    <string name="block_confirm">คุณต้องการบล็อกหรือไม่</string>
-    <string name="block_apply">บล็อก</string>
+    <string name="item_block_site">บล็อกบนเว็บไซต์ปัจจุบัน</string>
+    <string name="item_block_page">บล็อกในหน้าปัจจุบัน</string>
     <string name="reset">รีเซ็ต</string>
     <string name="reset_confirm">รีเซ็ตการทำงานหรือไม่</string>
     <string name="check_network">โปรดตรวจสอบสถานะเครือข่าย</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">เพื่อหลีกเลี่ยงการใช้ข้อมูลที่ไม่จำเป็น ไฟล์บางไฟล์จะให้ขนาดโดยประมาณแทนขนาดจริงระหว่างการดาวน์โหลด</string>
     <string name="size_guide_6">ไม่มีความแตกต่างในผลลัพธ์การดาวน์โหลด</string>
     <string name="torrent_down">ดาวน์โหลดทอร์เรนต์</string>
+    <string name="crash_guide_1">เกิดปัญหาในการแสดงหน้าเว็บ</string>
+    <string name="crash_guide_2">หากคุณเห็นหน้าจอนี้บ่อยๆ ให้ตรวจสอบคุณสมบัติต่อไปนี้</string>
+    <string name="block_amp">ปิดการใช้งาน Google AMP</string>
+    <string name="block_amp_info">ปิดใช้งาน Google AMP ในผลการค้นหาของ Google</string>
 </resources>

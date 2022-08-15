@@ -325,6 +325,7 @@
     <string name="site_permission">Ta strona wymaga następującego pozwolenia</string>
     <string name="permission_granted">Zezwolenie przyznane</string>
     <string name="permission_denied">Odmowa dostępu</string>
+    <string name="permission_removed">Uprawnienie zostało usunięte</string>
     <string name="no_permission">Brak uprawnień</string>
     <string name="ads_block">Blokowanie reklam</string>
     <string name="ads_block_info">Aby blokować reklamy, musi być aktywny co najmniej jeden filtr.</string>
@@ -350,8 +351,8 @@
     <string name="block_images">Blokuj obrazy</string>
     <string name="block_a_image">Zablokuj obraz</string>
     <string name="blocked_image">Zablokowane obrazy</string>
-    <string name="block_confirm">Chcesz to zablokować?</string>
-    <string name="block_apply">Blok</string>
+    <string name="item_block_site">Blokuj w bieżącej witrynie</string>
+    <string name="item_block_page">Blokuj na bieżącej stronie</string>
     <string name="reset">Resetuj</string>
     <string name="reset_confirm">Zresetować pracę?</string>
     <string name="check_network">Sprawdź status sieci.</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">Aby uniknąć niepotrzebnego wykorzystania danych, podczas pobierania niektóre pliki mają szacowany rozmiar zamiast rzeczywistego rozmiaru.</string>
     <string name="size_guide_6">Nie ma różnicy w wynikach pobierania.</string>
     <string name="torrent_down">Pobieranie torrenta</string>
+    <string name="crash_guide_1">Podczas wyświetlania strony wystąpił problem.</string>
+    <string name="crash_guide_2">Jeśli często widzisz ten ekran, sprawdź następujące funkcje.</string>
+    <string name="block_amp">Wyłącz Google AMP</string>
+    <string name="block_amp_info">Wyłącz Google AMP w wynikach wyszukiwania Google.</string>
 </resources>

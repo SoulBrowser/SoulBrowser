@@ -325,6 +325,7 @@
     <string name="site_permission">Acest site solicită permisiunea următoare</string>
     <string name="permission_granted">Permis acordat</string>
     <string name="permission_denied">Permisul refuzat</string>
+    <string name="permission_removed">Permisiunea eliminată</string>
     <string name="no_permission">Fără permisiune</string>
     <string name="ads_block">Blocator de anunțuri</string>
     <string name="ads_block_info">Cel puțin un filtru trebuie să fie activ pentru a bloca anunțurile.</string>
@@ -350,8 +351,8 @@
     <string name="block_images">Blocați imagini</string>
     <string name="block_a_image">Blocați imaginea</string>
     <string name="blocked_image">Imagini blocate</string>
-    <string name="block_confirm">Vrei să îl blochezi?</string>
-    <string name="block_apply">Bloc</string>
+    <string name="item_block_site">Blocați pe site-ul actual</string>
+    <string name="item_block_page">Blocați pe pagina curentă</string>
     <string name="reset">Resetare</string>
     <string name="reset_confirm">Resetare lucrare?</string>
     <string name="check_network">Vă rugăm să verificați starea rețelei.</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">Pentru a evita utilizarea inutilă a datelor, unele fișiere oferă o dimensiune estimată în loc de dimensiunea lor reală în timpul descărcării.</string>
     <string name="size_guide_6">Nu există nicio diferență în rezultatele de descărcare.</string>
     <string name="torrent_down">Descărcare torrent</string>
+    <string name="crash_guide_1">A apărut o problemă la afișarea paginii web.</string>
+    <string name="crash_guide_2">Dacă vedeți acest ecran frecvent, verificați următoarele caracteristici.</string>
+    <string name="block_amp">Dezactivați Google AMP</string>
+    <string name="block_amp_info">Dezactivați Google AMP în rezultatele căutării Google.</string>
 </resources>

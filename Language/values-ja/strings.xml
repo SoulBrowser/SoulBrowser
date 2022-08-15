@@ -325,6 +325,7 @@
     <string name="site_permission">このサイトは次の許可を要求します</string>
     <string name="permission_granted">権限された許可</string>
     <string name="permission_denied">アクセス拒否</string>
+    <string name="permission_removed">権限が削除されました</string>
     <string name="no_permission">権限なし</string>
     <string name="ads_block">広告ブロック</string>
     <string name="ads_block_info">広告をブロックするには、複数のフィルタが有効になっている必要があります。</string>
@@ -350,8 +351,8 @@
     <string name="block_images">ブロック画像</string>
     <string name="block_a_image">画像をブロック</string>
     <string name="blocked_image">ブロックされた画像に</string>
-    <string name="block_confirm">ブロックしますか？</string>
-    <string name="block_apply">ブロック</string>
+    <string name="item_block_site">現在のサイトでブロック</string>
+    <string name="item_block_page">現在のページからブロック</string>
     <string name="reset">初期化</string>
     <string name="reset_confirm">作業内容を初期化したいですか？</string>
     <string name="check_network">ネットワークの状態を確認してください。</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">不要なデータの使用を防ぐために、いくつかのファイルは、ダウンロード中に実際のサイズではなく予想サイズを提供します。</string>
     <string name="size_guide_6">ダウンロード結果に違いはありません。</string>
     <string name="torrent_down">Torrentダウンロード</string>
+    <string name="crash_guide_1">Webページの表示中に問題が発生しました。</string>
+    <string name="crash_guide_2">この画面がよく表示される場合は、次の機能を確認してください。</string>
+    <string name="block_amp">Google AMPを無効にする</string>
+    <string name="block_amp_info">Google 検索結果で Google AMP を無効にします。</string>
 </resources>

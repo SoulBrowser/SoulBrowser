@@ -325,6 +325,7 @@
     <string name="site_permission">Questo sito richiede la seguente autorizzazione</string>
     <string name="permission_granted">Permesso accordato</string>
     <string name="permission_denied">Permesso negato</string>
+    <string name="permission_removed">Autorizzazione rimossa</string>
     <string name="no_permission">Nessun permesso</string>
     <string name="ads_block">Blocco Ad</string>
     <string name="ads_block_info">Almeno un filtro deve essere attivo per bloccare gli annunci.</string>
@@ -350,8 +351,8 @@
     <string name="block_images">Blocca immagini</string>
     <string name="block_a_image">Blocca immagine</string>
     <string name="blocked_image">Immagini bloccate</string>
-    <string name="block_confirm">Vuoi bloccarlo?</string>
-    <string name="block_apply">Bloccare</string>
+    <string name="item_block_site">Blocca sul sito corrente</string>
+    <string name="item_block_page">Blocca nella pagina corrente</string>
     <string name="reset">Reset</string>
     <string name="reset_confirm">Vuoi ripristinare il tuo lavoro?</string>
     <string name="check_network">Controllare lo stato della rete.</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">Per evitare un utilizzo non necessario dei dati, alcuni file forniscono una dimensione stimata anziché la dimensione effettiva durante il download.</string>
     <string name="size_guide_6">Non vi è alcuna differenza nei risultati del download.</string>
     <string name="torrent_down">Scarica torrent</string>
+    <string name="crash_guide_1">Si è verificato un problema durante la visualizzazione della pagina web.</string>
+    <string name="crash_guide_2">Se vedi spesso questa schermata, controlla le seguenti funzioni.</string>
+    <string name="block_amp">Disattiva Google AMP</string>
+    <string name="block_amp_info">Disattiva Google AMP nei risultati di ricerca di Google.</string>
 </resources>

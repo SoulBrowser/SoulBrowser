@@ -325,6 +325,7 @@
     <string name="site_permission">Trang web này yêu cầu sự cho phép sau</string>
     <string name="permission_granted">Đã được cho phép</string>
     <string name="permission_denied">Quyền bị từ chối</string>
+    <string name="permission_removed">Quyền đã bị xóa</string>
     <string name="no_permission">Không cho phép</string>
     <string name="ads_block">Chặn quảng cáo</string>
     <string name="ads_block_info">Ít nhất một bộ lọc phải hoạt động để chặn quảng cáo.</string>
@@ -350,8 +351,8 @@
     <string name="block_images">Chặn hình ảnh</string>
     <string name="block_a_image">Chặn hình ảnh</string>
     <string name="blocked_image">Hình ảnh bị chặn</string>
-    <string name="block_confirm">Bạn có muốn chặn nó không?</string>
-    <string name="block_apply">Chặn</string>
+    <string name="item_block_site">Chặn trên trang web hiện tại</string>
+    <string name="item_block_page">Chặn trên trang hiện tại</string>
     <string name="reset">Đặt lại</string>
     <string name="reset_confirm">Bạn có muốn thiết lập lại công việc của bạn?</string>
     <string name="check_network">Vui lòng kiểm tra trạng thái mạng.</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">Để tránh sử dụng dữ liệu không cần thiết, một số tệp cung cấp kích thước ước tính thay vì kích thước thực của chúng trong quá trình tải xuống.</string>
     <string name="size_guide_6">Không có sự khác biệt trong kết quả tải xuống.</string>
     <string name="torrent_down">Tải xuống Torrent</string>
+    <string name="crash_guide_1">Đã xảy ra sự cố khi hiển thị trang web.</string>
+    <string name="crash_guide_2">Nếu bạn thấy màn hình này thường xuyên, hãy kiểm tra các tính năng sau.</string>
+    <string name="block_amp">Tắt Google AMP</string>
+    <string name="block_amp_info">Tắt Google AMP trong kết quả tìm kiếm của Google.</string>
 </resources>

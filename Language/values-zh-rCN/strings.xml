@@ -325,6 +325,7 @@
     <string name="site_permission">本网站要求以下许可</string>
     <string name="permission_granted">请授予权限</string>
     <string name="permission_denied">没有权限</string>
+    <string name="permission_removed">已删除权限</string>
     <string name="no_permission">没有权限</string>
     <string name="ads_block">广告拦截</string>
     <string name="ads_block_info">必须至少启用一个过滤器才能屏蔽广告</string>
@@ -350,8 +351,8 @@
     <string name="block_images">无图模式</string>
     <string name="block_a_image">屏蔽图像</string>
     <string name="blocked_image">屏蔽的图像</string>
-    <string name="block_confirm">你想屏蔽它吗？</string>
-    <string name="block_apply">屏蔽</string>
+    <string name="item_block_site">在当前站点上阻止</string>
+    <string name="item_block_page">在当前页面上阻止</string>
     <string name="reset">初始化</string>
     <string name="reset_confirm">你想重置你的工作吗？</string>
     <string name="check_network">请检查你的网络状态</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">为避免不必要的数据使用，某些文件在下载期间提供估计大小而不是实际大小</string>
     <string name="size_guide_6">下载结果没有区别</string>
     <string name="torrent_down">洪流下载</string>
+    <string name="crash_guide_1">显示网页时出现问题</string>
+    <string name="crash_guide_2">如果您经常看到此屏幕，请检查以下功能</string>
+    <string name="block_amp">禁用谷歌 AMP</string>
+    <string name="block_amp_info">在 Google 搜索结果中禁用 Google AMP</string>
 </resources>

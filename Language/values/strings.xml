@@ -325,6 +325,7 @@
     <string name="site_permission">This site requests the following permission</string>
     <string name="permission_granted">Permission granted</string>
     <string name="permission_denied">Permission denied</string>
+    <string name="permission_removed">Permission removed</string>
     <string name="no_permission">No permission</string>
     <string name="ads_block">Ad blocker</string>
     <string name="ads_block_info">At least one filter must be active to block ads.</string>
@@ -350,8 +351,8 @@
     <string name="block_images">Block images</string>
     <string name="block_a_image">Block image</string>
     <string name="blocked_image">Blocked images</string>
-    <string name="block_confirm">Do you want to block it?</string>
-    <string name="block_apply">Block</string>
+    <string name="item_block_site">Block on current site</string>
+    <string name="item_block_page">Block on current page</string>
     <string name="reset">Reset</string>
     <string name="reset_confirm">Reset work?</string>
     <string name="check_network">Please check the network status.</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">To avoid unnecessary data usage, some files provide estimated size instead of actual size during download.</string>
     <string name="size_guide_6">There is no difference in the download results.</string>
     <string name="torrent_down">Torrent download</string>
+    <string name="crash_guide_1">There was a problem displaying the webpage.</string>
+    <string name="crash_guide_2">If you see this screen often, check the following features.</string>
+    <string name="block_amp">Disable Google AMP</string>
+    <string name="block_amp_info">Disable Google AMP in Google search results.</string>
 </resources>

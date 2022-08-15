@@ -325,6 +325,7 @@
     <string name="site_permission">Bu site aşağıdaki izni istiyor</string>
     <string name="permission_granted">İzin verildi</string>
     <string name="permission_denied">İzin reddedildi</string>
+    <string name="permission_removed">İzin kaldırıldı</string>
     <string name="no_permission">İzin yok</string>
     <string name="ads_block">Reklam engelleme</string>
     <string name="ads_block_info">Reklamları engellemek için en az bir filtre etkin olmalıdır.</string>
@@ -350,8 +351,8 @@
     <string name="block_images">Resmi engelle</string>
     <string name="block_a_image">Resmi engelle</string>
     <string name="blocked_image">Engellenen resimler</string>
-    <string name="block_confirm">Engellemek istiyor musunuz?</string>
-    <string name="block_apply">Engelle</string>
+    <string name="item_block_site">Mevcut sitede engelle</string>
+    <string name="item_block_page">Geçerli sayfada engelle</string>
     <string name="reset">Sıfırla</string>
     <string name="reset_confirm">Geri alınsın mı?</string>
     <string name="check_network">Lütfen ağ durumunu kontrol edin.</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">Gereksiz veri kullanımını önlemek için, bazı dosyalar indirme sırasında gerçek boyutları yerine tahmini bir boyut sağlar.</string>
     <string name="size_guide_6">İndirme sonuçlarında hiçbir fark yoktur.</string>
     <string name="torrent_down">Torrent indirme</string>
+    <string name="crash_guide_1">Web sayfası görüntülenirken bir sorun oluştu.</string>
+    <string name="crash_guide_2">Bu ekranı sık görüyorsanız, aşağıdaki özellikleri kontrol edin.</string>
+    <string name="block_amp">Google AMP\'yi devre dışı bırak</string>
+    <string name="block_amp_info">Google arama sonuçlarında Google AMP\'yi devre dışı bırakın.</string>
 </resources>

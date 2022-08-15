@@ -325,6 +325,7 @@
     <string name="site_permission">يطلب هذا الموقع الأذونات التالية:</string>
     <string name="permission_granted">تم تأمين التصريح</string>
     <string name="permission_denied">طلب الاذن مرفوض</string>
+    <string name="permission_removed">تمت إزالة الإذن</string>
     <string name="no_permission">لا يوجد إذن</string>
     <string name="ads_block">إعلانات كتلة</string>
     <string name="ads_block_info">يجب أن يكون هناك عامل تصفية واحد على الأقل نشطًا لمنع الإعلانات.</string>
@@ -350,8 +351,8 @@
     <string name="block_images">حجب الصور</string>
     <string name="block_a_image">حجب الصور</string>
     <string name="blocked_image">الصورة المحظورة</string>
-    <string name="block_confirm">هل تريد منعه؟</string>
-    <string name="block_apply">منع</string>
+    <string name="item_block_site">منع في الموقع الحالي</string>
+    <string name="item_block_page">حظر في الصفحة الحالية</string>
     <string name="reset">إعادة تعيين</string>
     <string name="reset_confirm">هل ترغب في بدء عملك؟</string>
     <string name="check_network">يرجى التحقق من حالة الشبكة.</string>
@@ -901,4 +902,8 @@
     <string name="size_guide_5">لتجنب الاستخدام غير الضروري للبيانات ، توفر بعض الملفات حجمًا تقديريًا بدلاً من حجمها الفعلي أثناء التنزيل.</string>
     <string name="size_guide_6">لا يوجد فرق في نتائج التنزيل.</string>
     <string name="torrent_down">تنزيل التورنت</string>
+    <string name="crash_guide_1">كانت هناك مشكلة في عرض صفحة الويب.</string>
+    <string name="crash_guide_2">إذا كنت ترى هذه الشاشة بشكل متكرر ، فتحقق من الميزات التالية.</string>
+    <string name="block_amp">تعطيل Google AMP</string>
+    <string name="block_amp_info">تعطيل Google AMP في نتائج بحث Google.</string>
 </resources>
