@@ -904,6 +904,6 @@
     <string name="torrent_down">Descarga de torrent</string>
     <string name="crash_guide_1">Hubo un problema al mostrar la página web.</string>
     <string name="crash_guide_2">Si ve esta pantalla con frecuencia, verifique las siguientes funciones.</string>
-    <string name="block_amp">Desactivar AMP de Google</string>
+    <string name="block_amp">Desactivar Google AMP</string>
     <string name="block_amp_info">Deshabilite Google AMP en los resultados de búsqueda de Google.</string>
 </resources>

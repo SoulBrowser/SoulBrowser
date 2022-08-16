@@ -905,5 +905,5 @@
     <string name="crash_guide_1">Webページの表示中に問題が発生しました。</string>
     <string name="crash_guide_2">この画面がよく表示される場合は、次の機能を確認してください。</string>
     <string name="block_amp">Google AMPを無効にする</string>
-    <string name="block_amp_info">Google 検索結果で Google AMP を無効にします。</string>
+    <string name="block_amp_info">Google 検索結果で Google AMPを無効にします。</string>
 </resources>
