@@ -462,7 +462,6 @@
     <string name="history_info_limit">Los registros anteriores al período de tiempo se eliminan automáticamente.</string>
     <string name="history_info_none">Todo tu historial está guardado.\nDemasiados datos pueden ralentizar el rendimiento del navegador.</string>
     <string name="list">Lista</string>
-    <string name="page_no_image">No hay imágenes en esta página.</string>
     <string name="touch_lock_info">Pantalla de bloqueo para desbloquear el toque durante la reproducción de video.</string>
     <string name="touch_locked">Touch está bloqueado.</string>
     <string name="touch_unlocked">Touch está desbloqueado.</string>
@@ -520,6 +519,7 @@
     <string name="added">Agregado</string>
     <string name="changed">Cambiado</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Informar error</string>
     <string name="report_site">Informe del sitio</string>
     <string name="report_down">Proporcione la dirección del sitio donde no puede descargar el video.</string>
     <string name="report_dark">Proporcione la dirección del sitio que tiene problemas con el tema oscuro.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">Mantenga presionada la lista para cambiar al modo de edición.</string>
     <string name="sort_guide_2">Puede cambiar la posición arrastrando la flecha hacia la derecha.</string>
     <string name="add_book">Añadir al marcador</string>
-    <string name="add_quick">Añadir a pantalla principal</string>
-    <string name="add_homescreen">Añadir acceso directo</string>
+    <string name="add_quick">Añadir a la página de inicio de Soul</string>
+    <string name="add_home_1">Añadir a la pantalla principal</string>
+    <string name="add_home_2">Añadir a la pantalla de inicio del teléfono</string>
     <string name="set_homepage">Establecer como página de inicio</string>
+    <string name="soul_home">página de inicio de Soul</string>
     <string name="setted">Ha sido establecido.</string>
     <string name="no_down_video">No hay videos descargables.</string>
     <string name="trans_report">Informar errores de traducción</string>
@@ -897,10 +899,7 @@
     <string name="no_info">Sin información</string>
     <string name="size_guide_1">A veces, cuando descarga un archivo, el tamaño total del archivo sigue cambiando.</string>
     <string name="size_guide_2">Esto se debe a que este es el tamaño esperado del archivo, no el tamaño real del archivo.</string>
-    <string name="size_guide_3">Para algunos archivos, se pueden usar más datos para obtener el tamaño real del archivo.</string>
-    <string name="size_guide_4">Depende del tipo de archivo que quieras descargar.</string>
-    <string name="size_guide_5">Para evitar el uso innecesario de datos, algunos archivos proporcionan un tamaño estimado en lugar de su tamaño real durante la descarga.</string>
-    <string name="size_guide_6">No hay diferencia en los resultados de la descarga.</string>
+    <string name="size_guide_3">No hay diferencia en los resultados de la descarga.</string>
     <string name="torrent_down">Descarga de torrent</string>
     <string name="crash_guide_1">Hubo un problema al mostrar la página web.</string>
     <string name="crash_guide_2">Si ve esta pantalla con frecuencia, verifique las siguientes funciones.</string>

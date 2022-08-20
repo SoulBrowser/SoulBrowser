@@ -462,7 +462,6 @@
     <string name="history_info_limit">Rekordy starsze niż okres przechowywania są automatycznie usuwane.</string>
     <string name="history_info_none">Cała historia została zapisana.\nZbyt wiele danych może spowolnić działanie przeglądarki.</string>
     <string name="list">Lista</string>
-    <string name="page_no_image">Na tej stronie nie ma obrazów.</string>
     <string name="touch_lock_info">Ekran blokady do odblokowywania dotyku podczas odtwarzania wideo.</string>
     <string name="touch_locked">Dotyk jest zablokowany.</string>
     <string name="touch_unlocked">Dotyk jest odblokowany.</string>
@@ -520,6 +519,7 @@
     <string name="added">Dodano</string>
     <string name="changed">Zmieniono</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Zgłoś błąd</string>
     <string name="report_site">Zgłoś stronę</string>
     <string name="report_down">Podaj adres strony, z której nie można pobrać filmu.</string>
     <string name="report_dark">Podaj adres witryny, która ma problemy z ciemnym motywem.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">Naciśnij i przytrzymaj listę, aby przejść do trybu edycji.</string>
     <string name="sort_guide_2">Możesz zmienić pozycję, przeciągając strzałkę w prawo.</string>
     <string name="add_book">Dodaj do zakładek</string>
-    <string name="add_quick">Dodaj do skrótu</string>
-    <string name="add_homescreen">Dodaj do ekranu głównego</string>
+    <string name="add_quick">Dodaj do strony głównej Soul</string>
+    <string name="add_home_1">Dodaj do ekranu głównego</string>
+    <string name="add_home_2">Dodaj do ekranu głównego telefonu</string>
     <string name="set_homepage">Ustaw jako stronę główną</string>
+    <string name="soul_home">Strona główna Soul</string>
     <string name="setted">Ustawiono.</string>
     <string name="no_down_video">Brak filmów do pobrania.</string>
     <string name="trans_report">Zgłoś błędy w tłumaczeniu</string>
@@ -897,10 +899,7 @@
     <string name="no_info">Brak informacji</string>
     <string name="size_guide_1">Czasami podczas pobierania pliku zmienia się jego ogólny rozmiar.</string>
     <string name="size_guide_2">Dzieje się tak, ponieważ jest to oczekiwany rozmiar pliku, a nie rzeczywisty rozmiar pliku.</string>
-    <string name="size_guide_3">W przypadku niektórych plików do uzyskania rzeczywistego rozmiaru pliku można użyć większej ilości danych.</string>
-    <string name="size_guide_4">To zależy od rodzaju pliku, który chcesz pobrać.</string>
-    <string name="size_guide_5">Aby uniknąć niepotrzebnego wykorzystania danych, podczas pobierania niektóre pliki mają szacowany rozmiar zamiast rzeczywistego rozmiaru.</string>
-    <string name="size_guide_6">Nie ma różnicy w wynikach pobierania.</string>
+    <string name="size_guide_3">Nie ma różnicy w wynikach pobierania.</string>
     <string name="torrent_down">Pobieranie torrenta</string>
     <string name="crash_guide_1">Podczas wyświetlania strony wystąpił problem.</string>
     <string name="crash_guide_2">Jeśli często widzisz ten ekran, sprawdź następujące funkcje.</string>

@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Başlat düğmesine basarak, Soul Browser'ın\n%1$snı ve %2$sni kabul etmiş olursunuz.</string>
+    <string name="notice">Başlat düğmesine basarak, Soul Browser\'ın\n%1$snı ve %2$sni kabul etmiş olursunuz.</string>
     <string name="notice_tos">Hizmet Şartları</string>
     <string name="notice_privacy">Gizlilik Bildirimi</string>
     <string name="start">Başlat</string>
@@ -52,7 +52,9 @@
     <string name="translate">Çeviri</string>
     <string name="translator">Çeviri motoru</string>
     <string name="trans_auto">Otomatik çeviri</string>
-    <string name="trans_except">Site istisnası</string>
+    <string name="trans_block_site">Mevcut sitede otomatik çevirileri engelle</string>
+    <string name="trans_block_page">Mevcut sayfada otomatik çevirileri engelle</string>
+    <string name="trans_except">Otomatik çeviri kara listesi</string>
     <string name="trans_except_info">Otomatik çeviri kullanmayacak olan siteleri kaydedebilirsiniz.</string>
     <string name="google_trans">Google Çeviri</string>
     <string name="find_word">Sayfada bul</string>
@@ -175,10 +177,10 @@
     <string name="group_by">Gruplama ölçütü</string>
     <string name="folder_dir">Dizin</string>
     <string name="sub_dir">Alt Dizin</string>
-    <string name="not_used">Kullanılmasın</string>
+    <string name="not_used">Kullanılmadı</string>
     <string name="sort_by">Göre sırala</string>
     <string name="sort_name">Ad</string>
-    <string name="sort_data">Sekme şekli</string>
+    <string name="sort_data">Formatı</string>
     <string name="sort_ext">Uzantı</string>
     <string name="sort_time">Zaman</string>
     <string name="sort_size">Boyut</string>
@@ -207,7 +209,7 @@
     <string name="cookie_info">Web\'de gezinme sırasında oluşturulan bilgiler (ör. giriş bilgileri)</string>
     <string name="screen_rotate">Ekran döndürme</string>
     <string name="vol_scroll">Web sayfalarını ses tuşları ile kaydır</string>
-    <string name="double_back">Uygulamadan çıkmak için iki kez geri düğmesine basmayı etkinleştirin</string>
+    <string name="double_back">Uygulamadan çıkmak için iki kez geri düğmesi</string>
     <string name="press_again">Çıkmak için tekrar basın.</string>
     <string name="last_noti">Son sayfa bildirimi</string>
     <string name="last_noti_info">Sekmenin son sayfasındaki Önceki düğmesine tıklarsanız, sekmenin son sayfası olduğu bildirilir.</string>
@@ -223,8 +225,8 @@
     <string name="quality">Kalite</string>
     <string name="modified">Son değiştirilme</string>
     <string name="url">URL</string>
-    <string name="domain_name">Alan Adı</string>
-    <string name="domain_url">Alan adı veya URL</string>
+    <string name="domain_name">Alan</string>
+    <string name="domain_url">Alan veya URL</string>
     <string name="add">Ekle</string>
     <string name="home_page">Ana sayfa</string>
     <string name="last_page">Son ziyaret edilen sayfa</string>
@@ -255,9 +257,9 @@
     <string name="reduce_info">Görüntülenen resim ekrandan büyükse</string>
     <string name="page_split">Sayfayı böl (2 sayfa)</string>
     <string name="split_info">Görüntü genişliği yükseklikten uzunsa</string>
-    <string name="margin">Kenar</string>
+    <string name="margin">Marj</string>
     <string name="forward">İleri</string>
-    <string name="reverse">Geri</string>
+    <string name="reverse">Tersi</string>
     <string name="show_thumb">Küçük resim önizlemesi</string>
     <string name="show_thumb_info">Daha hızlı performans istiyorsanız, bu seçeneği devre dışı bırakın.</string>
     <string name="show_page_guide">Sayfa dönüş kılavuzu</string>
@@ -323,6 +325,7 @@
     <string name="site_permission">Bu site aşağıdaki izni istiyor</string>
     <string name="permission_granted">İzin verildi</string>
     <string name="permission_denied">İzin reddedildi</string>
+    <string name="permission_removed">İzin kaldırıldı</string>
     <string name="no_permission">İzin yok</string>
     <string name="ads_block">Reklam engelleme</string>
     <string name="ads_block_info">Reklamları engellemek için en az bir filtre etkin olmalıdır.</string>
@@ -330,7 +333,7 @@
     <string name="update">Güncelleme</string>
     <string name="update_fail">Güncelleme başarısız oldu.</string>
     <string name="guide_ads_allow">Reklamları izin verilen siteleri kaydedebilirsiniz.</string>
-    <string name="guide_pop_allow">Açılır pencerelere(Pop-up) izin verilen siteleri kaydedebilirsiniz.</string>
+    <string name="guide_pop_allow">Popup\'lara izin verilen siteleri kaydedebilirsiniz.</string>
     <string name="now_delete">Şimdi sil</string>
     <string name="exit_delete">Çıkışta sil</string>
     <string name="exit_guide">Uygulamadan çıktığınızda web etkinliğiniz silinecek.</string>
@@ -348,8 +351,8 @@
     <string name="block_images">Resmi engelle</string>
     <string name="block_a_image">Resmi engelle</string>
     <string name="blocked_image">Engellenen resimler</string>
-    <string name="block_confirm">Engellemek istiyor musunuz?</string>
-    <string name="block_apply">Engelle</string>
+    <string name="item_block_site">Mevcut sitede engelle</string>
+    <string name="item_block_page">Geçerli sayfada engelle</string>
     <string name="reset">Sıfırla</string>
     <string name="reset_confirm">Sıfırlansın mı?</string>
     <string name="check_network">Lütfen ağ durumunu kontrol edin.</string>
@@ -382,10 +385,10 @@
     <string name="file_name">Dosya adı</string>
     <string name="real_name">Gerçek adı</string>
     <string name="prefix">Ön-ek</string>
-    <string name="clean_mode">Reklam engelleme vb.</string>
+    <string name="clean_mode">Temiz mod</string>
     <string name="site">Site</string>
     <string name="storage">Depolama</string>
-    <string name="system_name">Sistem'e Uy</string>
+    <string name="system_name">Sistem</string>
     <string name="gesture">Hareketler</string>
     <string name="show_status">Durum çubuğunu göster</string>
     <string name="show_navi">Gezinme çubuğunu göster</string>
@@ -420,13 +423,12 @@
     <string name="cast_short_info">Ana ekranda bir TV yayın kısayolu düğmesi oluşturun.</string>
     <string name="list_menu">Menü</string>
     <string name="ads_white">Reklam beyaz listesi</string>
+    <string name="ads_allow_site">Mevcut sitede reklamlara izin ver</string>
+    <string name="ads_allow_page">Mevcut sayfada reklamlara izin ver</string>
     <string name="pop_white">Popup beyaz listesi</string>
-    <string name="pop_allow">Popup'lara izin ver</string>
-    <string name="pop_allow_site">Mevcut sitede izin ver</string>
-    <string name="pop_allow_page">Mevcut sayfada izin ver</string>
-    <string name="pop_confirm_1">Popup\'a izin vermek istiyor musunuz?</string>
-    <string name="pop_confirm_2">Tehlikeli reklamlara maruz kalabilirsiniz.</string>
-    <string name="pop_allowed">Popup\'lara izin verildi.</string>
+    <string name="pop_allow">Popup\'lara izin ver</string>
+    <string name="pop_allow_site">Mevcut sitede popup izin ver</string>
+    <string name="pop_allow_page">Mevcut sayfada popup izin ver</string>
     <string name="image_list">Görüntü listesi</string>
     <string name="image_cast_guide_1">Resmi içeren siteyi ziyaret edin.</string>
     <string name="image_cast_guide_2">\'Sadece görüntüleri göster\' veya \'Tüm resimleri kaydet\' i seçin.</string>
@@ -460,7 +462,6 @@
     <string name="history_info_limit">Bekletme süresinden daha eski kayıtlar otomatik olarak silinir.</string>
     <string name="history_info_none">Tüm geçmişiniz kaydedildi.\nÇok fazla veri tarayıcı performansını yavaşlatabilir.</string>
     <string name="list">Liste</string>
-    <string name="page_no_image">Bu sayfada hiç resim yok.</string>
     <string name="touch_lock_info">Video oynatımı sırasında dokunmanın kilidini açmak için kilit ekranı.</string>
     <string name="touch_locked">Dokunma kilitli.</string>
     <string name="touch_unlocked">Dokunma kilidi açık.</string>
@@ -518,6 +519,7 @@
     <string name="added">Eklendi</string>
     <string name="changed">Değiştirildi</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Hata bildir</string>
     <string name="report_site">Site bildirin</string>
     <string name="report_down">Lütfen videoyu indiremediğiniz sitenin adresini belirtin.</string>
     <string name="report_dark">Lütfen karanlık temayla sorun yaşayan sitenin adresini sağlayın.</string>
@@ -576,9 +578,11 @@
     <string name="sort_guide_1">Düzenleme moduna geçmek için listeyi basılı tutun.</string>
     <string name="sort_guide_2">Sağ oku sürükleyerek konumu değiştirebilirsiniz.</string>
     <string name="add_book">Yer işaretine ekle</string>
-    <string name="add_quick">Kısayola ekle</string>
-    <string name="add_homescreen">Ana ekrana ekle</string>
+    <string name="add_quick">Soul ana sayfasına ekle</string>
+    <string name="add_home_1">Ana ekrana ekle</string>
+    <string name="add_home_2">Telefonun ana ekranına ekleyin</string>
     <string name="set_homepage">Anasayfa olarak ayarla</string>
+    <string name="soul_home">Soul ana sayfası</string>
     <string name="setted">Ayarlandı.</string>
     <string name="no_down_video">İndirilebilir video yok.</string>
     <string name="trans_report">Çeviri hatalarını bildirin</string>
@@ -611,12 +615,9 @@
     <string name="accept_cookie_info_1">Sitenin çerezleri depolamasına veya okumasına izin verir.</string>
     <string name="accept_cookie_info_2">Çerezleri kabul etmezseniz bazı siteler düzgün çalışmayabilir.</string>
     <string name="third_cookie">Üçüncü taraf çerezleri</string>
+    <string name="js_title">JavaScript</string>
     <string name="java_script">JavaScript kullanılsın (Önerilir)</string>
     <string name="java_script_info">JavaScript devre dışı bırakılırsa bazı tarayıcı özellikleri çalışmaz.</string>
-    <string name="enable_js">JavaScript'i etkinleştirin</string>
-    <string name="disable_js">JavaScript'i devredışı bırakın</string>
-    <string name="js_enabled">JavaScript etkinleştirildi.</string>
-    <string name="js_disabled">JavaScript devre dışı bırakıldı.</string>
     <string name="icon_edit_guide">2. Simgeye tıklayarak değiştirebilirsiniz.</string>
     <string name="long_edit_guide">Alt çubuktaki simgeyi basılı tuttuğunuzda kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="swipe_edit_guide">Alt çubuktaki simgeyi yukarı kaydırırken kullanılacak işlevi ayarlayabilirsiniz.</string>
@@ -648,7 +649,7 @@
     <string name="page_move">Sayfayı taşı</string>
     <string name="tab_move">Sekmeyi taşı</string>
     <string name="move_up">Yukarı</string>
-    <string name="move_down">Aşağı Al</string>
+    <string name="move_down">Aşağı</string>
     <string name="move_left">Sol</string>
     <string name="move_right">Sağ</string>
     <string name="swipe_guide_1">1. İşlevi değiştirmek için alanı tıklayın.</string>
@@ -697,6 +698,8 @@
     <string name="text_zoom">Metin yakınlaştırma</string>
     <string name="zoom_icon">Yakınlaştır düğmesi</string>
     <string name="zoom_size">Büyütülmüş boyut</string>
+    <string name="js_block_site">Mevcut sitede JavaScript\'i engelle</string>
+    <string name="js_block_page">Mevcut sayfada JavaScript\'i engelle</string>
     <string name="js_black">JavaScript kara listesi</string>
     <string name="js_black_info">JavaScript\'i engelleyen sitelere kaydolabilirsiniz.</string>
     <string name="theme_web">Tarayıcı</string>
@@ -720,7 +723,7 @@
     <string name="donate_1">Bağış (Kahve)</string>
     <string name="donate_2">Bağış (Hamburger)</string>
     <string name="donate_3">Bağış (Pizza)</string>
-    <string name="donate_info">Soul Browser'u kullandığınız için teşekkür ederiz.\nSoul Browser bağışınız ile korunur.</string>
+    <string name="donate_info">Soul Browser\'u kullandığınız için teşekkür ederiz.\nSoul Browser bağışınız ile korunur.</string>
     <string name="pay_free">Ücretsiz</string>
     <string name="paid">Satın alındı</string>
     <string name="already_paid">Zaten satın alındı.</string>
@@ -774,13 +777,13 @@
     <string name="down_manager_info1">En sevdiğiniz indirme uygulamasını bir indirme yöneticisi olarak kullanabilirsiniz.</string>
     <string name="down_manager_info3">Tarayıcınızı ve indirilenleri ayırarak web\'de daha hızlı gezinebilirsiniz.</string>
     <string name="other_app">Diğer uygulamalar</string>
-    <string name="web_title">URL'den çek</string>
+    <string name="web_title">Ağ</string>
     <string name="color_title">Renk</string>
     <string name="no_icon">Simge yok.</string>
     <string name="video_player">Oynatıcı</string>
     <string name="security">Güvenlik</string>
     <string name="keyboard_secure">Klavye güvenliği</string>
-    <string name="keyboard_secure_info_1">Klavye ile arama çubuğuna yazdıklarınızı kaydetmez.</string>
+    <string name="keyboard_secure_info_1">Klavyede yazdıklarınızı kaydetmez.</string>
     <string name="keyboard_secure_info_2">Bazı klavyeler desteklenmeyebilir.</string>
     <string name="noti_invalid">Geçersiz</string>
     <string name="original_size">Orijinal boyut</string>
@@ -793,14 +796,12 @@
     <string name="finger_unsupported">Belirtilen seçenekler mevcut Android sürümüyle uyumlu olmadığından kullanıcı kimlik doğrulaması yapamıyor.</string>
     <string name="finger_unknown">Kullanıcının kimlik doğrulaması yapıp yapamayacağı belirlenemiyor.</string>
     <string name="use_gesture">Hareket kullanın</string>
-    <string name="gesture_block_site">Hareket kullanılmayacak siteler</string>
+    <string name="gesture_block_site">Mevcut sitede hareketleri engelle</string>
+    <string name="gesture_block_page">Mevcut sayfada hareketleri engelle</string>
+    <string name="gesture_block_list">Hareket kara listesi</string>
     <string name="gesture_block_info_1">Hareket kullanılmayacak siteleri kaydedebilirsiniz.</string>
     <string name="gesture_block_info_2">Yalnızca ekranın ortasındaki hareketler için geçerlidir.</string>
     <string name="gesture_block_info_3">Ekranın kenarlarındaki hareketler için geçerli değildir.</string>
-    <string name="enable_adblock">Reklam engelleyiciyi aç</string>
-    <string name="disable_adblock">Reklam engelleyiciyi kapat</string>
-    <string name="adblock_enabled">Reklam engelleyici etkinleştirildi.</string>
-    <string name="adblock_disabled">Reklam engelleyici devre dışı bırakıldı.</string>
     <string name="down_service">İndirme hizmeti</string>
     <string name="service_exit">Hizmet sonlandırıldı</string>
     <string name="auto_comp">Otomatik tamamlama</string>
@@ -898,9 +899,10 @@
     <string name="no_info">Bilgi yok</string>
     <string name="size_guide_1">Bazen bir dosyayı indirdiğinizde dosyanın genel boyutu değişmeye devam eder.</string>
     <string name="size_guide_2">Bunun nedeni, dosyanın gerçek boyutunun değil, dosyanın beklenen boyutunun olmasıdır.</string>
-    <string name="size_guide_3">Bazı dosyalar için, dosyanın gerçek boyutunu elde etmek için daha fazla veri kullanılabilir.</string>
-    <string name="size_guide_4">Ne tür bir dosya indirmek istediğinize bağlıdır.</string>
-    <string name="size_guide_5">Bu nedenle bazı dosyalar indirirken size gerçek boyut yerine tahmini boyutu verecektir.</string>
-    <string name="size_guide_6">İndirme sonuçlarında hiçbir fark yoktur.</string>
+    <string name="size_guide_3">İndirme sonuçlarında hiçbir fark yoktur.</string>
     <string name="torrent_down">Torrent indirme</string>
+    <string name="crash_guide_1">Web sayfası görüntülenirken bir sorun oluştu.</string>
+    <string name="crash_guide_2">Bu ekranı sık görüyorsanız, aşağıdaki özellikleri kontrol edin.</string>
+    <string name="block_amp">Google AMP\'yi devre dışı bırak</string>
+    <string name="block_amp_info">Google arama sonuçlarında Google AMP\'yi devre dışı bırakın.</string>
 </resources>

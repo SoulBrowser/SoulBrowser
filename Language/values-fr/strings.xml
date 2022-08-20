@@ -462,7 +462,6 @@
     <string name="history_info_limit">Les enregistrements antérieurs à la période de conservation sont automatiquement supprimés.</string>
     <string name="history_info_none">Toute votre historique est sauvegardée.\nTrop de données peuvent ralentir les performances du navigateur.</string>
     <string name="list">Liste</string>
-    <string name="page_no_image">Il n\'y a pas d\'images sur cette page.</string>
     <string name="touch_lock_info">Écran de verrouillage pour déverrouiller le toucher pendant la lecture vidéo.</string>
     <string name="touch_locked">Le toucher est verrouillé.</string>
     <string name="touch_unlocked">Le toucher est déverrouillé.</string>
@@ -520,6 +519,7 @@
     <string name="added">Ajouté</string>
     <string name="changed">Changé</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Signaler une erreur</string>
     <string name="report_site">Rapport d\'erreur</string>
     <string name="report_down">Veuillez fournir l\'adresse du site dont vous ne pouvez pas télécharger la vidéo.</string>
     <string name="report_dark">Veuillez fournir l\'adresse du site qui rencontre des problèmes avec le thème sombre.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">Appuyez et maintenez la liste pour passer en mode édition.</string>
     <string name="sort_guide_2">Vous pouvez modifier la position en faisant glisser la flèche droite.</string>
     <string name="add_book">Ajouter aux signets</string>
-    <string name="add_quick">Ajouter aux raccourcis</string>
-    <string name="add_homescreen">Ajouter à l\'écran d\'accueil</string>
+    <string name="add_quick">Ajouter à la page d\'accueil Soul</string>
+    <string name="add_home_1">Ajouter à l\'écran d\'accueil</string>
+    <string name="add_home_2">Ajouter à l\'écran d\'accueil du téléphone</string>
     <string name="set_homepage">Définir comme page d\'accueil</string>
+    <string name="soul_home">Page d\'accueil Soul</string>
     <string name="setted">Effectué.</string>
     <string name="no_down_video">Il n\'y a pas de vidéos téléchargeables.</string>
     <string name="trans_report">Signaler des erreurs de traduction</string>
@@ -897,10 +899,7 @@
     <string name="no_info">Aucune information</string>
     <string name="size_guide_1">Parfois, lorsque vous téléchargez un fichier, la taille globale du fichier ne cesse de changer.</string>
     <string name="size_guide_2">En effet, il s\'agit de la taille attendue du fichier, et non de la taille réelle du fichier.</string>
-    <string name="size_guide_3">Pour certains fichiers, davantage de données peuvent être utilisées pour obtenir la taille réelle du fichier.</string>
-    <string name="size_guide_4">Cela dépend du type de fichier que vous souhaitez télécharger.</string>
-    <string name="size_guide_5">Pour éviter une utilisation inutile des données, certains fichiers fournissent une taille estimée au lieu de leur taille réelle lors du téléchargement.</string>
-    <string name="size_guide_6">Il n\'y a aucune différence dans les résultats de téléchargement.</string>
+    <string name="size_guide_3">Il n\'y a aucune différence dans les résultats de téléchargement.</string>
     <string name="torrent_down">Téléchargement de torrents</string>
     <string name="crash_guide_1">Un problème est survenu lors de l\'affichage de la page Web.</string>
     <string name="crash_guide_2">Si vous voyez cet écran fréquemment, vérifiez les fonctionnalités suivantes.</string>

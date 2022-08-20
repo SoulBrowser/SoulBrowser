@@ -462,7 +462,6 @@
     <string name="history_info_limit">超過保留期限的記錄將被自動刪除。</string>
     <string name="history_info_none">您的所有歷史記錄已儲存。\n資料過多會降低瀏覽器效能。</string>
     <string name="list">清單</string>
-    <string name="page_no_image">此頁面上沒有圖片。</string>
     <string name="touch_lock_info">鎖定螢幕可以在影片播放期間停用所有觸碰動作</string>
     <string name="touch_locked">輕觸鎖定</string>
     <string name="touch_unlocked">輕觸解鎖</string>
@@ -520,6 +519,7 @@
     <string name="added">已新增</string>
     <string name="changed">已變更</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">報告錯誤</string>
     <string name="report_site">回報網站</string>
     <string name="report_down">請提供您無法下載影片的網站網址</string>
     <string name="report_dark">請提供深色主題有問題的網站網址</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">按住列表以變更為編輯模式</string>
     <string name="sort_guide_2">您可以透過拖曳右箭頭來變更位置</string>
     <string name="add_book">新增到書籤</string>
-    <string name="add_quick">新增到捷徑</string>
-    <string name="add_homescreen">新增到主螢幕</string>
+    <string name="add_quick">添加到 Soul 主頁</string>
+    <string name="add_home_1">添加到主屏幕</string>
+    <string name="add_home_2">添加到手機的主屏幕</string>
     <string name="set_homepage">設為主頁</string>
+    <string name="soul_home">Soul 主頁</string>
     <string name="setted">已設定</string>
     <string name="no_down_video">沒有可下載的影片</string>
     <string name="trans_report">回報錯誤翻譯</string>
@@ -897,10 +899,7 @@
     <string name="no_info">無資訊</string>
     <string name="size_guide_1">有時，當您下載文件時，文件的整體大小會不斷變化</string>
     <string name="size_guide_2">這是因為這是文件的預期大小，而不是文件的實際大小</string>
-    <string name="size_guide_3">對於某些文件，可能會使用更多數據來獲取文件的實際大小</string>
-    <string name="size_guide_4">這取決於您要下載的文件類型</string>
-    <string name="size_guide_5">為避免不必要的數據使用，某些文件在下載期間提供估計大小而不是實際大小</string>
-    <string name="size_guide_6">下載結果沒有區別</string>
+    <string name="size_guide_3">下載結果沒有區別</string>
     <string name="torrent_down">洪流下載</string>
     <string name="crash_guide_1">顯示網頁時出現問題</string>
     <string name="crash_guide_2">如果您經常看到此屏幕，請檢查以下功能</string>

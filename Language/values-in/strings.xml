@@ -462,7 +462,6 @@
     <string name="history_info_limit">Catatan yang lebih lama dari periode penyimpanan secara otomatis dihapus.</string>
     <string name="history_info_none">Semua riwayat Anda disimpan.\nTerlalu banyak data dapat memperlambat kinerja browser.</string>
     <string name="list">Daftar</string>
-    <string name="page_no_image">Tidak ada gambar di halaman ini.</string>
     <string name="touch_lock_info">Kunci layar untuk membuka kunci sentuh selama pemutaran video.</string>
     <string name="touch_locked">Sentuhan terkunci.</string>
     <string name="touch_unlocked">Sentuhan tidak terkunci.</string>
@@ -520,6 +519,7 @@
     <string name="added">Ditambahkan</string>
     <string name="changed">Berubah</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Laporan kesalahan</string>
     <string name="report_site">Laporkan situs</string>
     <string name="report_down">Harap berikan alamat situs tempat Anda tidak dapat mengunduh video.</string>
     <string name="report_dark">Berikan alamat situs yang mengalami masalah dengan tema gelap.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">Tekan dan tahan daftar untuk mengubah ke mode edit.</string>
     <string name="sort_guide_2">Anda dapat mengubah posisi dengan menyeret panah kanan.</string>
     <string name="add_book">Tambahkan ke bookmark</string>
-    <string name="add_quick">Tambahkan ke pintasan</string>
-    <string name="add_homescreen">Tambahkan ke layar beranda</string>
+    <string name="add_quick">Tambahkan ke beranda Soul</string>
+    <string name="add_home_1">Tambahkan ke layar beranda</string>
+    <string name="add_home_2">Tambahkan ke layar beranda ponsel</string>
     <string name="set_homepage">Setel sebagai homepage</string>
+    <string name="soul_home">Halaman beranda Soul</string>
     <string name="setted">Telah di atur.</string>
     <string name="no_down_video">Tidak ada video yang dapat diunduh.</string>
     <string name="trans_report">Laporkan kesalahan terjemahan</string>
@@ -897,10 +899,7 @@
     <string name="no_info">Tidak ada informasi</string>
     <string name="size_guide_1">Terkadang saat Anda mengunduh file, ukuran keseluruhan file terus berubah.</string>
     <string name="size_guide_2">Ini karena ini adalah ukuran file yang diharapkan, bukan ukuran file yang sebenarnya.</string>
-    <string name="size_guide_3">Untuk beberapa file, lebih banyak data dapat digunakan untuk mendapatkan ukuran file yang sebenarnya.</string>
-    <string name="size_guide_4">Itu tergantung pada jenis file apa yang ingin Anda unduh.</string>
-    <string name="size_guide_5">Untuk menghindari penggunaan data yang tidak perlu, beberapa file memberikan perkiraan ukuran alih-alih ukuran sebenarnya selama pengunduhan.</string>
-    <string name="size_guide_6">Tidak ada perbedaan dalam hasil unduhan.</string>
+    <string name="size_guide_3">Tidak ada perbedaan dalam hasil unduhan.</string>
     <string name="torrent_down">Unduh torrent</string>
     <string name="crash_guide_1">Ada masalah saat menampilkan halaman web.</string>
     <string name="crash_guide_2">Jika Anda sering melihat layar ini, periksa fitur berikut.</string>

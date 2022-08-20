@@ -462,7 +462,6 @@
     <string name="history_info_limit">저장 기간보다 오래된 기록은 자동으로 삭제됩니다.</string>
     <string name="history_info_none">방문 기록이 모두 저장됩니다.\n데이터가 너무 많아지면 브라우저 성능이 느려질 수 있습니다.</string>
     <string name="list">목록</string>
-    <string name="page_no_image">이 페이지에는 이미지가 없습니다.</string>
     <string name="touch_lock_info">비디오 재생 중 터치 잠금을 해제하기 위한 잠금 화면</string>
     <string name="touch_locked">터치가 잠겨 있습니다.</string>
     <string name="touch_unlocked">터치가 잠금 해제되었습니다.</string>
@@ -520,6 +519,7 @@
     <string name="added">추가되었습니다.</string>
     <string name="changed">변경되었습니다.</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">오류 보고</string>
     <string name="report_site">사이트 제보</string>
     <string name="report_down">동영상을 다운로드할 수 없는 사이트의 주소를 알려주세요.</string>
     <string name="report_dark">어두운 테마에 문제가 있는 사이트의 주소를 알려주세요.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">목록을 길게 누르면 편집 모드로 변경됩니다.</string>
     <string name="sort_guide_2">오른쪽 화살표를 드래그하여 위치를 변경할 수 있습니다.</string>
     <string name="add_book">북마크에 추가</string>
-    <string name="add_quick">바로가기에 추가</string>
-    <string name="add_homescreen">홈 화면에 추가</string>
+    <string name="add_quick">Soul 홈페이지에 추가</string>
+    <string name="add_home_1">홈 화면에 추가</string>
+    <string name="add_home_2">휴대전화의 홈 화면에 추가</string>
     <string name="set_homepage">홈페이지로 설정</string>
+    <string name="soul_home">Soul 홈페이지</string>
     <string name="setted">설정되었습니다.</string>
     <string name="no_down_video">다운로드 가능한 동영상이 없습니다.</string>
     <string name="trans_report">번역 오류 신고</string>
@@ -897,10 +899,7 @@
     <string name="no_info">정보 없음</string>
     <string name="size_guide_1">파일을 다운로드할 때 파일의 전체 크기가 계속 변경되는 경우가 있습니다.</string>
     <string name="size_guide_2">이것은 파일의 실제 크기가 아니라 파일의 예상 크기이기 때문입니다.</string>
-    <string name="size_guide_3">일부 파일의 경우 파일의 실제 크기를 가져오는 과정에서 더 많은 데이터가 사용될 수 있습니다.</string>
-    <string name="size_guide_4">다운로드하려는 파일의 종류에 따라 다릅니다.</string>
-    <string name="size_guide_5">불필요한 데이터 사용을 방지하기 위해, 일부 파일은 다운로드하는 동안 실제 크기 대신 예상 크기를 제공합니다.</string>
-    <string name="size_guide_6">다운로드 결과에는 차이가 없습니다.</string>
+    <string name="size_guide_3">다운로드 결과에는 차이가 없습니다.</string>
     <string name="torrent_down">토렌트 다운로드</string>
     <string name="crash_guide_1">웹페이지를 표시하는 중에 문제가 발생했습니다.</string>
     <string name="crash_guide_2">이 화면이 자주 보이신다면 다음 기능을 확인해 보세요.</string>

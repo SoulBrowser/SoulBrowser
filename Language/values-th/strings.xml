@@ -462,7 +462,6 @@
     <string name="history_info_limit">บันทึกที่เก่ากว่าระยะเวลาการเก็บข้อมูลจะถูกลบโดยอัตโนมัติ</string>
     <string name="history_info_none">ประวัติทั้งหมดของคุณจะถูกบันทึกไว้\nข้อมูลมากเกินไปอาจทำให้ประสิทธิภาพเบราว์เซอร์ช้าลง</string>
     <string name="list">รายการ</string>
-    <string name="page_no_image">ไม่มีภาพในหน้านี้</string>
     <string name="touch_lock_info">ล็อคหน้าจอเพื่อปลดล็อคการสัมผัสระหว่างการเล่นวิดีโอ</string>
     <string name="touch_locked">Touch ถูกล็อค</string>
     <string name="touch_unlocked">Touch ถูกปลดล็อค</string>
@@ -520,6 +519,7 @@
     <string name="added">ที่เพิ่ม</string>
     <string name="changed">การเปลี่ยนแปลง</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">รายงานข้อผิดพลาด</string>
     <string name="report_site">เว็บไซต์รายงาน</string>
     <string name="report_down">โปรดระบุที่อยู่ของเว็บไซต์ที่คุณไม่สามารถดาวน์โหลดวิดีโอได้</string>
     <string name="report_dark">โปรดระบุที่อยู่ของไซต์ที่มีปัญหากับธีมสีเข้ม</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">กดรายการค้างไว้เพื่อเปลี่ยนเป็นโหมดแก้ไข</string>
     <string name="sort_guide_2">คุณสามารถเปลี่ยนตำแหน่งโดยการลากลูกศรขวา</string>
     <string name="add_book">เพิ่มในบุ๊กมาร์ก</string>
-    <string name="add_quick">เพิ่มทางลัด</string>
-    <string name="add_homescreen">เพิ่มไปที่หน้าจอหลัก</string>
+    <string name="add_quick">เพิ่มไปยังหน้าแรกของ Soul</string>
+    <string name="add_home_1">เพิ่มไปที่หน้าจอหลัก</string>
+    <string name="add_home_2">เพิ่มไปยังหน้าจอหลักของโทรศัพท์</string>
     <string name="set_homepage">ตั้งเป็นหน้าแรก</string>
+    <string name="soul_home">หน้าแรกของ Soul</string>
     <string name="setted">ได้มีการตั้งค่า</string>
     <string name="no_down_video">ไม่มีวิดีโอที่สามารถดาวน์โหลดได้</string>
     <string name="trans_report">รายงานข้อผิดพลาดการแปล</string>
@@ -897,10 +899,7 @@
     <string name="no_info">ไม่มีข้อมูล</string>
     <string name="size_guide_1">บางครั้งเมื่อคุณดาวน์โหลดไฟล์ ขนาดโดยรวมของไฟล์จะเปลี่ยนแปลงตลอดเวลา</string>
     <string name="size_guide_2">เนื่องจากเป็นขนาดที่คาดไว้ของไฟล์ ไม่ใช่ขนาดจริงของไฟล์</string>
-    <string name="size_guide_3">สำหรับบางไฟล์ อาจใช้ข้อมูลเพิ่มเติมเพื่อให้ได้ขนาดที่แท้จริงของไฟล์</string>
-    <string name="size_guide_4">ขึ้นอยู่กับชนิดของไฟล์ที่คุณต้องการดาวน์โหลด</string>
-    <string name="size_guide_5">เพื่อหลีกเลี่ยงการใช้ข้อมูลที่ไม่จำเป็น ไฟล์บางไฟล์จะให้ขนาดโดยประมาณแทนขนาดจริงระหว่างการดาวน์โหลด</string>
-    <string name="size_guide_6">ไม่มีความแตกต่างในผลลัพธ์การดาวน์โหลด</string>
+    <string name="size_guide_3">ไม่มีความแตกต่างในผลลัพธ์การดาวน์โหลด</string>
     <string name="torrent_down">ดาวน์โหลดทอร์เรนต์</string>
     <string name="crash_guide_1">เกิดปัญหาในการแสดงหน้าเว็บ</string>
     <string name="crash_guide_2">หากคุณเห็นหน้าจอนี้บ่อยๆ ให้ตรวจสอบคุณสมบัติต่อไปนี้</string>

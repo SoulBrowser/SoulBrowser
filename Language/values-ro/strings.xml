@@ -462,7 +462,6 @@
     <string name="history_info_limit">Înregistrările mai vechi de perioada de păstrare sunt șterse automat.</string>
     <string name="history_info_none">Tot istoricul dvs. este salvat.\nMai multe date pot încetini performanța browserului.</string>
     <string name="list">Listă</string>
-    <string name="page_no_image">Nu există imagini pe această pagină.</string>
     <string name="touch_lock_info">Ecran de blocare pentru deblocarea atingerii în timpul redării video.</string>
     <string name="touch_locked">Touch este blocat.</string>
     <string name="touch_unlocked">Touch este deblocat.</string>
@@ -520,6 +519,7 @@
     <string name="added">Adăugat</string>
     <string name="changed">Schimbat</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Raportează eroarea</string>
     <string name="report_site">Site raport</string>
     <string name="report_down">Vă rugăm să furnizați adresa site-ului unde videoclipul nu poate fi descărcat.</string>
     <string name="report_dark">Vă rugăm să furnizați adresa site-ului care are probleme cu tema întunecată.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">Apăsați și mențineți apăsat lista pentru a schimba modul de editare.</string>
     <string name="sort_guide_2">Puteți schimba poziția prin glisarea săgeții drepte.</string>
     <string name="add_book">Adăugați la marcaj</string>
-    <string name="add_quick">Adăugați la scurtătură</string>
-    <string name="add_homescreen">Adăugare la ecranul principal</string>
+    <string name="add_quick">Adăugați pe pagina de pornire Soul</string>
+    <string name="add_home_1">Adăugați pe ecranul de start</string>
+    <string name="add_home_2">Adăugați pe ecranul de start al telefonului</string>
     <string name="set_homepage">Setați ca pagină de pornire</string>
+    <string name="soul_home">Pagina de pornire Soul</string>
     <string name="setted">A fost setat.</string>
     <string name="no_down_video">Nu există videoclipuri descărcabile.</string>
     <string name="trans_report">Raportați erori de traducere</string>
@@ -897,10 +899,7 @@
     <string name="no_info">Fara informatii</string>
     <string name="size_guide_1">Uneori, atunci când descărcați un fișier, dimensiunea totală a fișierului continuă să se schimbe.</string>
     <string name="size_guide_2">Acest lucru se datorează faptului că aceasta este dimensiunea așteptată a fișierului, nu dimensiunea reală a fișierului.</string>
-    <string name="size_guide_3">Pentru unele fișiere, pot fi utilizate mai multe date pentru a obține dimensiunea reală a fișierului.</string>
-    <string name="size_guide_4">Depinde de ce tip de fișier doriți să descărcați.</string>
-    <string name="size_guide_5">Pentru a evita utilizarea inutilă a datelor, unele fișiere oferă o dimensiune estimată în loc de dimensiunea lor reală în timpul descărcării.</string>
-    <string name="size_guide_6">Nu există nicio diferență în rezultatele de descărcare.</string>
+    <string name="size_guide_3">Nu există nicio diferență în rezultatele de descărcare.</string>
     <string name="torrent_down">Descărcare torrent</string>
     <string name="crash_guide_1">A apărut o problemă la afișarea paginii web.</string>
     <string name="crash_guide_2">Dacă vedeți acest ecran frecvent, verificați următoarele caracteristici.</string>

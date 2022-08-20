@@ -462,7 +462,6 @@
     <string name="history_info_limit">Records older than the retention period are automatically deleted.</string>
     <string name="history_info_none">All your history is saved.\nToo much data can slow browser performance.</string>
     <string name="list">List</string>
-    <string name="page_no_image">There are no images on this page.</string>
     <string name="touch_lock_info">Lock screen for unlocking touch during video playback.</string>
     <string name="touch_locked">Touch is locked.</string>
     <string name="touch_unlocked">Touch is unlocked.</string>
@@ -520,6 +519,7 @@
     <string name="added">Added</string>
     <string name="changed">Changed</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Report error</string>
     <string name="report_site">Report site</string>
     <string name="report_down">Please provide the address of the site where the video can not be downloaded.</string>
     <string name="report_dark">Please provide the address of the site that is having problems with the dark theme.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">Press and hold the list to change to edit mode.</string>
     <string name="sort_guide_2">You can change the position by dragging the right arrow.</string>
     <string name="add_book">Add to bookmark</string>
-    <string name="add_quick">Add to shortcut</string>
-    <string name="add_homescreen">Add to home screen</string>
+    <string name="add_quick">Add to Soul homepage</string>
+    <string name="add_home_1">Add to home screen</string>
+    <string name="add_home_2">Add to phone\'s home screen</string>
     <string name="set_homepage">Set as homepage</string>
+    <string name="soul_home">Page d\'accueil Soul</string>
     <string name="setted">Has been set.</string>
     <string name="no_down_video">There are no downloadable videos.</string>
     <string name="trans_report">Report translation errors</string>
@@ -897,10 +899,7 @@
     <string name="no_info">No information</string>
     <string name="size_guide_1">Sometimes when you download a file, the overall size of the file keeps changing.</string>
     <string name="size_guide_2">This is because this is the estimated size of the file, not the actual size of the file.</string>
-    <string name="size_guide_3">For some files, more data may be used to get the actual size of the file.</string>
-    <string name="size_guide_4">It depends on what kind of file you want to download.</string>
-    <string name="size_guide_5">To avoid unnecessary data usage, some files provide estimated size instead of actual size during download.</string>
-    <string name="size_guide_6">There is no difference in the download results.</string>
+    <string name="size_guide_3">There is no difference in the download results.</string>
     <string name="torrent_down">Torrent download</string>
     <string name="crash_guide_1">There was a problem displaying the webpage.</string>
     <string name="crash_guide_2">If you see this screen often, check the following features.</string>

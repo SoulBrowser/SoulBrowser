@@ -462,7 +462,6 @@
     <string name="history_info_limit">Datensätze, die älter als der Aufbewahrungszeitraum sind, werden automatisch gelöscht.</string>
     <string name="history_info_none">Der gesamte Verlauf wird gespeichert.\nZu viele Daten können die Browserleistung beeinträchtigen.</string>
     <string name="list">Liste</string>
-    <string name="page_no_image">Es gibt keine Bilder auf dieser Seite.</string>
     <string name="touch_lock_info">Sperrbildschirm zum Entsperren von Berührungen während der Videowiedergabe.</string>
     <string name="touch_locked">Touch ist gesperrt.</string>
     <string name="touch_unlocked">Touch ist entsperrt.</string>
@@ -520,6 +519,7 @@
     <string name="added">Hinzugefügt</string>
     <string name="changed">Geändert</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Fehler melden</string>
     <string name="report_site">Website melden</string>
     <string name="report_down">Bitte geben Sie die Adresse der Seite an, auf der das Video nicht heruntergeladen werden kann.</string>
     <string name="report_dark">Bitte geben Sie die Adresse der Seite an, auf der Probleme mit dem dunklen Thema auftreten.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">Halten Sie die Liste gedrückt, um in den Bearbeitungsmodus zu wechseln.</string>
     <string name="sort_guide_2">Sie können die Position ändern, indem Sie den Rechtspfeil ziehen.</string>
     <string name="add_book">Zu Lesezeichen hinzufügen</string>
-    <string name="add_quick">Zu Schnellstartseite hinzufügen</string>
-    <string name="add_homescreen">Zum Startbildschirm hinzufügen</string>
+    <string name="add_quick">Zur Soul-Startseite hinzufügen</string>
+    <string name="add_home_1">Zum Startbildschirm hinzufügen</string>
+    <string name="add_home_2">Zum Startbildschirm des Telefons hinzufügen</string>
     <string name="set_homepage">Als Startseite festlegen</string>
+    <string name="soul_home">Soul-Startseite</string>
     <string name="setted">Wurde festgelegt.</string>
     <string name="no_down_video">Es gibt keine herunterladbaren Videos.</string>
     <string name="trans_report">Übersetzungsfehler melden</string>
@@ -897,10 +899,7 @@
     <string name="no_info">Keine Information</string>
     <string name="size_guide_1">Wenn Sie eine Datei herunterladen, ändert sich manchmal die Gesamtgröße der Datei ständig.</string>
     <string name="size_guide_2">Dies liegt daran, dass dies die erwartete Größe der Datei ist, nicht die tatsächliche Größe der Datei.</string>
-    <string name="size_guide_3">Bei einigen Dateien werden möglicherweise mehr Daten verwendet, um die tatsächliche Größe der Datei zu ermitteln.</string>
-    <string name="size_guide_4">Es hängt davon ab, welche Art von Datei Sie herunterladen möchten.</string>
-    <string name="size_guide_5">Um unnötigen Datenverbrauch zu vermeiden, geben einige Dateien beim Herunterladen eine geschätzte Größe anstelle ihrer tatsächlichen Größe an.</string>
-    <string name="size_guide_6">Es gibt keinen Unterschied in den Download-Ergebnissen.</string>
+    <string name="size_guide_3">Es gibt keinen Unterschied in den Download-Ergebnissen.</string>
     <string name="torrent_down">Torrent-Download</string>
     <string name="crash_guide_1">Beim Anzeigen der Webseite ist ein Problem aufgetreten.</string>
     <string name="crash_guide_2">Wenn Sie diesen Bildschirm häufig sehen, überprüfen Sie die folgenden Funktionen.</string>

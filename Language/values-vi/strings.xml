@@ -462,7 +462,6 @@
     <string name="history_info_limit">Các bản ghi cũ hơn thời gian lưu sẽ tự động bị xóa.</string>
     <string name="history_info_none">Tất cả lịch sử của bạn được lưu.\nQuá nhiều dữ liệu có thể làm chậm hiệu suất trình duyệt.</string>
     <string name="list">Danh sách</string>
-    <string name="page_no_image">Không có hình ảnh trên trang này.</string>
     <string name="touch_lock_info">Khóa màn hình để mở khóa cảm ứng trong khi phát lại video.</string>
     <string name="touch_locked">Cảm ứng bị khóa.</string>
     <string name="touch_unlocked">Chạm được mở khóa.</string>
@@ -520,6 +519,7 @@
     <string name="added">Đã thêm</string>
     <string name="changed">Thay đổi</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Báo lỗi</string>
     <string name="report_site">Trang web báo cáo</string>
     <string name="report_down">Vui lòng cung cấp địa chỉ của trang web nơi bạn không thể tải xuống video.</string>
     <string name="report_dark">Vui lòng cung cấp địa chỉ của trang web đang gặp sự cố với chủ đề tối.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">Nhấn và giữ danh sách để thay đổi để chỉnh sửa chế độ.</string>
     <string name="sort_guide_2">Bạn có thể thay đổi vị trí bằng cách kéo mũi tên phải.</string>
     <string name="add_book">Thêm vào dấu trang</string>
-    <string name="add_quick">Thêm vào phím tắt</string>
-    <string name="add_homescreen">Thêm vào màn hình chính</string>
+    <string name="add_quick">Thêm vào trang chủ Soul</string>
+    <string name="add_home_1">Thêm vào màn hình chính</string>
+    <string name="add_home_2">Thêm vào màn hình chính của điện thoại</string>
     <string name="set_homepage">Đặt làm trang chủ</string>
+    <string name="soul_home">Trang chủ Soul</string>
     <string name="setted">Đã được thiết lập.</string>
     <string name="no_down_video">Không có video tải về.</string>
     <string name="trans_report">Báo cáo lỗi dịch</string>
@@ -897,10 +899,7 @@
     <string name="no_info">Không có thông tin</string>
     <string name="size_guide_1">Đôi khi khi bạn tải xuống một tệp, kích thước tổng thể của tệp liên tục thay đổi.</string>
     <string name="size_guide_2">Điều này là do đây là kích thước dự kiến ​​của tệp, không phải là kích thước thực của tệp.</string>
-    <string name="size_guide_3">Đối với một số tệp, nhiều dữ liệu hơn có thể được sử dụng để có được kích thước thực của tệp.</string>
-    <string name="size_guide_4">Nó phụ thuộc vào loại tệp bạn muốn tải xuống.</string>
-    <string name="size_guide_5">Để tránh sử dụng dữ liệu không cần thiết, một số tệp cung cấp kích thước ước tính thay vì kích thước thực của chúng trong quá trình tải xuống.</string>
-    <string name="size_guide_6">Không có sự khác biệt trong kết quả tải xuống.</string>
+    <string name="size_guide_3">Không có sự khác biệt trong kết quả tải xuống.</string>
     <string name="torrent_down">Tải xuống Torrent</string>
     <string name="crash_guide_1">Đã xảy ra sự cố khi hiển thị trang web.</string>
     <string name="crash_guide_2">Nếu bạn thấy màn hình này thường xuyên, hãy kiểm tra các tính năng sau.</string>

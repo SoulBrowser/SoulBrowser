@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">بالضغط على زر ابدأ ، فإنك توافق على متصفح الروح\n%1$s و%2$s.</string>
+    <string name="notice">بالنقر فوق الزر بداية ، فإنك توافق على متصفح Soul\n%1$s و %2$s.</string>
     <string name="notice_tos">شروط الخدمة</string>
     <string name="notice_privacy">إشعار الخصوصية</string>
     <string name="start">بداية</string>
@@ -462,7 +462,6 @@
     <string name="history_info_limit">يتم حذف السجلات الأقدم من فترة التخزين تلقائيًا.</string>
     <string name="history_info_none">يتم حفظ كل سجلك.\nقد تؤدي كثرة البيانات إلى إبطاء أداء المتصفح.</string>
     <string name="list">قائمة</string>
-    <string name="page_no_image">لا توجد صور في هذه الصفحة.</string>
     <string name="touch_lock_info">قفل الشاشة لفتح اللمس أثناء تشغيل الفيديو</string>
     <string name="touch_locked">تم قفل اللمس.</string>
     <string name="touch_unlocked">اللمس مفتوح.</string>
@@ -520,6 +519,7 @@
     <string name="added">تمت إضافة.</string>
     <string name="changed">تغير.</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">الإبلاغ عن خطأ</string>
     <string name="report_site">تقرير الموقع</string>
     <string name="report_down">يرجى تقديم عنوان الموقع حيث لا يمكن تنزيل الفيديو.</string>
     <string name="report_dark">من فضلك قل لي عنوان الموقع الذي يواجه مشاكل مع المظهر الداكن.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">الضغط لفترة طويلة على القائمة للتغيير إلى وضع التحرير.</string>
     <string name="sort_guide_2">يمكنك تغيير الموضع عن طريق سحب السهم الأيمن.</string>
     <string name="add_book">أضف إلى المفضلة</string>
-    <string name="add_quick">أضف إلى الاختصار</string>
-    <string name="add_homescreen">أضف إلى الشاشة الرئيسية</string>
+    <string name="add_quick">أضف إلى صفحة Soul الرئيسية</string>
+    <string name="add_home_1">أضف إلى الشاشة الرئيسية</string>
+    <string name="add_home_2">أضف إلى الشاشة الرئيسية للهاتف</string>
     <string name="set_homepage">تعيين كصفحة رئيسية</string>
+    <string name="soul_home">صفحة Soul الرئيسية</string>
     <string name="setted">تم تعيينه.</string>
     <string name="no_down_video">لا توجد مقاطع فيديو قابلة للتنزيل.</string>
     <string name="trans_report">الإبلاغ عن أخطاء الترجمة</string>
@@ -721,7 +723,7 @@
     <string name="donate_1">تبرع (قهوة)</string>
     <string name="donate_2">تبرع (همبرغر)</string>
     <string name="donate_3">تبرع (بيتزا)</string>
-    <string name="donate_info">شكرًا لك على استخدام متصفح الروح.\nيتم الحفاظ على متصفح الروح من خلال تبرعك.</string>
+    <string name="donate_info">شكرًا لك على استخدام متصفح Soul.\nيتم الحفاظ على متصفح Soul من خلال تبرعك.</string>
     <string name="pay_free">مجانا</string>
     <string name="paid">تم شراؤها</string>
     <string name="already_paid">لقد اشتريته بالفعل.</string>
@@ -897,10 +899,7 @@
     <string name="no_info">لا يوجد معلومات</string>
     <string name="size_guide_1">في بعض الأحيان عند تنزيل ملف ، يتغير الحجم الإجمالي للملف باستمرار.</string>
     <string name="size_guide_2">هذا لأن هذا هو الحجم المتوقع للملف ، وليس الحجم الفعلي للملف.</string>
-    <string name="size_guide_3">بالنسبة لبعض الملفات ، يمكن استخدام المزيد من البيانات للحصول على الحجم الفعلي للملف.</string>
-    <string name="size_guide_4">يعتمد ذلك على نوع الملف الذي تريد تنزيله.</string>
-    <string name="size_guide_5">لتجنب الاستخدام غير الضروري للبيانات ، توفر بعض الملفات حجمًا تقديريًا بدلاً من حجمها الفعلي أثناء التنزيل.</string>
-    <string name="size_guide_6">لا يوجد فرق في نتائج التنزيل.</string>
+    <string name="size_guide_3">لا يوجد فرق في نتائج التنزيل.</string>
     <string name="torrent_down">تنزيل التورنت</string>
     <string name="crash_guide_1">كانت هناك مشكلة في عرض صفحة الويب.</string>
     <string name="crash_guide_2">إذا كنت ترى هذه الشاشة بشكل متكرر ، فتحقق من الميزات التالية.</string>

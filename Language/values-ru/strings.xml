@@ -462,7 +462,6 @@
     <string name="history_info_limit">Записи старше срока хранения автоматически удаляются.</string>
     <string name="history_info_none">Вся история сохранена.\nСлишком большое количество данных может снизить производительность браузера.</string>
     <string name="list">Список</string>
-    <string name="page_no_image">На этой странице нет изображений.</string>
     <string name="touch_lock_info">Экран блокировки для разблокировки касания во время воспроизведения видео.</string>
     <string name="touch_locked">Сенсор заблокирован.</string>
     <string name="touch_unlocked">Сенсор разблокирован.</string>
@@ -520,6 +519,7 @@
     <string name="added">Добавлено</string>
     <string name="changed">Изменено</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Сообщить об ошибке</string>
     <string name="report_site">Сообщить о проблемах с сайтом</string>
     <string name="report_down">Пожалуйста, укажите адрес сайта, где Вы не можете скачать видео.</string>
     <string name="report_dark">Укажите адрес сайта, на котором возникают проблемы с темной темой.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">Нажмите и удерживайте список, чтобы перейти в режим редактирования.</string>
     <string name="sort_guide_2">Вы можете изменить положение, перетаскивая стрелку вправо.</string>
     <string name="add_book">Добавить в закладки</string>
-    <string name="add_quick">Добавить как ярлык</string>
-    <string name="add_homescreen">Добавить на домашний экран</string>
+    <string name="add_quick">Добавить на главную страницу Soul</string>
+    <string name="add_home_1">Добавить на домашний экран</string>
+    <string name="add_home_2">Добавить на главный экран телефона</string>
     <string name="set_homepage">Установить как домашнюю страницу</string>
+    <string name="soul_home">Домашняя страница Soul</string>
     <string name="setted">Установлено.</string>
     <string name="no_down_video">Нет загружаемых видео.</string>
     <string name="trans_report">Сообщить об ошибках перевода</string>
@@ -897,10 +899,7 @@
     <string name="no_info">Нет информации</string>
     <string name="size_guide_1">Иногда, когда вы загружаете файл, общий размер файла продолжает меняться.</string>
     <string name="size_guide_2">Это связано с тем, что это ожидаемый размер файла, а не фактический размер файла.</string>
-    <string name="size_guide_3">Для некоторых файлов может потребоваться больше данных, чтобы получить фактический размер файла.</string>
-    <string name="size_guide_4">Это зависит от того, какой файл вы хотите загрузить.</string>
-    <string name="size_guide_5">Чтобы избежать ненужного использования данных, некоторые файлы во время загрузки предоставляют приблизительный размер вместо фактического размера.</string>
-    <string name="size_guide_6">Разницы в результатах загрузки нет.</string>
+    <string name="size_guide_3">Разницы в результатах загрузки нет.</string>
     <string name="torrent_down">Скачать торрент</string>
     <string name="crash_guide_1">Возникла проблема с отображением веб-страницы.</string>
     <string name="crash_guide_2">Если вы часто видите этот экран, проверьте следующие функции.</string>

@@ -462,7 +462,6 @@
     <string name="history_info_limit">I record precedenti al periodo di conservazione vengono automaticamente eliminati.</string>
     <string name="history_info_none">Tutta la tua cronologia viene salvata.\nTroppi dati possono rallentare le prestazioni del browser.</string>
     <string name="list">Lista</string>
-    <string name="page_no_image">Non ci sono immagini in questa pagina.</string>
     <string name="touch_lock_info">Schermata di blocco per sbloccare il tocco durante la riproduzione video.</string>
     <string name="touch_locked">Il tocco è bloccato.</string>
     <string name="touch_unlocked">Il tocco è sbloccato.</string>
@@ -520,6 +519,7 @@
     <string name="added">Aggiunto</string>
     <string name="changed">Cambiato</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">Segnala errore</string>
     <string name="report_site">Segnala sito</string>
     <string name="report_down">Fornisci l\'indirizzo del sito in cui non è possibile scaricare il video.</string>
     <string name="report_dark">Fornisci l\'indirizzo del sito che ha problemi con il tema scuro.</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">Tenere premuto l\'elenco per passare alla modalità di modifica.</string>
     <string name="sort_guide_2">È possibile modificare la posizione trascinando la freccia destra.</string>
     <string name="add_book">Aggiungi ai segnalibri</string>
-    <string name="add_quick">Aggiungi al collegamento</string>
-    <string name="add_homescreen">Aggiungi alla schermata home</string>
+    <string name="add_quick">Aggiungi alla home page di Soul</string>
+    <string name="add_home_1">Aggiungi alla schermata home</string>
+    <string name="add_home_2">Aggiungi alla schermata iniziale del telefono</string>
     <string name="set_homepage">Imposta come pagina iniziale</string>
+    <string name="soul_home">Pagina iniziale di Soul</string>
     <string name="setted">È stato impostato.</string>
     <string name="no_down_video">Non ci sono video scaricabili.</string>
     <string name="trans_report">Segnala errori di traduzione</string>
@@ -897,10 +899,7 @@
     <string name="no_info">Nessuna informazione</string>
     <string name="size_guide_1">A volte, quando scarichi un file, la dimensione complessiva del file continua a cambiare.</string>
     <string name="size_guide_2">Questo perché questa è la dimensione prevista del file, non la dimensione effettiva del file.</string>
-    <string name="size_guide_3">Per alcuni file, è possibile utilizzare più dati per ottenere la dimensione effettiva del file.</string>
-    <string name="size_guide_4">Dipende dal tipo di file che vuoi scaricare.</string>
-    <string name="size_guide_5">Per evitare un utilizzo non necessario dei dati, alcuni file forniscono una dimensione stimata anziché la dimensione effettiva durante il download.</string>
-    <string name="size_guide_6">Non vi è alcuna differenza nei risultati del download.</string>
+    <string name="size_guide_3">Non vi è alcuna differenza nei risultati del download.</string>
     <string name="torrent_down">Scarica torrent</string>
     <string name="crash_guide_1">Si è verificato un problema durante la visualizzazione della pagina web.</string>
     <string name="crash_guide_2">Se vedi spesso questa schermata, controlla le seguenti funzioni.</string>

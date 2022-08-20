@@ -462,7 +462,6 @@
     <string name="history_info_limit">保存期間よりも古い記録は自動的に削除されます。</string>
     <string name="history_info_none">履歴がすべて保存されます。\nデータがあまりにも多くなると、ブラウザのパフォーマンスが低下することがあります。</string>
     <string name="list">リスト</string>
-    <string name="page_no_image">このページには、イメージがありません。</string>
     <string name="touch_lock_info">ビデオの再生中にタッチロックを解除するためのロック画面。</string>
     <string name="touch_locked">タッチがロックされています。</string>
     <string name="touch_unlocked">タッチがロックを解除しました。</string>
@@ -520,6 +519,7 @@
     <string name="added">追加された</string>
     <string name="changed">変更された</string>
     <string name="vpn">DNS</string>
+    <string name="report_error">エラーを報告</string>
     <string name="report_site">サイト情報提供</string>
     <string name="report_down">動画をダウンロードすることができないサイトのアドレスを教えてください。</string>
     <string name="report_dark">ダークテーマで問題が発生しているサイトのアドレスを入力してください。</string>
@@ -578,9 +578,11 @@
     <string name="sort_guide_1">リストを長く押して編集モードに変更します。</string>
     <string name="sort_guide_2">右矢印をドラッグして位置を変更することができます。</string>
     <string name="add_book">ブックマークに追加</string>
-    <string name="add_quick">ショートカットに追加</string>
-    <string name="add_homescreen">ホーム画面に追加</string>
+    <string name="add_quick">Soulホームページに追加</string>
+    <string name="add_home_1">ホーム画面に追加</string>
+    <string name="add_home_2">電話のホーム画面に追加</string>
     <string name="set_homepage">ホームページに設定</string>
+    <string name="soul_home">Soulホームページ</string>
     <string name="setted">設定されています。</string>
     <string name="no_down_video">ダウンロード可能なビデオがありません。</string>
     <string name="trans_report">翻訳エラーを報告</string>
@@ -897,10 +899,7 @@
     <string name="no_info">情報なし</string>
     <string name="size_guide_1">ファイルをダウンロードすると、ファイルの合計サイズが変更され続ける場合があります。</string>
     <string name="size_guide_2">これは、ファイルの実際のサイズではなく、ファイルの予想サイズであるためです。</string>
-    <string name="size_guide_3">一部のファイルでは、ファイルの実際のサイズを取得する過程でより多くのデータが使用される場合があります。</string>
-    <string name="size_guide_4">ダウンロードするファイルの種類によって異なります。</string>
-    <string name="size_guide_5">不要なデータの使用を防ぐために、いくつかのファイルは、ダウンロード中に実際のサイズではなく予想サイズを提供します。</string>
-    <string name="size_guide_6">ダウンロード結果に違いはありません。</string>
+    <string name="size_guide_3">ダウンロード結果に違いはありません。</string>
     <string name="torrent_down">Torrentダウンロード</string>
     <string name="crash_guide_1">Webページの表示中に問題が発生しました。</string>
     <string name="crash_guide_2">この画面がよく表示される場合は、次の機能を確認してください。</string>
