@@ -379,6 +379,7 @@
     <string name="repeat_play">반복 재생</string>
     <string name="important_copyright">저작권은 매우 중요합니다.</string>
     <string name="cancelled">취소되었습니다.</string>
+    <string name="functional">기능성</string>
     <string name="locale">언어</string>
     <string name="locale_restart">언어가 변경되어서 앱을 다시 시작해야 합니다.</string>
     <string name="lang_res">언어 리소스</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">공간은 실행 중인 화면에서는 표시되지 않습니다.</string>
     <string name="openapp_guide_1">해당 링크를 실행할 수 있는 다른 앱을 엽니다.</string>
     <string name="openapp_guide_2">예를 들어 YouTube 앱으로 YouTube 링크를 엽니다.</string>
-    <string name="recommend">권장</string>
     <string name="sub_file">자막 파일</string>
     <string name="sub_setting">자막 설정</string>
     <string name="sub_on">자막 켜기</string>

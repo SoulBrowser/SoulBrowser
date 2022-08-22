@@ -379,6 +379,7 @@
     <string name="repeat_play">Повторне відтворення</string>
     <string name="important_copyright">Авторські права дуже важливі.</string>
     <string name="cancelled">Скасовано</string>
+    <string name="functional">Функціональний</string>
     <string name="locale">Мова</string>
     <string name="locale_restart">Мова змінилася, тому вам потрібно перезапустити програму.</string>
     <string name="lang_res">Мовні ресурси</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">На робочому екрані пробіли не видно.</string>
     <string name="openapp_guide_1">Відкрийте іншу програму, яка може запустити це посилання.</string>
     <string name="openapp_guide_2">Наприклад, відкрийте посилання YouTube за допомогою програми YouTube.</string>
-    <string name="recommend">Рекомендую</string>
     <string name="sub_file">Файл субтитрів</string>
     <string name="sub_setting">Налаштування субтитрів</string>
     <string name="sub_on">Субтитри ввімкнено</string>

@@ -379,6 +379,7 @@
     <string name="repeat_play">Tekrar oynatma</string>
     <string name="important_copyright">Telif hakkı çok önemlidir.</string>
     <string name="cancelled">İptal edildi</string>
+    <string name="functional">Fonksiyonel</string>
     <string name="locale">Dil</string>
     <string name="locale_restart">Dil değişti, bu yüzden uygulamayı yeniden başlatmanız gerekiyor.</string>
     <string name="lang_res">Dil kaynağı</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">Çalışan ekranda boşluklar görünmez.</string>
     <string name="openapp_guide_1">Bu bağlantıyı başlatabilecek başka bir uygulama açın.</string>
     <string name="openapp_guide_2">Örneğin, YouTube uygulamasıyla bir YouTube bağlantısı açın.</string>
-    <string name="recommend">Öner</string>
     <string name="sub_file">Altyazı dosyası</string>
     <string name="sub_setting">Altyazı ayarları</string>
     <string name="sub_on">Altyazı açık</string>

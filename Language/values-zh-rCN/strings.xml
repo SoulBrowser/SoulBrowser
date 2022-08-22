@@ -379,6 +379,7 @@
     <string name="repeat_play">重复播放</string>
     <string name="important_copyright">版权很重要</string>
     <string name="cancelled">它已被取消</string>
+    <string name="functional">功能性</string>
     <string name="locale">语言</string>
     <string name="locale_restart">更改语言需要重启浏览器</string>
     <string name="lang_res">语言资源</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">运行屏幕上看不到空格</string>
     <string name="openapp_guide_1">打开另一个可以启动该链接的应用程序</string>
     <string name="openapp_guide_2">例如，使用 YouTube 应用打开 YouTube 链接</string>
-    <string name="recommend">推荐</string>
     <string name="sub_file">字幕文件</string>
     <string name="sub_setting">字幕设置</string>
     <string name="sub_on">字幕开启</string>

@@ -379,6 +379,7 @@
     <string name="repeat_play">كرر اللعب</string>
     <string name="important_copyright">حقوق التأليف والنشر مهمة جدا.</string>
     <string name="cancelled">ألغيت.</string>
+    <string name="functional">وظيفي</string>
     <string name="locale">لغة</string>
     <string name="locale_restart">تم تغيير اللغة ، لذلك تحتاج إلى إعادة تشغيل التطبيق.</string>
     <string name="lang_res">مصدر اللغة</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">المساحات غير مرئية على شاشة التشغيل.</string>
     <string name="openapp_guide_1">افتح تطبيقًا آخر يمكنه تشغيل هذا الرابط.</string>
     <string name="openapp_guide_2">على سبيل المثال ، افتح رابط YouTube باستخدام تطبيق YouTube.</string>
-    <string name="recommend">نوصي</string>
     <string name="sub_file">ملف الترجمة</string>
     <string name="sub_setting">إعدادات الترجمة</string>
     <string name="sub_on">تشغيل الترجمة</string>

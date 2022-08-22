@@ -379,6 +379,7 @@
     <string name="repeat_play">Repeat play</string>
     <string name="important_copyright">Copyright is very important.</string>
     <string name="cancelled">Cancelled</string>
+    <string name="functional">Functional</string>
     <string name="locale">Language</string>
     <string name="locale_restart">The language has changed, so you need to restart the app.</string>
     <string name="lang_res">Language resource</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">Spaces are not visible on the running screen.</string>
     <string name="openapp_guide_1">Open another app that can launch that link.</string>
     <string name="openapp_guide_2">For example, open a YouTube link with the YouTube app.</string>
-    <string name="recommend">Recommend</string>
     <string name="sub_file">Subtitle file</string>
     <string name="sub_setting">Subtitle settings</string>
     <string name="sub_on">Subtitle on</string>

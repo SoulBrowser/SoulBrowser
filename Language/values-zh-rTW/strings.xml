@@ -379,6 +379,7 @@
     <string name="repeat_play">重複播放</string>
     <string name="important_copyright">版權非常重要</string>
     <string name="cancelled">它已被取消</string>
+    <string name="functional">功能性</string>
     <string name="locale">語言</string>
     <string name="locale_restart">語言已變更，因此您需要重新啟動應用成式</string>
     <string name="lang_res">語言資源</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">在運行的螢幕上看不到空格</string>
     <string name="openapp_guide_1">使用另一個應用程式開啟該連結</string>
     <string name="openapp_guide_2">例如，使用 YouTube 應用程式打開 YouTube 連結</string>
-    <string name="recommend">推薦</string>
     <string name="sub_file">字幕檔案</string>
     <string name="sub_setting">字幕設定</string>
     <string name="sub_on">字幕開啟</string>

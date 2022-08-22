@@ -379,6 +379,7 @@
     <string name="repeat_play">Powtórz odtwarzanie</string>
     <string name="important_copyright">Prawo autorskie jest bardzo ważne.</string>
     <string name="cancelled">Anulowany</string>
+    <string name="functional">Funkcjonalny</string>
     <string name="locale">Język</string>
     <string name="locale_restart">Język się zmienił, więc musisz ponownie uruchomić aplikację.</string>
     <string name="lang_res">Zasób językowy</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">Spacje nie są widoczne na uruchomionym ekranie.</string>
     <string name="openapp_guide_1">Otwórz inną aplikację, która może uruchomić ten link.</string>
     <string name="openapp_guide_2">Na przykład otwórz link do YouTube w aplikacji YouTube.</string>
-    <string name="recommend">Polecić</string>
     <string name="sub_file">Plik z napisami</string>
     <string name="sub_setting">Ustawienia napisów</string>
     <string name="sub_on">Napisy włączone</string>

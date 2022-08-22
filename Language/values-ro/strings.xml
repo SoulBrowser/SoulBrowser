@@ -379,6 +379,7 @@
     <string name="repeat_play">Repetă jocul</string>
     <string name="important_copyright">Drepturile de autor sunt foarte importante.</string>
     <string name="cancelled">Anulat</string>
+    <string name="functional">Funcţional</string>
     <string name="locale">Language</string>
     <string name="locale_restart">Limba s-a schimbat, deci trebuie să reporniți aplicația.</string>
     <string name="lang_res">Resursă lingvistică</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">Spațiile nu sunt vizibile pe ecranul de rulare.</string>
     <string name="openapp_guide_1">Deschideți o altă aplicație care poate lansa acel link.</string>
     <string name="openapp_guide_2">De exemplu, deschideți un link YouTube cu aplicația YouTube.</string>
-    <string name="recommend">Recomanda</string>
     <string name="sub_file">Fișier cu subtitrare</string>
     <string name="sub_setting">Setări de subtitrare</string>
     <string name="sub_on">Subtitrare activată</string>

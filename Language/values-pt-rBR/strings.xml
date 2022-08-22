@@ -379,6 +379,7 @@
     <string name="repeat_play">Repetir a reprodução</string>
     <string name="important_copyright">Copyright é muito importante.</string>
     <string name="cancelled">Cancelado</string>
+    <string name="functional">Funcional</string>
     <string name="locale">Idioma</string>
     <string name="locale_restart">O idioma mudou, então você precisa reiniciar o aplicativo.</string>
     <string name="lang_res">Arquivos de idioma</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">Os espaços não são visíveis na tela de corrida.</string>
     <string name="openapp_guide_1">Abra outro aplicativo que possa iniciar esse link.</string>
     <string name="openapp_guide_2">Por exemplo, abra um link do YouTube com o aplicativo YouTube.</string>
-    <string name="recommend">Recomendar</string>
     <string name="sub_file">Arquivo de legenda</string>
     <string name="sub_setting">Configurações de legendas</string>
     <string name="sub_on">Legenda ativada</string>

@@ -379,6 +379,7 @@
     <string name="repeat_play">Wiederholen Sie das Spiel</string>
     <string name="important_copyright">Das Urheberrecht ist sehr wichtig.</string>
     <string name="cancelled">Abgebrochen</string>
+    <string name="functional">Funktionell</string>
     <string name="locale">Sprache</string>
     <string name="locale_restart">Die Sprache hat sich geändert, daher müssen Sie die App neu starten.</string>
     <string name="lang_res">Sprachressource</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">Leerzeichen sind auf dem laufenden Bildschirm nicht sichtbar.</string>
     <string name="openapp_guide_1">Öffnen Sie eine andere App, die diesen Link starten kann.</string>
     <string name="openapp_guide_2">Öffnen Sie beispielsweise einen YouTube-Link mit der YouTube-App.</string>
-    <string name="recommend">Empfehlen</string>
     <string name="sub_file">Untertiteldatei</string>
     <string name="sub_setting">Untertiteleinstellungen</string>
     <string name="sub_on">Untertitel an</string>

@@ -379,6 +379,7 @@
     <string name="repeat_play">リピートプレイ</string>
     <string name="important_copyright">著作権は非常に重要です。</string>
     <string name="cancelled">キャンセルされました。</string>
+    <string name="functional">機能性</string>
     <string name="locale">言語</string>
     <string name="locale_restart">言語が変更されたアプリを再起動する必要があります。</string>
     <string name="lang_res">言語リソース</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">スペースは実行中の画面には表示されません。</string>
     <string name="openapp_guide_1">そのリンクを実行できる他のアプリを開きます。</string>
     <string name="openapp_guide_2">たとえば、YouTube アプリで YouTube リンクを開きます。</string>
-    <string name="recommend">推奨</string>
     <string name="sub_file">字幕ファイル</string>
     <string name="sub_setting">字幕設定</string>
     <string name="sub_on">字幕</string>

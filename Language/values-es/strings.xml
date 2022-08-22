@@ -379,6 +379,7 @@
     <string name="repeat_play">Repetir reproducción</string>
     <string name="important_copyright">El copyright es muy importante.</string>
     <string name="cancelled">Cancelado</string>
+    <string name="functional">Funcional</string>
     <string name="locale">Idioma</string>
     <string name="locale_restart">El idioma ha cambiado, por lo que debe reiniciar la aplicación.</string>
     <string name="lang_res">Recurso de idioma</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">Los espacios no son visibles en la pantalla en ejecución.</string>
     <string name="openapp_guide_1">Abra otra aplicación que pueda iniciar ese enlace.</string>
     <string name="openapp_guide_2">Por ejemplo, abra un enlace de YouTube con la aplicación de YouTube.</string>
-    <string name="recommend">Recomendar</string>
     <string name="sub_file">Archivo de subtítulos</string>
     <string name="sub_setting">Configuración de subtítulos</string>
     <string name="sub_on">Subtítulo en</string>

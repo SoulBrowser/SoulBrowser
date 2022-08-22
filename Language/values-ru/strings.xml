@@ -379,6 +379,7 @@
     <string name="repeat_play">Повторить воспроизведение</string>
     <string name="important_copyright">Авторское право - важно.</string>
     <string name="cancelled">Отменено</string>
+    <string name="functional">Функциональный</string>
     <string name="locale">Язык</string>
     <string name="locale_restart">Язык изменился, поэтому нужно перезапустить приложение.</string>
     <string name="lang_res">Ресурсы перевода</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">Пробелы не видны на рабочем экране.</string>
     <string name="openapp_guide_1">Откройте другое приложение, которое может запускать эту ссылку.</string>
     <string name="openapp_guide_2">Например, откройте ссылку YouTube в приложении YouTube.</string>
-    <string name="recommend">Рекомендуем</string>
     <string name="sub_file">Файл субтитров</string>
     <string name="sub_setting">Настройки субтитров</string>
     <string name="sub_on">Субтитры включены</string>

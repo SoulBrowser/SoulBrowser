@@ -379,6 +379,7 @@
     <string name="repeat_play">เล่นซ้ำ</string>
     <string name="important_copyright">ลิขสิทธิ์มีความสำคัญมาก</string>
     <string name="cancelled">ยกเลิกแล้ว</string>
+    <string name="functional">การทำงาน</string>
     <string name="locale">ภาษา</string>
     <string name="locale_restart">ภาษามีการเปลี่ยนแปลงดังนั้นคุณต้องรีสตาร์ทแอป</string>
     <string name="lang_res">ทรัพยากรภาษา</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">ช่องว่างไม่ปรากฏบนหน้าจอที่กำลังรันอยู่</string>
     <string name="openapp_guide_1">เปิดแอปอื่นที่สามารถเปิดลิงก์นั้นได้</string>
     <string name="openapp_guide_2">ตัวอย่างเช่น เปิดลิงก์ YouTube ด้วยแอป YouTube</string>
-    <string name="recommend">แนะนำ</string>
     <string name="sub_file">ไฟล์คำบรรยาย</string>
     <string name="sub_setting">การตั้งค่าคำบรรยาย</string>
     <string name="sub_on">คำบรรยายบน</string>

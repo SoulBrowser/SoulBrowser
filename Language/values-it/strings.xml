@@ -379,6 +379,7 @@
     <string name="repeat_play">Ripeti la riproduzione</string>
     <string name="important_copyright">Il copyright è molto importante.</string>
     <string name="cancelled">È stato soppresso.</string>
+    <string name="functional">Funzionale</string>
     <string name="locale">Lingua</string>
     <string name="locale_restart">La lingua è cambiata, quindi è necessario riavviare l\'app.</string>
     <string name="lang_res">Risorse linguistiche</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">Gli spazi non sono visibili nella schermata di esecuzione.</string>
     <string name="openapp_guide_1">Apri un\'altra app in grado di avviare quel collegamento.</string>
     <string name="openapp_guide_2">Ad esempio, apri un collegamento YouTube con l\'app YouTube.</string>
-    <string name="recommend">Consiglia</string>
     <string name="sub_file">File dei sottotitoli</string>
     <string name="sub_setting">Impostazioni dei sottotitoli</string>
     <string name="sub_on">Sottotitolo attivato</string>

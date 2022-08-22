@@ -379,6 +379,7 @@
     <string name="repeat_play">Putar ulang</string>
     <string name="important_copyright">Hak cipta sangat penting.</string>
     <string name="cancelled">Dibatalkan</string>
+    <string name="functional">Fungsional</string>
     <string name="locale">Bahasa</string>
     <string name="locale_restart">Bahasanya telah berubah, jadi Anda perlu memulai ulang aplikasi.</string>
     <string name="lang_res">Sumber bahasa</string>
@@ -875,7 +876,6 @@
     <string name="space_guide">Spasi tidak terlihat di layar yang sedang berjalan.</string>
     <string name="openapp_guide_1">Buka aplikasi lain yang dapat meluncurkan tautan itu.</string>
     <string name="openapp_guide_2">Misalnya, buka tautan YouTube dengan aplikasi YouTube.</string>
-    <string name="recommend">Menyarankan</string>
     <string name="sub_file">Berkas subtitel</string>
     <string name="sub_setting">Pengaturan subtitle</string>
     <string name="sub_on">Subtitle aktif</string>
