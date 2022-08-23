@@ -379,6 +379,7 @@
     <string name="repeat_play">Repeat play</string>
     <string name="important_copyright">Copyright is very important.</string>
     <string name="cancelled">Cancelled</string>
+    <string name="basic">Basic</string>
     <string name="functional">Functional</string>
     <string name="locale">Language</string>
     <string name="locale_restart">The language has changed, so you need to restart the app.</string>
@@ -905,4 +906,9 @@
     <string name="crash_guide_2">If you see this screen often, check the following features.</string>
     <string name="block_amp">Disable Google AMP</string>
     <string name="block_amp_info">Disable Google AMP in Google search results.</string>
+    <string name="filter_guide_1">Ad blocking is based on filters.</string>
+    <string name="filter_guide_2">If you have a site that doesn\'t block ads, add an appropriate filter.</string>
+    <string name="filter_guide_3">Using too many filters can slow down browser.</string>
+    <string name="filter_guide_4">Find the combination that suits you best.</string>
+    <string name="filter_guide_5">The recommended combination is the basic filter and the language filter.</string>
 </resources>

@@ -379,6 +379,7 @@
     <string name="repeat_play">Wiederholen Sie das Spiel</string>
     <string name="important_copyright">Das Urheberrecht ist sehr wichtig.</string>
     <string name="cancelled">Abgebrochen</string>
+    <string name="basic">Basic</string>
     <string name="functional">Funktionell</string>
     <string name="locale">Sprache</string>
     <string name="locale_restart">Die Sprache hat sich geändert, daher müssen Sie die App neu starten.</string>
@@ -905,4 +906,9 @@
     <string name="crash_guide_2">Wenn Sie diesen Bildschirm häufig sehen, überprüfen Sie die folgenden Funktionen.</string>
     <string name="block_amp">Deaktivieren Sie Google AMP</string>
     <string name="block_amp_info">Deaktivieren Sie Google AMP in den Google-Suchergebnissen.</string>
+    <string name="filter_guide_1">Die Anzeigenblockierung basiert auf Filtern.</string>
+    <string name="filter_guide_2">Wenn Sie eine Website haben, die keine Anzeigen blockiert, fügen Sie einen geeigneten Filter hinzu.</string>
+    <string name="filter_guide_3">Die Verwendung zu vieler Filter kann den Browser verlangsamen.</string>
+    <string name="filter_guide_4">Finden Sie die Kombination, die am besten zu Ihnen passt.</string>
+    <string name="filter_guide_5">Die empfohlene Kombination ist der Basisfilter und der Sprachfilter.</string>
 </resources>

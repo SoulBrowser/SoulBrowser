@@ -379,6 +379,7 @@
     <string name="repeat_play">Повторне відтворення</string>
     <string name="important_copyright">Авторські права дуже важливі.</string>
     <string name="cancelled">Скасовано</string>
+    <string name="basic">Базовий</string>
     <string name="functional">Функціональний</string>
     <string name="locale">Мова</string>
     <string name="locale_restart">Мова змінилася, тому вам потрібно перезапустити програму.</string>
@@ -905,4 +906,9 @@
     <string name="crash_guide_2">Якщо ви часто бачите цей екран, перевірте наступні функції.</string>
     <string name="block_amp">Вимкніть Google AMP</string>
     <string name="block_amp_info">Вимкніть Google AMP у результатах пошуку Google.</string>
+    <string name="filter_guide_1">Блокування реклами засноване на фільтрах.</string>
+    <string name="filter_guide_2">Якщо у вас є сайт, який не блокує рекламу, додайте відповідний фільтр.</string>
+    <string name="filter_guide_3">Використання занадто великої кількості фільтрів може уповільнити роботу браузера.</string>
+    <string name="filter_guide_4">Знайдіть поєднання, яке вам найбільше підходить.</string>
+    <string name="filter_guide_5">Рекомендованою комбінацією є основний фільтр і мовний фільтр.</string>
 </resources>

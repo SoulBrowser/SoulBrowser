@@ -379,6 +379,7 @@
     <string name="repeat_play">เล่นซ้ำ</string>
     <string name="important_copyright">ลิขสิทธิ์มีความสำคัญมาก</string>
     <string name="cancelled">ยกเลิกแล้ว</string>
+    <string name="basic">ขั้นพื้นฐาน</string>
     <string name="functional">การทำงาน</string>
     <string name="locale">ภาษา</string>
     <string name="locale_restart">ภาษามีการเปลี่ยนแปลงดังนั้นคุณต้องรีสตาร์ทแอป</string>
@@ -905,4 +906,9 @@
     <string name="crash_guide_2">หากคุณเห็นหน้าจอนี้บ่อยๆ ให้ตรวจสอบคุณสมบัติต่อไปนี้</string>
     <string name="block_amp">ปิดการใช้งาน Google AMP</string>
     <string name="block_amp_info">ปิดใช้งาน Google AMP ในผลการค้นหาของ Google</string>
+    <string name="filter_guide_1">การบล็อกโฆษณาขึ้นอยู่กับตัวกรอง</string>
+    <string name="filter_guide_2">หากคุณมีไซต์ที่ไม่ปิดกั้นโฆษณา ให้เพิ่มตัวกรองที่เหมาะสม</string>
+    <string name="filter_guide_3">การใช้ตัวกรองมากเกินไปอาจทำให้เบราว์เซอร์ทำงานช้าลง</string>
+    <string name="filter_guide_4">ค้นหาชุดค่าผสมที่เหมาะกับคุณที่สุด</string>
+    <string name="filter_guide_5">ชุดค่าผสมที่แนะนำคือตัวกรองพื้นฐานและตัวกรองภาษา</string>
 </resources>

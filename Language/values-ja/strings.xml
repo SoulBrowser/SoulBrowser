@@ -379,6 +379,7 @@
     <string name="repeat_play">リピートプレイ</string>
     <string name="important_copyright">著作権は非常に重要です。</string>
     <string name="cancelled">キャンセルされました。</string>
+    <string name="basic">基本</string>
     <string name="functional">機能性</string>
     <string name="locale">言語</string>
     <string name="locale_restart">言語が変更されたアプリを再起動する必要があります。</string>
@@ -905,4 +906,9 @@
     <string name="crash_guide_2">この画面がよく表示される場合は、次の機能を確認してください。</string>
     <string name="block_amp">Google AMPを無効にする</string>
     <string name="block_amp_info">Google 検索結果で Google AMPを無効にします。</string>
+    <string name="filter_guide_1">広告のブロックはフィルターに基づいています。</string>
+    <string name="filter_guide_2">広告をブロックしないサイトがある場合は、適切なフィルターを追加してください。</string>
+    <string name="filter_guide_3">フィルターの数が多すぎると、ブラウザーの速度が低下する可能性があります。</string>
+    <string name="filter_guide_4">最適な組み合わせを見つけてください。</string>
+    <string name="filter_guide_5">推奨される組み合わせは、基本フィルターと言語フィルターです。</string>
 </resources>

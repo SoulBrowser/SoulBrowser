@@ -379,6 +379,7 @@
     <string name="repeat_play">Putar ulang</string>
     <string name="important_copyright">Hak cipta sangat penting.</string>
     <string name="cancelled">Dibatalkan</string>
+    <string name="basic">Dasar</string>
     <string name="functional">Fungsional</string>
     <string name="locale">Bahasa</string>
     <string name="locale_restart">Bahasanya telah berubah, jadi Anda perlu memulai ulang aplikasi.</string>
@@ -905,4 +906,9 @@
     <string name="crash_guide_2">Jika Anda sering melihat layar ini, periksa fitur berikut.</string>
     <string name="block_amp">Nonaktifkan Google AMP</string>
     <string name="block_amp_info">Nonaktifkan Google AMP di hasil pencarian Google.</string>
+    <string name="filter_guide_1">Pemblokiran iklan didasarkan pada filter.</string>
+    <string name="filter_guide_2">Jika Anda memiliki situs yang tidak memblokir iklan, tambahkan filter yang sesuai.</string>
+    <string name="filter_guide_3">Menggunakan terlalu banyak filter dapat memperlambat browser.</string>
+    <string name="filter_guide_4">Temukan kombinasi yang paling cocok untuk Anda.</string>
+    <string name="filter_guide_5">Kombinasi yang disarankan adalah filter dasar dan filter bahasa.</string>
 </resources>

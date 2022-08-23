@@ -379,6 +379,7 @@
     <string name="repeat_play">Chơi lại</string>
     <string name="important_copyright">Bản quyền là rất quan trọng.</string>
     <string name="cancelled">Đã hủy</string>
+    <string name="basic">Nền tảng</string>
     <string name="functional">Chức năng</string>
     <string name="locale">Ngôn ngữ</string>
     <string name="locale_restart">Ngôn ngữ đã thay đổi, vì vậy bạn cần khởi động lại ứng dụng.</string>
@@ -905,4 +906,9 @@
     <string name="crash_guide_2">Nếu bạn thấy màn hình này thường xuyên, hãy kiểm tra các tính năng sau.</string>
     <string name="block_amp">Tắt Google AMP</string>
     <string name="block_amp_info">Tắt Google AMP trong kết quả tìm kiếm của Google.</string>
+    <string name="filter_guide_1">Việc chặn quảng cáo dựa trên các bộ lọc.</string>
+    <string name="filter_guide_2">Nếu bạn có một trang web không chặn quảng cáo, hãy thêm một bộ lọc thích hợp.</string>
+    <string name="filter_guide_3">Sử dụng quá nhiều bộ lọc có thể làm chậm trình duyệt.</string>
+    <string name="filter_guide_4">Tìm sự kết hợp phù hợp với bạn nhất.</string>
+    <string name="filter_guide_5">Sự kết hợp được đề xuất là bộ lọc cơ bản và bộ lọc ngôn ngữ.</string>
 </resources>

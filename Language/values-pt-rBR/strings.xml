@@ -379,6 +379,7 @@
     <string name="repeat_play">Repetir a reprodução</string>
     <string name="important_copyright">Copyright é muito importante.</string>
     <string name="cancelled">Cancelado</string>
+    <string name="basic">Básico</string>
     <string name="functional">Funcional</string>
     <string name="locale">Idioma</string>
     <string name="locale_restart">O idioma mudou, então você precisa reiniciar o aplicativo.</string>
@@ -905,4 +906,9 @@
     <string name="crash_guide_2">Se você vir essa tela com frequência, verifique os recursos a seguir.</string>
     <string name="block_amp">Desativar Google AMP</string>
     <string name="block_amp_info">Desative o Google AMP nos resultados de pesquisa do Google.</string>
+    <string name="filter_guide_1">O bloqueio de anúncios é baseado em filtros.</string>
+    <string name="filter_guide_2">Se você tiver um site que não bloqueia anúncios, adicione um filtro apropriado.</string>
+    <string name="filter_guide_3">Usar muitos filtros pode tornar o navegador mais lento.</string>
+    <string name="filter_guide_4">Encontre a combinação que mais combina com você.</string>
+    <string name="filter_guide_5">A combinação recomendada é o filtro básico e o filtro de idioma.</string>
 </resources>

@@ -379,6 +379,7 @@
     <string name="repeat_play">Tekrar oynatma</string>
     <string name="important_copyright">Telif hakkı çok önemlidir.</string>
     <string name="cancelled">İptal edildi</string>
+    <string name="basic">Temel</string>
     <string name="functional">Fonksiyonel</string>
     <string name="locale">Dil</string>
     <string name="locale_restart">Dil değişti, bu yüzden uygulamayı yeniden başlatmanız gerekiyor.</string>
@@ -905,4 +906,9 @@
     <string name="crash_guide_2">Bu ekranı sık görüyorsanız, aşağıdaki özellikleri kontrol edin.</string>
     <string name="block_amp">Google AMP\'yi devre dışı bırak</string>
     <string name="block_amp_info">Google arama sonuçlarında Google AMP\'yi devre dışı bırakın.</string>
+    <string name="filter_guide_1">Reklam engelleme, filtrelere dayalıdır.</string>
+    <string name="filter_guide_2">Reklamları engellemeyen bir siteniz varsa uygun bir filtre ekleyin.</string>
+    <string name="filter_guide_3">Çok fazla filtre kullanmak tarayıcıyı yavaşlatabilir.</string>
+    <string name="filter_guide_4">Size en uygun kombinasyonu bulun.</string>
+    <string name="filter_guide_5">Önerilen kombinasyon, temel filtre ve dil filtresidir.</string>
 </resources>

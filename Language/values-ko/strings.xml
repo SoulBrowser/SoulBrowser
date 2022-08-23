@@ -379,6 +379,7 @@
     <string name="repeat_play">반복 재생</string>
     <string name="important_copyright">저작권은 매우 중요합니다.</string>
     <string name="cancelled">취소되었습니다.</string>
+    <string name="basic">기본</string>
     <string name="functional">기능성</string>
     <string name="locale">언어</string>
     <string name="locale_restart">언어가 변경되어서 앱을 다시 시작해야 합니다.</string>
@@ -905,4 +906,9 @@
     <string name="crash_guide_2">이 화면이 자주 보이신다면 다음 기능을 확인해 보세요.</string>
     <string name="block_amp">Google AMP 비활성화</string>
     <string name="block_amp_info">Google 검색 결과에서 Google AMP를 비활성화합니다.</string>
+    <string name="filter_guide_1">광고 차단은 필터를 기반으로 합니다.</string>
+    <string name="filter_guide_2">광고를 차단하지 않는 사이트가 있는 경우 적절한 필터를 추가하세요.</string>
+    <string name="filter_guide_3">필터를 너무 많이 사용하면 브라우저가 느려질 수 있습니다.</string>
+    <string name="filter_guide_4">가장 적합한 조합을 찾으십시오.</string>
+    <string name="filter_guide_5">권장 조합은 기본 필터와 언어 필터입니다.</string>
 </resources>
