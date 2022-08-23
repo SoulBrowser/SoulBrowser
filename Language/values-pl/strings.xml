@@ -682,7 +682,6 @@
     <string name="down_fail_guide">Plik może być uszkodzony.</string>
     <string name="ads_filter">Filtr reklam</string>
     <string name="user_filter">Filtr użytkownika</string>
-    <string name="filter_info">Używanie wielu filtrów jednocześnie może spowolnić działanie przeglądarki.</string>
     <string name="backup_title">Zapasowej</string>
     <string name="backup_import">Importuj</string>
     <string name="backup_export">Eksportuj</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">Blokowanie reklam opiera się na filtrach.</string>
     <string name="filter_guide_2">Jeśli masz witrynę, która nie blokuje reklam, dodaj odpowiedni filtr.</string>
     <string name="filter_guide_3">Używanie zbyt wielu filtrów może spowolnić przeglądarkę.</string>
-    <string name="filter_guide_4">Znajdź kombinację, która najbardziej Ci odpowiada.</string>
+    <string name="filter_guide_4">Znajdź kombinację odpowiednią dla siebie.</string>
     <string name="filter_guide_5">Zalecaną kombinacją jest filtr podstawowy i filtr językowy.</string>
 </resources>

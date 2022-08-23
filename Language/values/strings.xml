@@ -682,7 +682,6 @@
     <string name="down_fail_guide">The file may be damaged.</string>
     <string name="ads_filter">Ad filter</string>
     <string name="user_filter">User filter</string>
-    <string name="filter_info">Using multiple filters at the same time can slow browser performance.</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Import</string>
     <string name="backup_export">Export</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">Ad blocking is based on filters.</string>
     <string name="filter_guide_2">If you have a site that doesn\'t block ads, add an appropriate filter.</string>
     <string name="filter_guide_3">Using too many filters can slow down browser.</string>
-    <string name="filter_guide_4">Find the combination that suits you best.</string>
+    <string name="filter_guide_4">Find the combination that\'s right for you.</string>
     <string name="filter_guide_5">The recommended combination is the basic filter and the language filter.</string>
 </resources>

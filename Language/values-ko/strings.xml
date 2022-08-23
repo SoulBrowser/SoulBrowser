@@ -682,7 +682,6 @@
     <string name="down_fail_guide">파일이 손상되었을 수 있습니다.</string>
     <string name="ads_filter">광고 필터</string>
     <string name="user_filter">사용자 필터</string>
-    <string name="filter_info">여러 필터를 동시에 사용하면 브라우저 성능이 느려질 수 있습니다.</string>
     <string name="backup_title">백업</string>
     <string name="backup_import">불러오기</string>
     <string name="backup_export">내보내기</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">광고 차단은 필터를 기반으로 합니다.</string>
     <string name="filter_guide_2">광고를 차단하지 않는 사이트가 있는 경우 적절한 필터를 추가하세요.</string>
     <string name="filter_guide_3">필터를 너무 많이 사용하면 브라우저가 느려질 수 있습니다.</string>
-    <string name="filter_guide_4">가장 적합한 조합을 찾으십시오.</string>
+    <string name="filter_guide_4">나에게 맞는 조합을 찾아보세요.</string>
     <string name="filter_guide_5">권장 조합은 기본 필터와 언어 필터입니다.</string>
 </resources>

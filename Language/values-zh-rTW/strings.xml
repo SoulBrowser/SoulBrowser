@@ -682,7 +682,6 @@
     <string name="down_fail_guide">該檔案已損壞</string>
     <string name="ads_filter">廣告過濾器</string>
     <string name="user_filter">用戶過濾器</string>
-    <string name="filter_info">同時使用多個過濾器會降低瀏覽器效能</string>
     <string name="backup_title">備份</string>
     <string name="backup_import">匯入</string>
     <string name="backup_export">匯出</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">廣告攔截基於過濾器</string>
     <string name="filter_guide_2">如果您的網站不屏蔽廣告，請添加適當的過濾器</string>
     <string name="filter_guide_3">使用過多的過濾器會降低瀏覽器的速度</string>
-    <string name="filter_guide_4">找到最適合您的組合</string>
+    <string name="filter_guide_4">找到適合您的組合</string>
     <string name="filter_guide_5">推薦的組合是基本過濾器和語言過濾器</string>
 </resources>

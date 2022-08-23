@@ -682,7 +682,6 @@
     <string name="down_fail_guide">Dosya zarar görmüş olabilir.</string>
     <string name="ads_filter">Reklam filtresi</string>
     <string name="user_filter">Kullanıcı filtresi</string>
-    <string name="filter_info">Aynı anda birden fazla filtre kullanmak tarayıcı performansını yavaşlatabilir.</string>
     <string name="backup_title">Yedekleme</string>
     <string name="backup_import">İçe aktar</string>
     <string name="backup_export">Dışa aktar</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">Reklam engelleme, filtrelere dayalıdır.</string>
     <string name="filter_guide_2">Reklamları engellemeyen bir siteniz varsa uygun bir filtre ekleyin.</string>
     <string name="filter_guide_3">Çok fazla filtre kullanmak tarayıcıyı yavaşlatabilir.</string>
-    <string name="filter_guide_4">Size en uygun kombinasyonu bulun.</string>
+    <string name="filter_guide_4">Size uygun kombinasyonu bulun.</string>
     <string name="filter_guide_5">Önerilen kombinasyon, temel filtre ve dil filtresidir.</string>
 </resources>

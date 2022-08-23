@@ -682,7 +682,6 @@
     <string name="down_fail_guide">قد يكون الملف تالفًا.</string>
     <string name="ads_filter">مرشح الإعلانات</string>
     <string name="user_filter">مرشح المستخدم</string>
-    <string name="filter_info">يمكن أن يؤدي استخدام عوامل تصفية متعددة في نفس الوقت إلى إبطاء أداء المتصفح.</string>
     <string name="backup_title">دعم</string>
     <string name="backup_import">حمل</string>
     <string name="backup_export">يصدر</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">منع الإعلان يعتمد على الفلاتر.</string>
     <string name="filter_guide_2">إذا كان لديك موقع لا يمنع الإعلانات ، فأضف عامل تصفية مناسب.</string>
     <string name="filter_guide_3">يمكن أن يؤدي استخدام الكثير من المرشحات إلى إبطاء المتصفح.</string>
-    <string name="filter_guide_4">ابحث عن المجموعة التي تناسبك بشكل أفضل.</string>
+    <string name="filter_guide_4">اعثر على المجموعة المناسبة لك.</string>
     <string name="filter_guide_5">التركيبة الموصى بها هي عامل التصفية الأساسي ومرشح اللغة.</string>
 </resources>

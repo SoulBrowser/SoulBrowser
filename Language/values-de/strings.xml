@@ -682,7 +682,6 @@
     <string name="down_fail_guide">Die Datei ist möglicherweise beschädigt.</string>
     <string name="ads_filter">Anzeigenfilter</string>
     <string name="user_filter">Benutzerfilter</string>
-    <string name="filter_info">Die gleichzeitige Verwendung mehrerer Filter kann die Browserleistung beeinträchtigen.</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Importieren</string>
     <string name="backup_export">Exportieren</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">Die Anzeigenblockierung basiert auf Filtern.</string>
     <string name="filter_guide_2">Wenn Sie eine Website haben, die keine Anzeigen blockiert, fügen Sie einen geeigneten Filter hinzu.</string>
     <string name="filter_guide_3">Die Verwendung zu vieler Filter kann den Browser verlangsamen.</string>
-    <string name="filter_guide_4">Finden Sie die Kombination, die am besten zu Ihnen passt.</string>
+    <string name="filter_guide_4">Finden Sie die für Sie passende Kombination.</string>
     <string name="filter_guide_5">Die empfohlene Kombination ist der Basisfilter und der Sprachfilter.</string>
 </resources>

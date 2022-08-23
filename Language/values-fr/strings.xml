@@ -682,7 +682,6 @@
     <string name="down_fail_guide">Le fichier est peut-être endommagé.</string>
     <string name="ads_filter">Filtre publicitaire</string>
     <string name="user_filter">Filtre utilisateur</string>
-    <string name="filter_info">L\'utilisation de plusieurs filtres en même temps peut ralentir les performances du navigateur.</string>
     <string name="backup_title">Sauvegarde</string>
     <string name="backup_import">Importer</string>
     <string name="backup_export">Exporter</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">Le blocage des publicités est basé sur des filtres.</string>
     <string name="filter_guide_2">Si vous avez un site qui ne bloque pas les publicités, ajoutez un filtre approprié.</string>
     <string name="filter_guide_3">L\'utilisation d\'un trop grand nombre de filtres peut ralentir le navigateur.</string>
-    <string name="filter_guide_4">Trouvez la combinaison qui vous convient le mieux.</string>
+    <string name="filter_guide_4">Trouvez la combinaison qui vous convient.</string>
     <string name="filter_guide_5">La combinaison recommandée est le filtre de base et le filtre de langue.</string>
 </resources>

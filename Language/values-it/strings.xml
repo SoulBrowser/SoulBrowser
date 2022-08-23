@@ -682,7 +682,6 @@
     <string name="down_fail_guide">Il file potrebbe essere danneggiato.</string>
     <string name="ads_filter">Filtro degli annunci</string>
     <string name="user_filter">Filtro utente</string>
-    <string name="filter_info">L\'uso di più filtri contemporaneamente può rallentare le prestazioni del browser.</string>
     <string name="backup_title">Backup</string>
     <string name="backup_import">Importa</string>
     <string name="backup_export">Esporta</string>

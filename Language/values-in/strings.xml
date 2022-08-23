@@ -682,7 +682,6 @@
     <string name="down_fail_guide">File mungkin rusak.</string>
     <string name="ads_filter">Filter iklan</string>
     <string name="user_filter">Filter pengguna</string>
-    <string name="filter_info">Menggunakan beberapa filter sekaligus dapat memperlambat kinerja browser.</string>
     <string name="backup_title">Cadangan</string>
     <string name="backup_import">Impor</string>
     <string name="backup_export">Ekspor</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">Pemblokiran iklan didasarkan pada filter.</string>
     <string name="filter_guide_2">Jika Anda memiliki situs yang tidak memblokir iklan, tambahkan filter yang sesuai.</string>
     <string name="filter_guide_3">Menggunakan terlalu banyak filter dapat memperlambat browser.</string>
-    <string name="filter_guide_4">Temukan kombinasi yang paling cocok untuk Anda.</string>
+    <string name="filter_guide_4">Temukan kombinasi yang tepat untuk Anda.</string>
     <string name="filter_guide_5">Kombinasi yang disarankan adalah filter dasar dan filter bahasa.</string>
 </resources>

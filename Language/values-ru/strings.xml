@@ -682,7 +682,6 @@
     <string name="down_fail_guide">Файл может быть повреждён.</string>
     <string name="ads_filter">Рекламный фильтр</string>
     <string name="user_filter">Пользовательский фильтр</string>
-    <string name="filter_info">Использование нескольких фильтров одновременно может снизить производительность браузера.</string>
     <string name="backup_title">Резервное копирование и восстановление</string>
     <string name="backup_import">Импорт</string>
     <string name="backup_export">Экспорт</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">Блокировка рекламы основана на фильтрах.</string>
     <string name="filter_guide_2">Если у вас есть сайт, который не блокирует рекламу, добавьте соответствующий фильтр.</string>
     <string name="filter_guide_3">Использование слишком большого количества фильтров может замедлить работу браузера.</string>
-    <string name="filter_guide_4">Найдите комбинацию, которая подходит вам лучше всего.</string>
+    <string name="filter_guide_4">Найдите комбинацию, которая подходит именно вам.</string>
     <string name="filter_guide_5">Рекомендуемая комбинация — базовый фильтр и языковой фильтр.</string>
 </resources>

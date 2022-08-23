@@ -682,7 +682,6 @@
     <string name="down_fail_guide">Fișierul poate fi deteriorat.</string>
     <string name="ads_filter">Filtru de anunțuri</string>
     <string name="user_filter">Filtru utilizator</string>
-    <string name="filter_info">Utilizarea mai multor filtre în același timp poate încetini performanța browserului.</string>
     <string name="backup_title">Rezervă</string>
     <string name="backup_import">Importați</string>
     <string name="backup_export">Exportați</string>
@@ -909,6 +908,6 @@
     <string name="filter_guide_1">Blocarea anunțurilor se bazează pe filtre.</string>
     <string name="filter_guide_2">Dacă aveți un site care nu blochează reclamele, adăugați un filtru adecvat.</string>
     <string name="filter_guide_3">Utilizarea prea multor filtre poate încetini browserul.</string>
-    <string name="filter_guide_4">Găsiți combinația care vi se potrivește cel mai bine.</string>
+    <string name="filter_guide_4">Găsiți combinația potrivită pentru dvs.</string>
     <string name="filter_guide_5">Combinația recomandată este filtrul de bază și filtrul de limbă.</string>
 </resources>
