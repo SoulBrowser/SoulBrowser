@@ -13,7 +13,7 @@
     <string name="feedback">Suggestions et avis</string>
     <string name="item">&#160;article</string>
     <string name="items">&#160;articles</string>
-    <string name="down_location">Emplacement de téléchargements</string>
+    <string name="down_location">Emplacement des téléchargements</string>
     <string name="album_location">Emplacement album</string>
     <string name="zip_location">Emplacement ZIP</string>
     <string name="save_location">Emplacement de sauvegarde</string>
@@ -32,7 +32,7 @@
     <string name="down_again">Télécharger à nouveau</string>
     <string name="down_page">Sauvegarder page</string>
     <string name="down_list">Télécharger</string>
-    <string name="down_start">Téléchargement commencé</string>
+    <string name="down_start">Téléchargement démarré</string>
     <string name="paused">En pause</string>
     <string name="pause">Pause</string>
     <string name="resume">Reprendre</string>
@@ -72,7 +72,7 @@
     <string name="delete">Effacer</string>
     <string name="delete_file">Supprimer le fichier</string>
     <string name="delete_record">Supprimer l\'enregistrement</string>
-    <string name="clear_data">Suprimmer les données</string>
+    <string name="clear_data">Supprimer les données</string>
     <string name="delete_all">Supprimer tout</string>
     <string name="deleted">Supprimé</string>
     <string name="swipe_delete">Glisser pour supprimer</string>
@@ -90,7 +90,7 @@
     <string name="overwrite">Écraser</string>
     <string name="new_tab">Nouvel onglet</string>
     <string name="open_new_tab">Ouvrir dans un nouvel onglet</string>
-    <string name="new_secret_tab">Nouvel onglet privée</string>
+    <string name="new_secret_tab">Nouvel onglet privé</string>
     <string name="secret_tab">Onglet privé</string>
     <string name="normal_tab">Onglet normal</string>
     <string name="secret_mode">Mode privé</string>
@@ -101,9 +101,9 @@
     <string name="tab_gesture">Geste onglet</string>
     <string name="pop_block">Bloquer les popups</string>
     <string name="pop_blocked">Popup bloqué</string>
-    <string name="pop_block_info1">Bloquer toutes les pop-ups</string>
+    <string name="pop_block_info1">Bloquer tous les pop-ups</string>
     <string name="pop_block_info2">Bloquer lorsque d\'autres sites sont ouverts (y compris les sites publicitaires)</string>
-    <string name="pop_block_info3">Bloquez uniquement les fenêtres contextuelles suspectées d\'être des publicités</string>
+    <string name="pop_block_info3">Bloquer uniquement les fenêtres contextuelles suspectées d\'être des publicités</string>
     <string name="app_block">Bloquer l\'exécution de l\'application</string>
     <string name="app_site">Ouvrir dans le navigateur</string>
     <string name="app_block_info1">Empêcher le site d\'exécuter d\'autres applications.</string>
@@ -114,8 +114,8 @@
     <string name="link">Lien</string>
     <string name="open_url">Ouvrir</string>
     <string name="new_url">Nouvel onglet</string>
-    <string name="back_url">Arrière plan onglet</string>
-    <string name="copy_url">Copier URL</string>
+    <string name="back_url">Onglet en arrière-plan</string>
+    <string name="copy_url">Copier l\'URL</string>
     <string name="paste_url">Coller l\'URL</string>
     <string name="open_copied_url">Ouvrir l\'URL copiée</string>
     <string name="share_url">URL de partage</string>
@@ -155,11 +155,11 @@
     <string name="input_password">Entrez le mot de passe</string>
     <string name="invalid_password">Mot de passe incorrect</string>
     <string name="password_save">Enregistrer le mot de passe</string>
-    <string name="password_confirm">Voulez vous enregistrer votre mot de passe ?</string>
+    <string name="password_confirm">Voulez-vous enregistrer votre mot de passe ?</string>
     <string name="password_info">Stocke les mots de passe en mode normal et en mode navigation privée séparément.</string>
     <string name="password_button">Bouton gestionnaire de mots de passe</string>
     <string name="password_lock_1">Veuillez d\'abord configurer un écran de verrouillage.</string>
-    <string name="password_lock_2">C\'est pour votre intimité.</string>
+    <string name="password_lock_2">Pour une meilleure confidentialité.</string>
     <string name="password_reset_guide">La réinitialisation effacera toutes les données associées au mot de passe.</string>
     <string name="login_lock">Sécurité de connexion</string>
     <string name="login_lock_info">L\'écran de verrouillage se lancera avant de vous connecter avec le mot de passe enregistré.</string>
@@ -200,7 +200,7 @@
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
     <string name="current_page">Page actuelle</string>
-    <string name="blank_page">Page blanche</string>
+    <string name="blank_page">Page vierge</string>
     <string name="page">Page</string>
     <string name="delete_cache">Vider le cache</string>
     <string name="cache">Cache</string>
@@ -212,7 +212,7 @@
     <string name="double_back">Double appui sur bouton retour pour quitter</string>
     <string name="press_again">Appuyer à nouveau pour quitter.</string>
     <string name="last_noti">Notification de dernier onglet</string>
-    <string name="last_noti_info">Si vous cliquez sur le bouton Précédent sur le dernier onglet, il est averti qu\'il s\'agit du dernier onglet.</string>
+    <string name="last_noti_info">Si vous cliquez sur le bouton Précédent sur le dernier onglet, une alerte s\'affichera.</string>
     <string name="last_page_noti">Dernier onglet.</string>
     <string name="last_swipe">Faites glisser la page à partir de la dernière page pour fermer l\'onglet</string>
     <string name="title">Titre</string>
@@ -285,7 +285,7 @@
     <string name="exist_pass">Mot de passe existant</string>
     <string name="next_file">Prochain fichier</string>
     <string name="empty">Vide</string>
-    <string name="share_limit">Jusqu 100 prises en charge</string>
+    <string name="share_limit">Jusqu\'à 100 prises en charge</string>
     <string name="name">Nom</string>
     <string name="input_name">Entrer le nom</string>
     <string name="long_name">Le nom est trop long.</string>
@@ -327,7 +327,7 @@
     <string name="permission_denied">Permission refusée</string>
     <string name="permission_removed">Autorisation supprimée</string>
     <string name="no_permission">Aucune permission</string>
-    <string name="ads_block">Blocage Ad</string>
+    <string name="ads_block">Blocage Pub</string>
     <string name="ads_block_info">Au moins un filtre doit être actif pour bloquer les publicités.</string>
     <string name="filtered_image">Image filtrée (%d)</string>
     <string name="update">Mise à jour</string>
@@ -354,7 +354,7 @@
     <string name="item_block_site">Bloquer sur le site actuel</string>
     <string name="item_block_page">Bloquer sur la page actuelle</string>
     <string name="reset">Réinitialiser</string>
-    <string name="reset_confirm">Voulez vous réinitialiser votre travail?</string>
+    <string name="reset_confirm">Voulez-vous réinitialiser votre travail?</string>
     <string name="check_network">Vérifiez état du réseau.</string>
     <string name="server_error">Le serveur ne répond pas.</string>
     <string name="server_delay">La réponse du serveur est lente.</string>
@@ -424,7 +424,7 @@
     <string name="cast_shortcut">Créer un raccourci de diffusion TV</string>
     <string name="cast_short_info">Créez un bouton de raccourci de diffusion TV sur l\'écran d\'accueil.</string>
     <string name="list_menu">Menu</string>
-    <string name="ads_white">Liste blanche Ad</string>
+    <string name="ads_white">Liste blanche Pub</string>
     <string name="ads_allow_site">Autoriser les annonces sur le site actuel</string>
     <string name="ads_allow_page">Autoriser les annonces sur la page actuelle</string>
     <string name="pop_white">Liste blanche popup</string>
@@ -462,7 +462,7 @@
     <string name="history_none">Illimité</string>
     <string name="history_info_zero">Votre historique ne sera pas sauvegardé.\nTous les enregistrements précédemment sauvegardés seront supprimés.</string>
     <string name="history_info_limit">Les enregistrements antérieurs à la période de conservation sont automatiquement supprimés.</string>
-    <string name="history_info_none">Toute votre historique est sauvegardée.\nTrop de données peuvent ralentir les performances du navigateur.</string>
+    <string name="history_info_none">Tout votre historique est sauvegardé.\nTrop de données peuvent ralentir les performances du navigateur.</string>
     <string name="list">Liste</string>
     <string name="touch_lock_info">Écran de verrouillage pour déverrouiller le toucher pendant la lecture vidéo.</string>
     <string name="touch_locked">Le toucher est verrouillé.</string>
@@ -551,7 +551,7 @@
     <string name="media_route_menu_title">Jouer sur&#8230;</string>
     <string name="introducing_cast">Touchez pour diffuser du contenu multimédia sur votre téléviseur</string>
     <string name="cast_info_1">Si un Chromecast est détecté, une icône apparaît en haut de l\'écran.</string>
-    <string name="cast_info_2">Cliquez sur l\'icône pour connecter votre Chromecast.</string>
+    <string name="cast_info_2">Cliquez sur l\'icône pour vous connecter à votre Chromecast.</string>
     <string name="cast_info_3">* La détection de votre Chromecast peut prendre un certain temps.</string>
     <string name="cast_info_4">Dans la fenêtre contextuelle de téléchargement, cliquez sur l\'icône de lecture pour diffuser sur votre téléviseur.</string>
     <string name="cast_info_5">Seul le contenu téléchargeable est pris en charge.</string>
@@ -613,13 +613,13 @@
     <string name="grid_mode">Mode grille</string>
     <string name="list_mode">Mode liste</string>
     <string name="simple_mode">Mode simple</string>
-    <string name="accept_cookie">Cookies acceptés (Recommandés)</string>
+    <string name="accept_cookie">Cookies acceptés (Recommandé)</string>
     <string name="accept_cookie_info_1">Permet au site de stocker ou de lire des cookies.</string>
     <string name="accept_cookie_info_2">Certains sites peuvent ne pas fonctionner correctement si vous n\'acceptez pas les cookies.</string>
     <string name="third_cookie">Cookies tiers</string>
     <string name="js_title">JavaScript</string>
-    <string name="java_script">Utiliser JavaScript (Recommandés)</string>
-    <string name="java_script_info">Certaines fonctionnalités du navigateur ne fonctionneront pas si JavaScript est désactivé.</string>
+    <string name="java_script">Utiliser JavaScript (Recommandé)</string>
+    <string name="java_script_info">Certaines fonctionnalités du navigateur ne fonctionneront pas si le JavaScript est désactivé.</string>
     <string name="icon_edit_guide">2. Vous pouvez le modifier en cliquant sur l\'icône.</string>
     <string name="long_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous maintenez enfoncée l\'icône sur la barre inférieure.</string>
     <string name="swipe_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous faites glisser l\'icône sur la barre inférieure.</string>
@@ -702,7 +702,7 @@
     <string name="js_block_site">Bloquer JavaScript sur le site actuel</string>
     <string name="js_block_page">Bloquer JavaScript sur la page en cours</string>
     <string name="js_black">Liste noire JavaScript</string>
-    <string name="js_black_info">Vous pouvez enregistrer des sites qui bloquent JavaScript.</string>
+    <string name="js_black_info">Vous pouvez enregistrer des sites qui bloquent le JavaScript.</string>
     <string name="theme_web">Navigateur</string>
     <string name="theme_light">Thème clair</string>
     <string name="theme_dark">Thème sombre</string>
@@ -742,7 +742,7 @@
     <string name="subtitle_info_6">Le format VTT est recommandé.</string>
     <string name="subtitle_info_7">Si le codage n\'est pas UTF-8, les caractères peuvent ne pas s\'afficher normalement.</string>
     <string name="android_shot">Capture d\'écran Android</string>
-    <string name="always_allow">Toujours permis</string>
+    <string name="always_allow">Toujours autorisé</string>
     <string name="always_block">Toujours bloqué</string>
     <string name="block_in_secret">Bloquer uniquement en mode navigation privée</string>
     <string name="block_back">Bloquer uniquement en arrière-plan</string>
@@ -774,8 +774,8 @@
     <string name="level_weak">Faible</string>
     <string name="open_limit">Limite ouverte</string>
     <string name="open_limit_info">Lorsque la limite est dépassée, le premier élément est automatiquement supprimé.</string>
-    <string name="down_manager">Gestionnaire de téléchargement</string>
-    <string name="down_manager_info1">Vous pouvez utiliser votre application de téléchargement préférée comme gestionnaire de téléchargement.</string>
+    <string name="down_manager">Gestionnaire de téléchargements</string>
+    <string name="down_manager_info1">Vous pouvez utiliser votre application de téléchargement préférée comme gestionnaire de téléchargements.</string>
     <string name="down_manager_info3">Vous pouvez surfer plus rapidement sur le Web en séparant votre navigateur et vos téléchargements.</string>
     <string name="other_app">Autres applications</string>
     <string name="web_title">Internet</string>
@@ -831,10 +831,10 @@
     <string name="news_topic_world">Monde</string>
     <string name="news_topic_nation">Nouvelles locales</string>
     <string name="news_topic_business">Affaires</string>
-    <string name="news_topic_tech">La technologie</string>
+    <string name="news_topic_tech">Technologie</string>
     <string name="news_topic_enter">Divertissement</string>
-    <string name="news_topic_sports">Des sports</string>
-    <string name="news_topic_science">La science</string>
+    <string name="news_topic_sports">Sports</string>
+    <string name="news_topic_science">Science</string>
     <string name="news_topic_health">Santé</string>
     <string name="search_icon">Bouton de recherche</string>
     <string name="no_news">Aucune nouvelle n\'a été trouvée.</string>
