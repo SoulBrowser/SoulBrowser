@@ -479,7 +479,6 @@
     <string name="continue_input">Kontynuuj</string>
     <string name="pip_home">Przełącz się na PIP za pomocą klawisza głównego</string>
     <string name="memory_warning_1">Ta funkcja zużywa więcej pamięci.</string>
-    <string name="memory_warning_2">Zachowaj ostrożność podczas korzystania z urządzeń z małą pamięcią.</string>
     <string name="android_support">Obsługiwane od Android %d.</string>
     <string name="secret_data">Separacja danych internetowych (separacja logowania)</string>
     <string name="secret_data_info_1">Oddzielnie zarządzaj danymi, takimi jak pliki cookie i pamięć podręczna.</string>

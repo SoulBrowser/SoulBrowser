@@ -479,7 +479,6 @@
     <string name="continue_input">Continuar</string>
     <string name="pip_home">Mudar para PIP com chave de casa</string>
     <string name="memory_warning_1">Este recurso usa mais memória.</string>
-    <string name="memory_warning_2">Tenha cuidado ao usar em dispositivos com pouca memória.</string>
     <string name="android_support">Suportado desde o Android %d.</string>
     <string name="secret_data">Separação de dados da web (separação de login)</string>
     <string name="secret_data_info_1">Gerencie dados separadamente, como cookies e cache.</string>

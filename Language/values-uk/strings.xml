@@ -479,7 +479,6 @@
     <string name="continue_input">Продовжуйте</string>
     <string name="pip_home">Переключіться на PIP за допомогою клавіші додому</string>
     <string name="memory_warning_1">Ця функція використовує більше пам\'яті.</string>
-    <string name="memory_warning_2">Будьте обережні при використанні на пристроях з малою пам\'яттю.</string>
     <string name="android_support">Підтримується з Android %d.</string>
     <string name="secret_data">Розділення веб -даних (розділення входу)</string>
     <string name="secret_data_info_1">Окремо керуйте такими даними, як файли cookie та кеш.</string>

@@ -479,7 +479,6 @@
     <string name="continue_input">계속</string>
     <string name="pip_home">홈키로 PIP로 전환</string>
     <string name="memory_warning_1">이 기능은 더 많은 메모리를 사용합니다.</string>
-    <string name="memory_warning_2">메모리가 작은 장치에서 사용할 때는 주의하십시오.</string>
     <string name="android_support">Android %d부터 지원됩니다.</string>
     <string name="secret_data">웹 데이터 분리 (로그인 분리)</string>
     <string name="secret_data_info_1">쿠키, 캐시 등의 데이터를 별도로 관리합니다.</string>

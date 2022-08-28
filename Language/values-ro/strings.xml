@@ -479,7 +479,6 @@
     <string name="continue_input">Continuă</string>
     <string name="pip_home">Treceți la PIP cu tasta de pornire</string>
     <string name="memory_warning_1">Această caracteristică folosește mai multă memorie.</string>
-    <string name="memory_warning_2">Aveți grijă când utilizați pe dispozitive cu memorie mică.</string>
     <string name="android_support">Suportat de la Android %d.</string>
     <string name="secret_data">Separarea datelor web (Separarea autentificării)</string>
     <string name="secret_data_info_1">Gestionează separat date precum cookie-uri și cache.</string>

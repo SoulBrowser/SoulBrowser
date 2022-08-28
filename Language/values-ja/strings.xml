@@ -479,7 +479,6 @@
     <string name="continue_input">持続する</string>
     <string name="pip_home">ホームキーPIPに切り替え</string>
     <string name="memory_warning_1">この機能は、より多くのメモリを使用します。</string>
-    <string name="memory_warning_2">メモリが小さなデバイスで使用するときは注意してください。</string>
     <string name="android_support">Android %dからサポートされます。</string>
     <string name="secret_data">Webデータ分離（ログイン分離）</string>
     <string name="secret_data_info_1">クッキー、キャッシュなどのデータを別々に管理します。</string>

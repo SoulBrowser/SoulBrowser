@@ -479,7 +479,6 @@
     <string name="continue_input">استمر</string>
     <string name="pip_home">قم بالتبديل إلى PIP باستخدام مفتاح الصفحة الرئيسية</string>
     <string name="memory_warning_1">تستخدم هذه الميزة المزيد من الذاكرة.</string>
-    <string name="memory_warning_2">كن حذرًا عند استخدامه على الأجهزة ذات الذاكرة الصغيرة.</string>
     <string name="android_support">مدعوم من Android %d.</string>
     <string name="secret_data">فصل بيانات الويب (فصل تسجيل الدخول)</string>
     <string name="secret_data_info_1">إدارة البيانات بشكل منفصل مثل ملفات تعريف الارتباط وذاكرة التخزين المؤقت.</string>

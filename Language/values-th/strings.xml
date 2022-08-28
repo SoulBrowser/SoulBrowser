@@ -479,7 +479,6 @@
     <string name="continue_input">ต่อ</string>
     <string name="pip_home">เปลี่ยนเป็น PIP ด้วยปุ่มโฮม</string>
     <string name="memory_warning_1">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น</string>
-    <string name="memory_warning_2">ระวังเมื่อใช้กับอุปกรณ์ที่มีหน่วยความจำขนาดเล็ก</string>
     <string name="android_support">รองรับตั้งแต่ Android %d</string>
     <string name="secret_data">การแยกข้อมูลเว็บ (การแยกการเข้าสู่ระบบ)</string>
     <string name="secret_data_info_1">แยกการจัดการข้อมูลเช่นคุกกี้และแคช</string>

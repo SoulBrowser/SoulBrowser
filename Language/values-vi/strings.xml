@@ -479,7 +479,6 @@
     <string name="continue_input">Tiếp tục</string>
     <string name="pip_home">Chuyển sang PIP bằng phím home</string>
     <string name="memory_warning_1">Tính năng này sử dụng nhiều bộ nhớ hơn.</string>
-    <string name="memory_warning_2">Cẩn thận khi sử dụng trên các thiết bị có bộ nhớ nhỏ.</string>
     <string name="android_support">Được hỗ trợ kể từ Android %d.</string>
     <string name="secret_data">Tách dữ liệu web (Tách đăng nhập)</string>
     <string name="secret_data_info_1">Quản lý riêng biệt dữ liệu như cookie và bộ nhớ cache.</string>

@@ -479,7 +479,6 @@
     <string name="continue_input">Devam et</string>
     <string name="pip_home">Ev tuşuyla PIP\'ye geç</string>
     <string name="memory_warning_1">Bu özellik daha fazla bellek kullanır.</string>
-    <string name="memory_warning_2">Küçük belleğe sahip cihazlarda kullanırken dikkatli olun.</string>
     <string name="android_support">Android %d\'dan beri desteklenmektedir.</string>
     <string name="secret_data">Web Veri Ayırma (Login Ayırma)</string>
     <string name="secret_data_info_1">Çerezler ve önbellek gibi verileri ayrı olarak yönetin.</string>

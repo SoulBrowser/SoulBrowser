@@ -479,7 +479,6 @@
     <string name="continue_input">Hacer continuación</string>
     <string name="pip_home">Cambiar a PIP con la tecla de inicio</string>
     <string name="memory_warning_1">Esta función usa más memoria.</string>
-    <string name="memory_warning_2">Tenga cuidado cuando lo use en dispositivos con poca memoria.</string>
     <string name="android_support">Compatible desde Android %d.</string>
     <string name="secret_data">Separación de datos web (separación de inicio de sesión)</string>
     <string name="secret_data_info_1">Administre por separado datos como cookies y caché.</string>
