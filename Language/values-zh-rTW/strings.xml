@@ -202,7 +202,6 @@
     <string name="current_page">目前頁</string>
     <string name="blank_page">空白頁</string>
     <string name="page">網頁</string>
-    <string name="delete_cache">清除快取</string>
     <string name="cache">快取</string>
     <string name="cache_info">瀏覽網頁時建立的檔案（例如：圖片）</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">在 Google 搜索結果中禁用 Google AMP</string>
     <string name="filter_guide_1">廣告攔截基於過濾器</string>
     <string name="filter_guide_2">如果您的網站不屏蔽廣告，請添加適當的過濾器</string>
-    <string name="filter_guide_3">使用過多的過濾器會降低瀏覽器的速度</string>
+    <string name="filter_guide_3">添加太多過濾器會降低瀏覽器的速度</string>
     <string name="filter_guide_4">找到適合您的組合</string>
     <string name="filter_guide_5">推薦的組合是基本過濾器和語言過濾器</string>
+    <string name="filter_guide_6">如果提供的過濾器沒有屏蔽廣告，請添加您自己的過濾器規則或聯繫過濾器管理員</string>
 </resources>

@@ -202,7 +202,6 @@
     <string name="current_page">หน้าปัจจุบัน</string>
     <string name="blank_page">หน้าว่าง</string>
     <string name="page">หน้า</string>
-    <string name="delete_cache">ล้างแคช</string>
     <string name="cache">แคช</string>
     <string name="cache_info">ไฟล์ที่สร้างขึ้นระหว่างการท่องเว็บ (เช่นภาพ)</string>
     <string name="cookie">คุกกี้</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">ปิดใช้งาน Google AMP ในผลการค้นหาของ Google</string>
     <string name="filter_guide_1">การบล็อกโฆษณาขึ้นอยู่กับตัวกรอง</string>
     <string name="filter_guide_2">หากคุณมีไซต์ที่ไม่ปิดกั้นโฆษณา ให้เพิ่มตัวกรองที่เหมาะสม</string>
-    <string name="filter_guide_3">การใช้ตัวกรองมากเกินไปอาจทำให้เบราว์เซอร์ทำงานช้าลง</string>
+    <string name="filter_guide_3">การเพิ่มตัวกรองมากเกินไปอาจทำให้เบราว์เซอร์ช้าลง</string>
     <string name="filter_guide_4">ค้นหาชุดค่าผสมที่เหมาะกับคุณ</string>
     <string name="filter_guide_5">ชุดค่าผสมที่แนะนำคือตัวกรองพื้นฐานและตัวกรองภาษา</string>
+    <string name="filter_guide_6">หากตัวกรองที่ให้มาไม่ได้บล็อกโฆษณา โปรดเพิ่มกฎตัวกรองของคุณเองหรือติดต่อผู้ดูแลระบบตัวกรอง</string>
 </resources>

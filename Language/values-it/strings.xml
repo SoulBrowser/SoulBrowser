@@ -202,7 +202,6 @@
     <string name="current_page">Pagina corrente</string>
     <string name="blank_page">Pagina vuota</string>
     <string name="page">Pagina</string>
-    <string name="delete_cache">Cancella cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">File creati durante la navigazione web (esempio : immagini)</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Disattiva Google AMP nei risultati di ricerca di Google.</string>
     <string name="filter_guide_1">Il blocco degli annunci si basa sui filtri.</string>
     <string name="filter_guide_2">Se hai un sito che non blocca gli annunci, aggiungi un filtro appropriato.</string>
-    <string name="filter_guide_3">L\'uso di troppi filtri può rallentare il browser.</string>
+    <string name="filter_guide_3">L\'aggiunta di troppi filtri può rallentare il browser.</string>
     <string name="filter_guide_4">Trova la combinazione che fa per te.</string>
     <string name="filter_guide_5">La combinazione consigliata è il filtro di base e il filtro della lingua.</string>
+    <string name="filter_guide_6">Se il filtro fornito non blocca gli annunci, aggiungi la tua regola di filtro o contatta l\'amministratore del filtro.</string>
 </resources>

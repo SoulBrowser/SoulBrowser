@@ -202,7 +202,6 @@
     <string name="current_page">الصفحه الحاليه</string>
     <string name="blank_page">صفحة فارغة</string>
     <string name="page">صفحة</string>
-    <string name="delete_cache">مسح ذاكرة التخزين المؤقت</string>
     <string name="cache">السيولة النقدية</string>
     <string name="cache_info">الملفات التي تم إنشاؤها أثناء تصفح الويب (مثل الصور)</string>
     <string name="cookie">بسكويت</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">تعطيل Google AMP في نتائج بحث Google.</string>
     <string name="filter_guide_1">منع الإعلان يعتمد على الفلاتر.</string>
     <string name="filter_guide_2">إذا كان لديك موقع لا يمنع الإعلانات ، فأضف عامل تصفية مناسب.</string>
-    <string name="filter_guide_3">يمكن أن يؤدي استخدام الكثير من المرشحات إلى إبطاء المتصفح.</string>
+    <string name="filter_guide_3">يمكن أن تؤدي إضافة الكثير من المرشحات إلى إبطاء المتصفح.</string>
     <string name="filter_guide_4">اعثر على المجموعة المناسبة لك.</string>
     <string name="filter_guide_5">التركيبة الموصى بها هي عامل التصفية الأساسي ومرشح اللغة.</string>
+    <string name="filter_guide_6">إذا كان الفلتر المقدم لا يمنع الإعلانات ، فالرجاء إضافة قاعدة الفلتر الخاصة بك أو الاتصال بمسؤول التصفية.</string>
 </resources>

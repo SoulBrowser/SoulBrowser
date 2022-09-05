@@ -202,7 +202,6 @@
     <string name="current_page">Pagina curentă</string>
     <string name="blank_page">Pagina goală</string>
     <string name="page">Pagina</string>
-    <string name="delete_cache">Ștergeți memoria cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Fișiere create pe parcursul navigării web (de ex. imagini)</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Dezactivați Google AMP în rezultatele căutării Google.</string>
     <string name="filter_guide_1">Blocarea anunțurilor se bazează pe filtre.</string>
     <string name="filter_guide_2">Dacă aveți un site care nu blochează reclamele, adăugați un filtru adecvat.</string>
-    <string name="filter_guide_3">Utilizarea prea multor filtre poate încetini browserul.</string>
+    <string name="filter_guide_3">Adăugarea prea multor filtre poate încetini browserul.</string>
     <string name="filter_guide_4">Găsiți combinația potrivită pentru dvs.</string>
     <string name="filter_guide_5">Combinația recomandată este filtrul de bază și filtrul de limbă.</string>
+    <string name="filter_guide_6">Dacă filtrul furnizat nu blochează reclamele, vă rugăm să adăugați propria regulă de filtru sau să contactați administratorul filtrului.</string>
 </resources>

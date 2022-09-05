@@ -202,7 +202,6 @@
     <string name="current_page">Página atual</string>
     <string name="blank_page">Página em branco</string>
     <string name="page">Página</string>
-    <string name="delete_cache">Limpar cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Arquivos criados durante a navegação na web (exemplo : imagens)</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Desative o Google AMP nos resultados de pesquisa do Google.</string>
     <string name="filter_guide_1">O bloqueio de anúncios é baseado em filtros.</string>
     <string name="filter_guide_2">Se você tiver um site que não bloqueia anúncios, adicione um filtro apropriado.</string>
-    <string name="filter_guide_3">Usar muitos filtros pode tornar o navegador mais lento.</string>
+    <string name="filter_guide_3">Adicionar muitos filtros pode tornar o navegador mais lento.</string>
     <string name="filter_guide_4">Encontre a combinação certa para você.</string>
     <string name="filter_guide_5">A combinação recomendada é o filtro básico e o filtro de idioma.</string>
+    <string name="filter_guide_6">Se o filtro fornecido não bloquear anúncios, adicione sua própria regra de filtro ou entre em contato com o administrador do filtro.</string>
 </resources>

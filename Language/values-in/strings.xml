@@ -202,7 +202,6 @@
     <string name="current_page">Halaman saat ini</string>
     <string name="blank_page">Halaman kosong</string>
     <string name="page">Halaman</string>
-    <string name="delete_cache">Kosongkan cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">File yang dibuat selama penjelajahan web (mis. gambar)</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Nonaktifkan Google AMP di hasil pencarian Google.</string>
     <string name="filter_guide_1">Pemblokiran iklan didasarkan pada filter.</string>
     <string name="filter_guide_2">Jika Anda memiliki situs yang tidak memblokir iklan, tambahkan filter yang sesuai.</string>
-    <string name="filter_guide_3">Menggunakan terlalu banyak filter dapat memperlambat browser.</string>
+    <string name="filter_guide_3">Menambahkan terlalu banyak filter dapat memperlambat browser.</string>
     <string name="filter_guide_4">Temukan kombinasi yang tepat untuk Anda.</string>
     <string name="filter_guide_5">Kombinasi yang disarankan adalah filter dasar dan filter bahasa.</string>
+    <string name="filter_guide_6">Jika filter yang disediakan tidak memblokir iklan, tambahkan aturan filter Anda sendiri atau hubungi administrator filter.</string>
 </resources>

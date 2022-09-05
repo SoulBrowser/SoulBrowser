@@ -202,7 +202,6 @@
     <string name="current_page">Current page</string>
     <string name="blank_page">Blank page</string>
     <string name="page">Page</string>
-    <string name="delete_cache">Clear cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Files created during web browsing (e.g. images)</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Disable Google AMP in Google search results.</string>
     <string name="filter_guide_1">Ad blocking is based on filters.</string>
     <string name="filter_guide_2">If you have a site that doesn\'t block ads, add an appropriate filter.</string>
-    <string name="filter_guide_3">Using too many filters can slow down browser.</string>
+    <string name="filter_guide_3">Adding too many filters can slow down browser.</string>
     <string name="filter_guide_4">Find the combination that\'s right for you.</string>
     <string name="filter_guide_5">The recommended combination is the basic filter and the language filter.</string>
+    <string name="filter_guide_6">If the provided filter does not block ads, please add your own filter rule or contact filter administrator.</string>
 </resources>

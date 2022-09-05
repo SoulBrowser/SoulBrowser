@@ -202,7 +202,6 @@
     <string name="current_page">Page actuelle</string>
     <string name="blank_page">Page vierge</string>
     <string name="page">Page</string>
-    <string name="delete_cache">Vider le cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Fichiers créés lors de la navigation sur le web (exemple : images)</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Désactivez Google AMP dans les résultats de recherche Google.</string>
     <string name="filter_guide_1">Le blocage des publicités est basé sur des filtres.</string>
     <string name="filter_guide_2">Si vous avez un site qui ne bloque pas les publicités, ajoutez un filtre approprié.</string>
-    <string name="filter_guide_3">L\'utilisation d\'un trop grand nombre de filtres peut ralentir le navigateur.</string>
+    <string name="filter_guide_3">L\'ajout de trop de filtres peut ralentir le navigateur.</string>
     <string name="filter_guide_4">Trouvez la combinaison qui vous convient.</string>
     <string name="filter_guide_5">La combinaison recommandée est le filtre de base et le filtre de langue.</string>
+    <string name="filter_guide_6">Si le filtre fourni ne bloque pas les publicités, veuillez ajouter votre propre règle de filtrage ou contacter l\'administrateur du filtre.</string>
 </resources>

@@ -202,7 +202,6 @@
     <string name="current_page">Página actual</string>
     <string name="blank_page">Página en blanco</string>
     <string name="page">Página</string>
-    <string name="delete_cache">Limpiar cache</string>
     <string name="cache">Caché</string>
     <string name="cache_info">Archivos creados durante la navegación web (p.ej. imágenes)</string>
     <string name="cookie">Cookie</string>
@@ -705,7 +704,7 @@
     <string name="theme_web">Navegador</string>
     <string name="theme_light">Tema claro</string>
     <string name="theme_dark">Tema oscuro</string>
-    <string name="background">Antecedentes</string>
+    <string name="background">Fondo</string>
     <string name="search_suggest">Sugerencias de búsqueda</string>
     <string name="at_bottom">En el fondo</string>
     <string name="clean_data_info">La acumulación de datos obsoletos puede ralentizar su navegador.\nEs una buena idea limpiar sus datos periódicamente.</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Deshabilite Google AMP en los resultados de búsqueda de Google.</string>
     <string name="filter_guide_1">El bloqueo de anuncios se basa en filtros.</string>
     <string name="filter_guide_2">Si tiene un sitio que no bloquea los anuncios, agregue un filtro apropiado.</string>
-    <string name="filter_guide_3">El uso de demasiados filtros puede ralentizar el navegador.</string>
+    <string name="filter_guide_3">Agregar demasiados filtros puede ralentizar el navegador.</string>
     <string name="filter_guide_4">Encuentra la combinación adecuada para ti.</string>
     <string name="filter_guide_5">La combinación recomendada es el filtro básico y el filtro de idioma.</string>
+    <string name="filter_guide_6">Si el filtro proporcionado no bloquea los anuncios, agregue su propia regla de filtro o comuníquese con el administrador del filtro.</string>
 </resources>

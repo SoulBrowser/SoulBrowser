@@ -202,7 +202,6 @@
     <string name="current_page">Trang hiện tại</string>
     <string name="blank_page">Trang trống</string>
     <string name="page">Trang</string>
-    <string name="delete_cache">Xóa bộ nhớ cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Tập tin được tạo trong quá trình duyệt web (ví dụ : hình ảnh)</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Tắt Google AMP trong kết quả tìm kiếm của Google.</string>
     <string name="filter_guide_1">Việc chặn quảng cáo dựa trên các bộ lọc.</string>
     <string name="filter_guide_2">Nếu bạn có một trang web không chặn quảng cáo, hãy thêm một bộ lọc thích hợp.</string>
-    <string name="filter_guide_3">Sử dụng quá nhiều bộ lọc có thể làm chậm trình duyệt.</string>
+    <string name="filter_guide_3">Thêm quá nhiều bộ lọc có thể làm chậm trình duyệt.</string>
     <string name="filter_guide_4">Tìm sự kết hợp phù hợp với bạn.</string>
     <string name="filter_guide_5">Sự kết hợp được đề xuất là bộ lọc cơ bản và bộ lọc ngôn ngữ.</string>
+    <string name="filter_guide_6">Nếu bộ lọc được cung cấp không chặn quảng cáo, vui lòng thêm quy tắc bộ lọc của riêng bạn hoặc liên hệ với quản trị viên bộ lọc.</string>
 </resources>

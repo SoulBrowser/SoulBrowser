@@ -202,7 +202,6 @@
     <string name="current_page">Aktuelle Seite</string>
     <string name="blank_page">Leere Seite</string>
     <string name="page">Seite</string>
-    <string name="delete_cache">Cache leeren</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Dateien, die beim Surfen im internet erstellt wurden (z.B. Bilder)</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Deaktivieren Sie Google AMP in den Google-Suchergebnissen.</string>
     <string name="filter_guide_1">Die Anzeigenblockierung basiert auf Filtern.</string>
     <string name="filter_guide_2">Wenn Sie eine Website haben, die keine Anzeigen blockiert, fügen Sie einen geeigneten Filter hinzu.</string>
-    <string name="filter_guide_3">Die Verwendung zu vieler Filter kann den Browser verlangsamen.</string>
+    <string name="filter_guide_3">Das Hinzufügen zu vieler Filter kann den Browser verlangsamen.</string>
     <string name="filter_guide_4">Finden Sie die für Sie passende Kombination.</string>
     <string name="filter_guide_5">Die empfohlene Kombination ist der Basisfilter und der Sprachfilter.</string>
+    <string name="filter_guide_6">Wenn der bereitgestellte Filter Anzeigen nicht blockiert, fügen Sie bitte Ihre eigene Filterregel hinzu oder wenden Sie sich an den Filteradministrator.</string>
 </resources>

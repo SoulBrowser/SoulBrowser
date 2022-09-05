@@ -202,7 +202,6 @@
     <string name="current_page">Текущая страница</string>
     <string name="blank_page">Пустая страница</string>
     <string name="page">Страница</string>
-    <string name="delete_cache">Очистить кэш</string>
     <string name="cache">Кэш</string>
     <string name="cache_info">Файлы просмотренных веб-страниц (напр. изображения)</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Отключите Google AMP в результатах поиска Google.</string>
     <string name="filter_guide_1">Блокировка рекламы основана на фильтрах.</string>
     <string name="filter_guide_2">Если у вас есть сайт, который не блокирует рекламу, добавьте соответствующий фильтр.</string>
-    <string name="filter_guide_3">Использование слишком большого количества фильтров может замедлить работу браузера.</string>
+    <string name="filter_guide_3">Добавление слишком большого количества фильтров может замедлить работу браузера.</string>
     <string name="filter_guide_4">Найдите комбинацию, которая подходит именно вам.</string>
     <string name="filter_guide_5">Рекомендуемая комбинация — базовый фильтр и языковой фильтр.</string>
+    <string name="filter_guide_6">Если предоставленный фильтр не блокирует рекламу, добавьте собственное правило фильтра или свяжитесь с администратором фильтра.</string>
 </resources>

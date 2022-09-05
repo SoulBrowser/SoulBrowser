@@ -202,7 +202,6 @@
     <string name="current_page">現在のページ</string>
     <string name="blank_page">空白のページ</string>
     <string name="page">ページ</string>
-    <string name="delete_cache">Cacheの消去</string>
     <string name="cache">Cache</string>
     <string name="cache_info">ウェブ閲覧中に生成されたファイル（例：画像）</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Google 検索結果で Google AMPを無効にします。</string>
     <string name="filter_guide_1">広告のブロックはフィルターに基づいています。</string>
     <string name="filter_guide_2">広告をブロックしないサイトがある場合は、適切なフィルターを追加してください。</string>
-    <string name="filter_guide_3">フィルターの数が多すぎると、ブラウザーの速度が低下する可能性があります。</string>
+    <string name="filter_guide_3">フィルタを追加しすぎると、ブラウザの速度が低下する可能性があります。</string>
     <string name="filter_guide_4">私に合った組み合わせを見つけてください。</string>
     <string name="filter_guide_5">推奨される組み合わせは、基本フィルターと言語フィルターです。</string>
+    <string name="filter_guide_6">提供されたフィルターで広告がブロックされない場合は、独自のフィルター ルールを追加するか、フィルター管理者に連絡してください。</string>
 </resources>

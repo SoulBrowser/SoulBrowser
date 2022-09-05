@@ -202,7 +202,6 @@
     <string name="current_page">Geçerli sayfayı</string>
     <string name="blank_page">Boş sayfa</string>
     <string name="page">Sayfa</string>
-    <string name="delete_cache">Önbelleği temizle</string>
     <string name="cache">Önbellek</string>
     <string name="cache_info">Web\'de gezinme sırasında oluşturulan dosyalar (ör. görüntüler)</string>
     <string name="cookie">Çerez</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Google arama sonuçlarında Google AMP\'yi devre dışı bırakın.</string>
     <string name="filter_guide_1">Reklam engelleme, filtrelere dayalıdır.</string>
     <string name="filter_guide_2">Reklamları engellemeyen bir siteniz varsa uygun bir filtre ekleyin.</string>
-    <string name="filter_guide_3">Çok fazla filtre kullanmak tarayıcıyı yavaşlatabilir.</string>
+    <string name="filter_guide_3">Çok fazla filtre eklemek tarayıcıyı yavaşlatabilir.</string>
     <string name="filter_guide_4">Size uygun kombinasyonu bulun.</string>
     <string name="filter_guide_5">Önerilen kombinasyon, temel filtre ve dil filtresidir.</string>
+    <string name="filter_guide_6">Sağlanan filtre reklamları engellemiyorsa, lütfen kendi filtre kuralınızı ekleyin veya filtre yöneticisiyle iletişime geçin.</string>
 </resources>

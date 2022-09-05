@@ -202,7 +202,6 @@
     <string name="current_page">Bieżąca strona</string>
     <string name="blank_page">Pusta strona</string>
     <string name="page">Strona</string>
-    <string name="delete_cache">Wyczyść cache</string>
     <string name="cache">Cache</string>
     <string name="cache_info">Pliki utworzone podczas przeglądania stron internetowych (np. obrazy)</string>
     <string name="cookie">Cookie</string>
@@ -906,7 +905,8 @@
     <string name="block_amp_info">Wyłącz Google AMP w wynikach wyszukiwania Google.</string>
     <string name="filter_guide_1">Blokowanie reklam opiera się na filtrach.</string>
     <string name="filter_guide_2">Jeśli masz witrynę, która nie blokuje reklam, dodaj odpowiedni filtr.</string>
-    <string name="filter_guide_3">Używanie zbyt wielu filtrów może spowolnić przeglądarkę.</string>
+    <string name="filter_guide_3">Dodanie zbyt wielu filtrów może spowolnić przeglądarkę.</string>
     <string name="filter_guide_4">Znajdź kombinację odpowiednią dla siebie.</string>
     <string name="filter_guide_5">Zalecaną kombinacją jest filtr podstawowy i filtr językowy.</string>
+    <string name="filter_guide_6">Jeśli podany filtr nie blokuje reklam, dodaj własną regułę filtrowania lub skontaktuj się z administratorem filtrów.</string>
 </resources>

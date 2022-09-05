@@ -202,7 +202,6 @@
     <string name="current_page">현재 페이지</string>
     <string name="blank_page">빈 페이지</string>
     <string name="page">페이지</string>
-    <string name="delete_cache">캐시 삭제</string>
     <string name="cache">캐시</string>
     <string name="cache_info">웹 탐색 ​​중 생성된 파일 (예 : 이미지)</string>
     <string name="cookie">쿠키</string>
@@ -905,8 +904,9 @@
     <string name="block_amp">Google AMP 비활성화</string>
     <string name="block_amp_info">Google 검색 결과에서 Google AMP를 비활성화합니다.</string>
     <string name="filter_guide_1">광고 차단은 필터를 기반으로 합니다.</string>
-    <string name="filter_guide_2">광고를 차단하지 않는 사이트가 있는 경우 적절한 필터를 추가하세요.</string>
-    <string name="filter_guide_3">필터를 너무 많이 사용하면 브라우저가 느려질 수 있습니다.</string>
+    <string name="filter_guide_2">광고를 차단하지 않는 사이트가 있는 경우, 적절한 필터를 추가하세요.</string>
+    <string name="filter_guide_3">필터를 너무 많이 추가하면 브라우저가 느려질 수 있습니다.</string>
     <string name="filter_guide_4">나에게 맞는 조합을 찾아보세요.</string>
     <string name="filter_guide_5">권장 조합은 기본 필터와 언어 필터입니다.</string>
+    <string name="filter_guide_6">제공된 필터가 광고를 차단하지 않는 경우, 자신의 필터 규칙을 추가하거나 필터 관리자에게 문의하세요.</string>
 </resources>
