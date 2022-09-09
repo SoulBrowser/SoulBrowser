@@ -75,7 +75,7 @@ b|rue|.js|ruc|/amp-ad-
 b|rue|.js|ruc|/amp-sticky-ad-
 b|rue|.js|ruc|/amp-auto-ads-
 //wg
-wh=|dft_you|ytm-companion-ad-renderer,ytm-promoted-sparkles-web-renderer
+wh=|dft_you|ytm-companion-ad-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer
 whc|9anime|iframe[class*="eww"],div[style*="Player.png"],iframe[class*="padPreload"],script[crossorigin*="anonymous"],script[data-cfasync*="false"],script[src*="adsco.re"],script[src*="invoke.js"],script[src*="lolsefti.com"],script[src*="premiumvertising.com"],script[src*="webpinp.com"]
 //wk
 whs|manatoki,newtoki|div[class*="id_bbn"],div[class*="banner"]
