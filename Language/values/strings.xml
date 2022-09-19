@@ -147,7 +147,6 @@
     <string name="open">Open</string>
     <string name="image_fail">Failed to load image</string>
     <string name="time_day">day</string>
-    <string name="time_days">days</string>
     <string name="time_h">h</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>
@@ -346,6 +345,11 @@
     <string name="desk_mode">Mobile / Desktop</string>
     <string name="desk_one">Desktop (Current tab)</string>
     <string name="desk_all">Desktop (All tabs)</string>
+    <string name="block_link">Block link</string>
+    <string name="blocked_link">Blocked Links</string>
+    <string name="link_block_site">Block link site</string>
+    <string name="link_block_page">Block link page</string>
+    <string name="link_reset_guide">A reset will delete all blocked links.</string>
     <string name="show_image">Show images</string>
     <string name="block_images">Block images</string>
     <string name="block_a_image">Block image</string>
@@ -582,7 +586,7 @@
     <string name="add_home_1">Add to home screen</string>
     <string name="add_home_2">Add to phone\'s home screen</string>
     <string name="set_homepage">Set as homepage</string>
-    <string name="soul_home">Page d\'accueil Soul</string>
+    <string name="soul_home">Soul homepage</string>
     <string name="setted">Has been set.</string>
     <string name="no_down_video">There are no downloadable videos.</string>
     <string name="trans_report">Report translation errors</string>
@@ -637,6 +641,8 @@
     <string name="site_warning">Security warning</string>
     <string name="site_exit">Go to a safe page</string>
     <string name="site_continue">Continued (Not safe)</string>
+    <string name="header_title">Header</string>
+    <string name="header_color">Header color</string>
     <string name="site_theme">Site theme</string>
     <string name="site_theme_info">If the site you visit supports themes, it applies to browser.</string>
     <string name="prev_tab">Previous tab</string>
@@ -715,15 +721,11 @@
     <string name="remove_ads_info_2">It is always valid if the account used for payment is the same.</string>
     <string name="remove_ads_info_3">In-app ads and ads on websites are different.</string>
     <string name="remove_ads_info_4">The website\'s ads removal feature is free.</string>
-    <string name="reward_ads">Remove in-app ads by watching ads</string>
-    <string name="reward_ads_info_1">When you watch the ad to the end, the in-app ad will be removed for 1 hour.</string>
-    <string name="reward_ads_info_2">Deleting an app or app\'s data resets the remaining time.</string>
-    <string name="reward_ads_time">Time remaining</string>
     <string name="donate_1">Donation (Coffee)</string>
-    <string name="donate_2">Donation (Hamburger)</string>
-    <string name="donate_3">Donation (Pizza)</string>
-    <string name="donate_info">Thank you for using Soul Browser.\nSoul Browser is maintained by your donation.</string>
-    <string name="pay_free">Free</string>
+    <string name="donate_2">Donation (Energy drink)</string>
+    <string name="donate_3">Donation (Hamburger)</string>
+    <string name="donate_info_1">Thank you for using Soul Browser. ❤</string>
+    <string name="donate_info_2">If you like the app, please support the developer.</string>
     <string name="paid">Purchased</string>
     <string name="already_paid">It has already been purchased.</string>
     <string name="pay_fail">An error has occurred.\nPlease try again later.</string>

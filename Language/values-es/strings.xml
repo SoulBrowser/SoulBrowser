@@ -8,7 +8,7 @@
     <string name="start">Comenzar</string>
     <string name="info">Información</string>
     <string name="app_ver">Versión de aplicacion</string>
-    <string name="license">Licencias de código abrir</string>
+    <string name="license">Licencias de código abierto</string>
     <string name="show_license">Licencia</string>
     <string name="feedback">Enviar comentarios</string>
     <string name="item">&#160;artículo</string>
@@ -147,7 +147,6 @@
     <string name="open">Abrir</string>
     <string name="image_fail">No se pudo cargar la imagen</string>
     <string name="time_day">día</string>
-    <string name="time_days">días</string>
     <string name="time_h">h</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>
@@ -346,6 +345,11 @@
     <string name="desk_mode">Móvil / Escritorio</string>
     <string name="desk_one">Escritorio (Pestaña actual)</string>
     <string name="desk_all">Escritorio (Todas las pestañas)</string>
+    <string name="block_link">Bloquear enlace</string>
+    <string name="blocked_link">Enlaces bloqueados</string>
+    <string name="link_block_site">Bloquear sitio de enlace</string>
+    <string name="link_block_page">Bloquear página de enlace</string>
+    <string name="link_reset_guide">Un reinicio eliminará todos los enlaces bloqueados.</string>
     <string name="show_image">Mostrar imagen</string>
     <string name="block_images">Bloquear imagen</string>
     <string name="block_a_image">Bloquear imagen</string>
@@ -637,6 +641,8 @@
     <string name="site_warning">Advertencia de seguridad</string>
     <string name="site_exit">Ir a una página segura</string>
     <string name="site_continue">Continuado (No seguro)</string>
+    <string name="header_title">Encabezamiento</string>
+    <string name="header_color">Color del encabezado</string>
     <string name="site_theme">Tema del sitio</string>
     <string name="site_theme_info">Si el sitio que visita admite temas, se aplica a su navegador.</string>
     <string name="prev_tab">Pestaña anterior</string>
@@ -715,15 +721,11 @@
     <string name="remove_ads_info_2">Siempre es válido si la cuenta utilizada para el pago es la misma.</string>
     <string name="remove_ads_info_3">Los anuncios en la aplicación y los anuncios en un sitio web son diferentes.</string>
     <string name="remove_ads_info_4">La función de eliminación de anuncios del sitio web es gratuita.</string>
-    <string name="reward_ads">Elimina los anuncios en la aplicación viendo anuncios</string>
-    <string name="reward_ads_info_1">Cuando vea el anuncio hasta el final, el anuncio en la aplicación se eliminará durante 1 hora.</string>
-    <string name="reward_ads_info_2">Eliminar una aplicación o los datos de una aplicación restablece el tiempo restante.</string>
-    <string name="reward_ads_time">Tiempo restante</string>
     <string name="donate_1">Donación (Café)</string>
-    <string name="donate_2">Donación (Hamburguesa)</string>
-    <string name="donate_3">Donación (Pizza)</string>
-    <string name="donate_info">Gracias por usar Soul Browser.\nSoul Browser se mantiene gracias a su donación.</string>
-    <string name="pay_free">Gratis</string>
+    <string name="donate_2">Donación (Bebida energética)</string>
+    <string name="donate_3">Donación (Hamburguesa)</string>
+    <string name="donate_info_1">Gracias por usar Soul Browser. ❤</string>
+    <string name="donate_info_2">Si te gusta la aplicación, apoya al desarrollador.</string>
     <string name="paid">Comprado</string>
     <string name="already_paid">Ya ha sido comprado.</string>
     <string name="pay_fail">Se ha producido un error.\nPor favor, inténtelo de nuevo más tarde.</string>

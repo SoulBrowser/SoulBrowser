@@ -112,7 +112,7 @@
     <string name="open_app">Приложение</string>
     <string name="link_app">Открыть ссылку в приложении</string>
     <string name="link">Ссылка</string>
-    <string name="open_url">Открыть в</string>
+    <string name="open_url">Открыть</string>
     <string name="new_url">Новая вкладка</string>
     <string name="back_url">Фоновая вкладка</string>
     <string name="copy_url">Копировать ссылку</string>
@@ -147,7 +147,6 @@
     <string name="open">Открыть</string>
     <string name="image_fail">Не удалось загрузить изображение</string>
     <string name="time_day">день</string>
-    <string name="time_days">дня</string>
     <string name="time_h">ч</string>
     <string name="time_m">м</string>
     <string name="time_s">с</string>
@@ -346,6 +345,11 @@
     <string name="desk_mode">Мобильный/ПК режим</string>
     <string name="desk_one">Режим ПК (Текущая вкладка)</string>
     <string name="desk_all">Режим ПК (Все вкладка)</string>
+    <string name="block_link">Заблокировать ссылку</string>
+    <string name="blocked_link">Заблокированные ссылки</string>
+    <string name="link_block_site">Заблокировать сайт ссылки</string>
+    <string name="link_block_page">Заблокировать страницу ссылки</string>
+    <string name="link_reset_guide">Сброс удалит все заблокированные ссылки.</string>
     <string name="show_image">Показывать изображения</string>
     <string name="block_images">Блокировать изображения</string>
     <string name="block_a_image">Заблокировать изображение</string>
@@ -637,6 +641,8 @@
     <string name="site_warning">Предупреждение безопасности</string>
     <string name="site_exit">Перейти на безопасную страницу</string>
     <string name="site_continue">Продолжить (Небезопасно)</string>
+    <string name="header_title">Заголовок</string>
+    <string name="header_color">Цвет заголовка</string>
     <string name="site_theme">Тема сайта</string>
     <string name="site_theme_info">Если посещаемый вами сайт поддерживает темы, они применятся в браузере.</string>
     <string name="prev_tab">Предыдущая вкладка</string>
@@ -715,15 +721,11 @@
     <string name="remove_ads_info_2">Он всегда действителен, если счёт, используемый для оплаты, тот же.</string>
     <string name="remove_ads_info_3">Реклама в приложении и реклама на сайте разные.</string>
     <string name="remove_ads_info_4">Функция удаления рекламы на сайте бесплатна.</string>
-    <string name="reward_ads">Удалите рекламу в приложениях, просматривая рекламу</string>
-    <string name="reward_ads_info_1">Когда вы просмотрите рекламу до конца, реклама в приложении будет удалена на 1 час.</string>
-    <string name="reward_ads_info_2">Удаление приложения или данных приложения сбрасывает оставшееся время.</string>
-    <string name="reward_ads_time">Времени осталось</string>
     <string name="donate_1">Пожертвование (Кофе)</string>
-    <string name="donate_2">Пожертвование (Гамбургер)</string>
-    <string name="donate_3">Пожертвование (Пицца)</string>
-    <string name="donate_info">Спасибо за использование Soul Browser.\nSoul Browser поддерживается за счет вашего пожертвования.</string>
-    <string name="pay_free">Бесплатно</string>
+    <string name="donate_2">Пожертвование (Энергетик)</string>
+    <string name="donate_3">Пожертвование (Гамбургер)</string>
+    <string name="donate_info_1">Спасибо за использование Soul Browser. ❤</string>
+    <string name="donate_info_2">Если вам нравится приложение, пожалуйста, поддержите разработчика.</string>
     <string name="paid">Куплено</string>
     <string name="already_paid">Он уже куплен.</string>
     <string name="pay_fail">Произошла ошибка.\nПожалуйста, попробуйте позже.</string>
