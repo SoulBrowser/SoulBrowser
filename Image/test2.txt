@@ -64,6 +64,8 @@ a|whe|4kjav.co|rh=|pagead2.googlesyndication.com
 a|whc|daum|rh=|display.ad.daum.net
 a|wu=|https://noonoo.tv/|rus|https://noonoo-images.studiouniversal.net/banner/
 a|wus|https://noonoo.tv/?|rus|https://noonoo-images.studiouniversal.net/banner/
+a|wu=|https://noonoo.tv/|rus|https://images.nstatic.org/banner/
+a|wus|https://noonoo.tv/?|rus|https://images.nstatic.org/banner/
 //rg
 b|rus|https://vod-naver.pstatic.net/tveta/owfs_rmc/read
 a|ruc|main_mobileweb
