@@ -7,6 +7,7 @@ values-ar        Arabic
 values-de        German
 values-es        Spanish
 values-fr        French
+values-hi        Hindi
 values-in        Indonesia
 values-it        Italian
 values-ja        Japanese
