@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Alcuni siti devono riprodurre il video prima che il video venga rilevato.\nSiti diversi hanno comportamenti diversi.</string>
     <string name="video_down_guide_4">A causa delle norme di YouTube, i video di YouTube non possono essere scaricati.</string>
     <string name="video_full_guide_1">Riproduci video scaricabili con il lettore video.</string>
-    <string name="video_full_guide_2">I formati non supportati non hanno pulsanti.</string>
-    <string name="video_full_guide_3">I video che non consentono la riproduzione esterna sul sito non possono essere riprodotti.</string>
+    <string name="video_full_guide_2">I video che non consentono la riproduzione esterna sul sito non possono essere riprodotti.</string>
     <string name="down_limit">Download simultaneo</string>
     <string name="down_limit_info">Il download di troppi file contemporaneamente può rallentare il dispositivo e causare problemi.</string>
     <string name="not_allow">Non permettere</string>

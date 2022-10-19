@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Beberapa situs perlu memutar video sebelum video terdeteksi.\nSitus yang berbeda memiliki perilaku yang berbeda pula.</string>
     <string name="video_down_guide_4">Karena kebijakan YouTube, video YouTube tidak dapat diunduh.</string>
     <string name="video_full_guide_1">Putar video yang dapat diunduh dengan pemutar video.</string>
-    <string name="video_full_guide_2">Format yang tidak didukung tidak memiliki tombol.</string>
-    <string name="video_full_guide_3">Video yang tidak mengizinkan pemutaran eksternal di situs tidak dapat diputar.</string>
+    <string name="video_full_guide_2">Video yang tidak mengizinkan pemutaran eksternal di situs tidak dapat diputar.</string>
     <string name="down_limit">Pengunduhan secara bersamaan</string>
     <string name="down_limit_info">Mengunduh terlalu banyak file secara bersamaan dapat memperlambat perangkat Anda dan menyebabkan masalah.</string>
     <string name="not_allow">Jangan izinkan</string>

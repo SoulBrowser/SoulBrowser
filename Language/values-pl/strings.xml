@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Niektóre strony muszą odtworzyć wideo, zanim zostanie wykryty.\nRóżne strony zachowują się inaczej.</string>
     <string name="video_down_guide_4">Ze względu na zasady YouTube nie można pobierać filmów z YouTube.</string>
     <string name="video_full_guide_1">Odtwarzaj filmy do pobrania za pomocą odtwarzacza wideo.</string>
-    <string name="video_full_guide_2">Nieobsługiwane formaty nie mają przycisków.</string>
-    <string name="video_full_guide_3">Nie można odtwarzać filmów, które nie pozwalają na odtwarzanie zewnętrzne w witrynie.</string>
+    <string name="video_full_guide_2">Nie można odtwarzać filmów, które nie pozwalają na odtwarzanie zewnętrzne w witrynie.</string>
     <string name="down_limit">Jednoczesne pobieranie</string>
     <string name="down_limit_info">Pobieranie zbyt wielu plików jednocześnie może spowolnić urządzenie i powodować problemy.</string>
     <string name="not_allow">Nie zezwalaj</string>

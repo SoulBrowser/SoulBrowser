@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Algunos sitios necesitan reproducir el video antes de que se detecte el video.\nDiferentes sitios tienen un comportamiento diferente.</string>
     <string name="video_down_guide_4">Debido a la política de YouTube, los videos de YouTube no se pueden descargar.</string>
     <string name="video_full_guide_1">Reproducir videos descargables con reproductor de video.</string>
-    <string name="video_full_guide_2">Los formatos no compatibles no tienen botones.</string>
-    <string name="video_full_guide_3">Los videos que no permiten la reproducción externa en el sitio no se pueden reproducir.</string>
+    <string name="video_full_guide_2">Los videos que no permiten la reproducción externa en el sitio no se pueden reproducir.</string>
     <string name="down_limit">Descarga simultánea</string>
     <string name="down_limit_info">Descargar demasiados archivos al mismo tiempo puede ralentizar su dispositivo y causar problemas.</string>
     <string name="not_allow">No permitir</string>

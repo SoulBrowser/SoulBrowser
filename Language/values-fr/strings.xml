@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Certains sites doivent lire la vidéo avant que la vidéo ne soit détectée.\nDifférents sites ont un comportement différent.</string>
     <string name="video_down_guide_4">En raison de la politique de YouTube, les vidéos YouTube ne peuvent pas être téléchargées.</string>
     <string name="video_full_guide_1">Lire des vidéos téléchargeables avec un lecteur vidéo.</string>
-    <string name="video_full_guide_2">Les formats non pris en charge n\'ont pas de boutons.</string>
-    <string name="video_full_guide_3">Les vidéos qui ne permettent pas la lecture externe sur le site ne peuvent pas être lues.</string>
+    <string name="video_full_guide_2">Les vidéos qui ne permettent pas la lecture externe sur le site ne peuvent pas être lues.</string>
     <string name="down_limit">Téléchargement simultané</string>
     <string name="down_limit_info">Télécharger trop de fichiers en même temps peut ralentir votre appareil et provoquer des problèmes.</string>
     <string name="not_allow">Ne pas autoriser</string>

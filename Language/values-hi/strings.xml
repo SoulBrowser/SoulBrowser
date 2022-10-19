@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-   <string name="app_name">आत्मा</string>
+    <string name="app_name">Soul</string>
     <string name="notice">प्रारंभ बटन दबाकर, आप आत्मा ब्राउज़र\n%1$s और %2$s से सहमत होते हैं।</string>
     <string name="notice_tos">सेवा की शर्तें</string>
     <string name="notice_privacy">गोपनीयता नीति</string>
@@ -62,7 +62,7 @@
     <string name="trans_except_info">आप उन साइटों को पंजीकृत कर सकते हैं जो स्वचालित अनुवाद का उपयोग नहीं करती हैं।</string>
     <string name="trans_blocked">साइट नीति के अनुसार अनुवादक नहीं चलाया जा सकता।</string>
     <string name="trans_allowed">अस्थायी रूप से अनुमत</string>
-    <string name="google_trans">गूगल ट्रांसलेट</string>
+    <string name="google_trans">Google अनुवाद करें</string>
     <string name="original">मूल</string>
     <string name="find_word">पेज में ढूंढना</string>
     <string name="verify_image">छवि सत्यापन</string>
@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">वीडियो का पता चलने से पहले कुछ साइटों को वीडियो चलाने की आवश्यकता होती है।\nविभिन्न साइटों का व्यवहार भिन्न होता है।</string>
     <string name="video_down_guide_4">YouTube नीति के कारण, YouTube वीडियो डाउनलोड नहीं किए जा सकते।</string>
     <string name="video_full_guide_1">वीडियो प्लेयर के साथ डाउनलोड करने योग्य वीडियो चलाएं।</string>
-    <string name="video_full_guide_2">असमर्थित प्रारूपों में बटन नहीं होते हैं।</string>
-    <string name="video_full_guide_3">ऐसे वीडियो जो साइट पर बाहरी प्लेबैक की अनुमति नहीं देते हैं उन्हें चलाया नहीं जा सकता।</string>
+    <string name="video_full_guide_2">ऐसे वीडियो जो साइट पर बाहरी प्लेबैक की अनुमति नहीं देते हैं उन्हें चलाया नहीं जा सकता।</string>
     <string name="down_limit">समवर्ती डाउनलोड</string>
     <string name="down_limit_info">एक ही समय में बहुत सारी फ़ाइलें डाउनलोड करने से डिवाइस धीमा हो सकता है और समस्याएँ पैदा हो सकती हैं।</string>
     <string name="not_allow">इजाजत न दें</string>
@@ -741,7 +740,7 @@
     <string name="pay_fail">कोई त्रुटि उत्पन्न हुई।\nकृपया बाद में पुन: प्रयास करें।</string>
     <string name="prevent_pay">आकस्मिक भुगतान रोकें</string>
     <string name="input_answer">कृपया उत्तर दर्ज करें।</string>
-    <string name="correct_answer">सही उत्तर है डी।</string>
+    <string name="correct_answer">सही उत्तर है %d</string>
     <string name="bright_info">स्वचालित प्रकाश व्यवस्था सक्रिय होने पर यह लागू नहीं हो सकता है।</string>
     <string name="subtitle">उपशीर्षक</string>
     <string name="subtitle_info_1">केवल स्थानीय फ़ाइलें उपशीर्षक का समर्थन करती हैं।</string>
@@ -913,7 +912,7 @@
     <string name="torrent_down">टोरेंट डाउनलोड</string>
     <string name="crash_guide_1">वेबपेज प्रदर्शित करने में एक समस्या थी।</string>
     <string name="crash_guide_2">यदि आप इस स्क्रीन को अक्सर देखते हैं, तो निम्न सुविधाओं की जाँच करें।</string>
-    <string name="block_amp">Google एएमपी अक्षम करें</string>
+    <string name="block_amp">Google AMP अक्षम करें</string>
     <string name="block_amp_info">Google खोज परिणामों में Google AMP अक्षम करें।</string>
     <string name="filter_guide_1">विज्ञापन अवरोधन फ़िल्टर पर आधारित है।</string>
     <string name="filter_guide_2">यदि आपके पास ऐसी साइट है जो विज्ञापनों को अवरुद्ध नहीं करती है, तो एक उपयुक्त फ़िल्टर जोड़ें।</string>

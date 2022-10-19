@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">تحتاج بعض المواقع إلى تشغيل الفيديو قبل اكتشاف الفيديو.\nالمواقع المختلفة لها سلوكيات مختلفة.</string>
     <string name="video_down_guide_4">نظرًا لسياسة YouTube ، لا يمكن تنزيل مقاطع فيديو YouTube.</string>
     <string name="video_full_guide_1">قم بتشغيل مقاطع الفيديو القابلة للتنزيل باستخدام مشغل الفيديو.</string>
-    <string name="video_full_guide_2">لا يظهر الزر للتنسيقات غير المعتمدة.</string>
-    <string name="video_full_guide_3">لا يمكن تشغيل مقاطع الفيديو التي لا تسمح بالتشغيل الخارجي على الموقع.</string>
+    <string name="video_full_guide_2">لا يمكن تشغيل مقاطع الفيديو التي لا تسمح بالتشغيل الخارجي على الموقع.</string>
     <string name="down_limit">تنزيل متزامن</string>
     <string name="down_limit_info">قد يؤدي تنزيل عدد كبير جدًا من الملفات في نفس الوقت إلى إبطاء جهازك والتسبب في حدوث مشكلات.</string>
     <string name="not_allow">غير مسموح</string>

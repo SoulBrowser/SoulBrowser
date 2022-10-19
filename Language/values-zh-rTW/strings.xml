@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">某些網站需要先播放影片才能檢測到影片內容\n不同的站點具有不同的行為</string>
     <string name="video_down_guide_4">由於 YouTube 政策，無法下載 YouTube 影片</string>
     <string name="video_full_guide_1">使用影片播放器播放可下載的影片</string>
-    <string name="video_full_guide_2">不支援的格式沒有按鈕</string>
-    <string name="video_full_guide_3">網站上不允許外部播放的影片無法播放</string>
+    <string name="video_full_guide_2">網站上不允許外部播放的影片無法播放</string>
     <string name="down_limit">同時下載數</string>
     <string name="down_limit_info">同時下載太多檔案時，可能會減慢裝置速度並造成問題</string>
     <string name="not_allow">不允許</string>

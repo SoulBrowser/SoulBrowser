@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Một số trang web cần phát video trước khi phát hiện video.\nCác trang web khác nhau có hành vi khác nhau.</string>
     <string name="video_down_guide_4">Do chính sách của YouTube, video YouTube không thể được tải xuống.</string>
     <string name="video_full_guide_1">Phát video có thể tải xuống bằng trình phát video.</string>
-    <string name="video_full_guide_2">Các định dạng không được hỗ trợ không có nút.</string>
-    <string name="video_full_guide_3">Các video không cho phép phát lại bên ngoài trên trang web sẽ không thể phát được.</string>
+    <string name="video_full_guide_2">Các video không cho phép phát lại bên ngoài trên trang web sẽ không thể phát được.</string>
     <string name="down_limit">Tải xuống đồng thời</string>
     <string name="down_limit_info">Tải xuống quá nhiều tệp cùng một lúc có thể làm chậm thiết bị của bạn và gây ra sự cố.</string>
     <string name="not_allow">Không cho phép</string>

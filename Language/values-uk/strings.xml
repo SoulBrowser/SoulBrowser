@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Деякі сайти потребують відтворення відео перед його виявленням.\nРізні сайти мають різну поведінку.</string>
     <string name="video_down_guide_4">Через політику YouTube відео YouTube не можна завантажувати.</string>
     <string name="video_full_guide_1">Відтворюйте відео, які можна завантажити, за допомогою відеопрогравача.</string>
-    <string name="video_full_guide_2">Непідтримувані формати не мають кнопок.</string>
-    <string name="video_full_guide_3">Відео, які не допускають зовнішнього відтворення на сайті, не можна відтворювати.</string>
+    <string name="video_full_guide_2">Відео, які не допускають зовнішнього відтворення на сайті, не можна відтворювати.</string>
     <string name="down_limit">Одночасне завантаження</string>
     <string name="down_limit_info">Одночасне завантаження занадто багатьох файлів може сповільнити пристрій і спричинити проблеми.</string>
     <string name="not_allow">Не дозволяти</string>

@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Unele site-uri trebuie să redea videoclipul înainte de detectarea videoclipului.\nSite-urile diferite au un comportament diferit.</string>
     <string name="video_down_guide_4">Datorită politicii YouTube, videoclipurile YouTube nu pot fi descărcate.</string>
     <string name="video_full_guide_1">Redați videoclipuri descărcabile cu player video.</string>
-    <string name="video_full_guide_2">Formatele neacceptate nu au butoane.</string>
-    <string name="video_full_guide_3">Videoclipurile care nu permit redarea externă pe site nu pot fi redate.</string>
+    <string name="video_full_guide_2">Videoclipurile care nu permit redarea externă pe site nu pot fi redate.</string>
     <string name="down_limit">Descărcare simultană</string>
     <string name="down_limit_info">Descărcarea prea multor fișiere în același timp poate încetini dispozitivul și provoca probleme.</string>
     <string name="not_allow">Nu permiteți</string>
@@ -686,7 +685,7 @@
     <string name="move_bot">Ke bawah</string>
     <string name="scroll_up">Derulați în sus</string>
     <string name="scroll_down">Deruleaza in jos</string>
-    <string name="open_with">Buka dengan</string>
+    <string name="open_with">Deschis cu</string>
     <string name="open_chrome">Deschideți cu Chrome</string>
     <string name="double_tap">Apasare dubla</string>
     <string name="double_tap_guide_1">Puteți seta modul peisaj și modul portret diferit.</string>

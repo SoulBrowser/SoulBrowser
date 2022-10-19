@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Some sites need to play the video before the video is detected.\nDifferent sites have different behavior.</string>
     <string name="video_down_guide_4">Due to YouTube policy, YouTube videos can not be downloaded.</string>
     <string name="video_full_guide_1">Play downloadable videos with video player.</string>
-    <string name="video_full_guide_2">Unsupported formats do not have buttons.</string>
-    <string name="video_full_guide_3">Videos that do not allow external playback on the site cannot be played.</string>
+    <string name="video_full_guide_2">Videos that do not allow external playback on the site cannot be played.</string>
     <string name="down_limit">Concurrent download</string>
     <string name="down_limit_info">Downloading too many files at the same time can slow device and cause problems.</string>
     <string name="not_allow">Do not allow</string>

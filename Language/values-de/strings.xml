@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Einige Seiten müssen das Video abspielen, bevor das Video erkannt wird.\nUnterschiedliche Websiten haben ein unterschiedliches Verhalten.</string>
     <string name="video_down_guide_4">Aufgrund der YouTube-Richtlinie können YouTube Videos nicht heruntergeladen werden.</string>
     <string name="video_full_guide_1">Spielen Sie herunterladbare Videos mit dem Videoplayer ab.</string>
-    <string name="video_full_guide_2">Nicht unterstützte Formate haben keine Schaltflächen.</string>
-    <string name="video_full_guide_3">Videos, die keine externe Wiedergabe auf der Site zulassen, können nicht wiedergegeben werden.</string>
+    <string name="video_full_guide_2">Videos, die keine externe Wiedergabe auf der Site zulassen, können nicht wiedergegeben werden.</string>
     <string name="down_limit">Gleichzeitige Downloads</string>
     <string name="down_limit_info">Das gleichzeitige Herunterladen zu vieler Dateien kann ihr Gerät verlangsamen und Probleme verursachen.</string>
     <string name="not_allow">Nicht erlaubt</string>

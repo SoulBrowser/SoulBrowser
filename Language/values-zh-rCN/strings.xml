@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">某些站点需要播放视频之后才能检测到\n不同站点具有不同情况</string>
     <string name="video_down_guide_4">由于 YouTube 政策，无法下载 YouTube 视频</string>
     <string name="video_full_guide_1">使用视频播放器播放可下载的视频</string>
-    <string name="video_full_guide_2">不支持的格式没有按钮</string>
-    <string name="video_full_guide_3">网站上不允许外部播放的视频无法播放</string>
+    <string name="video_full_guide_2">网站上不允许外部播放的视频无法播放</string>
     <string name="down_limit">同时下载数</string>
     <string name="down_limit_info">同时下载太多文件可能会降低设备速度并出现问题</string>
     <string name="not_allow">不允许</string>

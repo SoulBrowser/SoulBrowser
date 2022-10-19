@@ -453,8 +453,7 @@
     <string name="video_down_guide_3">Bazı sitelerin video algılanmadan önce videoyu oynatması gerekir.\nFarklı siteler farklı davranışlara sahiptir.</string>
     <string name="video_down_guide_4">YouTube politikası nedeniyle, YouTube videoları indirilemiyor.</string>
     <string name="video_full_guide_1">Video oynatıcı ile indirilebilir videoları oynatın.</string>
-    <string name="video_full_guide_2">Desteklenmeyen formatlarda düğme yoktur.</string>
-    <string name="video_full_guide_3">Sitede harici oynatmaya izin vermeyen videolar oynatılamaz.</string>
+    <string name="video_full_guide_2">Sitede harici oynatmaya izin vermeyen videolar oynatılamaz.</string>
     <string name="down_limit">Eşzamanlı indirme</string>
     <string name="down_limit_info">Aynı anda çok fazla dosya indirmek, cihazınızı yavaşlatabilir ve sorunlara neden olabilir.</string>
     <string name="not_allow">İzin verme</string>
