@@ -675,6 +675,8 @@
     <string name="full_screen">Tela cheia</string>
     <string name="full_tool">Tela cheia e barra de ferramentas</string>
     <string name="display_title">Mostrar</string>
+    <string name="display_cutout">Recorte de exibição</string>
+    <string name="display_cutout_info">Em dispositivos com recortes de tela, o conteúdo é renderizado na área de recorte.</string>
     <string name="scroll_mode">Modo de rolagem</string>
     <string name="scroll_guide_1">1. Exibe a página carregada até o momento.</string>
     <string name="scroll_guide_2">2. Exibe a página dentro do limite de memória disponível.</string>

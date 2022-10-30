@@ -675,6 +675,8 @@
     <string name="full_screen">全螢幕</string>
     <string name="full_tool">全螢幕和工具列</string>
     <string name="display_title">顯示</string>
+    <string name="display_cutout">顯示切口</string>
+    <string name="display_cutout_info">在具有顯示切口的設備上，內容被渲染到切口區域</string>
     <string name="scroll_mode">滾動模式</string>
     <string name="scroll_guide_1">1. 顯示到目前為止載入的頁面</string>
     <string name="scroll_guide_2">2. 在可用記憶體限制內顯示頁面</string>

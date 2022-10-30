@@ -675,6 +675,8 @@
     <string name="full_screen">全屏页面</string>
     <string name="full_tool">全屏和工具栏</string>
     <string name="display_title">展示</string>
+    <string name="display_cutout">显示切口</string>
+    <string name="display_cutout_info">在具有显示切口的设备上，内容被渲染到切口区域</string>
     <string name="scroll_mode">滚动模式</string>
     <string name="scroll_guide_1">1. 显示到目前为止加载的页面</string>
     <string name="scroll_guide_2">2. 在可用内存限制内显示页面</string>

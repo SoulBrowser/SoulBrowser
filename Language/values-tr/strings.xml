@@ -675,6 +675,8 @@
     <string name="full_screen">Tam ekran</string>
     <string name="full_tool">Tam ekran ve Araç Çubuğu</string>
     <string name="display_title">Görünüm</string>
+    <string name="display_cutout">Ekran kesme</string>
+    <string name="display_cutout_info">Ekran kesmeleri olan cihazlarda içerik, kesme alanına işlenir.</string>
     <string name="scroll_mode">Kaydırma modu</string>
     <string name="scroll_guide_1">1. Şimdiye kadar yüklenen sayfayı görüntüler.</string>
     <string name="scroll_guide_2">2. Sayfayı kullanılabilir bellek sınırı dahilinde görüntüler.</string>

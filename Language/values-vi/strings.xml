@@ -675,6 +675,8 @@
     <string name="full_screen">Toàn màn hình</string>
     <string name="full_tool">Toàn màn hình và Thanh công cụ</string>
     <string name="display_title">Trưng bày</string>
+    <string name="display_cutout">Hiển thị hình cắt</string>
+    <string name="display_cutout_info">Trên các thiết bị có vùng cắt hiển thị, nội dung được hiển thị vào vùng cắt.</string>
     <string name="scroll_mode">Chế độ cuộn</string>
     <string name="scroll_guide_1">1. Hiển thị trang được tải cho đến nay.</string>
     <string name="scroll_guide_2">2. Hiển thị trang trong giới hạn bộ nhớ khả dụng.</string>

@@ -675,6 +675,8 @@
     <string name="full_screen">Полноэкранный режим</string>
     <string name="full_tool">Полный экран и панель инструментов</string>
     <string name="display_title">Дисплей</string>
+    <string name="display_cutout">Вырез дисплея</string>
+    <string name="display_cutout_info">На устройствах с вырезами дисплея содержимое отображается в области выреза.</string>
     <string name="scroll_mode">Режим прокрутки</string>
     <string name="scroll_guide_1">1. Отображает страницу, загруженную до сих пор.</string>
     <string name="scroll_guide_2">2. Отображает страницу в пределах доступного лимита памяти.</string>

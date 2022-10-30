@@ -675,6 +675,8 @@
     <string name="full_screen">تكبير الشاشة</string>
     <string name="full_tool">ملء الشاشة وشريط الأدوات</string>
     <string name="display_title">عرض</string>
+    <string name="display_cutout">انقطاع العرض</string>
+    <string name="display_cutout_info">على الأجهزة ذات القواطع للعرض ، يتم تحويل المحتوى إلى منطقة الفصل.</string>
     <string name="scroll_mode">وضع التمرير</string>
     <string name="scroll_guide_1">1. اعرض الصفحات التي تم تحميلها حتى الآن.</string>
     <string name="scroll_guide_2">2. اعرض الصفحة في حدود الذاكرة المتاحة.</string>

@@ -675,6 +675,8 @@
     <string name="full_screen">Ecran complet</string>
     <string name="full_tool">Ecran complet și Bara de instrumente</string>
     <string name="display_title">Afişa</string>
+    <string name="display_cutout">Decupaj pentru afișaj</string>
+    <string name="display_cutout_info">Pe dispozitivele cu decupaje pentru afișaj, conținutul este redat în zona decupate.</string>
     <string name="scroll_mode">Modul de derulare</string>
     <string name="scroll_guide_1">1. Afișează pagina încărcată până acum.</string>
     <string name="scroll_guide_2">2. Afișează pagina în limita de memorie disponibilă.</string>

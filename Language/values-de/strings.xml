@@ -675,6 +675,8 @@
     <string name="full_screen">Ganzer Bildschirm</string>
     <string name="full_tool">Vollbild und Symbolleiste</string>
     <string name="display_title">Anzeige</string>
+    <string name="display_cutout">Ausschnitt anzeigen</string>
+    <string name="display_cutout_info">Auf Geräten mit Displayausschnitten werden Inhalte in den Ausschnittbereich gerendert.</string>
     <string name="scroll_mode">Bildlaufmodus</string>
     <string name="scroll_guide_1">1. Zeigt die bisher geladene Seite an.</string>
     <string name="scroll_guide_2">2. Zeigt die Seite innerhalb des verfügbaren Speicherlimits an.</string>

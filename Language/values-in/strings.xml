@@ -675,6 +675,8 @@
     <string name="full_screen">Layar penuh</string>
     <string name="full_tool">Layar penuh dan Bilah Alat</string>
     <string name="display_title">Menampilkan</string>
+    <string name="display_cutout">Potongan tampilan</string>
+    <string name="display_cutout_info">Pada perangkat dengan potongan tampilan, konten dirender ke area potongan.</string>
     <string name="scroll_mode">Mode gulir</string>
     <string name="scroll_guide_1">1. Menampilkan halaman yang dimuat sejauh ini.</string>
     <string name="scroll_guide_2">2. Menampilkan halaman dalam batas memori yang tersedia.</string>

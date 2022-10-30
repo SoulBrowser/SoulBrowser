@@ -675,6 +675,8 @@
     <string name="full_screen">Pełny ekran</string>
     <string name="full_tool">Pełny ekran i pasek narzędzi</string>
     <string name="display_title">Wyświetlacz</string>
+    <string name="display_cutout">Wyświetlacz wycięcie</string>
+    <string name="display_cutout_info">Na urządzeniach z wycięciami ekranu zawartość jest renderowana w obszarze wycięcia.</string>
     <string name="scroll_mode">Tryb przewijania</string>
     <string name="scroll_guide_1">1. Wyświetla stronę załadowaną do tej pory.</string>
     <string name="scroll_guide_2">2. Wyświetla stronę w ramach dostępnego limitu pamięci.</string>

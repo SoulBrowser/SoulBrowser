@@ -675,6 +675,8 @@
     <string name="full_screen">เต็มจอ</string>
     <string name="full_tool">เต็มหน้าจอและแถบเครื่องมือ</string>
     <string name="display_title">แสดง</string>
+    <string name="display_cutout">คัตเอาท์จอแสดงผล</string>
+    <string name="display_cutout_info">บนอุปกรณ์ที่มีช่องเจาะจอแสดงผล เนื้อหาจะแสดงในพื้นที่คัตเอาท์</string>
     <string name="scroll_mode">โหมดเลื่อน</string>
     <string name="scroll_guide_1">1. แสดงหน้าโหลดจนถึงตอนนี้</string>
     <string name="scroll_guide_2">2. แสดงหน้าภายในขีด จำกัด หน่วยความจำที่มีอยู่</string>

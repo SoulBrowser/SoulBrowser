@@ -675,6 +675,8 @@
     <string name="full_screen">पूर्ण स्क्रीन</string>
     <string name="full_tool">पूर्ण स्क्रीन और टूलबार</string>
     <string name="display_title">दिखाना</string>
+    <string name="display_cutout">कटआउट प्रदर्शित करें</string>
+    <string name="display_cutout_info">डिस्प्ले कटआउट वाले उपकरणों पर, सामग्री को कटआउट क्षेत्र में प्रस्तुत किया जाता है।</string>
     <string name="scroll_mode">स्क्रॉल मोड</string>
     <string name="scroll_guide_1">1. अब तक लोड किए गए पृष्ठ को प्रदर्शित करता है।</string>
     <string name="scroll_guide_2">2. उपलब्ध स्मृति सीमा के भीतर पृष्ठ को प्रदर्शित करता है।</string>

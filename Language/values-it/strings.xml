@@ -675,6 +675,8 @@
     <string name="full_screen">Schermo intero</string>
     <string name="full_tool">Schermo intero e barra degli strumenti</string>
     <string name="display_title">Schermo</string>
+    <string name="display_cutout">Ritaglio di visualizzazione</string>
+    <string name="display_cutout_info">Sui dispositivi con ritagli di visualizzazione, il contenuto viene visualizzato nell\'area ritagliata.</string>
     <string name="scroll_mode">Modalità di scorrimento</string>
     <string name="scroll_guide_1">1. Visualizza la pagina caricata finora.</string>
     <string name="scroll_guide_2">2. Visualizza la pagina entro il limite di memoria disponibile.</string>

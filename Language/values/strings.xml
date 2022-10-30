@@ -675,6 +675,8 @@
     <string name="full_screen">Full screen</string>
     <string name="full_tool">Full screen and Toolbar</string>
     <string name="display_title">Display</string>
+    <string name="display_cutout">Display cutout</string>
+    <string name="display_cutout_info">On devices with display cutouts, content is rendered into the cutout area.</string>
     <string name="scroll_mode">Scroll mode</string>
     <string name="scroll_guide_1">1. Displays the page loaded so far.</string>
     <string name="scroll_guide_2">2. Displays the page within the available memory limit.</string>

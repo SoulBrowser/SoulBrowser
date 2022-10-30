@@ -675,6 +675,8 @@
     <string name="full_screen">Plein écran</string>
     <string name="full_tool">Plein écran et barre d\'outils</string>
     <string name="display_title">Affichage</string>
+    <string name="display_cutout">Découpe d\'affichage</string>
+    <string name="display_cutout_info">Sur les appareils avec des découpes d\'affichage, le contenu est rendu dans la zone de découpe.</string>
     <string name="scroll_mode">Mode défilement</string>
     <string name="scroll_guide_1">1. Affiche la page chargée jusqu\'à présent.</string>
     <string name="scroll_guide_2">2. Affiche la page dans la limite de mémoire disponible.</string>

@@ -675,6 +675,8 @@
     <string name="full_screen">全画面表示</string>
     <string name="full_tool">フルスクリーンとツールバー</string>
     <string name="display_title">ディスプレイ</string>
+    <string name="display_cutout">カットアウトを表示</string>
+    <string name="display_cutout_info">ディスプレイカットアウトがあるデバイスでは、コンテンツがカットアウト領域としてレンダリングされます。</string>
     <string name="scroll_mode">スクロールモード</string>
     <string name="scroll_guide_1">1. これまでに読み込まれたページを表示します。</string>
     <string name="scroll_guide_2">2. 使用可能なメモリ制限内でページを表示します。</string>
