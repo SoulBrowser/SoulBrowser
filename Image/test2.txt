@@ -62,6 +62,7 @@ b|wh=|dft_izle|rhe|track.adform.net
 b|wh=|dft_izle|rue|.mp4|rhc|cdn
 a|whe|4kjav.co|rh=|pagead2.googlesyndication.com
 a|whc|daum|rh=|display.ad.daum.net
+a|whe|ytn.co.kr|rue|vrixadsdk.js
 a|wu=|https://noonoo.tv/|rus|https://noonoo-images.studiouniversal.net/banner/
 a|wus|https://noonoo.tv/?|rus|https://noonoo-images.studiouniversal.net/banner/
 a|wu=|https://noonoo.tv/|rus|https://images.nstatic.org/banner/
