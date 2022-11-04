@@ -1,5 +1,6 @@
 //sg
 a|whe|twitter.com|rus|https://pbs.twimg.com/ad_img/
+a|whe|wordpress.com|rh=|s1.wp.com
 a|whe|yahoo.com|rh=|pagead2.googlesyndication.com
 b|whe|yahoo.com|rue|.mp4|rhe|yimg.com
 b|whe|yandex.com|rhe|an.yandex.ru
