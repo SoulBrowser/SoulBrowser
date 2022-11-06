@@ -180,7 +180,7 @@
     <string name="pull_refresh">Обновить страницу свайпом вниз</string>
     <string name="refresh">Обновить</string>
     <string name="sort">Сортировать</string>
-    <string name="group_by">Группа по</string>
+    <string name="group_by">Группировать по</string>
     <string name="folder_dir">Каталог</string>
     <string name="sub_dir">Подкаталог</string>
     <string name="not_used">Не используется</string>
@@ -339,7 +339,7 @@
     <string name="update_fail">Не удалось выполнить обновление.</string>
     <string name="guide_ads_allow">Можно зарегистрировать сайты, на которых разрешена реклама.</string>
     <string name="guide_pop_allow">Можно зарегистрировать сайты, на которых разрешены всплывающие окна.</string>
-    <string name="now_delete">Выберите элементы для удаления</string>
+    <string name="now_delete">Выбрать элементы и удалить их прямо сейчас</string>
     <string name="exit_delete">Выберите элементы для удаления при выходе из приложения</string>
     <string name="exit_guide">Когда приложение закрывается, выбранный элемент удаляется.</string>
     <string name="exit_del_noti">Уведомление при удалении</string>
@@ -406,7 +406,7 @@
     <string name="show_navi">Показать панель навигации</string>
     <string name="address_label">Контент панели поиска</string>
     <string name="address_icon">Кнопки панели поиска</string>
-    <string name="addr_icon_info">2. Вы можете удалить его, нажав на значок.</string>
+    <string name="addr_icon_info">2. Можно удалить значок, нажав на него.</string>
     <string name="address_bar">Панель поиска</string>
     <string name="address_menu">Меню панели поиска</string>
     <string name="show_tab_bar">Показать панель вкладок</string>
@@ -611,7 +611,7 @@
     <string name="voice_tone">Тон голоса</string>
     <string name="stop_icon">Кнопка остановки</string>
     <string name="stop_icon_info">Появляется на экране во время воспроизведения голоса.</string>
-    <string name="long_move_guide">Вы можете двигаться, нажав и удерживая кнопку.</string>
+    <string name="long_move_guide">Кнопку можно перемещать по экрану долгим нажатием.</string>
     <string name="not_support_device">Не поддерживается на этом устройстве.</string>
     <string name="drag_seek">Сенсорная навигация по экрану</string>
     <string name="drag_seek_info">Проведите влево или вправо для перемотки.</string>
@@ -852,7 +852,7 @@
     <string name="vpn_active">DNS активирован</string>
     <string name="vpn_deactive">DNS деактивирован</string>
     <string name="vpn_server">Сервер</string>
-    <string name="visit_site">Посетите сайт</string>
+    <string name="visit_site">Открыть веб-сайт</string>
     <string name="home_exit">Действие кнопки Назад на домашней странице</string>
     <string name="out_of_memory">Недостаточно памяти.</string>
     <string name="auto_detect">Определять автоматически</string>
