@@ -817,7 +817,10 @@
     <string name="down_service">Scarica il servizio</string>
     <string name="service_exit">Cessazione del servizio</string>
     <string name="auto_comp">Completamento automatico</string>
-    <string name="check_element">Ispezione degli elementi (blocco più a grana fine)</string>
+    <string name="check_element">Ispezione degli elementi</string>
+    <string name="check_ele_info_0">(blocco più a grana fine)</string>
+    <string name="check_ele_info_1">L\'efficacia di questa funzione dipende dai siti che visiti frequentemente.</string>
+    <string name="check_ele_info_2">Se non c\'è differenza tra prima e dopo aver abilitato questa funzione, ti consigliamo di disabilitarla per risparmiare memoria.</string>
     <string name="quick_guide_1">1. Puoi muoverti tenendo premuta l\'icona.</string>
     <string name="quick_guide_2">2. È possibile creare cartelle sovrapponendo le icone.</string>
     <string name="column_count">Conteggio colonne</string>

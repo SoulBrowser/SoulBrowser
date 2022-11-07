@@ -817,7 +817,10 @@
     <string name="down_service">सेवा डाउनलोड करें</string>
     <string name="service_exit">सेवा समाप्ति</string>
     <string name="auto_comp">स्वतः पूर्ण</string>
-    <string name="check_element">तत्व निरीक्षण (अधिक सुक्ष्म अवरोधन)</string>
+    <string name="check_element">तत्व निरीक्षण</string>
+    <string name="check_ele_info_0">(अधिक सुक्ष्म अवरोधन)</string>
+    <string name="check_ele_info_1">इस सुविधा की प्रभावशीलता उन साइटों पर निर्भर करती है जिन पर आप अक्सर जाते हैं।</string>
+    <string name="check_ele_info_2">यदि इस सुविधा को सक्षम करने से पहले और बाद में कोई अंतर नहीं है, तो हम अनुशंसा करते हैं कि स्मृति को बचाने के लिए इसे अक्षम कर दिया जाए।</string>
     <string name="quick_guide_1">1. आप आइकन को दबाकर रख कर आगे बढ़ सकते हैं।</string>
     <string name="quick_guide_2">2. आप आइकनों को ओवरलैप करके फोल्डर बना सकते हैं।</string>
     <string name="column_count">कॉलम गिनती</string>

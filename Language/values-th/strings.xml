@@ -817,7 +817,10 @@
     <string name="down_service">ดาวน์โหลดบริการ</string>
     <string name="service_exit">การยกเลิกบริการ</string>
     <string name="auto_comp">เติมข้อความอัตโนมัติ</string>
-    <string name="check_element">การตรวจสอบองค์ประกอบ (การปิดกั้นแบบละเอียดยิ่งขึ้น)</string>
+    <string name="check_element">การตรวจสอบองค์ประกอบ</string>
+    <string name="check_ele_info_0">(การปิดกั้นแบบละเอียดยิ่งขึ้น)</string>
+    <string name="check_ele_info_1">ประสิทธิภาพของคุณลักษณะนี้ขึ้นอยู่กับเว็บไซต์ที่คุณเข้าชมบ่อยๆ</string>
+    <string name="check_ele_info_2">หากไม่มีความแตกต่างระหว่างก่อนและหลังการเปิดใช้งานคุณลักษณะนี้ เราขอแนะนำให้ปิดใช้งานเพื่อประหยัดหน่วยความจำ</string>
     <string name="quick_guide_1">1. คุณสามารถย้ายได้โดยกดไอคอนค้างไว้</string>
     <string name="quick_guide_2">2. คุณสามารถสร้างโฟลเดอร์โดยใช้ไอคอนที่ทับซ้อนกัน</string>
     <string name="column_count">จำนวนคอลัมน์</string>

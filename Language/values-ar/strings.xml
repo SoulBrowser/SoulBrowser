@@ -817,7 +817,10 @@
     <string name="down_service">خدمة التنزيل</string>
     <string name="service_exit">إنهاء الخدمة</string>
     <string name="auto_comp">الإكمال التلقائي</string>
-    <string name="check_element">فحص العنصر (مزيد من الحجب الدقيق)</string>
+    <string name="check_element">فحص العنصر</string>
+    <string name="check_ele_info_0">(مزيد من الحجب الدقيق)</string>
+    <string name="check_ele_info_1">تعتمد فعالية هذه الميزة على المواقع التي تزورها بشكل متكرر.</string>
+    <string name="check_ele_info_2">إذا لم يكن هناك فرق بين قبل وبعد تمكين هذه الميزة ، نوصي بتعطيلها لحفظ الذاكرة.</string>
     <string name="quick_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على الأيقونة.</string>
     <string name="quick_guide_2">2. يمكنك إنشاء مجلدات من خلال تداخل الرموز.</string>
     <string name="column_count">عدد الأعمدة</string>

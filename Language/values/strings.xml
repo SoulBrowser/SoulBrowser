@@ -817,7 +817,10 @@
     <string name="down_service">Download service</string>
     <string name="service_exit">Service termination</string>
     <string name="auto_comp">Auto complete</string>
-    <string name="check_element">Element inspection (more fine-grained blocking)</string>
+    <string name="check_element">Element inspection</string>
+    <string name="check_ele_info_0">(more fine-grained blocking)</string>
+    <string name="check_ele_info_1">The effectiveness of this feature depends on the sites you visit frequently.</string>
+    <string name="check_ele_info_2">If there is no difference between before and after enabling this feature, we recommend disabling it to save memory.</string>
     <string name="quick_guide_1">1. You can move by pressing and holding the icon.</string>
     <string name="quick_guide_2">2. You can create folders by overlapping icons.</string>
     <string name="column_count">Columns count</string>

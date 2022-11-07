@@ -817,7 +817,10 @@
     <string name="down_service">다운로드 서비스</string>
     <string name="service_exit">서비스 종료</string>
     <string name="auto_comp">자동 완성</string>
-    <string name="check_element">요소 검사 (더 세밀한 차단)</string>
+    <string name="check_element">요소 검사</string>
+    <string name="check_ele_info_0">(더 세밀한 차단)</string>
+    <string name="check_ele_info_1">이 기능의 효과는 자주 방문하는 사이트에 따라 다릅니다.</string>
+    <string name="check_ele_info_2">이 기능을 활성화하기 전과 후 사이에 차이가 없다면 메모리를 절약하기 위해 비활성화하는 것이 좋습니다.</string>
     <string name="quick_guide_1">1. 아이콘을 길게 눌러 이동할 수 있습니다.</string>
     <string name="quick_guide_2">2. 아이콘을 겹쳐서 폴더를 만들 수 있습니다.</string>
     <string name="column_count">열 수</string>

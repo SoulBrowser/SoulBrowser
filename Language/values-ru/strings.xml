@@ -817,7 +817,10 @@
     <string name="down_service">Сервис загрузки</string>
     <string name="service_exit">Прекращение обслуживания</string>
     <string name="auto_comp">Автозаполнение</string>
-    <string name="check_element">Контроль элементов (точечная блокировка)</string>
+    <string name="check_element">Контроль элементов</string>
+    <string name="check_ele_info_0">(точечная блокировка)</string>
+    <string name="check_ele_info_1">Эффективность этой функции зависит от того, какие сайты вы часто посещаете.</string>
+    <string name="check_ele_info_2">Если нет разницы между состоянием до и после включения этой функции, мы рекомендуем отключить ее для экономии памяти.</string>
     <string name="quick_guide_1">1. Можно переместить любой значок, удерживая его.</string>
     <string name="quick_guide_2">2. Можно создавать папки, перетаскивая значки.</string>
     <string name="column_count">Кол-во столбцов</string>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">Ao pressionar o botão Começar, você concorda com os %1$s e a %2$s do Soul Browser.</string>
@@ -816,7 +817,10 @@
     <string name="down_service">Baixar serviço</string>
     <string name="service_exit">Rescisão do serviço</string>
     <string name="auto_comp">Autocompletar</string>
-    <string name="check_element">Inspeção de elemento (bloqueio mais refinado)</string>
+    <string name="check_element">Inspeção de elemento</string>
+    <string name="check_ele_info_0">(bloqueio mais refinado)</string>
+    <string name="check_ele_info_1">A eficácia desse recurso depende dos sites que você visita com frequência.</string>
+    <string name="check_ele_info_2">Se não houver diferença entre antes e depois de ativar esse recurso, recomendamos desativá-lo para economizar memória.</string>
     <string name="quick_guide_1">1. Você pode mover pressionando e segurando o ícone.</string>
     <string name="quick_guide_2">2. Você pode criar pastas sobrepondo ícones.</string>
     <string name="column_count">Contagem de colunas</string>

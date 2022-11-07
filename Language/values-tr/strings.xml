@@ -817,7 +817,10 @@
     <string name="down_service">İndirme hizmeti</string>
     <string name="service_exit">Hizmet sonlandırıldı</string>
     <string name="auto_comp">Otomatik tamamlama</string>
-    <string name="check_element">Element denetimi (daha ince taneli engelleme)</string>
+    <string name="check_element">Element denetimi</string>
+    <string name="check_ele_info_0">(daha ince taneli engelleme)</string>
+    <string name="check_ele_info_1">Bu özelliğin etkinliği, sık ziyaret ettiğiniz sitelere bağlıdır.</string>
+    <string name="check_ele_info_2">Bu özelliği etkinleştirmeden önce ve sonra arasında bir fark yoksa, bellekten tasarruf etmek için devre dışı bırakmanızı öneririz.</string>
     <string name="quick_guide_1">1. Simgeye basılı tutarak hareket edebilirsiniz.</string>
     <string name="quick_guide_2">2. Üst üste gelen simgelerle klasörler oluşturabilirsiniz.</string>
     <string name="column_count">Sütun sayısı</string>
