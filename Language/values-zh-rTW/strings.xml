@@ -821,6 +821,7 @@
     <string name="check_ele_info_0">（更細粒度的封鎖）</string>
     <string name="check_ele_info_1">此功能的有效性取決於您經常訪問的網站</string>
     <string name="check_ele_info_2">如果啟用此功能之前和之後沒有區別，我們建議禁用它以節省內存</string>
+    <string name="check_ele_info_3">使用適合您的內存管理讓您的瀏覽器更快</string>
     <string name="quick_guide_1">1. 您可以按住圖示來移動</string>
     <string name="quick_guide_2">2. 您可以透過重疊圖示來建立資料夾</string>
     <string name="column_count">列數</string>

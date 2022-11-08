@@ -821,6 +821,7 @@
     <string name="check_ele_info_0">(feinkörnigere Blockierung)</string>
     <string name="check_ele_info_1">Die Wirksamkeit dieser Funktion hängt von den Websites ab, die Sie häufig besuchen.</string>
     <string name="check_ele_info_2">Wenn es keinen Unterschied zwischen vor und nach der Aktivierung dieser Funktion gibt, empfehlen wir, sie zu deaktivieren, um Speicherplatz zu sparen.</string>
+    <string name="check_ele_info_3">Machen Sie Ihren Browser mit der für Sie passenden Speicherverwaltung schneller.</string>
     <string name="quick_guide_1">1. Sie können sich bewegen, indem Sie das Symbol gedrückt halten.</string>
     <string name="quick_guide_2">2. Sie können Ordner erstellen, indem Sie Symbole überlappen.</string>
     <string name="column_count">Spaltenanzahl</string>

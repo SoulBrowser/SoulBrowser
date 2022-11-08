@@ -821,6 +821,7 @@
     <string name="check_ele_info_0">(blocare mai fină)</string>
     <string name="check_ele_info_1">Eficacitatea acestei funcții depinde de site-urile pe care le vizitați frecvent.</string>
     <string name="check_ele_info_2">Dacă nu există nicio diferență între înainte și după activarea acestei funcții, vă recomandăm să o dezactivați pentru a economisi memorie.</string>
+    <string name="check_ele_info_3">Faceți-vă browserul mai rapid cu gestionarea memoriei potrivită pentru dvs.</string>
     <string name="quick_guide_1">1. Vă puteți mișca apăsând și menținând apăsată pictograma.</string>
     <string name="quick_guide_2">2. Puteți crea foldere prin suprapunerea pictogramelor.</string>
     <string name="column_count">Numărul de coloane</string>

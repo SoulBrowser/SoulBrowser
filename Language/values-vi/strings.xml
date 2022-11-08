@@ -821,6 +821,7 @@
     <string name="check_ele_info_0">(chặn chi tiết hơn)</string>
     <string name="check_ele_info_1">Hiệu quả của tính năng này phụ thuộc vào các trang web bạn truy cập thường xuyên.</string>
     <string name="check_ele_info_2">Nếu không có sự khác biệt giữa trước và sau khi bật tính năng này, chúng tôi khuyên bạn nên tắt nó để tiết kiệm bộ nhớ.</string>
+    <string name="check_ele_info_3">Làm cho trình duyệt của bạn nhanh hơn với tính năng quản lý bộ nhớ phù hợp với bạn.</string>
     <string name="quick_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ biểu tượng.</string>
     <string name="quick_guide_2">2. Bạn có thể tạo thư mục bằng các biểu tượng chồng lên nhau.</string>
     <string name="column_count">Số cột</string>

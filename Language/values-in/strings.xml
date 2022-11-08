@@ -821,6 +821,7 @@
     <string name="check_ele_info_0">(pemblokiran yang lebih halus)</string>
     <string name="check_ele_info_1">Efektivitas fitur ini tergantung pada situs yang sering Anda kunjungi.</string>
     <string name="check_ele_info_2">Jika tidak ada perbedaan antara sebelum dan sesudah mengaktifkan fitur ini, kami sarankan untuk menonaktifkannya untuk menghemat memori.</string>
+    <string name="check_ele_info_3">Jadikan browser Anda lebih cepat dengan manajemen memori yang tepat untuk Anda.</string>
     <string name="quick_guide_1">1. Anda dapat bergerak dengan menekan dan menahan ikon.</string>
     <string name="quick_guide_2">2. Anda dapat membuat folder dengan ikon yang tumpang tindih.</string>
     <string name="column_count">Jumlah kolom</string>

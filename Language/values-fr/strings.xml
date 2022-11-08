@@ -821,6 +821,7 @@
     <string name="check_ele_info_0">(blocage plus fin)</string>
     <string name="check_ele_info_1">L\'efficacité de cette fonctionnalité dépend des sites que vous visitez fréquemment.</string>
     <string name="check_ele_info_2">S\'il n\'y a pas de différence entre avant et après l\'activation de cette fonctionnalité, nous vous recommandons de la désactiver pour économiser de la mémoire.</string>
+    <string name="check_ele_info_3">Rendez votre navigateur plus rapide avec une gestion de la mémoire qui vous convient.</string>
     <string name="quick_guide_1">1. Vous pouvez déplacer par un appui long sur les icônes.</string>
     <string name="quick_guide_2">2. Vous pouvez créer des dossiers en superposant des icônes.</string>
     <string name="column_count">Nombre de colonnes</string>

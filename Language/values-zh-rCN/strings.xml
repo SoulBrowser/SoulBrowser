@@ -821,6 +821,7 @@
     <string name="check_ele_info_0">（更细粒度的阻塞）</string>
     <string name="check_ele_info_1">此功能的有效性取决于您经常访问的网站</string>
     <string name="check_ele_info_2">如果启用此功能之前和之后没有区别，我们建议禁用它以节省内存</string>
+    <string name="check_ele_info_3">使用适合您的内存管理让您的浏览器更快</string>
     <string name="quick_guide_1">1. 您可以按住图标来移动</string>
     <string name="quick_guide_2">2. 您可以通过重叠图标来创建文件夹</string>
     <string name="column_count">列数</string>

@@ -821,6 +821,7 @@
     <string name="check_ele_info_0">（より細かいブロック）</string>
     <string name="check_ele_info_1">この機能の効果は、頻繁に訪れるサイトによって異なります。</string>
     <string name="check_ele_info_2">この機能を有効にする前と後の間に違いがない場合は、メモリを節約するために無効にすることをお勧めします。</string>
+    <string name="check_ele_info_3">自分に合ったメモリ管理でブラウザをすばやく作成できます。</string>
     <string name="quick_guide_1">1. アイコンを長押しして移動することができます。</string>
     <string name="quick_guide_2">2. アイコンを重ねフォルダを作成することができます。</string>
     <string name="column_count">列数</string>

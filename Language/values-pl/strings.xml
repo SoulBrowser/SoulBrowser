@@ -821,6 +821,7 @@
     <string name="check_ele_info_0">(bardziej drobnoziarniste blokowanie)</string>
     <string name="check_ele_info_1">Skuteczność tej funkcji zależy od często odwiedzanych witryn.</string>
     <string name="check_ele_info_2">Jeśli nie ma różnicy między włączeniem tej funkcji przed i po jej włączeniu, zalecamy wyłączenie jej w celu zaoszczędzenia pamięci.</string>
+    <string name="check_ele_info_3">Przyspiesz swoją przeglądarkę dzięki odpowiedniemu dla Ciebie zarządzaniu pamięcią.</string>
     <string name="quick_guide_1">1. Możesz poruszać się naciskając i przytrzymując ikonę.</string>
     <string name="quick_guide_2">2. Możesz tworzyć foldery, nakładając na siebie ikony.</string>
     <string name="column_count">Liczba kolumn</string>

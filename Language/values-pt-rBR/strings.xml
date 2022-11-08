@@ -821,6 +821,7 @@
     <string name="check_ele_info_0">(bloqueio mais refinado)</string>
     <string name="check_ele_info_1">A eficácia desse recurso depende dos sites que você visita com frequência.</string>
     <string name="check_ele_info_2">Se não houver diferença entre antes e depois de ativar esse recurso, recomendamos desativá-lo para economizar memória.</string>
+    <string name="check_ele_info_3">Torne seu navegador mais rápido com o gerenciamento de memória certo para você.</string>
     <string name="quick_guide_1">1. Você pode mover pressionando e segurando o ícone.</string>
     <string name="quick_guide_2">2. Você pode criar pastas sobrepondo ícones.</string>
     <string name="column_count">Contagem de colunas</string>
