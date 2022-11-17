@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">Anunțurile în aplicație și anunțurile pe paginile web sunt diferite.</string>
     <string name="remove_ads_info_4">Funcția de eliminare a anunțurilor din pagina web este gratuită.</string>
     <string name="ads_guide_1">Reclamele în aplicație sunt anunțuri afișate de aplicații.</string>
-    <string name="ads_guide_2">Un anunț în aplicație arată ca exemplul de mai jos.</string>
+    <string name="ads_guide_2">Reclamele în aplicație ale browserului Soul sunt eșantionate mai jos.</string>
     <string name="ads_guide_3">Reclamele pe paginile web sunt reclame afișate de administratorii site-ului web.</string>
     <string name="ads_guide_4">Nu are nimic de-a face cu Soul Browser.</string>
-    <string name="ads_guide_5">Exemplu de anunț în aplicație</string>
+    <string name="ads_guide_5">Soul Browser nu afișează anunțuri în aplicație pe paginile web.</string>
+    <string name="inapp_ads_sample">Exemplu de anunț în aplicație</string>
     <string name="donate_1">Donație (Cafea)</string>
     <string name="donate_2">Donație (Băutură energizantă)</string>
     <string name="donate_3">Donație (Hamburger)</string>

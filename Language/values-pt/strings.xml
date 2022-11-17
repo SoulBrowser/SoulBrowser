@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">Os anúncios no aplicativo e os anúncios na página da Web são diferentes.</string>
     <string name="remove_ads_info_4">O recurso de remoção de anúncios de páginas da web é gratuito.</string>
     <string name="ads_guide_1">Anúncios no aplicativo são anúncios exibidos por aplicativos.</string>
-    <string name="ads_guide_2">Um anúncio no aplicativo se parece com o exemplo abaixo.</string>
+    <string name="ads_guide_2">Os anúncios no aplicativo do Soul Browser são mostrados abaixo.</string>
     <string name="ads_guide_3">Anúncios de páginas da Web são anúncios exibidos por administradores de sites.</string>
     <string name="ads_guide_4">Não tem nada a ver com Soul Browser.</string>
-    <string name="ads_guide_5">Amostra de anúncio no aplicativo</string>
+    <string name="ads_guide_5">O Soul Browser não exibe anúncios no aplicativo em páginas da web.</string>
+    <string name="inapp_ads_sample">Amostra de anúncio no aplicativo</string>
     <string name="donate_1">Doação (Café)</string>
     <string name="donate_2">Doação (Bebida energética)</string>
     <string name="donate_3">Doação (Hambúrguer)</string>

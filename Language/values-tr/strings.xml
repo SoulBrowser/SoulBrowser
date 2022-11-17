@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">Uygulama içi reklamlar ve web sayfası reklamları farklıdır.</string>
     <string name="remove_ads_info_4">Web sayfası reklam kaldırma özelliği ücretsizdir.</string>
     <string name="ads_guide_1">Uygulama içi reklamlar, uygulamalar tarafından görüntülenen reklamlardır.</string>
-    <string name="ads_guide_2">Bir uygulama içi reklam aşağıdaki örneğe benziyor.</string>
+    <string name="ads_guide_2">Soul Browser\'ın uygulama içi reklamları aşağıda örneklenmiştir.</string>
     <string name="ads_guide_3">Web sayfası reklamları, web sitesi yöneticileri tarafından görüntülenen reklamlardır.</string>
     <string name="ads_guide_4">Soul Browser ile ilgisi yok.</string>
-    <string name="ads_guide_5">Uygulama içi reklam örneği</string>
+    <string name="ads_guide_5">Soul Browser, web sayfalarında uygulama içi reklamlar göstermez.</string>
+    <string name="inapp_ads_sample">Uygulama içi reklam örneği</string>
     <string name="donate_1">Bağış (Kahve)</string>
     <string name="donate_2">Bağış (Enerji içeceği)</string>
     <string name="donate_3">Bağış (Hamburger)</string>

@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">Оголошення в програмі та оголошення на веб-сторінці відрізняються.</string>
     <string name="remove_ads_info_4">Функція видалення реклами з веб-сторінки безкоштовна.</string>
     <string name="ads_guide_1">Оголошення в програмі – це реклама, яку показують програми.</string>
-    <string name="ads_guide_2">Оголошення в програмі виглядає так, як показано нижче.</string>
+    <string name="ads_guide_2">Нижче наведено зразки оголошень у програмі Soul Browser.</string>
     <string name="ads_guide_3">Реклама на веб-сторінці – це реклама, яку показують адміністратори веб-сайту.</string>
     <string name="ads_guide_4">Це не має нічого спільного з Soul Browser.</string>
-    <string name="ads_guide_5">Зразок реклами в додатку</string>
+    <string name="ads_guide_5">Soul Browser не показує рекламу в програмі на веб-сторінках.</string>
+    <string name="inapp_ads_sample">Зразок реклами в додатку</string>
     <string name="donate_1">Пожертвування (Кава)</string>
     <string name="donate_2">Пожертвування (Енергетичний напій)</string>
     <string name="donate_3">Пожертвування (Гамбургер)</string>

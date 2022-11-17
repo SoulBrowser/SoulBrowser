@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">Reklamy w aplikacji i reklamy na stronach internetowych różnią się od siebie.</string>
     <string name="remove_ads_info_4">Funkcja usuwania reklam ze strony internetowej jest bezpłatna.</string>
     <string name="ads_guide_1">Reklamy w aplikacji to reklamy wyświetlane przez aplikacje.</string>
-    <string name="ads_guide_2">Reklama w aplikacji wygląda jak w poniższym przykładzie.</string>
+    <string name="ads_guide_2">Reklamy w aplikacji Soul Browser są próbkowane poniżej.</string>
     <string name="ads_guide_3">Reklamy na stronie to reklamy wyświetlane przez administratorów serwisu.</string>
     <string name="ads_guide_4">Nie ma to nic wspólnego z Soul Browser.</string>
-    <string name="ads_guide_5">Przykład reklamy w aplikacji</string>
+    <string name="ads_guide_5">Soul Browser nie wyświetla reklam w aplikacji na stronach internetowych.</string>
+    <string name="inapp_ads_sample">Przykład reklamy w aplikacji</string>
     <string name="donate_1">Darowizna (Kawa)</string>
     <string name="donate_2">Darowizna (Napój energetyczny)</string>
     <string name="donate_3">Darowizna (Hamburger)</string>

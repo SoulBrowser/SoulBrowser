@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">تختلف الإعلانات داخل التطبيق وإعلانات صفحات الويب.</string>
     <string name="remove_ads_info_4">ميزة إزالة إعلان صفحة الويب مجانية.</string>
     <string name="ads_guide_1">الإعلانات داخل التطبيق هي إعلانات تعرضها التطبيقات.</string>
-    <string name="ads_guide_2">يبدو الإعلان داخل التطبيق مثل النموذج أدناه.</string>
+    <string name="ads_guide_2">يتم أخذ عينات من الإعلانات داخل التطبيق في Soul Browser أدناه.</string>
     <string name="ads_guide_3">إعلانات صفحات الويب هي إعلانات يعرضها مسؤولو الموقع.</string>
     <string name="ads_guide_4">لا علاقة له بـ متصفح الروح.</string>
-    <string name="ads_guide_5">نموذج إعلان داخل التطبيق</string>
+    <string name="ads_guide_5">لا يعرض متصفح الروح الإعلانات داخل التطبيق على صفحات الويب.</string>
+    <string name="inapp_ads_sample">نموذج إعلان داخل التطبيق</string>
     <string name="donate_1">تبرع (قهوة)</string>
     <string name="donate_2">تبرع (مشروب الطاقة)</string>
     <string name="donate_3">تبرع (همبرغر)</string>

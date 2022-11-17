@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">In-app ads and webpage ads are different.</string>
     <string name="remove_ads_info_4">The webpage ad removal feature is free.</string>
     <string name="ads_guide_1">In-app ads are ads displayed by apps.</string>
-    <string name="ads_guide_2">An in-app ad looks like the sample below.</string>
+    <string name="ads_guide_2">Soul Browser\'s in-app ads are sampled below.</string>
     <string name="ads_guide_3">Webpage advertisements are advertisements displayed by website administrators.</string>
     <string name="ads_guide_4">It has nothing to do with Soul Browser.</string>
-    <string name="ads_guide_5">In-app ad sample</string>
+    <string name="ads_guide_5">Soul Browser does not display in-app ads on web pages.</string>
+    <string name="inapp_ads_sample">In-app ad sample</string>
     <string name="donate_1">Donation (Coffee)</string>
     <string name="donate_2">Donation (Energy drink)</string>
     <string name="donate_3">Donation (Hamburger)</string>

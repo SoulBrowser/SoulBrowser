@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">Les annonces intégrées à l\'application et les annonces de page Web sont différentes.</string>
     <string name="remove_ads_info_4">La fonctionnalité de suppression des publicités sur les pages Web est gratuite.</string>
     <string name="ads_guide_1">Les publicités intégrées aux applications sont des publicités affichées par les applications.</string>
-    <string name="ads_guide_2">Une annonce intégrée à l\'application ressemble à l\'exemple ci-dessous.</string>
+    <string name="ads_guide_2">Les annonces intégrées à l\'application de Soul Browser sont présentées ci-dessous.</string>
     <string name="ads_guide_3">Les publicités de pages Web sont des publicités affichées par les administrateurs de sites Web.</string>
     <string name="ads_guide_4">Cela n\'a rien à voir avec Soul Browser.</string>
-    <string name="ads_guide_5">Exemple d\'annonce intégrée à l\'application</string>
+    <string name="ads_guide_5">Soul Browser n\'affiche pas de publicités intégrées à l\'application sur les pages Web.</string>
+    <string name="inapp_ads_sample">Exemple d\'annonce intégrée à l\'application</string>
     <string name="donate_1">Don (Café)</string>
     <string name="donate_2">Don (Boisson énergisante)</string>
     <string name="donate_3">Don (Hamburger)</string>

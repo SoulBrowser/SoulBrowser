@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">In-App-Anzeigen und Webseitenanzeigen sind unterschiedlich.</string>
     <string name="remove_ads_info_4">Die Funktion zum Entfernen von Webseitenanzeigen ist kostenlos.</string>
     <string name="ads_guide_1">In-App-Anzeigen sind Anzeigen, die von Apps angezeigt werden.</string>
-    <string name="ads_guide_2">Eine In-App-Werbung sieht wie im Beispiel unten aus.</string>
+    <string name="ads_guide_2">Die In-App-Anzeigen von Soul Browser sind unten aufgeführt.</string>
     <string name="ads_guide_3">Webseiten-Werbung ist Werbung, die von Website-Administratoren angezeigt wird.</string>
     <string name="ads_guide_4">Es hat nichts mit Soul Browser zu tun.</string>
-    <string name="ads_guide_5">In-App-Werbebeispiel</string>
+    <string name="ads_guide_5">Soul Browser zeigt keine In-App-Anzeigen auf Webseiten an.</string>
+    <string name="inapp_ads_sample">In-App-Werbebeispiel</string>
     <string name="donate_1">Spende (Kaffee)</string>
     <string name="donate_2">Spende (Energiegetränk)</string>
     <string name="donate_3">Spende (Hamburger)</string>

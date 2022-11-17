@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">इन-ऐप विज्ञापन और वेबपेज विज्ञापन अलग हैं।</string>
     <string name="remove_ads_info_4">वेबपेज विज्ञापन हटाने की सुविधा मुफ्त है।</string>
     <string name="ads_guide_1">इन-ऐप विज्ञापन ऐप्स द्वारा प्रदर्शित विज्ञापन होते हैं।</string>
-    <string name="ads_guide_2">इन-ऐप विज्ञापन नीचे दिए गए नमूने जैसा दिखता है।</string>
+    <string name="ads_guide_2">सोल ब्राउजर के इन-ऐप विज्ञापनों का नमूना नीचे दिया गया है।</string>
     <string name="ads_guide_3">वेबपेज विज्ञापन वेबसाइट प्रशासकों द्वारा प्रदर्शित विज्ञापन हैं।</string>
     <string name="ads_guide_4">इसका सोल ब्राउज़र से कोई लेना-देना नहीं है।</string>
-    <string name="ads_guide_5">इन-ऐप विज्ञापन नमूना</string>
+    <string name="ads_guide_5">सोल ब्राउज़र वेब पेजों पर इन-ऐप विज्ञापन प्रदर्शित नहीं करता है।</string>
+    <string name="inapp_ads_sample">इन-ऐप विज्ञापन नमूना</string>
     <string name="donate_1">दान (कॉफी)</string>
     <string name="donate_2">दान (ऊर्जा पेय)</string>
     <string name="donate_3">दान (हैमबर्गर)</string>

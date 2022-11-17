@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">Gli annunci in-app e gli annunci di pagine web sono diversi.</string>
     <string name="remove_ads_info_4">La funzione di rimozione degli annunci dalla pagina web è gratuita.</string>
     <string name="ads_guide_1">Gli annunci in-app sono annunci visualizzati dalle app.</string>
-    <string name="ads_guide_2">Un annuncio in-app è simile all\'esempio riportato di seguito.</string>
+    <string name="ads_guide_2">Gli annunci in-app di Soul Browser sono riportati di seguito.</string>
     <string name="ads_guide_3">Gli annunci di pagine Web sono annunci visualizzati dagli amministratori di siti Web.</string>
     <string name="ads_guide_4">Non ha nulla a che fare con Soul Browser.</string>
-    <string name="ads_guide_5">Esempio di annuncio in-app</string>
+    <string name="ads_guide_5">Soul Browser non mostra annunci in-app sulle pagine web.</string>
+    <string name="inapp_ads_sample">Esempio di annuncio in-app</string>
     <string name="donate_1">Donazione (Caffè)</string>
     <string name="donate_2">Donazione (Bevanda energetica)</string>
     <string name="donate_3">Donazione (Hamburger)</string>

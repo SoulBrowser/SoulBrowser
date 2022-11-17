@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">Iklan dalam aplikasi dan iklan halaman web berbeda.</string>
     <string name="remove_ads_info_4">Fitur penghapusan iklan halaman web gratis.</string>
     <string name="ads_guide_1">Iklan dalam aplikasi adalah iklan yang ditampilkan oleh aplikasi.</string>
-    <string name="ads_guide_2">Iklan dalam aplikasi terlihat seperti contoh di bawah ini.</string>
+    <string name="ads_guide_2">Iklan dalam aplikasi Soul Browser adalah contoh di bawah ini.</string>
     <string name="ads_guide_3">Iklan halaman web adalah iklan yang ditampilkan oleh administrator situs web.</string>
     <string name="ads_guide_4">Ini tidak ada hubungannya dengan Soul Browser.</string>
-    <string name="ads_guide_5">Contoh iklan dalam aplikasi</string>
+    <string name="ads_guide_5">Soul Browser tidak menampilkan iklan dalam aplikasi di halaman web.</string>
+    <string name="inapp_ads_sample">Contoh iklan dalam aplikasi</string>
     <string name="donate_1">Donasi (Kopi)</string>
     <string name="donate_2">Donasi (Minuman energi)</string>
     <string name="donate_3">Donasi (Hamburger)</string>

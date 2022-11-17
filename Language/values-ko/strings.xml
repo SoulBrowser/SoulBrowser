@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">인앱 광고와 웹페이지 광고는 다릅니다.</string>
     <string name="remove_ads_info_4">웹페이지 광고 제거 기능은 무료입니다.</string>
     <string name="ads_guide_1">인앱 광고는 앱에서 표시하는 광고입니다.</string>
-    <string name="ads_guide_2">인앱 광고는 아래 샘플과 같습니다.</string>
+    <string name="ads_guide_2">Soul Browser의 인앱 광고는 아래 샘플과 같습니다.</string>
     <string name="ads_guide_3">웹페이지 광고는 웹사이트 관리자가 표시하는 광고입니다.</string>
-    <string name="ads_guide_4">소울 브라우저와는 아무런 관련이 없습니다.</string>
-    <string name="ads_guide_5">인앱 광고 샘플</string>
+    <string name="ads_guide_4">Soul Browser와는 아무런 관련이 없습니다.</string>
+    <string name="ads_guide_5">Soul Browser는 웹페이지에 인앱 광고를 표시하지 않습니다.</string>
+    <string name="inapp_ads_sample">인앱 광고 샘플</string>
     <string name="donate_1">기부 (커피)</string>
     <string name="donate_2">기부 (에너지 드링크)</string>
     <string name="donate_3">기부 (햄버거)</string>

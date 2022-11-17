@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">應用內廣告和網頁廣告是不同的。</string>
     <string name="remove_ads_info_4">網頁廣告刪除功能是免費的。</string>
     <string name="ads_guide_1">應用內廣告是應用展示的廣告</string>
-    <string name="ads_guide_2">應用內廣告如下所示</string>
+    <string name="ads_guide_2">Soul Browser 的應用內廣告示例如下</string>
     <string name="ads_guide_3">網頁廣告是網站管理員展示的廣告</string>
     <string name="ads_guide_4">它與 Soul Browser 無關</string>
-    <string name="ads_guide_5">應用內廣告示例</string>
+    <string name="ads_guide_5">Soul Browser 不會在網頁上顯示應用內廣告</string>
+    <string name="inapp_ads_sample">應用內廣告示例</string>
     <string name="donate_1">捐贈（咖啡）</string>
     <string name="donate_2">捐贈（能量飲料）</string>
     <string name="donate_3">捐贈（漢堡）</string>

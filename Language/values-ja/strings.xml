@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">アプリ内広告とウェブページ広告は異なります。</string>
     <string name="remove_ads_info_4">Webページ広告の削除機能は無料です。</string>
     <string name="ads_guide_1">アプリ内広告は、アプリが表示する広告です。</string>
-    <string name="ads_guide_2">アプリ内広告は以下のサンプルのようになります。</string>
+    <string name="ads_guide_2">Soul Browserのアプリ内広告は以下のサンプルのようになります。</string>
     <string name="ads_guide_3">Webページ広告は、Webサイト管理者が表示する広告です。</string>
     <string name="ads_guide_4">Soul Browserとは何の関係もありません。</string>
-    <string name="ads_guide_5">アプリ内広告のサンプル</string>
+    <string name="ads_guide_5">Soul Browser はウェブページにアプリ内広告を表示しません。</string>
+    <string name="inapp_ads_sample">アプリ内広告のサンプル</string>
     <string name="donate_1">寄付（コーヒー）</string>
     <string name="donate_2">寄付（栄養ドリンク）</string>
     <string name="donate_3">寄付（ハンバーガー）</string>

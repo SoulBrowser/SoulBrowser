@@ -733,10 +733,11 @@
     <string name="remove_ads_info_3">Los anuncios en la aplicación y los anuncios de la página web son diferentes.</string>
     <string name="remove_ads_info_4">La función de eliminación de anuncios de la página web es gratuita.</string>
     <string name="ads_guide_1">Los anuncios en la aplicación son anuncios que muestran las aplicaciones.</string>
-    <string name="ads_guide_2">Un anuncio en la aplicación se parece al siguiente ejemplo.</string>
+    <string name="ads_guide_2">Los anuncios en la aplicación de Soul Browser se muestran a continuación.</string>
     <string name="ads_guide_3">Los anuncios de páginas web son anuncios que muestran los administradores de sitios web.</string>
     <string name="ads_guide_4">No tiene nada que ver con Soul Browser.</string>
-    <string name="ads_guide_5">Ejemplo de anuncio en la aplicación</string>
+    <string name="ads_guide_5">Soul Browser no muestra anuncios en la aplicación en las páginas web.</string>
+    <string name="inapp_ads_sample">Ejemplo de anuncio en la aplicación</string>
     <string name="donate_1">Donación (Café)</string>
     <string name="donate_2">Donación (Bebida energética)</string>
     <string name="donate_3">Donación (Hamburguesa)</string>
