@@ -369,7 +369,6 @@
     <string name="server_error">Server tidak merespons.</string>
     <string name="server_delay">Respons server lambat.</string>
     <string name="not_support_video">Fitur ini tidak didukung untuk video ini.</string>
-    <string name="not_support_fast">File ini tidak didukung untuk pengunduhan cepat.</string>
     <string name="control_bright">Kontrol kecerahan</string>
     <string name="control_volume">Kontrol volume</string>
     <string name="volume">Volume</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">Hapus iklan dalam aplikasi</string>
     <string name="remove_ads_info_1">Satu pembayaran akan menghapus iklan dalam aplikasi selamanya.</string>
     <string name="remove_ads_info_2">Itu selalu valid jika akun yang digunakan untuk pembayaran sama.</string>
-    <string name="remove_ads_info_3">Iklan dalam aplikasi dan iklan di situs web berbeda.</string>
-    <string name="remove_ads_info_4">Fitur penghapusan iklan situs web ini gratis.</string>
+    <string name="remove_ads_info_3">Iklan dalam aplikasi dan iklan halaman web berbeda.</string>
+    <string name="remove_ads_info_4">Fitur penghapusan iklan halaman web gratis.</string>
+    <string name="ads_guide_1">Iklan dalam aplikasi adalah iklan yang ditampilkan oleh aplikasi.</string>
+    <string name="ads_guide_2">Iklan dalam aplikasi terlihat seperti contoh di bawah ini.</string>
+    <string name="ads_guide_3">Iklan halaman web adalah iklan yang ditampilkan oleh administrator situs web.</string>
+    <string name="ads_guide_4">Ini tidak ada hubungannya dengan Soul Browser.</string>
+    <string name="ads_guide_5">Contoh iklan dalam aplikasi</string>
     <string name="donate_1">Donasi (Kopi)</string>
     <string name="donate_2">Donasi (Minuman energi)</string>
     <string name="donate_3">Donasi (Hamburger)</string>

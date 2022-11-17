@@ -369,7 +369,6 @@
     <string name="server_error">伺服器無回應</string>
     <string name="server_delay">伺服器回應很慢</string>
     <string name="not_support_video">此影片不支援此功能</string>
-    <string name="not_support_fast">此檔案不支援快速下載</string>
     <string name="control_bright">亮度控制</string>
     <string name="control_volume">音量控制</string>
     <string name="volume">音量</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">刪除應用程式內廣告</string>
     <string name="remove_ads_info_1">單次付款將永久刪除應用程式內廣告。</string>
     <string name="remove_ads_info_2">如果用於支付的帳戶相同，則始終有效。</string>
-    <string name="remove_ads_info_3">應用程式內廣告和網站上的廣告是不同的。</string>
-    <string name="remove_ads_info_4">該網站的廣告刪除功能是免費的。</string>
+    <string name="remove_ads_info_3">應用內廣告和網頁廣告是不同的。</string>
+    <string name="remove_ads_info_4">網頁廣告刪除功能是免費的。</string>
+    <string name="ads_guide_1">應用內廣告是應用展示的廣告</string>
+    <string name="ads_guide_2">應用內廣告如下所示</string>
+    <string name="ads_guide_3">網頁廣告是網站管理員展示的廣告</string>
+    <string name="ads_guide_4">它與 Soul Browser 無關</string>
+    <string name="ads_guide_5">應用內廣告示例</string>
     <string name="donate_1">捐贈（咖啡）</string>
     <string name="donate_2">捐贈（能量飲料）</string>
     <string name="donate_3">捐贈（漢堡）</string>

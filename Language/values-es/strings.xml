@@ -369,7 +369,6 @@
     <string name="server_error">El servidor no responde.</string>
     <string name="server_delay">La respuesta del servidor es lenta.</string>
     <string name="not_support_video">Esta función no es compatible con este video.</string>
-    <string name="not_support_fast">Este archivo no es compatible con la descarga rápida.</string>
     <string name="control_bright">Control de brillo</string>
     <string name="control_volume">Control de volumen</string>
     <string name="volume">Volumen</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">Quitar anuncios en la aplicación</string>
     <string name="remove_ads_info_1">Un pago eliminará los anuncios en la aplicación para siempre.</string>
     <string name="remove_ads_info_2">Siempre es válido si la cuenta utilizada para el pago es la misma.</string>
-    <string name="remove_ads_info_3">Los anuncios en la aplicación y los anuncios en un sitio web son diferentes.</string>
-    <string name="remove_ads_info_4">La función de eliminación de anuncios del sitio web es gratuita.</string>
+    <string name="remove_ads_info_3">Los anuncios en la aplicación y los anuncios de la página web son diferentes.</string>
+    <string name="remove_ads_info_4">La función de eliminación de anuncios de la página web es gratuita.</string>
+    <string name="ads_guide_1">Los anuncios en la aplicación son anuncios que muestran las aplicaciones.</string>
+    <string name="ads_guide_2">Un anuncio en la aplicación se parece al siguiente ejemplo.</string>
+    <string name="ads_guide_3">Los anuncios de páginas web son anuncios que muestran los administradores de sitios web.</string>
+    <string name="ads_guide_4">No tiene nada que ver con Soul Browser.</string>
+    <string name="ads_guide_5">Ejemplo de anuncio en la aplicación</string>
     <string name="donate_1">Donación (Café)</string>
     <string name="donate_2">Donación (Bebida energética)</string>
     <string name="donate_3">Donación (Hamburguesa)</string>

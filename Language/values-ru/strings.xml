@@ -369,7 +369,6 @@
     <string name="server_error">Сервер не отвечает.</string>
     <string name="server_delay">Ответ сервера медленный.</string>
     <string name="not_support_video">Эта функция не поддерживается для этого видео.</string>
-    <string name="not_support_fast">Этот файл не поддерживает быструю загрузку.</string>
     <string name="control_bright">Контроль яркости</string>
     <string name="control_volume">Контроль громкости</string>
     <string name="volume">Громкость</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">Удалить рекламу в приложении</string>
     <string name="remove_ads_info_1">Один платеж навсегда удалит рекламу в приложении.</string>
     <string name="remove_ads_info_2">Он всегда действителен, если счёт, используемый для оплаты, тот же.</string>
-    <string name="remove_ads_info_3">Реклама в приложении и реклама на сайте разные.</string>
-    <string name="remove_ads_info_4">Функция удаления рекламы на сайте бесплатна.</string>
+    <string name="remove_ads_info_3">Реклама в приложении и реклама на веб-странице отличаются.</string>
+    <string name="remove_ads_info_4">Функция удаления рекламы с веб-страницы бесплатна.</string>
+    <string name="ads_guide_1">Реклама в приложениях — это реклама, отображаемая приложениями.</string>
+    <string name="ads_guide_2">Объявление в приложении выглядит так, как показано на примере ниже.</string>
+    <string name="ads_guide_3">Рекламные объявления на веб-страницах — это рекламные объявления, отображаемые администраторами веб-сайтов.</string>
+    <string name="ads_guide_4">Это не имеет ничего общего с Soul Browser.</string>
+    <string name="ads_guide_5">Образец рекламы в приложении</string>
     <string name="donate_1">Пожертвование (Кофе)</string>
     <string name="donate_2">Пожертвование (Энергетик)</string>
     <string name="donate_3">Пожертвование (Гамбургер)</string>

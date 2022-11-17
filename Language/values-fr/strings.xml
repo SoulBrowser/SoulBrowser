@@ -369,7 +369,6 @@
     <string name="server_error">Le serveur ne répond pas.</string>
     <string name="server_delay">La réponse du serveur est lente.</string>
     <string name="not_support_video">Cette fonctionnalité n\'est pas prise en charge pour cette vidéo.</string>
-    <string name="not_support_fast">Ce fichier n\'est pas pris en charge pour le téléchargement rapide.</string>
     <string name="control_bright">Contrôle de la luminosité</string>
     <string name="control_volume">Contrôle du volume</string>
     <string name="volume">Volume</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">Supprimer les publicités intégrées à l\'application</string>
     <string name="remove_ads_info_1">Un seul paiement supprimera définitivement les publicités intégrées à l\'application.</string>
     <string name="remove_ads_info_2">Il est toujours valable si le compte utilisé pour le paiement est le même.</string>
-    <string name="remove_ads_info_3">Les publicités intégrées aux applications et les publicités sur un site Web sont différentes.</string>
-    <string name="remove_ads_info_4">La fonction de suppression des publicités du site Web est gratuite.</string>
+    <string name="remove_ads_info_3">Les annonces intégrées à l\'application et les annonces de page Web sont différentes.</string>
+    <string name="remove_ads_info_4">La fonctionnalité de suppression des publicités sur les pages Web est gratuite.</string>
+    <string name="ads_guide_1">Les publicités intégrées aux applications sont des publicités affichées par les applications.</string>
+    <string name="ads_guide_2">Une annonce intégrée à l\'application ressemble à l\'exemple ci-dessous.</string>
+    <string name="ads_guide_3">Les publicités de pages Web sont des publicités affichées par les administrateurs de sites Web.</string>
+    <string name="ads_guide_4">Cela n\'a rien à voir avec Soul Browser.</string>
+    <string name="ads_guide_5">Exemple d\'annonce intégrée à l\'application</string>
     <string name="donate_1">Don (Café)</string>
     <string name="donate_2">Don (Boisson énergisante)</string>
     <string name="donate_3">Don (Hamburger)</string>

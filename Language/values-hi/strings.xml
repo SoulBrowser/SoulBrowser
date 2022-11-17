@@ -369,7 +369,6 @@
     <string name="server_error">सर्वर प्रतिसाद नहीं दे रहा है।</string>
     <string name="server_delay">सर्वर की प्रतिक्रिया धीमी है।</string>
     <string name="not_support_video">यह सुविधा इस वीडियो के लिए समर्थित नहीं है।</string>
-    <string name="not_support_fast">यह फ़ाइल तेज़ डाउनलोड के लिए समर्थित नहीं है।</string>
     <string name="control_bright">चमक नियंत्रण</string>
     <string name="control_volume">वॉल्यूम नियंत्रण</string>
     <string name="volume">मात्रा</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">इन-ऐप विज्ञापन हटाएं</string>
     <string name="remove_ads_info_1">एक भुगतान इन-ऐप विज्ञापनों को हमेशा के लिए हटा देगा।</string>
     <string name="remove_ads_info_2">भुगतान के लिए उपयोग किया जाने वाला खाता समान होने पर यह हमेशा मान्य होता है।</string>
-    <string name="remove_ads_info_3">इन-ऐप विज्ञापन और वेबसाइटों पर विज्ञापन अलग हैं।</string>
-    <string name="remove_ads_info_4">वेबसाइट की विज्ञापन हटाने की सुविधा निःशुल्क है।</string>
+    <string name="remove_ads_info_3">इन-ऐप विज्ञापन और वेबपेज विज्ञापन अलग हैं।</string>
+    <string name="remove_ads_info_4">वेबपेज विज्ञापन हटाने की सुविधा मुफ्त है।</string>
+    <string name="ads_guide_1">इन-ऐप विज्ञापन ऐप्स द्वारा प्रदर्शित विज्ञापन होते हैं।</string>
+    <string name="ads_guide_2">इन-ऐप विज्ञापन नीचे दिए गए नमूने जैसा दिखता है।</string>
+    <string name="ads_guide_3">वेबपेज विज्ञापन वेबसाइट प्रशासकों द्वारा प्रदर्शित विज्ञापन हैं।</string>
+    <string name="ads_guide_4">इसका सोल ब्राउज़र से कोई लेना-देना नहीं है।</string>
+    <string name="ads_guide_5">इन-ऐप विज्ञापन नमूना</string>
     <string name="donate_1">दान (कॉफी)</string>
     <string name="donate_2">दान (ऊर्जा पेय)</string>
     <string name="donate_3">दान (हैमबर्गर)</string>

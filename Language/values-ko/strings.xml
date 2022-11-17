@@ -369,7 +369,6 @@
     <string name="server_error">서버가 응답하지 않습니다.</string>
     <string name="server_delay">서버 응답이 느립니다.</string>
     <string name="not_support_video">이 영상은 해당 기능이 지원되지 않습니다.</string>
-    <string name="not_support_fast">이 파일은 빠른 다운로드가 지원되지 않습니다.</string>
     <string name="control_bright">밝기 조절</string>
     <string name="control_volume">음량 조절</string>
     <string name="volume">음량</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">인앱 광고 제거</string>
     <string name="remove_ads_info_1">한 번의 결제로 인앱 광고가 영원히 제거됩니다.</string>
     <string name="remove_ads_info_2">결제에 사용한 계정이 동일하면 항상 유효합니다.</string>
-    <string name="remove_ads_info_3">인앱 광고와 웹 사이트의 광고는 다릅니다.</string>
-    <string name="remove_ads_info_4">웹 사이트의 광고 제거 기능은 무료입니다.</string>
+    <string name="remove_ads_info_3">인앱 광고와 웹페이지 광고는 다릅니다.</string>
+    <string name="remove_ads_info_4">웹페이지 광고 제거 기능은 무료입니다.</string>
+    <string name="ads_guide_1">인앱 광고는 앱에서 표시하는 광고입니다.</string>
+    <string name="ads_guide_2">인앱 광고는 아래 샘플과 같습니다.</string>
+    <string name="ads_guide_3">웹페이지 광고는 웹사이트 관리자가 표시하는 광고입니다.</string>
+    <string name="ads_guide_4">소울 브라우저와는 아무런 관련이 없습니다.</string>
+    <string name="ads_guide_5">인앱 광고 샘플</string>
     <string name="donate_1">기부 (커피)</string>
     <string name="donate_2">기부 (에너지 드링크)</string>
     <string name="donate_3">기부 (햄버거)</string>

@@ -369,7 +369,6 @@
     <string name="server_error">เซิร์ฟเวอร์ไม่ตอบสนอง</string>
     <string name="server_delay">การตอบกลับของเซิร์ฟเวอร์ช้า</string>
     <string name="not_support_video">วิดีโอนี้ไม่รองรับคุณสมบัตินี้</string>
-    <string name="not_support_fast">ไฟล์นี้ไม่รองรับการดาวน์โหลดแบบเร็ว</string>
     <string name="control_bright">การควบคุมความสว่าง</string>
     <string name="control_volume">การควบคุมระดับเสียง</string>
     <string name="volume">ปริมาณ</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">ลบโฆษณาในแอป</string>
     <string name="remove_ads_info_1">การชำระเงินครั้งเดียวจะลบโฆษณาในแอปตลอดไป</string>
     <string name="remove_ads_info_2">จะใช้ได้เสมอหากบัญชีที่ใช้ในการชำระเงินเหมือนกัน</string>
-    <string name="remove_ads_info_3">โฆษณาในแอปและโฆษณาบนเว็บไซต์แตกต่างกัน</string>
-    <string name="remove_ads_info_4">คุณลักษณะการลบโฆษณาของเว็บไซต์นั้นไม่มีค่าใช้จ่าย</string>
+    <string name="remove_ads_info_3">โฆษณาในแอปและโฆษณาหน้าเว็บต่างกัน</string>
+    <string name="remove_ads_info_4">คุณลักษณะการลบโฆษณาหน้าเว็บนั้นฟรี</string>
+    <string name="ads_guide_1">โฆษณาในแอปคือโฆษณาที่แสดงโดยแอป</string>
+    <string name="ads_guide_2">โฆษณาในแอปดูเหมือนตัวอย่างด้านล่าง</string>
+    <string name="ads_guide_3">โฆษณาหน้าเว็บเป็นโฆษณาที่แสดงโดยผู้ดูแลเว็บไซต์</string>
+    <string name="ads_guide_4">ไม่มีส่วนเกี่ยวข้องกับ Soul Browser</string>
+    <string name="ads_guide_5">ตัวอย่างโฆษณาในแอป</string>
     <string name="donate_1">บริจาค (กาแฟ)</string>
     <string name="donate_2">บริจาค (เครื่องดื่มชูกำลัง)</string>
     <string name="donate_3">บริจาค (แฮมเบอร์เกอร์)</string>

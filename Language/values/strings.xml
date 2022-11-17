@@ -369,7 +369,6 @@
     <string name="server_error">The server is not responding.</string>
     <string name="server_delay">Server response is slow.</string>
     <string name="not_support_video">This feature is not supported for this video.</string>
-    <string name="not_support_fast">This file is not supported for fast download.</string>
     <string name="control_bright">Brightness control</string>
     <string name="control_volume">Volume control</string>
     <string name="volume">Volume</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">Remove in-app ads</string>
     <string name="remove_ads_info_1">One payment will remove in-app ads forever.</string>
     <string name="remove_ads_info_2">It is always valid if the account used for payment is the same.</string>
-    <string name="remove_ads_info_3">In-app ads and ads on websites are different.</string>
-    <string name="remove_ads_info_4">The website\'s ads removal feature is free.</string>
+    <string name="remove_ads_info_3">In-app ads and webpage ads are different.</string>
+    <string name="remove_ads_info_4">The webpage ad removal feature is free.</string>
+    <string name="ads_guide_1">In-app ads are ads displayed by apps.</string>
+    <string name="ads_guide_2">An in-app ad looks like the sample below.</string>
+    <string name="ads_guide_3">Webpage advertisements are advertisements displayed by website administrators.</string>
+    <string name="ads_guide_4">It has nothing to do with Soul Browser.</string>
+    <string name="ads_guide_5">In-app ad sample</string>
     <string name="donate_1">Donation (Coffee)</string>
     <string name="donate_2">Donation (Energy drink)</string>
     <string name="donate_3">Donation (Hamburger)</string>

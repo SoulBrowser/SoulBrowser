@@ -369,7 +369,6 @@
     <string name="server_error">Il server non risponde.</string>
     <string name="server_delay">La risposta del server è lenta.</string>
     <string name="not_support_video">Questa funzione non è supportata per questo video.</string>
-    <string name="not_support_fast">Questo file non è supportato per il download rapido.</string>
     <string name="control_bright">Controllo della luminosità</string>
     <string name="control_volume">Controllo del volume</string>
     <string name="volume">Volume</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">Rimuovi gli annunci in-app</string>
     <string name="remove_ads_info_1">Un pagamento rimuoverà per sempre gli annunci in-app.</string>
     <string name="remove_ads_info_2">È sempre valido se l\'account utilizzato per il pagamento è lo stesso.</string>
-    <string name="remove_ads_info_3">Gli annunci in-app e gli annunci su un sito web sono diversi.</string>
-    <string name="remove_ads_info_4">La funzione di rimozione degli annunci del sito Web è gratuita.</string>
+    <string name="remove_ads_info_3">Gli annunci in-app e gli annunci di pagine web sono diversi.</string>
+    <string name="remove_ads_info_4">La funzione di rimozione degli annunci dalla pagina web è gratuita.</string>
+    <string name="ads_guide_1">Gli annunci in-app sono annunci visualizzati dalle app.</string>
+    <string name="ads_guide_2">Un annuncio in-app è simile all\'esempio riportato di seguito.</string>
+    <string name="ads_guide_3">Gli annunci di pagine Web sono annunci visualizzati dagli amministratori di siti Web.</string>
+    <string name="ads_guide_4">Non ha nulla a che fare con Soul Browser.</string>
+    <string name="ads_guide_5">Esempio di annuncio in-app</string>
     <string name="donate_1">Donazione (Caffè)</string>
     <string name="donate_2">Donazione (Bevanda energetica)</string>
     <string name="donate_3">Donazione (Hamburger)</string>

@@ -369,7 +369,6 @@
     <string name="server_error">Serwer nie odpowiada.</string>
     <string name="server_delay">Odpowiedź serwera jest niska.</string>
     <string name="not_support_video">Ta funkcja nie jest obsługiwana w tym filmie.</string>
-    <string name="not_support_fast">Ten plik nie jest obsługiwany do szybkiego pobierania.</string>
     <string name="control_bright">Kontrola jasności</string>
     <string name="control_volume">Regulacja głośności</string>
     <string name="volume">Tom</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">Usuń reklamy w aplikacji</string>
     <string name="remove_ads_info_1">Jedna płatność na zawsze usunie reklamy w aplikacji.</string>
     <string name="remove_ads_info_2">Jest zawsze ważne, jeśli konto używane do płatności jest takie samo.</string>
-    <string name="remove_ads_info_3">Reklamy w aplikacji i reklamy w witrynie są różne.</string>
-    <string name="remove_ads_info_4">Funkcja usuwania reklam w witrynie jest bezpłatna.</string>
+    <string name="remove_ads_info_3">Reklamy w aplikacji i reklamy na stronach internetowych różnią się od siebie.</string>
+    <string name="remove_ads_info_4">Funkcja usuwania reklam ze strony internetowej jest bezpłatna.</string>
+    <string name="ads_guide_1">Reklamy w aplikacji to reklamy wyświetlane przez aplikacje.</string>
+    <string name="ads_guide_2">Reklama w aplikacji wygląda jak w poniższym przykładzie.</string>
+    <string name="ads_guide_3">Reklamy na stronie to reklamy wyświetlane przez administratorów serwisu.</string>
+    <string name="ads_guide_4">Nie ma to nic wspólnego z Soul Browser.</string>
+    <string name="ads_guide_5">Przykład reklamy w aplikacji</string>
     <string name="donate_1">Darowizna (Kawa)</string>
     <string name="donate_2">Darowizna (Napój energetyczny)</string>
     <string name="donate_3">Darowizna (Hamburger)</string>

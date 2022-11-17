@@ -369,7 +369,6 @@
     <string name="server_error">Сервер не відповідає.</string>
     <string name="server_delay">Відповідь сервера повільна.</string>
     <string name="not_support_video">Ця функція не підтримується для цього відео.</string>
-    <string name="not_support_fast">Цей файл не підтримується для швидкого завантаження.</string>
     <string name="control_bright">Контроль яскравості</string>
     <string name="control_volume">Контроль гучності</string>
     <string name="volume">Гучність</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">Видаліть рекламу в додатках</string>
     <string name="remove_ads_info_1">Один платіж назавжди видалить рекламу в додатку.</string>
     <string name="remove_ads_info_2">Він завжди діє, якщо рахунок, який використовується для оплати, однаковий.</string>
-    <string name="remove_ads_info_3">Оголошення в додатку та оголошення на веб-сайті відрізняються.</string>
-    <string name="remove_ads_info_4">Функція видалення оголошень на веб-сайті безкоштовна.</string>
+    <string name="remove_ads_info_3">Оголошення в програмі та оголошення на веб-сторінці відрізняються.</string>
+    <string name="remove_ads_info_4">Функція видалення реклами з веб-сторінки безкоштовна.</string>
+    <string name="ads_guide_1">Оголошення в програмі – це реклама, яку показують програми.</string>
+    <string name="ads_guide_2">Оголошення в програмі виглядає так, як показано нижче.</string>
+    <string name="ads_guide_3">Реклама на веб-сторінці – це реклама, яку показують адміністратори веб-сайту.</string>
+    <string name="ads_guide_4">Це не має нічого спільного з Soul Browser.</string>
+    <string name="ads_guide_5">Зразок реклами в додатку</string>
     <string name="donate_1">Пожертвування (Кава)</string>
     <string name="donate_2">Пожертвування (Енергетичний напій)</string>
     <string name="donate_3">Пожертвування (Гамбургер)</string>

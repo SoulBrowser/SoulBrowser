@@ -369,7 +369,6 @@
     <string name="server_error">サーバーが応答しません。</string>
     <string name="server_delay">サーバーの応答が遅くなります。</string>
     <string name="not_support_video">この動画は、 その機能がサポートされていません</string>
-    <string name="not_support_fast">このファイルは、クイックダウンロードはサポートされていません。</string>
     <string name="control_bright">明るさの調整</string>
     <string name="control_volume">音量調節</string>
     <string name="volume">音量</string>
@@ -731,8 +730,13 @@
     <string name="remove_ads">アプリ内広告を削除</string>
     <string name="remove_ads_info_1">一回の決済でアプリ内広告が永遠に削除されます。</string>
     <string name="remove_ads_info_2">支払いに使用したアカウントが同じであれば、常に有効です。</string>
-    <string name="remove_ads_info_3">アプリ内広告とウェブサイトの広告は異なります。</string>
-    <string name="remove_ads_info_4">ウェブサイトの広告を削除機能は無料です。</string>
+    <string name="remove_ads_info_3">アプリ内広告とウェブページ広告は異なります。</string>
+    <string name="remove_ads_info_4">Webページ広告の削除機能は無料です。</string>
+    <string name="ads_guide_1">アプリ内広告は、アプリが表示する広告です。</string>
+    <string name="ads_guide_2">アプリ内広告は以下のサンプルのようになります。</string>
+    <string name="ads_guide_3">Webページ広告は、Webサイト管理者が表示する広告です。</string>
+    <string name="ads_guide_4">Soul Browserとは何の関係もありません。</string>
+    <string name="ads_guide_5">アプリ内広告のサンプル</string>
     <string name="donate_1">寄付（コーヒー）</string>
     <string name="donate_2">寄付（栄養ドリンク）</string>
     <string name="donate_3">寄付（ハンバーガー）</string>

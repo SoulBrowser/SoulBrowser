@@ -369,7 +369,6 @@
     <string name="server_error">服务器没有响应</string>
     <string name="server_delay">服务器响应很慢</string>
     <string name="not_support_video">此视频不支持此功能</string>
-    <string name="not_support_fast">此文件不支持快速下载</string>
     <string name="control_bright">亮度控制</string>
     <string name="control_volume">音量控制</string>
     <string name="volume">音量</string>
@@ -729,10 +728,15 @@
     <string name="txt_viewer">TXT 查看</string>
     <string name="purchase">内购</string>
     <string name="remove_ads">移除应用内广告</string>
-    <string name="remove_ads_info_1">一笔付款将永久删除应用内广告。</string>
-    <string name="remove_ads_info_2">如果用于支付的帐户相同，则始终有效。</string>
-    <string name="remove_ads_info_3">应用内广告和网站上的广告是不同的。</string>
-    <string name="remove_ads_info_4">该网站的广告删除功能是免费的。</string>
+    <string name="remove_ads_info_1">一笔付款将永久删除应用内广告</string>
+    <string name="remove_ads_info_2">如果用于支付的帐户相同，则始终有效</string>
+    <string name="remove_ads_info_3">应用内广告和网页广告是不同的</string>
+    <string name="remove_ads_info_4">网页广告删除功能是免费的</string>
+    <string name="ads_guide_1">应用内广告是应用展示的广告</string>
+    <string name="ads_guide_2">应用内广告如下所示</string>
+    <string name="ads_guide_3">网页广告是网站管理员展示的广告</string>
+    <string name="ads_guide_4">它与 Soul Browser 无关</string>
+    <string name="ads_guide_5">应用内广告示例</string>
     <string name="donate_1">捐赠（咖啡）</string>
     <string name="donate_2">捐赠（能量饮料）</string>
     <string name="donate_3">捐赠（汉堡包）</string>
