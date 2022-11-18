@@ -27,7 +27,7 @@
     <string name="gallery">Galeria</string>
     <string name="download">Baixar</string>
     <string name="down_set">Download</string>
-    <string name="fast_down">Download rápido</string>
+    <string name="fast_down">Baixar rápido</string>
     <string name="fast_down_guide">Esta função usa mais recursos.</string>
     <string name="down_again">Baixar novamente</string>
     <string name="down_page">Salvar página</string>
@@ -42,7 +42,7 @@
     <string name="down_expire_1">Se o número de downloads exceder o limite, o excedente será colocado na fila.</string>
     <string name="down_complete">Download completo</string>
     <string name="down_fail">O download falhou</string>
-    <string name="live_fail">O vídeo ao vivo não pode ser baixado.</string>
+    <string name="live_fail">O vídeo ao vivo não pôde ser baixado.</string>
     <string name="save_success">Salvo com sucesso</string>
     <string name="save_fail">Falha ao salvar</string>
     <string name="capture">Captura de tela</string>
