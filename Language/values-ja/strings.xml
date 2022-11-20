@@ -54,8 +54,10 @@
     <string name="trans_detect">言語検出</string>
     <string name="trans_auto_info">翻訳可能な言語が検出されると、自動的に翻訳されます。</string>
     <string name="trans_icon_info">翻訳可能な言語が検出されると、翻訳ボタンが表示されます。</string>
+    <string name="trans_always_info">すべてのページを常に翻訳します。</string>
     <string name="trans_icon">ボタン表示</string>
     <string name="trans_auto">自動翻訳</string>
+    <string name="trans_always">常に翻訳</string>
     <string name="trans_block_site">現在のサイトで自動翻訳をブロックする</string>
     <string name="trans_block_page">現在のページで自動翻訳をブロックする</string>
     <string name="trans_except">自動翻訳ブラックリスト</string>

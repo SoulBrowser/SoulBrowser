@@ -54,8 +54,10 @@
     <string name="trans_detect">언어 감지</string>
     <string name="trans_auto_info">번역 가능한 언어가 감지되면, 자동으로 번역됩니다.</string>
     <string name="trans_icon_info">번역 가능한 언어가 감지되면, 번역 버튼이 표시됩니다.</string>
+    <string name="trans_always_info">모든 페이지를 항상 번역합니다.</string>
     <string name="trans_icon">버튼 표시</string>
     <string name="trans_auto">자동 번역</string>
+    <string name="trans_always">항상 번역</string>
     <string name="trans_block_site">현재 사이트에서 자동 번역 차단</string>
     <string name="trans_block_page">현재 페이지에서 자동 번역 차단</string>
     <string name="trans_except">자동 번역 차단 목록</string>

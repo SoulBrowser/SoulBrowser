@@ -54,8 +54,10 @@
     <string name="trans_detect">Phát hiện ngôn ngữ</string>
     <string name="trans_auto_info">Khi một ngôn ngữ có thể dịch được phát hiện, nó sẽ tự động được dịch.</string>
     <string name="trans_icon_info">Khi một ngôn ngữ có thể dịch được phát hiện, nút Dịch sẽ hiển thị.</string>
+    <string name="trans_always_info">Luôn dịch tất cả các trang.</string>
     <string name="trans_icon">Nút hiển thị</string>
     <string name="trans_auto">Bản dịch tự động</string>
+    <string name="trans_always">Luôn dịch</string>
     <string name="trans_block_site">Chặn các bản dịch tự động trên trang web hiện tại</string>
     <string name="trans_block_page">Chặn các bản dịch tự động trên trang hiện tại</string>
     <string name="trans_except">Bản dịch tự động danh sách cấm</string>

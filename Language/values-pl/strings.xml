@@ -54,8 +54,10 @@
     <string name="trans_detect">Wykryj język</string>
     <string name="trans_auto_info">Po wykryciu języka, który można przetłumaczyć, jest on tłumaczony automatycznie.</string>
     <string name="trans_icon_info">Po wykryciu języka, który można przetłumaczyć, wyświetlany jest przycisk Tłumacz.</string>
+    <string name="trans_always_info">Zawsze tłumacz wszystkie strony.</string>
     <string name="trans_icon">Wyświetlacz przycisku</string>
     <string name="trans_auto">Automatyczne tłumaczenie</string>
+    <string name="trans_always">Zawsze tłumacz</string>
     <string name="trans_block_site">Blokuj automatyczne tłumaczenia w bieżącej witrynie</string>
     <string name="trans_block_page">Blokuj automatyczne tłumaczenia na bieżącej stronie</string>
     <string name="trans_except">Czarna lista tłumaczeń automatycznych</string>

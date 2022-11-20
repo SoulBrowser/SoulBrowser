@@ -54,8 +54,10 @@
     <string name="trans_detect">檢測語言</string>
     <string name="trans_auto_info">當檢測到可翻譯的語言時，它會被自動翻譯</string>
     <string name="trans_icon_info">當檢測到可翻譯的語言時，會顯示翻譯按鈕</string>
+    <string name="trans_always_info">始終翻譯所有頁面</string>
     <string name="trans_icon">按鈕顯示</string>
     <string name="trans_auto">自動翻譯</string>
+    <string name="trans_always">總是翻譯</string>
     <string name="trans_block_site">阻止當前站點上的自動翻譯</string>
     <string name="trans_block_page">在當前頁面阻止自動翻譯</string>
     <string name="trans_except">自動翻譯黑名單</string>

@@ -54,8 +54,10 @@
     <string name="trans_detect">Detect language</string>
     <string name="trans_auto_info">When a translatable language is detected, it is automatically translated.</string>
     <string name="trans_icon_info">When a translatable language is detected, the Translate button is displayed.</string>
+    <string name="trans_always_info">Always translate all pages.</string>
     <string name="trans_icon">Button display</string>
     <string name="trans_auto">Automatic translation</string>
+    <string name="trans_always">Always translate</string>
     <string name="trans_block_site">Block automatic translations on the current site</string>
     <string name="trans_block_page">Block automatic translations on the current page</string>
     <string name="trans_except">Automatic translation blacklist</string>

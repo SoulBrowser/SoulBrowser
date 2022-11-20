@@ -54,8 +54,10 @@
     <string name="trans_detect">Mendeteksi bahasa</string>
     <string name="trans_auto_info">Ketika bahasa yang dapat diterjemahkan terdeteksi, maka secara otomatis diterjemahkan.</string>
     <string name="trans_icon_info">Ketika bahasa yang dapat diterjemahkan terdeteksi, tombol Terjemahkan ditampilkan.</string>
+    <string name="trans_always_info">Selalu terjemahkan semua halaman.</string>
     <string name="trans_icon">Tampilan tombol</string>
     <string name="trans_auto">Terjemahan otomatis</string>
+    <string name="trans_always">Selalu terjemahkan</string>
     <string name="trans_block_site">Blokir terjemahan otomatis di situs saat ini</string>
     <string name="trans_block_page">Blokir terjemahan otomatis di halaman saat ini</string>
     <string name="trans_except">Daftar hitam terjemahan otomatis</string>

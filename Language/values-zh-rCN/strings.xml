@@ -54,8 +54,10 @@
     <string name="trans_detect">检测语言</string>
     <string name="trans_auto_info">当检测到可翻译的语言时，它会被自动翻译</string>
     <string name="trans_icon_info">当检测到可翻译的语言时，会显示翻译按钮</string>
+    <string name="trans_always_info">始终翻译所有页面</string>
     <string name="trans_icon">按钮显示</string>
     <string name="trans_auto">自动翻译</string>
+    <string name="trans_always">总是翻译</string>
     <string name="trans_block_site">阻止当前站点上的自动翻译</string>
     <string name="trans_block_page">在当前页面阻止自动翻译</string>
     <string name="trans_except">自动翻译黑名单</string>

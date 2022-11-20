@@ -54,8 +54,10 @@
     <string name="trans_detect">اكتشاف اللغة</string>
     <string name="trans_auto_info">عند اكتشاف لغة قابلة للترجمة ، يتم ترجمتها تلقائيًا.</string>
     <string name="trans_icon_info">عند اكتشاف لغة قابلة للترجمة ، يتم عرض زر الترجمة.</string>
+    <string name="trans_always_info">دائما ترجمة كل الصفحات.</string>
     <string name="trans_icon">عرض الزر</string>
     <string name="trans_auto">الترجمة الآلية</string>
+    <string name="trans_always">ترجم دائما</string>
     <string name="trans_block_site">منع الترجمات الآلية في الموقع الحالي</string>
     <string name="trans_block_page">منع الترجمات الآلية في الصفحة الحالية</string>
     <string name="trans_except">القائمة السوداء للترجمة التلقائية</string>

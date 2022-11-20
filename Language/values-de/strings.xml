@@ -54,8 +54,10 @@
     <string name="trans_detect">Sprache erkennen</string>
     <string name="trans_auto_info">Wenn eine übersetzbare Sprache erkannt wird, wird sie automatisch übersetzt.</string>
     <string name="trans_icon_info">Wenn eine übersetzbare Sprache erkannt wird, wird die Schaltfläche Übersetzen angezeigt.</string>
+    <string name="trans_always_info">Übersetzen Sie immer alle Seiten.</string>
     <string name="trans_icon">Tastenanzeige</string>
     <string name="trans_auto">Automatische Übersetzung</string>
+    <string name="trans_always">Immer übersetzen</string>
     <string name="trans_block_site">Automatische Übersetzungen auf der aktuellen Seite blockieren</string>
     <string name="trans_block_page">Automatische Übersetzungen auf der aktuellen Adresse blockieren</string>
     <string name="trans_except">Schwarze Liste für automatische Übersetzungen</string>

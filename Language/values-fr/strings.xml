@@ -54,8 +54,10 @@
     <string name="trans_detect">Détecter la langue</string>
     <string name="trans_auto_info">Lorsqu\'une langue traduisible est détectée, elle est automatiquement traduite.</string>
     <string name="trans_icon_info">Lorsqu\'une langue traduisible est détectée, le bouton Traduire s\'affiche.</string>
+    <string name="trans_always_info">Traduisez toujours toutes les pages.</string>
     <string name="trans_icon">Affichage des boutons</string>
     <string name="trans_auto">Traduction automatique</string>
+    <string name="trans_always">Traduisez toujours</string>
     <string name="trans_block_site">Bloquer les traductions automatiques sur le site actuel</string>
     <string name="trans_block_page">Bloquer les traductions automatiques sur la page en cours</string>
     <string name="trans_except">Liste noire de traduction automatique</string>
