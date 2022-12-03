@@ -135,6 +135,7 @@
     <string name="down_image">Salva immagine</string>
     <string name="share_image">Condividi immagine</string>
     <string name="copy_text">Copia testo</string>
+    <string name="copied_text">Testo copiato</string>
     <string name="copied_clipboard">Copiato negli appunti</string>
     <string name="preview_image">Anteprima immagine</string>
     <string name="view_image">Guarda immagine</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">Si prega di impostare prima una schermata di blocco.</string>
     <string name="password_lock_2">Questo è per la tua privacy.</string>
     <string name="password_reset_guide">Il ripristino cancellerà tutti i dati associati alle password.</string>
-    <string name="login_lock">Sicurezza di accesso</string>
+    <string name="login_lock">Blocco accesso</string>
     <string name="login_lock_info">La schermata di blocco si avvierà prima di accedere con la password salvata.</string>
     <string name="canceling">Annullamento&#8230;</string>
     <string name="checking">Verifica&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">Permesso negato</string>
     <string name="permission_removed">Autorizzazione rimossa</string>
     <string name="no_permission">Nessun permesso</string>
+    <string name="noti_pms_guide_1">È richiesta l\'autorizzazione per le notifiche di stato di seguito.</string>
+    <string name="noti_pms_guide_2">L\'autorizzazione può essere modificata in seguito.</string>
     <string name="ads_block">Blocco Ad</string>
     <string name="ads_block_info">Almeno un filtro deve essere attivo per bloccare gli annunci.</string>
     <string name="filtered_image">Immagine filtrata (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">Abilita TTS</string>
     <string name="tts_info_1">Quando si fa clic sul testo visualizzato nel browser, viene letto con la voce.</string>
     <string name="tts_info_2">Quando si fa clic sul testo, questo viene letto con la voce.</string>
+    <string name="tts_guide_1">Le lingue supportate dipendono dal motore TTS utilizzato.</string>
+    <string name="tts_guide_2">Il motore TTS può essere modificato nelle impostazioni del dispositivo.</string>
     <string name="speak_page">Leggere ad alta voce</string>
     <string name="detail_setting">Impostazioni dettagliate</string>
     <string name="voice_speed">Velocità di voce</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">Promemoria</string>
     <string name="memo_guide">È possibile registrare frasi utilizzate di frequente.</string>
     <string name="page_source">Fonte della pagina</string>
+    <string name="tab_menu">Menù scheda</string>
     <string name="delete_tab">Chiudi schede</string>
     <string name="delete_all_tab">Chiudi tutte le schede</string>
     <string name="delete_other_tab">Chiudi le altre schede</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">Alcuni siti potrebbero non essere supportati.</string>
     <string name="not_support_locale">Potrebbe non essere supportato in tutte le regioni.</string>
     <string name="restart">Ricomincia</string>
-    <string name="down_fail_guide">Il file potrebbe essere danneggiato.</string>
     <string name="ads_filter">Filtro degli annunci</string>
     <string name="user_filter">Filtro utente</string>
     <string name="backup_title">Backup</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">Se vedi spesso questa schermata, controlla le seguenti funzioni.</string>
     <string name="block_amp">Disattiva Google AMP</string>
     <string name="block_amp_info">Disattiva Google AMP nei risultati di ricerca di Google.</string>
+    <string name="pre_raster">Precaricamento della pagina web</string>
     <string name="filter_guide_1">Il blocco degli annunci si basa sui filtri.</string>
     <string name="filter_guide_2">Se hai un sito che non blocca gli annunci, aggiungi un filtro appropriato.</string>
     <string name="filter_guide_3">L\'aggiunta di troppi filtri può rallentare il browser.</string>

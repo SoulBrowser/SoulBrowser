@@ -135,6 +135,7 @@
     <string name="down_image">Сохранить изображение</string>
     <string name="share_image">Поделиться изображением</string>
     <string name="copy_text">Копировать текст</string>
+    <string name="copied_text">Скопированный текст</string>
     <string name="copied_clipboard">Скопировано в буфер обмена</string>
     <string name="preview_image">Предварительный просмотр изображения</string>
     <string name="view_image">Просмотреть изображение</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">Сначала настройте экран блокировки.</string>
     <string name="password_lock_2">Это для вашей конфиденциальности.</string>
     <string name="password_reset_guide">Сброс удалит все данные, связанные с паролем.</string>
-    <string name="login_lock">Безопасность входа</string>
+    <string name="login_lock">Блокировка входа</string>
     <string name="login_lock_info">Экран блокировки запустится перед входом в систему с сохраненным паролем.</string>
     <string name="canceling">Отмена&#8230;</string>
     <string name="checking">Проверка&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Яндекс</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">Доступ запрещен</string>
     <string name="permission_removed">Разрешение удалено</string>
     <string name="no_permission">Нет разрешения</string>
+    <string name="noti_pms_guide_1">Разрешение требуется для уведомлений о статусе ниже.</string>
+    <string name="noti_pms_guide_2">Разрешение можно изменить позже.</string>
     <string name="ads_block">Блокировщик рекламы</string>
     <string name="ads_block_info">Для блокировки рекламы должен быть активен хотя бы один фильтр.</string>
     <string name="filtered_image">Фильтруемое изображение (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">Включить TTS</string>
     <string name="tts_info_1">Когда Вы нажимаете текст, отображаемый в браузере, он читается вслух.</string>
     <string name="tts_info_2">Когда Вы нажимаете текст, он читается вслух.</string>
+    <string name="tts_guide_1">Поддерживаемые языки зависят от используемого механизма TTS.</string>
+    <string name="tts_guide_2">Движок TTS можно изменить в настройках устройства.</string>
     <string name="speak_page">Читать вслух</string>
     <string name="detail_setting">Расширенные настройки</string>
     <string name="voice_speed">Скорость голоса</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">Блокнот</string>
     <string name="memo_guide">Можно зарегистрировать часто используемые предложения.</string>
     <string name="page_source">Исходный код страницы</string>
+    <string name="tab_menu">Меню вкладок</string>
     <string name="delete_tab">Закрыть вкладку</string>
     <string name="delete_all_tab">Закрыть все вкладки</string>
     <string name="delete_other_tab">Закрыть другие вкладки</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">Некоторые сайты могут не поддерживаться.</string>
     <string name="not_support_locale">Может не поддерживаться в некоторых регионах.</string>
     <string name="restart">Начать сначала</string>
-    <string name="down_fail_guide">Файл может быть повреждён.</string>
     <string name="ads_filter">Рекламный фильтр</string>
     <string name="user_filter">Пользовательский фильтр</string>
     <string name="backup_title">Резервное копирование и восстановление</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">Если вы часто видите этот экран, проверьте следующие функции.</string>
     <string name="block_amp">Отключить Google AMP</string>
     <string name="block_amp_info">Отключите Google AMP в результатах поиска Google.</string>
+    <string name="pre_raster">Предварительная загрузка веб-страницы</string>
     <string name="filter_guide_1">Блокировка рекламы основана на фильтрах.</string>
     <string name="filter_guide_2">Если у вас есть сайт, который не блокирует рекламу, добавьте соответствующий фильтр.</string>
     <string name="filter_guide_3">Добавление слишком большого количества фильтров может замедлить работу браузера.</string>

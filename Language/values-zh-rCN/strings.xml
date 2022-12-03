@@ -50,7 +50,7 @@
     <string name="print_success">打印成功</string>
     <string name="print_fail">打印失败</string>
     <string name="translate">翻译</string>
-    <string name="translator">译者</string>
+    <string name="translator">翻译</string>
     <string name="trans_detect">检测语言</string>
     <string name="trans_auto_info">当检测到可翻译的语言时，它会被自动翻译</string>
     <string name="trans_icon_info">当检测到可翻译的语言时，会显示翻译按钮</string>
@@ -135,6 +135,7 @@
     <string name="down_image">保存图片</string>
     <string name="share_image">分享图片</string>
     <string name="copy_text">复制文字</string>
+    <string name="copied_text">复制文本</string>
     <string name="copied_clipboard">复制到剪贴板</string>
     <string name="preview_image">预览图片</string>
     <string name="view_image">查看图片</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">请先设置密码</string>
     <string name="password_lock_2">这可以保护你的隐私</string>
     <string name="password_reset_guide">重置将清除与密码关联的所有数据</string>
-    <string name="login_lock">登录安全</string>
+    <string name="login_lock">登录锁</string>
     <string name="login_lock_info">锁定屏幕将在使用保存的密码登录之前启动</string>
     <string name="canceling">取消&#8230;</string>
     <string name="checking">检查中&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">没有权限</string>
     <string name="permission_removed">已删除权限</string>
     <string name="no_permission">没有权限</string>
+    <string name="noti_pms_guide_1">以下状态通知需要许可</string>
+    <string name="noti_pms_guide_2">以后可以更改权限</string>
     <string name="ads_block">广告拦截</string>
     <string name="ads_block_info">必须至少启用一个过滤器才能屏蔽广告</string>
     <string name="filtered_image">过滤的图像（%d）</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">启用文字转语音</string>
     <string name="tts_info_1">单击浏览器中显示的文本时，将通过语音读取</string>
     <string name="tts_info_2">单击文本后，将通过语音读取</string>
+    <string name="tts_guide_1">支持的语言取决于所使用的 TTS 引擎</string>
+    <string name="tts_guide_2">TTS 引擎可以在设备设置中更改</string>
     <string name="speak_page">大声朗读</string>
     <string name="detail_setting">详细设置</string>
     <string name="voice_speed">语音速度</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">备忘录</string>
     <string name="memo_guide">在此添加文本，点击可复制。</string>
     <string name="page_source">网页源代码</string>
+    <string name="tab_menu">选项卡菜单</string>
     <string name="delete_tab">关闭标签</string>
     <string name="delete_all_tab">关闭所有标签</string>
     <string name="delete_other_tab">关闭其它标签</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">某些网站可能不受支持</string>
     <string name="not_support_locale">可能并非所有地区都支持它</string>
     <string name="restart">重新开始</string>
-    <string name="down_fail_guide">该文件可能已损坏</string>
     <string name="ads_filter">广告过滤器</string>
     <string name="user_filter">用户过滤器</string>
     <string name="backup_title">备份</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">如果您经常看到此屏幕，请检查以下功能</string>
     <string name="block_amp">禁用 Google AMP</string>
     <string name="block_amp_info">在 Google 搜索结果中禁用 Google AMP</string>
+    <string name="pre_raster">网页预加载</string>
     <string name="filter_guide_1">广告拦截基于过滤器</string>
     <string name="filter_guide_2">如果您的网站不屏蔽广告，请添加适当的过滤器</string>
     <string name="filter_guide_3">添加太多过滤器会降低浏览器的速度</string>

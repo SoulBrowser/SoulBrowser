@@ -135,6 +135,7 @@
     <string name="down_image">画像を保存</string>
     <string name="share_image">画像共有</string>
     <string name="copy_text">テキストのコピー</string>
+    <string name="copied_text">コピーされたテキスト</string>
     <string name="copied_clipboard">クリップボードにコピーされました。</string>
     <string name="preview_image">プレビュー画像</string>
     <string name="view_image">画像を見る</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">ロック画面を先に設定してください。</string>
     <string name="password_lock_2">個人情報保護のためです。</string>
     <string name="password_reset_guide">初期化すると、パスワードに関連するすべてのデータが削除されます。</string>
-    <string name="login_lock">ログインセキュリティ</string>
+    <string name="login_lock">ログインロック</string>
     <string name="login_lock_info">保存したパスワードでログインする前にロック画面が起動します。</string>
     <string name="canceling">キャンセル中&#8230;</string>
     <string name="checking">確認中&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">アクセス拒否</string>
     <string name="permission_removed">権限が削除されました</string>
     <string name="no_permission">権限なし</string>
+    <string name="noti_pms_guide_1">以下のステータス通知には許可が必要です。</string>
+    <string name="noti_pms_guide_2">権限は後で変更できます。</string>
     <string name="ads_block">広告ブロック</string>
     <string name="ads_block_info">広告をブロックするには、複数のフィルタが有効になっている必要があります。</string>
     <string name="filtered_image">フィルタリングされた画像（%d）</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">TTSを有効に</string>
     <string name="tts_info_1">ブラウザに表示された文字をクリックすると、音声で読み上げます。</string>
     <string name="tts_info_2">文字をクリックすると、音声で読み上げます。</string>
+    <string name="tts_guide_1">サポートされている言語は、使用しているTTSエンジンによって異なります。</string>
+    <string name="tts_guide_2">TTSエンジンはデバイス設定で変更できます。</string>
     <string name="speak_page">声を出して読む</string>
     <string name="detail_setting">詳細設定</string>
     <string name="voice_speed">音声速度</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">メモ</string>
     <string name="memo_guide">頻繁に使用する文を登録することができます。</string>
     <string name="page_source">ページのソース</string>
+    <string name="tab_menu">タブメニュー</string>
     <string name="delete_tab">タブを閉じる</string>
     <string name="delete_all_tab">すべてのタブを閉じる</string>
     <string name="delete_other_tab">他のタブを閉じる</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">一部のサイトでは、サポートされないことがあります。</string>
     <string name="not_support_locale">一部の地域ではサポートされないことがあります。</string>
     <string name="restart">再起動</string>
-    <string name="down_fail_guide">ファイルが壊れている可能性があります。</string>
     <string name="ads_filter">広告フィルタ</string>
     <string name="user_filter">ユーザーフィルター</string>
     <string name="backup_title">バックアップ</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">この画面がよく表示される場合は、次の機能を確認してください。</string>
     <string name="block_amp">Google AMPを無効にする</string>
     <string name="block_amp_info">Google 検索結果で Google AMPを無効にします。</string>
+    <string name="pre_raster">Webページのプリロード</string>
     <string name="filter_guide_1">広告のブロックはフィルターに基づいています。</string>
     <string name="filter_guide_2">広告をブロックしないサイトがある場合は、適切なフィルターを追加してください。</string>
     <string name="filter_guide_3">フィルタを追加しすぎると、ブラウザの速度が低下する可能性があります。</string>

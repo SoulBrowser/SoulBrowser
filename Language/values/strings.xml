@@ -135,6 +135,7 @@
     <string name="down_image">Save image</string>
     <string name="share_image">Share image</string>
     <string name="copy_text">Copy text</string>
+    <string name="copied_text">Copied text</string>
     <string name="copied_clipboard">Copied to clipboard</string>
     <string name="preview_image">Preview image</string>
     <string name="view_image">View image</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">Please set up a lock screen first.</string>
     <string name="password_lock_2">This is for your privacy.</string>
     <string name="password_reset_guide">Resetting will delete all data associated with the password.</string>
-    <string name="login_lock">Login security</string>
+    <string name="login_lock">Login lock</string>
     <string name="login_lock_info">The lock screen will launch before logging in with the saved password.</string>
     <string name="canceling">Canceling&#8230;</string>
     <string name="checking">Checking&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">Permission denied</string>
     <string name="permission_removed">Permission removed</string>
     <string name="no_permission">No permission</string>
+    <string name="noti_pms_guide_1">Permission is required for status notifications below.</string>
+    <string name="noti_pms_guide_2">Permission can be changed later.</string>
     <string name="ads_block">Ad blocker</string>
     <string name="ads_block_info">At least one filter must be active to block ads.</string>
     <string name="filtered_image">Filtered image (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">Enable TTS</string>
     <string name="tts_info_1">When you click the text displayed in the browser, it is read by voice.</string>
     <string name="tts_info_2">When text is clicked, it is read by voice.</string>
+    <string name="tts_guide_1">Supported languages depend on the TTS engine being used.</string>
+    <string name="tts_guide_2">TTS engine can be changed in device settings.</string>
     <string name="speak_page">Read aloud</string>
     <string name="detail_setting">Detailed settings</string>
     <string name="voice_speed">Voice speed</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">Memo</string>
     <string name="memo_guide">You can register frequently used sentences.</string>
     <string name="page_source">Page source</string>
+    <string name="tab_menu">Tab menu</string>
     <string name="delete_tab">Close tab</string>
     <string name="delete_all_tab">Close all tabs</string>
     <string name="delete_other_tab">Close other tabs</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">Some sites may not be supported.</string>
     <string name="not_support_locale">It may not be supported in all regions.</string>
     <string name="restart">Restart</string>
-    <string name="down_fail_guide">The file may be damaged.</string>
     <string name="ads_filter">Ad filter</string>
     <string name="user_filter">User filter</string>
     <string name="backup_title">Backup</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">If you see this screen often, check the following features.</string>
     <string name="block_amp">Disable Google AMP</string>
     <string name="block_amp_info">Disable Google AMP in Google search results.</string>
+    <string name="pre_raster">Web page preload</string>
     <string name="filter_guide_1">Ad blocking is based on filters.</string>
     <string name="filter_guide_2">If you have a site that doesn\'t block ads, add an appropriate filter.</string>
     <string name="filter_guide_3">Adding too many filters can slow down browser.</string>

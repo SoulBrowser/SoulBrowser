@@ -135,6 +135,7 @@
     <string name="down_image">儲存圖片</string>
     <string name="share_image">分享圖片</string>
     <string name="copy_text">複製文字</string>
+    <string name="copied_text">複製文本</string>
     <string name="copied_clipboard">複製到剪貼簿</string>
     <string name="preview_image">預覽圖片</string>
     <string name="view_image">查看圖片</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">請先設定鎖定螢幕</string>
     <string name="password_lock_2">這是為了保護您的隱私</string>
     <string name="password_reset_guide">重設將清除與密碼關聯的所有資料</string>
-    <string name="login_lock">登錄安全</string>
+    <string name="login_lock">登錄鎖</string>
     <string name="login_lock_info">鎖定屏幕將在使用保存的密碼登錄之前啟動</string>
     <string name="canceling">取消&#8230;</string>
     <string name="checking">檢查中&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">沒有權限</string>
     <string name="permission_removed">已刪除權限</string>
     <string name="no_permission">沒有權限</string>
+    <string name="noti_pms_guide_1">以下狀態通知需要許可</string>
+    <string name="noti_pms_guide_2">以後可以更改權限</string>
     <string name="ads_block">廣告封鎖</string>
     <string name="ads_block_info">至少需要啟用一個過濾器才能封鎖廣告</string>
     <string name="filtered_image">已過濾圖片（%d）</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">啟用 TTS</string>
     <string name="tts_info_1">單擊瀏覽器中顯示的文字時，透過語音朗讀</string>
     <string name="tts_info_2">單擊文本後，將透過語音朗讀</string>
+    <string name="tts_guide_1">支持的語言取決於所使用的 TTS 引擎</string>
+    <string name="tts_guide_2">TTS 引擎可以在設備設置中更改</string>
     <string name="speak_page">語音朗讀</string>
     <string name="detail_setting">詳細設定</string>
     <string name="voice_speed">語音速度</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">備忘錄</string>
     <string name="memo_guide">您可以輸入常用的句子</string>
     <string name="page_source">頁面來源</string>
+    <string name="tab_menu">選項卡菜單</string>
     <string name="delete_tab">關閉分頁</string>
     <string name="delete_all_tab">關閉所有分頁</string>
     <string name="delete_other_tab">關閉其他分頁</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">某些網站可能不支援</string>
     <string name="not_support_locale">並非所有地區都支援</string>
     <string name="restart">重新開始</string>
-    <string name="down_fail_guide">該檔案已損壞</string>
     <string name="ads_filter">廣告過濾器</string>
     <string name="user_filter">用戶過濾器</string>
     <string name="backup_title">備份</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">如果您經常看到此屏幕，請檢查以下功能</string>
     <string name="block_amp">禁用 Google AMP</string>
     <string name="block_amp_info">在 Google 搜索結果中禁用 Google AMP</string>
+    <string name="pre_raster">網頁預加載</string>
     <string name="filter_guide_1">廣告攔截基於過濾器</string>
     <string name="filter_guide_2">如果您的網站不屏蔽廣告，請添加適當的過濾器</string>
     <string name="filter_guide_3">添加太多過濾器會降低瀏覽器的速度</string>

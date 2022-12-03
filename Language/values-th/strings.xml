@@ -135,6 +135,7 @@
     <string name="down_image">บันทึกภาพ</string>
     <string name="share_image">แบ่งปันภาพ</string>
     <string name="copy_text">คัดลอกข้อความ</string>
+    <string name="copied_text">ข้อความที่คัดลอก</string>
     <string name="copied_clipboard">คัดลอกไปที่คลิปบอร์ดแล้ว</string>
     <string name="preview_image">ดูตัวอย่างรูปภาพ</string>
     <string name="view_image">ดูรูปภาพ</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">โปรดตั้งค่าหน้าจอล็อกก่อน</string>
     <string name="password_lock_2">ทั้งนี้เพื่อความเป็นส่วนตัวของคุณ</string>
     <string name="password_reset_guide">การรีเซ็ตจะลบข้อมูลทั้งหมดที่เกี่ยวข้องกับรหัสผ่าน</string>
-    <string name="login_lock">ความปลอดภัยในการเข้าสู่ระบบ</string>
+    <string name="login_lock">ล็อคอิน</string>
     <string name="login_lock_info">หน้าจอล็อกจะเปิดขึ้นก่อนที่จะเข้าสู่ระบบด้วยรหัสผ่านที่บันทึกไว้</string>
     <string name="canceling">ยกเลิก&#8230;</string>
     <string name="checking">การตรวจสอบ&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">ปฏิเสธการอนุญาต</string>
     <string name="permission_removed">ลบสิทธิ์</string>
     <string name="no_permission">ไม่ได้รับอนุญาต</string>
+    <string name="noti_pms_guide_1">ต้องได้รับอนุญาตสำหรับการแจ้งเตือนสถานะด้านล่าง</string>
+    <string name="noti_pms_guide_2">สามารถเปลี่ยนแปลงการอนุญาตได้ในภายหลัง</string>
     <string name="ads_block">บล็อกโฆษณา</string>
     <string name="ads_block_info">ต้องใช้ตัวกรองอย่างน้อยหนึ่งรายการเพื่อบล็อกโฆษณา</string>
     <string name="filtered_image">รูปภาพที่กรอง (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">เปิดใช้งาน TTS</string>
     <string name="tts_info_1">เมื่อคุณคลิกข้อความที่แสดงในเบราว์เซอร์จะถูกอ่านด้วยเสียง</string>
     <string name="tts_info_2">เมื่อข้อความถูกคลิกมันจะอ่านด้วยเสียง</string>
+    <string name="tts_guide_1">ภาษาที่รองรับขึ้นอยู่กับเอ็นจิ้น TTS ที่ใช้</string>
+    <string name="tts_guide_2">เอ็นจิ้น TTS สามารถเปลี่ยนแปลงได้ในการตั้งค่าอุปกรณ์</string>
     <string name="speak_page">อ่านออกเสียง</string>
     <string name="detail_setting">การตั้งค่าโดยละเอียด</string>
     <string name="voice_speed">ความเร็วของเสียง</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">บันทึก</string>
     <string name="memo_guide">คุณสามารถลงทะเบียนประโยคที่ใช้บ่อย</string>
     <string name="page_source">แหล่งที่มาของหน้า</string>
+    <string name="tab_menu">เมนูแท็บ</string>
     <string name="delete_tab">ปิดแท็บ</string>
     <string name="delete_all_tab">ปิดแท็บทั้งหมด</string>
     <string name="delete_other_tab">ปิดแท็บอื่น ๆ</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">บางเว็บไซต์อาจไม่รองรับ</string>
     <string name="not_support_locale">อาจไม่รองรับในทุกภูมิภาค</string>
     <string name="restart">เริ่มต้นใหม่</string>
-    <string name="down_fail_guide">ไฟล์อาจเสียหาย</string>
     <string name="ads_filter">ตัวกรองโฆษณา</string>
     <string name="user_filter">ตัวกรองผู้ใช้</string>
     <string name="backup_title">สำรองข้อมูล</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">หากคุณเห็นหน้าจอนี้บ่อยๆ ให้ตรวจสอบคุณสมบัติต่อไปนี้</string>
     <string name="block_amp">ปิดการใช้งาน Google AMP</string>
     <string name="block_amp_info">ปิดใช้งาน Google AMP ในผลการค้นหาของ Google</string>
+    <string name="pre_raster">โหลดหน้าเว็บล่วงหน้า</string>
     <string name="filter_guide_1">การบล็อกโฆษณาขึ้นอยู่กับตัวกรอง</string>
     <string name="filter_guide_2">หากคุณมีไซต์ที่ไม่ปิดกั้นโฆษณา ให้เพิ่มตัวกรองที่เหมาะสม</string>
     <string name="filter_guide_3">การเพิ่มตัวกรองมากเกินไปอาจทำให้เบราว์เซอร์ช้าลง</string>

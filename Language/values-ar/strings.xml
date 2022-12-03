@@ -135,6 +135,7 @@
     <string name="down_image">احفظ الصورة</string>
     <string name="share_image">مشاركة الصور</string>
     <string name="copy_text">نسخ النص</string>
+    <string name="copied_text">نص منسوخ</string>
     <string name="copied_clipboard">تم نسخه إلى الحافظة.</string>
     <string name="preview_image">معاينة الصورة</string>
     <string name="view_image">عرض الصورة</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">يرجى ضبط شاشة القفل أولاً.</string>
     <string name="password_lock_2">هذا من أجل خصوصيتك.</string>
     <string name="password_reset_guide">عند إعادة التعيين ، سيتم حذف جميع البيانات المتعلقة بكلمة المرور.</string>
-    <string name="login_lock">أمان تسجيل الدخول</string>
+    <string name="login_lock">قفل تسجيل الدخول</string>
     <string name="login_lock_info">ستبدأ شاشة القفل قبل تسجيل الدخول بكلمة المرور المحفوظة.</string>
     <string name="canceling">الإلغاء</string>
     <string name="checking">تدقيق</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">طلب الاذن مرفوض</string>
     <string name="permission_removed">تمت إزالة الإذن</string>
     <string name="no_permission">لا يوجد إذن</string>
+    <string name="noti_pms_guide_1">مطلوب إذن لإخطارات الحالة أدناه.</string>
+    <string name="noti_pms_guide_2">يمكن تغيير الإذن لاحقًا.</string>
     <string name="ads_block">إعلانات كتلة</string>
     <string name="ads_block_info">يجب أن يكون هناك عامل تصفية واحد على الأقل نشطًا لمنع الإعلانات.</string>
     <string name="filtered_image">صورة مفلترة (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">استخدام تحويل النص إلى كلام</string>
     <string name="tts_info_1">عند النقر فوق حرف معروض في المتصفح ، تتم قراءته بصوت عالٍ.</string>
     <string name="tts_info_2">عندما تضغط على الحرف ،\nاقرأها بصوت عالٍ.</string>
+    <string name="tts_guide_1">تعتمد اللغات المدعومة على محرك TTS المستخدم.</string>
+    <string name="tts_guide_2">يمكن تغيير محرك TTS في إعدادات الجهاز.</string>
     <string name="speak_page">اقرأ بصوت عالي</string>
     <string name="detail_setting">الإعداد التفصيلي</string>
     <string name="voice_speed">سرعة الصوت</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">مذكرة</string>
     <string name="memo_guide">يمكنك تسجيل الجمل المستخدمة بشكل متكرر.</string>
     <string name="page_source">مصدر الصفحة</string>
+    <string name="tab_menu">قائمة التبويب</string>
     <string name="delete_tab">إغلاق علامة التبويب</string>
     <string name="delete_all_tab">أغلق كل علامات التبويب</string>
     <string name="delete_other_tab">أغلق علامات التبويب الأخرى</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">قد لا يتم دعم بعض المواقع.</string>
     <string name="not_support_locale">قد لا يكون مدعومًا في جميع المناطق.</string>
     <string name="restart">إعادة تشغيل</string>
-    <string name="down_fail_guide">قد يكون الملف تالفًا.</string>
     <string name="ads_filter">مرشح الإعلانات</string>
     <string name="user_filter">مرشح المستخدم</string>
     <string name="backup_title">دعم</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">إذا كنت ترى هذه الشاشة بشكل متكرر ، فتحقق من الميزات التالية.</string>
     <string name="block_amp">تعطيل Google AMP</string>
     <string name="block_amp_info">تعطيل Google AMP في نتائج بحث Google.</string>
+    <string name="pre_raster">تحميل مسبق لصفحة الويب</string>
     <string name="filter_guide_1">منع الإعلان يعتمد على الفلاتر.</string>
     <string name="filter_guide_2">إذا كان لديك موقع لا يمنع الإعلانات ، فأضف عامل تصفية مناسب.</string>
     <string name="filter_guide_3">يمكن أن تؤدي إضافة الكثير من المرشحات إلى إبطاء المتصفح.</string>

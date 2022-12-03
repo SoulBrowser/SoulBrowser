@@ -135,6 +135,7 @@
     <string name="down_image">Resmi kaydet</string>
     <string name="share_image">Resmi paylaş</string>
     <string name="copy_text">Metni kopyala</string>
+    <string name="copied_text">Kopyalanan metin</string>
     <string name="copied_clipboard">Panoya kopyalandı</string>
     <string name="preview_image">Resmi önizle</string>
     <string name="view_image">Resmi görüntüle</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">Lütfen önce bir kilit ekranı ayarlayın.</string>
     <string name="password_lock_2">Bu gizliliğiniz içindir.</string>
     <string name="password_reset_guide">Sıfırlama işlemi, parola ile ilişkili tüm verileri siler.</string>
-    <string name="login_lock">Giriş güvenliği</string>
+    <string name="login_lock">Giriş kilidi</string>
     <string name="login_lock_info">Kaydedilmiş şifre ile giriş yapmadan önce kilit ekranı açılacaktır.</string>
     <string name="canceling">İptal ediliyor&#8230;</string>
     <string name="checking">Kontrol ediliyor&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">İzin reddedildi</string>
     <string name="permission_removed">İzin kaldırıldı</string>
     <string name="no_permission">İzin yok</string>
+    <string name="noti_pms_guide_1">Aşağıdaki durum bildirimleri için izin gereklidir.</string>
+    <string name="noti_pms_guide_2">İzin daha sonra değiştirilebilir.</string>
     <string name="ads_block">Reklam engelleme</string>
     <string name="ads_block_info">Reklamları engellemek için en az bir filtre etkin olmalıdır.</string>
     <string name="filtered_image">Filtre uygulanmış resim (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">TTS\'yi etkinleştir</string>
     <string name="tts_info_1">Tarayıcıda görüntülenen metni tıklattığınızda, sesli olarak okunur.</string>
     <string name="tts_info_2">Metin tıklandığında sesli olarak okunur.</string>
+    <string name="tts_guide_1">Desteklenen diller, kullanılan TTS motoruna bağlıdır.</string>
+    <string name="tts_guide_2">TTS motoru cihaz ayarlarından değiştirilebilir.</string>
     <string name="speak_page">Yüksek sesle oku</string>
     <string name="detail_setting">Ayrıntılı ayarlar</string>
     <string name="voice_speed">Ses hızı</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">Not</string>
     <string name="memo_guide">Sık kullanılan cümleleri kaydedebilirsiniz.</string>
     <string name="page_source">Sayfa kaynağı</string>
+    <string name="tab_menu">Sekme menüsü</string>
     <string name="delete_tab">Sekmeyi kapat</string>
     <string name="delete_all_tab">Tüm sekmeleri kapat</string>
     <string name="delete_other_tab">Diğer sekmeleri kapat</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">Bazı siteler desteklenmiyor olabilir.</string>
     <string name="not_support_locale">Tüm bölgelerde desteklenmeyebilir.</string>
     <string name="restart">Yeniden başlat</string>
-    <string name="down_fail_guide">Dosya zarar görmüş olabilir.</string>
     <string name="ads_filter">Reklam filtresi</string>
     <string name="user_filter">Kullanıcı filtresi</string>
     <string name="backup_title">Yedekleme</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">Bu ekranı sık görüyorsanız, aşağıdaki özellikleri kontrol edin.</string>
     <string name="block_amp">Google AMP\'yi devre dışı bırak</string>
     <string name="block_amp_info">Google arama sonuçlarında Google AMP\'yi devre dışı bırakın.</string>
+    <string name="pre_raster">Web sayfası önyüklemesi</string>
     <string name="filter_guide_1">Reklam engelleme, filtrelere dayalıdır.</string>
     <string name="filter_guide_2">Reklamları engellemeyen bir siteniz varsa uygun bir filtre ekleyin.</string>
     <string name="filter_guide_3">Çok fazla filtre eklemek tarayıcıyı yavaşlatabilir.</string>

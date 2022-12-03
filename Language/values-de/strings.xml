@@ -135,6 +135,7 @@
     <string name="down_image">Bild speichern</string>
     <string name="share_image">Bild teilen</string>
     <string name="copy_text">Text kopieren</string>
+    <string name="copied_text">Text kopiert</string>
     <string name="copied_clipboard">In die Zwischenablage kopiert</string>
     <string name="preview_image">Vorschaubild</string>
     <string name="view_image">Bild ansehen</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">Bitte richten Sie zuerst einen Sperrbildschirm ein.</string>
     <string name="password_lock_2">Dies dient ihrer Privatsphäre.</string>
     <string name="password_reset_guide">Durch das Zurücksetzen werden alle mit dem Kennwort verknüpften Daten gelöscht.</string>
-    <string name="login_lock">Anmeldesicherheit</string>
+    <string name="login_lock">Anmeldesperre</string>
     <string name="login_lock_info">Der Sperrbildschirm wird gestartet, bevor Sie sich mit dem gespeicherten Passwort anmelden.</string>
     <string name="canceling">Abbrechen&#8230;</string>
     <string name="checking">Überprüfung&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">Erlaubnis verweigert</string>
     <string name="permission_removed">Berechtigung entfernt</string>
     <string name="no_permission">Keine Erlaubnis</string>
+    <string name="noti_pms_guide_1">Für die folgenden Statusbenachrichtigungen ist eine Genehmigung erforderlich.</string>
+    <string name="noti_pms_guide_2">Die Berechtigung kann später geändert werden.</string>
     <string name="ads_block">Werbung blockieren</string>
     <string name="ads_block_info">Zum Blockieren von Anzeigen muss mindestens ein Filter aktiv sein.</string>
     <string name="filtered_image">Gefiltertes Bild (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">TTS aktivieren</string>
     <string name="tts_info_1">Wenn Sie auf den im Browser angezeigten Text klicken, wird er per Spracheingabe gelesen.</string>
     <string name="tts_info_2">Wenn auf Text geklickt wird, wird er per Sprache gelesen.</string>
+    <string name="tts_guide_1">Unterstützte Sprachen hängen von der verwendeten TTS-Engine ab.</string>
+    <string name="tts_guide_2">Die TTS-Engine kann in den Geräteeinstellungen geändert werden.</string>
     <string name="speak_page">Vorlesen</string>
     <string name="detail_setting">Detaillierte Einstellungen</string>
     <string name="voice_speed">Sprachgeschwindigkeit</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">Memo</string>
     <string name="memo_guide">Sie können häufig verwendete Sätze registrieren.</string>
     <string name="page_source">Seitenquelltext</string>
+    <string name="tab_menu">Tab-Menü</string>
     <string name="delete_tab">Tab schließen</string>
     <string name="delete_all_tab">Alle Fenster schließen</string>
     <string name="delete_other_tab">Schließen Sie andere Tabs</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">Einige Websites werden möglicherweise nicht unterstützt.</string>
     <string name="not_support_locale">Es wird möglicherweise nicht in allen Regionen unterstützt.</string>
     <string name="restart">Neustart</string>
-    <string name="down_fail_guide">Die Datei ist möglicherweise beschädigt.</string>
     <string name="ads_filter">Anzeigenfilter</string>
     <string name="user_filter">Benutzerfilter</string>
     <string name="backup_title">Backup</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">Wenn Sie diesen Bildschirm häufig sehen, überprüfen Sie die folgenden Funktionen.</string>
     <string name="block_amp">Deaktivieren Sie Google AMP</string>
     <string name="block_amp_info">Deaktivieren Sie Google AMP in den Google-Suchergebnissen.</string>
+    <string name="pre_raster">Vorladen der Webseite</string>
     <string name="filter_guide_1">Die Anzeigenblockierung basiert auf Filtern.</string>
     <string name="filter_guide_2">Wenn Sie eine Website haben, die keine Anzeigen blockiert, fügen Sie einen geeigneten Filter hinzu.</string>
     <string name="filter_guide_3">Das Hinzufügen zu vieler Filter kann den Browser verlangsamen.</string>

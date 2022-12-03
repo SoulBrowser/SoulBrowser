@@ -135,6 +135,7 @@
     <string name="down_image">Salvar imagem</string>
     <string name="share_image">Compartilhar imagem</string>
     <string name="copy_text">Copiar texto</string>
+    <string name="copied_text">Texto copiado</string>
     <string name="copied_clipboard">Copiado para a área de transferência</string>
     <string name="preview_image">Prever imagem</string>
     <string name="view_image">Ver imagem</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">Primeiro, configure uma tela de bloqueio.</string>
     <string name="password_lock_2">Isto é para sua privacidade.</string>
     <string name="password_reset_guide">A redefinição apagará todos os dados associados à senha.</string>
-    <string name="login_lock">Segurança de login</string>
+    <string name="login_lock">Bloqueio de login</string>
     <string name="login_lock_info">A tela de bloqueio será iniciada antes de fazer login com a senha salva.</string>
     <string name="canceling">Cancelando&#8230;</string>
     <string name="checking">Verificando&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">Permissão negada</string>
     <string name="permission_removed">Permissão removida</string>
     <string name="no_permission">Sem permissão</string>
+    <string name="noti_pms_guide_1">É necessária permissão para notificações de status abaixo.</string>
+    <string name="noti_pms_guide_2">A permissão pode ser alterada posteriormente.</string>
     <string name="ads_block">Bloqueador de ads</string>
     <string name="ads_block_info">Pelo menos um filtro deve estar ativo para bloquear anúncios.</string>
     <string name="filtered_image">Imagem filtrada (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">Ativar TTS</string>
     <string name="tts_info_1">Quando você clica no texto exibido no navegador, ele é lido em voz alta.</string>
     <string name="tts_info_2">Quando o texto é clicado, ele é lido em voz alta.</string>
+    <string name="tts_guide_1">Os idiomas suportados dependem do mecanismo TTS que está sendo usado.</string>
+    <string name="tts_guide_2">O mecanismo TTS pode ser alterado nas configurações do dispositivo.</string>
     <string name="speak_page">Leia em voz alta</string>
     <string name="detail_setting">Configurações detalhadas</string>
     <string name="voice_speed">Velocidade de voz</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">Nota</string>
     <string name="memo_guide">Você pode registrar frases usadas com frequência.</string>
     <string name="page_source">Fonte da página</string>
+    <string name="tab_menu">Menu da guia</string>
     <string name="delete_tab">Guia fechada</string>
     <string name="delete_all_tab">Fechar todas as guias</string>
     <string name="delete_other_tab">Fechar outras guias</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">Alguns sites podem não ser suportados.</string>
     <string name="not_support_locale">Pode não ser compatível com todas as regiões.</string>
     <string name="restart">Reiniciar</string>
-    <string name="down_fail_guide">O arquivo pode estar danificado.</string>
     <string name="ads_filter">Filtro de anúncio</string>
     <string name="user_filter">Filtro de usuário</string>
     <string name="backup_title">Backup</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">Se você vir essa tela com frequência, verifique os recursos a seguir.</string>
     <string name="block_amp">Desativar Google AMP</string>
     <string name="block_amp_info">Desative o Google AMP nos resultados de pesquisa do Google.</string>
+    <string name="pre_raster">Pré-carregamento da página da Web</string>
     <string name="filter_guide_1">O bloqueio de anúncios é baseado em filtros.</string>
     <string name="filter_guide_2">Se você tiver um site que não bloqueia anúncios, adicione um filtro apropriado.</string>
     <string name="filter_guide_3">Adicionar muitos filtros pode tornar o navegador mais lento.</string>

@@ -135,6 +135,7 @@
     <string name="down_image">Menyimpan gambar</string>
     <string name="share_image">Bagikan gambar</string>
     <string name="copy_text">Salin teks</string>
+    <string name="copied_text">Teks yang disalin</string>
     <string name="copied_clipboard">Disalin ke papan klip</string>
     <string name="preview_image">Pratinjau gambar</string>
     <string name="view_image">Lihat gambar</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">Harap atur layar kunci terlebih dahulu.</string>
     <string name="password_lock_2">Ini untuk privasi Anda.</string>
     <string name="password_reset_guide">Pengaturan ulang akan menghapus semua data yang terkait dengan kata sandi.</string>
-    <string name="login_lock">Keamanan masuk</string>
+    <string name="login_lock">Kunci masuk</string>
     <string name="login_lock_info">Layar kunci akan diluncurkan sebelum masuk dengan kata sandi yang disimpan.</string>
     <string name="canceling">Membatalkan&#8230;</string>
     <string name="checking">Memeriksa&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">Izin ditolak</string>
     <string name="permission_removed">Izin dihapus</string>
     <string name="no_permission">Tidak ada izin</string>
+    <string name="noti_pms_guide_1">Izin diperlukan untuk pemberitahuan status di bawah ini.</string>
+    <string name="noti_pms_guide_2">Izin dapat diubah nanti.</string>
     <string name="ads_block">Pemblokir iklan</string>
     <string name="ads_block_info">Setidaknya satu filter harus aktif untuk memblokir iklan.</string>
     <string name="filtered_image">Gambar yang difilter (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">Aktifkan TTS</string>
     <string name="tts_info_1">Ketika Anda mengklik teks yang ditampilkan di browser, itu dibaca dengan suara.</string>
     <string name="tts_info_2">Ketika teks diklik, itu dibaca dengan suara.</string>
+    <string name="tts_guide_1">Bahasa yang didukung tergantung pada mesin TTS yang digunakan.</string>
+    <string name="tts_guide_2">Mesin TTS dapat diubah dalam pengaturan perangkat.</string>
     <string name="speak_page">Bacalah dengan keras</string>
     <string name="detail_setting">Pengaturan detail</string>
     <string name="voice_speed">Kecepatan suara</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">Memo</string>
     <string name="memo_guide">Anda dapat mendaftarkan kalimat yang sering digunakan.</string>
     <string name="page_source">Sumber halaman</string>
+    <string name="tab_menu">Menu tab</string>
     <string name="delete_tab">Tutup tab</string>
     <string name="delete_all_tab">Tutup semua tab</string>
     <string name="delete_other_tab">Tutup tab lain</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">Beberapa situs mungkin tidak didukung.</string>
     <string name="not_support_locale">Ini mungkin tidak didukung di semua wilayah.</string>
     <string name="restart">Mengulang kembali</string>
-    <string name="down_fail_guide">File mungkin rusak.</string>
     <string name="ads_filter">Filter iklan</string>
     <string name="user_filter">Filter pengguna</string>
     <string name="backup_title">Cadangan</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">Jika Anda sering melihat layar ini, periksa fitur berikut.</string>
     <string name="block_amp">Nonaktifkan Google AMP</string>
     <string name="block_amp_info">Nonaktifkan Google AMP di hasil pencarian Google.</string>
+    <string name="pre_raster">Pramuat halaman web</string>
     <string name="filter_guide_1">Pemblokiran iklan didasarkan pada filter.</string>
     <string name="filter_guide_2">Jika Anda memiliki situs yang tidak memblokir iklan, tambahkan filter yang sesuai.</string>
     <string name="filter_guide_3">Menambahkan terlalu banyak filter dapat memperlambat browser.</string>

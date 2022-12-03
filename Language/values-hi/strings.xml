@@ -135,6 +135,7 @@
     <string name="down_image">चित्र को सेव करें</string>
     <string name="share_image">चित्र साझा करें</string>
     <string name="copy_text">पाठ कॉपी करें</string>
+    <string name="copied_text">कॉपी किया गया टेक्स्ट</string>
     <string name="copied_clipboard">क्लिपबोर्ड पर नकल</string>
     <string name="preview_image">पूर्वावलोकन छवि</string>
     <string name="view_image">छवि देखें</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">कृपया पहले लॉक स्क्रीन सेट करें।</string>
     <string name="password_lock_2">यह आपकी गोपनीयता के लिए है।</string>
     <string name="password_reset_guide">रीसेट करने से पासवर्ड से जुड़ा सारा डेटा हट जाएगा।</string>
-    <string name="login_lock">लॉगिन सुरक्षा</string>
+    <string name="login_lock">लॉगिन लॉक</string>
     <string name="login_lock_info">सहेजे गए पासवर्ड से लॉग इन करने से पहले लॉक स्क्रीन लॉन्च हो जाएगी।</string>
     <string name="canceling">रद्द करना&#8230;</string>
     <string name="checking">जाँच हो रही है&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">नावरे</string>
     <string name="daum">दामो</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">डकडकगो</string>
     <string name="youtube">यूट्यूब</string>
     <string name="chrome_tab">क्रोम</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">अनुमति नहीं मिली</string>
     <string name="permission_removed">अनुमति हटा दी गई</string>
     <string name="no_permission">अनुमति नहीं</string>
+    <string name="noti_pms_guide_1">नीचे स्थिति सूचनाओं के लिए अनुमति आवश्यक है।</string>
+    <string name="noti_pms_guide_2">अनुमति बाद में बदली जा सकती है।</string>
     <string name="ads_block">विज्ञापन अवरोधक</string>
     <string name="ads_block_info">विज्ञापनों को ब्लॉक करने के लिए कम से कम एक फ़िल्टर सक्रिय होना चाहिए।</string>
     <string name="filtered_image">फ़िल्टर की गई छवि (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">टीटीएस सक्षम करें</string>
     <string name="tts_info_1">जब आप ब्राउज़र में प्रदर्शित टेक्स्ट पर क्लिक करते हैं, तो वह ध्वनि द्वारा पढ़ा जाता है।</string>
     <string name="tts_info_2">जब टेक्स्ट पर क्लिक किया जाता है, तो उसे आवाज से पढ़ा जाता है।</string>
+    <string name="tts_guide_1">समर्थित भाषाएं इस्तेमाल किए जा रहे टीटीएस इंजन पर निर्भर करती हैं।</string>
+    <string name="tts_guide_2">टीटीएस इंजन को डिवाइस सेटिंग्स में बदला जा सकता है।</string>
     <string name="speak_page">जोर से पढ़ें</string>
     <string name="detail_setting">विस्तृत सेटिंग्स</string>
     <string name="voice_speed">आवाज की गति</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">ज्ञापन</string>
     <string name="memo_guide">आप अक्सर उपयोग किए जाने वाले वाक्यों को पंजीकृत कर सकते हैं।</string>
     <string name="page_source">पृष्ठ उदगम</string>
+    <string name="tab_menu">टैब मेनू</string>
     <string name="delete_tab">टैब बंद करें</string>
     <string name="delete_all_tab">सभी टैब को बंद करें</string>
     <string name="delete_other_tab">अन्य टैब बंद करें</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">कुछ साइटों का समर्थन नहीं किया जा सकता है।</string>
     <string name="not_support_locale">यह सभी क्षेत्रों में समर्थित नहीं हो सकता है।</string>
     <string name="restart">पुनर्प्रारंभ करें</string>
-    <string name="down_fail_guide">फ़ाइल क्षतिग्रस्त हो सकती है।</string>
     <string name="ads_filter">विज्ञापन फ़िल्टर</string>
     <string name="user_filter">उपयोगकर्ता फ़िल्टर</string>
     <string name="backup_title">बैकअप</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">यदि आप इस स्क्रीन को अक्सर देखते हैं, तो निम्न सुविधाओं की जाँच करें।</string>
     <string name="block_amp">Google AMP अक्षम करें</string>
     <string name="block_amp_info">Google खोज परिणामों में Google AMP अक्षम करें।</string>
+    <string name="pre_raster">वेब पेज प्रीलोड</string>
     <string name="filter_guide_1">विज्ञापन अवरोधन फ़िल्टर पर आधारित है।</string>
     <string name="filter_guide_2">यदि आपके पास ऐसी साइट है जो विज्ञापनों को अवरुद्ध नहीं करती है, तो एक उपयुक्त फ़िल्टर जोड़ें।</string>
     <string name="filter_guide_3">बहुत अधिक फ़िल्टर जोड़ने से ब्राउज़र धीमा हो सकता है।</string>

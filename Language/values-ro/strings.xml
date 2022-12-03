@@ -135,6 +135,7 @@
     <string name="down_image">Salvare imagine</string>
     <string name="share_image">Distribuie imagine</string>
     <string name="copy_text">Copiază textul</string>
+    <string name="copied_text">Text copiat</string>
     <string name="copied_clipboard">Copiat în clipboard</string>
     <string name="preview_image">Previzualizați imagine</string>
     <string name="view_image">Vizualizare imagine</string>
@@ -169,7 +170,7 @@
     <string name="password_lock_1">Vă rugăm să configurați mai întâi un ecran de blocare.</string>
     <string name="password_lock_2">Acest lucru este pentru confidențialitatea dvs.</string>
     <string name="password_reset_guide">Resetarea va șterge toate datele asociate cu parola.</string>
-    <string name="login_lock">Securitate autentificare</string>
+    <string name="login_lock">Blocare autentificare</string>
     <string name="login_lock_info">Ecranul de blocare se va lansa înainte de a vă conecta cu parola salvată.</string>
     <string name="canceling">Anulare&#8230;</string>
     <string name="checking">Verificare&#8230;</string>
@@ -204,6 +205,7 @@
     <string name="yandex">Yandex</string>
     <string name="naver">Naver</string>
     <string name="daum">Daum</string>
+    <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
     <string name="chrome_tab">Chrome</string>
@@ -334,6 +336,8 @@
     <string name="permission_denied">Permisul refuzat</string>
     <string name="permission_removed">Permisiunea eliminată</string>
     <string name="no_permission">Fără permisiune</string>
+    <string name="noti_pms_guide_1">Este necesară permisiunea pentru notificările de stare de mai jos.</string>
+    <string name="noti_pms_guide_2">Permisiunea poate fi schimbată ulterior.</string>
     <string name="ads_block">Blocator de anunțuri</string>
     <string name="ads_block_info">Cel puțin un filtru trebuie să fie activ pentru a bloca anunțurile.</string>
     <string name="filtered_image">Imaginea filtrată (%d)</string>
@@ -606,6 +610,8 @@
     <string name="tts_on">Activați TTS</string>
     <string name="tts_info_1">Când faceți clic pe textul afișat în browser, acesta este citit prin voce.</string>
     <string name="tts_info_2">Când faceți clic pe text, acesta este citit prin voce.</string>
+    <string name="tts_guide_1">Limbile acceptate depind de motorul TTS utilizat.</string>
+    <string name="tts_guide_2">Motorul TTS poate fi modificat în setările dispozitivului.</string>
     <string name="speak_page">Citește cu voce tare</string>
     <string name="detail_setting">Setări detaliate</string>
     <string name="voice_speed">Viteza vocală</string>
@@ -640,6 +646,7 @@
     <string name="memo_title">Notificare</string>
     <string name="memo_guide">Puteți înregistra propoziții utilizate frecvent.</string>
     <string name="page_source">Sursa paginii</string>
+    <string name="tab_menu">Meniul Tab</string>
     <string name="delete_tab">Închideți fila</string>
     <string name="delete_all_tab">Inchide toate filele</string>
     <string name="delete_other_tab">Închideți alte file</string>
@@ -696,7 +703,6 @@
     <string name="not_support_site">Este posibil ca unele site-uri să nu fie acceptate.</string>
     <string name="not_support_locale">Este posibil să nu fie acceptat în toate regiunile.</string>
     <string name="restart">Repornire</string>
-    <string name="down_fail_guide">Fișierul poate fi deteriorat.</string>
     <string name="ads_filter">Filtru de anunțuri</string>
     <string name="user_filter">Filtru utilizator</string>
     <string name="backup_title">Rezervă</string>
@@ -927,6 +933,7 @@
     <string name="crash_guide_2">Dacă vedeți acest ecran frecvent, verificați următoarele caracteristici.</string>
     <string name="block_amp">Dezactivați Google AMP</string>
     <string name="block_amp_info">Dezactivați Google AMP în rezultatele căutării Google.</string>
+    <string name="pre_raster">Preîncărcarea paginii web</string>
     <string name="filter_guide_1">Blocarea anunțurilor se bazează pe filtre.</string>
     <string name="filter_guide_2">Dacă aveți un site care nu blochează reclamele, adăugați un filtru adecvat.</string>
     <string name="filter_guide_3">Adăugarea prea multor filtre poate încetini browserul.</string>
