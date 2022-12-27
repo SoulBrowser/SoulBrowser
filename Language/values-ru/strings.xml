@@ -21,10 +21,10 @@
     <string name="image">Изображение</string>
     <string name="video">Видео</string>
     <string name="audio">Аудио</string>
+    <string name="media">Медиа</string>
     <string name="doc">Документ</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">Галерея</string>
     <string name="download">Скачать</string>
     <string name="down_set">Загрузки</string>
     <string name="fast_down">Быстрая загрузка</string>
@@ -97,9 +97,7 @@
     <string name="move_to">Перейти к</string>
     <string name="skip">Пропускать</string>
     <string name="overwrite">Переписать</string>
-    <string name="new_tab">Новая вкладка</string>
     <string name="open_new_tab">Открыть в новой вкладке</string>
-    <string name="new_secret_tab">Новая вкладка инкогнито</string>
     <string name="secret_tab">Вкладка инкогнито</string>
     <string name="normal_tab">Обычная вкладка</string>
     <string name="secret_mode">Режим инкогнито</string>
@@ -123,6 +121,7 @@
     <string name="link">Ссылка</string>
     <string name="open_url">Открыть</string>
     <string name="new_url">Новая вкладка</string>
+    <string name="group_url">Вкладка группы</string>
     <string name="back_url">Фоновая вкладка</string>
     <string name="copy_url">Копировать ссылку</string>
     <string name="paste_url">Вставить URL</string>
@@ -301,7 +300,7 @@
     <string name="image_type">Фильтр</string>
     <string name="others">Другие</string>
     <string name="not_supported">Не поддерживается</string>
-    <string name="apps_none">Нет установленных приложений для этой функции.</string>
+    <string name="apps_none">Отказано в доступе или приложение не установлено.</string>
     <string name="right_title">Авторское право</string>
     <string name="guide_right_1">Всегда помните об авторских правах.</string>
     <string name="guide_right_2">Использование защищенных авторским правом произведений без согласия правообладателя - нарушение авторских прав. Вы несёте ответственность за все нарушения вами авторских прав.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Добавить на главную страницу Soul</string>
     <string name="add_home_1">Добавить на домашний экран</string>
     <string name="add_home_2">Добавить на главный экран телефона</string>
+    <string name="phone_home">Главный экран телефона</string>
     <string name="set_homepage">Установить как домашнюю страницу</string>
     <string name="soul_home">Домашняя страница Soul</string>
     <string name="setted">Установлено.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">Веб-страницы</string>
     <string name="theme_light">Светлая тема</string>
     <string name="theme_dark">Тёмная тема</string>
+    <string name="dark_home">Дом в темной теме</string>
+    <string name="dark_home_info">Установка обоев всегда устанавливает темную тему для домашней страницы.</string>
     <string name="background">Фон</string>
     <string name="search_suggest">Предложения поиска</string>
     <string name="at_bottom">Внизу</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">Безопасный просмотр</string>
     <string name="space_title">Пробел</string>
     <string name="space_guide">Пробелы не видны на рабочем экране.</string>
-    <string name="openapp_guide_1">Откройте другое приложение, которое может запускать эту ссылку.</string>
-    <string name="openapp_guide_2">Например, откройте ссылку YouTube в приложении YouTube.</string>
     <string name="sub_file">Файл субтитров</string>
     <string name="sub_setting">Настройки субтитров</string>
     <string name="sub_on">Субтитры включены</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">Найдите комбинацию, которая подходит именно вам.</string>
     <string name="filter_guide_5">Рекомендуемая комбинация — базовый фильтр и языковой фильтр.</string>
     <string name="filter_guide_6">Если предоставленный фильтр не блокирует рекламу, добавьте собственное правило фильтра или свяжитесь с администратором фильтра.</string>
+    <string name="search_guide_1">Выбранный элемент нельзя отключить.</string>
+    <string name="search_guide_2">Чтобы отключить его, сначала выберите другой.</string>
+    <string name="btn_ges_disable">Кнопки и жесты отключены.</string>
 </resources>

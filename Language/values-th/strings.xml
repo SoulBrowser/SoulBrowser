@@ -21,10 +21,10 @@
     <string name="image">รูปภาพ</string>
     <string name="video">วีดีโอ</string>
     <string name="audio">เสียง</string>
+    <string name="media">สื่อ</string>
     <string name="doc">เอกสาร</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">แกลลอรี่</string>
     <string name="download">ดาวน์โหลด</string>
     <string name="down_set">ดาวน์โหลด</string>
     <string name="fast_down">ดาวน์โหลดอย่างรวดเร็ว</string>
@@ -97,9 +97,7 @@
     <string name="move_to">ย้ายไปที่</string>
     <string name="skip">ข้าม</string>
     <string name="overwrite">เขียนทับ</string>
-    <string name="new_tab">แท็บใหม่</string>
     <string name="open_new_tab">เปิดในแท็บใหม่</string>
-    <string name="new_secret_tab">แท็บไม่ระบุตัวตนใหม่</string>
     <string name="secret_tab">แท็บไม่ระบุตัวตน</string>
     <string name="normal_tab">แท็บปกติ</string>
     <string name="secret_mode">โหมดไม่ระบุตัวตน</string>
@@ -123,6 +121,7 @@
     <string name="link">ลิงค์</string>
     <string name="open_url">เปิด</string>
     <string name="new_url">แท็บใหม่</string>
+    <string name="group_url">แท็บกลุ่ม</string>
     <string name="back_url">แท็บพื้นหลัง</string>
     <string name="copy_url">คัดลอก URL</string>
     <string name="paste_url">วาง URL</string>
@@ -301,7 +300,7 @@
     <string name="image_type">ตัวกรองรูปภาพ</string>
     <string name="others">อื่น ๆ</string>
     <string name="not_supported">ไม่รองรับ</string>
-    <string name="apps_none">ไม่มีแอปใดติดตั้งที่สามารถใช้ฟังก์ชันนี้ได้</string>
+    <string name="apps_none">สิทธิ์ถูกปฏิเสธหรือไม่ได้ติดตั้งแอป</string>
     <string name="right_title">ลิขสิทธิ์</string>
     <string name="guide_right_1">โปรดจำไว้เสมอว่าลิขสิทธิ์</string>
     <string name="guide_right_2">การใช้งานที่มีลิขสิทธิ์โดยไม่ได้รับอนุญาตจากเจ้าของลิขสิทธิ์เป็นการละเมิดลิขสิทธิ์ คุณต้องรับผิดชอบต่อการละเมิดลิขสิทธิ์ทั้งหมด</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">เพิ่มไปยังหน้าแรกของ Soul</string>
     <string name="add_home_1">เพิ่มไปที่หน้าจอหลัก</string>
     <string name="add_home_2">เพิ่มไปยังหน้าจอหลักของโทรศัพท์</string>
+    <string name="phone_home">หน้าจอหลักของโทรศัพท์</string>
     <string name="set_homepage">ตั้งเป็นหน้าแรก</string>
     <string name="soul_home">หน้าแรกของ Soul</string>
     <string name="setted">ได้มีการตั้งค่า</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">เบราว์เซอร์</string>
     <string name="theme_light">ธีมแสง</string>
     <string name="theme_dark">ธีมสีเข้ม</string>
+    <string name="dark_home">บ้านธีมมืด</string>
+    <string name="dark_home_info">การตั้งค่าวอลเปเปอร์จะทำให้หน้าแรกเป็นธีมสีเข้มเสมอ</string>
     <string name="background">พื้นหลัง</string>
     <string name="search_suggest">คำแนะนำการค้นหา</string>
     <string name="at_bottom">ที่ส่วนลึกสุด</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">ท่องเว็บอย่างปลอดภัย</string>
     <string name="space_title">ช่องว่าง</string>
     <string name="space_guide">ช่องว่างไม่ปรากฏบนหน้าจอที่กำลังรันอยู่</string>
-    <string name="openapp_guide_1">เปิดแอปอื่นที่สามารถเปิดลิงก์นั้นได้</string>
-    <string name="openapp_guide_2">ตัวอย่างเช่น เปิดลิงก์ YouTube ด้วยแอป YouTube</string>
     <string name="sub_file">ไฟล์คำบรรยาย</string>
     <string name="sub_setting">การตั้งค่าคำบรรยาย</string>
     <string name="sub_on">คำบรรยายบน</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">ค้นหาชุดค่าผสมที่เหมาะกับคุณ</string>
     <string name="filter_guide_5">ชุดค่าผสมที่แนะนำคือตัวกรองพื้นฐานและตัวกรองภาษา</string>
     <string name="filter_guide_6">หากตัวกรองที่ให้มาไม่ได้บล็อกโฆษณา โปรดเพิ่มกฎตัวกรองของคุณเองหรือติดต่อผู้ดูแลระบบตัวกรอง</string>
+    <string name="search_guide_1">ไม่สามารถปิดใช้งานรายการที่เลือกได้</string>
+    <string name="search_guide_2">หากต้องการปิดใช้งาน ให้เลือกอันอื่นก่อน</string>
+    <string name="btn_ges_disable">ปุ่มและท่าทางถูกปิดใช้งาน</string>
 </resources>

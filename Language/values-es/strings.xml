@@ -21,10 +21,10 @@
     <string name="image">Imagen</string>
     <string name="video">Video</string>
     <string name="audio">Audio</string>
+    <string name="media">Medios</string>
     <string name="doc">Documento</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">Galería</string>
     <string name="download">Descargas</string>
     <string name="down_set">Descargas</string>
     <string name="fast_down">Descarga rápida</string>
@@ -97,9 +97,7 @@
     <string name="move_to">Mover a</string>
     <string name="skip">Omitir</string>
     <string name="overwrite">Sobrescribir</string>
-    <string name="new_tab">Nueva pestaña</string>
     <string name="open_new_tab">Abrir en una pestaña nueva</string>
-    <string name="new_secret_tab">Nueva pestaña incógnito</string>
     <string name="secret_tab">Pestaña incógnito</string>
     <string name="normal_tab">Pestaña normal</string>
     <string name="secret_mode">Modo incognito</string>
@@ -123,6 +121,7 @@
     <string name="link">Enlace</string>
     <string name="open_url">Abrir</string>
     <string name="new_url">Nueva pestaña</string>
+    <string name="group_url">Pestaña de grupo</string>
     <string name="back_url">Abrir en el fondo</string>
     <string name="copy_url">Copiar URL</string>
     <string name="paste_url">Pegar URL</string>
@@ -301,7 +300,7 @@
     <string name="image_type">Filtro imagen</string>
     <string name="others">Otros</string>
     <string name="not_supported">No soportado</string>
-    <string name="apps_none">No hay aplicaciones instaladas que puedan realizar esta función.</string>
+    <string name="apps_none">Permiso denegado o aplicación no instalada.</string>
     <string name="right_title">Derechos de autor</string>
     <string name="guide_right_1">Siempre tenga en cuenta los derechos de autor.</string>
     <string name="guide_right_2">El uso de obras protegidas por derechos de autor sin el consentimiento del titular de los derechos de autor constituye una infracción de los derechos de autor. Usted es responsable de toda infracción de derechos de autor.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Añadir a la página de inicio de Soul</string>
     <string name="add_home_1">Añadir a la pantalla principal</string>
     <string name="add_home_2">Añadir a la pantalla de inicio del teléfono</string>
+    <string name="phone_home">Pantalla de inicio del teléfono</string>
     <string name="set_homepage">Establecer como página de inicio</string>
     <string name="soul_home">página de inicio de Soul</string>
     <string name="setted">Ha sido establecido.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">Navegador</string>
     <string name="theme_light">Tema claro</string>
     <string name="theme_dark">Tema oscuro</string>
+    <string name="dark_home">Hogar de tema oscuro</string>
+    <string name="dark_home_info">Configurar el fondo de pantalla siempre establecerá la página de inicio en un tema oscuro.</string>
     <string name="background">Fondo</string>
     <string name="search_suggest">Sugerencias de búsqueda</string>
     <string name="at_bottom">En el fondo</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">Navegación segura</string>
     <string name="space_title">Espacio</string>
     <string name="space_guide">Los espacios no son visibles en la pantalla en ejecución.</string>
-    <string name="openapp_guide_1">Abra otra aplicación que pueda iniciar ese enlace.</string>
-    <string name="openapp_guide_2">Por ejemplo, abra un enlace de YouTube con la aplicación de YouTube.</string>
     <string name="sub_file">Archivo de subtítulos</string>
     <string name="sub_setting">Configuración de subtítulos</string>
     <string name="sub_on">Subtítulo en</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">Encuentra la combinación adecuada para ti.</string>
     <string name="filter_guide_5">La combinación recomendada es el filtro básico y el filtro de idioma.</string>
     <string name="filter_guide_6">Si el filtro proporcionado no bloquea los anuncios, agregue su propia regla de filtro o comuníquese con el administrador del filtro.</string>
+    <string name="search_guide_1">El elemento seleccionado no se puede deshabilitar.</string>
+    <string name="search_guide_2">Para deshabilitarlo, seleccione otro primero.</string>
+    <string name="btn_ges_disable">Los botones y los gestos están deshabilitados.</string>
 </resources>

@@ -21,10 +21,10 @@
     <string name="image">Gambar</string>
     <string name="video">Video</string>
     <string name="audio">Audio</string>
+    <string name="media">Media</string>
     <string name="doc">Dokumen</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">Galeri</string>
     <string name="download">Unduh</string>
     <string name="down_set">Unduh</string>
     <string name="fast_down">Unduhan cepat</string>
@@ -97,9 +97,7 @@
     <string name="move_to">Pindah ke</string>
     <string name="skip">Lewati</string>
     <string name="overwrite">Timpa</string>
-    <string name="new_tab">Tab baru</string>
     <string name="open_new_tab">Buka di tab baru</string>
-    <string name="new_secret_tab">Tab penyamaran baru</string>
     <string name="secret_tab">Tab penyamaran</string>
     <string name="normal_tab">Tab normal</string>
     <string name="secret_mode">Mode penyamaran</string>
@@ -123,6 +121,7 @@
     <string name="link">Tautan</string>
     <string name="open_url">Buka</string>
     <string name="new_url">Tab baru</string>
+    <string name="group_url">Tab grup</string>
     <string name="back_url">Tab belakang</string>
     <string name="copy_url">Salin URL</string>
     <string name="paste_url">Tempel URL</string>
@@ -301,7 +300,7 @@
     <string name="image_type">Filter gambar</string>
     <string name="others">Lainnya</string>
     <string name="not_supported">Tidak didukung</string>
-    <string name="apps_none">Tidak ada aplikasi terpasang yang dapat melakukan fungsi ini.</string>
+    <string name="apps_none">Izin ditolak atau aplikasi tidak diinstal.</string>
     <string name="right_title">Hak Cipta</string>
     <string name="guide_right_1">Selalu ingat hak cipta.</string>
     <string name="guide_right_2">Menggunakan karya berhak cipta tanpa izin dari pemilik hak cipta adalah pelanggaran hak cipta. Anda bertanggung jawab atas semua pelanggaran hak cipta.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Tambahkan ke beranda Soul</string>
     <string name="add_home_1">Tambahkan ke layar beranda</string>
     <string name="add_home_2">Tambahkan ke layar beranda ponsel</string>
+    <string name="phone_home">Layar utama ponsel</string>
     <string name="set_homepage">Setel sebagai homepage</string>
     <string name="soul_home">Halaman beranda Soul</string>
     <string name="setted">Telah di atur.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">Browser</string>
     <string name="theme_light">Tema terang</string>
     <string name="theme_dark">Tema gelap</string>
+    <string name="dark_home">Rumah tema gelap</string>
+    <string name="dark_home_info">Menyetel wallpaper akan selalu menyetel beranda ke tema gelap.</string>
     <string name="background">Latar Belakang</string>
     <string name="search_suggest">Saran pencarian</string>
     <string name="at_bottom">Di dasar</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">Penelusuran yang aman</string>
     <string name="space_title">Ruang angkasa</string>
     <string name="space_guide">Spasi tidak terlihat di layar yang sedang berjalan.</string>
-    <string name="openapp_guide_1">Buka aplikasi lain yang dapat meluncurkan tautan itu.</string>
-    <string name="openapp_guide_2">Misalnya, buka tautan YouTube dengan aplikasi YouTube.</string>
     <string name="sub_file">Berkas subtitel</string>
     <string name="sub_setting">Pengaturan subtitle</string>
     <string name="sub_on">Subtitle aktif</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">Temukan kombinasi yang tepat untuk Anda.</string>
     <string name="filter_guide_5">Kombinasi yang disarankan adalah filter dasar dan filter bahasa.</string>
     <string name="filter_guide_6">Jika filter yang disediakan tidak memblokir iklan, tambahkan aturan filter Anda sendiri atau hubungi administrator filter.</string>
+    <string name="search_guide_1">Item yang dipilih tidak dapat dinonaktifkan.</string>
+    <string name="search_guide_2">Untuk menonaktifkannya, pilih yang lain terlebih dahulu.</string>
+    <string name="btn_ges_disable">Tombol dan gerakan dinonaktifkan.</string>
 </resources>

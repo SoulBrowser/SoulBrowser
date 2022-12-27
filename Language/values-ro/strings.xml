@@ -21,10 +21,10 @@
     <string name="image">Imagine</string>
     <string name="video">Video</string>
     <string name="audio">Audio</string>
+    <string name="media">Media</string>
     <string name="doc">Document</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">Galerie</string>
     <string name="download">Descărcare</string>
     <string name="down_set">Descărcare</string>
     <string name="fast_down">Descărcare rapidă</string>
@@ -97,9 +97,7 @@
     <string name="move_to">Mutare la</string>
     <string name="skip">Ocolire</string>
     <string name="overwrite">Suprascriere</string>
-    <string name="new_tab">Fila nouă</string>
     <string name="open_new_tab">Deschideți într-o filă nouă</string>
-    <string name="new_secret_tab">Fila nouă incognito</string>
     <string name="secret_tab">Fila incognito</string>
     <string name="normal_tab">Fila normală</string>
     <string name="secret_mode">Modul Incognito</string>
@@ -123,6 +121,7 @@
     <string name="link">Legătură</string>
     <string name="open_url">Deschide</string>
     <string name="new_url">Fila nouă</string>
+    <string name="group_url">Fila grup</string>
     <string name="back_url">Fila de fundal</string>
     <string name="copy_url">Copiere URL</string>
     <string name="paste_url">Inserați adresa URL</string>
@@ -301,7 +300,7 @@
     <string name="image_type">Filtru de imagine</string>
     <string name="others">Altele</string>
     <string name="not_supported">Nu este acceptat</string>
-    <string name="apps_none">Nu există aplicații instalate care să poată îndeplini această funcție.</string>
+    <string name="apps_none">Permisiune refuzată sau aplicația nu este instalată.</string>
     <string name="right_title">Drepturi de autor</string>
     <string name="guide_right_1">Rețineți întotdeauna drepturile de autor.</string>
     <string name="guide_right_2">Utilizarea unei opere protejate de drepturi de autor fără permisiunea proprietarului dreptului de autor reprezintă o încălcare a dreptului de autor. Sunteți responsabil pentru toate încălcările drepturilor de autor.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Adăugați pe pagina de pornire Soul</string>
     <string name="add_home_1">Adăugați pe ecranul de start</string>
     <string name="add_home_2">Adăugați pe ecranul de start al telefonului</string>
+    <string name="phone_home">Ecranul de start al telefonului</string>
     <string name="set_homepage">Setați ca pagină de pornire</string>
     <string name="soul_home">Pagina de pornire Soul</string>
     <string name="setted">A fost setat.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">Browser</string>
     <string name="theme_light">Tema ușoară</string>
     <string name="theme_dark">Tema întunecată</string>
+    <string name="dark_home">Acasă cu tema întunecată</string>
+    <string name="dark_home_info">Setarea imaginii de fundal va seta întotdeauna pagina de pornire la o temă întunecată.</string>
     <string name="background">Fundal</string>
     <string name="search_suggest">Sugestii de căutare</string>
     <string name="at_bottom">În partea de jos</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">Navigare sigura</string>
     <string name="space_title">Spaţiu</string>
     <string name="space_guide">Spațiile nu sunt vizibile pe ecranul de rulare.</string>
-    <string name="openapp_guide_1">Deschideți o altă aplicație care poate lansa acel link.</string>
-    <string name="openapp_guide_2">De exemplu, deschideți un link YouTube cu aplicația YouTube.</string>
     <string name="sub_file">Fișier cu subtitrare</string>
     <string name="sub_setting">Setări de subtitrare</string>
     <string name="sub_on">Subtitrare activată</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">Găsiți combinația potrivită pentru dvs.</string>
     <string name="filter_guide_5">Combinația recomandată este filtrul de bază și filtrul de limbă.</string>
     <string name="filter_guide_6">Dacă filtrul furnizat nu blochează reclamele, vă rugăm să adăugați propria regulă de filtru sau să contactați administratorul filtrului.</string>
+    <string name="search_guide_1">Elementul selectat nu poate fi dezactivat.</string>
+    <string name="search_guide_2">Pentru a-l dezactiva, mai întâi selectați altul.</string>
+    <string name="btn_ges_disable">Butoanele și gesturile sunt dezactivate.</string>
 </resources>

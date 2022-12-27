@@ -21,10 +21,10 @@
     <string name="image">Obraz</string>
     <string name="video">Wideo</string>
     <string name="audio">Audio</string>
+    <string name="media">Media</string>
     <string name="doc">Dokument</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">Galeria</string>
     <string name="download">Pobierz</string>
     <string name="down_set">Pobierz</string>
     <string name="fast_down">Szybkie pobieranie</string>
@@ -97,9 +97,7 @@
     <string name="move_to">Przenieś do</string>
     <string name="skip">Pominąć</string>
     <string name="overwrite">Przepisać</string>
-    <string name="new_tab">Nowa karta</string>
     <string name="open_new_tab">Otwórz w nowej karcie</string>
-    <string name="new_secret_tab">Nowa karta incognito</string>
     <string name="secret_tab">Karta incognito</string>
     <string name="normal_tab">Karta normalna</string>
     <string name="secret_mode">Tryb incognito</string>
@@ -123,6 +121,7 @@
     <string name="link">Połączyć</string>
     <string name="open_url">Otwórz</string>
     <string name="new_url">Nowa karta</string>
+    <string name="group_url">Karta Grupa</string>
     <string name="back_url">Karta w tle</string>
     <string name="copy_url">Kopiuj adres URL</string>
     <string name="paste_url">Wklej adres URL</string>
@@ -301,7 +300,7 @@
     <string name="image_type">Filtr obrazu</string>
     <string name="others">Inni</string>
     <string name="not_supported">Nieobsługiwany</string>
-    <string name="apps_none">Nie ma zainstalowanych aplikacji, które mogą wykonywać tę funkcję.</string>
+    <string name="apps_none">Odmowa dostępu lub aplikacja nie została zainstalowana.</string>
     <string name="right_title">Prawa autorskie</string>
     <string name="guide_right_1">Zawsze miej na uwadze prawa autorskie.</string>
     <string name="guide_right_2">Korzystanie z dzieła chronionego prawem autorskim bez zgody właściciela praw autorskich stanowi naruszenie praw autorskich. Jesteś odpowiedzialny za wszelkie naruszenia praw autorskich.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Dodaj do strony głównej Soul</string>
     <string name="add_home_1">Dodaj do ekranu głównego</string>
     <string name="add_home_2">Dodaj do ekranu głównego telefonu</string>
+    <string name="phone_home">Ekran główny telefonu</string>
     <string name="set_homepage">Ustaw jako stronę główną</string>
     <string name="soul_home">Strona główna Soul</string>
     <string name="setted">Ustawiono.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">Przeglądarka</string>
     <string name="theme_light">Jasny motyw</string>
     <string name="theme_dark">Ciemny motyw</string>
+    <string name="dark_home">Dom z ciemnym motywem</string>
+    <string name="dark_home_info">Ustawienie tapety zawsze spowoduje ustawienie ciemnego motywu strony głównej.</string>
     <string name="background">Tło</string>
     <string name="search_suggest">Sugestie wyszukiwania</string>
     <string name="at_bottom">Na dnie</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">Bezpieczne przeglądanie</string>
     <string name="space_title">Przestrzeń</string>
     <string name="space_guide">Spacje nie są widoczne na uruchomionym ekranie.</string>
-    <string name="openapp_guide_1">Otwórz inną aplikację, która może uruchomić ten link.</string>
-    <string name="openapp_guide_2">Na przykład otwórz link do YouTube w aplikacji YouTube.</string>
     <string name="sub_file">Plik z napisami</string>
     <string name="sub_setting">Ustawienia napisów</string>
     <string name="sub_on">Napisy włączone</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">Znajdź kombinację odpowiednią dla siebie.</string>
     <string name="filter_guide_5">Zalecaną kombinacją jest filtr podstawowy i filtr językowy.</string>
     <string name="filter_guide_6">Jeśli podany filtr nie blokuje reklam, dodaj własną regułę filtrowania lub skontaktuj się z administratorem filtrów.</string>
+    <string name="search_guide_1">Wybrany element nie może zostać wyłączony.</string>
+    <string name="search_guide_2">Aby go wyłączyć, wybierz najpierw inny.</string>
+    <string name="btn_ges_disable">Przyciski i gesty są wyłączone.</string>
 </resources>

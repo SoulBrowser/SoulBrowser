@@ -21,10 +21,10 @@
     <string name="image">छवि</string>
     <string name="video">वीडियो</string>
     <string name="audio">ऑडियो</string>
+    <string name="media">मीडिया</string>
     <string name="doc">दस्तावेज़</string>
     <string name="pdf">पीडीएफ</string>
     <string name="zip">ज़िप</string>
-    <string name="gallery">गेलरी</string>
     <string name="download">डाउनलोड</string>
     <string name="down_set">डाउनलोड</string>
     <string name="fast_down">फास्ट डाउनलोड</string>
@@ -97,9 +97,7 @@
     <string name="move_to">करने के लिए कदम</string>
     <string name="skip">छोड़ें</string>
     <string name="overwrite">ओवरराइट</string>
-    <string name="new_tab">नया टैब</string>
     <string name="open_new_tab">नये टैब में खोलें</string>
-    <string name="new_secret_tab">नया गुप्त टैब</string>
     <string name="secret_tab">गुप्त टैब</string>
     <string name="normal_tab">सामान्य टैब</string>
     <string name="secret_mode">इंकॉग्निटो मोड</string>
@@ -123,6 +121,7 @@
     <string name="link">संपर्क</string>
     <string name="open_url">खुला हुआ</string>
     <string name="new_url">नया टैब</string>
+    <string name="group_url">समूह टैब</string>
     <string name="back_url">पृष्ठभूमि टैब</string>
     <string name="copy_url">यूआरएल कॉपी करें</string>
     <string name="paste_url">यूआरएल चिपकाएं</string>
@@ -301,7 +300,7 @@
     <string name="image_type">छवि फ़िल्टर</string>
     <string name="others">अन्य</string>
     <string name="not_supported">समर्थित नहीं</string>
-    <string name="apps_none">ऐसा कोई ऐप्‍स इंस्‍टॉल नहीं है जो यह कार्य कर सके।</string>
+    <string name="apps_none">अनुमति अस्वीकृत या ऐप इंस्टॉल नहीं है।</string>
     <string name="right_title">कॉपीराइट</string>
     <string name="guide_right_1">कॉपीराइट का हमेशा ध्यान रखें।</string>
     <string name="guide_right_2">कॉपीराइट स्वामी की अनुमति के बिना कॉपीराइट किए गए कार्य का उपयोग करना कॉपीराइट का उल्लंघन है। आप सभी कॉपीराइट उल्लंघन के लिए जिम्मेदार हैं।</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">आत्मा होमपेज में जोड़ें</string>
     <string name="add_home_1">होम स्क्रीन में शामिल करें</string>
     <string name="add_home_2">फ़ोन की होम स्क्रीन में जोड़ें</string>
+    <string name="phone_home">फोन की होम स्क्रीन</string>
     <string name="set_homepage">मुखपृष्ठ के रूप में सेट करें</string>
     <string name="soul_home">आत्मा होमपेज</string>
     <string name="setted">सेट कर दिया गया है।</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">ब्राउज़र</string>
     <string name="theme_light">लाइट थीम</string>
     <string name="theme_dark">डार्क थीम</string>
+    <string name="dark_home">डार्क थीम होम</string>
+    <string name="dark_home_info">वॉलपेपर सेट करने से होमपेज हमेशा डार्क थीम पर सेट हो जाएगा।</string>
     <string name="background">पार्श्वभूमि</string>
     <string name="search_suggest">खोज सुझाव</string>
     <string name="at_bottom">तल पर</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">सुरक्षित ब्राउज़िंग</string>
     <string name="space_title">अंतरिक्ष</string>
     <string name="space_guide">रनिंग स्क्रीन पर स्पेस दिखाई नहीं दे रहे हैं।</string>
-    <string name="openapp_guide_1">एक और ऐप खोलें जो उस लिंक को लॉन्च कर सके।</string>
-    <string name="openapp_guide_2">उदाहरण के लिए, YouTube ऐप के साथ YouTube लिंक खोलें।</string>
     <string name="sub_file">उपशीर्षक फ़ाइल</string>
     <string name="sub_setting">उपशीर्षक सेटिंग्स</string>
     <string name="sub_on">उपशीर्षक चालू</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">वह संयोजन खोजें जो आपके लिए सही हो।</string>
     <string name="filter_guide_5">अनुशंसित संयोजन मूल फ़िल्टर और भाषा फ़िल्टर है।</string>
     <string name="filter_guide_6">यदि प्रदान किया गया फ़िल्टर विज्ञापनों को अवरुद्ध नहीं करता है, तो कृपया अपना स्वयं का फ़िल्टर नियम जोड़ें या फ़िल्टर व्यवस्थापक से संपर्क करें।</string>
+    <string name="search_guide_1">चयनित आइटम को अक्षम नहीं किया जा सकता है।</string>
+    <string name="search_guide_2">इसे अक्षम करने के लिए, पहले दूसरे को चुनें।</string>
+    <string name="btn_ges_disable">बटन और जेस्चर अक्षम हैं।</string>
 </resources>

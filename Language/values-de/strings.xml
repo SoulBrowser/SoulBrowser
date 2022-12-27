@@ -21,10 +21,10 @@
     <string name="image">Bild</string>
     <string name="video">Video</string>
     <string name="audio">Audio</string>
+    <string name="media">Medien</string>
     <string name="doc">Dokument</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">Galerie</string>
     <string name="download">Herunterladen</string>
     <string name="down_set">Herunterladen</string>
     <string name="fast_down">Schneller herunterladen</string>
@@ -97,9 +97,7 @@
     <string name="move_to">Ziehen nach</string>
     <string name="skip">Überspringen</string>
     <string name="overwrite">Überschreiben</string>
-    <string name="new_tab">Neuer Tab</string>
     <string name="open_new_tab">Öffnen Sie in einem neuen Tab</string>
-    <string name="new_secret_tab">Neuer Inkognito Tab</string>
     <string name="secret_tab">Inkognito-Tab</string>
     <string name="normal_tab">Normale Tab</string>
     <string name="secret_mode">Inkognito Modus</string>
@@ -123,6 +121,7 @@
     <string name="link">Verknüpfung</string>
     <string name="open_url">Öffnen</string>
     <string name="new_url">Neuer Tab</string>
+    <string name="group_url">Registerkarte Gruppe</string>
     <string name="back_url">Hintergrund-Tab</string>
     <string name="copy_url">URL kopieren</string>
     <string name="paste_url">URL einfügen</string>
@@ -301,7 +300,7 @@
     <string name="image_type">Bildfilter</string>
     <string name="others">Andere</string>
     <string name="not_supported">Nicht unterstützt</string>
-    <string name="apps_none">Es sind keine Apps installiert, die diese Funktion unterstützen.</string>
+    <string name="apps_none">Berechtigung verweigert oder App nicht installiert.</string>
     <string name="right_title">Urheberrecht</string>
     <string name="guide_right_1">Beachten Sie immer das Urheberrecht.</string>
     <string name="guide_right_2">Die Verwendung von urheberrechtlich geschützten Werken ohne Zustimmung des Urhebers ist eine Urheberrechtsverletzung. Sie sind für alle Urheberrechtsverletzungen verantwortlich.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Zur Soul-Startseite hinzufügen</string>
     <string name="add_home_1">Zum Startbildschirm hinzufügen</string>
     <string name="add_home_2">Zum Startbildschirm des Telefons hinzufügen</string>
+    <string name="phone_home">Startbildschirm des Telefons</string>
     <string name="set_homepage">Als Startseite festlegen</string>
     <string name="soul_home">Soul-Startseite</string>
     <string name="setted">Wurde festgelegt.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">Browser</string>
     <string name="theme_light">Helles Thema</string>
     <string name="theme_dark">Dunkles Thema</string>
+    <string name="dark_home">Zuhause mit dunklem Thema</string>
+    <string name="dark_home_info">Wenn Sie das Hintergrundbild festlegen, wird die Homepage immer auf ein dunkles Thema eingestellt.</string>
     <string name="background">Hintergrund</string>
     <string name="search_suggest">Suchvorschläge</string>
     <string name="at_bottom">Unten</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">Sicheres Surfen</string>
     <string name="space_title">Platz</string>
     <string name="space_guide">Leerzeichen sind auf dem laufenden Bildschirm nicht sichtbar.</string>
-    <string name="openapp_guide_1">Öffnen Sie eine andere App, die diesen Link starten kann.</string>
-    <string name="openapp_guide_2">Öffnen Sie beispielsweise einen YouTube-Link mit der YouTube-App.</string>
     <string name="sub_file">Untertiteldatei</string>
     <string name="sub_setting">Untertiteleinstellungen</string>
     <string name="sub_on">Untertitel an</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">Finden Sie die für Sie passende Kombination.</string>
     <string name="filter_guide_5">Die empfohlene Kombination ist der Basisfilter und der Sprachfilter.</string>
     <string name="filter_guide_6">Wenn der bereitgestellte Filter Anzeigen nicht blockiert, fügen Sie bitte Ihre eigene Filterregel hinzu oder wenden Sie sich an den Filteradministrator.</string>
+    <string name="search_guide_1">Das ausgewählte Element kann nicht deaktiviert werden.</string>
+    <string name="search_guide_2">Um es zu deaktivieren, wählen Sie zuerst ein anderes aus.</string>
+    <string name="btn_ges_disable">Schaltflächen und Gesten sind deaktiviert.</string>
 </resources>

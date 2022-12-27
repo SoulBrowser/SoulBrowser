@@ -21,10 +21,10 @@
     <string name="image">Image</string>
     <string name="video">Video</string>
     <string name="audio">Audio</string>
+    <string name="media">Media</string>
     <string name="doc">Document</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">Gallery</string>
     <string name="download">Download</string>
     <string name="down_set">Download</string>
     <string name="fast_down">Fast download</string>
@@ -97,9 +97,7 @@
     <string name="move_to">Move to</string>
     <string name="skip">Skip</string>
     <string name="overwrite">Overwrite</string>
-    <string name="new_tab">New tab</string>
     <string name="open_new_tab">Open in new tab</string>
-    <string name="new_secret_tab">New incognito tab</string>
     <string name="secret_tab">Incognito tab</string>
     <string name="normal_tab">Normal tab</string>
     <string name="secret_mode">Incognito mode</string>
@@ -123,6 +121,7 @@
     <string name="link">Link</string>
     <string name="open_url">Open</string>
     <string name="new_url">New tab</string>
+    <string name="group_url">Group tab</string>
     <string name="back_url">Background tab</string>
     <string name="copy_url">Copy URL</string>
     <string name="paste_url">Paste URL</string>
@@ -301,7 +300,7 @@
     <string name="image_type">Image filter</string>
     <string name="others">Others</string>
     <string name="not_supported">Not supported</string>
-    <string name="apps_none">There are no apps installed that can perform this function.</string>
+    <string name="apps_none">Permission denied or app not installed.</string>
     <string name="right_title">Copyright</string>
     <string name="guide_right_1">Always keep in mind the copyright.</string>
     <string name="guide_right_2">Using a copyrighted work without permission from the copyright owner is a copyright infringement. You are responsible for all copyright infringement.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Add to Soul homepage</string>
     <string name="add_home_1">Add to home screen</string>
     <string name="add_home_2">Add to phone\'s home screen</string>
+    <string name="phone_home">Phone\'s home screen</string>
     <string name="set_homepage">Set as homepage</string>
     <string name="soul_home">Soul homepage</string>
     <string name="setted">Has been set.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">Browser</string>
     <string name="theme_light">Light theme</string>
     <string name="theme_dark">Dark theme</string>
+    <string name="dark_home">Dark theme home</string>
+    <string name="dark_home_info">Setting the wallpaper will always set the homepage to a dark theme.</string>
     <string name="background">Background</string>
     <string name="search_suggest">Search suggestions</string>
     <string name="at_bottom">At the bottom</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">Safe Browsing</string>
     <string name="space_title">Space</string>
     <string name="space_guide">Spaces are not visible on the running screen.</string>
-    <string name="openapp_guide_1">Open another app that can launch that link.</string>
-    <string name="openapp_guide_2">For example, open a YouTube link with the YouTube app.</string>
     <string name="sub_file">Subtitle file</string>
     <string name="sub_setting">Subtitle settings</string>
     <string name="sub_on">Subtitle on</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">Find the combination that\'s right for you.</string>
     <string name="filter_guide_5">The recommended combination is the basic filter and the language filter.</string>
     <string name="filter_guide_6">If the provided filter does not block ads, please add your own filter rule or contact filter administrator.</string>
+    <string name="search_guide_1">The selected item cannot be disabled.</string>
+    <string name="search_guide_2">To disable it, select another one first.</string>
+    <string name="btn_ges_disable">Buttons and gestures are disabled.</string>
 </resources>

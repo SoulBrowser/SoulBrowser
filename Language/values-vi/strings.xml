@@ -21,10 +21,10 @@
     <string name="image">Hình ảnh</string>
     <string name="video">Video</string>
     <string name="audio">Âm thanh</string>
+    <string name="media">Truyền thông</string>
     <string name="doc">Tài liệu</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">Bộ sưu tập</string>
     <string name="download">Tải xuống</string>
     <string name="down_set">Tải xuống</string>
     <string name="fast_down">Tải xuống nhanh</string>
@@ -97,9 +97,7 @@
     <string name="move_to">Di chuyển đến</string>
     <string name="skip">Bỏ qua</string>
     <string name="overwrite">Ghi đè</string>
-    <string name="new_tab">Tab mới</string>
     <string name="open_new_tab">Mở trong một tab mới</string>
-    <string name="new_secret_tab">Tab ẩn danh mới</string>
     <string name="secret_tab">Tab ẩn danh</string>
     <string name="normal_tab">Tab bình thường</string>
     <string name="secret_mode">Chế độ ẩn danh</string>
@@ -123,6 +121,7 @@
     <string name="link">Liên kết</string>
     <string name="open_url">Mở</string>
     <string name="new_url">Tab mới</string>
+    <string name="group_url">thẻ nhóm</string>
     <string name="back_url">Tab nền</string>
     <string name="copy_url">Sao chép địa chỉ</string>
     <string name="paste_url">Dán địa chỉ</string>
@@ -301,7 +300,7 @@
     <string name="image_type">Bộ lọc hình ảnh</string>
     <string name="others">Khác</string>
     <string name="not_supported">Không được hỗ trợ</string>
-    <string name="apps_none">Không có ứng dụng nào được cài đặt có thể thực hiện chức năng này.</string>
+    <string name="apps_none">Quyền bị từ chối hoặc ứng dụng chưa được cài đặt.</string>
     <string name="right_title">Bản quyền</string>
     <string name="guide_right_1">Luôn ghi nhớ bản quyền.</string>
     <string name="guide_right_2">Sử dụng tác phẩm có bản quyền mà không có sự đồng ý của chủ bản quyền là vi phạm bản quyền. Bạn chịu trách nhiệm cho tất cả các vi phạm bản quyền.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Thêm vào trang chủ Soul</string>
     <string name="add_home_1">Thêm vào màn hình chính</string>
     <string name="add_home_2">Thêm vào màn hình chính của điện thoại</string>
+    <string name="phone_home">Màn hình chính của điện thoại</string>
     <string name="set_homepage">Đặt làm trang chủ</string>
     <string name="soul_home">Trang chủ Soul</string>
     <string name="setted">Đã được thiết lập.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">Trình duyệt</string>
     <string name="theme_light">Chủ đề sáng</string>
     <string name="theme_dark">Chủ đề tối</string>
+    <string name="dark_home">Nhà chủ đề tối</string>
+    <string name="dark_home_info">Đặt hình nền sẽ luôn đặt trang chủ thành chủ đề tối.</string>
     <string name="background">Lý lịch</string>
     <string name="search_suggest">Đề xuất tìm kiếm</string>
     <string name="at_bottom">Ở dưới cùng</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">Duyệt web an toàn</string>
     <string name="space_title">Khoảng trống</string>
     <string name="space_guide">Dấu cách không hiển thị trên màn hình đang chạy.</string>
-    <string name="openapp_guide_1">Mở một ứng dụng khác có thể khởi chạy liên kết đó.</string>
-    <string name="openapp_guide_2">Ví dụ: mở liên kết YouTube với ứng dụng YouTube.</string>
     <string name="sub_file">Tệp phụ đề</string>
     <string name="sub_setting">Cài đặt phụ đề</string>
     <string name="sub_on">Phụ đề đang bật</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">Tìm sự kết hợp phù hợp với bạn.</string>
     <string name="filter_guide_5">Sự kết hợp được đề xuất là bộ lọc cơ bản và bộ lọc ngôn ngữ.</string>
     <string name="filter_guide_6">Nếu bộ lọc được cung cấp không chặn quảng cáo, vui lòng thêm quy tắc bộ lọc của riêng bạn hoặc liên hệ với quản trị viên bộ lọc.</string>
+    <string name="search_guide_1">Không thể tắt mục đã chọn.</string>
+    <string name="search_guide_2">Để tắt nó, trước tiên hãy chọn một cái khác.</string>
+    <string name="btn_ges_disable">Các nút và cử chỉ bị vô hiệu hóa.</string>
 </resources>

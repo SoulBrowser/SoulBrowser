@@ -21,10 +21,10 @@
     <string name="image">صورة</string>
     <string name="video">فيديو</string>
     <string name="audio">صوتي</string>
+    <string name="media">الوسائط</string>
     <string name="doc">وثيقة</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">صالة عرض</string>
     <string name="download">تحميل</string>
     <string name="down_set">تحميل</string>
     <string name="fast_down">تحميل سريع</string>
@@ -97,9 +97,7 @@
     <string name="move_to">اين نذهب</string>
     <string name="skip">تخطى</string>
     <string name="overwrite">الكتابة فوق</string>
-    <string name="new_tab">علامة تبويب جديدة</string>
     <string name="open_new_tab">افتح في علامة تبويب جديدة</string>
-    <string name="new_secret_tab">علامة تبويب جديدة للتصفح المتخفي</string>
     <string name="secret_tab">علامة التبويب السرية</string>
     <string name="normal_tab">علامة التبويب "عام"</string>
     <string name="secret_mode">الوضع المخفي</string>
@@ -123,6 +121,7 @@
     <string name="link">حلقة الوصل</string>
     <string name="open_url">فتح</string>
     <string name="new_url">علامة تبويب جديدة</string>
+    <string name="group_url">علامة تبويب المجموعة</string>
     <string name="back_url">علامة تبويب الخلفية</string>
     <string name="copy_url">إنسخ الرابط</string>
     <string name="paste_url">لصق URL</string>
@@ -301,7 +300,7 @@
     <string name="image_type">مرشح الصورة</string>
     <string name="others">آخر</string>
     <string name="not_supported">غير مدعوم</string>
-    <string name="apps_none">لا توجد تطبيقات مثبتة يمكنها أداء هذه الوظيفة.</string>
+    <string name="apps_none">تم رفض الإذن أو التطبيق غير مثبت.</string>
     <string name="right_title">حقوق النشر</string>
     <string name="guide_right_1">كن دائما على علم بحقوق التأليف والنشر.</string>
     <string name="guide_right_2">يعد استخدام العمل دون موافقة صاحب حقوق الطبع والنشر انتهاكًا لحقوق الطبع والنشر. تقع المسؤولية الكاملة عن انتهاك حقوق النشر على عاتق المستخدم.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">أضف إلى صفحة Soul الرئيسية</string>
     <string name="add_home_1">أضف إلى الشاشة الرئيسية</string>
     <string name="add_home_2">أضف إلى الشاشة الرئيسية للهاتف</string>
+    <string name="phone_home">شاشة الهاتف الرئيسية</string>
     <string name="set_homepage">تعيين كصفحة رئيسية</string>
     <string name="soul_home">صفحة Soul الرئيسية</string>
     <string name="setted">تم تعيينه.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">المتصفح</string>
     <string name="theme_light">موضوع مشرق</string>
     <string name="theme_dark">مظهر داكن</string>
+    <string name="dark_home">الصفحة الرئيسية ذات المظهر الداكن</string>
+    <string name="dark_home_info">سيؤدي تعيين خلفية الشاشة دائمًا إلى تعيين الصفحة الرئيسية على سمة داكنة.</string>
     <string name="background">معرفتي</string>
     <string name="search_suggest">اقتراحات البحث</string>
     <string name="at_bottom">في الأسفل</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">التصفح الآمن</string>
     <string name="space_title">الفراغ</string>
     <string name="space_guide">المساحات غير مرئية على شاشة التشغيل.</string>
-    <string name="openapp_guide_1">افتح تطبيقًا آخر يمكنه تشغيل هذا الرابط.</string>
-    <string name="openapp_guide_2">على سبيل المثال ، افتح رابط YouTube باستخدام تطبيق YouTube.</string>
     <string name="sub_file">ملف الترجمة</string>
     <string name="sub_setting">إعدادات الترجمة</string>
     <string name="sub_on">تشغيل الترجمة</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">اعثر على المجموعة المناسبة لك.</string>
     <string name="filter_guide_5">التركيبة الموصى بها هي عامل التصفية الأساسي ومرشح اللغة.</string>
     <string name="filter_guide_6">إذا كان الفلتر المقدم لا يمنع الإعلانات ، فالرجاء إضافة قاعدة الفلتر الخاصة بك أو الاتصال بمسؤول التصفية.</string>
+    <string name="search_guide_1">لا يمكن تعطيل العنصر المحدد.</string>
+    <string name="search_guide_2">لتعطيله ، حدد واحدة أخرى أولاً.</string>
+    <string name="btn_ges_disable">تم تعطيل الأزرار والإيماءات.</string>
 </resources>

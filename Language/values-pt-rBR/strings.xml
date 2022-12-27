@@ -21,10 +21,10 @@
     <string name="image">Imagem</string>
     <string name="video">Vídeo</string>
     <string name="audio">Áudio</string>
+    <string name="media">Mídia</string>
     <string name="doc">Documento</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">Galeria</string>
     <string name="download">Baixar</string>
     <string name="down_set">Download</string>
     <string name="fast_down">Baixar rápido</string>
@@ -97,9 +97,7 @@
     <string name="move_to">Mover para</string>
     <string name="skip">Ignorar</string>
     <string name="overwrite">Sobrescrever</string>
-    <string name="new_tab">Nova guia</string>
     <string name="open_new_tab">Abra em uma nova guia</string>
-    <string name="new_secret_tab">Nova guia anônima</string>
     <string name="secret_tab">Guia anônima</string>
     <string name="normal_tab">Guia normal</string>
     <string name="secret_mode">Modo anônimo</string>
@@ -123,6 +121,7 @@
     <string name="link">Link</string>
     <string name="open_url">Abrir</string>
     <string name="new_url">Nova guia</string>
+    <string name="group_url">Aba Grupo</string>
     <string name="back_url">Guia em segundo plano</string>
     <string name="copy_url">Copiar URL</string>
     <string name="paste_url">Colar URL</string>
@@ -301,7 +300,7 @@
     <string name="image_type">Filtrar imagem</string>
     <string name="others">Outros</string>
     <string name="not_supported">Não suportado</string>
-    <string name="apps_none">Não há aplicativos instalados que possam executar esta função.</string>
+    <string name="apps_none">Permissão negada ou aplicativo não instalado.</string>
     <string name="right_title">Direitos autorais</string>
     <string name="guide_right_1">Lembre-se sempre dos direitos autorais.</string>
     <string name="guide_right_2">Usar obras protegidas por direitos autorais sem o consentimento do detentor dos direitos autorais é uma violação de direitos autorais. Você é responsável por todas as violações de direitos autorais.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Adicionar à página inicial do Soul</string>
     <string name="add_home_1">Adicionar à tela inicial</string>
     <string name="add_home_2">Adicionar à tela inicial do telefone</string>
+    <string name="phone_home">Tela inicial do telefone</string>
     <string name="set_homepage">Definir como página inicial</string>
     <string name="soul_home">Página inicial do Soul</string>
     <string name="setted">Definição realizada.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">Navegador</string>
     <string name="theme_light">Tema claro</string>
     <string name="theme_dark">Tema escuro</string>
+    <string name="dark_home">Casa com tema escuro</string>
+    <string name="dark_home_info">Definir o papel de parede sempre definirá a página inicial para um tema escuro.</string>
     <string name="background">Fundo</string>
     <string name="search_suggest">Sugestões de pesquisa</string>
     <string name="at_bottom">No fundo</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">Navegação segura</string>
     <string name="space_title">Espaço</string>
     <string name="space_guide">Os espaços não são visíveis na tela de corrida.</string>
-    <string name="openapp_guide_1">Abra outro aplicativo que possa iniciar esse link.</string>
-    <string name="openapp_guide_2">Por exemplo, abra um link do YouTube com o aplicativo YouTube.</string>
     <string name="sub_file">Arquivo de legenda</string>
     <string name="sub_setting">Configurações de legendas</string>
     <string name="sub_on">Legenda ativada</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">Encontre a combinação certa para você.</string>
     <string name="filter_guide_5">A combinação recomendada é o filtro básico e o filtro de idioma.</string>
     <string name="filter_guide_6">Se o filtro fornecido não bloquear anúncios, adicione sua própria regra de filtro ou entre em contato com o administrador do filtro.</string>
+    <string name="search_guide_1">O item selecionado não pode ser desabilitado.</string>
+    <string name="search_guide_2">Para desativá-lo, selecione outro primeiro.</string>
+    <string name="btn_ges_disable">Botões e gestos estão desativados.</string>
 </resources>

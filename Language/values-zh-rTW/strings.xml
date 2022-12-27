@@ -21,10 +21,10 @@
     <string name="image">圖片</string>
     <string name="video">影片</string>
     <string name="audio">音訊</string>
+    <string name="media">媒體</string>
     <string name="doc">文件</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">相簿</string>
     <string name="download">下載</string>
     <string name="down_set">下載</string>
     <string name="fast_down">快速下載</string>
@@ -97,9 +97,7 @@
     <string name="move_to">移至</string>
     <string name="skip">跳過</string>
     <string name="overwrite">覆寫</string>
-    <string name="new_tab">新分頁</string>
     <string name="open_new_tab">在新分頁中開啟</string>
-    <string name="new_secret_tab">新無痕分頁</string>
     <string name="secret_tab">無痕分頁</string>
     <string name="normal_tab">正常分頁</string>
     <string name="secret_mode">無痕模式</string>
@@ -123,6 +121,7 @@
     <string name="link">連結</string>
     <string name="open_url">開啟</string>
     <string name="new_url">新分頁</string>
+    <string name="group_url">組選項卡</string>
     <string name="back_url">背景分頁</string>
     <string name="copy_url">複製網址</string>
     <string name="paste_url">貼上網址</string>
@@ -301,7 +300,7 @@
     <string name="image_type">圖片篩選</string>
     <string name="others">其他</string>
     <string name="not_supported">不支援</string>
-    <string name="apps_none">沒有安裝可以執行此功能的應用程式</string>
+    <string name="apps_none">權限被拒絕或應用程序未安裝</string>
     <string name="right_title">版權</string>
     <string name="guide_right_1">尊重版權</string>
     <string name="guide_right_2">未經版權所有者同意，使用受版權保護的作品是侵權行為。 您應對所有侵權行為負責。</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">添加到 Soul 主頁</string>
     <string name="add_home_1">添加到主屏幕</string>
     <string name="add_home_2">添加到手機的主屏幕</string>
+    <string name="phone_home">手機的主屏幕</string>
     <string name="set_homepage">設為主頁</string>
     <string name="soul_home">Soul 主頁</string>
     <string name="setted">已設定</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">瀏覽器</string>
     <string name="theme_light">淺色主題</string>
     <string name="theme_dark">深色主題</string>
+    <string name="dark_home">深色主題首頁</string>
+    <string name="dark_home_info">設置壁紙將始終將主頁設置為深色主題</string>
     <string name="background">背景</string>
     <string name="search_suggest">搜尋建議</string>
     <string name="at_bottom">在底部</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">安全瀏覽</string>
     <string name="space_title">空格</string>
     <string name="space_guide">在運行的螢幕上看不到空格</string>
-    <string name="openapp_guide_1">使用另一個應用程式開啟該連結</string>
-    <string name="openapp_guide_2">例如，使用 YouTube 應用程式打開 YouTube 連結</string>
     <string name="sub_file">字幕檔案</string>
     <string name="sub_setting">字幕設定</string>
     <string name="sub_on">字幕開啟</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">找到適合您的組合</string>
     <string name="filter_guide_5">推薦的組合是基本過濾器和語言過濾器</string>
     <string name="filter_guide_6">如果提供的過濾器沒有屏蔽廣告，請添加您自己的過濾器規則或聯繫過濾器管理員</string>
+    <string name="search_guide_1">無法禁用所選項目</string>
+    <string name="search_guide_2">要禁用它，請先選擇另一個</string>
+    <string name="btn_ges_disable">按鈕和手勢被禁用</string>
 </resources>

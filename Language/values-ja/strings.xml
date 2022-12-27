@@ -21,10 +21,10 @@
     <string name="image">画像</string>
     <string name="video">ビデオ</string>
     <string name="audio">オーディオ</string>
+    <string name="media">メディア</string>
     <string name="doc">文書</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">ギャラリー</string>
     <string name="download">ダウンロード</string>
     <string name="down_set">ダウンロード</string>
     <string name="fast_down">高速ダウンロード</string>
@@ -97,9 +97,7 @@
     <string name="move_to">移動先</string>
     <string name="skip">スキップ</string>
     <string name="overwrite">上書き</string>
-    <string name="new_tab">新しいタブ</string>
     <string name="open_new_tab">新しいタブで開く</string>
-    <string name="new_secret_tab">新しいシークレットタブ</string>
     <string name="secret_tab">シークレットタブ</string>
     <string name="normal_tab">ノーマルタブ</string>
     <string name="secret_mode">シークレットモード</string>
@@ -123,6 +121,7 @@
     <string name="link">リンク</string>
     <string name="open_url">オープン</string>
     <string name="new_url">新しいタブ</string>
+    <string name="group_url">グループタブ</string>
     <string name="back_url">背景タブ</string>
     <string name="copy_url">URLをコピー</string>
     <string name="paste_url">URLを貼り付け</string>
@@ -301,7 +300,7 @@
     <string name="image_type">画像フィルタ</string>
     <string name="others">その他</string>
     <string name="not_supported">サポートされていません</string>
-    <string name="apps_none">この機能を実行することができるアプリがインストールされていません。</string>
+    <string name="apps_none">権限が拒否されたか、アプリがインストールされていません。</string>
     <string name="right_title">著作権</string>
     <string name="guide_right_1">常に著作権に留意してください。</string>
     <string name="guide_right_2">著作権者の同意なしに著作物を使用することは著作権侵害です。著作権侵害のすべての責任は、ユーザーにあります。</string>
@@ -404,7 +403,7 @@
     <string name="prefix">プレフィックス</string>
     <string name="clean_mode">クリーンモード</string>
     <string name="site">サイト</string>
-    <string name="storage">ストア</string>
+    <string name="storage">ストレージ</string>
     <string name="system_name">システム</string>
     <string name="gesture">ジェスチャー</string>
     <string name="show_status">ステータスバーを表示</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Soulホームページに追加</string>
     <string name="add_home_1">ホーム画面に追加</string>
     <string name="add_home_2">電話のホーム画面に追加</string>
+    <string name="phone_home">電話のホーム画面</string>
     <string name="set_homepage">ホームページに設定</string>
     <string name="soul_home">Soulホームページ</string>
     <string name="setted">設定されています。</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">ブラウザ</string>
     <string name="theme_light">ライトテーマ</string>
     <string name="theme_dark">暗いテーマ</string>
+    <string name="dark_home">ダークテーマ ホーム</string>
+    <string name="dark_home_info">壁紙を設定すると、ホームページは常に暗いテーマに設定されます。</string>
     <string name="background">背景</string>
     <string name="search_suggest">検索候補</string>
     <string name="at_bottom">下部に</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">セーフブラウジング</string>
     <string name="space_title">スペース</string>
     <string name="space_guide">スペースは実行中の画面には表示されません。</string>
-    <string name="openapp_guide_1">そのリンクを実行できる他のアプリを開きます。</string>
-    <string name="openapp_guide_2">たとえば、YouTube アプリで YouTube リンクを開きます。</string>
     <string name="sub_file">字幕ファイル</string>
     <string name="sub_setting">字幕設定</string>
     <string name="sub_on">字幕</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">私に合った組み合わせを見つけてください。</string>
     <string name="filter_guide_5">推奨される組み合わせは、基本フィルターと言語フィルターです。</string>
     <string name="filter_guide_6">提供されたフィルターで広告がブロックされない場合は、独自のフィルター ルールを追加するか、フィルター管理者に連絡してください。</string>
+    <string name="search_guide_1">選択したアイテムを無効にすることはできません。</string>
+    <string name="search_guide_2">無効にするには、まず別のものを選択します。</string>
+    <string name="btn_ges_disable">ボタンとジェスチャーは無効になります。</string>
 </resources>

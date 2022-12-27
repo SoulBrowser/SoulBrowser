@@ -21,10 +21,10 @@
     <string name="image">Image</string>
     <string name="video">Vidéo</string>
     <string name="audio">Audio</string>
+    <string name="media">Media</string>
     <string name="doc">Document</string>
     <string name="pdf">PDF</string>
     <string name="zip">ZIP</string>
-    <string name="gallery">Galerie</string>
     <string name="download">Télécharger</string>
     <string name="down_set">Téléchargement</string>
     <string name="fast_down">Téléchargement rapide</string>
@@ -97,9 +97,7 @@
     <string name="move_to">Déplacer vers</string>
     <string name="skip">Sauter</string>
     <string name="overwrite">Écraser</string>
-    <string name="new_tab">Nouvel onglet</string>
     <string name="open_new_tab">Ouvrir dans un nouvel onglet</string>
-    <string name="new_secret_tab">Nouvel onglet privé</string>
     <string name="secret_tab">Onglet privé</string>
     <string name="normal_tab">Onglet normal</string>
     <string name="secret_mode">Mode privé</string>
@@ -123,6 +121,7 @@
     <string name="link">Lien</string>
     <string name="open_url">Ouvrir</string>
     <string name="new_url">Nouvel onglet</string>
+    <string name="group_url">Onglet Groupe</string>
     <string name="back_url">Onglet en arrière-plan</string>
     <string name="copy_url">Copier l\'URL</string>
     <string name="paste_url">Coller l\'URL</string>
@@ -301,7 +300,7 @@
     <string name="image_type">Filtre image</string>
     <string name="others">Autres</string>
     <string name="not_supported">Non supporté</string>
-    <string name="apps_none">Aucune application installée ne peut exécuter cette fonction.</string>
+    <string name="apps_none">Autorisation refusée ou application non installée.</string>
     <string name="right_title">Droit d\'auteur</string>
     <string name="guide_right_1">Toujours garder à l\'esprit le droit d\'auteur.</string>
     <string name="guide_right_2">L\'utilisation d\'œuvres protégées par le droit d\'auteur sans le consentement du détenteur du droit d\'auteur constitue une violation du droit d\'auteur. Vous êtes responsable de toute violation du droit d\'auteur.</string>
@@ -599,6 +598,7 @@
     <string name="add_quick">Ajouter à la page d\'accueil Soul</string>
     <string name="add_home_1">Ajouter à l\'écran d\'accueil</string>
     <string name="add_home_2">Ajouter à l\'écran d\'accueil du téléphone</string>
+    <string name="phone_home">Écran d\'accueil du téléphone</string>
     <string name="set_homepage">Définir comme page d\'accueil</string>
     <string name="soul_home">Page d\'accueil Soul</string>
     <string name="setted">Effectué.</string>
@@ -729,6 +729,8 @@
     <string name="theme_web">Navigateur</string>
     <string name="theme_light">Thème clair</string>
     <string name="theme_dark">Thème sombre</string>
+    <string name="dark_home">Maison à thème sombre</string>
+    <string name="dark_home_info">Définir le fond d\'écran définira toujours la page d\'accueil sur un thème sombre.</string>
     <string name="background">Contexte</string>
     <string name="search_suggest">Suggestions de recherche</string>
     <string name="at_bottom">En bas</string>
@@ -902,8 +904,6 @@
     <string name="intro_text_4">Navigation sûre</string>
     <string name="space_title">Espace</string>
     <string name="space_guide">Les espaces ne sont pas visibles sur l\'écran de fonctionnement.</string>
-    <string name="openapp_guide_1">Ouvrez une autre application qui peut lancer ce lien.</string>
-    <string name="openapp_guide_2">Par exemple, ouvrez un lien YouTube avec l\'application YouTube.</string>
     <string name="sub_file">Fichier de sous-titres</string>
     <string name="sub_setting">Paramètres des sous-titres</string>
     <string name="sub_on">Sous-titre activé</string>
@@ -940,4 +940,7 @@
     <string name="filter_guide_4">Trouvez la combinaison qui vous convient.</string>
     <string name="filter_guide_5">La combinaison recommandée est le filtre de base et le filtre de langue.</string>
     <string name="filter_guide_6">Si le filtre fourni ne bloque pas les publicités, veuillez ajouter votre propre règle de filtrage ou contacter l\'administrateur du filtre.</string>
+    <string name="search_guide_1">L\'élément sélectionné ne peut pas être désactivé.</string>
+    <string name="search_guide_2">Pour le désactiver, sélectionnez-en d\'abord un autre.</string>
+    <string name="btn_ges_disable">Les boutons et les gestes sont désactivés.</string>
 </resources>
