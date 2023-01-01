@@ -335,7 +335,8 @@
     <string name="permission_denied">Permisul refuzat</string>
     <string name="permission_removed">Permisiunea eliminată</string>
     <string name="no_permission">Fără permisiune</string>
-    <string name="noti_pms_guide_1">Este necesară permisiunea pentru notificările de stare de mai jos.</string>
+    <string name="noti_pms">Permisiune de notificare</string>
+    <string name="noti_pms_guide_1">\'Permisiunea de notificare\' este necesară pentru notificările de stare pentru funcțiile de mai jos.</string>
     <string name="noti_pms_guide_2">Permisiunea poate fi schimbată ulterior.</string>
     <string name="ads_block">Blocator de anunțuri</string>
     <string name="ads_block_info">Cel puțin un filtru trebuie să fie activ pentru a bloca anunțurile.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Personalizare</string>
     <string name="font">Font</string>
     <string name="font_default">Font implicit</string>
+    <string name="font_preview">Fontul este aplicat acestui text.</string>
     <string name="font_info_1">Puteți schimba fontul paginilor web cu fișiere TTF în stocare internă sau card SD.</string>
     <string name="font_info_2">Fonturile instalate de alte aplicații s-ar putea să nu se aplice.</string>
     <string name="font_info_3">Creați un folder aleator și puneți fișierul TTF pe care doriți să-l utilizați direct.</string>
+    <string name="font_guide_1">Fiecare font are o limbă pe care o acceptă.</string>
+    <string name="font_guide_2">Fonturile de sistem acceptă numai alfabete și numere.</string>
+    <string name="font_guide_3">Consultați previzualizarea.</string>
     <string name="tv_cast">Turnare TV</string>
     <string name="media_route_menu_title">Joacă pe&#8230;</string>
     <string name="introducing_cast">Atingeți pentru a arunca media la televizor</string>

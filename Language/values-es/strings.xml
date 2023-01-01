@@ -335,7 +335,8 @@
     <string name="permission_denied">Permiso denegado</string>
     <string name="permission_removed">Permiso eliminado</string>
     <string name="no_permission">Sin permiso</string>
-    <string name="noti_pms_guide_1">Se requiere permiso para las notificaciones de estado a continuación.</string>
+    <string name="noti_pms">Permiso de notificación</string>
+    <string name="noti_pms_guide_1">Se requiere \'Permiso de notificación\' para las notificaciones de estado de las siguientes funciones.</string>
     <string name="noti_pms_guide_2">El permiso se puede cambiar más adelante.</string>
     <string name="ads_block">Bloquear Ad</string>
     <string name="ads_block_info">Al menos un filtro debe estar activo para bloquear anuncios.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Personalización</string>
     <string name="font">Fuente</string>
     <string name="font_default">Fuente predeterminada</string>
+    <string name="font_preview">La fuente se aplica a este texto.</string>
     <string name="font_info_1">Puede cambiar la fuente de las páginas web con archivos TTF en almacenamiento interno o tarjeta SD.</string>
     <string name="font_info_2">Es posible que no se apliquen las fuentes instaladas por otras aplicaciones.</string>
     <string name="font_info_3">Cree una carpeta aleatoria y coloque el archivo TTF que desea usar directamente.</string>
+    <string name="font_guide_1">Cada fuente tiene un idioma que admite.</string>
+    <string name="font_guide_2">Las fuentes del sistema solo admiten letras y números.</string>
+    <string name="font_guide_3">Echa un vistazo a la vista previa.</string>
     <string name="tv_cast">Enviar a TV</string>
     <string name="media_route_menu_title">Aprovecharse de&#8230;</string>
     <string name="introducing_cast">Toca para transmitir contenido multimedia a tu TV</string>

@@ -335,7 +335,8 @@
     <string name="permission_denied">Доступ запрещен</string>
     <string name="permission_removed">Разрешение удалено</string>
     <string name="no_permission">Нет разрешения</string>
-    <string name="noti_pms_guide_1">Разрешение требуется для уведомлений о статусе ниже.</string>
+    <string name="noti_pms">Разрешение на уведомление</string>
+    <string name="noti_pms_guide_1">\'Разрешение на уведомление\' требуется для уведомлений о состоянии для перечисленных ниже функций.</string>
     <string name="noti_pms_guide_2">Разрешение можно изменить позже.</string>
     <string name="ads_block">Блокировщик рекламы</string>
     <string name="ads_block_info">Для блокировки рекламы должен быть активен хотя бы один фильтр.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Персонализация</string>
     <string name="font">Шрифт</string>
     <string name="font_default">Шрифт по умолчанию</string>
+    <string name="font_preview">Шрифт применяется к этому тексту.</string>
     <string name="font_info_1">Вы можете изменить шрифт веб страниц TTF файлами из внутренней памяти или с SD-карты.</string>
     <string name="font_info_2">Шрифты, установленные другими приложениями, могут не применяться.</string>
     <string name="font_info_3">Создайте папку и поместите в неё TTF шрифт, который Вы хотите использовать напрямую.</string>
+    <string name="font_guide_1">У каждого шрифта есть язык, который он поддерживает.</string>
+    <string name="font_guide_2">Системные шрифты поддерживают только буквы и цифры.</string>
+    <string name="font_guide_3">Посмотрите превью.</string>
     <string name="tv_cast">Трансляция</string>
     <string name="media_route_menu_title">Играть&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>

@@ -335,7 +335,8 @@
     <string name="permission_denied">Izin ditolak</string>
     <string name="permission_removed">Izin dihapus</string>
     <string name="no_permission">Tidak ada izin</string>
-    <string name="noti_pms_guide_1">Izin diperlukan untuk pemberitahuan status di bawah ini.</string>
+    <string name="noti_pms">Izin pemberitahuan</string>
+    <string name="noti_pms_guide_1">\'Izin pemberitahuan\' diperlukan untuk pemberitahuan status untuk fitur di bawah.</string>
     <string name="noti_pms_guide_2">Izin dapat diubah nanti.</string>
     <string name="ads_block">Pemblokir iklan</string>
     <string name="ads_block_info">Setidaknya satu filter harus aktif untuk memblokir iklan.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Menyesuaikan</string>
     <string name="font">Font</string>
     <string name="font_default">Font default</string>
+    <string name="font_preview">Font diterapkan pada teks ini.</string>
     <string name="font_info_1">Anda dapat mengubah font halaman web dengan file TTF di penyimpanan internal atau kartu SD.</string>
     <string name="font_info_2">Font yang dipasang oleh aplikasi lain mungkin tidak berlaku.</string>
     <string name="font_info_3">Buat folder acak dan letakkan file TTF yang ingin Anda gunakan secara langsung.</string>
+    <string name="font_guide_1">Setiap font memiliki bahasa yang didukungnya.</string>
+    <string name="font_guide_2">Font sistem hanya mendukung huruf dan angka.</string>
+    <string name="font_guide_3">Lihat pratinjaunya.</string>
     <string name="tv_cast">Transmisi TV</string>
     <string name="media_route_menu_title">Mainkan&#8230;</string>
     <string name="introducing_cast">Sentuh untuk memasukkan media ke TV Anda</string>

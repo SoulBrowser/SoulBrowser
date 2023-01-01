@@ -335,7 +335,8 @@
     <string name="permission_denied">Permission refusée</string>
     <string name="permission_removed">Autorisation supprimée</string>
     <string name="no_permission">Aucune permission</string>
-    <string name="noti_pms_guide_1">Une autorisation est requise pour les notifications de statut ci-dessous.</string>
+    <string name="noti_pms">Autorisation de notification</string>
+    <string name="noti_pms_guide_1">\'Autorisation de notification\' est requise pour les notifications d\'état pour les fonctionnalités ci-dessous.</string>
     <string name="noti_pms_guide_2">L\'autorisation peut être modifiée ultérieurement.</string>
     <string name="ads_block">Blocage Pub</string>
     <string name="ads_block_info">Au moins un filtre doit être actif pour bloquer les publicités.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Personnalisation</string>
     <string name="font">Police</string>
     <string name="font_default">Police par défaut</string>
+    <string name="font_preview">La police est appliquée à ce texte.</string>
     <string name="font_info_1">Vous pouvez changer la police des pages web avec des fichiers TTF dans le stockage interne ou la carte SD.</string>
     <string name="font_info_2">Les polices installées par d\'autres applications peuvent ne pas s\'appliquer.</string>
     <string name="font_info_3">Créez un dossier aléatoire et mettez directement le fichier TTF que vous souhaitez utiliser.</string>
+    <string name="font_guide_1">Chaque police a une langue qu\'elle prend en charge.</string>
+    <string name="font_guide_2">Les polices système ne prennent en charge que les alphabets et les chiffres.</string>
+    <string name="font_guide_3">Découvrez l\'aperçu.</string>
     <string name="tv_cast">Diffusion TV</string>
     <string name="media_route_menu_title">Jouer sur&#8230;</string>
     <string name="introducing_cast">Touchez pour diffuser du contenu multimédia sur votre téléviseur</string>

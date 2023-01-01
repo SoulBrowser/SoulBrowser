@@ -335,7 +335,8 @@
     <string name="permission_denied">Quyền bị từ chối</string>
     <string name="permission_removed">Quyền đã bị xóa</string>
     <string name="no_permission">Không cho phép</string>
-    <string name="noti_pms_guide_1">Cần có quyền cho các thông báo trạng thái bên dưới.</string>
+    <string name="noti_pms">Quyền thông báo</string>
+    <string name="noti_pms_guide_1">Cần có \'Quyền thông báo\' đối với thông báo trạng thái cho các tính năng bên dưới.</string>
     <string name="noti_pms_guide_2">Quyền có thể được thay đổi sau đó.</string>
     <string name="ads_block">Chặn quảng cáo</string>
     <string name="ads_block_info">Ít nhất một bộ lọc phải hoạt động để chặn quảng cáo.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Tùy chỉnh</string>
     <string name="font">Phông chữ</string>
     <string name="font_default">Phông chữ mặc định</string>
+    <string name="font_preview">Phông chữ được áp dụng cho văn bản này.</string>
     <string name="font_info_1">Bạn có thể thay đổi phông chữ của các trang web với các tệp TTF trong bộ nhớ trong hoặc thẻ SD.</string>
     <string name="font_info_2">Phông chữ được cài đặt bởi các ứng dụng khác có thể không áp dụng.</string>
     <string name="font_info_3">Tạo một thư mục ngẫu nhiên và đặt tệp TTF bạn muốn sử dụng trực tiếp.</string>
+    <string name="font_guide_1">Mỗi phông chữ có một ngôn ngữ mà nó hỗ trợ.</string>
+    <string name="font_guide_2">Phông chữ hệ thống chỉ hỗ trợ bảng chữ cái và số.</string>
+    <string name="font_guide_3">Kiểm tra bản xem trước.</string>
     <string name="tv_cast">Truyền màn hình lên TV</string>
     <string name="media_route_menu_title">Chơi trên&#8230;</string>
     <string name="introducing_cast">Chạm để truyền phương tiện tới TV của bạn</string>

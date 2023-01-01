@@ -335,7 +335,8 @@
     <string name="permission_denied">Permissão negada</string>
     <string name="permission_removed">Permissão removida</string>
     <string name="no_permission">Sem permissão</string>
-    <string name="noti_pms_guide_1">É necessária permissão para notificações de status abaixo.</string>
+    <string name="noti_pms">Permissão de notificação</string>
+    <string name="noti_pms_guide_1">\'Permissão de notificação\' é necessária para notificações de status para os recursos abaixo.</string>
     <string name="noti_pms_guide_2">A permissão pode ser alterada posteriormente.</string>
     <string name="ads_block">Bloqueador de ads</string>
     <string name="ads_block_info">Pelo menos um filtro deve estar ativo para bloquear anúncios.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Personalização</string>
     <string name="font">Fonte</string>
     <string name="font_default">Fonte padrão</string>
+    <string name="font_preview">A fonte é aplicada a este texto.</string>
     <string name="font_info_1">Você pode alterar a fonte das páginas da web com arquivos TTF no armazenamento interno ou no cartão SD.</string>
     <string name="font_info_2">As fontes instaladas por outros aplicativos podem não ser aplicadas.</string>
     <string name="font_info_3">Crie uma pasta aleatória e coloque o arquivo TTF que você deseja usar diretamente.</string>
+    <string name="font_guide_1">Cada fonte tem um idioma compatível.</string>
+    <string name="font_guide_2">As fontes do sistema suportam apenas alfabetos e números.</string>
+    <string name="font_guide_3">Confira a prévia.</string>
     <string name="tv_cast">Transmissão para TV</string>
     <string name="media_route_menu_title">Reproduzir em&#8230;</string>
     <string name="introducing_cast">Toque para transmitir mídia à sua TV</string>

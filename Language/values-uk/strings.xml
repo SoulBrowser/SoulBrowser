@@ -335,7 +335,8 @@
     <string name="permission_denied">У дозволі відмовлено</string>
     <string name="permission_removed">Дозвіл видалено</string>
     <string name="no_permission">Немає дозволу</string>
-    <string name="noti_pms_guide_1">Для сповіщень про статус нижче потрібен дозвіл.</string>
+    <string name="noti_pms">Дозвіл на сповіщення</string>
+    <string name="noti_pms_guide_1">\'Дозвіл на сповіщення\' потрібен для сповіщень про статус для наведених нижче функцій.</string>
     <string name="noti_pms_guide_2">Дозвіл можна змінити пізніше.</string>
     <string name="ads_block">Блокатор реклами</string>
     <string name="ads_block_info">Принаймні один фільтр повинен бути активним, щоб блокувати рекламу.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Персоналізація</string>
     <string name="font">Шрифт</string>
     <string name="font_default">Шрифт за замовчуванням</string>
+    <string name="font_preview">До цього тексту застосовано шрифт.</string>
     <string name="font_info_1">Ви можете змінити шрифт веб-сторінок із файлами TTF у внутрішній пам\'яті чи на SD-картці.</string>
     <string name="font_info_2">Шрифти, встановлені іншими програмами, можуть не застосовуватися.</string>
     <string name="font_info_3">Створіть випадкову папку і вставте файл TTF, який ви хочете використовувати безпосередньо.</string>
+    <string name="font_guide_1">Кожен шрифт має мову, яку він підтримує.</string>
+    <string name="font_guide_2">Системні шрифти підтримують лише букви та цифри.</string>
+    <string name="font_guide_3">Перегляньте попередній перегляд.</string>
     <string name="tv_cast">ТВ трансляції</string>
     <string name="media_route_menu_title">Вiдтворювати на&#8230;</string>
     <string name="introducing_cast">Торкніться, щоб передавати медіа на ТВ</string>

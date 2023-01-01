@@ -335,7 +335,8 @@
     <string name="permission_denied">ปฏิเสธการอนุญาต</string>
     <string name="permission_removed">ลบสิทธิ์</string>
     <string name="no_permission">ไม่ได้รับอนุญาต</string>
-    <string name="noti_pms_guide_1">ต้องได้รับอนุญาตสำหรับการแจ้งเตือนสถานะด้านล่าง</string>
+    <string name="noti_pms">ขออนุญาตแจ้ง</string>
+    <string name="noti_pms_guide_1">จำเป็นต้องมี \'สิทธิ์ในการแจ้งเตือน\' สำหรับการแจ้งเตือนสถานะสำหรับคุณสมบัติด้านล่าง</string>
     <string name="noti_pms_guide_2">สามารถเปลี่ยนแปลงการอนุญาตได้ในภายหลัง</string>
     <string name="ads_block">บล็อกโฆษณา</string>
     <string name="ads_block_info">ต้องใช้ตัวกรองอย่างน้อยหนึ่งรายการเพื่อบล็อกโฆษณา</string>
@@ -558,9 +559,13 @@
     <string name="customize">การปรับแต่ง</string>
     <string name="font">แบบอักษร</string>
     <string name="font_default">แบบอักษรเริ่มต้น</string>
+    <string name="font_preview">แบบอักษรใช้กับข้อความนี้</string>
     <string name="font_info_1">คุณสามารถเปลี่ยนแบบอักษรของหน้าเว็บด้วยไฟล์ TTF ในที่เก็บข้อมูลภายในหรือการ์ด SD</string>
     <string name="font_info_2">แบบอักษรที่ติดตั้งโดยแอพอื่นอาจใช้ไม่ได้</string>
     <string name="font_info_3">สร้างโฟลเดอร์สุ่มและวางไฟล์ TTF ที่คุณต้องการใช้โดยตรง</string>
+    <string name="font_guide_1">แบบอักษรแต่ละตัวมีภาษาที่รองรับ</string>
+    <string name="font_guide_2">แบบอักษรของระบบรองรับเฉพาะตัวอักษรและตัวเลขเท่านั้น</string>
+    <string name="font_guide_3">ลองดูตัวอย่าง</string>
     <string name="tv_cast">รายการทีวี</string>
     <string name="media_route_menu_title">เล่นบน&#8230;</string>
     <string name="introducing_cast">แตะเพื่อส่งสื่อไปยังทีวีของคุณ</string>

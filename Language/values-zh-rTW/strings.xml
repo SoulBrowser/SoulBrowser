@@ -335,7 +335,8 @@
     <string name="permission_denied">沒有權限</string>
     <string name="permission_removed">已刪除權限</string>
     <string name="no_permission">沒有權限</string>
-    <string name="noti_pms_guide_1">以下狀態通知需要許可</string>
+    <string name="noti_pms">通知權限</string>
+    <string name="noti_pms_guide_1">以下功能的狀態通知需要\'通知權限\'</string>
     <string name="noti_pms_guide_2">以後可以更改權限</string>
     <string name="ads_block">廣告封鎖</string>
     <string name="ads_block_info">至少需要啟用一個過濾器才能封鎖廣告</string>
@@ -558,9 +559,13 @@
     <string name="customize">個人設定</string>
     <string name="font">字型</string>
     <string name="font_default">預設字型</string>
+    <string name="font_preview">字體應用於此文本</string>
     <string name="font_info_1">您可以使用內部儲存空間或SD卡中的 TTF 檔案變更網頁字型</string>
     <string name="font_info_2">其他應用程式安裝的字型可能不適用</string>
     <string name="font_info_3">建立一個隨機資料夾，直接放要使用的 TTF 檔案</string>
+    <string name="font_guide_1">每種字體都有它支持的語言</string>
+    <string name="font_guide_2">系統字體僅支持字母和數字</string>
+    <string name="font_guide_3">查看預覽</string>
     <string name="tv_cast">電視投放</string>
     <string name="media_route_menu_title">繼續播放&#8230;</string>
     <string name="introducing_cast">輕觸即可將媒體投放到電視上</string>

@@ -335,7 +335,8 @@
     <string name="permission_denied">अनुमति नहीं मिली</string>
     <string name="permission_removed">अनुमति हटा दी गई</string>
     <string name="no_permission">अनुमति नहीं</string>
-    <string name="noti_pms_guide_1">नीचे स्थिति सूचनाओं के लिए अनुमति आवश्यक है।</string>
+    <string name="noti_pms">अधिसूचना अनुमति</string>
+    <string name="noti_pms_guide_1">नीचे दी गई सुविधाओं के लिए स्थिति सूचनाओं के लिए \'अधिसूचना अनुमति\' आवश्यक है।</string>
     <string name="noti_pms_guide_2">अनुमति बाद में बदली जा सकती है।</string>
     <string name="ads_block">विज्ञापन अवरोधक</string>
     <string name="ads_block_info">विज्ञापनों को ब्लॉक करने के लिए कम से कम एक फ़िल्टर सक्रिय होना चाहिए।</string>
@@ -558,9 +559,13 @@
     <string name="customize">अनुकूलित करें</string>
     <string name="font">फ़ॉन्ट</string>
     <string name="font_default">मूलभूत अक्षर</string>
+    <string name="font_preview">इस पाठ पर फ़ॉन्ट लागू किया गया है।</string>
     <string name="font_info_1">आप आंतरिक भंडारण या एसडी कार्ड में टीटीएफ फाइलों के साथ वेब पेजों का फ़ॉन्ट बदल सकते हैं।</string>
     <string name="font_info_2">अन्य ऐप्स द्वारा इंस्टॉल किए गए फ़ॉन्ट लागू नहीं हो सकते हैं।</string>
     <string name="font_info_3">एक यादृच्छिक फ़ोल्डर बनाएँ और उस TTF फ़ाइल को डालें जिसका आप सीधे उपयोग करना चाहते हैं।</string>
+    <string name="font_guide_1">प्रत्येक फ़ॉन्ट की एक भाषा होती है जिसका वह समर्थन करता है।</string>
+    <string name="font_guide_2">सिस्टम फॉन्ट केवल अक्षरों और संख्याओं का समर्थन करते हैं।</string>
+    <string name="font_guide_3">पूर्वावलोकन देखें।</string>
     <string name="tv_cast">टीवी कलाकार</string>
     <string name="media_route_menu_title">पर चलाएं&#8230;</string>
     <string name="introducing_cast">मीडिया को अपने टीवी पर कास्ट करने के लिए स्पर्श करें</string>

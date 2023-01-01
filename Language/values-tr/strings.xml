@@ -335,7 +335,8 @@
     <string name="permission_denied">İzin reddedildi</string>
     <string name="permission_removed">İzin kaldırıldı</string>
     <string name="no_permission">İzin yok</string>
-    <string name="noti_pms_guide_1">Aşağıdaki durum bildirimleri için izin gereklidir.</string>
+    <string name="noti_pms">Bildirim izni</string>
+    <string name="noti_pms_guide_1">Aşağıdaki özellikler için durum bildirimleri için \'Bildirim izni\' gereklidir.</string>
     <string name="noti_pms_guide_2">İzin daha sonra değiştirilebilir.</string>
     <string name="ads_block">Reklam engelleme</string>
     <string name="ads_block_info">Reklamları engellemek için en az bir filtre etkin olmalıdır.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Kişiselleştir</string>
     <string name="font">Yazı</string>
     <string name="font_default">Varsayılan yazı tipi</string>
+    <string name="font_preview">Yazı tipi bu metne uygulanır.</string>
     <string name="font_info_1">Dahili depolama veya SD karttaki TTF dosyalarıyla web sayfalarının yazı tipini değiştirebilirsiniz.</string>
     <string name="font_info_2">Diğer uygulamalar tarafından yüklenen yazı tipleri geçerli olmayabilir.</string>
     <string name="font_info_3">Rastgele bir klasör oluşturun ve doğrudan kullanmak istediğiniz TTF dosyasını yerleştirin.</string>
+    <string name="font_guide_1">Her yazı tipinin desteklediği bir dili vardır.</string>
+    <string name="font_guide_2">Sistem yazı tipleri yalnızca harfleri ve sayıları destekler.</string>
+    <string name="font_guide_3">Önizlemeyi inceleyin.</string>
     <string name="tv_cast">TV yayını</string>
     <string name="media_route_menu_title">Oynamak&#8230;</string>
     <string name="introducing_cast">Medyayı TV\'nize yayınlamak için dokunun</string>

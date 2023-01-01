@@ -335,7 +335,8 @@
     <string name="permission_denied">Permission denied</string>
     <string name="permission_removed">Permission removed</string>
     <string name="no_permission">No permission</string>
-    <string name="noti_pms_guide_1">Permission is required for status notifications below.</string>
+    <string name="noti_pms">Notification permission</string>
+    <string name="noti_pms_guide_1">\'Notification permission\' is required for status notifications for the features below.</string>
     <string name="noti_pms_guide_2">Permission can be changed later.</string>
     <string name="ads_block">Ad blocker</string>
     <string name="ads_block_info">At least one filter must be active to block ads.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Customize</string>
     <string name="font">Font</string>
     <string name="font_default">Default font</string>
+    <string name="font_preview">The font is applied to this text.</string>
     <string name="font_info_1">You can change the font of web pages with TTF files in internal storage or SD card.</string>
     <string name="font_info_2">Fonts installed by other apps may not apply.</string>
     <string name="font_info_3">Create a random folder and put the TTF file you want to use directly.</string>
+    <string name="font_guide_1">Each font has a language it supports.</string>
+    <string name="font_guide_2">System fonts only support alphabets and numbers.</string>
+    <string name="font_guide_3">Check out the preview.</string>
     <string name="tv_cast">TV cast</string>
     <string name="media_route_menu_title">Play on&#8230;</string>
     <string name="introducing_cast">Touch to cast media to your TV</string>

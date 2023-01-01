@@ -335,7 +335,8 @@
     <string name="permission_denied">Erlaubnis verweigert</string>
     <string name="permission_removed">Berechtigung entfernt</string>
     <string name="no_permission">Keine Erlaubnis</string>
-    <string name="noti_pms_guide_1">Für die folgenden Statusbenachrichtigungen ist eine Genehmigung erforderlich.</string>
+    <string name="noti_pms">Benachrichtigungsberechtigung</string>
+    <string name="noti_pms_guide_1">Für Statusbenachrichtigungen für die folgenden Funktionen ist \'Benachrichtigungserlaubnis\' erforderlich.</string>
     <string name="noti_pms_guide_2">Die Berechtigung kann später geändert werden.</string>
     <string name="ads_block">Werbung blockieren</string>
     <string name="ads_block_info">Zum Blockieren von Anzeigen muss mindestens ein Filter aktiv sein.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Anpassen</string>
     <string name="font">Schriftart</string>
     <string name="font_default">Standardschrift</string>
+    <string name="font_preview">Die Schriftart wird auf diesen Text angewendet.</string>
     <string name="font_info_1">Sie können die Schriftart von Webseiten mit TTF-Dateien im internen Speicher oder auf der SD-Karte ändern.</string>
     <string name="font_info_2">Von anderen Apps installierte Schriftarten funktionieren möglicherweise nicht.</string>
     <string name="font_info_3">Erstellen Sie einen zufälligen Ordner und legen Sie die TTF-Datei, die Sie verwenden möchten, direkt ab.</string>
+    <string name="font_guide_1">Jede Schriftart hat eine Sprache, die sie unterstützt.</string>
+    <string name="font_guide_2">Systemschriftarten unterstützen nur Buchstaben und Zahlen.</string>
+    <string name="font_guide_3">Sehen Sie sich die Vorschau an.</string>
     <string name="tv_cast">TV-Anzeige</string>
     <string name="media_route_menu_title">Weiterspielen&#8230;</string>
     <string name="introducing_cast">Berühren, um Medien auf ihr Fernsehgerät zu übertragen</string>

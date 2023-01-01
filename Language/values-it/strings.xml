@@ -335,7 +335,8 @@
     <string name="permission_denied">Permesso negato</string>
     <string name="permission_removed">Autorizzazione rimossa</string>
     <string name="no_permission">Nessun permesso</string>
-    <string name="noti_pms_guide_1">È richiesta l\'autorizzazione per le notifiche di stato di seguito.</string>
+    <string name="noti_pms">Autorizzazione alla notifica</string>
+    <string name="noti_pms_guide_1">\'Autorizzazione di notifica\' è necessaria per le notifiche di stato per le funzioni seguenti.</string>
     <string name="noti_pms_guide_2">L\'autorizzazione può essere modificata in seguito.</string>
     <string name="ads_block">Blocco Ad</string>
     <string name="ads_block_info">Almeno un filtro deve essere attivo per bloccare gli annunci.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Personalizzazione</string>
     <string name="font">Caratteri</string>
     <string name="font_default">Carattere predefinito</string>
+    <string name="font_preview">Il carattere viene applicato a questo testo.</string>
     <string name="font_info_1">È possibile modificare il carattere delle pagine Web con i file TTF nella memoria interna o nella schede SD.</string>
     <string name="font_info_2">I caratteri installati da altre app potrebbero non essere applicabili.</string>
     <string name="font_info_3">Crea una cartella casuale e inserisci il file TTF che desideri utilizzare direttamente.</string>
+    <string name="font_guide_1">Ogni carattere ha una lingua che supporta.</string>
+    <string name="font_guide_2">I font di sistema supportano solo lettere e numeri.</string>
+    <string name="font_guide_3">Guarda l\'anteprima.</string>
     <string name="tv_cast">Cast TV</string>
     <string name="media_route_menu_title">Continua a giocare&#8230;</string>
     <string name="introducing_cast">Tocca per trasmettere contenuti multimediali alla TV</string>

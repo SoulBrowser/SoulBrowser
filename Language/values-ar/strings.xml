@@ -335,7 +335,8 @@
     <string name="permission_denied">طلب الاذن مرفوض</string>
     <string name="permission_removed">تمت إزالة الإذن</string>
     <string name="no_permission">لا يوجد إذن</string>
-    <string name="noti_pms_guide_1">مطلوب إذن لإخطارات الحالة أدناه.</string>
+    <string name="noti_pms">إذن الإخطار</string>
+    <string name="noti_pms_guide_1">مطلوب \'إذن الإعلام\' لإشعارات الحالة للميزات أدناه.</string>
     <string name="noti_pms_guide_2">يمكن تغيير الإذن لاحقًا.</string>
     <string name="ads_block">إعلانات كتلة</string>
     <string name="ads_block_info">يجب أن يكون هناك عامل تصفية واحد على الأقل نشطًا لمنع الإعلانات.</string>
@@ -558,9 +559,13 @@
     <string name="customize">التخصيص</string>
     <string name="font">الخط</string>
     <string name="font_default">الخط الافتراضي</string>
+    <string name="font_preview">يتم تطبيق الخط على هذا النص.</string>
     <string name="font_info_1">يمكنك تغيير خط صفحة الويب باستخدام ملف TTF في وحدة التخزين الداخلية أو بطاقة SD.</string>
     <string name="font_info_2">قد لا يتم تطبيق الخطوط المثبتة بواسطة تطبيقات أخرى.</string>
     <string name="font_info_3">قم بإنشاء مجلد عشوائي ووضع ملف TTF الذي تريد استخدامه مباشرة.</string>
+    <string name="font_guide_1">كل خط له لغة يدعمها.</string>
+    <string name="font_guide_2">تدعم خطوط النظام الحروف الأبجدية والأرقام فقط.</string>
+    <string name="font_guide_3">تحقق من المعاينة.</string>
     <string name="tv_cast">طاقم تلفزيوني</string>
     <string name="media_route_menu_title">لعب</string>
     <string name="introducing_cast">انقر لنقل الوسائط إلى التلفزيون.</string>

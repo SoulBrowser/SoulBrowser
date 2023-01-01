@@ -335,7 +335,8 @@
     <string name="permission_denied">Odmowa dostępu</string>
     <string name="permission_removed">Uprawnienie zostało usunięte</string>
     <string name="no_permission">Brak uprawnień</string>
-    <string name="noti_pms_guide_1">W przypadku poniższych powiadomień o stanie wymagane jest zezwolenie.</string>
+    <string name="noti_pms">Pozwolenie na powiadomienie</string>
+    <string name="noti_pms_guide_1">Aby otrzymywać powiadomienia o stanie poniższych funkcji, wymagane jest \'Uprawnienie do powiadomień\'.</string>
     <string name="noti_pms_guide_2">Uprawnienia można zmienić później.</string>
     <string name="ads_block">Blokowanie reklam</string>
     <string name="ads_block_info">Aby blokować reklamy, musi być aktywny co najmniej jeden filtr.</string>
@@ -558,9 +559,13 @@
     <string name="customize">Dostosowywanie</string>
     <string name="font">Czcionka</string>
     <string name="font_default">Domyślna czcionka</string>
+    <string name="font_preview">Czcionka zostanie zastosowana do tego tekstu.</string>
     <string name="font_info_1">Możesz zmienić czcionkę stron internetowych z plikami TTF w pamięci wewnętrznej lub na karcie SD.</string>
     <string name="font_info_2">Czcionki zainstalowane przez inne aplikacje mogą nie mieć zastosowania.</string>
     <string name="font_info_3">Utwórz losowy folder i umieść bezpośrednio plik TTF, którego chcesz użyć.</string>
+    <string name="font_guide_1">Każda czcionka ma obsługiwany język.</string>
+    <string name="font_guide_2">Czcionki systemowe obsługują tylko alfabety i cyfry.</string>
+    <string name="font_guide_3">Sprawdź podgląd.</string>
     <string name="tv_cast">Obsada telewizyjna</string>
     <string name="media_route_menu_title">Graj na&#8230;</string>
     <string name="introducing_cast">Dotknij, aby przesłać multimedia na telewizor</string>
