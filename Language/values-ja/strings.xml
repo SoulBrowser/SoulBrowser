@@ -618,6 +618,8 @@
     <string name="tts_guide_1">サポートされている言語は、使用しているTTSエンジンによって異なります。</string>
     <string name="tts_guide_2">TTSエンジンはデバイス設定で変更できます。</string>
     <string name="speak_page">声を出して読む</string>
+    <string name="auto_speak">自動読み上げ</string>
+    <string name="auto_speak_guide">リーダーモードが開始されると、TTSは自動的に実行されます。</string>
     <string name="detail_setting">詳細設定</string>
     <string name="voice_speed">音声速度</string>
     <string name="voice_tone">音声トーン</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">前のタブ</string>
     <string name="next_tab">次のタブ</string>
     <string name="accent_text">テキストを強調表示</string>
-    <string name="accent_color">ハイライトカラー</string>
     <string name="app_keyboard">アプリの起動時にキーボードを有効に</string>
     <string name="tab_keyboard">タブの追加時のキーボードを有効に</string>
     <string name="swipe">スワイプ</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">アプリ内広告を削除</string>
     <string name="remove_ads_info_1">一回の決済でアプリ内広告が永遠に削除されます。</string>
     <string name="remove_ads_info_2">支払いに使用したアカウントが同じであれば、常に有効です。</string>
-    <string name="remove_ads_info_3">アプリ内広告とウェブページ広告は異なります。</string>
-    <string name="remove_ads_info_4">Webページ広告の削除機能は無料です。</string>
+    <string name="remove_ads_info_3">アプリ内広告とウェブサイトの広告は異なります。</string>
+    <string name="remove_ads_info_4">ウェブサイトの広告削除機能は無料です。</string>
     <string name="ads_guide_1">アプリ内広告は、アプリが表示する広告です。</string>
     <string name="ads_guide_2">Soul Browserのアプリ内広告は以下のサンプルのようになります。</string>
-    <string name="ads_guide_3">Webページ広告は、Webサイト管理者が表示する広告です。</string>
+    <string name="ads_guide_3">ウェブサイト広告は、ウェブサイト管理者が表示する広告です。</string>
     <string name="ads_guide_4">Soul Browserとは何の関係もありません。</string>
-    <string name="ads_guide_5">Soul Browser はウェブページにアプリ内広告を表示しません。</string>
+    <string name="ads_guide_5">Soul Browserはウェブサイトにアプリ内広告を表示しません。</string>
     <string name="inapp_ads_sample">アプリ内広告のサンプル</string>
     <string name="donate_1">寄付（コーヒー）</string>
     <string name="donate_2">寄付（栄養ドリンク）</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">ニュースソース</string>
     <string name="news_info_2">Googleニュース</string>
     <string name="news_locale">言語と地域</string>
+    <string name="news_trans">ニュースタイトルの翻訳</string>
     <string name="news_topic_headline">ヘッドライン</string>
     <string name="news_topic_world">世界</string>
     <string name="news_topic_nation">地方のニュース</string>

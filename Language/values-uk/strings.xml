@@ -618,6 +618,8 @@
     <string name="tts_guide_1">Підтримувані мови залежать від використовуваного механізму TTS.</string>
     <string name="tts_guide_2">Механізм TTS можна змінити в налаштуваннях пристрою.</string>
     <string name="speak_page">Читати вголос</string>
+    <string name="auto_speak">Автоматична розмова</string>
+    <string name="auto_speak_guide">TTS запускається автоматично, коли запускається режим читання.</string>
     <string name="detail_setting">Детальні налаштування</string>
     <string name="voice_speed">Швидкість голосу</string>
     <string name="voice_tone">Тон голосу</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">Попередня вкладка</string>
     <string name="next_tab">Наступна вкладка</string>
     <string name="accent_text">Виділити текст</string>
-    <string name="accent_color">Колір виділення</string>
     <string name="app_keyboard">Активація клавіатури під час запуску програми</string>
     <string name="tab_keyboard">Активувати клавіатуру при додаванні вкладки</string>
     <string name="swipe">Проведіть пальцем</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">Видаліть рекламу в додатках</string>
     <string name="remove_ads_info_1">Один платіж назавжди видалить рекламу в додатку.</string>
     <string name="remove_ads_info_2">Він завжди діє, якщо рахунок, який використовується для оплати, однаковий.</string>
-    <string name="remove_ads_info_3">Оголошення в програмі та оголошення на веб-сторінці відрізняються.</string>
-    <string name="remove_ads_info_4">Функція видалення реклами з веб-сторінки безкоштовна.</string>
+    <string name="remove_ads_info_3">Оголошення в програмі та оголошення на веб-сайті відрізняються.</string>
+    <string name="remove_ads_info_4">Функція видалення реклами з сайту безкоштовна.</string>
     <string name="ads_guide_1">Оголошення в програмі – це реклама, яку показують програми.</string>
     <string name="ads_guide_2">Нижче наведено зразки оголошень у програмі Soul Browser.</string>
-    <string name="ads_guide_3">Реклама на веб-сторінці – це реклама, яку показують адміністратори веб-сайту.</string>
+    <string name="ads_guide_3">Оголошення на веб-сайті – це оголошення, які показують адміністратори веб-сайту.</string>
     <string name="ads_guide_4">Це не має нічого спільного з Soul Browser.</string>
-    <string name="ads_guide_5">Soul Browser не показує рекламу в програмі на веб-сторінках.</string>
+    <string name="ads_guide_5">Soul Browser не показує рекламу в програмі на веб-сайтах.</string>
     <string name="inapp_ads_sample">Зразок реклами в додатку</string>
     <string name="donate_1">Пожертвування (Кава)</string>
     <string name="donate_2">Пожертвування (Енергетичний напій)</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">Джерело новин</string>
     <string name="news_info_2">Новини Google</string>
     <string name="news_locale">Мова та регіон</string>
+    <string name="news_trans">Переклад назви новини</string>
     <string name="news_topic_headline">Заголовок</string>
     <string name="news_topic_world">Світ</string>
     <string name="news_topic_nation">Місцеві новини</string>

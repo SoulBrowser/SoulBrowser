@@ -618,6 +618,8 @@
     <string name="tts_guide_1">Obsługiwane języki zależą od używanego silnika TTS.</string>
     <string name="tts_guide_2">Silnik TTS można zmienić w ustawieniach urządzenia.</string>
     <string name="speak_page">Czytać na głos</string>
+    <string name="auto_speak">Automatyczne mówienie</string>
+    <string name="auto_speak_guide">TTS uruchamia się automatycznie po uruchomieniu trybu czytnika.</string>
     <string name="detail_setting">Szczegółowe ustawienia</string>
     <string name="voice_speed">Szybkość głosu</string>
     <string name="voice_tone">Ton głosu</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">Poprzednia karta</string>
     <string name="next_tab">Następna karta</string>
     <string name="accent_text">Zaznaczanie tekstu</string>
-    <string name="accent_color">Podświetlony kolor</string>
     <string name="app_keyboard">Aktywacja klawiatury podczas uruchamiania aplikacji</string>
     <string name="tab_keyboard">Aktywuj klawiaturę podczas dodawania karty</string>
     <string name="swipe">Przesuń palcem</string>
@@ -745,11 +746,11 @@
     <string name="remove_ads">Usuń reklamy w aplikacji</string>
     <string name="remove_ads_info_1">Jedna płatność na zawsze usunie reklamy w aplikacji.</string>
     <string name="remove_ads_info_2">Jest zawsze ważne, jeśli konto używane do płatności jest takie samo.</string>
-    <string name="remove_ads_info_3">Reklamy w aplikacji i reklamy na stronach internetowych różnią się od siebie.</string>
-    <string name="remove_ads_info_4">Funkcja usuwania reklam ze strony internetowej jest bezpłatna.</string>
+    <string name="remove_ads_info_3">Reklamy w aplikacji i reklamy w witrynie różnią się.</string>
+    <string name="remove_ads_info_4">Funkcja usuwania reklam w witrynie jest bezpłatna.</string>
     <string name="ads_guide_1">Reklamy w aplikacji to reklamy wyświetlane przez aplikacje.</string>
     <string name="ads_guide_2">Reklamy w aplikacji Soul Browser są próbkowane poniżej.</string>
-    <string name="ads_guide_3">Reklamy na stronie to reklamy wyświetlane przez administratorów serwisu.</string>
+    <string name="ads_guide_3">Reklamy w serwisie to reklamy wyświetlane przez administratorów serwisu.</string>
     <string name="ads_guide_4">Nie ma to nic wspólnego z Soul Browser.</string>
     <string name="ads_guide_5">Soul Browser nie wyświetla reklam w aplikacji na stronach internetowych.</string>
     <string name="inapp_ads_sample">Przykład reklamy w aplikacji</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">Źródło informacji</string>
     <string name="news_info_2">Wiadomości Google</string>
     <string name="news_locale">Język i region</string>
+    <string name="news_trans">Tłumaczenie tytułu wiadomości</string>
     <string name="news_topic_headline">Nagłówek</string>
     <string name="news_topic_world">Świat</string>
     <string name="news_topic_nation">Wiadomości lokalne</string>

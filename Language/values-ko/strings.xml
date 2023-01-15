@@ -618,6 +618,8 @@
     <string name="tts_guide_1">지원되는 언어는 사용 중인 TTS 엔진에 따라 다릅니다.</string>
     <string name="tts_guide_2">TTS 엔진은 장치 설정에서 변경할 수 있습니다.</string>
     <string name="speak_page">소리내어 읽기</string>
+    <string name="auto_speak">자동 말하기</string>
+    <string name="auto_speak_guide">리더 모드가 시작되면 TTS가 자동으로 실행됩니다.</string>
     <string name="detail_setting">세부 설정</string>
     <string name="voice_speed">음성 속도</string>
     <string name="voice_tone">음성 톤</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">이전 탭</string>
     <string name="next_tab">다음 탭</string>
     <string name="accent_text">텍스트 강조</string>
-    <string name="accent_color">강조 색상</string>
     <string name="app_keyboard">앱 시작 시 키보드 활성화</string>
     <string name="tab_keyboard">탭 추가 시 키보드 활성화</string>
     <string name="swipe">스와이프</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">인앱 광고 제거</string>
     <string name="remove_ads_info_1">한 번의 결제로 인앱 광고가 영원히 제거됩니다.</string>
     <string name="remove_ads_info_2">결제에 사용한 계정이 동일하면 항상 유효합니다.</string>
-    <string name="remove_ads_info_3">인앱 광고와 웹페이지 광고는 다릅니다.</string>
-    <string name="remove_ads_info_4">웹페이지 광고 제거 기능은 무료입니다.</string>
+    <string name="remove_ads_info_3">인앱 광고와 웹사이트 광고는 다릅니다.</string>
+    <string name="remove_ads_info_4">웹사이트 광고 제거 기능은 무료입니다.</string>
     <string name="ads_guide_1">인앱 광고는 앱에서 표시하는 광고입니다.</string>
     <string name="ads_guide_2">Soul Browser의 인앱 광고는 아래 샘플과 같습니다.</string>
-    <string name="ads_guide_3">웹페이지 광고는 웹사이트 관리자가 표시하는 광고입니다.</string>
+    <string name="ads_guide_3">웹사이트 광고는 웹사이트 관리자가 표시하는 광고입니다.</string>
     <string name="ads_guide_4">Soul Browser와는 아무런 관련이 없습니다.</string>
-    <string name="ads_guide_5">Soul Browser는 웹페이지에 인앱 광고를 표시하지 않습니다.</string>
+    <string name="ads_guide_5">Soul Browser는 웹사이트에 인앱 광고를 표시하지 않습니다.</string>
     <string name="inapp_ads_sample">인앱 광고 샘플</string>
     <string name="donate_1">기부 (커피)</string>
     <string name="donate_2">기부 (에너지 드링크)</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">뉴스 출처</string>
     <string name="news_info_2">Google 뉴스</string>
     <string name="news_locale">언어 및 지역</string>
+    <string name="news_trans">뉴스 제목 번역</string>
     <string name="news_topic_headline">헤드라인</string>
     <string name="news_topic_world">세계</string>
     <string name="news_topic_nation">지역 뉴스</string>

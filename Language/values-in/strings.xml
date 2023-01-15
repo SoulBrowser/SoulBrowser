@@ -618,6 +618,8 @@
     <string name="tts_guide_1">Bahasa yang didukung tergantung pada mesin TTS yang digunakan.</string>
     <string name="tts_guide_2">Mesin TTS dapat diubah dalam pengaturan perangkat.</string>
     <string name="speak_page">Bacalah dengan keras</string>
+    <string name="auto_speak">Bicara otomatis</string>
+    <string name="auto_speak_guide">TTS berjalan secara otomatis saat mode pembaca dimulai.</string>
     <string name="detail_setting">Pengaturan detail</string>
     <string name="voice_speed">Kecepatan suara</string>
     <string name="voice_tone">Nada suara</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">Tab sebelumnya</string>
     <string name="next_tab">Tab selanjutnya</string>
     <string name="accent_text">Sorot teks</string>
-    <string name="accent_color">Warna sorot</string>
     <string name="app_keyboard">Aktivasi keyboard saat memulai aplikasi</string>
     <string name="tab_keyboard">Aktifkan keyboard saat menambahkan tab</string>
     <string name="swipe">Geser</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">Hapus iklan dalam aplikasi</string>
     <string name="remove_ads_info_1">Satu pembayaran akan menghapus iklan dalam aplikasi selamanya.</string>
     <string name="remove_ads_info_2">Itu selalu valid jika akun yang digunakan untuk pembayaran sama.</string>
-    <string name="remove_ads_info_3">Iklan dalam aplikasi dan iklan halaman web berbeda.</string>
-    <string name="remove_ads_info_4">Fitur penghapusan iklan halaman web gratis.</string>
+    <string name="remove_ads_info_3">Iklan dalam aplikasi dan iklan situs web berbeda.</string>
+    <string name="remove_ads_info_4">Fitur penghapusan iklan situs web gratis.</string>
     <string name="ads_guide_1">Iklan dalam aplikasi adalah iklan yang ditampilkan oleh aplikasi.</string>
     <string name="ads_guide_2">Iklan dalam aplikasi Soul Browser adalah contoh di bawah ini.</string>
-    <string name="ads_guide_3">Iklan halaman web adalah iklan yang ditampilkan oleh administrator situs web.</string>
+    <string name="ads_guide_3">Iklan situs web adalah iklan yang ditampilkan oleh administrator situs web.</string>
     <string name="ads_guide_4">Ini tidak ada hubungannya dengan Soul Browser.</string>
-    <string name="ads_guide_5">Soul Browser tidak menampilkan iklan dalam aplikasi di halaman web.</string>
+    <string name="ads_guide_5">Soul Browser tidak menampilkan iklan dalam aplikasi di situs web.</string>
     <string name="inapp_ads_sample">Contoh iklan dalam aplikasi</string>
     <string name="donate_1">Donasi (Kopi)</string>
     <string name="donate_2">Donasi (Minuman energi)</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">Sumber berita</string>
     <string name="news_info_2">Berita Google</string>
     <string name="news_locale">Bahasa dan wilayah</string>
+    <string name="news_trans">Terjemahan judul berita</string>
     <string name="news_topic_headline">Tajuk utama</string>
     <string name="news_topic_world">Dunia</string>
     <string name="news_topic_nation">Berita Lokal</string>

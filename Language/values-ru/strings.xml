@@ -618,6 +618,8 @@
     <string name="tts_guide_1">Поддерживаемые языки зависят от используемого механизма TTS.</string>
     <string name="tts_guide_2">Движок TTS можно изменить в настройках устройства.</string>
     <string name="speak_page">Читать вслух</string>
+    <string name="auto_speak">Автоговорить</string>
+    <string name="auto_speak_guide">TTS запускается автоматически при запуске режима чтения.</string>
     <string name="detail_setting">Расширенные настройки</string>
     <string name="voice_speed">Скорость голоса</string>
     <string name="voice_tone">Тон голоса</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">Предыдущая вкладка</string>
     <string name="next_tab">Следующая вкладка</string>
     <string name="accent_text">Текст выделения</string>
-    <string name="accent_color">Цвет выделения</string>
     <string name="app_keyboard">Активировать клавиатуру при запуске приложения</string>
     <string name="tab_keyboard">Активировать клавиатуру при добавлении вкладки</string>
     <string name="swipe">Свайп</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">Удалить рекламу в приложении</string>
     <string name="remove_ads_info_1">Один платеж навсегда удалит рекламу в приложении.</string>
     <string name="remove_ads_info_2">Он всегда действителен, если счёт, используемый для оплаты, тот же.</string>
-    <string name="remove_ads_info_3">Реклама в приложении и реклама на веб-странице отличаются.</string>
-    <string name="remove_ads_info_4">Функция удаления рекламы с веб-страницы бесплатна.</string>
+    <string name="remove_ads_info_3">Реклама в приложении и реклама на сайте отличаются.</string>
+    <string name="remove_ads_info_4">Функция удаления рекламы с сайта бесплатна.</string>
     <string name="ads_guide_1">Реклама в приложениях — это реклама, отображаемая приложениями.</string>
     <string name="ads_guide_2">Примеры рекламы в приложении Soul Browser приведены ниже.</string>
-    <string name="ads_guide_3">Рекламные объявления на веб-страницах — это рекламные объявления, отображаемые администраторами веб-сайтов.</string>
+    <string name="ads_guide_3">Реклама веб-сайта — это реклама, отображаемая администраторами веб-сайта.</string>
     <string name="ads_guide_4">Это не имеет ничего общего с Soul Browser.</string>
-    <string name="ads_guide_5">Soul Browser не отображает рекламу в приложении на веб-страницах.</string>
+    <string name="ads_guide_5">Soul Browser не отображает рекламу в приложении на веб-сайтах.</string>
     <string name="inapp_ads_sample">Образец рекламы в приложении</string>
     <string name="donate_1">Пожертвование (Кофе)</string>
     <string name="donate_2">Пожертвование (Энергетик)</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">Источник новостей</string>
     <string name="news_info_2">Новости Google</string>
     <string name="news_locale">Язык и регион</string>
+    <string name="news_trans">Перевод заголовка новости</string>
     <string name="news_topic_headline">Заголовок</string>
     <string name="news_topic_world">Мир</string>
     <string name="news_topic_nation">Местные новости</string>

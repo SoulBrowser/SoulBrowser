@@ -618,6 +618,8 @@
     <string name="tts_guide_1">Supported languages depend on the TTS engine being used.</string>
     <string name="tts_guide_2">TTS engine can be changed in device settings.</string>
     <string name="speak_page">Read aloud</string>
+    <string name="auto_speak">Auto speak</string>
+    <string name="auto_speak_guide">TTS runs automatically when reader mode is started.</string>
     <string name="detail_setting">Detailed settings</string>
     <string name="voice_speed">Voice speed</string>
     <string name="voice_tone">Voice tone</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">Previous tab</string>
     <string name="next_tab">Next tab</string>
     <string name="accent_text">Highlight text</string>
-    <string name="accent_color">Highlight color</string>
     <string name="app_keyboard">Keyboard activation on app startup</string>
     <string name="tab_keyboard">Activate keyboard when adding tab</string>
     <string name="swipe">Swipe</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">Remove in-app ads</string>
     <string name="remove_ads_info_1">One payment will remove in-app ads forever.</string>
     <string name="remove_ads_info_2">It is always valid if the account used for payment is the same.</string>
-    <string name="remove_ads_info_3">In-app ads and webpage ads are different.</string>
-    <string name="remove_ads_info_4">The webpage ad removal feature is free.</string>
+    <string name="remove_ads_info_3">In-app ads and website ads are different.</string>
+    <string name="remove_ads_info_4">Website ads removal feature is free.</string>
     <string name="ads_guide_1">In-app ads are ads displayed by apps.</string>
     <string name="ads_guide_2">Soul Browser\'s in-app ads are sampled below.</string>
-    <string name="ads_guide_3">Webpage advertisements are advertisements displayed by website administrators.</string>
+    <string name="ads_guide_3">Website ads are advertisements displayed by website administrators.</string>
     <string name="ads_guide_4">It has nothing to do with Soul Browser.</string>
-    <string name="ads_guide_5">Soul Browser does not display in-app ads on web pages.</string>
+    <string name="ads_guide_5">Soul Browser does not display in-app ads on websites.</string>
     <string name="inapp_ads_sample">In-app ad sample</string>
     <string name="donate_1">Donation (Coffee)</string>
     <string name="donate_2">Donation (Energy drink)</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">News source</string>
     <string name="news_info_2">Google News</string>
     <string name="news_locale">Language &#38; region</string>
+    <string name="news_trans">News title translation</string>
     <string name="news_topic_headline">Headline</string>
     <string name="news_topic_world">World</string>
     <string name="news_topic_nation">Local news</string>

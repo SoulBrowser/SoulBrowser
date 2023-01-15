@@ -618,6 +618,8 @@
     <string name="tts_guide_1">Los idiomas admitidos dependen del motor TTS que se utilice.</string>
     <string name="tts_guide_2">El motor TTS se puede cambiar en la configuración del dispositivo.</string>
     <string name="speak_page">Leer en voz alta</string>
+    <string name="auto_speak">habla automática</string>
+    <string name="auto_speak_guide">TTS se ejecuta automáticamente cuando se inicia el modo lector.</string>
     <string name="detail_setting">Configuraciones detalladas</string>
     <string name="voice_speed">Velocidad de voz</string>
     <string name="voice_tone">Tono de voz</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">Pestaña anterior</string>
     <string name="next_tab">Pestaña siguiente</string>
     <string name="accent_text">Subrayar el texto</string>
-    <string name="accent_color">Color de resaltado</string>
     <string name="app_keyboard">Activación del teclado al iniciar la aplicación</string>
     <string name="tab_keyboard">Activar teclado al agregar pestaña</string>
     <string name="swipe">Deslizar</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">Quitar anuncios en la aplicación</string>
     <string name="remove_ads_info_1">Un pago eliminará los anuncios en la aplicación para siempre.</string>
     <string name="remove_ads_info_2">Siempre es válido si la cuenta utilizada para el pago es la misma.</string>
-    <string name="remove_ads_info_3">Los anuncios en la aplicación y los anuncios de la página web son diferentes.</string>
-    <string name="remove_ads_info_4">La función de eliminación de anuncios de la página web es gratuita.</string>
+    <string name="remove_ads_info_3">Los anuncios en la aplicación y los anuncios en el sitio web son diferentes.</string>
+    <string name="remove_ads_info_4">La función de eliminación de anuncios del sitio web es gratuita.</string>
     <string name="ads_guide_1">Los anuncios en la aplicación son anuncios que muestran las aplicaciones.</string>
     <string name="ads_guide_2">Los anuncios en la aplicación de Soul Browser se muestran a continuación.</string>
-    <string name="ads_guide_3">Los anuncios de páginas web son anuncios que muestran los administradores de sitios web.</string>
+    <string name="ads_guide_3">Los anuncios de sitios web son anuncios que muestran los administradores de sitios web.</string>
     <string name="ads_guide_4">No tiene nada que ver con Soul Browser.</string>
-    <string name="ads_guide_5">Soul Browser no muestra anuncios en la aplicación en las páginas web.</string>
+    <string name="ads_guide_5">Soul Browser no muestra anuncios en la aplicación en los sitios web.</string>
     <string name="inapp_ads_sample">Ejemplo de anuncio en la aplicación</string>
     <string name="donate_1">Donación (Café)</string>
     <string name="donate_2">Donación (Bebida energética)</string>
@@ -812,7 +813,7 @@
     <string name="web_title">Web</string>
     <string name="color_title">Color</string>
     <string name="no_icon">No hay icono.</string>
-    <string name="video_player">Jugador</string>
+    <string name="video_player">Reproductor</string>
     <string name="security">Seguridad</string>
     <string name="keyboard_secure">Seguridad del teclado</string>
     <string name="keyboard_secure_info_1">No guarda lo que escribes en el teclado.</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">Fuente de noticias</string>
     <string name="news_info_2">Noticias de Google</string>
     <string name="news_locale">Idioma y región</string>
+    <string name="news_trans">Traducción de títulos de noticias</string>
     <string name="news_topic_headline">Titular</string>
     <string name="news_topic_world">Mundo</string>
     <string name="news_topic_nation">Noticias locales</string>

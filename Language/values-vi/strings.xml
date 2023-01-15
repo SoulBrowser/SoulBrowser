@@ -618,6 +618,8 @@
     <string name="tts_guide_1">Các ngôn ngữ được hỗ trợ phụ thuộc vào công cụ TTS đang được sử dụng.</string>
     <string name="tts_guide_2">Công cụ TTS có thể được thay đổi trong cài đặt thiết bị.</string>
     <string name="speak_page">Đọc lớn tiếng</string>
+    <string name="auto_speak">tự động nói</string>
+    <string name="auto_speak_guide">TTS chạy tự động khi bắt đầu chế độ đọc.</string>
     <string name="detail_setting">Cài đặt chi tiết</string>
     <string name="voice_speed">Tốc độ giọng nói</string>
     <string name="voice_tone">Tông giọng</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">Tab trước</string>
     <string name="next_tab">Tab tiếp theo</string>
     <string name="accent_text">Văn bản nổi bật</string>
-    <string name="accent_color">Tô màu</string>
     <string name="app_keyboard">Kích hoạt bàn phím khi khởi động ứng dụng</string>
     <string name="tab_keyboard">Kích hoạt bàn phím khi thêm tab</string>
     <string name="swipe">Vuốt</string>
@@ -745,7 +746,7 @@
     <string name="remove_ads">Xóa quảng cáo trong ứng dụng</string>
     <string name="remove_ads_info_1">Một lần thanh toán sẽ xóa quảng cáo trong ứng dụng vĩnh viễn.</string>
     <string name="remove_ads_info_2">Nó luôn hợp lệ nếu tài khoản được sử dụng để thanh toán giống nhau.</string>
-    <string name="remove_ads_info_3">Quảng cáo trong ứng dụng và quảng cáo trang web khác nhau.</string>
+    <string name="remove_ads_info_3">Quảng cáo trong ứng dụng và quảng cáo trên trang web là khác nhau.</string>
     <string name="remove_ads_info_4">Tính năng loại bỏ quảng cáo trên trang web là miễn phí.</string>
     <string name="ads_guide_1">Quảng cáo trong ứng dụng là quảng cáo được hiển thị bởi ứng dụng.</string>
     <string name="ads_guide_2">Các quảng cáo trong ứng dụng của Soul Browser được lấy mẫu bên dưới.</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">Nguồn tin tức</string>
     <string name="news_info_2">Google Tin tức</string>
     <string name="news_locale">Ngôn ngữ và khu vực</string>
+    <string name="news_trans">Dịch tiêu đề tin tức</string>
     <string name="news_topic_headline">Tiêu đề</string>
     <string name="news_topic_world">Thế giới</string>
     <string name="news_topic_nation">Tin địa phương</string>

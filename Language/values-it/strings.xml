@@ -618,6 +618,8 @@
     <string name="tts_guide_1">Le lingue supportate dipendono dal motore TTS utilizzato.</string>
     <string name="tts_guide_2">Il motore TTS può essere modificato nelle impostazioni del dispositivo.</string>
     <string name="speak_page">Leggere ad alta voce</string>
+    <string name="auto_speak">Parlare automaticamente</string>
+    <string name="auto_speak_guide">TTS viene eseguito automaticamente all\'avvio della modalità lettore.</string>
     <string name="detail_setting">Impostazioni dettagliate</string>
     <string name="voice_speed">Velocità di voce</string>
     <string name="voice_tone">Tono di voce</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">Schede precedente</string>
     <string name="next_tab">Schede successiva</string>
     <string name="accent_text">Testo evidenziato</string>
-    <string name="accent_color">Evidenzia il colore</string>
     <string name="app_keyboard">Attivazione della tastiera all\'avvio dell\'app</string>
     <string name="tab_keyboard">Attiva la tastiera quando aggiungi nuova schede</string>
     <string name="swipe">Scorri</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">Rimuovi gli annunci in-app</string>
     <string name="remove_ads_info_1">Un pagamento rimuoverà per sempre gli annunci in-app.</string>
     <string name="remove_ads_info_2">È sempre valido se l\'account utilizzato per il pagamento è lo stesso.</string>
-    <string name="remove_ads_info_3">Gli annunci in-app e gli annunci di pagine web sono diversi.</string>
-    <string name="remove_ads_info_4">La funzione di rimozione degli annunci dalla pagina web è gratuita.</string>
+    <string name="remove_ads_info_3">Gli annunci in-app e gli annunci sul sito Web sono diversi.</string>
+    <string name="remove_ads_info_4">La funzione di rimozione degli annunci del sito Web è gratuita.</string>
     <string name="ads_guide_1">Gli annunci in-app sono annunci visualizzati dalle app.</string>
     <string name="ads_guide_2">Gli annunci in-app di Soul Browser sono riportati di seguito.</string>
-    <string name="ads_guide_3">Gli annunci di pagine Web sono annunci visualizzati dagli amministratori di siti Web.</string>
+    <string name="ads_guide_3">Gli annunci del sito web sono annunci pubblicitari visualizzati dagli amministratori del sito web.</string>
     <string name="ads_guide_4">Non ha nulla a che fare con Soul Browser.</string>
-    <string name="ads_guide_5">Soul Browser non mostra annunci in-app sulle pagine web.</string>
+    <string name="ads_guide_5">Soul Browser non mostra annunci in-app sui siti web.</string>
     <string name="inapp_ads_sample">Esempio di annuncio in-app</string>
     <string name="donate_1">Donazione (Caffè)</string>
     <string name="donate_2">Donazione (Bevanda energetica)</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">Fonte di notizie</string>
     <string name="news_info_2">Google News</string>
     <string name="news_locale">Lingua e regione</string>
+    <string name="news_trans">Traduzione del titolo della notizia</string>
     <string name="news_topic_headline">Titolo</string>
     <string name="news_topic_world">Mondo</string>
     <string name="news_topic_nation">Notizie locali</string>

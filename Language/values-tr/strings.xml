@@ -618,6 +618,8 @@
     <string name="tts_guide_1">Desteklenen diller, kullanılan TTS motoruna bağlıdır.</string>
     <string name="tts_guide_2">TTS motoru cihaz ayarlarından değiştirilebilir.</string>
     <string name="speak_page">Yüksek sesle oku</string>
+    <string name="auto_speak">Otomatik konuşma</string>
+    <string name="auto_speak_guide">Okuyucu modu başlatıldığında TTS otomatik olarak çalışır.</string>
     <string name="detail_setting">Ayrıntılı ayarlar</string>
     <string name="voice_speed">Ses hızı</string>
     <string name="voice_tone">Ses tonu</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">Önceki sekme</string>
     <string name="next_tab">Sonraki sekme</string>
     <string name="accent_text">Metni vurgula</string>
-    <string name="accent_color">Vurgu rengi</string>
     <string name="app_keyboard">Uygulama açılışında klavye açılsın</string>
     <string name="tab_keyboard">Sekme eklerken klavyeyi etkinleştir</string>
     <string name="swipe">Kaydırma</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">Uygulama içi reklamları kaldırın</string>
     <string name="remove_ads_info_1">Tek bir ödeme, uygulama içi reklamları sonsuza kadar kaldırır.</string>
     <string name="remove_ads_info_2">Ödeme için kullanılan hesabın aynı olması her zaman geçerlidir.</string>
-    <string name="remove_ads_info_3">Uygulama içi reklamlar ve web sayfası reklamları farklıdır.</string>
-    <string name="remove_ads_info_4">Web sayfası reklam kaldırma özelliği ücretsizdir.</string>
+    <string name="remove_ads_info_3">Uygulama içi reklamlar ve web sitesi reklamları farklıdır.</string>
+    <string name="remove_ads_info_4">Web sitesi reklamlarını kaldırma özelliği ücretsizdir.</string>
     <string name="ads_guide_1">Uygulama içi reklamlar, uygulamalar tarafından görüntülenen reklamlardır.</string>
     <string name="ads_guide_2">Soul Browser\'ın uygulama içi reklamları aşağıda örneklenmiştir.</string>
-    <string name="ads_guide_3">Web sayfası reklamları, web sitesi yöneticileri tarafından görüntülenen reklamlardır.</string>
+    <string name="ads_guide_3">Web sitesi reklamları, web sitesi yöneticileri tarafından görüntülenen reklamlardır.</string>
     <string name="ads_guide_4">Soul Browser ile ilgisi yok.</string>
-    <string name="ads_guide_5">Soul Browser, web sayfalarında uygulama içi reklamlar göstermez.</string>
+    <string name="ads_guide_5">Soul Browser, web sitelerinde uygulama içi reklamlar göstermez.</string>
     <string name="inapp_ads_sample">Uygulama içi reklam örneği</string>
     <string name="donate_1">Bağış (Kahve)</string>
     <string name="donate_2">Bağış (Enerji içeceği)</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">Haber kaynağı</string>
     <string name="news_info_2">Google Haberleri</string>
     <string name="news_locale">Dil ve bölge</string>
+    <string name="news_trans">Haber başlığı çevirisi</string>
     <string name="news_topic_headline">Başlık</string>
     <string name="news_topic_world">Dünya</string>
     <string name="news_topic_nation">Yerel Haberler</string>

@@ -618,6 +618,8 @@
     <string name="tts_guide_1">समर्थित भाषाएं इस्तेमाल किए जा रहे टीटीएस इंजन पर निर्भर करती हैं।</string>
     <string name="tts_guide_2">टीटीएस इंजन को डिवाइस सेटिंग्स में बदला जा सकता है।</string>
     <string name="speak_page">जोर से पढ़ें</string>
+    <string name="auto_speak">ऑटो बोलो</string>
+    <string name="auto_speak_guide">रीडर मोड चालू होने पर TTS अपने आप चलता है।</string>
     <string name="detail_setting">विस्तृत सेटिंग्स</string>
     <string name="voice_speed">आवाज की गति</string>
     <string name="voice_tone">आवाज़ की टोन</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">पिछला टैब</string>
     <string name="next_tab">अगला टैब</string>
     <string name="accent_text">टेक्स्ट हाइलाइट करें</string>
-    <string name="accent_color">हाइलाइट रंग</string>
     <string name="app_keyboard">ऐप स्टार्टअप पर कीबोर्ड सक्रियण</string>
     <string name="tab_keyboard">टैब जोड़ते समय कीबोर्ड सक्रिय करें</string>
     <string name="swipe">कड़ी चोट</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">इन-ऐप विज्ञापन हटाएं</string>
     <string name="remove_ads_info_1">एक भुगतान इन-ऐप विज्ञापनों को हमेशा के लिए हटा देगा।</string>
     <string name="remove_ads_info_2">भुगतान के लिए उपयोग किया जाने वाला खाता समान होने पर यह हमेशा मान्य होता है।</string>
-    <string name="remove_ads_info_3">इन-ऐप विज्ञापन और वेबपेज विज्ञापन अलग हैं।</string>
-    <string name="remove_ads_info_4">वेबपेज विज्ञापन हटाने की सुविधा मुफ्त है।</string>
+    <string name="remove_ads_info_3">इन-ऐप विज्ञापन और वेबसाइट विज्ञापन अलग-अलग हैं।</string>
+    <string name="remove_ads_info_4">वेबसाइट विज्ञापन हटाने की सुविधा निःशुल्क है।</string>
     <string name="ads_guide_1">इन-ऐप विज्ञापन ऐप्स द्वारा प्रदर्शित विज्ञापन होते हैं।</string>
     <string name="ads_guide_2">सोल ब्राउजर के इन-ऐप विज्ञापनों का नमूना नीचे दिया गया है।</string>
-    <string name="ads_guide_3">वेबपेज विज्ञापन वेबसाइट प्रशासकों द्वारा प्रदर्शित विज्ञापन हैं।</string>
+    <string name="ads_guide_3">वेबसाइट विज्ञापन वेबसाइट प्रशासकों द्वारा प्रदर्शित विज्ञापन होते हैं।</string>
     <string name="ads_guide_4">इसका सोल ब्राउज़र से कोई लेना-देना नहीं है।</string>
-    <string name="ads_guide_5">सोल ब्राउज़र वेब पेजों पर इन-ऐप विज्ञापन प्रदर्शित नहीं करता है।</string>
+    <string name="ads_guide_5">सोल ब्राउजर वेबसाइटों पर इन-ऐप विज्ञापन प्रदर्शित नहीं करता है।</string>
     <string name="inapp_ads_sample">इन-ऐप विज्ञापन नमूना</string>
     <string name="donate_1">दान (कॉफी)</string>
     <string name="donate_2">दान (ऊर्जा पेय)</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">खबर के सूत्र</string>
     <string name="news_info_2">गूगल समाचार</string>
     <string name="news_locale">भाषा &#38; क्षेत्र</string>
+    <string name="news_trans">समाचार शीर्षक अनुवाद</string>
     <string name="news_topic_headline">शीर्षक</string>
     <string name="news_topic_world">दुनिया</string>
     <string name="news_topic_nation">स्थानीय समाचार</string>

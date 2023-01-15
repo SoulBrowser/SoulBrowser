@@ -618,6 +618,8 @@
     <string name="tts_guide_1">支持的語言取決於所使用的 TTS 引擎</string>
     <string name="tts_guide_2">TTS 引擎可以在設備設置中更改</string>
     <string name="speak_page">語音朗讀</string>
+    <string name="auto_speak">自動說話</string>
+    <string name="auto_speak_guide">當閱讀器模式啟動時，TTS 會自動運行</string>
     <string name="detail_setting">詳細設定</string>
     <string name="voice_speed">語音速度</string>
     <string name="voice_tone">語音音調</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">上一個分頁</string>
     <string name="next_tab">下一個分頁</string>
     <string name="accent_text">突顯文字</string>
-    <string name="accent_color">突顯顏色</string>
     <string name="app_keyboard">應用程式啟動時啟用鍵盤</string>
     <string name="tab_keyboard">新增分頁時啟用鍵盤</string>
     <string name="swipe">滑動</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">刪除應用程式內廣告</string>
     <string name="remove_ads_info_1">單次付款將永久刪除應用程式內廣告。</string>
     <string name="remove_ads_info_2">如果用於支付的帳戶相同，則始終有效。</string>
-    <string name="remove_ads_info_3">應用內廣告和網頁廣告是不同的。</string>
-    <string name="remove_ads_info_4">網頁廣告刪除功能是免費的。</string>
+    <string name="remove_ads_info_3">應用內廣告和網站廣告不同</string>
+    <string name="remove_ads_info_4">網站廣告去除功能是免費的</string>
     <string name="ads_guide_1">應用內廣告是應用展示的廣告</string>
     <string name="ads_guide_2">Soul Browser 的應用內廣告示例如下</string>
-    <string name="ads_guide_3">網頁廣告是網站管理員展示的廣告</string>
+    <string name="ads_guide_3">網站廣告是網站管理員展示的廣告</string>
     <string name="ads_guide_4">它與 Soul Browser 無關</string>
-    <string name="ads_guide_5">Soul Browser 不會在網頁上顯示應用內廣告</string>
+    <string name="ads_guide_5">Soul Browser 不會在網站上顯示應用內廣告</string>
     <string name="inapp_ads_sample">應用內廣告示例</string>
     <string name="donate_1">捐贈（咖啡）</string>
     <string name="donate_2">捐贈（能量飲料）</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">新聞來源</string>
     <string name="news_info_2">Google 新聞</string>
     <string name="news_locale">語言和地區</string>
+    <string name="news_trans">新聞標題翻譯</string>
     <string name="news_topic_headline">標題</string>
     <string name="news_topic_world">世界</string>
     <string name="news_topic_nation">本地新聞</string>

@@ -618,6 +618,8 @@
     <string name="tts_guide_1">ภาษาที่รองรับขึ้นอยู่กับเอ็นจิ้น TTS ที่ใช้</string>
     <string name="tts_guide_2">เอ็นจิ้น TTS สามารถเปลี่ยนแปลงได้ในการตั้งค่าอุปกรณ์</string>
     <string name="speak_page">อ่านออกเสียง</string>
+    <string name="auto_speak">พูดอัตโนมัติ</string>
+    <string name="auto_speak_guide">TTS จะทำงานโดยอัตโนมัติเมื่อเริ่มโหมดผู้อ่าน</string>
     <string name="detail_setting">การตั้งค่าโดยละเอียด</string>
     <string name="voice_speed">ความเร็วของเสียง</string>
     <string name="voice_tone">เสียงพูด</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">แท็บก่อนหน้า</string>
     <string name="next_tab">แท็บถัดไป</string>
     <string name="accent_text">ไฮไลต์ข้อความ</string>
-    <string name="accent_color">เน้นสี</string>
     <string name="app_keyboard">การเปิดใช้งานแป้นพิมพ์เมื่อเริ่มต้นแอป</string>
     <string name="tab_keyboard">เปิดใช้งานแป้นพิมพ์เมื่อเพิ่มแท็บ</string>
     <string name="swipe">งาบ</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">ลบโฆษณาในแอป</string>
     <string name="remove_ads_info_1">การชำระเงินครั้งเดียวจะลบโฆษณาในแอปตลอดไป</string>
     <string name="remove_ads_info_2">จะใช้ได้เสมอหากบัญชีที่ใช้ในการชำระเงินเหมือนกัน</string>
-    <string name="remove_ads_info_3">โฆษณาในแอปและโฆษณาหน้าเว็บต่างกัน</string>
-    <string name="remove_ads_info_4">คุณลักษณะการลบโฆษณาหน้าเว็บนั้นฟรี</string>
+    <string name="remove_ads_info_3">โฆษณาในแอปและโฆษณาบนเว็บไซต์นั้นแตกต่างกัน</string>
+    <string name="remove_ads_info_4">คุณสมบัติการลบโฆษณาบนเว็บไซต์นั้นฟรี</string>
     <string name="ads_guide_1">โฆษณาในแอปคือโฆษณาที่แสดงโดยแอป</string>
     <string name="ads_guide_2">โฆษณาในแอปของ Soul Browser มีตัวอย่างด้านล่าง</string>
-    <string name="ads_guide_3">โฆษณาหน้าเว็บเป็นโฆษณาที่แสดงโดยผู้ดูแลเว็บไซต์</string>
+    <string name="ads_guide_3">โฆษณาบนเว็บไซต์เป็นโฆษณาที่แสดงโดยผู้ดูแลเว็บไซต์</string>
     <string name="ads_guide_4">ไม่มีส่วนเกี่ยวข้องกับ Soul Browser</string>
-    <string name="ads_guide_5">Soul Browser ไม่แสดงโฆษณาในแอปบนหน้าเว็บ</string>
+    <string name="ads_guide_5">Soul Browser ไม่แสดงโฆษณาในแอปบนเว็บไซต์</string>
     <string name="inapp_ads_sample">ตัวอย่างโฆษณาในแอป</string>
     <string name="donate_1">บริจาค (กาแฟ)</string>
     <string name="donate_2">บริจาค (เครื่องดื่มชูกำลัง)</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">แหล่งข่าว</string>
     <string name="news_info_2">Google News</string>
     <string name="news_locale">ภาษาและภูมิภาค</string>
+    <string name="news_trans">แปลชื่อข่าว</string>
     <string name="news_topic_headline">พาดหัวข่าว</string>
     <string name="news_topic_world">โลก</string>
     <string name="news_topic_nation">ข่าวท้องถิ่น</string>

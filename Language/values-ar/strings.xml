@@ -618,6 +618,8 @@
     <string name="tts_guide_1">تعتمد اللغات المدعومة على محرك TTS المستخدم.</string>
     <string name="tts_guide_2">يمكن تغيير محرك TTS في إعدادات الجهاز.</string>
     <string name="speak_page">اقرأ بصوت عالي</string>
+    <string name="auto_speak">الكلام التلقائي</string>
+    <string name="auto_speak_guide">يتم تشغيل TTS تلقائيًا عند بدء وضع القارئ.</string>
     <string name="detail_setting">الإعداد التفصيلي</string>
     <string name="voice_speed">سرعة الصوت</string>
     <string name="voice_tone">نغمة الصوت</string>
@@ -670,7 +672,6 @@
     <string name="prev_tab">علامة التبويب السابقة</string>
     <string name="next_tab">علامة التبويب التالية</string>
     <string name="accent_text">تسليط الضوء على النص</string>
-    <string name="accent_color">تسليط الضوء على اللون</string>
     <string name="app_keyboard">تنشيط لوحة المفاتيح عند بدء تشغيل التطبيق</string>
     <string name="tab_keyboard">قم بتنشيط لوحة المفاتيح عند إضافة علامة تبويب</string>
     <string name="swipe">انتقد</string>
@@ -745,13 +746,13 @@
     <string name="remove_ads">إزالة الإعلانات داخل التطبيق</string>
     <string name="remove_ads_info_1">ستؤدي دفعة واحدة إلى إزالة الإعلانات داخل التطبيق إلى الأبد.</string>
     <string name="remove_ads_info_2">يكون دائمًا صالحًا إذا كان الحساب المستخدم للدفع هو نفسه.</string>
-    <string name="remove_ads_info_3">تختلف الإعلانات داخل التطبيق وإعلانات صفحات الويب.</string>
-    <string name="remove_ads_info_4">ميزة إزالة إعلان صفحة الويب مجانية.</string>
+    <string name="remove_ads_info_3">تختلف الإعلانات داخل التطبيق وإعلانات مواقع الويب.</string>
+    <string name="remove_ads_info_4">ميزة إزالة إعلانات الموقع مجانية.</string>
     <string name="ads_guide_1">الإعلانات داخل التطبيق هي إعلانات تعرضها التطبيقات.</string>
     <string name="ads_guide_2">يتم أخذ عينات من الإعلانات داخل التطبيق في Soul Browser أدناه.</string>
-    <string name="ads_guide_3">إعلانات صفحات الويب هي إعلانات يعرضها مسؤولو الموقع.</string>
+    <string name="ads_guide_3">إعلانات الموقع هي إعلانات يعرضها مسؤولو الموقع.</string>
     <string name="ads_guide_4">لا علاقة له بـ متصفح الروح.</string>
-    <string name="ads_guide_5">لا يعرض متصفح الروح الإعلانات داخل التطبيق على صفحات الويب.</string>
+    <string name="ads_guide_5">لا يعرض متصفح الروح الإعلانات داخل التطبيق على مواقع الويب.</string>
     <string name="inapp_ads_sample">نموذج إعلان داخل التطبيق</string>
     <string name="donate_1">تبرع (قهوة)</string>
     <string name="donate_2">تبرع (مشروب الطاقة)</string>
@@ -862,6 +863,7 @@
     <string name="news_info_1">مصدر الأخبار</string>
     <string name="news_info_2">أخبار جوجل</string>
     <string name="news_locale">اللغة والمنطقة</string>
+    <string name="news_trans">ترجمة عنوان الخبر</string>
     <string name="news_topic_headline">العنوان</string>
     <string name="news_topic_world">عالم</string>
     <string name="news_topic_nation">اخبار محلية</string>
