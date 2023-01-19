@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Página actual</string>
     <string name="blank_page">Página en blanco</string>
     <string name="page">Página</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">Es posible que no se apliquen las fuentes instaladas por otras aplicaciones.</string>
     <string name="font_info_3">Cree una carpeta aleatoria y coloque el archivo TTF que desea usar directamente.</string>
     <string name="font_guide_1">Cada fuente tiene un idioma que admite.</string>
-    <string name="font_guide_2">Las fuentes del sistema solo admiten letras y números.</string>
+    <string name="font_guide_2">Las fuentes del sistema generalmente solo admiten caracteres alfanuméricos.</string>
     <string name="font_guide_3">Echa un vistazo a la vista previa.</string>
     <string name="tv_cast">Enviar a TV</string>
     <string name="media_route_menu_title">Aprovecharse de&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">Si el sitio que visita admite temas, se aplica a su navegador.</string>
     <string name="prev_tab">Pestaña anterior</string>
     <string name="next_tab">Pestaña siguiente</string>
-    <string name="accent_text">Subrayar el texto</string>
+    <string name="tts_highlight">Puntos destacados de TTS</string>
     <string name="app_keyboard">Activación del teclado al iniciar la aplicación</string>
     <string name="tab_keyboard">Activar teclado al agregar pestaña</string>
     <string name="swipe">Deslizar</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">Si el filtro proporcionado no bloquea los anuncios, agregue su propia regla de filtro o comuníquese con el administrador del filtro.</string>
     <string name="search_guide_1">El elemento seleccionado no se puede deshabilitar.</string>
     <string name="search_guide_2">Para deshabilitarlo, seleccione otro primero.</string>
-    <string name="btn_ges_disable">Los botones y los gestos están deshabilitados.</string>
+    <string name="video_icon_tap">Toca la pantalla</string>
+    <string name="video_icon_long">Pulsación larga en la pantalla</string>
+    <string name="video_icon_guide">Aparece un botón cuando mantienes presionada la pantalla.</string>
 </resources>

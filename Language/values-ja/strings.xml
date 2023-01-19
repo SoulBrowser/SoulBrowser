@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">現在のページ</string>
     <string name="blank_page">空白のページ</string>
     <string name="page">ページ</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">他のアプリからのインストールされたフォントは適用されないことがあります。</string>
     <string name="font_info_3">任意のフォルダを作成し、使用するTTFファイルを直接挿入します。</string>
     <string name="font_guide_1">各フォントにはサポートする言語があります。</string>
-    <string name="font_guide_2">システムフォントはアルファベットと数字のみをサポートします。</string>
+    <string name="font_guide_2">システムフォントは通常、アルファベットと数字のみをサポートします。</string>
     <string name="font_guide_3">プレビューを確認してください。</string>
     <string name="tv_cast">TVキャスト</string>
     <string name="media_route_menu_title">でプレイ&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">訪問したサイトがテーマをサポートしている場合は、ブラウザに適用されます。</string>
     <string name="prev_tab">前のタブ</string>
     <string name="next_tab">次のタブ</string>
-    <string name="accent_text">テキストを強調表示</string>
+    <string name="tts_highlight">TTSハイライト</string>
     <string name="app_keyboard">アプリの起動時にキーボードを有効に</string>
     <string name="tab_keyboard">タブの追加時のキーボードを有効に</string>
     <string name="swipe">スワイプ</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">提供されたフィルターで広告がブロックされない場合は、独自のフィルター ルールを追加するか、フィルター管理者に連絡してください。</string>
     <string name="search_guide_1">選択したアイテムを無効にすることはできません。</string>
     <string name="search_guide_2">無効にするには、まず別のものを選択します。</string>
-    <string name="btn_ges_disable">ボタンとジェスチャーは無効になります。</string>
+    <string name="video_icon_tap">画面をタップ</string>
+    <string name="video_icon_long">画面を長押し</string>
+    <string name="video_icon_guide">画面を長押しするとボタンが表示されます。</string>
 </resources>

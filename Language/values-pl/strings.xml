@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Bieżąca strona</string>
     <string name="blank_page">Pusta strona</string>
     <string name="page">Strona</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">Czcionki zainstalowane przez inne aplikacje mogą nie mieć zastosowania.</string>
     <string name="font_info_3">Utwórz losowy folder i umieść bezpośrednio plik TTF, którego chcesz użyć.</string>
     <string name="font_guide_1">Każda czcionka ma obsługiwany język.</string>
-    <string name="font_guide_2">Czcionki systemowe obsługują tylko alfabety i cyfry.</string>
+    <string name="font_guide_2">Czcionki systemowe zwykle obsługują tylko znaki alfanumeryczne.</string>
     <string name="font_guide_3">Sprawdź podgląd.</string>
     <string name="tv_cast">Obsada telewizyjna</string>
     <string name="media_route_menu_title">Graj na&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">Jeśli odwiedzana witryna obsługuje motywy, dotyczy przeglądarki.</string>
     <string name="prev_tab">Poprzednia karta</string>
     <string name="next_tab">Następna karta</string>
-    <string name="accent_text">Zaznaczanie tekstu</string>
+    <string name="tts_highlight">Najciekawsze TTS</string>
     <string name="app_keyboard">Aktywacja klawiatury podczas uruchamiania aplikacji</string>
     <string name="tab_keyboard">Aktywuj klawiaturę podczas dodawania karty</string>
     <string name="swipe">Przesuń palcem</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">Jeśli podany filtr nie blokuje reklam, dodaj własną regułę filtrowania lub skontaktuj się z administratorem filtrów.</string>
     <string name="search_guide_1">Wybrany element nie może zostać wyłączony.</string>
     <string name="search_guide_2">Aby go wyłączyć, wybierz najpierw inny.</string>
-    <string name="btn_ges_disable">Przyciski i gesty są wyłączone.</string>
+    <string name="video_icon_tap">Dotknij ekranu</string>
+    <string name="video_icon_long">Długie naciśnięcie ekranu</string>
+    <string name="video_icon_guide">Po naciśnięciu i przytrzymaniu ekranu pojawia się przycisk.</string>
 </resources>

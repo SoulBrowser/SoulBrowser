@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">الصفحه الحاليه</string>
     <string name="blank_page">صفحة فارغة</string>
     <string name="page">صفحة</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">قد لا يتم تطبيق الخطوط المثبتة بواسطة تطبيقات أخرى.</string>
     <string name="font_info_3">قم بإنشاء مجلد عشوائي ووضع ملف TTF الذي تريد استخدامه مباشرة.</string>
     <string name="font_guide_1">كل خط له لغة يدعمها.</string>
-    <string name="font_guide_2">تدعم خطوط النظام الحروف الأبجدية والأرقام فقط.</string>
+    <string name="font_guide_2">عادةً ما تدعم خطوط النظام الأحرف الأبجدية الرقمية فقط.</string>
     <string name="font_guide_3">تحقق من المعاينة.</string>
     <string name="tv_cast">طاقم تلفزيوني</string>
     <string name="media_route_menu_title">لعب</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">إذا كان الموقع الذي تزوره يدعم السمة ، فسيتم تطبيقه على متصفحك.</string>
     <string name="prev_tab">علامة التبويب السابقة</string>
     <string name="next_tab">علامة التبويب التالية</string>
-    <string name="accent_text">تسليط الضوء على النص</string>
+    <string name="tts_highlight">يسلط الضوء على TTS</string>
     <string name="app_keyboard">تنشيط لوحة المفاتيح عند بدء تشغيل التطبيق</string>
     <string name="tab_keyboard">قم بتنشيط لوحة المفاتيح عند إضافة علامة تبويب</string>
     <string name="swipe">انتقد</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">إذا كان الفلتر المقدم لا يمنع الإعلانات ، فالرجاء إضافة قاعدة الفلتر الخاصة بك أو الاتصال بمسؤول التصفية.</string>
     <string name="search_guide_1">لا يمكن تعطيل العنصر المحدد.</string>
     <string name="search_guide_2">لتعطيله ، حدد واحدة أخرى أولاً.</string>
-    <string name="btn_ges_disable">تم تعطيل الأزرار والإيماءات.</string>
+    <string name="video_icon_tap">اضغط على الشاشة</string>
+    <string name="video_icon_long">الضغط لفترة طويلة على الشاشة</string>
+    <string name="video_icon_guide">يظهر زر عند الضغط مع الاستمرار على الشاشة.</string>
 </resources>

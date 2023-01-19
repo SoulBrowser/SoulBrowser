@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Página atual</string>
     <string name="blank_page">Página em branco</string>
     <string name="page">Página</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">As fontes instaladas por outros aplicativos podem não ser aplicadas.</string>
     <string name="font_info_3">Crie uma pasta aleatória e coloque o arquivo TTF que você deseja usar diretamente.</string>
     <string name="font_guide_1">Cada fonte tem um idioma compatível.</string>
-    <string name="font_guide_2">As fontes do sistema suportam apenas alfabetos e números.</string>
+    <string name="font_guide_2">As fontes do sistema geralmente suportam apenas caracteres alfanuméricos.</string>
     <string name="font_guide_3">Confira a prévia.</string>
     <string name="tv_cast">Transmissão para TV</string>
     <string name="media_route_menu_title">Reproduzir em&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">Se o site que você visita suportar temas, ele se aplicará ao seu navegador.</string>
     <string name="prev_tab">Guia anterior</string>
     <string name="next_tab">Próxima guia</string>
-    <string name="accent_text">Realçar texto</string>
+    <string name="tts_highlight">TTS destaques</string>
     <string name="app_keyboard">Ativação do teclado na inicialização do aplicativo</string>
     <string name="tab_keyboard">Ativar teclado ao adicionar guia</string>
     <string name="swipe">Deslizar</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">Se o filtro fornecido não bloquear anúncios, adicione sua própria regra de filtro ou entre em contato com o administrador do filtro.</string>
     <string name="search_guide_1">O item selecionado não pode ser desabilitado.</string>
     <string name="search_guide_2">Para desativá-lo, selecione outro primeiro.</string>
-    <string name="btn_ges_disable">Botões e gestos estão desativados.</string>
+    <string name="video_icon_tap">Toque na tela</string>
+    <string name="video_icon_long">Toque longo na tela</string>
+    <string name="video_icon_guide">Um botão aparece quando você pressiona e segura a tela.</string>
 </resources>

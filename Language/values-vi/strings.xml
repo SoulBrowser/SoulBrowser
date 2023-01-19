@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Trang hiện tại</string>
     <string name="blank_page">Trang trống</string>
     <string name="page">Trang</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">Phông chữ được cài đặt bởi các ứng dụng khác có thể không áp dụng.</string>
     <string name="font_info_3">Tạo một thư mục ngẫu nhiên và đặt tệp TTF bạn muốn sử dụng trực tiếp.</string>
     <string name="font_guide_1">Mỗi phông chữ có một ngôn ngữ mà nó hỗ trợ.</string>
-    <string name="font_guide_2">Phông chữ hệ thống chỉ hỗ trợ bảng chữ cái và số.</string>
+    <string name="font_guide_2">Phông chữ hệ thống thường chỉ hỗ trợ các ký tự chữ và số.</string>
     <string name="font_guide_3">Kiểm tra bản xem trước.</string>
     <string name="tv_cast">Truyền màn hình lên TV</string>
     <string name="media_route_menu_title">Chơi trên&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">Nếu trang web bạn truy cập hỗ trợ các chủ đề, nó sẽ áp dụng cho trình duyệt của bạn.</string>
     <string name="prev_tab">Tab trước</string>
     <string name="next_tab">Tab tiếp theo</string>
-    <string name="accent_text">Văn bản nổi bật</string>
+    <string name="tts_highlight">TTS điểm nổi bật</string>
     <string name="app_keyboard">Kích hoạt bàn phím khi khởi động ứng dụng</string>
     <string name="tab_keyboard">Kích hoạt bàn phím khi thêm tab</string>
     <string name="swipe">Vuốt</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">Nếu bộ lọc được cung cấp không chặn quảng cáo, vui lòng thêm quy tắc bộ lọc của riêng bạn hoặc liên hệ với quản trị viên bộ lọc.</string>
     <string name="search_guide_1">Không thể tắt mục đã chọn.</string>
     <string name="search_guide_2">Để tắt nó, trước tiên hãy chọn một cái khác.</string>
-    <string name="btn_ges_disable">Các nút và cử chỉ bị vô hiệu hóa.</string>
+    <string name="video_icon_tap">Chạm vào màn hình</string>
+    <string name="video_icon_long">Nhấn lâu vào màn hình</string>
+    <string name="video_icon_guide">Một nút xuất hiện khi bạn nhấn và giữ màn hình.</string>
 </resources>

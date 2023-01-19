@@ -207,7 +207,6 @@
     <string name="spage">스타트페이지</string>
     <string name="duckduckgo">덕덕고</string>
     <string name="youtube">유튜브</string>
-    <string name="chrome_tab">크롬</string>
     <string name="current_page">현재 페이지</string>
     <string name="blank_page">빈 페이지</string>
     <string name="page">페이지</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">다른 앱에서 설치한 폰트는 적용되지 않을 수 있습니다.</string>
     <string name="font_info_3">임의의 폴더를 생성하고, 사용하려는 TTF 파일을 직접 넣으십시오.</string>
     <string name="font_guide_1">각 폰트에는 지원하는 언어가 있습니다.</string>
-    <string name="font_guide_2">시스템 폰트는 알파벳과 숫자만 지원합니다.</string>
+    <string name="font_guide_2">시스템 폰트는 일반적으로 알파벳과 숫자만 지원합니다.</string>
     <string name="font_guide_3">미리보기를 확인하세요.</string>
     <string name="tv_cast">TV 캐스트</string>
     <string name="media_route_menu_title">재생&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">방문한 사이트가 테마를 지원하는 경우 브라우저에 적용됩니다.</string>
     <string name="prev_tab">이전 탭</string>
     <string name="next_tab">다음 탭</string>
-    <string name="accent_text">텍스트 강조</string>
+    <string name="tts_highlight">TTS 하이라이트</string>
     <string name="app_keyboard">앱 시작 시 키보드 활성화</string>
     <string name="tab_keyboard">탭 추가 시 키보드 활성화</string>
     <string name="swipe">스와이프</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">제공된 필터가 광고를 차단하지 않는 경우, 자신의 필터 규칙을 추가하거나 필터 관리자에게 문의하세요.</string>
     <string name="search_guide_1">선택된 항목은 비활성화할 수 없습니다.</string>
     <string name="search_guide_2">비활성화하려면, 먼저 다른 것을 선택해 주세요.</string>
-    <string name="btn_ges_disable">버튼과 제스처가 비활성화됩니다.</string>
+    <string name="video_icon_tap">화면을 탭</string>
+    <string name="video_icon_long">화면을 길게 누르기</string>
+    <string name="video_icon_guide">화면을 길게 누르면 버튼이 나타납니다.</string>
 </resources>

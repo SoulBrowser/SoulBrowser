@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Halaman saat ini</string>
     <string name="blank_page">Halaman kosong</string>
     <string name="page">Halaman</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">Font yang dipasang oleh aplikasi lain mungkin tidak berlaku.</string>
     <string name="font_info_3">Buat folder acak dan letakkan file TTF yang ingin Anda gunakan secara langsung.</string>
     <string name="font_guide_1">Setiap font memiliki bahasa yang didukungnya.</string>
-    <string name="font_guide_2">Font sistem hanya mendukung huruf dan angka.</string>
+    <string name="font_guide_2">Font sistem biasanya hanya mendukung karakter alfanumerik.</string>
     <string name="font_guide_3">Lihat pratinjaunya.</string>
     <string name="tv_cast">Transmisi TV</string>
     <string name="media_route_menu_title">Mainkan&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">Jika situs yang Anda kunjungi mendukung tema, itu berlaku untuk browser Anda.</string>
     <string name="prev_tab">Tab sebelumnya</string>
     <string name="next_tab">Tab selanjutnya</string>
-    <string name="accent_text">Sorot teks</string>
+    <string name="tts_highlight">Sorotan TTS</string>
     <string name="app_keyboard">Aktivasi keyboard saat memulai aplikasi</string>
     <string name="tab_keyboard">Aktifkan keyboard saat menambahkan tab</string>
     <string name="swipe">Geser</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">Jika filter yang disediakan tidak memblokir iklan, tambahkan aturan filter Anda sendiri atau hubungi administrator filter.</string>
     <string name="search_guide_1">Item yang dipilih tidak dapat dinonaktifkan.</string>
     <string name="search_guide_2">Untuk menonaktifkannya, pilih yang lain terlebih dahulu.</string>
-    <string name="btn_ges_disable">Tombol dan gerakan dinonaktifkan.</string>
+    <string name="video_icon_tap">Ketuk layar</string>
+    <string name="video_icon_long">Tekan lama di layar</string>
+    <string name="video_icon_guide">Sebuah tombol muncul saat Anda menekan dan menahan layar.</string>
 </resources>

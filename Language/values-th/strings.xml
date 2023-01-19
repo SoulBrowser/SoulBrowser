@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">หน้าปัจจุบัน</string>
     <string name="blank_page">หน้าว่าง</string>
     <string name="page">หน้า</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">แบบอักษรที่ติดตั้งโดยแอพอื่นอาจใช้ไม่ได้</string>
     <string name="font_info_3">สร้างโฟลเดอร์สุ่มและวางไฟล์ TTF ที่คุณต้องการใช้โดยตรง</string>
     <string name="font_guide_1">แบบอักษรแต่ละตัวมีภาษาที่รองรับ</string>
-    <string name="font_guide_2">แบบอักษรของระบบรองรับเฉพาะตัวอักษรและตัวเลขเท่านั้น</string>
+    <string name="font_guide_2">แบบอักษรของระบบมักจะรองรับเฉพาะอักขระที่เป็นตัวอักษรและตัวเลขคละกันเท่านั้น</string>
     <string name="font_guide_3">ลองดูตัวอย่าง</string>
     <string name="tv_cast">รายการทีวี</string>
     <string name="media_route_menu_title">เล่นบน&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">หากไซต์ที่คุณเยี่ยมชมรองรับธีมไซต์นั้นจะใช้กับเบราว์เซอร์ของคุณ</string>
     <string name="prev_tab">แท็บก่อนหน้า</string>
     <string name="next_tab">แท็บถัดไป</string>
-    <string name="accent_text">ไฮไลต์ข้อความ</string>
+    <string name="tts_highlight">TTS ไฮไลท์</string>
     <string name="app_keyboard">การเปิดใช้งานแป้นพิมพ์เมื่อเริ่มต้นแอป</string>
     <string name="tab_keyboard">เปิดใช้งานแป้นพิมพ์เมื่อเพิ่มแท็บ</string>
     <string name="swipe">งาบ</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">หากตัวกรองที่ให้มาไม่ได้บล็อกโฆษณา โปรดเพิ่มกฎตัวกรองของคุณเองหรือติดต่อผู้ดูแลระบบตัวกรอง</string>
     <string name="search_guide_1">ไม่สามารถปิดใช้งานรายการที่เลือกได้</string>
     <string name="search_guide_2">หากต้องการปิดใช้งาน ให้เลือกอันอื่นก่อน</string>
-    <string name="btn_ges_disable">ปุ่มและท่าทางถูกปิดใช้งาน</string>
+    <string name="video_icon_tap">แตะที่หน้าจอ</string>
+    <string name="video_icon_long">กดค้างบนหน้าจอ</string>
+    <string name="video_icon_guide">ปุ่มจะปรากฏขึ้นเมื่อคุณกดหน้าจอค้างไว้</string>
 </resources>

@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">当前页</string>
     <string name="blank_page">空白页</string>
     <string name="page">网页</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">其它应用安装的字体可能不适用</string>
     <string name="font_info_3">创建一个文件夹，然后直接放置要使用的 TTF 字体文件</string>
     <string name="font_guide_1">每种字体都有它支持的语言</string>
-    <string name="font_guide_2">系统字体仅支持字母和数字</string>
+    <string name="font_guide_2">系统字体通常只支持字母数字字符</string>
     <string name="font_guide_3">查看预览</string>
     <string name="tv_cast">电视投屏</string>
     <string name="media_route_menu_title">继续播放&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">当你访问的网站支持主题时适用</string>
     <string name="prev_tab">上一个标签</string>
     <string name="next_tab">下一个标签</string>
-    <string name="accent_text">突出显示文字</string>
+    <string name="tts_highlight">TTS 亮点</string>
     <string name="app_keyboard">应用启动时激活键盘</string>
     <string name="tab_keyboard">添加标签时激活键盘</string>
     <string name="swipe">滑动</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">如果提供的过滤器没有屏蔽广告，请添加您自己的过滤器规则或联系过滤器管理员</string>
     <string name="search_guide_1">无法禁用所选项目</string>
     <string name="search_guide_2">要禁用它，请先选择另一个</string>
-    <string name="btn_ges_disable">按钮和手势被禁用</string>
+    <string name="video_icon_tap">点击屏幕</string>
+    <string name="video_icon_long">长按屏幕</string>
+    <string name="video_icon_guide">按住屏幕时会出现一个按钮</string>
 </resources>

@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Поточна сторінка</string>
     <string name="blank_page">Порожня сторінка</string>
     <string name="page">Сторінка</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">Шрифти, встановлені іншими програмами, можуть не застосовуватися.</string>
     <string name="font_info_3">Створіть випадкову папку і вставте файл TTF, який ви хочете використовувати безпосередньо.</string>
     <string name="font_guide_1">Кожен шрифт має мову, яку він підтримує.</string>
-    <string name="font_guide_2">Системні шрифти підтримують лише букви та цифри.</string>
+    <string name="font_guide_2">Системні шрифти зазвичай підтримують лише буквено-цифрові символи.</string>
     <string name="font_guide_3">Перегляньте попередній перегляд.</string>
     <string name="tv_cast">ТВ трансляції</string>
     <string name="media_route_menu_title">Вiдтворювати на&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">Якщо веб-сайт, який ви відвідуєте, підтримує теми, він стосується браузера.</string>
     <string name="prev_tab">Попередня вкладка</string>
     <string name="next_tab">Наступна вкладка</string>
-    <string name="accent_text">Виділити текст</string>
+    <string name="tts_highlight">TTS підсвічування</string>
     <string name="app_keyboard">Активація клавіатури під час запуску програми</string>
     <string name="tab_keyboard">Активувати клавіатуру при додаванні вкладки</string>
     <string name="swipe">Проведіть пальцем</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">Якщо наданий фільтр не блокує рекламу, додайте власне правило фільтра або зверніться до адміністратора фільтра.</string>
     <string name="search_guide_1">Вибраний елемент не можна вимкнути.</string>
     <string name="search_guide_2">Щоб вимкнути його, спочатку виберіть інший.</string>
-    <string name="btn_ges_disable">Кнопки та жести вимкнено.</string>
+    <string name="video_icon_tap">Торкніться екрана</string>
+    <string name="video_icon_long">Довго натискайте на екрані</string>
+    <string name="video_icon_guide">Якщо натиснути й утримувати екран, з’являється кнопка.</string>
 </resources>

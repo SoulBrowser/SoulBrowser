@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">डकडकगो</string>
     <string name="youtube">यूट्यूब</string>
-    <string name="chrome_tab">क्रोम</string>
     <string name="current_page">वर्तमान पृष्ठ</string>
     <string name="blank_page">खाली पेज</string>
     <string name="page">पृष्ठ</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">अन्य ऐप्स द्वारा इंस्टॉल किए गए फ़ॉन्ट लागू नहीं हो सकते हैं।</string>
     <string name="font_info_3">एक यादृच्छिक फ़ोल्डर बनाएँ और उस TTF फ़ाइल को डालें जिसका आप सीधे उपयोग करना चाहते हैं।</string>
     <string name="font_guide_1">प्रत्येक फ़ॉन्ट की एक भाषा होती है जिसका वह समर्थन करता है।</string>
-    <string name="font_guide_2">सिस्टम फॉन्ट केवल अक्षरों और संख्याओं का समर्थन करते हैं।</string>
+    <string name="font_guide_2">सिस्टम फोंट आमतौर पर केवल अल्फ़ान्यूमेरिक वर्णों का समर्थन करते हैं।</string>
     <string name="font_guide_3">पूर्वावलोकन देखें।</string>
     <string name="tv_cast">टीवी कलाकार</string>
     <string name="media_route_menu_title">पर चलाएं&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">यदि आप जिस साइट पर जाते हैं वह थीम का समर्थन करती है, तो यह ब्राउज़र पर लागू होती है।</string>
     <string name="prev_tab">पिछला टैब</string>
     <string name="next_tab">अगला टैब</string>
-    <string name="accent_text">टेक्स्ट हाइलाइट करें</string>
+    <string name="tts_highlight">टीटीएस हाइलाइट्स</string>
     <string name="app_keyboard">ऐप स्टार्टअप पर कीबोर्ड सक्रियण</string>
     <string name="tab_keyboard">टैब जोड़ते समय कीबोर्ड सक्रिय करें</string>
     <string name="swipe">कड़ी चोट</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">यदि प्रदान किया गया फ़िल्टर विज्ञापनों को अवरुद्ध नहीं करता है, तो कृपया अपना स्वयं का फ़िल्टर नियम जोड़ें या फ़िल्टर व्यवस्थापक से संपर्क करें।</string>
     <string name="search_guide_1">चयनित आइटम को अक्षम नहीं किया जा सकता है।</string>
     <string name="search_guide_2">इसे अक्षम करने के लिए, पहले दूसरे को चुनें।</string>
-    <string name="btn_ges_disable">बटन और जेस्चर अक्षम हैं।</string>
+    <string name="video_icon_tap">स्क्रीन पर टैप करें</string>
+    <string name="video_icon_long">स्क्रीन पर देर तक दबाएं</string>
+    <string name="video_icon_guide">जब आप स्क्रीन को दबाकर रखते हैं तो एक बटन दिखाई देता है।</string>
 </resources>

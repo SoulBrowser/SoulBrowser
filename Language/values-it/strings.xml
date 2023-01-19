@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Pagina corrente</string>
     <string name="blank_page">Pagina vuota</string>
     <string name="page">Pagina</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">I caratteri installati da altre app potrebbero non essere applicabili.</string>
     <string name="font_info_3">Crea una cartella casuale e inserisci il file TTF che desideri utilizzare direttamente.</string>
     <string name="font_guide_1">Ogni carattere ha una lingua che supporta.</string>
-    <string name="font_guide_2">I font di sistema supportano solo lettere e numeri.</string>
+    <string name="font_guide_2">I font di sistema di solito supportano solo caratteri alfanumerici.</string>
     <string name="font_guide_3">Guarda l\'anteprima.</string>
     <string name="tv_cast">Cast TV</string>
     <string name="media_route_menu_title">Continua a giocare&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">Se il sito che visiti supporta temi, si applica al tuo browser.</string>
     <string name="prev_tab">Schede precedente</string>
     <string name="next_tab">Schede successiva</string>
-    <string name="accent_text">Testo evidenziato</string>
+    <string name="tts_highlight">Punti salienti TTS</string>
     <string name="app_keyboard">Attivazione della tastiera all\'avvio dell\'app</string>
     <string name="tab_keyboard">Attiva la tastiera quando aggiungi nuova schede</string>
     <string name="swipe">Scorri</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">Se il filtro fornito non blocca gli annunci, aggiungi la tua regola di filtro o contatta l\'amministratore del filtro.</string>
     <string name="search_guide_1">L\'elemento selezionato non può essere disabilitato.</string>
     <string name="search_guide_2">Per disabilitarlo, selezionane prima un altro.</string>
-    <string name="btn_ges_disable">Pulsanti e gesti sono disabilitati.</string>
+    <string name="video_icon_tap">Toccare lo schermo</string>
+    <string name="video_icon_long">Premere a lungo sullo schermo</string>
+    <string name="video_icon_guide">Quando si tiene premuto lo schermo viene visualizzato un pulsante.</string>
 </resources>

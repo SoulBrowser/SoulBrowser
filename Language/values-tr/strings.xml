@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Geçerli sayfayı</string>
     <string name="blank_page">Boş sayfa</string>
     <string name="page">Sayfa</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">Diğer uygulamalar tarafından yüklenen yazı tipleri geçerli olmayabilir.</string>
     <string name="font_info_3">Rastgele bir klasör oluşturun ve doğrudan kullanmak istediğiniz TTF dosyasını yerleştirin.</string>
     <string name="font_guide_1">Her yazı tipinin desteklediği bir dili vardır.</string>
-    <string name="font_guide_2">Sistem yazı tipleri yalnızca harfleri ve sayıları destekler.</string>
+    <string name="font_guide_2">Sistem yazı tipleri genellikle yalnızca alfasayısal karakterleri destekler.</string>
     <string name="font_guide_3">Önizlemeyi inceleyin.</string>
     <string name="tv_cast">TV yayını</string>
     <string name="media_route_menu_title">Oynamak&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">Ziyaret ettiğiniz site temaları destekliyorsa, tarayıcınız için geçerlidir.</string>
     <string name="prev_tab">Önceki sekme</string>
     <string name="next_tab">Sonraki sekme</string>
-    <string name="accent_text">Metni vurgula</string>
+    <string name="tts_highlight">TTS öne çıkanlar</string>
     <string name="app_keyboard">Uygulama açılışında klavye açılsın</string>
     <string name="tab_keyboard">Sekme eklerken klavyeyi etkinleştir</string>
     <string name="swipe">Kaydırma</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">Sağlanan filtre reklamları engellemiyorsa, lütfen kendi filtre kuralınızı ekleyin veya filtre yöneticisiyle iletişime geçin.</string>
     <string name="search_guide_1">Seçilen öğe devre dışı bırakılamaz.</string>
     <string name="search_guide_2">Devre dışı bırakmak için önce başka birini seçin.</string>
-    <string name="btn_ges_disable">Düğmeler ve hareketler devre dışı bırakılır.</string>
+    <string name="video_icon_tap">Ekrana dokunun</string>
+    <string name="video_icon_long">Ekrana uzun basın</string>
+    <string name="video_icon_guide">Ekranı basılı tuttuğunuzda bir düğme görünür.</string>
 </resources>

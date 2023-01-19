@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Aktuelle Seite</string>
     <string name="blank_page">Leere Seite</string>
     <string name="page">Seite</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">Von anderen Apps installierte Schriftarten funktionieren möglicherweise nicht.</string>
     <string name="font_info_3">Erstellen Sie einen zufälligen Ordner und legen Sie die TTF-Datei, die Sie verwenden möchten, direkt ab.</string>
     <string name="font_guide_1">Jede Schriftart hat eine Sprache, die sie unterstützt.</string>
-    <string name="font_guide_2">Systemschriftarten unterstützen nur Buchstaben und Zahlen.</string>
+    <string name="font_guide_2">Systemschriftarten unterstützen normalerweise nur alphanumerische Zeichen.</string>
     <string name="font_guide_3">Sehen Sie sich die Vorschau an.</string>
     <string name="tv_cast">TV-Anzeige</string>
     <string name="media_route_menu_title">Weiterspielen&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">Wenn die von Ihnen besuchte Website Themes unterstützt, gilt dies für ihren Browser.</string>
     <string name="prev_tab">Vorherige Tab</string>
     <string name="next_tab">Nächste Tab</string>
-    <string name="accent_text">Text hervorheben</string>
+    <string name="tts_highlight">TTS-Highlights</string>
     <string name="app_keyboard">Tastaturaktivierung beim Start der App</string>
     <string name="tab_keyboard">Tastatur aktivieren, wenn eine Tab hinzugefügt werden soll</string>
     <string name="swipe">Wischen</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">Wenn der bereitgestellte Filter Anzeigen nicht blockiert, fügen Sie bitte Ihre eigene Filterregel hinzu oder wenden Sie sich an den Filteradministrator.</string>
     <string name="search_guide_1">Das ausgewählte Element kann nicht deaktiviert werden.</string>
     <string name="search_guide_2">Um es zu deaktivieren, wählen Sie zuerst ein anderes aus.</string>
-    <string name="btn_ges_disable">Schaltflächen und Gesten sind deaktiviert.</string>
+    <string name="video_icon_tap">Berühre den Bildschirm</string>
+    <string name="video_icon_long">Lange auf den Bildschirm drücken</string>
+    <string name="video_icon_guide">Eine Schaltfläche wird angezeigt, wenn Sie den Bildschirm gedrückt halten.</string>
 </resources>

@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Current page</string>
     <string name="blank_page">Blank page</string>
     <string name="page">Page</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">Fonts installed by other apps may not apply.</string>
     <string name="font_info_3">Create a random folder and put the TTF file you want to use directly.</string>
     <string name="font_guide_1">Each font has a language it supports.</string>
-    <string name="font_guide_2">System fonts only support alphabets and numbers.</string>
+    <string name="font_guide_2">System fonts usually only support alphanumeric characters.</string>
     <string name="font_guide_3">Check out the preview.</string>
     <string name="tv_cast">TV cast</string>
     <string name="media_route_menu_title">Play on&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">If the site you visit supports themes, it applies to browser.</string>
     <string name="prev_tab">Previous tab</string>
     <string name="next_tab">Next tab</string>
-    <string name="accent_text">Highlight text</string>
+    <string name="tts_highlight">TTS highlights</string>
     <string name="app_keyboard">Keyboard activation on app startup</string>
     <string name="tab_keyboard">Activate keyboard when adding tab</string>
     <string name="swipe">Swipe</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">If the provided filter does not block ads, please add your own filter rule or contact filter administrator.</string>
     <string name="search_guide_1">The selected item cannot be disabled.</string>
     <string name="search_guide_2">To disable it, select another one first.</string>
-    <string name="btn_ges_disable">Buttons and gestures are disabled.</string>
+    <string name="video_icon_tap">Tap the screen</string>
+    <string name="video_icon_long">Long press on the screen</string>
+    <string name="video_icon_guide">A button appears when you press and hold the screen.</string>
 </resources>

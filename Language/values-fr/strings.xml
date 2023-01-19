@@ -207,7 +207,6 @@
     <string name="spage">Startpage</string>
     <string name="duckduckgo">DuckDuckGo</string>
     <string name="youtube">YouTube</string>
-    <string name="chrome_tab">Chrome</string>
     <string name="current_page">Page actuelle</string>
     <string name="blank_page">Page vierge</string>
     <string name="page">Page</string>
@@ -564,7 +563,7 @@
     <string name="font_info_2">Les polices installées par d\'autres applications peuvent ne pas s\'appliquer.</string>
     <string name="font_info_3">Créez un dossier aléatoire et mettez directement le fichier TTF que vous souhaitez utiliser.</string>
     <string name="font_guide_1">Chaque police a une langue qu\'elle prend en charge.</string>
-    <string name="font_guide_2">Les polices système ne prennent en charge que les alphabets et les chiffres.</string>
+    <string name="font_guide_2">Les polices système ne prennent généralement en charge que les caractères alphanumériques.</string>
     <string name="font_guide_3">Découvrez l\'aperçu.</string>
     <string name="tv_cast">Diffusion TV</string>
     <string name="media_route_menu_title">Jouer sur&#8230;</string>
@@ -671,7 +670,7 @@
     <string name="site_theme_info">Si le site que vous visitez prend en charge des thèmes, il s\'applique à votre navigateur.</string>
     <string name="prev_tab">Onglet précédent</string>
     <string name="next_tab">Onglet suivant</string>
-    <string name="accent_text">Texte surligné</string>
+    <string name="tts_highlight">Points forts de TTS</string>
     <string name="app_keyboard">Activation du clavier au démarrage de l\'application</string>
     <string name="tab_keyboard">Activer le clavier lors de l\'ajout d\'un onglet</string>
     <string name="swipe">Glisser</string>
@@ -949,5 +948,7 @@
     <string name="filter_guide_6">Si le filtre fourni ne bloque pas les publicités, veuillez ajouter votre propre règle de filtrage ou contacter l\'administrateur du filtre.</string>
     <string name="search_guide_1">L\'élément sélectionné ne peut pas être désactivé.</string>
     <string name="search_guide_2">Pour le désactiver, sélectionnez-en d\'abord un autre.</string>
-    <string name="btn_ges_disable">Les boutons et les gestes sont désactivés.</string>
+    <string name="video_icon_tap">Appuyez sur l\'écran</string>
+    <string name="video_icon_long">Appui long sur l\'écran</string>
+    <string name="video_icon_guide">Un bouton apparaît lorsque vous appuyez longuement sur l\'écran.</string>
 </resources>
