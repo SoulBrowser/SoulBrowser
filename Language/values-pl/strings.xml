@@ -951,4 +951,5 @@
     <string name="video_icon_tap">Dotknij ekranu</string>
     <string name="video_icon_long">Długie naciśnięcie ekranu</string>
     <string name="video_icon_guide">Po naciśnięciu i przytrzymaniu ekranu pojawia się przycisk.</string>
+    <string name="check_brfore">Sprawdź przed biegiem</string>
 </resources>

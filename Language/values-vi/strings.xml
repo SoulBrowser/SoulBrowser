@@ -951,4 +951,5 @@
     <string name="video_icon_tap">Chạm vào màn hình</string>
     <string name="video_icon_long">Nhấn lâu vào màn hình</string>
     <string name="video_icon_guide">Một nút xuất hiện khi bạn nhấn và giữ màn hình.</string>
+    <string name="check_brfore">Kiểm tra trước khi chạy</string>
 </resources>

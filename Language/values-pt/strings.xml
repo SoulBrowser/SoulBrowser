@@ -951,4 +951,5 @@
     <string name="video_icon_tap">Toque na tela</string>
     <string name="video_icon_long">Toque longo na tela</string>
     <string name="video_icon_guide">Um botão aparece quando você pressiona e segura a tela.</string>
+    <string name="check_brfore">Verifique antes de executar</string>
 </resources>

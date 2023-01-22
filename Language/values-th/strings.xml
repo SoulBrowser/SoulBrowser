@@ -951,4 +951,5 @@
     <string name="video_icon_tap">แตะที่หน้าจอ</string>
     <string name="video_icon_long">กดค้างบนหน้าจอ</string>
     <string name="video_icon_guide">ปุ่มจะปรากฏขึ้นเมื่อคุณกดหน้าจอค้างไว้</string>
+    <string name="check_brfore">ตรวจสอบก่อนวิ่ง</string>
 </resources>

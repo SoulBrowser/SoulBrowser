@@ -951,4 +951,5 @@
     <string name="video_icon_tap">화면을 탭</string>
     <string name="video_icon_long">화면을 길게 누르기</string>
     <string name="video_icon_guide">화면을 길게 누르면 버튼이 나타납니다.</string>
+    <string name="check_brfore">실행 전 확인</string>
 </resources>

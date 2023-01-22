@@ -951,4 +951,5 @@
     <string name="video_icon_tap">Berühre den Bildschirm</string>
     <string name="video_icon_long">Lange auf den Bildschirm drücken</string>
     <string name="video_icon_guide">Eine Schaltfläche wird angezeigt, wenn Sie den Bildschirm gedrückt halten.</string>
+    <string name="check_brfore">Prüfen Sie vor dem Laufen</string>
 </resources>

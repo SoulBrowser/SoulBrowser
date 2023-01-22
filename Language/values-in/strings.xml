@@ -951,4 +951,5 @@
     <string name="video_icon_tap">Ketuk layar</string>
     <string name="video_icon_long">Tekan lama di layar</string>
     <string name="video_icon_guide">Sebuah tombol muncul saat Anda menekan dan menahan layar.</string>
+    <string name="check_brfore">Periksa sebelum dijalankan</string>
 </resources>

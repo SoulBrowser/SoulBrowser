@@ -951,4 +951,5 @@
     <string name="video_icon_tap">画面をタップ</string>
     <string name="video_icon_long">画面を長押し</string>
     <string name="video_icon_guide">画面を長押しするとボタンが表示されます。</string>
+    <string name="check_brfore">実行前の確認</string>
 </resources>

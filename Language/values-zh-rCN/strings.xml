@@ -951,4 +951,5 @@
     <string name="video_icon_tap">点击屏幕</string>
     <string name="video_icon_long">长按屏幕</string>
     <string name="video_icon_guide">按住屏幕时会出现一个按钮</string>
+    <string name="check_brfore">运行前检查</string>
 </resources>

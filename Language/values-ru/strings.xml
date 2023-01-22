@@ -951,4 +951,5 @@
     <string name="video_icon_tap">Коснитесь экрана</string>
     <string name="video_icon_long">Долгое нажатие на экран</string>
     <string name="video_icon_guide">Кнопка появляется, когда вы нажимаете и удерживаете экран.</string>
+    <string name="check_brfore">Проверьте перед запуском</string>
 </resources>

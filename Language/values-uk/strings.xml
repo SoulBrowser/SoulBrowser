@@ -951,4 +951,5 @@
     <string name="video_icon_tap">Торкніться екрана</string>
     <string name="video_icon_long">Довго натискайте на екрані</string>
     <string name="video_icon_guide">Якщо натиснути й утримувати екран, з’являється кнопка.</string>
+    <string name="check_brfore">Перевірте перед запуском</string>
 </resources>

@@ -951,4 +951,5 @@
     <string name="video_icon_tap">Atingeți ecranul</string>
     <string name="video_icon_long">Apăsați lung pe ecran</string>
     <string name="video_icon_guide">Un buton apare când apăsați și mențineți apăsat ecranul.</string>
+    <string name="check_brfore">Verificați înainte de a alerga</string>
 </resources>

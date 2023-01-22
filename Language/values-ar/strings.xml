@@ -951,4 +951,5 @@
     <string name="video_icon_tap">اضغط على الشاشة</string>
     <string name="video_icon_long">الضغط لفترة طويلة على الشاشة</string>
     <string name="video_icon_guide">يظهر زر عند الضغط مع الاستمرار على الشاشة.</string>
+    <string name="check_brfore">تحقق قبل الجري</string>
 </resources>
