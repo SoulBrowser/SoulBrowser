@@ -950,6 +950,7 @@
     <string name="search_guide_2">Чтобы отключить его, сначала выберите другой.</string>
     <string name="video_icon_tap">Коснитесь экрана</string>
     <string name="video_icon_long">Долгое нажатие на экран</string>
-    <string name="video_icon_guide">Кнопка появляется, когда вы нажимаете и удерживаете экран.</string>
+    <string name="video_icon_guide_1">Кнопка появляется, когда вы нажимаете и удерживаете экран.</string>
+    <string name="video_icon_guide_2">Вы можете изменить его в настройках.</string>
     <string name="check_brfore">Проверьте перед запуском</string>
 </resources>

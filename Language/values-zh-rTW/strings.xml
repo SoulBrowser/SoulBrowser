@@ -950,6 +950,7 @@
     <string name="search_guide_2">要禁用它，請先選擇另一個</string>
     <string name="video_icon_tap">點擊屏幕</string>
     <string name="video_icon_long">長按屏幕</string>
-    <string name="video_icon_guide">按住屏幕時會出現一個按鈕</string>
+    <string name="video_icon_guide_1">按住屏幕時會出現一個按鈕</string>
+    <string name="video_icon_guide_2">您可以在設置中更改它</string>
     <string name="check_brfore">運行前檢查</string>
 </resources>

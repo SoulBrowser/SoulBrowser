@@ -950,6 +950,7 @@
     <string name="search_guide_2">비활성화하려면, 먼저 다른 것을 선택해 주세요.</string>
     <string name="video_icon_tap">화면을 탭</string>
     <string name="video_icon_long">화면을 길게 누르기</string>
-    <string name="video_icon_guide">화면을 길게 누르면 버튼이 나타납니다.</string>
+    <string name="video_icon_guide_1">화면을 길게 누르면 버튼이 나타납니다.</string>
+    <string name="video_icon_guide_2">설정에서 변경할 수 있습니다.</string>
     <string name="check_brfore">실행 전 확인</string>
 </resources>

@@ -950,6 +950,7 @@
     <string name="search_guide_2">To disable it, select another one first.</string>
     <string name="video_icon_tap">Tap the screen</string>
     <string name="video_icon_long">Long press on the screen</string>
-    <string name="video_icon_guide">A button appears when you press and hold the screen.</string>
+    <string name="video_icon_guide_1">A button appears when you press and hold the screen.</string>
+    <string name="video_icon_guide_2">You can change it in settings.</string>
     <string name="check_brfore">Check before running</string>
 </resources>

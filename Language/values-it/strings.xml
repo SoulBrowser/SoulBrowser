@@ -950,6 +950,7 @@
     <string name="search_guide_2">Per disabilitarlo, selezionane prima un altro.</string>
     <string name="video_icon_tap">Toccare lo schermo</string>
     <string name="video_icon_long">Premere a lungo sullo schermo</string>
-    <string name="video_icon_guide">Quando si tiene premuto lo schermo viene visualizzato un pulsante.</string>
+    <string name="video_icon_guide_1">Quando si tiene premuto lo schermo viene visualizzato un pulsante.</string>
+    <string name="video_icon_guide_2">Puoi cambiarlo nelle impostazioni.</string>
     <string name="check_brfore">Controlla prima di correre</string>
 </resources>

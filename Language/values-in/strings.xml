@@ -950,6 +950,7 @@
     <string name="search_guide_2">Untuk menonaktifkannya, pilih yang lain terlebih dahulu.</string>
     <string name="video_icon_tap">Ketuk layar</string>
     <string name="video_icon_long">Tekan lama di layar</string>
-    <string name="video_icon_guide">Sebuah tombol muncul saat Anda menekan dan menahan layar.</string>
+    <string name="video_icon_guide_1">Sebuah tombol muncul saat Anda menekan dan menahan layar.</string>
+    <string name="video_icon_guide_2">Anda dapat mengubahnya di pengaturan.</string>
     <string name="check_brfore">Periksa sebelum dijalankan</string>
 </resources>

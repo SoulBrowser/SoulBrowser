@@ -950,6 +950,7 @@
     <string name="search_guide_2">Щоб вимкнути його, спочатку виберіть інший.</string>
     <string name="video_icon_tap">Торкніться екрана</string>
     <string name="video_icon_long">Довго натискайте на екрані</string>
-    <string name="video_icon_guide">Якщо натиснути й утримувати екран, з’являється кнопка.</string>
+    <string name="video_icon_guide_1">Якщо натиснути й утримувати екран, з’являється кнопка.</string>
+    <string name="video_icon_guide_2">Ви можете змінити це в налаштуваннях.</string>
     <string name="check_brfore">Перевірте перед запуском</string>
 </resources>

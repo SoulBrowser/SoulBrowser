@@ -950,6 +950,7 @@
     <string name="search_guide_2">Um es zu deaktivieren, wählen Sie zuerst ein anderes aus.</string>
     <string name="video_icon_tap">Berühre den Bildschirm</string>
     <string name="video_icon_long">Lange auf den Bildschirm drücken</string>
-    <string name="video_icon_guide">Eine Schaltfläche wird angezeigt, wenn Sie den Bildschirm gedrückt halten.</string>
+    <string name="video_icon_guide_1">Eine Schaltfläche wird angezeigt, wenn Sie den Bildschirm gedrückt halten.</string>
+    <string name="video_icon_guide_2">Sie können es in den Einstellungen ändern.</string>
     <string name="check_brfore">Prüfen Sie vor dem Laufen</string>
 </resources>

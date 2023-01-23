@@ -950,6 +950,7 @@
     <string name="search_guide_2">Pentru a-l dezactiva, mai întâi selectați altul.</string>
     <string name="video_icon_tap">Atingeți ecranul</string>
     <string name="video_icon_long">Apăsați lung pe ecran</string>
-    <string name="video_icon_guide">Un buton apare când apăsați și mențineți apăsat ecranul.</string>
+    <string name="video_icon_guide_1">Un buton apare când apăsați și mențineți apăsat ecranul.</string>
+    <string name="video_icon_guide_2">Îl poți schimba în setări.</string>
     <string name="check_brfore">Verificați înainte de a alerga</string>
 </resources>

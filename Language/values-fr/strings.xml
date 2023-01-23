@@ -950,6 +950,7 @@
     <string name="search_guide_2">Pour le désactiver, sélectionnez-en d\'abord un autre.</string>
     <string name="video_icon_tap">Appuyez sur l\'écran</string>
     <string name="video_icon_long">Appui long sur l\'écran</string>
-    <string name="video_icon_guide">Un bouton apparaît lorsque vous appuyez longuement sur l\'écran.</string>
+    <string name="video_icon_guide_1">Un bouton apparaît lorsque vous appuyez longuement sur l\'écran.</string>
+    <string name="video_icon_guide_2">Vous pouvez le modifier dans les paramètres.</string>
     <string name="check_brfore">Vérifier avant de courir</string>
 </resources>

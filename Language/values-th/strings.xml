@@ -950,6 +950,7 @@
     <string name="search_guide_2">หากต้องการปิดใช้งาน ให้เลือกอันอื่นก่อน</string>
     <string name="video_icon_tap">แตะที่หน้าจอ</string>
     <string name="video_icon_long">กดค้างบนหน้าจอ</string>
-    <string name="video_icon_guide">ปุ่มจะปรากฏขึ้นเมื่อคุณกดหน้าจอค้างไว้</string>
+    <string name="video_icon_guide_1">ปุ่มจะปรากฏขึ้นเมื่อคุณกดหน้าจอค้างไว้</string>
+    <string name="video_icon_guide_2">คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="check_brfore">ตรวจสอบก่อนวิ่ง</string>
 </resources>

@@ -950,6 +950,7 @@
     <string name="search_guide_2">Para desativá-lo, selecione outro primeiro.</string>
     <string name="video_icon_tap">Toque na tela</string>
     <string name="video_icon_long">Toque longo na tela</string>
-    <string name="video_icon_guide">Um botão aparece quando você pressiona e segura a tela.</string>
+    <string name="video_icon_guide_1">Um botão aparece quando você pressiona e segura a tela.</string>
+    <string name="video_icon_guide_2">Você pode alterá-lo nas configurações.</string>
     <string name="check_brfore">Verifique antes de executar</string>
 </resources>

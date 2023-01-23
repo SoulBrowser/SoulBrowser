@@ -950,6 +950,7 @@
     <string name="search_guide_2">Aby go wyłączyć, wybierz najpierw inny.</string>
     <string name="video_icon_tap">Dotknij ekranu</string>
     <string name="video_icon_long">Długie naciśnięcie ekranu</string>
-    <string name="video_icon_guide">Po naciśnięciu i przytrzymaniu ekranu pojawia się przycisk.</string>
+    <string name="video_icon_guide_1">Po naciśnięciu i przytrzymaniu ekranu pojawia się przycisk.</string>
+    <string name="video_icon_guide_2">Możesz to zmienić w ustawieniach.</string>
     <string name="check_brfore">Sprawdź przed biegiem</string>
 </resources>

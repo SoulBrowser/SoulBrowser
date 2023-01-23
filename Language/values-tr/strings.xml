@@ -950,6 +950,7 @@
     <string name="search_guide_2">Devre dışı bırakmak için önce başka birini seçin.</string>
     <string name="video_icon_tap">Ekrana dokunun</string>
     <string name="video_icon_long">Ekrana uzun basın</string>
-    <string name="video_icon_guide">Ekranı basılı tuttuğunuzda bir düğme görünür.</string>
+    <string name="video_icon_guide_1">Ekranı basılı tuttuğunuzda bir düğme görünür.</string>
+    <string name="video_icon_guide_2">Ayarlardan değiştirebilirsiniz.</string>
     <string name="check_brfore">Çalıştırmadan önce kontrol edin</string>
 </resources>

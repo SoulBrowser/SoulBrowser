@@ -950,6 +950,7 @@
     <string name="search_guide_2">لتعطيله ، حدد واحدة أخرى أولاً.</string>
     <string name="video_icon_tap">اضغط على الشاشة</string>
     <string name="video_icon_long">الضغط لفترة طويلة على الشاشة</string>
-    <string name="video_icon_guide">يظهر زر عند الضغط مع الاستمرار على الشاشة.</string>
+    <string name="video_icon_guide_1">يظهر زر عند الضغط مع الاستمرار على الشاشة.</string>
+    <string name="video_icon_guide_2">يمكنك تغييره في الإعدادات.</string>
     <string name="check_brfore">تحقق قبل الجري</string>
 </resources>

@@ -950,6 +950,7 @@
     <string name="search_guide_2">इसे अक्षम करने के लिए, पहले दूसरे को चुनें।</string>
     <string name="video_icon_tap">स्क्रीन पर टैप करें</string>
     <string name="video_icon_long">स्क्रीन पर देर तक दबाएं</string>
-    <string name="video_icon_guide">जब आप स्क्रीन को दबाकर रखते हैं तो एक बटन दिखाई देता है।</string>
+    <string name="video_icon_guide_1">जब आप स्क्रीन को दबाकर रखते हैं तो एक बटन दिखाई देता है।</string>
+    <string name="video_icon_guide_2">आप इसे सेटिंग में बदल सकते हैं।</string>
     <string name="check_brfore">दौड़ने से पहले जांच लें</string>
 </resources>

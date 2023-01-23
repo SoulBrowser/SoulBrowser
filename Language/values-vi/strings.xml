@@ -950,6 +950,7 @@
     <string name="search_guide_2">Để tắt nó, trước tiên hãy chọn một cái khác.</string>
     <string name="video_icon_tap">Chạm vào màn hình</string>
     <string name="video_icon_long">Nhấn lâu vào màn hình</string>
-    <string name="video_icon_guide">Một nút xuất hiện khi bạn nhấn và giữ màn hình.</string>
+    <string name="video_icon_guide_1">Một nút xuất hiện khi bạn nhấn và giữ màn hình.</string>
+    <string name="video_icon_guide_2">Bạn có thể thay đổi nó trong cài đặt.</string>
     <string name="check_brfore">Kiểm tra trước khi chạy</string>
 </resources>
