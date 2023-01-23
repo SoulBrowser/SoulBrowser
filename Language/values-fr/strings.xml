@@ -336,7 +336,6 @@
     <string name="no_permission">Aucune permission</string>
     <string name="noti_pms">Autorisation de notification</string>
     <string name="noti_pms_guide_1">\'Autorisation de notification\' est requise pour les notifications d\'état pour les fonctionnalités ci-dessous.</string>
-    <string name="noti_pms_guide_2">L\'autorisation peut être modifiée ultérieurement.</string>
     <string name="ads_block">Blocage Pub</string>
     <string name="ads_block_info">Au moins un filtre doit être actif pour bloquer les publicités.</string>
     <string name="filtered_image">Image filtrée (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">Pour le désactiver, sélectionnez-en d\'abord un autre.</string>
     <string name="video_icon_tap">Appuyez sur l\'écran</string>
     <string name="video_icon_long">Appui long sur l\'écran</string>
-    <string name="video_icon_guide_1">Un bouton apparaît lorsque vous appuyez longuement sur l\'écran.</string>
-    <string name="video_icon_guide_2">Vous pouvez le modifier dans les paramètres.</string>
+    <string name="video_icon_guide_1">Appuyez longuement sur l\'écran.</string>
+    <string name="video_icon_guide_2">Les boutons de fonction apparaîtront.</string>
+    <string name="change_in_setting">Vous pouvez le modifier dans les paramètres.</string>
     <string name="check_brfore">Vérifier avant de courir</string>
 </resources>

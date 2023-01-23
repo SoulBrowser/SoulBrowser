@@ -336,7 +336,6 @@
     <string name="no_permission">没有权限</string>
     <string name="noti_pms">通知权限</string>
     <string name="noti_pms_guide_1">以下功能的状态通知需要\'通知权限\'</string>
-    <string name="noti_pms_guide_2">以后可以更改权限</string>
     <string name="ads_block">广告拦截</string>
     <string name="ads_block_info">必须至少启用一个过滤器才能屏蔽广告</string>
     <string name="filtered_image">过滤的图像（%d）</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">要禁用它，请先选择另一个</string>
     <string name="video_icon_tap">点击屏幕</string>
     <string name="video_icon_long">长按屏幕</string>
-    <string name="video_icon_guide_1">按住屏幕时会出现一个按钮</string>
-    <string name="video_icon_guide_2">您可以在设置中更改它</string>
+    <string name="video_icon_guide_1">按住屏幕</string>
+    <string name="video_icon_guide_2">将出现功能按钮</string>
+    <string name="change_in_setting">您可以在设置中更改它</string>
     <string name="check_brfore">运行前检查</string>
 </resources>

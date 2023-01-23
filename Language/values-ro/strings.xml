@@ -336,7 +336,6 @@
     <string name="no_permission">Fără permisiune</string>
     <string name="noti_pms">Permisiune de notificare</string>
     <string name="noti_pms_guide_1">\'Permisiunea de notificare\' este necesară pentru notificările de stare pentru funcțiile de mai jos.</string>
-    <string name="noti_pms_guide_2">Permisiunea poate fi schimbată ulterior.</string>
     <string name="ads_block">Blocator de anunțuri</string>
     <string name="ads_block_info">Cel puțin un filtru trebuie să fie activ pentru a bloca anunțurile.</string>
     <string name="filtered_image">Imaginea filtrată (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">Pentru a-l dezactiva, mai întâi selectați altul.</string>
     <string name="video_icon_tap">Atingeți ecranul</string>
     <string name="video_icon_long">Apăsați lung pe ecran</string>
-    <string name="video_icon_guide_1">Un buton apare când apăsați și mențineți apăsat ecranul.</string>
-    <string name="video_icon_guide_2">Îl poți schimba în setări.</string>
+    <string name="video_icon_guide_1">Apăsați lung pe ecran.</string>
+    <string name="video_icon_guide_2">Vor apărea butoanele de funcție.</string>
+    <string name="change_in_setting">Îl poți schimba în setări.</string>
     <string name="check_brfore">Verificați înainte de a alerga</string>
 </resources>

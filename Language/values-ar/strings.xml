@@ -336,7 +336,6 @@
     <string name="no_permission">لا يوجد إذن</string>
     <string name="noti_pms">إذن الإخطار</string>
     <string name="noti_pms_guide_1">مطلوب \'إذن الإعلام\' لإشعارات الحالة للميزات أدناه.</string>
-    <string name="noti_pms_guide_2">يمكن تغيير الإذن لاحقًا.</string>
     <string name="ads_block">إعلانات كتلة</string>
     <string name="ads_block_info">يجب أن يكون هناك عامل تصفية واحد على الأقل نشطًا لمنع الإعلانات.</string>
     <string name="filtered_image">صورة مفلترة (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">لتعطيله ، حدد واحدة أخرى أولاً.</string>
     <string name="video_icon_tap">اضغط على الشاشة</string>
     <string name="video_icon_long">الضغط لفترة طويلة على الشاشة</string>
-    <string name="video_icon_guide_1">يظهر زر عند الضغط مع الاستمرار على الشاشة.</string>
-    <string name="video_icon_guide_2">يمكنك تغييره في الإعدادات.</string>
+    <string name="video_icon_guide_1">اضغط مع الاستمرار على الشاشة.</string>
+    <string name="video_icon_guide_2">ستظهر أزرار الوظائف.</string>
+    <string name="change_in_setting">يمكنك تغييره في الإعدادات.</string>
     <string name="check_brfore">تحقق قبل الجري</string>
 </resources>

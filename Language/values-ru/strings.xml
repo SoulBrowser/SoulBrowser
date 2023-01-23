@@ -336,7 +336,6 @@
     <string name="no_permission">Нет разрешения</string>
     <string name="noti_pms">Разрешение на уведомление</string>
     <string name="noti_pms_guide_1">\'Разрешение на уведомление\' требуется для уведомлений о состоянии для перечисленных ниже функций.</string>
-    <string name="noti_pms_guide_2">Разрешение можно изменить позже.</string>
     <string name="ads_block">Блокировщик рекламы</string>
     <string name="ads_block_info">Для блокировки рекламы должен быть активен хотя бы один фильтр.</string>
     <string name="filtered_image">Фильтруемое изображение (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">Чтобы отключить его, сначала выберите другой.</string>
     <string name="video_icon_tap">Коснитесь экрана</string>
     <string name="video_icon_long">Долгое нажатие на экран</string>
-    <string name="video_icon_guide_1">Кнопка появляется, когда вы нажимаете и удерживаете экран.</string>
-    <string name="video_icon_guide_2">Вы можете изменить его в настройках.</string>
+    <string name="video_icon_guide_1">Нажмите и удерживайте экран.</string>
+    <string name="video_icon_guide_2">Появятся функциональные кнопки.</string>
+    <string name="change_in_setting">Вы можете изменить его в настройках.</string>
     <string name="check_brfore">Проверьте перед запуском</string>
 </resources>

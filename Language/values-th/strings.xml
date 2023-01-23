@@ -336,7 +336,6 @@
     <string name="no_permission">ไม่ได้รับอนุญาต</string>
     <string name="noti_pms">ขออนุญาตแจ้ง</string>
     <string name="noti_pms_guide_1">จำเป็นต้องมี \'สิทธิ์ในการแจ้งเตือน\' สำหรับการแจ้งเตือนสถานะสำหรับคุณสมบัติด้านล่าง</string>
-    <string name="noti_pms_guide_2">สามารถเปลี่ยนแปลงการอนุญาตได้ในภายหลัง</string>
     <string name="ads_block">บล็อกโฆษณา</string>
     <string name="ads_block_info">ต้องใช้ตัวกรองอย่างน้อยหนึ่งรายการเพื่อบล็อกโฆษณา</string>
     <string name="filtered_image">รูปภาพที่กรอง (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">หากต้องการปิดใช้งาน ให้เลือกอันอื่นก่อน</string>
     <string name="video_icon_tap">แตะที่หน้าจอ</string>
     <string name="video_icon_long">กดค้างบนหน้าจอ</string>
-    <string name="video_icon_guide_1">ปุ่มจะปรากฏขึ้นเมื่อคุณกดหน้าจอค้างไว้</string>
-    <string name="video_icon_guide_2">คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
+    <string name="video_icon_guide_1">กดค้างที่หน้าจอ</string>
+    <string name="video_icon_guide_2">ปุ่มฟังก์ชั่นจะปรากฏขึ้น</string>
+    <string name="change_in_setting">คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="check_brfore">ตรวจสอบก่อนวิ่ง</string>
 </resources>

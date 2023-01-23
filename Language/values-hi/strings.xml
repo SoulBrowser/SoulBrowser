@@ -336,7 +336,6 @@
     <string name="no_permission">अनुमति नहीं</string>
     <string name="noti_pms">अधिसूचना अनुमति</string>
     <string name="noti_pms_guide_1">नीचे दी गई सुविधाओं के लिए स्थिति सूचनाओं के लिए \'अधिसूचना अनुमति\' आवश्यक है।</string>
-    <string name="noti_pms_guide_2">अनुमति बाद में बदली जा सकती है।</string>
     <string name="ads_block">विज्ञापन अवरोधक</string>
     <string name="ads_block_info">विज्ञापनों को ब्लॉक करने के लिए कम से कम एक फ़िल्टर सक्रिय होना चाहिए।</string>
     <string name="filtered_image">फ़िल्टर की गई छवि (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">इसे अक्षम करने के लिए, पहले दूसरे को चुनें।</string>
     <string name="video_icon_tap">स्क्रीन पर टैप करें</string>
     <string name="video_icon_long">स्क्रीन पर देर तक दबाएं</string>
-    <string name="video_icon_guide_1">जब आप स्क्रीन को दबाकर रखते हैं तो एक बटन दिखाई देता है।</string>
-    <string name="video_icon_guide_2">आप इसे सेटिंग में बदल सकते हैं।</string>
+    <string name="video_icon_guide_1">स्क्रीन को दबाकर रखें।</string>
+    <string name="video_icon_guide_2">फंक्शन बटन दिखाई देंगे।</string>
+    <string name="change_in_setting">आप इसे सेटिंग में बदल सकते हैं।</string>
     <string name="check_brfore">दौड़ने से पहले जांच लें</string>
 </resources>

@@ -336,7 +336,6 @@
     <string name="no_permission">権限なし</string>
     <string name="noti_pms">通知許可</string>
     <string name="noti_pms_guide_1">以下の機能のステータス通知には\'通知権限\'が必要です。</string>
-    <string name="noti_pms_guide_2">権限は後で変更できます。</string>
     <string name="ads_block">広告ブロック</string>
     <string name="ads_block_info">広告をブロックするには、複数のフィルタが有効になっている必要があります。</string>
     <string name="filtered_image">フィルタリングされた画像（%d）</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">無効にするには、まず別のものを選択します。</string>
     <string name="video_icon_tap">画面をタップ</string>
     <string name="video_icon_long">画面を長押し</string>
-    <string name="video_icon_guide_1">画面を長押しするとボタンが表示されます。</string>
-    <string name="video_icon_guide_2">設定で変更できます。</string>
+    <string name="video_icon_guide_1">画面を長押ししてみてください。</string>
+    <string name="video_icon_guide_2">機能ボタンが表示されます。</string>
+    <string name="change_in_setting">設定で変更できます。</string>
     <string name="check_brfore">実行前の確認</string>
 </resources>

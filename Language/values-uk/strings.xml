@@ -336,7 +336,6 @@
     <string name="no_permission">Немає дозволу</string>
     <string name="noti_pms">Дозвіл на сповіщення</string>
     <string name="noti_pms_guide_1">\'Дозвіл на сповіщення\' потрібен для сповіщень про статус для наведених нижче функцій.</string>
-    <string name="noti_pms_guide_2">Дозвіл можна змінити пізніше.</string>
     <string name="ads_block">Блокатор реклами</string>
     <string name="ads_block_info">Принаймні один фільтр повинен бути активним, щоб блокувати рекламу.</string>
     <string name="filtered_image">Відфільтроване зображення (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">Щоб вимкнути його, спочатку виберіть інший.</string>
     <string name="video_icon_tap">Торкніться екрана</string>
     <string name="video_icon_long">Довго натискайте на екрані</string>
-    <string name="video_icon_guide_1">Якщо натиснути й утримувати екран, з’являється кнопка.</string>
-    <string name="video_icon_guide_2">Ви можете змінити це в налаштуваннях.</string>
+    <string name="video_icon_guide_1">Натисніть і утримуйте екран.</string>
+    <string name="video_icon_guide_2">З’являться функціональні кнопки.</string>
+    <string name="change_in_setting">Ви можете змінити це в налаштуваннях.</string>
     <string name="check_brfore">Перевірте перед запуском</string>
 </resources>

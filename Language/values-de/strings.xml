@@ -336,7 +336,6 @@
     <string name="no_permission">Keine Erlaubnis</string>
     <string name="noti_pms">Benachrichtigungsberechtigung</string>
     <string name="noti_pms_guide_1">Für Statusbenachrichtigungen für die folgenden Funktionen ist \'Benachrichtigungserlaubnis\' erforderlich.</string>
-    <string name="noti_pms_guide_2">Die Berechtigung kann später geändert werden.</string>
     <string name="ads_block">Werbung blockieren</string>
     <string name="ads_block_info">Zum Blockieren von Anzeigen muss mindestens ein Filter aktiv sein.</string>
     <string name="filtered_image">Gefiltertes Bild (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">Um es zu deaktivieren, wählen Sie zuerst ein anderes aus.</string>
     <string name="video_icon_tap">Berühre den Bildschirm</string>
     <string name="video_icon_long">Lange auf den Bildschirm drücken</string>
-    <string name="video_icon_guide_1">Eine Schaltfläche wird angezeigt, wenn Sie den Bildschirm gedrückt halten.</string>
-    <string name="video_icon_guide_2">Sie können es in den Einstellungen ändern.</string>
+    <string name="video_icon_guide_1">Drücken und halten Sie den Bildschirm.</string>
+    <string name="video_icon_guide_2">Funktionsschaltflächen werden angezeigt.</string>
+    <string name="change_in_setting">Sie können es in den Einstellungen ändern.</string>
     <string name="check_brfore">Prüfen Sie vor dem Laufen</string>
 </resources>

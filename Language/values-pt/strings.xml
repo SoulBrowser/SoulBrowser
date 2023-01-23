@@ -336,7 +336,6 @@
     <string name="no_permission">Sem permissão</string>
     <string name="noti_pms">Permissão de notificação</string>
     <string name="noti_pms_guide_1">\'Permissão de notificação\' é necessária para notificações de status para os recursos abaixo.</string>
-    <string name="noti_pms_guide_2">A permissão pode ser alterada posteriormente.</string>
     <string name="ads_block">Bloquear Ad</string>
     <string name="ads_block_info">Pelo menos um filtro deve estar ativo para bloquear anúncios.</string>
     <string name="filtered_image">Imagem filtrada (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">Para desativá-lo, selecione outro primeiro.</string>
     <string name="video_icon_tap">Toque na tela</string>
     <string name="video_icon_long">Toque longo na tela</string>
-    <string name="video_icon_guide_1">Um botão aparece quando você pressiona e segura a tela.</string>
-    <string name="video_icon_guide_2">Você pode alterá-lo nas configurações.</string>
+    <string name="video_icon_guide_1">Pressione e segure a tela.</string>
+    <string name="video_icon_guide_2">Botões de função aparecerão.</string>
+    <string name="change_in_setting">Você pode alterá-lo nas configurações.</string>
     <string name="check_brfore">Verifique antes de executar</string>
 </resources>

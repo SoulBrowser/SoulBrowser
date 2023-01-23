@@ -336,7 +336,6 @@
     <string name="no_permission">İzin yok</string>
     <string name="noti_pms">Bildirim izni</string>
     <string name="noti_pms_guide_1">Aşağıdaki özellikler için durum bildirimleri için \'Bildirim izni\' gereklidir.</string>
-    <string name="noti_pms_guide_2">İzin daha sonra değiştirilebilir.</string>
     <string name="ads_block">Reklam engelleme</string>
     <string name="ads_block_info">Reklamları engellemek için en az bir filtre etkin olmalıdır.</string>
     <string name="filtered_image">Filtre uygulanmış resim (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">Devre dışı bırakmak için önce başka birini seçin.</string>
     <string name="video_icon_tap">Ekrana dokunun</string>
     <string name="video_icon_long">Ekrana uzun basın</string>
-    <string name="video_icon_guide_1">Ekranı basılı tuttuğunuzda bir düğme görünür.</string>
-    <string name="video_icon_guide_2">Ayarlardan değiştirebilirsiniz.</string>
+    <string name="video_icon_guide_1">Ekrana basın ve basılı tutun.</string>
+    <string name="video_icon_guide_2">İşlev düğmeleri görünecektir.</string>
+    <string name="change_in_setting">Ayarlardan değiştirebilirsiniz.</string>
     <string name="check_brfore">Çalıştırmadan önce kontrol edin</string>
 </resources>

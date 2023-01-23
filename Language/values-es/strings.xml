@@ -336,7 +336,6 @@
     <string name="no_permission">Sin permiso</string>
     <string name="noti_pms">Permiso de notificación</string>
     <string name="noti_pms_guide_1">Se requiere \'Permiso de notificación\' para las notificaciones de estado de las siguientes funciones.</string>
-    <string name="noti_pms_guide_2">El permiso se puede cambiar más adelante.</string>
     <string name="ads_block">Bloquear Ad</string>
     <string name="ads_block_info">Al menos un filtro debe estar activo para bloquear anuncios.</string>
     <string name="filtered_image">Imagen filtrada (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">Para deshabilitarlo, seleccione otro primero.</string>
     <string name="video_icon_tap">Toca la pantalla</string>
     <string name="video_icon_long">Pulsación larga en la pantalla</string>
-    <string name="video_icon_guide_1">Aparece un botón cuando mantienes presionada la pantalla.</string>
-    <string name="video_icon_guide_2">Puedes cambiarlo en la configuración.</string>
+    <string name="video_icon_guide_1">Mantenga presionada la pantalla.</string>
+    <string name="video_icon_guide_2">Aparecerán los botones de función.</string>
+    <string name="change_in_setting">Puedes cambiarlo en la configuración.</string>
     <string name="check_brfore">Comprobar antes de correr</string>
 </resources>

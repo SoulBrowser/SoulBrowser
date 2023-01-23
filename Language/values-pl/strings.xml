@@ -336,7 +336,6 @@
     <string name="no_permission">Brak uprawnień</string>
     <string name="noti_pms">Pozwolenie na powiadomienie</string>
     <string name="noti_pms_guide_1">Aby otrzymywać powiadomienia o stanie poniższych funkcji, wymagane jest \'Uprawnienie do powiadomień\'.</string>
-    <string name="noti_pms_guide_2">Uprawnienia można zmienić później.</string>
     <string name="ads_block">Blokowanie reklam</string>
     <string name="ads_block_info">Aby blokować reklamy, musi być aktywny co najmniej jeden filtr.</string>
     <string name="filtered_image">Filtrowany obraz (%d)</string>
@@ -950,7 +949,8 @@
     <string name="search_guide_2">Aby go wyłączyć, wybierz najpierw inny.</string>
     <string name="video_icon_tap">Dotknij ekranu</string>
     <string name="video_icon_long">Długie naciśnięcie ekranu</string>
-    <string name="video_icon_guide_1">Po naciśnięciu i przytrzymaniu ekranu pojawia się przycisk.</string>
-    <string name="video_icon_guide_2">Możesz to zmienić w ustawieniach.</string>
+    <string name="video_icon_guide_1">Naciśnij i przytrzymaj ekran.</string>
+    <string name="video_icon_guide_2">Pojawią się przyciski funkcyjne.</string>
+    <string name="change_in_setting">Możesz to zmienić w ustawieniach.</string>
     <string name="check_brfore">Sprawdź przed biegiem</string>
 </resources>
