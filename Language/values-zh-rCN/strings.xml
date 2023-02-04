@@ -71,6 +71,8 @@
     <string name="create_album">创建相册</string>
     <string name="create_zip">创建 ZIP</string>
     <string name="retry">重试</string>
+    <string name="retry_count">重试次数</string>
+    <string name="retry_count_info">连接失败时的重试次数</string>
     <string name="general">通用</string>
     <string name="advanced">高级</string>
     <string name="bookmark">书签</string>
@@ -557,6 +559,7 @@
     <string name="customize">个性化</string>
     <string name="font">字体</string>
     <string name="font_default">默认字体</string>
+    <string name="font_bold">黑体字</string>
     <string name="font_preview">字体应用于此文本</string>
     <string name="font_info_1">你可以使用内部存储器或闪存卡中的 TTF 字体文件更改网页的字体</string>
     <string name="font_info_2">其它应用安装的字体可能不适用</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">在当前页面上阻止 JavaScript</string>
     <string name="js_black">JavaScript 黑名单</string>
     <string name="js_black_info">添加禁用 JavaScript 的网站</string>
-    <string name="theme_web">浏览器</string>
     <string name="theme_light">浅色主题</string>
     <string name="theme_dark">深色主题</string>
     <string name="dark_home">深色主题首页</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">要禁用它，请先选择另一个</string>
     <string name="video_icon_tap">点击屏幕</string>
     <string name="video_icon_long">长按屏幕</string>
-    <string name="video_icon_guide_1">按住屏幕</string>
-    <string name="video_icon_guide_2">将出现功能按钮</string>
+    <string name="video_icon_guide">按住屏幕以显示功能按钮</string>
     <string name="change_in_setting">您可以在设置中更改它</string>
     <string name="check_brfore">运行前检查</string>
 </resources>

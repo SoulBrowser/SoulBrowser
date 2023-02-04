@@ -71,6 +71,8 @@
     <string name="create_album">قم بإنشاء ألبوم</string>
     <string name="create_zip">قم بإنشاء ملف ZIP</string>
     <string name="retry">أعد المحاولة</string>
+    <string name="retry_count">عدد المحاولات</string>
+    <string name="retry_count_info">عدد المحاولات في حالة فشل الاتصال</string>
     <string name="general">طبيعي</string>
     <string name="advanced">متقدم</string>
     <string name="bookmark">المرجعية</string>
@@ -557,6 +559,7 @@
     <string name="customize">التخصيص</string>
     <string name="font">الخط</string>
     <string name="font_default">الخط الافتراضي</string>
+    <string name="font_bold">جريئة</string>
     <string name="font_preview">يتم تطبيق الخط على هذا النص.</string>
     <string name="font_info_1">يمكنك تغيير خط صفحة الويب باستخدام ملف TTF في وحدة التخزين الداخلية أو بطاقة SD.</string>
     <string name="font_info_2">قد لا يتم تطبيق الخطوط المثبتة بواسطة تطبيقات أخرى.</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">منع جافا سكريبت في الصفحة الحالية</string>
     <string name="js_black">قائمة حظر جافا سكريبت</string>
     <string name="js_black_info">يمكنك تسجيل المواقع التي تحظر JavaScript.</string>
-    <string name="theme_web">المتصفح</string>
     <string name="theme_light">موضوع مشرق</string>
     <string name="theme_dark">مظهر داكن</string>
     <string name="dark_home">الصفحة الرئيسية ذات المظهر الداكن</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">لتعطيله ، حدد واحدة أخرى أولاً.</string>
     <string name="video_icon_tap">اضغط على الشاشة</string>
     <string name="video_icon_long">الضغط لفترة طويلة على الشاشة</string>
-    <string name="video_icon_guide_1">اضغط مع الاستمرار على الشاشة.</string>
-    <string name="video_icon_guide_2">ستظهر أزرار الوظائف.</string>
+    <string name="video_icon_guide">اضغط مع الاستمرار على الشاشة للكشف عن أزرار الوظائف.</string>
     <string name="change_in_setting">يمكنك تغييره في الإعدادات.</string>
     <string name="check_brfore">تحقق قبل الجري</string>
 </resources>

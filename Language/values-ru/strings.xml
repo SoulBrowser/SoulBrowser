@@ -71,6 +71,8 @@
     <string name="create_album">Создать альбом</string>
     <string name="create_zip">Создать ZIP</string>
     <string name="retry">Повторить</string>
+    <string name="retry_count">Количество попыток</string>
+    <string name="retry_count_info">Количество попыток в случае сбоя соединения</string>
     <string name="general">Основные</string>
     <string name="advanced">Расширенные</string>
     <string name="bookmark">Закладки</string>
@@ -557,6 +559,7 @@
     <string name="customize">Персонализация</string>
     <string name="font">Шрифт</string>
     <string name="font_default">Шрифт по умолчанию</string>
+    <string name="font_bold">Жирный шрифт</string>
     <string name="font_preview">Шрифт применяется к этому тексту.</string>
     <string name="font_info_1">Вы можете изменить шрифт веб страниц TTF файлами из внутренней памяти или с SD-карты.</string>
     <string name="font_info_2">Шрифты, установленные другими приложениями, могут не применяться.</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">Блокировать JavaScript на текущей странице</string>
     <string name="js_black">Чёрный список JavaScript</string>
     <string name="js_black_info">Вы можете зарегистрировать сайты, блокирующие JavaScript.</string>
-    <string name="theme_web">Веб-страницы</string>
     <string name="theme_light">Светлая тема</string>
     <string name="theme_dark">Тёмная тема</string>
     <string name="dark_home">Дом в темной теме</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">Чтобы отключить его, сначала выберите другой.</string>
     <string name="video_icon_tap">Коснитесь экрана</string>
     <string name="video_icon_long">Долгое нажатие на экран</string>
-    <string name="video_icon_guide_1">Нажмите и удерживайте экран.</string>
-    <string name="video_icon_guide_2">Появятся функциональные кнопки.</string>
+    <string name="video_icon_guide">Нажмите и удерживайте экран, чтобы открыть функциональные кнопки.</string>
     <string name="change_in_setting">Вы можете изменить его в настройках.</string>
     <string name="check_brfore">Проверьте перед запуском</string>
 </resources>

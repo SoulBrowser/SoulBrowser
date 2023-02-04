@@ -71,6 +71,8 @@
     <string name="create_album">Create album</string>
     <string name="create_zip">Create ZIP</string>
     <string name="retry">Retry</string>
+    <string name="retry_count">Number of retries</string>
+    <string name="retry_count_info">Number of retries in case of connection failure</string>
     <string name="general">General</string>
     <string name="advanced">Advanced</string>
     <string name="bookmark">Bookmark</string>
@@ -557,6 +559,7 @@
     <string name="customize">Customize</string>
     <string name="font">Font</string>
     <string name="font_default">Default font</string>
+    <string name="font_bold">Boldface</string>
     <string name="font_preview">The font is applied to this text.</string>
     <string name="font_info_1">You can change the font of web pages with TTF files in internal storage or SD card.</string>
     <string name="font_info_2">Fonts installed by other apps may not apply.</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">Block JavaScript on the current page</string>
     <string name="js_black">JavaScript blacklist</string>
     <string name="js_black_info">You can register sites that block JavaScript.</string>
-    <string name="theme_web">Browser</string>
     <string name="theme_light">Light theme</string>
     <string name="theme_dark">Dark theme</string>
     <string name="dark_home">Dark theme home</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">To disable it, select another one first.</string>
     <string name="video_icon_tap">Tap the screen</string>
     <string name="video_icon_long">Long press on the screen</string>
-    <string name="video_icon_guide_1">Press and hold the screen.</string>
-    <string name="video_icon_guide_2">Function buttons will appear.</string>
+    <string name="video_icon_guide">Press and hold the screen to reveal function buttons.</string>
     <string name="change_in_setting">You can change it in settings.</string>
     <string name="check_brfore">Check before running</string>
 </resources>

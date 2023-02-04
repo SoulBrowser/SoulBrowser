@@ -71,6 +71,8 @@
     <string name="create_album">Criar álbum</string>
     <string name="create_zip">Criar ZIP</string>
     <string name="retry">Repetir</string>
+    <string name="retry_count">Número de tentativas</string>
+    <string name="retry_count_info">Número de tentativas em caso de falha de conexão</string>
     <string name="general">Geral</string>
     <string name="advanced">Avançadas</string>
     <string name="bookmark">Marcador</string>
@@ -557,6 +559,7 @@
     <string name="customize">Customizando</string>
     <string name="font">Fonte</string>
     <string name="font_default">Fonte padrão</string>
+    <string name="font_bold">Negrito</string>
     <string name="font_preview">A fonte é aplicada a este texto.</string>
     <string name="font_info_1">Você pode alterar a fonte das páginas da web com arquivos TTF no armazenamento interno ou no cartão SD.</string>
     <string name="font_info_2">As fontes instaladas por outros aplicativos podem não se aplicar.</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">Bloquear JavaScript na página atual</string>
     <string name="js_black">Lista negra de JavaScript</string>
     <string name="js_black_info">Você pode registrar sites que bloqueiam JavaScript.</string>
-    <string name="theme_web">Navegador</string>
     <string name="theme_light">Tema claro</string>
     <string name="theme_dark">Tema escuro</string>
     <string name="dark_home">Casa com tema escuro</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">Para desativá-lo, selecione outro primeiro.</string>
     <string name="video_icon_tap">Toque na tela</string>
     <string name="video_icon_long">Toque longo na tela</string>
-    <string name="video_icon_guide_1">Pressione e segure a tela.</string>
-    <string name="video_icon_guide_2">Botões de função aparecerão.</string>
+    <string name="video_icon_guide">Pressione e segure a tela para revelar os botões de função.</string>
     <string name="change_in_setting">Você pode alterá-lo nas configurações.</string>
     <string name="check_brfore">Verifique antes de executar</string>
 </resources>

@@ -71,6 +71,8 @@
     <string name="create_album">สร้างอัลบั้ม</string>
     <string name="create_zip">สร้าง ZIP</string>
     <string name="retry">ลองใหม่</string>
+    <string name="retry_count">จำนวนครั้งที่ลองใหม่</string>
+    <string name="retry_count_info">จำนวนครั้งในการลองใหม่ในกรณีที่การเชื่อมต่อล้มเหลว</string>
     <string name="general">ทั่วไป</string>
     <string name="advanced">ตั้งค่าขั้นสูง</string>
     <string name="bookmark">คั่นหน้า</string>
@@ -557,6 +559,7 @@
     <string name="customize">การปรับแต่ง</string>
     <string name="font">แบบอักษร</string>
     <string name="font_default">แบบอักษรเริ่มต้น</string>
+    <string name="font_bold">ตัวหนา</string>
     <string name="font_preview">แบบอักษรใช้กับข้อความนี้</string>
     <string name="font_info_1">คุณสามารถเปลี่ยนแบบอักษรของหน้าเว็บด้วยไฟล์ TTF ในที่เก็บข้อมูลภายในหรือการ์ด SD</string>
     <string name="font_info_2">แบบอักษรที่ติดตั้งโดยแอพอื่นอาจใช้ไม่ได้</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">บล็อก JavaScript บนหน้าปัจจุบัน</string>
     <string name="js_black">บัญชีดำของ JavaScript</string>
     <string name="js_black_info">คุณสามารถลงทะเบียนไซต์ที่บล็อก JavaScript ได้</string>
-    <string name="theme_web">เบราว์เซอร์</string>
     <string name="theme_light">ธีมแสง</string>
     <string name="theme_dark">ธีมสีเข้ม</string>
     <string name="dark_home">บ้านธีมมืด</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">หากต้องการปิดใช้งาน ให้เลือกอันอื่นก่อน</string>
     <string name="video_icon_tap">แตะที่หน้าจอ</string>
     <string name="video_icon_long">กดค้างบนหน้าจอ</string>
-    <string name="video_icon_guide_1">กดค้างที่หน้าจอ</string>
-    <string name="video_icon_guide_2">ปุ่มฟังก์ชั่นจะปรากฏขึ้น</string>
+    <string name="video_icon_guide">กดหน้าจอค้างไว้เพื่อแสดงปุ่มฟังก์ชั่น</string>
     <string name="change_in_setting">คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="check_brfore">ตรวจสอบก่อนวิ่ง</string>
 </resources>

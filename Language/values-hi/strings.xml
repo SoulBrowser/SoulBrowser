@@ -71,6 +71,8 @@
     <string name="create_album">एल्बम बनाओ</string>
     <string name="create_zip">ज़िप बनाएं</string>
     <string name="retry">पुन: प्रयास करें</string>
+    <string name="retry_count">पुनर्प्रयास की संख्या</string>
+    <string name="retry_count_info">कनेक्शन विफलता के मामले में पुनर्प्रयास की संख्या</string>
     <string name="general">सामान्य</string>
     <string name="advanced">विकसित</string>
     <string name="bookmark">बुकमार्क</string>
@@ -557,6 +559,7 @@
     <string name="customize">अनुकूलित करें</string>
     <string name="font">फ़ॉन्ट</string>
     <string name="font_default">मूलभूत अक्षर</string>
+    <string name="font_bold">बोल्ड अक्षरों</string>
     <string name="font_preview">इस पाठ पर फ़ॉन्ट लागू किया गया है।</string>
     <string name="font_info_1">आप आंतरिक भंडारण या एसडी कार्ड में टीटीएफ फाइलों के साथ वेब पेजों का फ़ॉन्ट बदल सकते हैं।</string>
     <string name="font_info_2">अन्य ऐप्स द्वारा इंस्टॉल किए गए फ़ॉन्ट लागू नहीं हो सकते हैं।</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">वर्तमान पृष्ठ पर जावास्क्रिप्ट को ब्लॉक करें</string>
     <string name="js_black">जावास्क्रिप्ट ब्लैकलिस्ट</string>
     <string name="js_black_info">आप उन साइटों को पंजीकृत कर सकते हैं जो जावास्क्रिप्ट को ब्लॉक करती हैं।</string>
-    <string name="theme_web">ब्राउज़र</string>
     <string name="theme_light">लाइट थीम</string>
     <string name="theme_dark">डार्क थीम</string>
     <string name="dark_home">डार्क थीम होम</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">इसे अक्षम करने के लिए, पहले दूसरे को चुनें।</string>
     <string name="video_icon_tap">स्क्रीन पर टैप करें</string>
     <string name="video_icon_long">स्क्रीन पर देर तक दबाएं</string>
-    <string name="video_icon_guide_1">स्क्रीन को दबाकर रखें।</string>
-    <string name="video_icon_guide_2">फंक्शन बटन दिखाई देंगे।</string>
+    <string name="video_icon_guide">फ़ंक्शन बटन प्रकट करने के लिए स्क्रीन को दबाकर रखें।</string>
     <string name="change_in_setting">आप इसे सेटिंग में बदल सकते हैं।</string>
     <string name="check_brfore">दौड़ने से पहले जांच लें</string>
 </resources>

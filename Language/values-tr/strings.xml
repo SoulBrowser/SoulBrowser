@@ -71,6 +71,8 @@
     <string name="create_album">Albüm oluştur</string>
     <string name="create_zip">ZIP oluştur</string>
     <string name="retry">Yeniden dene</string>
+    <string name="retry_count">Tekrar deneme sayısı</string>
+    <string name="retry_count_info">Bağlantı hatası durumunda yeniden deneme sayısı</string>
     <string name="general">Genel</string>
     <string name="advanced">Gelişmiş</string>
     <string name="bookmark">Yer İşareti</string>
@@ -557,6 +559,7 @@
     <string name="customize">Kişiselleştir</string>
     <string name="font">Yazı</string>
     <string name="font_default">Varsayılan yazı tipi</string>
+    <string name="font_bold">Kalın</string>
     <string name="font_preview">Yazı tipi bu metne uygulanır.</string>
     <string name="font_info_1">Dahili depolama veya SD karttaki TTF dosyalarıyla web sayfalarının yazı tipini değiştirebilirsiniz.</string>
     <string name="font_info_2">Diğer uygulamalar tarafından yüklenen yazı tipleri geçerli olmayabilir.</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">Mevcut sayfada JavaScript\'i engelle</string>
     <string name="js_black">JavaScript kara listesi</string>
     <string name="js_black_info">JavaScript\'i engelleyen sitelere kaydolabilirsiniz.</string>
-    <string name="theme_web">Tarayıcı</string>
     <string name="theme_light">Açık tema</string>
     <string name="theme_dark">Koyu tema</string>
     <string name="dark_home">Koyu tema ana sayfası</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">Devre dışı bırakmak için önce başka birini seçin.</string>
     <string name="video_icon_tap">Ekrana dokunun</string>
     <string name="video_icon_long">Ekrana uzun basın</string>
-    <string name="video_icon_guide_1">Ekrana basın ve basılı tutun.</string>
-    <string name="video_icon_guide_2">İşlev düğmeleri görünecektir.</string>
+    <string name="video_icon_guide">İşlev düğmelerini ortaya çıkarmak için ekrana basın ve basılı tutun.</string>
     <string name="change_in_setting">Ayarlardan değiştirebilirsiniz.</string>
     <string name="check_brfore">Çalıştırmadan önce kontrol edin</string>
 </resources>

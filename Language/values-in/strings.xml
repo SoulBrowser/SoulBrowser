@@ -71,6 +71,8 @@
     <string name="create_album">Buat album</string>
     <string name="create_zip">Buat ZIP</string>
     <string name="retry">Coba lagi</string>
+    <string name="retry_count">Jumlah percobaan ulang</string>
+    <string name="retry_count_info">Jumlah percobaan ulang jika terjadi kegagalan koneksi</string>
     <string name="general">Umum</string>
     <string name="advanced">Lanjutan</string>
     <string name="bookmark">Bookmark</string>
@@ -557,6 +559,7 @@
     <string name="customize">Menyesuaikan</string>
     <string name="font">Font</string>
     <string name="font_default">Font default</string>
+    <string name="font_bold">Huruf tebal</string>
     <string name="font_preview">Font diterapkan pada teks ini.</string>
     <string name="font_info_1">Anda dapat mengubah font halaman web dengan file TTF di penyimpanan internal atau kartu SD.</string>
     <string name="font_info_2">Font yang dipasang oleh aplikasi lain mungkin tidak berlaku.</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">Blokir JavaScript di halaman saat ini</string>
     <string name="js_black">Daftar hitam JavaScript</string>
     <string name="js_black_info">Anda dapat mendaftarkan situs yang memblokir JavaScript.</string>
-    <string name="theme_web">Browser</string>
     <string name="theme_light">Tema terang</string>
     <string name="theme_dark">Tema gelap</string>
     <string name="dark_home">Rumah tema gelap</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">Untuk menonaktifkannya, pilih yang lain terlebih dahulu.</string>
     <string name="video_icon_tap">Ketuk layar</string>
     <string name="video_icon_long">Tekan lama di layar</string>
-    <string name="video_icon_guide_1">Tekan dan tahan layar.</string>
-    <string name="video_icon_guide_2">Tombol fungsi akan muncul.</string>
+    <string name="video_icon_guide">Tekan dan tahan layar untuk membuka tombol fungsi.</string>
     <string name="change_in_setting">Anda dapat mengubahnya di pengaturan.</string>
     <string name="check_brfore">Periksa sebelum dijalankan</string>
 </resources>

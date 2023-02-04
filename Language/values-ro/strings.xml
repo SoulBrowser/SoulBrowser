@@ -71,6 +71,8 @@
     <string name="create_album">Creare album</string>
     <string name="create_zip">Creare ZIP</string>
     <string name="retry">Încercați din nou</string>
+    <string name="retry_count">Numărul de reîncercări</string>
+    <string name="retry_count_info">Numărul de reîncercări în cazul eșecului conexiunii</string>
     <string name="general">General</string>
     <string name="advanced">Avansate</string>
     <string name="bookmark">Marcaj</string>
@@ -557,6 +559,7 @@
     <string name="customize">Personalizare</string>
     <string name="font">Font</string>
     <string name="font_default">Font implicit</string>
+    <string name="font_bold">Boldface</string>
     <string name="font_preview">Fontul este aplicat acestui text.</string>
     <string name="font_info_1">Puteți schimba fontul paginilor web cu fișiere TTF în stocare internă sau card SD.</string>
     <string name="font_info_2">Fonturile instalate de alte aplicații s-ar putea să nu se aplice.</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">Blocați JavaScript pe pagina curentă</string>
     <string name="js_black">Lista neagră JavaScript</string>
     <string name="js_black_info">Puteți înregistra site-uri care blochează JavaScript.</string>
-    <string name="theme_web">Browser</string>
     <string name="theme_light">Tema ușoară</string>
     <string name="theme_dark">Tema întunecată</string>
     <string name="dark_home">Acasă cu tema întunecată</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">Pentru a-l dezactiva, mai întâi selectați altul.</string>
     <string name="video_icon_tap">Atingeți ecranul</string>
     <string name="video_icon_long">Apăsați lung pe ecran</string>
-    <string name="video_icon_guide_1">Apăsați lung pe ecran.</string>
-    <string name="video_icon_guide_2">Vor apărea butoanele de funcție.</string>
+    <string name="video_icon_guide">Apăsați și mențineți apăsat ecranul pentru a afișa butoanele de funcție.</string>
     <string name="change_in_setting">Îl poți schimba în setări.</string>
     <string name="check_brfore">Verificați înainte de a alerga</string>
 </resources>

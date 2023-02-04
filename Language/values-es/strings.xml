@@ -71,6 +71,8 @@
     <string name="create_album">Crear albúm</string>
     <string name="create_zip">Crear ZIP</string>
     <string name="retry">Reintentar</string>
+    <string name="retry_count">Número de reintentos</string>
+    <string name="retry_count_info">Número de reintentos en caso de fallo de conexión</string>
     <string name="general">General</string>
     <string name="advanced">Ajustes</string>
     <string name="bookmark">Marcador</string>
@@ -557,6 +559,7 @@
     <string name="customize">Personalización</string>
     <string name="font">Fuente</string>
     <string name="font_default">Fuente predeterminada</string>
+    <string name="font_bold">Negrita</string>
     <string name="font_preview">La fuente se aplica a este texto.</string>
     <string name="font_info_1">Puede cambiar la fuente de las páginas web con archivos TTF en almacenamiento interno o tarjeta SD.</string>
     <string name="font_info_2">Es posible que no se apliquen las fuentes instaladas por otras aplicaciones.</string>
@@ -730,7 +733,6 @@
     <string name="js_block_page">Bloquear JavaScript en la página actual</string>
     <string name="js_black">Lista negra de JavaScript</string>
     <string name="js_black_info">Puede registrar sitios que bloquean JavaScript.</string>
-    <string name="theme_web">Navegador</string>
     <string name="theme_light">Tema claro</string>
     <string name="theme_dark">Tema oscuro</string>
     <string name="dark_home">Hogar de tema oscuro</string>
@@ -949,8 +951,7 @@
     <string name="search_guide_2">Para deshabilitarlo, seleccione otro primero.</string>
     <string name="video_icon_tap">Toca la pantalla</string>
     <string name="video_icon_long">Pulsación larga en la pantalla</string>
-    <string name="video_icon_guide_1">Mantenga presionada la pantalla.</string>
-    <string name="video_icon_guide_2">Aparecerán los botones de función.</string>
+    <string name="video_icon_guide">Mantenga presionada la pantalla para revelar los botones de función.</string>
     <string name="change_in_setting">Puedes cambiarlo en la configuración.</string>
     <string name="check_brfore">Comprobar antes de correr</string>
 </resources>
