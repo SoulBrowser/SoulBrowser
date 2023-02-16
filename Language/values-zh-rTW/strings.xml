@@ -145,6 +145,7 @@
     <string name="downall_image">儲存所有圖片</string>
     <string name="tab_list">分頁列表</string>
     <string name="tab_item">分頁</string>
+    <string name="tab_items">分頁</string>
     <string name="tab_tip">如果開啟的分頁太多，瀏覽器可能會變慢</string>
     <string name="no_image">沒有圖片</string>
     <string name="no_title">沒有標題</string>

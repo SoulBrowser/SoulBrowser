@@ -145,6 +145,7 @@
     <string name="downall_image">Salva tutte immagini</string>
     <string name="tab_list">Elenco schede</string>
     <string name="tab_item">Schede</string>
+    <string name="tab_items">Schede</string>
     <string name="tab_tip">Se sono aperte troppe schede, il browser potrebbe rallentare.</string>
     <string name="no_image">Nessuna immagine</string>
     <string name="no_title">Senza titolo</string>

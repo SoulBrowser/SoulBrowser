@@ -145,6 +145,7 @@
     <string name="downall_image">احفظ كل الصور</string>
     <string name="tab_list">قائمة الجدولة</string>
     <string name="tab_item">فاتورة غير مدفوعة</string>
+    <string name="tab_items">نوافذ التبويب</string>
     <string name="tab_tip">إذا كان لديك العديد من علامات التبويب المفتوحة ، فقد يتباطأ متصفحك.</string>
     <string name="no_image">لا توجد صورة</string>
     <string name="no_title">بدون عنوان</string>

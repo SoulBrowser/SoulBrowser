@@ -145,6 +145,7 @@
     <string name="downall_image">Enregistrer toutes les images</string>
     <string name="tab_list">Liste onglets</string>
     <string name="tab_item">Onglet</string>
+    <string name="tab_items">Onglets</string>
     <string name="tab_tip">Si trop d\'onglets sont ouverts, le navigateur peut ralentir.</string>
     <string name="no_image">Pas d\'image</string>
     <string name="no_title">Pas de titre</string>

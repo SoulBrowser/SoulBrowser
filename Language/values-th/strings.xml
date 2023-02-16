@@ -145,6 +145,7 @@
     <string name="downall_image">บันทึกภาพทั้งหมด</string>
     <string name="tab_list">รายการแท็บ</string>
     <string name="tab_item">แถบ</string>
+    <string name="tab_items">แท็บ</string>
     <string name="tab_tip">หากเปิดแท็บมากเกินไปเบราว์เซอร์อาจช้าลง</string>
     <string name="no_image">ไม่มีภาพ</string>
     <string name="no_title">ไม่มีชื่อ</string>

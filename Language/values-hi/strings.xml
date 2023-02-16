@@ -145,6 +145,7 @@
     <string name="downall_image">सभी इमेज सेव करें</string>
     <string name="tab_list">टैब सूची</string>
     <string name="tab_item">टैब</string>
+    <string name="tab_items">टैब</string>
     <string name="tab_tip">यदि बहुत अधिक टैब खुले हैं, तो ब्राउज़र धीमा हो सकता है।</string>
     <string name="no_image">कोई चित्र नहीं</string>
     <string name="no_title">कोई शीर्षक नहीं</string>

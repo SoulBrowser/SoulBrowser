@@ -11,8 +11,8 @@
     <string name="license">Açık kaynak lisansları</string>
     <string name="show_license">Lisans</string>
     <string name="feedback">Geri bildirim gönder</string>
-    <string name="item">&#160;Sekme</string>
-    <string name="items">&#160;Sekme</string>
+    <string name="item">&#160;madde</string>
+    <string name="items">&#160;ürün</string>
     <string name="down_location">İndirme konumu</string>
     <string name="album_location">Albüm konumu</string>
     <string name="zip_location">ZIP konumu</string>
@@ -145,6 +145,7 @@
     <string name="downall_image">Tüm resimleri kaydet</string>
     <string name="tab_list">Sekme listesi</string>
     <string name="tab_item">Sekme</string>
+    <string name="tab_items">Sekmeler</string>
     <string name="tab_tip">Çok fazla sekme açıksa, tarayıcı yavaşlayabilir.</string>
     <string name="no_image">Resim yok</string>
     <string name="no_title">Başlık yok</string>

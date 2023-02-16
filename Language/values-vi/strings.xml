@@ -145,6 +145,7 @@
     <string name="downall_image">Lưu tất cả hình ảnh</string>
     <string name="tab_list">Danh sách tab</string>
     <string name="tab_item">Tab</string>
+    <string name="tab_items">Tab</string>
     <string name="tab_tip">Nếu quá nhiều tab được mở, trình duyệt có thể chậm lại.</string>
     <string name="no_image">Không có hình ảnh</string>
     <string name="no_title">Không tiêu đề</string>

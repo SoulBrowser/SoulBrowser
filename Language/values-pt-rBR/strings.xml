@@ -145,6 +145,7 @@
     <string name="downall_image">Salvar todas as imagens</string>
     <string name="tab_list">Lista de guias</string>
     <string name="tab_item">Guia</string>
+    <string name="tab_items">Guias</string>
     <string name="tab_tip">Se muitas guias estiverem abertas, o navegador poderá ficar mais lento.</string>
     <string name="no_image">Sem imagens</string>
     <string name="no_title">Sem título</string>

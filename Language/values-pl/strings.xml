@@ -144,7 +144,8 @@
     <string name="only_image">Wyświetl tylko obrazy</string>
     <string name="downall_image">Zapisz wszystkie obrazy</string>
     <string name="tab_list">Lista kart</string>
-    <string name="tab_item">Tab</string>
+    <string name="tab_item">Karta</string>
+    <string name="tab_items">Karty</string>
     <string name="tab_tip">Jeśli otwartych jest zbyt wiele kart, przeglądarka może zwolnić.</string>
     <string name="no_image">Brak obrazów</string>
     <string name="no_title">Bez tytułu</string>

@@ -145,6 +145,7 @@
     <string name="downall_image">Guarda todas imágenes</string>
     <string name="tab_list">Lista pestañas</string>
     <string name="tab_item">Pestaña</string>
+    <string name="tab_items">Pestañas</string>
     <string name="tab_tip">Si hay demasiadas pestañas abiertas, el navegador puede ralentizarse.</string>
     <string name="no_image">No hay imágenes</string>
     <string name="no_title">Sin título</string>

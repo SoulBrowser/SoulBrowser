@@ -145,6 +145,7 @@
     <string name="downall_image">Salvați toate imaginile</string>
     <string name="tab_list">Lista file</string>
     <string name="tab_item">Tab</string>
+    <string name="tab_items">Filele</string>
     <string name="tab_tip">Dacă sunt deschise prea multe file, browserul poate încetini.</string>
     <string name="no_image">Fără imagini</string>
     <string name="no_title">Fără titlu</string>

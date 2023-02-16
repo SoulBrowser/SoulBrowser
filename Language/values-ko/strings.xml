@@ -145,6 +145,7 @@
     <string name="downall_image">이미지 모두 저장</string>
     <string name="tab_list">탭 목록</string>
     <string name="tab_item">탭</string>
+    <string name="tab_items">탭</string>
     <string name="tab_tip">너무 많은 탭이 열려있으면, 브라우저가 느려질 수 있습니다.</string>
     <string name="no_image">이미지 없음</string>
     <string name="no_title">제목 없음</string>

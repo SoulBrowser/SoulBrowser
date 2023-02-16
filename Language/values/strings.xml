@@ -145,6 +145,7 @@
     <string name="downall_image">Save all images</string>
     <string name="tab_list">Tab list</string>
     <string name="tab_item">Tab</string>
+    <string name="tab_items">Tabs</string>
     <string name="tab_tip">If too many tabs are open, the browser may slow down.</string>
     <string name="no_image">No images</string>
     <string name="no_title">No title</string>

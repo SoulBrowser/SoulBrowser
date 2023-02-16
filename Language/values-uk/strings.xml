@@ -145,6 +145,7 @@
     <string name="downall_image">Зберегти всі зображення</string>
     <string name="tab_list">Список вкладок</string>
     <string name="tab_item">Вкладка</string>
+    <string name="tab_items">Вкладки</string>
     <string name="tab_tip">Якщо відкрито занадто багато вкладок, браузер може сповільнитись.</string>
     <string name="no_image">Немає зображень</string>
     <string name="no_title">Без назви</string>

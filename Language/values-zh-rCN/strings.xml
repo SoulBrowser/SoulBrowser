@@ -145,6 +145,7 @@
     <string name="downall_image">保存所有图像</string>
     <string name="tab_list">标签列表</string>
     <string name="tab_item">标签</string>
+    <string name="tab_items">标签</string>
     <string name="tab_tip">如果打开的标签页太多，浏览器可能会变慢</string>
     <string name="no_image">没有图像</string>
     <string name="no_title">没有标题</string>

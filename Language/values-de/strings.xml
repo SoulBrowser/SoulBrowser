@@ -145,6 +145,7 @@
     <string name="downall_image">Alle Bilder speichern</string>
     <string name="tab_list">Tab-Liste</string>
     <string name="tab_item">Tab</string>
+    <string name="tab_items">Tabs</string>
     <string name="tab_tip">Wenn zu viele Tabs geöffnet sind, wird der Browser möglicherweise langsamer.</string>
     <string name="no_image">Keine Bilder</string>
     <string name="no_title">Kein Titel</string>

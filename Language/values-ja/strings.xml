@@ -145,6 +145,7 @@
     <string name="downall_image">すべての画像を保存</string>
     <string name="tab_list">タブ一覧</string>
     <string name="tab_item">タブ</string>
+    <string name="tab_items">タブ</string>
     <string name="tab_tip">あまりにも多くのタブが開いている場合は、ブラウザが遅くなることがあります。</string>
     <string name="no_image">画像なし</string>
     <string name="no_title">タイトルなし</string>
