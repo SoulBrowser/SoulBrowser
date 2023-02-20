@@ -955,4 +955,6 @@
     <string name="video_icon_guide">Tieni premuto lo schermo per visualizzare i pulsanti funzione.</string>
     <string name="change_in_setting">Puoi cambiarlo nelle impostazioni.</string>
     <string name="check_brfore">Controlla prima di correre</string>
+    <string name="check_ver">Verifica versione</string>
+    <string name="dark_guide_1">Se la visualizzazione Web del sistema Android non è l\'ultima versione, il tema scuro potrebbe non essere visualizzato normalmente.</string>
 </resources>

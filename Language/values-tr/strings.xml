@@ -955,4 +955,6 @@
     <string name="video_icon_guide">İşlev düğmelerini ortaya çıkarmak için ekrana basın ve basılı tutun.</string>
     <string name="change_in_setting">Ayarlardan değiştirebilirsiniz.</string>
     <string name="check_brfore">Çalıştırmadan önce kontrol edin</string>
+    <string name="check_ver">Sürümü kontrol et</string>
+    <string name="dark_guide_1">Android sistem web görünümü en son sürüm değilse koyu tema normal şekilde görüntülenmeyebilir.</string>
 </resources>

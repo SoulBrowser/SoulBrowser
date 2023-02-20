@@ -955,4 +955,6 @@
     <string name="video_icon_guide">اضغط مع الاستمرار على الشاشة للكشف عن أزرار الوظائف.</string>
     <string name="change_in_setting">يمكنك تغييره في الإعدادات.</string>
     <string name="check_brfore">تحقق قبل الجري</string>
+    <string name="check_ver">تحقق من الإصدار</string>
+    <string name="dark_guide_1">إذا لم يكن عرض الويب لنظام Android هو أحدث إصدار ، فقد لا يتم عرض السمة الداكنة بشكل طبيعي.</string>
 </resources>

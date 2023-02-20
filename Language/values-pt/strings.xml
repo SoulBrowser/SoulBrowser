@@ -955,4 +955,6 @@
     <string name="video_icon_guide">Pressione e segure a tela para revelar os botões de função.</string>
     <string name="change_in_setting">Você pode alterá-lo nas configurações.</string>
     <string name="check_brfore">Verifique antes de executar</string>
+    <string name="check_ver">Verifique a versão</string>
+    <string name="dark_guide_1">Se a visualização da web do sistema Android não for a versão mais recente, o tema escuro pode não ser exibido normalmente.</string>
 </resources>

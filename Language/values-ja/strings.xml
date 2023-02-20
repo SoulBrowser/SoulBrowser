@@ -955,4 +955,6 @@
     <string name="video_icon_guide">画面を長押しすると機能ボタンが表示されます。</string>
     <string name="change_in_setting">設定で変更できます。</string>
     <string name="check_brfore">実行前の確認</string>
+    <string name="check_ver">バージョン確認</string>
+    <string name="dark_guide_1">AndroidシステムのWebビューが最新バージョンではない場合、ダークテーマが正常に表示されないことがあります。</string>
 </resources>

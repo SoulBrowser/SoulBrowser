@@ -955,4 +955,6 @@
     <string name="video_icon_guide">Halten Sie den Bildschirm gedrückt, um die Funktionstasten anzuzeigen.</string>
     <string name="change_in_setting">Sie können es in den Einstellungen ändern.</string>
     <string name="check_brfore">Prüfen Sie vor dem Laufen</string>
+    <string name="check_ver">Version prüfen</string>
+    <string name="dark_guide_1">Wenn die Webansicht des Android-Systems nicht die neueste Version ist, wird das dunkle Design möglicherweise nicht normal angezeigt.</string>
 </resources>

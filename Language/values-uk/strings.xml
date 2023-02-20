@@ -955,4 +955,6 @@
     <string name="video_icon_guide">Натисніть і утримуйте екран, щоб відкрити функціональні кнопки.</string>
     <string name="change_in_setting">Ви можете змінити це в налаштуваннях.</string>
     <string name="check_brfore">Перевірте перед запуском</string>
+    <string name="check_ver">Перевірити версію</string>
+    <string name="dark_guide_1">Якщо веб-перегляд системи Android не останньої версії, темна тема може не відображатися належним чином.</string>
 </resources>

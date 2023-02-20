@@ -955,4 +955,6 @@
     <string name="video_icon_guide">按住屏幕以显示功能按钮</string>
     <string name="change_in_setting">您可以在设置中更改它</string>
     <string name="check_brfore">运行前检查</string>
+    <string name="check_ver">检查版本</string>
+    <string name="dark_guide_1">如果Android系统webview不是最新版本，深色主题可能无法正常显示</string>
 </resources>

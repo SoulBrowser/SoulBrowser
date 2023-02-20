@@ -955,4 +955,6 @@
     <string name="video_icon_guide">Nhấn và giữ màn hình để hiển thị các nút chức năng.</string>
     <string name="change_in_setting">Bạn có thể thay đổi nó trong cài đặt.</string>
     <string name="check_brfore">Kiểm tra trước khi chạy</string>
+    <string name="check_ver">Kiểm tra phiên bản</string>
+    <string name="dark_guide_1">Nếu chế độ xem web của hệ thống Android không phải là phiên bản mới nhất, chủ đề tối có thể không hiển thị bình thường.</string>
 </resources>

@@ -955,4 +955,6 @@
     <string name="video_icon_guide">Naciśnij i przytrzymaj ekran, aby wyświetlić przyciski funkcyjne.</string>
     <string name="change_in_setting">Możesz to zmienić w ustawieniach.</string>
     <string name="check_brfore">Sprawdź przed biegiem</string>
+    <string name="check_ver">Sprawdź wersję</string>
+    <string name="dark_guide_1">Jeśli przeglądarka internetowa systemu Android nie jest najnowszą wersją, ciemny motyw może nie wyświetlać się normalnie.</string>
 </resources>

@@ -33,7 +33,7 @@ Soul Browser does not use Google Drive for any purpose other than storing and sh
 Soul Browser complies with Google Drive terms and conditions.
 
 Users can store and share your backup data in the following locations
-Settings > Data backup > Google Drive > Import / Export
+Settings > Backup > Google Drive > Import / Export
 
 
 4. Rights and exercise methods of users and legal representatives

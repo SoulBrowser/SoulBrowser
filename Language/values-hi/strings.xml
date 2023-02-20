@@ -955,4 +955,6 @@
     <string name="video_icon_guide">फ़ंक्शन बटन प्रकट करने के लिए स्क्रीन को दबाकर रखें।</string>
     <string name="change_in_setting">आप इसे सेटिंग में बदल सकते हैं।</string>
     <string name="check_brfore">दौड़ने से पहले जांच लें</string>
+    <string name="check_ver">जाँच संस्करण</string>
+    <string name="dark_guide_1">यदि Android सिस्टम वेबव्यू नवीनतम संस्करण नहीं है, तो हो सकता है कि डार्क थीम सामान्य रूप से प्रदर्शित न हो।</string>
 </resources>

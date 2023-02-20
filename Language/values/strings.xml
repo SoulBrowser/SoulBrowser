@@ -955,4 +955,6 @@
     <string name="video_icon_guide">Press and hold the screen to reveal function buttons.</string>
     <string name="change_in_setting">You can change it in settings.</string>
     <string name="check_brfore">Check before running</string>
+    <string name="check_ver">Check version</string>
+    <string name="dark_guide_1">If the Android system webview is not the latest version, the dark theme may not be displayed normally.</string>
 </resources>

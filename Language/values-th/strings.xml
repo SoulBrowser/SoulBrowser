@@ -955,4 +955,6 @@
     <string name="video_icon_guide">กดหน้าจอค้างไว้เพื่อแสดงปุ่มฟังก์ชั่น</string>
     <string name="change_in_setting">คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="check_brfore">ตรวจสอบก่อนวิ่ง</string>
+    <string name="check_ver">ตรวจสอบรุ่น</string>
+    <string name="dark_guide_1">หากเว็บวิวระบบ Android ไม่ใช่เวอร์ชันล่าสุด ธีมสีเข้มอาจไม่แสดงตามปกติ</string>
 </resources>
