@@ -371,7 +371,9 @@
     <string name="item_block_site">Bloquear en el sitio actual</string>
     <string name="item_block_page">Bloquear en la página actual</string>
     <string name="reset">Restablecer</string>
+    <string name="reset_setting">¿Quieres restablecer la configuración?</string>
     <string name="reset_confirm">¿Quieres reiniciar tu trabajo?</string>
+    <string name="set_reset_guide">Los ajustes relacionados con las siguientes funciones no se inicializan.</string>
     <string name="check_network">Compruebe el estado de la red.</string>
     <string name="server_error">El servidor no responde.</string>
     <string name="server_delay">La respuesta del servidor es lenta.</string>

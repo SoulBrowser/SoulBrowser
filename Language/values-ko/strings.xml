@@ -371,7 +371,9 @@
     <string name="item_block_site">현재 사이트에서 차단</string>
     <string name="item_block_page">현재 페이지에서 차단</string>
     <string name="reset">초기화</string>
+    <string name="reset_setting">설정을 초기화하시겠습니까?</string>
     <string name="reset_confirm">작업 내용을 초기화할까요?</string>
+    <string name="set_reset_guide">아래 기능과 관련된 설정은 초기화되지 않습니다.</string>
     <string name="check_network">네트워크 상태를 확인해 주세요.</string>
     <string name="server_error">서버가 응답하지 않습니다.</string>
     <string name="server_delay">서버 응답이 느립니다.</string>

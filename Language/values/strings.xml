@@ -371,7 +371,9 @@
     <string name="item_block_site">Block on current site</string>
     <string name="item_block_page">Block on current page</string>
     <string name="reset">Reset</string>
+    <string name="reset_setting">Do you want to reset settings?</string>
     <string name="reset_confirm">Reset work?</string>
+    <string name="set_reset_guide">Settings related to the functions below are not initialized.</string>
     <string name="check_network">Please check the network status.</string>
     <string name="server_error">The server is not responding.</string>
     <string name="server_delay">Server response is slow.</string>

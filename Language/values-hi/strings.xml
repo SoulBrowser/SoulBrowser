@@ -371,7 +371,9 @@
     <string name="item_block_site">वर्तमान साइट पर ब्लॉक करें</string>
     <string name="item_block_page">वर्तमान पेज पर ब्लॉक करें</string>
     <string name="reset">रीसेट</string>
+    <string name="reset_setting">क्या आप सेटिंग रीसेट करना चाहते हैं?</string>
     <string name="reset_confirm">काम रीसेट करें?</string>
+    <string name="set_reset_guide">नीचे दिए गए कार्यों से संबंधित सेटिंग प्रारंभ नहीं की गई हैं।</string>
     <string name="check_network">कृपया नेटवर्क स्थिति जांचें।</string>
     <string name="server_error">सर्वर प्रतिसाद नहीं दे रहा है।</string>
     <string name="server_delay">सर्वर की प्रतिक्रिया धीमी है।</string>

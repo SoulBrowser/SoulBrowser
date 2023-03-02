@@ -371,7 +371,9 @@
     <string name="item_block_site">Blokir di situs saat ini</string>
     <string name="item_block_page">Blokir di halaman saat ini</string>
     <string name="reset">Reset</string>
+    <string name="reset_setting">Apakah Anda ingin mengatur ulang pengaturan?</string>
     <string name="reset_confirm">Reset kerja?</string>
+    <string name="set_reset_guide">Pengaturan yang terkait dengan fungsi di bawah ini tidak diinisialisasi.</string>
     <string name="check_network">Silakan periksa status jaringan.</string>
     <string name="server_error">Server tidak merespons.</string>
     <string name="server_delay">Respons server lambat.</string>

@@ -371,7 +371,9 @@
     <string name="item_block_site">บล็อกบนเว็บไซต์ปัจจุบัน</string>
     <string name="item_block_page">บล็อกในหน้าปัจจุบัน</string>
     <string name="reset">รีเซ็ต</string>
+    <string name="reset_setting">คุณต้องการรีเซ็ตการตั้งค่าหรือไม่?</string>
     <string name="reset_confirm">รีเซ็ตการทำงานหรือไม่</string>
+    <string name="set_reset_guide">การตั้งค่าที่เกี่ยวข้องกับฟังก์ชันด้านล่างจะไม่เริ่มต้น</string>
     <string name="check_network">โปรดตรวจสอบสถานะเครือข่าย</string>
     <string name="server_error">เซิร์ฟเวอร์ไม่ตอบสนอง</string>
     <string name="server_delay">การตอบกลับของเซิร์ฟเวอร์ช้า</string>

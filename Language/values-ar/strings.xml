@@ -371,7 +371,9 @@
     <string name="item_block_site">منع في الموقع الحالي</string>
     <string name="item_block_page">حظر في الصفحة الحالية</string>
     <string name="reset">إعادة تعيين</string>
+    <string name="reset_setting">هل تريد إعادة ضبط الإعدادات؟</string>
     <string name="reset_confirm">هل ترغب في بدء عملك؟</string>
+    <string name="set_reset_guide">لم يتم تهيئة الإعدادات المتعلقة بالوظائف أدناه.</string>
     <string name="check_network">يرجى التحقق من حالة الشبكة.</string>
     <string name="server_error">الخادم لا يستجيب.</string>
     <string name="server_delay">استجابة الخادم بطيئة.</string>

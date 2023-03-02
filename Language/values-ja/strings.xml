@@ -371,7 +371,9 @@
     <string name="item_block_site">現在のサイトでブロック</string>
     <string name="item_block_page">現在のページからブロック</string>
     <string name="reset">初期化</string>
+    <string name="reset_setting">設定を初期化しますか？</string>
     <string name="reset_confirm">作業内容を初期化したいですか？</string>
+    <string name="set_reset_guide">以下の機能に関する設定は初期化されません。</string>
     <string name="check_network">ネットワークの状態を確認してください。</string>
     <string name="server_error">サーバーが応答しません。</string>
     <string name="server_delay">サーバーの応答が遅くなります。</string>

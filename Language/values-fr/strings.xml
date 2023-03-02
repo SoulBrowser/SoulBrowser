@@ -50,7 +50,7 @@
     <string name="print_success">Impression réussie</string>
     <string name="print_fail">Échec de l\'impression</string>
     <string name="translate">Traduire</string>
-    <string name="translator">Traducteur</string>
+    <string name="translator">Traduction</string>
     <string name="trans_detect">Détecter la langue</string>
     <string name="trans_auto_info">Lorsqu\'une langue traduisible est détectée, elle est automatiquement traduite.</string>
     <string name="trans_icon_info">Lorsqu\'une langue traduisible est détectée, le bouton Traduire s\'affiche.</string>
@@ -119,7 +119,7 @@
     <string name="app_block_info2">Si des informations sur le site sont disponibles, ouvrir le site.</string>
     <string name="app_block_noti">Le site tente d\'exécuter une autre application.</string>
     <string name="open_app">App</string>
-    <string name="link_app">Ouvrir le lien avec l\'application</string>
+    <string name="link_app">Ouvrir dans une application externe</string>
     <string name="link">Lien</string>
     <string name="open_url">Ouvrir</string>
     <string name="new_url">Nouvel onglet</string>
@@ -371,7 +371,9 @@
     <string name="item_block_site">Bloquer sur le site actuel</string>
     <string name="item_block_page">Bloquer sur la page actuelle</string>
     <string name="reset">Réinitialiser</string>
+    <string name="reset_setting">Voulez-vous réinitialiser les paramètres?</string>
     <string name="reset_confirm">Voulez-vous réinitialiser votre travail?</string>
+    <string name="set_reset_guide">Les paramètres liés aux fonctions ci-dessous ne sont pas initialisés.</string>
     <string name="check_network">Vérifiez état du réseau.</string>
     <string name="server_error">Le serveur ne répond pas.</string>
     <string name="server_delay">La réponse du serveur est lente.</string>

@@ -371,7 +371,9 @@
     <string name="item_block_site">Заблокировать на текущем сайте</string>
     <string name="item_block_page">Заблокировать на текущей странице</string>
     <string name="reset">Сброс</string>
+    <string name="reset_setting">Вы хотите сбросить настройки?</string>
     <string name="reset_confirm">Вы хотите сбросить свою работу?</string>
+    <string name="set_reset_guide">Настройки, относящиеся к перечисленным ниже функциям, не инициализируются.</string>
     <string name="check_network">Проверьте состояние сети.</string>
     <string name="server_error">Сервер не отвечает.</string>
     <string name="server_delay">Ответ сервера медленный.</string>

@@ -371,7 +371,9 @@
     <string name="item_block_site">Auf aktueller Seite sperren</string>
     <string name="item_block_page">Auf aktueller Seite blockieren</string>
     <string name="reset">Zurücksetzen</string>
+    <string name="reset_setting">Möchten Sie die Einstellungen zurücksetzen?</string>
     <string name="reset_confirm">Möchten Sie die Einstellungen zurücksetzen?</string>
+    <string name="set_reset_guide">Einstellungen in Bezug auf die nachstehenden Funktionen werden nicht initialisiert.</string>
     <string name="check_network">Bitte überprüfen Sie den Netzwerkstatus.</string>
     <string name="server_error">Server antwortet nicht.</string>
     <string name="server_delay">Serverantwort zu langsam.</string>

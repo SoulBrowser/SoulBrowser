@@ -371,7 +371,9 @@
     <string name="item_block_site">Blocați pe site-ul actual</string>
     <string name="item_block_page">Blocați pe pagina curentă</string>
     <string name="reset">Resetare</string>
+    <string name="reset_setting">Doriți să resetați setările?</string>
     <string name="reset_confirm">Resetare lucrare?</string>
+    <string name="set_reset_guide">Setările legate de funcțiile de mai jos nu sunt inițializate.</string>
     <string name="check_network">Vă rugăm să verificați starea rețelei.</string>
     <string name="server_error">Serverul nu răspunde.</string>
     <string name="server_delay">Răspunsul serverului este lent.</string>

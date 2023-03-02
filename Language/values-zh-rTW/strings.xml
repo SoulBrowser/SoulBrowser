@@ -371,7 +371,9 @@
     <string name="item_block_site">在當前站點上阻止</string>
     <string name="item_block_page">在當前頁面上阻止</string>
     <string name="reset">初始化</string>
+    <string name="reset_setting">您要重置設置嗎？</string>
     <string name="reset_confirm">你想重設您的工作嗎？</string>
+    <string name="set_reset_guide">與以下功能相關的設置未初始化</string>
     <string name="check_network">請檢查您的網路狀態</string>
     <string name="server_error">伺服器無回應</string>
     <string name="server_delay">伺服器回應很慢</string>

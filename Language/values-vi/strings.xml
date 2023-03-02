@@ -371,7 +371,9 @@
     <string name="item_block_site">Chặn trên trang web hiện tại</string>
     <string name="item_block_page">Chặn trên trang hiện tại</string>
     <string name="reset">Đặt lại</string>
+    <string name="reset_setting">Bạn có muốn đặt lại cài đặt không?</string>
     <string name="reset_confirm">Bạn có muốn thiết lập lại công việc của bạn?</string>
+    <string name="set_reset_guide">Cài đặt liên quan đến các chức năng bên dưới không được khởi tạo.</string>
     <string name="check_network">Vui lòng kiểm tra trạng thái mạng.</string>
     <string name="server_error">Máy chủ không phản hồi.</string>
     <string name="server_delay">Máy chủ phản hồi chậm.</string>

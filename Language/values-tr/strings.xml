@@ -371,7 +371,9 @@
     <string name="item_block_site">Mevcut sitede engelle</string>
     <string name="item_block_page">Geçerli sayfada engelle</string>
     <string name="reset">Sıfırla</string>
+    <string name="reset_setting">Ayarları sıfırlamak istiyor musunuz?</string>
     <string name="reset_confirm">Sıfırlansın mı?</string>
+    <string name="set_reset_guide">Aşağıdaki işlevlerle ilgili ayarlar başlatılmaz.</string>
     <string name="check_network">Lütfen ağ durumunu kontrol edin.</string>
     <string name="server_error">Sunucu yanıt vermiyor.</string>
     <string name="server_delay">Sunucu yanıtı yavaş.</string>

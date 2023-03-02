@@ -371,7 +371,9 @@
     <string name="item_block_site">Заблокувати на поточному сайті</string>
     <string name="item_block_page">Заблокувати на поточній сторінці</string>
     <string name="reset">Скидання налаштувань</string>
+    <string name="reset_setting">Бажаєте скинути налаштування?</string>
     <string name="reset_confirm">Скинути роботу?</string>
+    <string name="set_reset_guide">Параметри, пов’язані з наведеними нижче функціями, не ініціалізуються.</string>
     <string name="check_network">Перевірте стан мережі.</string>
     <string name="server_error">Сервер не відповідає.</string>
     <string name="server_delay">Відповідь сервера повільна.</string>
