@@ -125,7 +125,7 @@ dcinside.com##a[href*="://ccbblab.com/"],a[href*="://goo.gl/"],div[class*="adv-g
 namu.live##div[class*="google-ad-area"]
 ruliweb.com##div[class=ad_header_wrapper],div[class*="ad_wrapper"],div[class^="nbp_container"],div[id=fixed_ad],div[id*="adsense_"],div[id*="mo_ad_"]
 inven.co.kr##div[class*="show-ads"],div[class*="mobileAdNs"],div[class*="mobileDaNs"],div[class*="mobileTSNs"],div[id*="dablewidget_"],div[id*="mobileTailAd"],div[style*="height:41px;"],div[style*="text-align:center;height:50px;"],section[class=banner-ad],section[class=mobile-ad]
-ppomppu.co.kr##div[id=pp_ban_top],div[id*="power_link"],li[id=main_bbs_list_ad],iframe[id=M11st],iframe[id^="if_ad"]
+ppomppu.co.kr##div[id=pp_ban_top],div[id*="power_link"],div[id*="powerlink"],li[id=main_bbs_list_ad],iframe[id=M11st],iframe[id^="if_ad"],iframe[height="130"][src*="ad."]
 clien.net##div[class=card_center_ad],div[class=list_bottom_ad],div[class=list_center_ad],div[class=list_top_ad],div[class=main_center_ad],div[class=main_top_ad],div[id*="naverAd"]
 theqoo.net##div[class*="google_ad"]
 humoruniv.com##div[id=adbine_iframe_list_best],div[id=adbine_iframe_pds_notice],div[id=ddn_ad_128],div[id=pnut_iframe],div[id=pnut_iframe_list_best],div[id=pnut_iframe_read_btn],div[id=pnut_iframe_list_end],div[id=list_ad_300_250],div[id=tsad_iframe],div[style*="width:100%;height:250px;"],iframe[src*="adbine_320x100_center"],ins[class=daum_ddn_area]
