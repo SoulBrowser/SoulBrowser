@@ -959,4 +959,7 @@
     <string name="check_brfore">दौड़ने से पहले जांच लें</string>
     <string name="check_ver">जाँच संस्करण</string>
     <string name="dark_guide_1">यदि Android सिस्टम वेबव्यू नवीनतम संस्करण नहीं है, तो हो सकता है कि डार्क थीम सामान्य रूप से प्रदर्शित न हो।</string>
+    <string name="recent_search">हाल की खोजें</string>
+    <string name="recent_secret">हाल की खोजों को गुप्त मोड में सहेजें</string>
+    <string name="recent_delete">क्या आप वाकई हाल की सभी खोजों को हटाना चाहते हैं?</string>
 </resources>

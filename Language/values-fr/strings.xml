@@ -959,4 +959,7 @@
     <string name="check_brfore">Vérifier avant de courir</string>
     <string name="check_ver">Vérifier la version</string>
     <string name="dark_guide_1">Si la vue Web du système Android n\'est pas la dernière version, le thème sombre peut ne pas s\'afficher normalement.</string>
+    <string name="recent_search">Recherches récentes</string>
+    <string name="recent_secret">Enregistrer les recherches récentes en mode incognito</string>
+    <string name="recent_delete">Voulez-vous vraiment supprimer toutes les recherches récentes ?</string>
 </resources>

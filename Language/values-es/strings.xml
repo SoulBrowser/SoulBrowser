@@ -959,4 +959,7 @@
     <string name="check_brfore">Comprobar antes de correr</string>
     <string name="check_ver">Ver versión</string>
     <string name="dark_guide_1">Si la vista web del sistema Android no es la última versión, es posible que el tema oscuro no se muestre normalmente.</string>
+    <string name="recent_search">Búsquedas recientes</string>
+    <string name="recent_secret">Guardar búsquedas recientes en modo incógnito</string>
+    <string name="recent_delete">¿Está seguro de que desea eliminar todas las búsquedas recientes?</string>
 </resources>

@@ -959,4 +959,7 @@
     <string name="check_brfore">Check before running</string>
     <string name="check_ver">Check version</string>
     <string name="dark_guide_1">If the Android system webview is not the latest version, the dark theme may not be displayed normally.</string>
+    <string name="recent_search">Recent searches</string>
+    <string name="recent_secret">Save recent searches in incognito mode</string>
+    <string name="recent_delete">Are you sure you want to delete all recent searches?</string>
 </resources>

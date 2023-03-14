@@ -959,4 +959,7 @@
     <string name="check_brfore">运行前检查</string>
     <string name="check_ver">检查版本</string>
     <string name="dark_guide_1">如果Android系统webview不是最新版本，深色主题可能无法正常显示</string>
+    <string name="recent_search">最近搜索</string>
+    <string name="recent_secret">以隐身模式保存最近的搜索</string>
+    <string name="recent_delete">您确定要删除所有最近的搜索吗？</string>
 </resources>

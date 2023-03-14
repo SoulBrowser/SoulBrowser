@@ -959,4 +959,7 @@
     <string name="check_brfore">Prüfen Sie vor dem Laufen</string>
     <string name="check_ver">Version prüfen</string>
     <string name="dark_guide_1">Wenn die Webansicht des Android-Systems nicht die neueste Version ist, wird das dunkle Design möglicherweise nicht normal angezeigt.</string>
+    <string name="recent_search">Letzte Suchen</string>
+    <string name="recent_secret">Speichern Sie die letzten Suchen im Inkognito-Modus</string>
+    <string name="recent_delete">Möchten Sie wirklich alle letzten Suchen löschen?</string>
 </resources>

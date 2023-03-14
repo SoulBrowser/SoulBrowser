@@ -959,4 +959,7 @@
     <string name="check_brfore">Periksa sebelum dijalankan</string>
     <string name="check_ver">Periksa versi</string>
     <string name="dark_guide_1">Jika tampilan web sistem Android bukan versi terbaru, tema gelap mungkin tidak ditampilkan secara normal.</string>
+    <string name="recent_search">Pencarian terkini</string>
+    <string name="recent_secret">Simpan pencarian terbaru dalam mode penyamaran</string>
+    <string name="recent_delete">Apakah Anda yakin ingin menghapus semua pencarian terbaru?</string>
 </resources>

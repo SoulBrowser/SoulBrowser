@@ -959,4 +959,7 @@
     <string name="check_brfore">Перевірте перед запуском</string>
     <string name="check_ver">Перевірити версію</string>
     <string name="dark_guide_1">Якщо веб-перегляд системи Android не останньої версії, темна тема може не відображатися належним чином.</string>
+    <string name="recent_search">Останні пошуки</string>
+    <string name="recent_secret">Зберігайте останні пошуки в режимі анонімного перегляду</string>
+    <string name="recent_delete">Ви впевнені, що бажаєте видалити всі останні пошуки?</string>
 </resources>

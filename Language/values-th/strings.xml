@@ -959,4 +959,7 @@
     <string name="check_brfore">ตรวจสอบก่อนวิ่ง</string>
     <string name="check_ver">ตรวจสอบรุ่น</string>
     <string name="dark_guide_1">หากเว็บวิวระบบ Android ไม่ใช่เวอร์ชันล่าสุด ธีมสีเข้มอาจไม่แสดงตามปกติ</string>
+    <string name="recent_search">การค้นหาล่าสุด</string>
+    <string name="recent_secret">บันทึกการค้นหาล่าสุดในโหมดไม่ระบุตัวตน</string>
+    <string name="recent_delete">คุณแน่ใจหรือไม่ว่าต้องการลบการค้นหาล่าสุดทั้งหมด</string>
 </resources>

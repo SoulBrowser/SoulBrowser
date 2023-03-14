@@ -959,4 +959,7 @@
     <string name="check_brfore">実行前の確認</string>
     <string name="check_ver">バージョン確認</string>
     <string name="dark_guide_1">AndroidシステムのWebビューが最新バージョンではない場合、ダークテーマが正常に表示されないことがあります。</string>
+    <string name="recent_search">最近の検索</string>
+    <string name="recent_secret">シークレットモードで最近検索を保存する</string>
+    <string name="recent_delete">最近のクエリをすべて削除しますか？</string>
 </resources>

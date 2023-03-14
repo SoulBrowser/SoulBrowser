@@ -12,7 +12,7 @@
     <string name="show_license">Lisans</string>
     <string name="feedback">Geri bildirim gönder</string>
     <string name="item">&#160;madde</string>
-    <string name="items">&#160;ürün</string>
+    <string name="items">&#160;öğe</string>
     <string name="down_location">İndirme konumu</string>
     <string name="album_location">Albüm konumu</string>
     <string name="zip_location">ZIP konumu</string>
@@ -719,7 +719,7 @@
     <string name="backup_import">İçe aktar</string>
     <string name="backup_export">Dışa aktar</string>
     <string name="backup_target">Lütfen bir hedef seçin.</string>
-    <string name="saving">Tasarruf&#8230;</string>
+    <string name="saving">Kaydediliyor&#8230;</string>
     <string name="save_empty">Kurtarılacak bir şey yok.</string>
     <string name="not_changed">Hiçbir değişiklik yapılmadı.</string>
     <string name="app_restart">Uygulamayı yeniden başlatmanız gerekiyor.</string>
@@ -959,4 +959,7 @@
     <string name="check_brfore">Çalıştırmadan önce kontrol edin</string>
     <string name="check_ver">Sürümü kontrol et</string>
     <string name="dark_guide_1">Android sistem web görünümü en son sürüm değilse koyu tema normal şekilde görüntülenmeyebilir.</string>
+    <string name="recent_search">Son aramalar</string>
+    <string name="recent_secret">Son aramaları gizli modda kaydet</string>
+    <string name="recent_delete">Tüm son aramaları silmek istediğinizden emin misiniz?</string>
 </resources>

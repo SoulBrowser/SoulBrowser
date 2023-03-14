@@ -959,4 +959,7 @@
     <string name="check_brfore">تحقق قبل الجري</string>
     <string name="check_ver">تحقق من الإصدار</string>
     <string name="dark_guide_1">إذا لم يكن عرض الويب لنظام Android هو أحدث إصدار ، فقد لا يتم عرض السمة الداكنة بشكل طبيعي.</string>
+    <string name="recent_search">عمليات البحث الأخيرة</string>
+    <string name="recent_secret">حفظ عمليات البحث الأخيرة في وضع التصفح المتخفي</string>
+    <string name="recent_delete">هل أنت متأكد أنك تريد حذف جميع عمليات البحث الأخيرة؟</string>
 </resources>

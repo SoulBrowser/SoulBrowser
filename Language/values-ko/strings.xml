@@ -959,4 +959,7 @@
     <string name="check_brfore">실행 전 확인</string>
     <string name="check_ver">버전 확인</string>
     <string name="dark_guide_1">안드로이드 시스템 웹뷰가 최신 버전이 아닐 경우, 다크 테마가 정상적으로 표시되지 않을 수 있습니다.</string>
+    <string name="recent_search">최근 검색어</string>
+    <string name="recent_secret">시크릿 모드에서 최근 검색어 저장</string>
+    <string name="recent_delete">최근 검색어를 모두 삭제하시겠습니까?</string>
 </resources>

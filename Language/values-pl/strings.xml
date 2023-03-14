@@ -959,4 +959,7 @@
     <string name="check_brfore">Sprawdź przed biegiem</string>
     <string name="check_ver">Sprawdź wersję</string>
     <string name="dark_guide_1">Jeśli przeglądarka internetowa systemu Android nie jest najnowszą wersją, ciemny motyw może nie wyświetlać się normalnie.</string>
+    <string name="recent_search">Ostatnie wyszukiwania</string>
+    <string name="recent_secret">Zapisz ostatnie wyszukiwania w trybie incognito</string>
+    <string name="recent_delete">Czy na pewno chcesz usunąć wszystkie ostatnie wyszukiwania?</string>
 </resources>

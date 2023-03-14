@@ -959,4 +959,7 @@
     <string name="check_brfore">Kiểm tra trước khi chạy</string>
     <string name="check_ver">Kiểm tra phiên bản</string>
     <string name="dark_guide_1">Nếu chế độ xem web của hệ thống Android không phải là phiên bản mới nhất, chủ đề tối có thể không hiển thị bình thường.</string>
+    <string name="recent_search">Tìm kiếm gần đây</string>
+    <string name="recent_secret">Lưu các tìm kiếm gần đây ở chế độ ẩn danh</string>
+    <string name="recent_delete">Bạn có chắc chắn muốn xóa tất cả các tìm kiếm gần đây không?</string>
 </resources>

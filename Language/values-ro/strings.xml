@@ -959,4 +959,7 @@
     <string name="check_brfore">Verificați înainte de a alerga</string>
     <string name="check_ver">Verifica versiunea</string>
     <string name="dark_guide_1">Dacă vizualizarea web a sistemului Android nu este cea mai recentă versiune, este posibil ca tema întunecată să nu fie afișată normal.</string>
+    <string name="recent_search">Căutări recente</string>
+    <string name="recent_secret">Salvați căutările recente în modul incognito</string>
+    <string name="recent_delete">Sigur doriți să ștergeți toate căutările recente?</string>
 </resources>
