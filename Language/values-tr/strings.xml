@@ -839,7 +839,7 @@
     <string name="gesture_block_info_2">Yalnızca ekranın ortasındaki hareketler için geçerlidir.</string>
     <string name="gesture_block_info_3">Ekranın kenarlarındaki hareketler için geçerli değildir.</string>
     <string name="down_service">İndirme hizmeti</string>
-    <string name="service_exit">Hizmet sonlandırıldı</string>
+    <string name="service_exit">Hizmeti sonlandir</string>
     <string name="auto_comp">Otomatik tamamlama</string>
     <string name="check_element">Element denetimi</string>
     <string name="check_ele_info_0">(daha ince taneli engelleme)</string>
