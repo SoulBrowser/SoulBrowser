@@ -66,6 +66,7 @@
     <string name="trans_allowed">Temporarily allowed</string>
     <string name="google_trans">Google Translate</string>
     <string name="original">Original</string>
+    <string name="select_lang">Please select a language</string>
     <string name="find_word">Find in page</string>
     <string name="verify_image">Image verification</string>
     <string name="create_album">Create album</string>

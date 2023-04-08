@@ -66,6 +66,7 @@
     <string name="trans_allowed">مسموح به مؤقتا</string>
     <string name="google_trans">ترجمة Google</string>
     <string name="original">أصلي</string>
+    <string name="select_lang">يرجى تحديد لغة</string>
     <string name="find_word">العثور على الصفحة</string>
     <string name="verify_image">فحص الصورة</string>
     <string name="create_album">قم بإنشاء ألبوم</string>

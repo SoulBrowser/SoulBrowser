@@ -66,6 +66,7 @@
     <string name="trans_allowed">Временно разрешено</string>
     <string name="google_trans">Google Переводчик</string>
     <string name="original">Oригинальный</string>
+    <string name="select_lang">Пожалуйста, выберите язык</string>
     <string name="find_word">Найти на странице</string>
     <string name="verify_image">Проверить изображение</string>
     <string name="create_album">Создать альбом</string>

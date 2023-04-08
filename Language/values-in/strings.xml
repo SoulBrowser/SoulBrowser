@@ -66,6 +66,7 @@
     <string name="trans_allowed">Diperbolehkan sementara</string>
     <string name="google_trans">Google Penerjemah</string>
     <string name="original">Asli</string>
+    <string name="select_lang">Pilih bahasa</string>
     <string name="find_word">Temukan di halaman</string>
     <string name="verify_image">Verifikasi gambar</string>
     <string name="create_album">Buat album</string>

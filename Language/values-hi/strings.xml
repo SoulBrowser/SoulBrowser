@@ -66,6 +66,7 @@
     <string name="trans_allowed">अस्थायी रूप से अनुमत</string>
     <string name="google_trans">Google अनुवाद करें</string>
     <string name="original">मूल</string>
+    <string name="select_lang">कृपया एक भाषा चुनें</string>
     <string name="find_word">पेज में ढूंढना</string>
     <string name="verify_image">छवि सत्यापन</string>
     <string name="create_album">एल्बम बनाओ</string>
