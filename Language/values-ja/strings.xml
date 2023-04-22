@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">横モードを設定するには、機器を水平に回転させるします。</string>
     <string name="not_support_site">一部のサイトでは、サポートされないことがあります。</string>
     <string name="not_support_locale">一部の地域ではサポートされないことがあります。</string>
-    <string name="restart">再起動</string>
     <string name="ads_filter">広告フィルタ</string>
     <string name="user_filter">ユーザーフィルター</string>
     <string name="backup_title">バックアップ</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">私に合った組み合わせを見つけてください。</string>
     <string name="filter_guide_5">推奨される組み合わせは、基本フィルターと言語フィルターです。</string>
     <string name="filter_guide_6">提供されたフィルターで広告がブロックされない場合は、独自のフィルター ルールを追加するか、フィルター管理者に連絡してください。</string>
+    <string name="filter_link_1">フィルタ著作権は、フィルタ作成者またはフィルタプロバイダにあります。</string>
+    <string name="filter_link_2">Soul Browserにはフィルタファイルの権利はありません。</string>
+    <string name="filter_link_3">フィルターメーカーに感謝します。</string>
+    <string name="filter_link_4">フィルタアドレスが変更されると、フィルタが更新されないことがあります。</string>
+    <string name="filter_link_5">In questo caso, si prega di informare lo sviluppatore.</string>
     <string name="search_guide_1">選択したアイテムを無効にすることはできません。</string>
     <string name="search_guide_2">無効にするには、まず別のものを選択します。</string>
     <string name="video_icon_tap">画面をタップ</string>

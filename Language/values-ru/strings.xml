@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">Чтобы установить альбомный режим поверните устройство по горизонтали.</string>
     <string name="not_support_site">Некоторые сайты могут не поддерживаться.</string>
     <string name="not_support_locale">Может не поддерживаться в некоторых регионах.</string>
-    <string name="restart">Начать сначала</string>
     <string name="ads_filter">Рекламный фильтр</string>
     <string name="user_filter">Пользовательский фильтр</string>
     <string name="backup_title">Резервное копирование и восстановление</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">Найдите комбинацию, которая подходит именно вам.</string>
     <string name="filter_guide_5">Рекомендуемая комбинация — базовый фильтр и языковой фильтр.</string>
     <string name="filter_guide_6">Если предоставленный фильтр не блокирует рекламу, добавьте собственное правило фильтра или свяжитесь с администратором фильтра.</string>
+    <string name="filter_link_1">Авторские права на фильтр остаются за создателем фильтра или поставщиком фильтра.</string>
+    <string name="filter_link_2">Soul Browser не имеет права фильтровать файлы.</string>
+    <string name="filter_link_3">Спасибо создателям фильтра.</string>
+    <string name="filter_link_4">Фильтры могут не обновляться при изменении адреса фильтра.</string>
+    <string name="filter_link_5">В этом случае сообщите об этом разработчику.</string>
     <string name="search_guide_1">Выбранный элемент нельзя отключить.</string>
     <string name="search_guide_2">Чтобы отключить его, сначала выберите другой.</string>
     <string name="video_icon_tap">Коснитесь экрана</string>

@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">要设置横向模式，请水平旋转设备</string>
     <string name="not_support_site">某些网站可能不受支持</string>
     <string name="not_support_locale">可能并非所有地区都支持它</string>
-    <string name="restart">重新开始</string>
     <string name="ads_filter">广告过滤器</string>
     <string name="user_filter">用户过滤器</string>
     <string name="backup_title">备份</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">找到适合您的组合</string>
     <string name="filter_guide_5">推荐的组合是基本过滤器和语言过滤器</string>
     <string name="filter_guide_6">如果提供的过滤器没有屏蔽广告，请添加您自己的过滤器规则或联系过滤器管理员</string>
+    <string name="filter_link_1">滤镜版权归滤镜创建者或滤镜供应商所有</string>
+    <string name="filter_link_2">Soul Browser 无权过滤文件</string>
+    <string name="filter_link_3">感谢过滤器的创建者</string>
+    <string name="filter_link_4">如果过滤器地址更改，过滤器可能不会更新</string>
+    <string name="filter_link_5">在这种情况下，请通知开发商</string>
     <string name="search_guide_1">无法禁用所选项目</string>
     <string name="search_guide_2">要禁用它，请先选择另一个</string>
     <string name="video_icon_tap">点击屏幕</string>

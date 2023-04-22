@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">Aby ustawić tryb poziomy, obróć urządzenie poziomo.</string>
     <string name="not_support_site">Niektóre witryny mogą nie być obsługiwane.</string>
     <string name="not_support_locale">Może nie być obsługiwany we wszystkich regionach.</string>
-    <string name="restart">Uruchom ponownie</string>
     <string name="ads_filter">Filtr reklam</string>
     <string name="user_filter">Filtr użytkownika</string>
     <string name="backup_title">Zapasowej</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">Znajdź kombinację odpowiednią dla siebie.</string>
     <string name="filter_guide_5">Zalecaną kombinacją jest filtr podstawowy i filtr językowy.</string>
     <string name="filter_guide_6">Jeśli podany filtr nie blokuje reklam, dodaj własną regułę filtrowania lub skontaktuj się z administratorem filtrów.</string>
+    <string name="filter_link_1">Prawa autorskie do filtra pozostają w gestii twórcy filtra lub dostawcy filtra.</string>
+    <string name="filter_link_2">Soul Browser nie ma uprawnień do filtrowania plików.</string>
+    <string name="filter_link_3">Dzięki twórcom filtra.</string>
+    <string name="filter_link_4">Filtry mogą nie zostać zaktualizowane, jeśli zmieni się adres filtra.</string>
+    <string name="filter_link_5">W takim przypadku prosimy o poinformowanie dewelopera.</string>
     <string name="search_guide_1">Wybrany element nie może zostać wyłączony.</string>
     <string name="search_guide_2">Aby go wyłączyć, wybierz najpierw inny.</string>
     <string name="video_icon_tap">Dotknij ekranu</string>

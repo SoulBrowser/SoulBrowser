@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">Pour définir le mode paysage, faites pivoter votre appareil horizontalement.</string>
     <string name="not_support_site">Certains sites peuvent ne pas être pris en charge.</string>
     <string name="not_support_locale">Il peut ne pas être pris en charge dans toutes les régions.</string>
-    <string name="restart">Redémarrer</string>
     <string name="ads_filter">Filtre publicitaire</string>
     <string name="user_filter">Filtre utilisateur</string>
     <string name="backup_title">Sauvegarde</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">Trouvez la combinaison qui vous convient.</string>
     <string name="filter_guide_5">La combinaison recommandée est le filtre de base et le filtre de langue.</string>
     <string name="filter_guide_6">Si le filtre fourni ne bloque pas les publicités, veuillez ajouter votre propre règle de filtrage ou contacter l\'administrateur du filtre.</string>
+    <string name="filter_link_1">Le droit d\'auteur du filtre appartient au créateur du filtre ou au fournisseur du filtre.</string>
+    <string name="filter_link_2">Soul Browser n\'a pas le droit de filtrer les fichiers.</string>
+    <string name="filter_link_3">Merci aux créateurs du filtre.</string>
+    <string name="filter_link_4">Les filtres peuvent ne pas être mis à jour si l\'adresse du filtre change.</string>
+    <string name="filter_link_5">Dans ce cas, veuillez en informer le développeur.</string>
     <string name="search_guide_1">L\'élément sélectionné ne peut pas être désactivé.</string>
     <string name="search_guide_2">Pour le désactiver, sélectionnez-en d\'abord un autre.</string>
     <string name="video_icon_tap">Appuyez sur l\'écran</string>

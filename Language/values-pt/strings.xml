@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">Para definir o modo paisagem, gire seu dispositivo horizontalmente.</string>
     <string name="not_support_site">Alguns sites podem não ser suportados.</string>
     <string name="not_support_locale">Pode não ser compatível com todas as regiões.</string>
-    <string name="restart">Reiniciar</string>
     <string name="ads_filter">Filtro de anúncio</string>
     <string name="user_filter">Filtro de usuário</string>
     <string name="backup_title">Backup</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">Encontre a combinação certa para você.</string>
     <string name="filter_guide_5">A combinação recomendada é o filtro básico e o filtro de idioma.</string>
     <string name="filter_guide_6">Se o filtro fornecido não bloquear anúncios, adicione sua própria regra de filtro ou entre em contato com o administrador do filtro.</string>
+    <string name="filter_link_1">Os direitos autorais do filtro permanecem com o criador ou fornecedor do filtro.</string>
+    <string name="filter_link_2">O Soul Browser não tem direitos para filtrar arquivos.</string>
+    <string name="filter_link_3">Obrigado aos criadores do filtro.</string>
+    <string name="filter_link_4">Os filtros podem não ser atualizados se o endereço do filtro for alterado.</string>
+    <string name="filter_link_5">Neste caso, informe o desenvolvedor.</string>
     <string name="search_guide_1">O item selecionado não pode ser desabilitado.</string>
     <string name="search_guide_2">Para desativá-lo, selecione outro primeiro.</string>
     <string name="video_icon_tap">Toque na tela</string>

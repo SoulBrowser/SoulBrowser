@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">要設定橫向模式，請先水平旋轉裝置</string>
     <string name="not_support_site">某些網站可能不支援</string>
     <string name="not_support_locale">並非所有地區都支援</string>
-    <string name="restart">重新開始</string>
     <string name="ads_filter">廣告過濾器</string>
     <string name="user_filter">用戶過濾器</string>
     <string name="backup_title">備份</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">找到適合您的組合</string>
     <string name="filter_guide_5">推薦的組合是基本過濾器和語言過濾器</string>
     <string name="filter_guide_6">如果提供的過濾器沒有屏蔽廣告，請添加您自己的過濾器規則或聯繫過濾器管理員</string>
+    <string name="filter_link_1">濾鏡版權歸濾鏡創建者或濾鏡供應商所有</string>
+    <string name="filter_link_2">Soul Browser 無權過濾文件</string>
+    <string name="filter_link_3">感謝過濾器的創建者</string>
+    <string name="filter_link_4">如果過濾器地址更改，過濾器可能不會更新</string>
+    <string name="filter_link_5">在這種情況下，請通知開發商</string>
     <string name="search_guide_1">無法禁用所選項目</string>
     <string name="search_guide_2">要禁用它，請先選擇另一個</string>
     <string name="video_icon_tap">點擊屏幕</string>

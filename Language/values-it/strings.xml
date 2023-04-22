@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">Per impostare la modalità orizzontale, ruota il dispositivo in orizzontale.</string>
     <string name="not_support_site">Alcuni siti potrebbero non essere supportati.</string>
     <string name="not_support_locale">Potrebbe non essere supportato in tutte le regioni.</string>
-    <string name="restart">Ricomincia</string>
     <string name="ads_filter">Filtro degli annunci</string>
     <string name="user_filter">Filtro utente</string>
     <string name="backup_title">Backup</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">Trova la combinazione che fa per te.</string>
     <string name="filter_guide_5">La combinazione consigliata è il filtro di base e il filtro della lingua.</string>
     <string name="filter_guide_6">Se il filtro fornito non blocca gli annunci, aggiungi la tua regola di filtro o contatta l\'amministratore del filtro.</string>
+    <string name="filter_link_1">Il copyright del filtro rimane del creatore del filtro o del fornitore del filtro.</string>
+    <string name="filter_link_2">Soul Browser non ha il diritto di filtrare i file.</string>
+    <string name="filter_link_3">Grazie ai creatori del filtro.</string>
+    <string name="filter_link_4">I filtri potrebbero non essere aggiornati se l\'indirizzo del filtro cambia.</string>
+    <string name="filter_link_5">In questo caso, si prega di informare lo sviluppatore.</string>
     <string name="search_guide_1">L\'elemento selezionato non può essere disabilitato.</string>
     <string name="search_guide_2">Per disabilitarlo, selezionane prima un altro.</string>
     <string name="video_icon_tap">Toccare lo schermo</string>

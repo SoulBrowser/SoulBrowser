@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">Để đặt chế độ ngang, hãy xoay thiết bị của bạn theo chiều ngang.</string>
     <string name="not_support_site">Một số trang web có thể không được hỗ trợ.</string>
     <string name="not_support_locale">Nó có thể không được hỗ trợ ở tất cả các khu vực.</string>
-    <string name="restart">Khởi động lại</string>
     <string name="ads_filter">Bộ lọc quảng cáo</string>
     <string name="user_filter">Bộ lọc người dùng</string>
     <string name="backup_title">Sao lưu</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">Tìm sự kết hợp phù hợp với bạn.</string>
     <string name="filter_guide_5">Sự kết hợp được đề xuất là bộ lọc cơ bản và bộ lọc ngôn ngữ.</string>
     <string name="filter_guide_6">Nếu bộ lọc được cung cấp không chặn quảng cáo, vui lòng thêm quy tắc bộ lọc của riêng bạn hoặc liên hệ với quản trị viên bộ lọc.</string>
+    <string name="filter_link_1">Bản quyền bộ lọc vẫn thuộc về người tạo bộ lọc hoặc nhà cung cấp bộ lọc.</string>
+    <string name="filter_link_2">Soul Browser không có quyền lọc tệp.</string>
+    <string name="filter_link_3">Cảm ơn những người tạo ra bộ lọc.</string>
+    <string name="filter_link_4">Bộ lọc có thể không được cập nhật nếu địa chỉ bộ lọc thay đổi.</string>
+    <string name="filter_link_5">Trong trường hợp này, vui lòng thông báo cho nhà phát triển.</string>
     <string name="search_guide_1">Không thể tắt mục đã chọn.</string>
     <string name="search_guide_2">Để tắt nó, trước tiên hãy chọn một cái khác.</string>
     <string name="video_icon_tap">Chạm vào màn hình</string>

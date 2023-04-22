@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">लैंडस्केप मोड सेट करने के लिए, अपने डिवाइस को क्षैतिज रूप से घुमाएं।</string>
     <string name="not_support_site">कुछ साइटों का समर्थन नहीं किया जा सकता है।</string>
     <string name="not_support_locale">यह सभी क्षेत्रों में समर्थित नहीं हो सकता है।</string>
-    <string name="restart">पुनर्प्रारंभ करें</string>
     <string name="ads_filter">विज्ञापन फ़िल्टर</string>
     <string name="user_filter">उपयोगकर्ता फ़िल्टर</string>
     <string name="backup_title">बैकअप</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">वह संयोजन खोजें जो आपके लिए सही हो।</string>
     <string name="filter_guide_5">अनुशंसित संयोजन मूल फ़िल्टर और भाषा फ़िल्टर है।</string>
     <string name="filter_guide_6">यदि प्रदान किया गया फ़िल्टर विज्ञापनों को अवरुद्ध नहीं करता है, तो कृपया अपना स्वयं का फ़िल्टर नियम जोड़ें या फ़िल्टर व्यवस्थापक से संपर्क करें।</string>
+    <string name="filter_link_1">फ़िल्टर कॉपीराइट फ़िल्टर निर्माता या फ़िल्टर आपूर्तिकर्ता के पास रहता है।</string>
+    <string name="filter_link_2">सोल ब्राउजर के पास फाइलों को फिल्टर करने का कोई अधिकार नहीं है।</string>
+    <string name="filter_link_3">फ़िल्टर के रचनाकारों को धन्यवाद।</string>
+    <string name="filter_link_4">यदि फ़िल्टर का पता बदल जाता है, तो हो सकता है कि फ़िल्टर अपडेट न हों।</string>
+    <string name="filter_link_5">इस मामले में, कृपया डेवलपर को सूचित करें।</string>
     <string name="search_guide_1">चयनित आइटम को अक्षम नहीं किया जा सकता है।</string>
     <string name="search_guide_2">इसे अक्षम करने के लिए, पहले दूसरे को चुनें।</string>
     <string name="video_icon_tap">स्क्रीन पर टैप करें</string>

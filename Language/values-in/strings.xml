@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">Untuk menyetel mode lanskap, putar perangkat Anda secara horizontal.</string>
     <string name="not_support_site">Beberapa situs mungkin tidak didukung.</string>
     <string name="not_support_locale">Ini mungkin tidak didukung di semua wilayah.</string>
-    <string name="restart">Mengulang kembali</string>
     <string name="ads_filter">Filter iklan</string>
     <string name="user_filter">Filter pengguna</string>
     <string name="backup_title">Cadangan</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">Temukan kombinasi yang tepat untuk Anda.</string>
     <string name="filter_guide_5">Kombinasi yang disarankan adalah filter dasar dan filter bahasa.</string>
     <string name="filter_guide_6">Jika filter yang disediakan tidak memblokir iklan, tambahkan aturan filter Anda sendiri atau hubungi administrator filter.</string>
+    <string name="filter_link_1">Hak cipta filter tetap pada pembuat filter atau pemasok filter.</string>
+    <string name="filter_link_2">Soul Browser tidak memiliki hak untuk memfilter file.</string>
+    <string name="filter_link_3">Terima kasih kepada pembuat filter.</string>
+    <string name="filter_link_4">Filter mungkin tidak diperbarui jika alamat filter berubah.</string>
+    <string name="filter_link_5">Dalam hal ini, harap informasikan kepada pengembang.</string>
     <string name="search_guide_1">Item yang dipilih tidak dapat dinonaktifkan.</string>
     <string name="search_guide_2">Untuk menonaktifkannya, pilih yang lain terlebih dahulu.</string>
     <string name="video_icon_tap">Ketuk layar</string>

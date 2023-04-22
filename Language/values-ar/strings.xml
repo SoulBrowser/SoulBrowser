@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">لتعيين الوضع الأفقي ، قم بتدوير جهازك أفقيًا.</string>
     <string name="not_support_site">قد لا يتم دعم بعض المواقع.</string>
     <string name="not_support_locale">قد لا يكون مدعومًا في جميع المناطق.</string>
-    <string name="restart">إعادة تشغيل</string>
     <string name="ads_filter">مرشح الإعلانات</string>
     <string name="user_filter">مرشح المستخدم</string>
     <string name="backup_title">دعم</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">اعثر على المجموعة المناسبة لك.</string>
     <string name="filter_guide_5">التركيبة الموصى بها هي عامل التصفية الأساسي ومرشح اللغة.</string>
     <string name="filter_guide_6">إذا كان الفلتر المقدم لا يمنع الإعلانات ، فالرجاء إضافة قاعدة الفلتر الخاصة بك أو الاتصال بمسؤول التصفية.</string>
+    <string name="filter_link_1">تبقى حقوق نشر الفلتر مع منشئ المرشح أو مورد المرشح.</string>
+    <string name="filter_link_2">ليس لدى Soul Browser أي حقوق لتصفية الملفات.</string>
+    <string name="filter_link_3">بفضل المبدعين من الفلتر.</string>
+    <string name="filter_link_4">قد لا يتم تحديث عوامل التصفية إذا تغير عنوان المرشح.</string>
+    <string name="filter_link_5">في هذه الحالة ، يرجى إبلاغ المطور.</string>
     <string name="search_guide_1">لا يمكن تعطيل العنصر المحدد.</string>
     <string name="search_guide_2">لتعطيله ، حدد واحدة أخرى أولاً.</string>
     <string name="video_icon_tap">اضغط على الشاشة</string>

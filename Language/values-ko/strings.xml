@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">가로 모드를 설정하려면 기기를 가로로 회전하세요.</string>
     <string name="not_support_site">일부 사이트는 지원되지 않을 수 있습니다.</string>
     <string name="not_support_locale">일부 지역에서는 지원되지 않을 수 있습니다.</string>
-    <string name="restart">재시작</string>
     <string name="ads_filter">광고 필터</string>
     <string name="user_filter">사용자 필터</string>
     <string name="backup_title">백업</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">나에게 맞는 조합을 찾아보세요.</string>
     <string name="filter_guide_5">권장 조합은 기본 필터와 언어 필터입니다.</string>
     <string name="filter_guide_6">제공된 필터가 광고를 차단하지 않는 경우, 자신의 필터 규칙을 추가하거나 필터 관리자에게 문의하세요.</string>
+    <string name="filter_link_1">필터 저작권은 필터 작성자 또는 필터 공급자에게 있습니다.</string>
+    <string name="filter_link_2">Soul Browser는 필터 파일에 대한 권리가 없습니다.</string>
+    <string name="filter_link_3">필터 제작자분들께 감사드립니다.</string>
+    <string name="filter_link_4">필터 주소가 변경되면 필터가 업데이트되지 않을 수 있습니다.</string>
+    <string name="filter_link_5">이 경우, 개발자에게 알려주세요.</string>
     <string name="search_guide_1">선택된 항목은 비활성화할 수 없습니다.</string>
     <string name="search_guide_2">비활성화하려면, 먼저 다른 것을 선택해 주세요.</string>
     <string name="video_icon_tap">화면을 탭</string>

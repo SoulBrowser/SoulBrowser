@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">Yatay modunu ayarlamak için cihazınızı yatay olarak döndürün.</string>
     <string name="not_support_site">Bazı siteler desteklenmiyor olabilir.</string>
     <string name="not_support_locale">Tüm bölgelerde desteklenmeyebilir.</string>
-    <string name="restart">Yeniden başlat</string>
     <string name="ads_filter">Reklam filtresi</string>
     <string name="user_filter">Kullanıcı filtresi</string>
     <string name="backup_title">Yedekleme</string>
@@ -840,7 +839,7 @@
     <string name="gesture_block_info_2">Yalnızca ekranın ortasındaki hareketler için geçerlidir.</string>
     <string name="gesture_block_info_3">Ekranın kenarlarındaki hareketler için geçerli değildir.</string>
     <string name="down_service">İndirme hizmeti</string>
-    <string name="service_exit">Hizmeti sonlandir</string>
+    <string name="service_exit">Hizmeti sonlandır</string>
     <string name="auto_comp">Otomatik tamamlama</string>
     <string name="check_element">Element denetimi</string>
     <string name="check_ele_info_0">(daha ince taneli engelleme)</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">Size uygun kombinasyonu bulun.</string>
     <string name="filter_guide_5">Önerilen kombinasyon, temel filtre ve dil filtresidir.</string>
     <string name="filter_guide_6">Sağlanan filtre reklamları engellemiyorsa, lütfen kendi filtre kuralınızı ekleyin veya filtre yöneticisiyle iletişime geçin.</string>
+    <string name="filter_link_1">Filtre telif hakkı, filtre oluşturucu veya filtre tedarikçisinde kalır.</string>
+    <string name="filter_link_2">Soul Browser\'ın dosyaları filtreleme hakkı yoktur.</string>
+    <string name="filter_link_3">Filtrenin yaratıcılarına teşekkürler.</string>
+    <string name="filter_link_4">Filtre adresi değişirse filtreler güncellenmeyebilir.</string>
+    <string name="filter_link_5">Bu durumda, lütfen geliştiriciyi bilgilendirin.</string>
     <string name="search_guide_1">Seçilen öğe devre dışı bırakılamaz.</string>
     <string name="search_guide_2">Devre dışı bırakmak için önce başka birini seçin.</string>
     <string name="video_icon_tap">Ekrana dokunun</string>

@@ -713,7 +713,6 @@
     <string name="double_tap_guide_2">Щоб встановити альбомний режим, поверніть пристрій горизонтально.</string>
     <string name="not_support_site">Деякі сайти можуть не підтримуватися.</string>
     <string name="not_support_locale">Він може підтримуватися не у всіх регіонах.</string>
-    <string name="restart">Перезапустити</string>
     <string name="ads_filter">Рекламний фільтр</string>
     <string name="user_filter">Фільтр користувача</string>
     <string name="backup_title">Резервне</string>
@@ -951,6 +950,11 @@
     <string name="filter_guide_4">Знайдіть поєднання, яке підходить саме вам.</string>
     <string name="filter_guide_5">Рекомендованою комбінацією є основний фільтр і мовний фільтр.</string>
     <string name="filter_guide_6">Якщо наданий фільтр не блокує рекламу, додайте власне правило фільтра або зверніться до адміністратора фільтра.</string>
+    <string name="filter_link_1">Авторські права на фільтр залишаються за його творцем або постачальником.</string>
+    <string name="filter_link_2">Soul Browser не має права фільтрувати файли.</string>
+    <string name="filter_link_3">Спасибі творцям фільтра.</string>
+    <string name="filter_link_4">Фільтри можуть не оновлюватися, якщо змінюється адреса фільтра.</string>
+    <string name="filter_link_5">У цьому випадку повідомте розробника.</string>
     <string name="search_guide_1">Вибраний елемент не можна вимкнути.</string>
     <string name="search_guide_2">Щоб вимкнути його, спочатку виберіть інший.</string>
     <string name="video_icon_tap">Торкніться екрана</string>
