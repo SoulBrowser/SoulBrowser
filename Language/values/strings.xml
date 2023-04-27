@@ -401,7 +401,6 @@
     <string name="basic">Basic</string>
     <string name="functional">Functional</string>
     <string name="locale">Language</string>
-    <string name="locale_restart">The language has changed, so you need to restart the app.</string>
     <string name="lang_res">Language resource</string>
     <string name="file_name">File name</string>
     <string name="real_name">Real name</string>
@@ -560,7 +559,7 @@
     <string name="tip">Tip</string>
     <string name="similar_function">Similar function</string>
     <string name="web_content">Web content</string>
-    <string name="customize">Customize</string>
+    <string name="composition">Composition</string>
     <string name="font">Font</string>
     <string name="font_default">Default font</string>
     <string name="font_bold">Boldface</string>

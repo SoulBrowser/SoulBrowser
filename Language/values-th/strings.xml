@@ -401,7 +401,6 @@
     <string name="basic">ขั้นพื้นฐาน</string>
     <string name="functional">การทำงาน</string>
     <string name="locale">ภาษา</string>
-    <string name="locale_restart">ภาษามีการเปลี่ยนแปลงดังนั้นคุณต้องรีสตาร์ทแอป</string>
     <string name="lang_res">ทรัพยากรภาษา</string>
     <string name="file_name">ชื่อไฟล์</string>
     <string name="real_name">ชื่อจริง</string>
@@ -560,7 +559,7 @@
     <string name="tip">คำใบ้</string>
     <string name="similar_function">ฟังก์ชั่นที่คล้ายกัน</string>
     <string name="web_content">เนื้อหาเว็บ</string>
-    <string name="customize">การปรับแต่ง</string>
+    <string name="composition">องค์ประกอบ</string>
     <string name="font">แบบอักษร</string>
     <string name="font_default">แบบอักษรเริ่มต้น</string>
     <string name="font_bold">ตัวหนา</string>

@@ -401,7 +401,6 @@
     <string name="basic">बुनियादी</string>
     <string name="functional">कार्यात्मक</string>
     <string name="locale">भाषा</string>
-    <string name="locale_restart">भाषा बदल गई है, इसलिए आपको ऐप को पुनरारंभ करना होगा।</string>
     <string name="lang_res">भाषा संसाधन</string>
     <string name="file_name">फ़ाइल का नाम</string>
     <string name="real_name">वास्तविक नाम</string>
@@ -560,7 +559,7 @@
     <string name="tip">बख्शीश</string>
     <string name="similar_function">समान कार्य</string>
     <string name="web_content">वेब सामग्री</string>
-    <string name="customize">अनुकूलित करें</string>
+    <string name="composition">संघटन</string>
     <string name="font">फ़ॉन्ट</string>
     <string name="font_default">मूलभूत अक्षर</string>
     <string name="font_bold">बोल्ड अक्षरों</string>

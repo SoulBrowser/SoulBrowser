@@ -401,7 +401,6 @@
     <string name="basic">Базовый</string>
     <string name="functional">Функциональный</string>
     <string name="locale">Язык</string>
-    <string name="locale_restart">Язык изменился, поэтому нужно перезапустить приложение.</string>
     <string name="lang_res">Ресурсы перевода</string>
     <string name="file_name">Имя файла</string>
     <string name="real_name">Настоящее имя</string>
@@ -560,7 +559,7 @@
     <string name="tip">Подсказка</string>
     <string name="similar_function">Аналогичная функция</string>
     <string name="web_content">Веб-контент</string>
-    <string name="customize">Персонализация</string>
+    <string name="composition">Состав</string>
     <string name="font">Шрифт</string>
     <string name="font_default">Шрифт по умолчанию</string>
     <string name="font_bold">Жирный шрифт</string>

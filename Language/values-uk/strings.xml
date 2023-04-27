@@ -401,7 +401,6 @@
     <string name="basic">Базовий</string>
     <string name="functional">Функціональний</string>
     <string name="locale">Мова</string>
-    <string name="locale_restart">Мова змінилася, тому вам потрібно перезапустити програму.</string>
     <string name="lang_res">Мовні ресурси</string>
     <string name="file_name">Назва файлу</string>
     <string name="real_name">Справжнє ім\'я</string>
@@ -560,7 +559,7 @@
     <string name="tip">Підказка</string>
     <string name="similar_function">Подібна функція</string>
     <string name="web_content">Веб-вміст</string>
-    <string name="customize">Персоналізація</string>
+    <string name="composition">Склад</string>
     <string name="font">Шрифт</string>
     <string name="font_default">Шрифт за замовчуванням</string>
     <string name="font_bold">Жирний шрифт</string>

@@ -401,7 +401,6 @@
     <string name="basic">Nền tảng</string>
     <string name="functional">Chức năng</string>
     <string name="locale">Ngôn ngữ</string>
-    <string name="locale_restart">Ngôn ngữ đã thay đổi, vì vậy bạn cần khởi động lại ứng dụng.</string>
     <string name="lang_res">Nguồn ngôn ngữ</string>
     <string name="file_name">Tên tệp</string>
     <string name="real_name">Tên thật</string>
@@ -560,7 +559,7 @@
     <string name="tip">Dấu</string>
     <string name="similar_function">Chức năng tương tự</string>
     <string name="web_content">Nội dung web</string>
-    <string name="customize">Tùy chỉnh</string>
+    <string name="composition">Thành phần</string>
     <string name="font">Phông chữ</string>
     <string name="font_default">Phông chữ mặc định</string>
     <string name="font_bold">In đậm</string>

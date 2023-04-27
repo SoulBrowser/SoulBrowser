@@ -401,7 +401,6 @@
     <string name="basic">Temel</string>
     <string name="functional">Fonksiyonel</string>
     <string name="locale">Dil</string>
-    <string name="locale_restart">Dil değişti, bu yüzden uygulamayı yeniden başlatmanız gerekiyor.</string>
     <string name="lang_res">Dil kaynağı</string>
     <string name="file_name">Dosya adı</string>
     <string name="real_name">Gerçek adı</string>
@@ -560,7 +559,7 @@
     <string name="tip">İpucu</string>
     <string name="similar_function">Benzer işlev</string>
     <string name="web_content">Web içeriği</string>
-    <string name="customize">Kişiselleştir</string>
+    <string name="composition">Kompozisyon</string>
     <string name="font">Yazı</string>
     <string name="font_default">Varsayılan yazı tipi</string>
     <string name="font_bold">Kalın</string>

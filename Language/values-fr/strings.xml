@@ -401,7 +401,6 @@
     <string name="basic">De base</string>
     <string name="functional">Fonctionnel</string>
     <string name="locale">Langue</string>
-    <string name="locale_restart">La langue a changé, vous devez donc redémarrer l\'application.</string>
     <string name="lang_res">Ressource linguistique</string>
     <string name="file_name">Fichier nom</string>
     <string name="real_name">Vrai nom</string>
@@ -560,7 +559,7 @@
     <string name="tip">Conseil</string>
     <string name="similar_function">Fonction similaire</string>
     <string name="web_content">Contenu Web</string>
-    <string name="customize">Personnalisation</string>
+    <string name="composition">Composition</string>
     <string name="font">Police</string>
     <string name="font_default">Police par défaut</string>
     <string name="font_bold">Caractères gras</string>

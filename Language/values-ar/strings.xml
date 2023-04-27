@@ -401,7 +401,6 @@
     <string name="basic">أساسي</string>
     <string name="functional">وظيفي</string>
     <string name="locale">لغة</string>
-    <string name="locale_restart">تم تغيير اللغة ، لذلك تحتاج إلى إعادة تشغيل التطبيق.</string>
     <string name="lang_res">مصدر اللغة</string>
     <string name="file_name">اسم الملف</string>
     <string name="real_name">الاسم الحقيقي</string>
@@ -560,7 +559,7 @@
     <string name="tip">تلميح</string>
     <string name="similar_function">وظيفة مماثلة</string>
     <string name="web_content">محتوى الويب</string>
-    <string name="customize">التخصيص</string>
+    <string name="composition">تعبير</string>
     <string name="font">الخط</string>
     <string name="font_default">الخط الافتراضي</string>
     <string name="font_bold">جريئة</string>

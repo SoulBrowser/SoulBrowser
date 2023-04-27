@@ -401,7 +401,6 @@
     <string name="basic">Dasar</string>
     <string name="functional">Fungsional</string>
     <string name="locale">Bahasa</string>
-    <string name="locale_restart">Bahasanya telah berubah, jadi Anda perlu memulai ulang aplikasi.</string>
     <string name="lang_res">Sumber bahasa</string>
     <string name="file_name">Nama file</string>
     <string name="real_name">Nama asli</string>
@@ -560,7 +559,7 @@
     <string name="tip">Petunjuk</string>
     <string name="similar_function">Fungsi serupa</string>
     <string name="web_content">Konten web</string>
-    <string name="customize">Menyesuaikan</string>
+    <string name="composition">Komposisi</string>
     <string name="font">Font</string>
     <string name="font_default">Font default</string>
     <string name="font_bold">Huruf tebal</string>

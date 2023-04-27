@@ -31,7 +31,7 @@
     <string name="fast_down_guide">Esta función utiliza más recursos.</string>
     <string name="down_again">Descargar de nuevo</string>
     <string name="down_page">Guardar página</string>
-    <string name="down_list">Descargar lista</string>
+    <string name="down_list">Lista de descargas</string>
     <string name="down_start">Descarga iniciada</string>
     <string name="paused">En pausa</string>
     <string name="pause">Pausa</string>
@@ -143,7 +143,7 @@
     <string name="view_image">Ver imagen</string>
     <string name="tab_image">Abierta la imagen en una nueva pestaña</string>
     <string name="only_image">Ver solo imágenes</string>
-    <string name="downall_image">Guarda todas imágenes</string>
+    <string name="downall_image">Guardar todas las imágenes</string>
     <string name="tab_list">Lista pestañas</string>
     <string name="tab_item">Pestaña</string>
     <string name="tab_items">Pestañas</string>
@@ -401,7 +401,6 @@
     <string name="basic">Básico</string>
     <string name="functional">Funcional</string>
     <string name="locale">Idioma</string>
-    <string name="locale_restart">El idioma ha cambiado, por lo que debe reiniciar la aplicación.</string>
     <string name="lang_res">Recurso de idioma</string>
     <string name="file_name">Nombre del archivo</string>
     <string name="real_name">Nombre real</string>
@@ -560,7 +559,7 @@
     <string name="tip">Insinuación</string>
     <string name="similar_function">Función similar</string>
     <string name="web_content">Contenido web</string>
-    <string name="customize">Personalización</string>
+    <string name="composition">Composición</string>
     <string name="font">Fuente</string>
     <string name="font_default">Fuente predeterminada</string>
     <string name="font_bold">Negrita</string>

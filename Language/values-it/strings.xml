@@ -401,7 +401,6 @@
     <string name="basic">Di base</string>
     <string name="functional">Funzionale</string>
     <string name="locale">Lingua</string>
-    <string name="locale_restart">La lingua è cambiata, quindi è necessario riavviare l\'app.</string>
     <string name="lang_res">Risorse linguistiche</string>
     <string name="file_name">File nome</string>
     <string name="real_name">Vero nome</string>
@@ -560,7 +559,7 @@
     <string name="tip">Suggerimento</string>
     <string name="similar_function">Funzione simile</string>
     <string name="web_content">Contenuto web</string>
-    <string name="customize">Personalizzazione</string>
+    <string name="composition">Composizione</string>
     <string name="font">Caratteri</string>
     <string name="font_default">Carattere predefinito</string>
     <string name="font_bold">Grassetto</string>

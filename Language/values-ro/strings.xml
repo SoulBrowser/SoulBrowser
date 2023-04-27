@@ -401,7 +401,6 @@
     <string name="basic">De bază</string>
     <string name="functional">Funcţional</string>
     <string name="locale">Language</string>
-    <string name="locale_restart">Limba s-a schimbat, deci trebuie să reporniți aplicația.</string>
     <string name="lang_res">Resursă lingvistică</string>
     <string name="file_name">Nume fișier</string>
     <string name="real_name">Numele real</string>
@@ -560,7 +559,7 @@
     <string name="tip">Aluzie</string>
     <string name="similar_function">Funcție similară</string>
     <string name="web_content">Conținut web</string>
-    <string name="customize">Personalizare</string>
+    <string name="composition">Compoziţie</string>
     <string name="font">Font</string>
     <string name="font_default">Font implicit</string>
     <string name="font_bold">Boldface</string>

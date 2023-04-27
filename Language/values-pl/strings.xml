@@ -401,7 +401,6 @@
     <string name="basic">Podstawowy</string>
     <string name="functional">Funkcjonalny</string>
     <string name="locale">Język</string>
-    <string name="locale_restart">Język się zmienił, więc musisz ponownie uruchomić aplikację.</string>
     <string name="lang_res">Zasób językowy</string>
     <string name="file_name">Nazwa pliku</string>
     <string name="real_name">Prawdziwe imię</string>
@@ -560,7 +559,7 @@
     <string name="tip">Wskazówka</string>
     <string name="similar_function">Podobna funkcja</string>
     <string name="web_content">Treść internetowa</string>
-    <string name="customize">Dostosowywanie</string>
+    <string name="composition">Kompozycja</string>
     <string name="font">Czcionka</string>
     <string name="font_default">Domyślna czcionka</string>
     <string name="font_bold">Pogrubiona czcionka</string>

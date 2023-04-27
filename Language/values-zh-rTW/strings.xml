@@ -401,7 +401,6 @@
     <string name="basic">基本的</string>
     <string name="functional">功能性</string>
     <string name="locale">語言</string>
-    <string name="locale_restart">語言已變更，因此您需要重新啟動應用成式</string>
     <string name="lang_res">語言資源</string>
     <string name="file_name">檔案名稱</string>
     <string name="real_name">真正的名稱</string>
@@ -560,7 +559,7 @@
     <string name="tip">提示</string>
     <string name="similar_function">類似功能</string>
     <string name="web_content">網頁內容</string>
-    <string name="customize">個人設定</string>
+    <string name="composition">作品</string>
     <string name="font">字型</string>
     <string name="font_default">預設字型</string>
     <string name="font_bold">黑體字</string>

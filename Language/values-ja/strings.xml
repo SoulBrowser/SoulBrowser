@@ -401,7 +401,6 @@
     <string name="basic">基本</string>
     <string name="functional">機能性</string>
     <string name="locale">言語</string>
-    <string name="locale_restart">言語が変更されたアプリを再起動する必要があります。</string>
     <string name="lang_res">言語リソース</string>
     <string name="file_name">ファイル名</string>
     <string name="real_name">本名</string>
@@ -560,7 +559,7 @@
     <string name="tip">ヒント</string>
     <string name="similar_function">同様の機能</string>
     <string name="web_content">Webコンテンツ</string>
-    <string name="customize">カスタマイズ</string>
+    <string name="composition">構成</string>
     <string name="font">フォント</string>
     <string name="font_default">デフォルトのフォント</string>
     <string name="font_bold">太字</string>
