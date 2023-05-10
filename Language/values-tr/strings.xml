@@ -954,6 +954,7 @@
     <string name="filter_link_3">Filtrenin yaratıcılarına teşekkürler.</string>
     <string name="filter_link_4">Filtre adresi değişirse filtreler güncellenmeyebilir.</string>
     <string name="filter_link_5">Bu durumda, lütfen geliştiriciyi bilgilendirin.</string>
+    <string name="open_source">Açık kaynak geliştiricilere teşekkürler. ❤</string>
     <string name="search_guide_1">Seçilen öğe devre dışı bırakılamaz.</string>
     <string name="search_guide_2">Devre dışı bırakmak için önce başka birini seçin.</string>
     <string name="video_icon_tap">Ekrana dokunun</string>

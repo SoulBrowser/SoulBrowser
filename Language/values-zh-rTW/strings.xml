@@ -954,6 +954,7 @@
     <string name="filter_link_3">感謝過濾器的創建者</string>
     <string name="filter_link_4">如果過濾器地址更改，過濾器可能不會更新</string>
     <string name="filter_link_5">在這種情況下，請通知開發商</string>
+    <string name="open_source">感謝開源開發者 ❤</string>
     <string name="search_guide_1">無法禁用所選項目</string>
     <string name="search_guide_2">要禁用它，請先選擇另一個</string>
     <string name="video_icon_tap">點擊屏幕</string>

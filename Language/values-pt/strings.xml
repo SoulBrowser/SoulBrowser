@@ -954,6 +954,7 @@
     <string name="filter_link_3">Obrigado aos criadores do filtro.</string>
     <string name="filter_link_4">Os filtros podem não ser atualizados se o endereço do filtro for alterado.</string>
     <string name="filter_link_5">Neste caso, informe o desenvolvedor.</string>
+    <string name="open_source">Obrigado aos desenvolvedores de código aberto. ❤</string>
     <string name="search_guide_1">O item selecionado não pode ser desabilitado.</string>
     <string name="search_guide_2">Para desativá-lo, selecione outro primeiro.</string>
     <string name="video_icon_tap">Toque na tela</string>

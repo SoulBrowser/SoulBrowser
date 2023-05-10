@@ -954,6 +954,7 @@
     <string name="filter_link_3">Спасибо создателям фильтра.</string>
     <string name="filter_link_4">Фильтры могут не обновляться при изменении адреса фильтра.</string>
     <string name="filter_link_5">В этом случае сообщите об этом разработчику.</string>
+    <string name="open_source">Спасибо разработчикам с открытым исходным кодом. ❤</string>
     <string name="search_guide_1">Выбранный элемент нельзя отключить.</string>
     <string name="search_guide_2">Чтобы отключить его, сначала выберите другой.</string>
     <string name="video_icon_tap">Коснитесь экрана</string>
