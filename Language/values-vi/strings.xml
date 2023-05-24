@@ -565,11 +565,9 @@
     <string name="font_bold">In đậm</string>
     <string name="font_preview">Phông chữ được áp dụng cho văn bản này.</string>
     <string name="font_info_1">Bạn có thể thay đổi phông chữ của các trang web với các tệp TTF trong bộ nhớ trong hoặc thẻ SD.</string>
-    <string name="font_info_2">Phông chữ được cài đặt bởi các ứng dụng khác có thể không áp dụng.</string>
-    <string name="font_info_3">Tạo một thư mục ngẫu nhiên và đặt tệp TTF bạn muốn sử dụng trực tiếp.</string>
-    <string name="font_guide_1">Mỗi phông chữ có một ngôn ngữ mà nó hỗ trợ.</string>
-    <string name="font_guide_2">Phông chữ hệ thống thường chỉ hỗ trợ các ký tự chữ và số.</string>
-    <string name="font_guide_3">Kiểm tra bản xem trước.</string>
+    <string name="font_guide_1">Mỗi phông chữ có một bộ ngôn ngữ được hỗ trợ.</string>
+    <string name="font_guide_2">Hầu hết các phông chữ thường chỉ hỗ trợ bảng chữ cái và số.</string>
+    <string name="font_guide_3">Kiểm tra bản xem trước để xem phông chữ đã chọn có hỗ trợ ngôn ngữ cụ thể hay không.</string>
     <string name="tv_cast">Truyền màn hình lên TV</string>
     <string name="media_route_menu_title">Chơi trên&#8230;</string>
     <string name="introducing_cast">Chạm để truyền phương tiện tới TV của bạn</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Nhấp vào biểu tượng để kết nối Chromecast của bạn.</string>
     <string name="cast_info_3">* Có thể mất một chút thời gian để phát hiện Chromecast của bạn.</string>
     <string name="cast_info_4">Nhấp vào biểu tượng phát trong cửa sổ bật lên tải xuống để truyền phát đến TV của bạn.</string>
-    <string name="cast_info_5">Chỉ hỗ trợ nội dung tải xuống.</string>
     <string name="cast_info_6">YouTube không được hỗ trợ.</string>
     <string name="cast_info_7">Một số định dạng không được hỗ trợ.</string>
     <string name="user_agent">Tác nhân người dùng</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Tìm kiếm gần đây</string>
     <string name="recent_secret">Lưu các tìm kiếm gần đây ở chế độ ẩn danh</string>
     <string name="recent_delete">Bạn có chắc chắn muốn xóa tất cả các tìm kiếm gần đây không?</string>
+    <string name="recent_lang">Kỷ lục gần đây</string>
+    <string name="lang_delete">Bạn có chắc chắn muốn xóa tất cả các bản ghi gần đây không?</string>
 </resources>

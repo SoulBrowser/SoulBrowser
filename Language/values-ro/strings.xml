@@ -565,11 +565,9 @@
     <string name="font_bold">Boldface</string>
     <string name="font_preview">Fontul este aplicat acestui text.</string>
     <string name="font_info_1">Puteți schimba fontul paginilor web cu fișiere TTF în stocare internă sau card SD.</string>
-    <string name="font_info_2">Fonturile instalate de alte aplicații s-ar putea să nu se aplice.</string>
-    <string name="font_info_3">Creați un folder aleator și puneți fișierul TTF pe care doriți să-l utilizați direct.</string>
-    <string name="font_guide_1">Fiecare font are o limbă pe care o acceptă.</string>
-    <string name="font_guide_2">Fonturile de sistem acceptă de obicei doar caractere alfanumerice.</string>
-    <string name="font_guide_3">Consultați previzualizarea.</string>
+    <string name="font_guide_1">Fiecare font are un set de limbi acceptate.</string>
+    <string name="font_guide_2">Majoritatea fonturilor acceptă de obicei doar alfabete și numere.</string>
+    <string name="font_guide_3">Verificați previzualizarea pentru a vedea dacă fontul selectat acceptă limba specifică.</string>
     <string name="tv_cast">Turnare TV</string>
     <string name="media_route_menu_title">Joacă pe&#8230;</string>
     <string name="introducing_cast">Atingeți pentru a arunca media la televizor</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Faceți clic pe pictogramă pentru a conecta Chromecast.</string>
     <string name="cast_info_3">* Poate dura ceva timp pentru a detecta Chromecastul.</string>
     <string name="cast_info_4">Faceți clic pe pictograma de redare din fereastra de descărcare pentru a o transmite la televizor.</string>
-    <string name="cast_info_5">Se acceptă numai conținut descărcabil.</string>
     <string name="cast_info_6">YouTube nu este acceptat.</string>
     <string name="cast_info_7">Unele formate nu sunt acceptate.</string>
     <string name="user_agent">Agent utilizator</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Căutări recente</string>
     <string name="recent_secret">Salvați căutările recente în modul incognito</string>
     <string name="recent_delete">Sigur doriți să ștergeți toate căutările recente?</string>
+    <string name="recent_lang">Record recent</string>
+    <string name="lang_delete">Sigur doriți să ștergeți toate înregistrările recente?</string>
 </resources>

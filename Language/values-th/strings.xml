@@ -565,11 +565,9 @@
     <string name="font_bold">ตัวหนา</string>
     <string name="font_preview">แบบอักษรใช้กับข้อความนี้</string>
     <string name="font_info_1">คุณสามารถเปลี่ยนแบบอักษรของหน้าเว็บด้วยไฟล์ TTF ในที่เก็บข้อมูลภายในหรือการ์ด SD</string>
-    <string name="font_info_2">แบบอักษรที่ติดตั้งโดยแอพอื่นอาจใช้ไม่ได้</string>
-    <string name="font_info_3">สร้างโฟลเดอร์สุ่มและวางไฟล์ TTF ที่คุณต้องการใช้โดยตรง</string>
-    <string name="font_guide_1">แบบอักษรแต่ละตัวมีภาษาที่รองรับ</string>
-    <string name="font_guide_2">แบบอักษรของระบบมักจะรองรับเฉพาะอักขระที่เป็นตัวอักษรและตัวเลขคละกันเท่านั้น</string>
-    <string name="font_guide_3">ลองดูตัวอย่าง</string>
+    <string name="font_guide_1">แบบอักษรแต่ละตัวมีชุดภาษาที่รองรับ</string>
+    <string name="font_guide_2">ฟอนต์ส่วนใหญ่มักจะรองรับเฉพาะตัวอักษรและตัวเลขเท่านั้น</string>
+    <string name="font_guide_3">ตรวจสอบตัวอย่างเพื่อดูว่าแบบอักษรที่เลือกรองรับภาษาที่ระบุหรือไม่</string>
     <string name="tv_cast">รายการทีวี</string>
     <string name="media_route_menu_title">เล่นบน&#8230;</string>
     <string name="introducing_cast">แตะเพื่อส่งสื่อไปยังทีวีของคุณ</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">คลิกที่ไอคอนเพื่อเชื่อมต่อ Chromecast ของคุณ</string>
     <string name="cast_info_3">* อาจใช้เวลาสักครู่ในการตรวจหา Chromecast ของคุณ</string>
     <string name="cast_info_4">ในป๊อปอัปดาวน์โหลดให้คลิกไอคอนเล่นเพื่อสตรีมไปยังทีวีของคุณ</string>
-    <string name="cast_info_5">รองรับเฉพาะเนื้อหาที่ดาวน์โหลดได้</string>
     <string name="cast_info_6">ไม่รองรับ YouTube</string>
     <string name="cast_info_7">ไม่รองรับบางรูปแบบ</string>
     <string name="user_agent">ตัวแทนผู้ใช้</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">การค้นหาล่าสุด</string>
     <string name="recent_secret">บันทึกการค้นหาล่าสุดในโหมดไม่ระบุตัวตน</string>
     <string name="recent_delete">คุณแน่ใจหรือไม่ว่าต้องการลบการค้นหาล่าสุดทั้งหมด</string>
+    <string name="recent_lang">บันทึกล่าสุด</string>
+    <string name="lang_delete">คุณแน่ใจหรือไม่ว่าต้องการลบบันทึกล่าสุดทั้งหมด</string>
 </resources>

@@ -565,11 +565,9 @@
     <string name="font_bold">Caractères gras</string>
     <string name="font_preview">La police est appliquée à ce texte.</string>
     <string name="font_info_1">Vous pouvez changer la police des pages web avec des fichiers TTF dans le stockage interne ou la carte SD.</string>
-    <string name="font_info_2">Les polices installées par d\'autres applications peuvent ne pas s\'appliquer.</string>
-    <string name="font_info_3">Créez un dossier aléatoire et mettez directement le fichier TTF que vous souhaitez utiliser.</string>
-    <string name="font_guide_1">Chaque police a une langue qu\'elle prend en charge.</string>
-    <string name="font_guide_2">Les polices système ne prennent généralement en charge que les caractères alphanumériques.</string>
-    <string name="font_guide_3">Découvrez l\'aperçu.</string>
+    <string name="font_guide_1">Chaque police a un ensemble de langues prises en charge.</string>
+    <string name="font_guide_2">La plupart des polices ne prennent généralement en charge que les alphabets et les chiffres.</string>
+    <string name="font_guide_3">Vérifiez l\'aperçu pour voir si la police sélectionnée prend en charge la langue spécifique.</string>
     <string name="tv_cast">Diffusion TV</string>
     <string name="media_route_menu_title">Jouer sur&#8230;</string>
     <string name="introducing_cast">Touchez pour diffuser du contenu multimédia sur votre téléviseur</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Cliquez sur l\'icône pour vous connecter à votre Chromecast.</string>
     <string name="cast_info_3">* La détection de votre Chromecast peut prendre un certain temps.</string>
     <string name="cast_info_4">Dans la fenêtre contextuelle de téléchargement, cliquez sur l\'icône de lecture pour diffuser sur votre téléviseur.</string>
-    <string name="cast_info_5">Seul le contenu téléchargeable est pris en charge.</string>
     <string name="cast_info_6">YouTube n\'est pas pris en charge.</string>
     <string name="cast_info_7">Certains formats ne sont pas pris en charge.</string>
     <string name="user_agent">Agent utilisateur</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Recherches récentes</string>
     <string name="recent_secret">Enregistrer les recherches récentes en mode incognito</string>
     <string name="recent_delete">Voulez-vous vraiment supprimer toutes les recherches récentes ?</string>
+    <string name="recent_lang">Enregistrement récent</string>
+    <string name="lang_delete">Voulez-vous vraiment supprimer tous les enregistrements récents ?</string>
 </resources>

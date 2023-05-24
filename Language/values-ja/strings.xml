@@ -565,11 +565,9 @@
     <string name="font_bold">太字</string>
     <string name="font_preview">このテキストにフォントが適用されます。</string>
     <string name="font_info_1">内部ストレージまたはSDカードのTTFファイルとしてWebページのフォントを変更することができます。</string>
-    <string name="font_info_2">他のアプリからのインストールされたフォントは適用されないことがあります。</string>
-    <string name="font_info_3">任意のフォルダを作成し、使用するTTFファイルを直接挿入します。</string>
-    <string name="font_guide_1">各フォントにはサポートする言語があります。</string>
-    <string name="font_guide_2">システムフォントは通常、アルファベットと数字のみをサポートします。</string>
-    <string name="font_guide_3">プレビューを確認してください。</string>
+    <string name="font_guide_1">各フォントにはサポートされている言語セットがあります。</string>
+    <string name="font_guide_2">ほとんどのフォントは通常アルファベットと数字のみをサポートします。</string>
+    <string name="font_guide_3">選択したフォントが特定の言語をサポートしているかどうかプレビューを確認します。</string>
     <string name="tv_cast">TVキャスト</string>
     <string name="media_route_menu_title">でプレイ&#8230;</string>
     <string name="introducing_cast">タップしてメディアをテレビにキャストします</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">アイコンをクリックしてChromecastを接続してください。</string>
     <string name="cast_info_3">* Chromecastを検出するのに時間がかかる場合があります。</string>
     <string name="cast_info_4">ダウンロードポップアップで再生アイコンをクリックして、TVにストリーミングしてください。</string>
-    <string name="cast_info_5">ダウンロード可能なコンテンツのみをサポートします。</string>
     <string name="cast_info_6">YouTubeはサポートされていません。</string>
     <string name="cast_info_7">いくつかのフォーマットはサポートされていません。</string>
     <string name="user_agent">ユーザーエージェント</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">最近の検索</string>
     <string name="recent_secret">シークレットモードで最近検索を保存する</string>
     <string name="recent_delete">最近のクエリをすべて削除しますか？</string>
+    <string name="recent_lang">最近の記録</string>
+    <string name="lang_delete">最近の履歴をすべて削除しますか？</string>
 </resources>

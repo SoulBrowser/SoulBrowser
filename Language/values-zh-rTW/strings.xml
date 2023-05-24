@@ -565,11 +565,9 @@
     <string name="font_bold">黑體字</string>
     <string name="font_preview">字體應用於此文本</string>
     <string name="font_info_1">您可以使用內部儲存空間或SD卡中的 TTF 檔案變更網頁字型</string>
-    <string name="font_info_2">其他應用程式安裝的字型可能不適用</string>
-    <string name="font_info_3">建立一個隨機資料夾，直接放要使用的 TTF 檔案</string>
-    <string name="font_guide_1">每種字體都有它支持的語言</string>
-    <string name="font_guide_2">系統字體通常只支持字母數字字符</string>
-    <string name="font_guide_3">查看預覽</string>
+    <string name="font_guide_1">每種字體都有一組支持的語言</string>
+    <string name="font_guide_2">大多數字體通常只支持字母和數字</string>
+    <string name="font_guide_3">檢查預覽以查看所選字體是否支持特定語言</string>
     <string name="tv_cast">電視投放</string>
     <string name="media_route_menu_title">繼續播放&#8230;</string>
     <string name="introducing_cast">輕觸即可將媒體投放到電視上</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">點選圖示以連結您的 Chromecast</string>
     <string name="cast_info_3">* 檢測您的 Chromecast 可能需要一些時間</string>
     <string name="cast_info_4">單擊下載彈出視窗中的播放圖示，將串流媒體傳輸到電視</string>
-    <string name="cast_info_5">僅支援可下載的內容</string>
     <string name="cast_info_6">不支援 YouTube</string>
     <string name="cast_info_7">不支援某些格式</string>
     <string name="user_agent">使用者代理</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">最近搜索</string>
     <string name="recent_secret">以隱身模式保存最近的搜索</string>
     <string name="recent_delete">您確定要刪除所有最近的搜索嗎？</string>
+    <string name="recent_lang">近期記錄</string>
+    <string name="lang_delete">您確定要刪除所有最近的記錄嗎？</string>
 </resources>

@@ -565,11 +565,9 @@
     <string name="font_bold">Boldface</string>
     <string name="font_preview">The font is applied to this text.</string>
     <string name="font_info_1">You can change the font of web pages with TTF files in internal storage or SD card.</string>
-    <string name="font_info_2">Fonts installed by other apps may not apply.</string>
-    <string name="font_info_3">Create a random folder and put the TTF file you want to use directly.</string>
-    <string name="font_guide_1">Each font has a language it supports.</string>
-    <string name="font_guide_2">System fonts usually only support alphanumeric characters.</string>
-    <string name="font_guide_3">Check out the preview.</string>
+    <string name="font_guide_1">Each font has a set of supported languages.</string>
+    <string name="font_guide_2">Most fonts usually only support alphabets and numbers.</string>
+    <string name="font_guide_3">Check the preview to see if the selected font supports the specific language.</string>
     <string name="tv_cast">TV cast</string>
     <string name="media_route_menu_title">Play on&#8230;</string>
     <string name="introducing_cast">Touch to cast media to your TV</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Click the icon to connect your Chromecast.</string>
     <string name="cast_info_3">* It may take some time to detect your Chromecast.</string>
     <string name="cast_info_4">Click the play icon in the download popup to stream it to your TV.</string>
-    <string name="cast_info_5">Only downloadable content is supported.</string>
     <string name="cast_info_6">YouTube is not supported.</string>
     <string name="cast_info_7">Some formats are not supported.</string>
     <string name="user_agent">User agent</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Recent searches</string>
     <string name="recent_secret">Save recent searches in incognito mode</string>
     <string name="recent_delete">Are you sure you want to delete all recent searches?</string>
+    <string name="recent_lang">Recent record</string>
+    <string name="lang_delete">Are you sure you want to delete all recent records?</string>
 </resources>

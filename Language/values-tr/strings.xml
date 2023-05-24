@@ -565,11 +565,9 @@
     <string name="font_bold">Kalın</string>
     <string name="font_preview">Yazı tipi bu metne uygulanır.</string>
     <string name="font_info_1">Dahili depolama veya SD karttaki TTF dosyalarıyla web sayfalarının yazı tipini değiştirebilirsiniz.</string>
-    <string name="font_info_2">Diğer uygulamalar tarafından yüklenen yazı tipleri geçerli olmayabilir.</string>
-    <string name="font_info_3">Rastgele bir klasör oluşturun ve doğrudan kullanmak istediğiniz TTF dosyasını yerleştirin.</string>
-    <string name="font_guide_1">Her yazı tipinin desteklediği bir dili vardır.</string>
-    <string name="font_guide_2">Sistem yazı tipleri genellikle yalnızca alfasayısal karakterleri destekler.</string>
-    <string name="font_guide_3">Önizlemeyi inceleyin.</string>
+    <string name="font_guide_1">Her yazı tipinin bir dizi desteklenen dili vardır.</string>
+    <string name="font_guide_2">Çoğu yazı tipi genellikle yalnızca harfleri ve sayıları destekler.</string>
+    <string name="font_guide_3">Seçilen yazı tipinin belirli bir dili destekleyip desteklemediğini görmek için önizlemeyi kontrol edin.</string>
     <string name="tv_cast">TV yayını</string>
     <string name="media_route_menu_title">Oynamak&#8230;</string>
     <string name="introducing_cast">Medyayı TV\'nize yayınlamak için dokunun</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Chromecast\'inizi bağlamak için simgeyi tıklayın.</string>
     <string name="cast_info_3">* Chromecast\'inizi tespit etmek biraz zaman alabilir.</string>
     <string name="cast_info_4">İndirme açılır penceresinde, TV\'nize akış yapmak için oynat simgesini tıklayın.</string>
-    <string name="cast_info_5">Yalnızca indirilebilir içerik desteklenir.</string>
     <string name="cast_info_6">YouTube desteklenmiyor.</string>
     <string name="cast_info_7">Bazı biçimler desteklenmez.</string>
     <string name="user_agent">Kullanıcı aracısı</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Son aramalar</string>
     <string name="recent_secret">Son aramaları gizli modda kaydet</string>
     <string name="recent_delete">Tüm son aramaları silmek istediğinizden emin misiniz?</string>
+    <string name="recent_lang">Son kayıt</string>
+    <string name="lang_delete">Tüm son kayıtları silmek istediğinizden emin misiniz?</string>
 </resources>

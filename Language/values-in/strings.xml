@@ -565,11 +565,9 @@
     <string name="font_bold">Huruf tebal</string>
     <string name="font_preview">Font diterapkan pada teks ini.</string>
     <string name="font_info_1">Anda dapat mengubah font halaman web dengan file TTF di penyimpanan internal atau kartu SD.</string>
-    <string name="font_info_2">Font yang dipasang oleh aplikasi lain mungkin tidak berlaku.</string>
-    <string name="font_info_3">Buat folder acak dan letakkan file TTF yang ingin Anda gunakan secara langsung.</string>
-    <string name="font_guide_1">Setiap font memiliki bahasa yang didukungnya.</string>
-    <string name="font_guide_2">Font sistem biasanya hanya mendukung karakter alfanumerik.</string>
-    <string name="font_guide_3">Lihat pratinjaunya.</string>
+    <string name="font_guide_1">Setiap font memiliki satu set bahasa yang didukung.</string>
+    <string name="font_guide_2">Sebagian besar font biasanya hanya mendukung huruf dan angka.</string>
+    <string name="font_guide_3">Periksa pratinjau untuk melihat apakah font yang dipilih mendukung bahasa tertentu.</string>
     <string name="tv_cast">Transmisi TV</string>
     <string name="media_route_menu_title">Mainkan&#8230;</string>
     <string name="introducing_cast">Sentuh untuk memasukkan media ke TV Anda</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Klik ikon untuk menghubungkan Chromecast Anda.</string>
     <string name="cast_info_3">* Mungkin perlu beberapa waktu untuk mendeteksi Chromecast Anda.</string>
     <string name="cast_info_4">Di jendela sembulan unduhan, klik ikon putar untuk melakukan streaming ke TV Anda.</string>
-    <string name="cast_info_5">Hanya konten yang dapat diunduh yang didukung.</string>
     <string name="cast_info_6">YouTube tidak didukung.</string>
     <string name="cast_info_7">Beberapa format tidak didukung.</string>
     <string name="user_agent">Agen pengguna</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Pencarian terkini</string>
     <string name="recent_secret">Simpan pencarian terbaru dalam mode penyamaran</string>
     <string name="recent_delete">Apakah Anda yakin ingin menghapus semua pencarian terbaru?</string>
+    <string name="recent_lang">Rekor terkini</string>
+    <string name="lang_delete">Apakah Anda yakin ingin menghapus semua rekaman terbaru?</string>
 </resources>

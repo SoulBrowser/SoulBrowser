@@ -565,11 +565,9 @@
     <string name="font_bold">Жирный шрифт</string>
     <string name="font_preview">Шрифт применяется к этому тексту.</string>
     <string name="font_info_1">Вы можете изменить шрифт веб страниц TTF файлами из внутренней памяти или с SD-карты.</string>
-    <string name="font_info_2">Шрифты, установленные другими приложениями, могут не применяться.</string>
-    <string name="font_info_3">Создайте папку и поместите в неё TTF шрифт, который Вы хотите использовать напрямую.</string>
-    <string name="font_guide_1">У каждого шрифта есть язык, который он поддерживает.</string>
-    <string name="font_guide_2">Системные шрифты обычно поддерживают только буквенно-цифровые символы.</string>
-    <string name="font_guide_3">Посмотрите превью.</string>
+    <string name="font_guide_1">Каждый шрифт имеет набор поддерживаемых языков.</string>
+    <string name="font_guide_2">Большинство шрифтов обычно поддерживают только буквы и цифры.</string>
+    <string name="font_guide_3">Проверьте предварительный просмотр, чтобы увидеть, поддерживает ли выбранный шрифт определенный язык.</string>
     <string name="tv_cast">Трансляция</string>
     <string name="media_route_menu_title">Играть&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Нажмите на значок, чтобы подключить Chromecast.</string>
     <string name="cast_info_3">* Обнаружение вашего Chromecast может занять некоторое время.</string>
     <string name="cast_info_4">Во всплывающем окне загрузки щёлкните значок воспроизведения для трансляции на телевизор.</string>
-    <string name="cast_info_5">Поддерживается только загружаемый контент.</string>
     <string name="cast_info_6">YouTube не поддерживается.</string>
     <string name="cast_info_7">Некоторые форматы не поддерживаются.</string>
     <string name="user_agent">Пользовательский агент</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Недавние поиски</string>
     <string name="recent_secret">Сохраняйте недавние поиски в режиме инкогнито</string>
     <string name="recent_delete">Вы уверены, что хотите удалить все недавние поисковые запросы?</string>
+    <string name="recent_lang">Недавняя запись</string>
+    <string name="lang_delete">Вы уверены, что хотите удалить все последние записи?</string>
 </resources>

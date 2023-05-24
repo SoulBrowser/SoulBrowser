@@ -565,11 +565,9 @@
     <string name="font_bold">Pogrubiona czcionka</string>
     <string name="font_preview">Czcionka zostanie zastosowana do tego tekstu.</string>
     <string name="font_info_1">Możesz zmienić czcionkę stron internetowych z plikami TTF w pamięci wewnętrznej lub na karcie SD.</string>
-    <string name="font_info_2">Czcionki zainstalowane przez inne aplikacje mogą nie mieć zastosowania.</string>
-    <string name="font_info_3">Utwórz losowy folder i umieść bezpośrednio plik TTF, którego chcesz użyć.</string>
-    <string name="font_guide_1">Każda czcionka ma obsługiwany język.</string>
-    <string name="font_guide_2">Czcionki systemowe zwykle obsługują tylko znaki alfanumeryczne.</string>
-    <string name="font_guide_3">Sprawdź podgląd.</string>
+    <string name="font_guide_1">Każda czcionka ma zestaw obsługiwanych języków.</string>
+    <string name="font_guide_2">Większość czcionek zwykle obsługuje tylko alfabety i cyfry.</string>
+    <string name="font_guide_3">Sprawdź podgląd, aby zobaczyć, czy wybrana czcionka obsługuje określony język.</string>
     <string name="tv_cast">Obsada telewizyjna</string>
     <string name="media_route_menu_title">Graj na&#8230;</string>
     <string name="introducing_cast">Dotknij, aby przesłać multimedia na telewizor</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Kliknij ikonę, aby połączyć Chromecasta.</string>
     <string name="cast_info_3">* Wykrywanie Chromecasta może trochę potrwać.</string>
     <string name="cast_info_4">Kliknij ikonę odtwarzania w wyskakującym oknie pobierania, aby przesłać ją strumieniowo do telewizora.</string>
-    <string name="cast_info_5">Obsługiwana jest tylko zawartość do pobrania.</string>
     <string name="cast_info_6">YouTube nie jest obsługiwany.</string>
     <string name="cast_info_7">Niektóre formaty nie są obsługiwane.</string>
     <string name="user_agent">Agent użytkownika</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Ostatnie wyszukiwania</string>
     <string name="recent_secret">Zapisz ostatnie wyszukiwania w trybie incognito</string>
     <string name="recent_delete">Czy na pewno chcesz usunąć wszystkie ostatnie wyszukiwania?</string>
+    <string name="recent_lang">Najnowszy rekord</string>
+    <string name="lang_delete">Czy na pewno chcesz usunąć wszystkie ostatnie rekordy?</string>
 </resources>

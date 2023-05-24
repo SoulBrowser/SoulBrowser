@@ -565,11 +565,9 @@
     <string name="font_bold">Fettdruck</string>
     <string name="font_preview">Die Schriftart wird auf diesen Text angewendet.</string>
     <string name="font_info_1">Sie können die Schriftart von Webseiten mit TTF-Dateien im internen Speicher oder auf der SD-Karte ändern.</string>
-    <string name="font_info_2">Von anderen Apps installierte Schriftarten funktionieren möglicherweise nicht.</string>
-    <string name="font_info_3">Erstellen Sie einen zufälligen Ordner und legen Sie die TTF-Datei, die Sie verwenden möchten, direkt ab.</string>
-    <string name="font_guide_1">Jede Schriftart hat eine Sprache, die sie unterstützt.</string>
-    <string name="font_guide_2">Systemschriftarten unterstützen normalerweise nur alphanumerische Zeichen.</string>
-    <string name="font_guide_3">Sehen Sie sich die Vorschau an.</string>
+    <string name="font_guide_1">Für jede Schriftart gibt es eine Reihe unterstützter Sprachen.</string>
+    <string name="font_guide_2">Die meisten Schriftarten unterstützen normalerweise nur Alphabete und Zahlen.</string>
+    <string name="font_guide_3">Überprüfen Sie in der Vorschau, ob die ausgewählte Schriftart die jeweilige Sprache unterstützt.</string>
     <string name="tv_cast">TV-Anzeige</string>
     <string name="media_route_menu_title">Weiterspielen&#8230;</string>
     <string name="introducing_cast">Berühren, um Medien auf ihr Fernsehgerät zu übertragen</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Klicken Sie auf das Symbol, um eine Verbindung zu ihrem Chromecast herzustellen.</string>
     <string name="cast_info_3">* Es kann einige Zeit dauern, bis ihr Chromecast erkannt wird.</string>
     <string name="cast_info_4">Klicken Sie im Download-Popup auf das Wiedergabesymbol, um auf Ihren Fernseher zu streamen.</string>
-    <string name="cast_info_5">Es werden nur herunterladbare Inhalte unterstützt.</string>
     <string name="cast_info_6">YouTube wird nicht unterstützt.</string>
     <string name="cast_info_7">Einige Formate werden nicht unterstützt.</string>
     <string name="user_agent">User agent</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Letzte Suchen</string>
     <string name="recent_secret">Speichern Sie die letzten Suchen im Inkognito-Modus</string>
     <string name="recent_delete">Möchten Sie wirklich alle letzten Suchen löschen?</string>
+    <string name="recent_lang">Aktueller Rekord</string>
+    <string name="lang_delete">Sind Sie sicher, dass Sie alle aktuellen Datensätze löschen möchten?</string>
 </resources>

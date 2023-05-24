@@ -565,11 +565,9 @@
     <string name="font_bold">Negrito</string>
     <string name="font_preview">A fonte é aplicada a este texto.</string>
     <string name="font_info_1">Você pode alterar a fonte das páginas da web com arquivos TTF no armazenamento interno ou no cartão SD.</string>
-    <string name="font_info_2">As fontes instaladas por outros aplicativos podem não se aplicar.</string>
-    <string name="font_info_3">Crie uma pasta aleatória e coloque o arquivo TTF que você deseja usar diretamente.</string>
-    <string name="font_guide_1">Cada fonte tem um idioma compatível.</string>
-    <string name="font_guide_2">As fontes do sistema geralmente suportam apenas caracteres alfanuméricos.</string>
-    <string name="font_guide_3">Confira a prévia.</string>
+    <string name="font_guide_1">Cada fonte tem um conjunto de idiomas suportados.</string>
+    <string name="font_guide_2">A maioria das fontes geralmente suporta apenas alfabetos e números.</string>
+    <string name="font_guide_3">Verifique a visualização para ver se a fonte selecionada oferece suporte ao idioma específico.</string>
     <string name="tv_cast">Elenco de TV</string>
     <string name="media_route_menu_title">Reproduzir em&#8230;</string>
     <string name="introducing_cast">Toque para transmitir mídia à sua TV</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Clique no ícone para conectar seu Chromecast.</string>
     <string name="cast_info_3">* Pode levar algum tempo para detectar seu Chromecast.</string>
     <string name="cast_info_4">No popup de download, clique no ícone de reprodução para transmitir para sua TV.</string>
-    <string name="cast_info_5">Somente conteúdo para download é suportado.</string>
     <string name="cast_info_6">O YouTube não é suportado.</string>
     <string name="cast_info_7">Alguns formatos não são suportados.</string>
     <string name="user_agent">Agente de usuário</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Pesquisas recentes</string>
     <string name="recent_secret">Salvar pesquisas recentes no modo de navegação anônima</string>
     <string name="recent_delete">Tem certeza de que deseja excluir todas as pesquisas recentes?</string>
+    <string name="recent_lang">Registro recente</string>
+    <string name="lang_delete">Tem certeza de que deseja excluir todos os registros recentes?</string>
 </resources>

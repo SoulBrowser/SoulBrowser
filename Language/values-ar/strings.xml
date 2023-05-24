@@ -565,11 +565,9 @@
     <string name="font_bold">جريئة</string>
     <string name="font_preview">يتم تطبيق الخط على هذا النص.</string>
     <string name="font_info_1">يمكنك تغيير خط صفحة الويب باستخدام ملف TTF في وحدة التخزين الداخلية أو بطاقة SD.</string>
-    <string name="font_info_2">قد لا يتم تطبيق الخطوط المثبتة بواسطة تطبيقات أخرى.</string>
-    <string name="font_info_3">قم بإنشاء مجلد عشوائي ووضع ملف TTF الذي تريد استخدامه مباشرة.</string>
-    <string name="font_guide_1">كل خط له لغة يدعمها.</string>
-    <string name="font_guide_2">عادةً ما تدعم خطوط النظام الأحرف الأبجدية الرقمية فقط.</string>
-    <string name="font_guide_3">تحقق من المعاينة.</string>
+    <string name="font_guide_1">يحتوي كل خط على مجموعة من اللغات المدعومة.</string>
+    <string name="font_guide_2">عادةً ما تدعم معظم الخطوط الحروف الأبجدية والأرقام فقط.</string>
+    <string name="font_guide_3">تحقق من المعاينة لمعرفة ما إذا كان الخط المحدد يدعم اللغة المحددة.</string>
     <string name="tv_cast">طاقم تلفزيوني</string>
     <string name="media_route_menu_title">لعب</string>
     <string name="introducing_cast">انقر لنقل الوسائط إلى التلفزيون.</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">انقر فوق الرمز لتوصيل جهاز Chromecast.</string>
     <string name="cast_info_3">* قد يستغرق اكتشاف جهاز Chromecast بعض الوقت.</string>
     <string name="cast_info_4">انقر فوق أيقونة التشغيل في نافذة التنزيل المنبثقة لدفقها على التلفزيون.</string>
-    <string name="cast_info_5">يتم دعم المحتوى القابل للتنزيل فقط.</string>
     <string name="cast_info_6">يوتيوب غير مدعوم.</string>
     <string name="cast_info_7">بعض التنسيقات غير مدعومة.</string>
     <string name="user_agent">وكيل المستخدم</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">عمليات البحث الأخيرة</string>
     <string name="recent_secret">حفظ عمليات البحث الأخيرة في وضع التصفح المتخفي</string>
     <string name="recent_delete">هل أنت متأكد أنك تريد حذف جميع عمليات البحث الأخيرة؟</string>
+    <string name="recent_lang">السجل الأخير</string>
+    <string name="lang_delete">هل أنت متأكد أنك تريد حذف كافة السجلات الحديثة؟</string>
 </resources>

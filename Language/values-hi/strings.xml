@@ -565,11 +565,9 @@
     <string name="font_bold">बोल्ड अक्षरों</string>
     <string name="font_preview">इस पाठ पर फ़ॉन्ट लागू किया गया है।</string>
     <string name="font_info_1">आप आंतरिक भंडारण या एसडी कार्ड में टीटीएफ फाइलों के साथ वेब पेजों का फ़ॉन्ट बदल सकते हैं।</string>
-    <string name="font_info_2">अन्य ऐप्स द्वारा इंस्टॉल किए गए फ़ॉन्ट लागू नहीं हो सकते हैं।</string>
-    <string name="font_info_3">एक यादृच्छिक फ़ोल्डर बनाएँ और उस TTF फ़ाइल को डालें जिसका आप सीधे उपयोग करना चाहते हैं।</string>
-    <string name="font_guide_1">प्रत्येक फ़ॉन्ट की एक भाषा होती है जिसका वह समर्थन करता है।</string>
-    <string name="font_guide_2">सिस्टम फोंट आमतौर पर केवल अल्फ़ान्यूमेरिक वर्णों का समर्थन करते हैं।</string>
-    <string name="font_guide_3">पूर्वावलोकन देखें।</string>
+    <string name="font_guide_1">प्रत्येक फ़ॉन्ट में समर्थित भाषाओं का एक सेट होता है।</string>
+    <string name="font_guide_2">अधिकांश फॉन्ट आमतौर पर केवल अक्षरों और संख्याओं का समर्थन करते हैं।</string>
+    <string name="font_guide_3">यह देखने के लिए पूर्वावलोकन देखें कि चयनित फ़ॉन्ट विशिष्ट भाषा का समर्थन करता है या नहीं।</string>
     <string name="tv_cast">टीवी कलाकार</string>
     <string name="media_route_menu_title">पर चलाएं&#8230;</string>
     <string name="introducing_cast">मीडिया को अपने टीवी पर कास्ट करने के लिए स्पर्श करें</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">अपना Chromecast कनेक्ट करने के लिए आइकन पर क्लिक करें।</string>
     <string name="cast_info_3">* आपके Chromecast का पता लगाने में कुछ समय लग सकता है।</string>
     <string name="cast_info_4">इसे अपने टीवी पर स्ट्रीम करने के लिए डाउनलोड पॉपअप में प्ले आइकन पर क्लिक करें।</string>
-    <string name="cast_info_5">केवल डाउनलोड करने योग्य सामग्री समर्थित है।</string>
     <string name="cast_info_6">यूट्यूब समर्थित नहीं है।</string>
     <string name="cast_info_7">कुछ प्रारूप समर्थित नहीं हैं।</string>
     <string name="user_agent">उपभोक्ता अभिकर्ता</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">हाल की खोजें</string>
     <string name="recent_secret">हाल की खोजों को गुप्त मोड में सहेजें</string>
     <string name="recent_delete">क्या आप वाकई हाल की सभी खोजों को हटाना चाहते हैं?</string>
+    <string name="recent_lang">हाल का रिकॉर्ड</string>
+    <string name="lang_delete">क्या आप वाकई हाल के सभी रिकॉर्ड हटाना चाहते हैं?</string>
 </resources>

@@ -565,11 +565,9 @@
     <string name="font_bold">Negrita</string>
     <string name="font_preview">La fuente se aplica a este texto.</string>
     <string name="font_info_1">Puede cambiar la fuente de las páginas web con archivos TTF en almacenamiento interno o tarjeta SD.</string>
-    <string name="font_info_2">Es posible que no se apliquen las fuentes instaladas por otras aplicaciones.</string>
-    <string name="font_info_3">Cree una carpeta aleatoria y coloque el archivo TTF que desea usar directamente.</string>
-    <string name="font_guide_1">Cada fuente tiene un idioma que admite.</string>
-    <string name="font_guide_2">Las fuentes del sistema generalmente solo admiten caracteres alfanuméricos.</string>
-    <string name="font_guide_3">Echa un vistazo a la vista previa.</string>
+    <string name="font_guide_1">Cada fuente tiene un conjunto de idiomas admitidos.</string>
+    <string name="font_guide_2">La mayoría de las fuentes generalmente solo admiten letras y números.</string>
+    <string name="font_guide_3">Verifique la vista previa para ver si la fuente seleccionada es compatible con el idioma específico.</string>
     <string name="tv_cast">Enviar a TV</string>
     <string name="media_route_menu_title">Aprovecharse de&#8230;</string>
     <string name="introducing_cast">Toca para transmitir contenido multimedia a tu TV</string>
@@ -577,7 +575,6 @@
     <string name="cast_info_2">Haz clic en el ícono para conectar tu Chromecast.</string>
     <string name="cast_info_3">* Puede tomar algún tiempo detectar su Chromecast.</string>
     <string name="cast_info_4">En la ventana emergente de descarga, haga clic en el icono de reproducción para transmitir a su televisor.</string>
-    <string name="cast_info_5">Solo se admite contenido descargable.</string>
     <string name="cast_info_6">YouTube no es compatible.</string>
     <string name="cast_info_7">Algunos formatos no son compatibles.</string>
     <string name="user_agent">Agente de usuario</string>
@@ -967,4 +964,6 @@
     <string name="recent_search">Búsquedas recientes</string>
     <string name="recent_secret">Guardar búsquedas recientes en modo incógnito</string>
     <string name="recent_delete">¿Está seguro de que desea eliminar todas las búsquedas recientes?</string>
+    <string name="recent_lang">Registro reciente</string>
+    <string name="lang_delete">¿Está seguro de que desea eliminar todos los registros recientes?</string>
 </resources>
