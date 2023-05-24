@@ -115,7 +115,7 @@ prostomob.com##div[class*="td-g-rec-id-content_top"]
 shrib.com##div[id*="tabula"]
 adblock-tester.com,checkadblock.ru##[type*="flash"]
 0629.com.ua##div[style*="height: 110px; display: block; width: 3"]
-xhamster.com##div[class*="yxd-"],div[class*="wio-"],div[class*="promo-banner"],div[class*="spot-container"],div[class*="banner-container"],div[class*="replacement-template"],div[class*="big-thumb-block"],a[href*="api/external"]
+xhamster.com##div[class*="yad-"],div[class*="ybd-"],div[class*="ycd-"],div[class*="ydd-"],div[class*="yed-"],div[class*="yfd-"],div[class*="ygd-"],div[class*="yhd-"],div[class*="yid-"],div[class*="yjd-"],div[class*="ykd-"],div[class*="yld-"],div[class*="ymd-"],div[class*="ynd-"],div[class*="yod-"],div[class*="ypd-"],div[class*="yqd-"],div[class*="yrd-"],div[class*="ysd-"],div[class*="ytd-"],div[class*="yud-"],div[class*="yvd-"],div[class*="ywd-"],div[class*="yxd-"],div[class*="yyd-"],div[class*="yzd-"],div[class*="wio-"],div[class*="promo-banner"],div[class*="spot-container"],div[class*="banner-container"],div[class*="replacement-template"],div[class*="big-thumb-block"],a[href*="api/external"]
 //ek
 daum.net##div[data-slot-type=AD_BANNER_INVENTORY_ADFIT],div[class*="bottomAd"],div[id*="AdWrap"],div[id*="bodyAd"],div[id*="footerAd"],*[class*="ad_area"]
 hiyobi.me##img[alt=ad]
