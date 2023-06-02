@@ -52,9 +52,9 @@
     <string name="translate">Переклад</string>
     <string name="translator">Перекладач</string>
     <string name="trans_detect">Визначити мову</string>
-    <string name="trans_auto_info">Коли виявлено мову яку можна перекладати, вона автоматично перекладається.</string>
-    <string name="trans_icon_info">Коли виявлено мову яку можна перекладати, відображається кнопка «Перекласти».</string>
-    <string name="trans_always_info">Завжди перекладайте всі сторінки.</string>
+    <string name="trans_auto_info">Якщо виявлено мову, яку можна перекладати, її буде перекладено.</string>
+    <string name="trans_icon_info">Якщо виявлено мову, яку можна перекладати, відображається кнопка перекладу.</string>
+    <string name="trans_always_info">Усі сторінки завжди перекладені.</string>
     <string name="trans_icon">Кнопковий дисплей</string>
     <string name="trans_auto">Автоматичний переклад</string>
     <string name="trans_always">Завжди перекладай</string>

@@ -52,9 +52,9 @@
     <string name="translate">Traduceți</string>
     <string name="translator">Traducător</string>
     <string name="trans_detect">Detecteaza limba</string>
-    <string name="trans_auto_info">Când este detectată o limbă tradusabilă, aceasta este tradusă automat.</string>
-    <string name="trans_icon_info">Când este detectată o limbă traducabilă, este afișat butonul Traducere.</string>
-    <string name="trans_always_info">Traduceți întotdeauna toate paginile.</string>
+    <string name="trans_auto_info">Dacă este detectată o limbă traducabilă, aceasta va fi tradusă.</string>
+    <string name="trans_icon_info">Dacă este detectată o limbă traducabilă, este afișat un buton de traducere.</string>
+    <string name="trans_always_info">Toate paginile sunt întotdeauna traduse.</string>
     <string name="trans_icon">Afișaj cu butoane</string>
     <string name="trans_auto">Traducere automată</string>
     <string name="trans_always">Traduceți întotdeauna</string>

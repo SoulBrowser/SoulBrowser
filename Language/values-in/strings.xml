@@ -52,9 +52,9 @@
     <string name="translate">Terjemahan</string>
     <string name="translator">Penerjemah</string>
     <string name="trans_detect">Mendeteksi bahasa</string>
-    <string name="trans_auto_info">Ketika bahasa yang dapat diterjemahkan terdeteksi, maka secara otomatis diterjemahkan.</string>
-    <string name="trans_icon_info">Ketika bahasa yang dapat diterjemahkan terdeteksi, tombol Terjemahkan ditampilkan.</string>
-    <string name="trans_always_info">Selalu terjemahkan semua halaman.</string>
+    <string name="trans_auto_info">Jika bahasa yang dapat diterjemahkan terdeteksi, itu akan diterjemahkan.</string>
+    <string name="trans_icon_info">Jika bahasa yang dapat diterjemahkan terdeteksi, tombol terjemahan akan ditampilkan.</string>
+    <string name="trans_always_info">Semua halaman selalu diterjemahkan.</string>
     <string name="trans_icon">Tampilan tombol</string>
     <string name="trans_auto">Terjemahan otomatis</string>
     <string name="trans_always">Selalu terjemahkan</string>

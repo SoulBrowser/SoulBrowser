@@ -52,9 +52,9 @@
     <string name="translate">Çeviri</string>
     <string name="translator">Çevirmen</string>
     <string name="trans_detect">Dili algılamak</string>
-    <string name="trans_auto_info">Çevrilebilir bir dil algılandığında, otomatik olarak çevrilir.</string>
-    <string name="trans_icon_info">Çevrilebilir bir dil algılandığında, Çevir düğmesi görüntülenir.</string>
-    <string name="trans_always_info">Her zaman tüm sayfaları çevirin.</string>
+    <string name="trans_auto_info">Çevrilebilir bir dil algılanırsa, tercüme edilecektir.</string>
+    <string name="trans_icon_info">Çevrilebilir bir dil algılanırsa, tercüme düğmesi görüntülenir.</string>
+    <string name="trans_always_info">Tüm sayfalar her zaman çevrilir.</string>
     <string name="trans_icon">Düğme ekranı</string>
     <string name="trans_auto">Otomatik çeviri</string>
     <string name="trans_always">Her zaman çevir</string>

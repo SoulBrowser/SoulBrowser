@@ -52,9 +52,9 @@
     <string name="translate">Translate</string>
     <string name="translator">Translator</string>
     <string name="trans_detect">Detect language</string>
-    <string name="trans_auto_info">When a translatable language is detected, it is automatically translated.</string>
-    <string name="trans_icon_info">When a translatable language is detected, the Translate button is displayed.</string>
-    <string name="trans_always_info">Always translate all pages.</string>
+    <string name="trans_auto_info">If a translatable language is detected, it will be translated.</string>
+    <string name="trans_icon_info">If a translatable language is detected, a translate button is displayed.</string>
+    <string name="trans_always_info">All pages are always translated.</string>
     <string name="trans_icon">Button display</string>
     <string name="trans_auto">Automatic translation</string>
     <string name="trans_always">Always translate</string>

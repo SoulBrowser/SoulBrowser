@@ -52,9 +52,9 @@
     <string name="translate">अनुवाद करना</string>
     <string name="translator">अनुवादक</string>
     <string name="trans_detect">भाषा की जांच करो</string>
-    <string name="trans_auto_info">जब किसी अनुवाद योग्य भाषा का पता लगाया जाता है, तो उसका स्वचालित रूप से अनुवाद हो जाता है।</string>
-    <string name="trans_icon_info">जब एक अनुवाद योग्य भाषा का पता चलता है, तो अनुवाद बटन प्रदर्शित होता है।</string>
-    <string name="trans_always_info">हमेशा सभी पृष्ठों का अनुवाद करें।</string>
+    <string name="trans_auto_info">यदि अनुवाद योग्य भाषा का पता चलता है, तो इसका अनुवाद किया जाएगा।</string>
+    <string name="trans_icon_info">यदि अनुवाद योग्य भाषा का पता चलता है, तो अनुवाद बटन प्रदर्शित होता है।</string>
+    <string name="trans_always_info">सभी पृष्ठ हमेशा अनुवादित होते हैं।</string>
     <string name="trans_icon">बटन प्रदर्शन</string>
     <string name="trans_auto">स्वचालित अनुवाद</string>
     <string name="trans_always">हमेशा अनुवाद करें</string>

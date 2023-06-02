@@ -52,9 +52,9 @@
     <string name="translate">ترجمة</string>
     <string name="translator">مترجم</string>
     <string name="trans_detect">اكتشاف اللغة</string>
-    <string name="trans_auto_info">عند اكتشاف لغة قابلة للترجمة ، يتم ترجمتها تلقائيًا.</string>
-    <string name="trans_icon_info">عند اكتشاف لغة قابلة للترجمة ، يتم عرض زر الترجمة.</string>
-    <string name="trans_always_info">دائما ترجمة كل الصفحات.</string>
+    <string name="trans_auto_info">إذا تم الكشف عن لغة قابلة للترجمة ، فسيتم ترجمتها.</string>
+    <string name="trans_icon_info">إذا تم الكشف عن لغة قابلة للترجمة ، فسيتم عرض زر الترجمة.</string>
+    <string name="trans_always_info">تتم ترجمة جميع الصفحات دائمًا.</string>
     <string name="trans_icon">عرض الزر</string>
     <string name="trans_auto">الترجمة الآلية</string>
     <string name="trans_always">ترجم دائما</string>

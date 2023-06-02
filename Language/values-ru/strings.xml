@@ -52,9 +52,9 @@
     <string name="translate">Перевести</string>
     <string name="translator">Переводчик</string>
     <string name="trans_detect">Определить язык</string>
-    <string name="trans_auto_info">При обнаружении переводимого языка он автоматически переводится.</string>
-    <string name="trans_icon_info">При обнаружении переводимого языка отображается кнопка «Перевести».</string>
-    <string name="trans_always_info">Всегда переводите все страницы.</string>
+    <string name="trans_auto_info">Если обнаружен переводимый язык, он будет переведен.</string>
+    <string name="trans_icon_info">Если обнаружен переводимый язык, отображается кнопка перевода.</string>
+    <string name="trans_always_info">Все страницы всегда переведены.</string>
     <string name="trans_icon">Дисплей кнопки</string>
     <string name="trans_auto">Автоперевод</string>
     <string name="trans_always">Всегда переводить</string>

@@ -52,9 +52,9 @@
     <string name="translate">แปลภาษา</string>
     <string name="translator">นักแปล</string>
     <string name="trans_detect">ตรวจจับภาษา</string>
-    <string name="trans_auto_info">เมื่อตรวจพบภาษาที่แปลได้ ภาษานั้นจะถูกแปลโดยอัตโนมัติ</string>
-    <string name="trans_icon_info">เมื่อตรวจพบภาษาที่แปลได้ ปุ่มแปลภาษาจะปรากฏขึ้น</string>
-    <string name="trans_always_info">แปลทุกหน้าเสมอ</string>
+    <string name="trans_auto_info">หากตรวจพบภาษาที่แปลได้ ภาษานั้นจะถูกแปล</string>
+    <string name="trans_icon_info">หากตรวจพบภาษาที่แปลได้ ปุ่มแปลจะปรากฏขึ้น</string>
+    <string name="trans_always_info">ทุกหน้าจะถูกแปลเสมอ</string>
     <string name="trans_icon">ปุ่มแสดงผล</string>
     <string name="trans_auto">การแปลอัตโนมัติ</string>
     <string name="trans_always">แปลเสมอ</string>

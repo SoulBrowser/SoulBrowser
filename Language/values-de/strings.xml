@@ -52,9 +52,9 @@
     <string name="translate">Übersetzen</string>
     <string name="translator">Übersetzer</string>
     <string name="trans_detect">Sprache erkennen</string>
-    <string name="trans_auto_info">Wenn eine übersetzbare Sprache erkannt wird, wird sie automatisch übersetzt.</string>
-    <string name="trans_icon_info">Wenn eine übersetzbare Sprache erkannt wird, wird die Schaltfläche Übersetzen angezeigt.</string>
-    <string name="trans_always_info">Übersetzen Sie immer alle Seiten.</string>
+    <string name="trans_auto_info">Wenn eine übersetzbare Sprache erkannt wird, wird diese übersetzt.</string>
+    <string name="trans_icon_info">Wenn eine übersetzbare Sprache erkannt wird, wird eine Schaltfläche zum Übersetzen angezeigt.</string>
+    <string name="trans_always_info">Alle Seiten werden immer übersetzt.</string>
     <string name="trans_icon">Tastenanzeige</string>
     <string name="trans_auto">Automatische Übersetzung</string>
     <string name="trans_always">Immer übersetzen</string>
