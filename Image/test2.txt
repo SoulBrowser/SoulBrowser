@@ -81,7 +81,6 @@ b|rue|.js|ruc|/amp-ad-
 b|rue|.js|ruc|/amp-sticky-ad-
 b|rue|.js|ruc|/amp-auto-ads-
 //wg
-wh=|dft_all|ins[class*="adsby"],div[class*="-adv"],div[class*="adv-"],div[class*="_adv"],div[class*="adv_"]
 wh=|dft_you|ytm-companion-ad-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer
 whc|9anime|iframe[class*="eww"],div[style*="Player.png"],iframe[class*="padPreload"],script[crossorigin*="anonymous"],script[data-cfasync*="false"],script[src*="adsco.re"],script[src*="invoke.js"],script[src*="lolsefti.com"],script[src*="premiumvertising.com"],script[src*="webpinp.com"]
 //wk
@@ -134,6 +133,7 @@ ddanzi.com##div[class*="ddanzi_m_"],div[class*="ddanzi_p_"]
 ilbe.com##article[class=cutin-banner],div[id*="ad_sticky_footer"],div[id*="INSERT_SLOT_ID_HERE"],div[id*="teamcsp_ad_"],img[id=ico_close_ban]
 bobaedream.co.kr##div[id*="div-gpt-ad-"]
 fmkorea.com##div[class*="adpost"]
+mlbpark.donga.com##.sub_lists_today li.items::before
 kr.sogirl.so##div[class*="happy"],div[class*="textwidget"],a[rel*="noopener"],div[class*="adde_modal"]
 kr.4kjav.co##div[class*="happy"],div[class*="textwidget"],a[rel*="noopener"],div[class*="adde_modal"],div[class*="demo-wrapper"],div[class*="ads"]
 noonoo.tv##div[class*="partner-banner"]
