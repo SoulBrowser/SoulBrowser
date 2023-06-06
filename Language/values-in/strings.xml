@@ -879,7 +879,7 @@
     <string name="vpn_server">Server</string>
     <string name="visit_site">Kunjungi situsnya</string>
     <string name="vpn_ip_guide_1">Hasil pencarian berdasarkan domain.</string>
-    <string name="vpn_ip_guide_2">Jika bukan itu yang Anda inginkan, edit sendiri.</string>
+    <string name="vpn_ip_guide_2">Jika bukan itu yang Anda inginkan, Anda dapat mengeditnya sendiri.</string>
     <string name="home_exit">Tindakan tombol kembali di halaman beranda</string>
     <string name="out_of_memory">Memori tidak cukup.</string>
     <string name="auto_detect">Deteksi otomatis</string>

@@ -879,7 +879,7 @@
     <string name="vpn_server">Сервер</string>
     <string name="visit_site">Открыть веб-сайт</string>
     <string name="vpn_ip_guide_1">Результаты поиска по домену.</string>
-    <string name="vpn_ip_guide_2">Если это не то, что вы хотите, отредактируйте его самостоятельно.</string>
+    <string name="vpn_ip_guide_2">Если это не то, что вы хотите, вы можете отредактировать его самостоятельно.</string>
     <string name="home_exit">Действие кнопки Назад на домашней странице</string>
     <string name="out_of_memory">Недостаточно памяти.</string>
     <string name="auto_detect">Определять автоматически</string>

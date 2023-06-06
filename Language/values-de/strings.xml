@@ -879,7 +879,7 @@
     <string name="vpn_server">Server</string>
     <string name="visit_site">Besuchen Sie die Website</string>
     <string name="vpn_ip_guide_1">Suchergebnisse nach Domain.</string>
-    <string name="vpn_ip_guide_2">Wenn es nicht Ihren Wünschen entspricht, bearbeiten Sie es selbst.</string>
+    <string name="vpn_ip_guide_2">Wenn es nicht Ihren Wünschen entspricht, können Sie es selbst bearbeiten.</string>
     <string name="home_exit">Aktion der Zurück-Taste auf der Startseite home</string>
     <string name="out_of_memory">Nicht genügend Speicher.</string>
     <string name="auto_detect">Automatische Erkennung</string>

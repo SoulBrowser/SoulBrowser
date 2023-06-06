@@ -879,7 +879,7 @@
     <string name="vpn_server">서버</string>
     <string name="visit_site">사이트 방문</string>
     <string name="vpn_ip_guide_1">도메인 기준으로 검색된 결과입니다.</string>
-    <string name="vpn_ip_guide_2">원하는 내용이 아니라면 직접 수정하세요.</string>
+    <string name="vpn_ip_guide_2">원하는 내용이 아닌 경우, 직접 수정할 수 있습니다.</string>
     <string name="home_exit">홈페이지에서 이전 버튼 동작</string>
     <string name="out_of_memory">메모리가 부족합니다.</string>
     <string name="auto_detect">자동 감지</string>
