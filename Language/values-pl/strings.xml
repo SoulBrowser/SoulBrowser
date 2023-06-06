@@ -878,6 +878,8 @@
     <string name="vpn_deactive">DNS jest wyłączony</string>
     <string name="vpn_server">Serwer</string>
     <string name="visit_site">Odwiedź stronę</string>
+    <string name="vpn_ip_guide_1">Wyniki wyszukiwania według domeny.</string>
+    <string name="vpn_ip_guide_2">Jeśli to nie jest to, czego chcesz, edytuj je samodzielnie.</string>
     <string name="home_exit">Działanie przycisku Wstecz na stronie głównej</string>
     <string name="out_of_memory">Niewystarczająca pamięć.</string>
     <string name="auto_detect">Automatyczne wykrywanie</string>

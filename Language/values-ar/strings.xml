@@ -878,6 +878,8 @@
     <string name="vpn_deactive">DNS معطل</string>
     <string name="vpn_server">الخادم</string>
     <string name="visit_site">قم بزيارة الموقع</string>
+    <string name="vpn_ip_guide_1">نتائج البحث حسب المجال.</string>
+    <string name="vpn_ip_guide_2">إذا لم يكن هذا ما تريده ، فقم بتحريره بنفسك.</string>
     <string name="home_exit">إجراء زر الرجوع على الصفحة الرئيسية</string>
     <string name="out_of_memory">الذاكرة غير كافية.</string>
     <string name="auto_detect">كشف ألي</string>

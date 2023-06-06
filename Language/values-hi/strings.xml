@@ -878,6 +878,8 @@
     <string name="vpn_deactive">डीएनएस निष्क्रिय है</string>
     <string name="vpn_server">सर्वर</string>
     <string name="visit_site">साइट पर जाएँ</string>
+    <string name="vpn_ip_guide_1">डोमेन द्वारा खोज परिणाम।</string>
+    <string name="vpn_ip_guide_2">यदि यह वह नहीं है जो आप चाहते हैं, तो इसे स्वयं संपादित करें।</string>
     <string name="home_exit">होम पेज पर बैक बटन एक्शन</string>
     <string name="out_of_memory">अपर्याप्त मेमॉरी।</string>
     <string name="auto_detect">स्वचालित पहचान</string>

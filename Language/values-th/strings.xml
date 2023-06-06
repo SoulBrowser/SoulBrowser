@@ -878,6 +878,8 @@
     <string name="vpn_deactive">ปิดการใช้งาน DNS</string>
     <string name="vpn_server">เซิร์ฟเวอร์</string>
     <string name="visit_site">เยี่ยมชมเว็บไซต์</string>
+    <string name="vpn_ip_guide_1">ผลการค้นหาตามโดเมน</string>
+    <string name="vpn_ip_guide_2">หากไม่ใช่สิ่งที่คุณต้องการ แก้ไขด้วยตัวคุณเอง</string>
     <string name="home_exit">การทำงานของปุ่มย้อนกลับในหน้าแรก</string>
     <string name="out_of_memory">หน่วยความจำไม่เพียงพอ.</string>
     <string name="auto_detect">การตรวจจับอัตโนมัติ</string>

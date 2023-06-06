@@ -878,6 +878,8 @@
     <string name="vpn_deactive">DNSが無効になりました</string>
     <string name="vpn_server">サーバー</string>
     <string name="visit_site">サイトを訪問</string>
+    <string name="vpn_ip_guide_1">ドメインで検索された結果です。</string>
+    <string name="vpn_ip_guide_2">必要なものでない場合は、自分で編集してください。</string>
     <string name="home_exit">ホームページの戻るボタンのアクション</string>
     <string name="out_of_memory">メモリが不足しています。</string>
     <string name="auto_detect">自動検出</string>
