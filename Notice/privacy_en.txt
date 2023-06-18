@@ -1,7 +1,7 @@
 
 Soul Browser Privacy Policy
 
-SoulSoft (here in after referred to as "Company") values ​​the privacy of users and handles them with particular attention.
+SoulSoft (here in after referred to as "Company") values the privacy of users and handles them with particular attention.
 In order to respect and protect the privacy of users, company has established the following basic principles and adheres to it.
 
 1) Company specifies the purpose of use within the minimum range necessary for collection and processing of user's personal information.
@@ -20,19 +20,26 @@ In order to help understanding of users who do not have Korean as their mother t
 2.1. Google Drive SDK
 Collected data : name, email address
 Purpose of collection : identification of users when backing up data
+* This information is collected by Google.
+* Collected only when logging in to Google Drive.
+* No information is collected unless you log in to Google Drive.
 
 2.2. Google Mobile Ads SDK
-Collected data : crash logs, diagnostics, page views and taps, devices or other identifiers in the app.
+Collected data : crash logs, diagnostics, view ads and tap ads, device or other identifiers
 Purpose of collection : analytics, advertising or marketing
+* This information is collected by Google.
+* Most of the information collected is about advertising status.
+* Collected only the minimum information necessary for advertising operation.
+* Ad removal feature is provided. If you remove ads, no information is collected.
 
 
 3. Google Drive
 
-Soul Browser supports Google Drive to store and share app's backup data.
-Soul Browser does not use Google Drive for any purpose other than storing and sharing backup data.
+Soul Browser supports Google Drive to store backup data of app.
+Soul Browser does not use Google Drive for any purpose other than storing backup data.
 Soul Browser complies with Google Drive terms and conditions.
 
-Users can store and share your backup data in the following locations
+Users can store their backup data in the following locations
 Settings > Backup > Google Drive > Import / Export
 
 
@@ -55,8 +62,8 @@ Soul Browser Mail : soulbrowser.com@outlook.com
 * Republic of Korea
 If you need to declare or consult about infringement of other personal information, you can contact the following organizations.
 1) Personal Information Infringement Declaration Center (privacy.kisa.or.kr / no station number 118)
-2) Cyber ​​Investigation Division, Big Prosecutor's Office (www.spo.go.kr / no station number 1301)
-3) Cyber ​​safety office of the National Police Agency (cyberbureau.police.go.kr / no station number 182)
+2) Cyber Investigation Division, Big Prosecutor's Office (www.spo.go.kr / no station number 1301)
+3) Cyber safety office of the National Police Agency (cyberbureau.police.go.kr / no station number 182)
 
 
 6. Change of personal information protection policy
@@ -64,4 +71,4 @@ If you need to declare or consult about infringement of other personal informati
 Company frequently uses company's Privacy Policy for various reasons, such as improving the processing procedures of user's personal information, reflecting changes to company's services, or complying with related laws You can change.
 
 
-Last updated : February 18, 2022
+Last updated : June 17, 2023
