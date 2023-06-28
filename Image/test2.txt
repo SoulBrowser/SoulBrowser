@@ -93,7 +93,7 @@ reddit.com##a[rel="nofollow"],a[rel="noopener"],a[rel="sponsored"],[class^="xPro
 pornhub.com##div[class*="adContainer"],div[class*="removeAdLink"],div[id=adSpot],a[href^="https://a.adtng.com/"]
 avgle.com##div[class=video-banner],div[id*="ps32-container"]
 dailymotion.com##div[id*="google_ads_iframe"]
-androidpolice.com##div[class=homepage-sponsor]
+androidpolice.com##div[class=homepage-sponsor],[src*=".ad.gt/api/"]
 y2mate.com##div[class*="ads_"],div[class*="ads-"],div[id*="ads_"]
 hitomi.la##div[class*="hitomi-"],[style*="position: fixed"],[style*="width: 300px"],[class*="exo-native-widget"]
 lxhentai.com##img[src*="lxhentai.com/banners"],img[src*=".gif"]
