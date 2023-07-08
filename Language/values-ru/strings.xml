@@ -233,7 +233,6 @@
     <string name="duration">Продолжительность</string>
     <string name="size">Размер</string>
     <string name="resolution">Разрешающая способность</string>
-    <string name="quality">Качество</string>
     <string name="modified">Посл. изменение</string>
     <string name="url">URL</string>
     <string name="domain_name">Домен</string>
