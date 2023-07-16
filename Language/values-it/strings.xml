@@ -345,7 +345,7 @@
     <string name="filtered_image">Immagine filtrata (%d)</string>
     <string name="update">Aggiorna</string>
     <string name="update_fail">Aggiornamento fallito.</string>
-    <string name="guide_ads_allow">È possibile salvare i siti che possono utilizzare gli annunci</string>
+    <string name="guide_ads_allow">È possibile salvare i siti che possono utilizzare gli annunci.</string>
     <string name="guide_pop_allow">È possibile salvare i siti a cui sono consentiti i popup.</string>
     <string name="now_delete">Seleziona gli elementi da eliminare</string>
     <string name="exit_delete">Seleziona gli elementi da eliminare quando l\'app viene chiusa</string>
@@ -783,7 +783,7 @@
     <string name="subtitle_info_6">Si consiglia il formato VTT.</string>
     <string name="subtitle_info_7">Se la codifica non è UTF-8, i caratteri potrebbero non essere visualizzati normalmente.</string>
     <string name="android_shot">Screenshot di Android</string>
-    <string name="always_allow">sempre consentito</string>
+    <string name="always_allow">Sempre consentito</string>
     <string name="always_block">Sempre bloccato</string>
     <string name="block_in_secret">Blocca solo in modalità di navigazione in incognito</string>
     <string name="block_back">Blocca solo in background</string>
