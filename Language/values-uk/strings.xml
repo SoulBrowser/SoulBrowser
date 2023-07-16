@@ -226,6 +226,7 @@
     <string name="last_noti_info">Якщо натиснути кнопку назад на останній сторінці вкладки, буде повідомлено, що це остання сторінка вкладки.</string>
     <string name="last_page_noti">Це остання сторінка вкладки.</string>
     <string name="last_swipe">Проведіть сторінку з останньої сторінки, щоб закрити вкладку</string>
+    <string name="last_exit">Поведінка попередньої кнопки на останній сторінці</string>
     <string name="title">Назва</string>
     <string name="artist">Виконавець</string>
     <string name="album">Альбом</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">Відвідайте сайт</string>
     <string name="vpn_ip_guide_1">Результати пошуку за доменом.</string>
     <string name="vpn_ip_guide_2">Якщо це не те, що ви хочете, ви можете відредагувати це самостійно.</string>
-    <string name="home_exit">Дія кнопки Назад на домашній сторінці</string>
     <string name="out_of_memory">Недостатня пам’ять.</string>
     <string name="auto_detect">Автоматичне виявлення</string>
     <string name="allow_all_site">Усі сайти дозволені</string>

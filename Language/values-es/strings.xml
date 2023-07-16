@@ -226,6 +226,7 @@
     <string name="last_noti_info">Si hace clic en el botón Anterior en la última página de la pestaña, se le notifica que es la última página de la pestaña.</string>
     <string name="last_page_noti">Esta es la última página de la pestaña.</string>
     <string name="last_swipe">Desliza la página desde la última página para cerrar la pestaña</string>
+    <string name="last_exit">Comportamiento del botón anterior en la última página</string>
     <string name="title">Título</string>
     <string name="artist">Artista</string>
     <string name="album">Álbum</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">Visitar el sitio</string>
     <string name="vpn_ip_guide_1">Resultados de la búsqueda por dominio.</string>
     <string name="vpn_ip_guide_2">Si no es lo que quieres, puedes editarlo tú mismo.</string>
-    <string name="home_exit">Acción del botón Atrás en la página de inicio</string>
     <string name="out_of_memory">Memoria insuficiente.</string>
     <string name="auto_detect">Detección automática</string>
     <string name="allow_all_site">Todos los sitios permitidos</string>

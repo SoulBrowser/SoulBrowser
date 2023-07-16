@@ -226,6 +226,7 @@
     <string name="last_noti_info">यदि आप टैब के अंतिम पृष्ठ पर बैक बटन पर क्लिक करते हैं, तो यह सूचित किया जाता है कि यह टैब का अंतिम पृष्ठ है।</string>
     <string name="last_page_noti">यह टैब का अंतिम पृष्ठ है।</string>
     <string name="last_swipe">टैब बंद करने के लिए पृष्ठ को अंतिम पृष्ठ से स्वाइप करें</string>
+    <string name="last_exit">अंतिम पृष्ठ पर पिछला बटन व्यवहार</string>
     <string name="title">शीर्षक</string>
     <string name="artist">कलाकार</string>
     <string name="album">एल्बम</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">साइट पर जाएँ</string>
     <string name="vpn_ip_guide_1">डोमेन द्वारा खोज परिणाम।</string>
     <string name="vpn_ip_guide_2">यदि यह वह नहीं है जो आप चाहते हैं, तो आप इसे स्वयं संपादित कर सकते हैं।</string>
-    <string name="home_exit">होम पेज पर बैक बटन एक्शन</string>
     <string name="out_of_memory">अपर्याप्त मेमॉरी।</string>
     <string name="auto_detect">स्वचालित पहचान</string>
     <string name="allow_all_site">सभी साइटों की अनुमति है</string>

@@ -226,6 +226,7 @@
     <string name="last_noti_info">탭의 마지막 페이지에서 이전 버튼을 누르면, 탭의 마지막 페이지임을 알립니다.</string>
     <string name="last_page_noti">탭의 마지막 페이지입니다.</string>
     <string name="last_swipe">마지막 페이지에서 페이지를 스와이프하여 탭 닫기</string>
+    <string name="last_exit">마지막 페이지에서 이전 버튼 동작</string>
     <string name="title">제목</string>
     <string name="artist">가수</string>
     <string name="album">앨범</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">사이트 방문</string>
     <string name="vpn_ip_guide_1">도메인 기준으로 검색된 결과입니다.</string>
     <string name="vpn_ip_guide_2">원하는 내용이 아닌 경우, 직접 수정할 수 있습니다.</string>
-    <string name="home_exit">홈페이지에서 이전 버튼 동작</string>
     <string name="out_of_memory">메모리가 부족합니다.</string>
     <string name="auto_detect">자동 감지</string>
     <string name="allow_all_site">모든 사이트 허용</string>

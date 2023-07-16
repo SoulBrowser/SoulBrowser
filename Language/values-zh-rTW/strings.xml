@@ -226,6 +226,7 @@
     <string name="last_noti_info">如果按一下最後一頁分頁上的返回按鈕，它會提示您是這是分頁的最後一頁</string>
     <string name="last_page_noti">這是分頁的最後一頁</string>
     <string name="last_swipe">從最後一頁開始滑動頁面以關閉分頁</string>
+    <string name="last_exit">最後一頁上的上一個按鈕行為</string>
     <string name="title">主題</string>
     <string name="artist">演出者</string>
     <string name="album">專輯</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">訪問網站</string>
     <string name="vpn_ip_guide_1">按域搜索結果</string>
     <string name="vpn_ip_guide_2">如果不是您想要的，您可以自己編輯</string>
-    <string name="home_exit">主頁上的後退按鈕操作</string>
     <string name="out_of_memory">記憶體不足</string>
     <string name="auto_detect">自動檢測</string>
     <string name="allow_all_site">允許所有網站</string>

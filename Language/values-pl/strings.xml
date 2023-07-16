@@ -226,6 +226,7 @@
     <string name="last_noti_info">Jeśli klikniesz przycisk Wstecz na ostatniej stronie karty, zostanie wyświetlone powiadomienie, że jest to ostatnia strona karty.</string>
     <string name="last_page_noti">To jest ostatnia strona zakładki.</string>
     <string name="last_swipe">Przesuń stronę od ostatniej strony, aby zamknąć kartę</string>
+    <string name="last_exit">Poprzednie zachowanie przycisku na ostatniej stronie</string>
     <string name="title">Tytuł</string>
     <string name="artist">Artysta</string>
     <string name="album">Albumu</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">Odwiedź stronę</string>
     <string name="vpn_ip_guide_1">Wyniki wyszukiwania według domeny.</string>
     <string name="vpn_ip_guide_2">Jeśli to nie jest to, czego chcesz, możesz to edytować samodzielnie.</string>
-    <string name="home_exit">Działanie przycisku Wstecz na stronie głównej</string>
     <string name="out_of_memory">Niewystarczająca pamięć.</string>
     <string name="auto_detect">Automatyczne wykrywanie</string>
     <string name="allow_all_site">Wszystkie witryny dozwolone</string>

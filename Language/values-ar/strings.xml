@@ -226,6 +226,7 @@
     <string name="last_noti_info">إذا قمت بالنقر فوق الزر السابق في الصفحة الأخيرة من علامة التبويب ، فسيتم إعلامك بأنها الصفحة الأخيرة من علامة التبويب.</string>
     <string name="last_page_noti">هذه هي الصفحة الأخيرة من علامة التبويب.</string>
     <string name="last_swipe">انتقد الصفحة من الصفحة الأخيرة لإغلاق علامة التبويب</string>
+    <string name="last_exit">سلوك الزر السابق في الصفحة الأخيرة</string>
     <string name="title">لقب</string>
     <string name="artist">مغني</string>
     <string name="album">الألبوم</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">قم بزيارة الموقع</string>
     <string name="vpn_ip_guide_1">نتائج البحث حسب المجال.</string>
     <string name="vpn_ip_guide_2">إذا لم يكن هذا ما تريده ، يمكنك تعديله بنفسك.</string>
-    <string name="home_exit">إجراء زر الرجوع على الصفحة الرئيسية</string>
     <string name="out_of_memory">الذاكرة غير كافية.</string>
     <string name="auto_detect">كشف ألي</string>
     <string name="allow_all_site">جميع المواقع مسموح بها</string>

@@ -226,6 +226,7 @@
     <string name="last_noti_info">Jika Anda mengklik tombol Sebelumnya pada halaman terakhir dari tab, akan diberitahukan bahwa itu adalah halaman terakhir dari tab.</string>
     <string name="last_page_noti">Ini adalah halaman terakhir dari tab tersebut.</string>
     <string name="last_swipe">Geser halaman dari halaman terakhir untuk menutup tab</string>
+    <string name="last_exit">Perilaku tombol sebelumnya di halaman terakhir</string>
     <string name="title">Judul</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">Kunjungi situsnya</string>
     <string name="vpn_ip_guide_1">Hasil pencarian berdasarkan domain.</string>
     <string name="vpn_ip_guide_2">Jika bukan itu yang Anda inginkan, Anda dapat mengeditnya sendiri.</string>
-    <string name="home_exit">Tindakan tombol kembali di halaman beranda</string>
     <string name="out_of_memory">Memori tidak cukup.</string>
     <string name="auto_detect">Deteksi otomatis</string>
     <string name="allow_all_site">Semua situs diizinkan</string>

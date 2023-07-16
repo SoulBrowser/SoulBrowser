@@ -226,6 +226,7 @@
     <string name="last_noti_info">If you click the back button on the last page of the tab, it is notified that it is the last page of the tab.</string>
     <string name="last_page_noti">This is the last page of the tab.</string>
     <string name="last_swipe">Swipe the page from the last page to close the tab</string>
+    <string name="last_exit">Previous button behavior on last page</string>
     <string name="title">Title</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">Visit the site</string>
     <string name="vpn_ip_guide_1">Search results by domain.</string>
     <string name="vpn_ip_guide_2">If it\'s not what you want, you can edit it yourself.</string>
-    <string name="home_exit">Back button action on home page</string>
     <string name="out_of_memory">Insufficient memory.</string>
     <string name="auto_detect">Automatic detection</string>
     <string name="allow_all_site">All sites allowed</string>

@@ -226,6 +226,7 @@
     <string name="last_noti_info">Dacă faceți clic pe butonul Precedent de pe ultima pagină a filei, este notificat că este ultima pagină a filei.</string>
     <string name="last_page_noti">Aceasta este ultima pagină a filei.</string>
     <string name="last_swipe">Glisați pagina din ultima pagină pentru a închide fila</string>
+    <string name="last_exit">Comportamentul butonului anterior pe ultima pagină</string>
     <string name="title">Titlu</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">Vizitați site-ul</string>
     <string name="vpn_ip_guide_1">Rezultatele căutării după domeniu.</string>
     <string name="vpn_ip_guide_2">Dacă nu este ceea ce doriți, îl puteți edita singur.</string>
-    <string name="home_exit">Acțiunea butonului Înapoi pe pagina principală</string>
     <string name="out_of_memory">Memorie insuficienta.</string>
     <string name="auto_detect">Detectare automată</string>
     <string name="allow_all_site">Toate site-urile sunt permise</string>

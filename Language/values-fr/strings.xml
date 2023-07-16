@@ -226,6 +226,7 @@
     <string name="last_noti_info">Si vous cliquez sur le bouton Précédent sur le dernier onglet, une alerte s\'affichera.</string>
     <string name="last_page_noti">Dernier onglet.</string>
     <string name="last_swipe">Faites glisser la page à partir de la dernière page pour fermer l\'onglet</string>
+    <string name="last_exit">Comportement du bouton précédent sur la dernière page</string>
     <string name="title">Titre</string>
     <string name="artist">Artiste</string>
     <string name="album">Album</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">Visiter le site</string>
     <string name="vpn_ip_guide_1">Résultats de la recherche par domaine.</string>
     <string name="vpn_ip_guide_2">Si ce n\'est pas ce que vous voulez, vous pouvez le modifier vous-même.</string>
-    <string name="home_exit">Action du bouton Retour sur la page d\'accueil</string>
     <string name="out_of_memory">Mémoire insuffisante.</string>
     <string name="auto_detect">Détection automatique</string>
     <string name="allow_all_site">Tous les sites autorisés</string>

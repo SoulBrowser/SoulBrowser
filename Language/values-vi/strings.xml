@@ -226,6 +226,7 @@
     <string name="last_noti_info">Nếu bạn nhấp vào nút Trước trên trang cuối cùng của tab, nó sẽ được thông báo rằng đó là trang cuối cùng của tab.</string>
     <string name="last_page_noti">Đây là trang cuối cùng của tab.</string>
     <string name="last_swipe">Vuốt trang từ trang cuối cùng để đóng tab</string>
+    <string name="last_exit">Hành vi của nút trước trên trang cuối cùng</string>
     <string name="title">Tiêu đề</string>
     <string name="artist">Nghệ sĩ</string>
     <string name="album">Album</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">Truy cập trang web</string>
     <string name="vpn_ip_guide_1">Kết quả tìm kiếm theo tên miền.</string>
     <string name="vpn_ip_guide_2">Nếu không như ý muốn, bạn có thể tự chỉnh sửa.</string>
-    <string name="home_exit">Hành động của nút quay lại trên trang chủ</string>
     <string name="out_of_memory">Không đủ bộ nhớ.</string>
     <string name="auto_detect">Tự động phát hiện</string>
     <string name="allow_all_site">Tất cả các trang web được phép</string>

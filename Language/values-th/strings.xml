@@ -226,6 +226,7 @@
     <string name="last_noti_info">หากคุณคลิกปุ่มก่อนหน้าในหน้าสุดท้ายของแท็บจะได้รับแจ้งว่าเป็นหน้าสุดท้ายของแท็บ</string>
     <string name="last_page_noti">นี่คือหน้าสุดท้ายของแท็บ</string>
     <string name="last_swipe">ปัดหน้าจากหน้าสุดท้ายเพื่อปิดแท็บ</string>
+    <string name="last_exit">ลักษณะการทำงานของปุ่มก่อนหน้าในหน้าสุดท้าย</string>
     <string name="title">หัวข้อ</string>
     <string name="artist">ศิลปิน</string>
     <string name="album">อัลบั้ม</string>
@@ -889,7 +890,6 @@
     <string name="visit_site">เยี่ยมชมเว็บไซต์</string>
     <string name="vpn_ip_guide_1">ผลการค้นหาตามโดเมน</string>
     <string name="vpn_ip_guide_2">หากไม่ใช่สิ่งที่คุณต้องการ คุณสามารถแก้ไขได้เอง</string>
-    <string name="home_exit">การทำงานของปุ่มย้อนกลับในหน้าแรก</string>
     <string name="out_of_memory">หน่วยความจำไม่เพียงพอ.</string>
     <string name="auto_detect">การตรวจจับอัตโนมัติ</string>
     <string name="allow_all_site">อนุญาตทุกไซต์</string>
