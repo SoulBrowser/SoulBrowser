@@ -946,8 +946,6 @@
     <string name="size_guide_2">Ini karena ini adalah ukuran file yang diharapkan, bukan ukuran file yang sebenarnya.</string>
     <string name="size_guide_3">Tidak ada perbedaan dalam hasil unduhan.</string>
     <string name="torrent_down">Unduh torrent</string>
-    <string name="crash_guide_1">Ada masalah saat menampilkan halaman web.</string>
-    <string name="crash_guide_2">Jika Anda sering melihat layar ini, periksa fitur berikut.</string>
     <string name="block_amp">Nonaktifkan Google AMP</string>
     <string name="block_amp_info">Nonaktifkan Google AMP di hasil pencarian Google.</string>
     <string name="pre_raster">Pramuat halaman web</string>

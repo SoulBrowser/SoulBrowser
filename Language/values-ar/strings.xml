@@ -946,8 +946,6 @@
     <string name="size_guide_2">هذا لأن هذا هو الحجم المتوقع للملف ، وليس الحجم الفعلي للملف.</string>
     <string name="size_guide_3">لا يوجد فرق في نتائج التنزيل.</string>
     <string name="torrent_down">تنزيل التورنت</string>
-    <string name="crash_guide_1">كانت هناك مشكلة في عرض صفحة الويب.</string>
-    <string name="crash_guide_2">إذا كنت ترى هذه الشاشة بشكل متكرر ، فتحقق من الميزات التالية.</string>
     <string name="block_amp">تعطيل Google AMP</string>
     <string name="block_amp_info">تعطيل Google AMP في نتائج بحث Google.</string>
     <string name="pre_raster">تحميل مسبق لصفحة الويب</string>

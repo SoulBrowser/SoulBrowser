@@ -946,8 +946,6 @@
     <string name="size_guide_2">這是因為這是文件的預期大小，而不是文件的實際大小</string>
     <string name="size_guide_3">下載結果沒有區別</string>
     <string name="torrent_down">洪流下載</string>
-    <string name="crash_guide_1">顯示網頁時出現問題</string>
-    <string name="crash_guide_2">如果您經常看到此屏幕，請檢查以下功能</string>
     <string name="block_amp">禁用 Google AMP</string>
     <string name="block_amp_info">在 Google 搜索結果中禁用 Google AMP</string>
     <string name="pre_raster">網頁預加載</string>

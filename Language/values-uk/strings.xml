@@ -946,8 +946,6 @@
     <string name="size_guide_2">Це тому, що це очікуваний розмір файлу, а не його фактичний розмір.</string>
     <string name="size_guide_3">Немає різниці в результатах завантаження.</string>
     <string name="torrent_down">Торрент завантаження</string>
-    <string name="crash_guide_1">Виникла проблема з відображенням веб-сторінки.</string>
-    <string name="crash_guide_2">Якщо ви часто бачите цей екран, перевірте наступні функції.</string>
     <string name="block_amp">Вимкніть Google AMP</string>
     <string name="block_amp_info">Вимкніть Google AMP у результатах пошуку Google.</string>
     <string name="pre_raster">Попереднє завантаження веб-сторінки</string>

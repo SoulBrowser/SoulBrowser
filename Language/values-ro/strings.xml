@@ -946,8 +946,6 @@
     <string name="size_guide_2">Acest lucru se datorează faptului că aceasta este dimensiunea așteptată a fișierului, nu dimensiunea reală a fișierului.</string>
     <string name="size_guide_3">Nu există nicio diferență în rezultatele de descărcare.</string>
     <string name="torrent_down">Descărcare torrent</string>
-    <string name="crash_guide_1">A apărut o problemă la afișarea paginii web.</string>
-    <string name="crash_guide_2">Dacă vedeți acest ecran frecvent, verificați următoarele caracteristici.</string>
     <string name="block_amp">Dezactivați Google AMP</string>
     <string name="block_amp_info">Dezactivați Google AMP în rezultatele căutării Google.</string>
     <string name="pre_raster">Preîncărcarea paginii web</string>
