@@ -789,6 +789,7 @@
     <string name="block_back">백그라운드에서만 차단</string>
     <string name="only_https">HTTPS로 연결</string>
     <string name="only_https_info">기본적으로 HTTPS로 연결합니다.\nHTTPS를 지원하지 않는 사이트는 연결이 안될 수 있습니다.</string>
+    <string name="http_warning">HTTP 사이트(보안되지 않은 사이트)에서는 실행할 수 없습니다.</string>
     <string name="page_home_info">홈 아이콘을 눌렀을 때</string>
     <string name="page_start_info">앱을 시작할 때</string>
     <string name="page_tab_info">새 탭을 만들 때</string>

@@ -789,6 +789,7 @@
     <string name="block_back">Blokir hanya di latar belakang</string>
     <string name="only_https">Terhubung dengan HTTPS</string>
     <string name="only_https_info">Secara default terhubung dengan HTTPS.\nSitus yang tidak mendukung HTTPS mungkin tidak dapat terhubung.</string>
+    <string name="http_warning">Itu tidak dapat dijalankan di situs HTTP (situs tidak aman).</string>
     <string name="page_home_info">Saat Anda mengetuk ikon beranda</string>
     <string name="page_start_info">Saat memulai aplikasi</string>
     <string name="page_tab_info">Saat membuat tab baru</string>

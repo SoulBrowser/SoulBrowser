@@ -789,6 +789,7 @@
     <string name="block_back">Chỉ chặn trong nền</string>
     <string name="only_https">Kết nối với HTTPS</string>
     <string name="only_https_info">Theo mặc định, nó kết nối với HTTPS.\nCác trang web không hỗ trợ HTTPS có thể không kết nối được.</string>
+    <string name="http_warning">Nó không thể chạy trên các trang HTTP (các trang không an toàn).</string>
     <string name="page_home_info">Khi bạn nhấn vào biểu tượng trang chủ</string>
     <string name="page_start_info">Khi khởi động ứng dụng</string>
     <string name="page_tab_info">Khi tạo một tab mới</string>

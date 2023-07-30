@@ -789,6 +789,7 @@
     <string name="block_back">Блокировать только в фоновом режиме</string>
     <string name="only_https">Подключаться по HTTPS</string>
     <string name="only_https_info">По умолчанию подключаться по протоколу HTTPS.\nСайты, не поддерживающие HTTPS, могут не загрузиться.</string>
+    <string name="http_warning">Его нельзя запустить на HTTP-сайтах (незащищенных сайтах).</string>
     <string name="page_home_info">При нажатии на значок дома</string>
     <string name="page_start_info">При запуске приложения</string>
     <string name="page_tab_info">При создании новой вкладка</string>

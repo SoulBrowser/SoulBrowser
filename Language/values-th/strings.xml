@@ -789,6 +789,7 @@
     <string name="block_back">บล็อกเฉพาะในพื้นหลัง</string>
     <string name="only_https">เชื่อมต่อกับ HTTPS</string>
     <string name="only_https_info">โดยค่าเริ่มต้นจะเชื่อมต่อกับ HTTPS\nไซต์ที่ไม่รองรับ HTTPS อาจไม่สามารถเชื่อมต่อได้</string>
+    <string name="http_warning">ไม่สามารถทำงานบนไซต์ HTTP (ไซต์ที่ไม่ปลอดภัย)</string>
     <string name="page_home_info">เมื่อคุณแตะไอคอนบ้าน</string>
     <string name="page_start_info">เมื่อเริ่มต้นแอป</string>
     <string name="page_tab_info">เมื่อสร้างแท็บใหม่</string>

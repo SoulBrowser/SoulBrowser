@@ -789,6 +789,7 @@
     <string name="block_back">केवल बैकग्राउंड में ब्लॉक करें</string>
     <string name="only_https">एचटीटीपीएस से जुड़ें</string>
     <string name="only_https_info">डिफ़ॉल्ट रूप से यह HTTPS से जुड़ता है।\n जो साइटें HTTPS का समर्थन नहीं करती हैं, वे कनेक्ट करने में सक्षम नहीं हो सकती हैं।</string>
+    <string name="http_warning">इसे HTTP साइटों (असुरक्षित साइटों) पर नहीं चलाया जा सकता।</string>
     <string name="page_home_info">जब आप होम आइकन पर टैप करते हैं</string>
     <string name="page_start_info">ऐप शुरू करते समय</string>
     <string name="page_tab_info">नया टैब बनाते समय</string>

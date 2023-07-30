@@ -789,6 +789,7 @@
     <string name="block_back">Block only in the background</string>
     <string name="only_https">Connect with HTTPS</string>
     <string name="only_https_info">By default it connects with HTTPS.\nSites that do not support HTTPS may not be able to connect.</string>
+    <string name="http_warning">It cannot be run on HTTP sites (unsecured sites).</string>
     <string name="page_home_info">When you tap the home icon</string>
     <string name="page_start_info">When starting the app</string>
     <string name="page_tab_info">When creating a new tab</string>

@@ -789,6 +789,7 @@
     <string name="block_back">僅在背景封鎖</string>
     <string name="only_https">透過 HTTPS 連線</string>
     <string name="only_https_info">預設情況下透過 HTTPS 連線\n不支援 HTTPS 的網站可能無法連線</string>
+    <string name="http_warning">它不能在 HTTP 站點（不安全的站點）上運行</string>
     <string name="page_home_info">當您點選主頁圖示時</string>
     <string name="page_start_info">啟動應用程式時</string>
     <string name="page_tab_info">建立新分頁時</string>

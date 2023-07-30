@@ -789,6 +789,7 @@
     <string name="block_back">حظر فقط في الخلفية</string>
     <string name="only_https">تواصل مع HTTPS</string>
     <string name="only_https_info">بشكل افتراضي يتصل بـ HTTPS.\nقد لا تتمكن المواقع التي لا تدعم HTTPS من الاتصال.</string>
+    <string name="http_warning">لا يمكن تشغيله على مواقع HTTP (مواقع غير آمنة).</string>
     <string name="page_home_info">عندما تضغط على أيقونة المنزل</string>
     <string name="page_start_info">عند بدء تشغيل التطبيق</string>
     <string name="page_tab_info">عند إنشاء علامة تبويب جديدة</string>

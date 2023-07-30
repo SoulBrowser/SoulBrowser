@@ -789,6 +789,7 @@
     <string name="block_back">Bloquear solo en segundo plano</string>
     <string name="only_https">Conéctese con HTTPS</string>
     <string name="only_https_info">Por defecto se conecta con HTTPS.\nEs posible que los sitios que no admitan HTTPS no puedan conectarse.</string>
+    <string name="http_warning">No se puede ejecutar en sitios HTTP (sitios no seguros).</string>
     <string name="page_home_info">Cuando tocas el ícono de inicio</string>
     <string name="page_start_info">Al iniciar la aplicación</string>
     <string name="page_tab_info">Al crear una nueva pestaña</string>

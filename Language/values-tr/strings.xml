@@ -789,6 +789,7 @@
     <string name="block_back">Yalnızca arka planda engelle</string>
     <string name="only_https">HTTPS ile bağlanın</string>
     <string name="only_https_info">Varsayılan olarak HTTPS ile bağlanır.\nHTTPS\'yi desteklemeyen siteler bağlanamayabilir.</string>
+    <string name="http_warning">HTTP sitelerinde (güvenli olmayan siteler) çalıştırılamaz.</string>
     <string name="page_home_info">Ana Sayfa simgesine dokunduğunuzda</string>
     <string name="page_start_info">Uygulamayı başlatırken</string>
     <string name="page_tab_info">Yeni bir sekme oluştururken</string>
