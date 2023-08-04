@@ -947,6 +947,8 @@
     <string name="size_guide_2">Esto se debe a que este es el tamaño esperado del archivo, no el tamaño real del archivo.</string>
     <string name="size_guide_3">No hay diferencia en los resultados de la descarga.</string>
     <string name="torrent_down">Descarga de torrent</string>
+    <string name="crash_guide_1">Hubo un problema al mostrar la página web.</string>
+    <string name="crash_guide_2">Si ve esta pantalla con frecuencia, verifique las siguientes funciones.</string>
     <string name="block_amp">Desactivar Google AMP</string>
     <string name="block_amp_info">Deshabilite Google AMP en los resultados de búsqueda de Google.</string>
     <string name="pre_raster">Precarga de la página web</string>

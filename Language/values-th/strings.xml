@@ -947,6 +947,8 @@
     <string name="size_guide_2">เนื่องจากเป็นขนาดที่คาดไว้ของไฟล์ ไม่ใช่ขนาดจริงของไฟล์</string>
     <string name="size_guide_3">ไม่มีความแตกต่างในผลลัพธ์การดาวน์โหลด</string>
     <string name="torrent_down">ดาวน์โหลดทอร์เรนต์</string>
+    <string name="crash_guide_1">เกิดปัญหาในการแสดงหน้าเว็บ</string>
+    <string name="crash_guide_2">หากคุณเห็นหน้าจอนี้บ่อยๆ ให้ตรวจสอบคุณสมบัติต่อไปนี้</string>
     <string name="block_amp">ปิดการใช้งาน Google AMP</string>
     <string name="block_amp_info">ปิดใช้งาน Google AMP ในผลการค้นหาของ Google</string>
     <string name="pre_raster">โหลดหน้าเว็บล่วงหน้า</string>

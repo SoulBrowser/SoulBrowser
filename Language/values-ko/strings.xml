@@ -947,6 +947,8 @@
     <string name="size_guide_2">이것은 파일의 실제 크기가 아니라 파일의 예상 크기이기 때문입니다.</string>
     <string name="size_guide_3">다운로드 결과에는 차이가 없습니다.</string>
     <string name="torrent_down">토렌트 다운로드</string>
+    <string name="crash_guide_1">웹페이지를 표시하는 중에 문제가 발생했습니다.</string>
+    <string name="crash_guide_2">이 화면이 자주 보이신다면 다음 기능을 확인해 보세요.</string>
     <string name="block_amp">Google AMP 비활성화</string>
     <string name="block_amp_info">Google 검색 결과에서 Google AMP를 비활성화합니다.</string>
     <string name="pre_raster">웹페이지 미리 로드</string>

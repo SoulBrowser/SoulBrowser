@@ -947,6 +947,8 @@
     <string name="size_guide_2">ऐसा इसलिए है क्योंकि यह फ़ाइल का अनुमानित आकार है, न कि फ़ाइल का वास्तविक आकार।</string>
     <string name="size_guide_3">डाउनलोड परिणामों में कोई अंतर नहीं है।</string>
     <string name="torrent_down">टोरेंट डाउनलोड</string>
+    <string name="crash_guide_1">वेबपेज प्रदर्शित करने में एक समस्या थी।</string>
+    <string name="crash_guide_2">यदि आप इस स्क्रीन को अक्सर देखते हैं, तो निम्न सुविधाओं की जाँच करें।</string>
     <string name="block_amp">Google AMP अक्षम करें</string>
     <string name="block_amp_info">Google खोज परिणामों में Google AMP अक्षम करें।</string>
     <string name="pre_raster">वेब पेज प्रीलोड</string>

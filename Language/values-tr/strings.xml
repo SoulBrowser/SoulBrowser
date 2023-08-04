@@ -947,6 +947,8 @@
     <string name="size_guide_2">Bunun nedeni, dosyanın gerçek boyutunun değil, dosyanın beklenen boyutunun olmasıdır.</string>
     <string name="size_guide_3">İndirme sonuçlarında hiçbir fark yoktur.</string>
     <string name="torrent_down">Torrent indirme</string>
+    <string name="crash_guide_1">Web sayfası görüntülenirken bir sorun oluştu.</string>
+    <string name="crash_guide_2">Bu ekranı sık görüyorsanız, aşağıdaki özellikleri kontrol edin.</string>
     <string name="block_amp">Google AMP\'yi devre dışı bırak</string>
     <string name="block_amp_info">Google arama sonuçlarında Google AMP\'yi devre dışı bırakın.</string>
     <string name="pre_raster">Web sayfası önyüklemesi</string>

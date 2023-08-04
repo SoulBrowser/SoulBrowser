@@ -947,6 +947,8 @@
     <string name="size_guide_2">Điều này là do đây là kích thước dự kiến ​​của tệp, không phải là kích thước thực của tệp.</string>
     <string name="size_guide_3">Không có sự khác biệt trong kết quả tải xuống.</string>
     <string name="torrent_down">Tải xuống Torrent</string>
+    <string name="crash_guide_1">Đã xảy ra sự cố khi hiển thị trang web.</string>
+    <string name="crash_guide_2">Nếu bạn thấy màn hình này thường xuyên, hãy kiểm tra các tính năng sau.</string>
     <string name="block_amp">Tắt Google AMP</string>
     <string name="block_amp_info">Tắt Google AMP trong kết quả tìm kiếm của Google.</string>
     <string name="pre_raster">Tải trước trang web</string>
