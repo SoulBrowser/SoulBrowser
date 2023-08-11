@@ -367,7 +367,7 @@
     <string name="link_reset_guide">Reset akan menghapus semua tautan yang diblokir.</string>
     <string name="show_image">Tampilkan gambar</string>
     <string name="block_images">Blokir gambar</string>
-    <string name="block_a_image">Blokir gambar</string>
+    <string name="block_a_image">Blokir gambar (Blokir iklan)</string>
     <string name="blocked_image">Gambar yang diblokir</string>
     <string name="item_block_site">Blokir di situs saat ini</string>
     <string name="item_block_page">Blokir di halaman saat ini</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Laporkan situs</string>
     <string name="report_down">Harap berikan alamat situs tempat Anda tidak dapat mengunduh video.</string>
     <string name="report_dark">Berikan alamat situs yang mengalami masalah dengan tema gelap.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Tekan tombol Rumah selama pemutaran YouTube untuk beralih ke mode PIP.</string>
     <string name="youtube_unmute">Suarakan YouTube</string>
     <string name="youtube_speed">Hemat kecepatan pemutaran YouTube</string>
     <string name="youtube_tab">Buka tautan YouTube di tab baru</string>

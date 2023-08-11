@@ -367,7 +367,7 @@
     <string name="link_reset_guide">ستؤدي إعادة الضبط إلى حذف جميع الروابط المحظورة.</string>
     <string name="show_image">عرض الصور</string>
     <string name="block_images">حجب الصور</string>
-    <string name="block_a_image">حجب الصور</string>
+    <string name="block_a_image">منع الصورة (منع الإعلانات)</string>
     <string name="blocked_image">الصورة المحظورة</string>
     <string name="item_block_site">منع في الموقع الحالي</string>
     <string name="item_block_page">حظر في الصفحة الحالية</string>
@@ -545,8 +545,6 @@
     <string name="report_site">تقرير الموقع</string>
     <string name="report_down">يرجى تقديم عنوان الموقع حيث لا يمكن تنزيل الفيديو.</string>
     <string name="report_dark">من فضلك قل لي عنوان الموقع الذي يواجه مشاكل مع المظهر الداكن.</string>
-    <string name="youtube_pip">يوتيوب PIP</string>
-    <string name="youtube_pip_info">إذا ضغطت على مفتاح الصفحة الرئيسية أثناء تشغيل YouTube ، فسيتحول إلى وضع PIP.</string>
     <string name="youtube_unmute">إعادة صوت YouTube</string>
     <string name="youtube_speed">حفظ سرعة تشغيل YouTube</string>
     <string name="youtube_tab">افتح رابط YouTube في علامة تبويب جديدة</string>

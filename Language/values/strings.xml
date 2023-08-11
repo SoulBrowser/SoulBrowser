@@ -367,7 +367,7 @@
     <string name="link_reset_guide">A reset will delete all blocked links.</string>
     <string name="show_image">Show images</string>
     <string name="block_images">Block images</string>
-    <string name="block_a_image">Block image</string>
+    <string name="block_a_image">Block image (Block ads)</string>
     <string name="blocked_image">Blocked images</string>
     <string name="item_block_site">Block on current site</string>
     <string name="item_block_page">Block on current page</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Report site</string>
     <string name="report_down">Please provide the address of the site where the video can not be downloaded.</string>
     <string name="report_dark">Please provide the address of the site that is having problems with the dark theme.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Press the Home key during YouTube playback to switch to PIP mode.</string>
     <string name="youtube_unmute">Unmute YouTube</string>
     <string name="youtube_speed">Save YouTube playback speed</string>
     <string name="youtube_tab">Open YouTube link in new tab</string>

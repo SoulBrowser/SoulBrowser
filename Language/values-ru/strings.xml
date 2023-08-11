@@ -367,7 +367,7 @@
     <string name="link_reset_guide">Сброс удалит все заблокированные ссылки.</string>
     <string name="show_image">Показывать изображения</string>
     <string name="block_images">Блокировать изображения</string>
-    <string name="block_a_image">Заблокировать изображение</string>
+    <string name="block_a_image">Заблокировать изображение (блокировать рекламу)</string>
     <string name="blocked_image">Заблокированные изображения</string>
     <string name="item_block_site">Заблокировать на текущем сайте</string>
     <string name="item_block_page">Заблокировать на текущей странице</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Сообщить о проблемах с сайтом</string>
     <string name="report_down">Пожалуйста, укажите адрес сайта, где Вы не можете скачать видео.</string>
     <string name="report_dark">Укажите адрес сайта, на котором возникают проблемы с темной темой.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Нажмите клавишу Домой во время воспроизведения YouTube, для переключения в режим PIP.</string>
     <string name="youtube_unmute">Включить YouTube</string>
     <string name="youtube_speed">Сохранить скорость воспроизведения YouTube</string>
     <string name="youtube_tab">Открыть ссылку YouTube в новой вкладке</string>

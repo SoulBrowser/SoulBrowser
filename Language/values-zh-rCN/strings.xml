@@ -367,7 +367,7 @@
     <string name="link_reset_guide">重置将删除所有被阻止的链接</string>
     <string name="show_image">有图模式</string>
     <string name="block_images">无图模式</string>
-    <string name="block_a_image">屏蔽图像</string>
+    <string name="block_a_image">阻止图片（阻止广告）</string>
     <string name="blocked_image">屏蔽的图像</string>
     <string name="item_block_site">在当前站点上阻止</string>
     <string name="item_block_page">在当前页面上阻止</string>
@@ -545,8 +545,6 @@
     <string name="report_site">反馈网站</string>
     <string name="report_down">请提供无法下载视频的网站地址</string>
     <string name="report_dark">请提供深色主题有问题的网站地址</string>
-    <string name="youtube_pip">YouTube 画中画</string>
-    <string name="youtube_pip_info">在 YouTube 播放期间按下主页键切换到画中画模式</string>
     <string name="youtube_unmute">取消静音 YouTube</string>
     <string name="youtube_speed">保存 YouTube 播放速度</string>
     <string name="youtube_tab">在新标签页中打开 YouTube 链接</string>

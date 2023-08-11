@@ -367,7 +367,7 @@
     <string name="link_reset_guide">Скидання призведе до видалення всіх заблокованих посилань.</string>
     <string name="show_image">Показати зображення</string>
     <string name="block_images">Блокувати зображення</string>
-    <string name="block_a_image">Заблокувати зображення</string>
+    <string name="block_a_image">Блокувати зображення (блокувати рекламу)</string>
     <string name="blocked_image">Заблоковані зображення</string>
     <string name="item_block_site">Заблокувати на поточному сайті</string>
     <string name="item_block_page">Заблокувати на поточній сторінці</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Повідомити про сайт</string>
     <string name="report_down">Вкажіть, будь ласка, адресу веб-сайту, на якому неможливо завантажити відео.</string>
     <string name="report_dark">Будь ласка, вкажіть адресу веб-сайту, який має проблеми з темною темою.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Натисніть домашню клавішу під час відтворення на YouTube, щоб перейти в режим PIP.</string>
     <string name="youtube_unmute">Увімкнути YouTube</string>
     <string name="youtube_speed">Збережіть швидкість відтворення YouTube</string>
     <string name="youtube_tab">Відкрийте посилання YouTube у новій вкладці</string>

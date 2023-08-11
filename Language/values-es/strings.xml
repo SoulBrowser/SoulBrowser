@@ -367,7 +367,7 @@
     <string name="link_reset_guide">Un reinicio eliminará todos los enlaces bloqueados.</string>
     <string name="show_image">Mostrar imagen</string>
     <string name="block_images">Bloquear imagen</string>
-    <string name="block_a_image">Bloquear imagen</string>
+    <string name="block_a_image">Bloquear imagen (Bloquear anuncios)</string>
     <string name="blocked_image">Imágenes bloqueadas</string>
     <string name="item_block_site">Bloquear en el sitio actual</string>
     <string name="item_block_page">Bloquear en la página actual</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Informe del sitio</string>
     <string name="report_down">Proporcione la dirección del sitio donde no puede descargar el video.</string>
     <string name="report_dark">Proporcione la dirección del sitio que tiene problemas con el tema oscuro.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Presione la tecla de inicio durante la reproducción de YouTube para cambiar al modo PIP.</string>
     <string name="youtube_unmute">No silenciar YouTube</string>
     <string name="youtube_speed">Guardar la velocidad de reproducción de YouTube</string>
     <string name="youtube_tab">Abrir enlace de YouTube en una pestaña nueva</string>

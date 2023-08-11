@@ -367,7 +367,7 @@
     <string name="link_reset_guide">O resetare va șterge toate linkurile blocate.</string>
     <string name="show_image">Afișare imagini</string>
     <string name="block_images">Blocați imagini</string>
-    <string name="block_a_image">Blocați imaginea</string>
+    <string name="block_a_image">Blocați imaginea (Blocați reclamele)</string>
     <string name="blocked_image">Imagini blocate</string>
     <string name="item_block_site">Blocați pe site-ul actual</string>
     <string name="item_block_page">Blocați pe pagina curentă</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Site raport</string>
     <string name="report_down">Vă rugăm să furnizați adresa site-ului unde videoclipul nu poate fi descărcat.</string>
     <string name="report_dark">Vă rugăm să furnizați adresa site-ului care are probleme cu tema întunecată.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Apăsați tasta Acasă în timpul redării YouTube pentru a trece la modul PIP.</string>
     <string name="youtube_unmute">Activați sunetul YouTube</string>
     <string name="youtube_speed">Salvați viteza de redare YouTube</string>
     <string name="youtube_tab">Deschide linkul YouTube într-o filă nouă</string>

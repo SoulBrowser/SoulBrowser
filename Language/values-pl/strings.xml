@@ -367,7 +367,7 @@
     <string name="link_reset_guide">Reset usunie wszystkie zablokowane linki.</string>
     <string name="show_image">Pokaż obrazy</string>
     <string name="block_images">Blokuj obrazy</string>
-    <string name="block_a_image">Zablokuj obraz</string>
+    <string name="block_a_image">Zablokuj obraz (Blokuj reklamy)</string>
     <string name="blocked_image">Zablokowane obrazy</string>
     <string name="item_block_site">Blokuj w bieżącej witrynie</string>
     <string name="item_block_page">Blokuj na bieżącej stronie</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Zgłoś stronę</string>
     <string name="report_down">Podaj adres strony, z której nie można pobrać filmu.</string>
     <string name="report_dark">Podaj adres witryny, która ma problemy z ciemnym motywem.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Naciśnij klawisz Home podczas odtwarzania YouTube, aby przełączyć na tryb PIP.</string>
     <string name="youtube_unmute">Wyłącz wyciszenie YouTube</string>
     <string name="youtube_speed">Zapisz prędkość odtwarzania YouTube</string>
     <string name="youtube_tab">Otwórz link do YouTube w nowej karcie</string>

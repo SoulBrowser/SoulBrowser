@@ -367,7 +367,7 @@
     <string name="link_reset_guide">초기화하면 차단된 모든 링크가 삭제됩니다.</string>
     <string name="show_image">이미지 표시</string>
     <string name="block_images">이미지 차단</string>
-    <string name="block_a_image">이미지 차단</string>
+    <string name="block_a_image">이미지 차단 (광고 차단)</string>
     <string name="blocked_image">차단된 이미지</string>
     <string name="item_block_site">현재 사이트에서 차단</string>
     <string name="item_block_page">현재 페이지에서 차단</string>
@@ -545,8 +545,6 @@
     <string name="report_site">사이트 제보</string>
     <string name="report_down">동영상을 다운로드할 수 없는 사이트의 주소를 알려주세요.</string>
     <string name="report_dark">어두운 테마에 문제가 있는 사이트의 주소를 알려주세요.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">YouTube 재생 중 홈키를 누르면, PIP 모드로 전환됩니다.</string>
     <string name="youtube_unmute">YouTube 음소거 해제</string>
     <string name="youtube_speed">YouTube 재생 속도 저장</string>
     <string name="youtube_tab">YouTube 링크를 새 탭에서 열기</string>

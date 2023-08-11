@@ -367,7 +367,7 @@
     <string name="link_reset_guide">Đặt lại sẽ xóa tất cả các liên kết bị chặn.</string>
     <string name="show_image">Hiển thị hình ảnh</string>
     <string name="block_images">Chặn hình ảnh</string>
-    <string name="block_a_image">Chặn hình ảnh</string>
+    <string name="block_a_image">Chặn hình ảnh (Chặn quảng cáo)</string>
     <string name="blocked_image">Hình ảnh bị chặn</string>
     <string name="item_block_site">Chặn trên trang web hiện tại</string>
     <string name="item_block_page">Chặn trên trang hiện tại</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Trang web báo cáo</string>
     <string name="report_down">Vui lòng cung cấp địa chỉ của trang web nơi bạn không thể tải xuống video.</string>
     <string name="report_dark">Vui lòng cung cấp địa chỉ của trang web đang gặp sự cố với chủ đề tối.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Bấm phím Home trong khi phát lại YouTube để chuyển sang chế độ PIP.</string>
     <string name="youtube_unmute">Bật tiếng YouTube</string>
     <string name="youtube_speed">Tiết kiệm tốc độ phát YouTube</string>
     <string name="youtube_tab">Mở liên kết YouTube trong một tab mới</string>

@@ -367,7 +367,7 @@
     <string name="link_reset_guide">初期化すると、ブロックされたすべてのリンクが削除されます。</string>
     <string name="show_image">画像表示</string>
     <string name="block_images">ブロック画像</string>
-    <string name="block_a_image">画像をブロック</string>
+    <string name="block_a_image">画像をブロック (広告をブロック)</string>
     <string name="blocked_image">ブロックされた画像に</string>
     <string name="item_block_site">現在のサイトでブロック</string>
     <string name="item_block_page">現在のページからブロック</string>
@@ -545,8 +545,6 @@
     <string name="report_site">サイト情報提供</string>
     <string name="report_down">動画をダウンロードすることができないサイトのアドレスを教えてください。</string>
     <string name="report_dark">ダークテーマで問題が発生しているサイトのアドレスを入力してください。</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">YouTube再生中ホームボタンを押すと、PIPモードに切り替えます。</string>
     <string name="youtube_unmute">YouTubeのミュートを解除</string>
     <string name="youtube_speed">YouTubeの再生速度を保存</string>
     <string name="youtube_tab">新しいタブでYouTubeリンクを開く</string>

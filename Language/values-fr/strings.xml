@@ -367,7 +367,7 @@
     <string name="link_reset_guide">Une réinitialisation supprimera tous les liens bloqués.</string>
     <string name="show_image">Montrer l\'image</string>
     <string name="block_images">Bloquer les images</string>
-    <string name="block_a_image">Bloquer l\'image</string>
+    <string name="block_a_image">Bloquer l\'image (Bloquer les publicités)</string>
     <string name="blocked_image">Images bloquées</string>
     <string name="item_block_site">Bloquer sur le site actuel</string>
     <string name="item_block_page">Bloquer sur la page actuelle</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Rapport d\'erreur</string>
     <string name="report_down">Veuillez fournir l\'adresse du site dont vous ne pouvez pas télécharger la vidéo.</string>
     <string name="report_dark">Veuillez fournir l\'adresse du site qui rencontre des problèmes avec le thème sombre.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Appuyez sur la touche Accueil pendant la lecture de YouTube pour passer en mode PIP.</string>
     <string name="youtube_unmute">Activer YouTube</string>
     <string name="youtube_speed">Enregistrer la vitesse de lecture YouTube</string>
     <string name="youtube_tab">Ouvrir le lien YouTube dans un nouvel onglet</string>

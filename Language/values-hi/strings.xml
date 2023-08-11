@@ -367,7 +367,7 @@
     <string name="link_reset_guide">एक रीसेट सभी अवरुद्ध लिंक हटा देगा।</string>
     <string name="show_image">चित्र दिखाएं</string>
     <string name="block_images">छवियों को ब्लॉक करें</string>
-    <string name="block_a_image">छवि ब्लॉक करें</string>
+    <string name="block_a_image">छवि को ब्लॉक करें (विज्ञापनों को ब्लॉक करें)</string>
     <string name="blocked_image">अवरुद्ध चित्र</string>
     <string name="item_block_site">वर्तमान साइट पर ब्लॉक करें</string>
     <string name="item_block_page">वर्तमान पेज पर ब्लॉक करें</string>
@@ -545,8 +545,6 @@
     <string name="report_site">रिपोर्ट साइट</string>
     <string name="report_down">कृपया उस साइट का पता प्रदान करें जहां वीडियो डाउनलोड नहीं किया जा सकता है।</string>
     <string name="report_dark">कृपया उस साइट का पता प्रदान करें जिसमें डार्क थीम की समस्या है।</string>
-    <string name="youtube_pip">यूट्यूब पीआईपी</string>
-    <string name="youtube_pip_info">PIP मोड पर स्विच करने के लिए YouTube प्लेबैक के दौरान होम कुंजी दबाएं।</string>
     <string name="youtube_unmute">YouTube अनम्यूट करें</string>
     <string name="youtube_speed">YouTube प्लेबैक गति बचाएं</string>
     <string name="youtube_tab">YouTube लिंक को नए टैब में खोलें</string>

@@ -367,7 +367,7 @@
     <string name="link_reset_guide">Uma redefinição excluirá todos os links bloqueados.</string>
     <string name="show_image">Mostrar imagens</string>
     <string name="block_images">Bloquear imagens</string>
-    <string name="block_a_image">Bloquear imagem</string>
+    <string name="block_a_image">Bloquear imagem (bloquear anúncios)</string>
     <string name="blocked_image">Imagens bloqueadas</string>
     <string name="item_block_site">Bloquear no site atual</string>
     <string name="item_block_page">Bloquear na página atual</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Reportar site</string>
     <string name="report_down">Forneça o endereço do site onde você não consegue baixar vídeo.</string>
     <string name="report_dark">Forneça o endereço do site que está tendo problemas com o tema escuro.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Pressione a tecla Home durante a reprodução do YouTube para alternar para o modo PIP.</string>
     <string name="youtube_unmute">Ativar o som do YouTube</string>
     <string name="youtube_speed">Salve a velocidade de reprodução do YouTube</string>
     <string name="youtube_tab">Abra o link do YouTube em uma nova guia</string>

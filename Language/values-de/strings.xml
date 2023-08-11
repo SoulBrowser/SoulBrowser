@@ -367,7 +367,7 @@
     <string name="link_reset_guide">Ein Reset löscht alle blockierten Links.</string>
     <string name="show_image">Bild anzeigen</string>
     <string name="block_images">Bilder blockieren</string>
-    <string name="block_a_image">Bild blockieren</string>
+    <string name="block_a_image">Bild blockieren (Werbung blockieren)</string>
     <string name="blocked_image">Blockierte Bilder</string>
     <string name="item_block_site">Auf aktueller Seite sperren</string>
     <string name="item_block_page">Auf aktueller Seite blockieren</string>
@@ -545,8 +545,6 @@
     <string name="report_site">Website melden</string>
     <string name="report_down">Bitte geben Sie die Adresse der Seite an, auf der das Video nicht heruntergeladen werden kann.</string>
     <string name="report_dark">Bitte geben Sie die Adresse der Seite an, auf der Probleme mit dem dunklen Thema auftreten.</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">Drücken Sie während der YouTube-Wiedergabe die Hometaste, um in den PIP-Modus zu wechseln.</string>
     <string name="youtube_unmute">Stummschaltung von YouTube aufheben</string>
     <string name="youtube_speed">Speichern Sie die YouTube-Wiedergabegeschwindigkeit</string>
     <string name="youtube_tab">YouTube-Link in neuem Tab öffnen</string>

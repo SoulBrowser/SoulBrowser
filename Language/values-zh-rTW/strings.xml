@@ -367,7 +367,7 @@
     <string name="link_reset_guide">重置將刪除所有被阻止的鏈接</string>
     <string name="show_image">顯示圖片</string>
     <string name="block_images">禁用圖片</string>
-    <string name="block_a_image">隱藏圖片</string>
+    <string name="block_a_image">阻止圖片（阻止廣告）</string>
     <string name="blocked_image">已隱藏的圖片</string>
     <string name="item_block_site">在當前站點上阻止</string>
     <string name="item_block_page">在當前頁面上阻止</string>
@@ -545,8 +545,6 @@
     <string name="report_site">回報網站</string>
     <string name="report_down">請提供您無法下載影片的網站網址</string>
     <string name="report_dark">請提供深色主題有問題的網站網址</string>
-    <string name="youtube_pip">YouTube 子母畫面</string>
-    <string name="youtube_pip_info">在 YouTube 播放期間按主頁鍵切換到子母畫面模式</string>
     <string name="youtube_unmute">取消靜音 YouTube</string>
     <string name="youtube_speed">保存 YouTube 播放速度</string>
     <string name="youtube_tab">在新標籤頁中打開 YouTube 鏈接</string>

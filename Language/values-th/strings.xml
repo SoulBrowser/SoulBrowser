@@ -367,7 +367,7 @@
     <string name="link_reset_guide">การรีเซ็ตจะลบลิงก์ที่ถูกบล็อกทั้งหมด</string>
     <string name="show_image">แสดงภาพ</string>
     <string name="block_images">บล็อกภาพ</string>
-    <string name="block_a_image">บล็อกรูปภาพ</string>
+    <string name="block_a_image">บล็อกรูปภาพ (บล็อกโฆษณา)</string>
     <string name="blocked_image">รูปภาพที่ถูกบล็อก</string>
     <string name="item_block_site">บล็อกบนเว็บไซต์ปัจจุบัน</string>
     <string name="item_block_page">บล็อกในหน้าปัจจุบัน</string>
@@ -545,8 +545,6 @@
     <string name="report_site">เว็บไซต์รายงาน</string>
     <string name="report_down">โปรดระบุที่อยู่ของเว็บไซต์ที่คุณไม่สามารถดาวน์โหลดวิดีโอได้</string>
     <string name="report_dark">โปรดระบุที่อยู่ของไซต์ที่มีปัญหากับธีมสีเข้ม</string>
-    <string name="youtube_pip">YouTube PIP</string>
-    <string name="youtube_pip_info">กดปุ่มโฮมระหว่างการเล่น YouTube เพื่อสลับไปที่โหมด PIP</string>
     <string name="youtube_unmute">เปิดเสียง YouTube</string>
     <string name="youtube_speed">บันทึกความเร็วในการเล่น YouTube</string>
     <string name="youtube_tab">เปิดลิงก์ YouTube ในแท็บใหม่</string>
