@@ -109,6 +109,14 @@
     <string name="prev_page">หน้าหลัง</string>
     <string name="next_page">หน้าถัดไป</string>
     <string name="tab_gesture">ท่าทางสัมผัสของแท็บ</string>
+    <string name="over_block">ตัวบล็อกซ้อนทับ</string>
+    <string name="over_white">รายการที่อนุญาตพิเศษซ้อนทับ</string>
+    <string name="over_block_guide_1">ลบองค์ประกอบที่ปรากฏเหนือหน้าจอของหน้าเว็บ</string>
+    <string name="over_block_guide_2">แม้ว่าจะโฆษณาเป็นหลัก แต่องค์ประกอบที่ไม่ใช่โฆษณาอาจถูกลบออกด้วย</string>
+    <string name="over_block_guide_3">มีการใช้งานเบามากเพื่อไม่ให้องค์ประกอบที่ไม่ใช่การโฆษณาถูกลบออก</string>
+    <string name="over_block_info">ตรวจสอบเฉพาะเมื่อหน้าเปลี่ยน</string>
+    <string name="check_once">ตรวจสอบครั้งเดียว</string>
+    <string name="check_keep">ตรวจสอบต่อไป</string>
     <string name="pop_block">ตัวบล็อกป๊อปอัป</string>
     <string name="pop_blocked">ป๊อปอัปถูกบล็อก</string>
     <string name="pop_block_info1">บล็อกป๊อปอัปทั้งหมด</string>
@@ -346,6 +354,7 @@
     <string name="update">อัพเดต</string>
     <string name="update_fail">การอัปเดตล้มเหลว</string>
     <string name="guide_ads_allow">คุณสามารถลงทะเบียนไซต์ที่ได้รับอนุญาตโฆษณา</string>
+    <string name="guide_over_allow">คุณสามารถลงทะเบียนไซต์ที่อนุญาตให้มีการซ้อนทับได้</string>
     <string name="guide_pop_allow">คุณสามารถลงทะเบียนไซต์ที่อนุญาตป๊อปอัป</string>
     <string name="now_delete">เลือกรายการที่จะลบ</string>
     <string name="exit_delete">เลือกรายการที่จะลบเมื่อปิดแอพ</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">ตัวอย่างโฆษณาในแอป</string>
     <string name="donate_1">กาแฟ</string>
     <string name="donate_2">กาแฟอร่อย</string>
-    <string name="donate_info">ขอบคุณที่ใช้ Soul Browser\nSoul Browser ได้รับการดูแลโดยการบริจาคของคุณ</string>
+    <string name="donate_info_1">โปรดช่วยให้ Soul Browser ฟรี</string>
+    <string name="donate_info_2">ขอขอบคุณที่ใช้ Soul Browser</string>
     <string name="paid">ซื้อแล้ว</string>
     <string name="already_paid">มันถูกซื้อแล้ว</string>
     <string name="pay_fail">เกิดข้อผิดพลาด.\nโปรดลองอีกครั้งในภายหลัง.</string>

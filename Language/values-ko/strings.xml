@@ -109,6 +109,14 @@
     <string name="prev_page">이전 페이지</string>
     <string name="next_page">다음 페이지</string>
     <string name="tab_gesture">탭 제스처</string>
+    <string name="over_block">오버레이 차단</string>
+    <string name="over_white">오버레이 허용 목록</string>
+    <string name="over_block_guide_1">웹페이지 화면 위에 나타나는 요소를 제거합니다.</string>
+    <string name="over_block_guide_2">주로 광고이지만 광고가 아닌 요소도 제거될 수 있습니다.</string>
+    <string name="over_block_guide_3">비광고 요소가 제거되지 않도록 매우 약한 수준으로 적용됩니다.</string>
+    <string name="over_block_info">페이지가 변경될 때만 체크합니다.</string>
+    <string name="check_once">한 번 체크</string>
+    <string name="check_keep">계속 체크</string>
     <string name="pop_block">팝업 차단</string>
     <string name="pop_blocked">팝업 차단됨</string>
     <string name="pop_block_info1">모든 팝업 차단</string>
@@ -346,6 +354,7 @@
     <string name="update">업데이트</string>
     <string name="update_fail">업데이트에 실패했습니다.</string>
     <string name="guide_ads_allow">광고가 허용되는 사이트를 등록할 수 있습니다.</string>
+    <string name="guide_over_allow">오버레이가 허용되는 사이트를 등록할 수 있습니다.</string>
     <string name="guide_pop_allow">팝업이 허용되는 사이트를 등록할 수 있습니다.</string>
     <string name="now_delete">삭제할 항목 선택</string>
     <string name="exit_delete">앱 종료 시, 삭제할 항목 선택</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">인앱 광고 샘플</string>
     <string name="donate_1">커피</string>
     <string name="donate_2">맛있는 커피</string>
-    <string name="donate_info">Soul Browser를 사용해 주셔서 감사합니다.\nSoul Browser는 여러분의 기부로 유지됩니다.</string>
+    <string name="donate_info_1">Soul Browser가 계속 무료일 수 있도록 도와주세요.</string>
+    <string name="donate_info_2">Soul Browser를 이용해 주셔서 감사합니다.</string>
     <string name="paid">구매함</string>
     <string name="already_paid">이미 구매했습니다.</string>
     <string name="pay_fail">오류가 발생했습니다.\n잠시 후 다시 시도해 주세요.</string>

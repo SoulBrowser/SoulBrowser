@@ -109,6 +109,14 @@
     <string name="prev_page">Önceki sayfa</string>
     <string name="next_page">Sonraki sayfa</string>
     <string name="tab_gesture">Sekme hareketi</string>
+    <string name="over_block">Bindirme engelleyici</string>
+    <string name="over_white">Bindirmeli Beyaz Liste</string>
+    <string name="over_block_guide_1">Bir web sayfasının ekranının üzerinde görünen öğeleri kaldırır.</string>
+    <string name="over_block_guide_2">Öncelikle reklam olmakla birlikte, reklam dışı unsurlar da kaldırılabilir.</string>
+    <string name="over_block_guide_3">Reklam dışı unsurların ortadan kalkmaması için çok hafif sürülür.</string>
+    <string name="over_block_info">Yalnızca sayfa değiştiğinde kontrol edin.</string>
+    <string name="check_once">Bir kez kontrol et</string>
+    <string name="check_keep">Kontrole Devam</string>
     <string name="pop_block">Popup engelleyicisi</string>
     <string name="pop_blocked">Popup engellendi</string>
     <string name="pop_block_info1">Tüm popup\'ları engelle</string>
@@ -346,6 +354,7 @@
     <string name="update">Güncelleme</string>
     <string name="update_fail">Güncelleme başarısız oldu.</string>
     <string name="guide_ads_allow">Reklamları izin verilen siteleri kaydedebilirsiniz.</string>
+    <string name="guide_over_allow">Bindirmelere izin verilen siteleri kaydedebilirsiniz.</string>
     <string name="guide_pop_allow">Popup\'lara izin verilen siteleri kaydedebilirsiniz.</string>
     <string name="now_delete">Silinecek öğeleri seçin</string>
     <string name="exit_delete">Uygulama kapandığında silinecek öğeleri seçin</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">Uygulama içi reklam örneği</string>
     <string name="donate_1">Kahve</string>
     <string name="donate_2">Lezzetli kahve</string>
-    <string name="donate_info">Soul Browser\'u kullandığınız için teşekkür ederiz.\nSoul Browser bağışınız ile korunur.</string>
+    <string name="donate_info_1">Lütfen Soul Browser\'ın ücretsiz kalmasına yardımcı olun.</string>
+    <string name="donate_info_2">Soul Browser\'ı kullandığınız için teşekkür ederiz.</string>
     <string name="paid">Satın alındı</string>
     <string name="already_paid">Zaten satın alındı.</string>
     <string name="pay_fail">Bir hata oluştu.\nLütfen daha sonra tekrar deneyin.</string>

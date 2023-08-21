@@ -109,6 +109,14 @@
     <string name="prev_page">Back page</string>
     <string name="next_page">Next page</string>
     <string name="tab_gesture">Tab gesture</string>
+    <string name="over_block">Overlay blocker</string>
+    <string name="over_white">Overlay Whitelist</string>
+    <string name="over_block_guide_1">Removes elements that appear above the screen of a web page.</string>
+    <string name="over_block_guide_2">Although primarily advertising, non-advertising elements may also be removed.</string>
+    <string name="over_block_guide_3">It is applied very lightly so that non-advertising elements are not removed.</string>
+    <string name="over_block_info">Check only when the page changes.</string>
+    <string name="check_once">Check once</string>
+    <string name="check_keep">Keep checking</string>
     <string name="pop_block">Popup blocker</string>
     <string name="pop_blocked">Popup blocked</string>
     <string name="pop_block_info1">Block all popups</string>
@@ -345,8 +353,9 @@
     <string name="filtered_image">Filtered image (%d)</string>
     <string name="update">Update</string>
     <string name="update_fail">Update failed.</string>
-    <string name="guide_ads_allow">You can register sites that are allowed Ad.</string>
-    <string name="guide_pop_allow">You can register sites that are allowed popup.</string>
+    <string name="guide_ads_allow">You can register sites where ads are allowed.</string>
+    <string name="guide_over_allow">You can register sites where overlays are allowed.</string>
+    <string name="guide_pop_allow">You can register sites where popups are allowed.</string>
     <string name="now_delete">Select items to delete</string>
     <string name="exit_delete">Select items to delete when app exits</string>
     <string name="exit_guide">When the app is closed, the selected item is deleted.</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">In-app ad sample</string>
     <string name="donate_1">Coffee</string>
     <string name="donate_2">Delicious coffee</string>
-    <string name="donate_info">Thank you for using Soul Browser.\nSoul Browser is maintained by your donation.</string>
+    <string name="donate_info_1">Please help keep Soul Browser free.</string>
+    <string name="donate_info_2">Thank you for using Soul Browser.</string>
     <string name="paid">Purchased</string>
     <string name="already_paid">It has already been purchased.</string>
     <string name="pay_fail">An error has occurred.\nPlease try again later.</string>

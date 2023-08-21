@@ -109,6 +109,14 @@
     <string name="prev_page">Pagina înapoi</string>
     <string name="next_page">Pagina următoare</string>
     <string name="tab_gesture">Gest tab</string>
+    <string name="over_block">Blocant de suprapunere</string>
+    <string name="over_white">Suprapunerea listei albe</string>
+    <string name="over_block_guide_1">Elimină elementele care apar deasupra ecranului unei pagini web.</string>
+    <string name="over_block_guide_2">Deși sunt în primul rând publicitate, elementele non-publicitare pot fi, de asemenea, eliminate.</string>
+    <string name="over_block_guide_3">Se aplica foarte usor pentru ca elementele non-reclame sa nu fie indepartate.</string>
+    <string name="over_block_info">Verificați numai când pagina se schimbă.</string>
+    <string name="check_once">Verifica o data</string>
+    <string name="check_keep">Verifica in continuare</string>
     <string name="pop_block">Blocator popup</string>
     <string name="pop_blocked">Popup blocat</string>
     <string name="pop_block_info1">Blocați toate ferestrele popup</string>
@@ -346,6 +354,7 @@
     <string name="update">Actualizați</string>
     <string name="update_fail">Actualizare eșuată.</string>
     <string name="guide_ads_allow">Puteți înregistra site-uri care au permis anunțul.</string>
+    <string name="guide_over_allow">Puteți înregistra site-uri unde sunt permise suprapunerile.</string>
     <string name="guide_pop_allow">Puteți înregistra site-uri care sunt autorizate.</string>
     <string name="now_delete">Selectați elementele de șters</string>
     <string name="exit_delete">Selectați elementele de șters când aplicația se închide</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">Exemplu de anunț în aplicație</string>
     <string name="donate_1">Cafea</string>
     <string name="donate_2">Cafea delicioasă</string>
-    <string name="donate_info">Vă mulțumim că ați folosit Soul Browser.\nSoul Browser este menținut prin donația dvs.</string>
+    <string name="donate_info_1">Vă rugăm să ajutați să păstrați Soul Browser gratuit.</string>
+    <string name="donate_info_2">Vă mulțumim că folosiți Soul Browser.</string>
     <string name="paid">Cumparat</string>
     <string name="already_paid">A fost deja cumpărat.</string>
     <string name="pay_fail">A avut loc o eroare.\nVă rugăm să încercați din nou mai târziu.</string>

@@ -109,6 +109,14 @@
     <string name="prev_page">前のページ</string>
     <string name="next_page">次のページ</string>
     <string name="tab_gesture">タブ ジェスチャー</string>
+    <string name="over_block">オーバーレイブレーカー</string>
+    <string name="over_white">オーバーレイホワイトリスト</string>
+    <string name="over_block_guide_1">Webページ画面の上に表示される要素を削除します。</string>
+    <string name="over_block_guide_2">主に広告ですが、広告ではない要素も削除される可能性があります。</string>
+    <string name="over_block_guide_3">非広告要素が削除されないように、非常に弱いレベルで適用されます。</string>
+    <string name="over_block_info">ページが変更されたときにのみチェックしてください。</string>
+    <string name="check_once">一度チェック</string>
+    <string name="check_keep">継続チェック</string>
     <string name="pop_block">Popupブロッカー</string>
     <string name="pop_blocked">ポップアップがブロックされました</string>
     <string name="pop_block_info1">すべてのポップアップをブロック</string>
@@ -346,6 +354,7 @@
     <string name="update">アップデート</string>
     <string name="update_fail">更新に失敗しました。</string>
     <string name="guide_ads_allow">広告が許可されているサイトを登録することができます。</string>
+    <string name="guide_over_allow">オーバーレイが許可されているサイトを登録できます。</string>
     <string name="guide_pop_allow">Popupが許可されているサイトを登録することができます。</string>
     <string name="now_delete">削除するアイテムを選択</string>
     <string name="exit_delete">アプリ終了時に削除する項目を選択</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">アプリ内広告のサンプル</string>
     <string name="donate_1">コーヒー</string>
     <string name="donate_2">おいしいコーヒー</string>
-    <string name="donate_info">Soul Browserを使っていただきありがとうございます。\nSoul Browserは、あなたの寄付で維持されます。</string>
+    <string name="donate_info_1">Soul Browserが引き続き無料であることを確認してください。</string>
+    <string name="donate_info_2">Soul Browserをご利用いただきありがとうございます。</string>
     <string name="paid">購入する</string>
     <string name="already_paid">それは既に購入しました。</string>
     <string name="pay_fail">エラーが発生しました。\n後でやり直してください。</string>

@@ -109,6 +109,14 @@
     <string name="prev_page">Halaman belakang</string>
     <string name="next_page">Halaman berikutnya</string>
     <string name="tab_gesture">Gerakan tab</string>
+    <string name="over_block">Pemblokir overlay</string>
+    <string name="over_white">Hamparan Daftar Putih</string>
+    <string name="over_block_guide_1">Menghapus elemen yang muncul di atas layar halaman web.</string>
+    <string name="over_block_guide_2">Meskipun terutama iklan, elemen non-iklan juga dapat dihapus.</string>
+    <string name="over_block_guide_3">Ini diterapkan dengan sangat ringan sehingga elemen non-iklan tidak dihilangkan.</string>
+    <string name="over_block_info">Periksa hanya ketika halaman berubah.</string>
+    <string name="check_once">Periksa sekali</string>
+    <string name="check_keep">Terus periksa</string>
     <string name="pop_block">Pemblokir popup</string>
     <string name="pop_blocked">Munculan diblokir</string>
     <string name="pop_block_info1">Blokir semua popup</string>
@@ -346,6 +354,7 @@
     <string name="update">Memperbarui</string>
     <string name="update_fail">Pembaruan gagal.</string>
     <string name="guide_ads_allow">Anda dapat mendaftarkan situs yang diizinkan Ad.</string>
+    <string name="guide_over_allow">Anda dapat mendaftarkan situs yang mengizinkan overlay.</string>
     <string name="guide_pop_allow">Anda dapat mendaftarkan situs yang diizinkan popup.</string>
     <string name="now_delete">Pilih item yang akan dihapus</string>
     <string name="exit_delete">Pilih item yang akan dihapus saat aplikasi berhenti</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">Contoh iklan dalam aplikasi</string>
     <string name="donate_1">Kopi</string>
     <string name="donate_2">Kopi yang enak</string>
-    <string name="donate_info">Terima kasih telah menggunakan Soul Browser.\nSoul Browser dikelola oleh donasi Anda.</string>
+    <string name="donate_info_1">Tolong bantu agar Soul Browser tetap gratis.</string>
+    <string name="donate_info_2">Terima kasih telah menggunakan Soul Browser.</string>
     <string name="paid">Membeli</string>
     <string name="already_paid">Sudah dibeli.</string>
     <string name="pay_fail">Sebuah kesalahan telah terjadi.\nSilakan coba lagi nanti.</string>

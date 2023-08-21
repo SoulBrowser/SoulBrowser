@@ -109,6 +109,14 @@
     <string name="prev_page">上一頁</string>
     <string name="next_page">下一頁</string>
     <string name="tab_gesture">分頁手勢</string>
+    <string name="over_block">覆蓋攔截器</string>
+    <string name="over_white">疊加白名單</string>
+    <string name="over_block_guide_1">刪除出現在網頁屏幕上方的元素</string>
+    <string name="over_block_guide_2">雖然主要是廣告，但也可以刪除非廣告元素</string>
+    <string name="over_block_guide_3">它的應用非常輕，因此不會刪除非廣告元素</string>
+    <string name="over_block_info">僅在頁面更改時檢查</string>
+    <string name="check_once">檢查一次</string>
+    <string name="check_keep">繼續檢查</string>
     <string name="pop_block">封鎖彈出式視窗</string>
     <string name="pop_blocked">已封鎖彈出式視窗</string>
     <string name="pop_block_info1">封鎖所有彈出式視窗</string>
@@ -346,6 +354,7 @@
     <string name="update">更新</string>
     <string name="update_fail">更新失敗</string>
     <string name="guide_ads_allow">您可以輸入允許廣告的例外網站</string>
+    <string name="guide_over_allow">您可以註冊允許疊加的站點</string>
     <string name="guide_pop_allow">您可以輸入允許彈出式視窗的例外網站</string>
     <string name="now_delete">選擇要刪除的項目</string>
     <string name="exit_delete">選擇應用退出時要刪除的項目</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">應用內廣告示例</string>
     <string name="donate_1">咖啡</string>
     <string name="donate_2">美味的咖啡</string>
-    <string name="donate_info">感謝您使用 Soul Browser\nSoul Browser 由您的捐贈維護</string>
+    <string name="donate_info_1">請幫助保持 Soul Browser 的免費</string>
+    <string name="donate_info_2">感謝您使用 Soul Browser</string>
     <string name="paid">已購買</string>
     <string name="already_paid">已購買</string>
     <string name="pay_fail">發生錯誤\n請稍後再試</string>

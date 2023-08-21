@@ -109,6 +109,14 @@
     <string name="prev_page">Pagina precedente</string>
     <string name="next_page">Pagina seguente</string>
     <string name="tab_gesture">Gesto schede</string>
+    <string name="over_block">Blocco della sovrapposizione</string>
+    <string name="over_white">Sovrapponi lista bianca</string>
+    <string name="over_block_guide_1">Rimuove gli elementi che appaiono sopra lo schermo di una pagina web.</string>
+    <string name="over_block_guide_2">Sebbene principalmente pubblicitari, possono essere rimossi anche elementi non pubblicitari.</string>
+    <string name="over_block_guide_3">Viene applicato in modo molto leggero in modo da non rimuovere elementi non pubblicitari.</string>
+    <string name="over_block_info">Controlla solo quando la pagina cambia.</string>
+    <string name="check_once">Controlla una volta</string>
+    <string name="check_keep">Continua a controllare</string>
     <string name="pop_block">Blocca popup</string>
     <string name="pop_blocked">Popup bloccato</string>
     <string name="pop_block_info1">Blocca tutti i popup</string>
@@ -346,6 +354,7 @@
     <string name="update">Aggiorna</string>
     <string name="update_fail">Aggiornamento fallito.</string>
     <string name="guide_ads_allow">È possibile salvare i siti che possono utilizzare gli annunci.</string>
+    <string name="guide_over_allow">È possibile registrare i siti in cui sono consentiti gli overlay.</string>
     <string name="guide_pop_allow">È possibile salvare i siti a cui sono consentiti i popup.</string>
     <string name="now_delete">Seleziona gli elementi da eliminare</string>
     <string name="exit_delete">Seleziona gli elementi da eliminare quando l\'app viene chiusa</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">Esempio di annuncio in-app</string>
     <string name="donate_1">Caffè</string>
     <string name="donate_2">Delizioso caffè</string>
-    <string name="donate_info">Grazie per aver utilizzato Soul Browser.\nSoul Browser è mantenuto dalla tua donazione.</string>
+    <string name="donate_info_1">Aiutaci a mantenere libero Soul Browser.</string>
+    <string name="donate_info_2">Grazie per aver utilizzato Soul Browser.</string>
     <string name="paid">Acquistato</string>
     <string name="already_paid">È già stato acquistato.</string>
     <string name="pay_fail">C\'è stato un errore.\nPer favore riprova più tardi.</string>

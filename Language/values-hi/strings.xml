@@ -109,6 +109,14 @@
     <string name="prev_page">पिछला पृष्ठ</string>
     <string name="next_page">अगला पृष्ठ</string>
     <string name="tab_gesture">टैब इशारा</string>
+    <string name="over_block">ओवरले अवरोधक</string>
+    <string name="over_white">ओवरले श्वेतसूची</string>
+    <string name="over_block_guide_1">वेब पेज की स्क्रीन के ऊपर दिखाई देने वाले तत्वों को हटा देता है।</string>
+    <string name="over_block_guide_2">हालाँकि मुख्य रूप से विज्ञापन, गैर-विज्ञापन तत्व भी हटाए जा सकते हैं।</string>
+    <string name="over_block_guide_3">इसे बहुत हल्के ढंग से लगाया जाता है ताकि गैर-विज्ञापन तत्व न हटें।</string>
+    <string name="over_block_info">पृष्ठ बदलने पर ही जांचें.</string>
+    <string name="check_once">एक बार जांचें</string>
+    <string name="check_keep">जाँच करते रहो</string>
     <string name="pop_block">पॉप अप ब्लॉकर</string>
     <string name="pop_blocked">पॉपअप अवरुद्ध</string>
     <string name="pop_block_info1">सभी पॉपअप ब्लॉक करें</string>
@@ -346,6 +354,7 @@
     <string name="update">अद्यतन</string>
     <string name="update_fail">अपडेट विफल हुआ।</string>
     <string name="guide_ads_allow">आप उन साइटों को पंजीकृत कर सकते हैं जिन्हें विज्ञापन की अनुमति है।</string>
+    <string name="guide_over_allow">आप उन साइटों को पंजीकृत कर सकते हैं जहां ओवरले की अनुमति है।</string>
     <string name="guide_pop_allow">आप उन साइटों को पंजीकृत कर सकते हैं जिन्हें पॉपअप की अनुमति है।</string>
     <string name="now_delete">हटाने के लिए आइटम चुनें</string>
     <string name="exit_delete">ऐप के बाहर निकलने पर हटाने के लिए आइटम चुनें</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">इन-ऐप विज्ञापन नमूना</string>
     <string name="donate_1">कॉफ़ी</string>
     <string name="donate_2">स्वादिष्ट कॉफ़ी</string>
-    <string name="donate_info">सोल ब्राउजर का उपयोग करने के लिए धन्यवाद।\nसोल ब्राउजर का रखरखाव आपके दान द्वारा किया जाता है।</string>
+    <string name="donate_info_1">कृपया सोल ब्राउज़र को मुक्त रखने में मदद करें।</string>
+    <string name="donate_info_2">सोल ब्राउज़र का उपयोग करने के लिए धन्यवाद.</string>
     <string name="paid">खरीदी</string>
     <string name="already_paid">इसे पहले ही खरीदा जा चुका है।</string>
     <string name="pay_fail">कोई त्रुटि उत्पन्न हुई।\nकृपया बाद में पुन: प्रयास करें।</string>

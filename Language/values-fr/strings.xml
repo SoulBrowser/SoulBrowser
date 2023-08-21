@@ -109,6 +109,14 @@
     <string name="prev_page">Page précédente</string>
     <string name="next_page">Page suivante</string>
     <string name="tab_gesture">Geste onglet</string>
+    <string name="over_block">Bloqueur de superposition</string>
+    <string name="over_white">Superposer la liste blanche</string>
+    <string name="over_block_guide_1">Supprime les éléments qui apparaissent au-dessus de l\'écran d\'une page Web.</string>
+    <string name="over_block_guide_2">Bien que principalement publicitaires, les éléments non publicitaires peuvent également être supprimés.</string>
+    <string name="over_block_guide_3">Il est appliqué très légèrement afin que les éléments non publicitaires ne soient pas supprimés.</string>
+    <string name="over_block_info">Vérifier uniquement lorsque la page change.</string>
+    <string name="check_once">Vérifier une fois</string>
+    <string name="check_keep">Continuer à vérifier</string>
     <string name="pop_block">Bloquer les popups</string>
     <string name="pop_blocked">Popup bloqué</string>
     <string name="pop_block_info1">Bloquer tous les pop-ups</string>
@@ -346,6 +354,7 @@
     <string name="update">Mise à jour</string>
     <string name="update_fail">Échec.</string>
     <string name="guide_ads_allow">Vous pouvez enregistrer des sites autorisés à afficher des annonces.</string>
+    <string name="guide_over_allow">Vous pouvez enregistrer des sites où les superpositions sont autorisées.</string>
     <string name="guide_pop_allow">Vous pouvez enregistrer des sites autorisés à ouvrir des fenêtres contextuelles.</string>
     <string name="now_delete">Sélectionnez les éléments à supprimer</string>
     <string name="exit_delete">Sélectionnez les éléments à supprimer lorsque l\'application se ferme</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">Exemple d\'annonce intégrée à l\'application</string>
     <string name="donate_1">Café</string>
     <string name="donate_2">Café délicieux</string>
-    <string name="donate_info">Merci d\'utiliser Soul Browser.\nSoul Browser est maintenu par votre don.</string>
+    <string name="donate_info_1">S\'il vous plaît, aidez à garder Soul Browser gratuit.</string>
+    <string name="donate_info_2">Merci d\'avoir utilisé Soul Browser.</string>
     <string name="paid">Acheté</string>
     <string name="already_paid">Déjà acheté.</string>
     <string name="pay_fail">Une erreur est survenue.\nVeuillez réessayer plus tard.</string>

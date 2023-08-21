@@ -109,6 +109,14 @@
     <string name="prev_page">Trang trước</string>
     <string name="next_page">Trang tiếp theo</string>
     <string name="tab_gesture">Cử chỉ tab</string>
+    <string name="over_block">Trình chặn lớp phủ</string>
+    <string name="over_white">Danh sách trắng lớp phủ</string>
+    <string name="over_block_guide_1">Xóa các thành phần xuất hiện phía trên màn hình của trang web.</string>
+    <string name="over_block_guide_2">Mặc dù chủ yếu là quảng cáo nhưng các yếu tố không phải quảng cáo cũng có thể bị xóa.</string>
+    <string name="over_block_guide_3">Nó được áp dụng rất nhẹ để các yếu tố phi quảng cáo không bị loại bỏ.</string>
+    <string name="over_block_info">Chỉ kiểm tra khi trang thay đổi.</string>
+    <string name="check_once">Kiểm tra một lần</string>
+    <string name="check_keep">Tiếp tục kiểm tra</string>
     <string name="pop_block">Chặn popup</string>
     <string name="pop_blocked">Bật lên bị chặn</string>
     <string name="pop_block_info1">Chặn tất cả cửa sổ bật lên</string>
@@ -346,6 +354,7 @@
     <string name="update">Cập nhật</string>
     <string name="update_fail">Cập nhật không thành công.</string>
     <string name="guide_ads_allow">Bạn có thể đăng ký các trang web được phép quảng cáo.</string>
+    <string name="guide_over_allow">Bạn có thể đăng ký các trang web cho phép lớp phủ.</string>
     <string name="guide_pop_allow">Bạn có thể đăng ký các trang web được phép popup.</string>
     <string name="now_delete">Chọn các mục để xóa</string>
     <string name="exit_delete">Chọn các mục để xóa khi ứng dụng thoát</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">Mẫu quảng cáo trong ứng dụng</string>
     <string name="donate_1">Cà phê</string>
     <string name="donate_2">Cà phê ngon</string>
-    <string name="donate_info">Cảm ơn bạn đã sử dụng Soul Browser.\nSoul Browser được duy trì bởi sự đóng góp của bạn.</string>
+    <string name="donate_info_1">Hãy giúp Soul Browser miễn phí.</string>
+    <string name="donate_info_2">Cảm ơn bạn đã sử dụng Soul Browser.</string>
     <string name="paid">Đã mua</string>
     <string name="already_paid">Nó đã được mua.</string>
     <string name="pay_fail">Một lỗi đã xảy ra.\nVui lòng thử lại sau.</string>

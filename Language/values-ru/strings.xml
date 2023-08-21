@@ -109,6 +109,14 @@
     <string name="prev_page">Пред. стр-ца</string>
     <string name="next_page">След. стр-ца</string>
     <string name="tab_gesture">Жест вкладки</string>
+    <string name="over_block">Блокировщик оверлеев</string>
+    <string name="over_white">Белый список оверлеев</string>
+    <string name="over_block_guide_1">Удаляет элементы, которые появляются над экраном веб-страницы.</string>
+    <string name="over_block_guide_2">Хотя в первую очередь это реклама, нерекламные элементы также могут быть удалены.</string>
+    <string name="over_block_guide_3">Наносится очень легким слоем, чтобы не удалить нерекламные элементы.</string>
+    <string name="over_block_info">Проверяйте только при изменении страницы.</string>
+    <string name="check_once">Проверить один раз</string>
+    <string name="check_keep">Продолжай проверять</string>
     <string name="pop_block">Блокировщик всплывающих окон</string>
     <string name="pop_blocked">Всплывающее окно заблокировано</string>
     <string name="pop_block_info1">Блокировать все всплывающие окна</string>
@@ -346,6 +354,7 @@
     <string name="update">Обновить</string>
     <string name="update_fail">Не удалось выполнить обновление.</string>
     <string name="guide_ads_allow">Можно зарегистрировать сайты, на которых разрешена реклама.</string>
+    <string name="guide_over_allow">Вы можете зарегистрировать сайты, на которых разрешены оверлеи.</string>
     <string name="guide_pop_allow">Можно зарегистрировать сайты, на которых разрешены всплывающие окна.</string>
     <string name="now_delete">Выбрать элементы и удалить их прямо сейчас</string>
     <string name="exit_delete">Выберите элементы для удаления при выходе из приложения</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">Образец рекламы в приложении</string>
     <string name="donate_1">Кофе</string>
     <string name="donate_2">Вкусный кофе</string>
-    <string name="donate_info">Спасибо за использование Soul Browser.\nSoul Browser поддерживается за счет вашего пожертвования.</string>
+    <string name="donate_info_1">Пожалуйста, помогите сохранить Soul Browser бесплатным.</string>
+    <string name="donate_info_2">Благодарим вас за использование Soul Browser.</string>
     <string name="paid">Куплено</string>
     <string name="already_paid">Он уже куплен.</string>
     <string name="pay_fail">Произошла ошибка.\nПожалуйста, попробуйте позже.</string>

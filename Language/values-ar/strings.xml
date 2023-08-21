@@ -109,6 +109,14 @@
     <string name="prev_page">الصفحة الخلفية</string>
     <string name="next_page">الصفحة التالية</string>
     <string name="tab_gesture">اضغط على إيماءة</string>
+    <string name="over_block">مانع التراكب</string>
+    <string name="over_white">تراكب القائمة البيضاء</string>
+    <string name="over_block_guide_1">يزيل العناصر التي تظهر فوق شاشة صفحة الويب.</string>
+    <string name="over_block_guide_2">على الرغم من الإعلانات بشكل أساسي ، يمكن أيضًا إزالة العناصر غير الإعلانية.</string>
+    <string name="over_block_guide_3">يتم تطبيقه بشكل خفيف للغاية بحيث لا تتم إزالة العناصر غير الإعلانية.</string>
+    <string name="over_block_info">تحقق فقط عندما تتغير الصفحة.</string>
+    <string name="check_once">تحقق مرة واحدة</string>
+    <string name="check_keep">الحفاظ على التحقق</string>
     <string name="pop_block">مانع النوافذ المنبثقة</string>
     <string name="pop_blocked">منعت المنبثقة</string>
     <string name="pop_block_info1">حظر جميع النوافذ المنبثقة</string>
@@ -346,6 +354,7 @@
     <string name="update">تحديث</string>
     <string name="update_fail">فشل التحديث.</string>
     <string name="guide_ads_allow">يمكنك تسجيل المواقع التي يُسمح فيها بالإعلان.</string>
+    <string name="guide_over_allow">يمكنك تسجيل المواقع التي يسمح فيها بالتراكبات.</string>
     <string name="guide_pop_allow">يمكنك تسجيل موقع يسمح بالنوافذ المنبثقة.</string>
     <string name="now_delete">حدد العناصر المراد حذفها</string>
     <string name="exit_delete">حدد العناصر المطلوب حذفها عند إنهاء التطبيق</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">نموذج إعلان داخل التطبيق</string>
     <string name="donate_1">قهوة</string>
     <string name="donate_2">قهوة لذيذة</string>
-    <string name="donate_info">شكرًا لك على استخدام متصفح Soul.\nيتم الحفاظ على متصفح Soul من خلال تبرعك.</string>
+    <string name="donate_info_1">الرجاء المساعدة في الحفاظ على متصفح Soul Browser مجانيًا.</string>
+    <string name="donate_info_2">شكرًا لك على استخدام Soul Browser.</string>
     <string name="paid">تم شراؤها</string>
     <string name="already_paid">لقد اشتريته بالفعل.</string>
     <string name="pay_fail">حدث خطأ.\nيرجى المحاولة مرة أخرى في بضع دقائق.</string>

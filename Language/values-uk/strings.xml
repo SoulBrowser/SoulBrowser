@@ -109,6 +109,14 @@
     <string name="prev_page">Попередня сторінка</string>
     <string name="next_page">Наступна сторінка</string>
     <string name="tab_gesture">Вкладка жестом</string>
+    <string name="over_block">Блокувальник накладень</string>
+    <string name="over_white">Білий список накладання</string>
+    <string name="over_block_guide_1">Видаляє елементи, які з’являються над екраном веб-сторінки.</string>
+    <string name="over_block_guide_2">Хоча в основному це реклама, нерекламні елементи також можуть бути видалені.</string>
+    <string name="over_block_guide_3">Наноситься дуже легко, щоб не прибрати нерекламні елементи.</string>
+    <string name="over_block_info">Перевіряти лише при зміні сторінки.</string>
+    <string name="check_once">Перевірте один раз</string>
+    <string name="check_keep">Продовжуйте перевіряти</string>
     <string name="pop_block">Блокатор спливаючих вікон</string>
     <string name="pop_blocked">Спливаюче вікно заблоковано</string>
     <string name="pop_block_info1">Блокувати всі спливаючі вікна</string>
@@ -346,6 +354,7 @@
     <string name="update">Оновлення</string>
     <string name="update_fail">Помилка оновлення.</string>
     <string name="guide_ads_allow">Ви можете реєструвати сайти, на яких дозволено рекламу.</string>
+    <string name="guide_over_allow">Ви можете зареєструвати сайти, на яких дозволені оверлеї.</string>
     <string name="guide_pop_allow">Ви можете реєструвати сайти, на яких дозволені спливаючі вікна.</string>
     <string name="now_delete">Виберіть елементи для видалення</string>
     <string name="exit_delete">Виберіть елементи для видалення, коли програма закривається</string>
@@ -764,7 +773,8 @@
     <string name="inapp_ads_sample">Зразок реклами в додатку</string>
     <string name="donate_1">Кава</string>
     <string name="donate_2">Смачна кава</string>
-    <string name="donate_info">Дякуємо за користування браузером Soul.\nБраузер Soul підтримується вашими пожертвами.</string>
+    <string name="donate_info_1">Будь ласка, допоможіть зробити Soul Browser безкоштовним.</string>
+    <string name="donate_info_2">Дякуємо за використання Soul Browser.</string>
     <string name="paid">Придбано</string>
     <string name="already_paid">Його вже придбали.</string>
     <string name="pay_fail">Сталася помилка.\nБудь ласка спробуйте пізніше.</string>
