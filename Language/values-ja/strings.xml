@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">アプリ内広告のサンプル</string>
     <string name="donate_1">コーヒー</string>
     <string name="donate_2">おいしいコーヒー</string>
-    <string name="donate_info_1">Soul Browserが引き続き無料であることを確認してください。</string>
-    <string name="donate_info_2">Soul Browserをご利用いただきありがとうございます。</string>
+    <string name="donate_info_1">Soul Browserをご利用いただきありがとうございます。</string>
+    <string name="donate_info_2">Soul Browserは、あなたの寄付で維持されます。</string>
     <string name="paid">購入する</string>
     <string name="already_paid">それは既に購入しました。</string>
     <string name="pay_fail">エラーが発生しました。\n後でやり直してください。</string>

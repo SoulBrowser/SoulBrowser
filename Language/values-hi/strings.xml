@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">इन-ऐप विज्ञापन नमूना</string>
     <string name="donate_1">कॉफ़ी</string>
     <string name="donate_2">स्वादिष्ट कॉफ़ी</string>
-    <string name="donate_info_1">कृपया सोल ब्राउज़र को मुक्त रखने में मदद करें।</string>
-    <string name="donate_info_2">सोल ब्राउज़र का उपयोग करने के लिए धन्यवाद.</string>
+    <string name="donate_info_1">सोल ब्राउज़र का उपयोग करने के लिए धन्यवाद.</string>
+    <string name="donate_info_2">सोल ब्राउजर का रखरखाव आपके दान द्वारा किया जाता है।</string>
     <string name="paid">खरीदी</string>
     <string name="already_paid">इसे पहले ही खरीदा जा चुका है।</string>
     <string name="pay_fail">कोई त्रुटि उत्पन्न हुई।\nकृपया बाद में पुन: प्रयास करें।</string>

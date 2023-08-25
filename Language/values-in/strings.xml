@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">Contoh iklan dalam aplikasi</string>
     <string name="donate_1">Kopi</string>
     <string name="donate_2">Kopi yang enak</string>
-    <string name="donate_info_1">Tolong bantu agar Soul Browser tetap gratis.</string>
-    <string name="donate_info_2">Terima kasih telah menggunakan Soul Browser.</string>
+    <string name="donate_info_1">Terima kasih telah menggunakan Soul Browser.</string>
+    <string name="donate_info_2">Soul Browser dikelola oleh donasi Anda.</string>
     <string name="paid">Membeli</string>
     <string name="already_paid">Sudah dibeli.</string>
     <string name="pay_fail">Sebuah kesalahan telah terjadi.\nSilakan coba lagi nanti.</string>

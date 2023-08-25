@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">Przykład reklamy w aplikacji</string>
     <string name="donate_1">Kawa</string>
     <string name="donate_2">Pyszna kawa</string>
-    <string name="donate_info_1">Pomóż zachować darmową przeglądarkę Soul Browser.</string>
-    <string name="donate_info_2">Dziękujemy za korzystanie z przeglądarki Soul Browser.</string>
+    <string name="donate_info_1">Dziękujemy za korzystanie z przeglądarki Soul Browser.</string>
+    <string name="donate_info_2">Soul Browser jest utrzymywana z Twojej darowizny.</string>
     <string name="paid">Zakupione</string>
     <string name="already_paid">Został już zakupiony.</string>
     <string name="pay_fail">Wystąpił błąd.\nSpróbuj ponownie później.</string>

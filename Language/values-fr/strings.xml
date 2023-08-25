@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">Exemple d\'annonce intégrée à l\'application</string>
     <string name="donate_1">Café</string>
     <string name="donate_2">Café délicieux</string>
-    <string name="donate_info_1">S\'il vous plaît, aidez à garder Soul Browser gratuit.</string>
-    <string name="donate_info_2">Merci d\'avoir utilisé Soul Browser.</string>
+    <string name="donate_info_1">Merci d\'avoir utilisé Soul Browser.</string>
+    <string name="donate_info_2">Soul Browser est maintenu par votre don.</string>
     <string name="paid">Acheté</string>
     <string name="already_paid">Déjà acheté.</string>
     <string name="pay_fail">Une erreur est survenue.\nVeuillez réessayer plus tard.</string>

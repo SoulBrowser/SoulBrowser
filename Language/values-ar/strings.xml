@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">نموذج إعلان داخل التطبيق</string>
     <string name="donate_1">قهوة</string>
     <string name="donate_2">قهوة لذيذة</string>
-    <string name="donate_info_1">الرجاء المساعدة في الحفاظ على متصفح Soul Browser مجانيًا.</string>
-    <string name="donate_info_2">شكرًا لك على استخدام Soul Browser.</string>
+    <string name="donate_info_1">شكرًا لك على استخدام Soul Browser.</string>
+    <string name="donate_info_2">يتم الحفاظ على Soul Browser من خلال تبرعاتك.</string>
     <string name="paid">تم شراؤها</string>
     <string name="already_paid">لقد اشتريته بالفعل.</string>
     <string name="pay_fail">حدث خطأ.\nيرجى المحاولة مرة أخرى في بضع دقائق.</string>

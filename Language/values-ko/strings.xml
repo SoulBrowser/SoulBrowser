@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">인앱 광고 샘플</string>
     <string name="donate_1">커피</string>
     <string name="donate_2">맛있는 커피</string>
-    <string name="donate_info_1">Soul Browser가 계속 무료일 수 있도록 도와주세요.</string>
-    <string name="donate_info_2">Soul Browser를 이용해 주셔서 감사합니다.</string>
+    <string name="donate_info_1">Soul Browser를 이용해 주셔서 감사합니다.</string>
+    <string name="donate_info_2">Soul Browser는 여러분의 기부로 유지됩니다.</string>
     <string name="paid">구매함</string>
     <string name="already_paid">이미 구매했습니다.</string>
     <string name="pay_fail">오류가 발생했습니다.\n잠시 후 다시 시도해 주세요.</string>

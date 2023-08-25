@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">Uygulama içi reklam örneği</string>
     <string name="donate_1">Kahve</string>
     <string name="donate_2">Lezzetli kahve</string>
-    <string name="donate_info_1">Lütfen Soul Browser\'ın ücretsiz kalmasına yardımcı olun.</string>
-    <string name="donate_info_2">Soul Browser\'ı kullandığınız için teşekkür ederiz.</string>
+    <string name="donate_info_1">Soul Browser\'ı kullandığınız için teşekkür ederiz.</string>
+    <string name="donate_info_2">Soul Browser bağışınız ile korunur.</string>
     <string name="paid">Satın alındı</string>
     <string name="already_paid">Zaten satın alındı.</string>
     <string name="pay_fail">Bir hata oluştu.\nLütfen daha sonra tekrar deneyin.</string>

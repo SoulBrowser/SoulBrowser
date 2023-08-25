@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">Зразок реклами в додатку</string>
     <string name="donate_1">Кава</string>
     <string name="donate_2">Смачна кава</string>
-    <string name="donate_info_1">Будь ласка, допоможіть зробити Soul Browser безкоштовним.</string>
-    <string name="donate_info_2">Дякуємо за використання Soul Browser.</string>
+    <string name="donate_info_1">Дякуємо за використання Soul Browser.</string>
+    <string name="donate_info_2">Soul Browser підтримується вашими пожертвами.</string>
     <string name="paid">Придбано</string>
     <string name="already_paid">Його вже придбали.</string>
     <string name="pay_fail">Сталася помилка.\nБудь ласка спробуйте пізніше.</string>

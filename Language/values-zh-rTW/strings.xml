@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">應用內廣告示例</string>
     <string name="donate_1">咖啡</string>
     <string name="donate_2">美味的咖啡</string>
-    <string name="donate_info_1">請幫助保持 Soul Browser 的免費</string>
-    <string name="donate_info_2">感謝您使用 Soul Browser</string>
+    <string name="donate_info_1">感謝您使用 Soul Browser</string>
+    <string name="donate_info_2">Soul Browser 由您的捐贈維護</string>
     <string name="paid">已購買</string>
     <string name="already_paid">已購買</string>
     <string name="pay_fail">發生錯誤\n請稍後再試</string>

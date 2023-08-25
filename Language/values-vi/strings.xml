@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">Mẫu quảng cáo trong ứng dụng</string>
     <string name="donate_1">Cà phê</string>
     <string name="donate_2">Cà phê ngon</string>
-    <string name="donate_info_1">Hãy giúp Soul Browser miễn phí.</string>
-    <string name="donate_info_2">Cảm ơn bạn đã sử dụng Soul Browser.</string>
+    <string name="donate_info_1">Cảm ơn bạn đã sử dụng Soul Browser.</string>
+    <string name="donate_info_2">Soul Browser được duy trì bởi sự đóng góp của bạn.</string>
     <string name="paid">Đã mua</string>
     <string name="already_paid">Nó đã được mua.</string>
     <string name="pay_fail">Một lỗi đã xảy ra.\nVui lòng thử lại sau.</string>

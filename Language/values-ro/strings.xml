@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">Exemplu de anunț în aplicație</string>
     <string name="donate_1">Cafea</string>
     <string name="donate_2">Cafea delicioasă</string>
-    <string name="donate_info_1">Vă rugăm să ajutați să păstrați Soul Browser gratuit.</string>
-    <string name="donate_info_2">Vă mulțumim că folosiți Soul Browser.</string>
+    <string name="donate_info_1">Vă mulțumim că folosiți Soul Browser.</string>
+    <string name="donate_info_2">Soul Browser este menținut prin donația dvs.</string>
     <string name="paid">Cumparat</string>
     <string name="already_paid">A fost deja cumpărat.</string>
     <string name="pay_fail">A avut loc o eroare.\nVă rugăm să încercați din nou mai târziu.</string>

@@ -773,8 +773,8 @@
     <string name="inapp_ads_sample">Образец рекламы в приложении</string>
     <string name="donate_1">Кофе</string>
     <string name="donate_2">Вкусный кофе</string>
-    <string name="donate_info_1">Пожалуйста, помогите сохранить Soul Browser бесплатным.</string>
-    <string name="donate_info_2">Благодарим вас за использование Soul Browser.</string>
+    <string name="donate_info_1">Благодарим вас за использование Soul Browser.</string>
+    <string name="donate_info_2">Soul Browser поддерживается за счет вашего пожертвования.</string>
     <string name="paid">Куплено</string>
     <string name="already_paid">Он уже куплен.</string>
     <string name="pay_fail">Произошла ошибка.\nПожалуйста, попробуйте позже.</string>
