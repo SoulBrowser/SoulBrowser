@@ -824,6 +824,8 @@
     <string name="level_weak">弱化</string>
     <string name="open_limit">開啟限制</string>
     <string name="open_limit_info">當超過限制時，第一項將被自動刪除</string>
+    <string name="mem_limit">記憶體限制</string>
+    <string name="mem_limit_info">當超過限制時，舊的、不活動的選項卡的記憶體將自動釋放。</string>
     <string name="down_manager">下載管理器</string>
     <string name="down_manager_info1">您可以將自己喜歡的下載應用程式用作下載管理器</string>
     <string name="down_manager_info3">通過分離瀏覽器和下載，您可以更快地上網</string>

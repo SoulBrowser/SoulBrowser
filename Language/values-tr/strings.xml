@@ -824,6 +824,8 @@
     <string name="level_weak">Zayıf</string>
     <string name="open_limit">Açık sekme sınırı</string>
     <string name="open_limit_info">Sınır aşıldığında, ilk öğe otomatik olarak silinir.</string>
+    <string name="mem_limit">Hafıza sınırı</string>
+    <string name="mem_limit_info">Sınır aşıldığında eski, etkin olmayan sekmelerin belleği otomatik olarak serbest bırakılır.</string>
     <string name="down_manager">İndirme yöneticisi</string>
     <string name="down_manager_info1">En sevdiğiniz indirme uygulamasını bir indirme yöneticisi olarak kullanabilirsiniz.</string>
     <string name="down_manager_info3">Tarayıcınızı ve indirilenleri ayırarak web\'de daha hızlı gezinebilirsiniz.</string>

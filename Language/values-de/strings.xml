@@ -824,6 +824,8 @@
     <string name="level_weak">Schwach</string>
     <string name="open_limit">Offenes Limit</string>
     <string name="open_limit_info">Wenn das Limit überschritten wird, wird das erste Element automatisch gelöscht.</string>
+    <string name="mem_limit">Speicherlimit</string>
+    <string name="mem_limit_info">Bei Überschreitung des Limits wird der Speicher älterer, inaktiver Tabs automatisch freigegeben.</string>
     <string name="down_manager">Download-Manager</string>
     <string name="down_manager_info1">Sie können Ihre bevorzugte Downloader-App als Download-Manager verwenden.</string>
     <string name="down_manager_info3">Sie können schneller im Internet surfen, indem Sie Ihren Browser von Downloads trennen.</string>

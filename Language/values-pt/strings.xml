@@ -824,6 +824,8 @@
     <string name="level_weak">Fraco</string>
     <string name="open_limit">Limite de abertura</string>
     <string name="open_limit_info">Quando o limite é excedido, o primeiro item é excluído automaticamente.</string>
+    <string name="mem_limit">Limite de memória</string>
+    <string name="mem_limit_info">Quando o limite é excedido, a memória das guias mais antigas e inativas é liberada automaticamente.</string>
     <string name="down_manager">Gerenciador de download</string>
     <string name="down_manager_info1">Você pode usar seu aplicativo de download favorito como gerenciador de download.</string>
     <string name="down_manager_info3">Você pode navegar na web mais rápido separando o navegador e os downloads.</string>

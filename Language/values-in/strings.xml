@@ -824,6 +824,8 @@
     <string name="level_weak">Lemah</string>
     <string name="open_limit">Batas terbuka</string>
     <string name="open_limit_info">Ketika batas terlampaui, item pertama secara otomatis dihapus.</string>
+    <string name="mem_limit">Batas memori</string>
+    <string name="mem_limit_info">Ketika batas terlampaui, memori tab lama yang tidak aktif akan dilepaskan secara otomatis.</string>
     <string name="down_manager">Manajer unduhan</string>
     <string name="down_manager_info1">Anda dapat menggunakan aplikasi pengunduh favorit Anda sebagai pengelola unduhan.</string>
     <string name="down_manager_info3">Anda dapat menjelajahi web lebih cepat dengan memisahkan browser dan unduhan Anda.</string>

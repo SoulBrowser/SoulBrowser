@@ -824,6 +824,8 @@
     <string name="level_weak">弱</string>
     <string name="open_limit">标签限量</string>
     <string name="open_limit_info">当超过限制时，第一项将被自动删除</string>
+    <string name="mem_limit">内存限制</string>
+    <string name="mem_limit_info">当超过限制时，旧的、不活动的选项卡的内存将自动释放。</string>
     <string name="down_manager">下载管理器</string>
     <string name="down_manager_info1">您可以将自己喜欢的下载器应用程序用作下载管理器</string>
     <string name="down_manager_info3">将下载任务托管给下载器能获得更快的速度</string>

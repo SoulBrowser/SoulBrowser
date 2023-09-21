@@ -824,6 +824,8 @@
     <string name="level_weak">कमज़ोर</string>
     <string name="open_limit">खुली सीमा</string>
     <string name="open_limit_info">जब सीमा पार हो जाती है, तो पहला आइटम स्वचालित रूप से हटा दिया जाता है।</string>
+    <string name="mem_limit">स्मृति सीमा</string>
+    <string name="mem_limit_info">जब सीमा पार हो जाती है, तो पुराने, निष्क्रिय टैब की मेमोरी स्वचालित रूप से रिलीज़ हो जाती है।</string>
     <string name="down_manager">अधःभारण प्रबंधक</string>
     <string name="down_manager_info1">आप अपने पसंदीदा डाउनलोडर ऐप को डाउनलोड मैनेजर के रूप में उपयोग कर सकते हैं।</string>
     <string name="down_manager_info3">आप अपने ब्राउज़र और डाउनलोड को अलग करके वेब पर तेजी से सर्फ कर सकते हैं।</string>

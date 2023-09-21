@@ -824,6 +824,8 @@
     <string name="level_weak">Słaby</string>
     <string name="open_limit">Otwarty limit</string>
     <string name="open_limit_info">Po przekroczeniu limitu pierwsza pozycja jest automatycznie usuwana.</string>
+    <string name="mem_limit">Pamięci limit</string>
+    <string name="mem_limit_info">Po przekroczeniu limitu pamięć starszych, nieaktywnych kart jest automatycznie zwalniana.</string>
     <string name="down_manager">Menadżer pobierania</string>
     <string name="down_manager_info1">Możesz używać swojej ulubionej aplikacji do pobierania jako menedżera pobierania.</string>
     <string name="down_manager_info3">Możesz szybciej surfować po Internecie, oddzielając przeglądarkę od pobierania.</string>

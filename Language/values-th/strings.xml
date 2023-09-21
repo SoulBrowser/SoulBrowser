@@ -824,6 +824,8 @@
     <string name="level_weak">อ่อนแอ</string>
     <string name="open_limit">เปิดขีด ​​จำกัด</string>
     <string name="open_limit_info">เมื่อเกินขีด จำกัด รายการแรกจะถูกลบโดยอัตโนมัติ</string>
+    <string name="mem_limit">ขีดจำกัดหน่วยความจำ</string>
+    <string name="mem_limit_info">เมื่อเกินขีดจำกัด หน่วยความจำของแท็บเก่าๆ ที่ไม่ได้ใช้งานจะถูกปล่อยออกมาโดยอัตโนมัติ</string>
     <string name="down_manager">ตัวจัดการการดาวน์โหลด</string>
     <string name="down_manager_info1">คุณสามารถใช้แอพดาวน์โหลดที่คุณชื่นชอบเป็นตัวจัดการการดาวน์โหลด</string>
     <string name="down_manager_info3">คุณสามารถท่องเว็บได้เร็วขึ้นโดยแยกเบราว์เซอร์และการดาวน์โหลด</string>

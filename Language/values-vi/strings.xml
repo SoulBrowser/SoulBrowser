@@ -824,6 +824,8 @@
     <string name="level_weak">Yếu</string>
     <string name="open_limit">Mở giới hạn</string>
     <string name="open_limit_info">Khi vượt quá giới hạn, mục đầu tiên sẽ tự động bị xóa.</string>
+    <string name="mem_limit">Giới hạn bộ nhớ</string>
+    <string name="mem_limit_info">Khi vượt quá giới hạn, bộ nhớ của các tab cũ hơn, không hoạt động sẽ tự động được giải phóng.</string>
     <string name="down_manager">Quản lý tải xuống</string>
     <string name="down_manager_info1">Bạn có thể sử dụng ứng dụng trình tải xuống yêu thích của mình làm trình quản lý tải xuống.</string>
     <string name="down_manager_info3">Bạn có thể lướt web nhanh hơn bằng cách tách trình duyệt và tải xuống.</string>

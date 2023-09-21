@@ -824,6 +824,8 @@
     <string name="level_weak">Slab</string>
     <string name="open_limit">Limita de deschidere</string>
     <string name="open_limit_info">Când limita este depășită, primul element este șters automat.</string>
+    <string name="mem_limit">Limita de memorie</string>
+    <string name="mem_limit_info">Când limita este depășită, memoria filelor mai vechi, inactive, este eliberată automat.</string>
     <string name="down_manager">Administrator de descărcări</string>
     <string name="down_manager_info1">Puteți utiliza aplicația dvs. preferată de descărcare ca manager de descărcare.</string>
     <string name="down_manager_info3">Puteți naviga pe web mai repede separând browserul și descărcările.</string>

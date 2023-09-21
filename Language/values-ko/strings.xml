@@ -824,6 +824,8 @@
     <string name="level_weak">약한</string>
     <string name="open_limit">열기 제한</string>
     <string name="open_limit_info">한도를 초과하면 첫 번째 항목이 자동으로 삭제됩니다.</string>
+    <string name="mem_limit">메모리 제한</string>
+    <string name="mem_limit_info">한도를 초과하면 오래된 비활성 탭의 메모리가 자동으로 해제됩니다.</string>
     <string name="down_manager">다운로드 매니저</string>
     <string name="down_manager_info1">선호하는 다운로더 앱을 다운로드 매니저로 사용하실 수 있습니다.</string>
     <string name="down_manager_info3">브라우저와 다운로드를 분리하여 웹 서핑을 더 빠르게 할 수 있습니다.</string>

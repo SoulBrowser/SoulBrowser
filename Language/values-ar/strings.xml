@@ -823,7 +823,9 @@
     <string name="level_strong">قوي</string>
     <string name="level_weak">ضعيف</string>
     <string name="open_limit">فتح حد</string>
-    <string name="open_limit_info">عند تجاوز الحد ، يتم حذف العنصر الأول تلقائيًا.</string>
+    <string name="open_limit_info">عند تجاوز الحد، يتم حذف العنصر الأول تلقائيًا.</string>
+    <string name="mem_limit">حد الذاكرة</string>
+    <string name="mem_limit_info">عند تجاوز الحد، يتم تحرير ذاكرة علامات التبويب القديمة وغير النشطة تلقائيًا.</string>
     <string name="down_manager">مدير التحميل</string>
     <string name="down_manager_info1">يمكنك استخدام تطبيق التنزيل المفضل لديك كمدير تنزيل.</string>
     <string name="down_manager_info3">يمكنك تصفح الويب بشكل أسرع من خلال فصل المتصفح عن التنزيلات.</string>

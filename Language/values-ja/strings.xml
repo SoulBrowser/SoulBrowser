@@ -824,6 +824,8 @@
     <string name="level_weak">弱い</string>
     <string name="open_limit">オープン制限</string>
     <string name="open_limit_info">制限を超えると、最初の項目が自動的に削除されます。</string>
+    <string name="mem_limit">メモリ制限</string>
+    <string name="mem_limit_info">制限を超えると、古い非アクティブなタブのメモリが自動的に解放されます。</string>
     <string name="down_manager">ダウンロードマネージャー</string>
     <string name="down_manager_info1">好ましいダウンローダアプリをダウンロードマネージャとして使用することができます。</string>
     <string name="down_manager_info3">ブラウザとダウンロードを分離して、Webサーフィンをより速くすることができます。</string>

@@ -824,6 +824,8 @@
     <string name="level_weak">Faible</string>
     <string name="open_limit">Limite ouverte</string>
     <string name="open_limit_info">Lorsque la limite est dépassée, le premier élément est automatiquement supprimé.</string>
+    <string name="mem_limit">Limite de mémoire</string>
+    <string name="mem_limit_info">Lorsque la limite est dépassée, la mémoire des onglets plus anciens et inactifs est automatiquement libérée.</string>
     <string name="down_manager">Gestionnaire de téléchargements</string>
     <string name="down_manager_info1">Vous pouvez utiliser votre application de téléchargement préférée comme gestionnaire de téléchargements.</string>
     <string name="down_manager_info3">Vous pouvez surfer plus rapidement sur le Web en séparant votre navigateur et vos téléchargements.</string>

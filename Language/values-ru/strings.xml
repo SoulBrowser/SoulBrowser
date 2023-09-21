@@ -824,6 +824,8 @@
     <string name="level_weak">Слабый</string>
     <string name="open_limit">Лимит открытых вкладок</string>
     <string name="open_limit_info">При превышении лимита первый элемент автоматически удаляется.</string>
+    <string name="mem_limit">Предел памяти</string>
+    <string name="mem_limit_info">При превышении лимита память старых неактивных вкладок автоматически освобождается.</string>
     <string name="down_manager">Менеджер загрузки</string>
     <string name="down_manager_info1">Можно использовать свой менеджер загрузок.</string>
     <string name="down_manager_info3">Просмотр веб-страниц быстро: браузер + отдельный менеджер загрузок.</string>

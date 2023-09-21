@@ -824,6 +824,8 @@
     <string name="level_weak">Слабкий</string>
     <string name="open_limit">Відкритий ліміт</string>
     <string name="open_limit_info">Коли ліміт перевищений, перший елемент автоматично видаляється.</string>
+    <string name="mem_limit">Обмеження пам\'яті</string>
+    <string name="mem_limit_info">Коли ліміт перевищено, пам\'ять старих неактивних вкладок автоматично звільняється.</string>
     <string name="down_manager">Менеджер завантажень</string>
     <string name="down_manager_info1">Ви можете використовувати свій улюблений додаток у якості менеджера завантажень.</string>
     <string name="down_manager_info3">Ви можете швидше переглядати веб-сторінки, відокремлюючи браузер та завантаження.</string>

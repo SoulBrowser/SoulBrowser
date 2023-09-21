@@ -824,6 +824,8 @@
     <string name="level_weak">Weak</string>
     <string name="open_limit">Open limit</string>
     <string name="open_limit_info">When the limit is exceeded, the first item is automatically deleted.</string>
+    <string name="mem_limit">Memory limit</string>
+    <string name="mem_limit_info">When the limit is exceeded, the memory of older, inactive tabs is automatically released.</string>
     <string name="down_manager">Download manager</string>
     <string name="down_manager_info1">You can use your favorite downloader app as a download manager.</string>
     <string name="down_manager_info3">You can surf the web faster by separating your browser and downloads.</string>

@@ -824,6 +824,8 @@
     <string name="level_weak">Debole</string>
     <string name="open_limit">Limite aperture</string>
     <string name="open_limit_info">Quando il limite viene superato, il primo elemento viene automaticamente eliminato.</string>
+    <string name="mem_limit">Limite di memoria</string>
+    <string name="mem_limit_info">Quando il limite viene superato, la memoria delle schede più vecchie e inattive viene automaticamente rilasciata.</string>
     <string name="down_manager">Download manager</string>
     <string name="down_manager_info1">Puoi utilizzare la tua app di download preferita come gestore per i download.</string>
     <string name="down_manager_info3">Puoi navigare sul Web più velocemente separando il browser e i download.</string>
