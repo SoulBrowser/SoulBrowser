@@ -753,7 +753,8 @@
     <string name="clean_data_info">Mengumpulkan data lama dapat memperlambat browser Anda.\nSebaiknya bersihkan data Anda secara berkala.</string>
     <string name="txt_viewer">Penampil teks</string>
     <string name="purchase">Membeli</string>
-    <string name="donation">Sumbangan</string>
+    <string name="donation">Hadiah untuk Pengembang</string>
+    <string name="give_gift">Berikan hadiah</string>
     <string name="inapp_ads">Iklan dalam aplikasi</string>
     <string name="website_ads">Iklan situs web</string>
     <string name="greeting">Salam</string>
@@ -772,9 +773,8 @@
     <string name="ads_guide_8">Semua fitur Soul Browser gratis.</string>
     <string name="inapp_ads_sample">Contoh iklan dalam aplikasi</string>
     <string name="donate_1">Kopi</string>
-    <string name="donate_2">Kopi yang enak</string>
-    <string name="donate_info_1">Terima kasih telah menggunakan Soul Browser.</string>
-    <string name="donate_info_2">Soul Browser dikelola oleh donasi Anda.</string>
+    <string name="donate_info_1">Jika Anda menyukai aplikasi ini, silakan berikan kopi kepada pengembangnya.</string>
+    <string name="donate_info_2">Kami akan membalas Anda dengan kontrol kualitas yang berkelanjutan.</string>
     <string name="paid">Membeli</string>
     <string name="already_paid">Sudah dibeli.</string>
     <string name="pay_fail">Sebuah kesalahan telah terjadi.\nSilakan coba lagi nanti.</string>

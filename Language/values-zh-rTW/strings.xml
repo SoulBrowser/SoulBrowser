@@ -753,7 +753,8 @@
     <string name="clean_data_info">累積過多的資料可能會降低瀏覽器的速度\n定期清理資料是一個好主意！</string>
     <string name="txt_viewer">文字檢視器</string>
     <string name="purchase">付費功能</string>
-    <string name="donation">捐款</string>
+    <string name="donation">給開發者的禮物</string>
+    <string name="give_gift">贈送禮物</string>
     <string name="inapp_ads">應用內廣告</string>
     <string name="website_ads">網站廣告</string>
     <string name="greeting">問候</string>
@@ -772,9 +773,8 @@
     <string name="ads_guide_8">Soul Browser 的所有功能都是免費的</string>
     <string name="inapp_ads_sample">應用內廣告示例</string>
     <string name="donate_1">咖啡</string>
-    <string name="donate_2">美味的咖啡</string>
-    <string name="donate_info_1">感謝您使用 Soul Browser</string>
-    <string name="donate_info_2">Soul Browser 由您的捐贈維護</string>
+    <string name="donate_info_1">如果您喜歡該應用程序，請贈送開發者一杯咖啡</string>
+    <string name="donate_info_2">我們將透過持續的品質控制來獎勵您</string>
     <string name="paid">已購買</string>
     <string name="already_paid">已購買</string>
     <string name="pay_fail">發生錯誤\n請稍後再試</string>

@@ -753,7 +753,8 @@
     <string name="clean_data_info">O acúmulo de dados desatualizados pode tornar seu navegador mais lento.\nÉ uma boa ideia limpar seus dados periodicamente.</string>
     <string name="txt_viewer">Visualizador de texto</string>
     <string name="purchase">Comprar</string>
-    <string name="donation">Doação</string>
+    <string name="donation">Presente para desenvolvedor</string>
+    <string name="give_gift">Dê um presente</string>
     <string name="inapp_ads">Anúncios no aplicativo</string>
     <string name="website_ads">Anúncios do site</string>
     <string name="greeting">Saudações</string>
@@ -772,9 +773,8 @@
     <string name="ads_guide_8">Todos os recursos do Soul Browser são gratuitos.</string>
     <string name="inapp_ads_sample">Amostra de anúncio no aplicativo</string>
     <string name="donate_1">Café</string>
-    <string name="donate_2">Delicioso café</string>
-    <string name="donate_info_1">Obrigado por usar o Soul Browser.</string>
-    <string name="donate_info_2">O Soul Browser é mantido por sua doação.</string>
+    <string name="donate_info_1">Se você gosta do aplicativo, presenteie o desenvolvedor com um café.</string>
+    <string name="donate_info_2">Iremos recompensá-lo com controle de qualidade contínuo.</string>
     <string name="paid">Comprado</string>
     <string name="already_paid">Já foi comprado.</string>
     <string name="pay_fail">Ocorreu um erro.\nPor favor, tente novamente mais tarde.</string>

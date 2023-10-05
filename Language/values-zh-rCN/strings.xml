@@ -753,7 +753,8 @@
     <string name="clean_data_info">过多的数据会拖慢浏览器的速度\n建议养成一个定期清理数据的好习惯</string>
     <string name="txt_viewer">TXT 查看</string>
     <string name="purchase">内购</string>
-    <string name="donation">捐款</string>
+    <string name="donation">给开发者的礼物</string>
+    <string name="give_gift">赠送礼物</string>
     <string name="inapp_ads">应用内广告</string>
     <string name="website_ads">网站广告</string>
     <string name="greeting">问候</string>
@@ -772,9 +773,8 @@
     <string name="ads_guide_8">Soul Browser 的所有功能都是免费的</string>
     <string name="inapp_ads_sample">应用内广告示例</string>
     <string name="donate_1">咖啡</string>
-    <string name="donate_2">美味的咖啡</string>
-    <string name="donate_info_1">感谢您使用 Soul Browser</string>
-    <string name="donate_info_2">Soul Browser 由您的捐赠维护</string>
+    <string name="donate_info_1">如果您喜欢该应用程序，请赠送开发者一杯咖啡</string>
+    <string name="donate_info_2">我们将通过持续的质量控制来奖励您</string>
     <string name="paid">已购买</string>
     <string name="already_paid">已购买</string>
     <string name="pay_fail">发生了错误\n请稍后再试</string>

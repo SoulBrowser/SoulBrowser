@@ -753,7 +753,8 @@
     <string name="clean_data_info">पुराने डेटा का संचय आपके ब्राउज़र को धीमा कर सकता है।\nअपने डेटा को समय-समय पर साफ़ करना एक अच्छा विचार है।</string>
     <string name="txt_viewer">टेक्स्ट व्यूअर</string>
     <string name="purchase">खरीदना</string>
-    <string name="donation">दान</string>
+    <string name="donation">डेवलपर को उपहार</string>
+    <string name="give_gift">एक उपहार देना</string>
     <string name="inapp_ads">इन-ऐप विज्ञापन</string>
     <string name="website_ads">वेबसाइट विज्ञापन</string>
     <string name="greeting">अभिवादन</string>
@@ -772,9 +773,8 @@
     <string name="ads_guide_8">सोल ब्राउज़र की सभी सुविधाएँ निःशुल्क हैं।</string>
     <string name="inapp_ads_sample">इन-ऐप विज्ञापन नमूना</string>
     <string name="donate_1">कॉफ़ी</string>
-    <string name="donate_2">स्वादिष्ट कॉफ़ी</string>
-    <string name="donate_info_1">सोल ब्राउज़र का उपयोग करने के लिए धन्यवाद.</string>
-    <string name="donate_info_2">सोल ब्राउजर का रखरखाव आपके दान द्वारा किया जाता है।</string>
+    <string name="donate_info_1">यदि आपको ऐप पसंद है, तो कृपया डेवलपर को एक कॉफ़ी उपहार में दें।</string>
+    <string name="donate_info_2">हम आपको निरंतर गुणवत्ता नियंत्रण से पुरस्कृत करेंगे।</string>
     <string name="paid">खरीदी</string>
     <string name="already_paid">इसे पहले ही खरीदा जा चुका है।</string>
     <string name="pay_fail">कोई त्रुटि उत्पन्न हुई।\nकृपया बाद में पुन: प्रयास करें।</string>

@@ -753,7 +753,8 @@
     <string name="clean_data_info">Tích lũy dữ liệu cũ có thể làm chậm trình duyệt của bạn.\nBạn nên dọn dẹp dữ liệu của mình theo định kỳ.</string>
     <string name="txt_viewer">Trình xem văn bản</string>
     <string name="purchase">Ủng hộ nhà phát triển</string>
-    <string name="donation">Quyên góp</string>
+    <string name="donation">Quà tặng cho nhà phát triển</string>
+    <string name="give_gift">Cho một món quà</string>
     <string name="inapp_ads">Quảng cáo trong ứng dụng</string>
     <string name="website_ads">Quảng cáo trang web</string>
     <string name="greeting">Lời chào hỏi</string>
@@ -772,9 +773,8 @@
     <string name="ads_guide_8">Tất cả các tính năng của Soul Browser đều miễn phí.</string>
     <string name="inapp_ads_sample">Mẫu quảng cáo trong ứng dụng</string>
     <string name="donate_1">Cà phê</string>
-    <string name="donate_2">Cà phê ngon</string>
-    <string name="donate_info_1">Cảm ơn bạn đã sử dụng Soul Browser.</string>
-    <string name="donate_info_2">Soul Browser được duy trì bởi sự đóng góp của bạn.</string>
+    <string name="donate_info_1">Nếu bạn thích ứng dụng này, vui lòng tặng nhà phát triển một ly cà phê.</string>
+    <string name="donate_info_2">Chúng tôi sẽ thưởng cho bạn bằng việc kiểm soát chất lượng liên tục.</string>
     <string name="paid">Đã mua</string>
     <string name="already_paid">Nó đã được mua.</string>
     <string name="pay_fail">Một lỗi đã xảy ra.\nVui lòng thử lại sau.</string>
