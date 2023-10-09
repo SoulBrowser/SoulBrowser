@@ -615,6 +615,7 @@
     <string name="add_home_2">أضف إلى الشاشة الرئيسية للهاتف</string>
     <string name="phone_home">شاشة الهاتف الرئيسية</string>
     <string name="set_homepage">تعيين كصفحة رئيسية</string>
+    <string name="set_startpage">تعيين كصفحة البداية</string>
     <string name="soul_home">صفحة Soul الرئيسية</string>
     <string name="setted">تم تعيينه.</string>
     <string name="no_down_video">لا توجد مقاطع فيديو قابلة للتنزيل.</string>
@@ -753,8 +754,7 @@
     <string name="clean_data_info">إذا تراكمت البيانات القديمة ، فقد يتباطأ متصفحك.\nإنها لفكرة جيدة أن تقوم بتنظيف بياناتك بشكل دوري.</string>
     <string name="txt_viewer">عارض النص</string>
     <string name="purchase">شراء</string>
-    <string name="donation">هدية للمطور</string>
-    <string name="give_gift">أعط هدية</string>
+    <string name="donation">هبة</string>
     <string name="inapp_ads">الإعلانات داخل التطبيق</string>
     <string name="website_ads">إعلانات الموقع</string>
     <string name="greeting">تحيات</string>
@@ -773,8 +773,9 @@
     <string name="ads_guide_8">جميع ميزات متصفح الروح مجانية.</string>
     <string name="inapp_ads_sample">نموذج إعلان داخل التطبيق</string>
     <string name="donate_1">قهوة</string>
-    <string name="donate_info_1">إذا أعجبك التطبيق، يرجى إهداء المطور قهوة.</string>
-    <string name="donate_info_2">سنكافئك بمراقبة الجودة المستمرة.</string>
+    <string name="donate_2">قهوة لذيذة</string>
+    <string name="donate_info_1">شكرًا لك على استخدام Soul Browser.</string>
+    <string name="donate_info_2">يتم الحفاظ على Soul Browser من خلال تبرعاتك.</string>
     <string name="paid">تم شراؤها</string>
     <string name="already_paid">لقد اشتريته بالفعل.</string>
     <string name="pay_fail">حدث خطأ.\nيرجى المحاولة مرة أخرى في بضع دقائق.</string>

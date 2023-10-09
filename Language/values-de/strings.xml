@@ -615,6 +615,7 @@
     <string name="add_home_2">Zum Startbildschirm des Telefons hinzufügen</string>
     <string name="phone_home">Startbildschirm des Telefons</string>
     <string name="set_homepage">Als Startseite festlegen</string>
+    <string name="set_startpage">Als Startseite festlegen</string>
     <string name="soul_home">Soul-Startseite</string>
     <string name="setted">Wurde festgelegt.</string>
     <string name="no_down_video">Es gibt keine herunterladbaren Videos.</string>
@@ -753,8 +754,7 @@
     <string name="clean_data_info">Das Sammeln veralteter Daten kann Ihren Browser verlangsamen.\nEs ist eine gute Idee, Ihre Daten regelmäßig zu bereinigen.</string>
     <string name="txt_viewer">Textbetrachter</string>
     <string name="purchase">Kauf</string>
-    <string name="donation">Geschenk an Entwickler</string>
-    <string name="give_gift">Ein Geschenk geben</string>
+    <string name="donation">Spende</string>
     <string name="inapp_ads">In-App-Anzeigen</string>
     <string name="website_ads">Website-Anzeigen</string>
     <string name="greeting">Grüße</string>
@@ -773,8 +773,9 @@
     <string name="ads_guide_8">Alle Funktionen von Soul Browser sind kostenlos.</string>
     <string name="inapp_ads_sample">In-App-Werbebeispiel</string>
     <string name="donate_1">Kaffee</string>
-    <string name="donate_info_1">Wenn Ihnen die App gefällt, schenken Sie dem Entwickler bitte einen Kaffee.</string>
-    <string name="donate_info_2">Wir belohnen Sie mit einer kontinuierlichen Qualitätskontrolle.</string>
+    <string name="donate_2">Leckerer Kaffee</string>
+    <string name="donate_info_1">Vielen Dank, dass Sie Soul Browser verwenden.</string>
+    <string name="donate_info_2">Soul Browser wird durch Ihre Spende gepflegt.</string>
     <string name="paid">Gekauft</string>
     <string name="already_paid">Es wurde bereits gekauft.</string>
     <string name="pay_fail">Ein Fehler ist aufgetreten.\nBitte versuchen Sie es später noch einmal.</string>

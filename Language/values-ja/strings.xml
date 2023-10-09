@@ -615,6 +615,7 @@
     <string name="add_home_2">電話のホーム画面に追加</string>
     <string name="phone_home">電話のホーム画面</string>
     <string name="set_homepage">ホームページに設定</string>
+    <string name="set_startpage">ようこそページに設定</string>
     <string name="soul_home">Soulホームページ</string>
     <string name="setted">設定されています。</string>
     <string name="no_down_video">ダウンロード可能なビデオがありません。</string>
@@ -753,8 +754,7 @@
     <string name="clean_data_info">古いデータが蓄積されると、ブラウザの速度が遅くなることがあります。\n定期的にデータを整理することをお勧め。</string>
     <string name="txt_viewer">テキストビューア</string>
     <string name="purchase">購入</string>
-    <string name="donation">開発者へのギフト</string>
-    <string name="give_gift">プレゼント</string>
+    <string name="donation">寄付</string>
     <string name="inapp_ads">アプリ内広告</string>
     <string name="website_ads">ウェブサイト広告</string>
     <string name="greeting">挨拶</string>
@@ -773,8 +773,9 @@
     <string name="ads_guide_8">Soul Browserのすべての機能は無料です。</string>
     <string name="inapp_ads_sample">アプリ内広告のサンプル</string>
     <string name="donate_1">コーヒー</string>
-    <string name="donate_info_1">アプリが気に入ったら、開発者にコーヒーをプレゼントしてください。</string>
-    <string name="donate_info_2">継続的な品質管理でお返事いたします。</string>
+    <string name="donate_2">おいしいコーヒー</string>
+    <string name="donate_info_1">Soul Browserをご利用いただきありがとうございます。</string>
+    <string name="donate_info_2">Soul Browserは、あなたの寄付で維持されます。</string>
     <string name="paid">購入する</string>
     <string name="already_paid">それは既に購入しました。</string>
     <string name="pay_fail">エラーが発生しました。\n後でやり直してください。</string>

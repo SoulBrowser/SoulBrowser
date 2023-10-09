@@ -615,6 +615,7 @@
     <string name="add_home_2">Додати на головний екран телефону</string>
     <string name="phone_home">Головний екран телефону</string>
     <string name="set_homepage">Встановити як домашню сторінку</string>
+    <string name="set_startpage">Встановити як стартову сторінку</string>
     <string name="soul_home">Домашня сторінка Soul</string>
     <string name="setted">Встановлено.</string>
     <string name="no_down_video">Немає завантажуваних відео.</string>
@@ -753,8 +754,7 @@
     <string name="clean_data_info">Накопичення застарілих даних може сповільнити роботу вашого браузера.\nРекомендуємо періодично очищати дані.</string>
     <string name="txt_viewer">Перегляд тексту</string>
     <string name="purchase">Придбання</string>
-    <string name="donation">Подарунок розробнику</string>
-    <string name="give_gift">Подаруйте</string>
+    <string name="donation">Пожертвування</string>
     <string name="inapp_ads">Оголошення в програмі</string>
     <string name="website_ads">Оголошення на сайті</string>
     <string name="greeting">Вітання</string>
@@ -773,8 +773,9 @@
     <string name="ads_guide_8">Усі функції Soul Browser безкоштовні.</string>
     <string name="inapp_ads_sample">Зразок реклами в додатку</string>
     <string name="donate_1">Кава</string>
-    <string name="donate_info_1">Якщо вам подобається додаток, подаруйте розробнику каву.</string>
-    <string name="donate_info_2">Ми винагородимо вас постійним контролем якості.</string>
+    <string name="donate_2">Смачна кава</string>
+    <string name="donate_info_1">Дякуємо за використання Soul Browser.</string>
+    <string name="donate_info_2">Soul Browser підтримується вашими пожертвами.</string>
     <string name="paid">Придбано</string>
     <string name="already_paid">Його вже придбали.</string>
     <string name="pay_fail">Сталася помилка.\nБудь ласка спробуйте пізніше.</string>

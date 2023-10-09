@@ -615,6 +615,7 @@
     <string name="add_home_2">Añadir a la pantalla de inicio del teléfono</string>
     <string name="phone_home">Pantalla de inicio del teléfono</string>
     <string name="set_homepage">Establecer como página de inicio</string>
+    <string name="set_startpage">Establecer como página de inicio</string>
     <string name="soul_home">página de inicio de Soul</string>
     <string name="setted">Ha sido establecido.</string>
     <string name="no_down_video">No hay videos descargables.</string>
@@ -753,8 +754,7 @@
     <string name="clean_data_info">La acumulación de datos obsoletos puede ralentizar su navegador.\nEs una buena idea limpiar sus datos periódicamente.</string>
     <string name="txt_viewer">Visor de texto</string>
     <string name="purchase">Compra</string>
-    <string name="donation">Regalo al desarrollador</string>
-    <string name="give_gift">Dar un regalo</string>
+    <string name="donation">Donación</string>
     <string name="inapp_ads">Anuncios en la aplicación</string>
     <string name="website_ads">Anuncios en sitios web</string>
     <string name="greeting">Saludos</string>
@@ -773,8 +773,9 @@
     <string name="ads_guide_8">Todas las funciones de Soul Browser son gratuitas.</string>
     <string name="inapp_ads_sample">Ejemplo de anuncio en la aplicación</string>
     <string name="donate_1">Café</string>
-    <string name="donate_info_1">Si te gusta la aplicación, regala un café al desarrollador.</string>
-    <string name="donate_info_2">Le recompensaremos con un control de calidad continuo.</string>
+    <string name="donate_2">Café delicioso</string>
+    <string name="donate_info_1">Gracias por usar Soul Browser.</string>
+    <string name="donate_info_2">Soul Browser se mantiene gracias a su donación.</string>
     <string name="paid">Comprado</string>
     <string name="already_paid">Ya ha sido comprado.</string>
     <string name="pay_fail">Se ha producido un error.\nPor favor, inténtelo de nuevo más tarde.</string>

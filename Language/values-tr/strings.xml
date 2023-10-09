@@ -615,6 +615,7 @@
     <string name="add_home_2">Telefonun ana ekranına ekleyin</string>
     <string name="phone_home">Telefonun ana ekranı</string>
     <string name="set_homepage">Anasayfa olarak ayarla</string>
+    <string name="set_startpage">Başlangıç ​​sayfası olarak ayarla</string>
     <string name="soul_home">Soul ana sayfası</string>
     <string name="setted">Ayarlandı.</string>
     <string name="no_down_video">İndirilebilir video yok.</string>
@@ -753,8 +754,7 @@
     <string name="clean_data_info">Eski verilerin biriktirilmesi tarayıcınızı yavaşlatabilir.\nVerilerinizi düzenli aralıklarla temizlemek iyi bir fikirdir.</string>
     <string name="txt_viewer">Metin görüntüleyici</string>
     <string name="purchase">Satın alma</string>
-    <string name="donation">Geliştiriciye Hediye</string>
-    <string name="give_gift">Hediye ver</string>
+    <string name="donation">Bağış</string>
     <string name="inapp_ads">Uygulama içi reklamlar</string>
     <string name="website_ads">Web sitesi reklamları</string>
     <string name="greeting">Selamlar</string>
@@ -773,8 +773,9 @@
     <string name="ads_guide_8">Soul Browser\'ın tüm özellikleri ücretsizdir.</string>
     <string name="inapp_ads_sample">Uygulama içi reklam örneği</string>
     <string name="donate_1">Kahve</string>
-    <string name="donate_info_1">Uygulamayı beğendiyseniz lütfen geliştiriciye bir kahve hediye edin.</string>
-    <string name="donate_info_2">Sizi sürekli kalite kontrolüyle ödüllendireceğiz.</string>
+    <string name="donate_2">Lezzetli kahve</string>
+    <string name="donate_info_1">Soul Browser\'ı kullandığınız için teşekkür ederiz.</string>
+    <string name="donate_info_2">Soul Browser bağışınız ile korunur.</string>
     <string name="paid">Satın alındı</string>
     <string name="already_paid">Zaten satın alındı.</string>
     <string name="pay_fail">Bir hata oluştu.\nLütfen daha sonra tekrar deneyin.</string>

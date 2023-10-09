@@ -615,6 +615,7 @@
     <string name="add_home_2">เพิ่มไปยังหน้าจอหลักของโทรศัพท์</string>
     <string name="phone_home">หน้าจอหลักของโทรศัพท์</string>
     <string name="set_homepage">ตั้งเป็นหน้าแรก</string>
+    <string name="set_startpage">ตั้งเป็นหน้าเริ่มต้น</string>
     <string name="soul_home">หน้าแรกของ Soul</string>
     <string name="setted">ได้มีการตั้งค่า</string>
     <string name="no_down_video">ไม่มีวิดีโอที่สามารถดาวน์โหลดได้</string>
@@ -753,8 +754,7 @@
     <string name="clean_data_info">การสะสมข้อมูลเก่าอาจทำให้เบราว์เซอร์ของคุณทำงานช้าลง\nเป็นความคิดที่ดีที่จะล้างข้อมูลของคุณเป็นระยะ</string>
     <string name="txt_viewer">โปรแกรมดูข้อความ</string>
     <string name="purchase">ซื้อ</string>
-    <string name="donation">ของขวัญให้กับนักพัฒนา</string>
-    <string name="give_gift">ให้ของขวัญ</string>
+    <string name="donation">การบริจาค</string>
     <string name="inapp_ads">โฆษณาในแอป</string>
     <string name="website_ads">โฆษณาบนเว็บไซต์</string>
     <string name="greeting">ทักทาย</string>
@@ -773,8 +773,9 @@
     <string name="ads_guide_8">คุณสมบัติทั้งหมดของ Soul Browser นั้นฟรี</string>
     <string name="inapp_ads_sample">ตัวอย่างโฆษณาในแอป</string>
     <string name="donate_1">กาแฟ</string>
-    <string name="donate_info_1">หากคุณชอบแอพนี้ โปรดมอบกาแฟเป็นของขวัญให้กับนักพัฒนา</string>
-    <string name="donate_info_2">เราจะตอบแทนคุณด้วยการควบคุมคุณภาพอย่างต่อเนื่อง</string>
+    <string name="donate_2">กาแฟอร่อย</string>
+    <string name="donate_info_1">ขอขอบคุณที่ใช้ Soul Browser</string>
+    <string name="donate_info_2">Soul Browser ได้รับการดูแลโดยการบริจาคของคุณ</string>
     <string name="paid">ซื้อแล้ว</string>
     <string name="already_paid">มันถูกซื้อแล้ว</string>
     <string name="pay_fail">เกิดข้อผิดพลาด.\nโปรดลองอีกครั้งในภายหลัง.</string>

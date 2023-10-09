@@ -615,6 +615,7 @@
     <string name="add_home_2">휴대전화의 홈 화면에 추가</string>
     <string name="phone_home">휴대전화의 홈 화면</string>
     <string name="set_homepage">홈페이지로 설정</string>
+    <string name="set_startpage">시작페이지로 설정</string>
     <string name="soul_home">Soul 홈페이지</string>
     <string name="setted">설정되었습니다.</string>
     <string name="no_down_video">다운로드 가능한 동영상이 없습니다.</string>
@@ -753,8 +754,7 @@
     <string name="clean_data_info">오래된 데이터가 누적되면, 브라우저가 느려질 수 있습니다.\n주기적으로 데이터를 정리하는 것이 좋습니다.</string>
     <string name="txt_viewer">텍스트 뷰어</string>
     <string name="purchase">구매</string>
-    <string name="donation">개발자에게 선물하기</string>
-    <string name="give_gift">선물하기</string>
+    <string name="donation">기부</string>
     <string name="inapp_ads">인앱 광고</string>
     <string name="website_ads">웹사이트 광고</string>
     <string name="greeting">인사말</string>
@@ -773,8 +773,9 @@
     <string name="ads_guide_8">Soul Browser의 모든 기능은 무료입니다.</string>
     <string name="inapp_ads_sample">인앱 광고 샘플</string>
     <string name="donate_1">커피</string>
-    <string name="donate_info_1">앱이 마음에 드셨다면 개발자에게 커피를 선물해주세요.</string>
-    <string name="donate_info_2">지속적인 품질 관리로 보답드리겠습니다.</string>
+    <string name="donate_2">맛있는 커피</string>
+    <string name="donate_info_1">Soul Browser를 이용해 주셔서 감사합니다.</string>
+    <string name="donate_info_2">Soul Browser는 여러분의 기부로 유지됩니다.</string>
     <string name="paid">구매함</string>
     <string name="already_paid">이미 구매했습니다.</string>
     <string name="pay_fail">오류가 발생했습니다.\n잠시 후 다시 시도해 주세요.</string>
