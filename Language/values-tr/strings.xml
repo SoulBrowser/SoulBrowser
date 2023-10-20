@@ -509,11 +509,7 @@
     <string name="continue_input">Devam et</string>
     <string name="pip_home">Ev tuşuyla PIP\'ye geç</string>
     <string name="memory_warning_1">Bu özellik daha fazla bellek kullanır.</string>
-    <string name="android_support">Android %d\'dan beri desteklenmektedir.</string>
-    <string name="secret_data">Web Veri Ayırma (Login Ayırma)</string>
-    <string name="secret_data_info_1">Çerezler ve önbellek gibi verileri ayrı olarak yönetin.</string>
-    <string name="secret_data_info_2">Bu seçenekle, uygulama her zaman normal modda başlayacaktır.</string>
-    <string name="secret_data_info_3">Varsayılan olarak gizli modu kullanmak için bu seçeneği devre dışı bırakın.</string>
+    <string name="secret_data_info">Çerezler ve önbellek gibi verilerin ayrılması Android 9\'dan itibaren desteklenmektedir.</string>
     <string name="secret_hist">Geçmişi kaydet</string>
     <string name="secret_hist_info">Geçmişinizi gizli modda kaydedin. Bu geçmiş normal modda görünmez.</string>
     <string name="secret_down">İndirme geçmişini kaydet</string>

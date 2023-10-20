@@ -509,11 +509,7 @@
     <string name="continue_input">繼續</string>
     <string name="pip_home">使用主頁鍵切換到子母畫面</string>
     <string name="memory_warning_1">此功能需要使用更多的記憶體</string>
-    <string name="android_support">自 Android %d 開始支援</string>
-    <string name="secret_data">網頁資料分離（登入分離）</string>
-    <string name="secret_data_info_1">分別管理 Cookie 和快取之類的資料</string>
-    <string name="secret_data_info_2">使用此選項，該應用程式將始終以正常模式啟動</string>
-    <string name="secret_data_info_3">預設情況下，停用此選項以使用無痕模式</string>
+    <string name="secret_data_info">從Android 9開始支援cookie和快取等資料分離</string>
     <string name="secret_hist">儲存歷史記錄</string>
     <string name="secret_hist_info">以無痕模式儲存您的歷史記錄。 您的無痕歷史記錄將不會在正常模式下顯示</string>
     <string name="secret_down">儲存下載記錄</string>

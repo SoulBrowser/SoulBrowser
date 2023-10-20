@@ -509,11 +509,7 @@
     <string name="continue_input">Continue</string>
     <string name="pip_home">Switch to PIP with home key</string>
     <string name="memory_warning_1">This feature uses more memory.</string>
-    <string name="android_support">Supported since Android %d.</string>
-    <string name="secret_data">Web Data Separation (Login Separation)</string>
-    <string name="secret_data_info_1">Separately manage data such as cookies and cache.</string>
-    <string name="secret_data_info_2">With this option, the app will always start in normal mode.</string>
-    <string name="secret_data_info_3">Disable this option to use incognito mode by default.</string>
+    <string name="secret_data_info">Separation of data such as cookies and cache is supported starting from Android 9.</string>
     <string name="secret_hist">Save history</string>
     <string name="secret_hist_info">Save history in incognito mode. History in incognito mode does not appear in normal mode.</string>
     <string name="secret_down">Save download history</string>

@@ -509,11 +509,7 @@
     <string name="continue_input">Continua</string>
     <string name="pip_home">Passa a PIP con il tasto Home</string>
     <string name="memory_warning_1">Questa funzione utilizza più memoria.</string>
-    <string name="android_support">Supportato da Android %d.</string>
-    <string name="secret_data">Separazione dati web (separazione login)</string>
-    <string name="secret_data_info_1">Gestisci separatamente dati come cookie e cache.</string>
-    <string name="secret_data_info_2">Con questa opzione, l\'app si avvierà sempre in modalità normale.</string>
-    <string name="secret_data_info_3">Disattiva questa opzione per utilizzare la modalità di navigazione in incognito per impostazione predefinita.</string>
+    <string name="secret_data_info">La separazione di dati come cookie e cache è supportata a partire da Android 9.</string>
     <string name="secret_hist">Salva cronologia</string>
     <string name="secret_hist_info">Salva la cronologia in modalità di navigazione in incognito. La cronologia in incognito non viene visualizzata in modalità normale.</string>
     <string name="secret_down">Salva cronologia download</string>

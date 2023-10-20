@@ -509,11 +509,7 @@
     <string name="continue_input">जारी रखना</string>
     <string name="pip_home">होम कुंजी के साथ पीआईपी पर स्विच करें</string>
     <string name="memory_warning_1">यह सुविधा अधिक मेमोरी का उपयोग करती है।</string>
-    <string name="android_support">Android %d के बाद से समर्थित है।</string>
-    <string name="secret_data">वेब डेटा पृथक्करण (लॉगिन पृथक्करण)</string>
-    <string name="secret_data_info_1">कुकीज और कैशे जैसे डेटा को अलग-अलग प्रबंधित करें।</string>
-    <string name="secret_data_info_2">इस विकल्प के साथ, ऐप हमेशा सामान्य मोड में शुरू होगा।</string>
-    <string name="secret_data_info_3">डिफ़ॉल्ट रूप से गुप्त मोड का उपयोग करने के लिए इस विकल्प को अक्षम करें।</string>
+    <string name="secret_data_info">कुकीज़ और कैशे जैसे डेटा को अलग करने का समर्थन एंड्रॉइड 9 से शुरू किया गया है।</string>
     <string name="secret_hist">इतिहास सहेजें</string>
     <string name="secret_hist_info">गुप्त मोड में इतिहास सहेजें। गुप्त मोड में इतिहास सामान्य मोड में प्रकट नहीं होता है।</string>
     <string name="secret_down">डाउनलोड इतिहास सहेजें</string>

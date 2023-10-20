@@ -509,11 +509,7 @@
     <string name="continue_input">Continuez</string>
     <string name="pip_home">Passer au PIP avec la touche d\'accueil</string>
     <string name="memory_warning_1">Cette fonction utilise plus de mémoire.</string>
-    <string name="android_support">Pris en charge depuis Android %d.</string>
-    <string name="secret_data">Séparation des données Web (séparation de connexion)</string>
-    <string name="secret_data_info_1">Gérez séparément les données telles que les cookies et le cache.</string>
-    <string name="secret_data_info_2">Avec cette option, l\'application démarrera toujours en mode normal.</string>
-    <string name="secret_data_info_3">Désactivez cette option pour utiliser le mode navigation privée par défaut.</string>
+    <string name="secret_data_info">La séparation des données telles que les cookies et le cache est prise en charge à partir d\'Android 9.</string>
     <string name="secret_hist">Sauvegarder l\'historique</string>
     <string name="secret_hist_info">Enregistrez votre historique en mode de navigation privée. Votre historique incognito n\'apparaît pas en mode normal.</string>
     <string name="secret_down">Sauvegarder l\'historique de téléchargement</string>

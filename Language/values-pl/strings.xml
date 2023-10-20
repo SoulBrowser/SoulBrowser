@@ -509,11 +509,7 @@
     <string name="continue_input">Kontynuuj</string>
     <string name="pip_home">Przełącz się na PIP za pomocą klawisza głównego</string>
     <string name="memory_warning_1">Ta funkcja zużywa więcej pamięci.</string>
-    <string name="android_support">Obsługiwane od Android %d.</string>
-    <string name="secret_data">Separacja danych internetowych (separacja logowania)</string>
-    <string name="secret_data_info_1">Oddzielnie zarządzaj danymi, takimi jak pliki cookie i pamięć podręczna.</string>
-    <string name="secret_data_info_2">Dzięki tej opcji aplikacja będzie zawsze uruchamiać się w trybie normalnym.</string>
-    <string name="secret_data_info_3">Wyłącz tę opcję, aby domyślnie używać trybu incognito.</string>
+    <string name="secret_data_info">Oddzielenie danych, takich jak pliki cookie i pamięć podręczna, jest obsługiwane począwszy od Androida 9.</string>
     <string name="secret_hist">Zapisz historię</string>
     <string name="secret_hist_info">Zapisz historię w trybie incognito. Historia w trybie incognito nie pojawia się w trybie normalnym.</string>
     <string name="secret_down">Zapisz historię pobierania</string>

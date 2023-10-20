@@ -509,11 +509,7 @@
     <string name="continue_input">ต่อ</string>
     <string name="pip_home">เปลี่ยนเป็น PIP ด้วยปุ่มโฮม</string>
     <string name="memory_warning_1">คุณสมบัตินี้ใช้หน่วยความจำมากขึ้น</string>
-    <string name="android_support">รองรับตั้งแต่ Android %d</string>
-    <string name="secret_data">การแยกข้อมูลเว็บ (การแยกการเข้าสู่ระบบ)</string>
-    <string name="secret_data_info_1">แยกการจัดการข้อมูลเช่นคุกกี้และแคช</string>
-    <string name="secret_data_info_2">ด้วยตัวเลือกนี้แอปจะเริ่มทำงานในโหมดปกติเสมอ</string>
-    <string name="secret_data_info_3">ปิดใช้งานตัวเลือกนี้เพื่อใช้โหมดไม่ระบุตัวตนตามค่าเริ่มต้น</string>
+    <string name="secret_data_info">รองรับการแยกข้อมูลเช่นคุกกี้และแคชตั้งแต่ Android 9</string>
     <string name="secret_hist">บันทึกประวัติ</string>
     <string name="secret_hist_info">บันทึกประวัติของคุณในโหมดไม่ระบุตัวตน ประวัติที่ไม่ระบุตัวตนไม่ปรากฏในโหมดปกติ</string>
     <string name="secret_down">บันทึกประวัติการดาวน์โหลด</string>

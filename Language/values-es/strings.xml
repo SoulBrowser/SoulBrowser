@@ -509,11 +509,7 @@
     <string name="continue_input">Hacer continuación</string>
     <string name="pip_home">Cambiar a PIP con la tecla de inicio</string>
     <string name="memory_warning_1">Esta función usa más memoria.</string>
-    <string name="android_support">Compatible desde Android %d.</string>
-    <string name="secret_data">Separación de datos web (separación de inicio de sesión)</string>
-    <string name="secret_data_info_1">Administre por separado datos como cookies y caché.</string>
-    <string name="secret_data_info_2">Con esta opción, la aplicación siempre se iniciará en modo normal.</string>
-    <string name="secret_data_info_3">Desactive esta opción para utilizar el modo incógnito de forma predeterminada.</string>
+    <string name="secret_data_info">La separación de datos como cookies y caché se admite a partir de Android 9.</string>
     <string name="secret_hist">Guardar el historial</string>
     <string name="secret_hist_info">Guarda tu historial en modo incógnito. El historial de incógnito no aparece en modo normal.</string>
     <string name="secret_down">Guardar historial de descargas</string>

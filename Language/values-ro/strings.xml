@@ -509,11 +509,7 @@
     <string name="continue_input">Continuă</string>
     <string name="pip_home">Treceți la PIP cu tasta de pornire</string>
     <string name="memory_warning_1">Această caracteristică folosește mai multă memorie.</string>
-    <string name="android_support">Suportat de la Android %d.</string>
-    <string name="secret_data">Separarea datelor web (Separarea autentificării)</string>
-    <string name="secret_data_info_1">Gestionează separat date precum cookie-uri și cache.</string>
-    <string name="secret_data_info_2">Cu această opțiune, aplicația va porni întotdeauna în modul normal.</string>
-    <string name="secret_data_info_3">Dezactivați această opțiune pentru a utiliza în mod implicit modul incognito.</string>
+    <string name="secret_data_info">Separarea datelor, cum ar fi cookie-urile și memoria cache, este acceptată începând cu Android 9.</string>
     <string name="secret_hist">Salvare istoric</string>
     <string name="secret_hist_info">Salvați istoricul în modul incognito. Istoricul în modul incognito nu apare în modul normal.</string>
     <string name="secret_down">Salvare istoric descărcare</string>

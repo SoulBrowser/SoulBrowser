@@ -509,11 +509,7 @@
     <string name="continue_input">继续</string>
     <string name="pip_home">使用主页键切换到画中画</string>
     <string name="memory_warning_1">此功能使用更多的内存</string>
-    <string name="android_support">自 Android %d 开始受支持</string>
-    <string name="secret_data">网页数据分离（登录分离）</string>
-    <string name="secret_data_info_1">分别管理 Cookie 和缓存之类的数据</string>
-    <string name="secret_data_info_2">使用此选项，该应用将始终以正常模式启动</string>
-    <string name="secret_data_info_3">默认情况下，禁用此选项以使用隐身模式</string>
+    <string name="secret_data_info">从Android 9开始支持cookie和缓存等数据分离</string>
     <string name="secret_hist">保存历史</string>
     <string name="secret_hist_info">以无痕模式保存你的历史记录。 无痕历史记录不会在正常模式下显示</string>
     <string name="secret_down">保存下载记录</string>

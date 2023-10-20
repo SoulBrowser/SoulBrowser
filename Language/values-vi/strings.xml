@@ -509,11 +509,7 @@
     <string name="continue_input">Tiếp tục</string>
     <string name="pip_home">Chuyển sang PIP bằng phím home</string>
     <string name="memory_warning_1">Tính năng này sử dụng nhiều bộ nhớ hơn.</string>
-    <string name="android_support">Được hỗ trợ kể từ Android %d.</string>
-    <string name="secret_data">Tách dữ liệu web (Tách đăng nhập)</string>
-    <string name="secret_data_info_1">Quản lý riêng biệt dữ liệu như cookie và bộ nhớ cache.</string>
-    <string name="secret_data_info_2">Với tùy chọn này, ứng dụng sẽ luôn khởi động ở chế độ bình thường.</string>
-    <string name="secret_data_info_3">Tắt tùy chọn này để sử dụng chế độ ẩn danh theo mặc định.</string>
+    <string name="secret_data_info">Việc tách dữ liệu như cookie và bộ đệm được hỗ trợ bắt đầu từ Android 9.</string>
     <string name="secret_hist">Lưu lịch sử</string>
     <string name="secret_hist_info">Lưu lịch sử của bạn trong chế độ ẩn danh. Lịch sử ẩn danh không xuất hiện trong chế độ bình thường.</string>
     <string name="secret_down">Lưu lịch sử tải xuống</string>

@@ -509,11 +509,7 @@
     <string name="continue_input">Продовжуйте</string>
     <string name="pip_home">Переключіться на PIP за допомогою клавіші додому</string>
     <string name="memory_warning_1">Ця функція використовує більше пам\'яті.</string>
-    <string name="android_support">Підтримується з Android %d.</string>
-    <string name="secret_data">Розділення веб -даних (розділення входу)</string>
-    <string name="secret_data_info_1">Окремо керуйте такими даними, як файли cookie та кеш.</string>
-    <string name="secret_data_info_2">За допомогою цієї опції програма завжди запускатиметься у звичайному режимі.</string>
-    <string name="secret_data_info_3">Вимкніть цю опцію, щоб використовувати режим анонімного перегляду за замовчуванням.</string>
+    <string name="secret_data_info">Розділення таких даних, як файли cookie та кеш, підтримується, починаючи з Android 9.</string>
     <string name="secret_hist">Зберегти історію</string>
     <string name="secret_hist_info">Збереження історії в режимі анонімного перегляду. Історія в режимі анонімного перегляду не відображається в звичайному режимі.</string>
     <string name="secret_down">Зберегти історію завантажень</string>

@@ -509,11 +509,7 @@
     <string name="continue_input">Продолжить</string>
     <string name="pip_home">Переключитесь в режим PIP с помощью кнопки главного экрана</string>
     <string name="memory_warning_1">Эта функция использует больше памяти.</string>
-    <string name="android_support">Поддерживается с Android %d.</string>
-    <string name="secret_data">Разделение веб-данных (разделение входа в систему)</string>
-    <string name="secret_data_info_1">Раздельно управлять файлами cookie и кешем.</string>
-    <string name="secret_data_info_2">С этой опцией приложение всегда будет запускаться в обычном режиме.</string>
-    <string name="secret_data_info_3">Отключите этот параметр, чтобы по умолчанию использовать режим инкогнито.</string>
+    <string name="secret_data_info">Разделение данных, таких как файлы cookie и кеш, поддерживается начиная с Android 9.</string>
     <string name="secret_hist">Сохранять историю</string>
     <string name="secret_hist_info">Сохранять историю в режиме инкогнито. История инкогнито не отображается в обычном режиме.</string>
     <string name="secret_down">Сохранять историю загрузок</string>

@@ -509,11 +509,7 @@
     <string name="continue_input">Continuar</string>
     <string name="pip_home">Mudar para PIP com chave de casa</string>
     <string name="memory_warning_1">Este recurso usa mais memória.</string>
-    <string name="android_support">Suportado desde o Android %d.</string>
-    <string name="secret_data">Separação de dados da web (separação de login)</string>
-    <string name="secret_data_info_1">Gerencie dados separadamente, como cookies e cache.</string>
-    <string name="secret_data_info_2">Com esta opção, o aplicativo sempre iniciará no modo normal.</string>
-    <string name="secret_data_info_3">Desative esta opção para usar o modo de navegação anônima por padrão.</string>
+    <string name="secret_data_info">A separação de dados como cookies e cache é suportada a partir do Android 9.</string>
     <string name="secret_hist">Salvar histórico</string>
     <string name="secret_hist_info">Salve seu histórico no modo de navegação anônima. O histórico de navegação anônima não aparece no modo normal.</string>
     <string name="secret_down">Salvar histórico de downloads</string>
