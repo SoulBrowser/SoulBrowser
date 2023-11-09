@@ -74,7 +74,7 @@
     <string name="retry">أعد المحاولة</string>
     <string name="retry_count">عدد المحاولات</string>
     <string name="retry_count_info">عدد المحاولات في حالة فشل الاتصال</string>
-    <string name="general">طبيعي</string>
+    <string name="general">عام</string>
     <string name="advanced">متقدم</string>
     <string name="bookmark">المرجعية</string>
     <string name="history">سجل الزيارة</string>
@@ -137,7 +137,7 @@
     <string name="copy_url">إنسخ الرابط</string>
     <string name="paste_url">لصق URL</string>
     <string name="open_copied_url">افتح عنوان URL المنسوخ</string>
-    <string name="share_url">تقاسم URL</string>
+    <string name="share_url">مشاركة URL</string>
     <string name="copy_img_url">انسخ رابط الصورة</string>
     <string name="share_img_url">مشاركة URL الصورة</string>
     <string name="preview">معاينة</string>
@@ -153,13 +153,13 @@
     <string name="only_image">عرض الصورة فقط</string>
     <string name="downall_image">احفظ كل الصور</string>
     <string name="tab_list">قائمة الجدولة</string>
-    <string name="tab_item">فاتورة غير مدفوعة</string>
+    <string name="tab_item">التبويب</string>
     <string name="tab_items">نوافذ التبويب</string>
     <string name="tab_tip">إذا كان لديك العديد من علامات التبويب المفتوحة ، فقد يتباطأ متصفحك.</string>
     <string name="no_image">لا توجد صورة</string>
     <string name="no_title">بدون عنوان</string>
     <string name="no_ext">لا تمديد</string>
-    <string name="apply">يتقدم</string>
+    <string name="apply">موافق</string>
     <string name="save">يحفظ</string>
     <string name="cancel">إلغاء</string>
     <string name="undelete">الحذف</string>
@@ -320,7 +320,7 @@
     <string name="crop_save">شق</string>
     <string name="pdf_crop_guide">قم بإزالة الهوامش في ملفات PDF.</string>
     <string name="guide_pinch">تكبير التصغير</string>
-    <string name="dark_mode">سمة</string>
+    <string name="dark_mode">المظهر</string>
     <string name="dark_mode_info_2">يرجى توخي الحذر عند استخدامه.</string>
     <string name="message_confirm">لا تظهر هذه الرسالة مرة أخرى</string>
     <string name="brightness">سطوع</string>
@@ -348,7 +348,7 @@
     <string name="no_permission">لا يوجد إذن</string>
     <string name="noti_pms">إذن الإخطار</string>
     <string name="noti_pms_guide_1">مطلوب \'إذن الإعلام\' لإشعارات الحالة للميزات أدناه.</string>
-    <string name="ads_block">إعلانات كتلة</string>
+    <string name="ads_block">حظر الإعلانات</string>
     <string name="ads_block_info">يجب أن يكون هناك عامل تصفية واحد على الأقل نشطًا لمنع الإعلانات.</string>
     <string name="filtered_image">صورة مفلترة (%d)</string>
     <string name="update">تحديث</string>
@@ -564,7 +564,7 @@
     <string name="tip">تلميح</string>
     <string name="similar_function">وظيفة مماثلة</string>
     <string name="web_content">محتوى الويب</string>
-    <string name="composition">تعبير</string>
+    <string name="composition">تسهيل الاستخدام</string>
     <string name="font">الخط</string>
     <string name="font_default">الخط الافتراضي</string>
     <string name="font_bold">جريئة</string>
@@ -697,7 +697,7 @@
     <string name="large_list">قائمة كبيرة</string>
     <string name="full_screen">تكبير الشاشة</string>
     <string name="full_tool">ملء الشاشة وشريط الأدوات</string>
-    <string name="display_title">عرض</string>
+    <string name="display_title">المظهر</string>
     <string name="display_cutout">انقطاع العرض</string>
     <string name="display_cutout_info">على الأجهزة ذات القواطع للعرض ، يتم تحويل المحتوى إلى منطقة الفصل.</string>
     <string name="scroll_mode">وضع التمرير</string>
@@ -719,7 +719,7 @@
     <string name="not_support_locale">قد لا يكون مدعومًا في جميع المناطق.</string>
     <string name="ads_filter">مرشح الإعلانات</string>
     <string name="user_filter">مرشح المستخدم</string>
-    <string name="backup_title">دعم</string>
+    <string name="backup_title">نسخة احتياطية</string>
     <string name="backup_import">حمل</string>
     <string name="backup_export">يصدر</string>
     <string name="backup_target">الرجاء تحديد هدف.</string>
@@ -942,7 +942,7 @@
     <string name="outline_color">لون المخطط التفصيلي</string>
     <string name="sub_guide">يمكنك تغيير الموضع عن طريق سحب الترجمة.</string>
     <string name="multi">متعددة</string>
-    <string name="notification">تنبيه</string>
+    <string name="notification">الإشعارات</string>
     <string name="audio_file">مقطع صوتي</string>
     <string name="audio_on">تشغيل الصوت</string>
     <string name="audio_off">قم بإيقاف تشغيل الصوت</string>
