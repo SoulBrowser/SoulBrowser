@@ -178,11 +178,11 @@
     <string name="password_confirm">Вы хотите сохранить свой пароль?</string>
     <string name="password_info">Сохранять пароли в обычном режиме и режиме инкогнито отдельно.</string>
     <string name="password_button">Кнопка менеджера паролей</string>
-    <string name="password_lock_1">Сначала настройте экран блокировки.</string>
+    <string name="password_lock_1">Сначала настройте блокировку экрана.</string>
     <string name="password_lock_2">Это для вашей конфиденциальности.</string>
     <string name="password_reset_guide">Сброс удалит все данные, связанные с паролем.</string>
     <string name="login_lock">Блокировка входа</string>
-    <string name="login_lock_info">Экран блокировки запустится перед входом в систему с сохраненным паролем.</string>
+    <string name="login_lock_info">Блокировка экрана запустится перед входом в систему с сохраненным паролем.</string>
     <string name="canceling">Отмена&#8230;</string>
     <string name="checking">Проверка&#8230;</string>
     <string name="finishing">в конце&#160;</string>
@@ -494,11 +494,11 @@
     <string name="history_info_limit">Записи старше срока хранения автоматически удаляются.</string>
     <string name="history_info_none">Вся история сохранена.\nСлишком большое количество данных может снизить производительность браузера.</string>
     <string name="list">Список</string>
-    <string name="touch_lock_info">Экран блокировки для разблокировки касания во время воспроизведения видео.</string>
+    <string name="touch_lock_info">Блокировка экрана для разблокировки касания во время воспроизведения видео.</string>
     <string name="touch_locked">Сенсор заблокирован.</string>
     <string name="touch_unlocked">Сенсор разблокирован.</string>
     <string name="app_lock">Блокировка приложения</string>
-    <string name="lock_type">Экран блокировки</string>
+    <string name="lock_type">Блокировка экрана</string>
     <string name="only_secret">Относится только к режиму инкогнито</string>
     <string name="unlock">Разблокировать</string>
     <string name="lock_pin">PIN</string>
