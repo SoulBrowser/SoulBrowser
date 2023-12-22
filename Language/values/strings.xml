@@ -975,8 +975,6 @@
     <string name="filter_link_4">Filters may not be updated if the filter address changes.</string>
     <string name="filter_link_5">In this case, please inform the developer.</string>
     <string name="open_source">Thanks to the open source developers. ❤</string>
-    <string name="search_guide_1">The selected item cannot be disabled.</string>
-    <string name="search_guide_2">To disable it, select another one first.</string>
     <string name="video_icon_tap">Tap the screen</string>
     <string name="video_icon_long">Long press on the screen</string>
     <string name="video_icon_guide">Press and hold the screen to reveal function buttons.</string>

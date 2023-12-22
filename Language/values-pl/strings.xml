@@ -975,8 +975,6 @@
     <string name="filter_link_4">Filtry mogą nie zostać zaktualizowane, jeśli zmieni się adres filtra.</string>
     <string name="filter_link_5">W takim przypadku prosimy o poinformowanie dewelopera.</string>
     <string name="open_source">Dzięki programistom open source. ❤</string>
-    <string name="search_guide_1">Wybrany element nie może zostać wyłączony.</string>
-    <string name="search_guide_2">Aby go wyłączyć, wybierz najpierw inny.</string>
     <string name="video_icon_tap">Dotknij ekranu</string>
     <string name="video_icon_long">Długie naciśnięcie ekranu</string>
     <string name="video_icon_guide">Naciśnij i przytrzymaj ekran, aby wyświetlić przyciski funkcyjne.</string>

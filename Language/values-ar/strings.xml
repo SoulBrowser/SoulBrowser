@@ -975,8 +975,6 @@
     <string name="filter_link_4">قد لا يتم تحديث عوامل التصفية إذا تغير عنوان المرشح.</string>
     <string name="filter_link_5">في هذه الحالة ، يرجى إبلاغ المطور.</string>
     <string name="open_source">بفضل مطوري البرامج مفتوحة المصدر. ❤</string>
-    <string name="search_guide_1">لا يمكن تعطيل العنصر المحدد.</string>
-    <string name="search_guide_2">لتعطيله ، حدد واحدة أخرى أولاً.</string>
     <string name="video_icon_tap">اضغط على الشاشة</string>
     <string name="video_icon_long">الضغط لفترة طويلة على الشاشة</string>
     <string name="video_icon_guide">اضغط مع الاستمرار على الشاشة للكشف عن أزرار الوظائف.</string>

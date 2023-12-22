@@ -975,8 +975,6 @@
     <string name="filter_link_4">यदि फ़िल्टर का पता बदल जाता है, तो हो सकता है कि फ़िल्टर अपडेट न हों।</string>
     <string name="filter_link_5">इस मामले में, कृपया डेवलपर को सूचित करें।</string>
     <string name="open_source">ओपन सोर्स डेवलपर्स को धन्यवाद। ❤</string>
-    <string name="search_guide_1">चयनित आइटम को अक्षम नहीं किया जा सकता है।</string>
-    <string name="search_guide_2">इसे अक्षम करने के लिए, पहले दूसरे को चुनें।</string>
     <string name="video_icon_tap">स्क्रीन पर टैप करें</string>
     <string name="video_icon_long">स्क्रीन पर देर तक दबाएं</string>
     <string name="video_icon_guide">फ़ंक्शन बटन प्रकट करने के लिए स्क्रीन को दबाकर रखें।</string>

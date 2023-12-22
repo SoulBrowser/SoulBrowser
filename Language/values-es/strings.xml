@@ -975,8 +975,6 @@
     <string name="filter_link_4">Es posible que los filtros no se actualicen si cambia la dirección del filtro.</string>
     <string name="filter_link_5">En este caso, informe al desarrollador.</string>
     <string name="open_source">Gracias a los desarrolladores de código abierto. ❤</string>
-    <string name="search_guide_1">El elemento seleccionado no se puede deshabilitar.</string>
-    <string name="search_guide_2">Para deshabilitarlo, seleccione otro primero.</string>
     <string name="video_icon_tap">Toca la pantalla</string>
     <string name="video_icon_long">Pulsación larga en la pantalla</string>
     <string name="video_icon_guide">Mantenga presionada la pantalla para revelar los botones de función.</string>

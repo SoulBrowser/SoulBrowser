@@ -975,8 +975,6 @@
     <string name="filter_link_4">Bộ lọc có thể không được cập nhật nếu địa chỉ bộ lọc thay đổi.</string>
     <string name="filter_link_5">Trong trường hợp này, vui lòng thông báo cho nhà phát triển.</string>
     <string name="open_source">Cảm ơn các nhà phát triển mã nguồn mở. ❤</string>
-    <string name="search_guide_1">Không thể tắt mục đã chọn.</string>
-    <string name="search_guide_2">Để tắt nó, trước tiên hãy chọn một cái khác.</string>
     <string name="video_icon_tap">Chạm vào màn hình</string>
     <string name="video_icon_long">Nhấn lâu vào màn hình</string>
     <string name="video_icon_guide">Nhấn và giữ màn hình để hiển thị các nút chức năng.</string>

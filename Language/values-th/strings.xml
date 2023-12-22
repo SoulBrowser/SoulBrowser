@@ -975,8 +975,6 @@
     <string name="filter_link_4">ตัวกรองอาจไม่ได้รับการอัปเดตหากมีการเปลี่ยนแปลงที่อยู่ตัวกรอง</string>
     <string name="filter_link_5">ในกรณีนี้ โปรดแจ้งผู้พัฒนา</string>
     <string name="open_source">ขอขอบคุณผู้พัฒนาโอเพ่นซอร์ส ❤</string>
-    <string name="search_guide_1">ไม่สามารถปิดใช้งานรายการที่เลือกได้</string>
-    <string name="search_guide_2">หากต้องการปิดใช้งาน ให้เลือกอันอื่นก่อน</string>
     <string name="video_icon_tap">แตะที่หน้าจอ</string>
     <string name="video_icon_long">กดค้างบนหน้าจอ</string>
     <string name="video_icon_guide">กดหน้าจอค้างไว้เพื่อแสดงปุ่มฟังก์ชั่น</string>
