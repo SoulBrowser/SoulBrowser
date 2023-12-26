@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">Bitte wählen Sie einen Artikel.</string>
     <string name="video_down_guide_0">Besuchen Sie die Website mit dem Video.</string>
     <string name="video_down_guide_1">Wenn ein Video erkannt wird, wird eine Download-Schaltfläche auf dem Bildschirm angezeigt.</string>
-    <string name="video_down_guide_2">Für Videos, die nicht heruntergeladen werden können, wird keine Schaltfläche angezeigt.</string>
-    <string name="video_down_guide_3">Einige Seiten müssen das Video abspielen, bevor das Video erkannt wird.\nUnterschiedliche Websiten haben ein unterschiedliches Verhalten.</string>
+    <string name="video_down_guide_3">Einige Seiten müssen das Video abspielen, bevor das Video erkannt wird.</string>
     <string name="video_down_guide_4">Aufgrund der YouTube-Richtlinie können YouTube Videos nicht heruntergeladen werden.</string>
     <string name="video_full_guide_1">Spielen Sie herunterladbare Videos mit dem Videoplayer ab.</string>
-    <string name="video_full_guide_2">Videos, die keine externe Wiedergabe auf der Site zulassen, können nicht wiedergegeben werden.</string>
     <string name="down_limit">Gleichzeitige Downloads</string>
     <string name="down_limit_info">Das gleichzeitige Herunterladen zu vieler Dateien kann ihr Gerät verlangsamen und Probleme verursachen.</string>
     <string name="not_allow">Nicht erlaubt</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">TV-Anzeige</string>
     <string name="media_route_menu_title">Weiterspielen&#8230;</string>
     <string name="introducing_cast">Berühren, um Medien auf ihr Fernsehgerät zu übertragen</string>
-    <string name="cast_info_1">Wenn ein Chromecast erkannt wird, wird oben auf dem Bildschirm ein Symbol angezeigt.</string>
-    <string name="cast_info_2">Klicken Sie auf das Symbol, um eine Verbindung zu ihrem Chromecast herzustellen.</string>
-    <string name="cast_info_3">* Es kann einige Zeit dauern, bis ihr Chromecast erkannt wird.</string>
     <string name="cast_info_4">Klicken Sie im Download-Popup auf das Wiedergabesymbol, um auf Ihren Fernseher zu streamen.</string>
     <string name="cast_info_6">YouTube wird nicht unterstützt.</string>
     <string name="cast_info_7">Einige Formate werden nicht unterstützt.</string>

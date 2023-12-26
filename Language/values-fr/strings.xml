@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">Veuillez sélectionner un article.</string>
     <string name="video_down_guide_0">Visitez le site avec la vidéo.</string>
     <string name="video_down_guide_1">Lorsqu\'une vidéo est détectée, un bouton de téléchargement apparaît à l\'écran.</string>
-    <string name="video_down_guide_2">Les bouton n\'apparaissent pas pour les vidéo qui ne peuvent pas être téléchargées.</string>
-    <string name="video_down_guide_3">Certains sites doivent lire la vidéo avant que la vidéo ne soit détectée.\nDifférents sites ont un comportement différent.</string>
+    <string name="video_down_guide_3">Certains sites doivent lire la vidéo avant que la vidéo ne soit détectée.</string>
     <string name="video_down_guide_4">En raison de la politique de YouTube, les vidéos YouTube ne peuvent pas être téléchargées.</string>
     <string name="video_full_guide_1">Lire des vidéos téléchargeables avec un lecteur vidéo.</string>
-    <string name="video_full_guide_2">Les vidéos qui ne permettent pas la lecture externe sur le site ne peuvent pas être lues.</string>
     <string name="down_limit">Téléchargement simultané</string>
     <string name="down_limit_info">Télécharger trop de fichiers en même temps peut ralentir votre appareil et provoquer des problèmes.</string>
     <string name="not_allow">Ne pas autoriser</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">Diffusion TV</string>
     <string name="media_route_menu_title">Jouer sur&#8230;</string>
     <string name="introducing_cast">Touchez pour diffuser du contenu multimédia sur votre téléviseur</string>
-    <string name="cast_info_1">Si un Chromecast est détecté, une icône apparaît en haut de l\'écran.</string>
-    <string name="cast_info_2">Cliquez sur l\'icône pour vous connecter à votre Chromecast.</string>
-    <string name="cast_info_3">* La détection de votre Chromecast peut prendre un certain temps.</string>
     <string name="cast_info_4">Dans la fenêtre contextuelle de téléchargement, cliquez sur l\'icône de lecture pour diffuser sur votre téléviseur.</string>
     <string name="cast_info_6">YouTube n\'est pas pris en charge.</string>
     <string name="cast_info_7">Certains formats ne sont pas pris en charge.</string>

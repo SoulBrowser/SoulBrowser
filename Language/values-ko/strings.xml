@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">항목을 선택하십시오.</string>
     <string name="video_down_guide_0">동영상이 있는 사이트를 방문합니다.</string>
     <string name="video_down_guide_1">동영상이 감지되면, 화면에 다운로드 버튼이 나타납니다.</string>
-    <string name="video_down_guide_2">다운로드할 수 없는 동영상은 버튼이 나타나지 않습니다.</string>
-    <string name="video_down_guide_3">일부 사이트는 동영상을 재생해야 동영상이 감지됩니다.\n사이트마다 동작이 다릅니다.</string>
+    <string name="video_down_guide_3">일부 사이트는 동영상을 재생해야 동영상이 감지됩니다.</string>
     <string name="video_down_guide_4">YouTube 정책에 의해, YouTube 동영상은 다운로드할 수 없습니다.</string>
     <string name="video_full_guide_1">다운로드 가능한 동영상을 비디오 플레이어로 재생합니다.</string>
-    <string name="video_full_guide_2">사이트에서 외부 재생이 허용되지 않는 동영상은 재생할 수 없습니다.</string>
     <string name="down_limit">동시 다운로드</string>
     <string name="down_limit_info">너무 많은 파일을 동시에 다운로드하면, 디바이스가 느려지고 문제가 발생할 수 있습니다.</string>
     <string name="not_allow">허용 안함</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">TV 캐스트</string>
     <string name="media_route_menu_title">재생&#8230;</string>
     <string name="introducing_cast">터치하여 미디어를 TV로 전송하세요.</string>
-    <string name="cast_info_1">Chromecast가 감지되면, 화면 상단에 아이콘이 나타납니다.</string>
-    <string name="cast_info_2">아이콘을 클릭하여 Chromecast를 연결하십시오.</string>
-    <string name="cast_info_3">* Chromecast를 감지하는데 약간 시간이 걸릴 수 있습니다.</string>
     <string name="cast_info_4">다운로드 팝업에서 재생 아이콘을 클릭하여 TV로 스트리밍하십시오.</string>
     <string name="cast_info_6">YouTube는 지원되지 않습니다.</string>
     <string name="cast_info_7">일부 포맷은 지원되지 않습니다.</string>

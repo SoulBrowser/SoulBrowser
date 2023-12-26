@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">請選擇一個項目</string>
     <string name="video_down_guide_0">瀏覽帶有影片的網站</string>
     <string name="video_down_guide_1">檢測到影片時，螢幕上會出現一個下載按鈕</string>
-    <string name="video_down_guide_2">對於無法下載的影片， 不顯示按鈕</string>
-    <string name="video_down_guide_3">某些網站需要先播放影片才能檢測到影片內容\n不同的站點具有不同的行為</string>
+    <string name="video_down_guide_3">某些網站需要先播放影片才能檢測到影片內容</string>
     <string name="video_down_guide_4">由於 YouTube 政策，無法下載 YouTube 影片</string>
     <string name="video_full_guide_1">使用影片播放器播放可下載的影片</string>
-    <string name="video_full_guide_2">網站上不允許外部播放的影片無法播放</string>
     <string name="down_limit">同時下載數</string>
     <string name="down_limit_info">同時下載太多檔案時，可能會減慢裝置速度並造成問題</string>
     <string name="not_allow">不允許</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">電視投放</string>
     <string name="media_route_menu_title">繼續播放&#8230;</string>
     <string name="introducing_cast">輕觸即可將媒體投放到電視上</string>
-    <string name="cast_info_1">如果檢測到 Chromecast，則圖示會出現在螢幕頂部</string>
-    <string name="cast_info_2">點選圖示以連結您的 Chromecast</string>
-    <string name="cast_info_3">* 檢測您的 Chromecast 可能需要一些時間</string>
     <string name="cast_info_4">單擊下載彈出視窗中的播放圖示，將串流媒體傳輸到電視</string>
     <string name="cast_info_6">不支援 YouTube</string>
     <string name="cast_info_7">不支援某些格式</string>

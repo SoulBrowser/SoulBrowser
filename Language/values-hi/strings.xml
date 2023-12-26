@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">कोई वस्तु चुनें।</string>
     <string name="video_down_guide_0">वीडियो के साथ साइट पर जाएं।</string>
     <string name="video_down_guide_1">जब किसी वीडियो का पता चलता है, तो स्क्रीन पर एक डाउनलोड बटन दिखाई देता है।</string>
-    <string name="video_down_guide_2">वीडियो के लिए बटन प्रकट नहीं होता है जिसे डाउनलोड नहीं किया जा सकता है।</string>
-    <string name="video_down_guide_3">वीडियो का पता चलने से पहले कुछ साइटों को वीडियो चलाने की आवश्यकता होती है।\nविभिन्न साइटों का व्यवहार भिन्न होता है।</string>
+    <string name="video_down_guide_3">वीडियो का पता चलने से पहले कुछ साइटों को वीडियो चलाने की आवश्यकता होती है।</string>
     <string name="video_down_guide_4">YouTube नीति के कारण, YouTube वीडियो डाउनलोड नहीं किए जा सकते।</string>
     <string name="video_full_guide_1">वीडियो प्लेयर के साथ डाउनलोड करने योग्य वीडियो चलाएं।</string>
-    <string name="video_full_guide_2">ऐसे वीडियो जो साइट पर बाहरी प्लेबैक की अनुमति नहीं देते हैं उन्हें चलाया नहीं जा सकता।</string>
     <string name="down_limit">समवर्ती डाउनलोड</string>
     <string name="down_limit_info">एक ही समय में बहुत सारी फ़ाइलें डाउनलोड करने से डिवाइस धीमा हो सकता है और समस्याएँ पैदा हो सकती हैं।</string>
     <string name="not_allow">इजाजत न दें</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">टीवी कलाकार</string>
     <string name="media_route_menu_title">पर चलाएं&#8230;</string>
     <string name="introducing_cast">मीडिया को अपने टीवी पर कास्ट करने के लिए स्पर्श करें</string>
-    <string name="cast_info_1">यदि क्रोमकास्ट का पता चलता है, तो स्क्रीन के शीर्ष पर एक आइकन दिखाई देगा।</string>
-    <string name="cast_info_2">अपना Chromecast कनेक्ट करने के लिए आइकन पर क्लिक करें।</string>
-    <string name="cast_info_3">* आपके Chromecast का पता लगाने में कुछ समय लग सकता है।</string>
     <string name="cast_info_4">इसे अपने टीवी पर स्ट्रीम करने के लिए डाउनलोड पॉपअप में प्ले आइकन पर क्लिक करें।</string>
     <string name="cast_info_6">यूट्यूब समर्थित नहीं है।</string>
     <string name="cast_info_7">कुछ प्रारूप समर्थित नहीं हैं।</string>

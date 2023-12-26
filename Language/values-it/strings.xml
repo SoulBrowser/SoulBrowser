@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">Seleziona un file.</string>
     <string name="video_down_guide_0">Visita il sito con il video.</string>
     <string name="video_down_guide_1">Quando viene rilevato un video, sullo schermo viene visualizzato un pulsante di download.</string>
-    <string name="video_down_guide_2">Il pulsante non viene visualizzato per i video che non possono essere scaricati.</string>
-    <string name="video_down_guide_3">Alcuni siti devono riprodurre il video prima che il video venga rilevato.\nSiti diversi hanno comportamenti diversi.</string>
+    <string name="video_down_guide_3">Alcuni siti devono riprodurre il video prima che il video venga rilevato.</string>
     <string name="video_down_guide_4">A causa delle norme di YouTube, i video di YouTube non possono essere scaricati.</string>
     <string name="video_full_guide_1">Riproduci video scaricabili con il lettore video.</string>
-    <string name="video_full_guide_2">I video che non consentono la riproduzione esterna sul sito non possono essere riprodotti.</string>
     <string name="down_limit">Download simultaneo</string>
     <string name="down_limit_info">Il download di troppi file contemporaneamente può rallentare il dispositivo e causare problemi.</string>
     <string name="not_allow">Non consentire</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">Cast TV</string>
     <string name="media_route_menu_title">Continua a rirpodurre&#8230;</string>
     <string name="introducing_cast">Tocca per trasmettere contenuti multimediali alla TV</string>
-    <string name="cast_info_1">Se viene rilevato un Chromecast, un\'icona apparirà nella parte superiore dello schermo.</string>
-    <string name="cast_info_2">Fai clic sull\'icona per connettere il tuo Chromecast.</string>
-    <string name="cast_info_3">* Potrebbe essere necessario del tempo per rilevare il tuo Chromecast.</string>
     <string name="cast_info_4">Fai clic sull\'icona di riproduzione nel popup di download per trasmetterla in streaming sulla TV.</string>
     <string name="cast_info_6">YouTube non è supportato.</string>
     <string name="cast_info_7">Alcuni formati non sono supportati.</string>

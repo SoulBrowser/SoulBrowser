@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">Select an item.</string>
     <string name="video_down_guide_0">Visit the site with the video.</string>
     <string name="video_down_guide_1">When a video is detected, a download button appears on the screen.</string>
-    <string name="video_down_guide_2">Button do not appear for video that can not be downloaded.</string>
-    <string name="video_down_guide_3">Some sites need to play the video before the video is detected.\nDifferent sites have different behavior.</string>
+    <string name="video_down_guide_3">Some sites need to play the video before the video is detected.</string>
     <string name="video_down_guide_4">Due to YouTube policy, YouTube videos can not be downloaded.</string>
     <string name="video_full_guide_1">Play downloadable videos with video player.</string>
-    <string name="video_full_guide_2">Videos that do not allow external playback on the site cannot be played.</string>
     <string name="down_limit">Concurrent download</string>
     <string name="down_limit_info">Downloading too many files at the same time can slow device and cause problems.</string>
     <string name="not_allow">Do not allow</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">TV cast</string>
     <string name="media_route_menu_title">Play on&#8230;</string>
     <string name="introducing_cast">Touch to cast media to your TV</string>
-    <string name="cast_info_1">If a Chromecast is detected, an icon will appear at the top of the screen.</string>
-    <string name="cast_info_2">Click the icon to connect your Chromecast.</string>
-    <string name="cast_info_3">* It may take some time to detect your Chromecast.</string>
     <string name="cast_info_4">Click the play icon in the download popup to stream it to your TV.</string>
     <string name="cast_info_6">YouTube is not supported.</string>
     <string name="cast_info_7">Some formats are not supported.</string>

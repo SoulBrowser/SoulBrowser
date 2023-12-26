@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">الرجاء تحديد عنصر.</string>
     <string name="video_down_guide_0">قم بزيارة موقع بالفيديو.</string>
     <string name="video_down_guide_1">عند اكتشاف مقطع فيديو ، يظهر زر التنزيل على الشاشة.</string>
-    <string name="video_down_guide_2">لا يظهر الزر لمقاطع الفيديو التي لا يمكن تنزيلها.</string>
-    <string name="video_down_guide_3">تحتاج بعض المواقع إلى تشغيل الفيديو قبل اكتشاف الفيديو.\nالمواقع المختلفة لها سلوكيات مختلفة.</string>
+    <string name="video_down_guide_3">تحتاج بعض المواقع إلى تشغيل الفيديو قبل اكتشاف الفيديو.</string>
     <string name="video_down_guide_4">نظرًا لسياسة YouTube ، لا يمكن تنزيل مقاطع فيديو YouTube.</string>
     <string name="video_full_guide_1">قم بتشغيل مقاطع الفيديو القابلة للتنزيل باستخدام مشغل الفيديو.</string>
-    <string name="video_full_guide_2">لا يمكن تشغيل مقاطع الفيديو التي لا تسمح بالتشغيل الخارجي على الموقع.</string>
     <string name="down_limit">تنزيل متزامن</string>
     <string name="down_limit_info">قد يؤدي تنزيل عدد كبير جدًا من الملفات في نفس الوقت إلى إبطاء جهازك والتسبب في حدوث مشكلات.</string>
     <string name="not_allow">غير مسموح</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">طاقم تلفزيوني</string>
     <string name="media_route_menu_title">لعب</string>
     <string name="introducing_cast">انقر لنقل الوسائط إلى التلفزيون.</string>
-    <string name="cast_info_1">عند اكتشاف جهاز Chromecast ، يظهر رمز أعلى الشاشة.</string>
-    <string name="cast_info_2">انقر فوق الرمز لتوصيل جهاز Chromecast.</string>
-    <string name="cast_info_3">* قد يستغرق اكتشاف جهاز Chromecast بعض الوقت.</string>
     <string name="cast_info_4">انقر فوق أيقونة التشغيل في نافذة التنزيل المنبثقة لدفقها على التلفزيون.</string>
     <string name="cast_info_6">يوتيوب غير مدعوم.</string>
     <string name="cast_info_7">بعض التنسيقات غير مدعومة.</string>

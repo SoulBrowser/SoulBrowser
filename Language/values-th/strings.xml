@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">กรุณาเลือกรายการ</string>
     <string name="video_down_guide_0">เยี่ยมชมเว็บไซต์ด้วยวิดีโอ</string>
     <string name="video_down_guide_1">เมื่อตรวจพบวิดีโอปุ่มดาวน์โหลดจะปรากฏบนหน้าจอ</string>
-    <string name="video_down_guide_2">ปุ่มไม่ปรากฏขึ้นสำหรับวิดีโอที่ไม่สามารถดาวน์โหลดได้</string>
-    <string name="video_down_guide_3">บางเว็บไซต์จำเป็นต้องเล่นวิดีโอก่อนตรวจพบวิดีโอ\nไซต์ที่ต่างกันมีพฤติกรรมที่แตกต่างกัน</string>
+    <string name="video_down_guide_3">บางเว็บไซต์จำเป็นต้องเล่นวิดีโอก่อนตรวจพบวิดีโอ</string>
     <string name="video_down_guide_4">เนื่องจากนโยบาย YouTube ไม่สามารถดาวน์โหลดวิดีโอ YouTube ได้</string>
     <string name="video_full_guide_1">เล่นวิดีโอที่ดาวน์โหลดได้ด้วยเครื่องเล่นวิดีโอ</string>
-    <string name="video_full_guide_2">ไม่สามารถเล่นวิดีโอที่ไม่อนุญาตให้เล่นภายนอกบนไซต์ได้</string>
     <string name="down_limit">ดาวน์โหลดพร้อมกัน</string>
     <string name="down_limit_info">การดาวน์โหลดไฟล์มากเกินไปในเวลาเดียวกันอาจทำให้อุปกรณ์ของคุณช้าลงและทำให้เกิดปัญหา</string>
     <string name="not_allow">ไม่อนุญาต</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">รายการทีวี</string>
     <string name="media_route_menu_title">เล่นบน&#8230;</string>
     <string name="introducing_cast">แตะเพื่อส่งสื่อไปยังทีวีของคุณ</string>
-    <string name="cast_info_1">หากตรวจพบ Chromecast ไอคอนจะปรากฏที่ด้านบนของหน้าจอ</string>
-    <string name="cast_info_2">คลิกที่ไอคอนเพื่อเชื่อมต่อ Chromecast ของคุณ</string>
-    <string name="cast_info_3">* อาจใช้เวลาสักครู่ในการตรวจหา Chromecast ของคุณ</string>
     <string name="cast_info_4">ในป๊อปอัปดาวน์โหลดให้คลิกไอคอนเล่นเพื่อสตรีมไปยังทีวีของคุณ</string>
     <string name="cast_info_6">ไม่รองรับ YouTube</string>
     <string name="cast_info_7">ไม่รองรับบางรูปแบบ</string>

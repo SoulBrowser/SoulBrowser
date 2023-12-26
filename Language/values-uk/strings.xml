@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">Виберіть пункт.</string>
     <string name="video_down_guide_0">Завітайте на сайт з відео.</string>
     <string name="video_down_guide_1">Коли відео виявлено, на екрані з’являється кнопка завантаження.</string>
-    <string name="video_down_guide_2">Кнопки не відображаються для відео, яке неможливо завантажити.</string>
-    <string name="video_down_guide_3">Деякі сайти потребують відтворення відео перед його виявленням.\nРізні сайти мають різну поведінку.</string>
+    <string name="video_down_guide_3">Деякі сайти потребують відтворення відео перед його виявленням.</string>
     <string name="video_down_guide_4">Через політику YouTube відео YouTube не можна завантажувати.</string>
     <string name="video_full_guide_1">Відтворюйте відео, які можна завантажити, за допомогою відеопрогравача.</string>
-    <string name="video_full_guide_2">Відео, які не допускають зовнішнього відтворення на сайті, не можна відтворювати.</string>
     <string name="down_limit">Одночасне завантаження</string>
     <string name="down_limit_info">Одночасне завантаження занадто багатьох файлів може сповільнити пристрій і спричинити проблеми.</string>
     <string name="not_allow">Не дозволяти</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">ТВ трансляції</string>
     <string name="media_route_menu_title">Вiдтворювати на&#8230;</string>
     <string name="introducing_cast">Торкніться, щоб передавати медіа на ТВ</string>
-    <string name="cast_info_1">Якщо виявлено Chromecast, піктограма з\'явиться у верхній частині екрану.</string>
-    <string name="cast_info_2">Натисніть піктограму, щоб підключити Ваш Chromecast.</string>
-    <string name="cast_info_3">* Може знадобитися деякий час, щоб виявити Ваш Chromecast.</string>
     <string name="cast_info_4">Натисніть піктограму відтворення у спливаючому вікні для завантаження, щоб передати її на ТВ.</string>
     <string name="cast_info_6">YouTube не підтримується.</string>
     <string name="cast_info_7">Деякі формати не підтримуються.</string>

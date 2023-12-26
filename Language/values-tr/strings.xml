@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">Lütfen bir öğe seçin.</string>
     <string name="video_down_guide_0">Videonun bulunduğu siteyi ziyaret edin.</string>
     <string name="video_down_guide_1">Bir video algılandığında, ekranda bir indirme düğmesi belirir.</string>
-    <string name="video_down_guide_2">Button indirilemeyen video için görünmüyor.</string>
-    <string name="video_down_guide_3">Bazı sitelerin video algılanmadan önce videoyu oynatması gerekir.\nFarklı siteler farklı davranışlara sahiptir.</string>
+    <string name="video_down_guide_3">Bazı sitelerin video algılanmadan önce videoyu oynatması gerekir.</string>
     <string name="video_down_guide_4">YouTube politikası nedeniyle, YouTube videoları indirilemiyor.</string>
     <string name="video_full_guide_1">Video oynatıcı ile indirilebilir videoları oynatın.</string>
-    <string name="video_full_guide_2">Sitede harici oynatmaya izin vermeyen videolar oynatılamaz.</string>
     <string name="down_limit">Eşzamanlı indirme</string>
     <string name="down_limit_info">Aynı anda çok fazla dosya indirmek, cihazınızı yavaşlatabilir ve sorunlara neden olabilir.</string>
     <string name="not_allow">İzin verme</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">TV yayını</string>
     <string name="media_route_menu_title">Oynamak&#8230;</string>
     <string name="introducing_cast">Medyayı TV\'nize yayınlamak için dokunun</string>
-    <string name="cast_info_1">Bir Chromecast tespit edilirse, ekranın üstünde bir simge görünür.</string>
-    <string name="cast_info_2">Chromecast\'inizi bağlamak için simgeyi tıklayın.</string>
-    <string name="cast_info_3">* Chromecast\'inizi tespit etmek biraz zaman alabilir.</string>
     <string name="cast_info_4">İndirme açılır penceresinde, TV\'nize akış yapmak için oynat simgesini tıklayın.</string>
     <string name="cast_info_6">YouTube desteklenmiyor.</string>
     <string name="cast_info_7">Bazı biçimler desteklenmez.</string>

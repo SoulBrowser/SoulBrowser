@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">Vui lòng chọn một mục.</string>
     <string name="video_down_guide_0">Truy cập trang web với video.</string>
     <string name="video_down_guide_1">Khi phát hiện thấy video, nút tải xuống sẽ xuất hiện trên màn hình.</string>
-    <string name="video_down_guide_2">Các nút không xuất hiện cho các video không thể tải xuống.</string>
-    <string name="video_down_guide_3">Một số trang web cần phát video trước khi phát hiện video.\nCác trang web khác nhau có hành vi khác nhau.</string>
+    <string name="video_down_guide_3">Một số trang web cần phát video trước khi phát hiện video.</string>
     <string name="video_down_guide_4">Do chính sách của YouTube, video YouTube không thể được tải xuống.</string>
     <string name="video_full_guide_1">Phát video có thể tải xuống bằng trình phát video.</string>
-    <string name="video_full_guide_2">Các video không cho phép phát lại bên ngoài trên trang web sẽ không thể phát được.</string>
     <string name="down_limit">Tải xuống đồng thời</string>
     <string name="down_limit_info">Tải xuống quá nhiều tệp cùng một lúc có thể làm chậm thiết bị của bạn và gây ra sự cố.</string>
     <string name="not_allow">Không cho phép</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">Truyền màn hình lên TV</string>
     <string name="media_route_menu_title">Chơi trên&#8230;</string>
     <string name="introducing_cast">Chạm để truyền phương tiện tới TV của bạn</string>
-    <string name="cast_info_1">Nếu Chromecast được phát hiện, một biểu tượng sẽ xuất hiện ở phía trên màn hình.</string>
-    <string name="cast_info_2">Nhấp vào biểu tượng để kết nối Chromecast của bạn.</string>
-    <string name="cast_info_3">* Có thể mất một chút thời gian để phát hiện Chromecast của bạn.</string>
     <string name="cast_info_4">Nhấp vào biểu tượng phát trong cửa sổ bật lên tải xuống để truyền phát đến TV của bạn.</string>
     <string name="cast_info_6">YouTube không được hỗ trợ.</string>
     <string name="cast_info_7">Một số định dạng không được hỗ trợ.</string>

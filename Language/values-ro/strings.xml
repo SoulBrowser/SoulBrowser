@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">Vă rugăm să selectați un articol.</string>
     <string name="video_down_guide_0">Accesați site-ul cu videoclipul.</string>
     <string name="video_down_guide_1">Când este detectat un videoclip, pe ecran apare un buton de descărcare.</string>
-    <string name="video_down_guide_2">Butonul nu apare pentru videoclipuri care nu pot fi descărcate.</string>
-    <string name="video_down_guide_3">Unele site-uri trebuie să redea videoclipul înainte de detectarea videoclipului.\nSite-urile diferite au un comportament diferit.</string>
+    <string name="video_down_guide_3">Unele site-uri trebuie să redea videoclipul înainte de detectarea videoclipului.</string>
     <string name="video_down_guide_4">Datorită politicii YouTube, videoclipurile YouTube nu pot fi descărcate.</string>
     <string name="video_full_guide_1">Redați videoclipuri descărcabile cu player video.</string>
-    <string name="video_full_guide_2">Videoclipurile care nu permit redarea externă pe site nu pot fi redate.</string>
     <string name="down_limit">Descărcare simultană</string>
     <string name="down_limit_info">Descărcarea prea multor fișiere în același timp poate încetini dispozitivul și provoca probleme.</string>
     <string name="not_allow">Nu permiteți</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">Turnare TV</string>
     <string name="media_route_menu_title">Joacă pe&#8230;</string>
     <string name="introducing_cast">Atingeți pentru a arunca media la televizor</string>
-    <string name="cast_info_1">Dacă este detectat un Chromecast, o pictogramă va apărea în partea de sus a ecranului.</string>
-    <string name="cast_info_2">Faceți clic pe pictogramă pentru a conecta Chromecast.</string>
-    <string name="cast_info_3">* Poate dura ceva timp pentru a detecta Chromecastul.</string>
     <string name="cast_info_4">Faceți clic pe pictograma de redare din fereastra de descărcare pentru a o transmite la televizor.</string>
     <string name="cast_info_6">YouTube nu este acceptat.</string>
     <string name="cast_info_7">Unele formate nu sunt acceptate.</string>

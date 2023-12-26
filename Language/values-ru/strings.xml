@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">Пожалуйста, выберите элемент.</string>
     <string name="video_down_guide_0">Посетите сайт с видео.</string>
     <string name="video_down_guide_1">При обнаружении видео на экране появляется кнопка загрузки.</string>
-    <string name="video_down_guide_2">Кнопки не отображаются для видео, которые нельзя загрузить.</string>
-    <string name="video_down_guide_3">Некоторые сайты должны воспроизводить видео до его обнаружения.\nУ разных сайтов разное поведение.</string>
+    <string name="video_down_guide_3">Некоторые сайты должны воспроизводить видео до его обнаружения.</string>
     <string name="video_down_guide_4">Из-за политики YouTube видео YouTube не могут быть загружены.</string>
     <string name="video_full_guide_1">Воспроизведение загружаемых видео с помощью видеоплеера.</string>
-    <string name="video_full_guide_2">Видео, которые не позволяют внешнее воспроизведение на сайте, не могут быть воспроизведены.</string>
     <string name="down_limit">Одновременная загрузка</string>
     <string name="down_limit_info">Загрузка слишком большого количества файлов одновременно может замедлить работу устройства и вызвать проблемы.</string>
     <string name="not_allow">Не разрешать</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">Трансляция</string>
     <string name="media_route_menu_title">Играть&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>
-    <string name="cast_info_1">Если обнаружен Chromecast, в верхней части экрана появится значок.</string>
-    <string name="cast_info_2">Нажмите на значок, чтобы подключить Chromecast.</string>
-    <string name="cast_info_3">* Обнаружение вашего Chromecast может занять некоторое время.</string>
     <string name="cast_info_4">Во всплывающем окне загрузки щёлкните значок воспроизведения для трансляции на телевизор.</string>
     <string name="cast_info_6">YouTube не поддерживается.</string>
     <string name="cast_info_7">Некоторые форматы не поддерживаются.</string>

@@ -466,11 +466,9 @@
     <string name="local_cast_guide_2">Wybierz element.</string>
     <string name="video_down_guide_0">Odwiedź stronę z wideo.</string>
     <string name="video_down_guide_1">Po wykryciu wideo na ekranie pojawia się przycisk pobierania.</string>
-    <string name="video_down_guide_2">Przycisk nie pojawia się w przypadku filmów, których nie można pobrać.</string>
-    <string name="video_down_guide_3">Niektóre strony muszą odtworzyć wideo, zanim zostanie wykryty.\nRóżne strony zachowują się inaczej.</string>
+    <string name="video_down_guide_3">Niektóre strony muszą odtworzyć wideo, zanim zostanie wykryty.</string>
     <string name="video_down_guide_4">Ze względu na zasady YouTube nie można pobierać filmów z YouTube.</string>
     <string name="video_full_guide_1">Odtwarzaj filmy do pobrania za pomocą odtwarzacza wideo.</string>
-    <string name="video_full_guide_2">Nie można odtwarzać filmów, które nie pozwalają na odtwarzanie zewnętrzne w witrynie.</string>
     <string name="down_limit">Jednoczesne pobieranie</string>
     <string name="down_limit_info">Pobieranie zbyt wielu plików jednocześnie może spowolnić urządzenie i powodować problemy.</string>
     <string name="not_allow">Nie zezwalaj</string>
@@ -572,9 +570,6 @@
     <string name="tv_cast">Obsada telewizyjna</string>
     <string name="media_route_menu_title">Graj na&#8230;</string>
     <string name="introducing_cast">Dotknij, aby przesłać multimedia na telewizor</string>
-    <string name="cast_info_1">Jeśli zostanie wykryty Chromecast, u góry ekranu pojawi się ikona.</string>
-    <string name="cast_info_2">Kliknij ikonę, aby połączyć Chromecasta.</string>
-    <string name="cast_info_3">* Wykrywanie Chromecasta może trochę potrwać.</string>
     <string name="cast_info_4">Kliknij ikonę odtwarzania w wyskakującym oknie pobierania, aby przesłać ją strumieniowo do telewizora.</string>
     <string name="cast_info_6">YouTube nie jest obsługiwany.</string>
     <string name="cast_info_7">Niektóre formaty nie są obsługiwane.</string>
