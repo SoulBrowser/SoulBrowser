@@ -14,8 +14,6 @@
     <string name="item">&#160;пункт</string>
     <string name="items">&#160;пунктiв</string>
     <string name="down_location">Розташування завантажень</string>
-    <string name="album_location">Розташування альбому</string>
-    <string name="zip_location">Розташування ZIP</string>
     <string name="save_location">Місце зберігання</string>
     <string name="file">Файл</string>
     <string name="image">Зображення</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Кнопка повернення до початку</string>
     <string name="qrcode_title">QR-код</string>
     <string name="voice_title">Голосовий пошук</string>
-    <string name="album_shortcut">Створення ярлика альбому</string>
-    <string name="album_short_info">Створіть ярлик альбому на головному екрані.</string>
-    <string name="cast_shortcut">Створення ярлика трансляції</string>
-    <string name="cast_short_info">Створіть ярлик трансляції на головному екрані.</string>
+    <string name="album_shortcut">Створіть ярлик PDF</string>
+    <string name="album_short_info">Створіть кнопку швидкого доступу до PDF-файлу на головному екрані.</string>
+    <string name="cast_shortcut">Створіть ярлик TV Cast</string>
+    <string name="cast_short_info">Створіть кнопку швидкого доступу для TV Cast на головному екрані.</string>
     <string name="list_menu">Меню</string>
     <string name="ads_white">Білий список реклами</string>
     <string name="ads_allow_site">Дозволити рекламу на поточному сайті</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Будь ласка, вкажіть адресу веб-сайту, який має проблеми з темною темою.</string>
     <string name="youtube_unmute">Увімкнути YouTube</string>
     <string name="youtube_speed">Збережіть швидкість відтворення YouTube</string>
-    <string name="youtube_tab">Відкрийте посилання YouTube у новій вкладці</string>
     <string name="youtube_auto">Автозапуск YouTube</string>
     <string name="back_play">Фонове відтворення</string>
     <string name="back_play_info">Через політику YouTube відтворення фонового режиму YouTube не підтримується.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Центр</string>
     <string name="show_right">Праворуч</string>
     <string name="tip">Підказка</string>
-    <string name="similar_function">Подібна функція</string>
     <string name="web_content">Веб-вміст</string>
     <string name="composition">Склад</string>
     <string name="font">Шрифт</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Проведіть праворуч по екрану, щоб змінити гучність.</string>
     <string name="local_file">Локальний файл</string>
     <string name="web_stream">(Веб-потоки)</string>
-    <string name="grid_mode">Режим сітки</string>
+    <string name="thumb_mode">Режим ескізів</string>
     <string name="list_mode">Режим списку</string>
     <string name="simple_mode">Простий режим</string>
     <string name="accept_cookie">Приймати файли cookie (Рекомендується)</string>

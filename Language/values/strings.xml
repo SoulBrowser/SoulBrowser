@@ -14,8 +14,6 @@
     <string name="item">&#160;item</string>
     <string name="items">&#160;items</string>
     <string name="down_location">Download location</string>
-    <string name="album_location">Album location</string>
-    <string name="zip_location">ZIP location</string>
     <string name="save_location">Storage location</string>
     <string name="file">File</string>
     <string name="image">Image</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Back to top button</string>
     <string name="qrcode_title">QR code</string>
     <string name="voice_title">Voice search</string>
-    <string name="album_shortcut">Create album shortcut</string>
-    <string name="album_short_info">Create an album shortcut button on the home screen.</string>
-    <string name="cast_shortcut">Create TV cast shortcut</string>
-    <string name="cast_short_info">Create a TV cast shortcut button on the home screen.</string>
+    <string name="album_shortcut">Create a PDF shortcut</string>
+    <string name="album_short_info">Create a PDF shortcut button on the home screen.</string>
+    <string name="cast_shortcut">Create a TV Cast shortcut</string>
+    <string name="cast_short_info">Create a TV Cast shortcut button on the home screen.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Ad whitelist</string>
     <string name="ads_allow_site">Allow ads on current site</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Please provide the address of the site that is having problems with the dark theme.</string>
     <string name="youtube_unmute">Unmute YouTube</string>
     <string name="youtube_speed">Save YouTube playback speed</string>
-    <string name="youtube_tab">Open YouTube link in new tab</string>
     <string name="youtube_auto">YouTube autoplay</string>
     <string name="back_play">Background playback</string>
     <string name="back_play_info">Due to YouTube policy, YouTube background playback is not supported.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Center</string>
     <string name="show_right">Right</string>
     <string name="tip">Tip</string>
-    <string name="similar_function">Similar function</string>
     <string name="web_content">Web content</string>
     <string name="composition">Composition</string>
     <string name="font">Font</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Drag the area on the right side of the screen to change the volume.</string>
     <string name="local_file">Local file</string>
     <string name="web_stream">(Web streaming)</string>
-    <string name="grid_mode">Grid mode</string>
+    <string name="thumb_mode">Thumbnail mode</string>
     <string name="list_mode">List mode</string>
     <string name="simple_mode">Simple mode</string>
     <string name="accept_cookie">Cookies accepted (Recommended)</string>

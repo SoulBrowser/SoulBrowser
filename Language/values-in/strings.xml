@@ -14,8 +14,6 @@
     <string name="item">&#160;barang</string>
     <string name="items">&#160;barang</string>
     <string name="down_location">Lokasi pengunduhan</string>
-    <string name="album_location">Lokasi album</string>
-    <string name="zip_location">Lokasi ZIP</string>
     <string name="save_location">Lokasi penyimpanan</string>
     <string name="file">File</string>
     <string name="image">Gambar</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Tombol kembali ke atas</string>
     <string name="qrcode_title">Kode QR</string>
     <string name="voice_title">Pencarian suara</string>
-    <string name="album_shortcut">Buat pintasan album</string>
-    <string name="album_short_info">Buat tombol pintas album di layar beranda.</string>
-    <string name="cast_shortcut">Buat pintasan transmisi TV</string>
-    <string name="cast_short_info">Buat tombol pintas transmisi TV di layar beranda.</string>
+    <string name="album_shortcut">Buat pintasan PDF</string>
+    <string name="album_short_info">Buat tombol pintasan PDF di layar beranda.</string>
+    <string name="cast_shortcut">Buat pintasan Transmisi TV</string>
+    <string name="cast_short_info">Buat tombol pintasan TV Cast di layar beranda.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Daftar putih Ad</string>
     <string name="ads_allow_site">Izinkan iklan di situs saat ini</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Berikan alamat situs yang mengalami masalah dengan tema gelap.</string>
     <string name="youtube_unmute">Suarakan YouTube</string>
     <string name="youtube_speed">Hemat kecepatan pemutaran YouTube</string>
-    <string name="youtube_tab">Buka tautan YouTube di tab baru</string>
     <string name="youtube_auto">Putar otomatis YouTube</string>
     <string name="back_play">Pemutaran latar belakang</string>
     <string name="back_play_info">Karena kebijakan YouTube, pemutaran latar belakang YouTube tidak didukung.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Pusat</string>
     <string name="show_right">Kanan</string>
     <string name="tip">Petunjuk</string>
-    <string name="similar_function">Fungsi serupa</string>
     <string name="web_content">Konten web</string>
     <string name="composition">Komposisi</string>
     <string name="font">Font</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Seret area di sisi kanan layar untuk mengubah volume.</string>
     <string name="local_file">File lokal</string>
     <string name="web_stream">(Streaming web)</string>
-    <string name="grid_mode">Mode kisi</string>
+    <string name="thumb_mode">Modus gambar mini</string>
     <string name="list_mode">Mode daftar</string>
     <string name="simple_mode">Mode sederhana</string>
     <string name="accept_cookie">Cookie diterima (Disarankan)</string>

@@ -14,8 +14,6 @@
     <string name="item">&#160;항목</string>
     <string name="items">&#160;항목</string>
     <string name="down_location">다운로드 위치</string>
-    <string name="album_location">앨범 위치</string>
-    <string name="zip_location">ZIP 위치</string>
     <string name="save_location">저장 위치</string>
     <string name="file">파일</string>
     <string name="image">이미지</string>
@@ -448,8 +446,8 @@
     <string name="show_up">맨 위로 이동 버튼</string>
     <string name="qrcode_title">QR코드</string>
     <string name="voice_title">음성 검색</string>
-    <string name="album_shortcut">앨범 바로가기 만들기</string>
-    <string name="album_short_info">홈 화면에 앨범 바로가기 버튼을 만듭니다.</string>
+    <string name="album_shortcut">PDF 바로가기 만들기</string>
+    <string name="album_short_info">홈 화면에 PDF 바로가기 버튼을 만듭니다.</string>
     <string name="cast_shortcut">TV 캐스트 바로가기 만들기</string>
     <string name="cast_short_info">홈 화면에 TV 캐스트 바로가기 버튼을 만듭니다.</string>
     <string name="list_menu">메뉴</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">어두운 테마에 문제가 있는 사이트의 주소를 알려주세요.</string>
     <string name="youtube_unmute">YouTube 음소거 해제</string>
     <string name="youtube_speed">YouTube 재생 속도 저장</string>
-    <string name="youtube_tab">YouTube 링크를 새 탭에서 열기</string>
     <string name="youtube_auto">YouTube 자동 재생</string>
     <string name="back_play">백그라운드 재생</string>
     <string name="back_play_info">YouTube 정책에 의해, YouTube 백그라운드 재생은 지원되지 않습니다.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">가운데</string>
     <string name="show_right">오른쪽</string>
     <string name="tip">팁</string>
-    <string name="similar_function">유사한 기능</string>
     <string name="web_content">웹 컨텐츠</string>
     <string name="composition">구성</string>
     <string name="font">폰트</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">화면 우측 영역을 드래그해서 음량을 변경합니다.</string>
     <string name="local_file">로컬 파일</string>
     <string name="web_stream">(웹 스트리밍)</string>
-    <string name="grid_mode">그리드 모드</string>
+    <string name="thumb_mode">썸네일 모드</string>
     <string name="list_mode">리스트 모드</string>
     <string name="simple_mode">심플 모드</string>
     <string name="accept_cookie">쿠키 허용 (권장)</string>

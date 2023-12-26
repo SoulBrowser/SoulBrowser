@@ -14,8 +14,6 @@
     <string name="item">&#160;आइटम</string>
     <string name="items">&#160;आइटम</string>
     <string name="down_location">स्थान डाउनलोड करें</string>
-    <string name="album_location">एल्बम स्थान</string>
-    <string name="zip_location">ज़िप स्थान</string>
     <string name="save_location">भंडारण स्थान</string>
     <string name="file">फ़ाइल</string>
     <string name="image">छवि</string>
@@ -448,10 +446,10 @@
     <string name="show_up">शीर्ष पर वापस जाएं बटन</string>
     <string name="qrcode_title">क्यू आर संहिता</string>
     <string name="voice_title">आवाज खोज</string>
-    <string name="album_shortcut">एल्बम शॉर्टकट बनाएं</string>
-    <string name="album_short_info">होम स्क्रीन पर एल्बम शॉर्टकट बटन बनाएं।</string>
-    <string name="cast_shortcut">टीवी कास्ट शॉर्टकट बनाएं</string>
-    <string name="cast_short_info">होम स्क्रीन पर टीवी कास्ट शॉर्टकट बटन बनाएं।</string>
+    <string name="album_shortcut">एक पीडीएफ शॉर्टकट बनाएं</string>
+    <string name="album_short_info">होम स्क्रीन पर एक पीडीएफ शॉर्टकट बटन बनाएं।</string>
+    <string name="cast_shortcut">एक टीवी कास्ट शॉर्टकट बनाएं</string>
+    <string name="cast_short_info">होम स्क्रीन पर एक टीवी कास्ट शॉर्टकट बटन बनाएं।</string>
     <string name="list_menu">मेन्यू</string>
     <string name="ads_white">विज्ञापन श्वेतसूची</string>
     <string name="ads_allow_site">वर्तमान साइट पर विज्ञापनों की अनुमति दें</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">कृपया उस साइट का पता प्रदान करें जिसमें डार्क थीम की समस्या है।</string>
     <string name="youtube_unmute">YouTube अनम्यूट करें</string>
     <string name="youtube_speed">YouTube प्लेबैक गति बचाएं</string>
-    <string name="youtube_tab">YouTube लिंक को नए टैब में खोलें</string>
     <string name="youtube_auto">यूट्यूब ऑटोप्ले</string>
     <string name="back_play">पृष्ठभूमि प्लेबैक</string>
     <string name="back_play_info">YouTube नीति के कारण, YouTube पृष्ठभूमि प्लेबैक समर्थित नहीं है।</string>
@@ -562,7 +559,6 @@
     <string name="show_center">केंद्र</string>
     <string name="show_right">सही</string>
     <string name="tip">बख्शीश</string>
-    <string name="similar_function">समान कार्य</string>
     <string name="web_content">वेब सामग्री</string>
     <string name="composition">संघटन</string>
     <string name="font">फ़ॉन्ट</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">वॉल्यूम बदलने के लिए क्षेत्र को स्क्रीन के दाईं ओर खींचें।</string>
     <string name="local_file">स्थानीय फ़ाइल</string>
     <string name="web_stream">(वेब स्ट्रीमिंग)</string>
-    <string name="grid_mode">ग्रिड मोड</string>
+    <string name="thumb_mode">थंबनेल मोड</string>
     <string name="list_mode">सूची मोड</string>
     <string name="simple_mode">सरल प्रकार</string>
     <string name="accept_cookie">कुकीज़ स्वीकृत (अनुशंसित)</string>

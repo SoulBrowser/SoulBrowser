@@ -14,8 +14,6 @@
     <string name="item">&#160;item</string>
     <string name="items">&#160;itens</string>
     <string name="down_location">Pasta de downloads</string>
-    <string name="album_location">Pasta de álbuns</string>
-    <string name="zip_location">Pasta de arquivos ZIP</string>
     <string name="save_location">Local armazenamento</string>
     <string name="file">Arquivo</string>
     <string name="image">Imagem</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Voltar ao botão superior</string>
     <string name="qrcode_title">Código QR</string>
     <string name="voice_title">Pesquisa por voz</string>
-    <string name="album_shortcut">Criar atalho para álbum</string>
-    <string name="album_short_info">Criar um botão de atalho do álbum na tela inicial.</string>
-    <string name="cast_shortcut">Criar atalho para transmitir</string>
-    <string name="cast_short_info">Crie um botão de atalho para transmitir para a TV na tela inicial.</string>
+    <string name="album_shortcut">Crie um atalho de PDF</string>
+    <string name="album_short_info">Crie um botão de atalho de PDF na tela inicial.</string>
+    <string name="cast_shortcut">Crie um atalho para TV Cast</string>
+    <string name="cast_short_info">Crie um botão de atalho do TV Cast na tela inicial.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Lista branca de anúncios</string>
     <string name="ads_allow_site">Permitir anúncios no site atual</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Forneça o endereço do site que está tendo problemas com o tema escuro.</string>
     <string name="youtube_unmute">Ativar o som do YouTube</string>
     <string name="youtube_speed">Salve a velocidade de reprodução do YouTube</string>
-    <string name="youtube_tab">Abra o link do YouTube em uma nova guia</string>
     <string name="youtube_auto">Reprodução automática do YouTube</string>
     <string name="back_play">Reprodução em segundo plano</string>
     <string name="back_play_info">Devido à política do YouTube, a reprodução em segundo plano do YouTube não é suportada.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Centro</string>
     <string name="show_right">Direita</string>
     <string name="tip">Dica</string>
-    <string name="similar_function">Função semelhante</string>
     <string name="web_content">Conteúdo da web</string>
     <string name="composition">Composição</string>
     <string name="font">Fonte</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Arraste a área no lado direito da tela para alterar o volume.</string>
     <string name="local_file">Arquivo local</string>
     <string name="web_stream">(Transmissão da web)</string>
-    <string name="grid_mode">Modo de grade</string>
+    <string name="thumb_mode">Modo miniatura</string>
     <string name="list_mode">Modo de lista</string>
     <string name="simple_mode">Modo simples</string>
     <string name="accept_cookie">Aceitar cookies (Recomendado)</string>

@@ -14,8 +14,6 @@
     <string name="item">&#160;article</string>
     <string name="items">&#160;articles</string>
     <string name="down_location">Emplacement des téléchargements</string>
-    <string name="album_location">Emplacement album</string>
-    <string name="zip_location">Emplacement ZIP</string>
     <string name="save_location">Emplacement de sauvegarde</string>
     <string name="file">Fichier</string>
     <string name="image">Image</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Bouton retour en haut</string>
     <string name="qrcode_title">Code QR</string>
     <string name="voice_title">Recherche vocale</string>
-    <string name="album_shortcut">Créer un raccourci d\'album</string>
-    <string name="album_short_info">Créez un bouton de raccourci d\'album sur l\'écran d\'accueil.</string>
-    <string name="cast_shortcut">Créer un raccourci de diffusion TV</string>
-    <string name="cast_short_info">Créez un bouton de raccourci de diffusion TV sur l\'écran d\'accueil.</string>
+    <string name="album_shortcut">Créer un raccourci PDF</string>
+    <string name="album_short_info">Créez un bouton de raccourci PDF sur l\'écran d\'accueil.</string>
+    <string name="cast_shortcut">Créer un raccourci TV Cast</string>
+    <string name="cast_short_info">Créez un bouton de raccourci TV Cast sur l\'écran d\'accueil.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Liste blanche Pub</string>
     <string name="ads_allow_site">Autoriser les annonces sur le site actuel</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Veuillez fournir l\'adresse du site qui rencontre des problèmes avec le thème sombre.</string>
     <string name="youtube_unmute">Activer YouTube</string>
     <string name="youtube_speed">Enregistrer la vitesse de lecture YouTube</string>
-    <string name="youtube_tab">Ouvrir le lien YouTube dans un nouvel onglet</string>
     <string name="youtube_auto">Lecture automatique YouTube</string>
     <string name="back_play">Lecture en arrière plan</string>
     <string name="back_play_info">En raison de la politique de YouTube, la lecture en arrière plan de YouTube n\'est pas prise en charge.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Centre</string>
     <string name="show_right">Droit</string>
     <string name="tip">Conseil</string>
-    <string name="similar_function">Fonction similaire</string>
     <string name="web_content">Contenu Web</string>
     <string name="composition">Composition</string>
     <string name="font">Police</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Faites glisser la zone sur le côté droit de l\'écran pour modifier le volume.</string>
     <string name="local_file">Fichier local</string>
     <string name="web_stream">(Streaming web)</string>
-    <string name="grid_mode">Mode grille</string>
+    <string name="thumb_mode">Mode vignette</string>
     <string name="list_mode">Mode liste</string>
     <string name="simple_mode">Mode simple</string>
     <string name="accept_cookie">Cookies acceptés (Recommandé)</string>

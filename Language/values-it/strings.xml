@@ -14,8 +14,6 @@
     <string name="item">&#160;articolo</string>
     <string name="items">&#160;elementi</string>
     <string name="down_location">Percorso download</string>
-    <string name="album_location">Percorso album</string>
-    <string name="zip_location">Percorso ZIP</string>
     <string name="save_location">Percorso archiviazione</string>
     <string name="file">File</string>
     <string name="image">Immagine</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Pulsante torna in alto</string>
     <string name="qrcode_title">Codice QR</string>
     <string name="voice_title">Ricerca vocale</string>
-    <string name="album_shortcut">Crea scorciatoia per album</string>
-    <string name="album_short_info">Crea un pulsante di scelta rapida dell\'album nella schermata principale.</string>
-    <string name="cast_shortcut">Crea scorciatoia per cast TV</string>
-    <string name="cast_short_info">Crea un pulsante di scelta rapida cast TV nella schermata principale.</string>
+    <string name="album_shortcut">Crea un collegamento PDF</string>
+    <string name="album_short_info">Crea un pulsante di scelta rapida PDF nella schermata iniziale.</string>
+    <string name="cast_shortcut">Crea un collegamento per Cast TV</string>
+    <string name="cast_short_info">Crea un pulsante di scelta rapida TV Cast nella schermata principale.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Lista bianca annunci</string>
     <string name="ads_allow_site">Consenti annunci sul sito corrente</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Fornisci l\'indirizzo del sito che ha problemi con il tema scuro.</string>
     <string name="youtube_unmute">Riattiva YouTube</string>
     <string name="youtube_speed">Salva la velocità di riproduzione di YouTube</string>
-    <string name="youtube_tab">Apri il link YouTube in una nuova scheda</string>
     <string name="youtube_auto">Riproduzione automatica di YouTube</string>
     <string name="back_play">Riproduzione in background</string>
     <string name="back_play_info">A causa delle norme di YouTube, la riproduzione in background di YouTube non è supportata.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Centro</string>
     <string name="show_right">Lato destro</string>
     <string name="tip">Suggerimento</string>
-    <string name="similar_function">Funzione simile</string>
     <string name="web_content">Contenuto web</string>
     <string name="composition">Composizione</string>
     <string name="font">Caratteri</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Trascina l\'area sul lato destro dello schermo per modificare il volume.</string>
     <string name="local_file">File locale</string>
     <string name="web_stream">(Streaming web)</string>
-    <string name="grid_mode">Modalità griglia</string>
+    <string name="thumb_mode">Modalità miniatura</string>
     <string name="list_mode">Modalità elenco</string>
     <string name="simple_mode">Modalità semplice</string>
     <string name="accept_cookie">Cookie accettati (Consigliati)</string>

@@ -14,8 +14,6 @@
     <string name="item">&#160;pozycja</string>
     <string name="items">&#160;przedmiotów</string>
     <string name="down_location">Lokalizacja pobierania</string>
-    <string name="album_location">Lokalizacja albumu</string>
-    <string name="zip_location">Lokalizacja ZIP</string>
     <string name="save_location">Miejsce przechowywania</string>
     <string name="file">Plik</string>
     <string name="image">Obraz</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Przycisk powrót do góry</string>
     <string name="qrcode_title">Kodu QR</string>
     <string name="voice_title">Szukanie głosowe</string>
-    <string name="album_shortcut">Utwórz skrót do albumu</string>
-    <string name="album_short_info">Utwórz przycisk skrótu do albumu na ekranie głównym.</string>
-    <string name="cast_shortcut">Utwórz skrót do obsada telewizyjna</string>
-    <string name="cast_short_info">Utwórz przycisk skrótu do obsada telewizyjna na ekranie głównym.</string>
+    <string name="album_shortcut">Utwórz skrót do pliku PDF</string>
+    <string name="album_short_info">Utwórz przycisk skrótu PDF na ekranie głównym.</string>
+    <string name="cast_shortcut">Utwórz skrót do TV Cast</string>
+    <string name="cast_short_info">Utwórz przycisk skrótu TV Cast na ekranie głównym.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Biała lista reklam</string>
     <string name="ads_allow_site">Zezwalaj na reklamy w bieżącej witrynie</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Podaj adres witryny, która ma problemy z ciemnym motywem.</string>
     <string name="youtube_unmute">Wyłącz wyciszenie YouTube</string>
     <string name="youtube_speed">Zapisz prędkość odtwarzania YouTube</string>
-    <string name="youtube_tab">Otwórz link do YouTube w nowej karcie</string>
     <string name="youtube_auto">Autoodtwarzanie w YouTube</string>
     <string name="back_play">Odtwarzanie w tle</string>
     <string name="back_play_info">Ze względu na zasady YouTube odtwarzanie w tle YouTube nie jest obsługiwane.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Centrum</string>
     <string name="show_right">Prawo</string>
     <string name="tip">Wskazówka</string>
-    <string name="similar_function">Podobna funkcja</string>
     <string name="web_content">Treść internetowa</string>
     <string name="composition">Kompozycja</string>
     <string name="font">Czcionka</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Przeciągnij obszar po prawej stronie ekranu, aby zmienić głośność.</string>
     <string name="local_file">Plik lokalny</string>
     <string name="web_stream">(Streaming w sieci)</string>
-    <string name="grid_mode">Tryb siatki</string>
+    <string name="thumb_mode">Tryb miniatur</string>
     <string name="list_mode">Tryb listy</string>
     <string name="simple_mode">Tryb prosty</string>
     <string name="accept_cookie">Pliki cookie są akceptowane (Zalecane)</string>

@@ -14,8 +14,6 @@
     <string name="item">العنصر</string>
     <string name="items">العناصر</string>
     <string name="down_location">موقع التنزيل</string>
-    <string name="album_location">موقع الألبوم</string>
-    <string name="zip_location">موقع مضغوط</string>
     <string name="save_location">مكان التخزين</string>
     <string name="file">ملف</string>
     <string name="image">صورة</string>
@@ -448,10 +446,10 @@
     <string name="show_up">زر العودة الى اعلى</string>
     <string name="qrcode_title">رمز الاستجابة السريعة</string>
     <string name="voice_title">البحث الصوتي</string>
-    <string name="album_shortcut">قم بإنشاء اختصار الألبوم</string>
-    <string name="album_short_info">قم بإنشاء زر اختصار ألبوم على الشاشة الرئيسية.</string>
-    <string name="cast_shortcut">إنشاء اختصار TV Cast</string>
-    <string name="cast_short_info">قم بإنشاء زر اختصار البث التلفزيوني على شاشتك الرئيسية.</string>
+    <string name="album_shortcut">إنشاء اختصار PDF</string>
+    <string name="album_short_info">قم بإنشاء زر اختصار PDF على الشاشة الرئيسية.</string>
+    <string name="cast_shortcut">قم بإنشاء اختصار TV Cast</string>
+    <string name="cast_short_info">قم بإنشاء زر اختصار TV Cast على الشاشة الرئيسية.</string>
     <string name="list_menu">قائمة</string>
     <string name="ads_white">القائمة البيضاء للإعلان</string>
     <string name="ads_allow_site">السماح بالإعلانات على الموقع الحالي</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">من فضلك قل لي عنوان الموقع الذي يواجه مشاكل مع المظهر الداكن.</string>
     <string name="youtube_unmute">إعادة صوت YouTube</string>
     <string name="youtube_speed">حفظ سرعة تشغيل YouTube</string>
-    <string name="youtube_tab">افتح رابط YouTube في علامة تبويب جديدة</string>
     <string name="youtube_auto">يوتيوب التشغيل التلقائي</string>
     <string name="back_play">تشغيل في الخلفية</string>
     <string name="back_play_info">لا تدعم سياسة YouTube تشغيل الخلفية في YouTube.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">وسط</string>
     <string name="show_right">الجانب الأيمن</string>
     <string name="tip">تلميح</string>
-    <string name="similar_function">وظيفة مماثلة</string>
     <string name="web_content">محتوى الويب</string>
     <string name="composition">تسهيل الاستخدام</string>
     <string name="font">الخط</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">اسحب المنطقة اليمنى من الشاشة لتغيير مستوى الصوت.</string>
     <string name="local_file">ملف محلي</string>
     <string name="web_stream">(دفق الويب)</string>
-    <string name="grid_mode">وضع الشبكة</string>
+    <string name="thumb_mode">وضع الصورة المصغرة</string>
     <string name="list_mode">وضع القائمة</string>
     <string name="simple_mode">الوضع البسيط</string>
     <string name="accept_cookie">قبول ملفات تعريف الارتباط (موصى به)</string>

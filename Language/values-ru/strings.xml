@@ -14,8 +14,6 @@
     <string name="item">&#160;пункт</string>
     <string name="items">&#160;пункты</string>
     <string name="down_location">Место загрузки</string>
-    <string name="album_location">Место альбома</string>
-    <string name="zip_location">Место ZIP</string>
     <string name="save_location">Место хранения</string>
     <string name="file">Файл</string>
     <string name="image">Изображение</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Кнопка прокрутки наверх</string>
     <string name="qrcode_title">QR-код</string>
     <string name="voice_title">Голосовой поиск</string>
-    <string name="album_shortcut">Создать ярлык альбома</string>
-    <string name="album_short_info">Создать ярлык альбома на главном экране.</string>
-    <string name="cast_shortcut">Создать ярлык трансляции</string>
-    <string name="cast_short_info">Создать ярлык трансляции на главном экране.</string>
+    <string name="album_shortcut">Создать ярлык PDF</string>
+    <string name="album_short_info">Создайте кнопку быстрого доступа к PDF-файлу на главном экране.</string>
+    <string name="cast_shortcut">Создайте ярлык TV Cast</string>
+    <string name="cast_short_info">Создайте кнопку быстрого доступа TV Cast на главном экране.</string>
     <string name="list_menu">Меню</string>
     <string name="ads_white">Белый список рекламы</string>
     <string name="ads_allow_site">Разрешить рекламу на текущем сайте</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Укажите адрес сайта, на котором возникают проблемы с темной темой.</string>
     <string name="youtube_unmute">Включить YouTube</string>
     <string name="youtube_speed">Сохранить скорость воспроизведения YouTube</string>
-    <string name="youtube_tab">Открыть ссылку YouTube в новой вкладке</string>
     <string name="youtube_auto">Автозапуск YouTube</string>
     <string name="back_play">Фоновое воспроизведение</string>
     <string name="back_play_info">Из-за политики YouTube фоновое воспроизведение YouTube не поддерживается.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Центр</string>
     <string name="show_right">Справа</string>
     <string name="tip">Подсказка</string>
-    <string name="similar_function">Аналогичная функция</string>
     <string name="web_content">Веб-контент</string>
     <string name="composition">Состав</string>
     <string name="font">Шрифт</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Проведите в правой части экрана, чтобы изменить громкость.</string>
     <string name="local_file">Локальный файл</string>
     <string name="web_stream">(Веб-трансляция)</string>
-    <string name="grid_mode">Режим сетки</string>
+    <string name="thumb_mode">Режим миниатюр</string>
     <string name="list_mode">Режим списка</string>
     <string name="simple_mode">Простой режим</string>
     <string name="accept_cookie">Разрешать Cookie (Рекомендуется)</string>

@@ -14,8 +14,6 @@
     <string name="item">&#160;articol</string>
     <string name="items">&#160;articole</string>
     <string name="down_location">Locație descărcare</string>
-    <string name="album_location">Locație album</string>
-    <string name="zip_location">Locație ZIP</string>
     <string name="save_location">Locație depozitare</string>
     <string name="file">Fişier</string>
     <string name="image">Imagine</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Butonul înapoi sus</string>
     <string name="qrcode_title">Cod QR</string>
     <string name="voice_title">Căutare vocală</string>
-    <string name="album_shortcut">Creare scurtătură de album</string>
-    <string name="album_short_info">Creați un buton pentru scurtăturile album pe ecranul de pornire.</string>
-    <string name="cast_shortcut">Creați scurtătură de turnare TV</string>
-    <string name="cast_short_info">Creați un buton pentru scurtăturile turnare TV pe ecranul de pornire.</string>
+    <string name="album_shortcut">Creați o comandă rapidă PDF</string>
+    <string name="album_short_info">Creați un buton de comandă rapidă PDF pe ecranul de start.</string>
+    <string name="cast_shortcut">Creați o comandă rapidă TV Cast</string>
+    <string name="cast_short_info">Creați un buton de comandă rapidă TV Cast pe ecranul de pornire.</string>
     <string name="list_menu">Meniu</string>
     <string name="ads_white">Lista albă anunțurilor</string>
     <string name="ads_allow_site">Permiteți anunțuri pe site-ul actual</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Vă rugăm să furnizați adresa site-ului care are probleme cu tema întunecată.</string>
     <string name="youtube_unmute">Activați sunetul YouTube</string>
     <string name="youtube_speed">Salvați viteza de redare YouTube</string>
-    <string name="youtube_tab">Deschide linkul YouTube într-o filă nouă</string>
     <string name="youtube_auto">Redare automată YouTube</string>
     <string name="back_play">Redare fundal</string>
     <string name="back_play_info">Datorită politicii YouTube, redarea pe fundalul YouTube nu este acceptată.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Centru</string>
     <string name="show_right">Dreapta</string>
     <string name="tip">Aluzie</string>
-    <string name="similar_function">Funcție similară</string>
     <string name="web_content">Conținut web</string>
     <string name="composition">Compoziţie</string>
     <string name="font">Font</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Trageți zona din partea dreaptă a ecranului pentru a schimba volumul.</string>
     <string name="local_file">Fișier local</string>
     <string name="web_stream">(Transmiterea web)</string>
-    <string name="grid_mode">Modul grilă</string>
+    <string name="thumb_mode">Modul miniaturi</string>
     <string name="list_mode">Modul listă</string>
     <string name="simple_mode">Modul simplu</string>
     <string name="accept_cookie">Cookie uri acceptate (Recomandate)</string>

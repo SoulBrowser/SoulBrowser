@@ -14,8 +14,6 @@
     <string name="item">&#160;Eintrag</string>
     <string name="items">&#160;Einträge</string>
     <string name="down_location">Downloadverzeichnis</string>
-    <string name="album_location">Albumverzeichnis</string>
-    <string name="zip_location">ZIP-Verzeichnis</string>
     <string name="save_location">Speicherort</string>
     <string name="file">Datei</string>
     <string name="image">Bild</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Zurück zum Anfangsknopf</string>
     <string name="qrcode_title">QR-Code</string>
     <string name="voice_title">Sprachsuche</string>
-    <string name="album_shortcut">Albumverknüpfung erstellen</string>
-    <string name="album_short_info">Albumverknüpfung-Schaltfläche auf dem Startbildschirm erstellen.</string>
-    <string name="cast_shortcut">TV-Anzeige-Verknüpfung erstellen</string>
-    <string name="cast_short_info">TV-Anzeige-Verknüpfungs-Schaltfläche auf dem Startbildschirm erstellen.</string>
+    <string name="album_shortcut">Erstellen Sie eine PDF-Verknüpfung</string>
+    <string name="album_short_info">Erstellen Sie eine PDF-Verknüpfungsschaltfläche auf dem Startbildschirm.</string>
+    <string name="cast_shortcut">Erstellen Sie eine TV-Cast-Verknüpfung</string>
+    <string name="cast_short_info">Erstellen Sie auf dem Startbildschirm eine TV Cast-Verknüpfungsschaltfläche.</string>
     <string name="list_menu">Menü</string>
     <string name="ads_white">Whitelist für Werbung</string>
     <string name="ads_allow_site">Anzeigen auf aktueller Seite zulassen</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Bitte geben Sie die Adresse der Seite an, auf der Probleme mit dem dunklen Thema auftreten.</string>
     <string name="youtube_unmute">Stummschaltung von YouTube aufheben</string>
     <string name="youtube_speed">Speichern Sie die YouTube-Wiedergabegeschwindigkeit</string>
-    <string name="youtube_tab">YouTube-Link in neuem Tab öffnen</string>
     <string name="youtube_auto">YouTube-Autoplay</string>
     <string name="back_play">Hintergrundwiedergabe</string>
     <string name="back_play_info">Aufgrund der YouTube-Richtlinie wird die Wiedergabe im Hintergrund nicht unterstützt.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Zentriert</string>
     <string name="show_right">Rechts</string>
     <string name="tip">Hinweis</string>
-    <string name="similar_function">Ähnliche Funktion</string>
     <string name="web_content">Webinhalt</string>
     <string name="composition">Komposition</string>
     <string name="font">Schriftart</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Ziehen Sie den Bereich auf der rechten Seite des Bildschirms, um die Lautstärke zu ändern.</string>
     <string name="local_file">Lokale Datei</string>
     <string name="web_stream">(Web streaming)</string>
-    <string name="grid_mode">Rastermodus</string>
+    <string name="thumb_mode">Miniaturbildmodus</string>
     <string name="list_mode">Listenmodus</string>
     <string name="simple_mode">Einfacher Modus</string>
     <string name="accept_cookie">Cookies akzeptieren (empfohlen)</string>

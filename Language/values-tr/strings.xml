@@ -14,8 +14,6 @@
     <string name="item">&#160;madde</string>
     <string name="items">&#160;öğe</string>
     <string name="down_location">İndirme konumu</string>
-    <string name="album_location">Albüm konumu</string>
-    <string name="zip_location">ZIP konumu</string>
     <string name="save_location">Depolama yeri</string>
     <string name="file">Dosya</string>
     <string name="image">Resim</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Başa dön düğmesi</string>
     <string name="qrcode_title">QR kod</string>
     <string name="voice_title">Sesli arama</string>
-    <string name="album_shortcut">Albüm kısayolu oluştur</string>
-    <string name="album_short_info">Ana ekranda bir albüm kısayolu düğmesi oluşturun.</string>
-    <string name="cast_shortcut">TV yayın kısayolu oluştur</string>
-    <string name="cast_short_info">Ana ekranda bir TV yayın kısayolu düğmesi oluşturun.</string>
+    <string name="album_shortcut">PDF kısayolu oluşturun</string>
+    <string name="album_short_info">Ana ekranda bir PDF kısayol düğmesi oluşturun.</string>
+    <string name="cast_shortcut">TV Yayını kısayolu oluşturma</string>
+    <string name="cast_short_info">Ana ekranda bir TV Yayını kısayol düğmesi oluşturun.</string>
     <string name="list_menu">Menü</string>
     <string name="ads_white">Reklam beyaz listesi</string>
     <string name="ads_allow_site">Mevcut sitede reklamlara izin ver</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Lütfen karanlık temayla sorun yaşayan sitenin adresini sağlayın.</string>
     <string name="youtube_unmute">YouTube\'un sesini aç</string>
     <string name="youtube_speed">YouTube oynatma hızını kaydedin</string>
-    <string name="youtube_tab">YouTube bağlantısını yeni bir sekmede açın</string>
     <string name="youtube_auto">YouTube otomatik oynatma</string>
     <string name="back_play">Arka planda oynatma</string>
     <string name="back_play_info">YouTube politikası nedeniyle, YouTube arka plan oynatımı desteklenmiyor.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Merkez</string>
     <string name="show_right">Sağ taraf</string>
     <string name="tip">İpucu</string>
-    <string name="similar_function">Benzer işlev</string>
     <string name="web_content">Web içeriği</string>
     <string name="composition">Kompozisyon</string>
     <string name="font">Yazı</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Ses seviyesini değiştirmek için ekranın sağ tarafındaki alanı sürükleyin.</string>
     <string name="local_file">Yerel dosya</string>
     <string name="web_stream">(Web akışı)</string>
-    <string name="grid_mode">Izgara modu</string>
+    <string name="thumb_mode">Küçük resim modu</string>
     <string name="list_mode">Liste modu</string>
     <string name="simple_mode">Basit modu</string>
     <string name="accept_cookie">Çerezler kabul edilsin (Önerilir)</string>

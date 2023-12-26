@@ -14,8 +14,6 @@
     <string name="item">&#160;mục</string>
     <string name="items">&#160;mục</string>
     <string name="down_location">Vị trí tải xuống</string>
-    <string name="album_location">Vị trí album</string>
-    <string name="zip_location">Vị trí ZIP</string>
     <string name="save_location">Vị trí lưu trữ</string>
     <string name="file">Tập tin</string>
     <string name="image">Hình ảnh</string>
@@ -448,10 +446,10 @@
     <string name="show_up">Nút quay lại đầu trang</string>
     <string name="qrcode_title">Mã QR</string>
     <string name="voice_title">Tìm kiếm bằng giọng nói</string>
-    <string name="album_shortcut">Tạo lối tắt album</string>
-    <string name="album_short_info">Tạo một nút tắt album trên màn hình chính.</string>
-    <string name="cast_shortcut">Tạo lối tắt truyền hình</string>
-    <string name="cast_short_info">Tạo một nút tắt truyền hình trên màn hình chính.</string>
+    <string name="album_shortcut">Tạo lối tắt PDF</string>
+    <string name="album_short_info">Tạo nút tắt PDF trên màn hình chính.</string>
+    <string name="cast_shortcut">Tạo lối tắt Truyền hình Truyền hình</string>
+    <string name="cast_short_info">Tạo nút tắt TV Cast trên màn hình chính.</string>
     <string name="list_menu">Menu</string>
     <string name="ads_white">Danh sách cho phép quảng cáo</string>
     <string name="ads_allow_site">Cho phép quảng cáo trên trang web hiện tại</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">Vui lòng cung cấp địa chỉ của trang web đang gặp sự cố với chủ đề tối.</string>
     <string name="youtube_unmute">Bật tiếng YouTube</string>
     <string name="youtube_speed">Tiết kiệm tốc độ phát YouTube</string>
-    <string name="youtube_tab">Mở liên kết YouTube trong một tab mới</string>
     <string name="youtube_auto">Tự động phát trên YouTube</string>
     <string name="back_play">Phát lại nền</string>
     <string name="back_play_info">Do chính sách của YouTube, phát lại nền YouTube không được hỗ trợ.</string>
@@ -562,7 +559,6 @@
     <string name="show_center">Trung tâm</string>
     <string name="show_right">Phải</string>
     <string name="tip">Dấu</string>
-    <string name="similar_function">Chức năng tương tự</string>
     <string name="web_content">Nội dung web</string>
     <string name="composition">Thành phần</string>
     <string name="font">Phông chữ</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">Kéo khu vực bên phải màn hình để thay đổi âm lượng.</string>
     <string name="local_file">Tập tin cục bộ</string>
     <string name="web_stream">(Phát trực tuyến)</string>
-    <string name="grid_mode">Chế độ lưới</string>
+    <string name="thumb_mode">Chế độ hình thu nhỏ</string>
     <string name="list_mode">Chế độ danh sách</string>
     <string name="simple_mode">Chế độ đơn giản</string>
     <string name="accept_cookie">Cookies được chấp nhận (Khuyến nghị)</string>

@@ -14,8 +14,6 @@
     <string name="item">&#160;項目</string>
     <string name="items">&#160;項目</string>
     <string name="down_location">ダウンロードの場所</string>
-    <string name="album_location">アルバムの場所</string>
-    <string name="zip_location">ZIPの場所</string>
     <string name="save_location">保管場所</string>
     <string name="file">ファイル</string>
     <string name="image">画像</string>
@@ -448,10 +446,10 @@
     <string name="show_up">ページのトップへボタン</string>
     <string name="qrcode_title">QRコード</string>
     <string name="voice_title">音声検索</string>
-    <string name="album_shortcut">アルバムのショートカットを作成</string>
-    <string name="album_short_info">ホーム画面にアルバムショートカットボタンを作成します。</string>
-    <string name="cast_shortcut">TVキャストのショートカットを作成</string>
-    <string name="cast_short_info">ホーム画面にTVキャストショートカットボタンを作成します。</string>
+    <string name="album_shortcut">PDFショートカットの作成</string>
+    <string name="album_short_info">ホーム画面にPDFショートカットボタンを作成します。</string>
+    <string name="cast_shortcut">テレビキャストのショートカットを作成</string>
+    <string name="cast_short_info">ホーム画面にテレビキャストショートカットボタンを作成します。</string>
     <string name="list_menu">メニュー</string>
     <string name="ads_white">広告許可リスト</string>
     <string name="ads_allow_site">現在のサイトに広告を許可する</string>
@@ -552,7 +550,6 @@
     <string name="report_dark">ダークテーマで問題が発生しているサイトのアドレスを入力してください。</string>
     <string name="youtube_unmute">YouTubeのミュートを解除</string>
     <string name="youtube_speed">YouTubeの再生速度を保存</string>
-    <string name="youtube_tab">新しいタブでYouTubeリンクを開く</string>
     <string name="youtube_auto">YouTubeの自動再生</string>
     <string name="back_play">バックグラウンド再生</string>
     <string name="back_play_info">YouTubeのポリシーにより、YouTubeのバックグラウンド再生はサポートされていません。</string>
@@ -562,7 +559,6 @@
     <string name="show_center">中央</string>
     <string name="show_right">右</string>
     <string name="tip">ヒント</string>
-    <string name="similar_function">同様の機能</string>
     <string name="web_content">Webコンテンツ</string>
     <string name="composition">構成</string>
     <string name="font">フォント</string>
@@ -644,7 +640,7 @@
     <string name="drag_volume_info">画面右側の領域をドラッグして音量を変更します。</string>
     <string name="local_file">ローカルファイル</string>
     <string name="web_stream">（ウェブストリーミング）</string>
-    <string name="grid_mode">グリッドモード</string>
+    <string name="thumb_mode">サムネイルモード</string>
     <string name="list_mode">リストモード</string>
     <string name="simple_mode">シンプルモード</string>
     <string name="accept_cookie">クッキー許可する（推奨）</string>
