@@ -187,7 +187,6 @@
     <string name="show_detail">Ayrıntı bilgilerini göster</string>
     <string name="show_single">Tek satır başlığı</string>
     <string name="show_recent">Son dosyayı işaretle</string>
-    <string name="open_as">Farklı aç</string>
     <string name="open_continue">Önceki pozisyonda aç</string>
     <string name="pull_refresh">Yenilemek için çekin</string>
     <string name="refresh">Yenile</string>
@@ -251,7 +250,6 @@
     <string name="camera">Kamera</string>
     <string name="camcorder">Kamera</string>
     <string name="web_edit_hint">URL\'yi arayın veya yazın</string>
-    <string name="web_search">Web araması</string>
     <string name="search_engine">Arama motoru</string>
     <string name="search_url">Ara</string>
     <string name="screen_off">Ekran zaman aşımı</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">Ses düzeyi kontrolü</string>
     <string name="volume">Ses</string>
     <string name="control_seek">Ekran gezinme</string>
-    <string name="pip_finish">PIP modundan çıkıldı.</string>
     <string name="pip_mode">PIP modu</string>
-    <string name="pip_guide">Ekranı döndürmek PIP modundan çıkabilir.\nFarklı siteler farklı davranışlara sahiptir.</string>
+    <string name="pip_info">PIP modu Android 8\'den itibaren desteklenmektedir.</string>
     <string name="wait_retry">Yükleniyor&#8230;\nLütfen daha sonra tekrar deneyiniz.</string>
     <string name="ads_retry">Reklam henüz hazır değil.\nLütfen daha sonra tekrar deneyin.</string>
     <string name="rate_app">Uygulamayı derecelendirin</string>
@@ -438,7 +435,7 @@
     <string name="start_page">Başlangıç sayfası</string>
     <string name="show_image_info">Bir web sayfasının resmini görüntüleyin.</string>
     <string name="video_download">Video İndir</string>
-    <string name="show_video_button">Video indirme düğmesinin konumu</string>
+    <string name="video_manager">Video yöneticisi düğmesi</string>
     <string name="two_finger">(İki parmak)</string>
     <string name="two_finger_info_1">Sekmeleri taşımak için iki parmağınızla sola ve sağa kaydırın.</string>
     <string name="two_finger_info_2">Sekmeyi çıkarmak için iki parmağınızla aşağı kaydırın.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">TV yayın listesi simgesini seçin.</string>
     <string name="local_cast_guide_2">Lütfen bir öğe seçin.</string>
     <string name="video_down_guide_0">Videonun bulunduğu siteyi ziyaret edin.</string>
-    <string name="video_down_guide_1">Bir video algılandığında, ekranda bir indirme düğmesi belirir.</string>
-    <string name="video_down_guide_3">Bazı sitelerin video algılanmadan önce videoyu oynatması gerekir.</string>
-    <string name="video_down_guide_4">YouTube politikası nedeniyle, YouTube videoları indirilemiyor.</string>
-    <string name="video_full_guide_1">Video oynatıcı ile indirilebilir videoları oynatın.</string>
+    <string name="video_down_guide_1">Video algılandığında ekranda bir düğme görünecektir.</string>
+    <string name="video_down_guide_2">Bazı sitelerin video algılanmadan önce videoyu oynatması gerekir.</string>
+    <string name="video_down_guide_3">YouTube politikası nedeniyle, YouTube videoları indirilemiyor.</string>
     <string name="down_limit">Eşzamanlı indirme</string>
     <string name="down_limit_info">Aynı anda çok fazla dosya indirmek, cihazınızı yavaşlatabilir ve sorunlara neden olabilir.</string>
     <string name="not_allow">İzin verme</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">Gizli moddan çık</string>
     <string name="direct_input">Direkt girin</string>
     <string name="direct_select">Direkt seçim</string>
-    <string name="resize">Yeniden boyutlandırma</string>
     <string name="added">Eklendi</string>
     <string name="changed">Değiştirildi</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Hata bildir</string>
     <string name="report_site">Site bildirin</string>
     <string name="report_down">Lütfen videoyu indiremediğiniz sitenin adresini belirtin.</string>
-    <string name="report_dark">Lütfen karanlık temayla sorun yaşayan sitenin adresini sağlayın.</string>
     <string name="youtube_unmute">YouTube\'un sesini aç</string>
     <string name="youtube_speed">YouTube oynatma hızını kaydedin</string>
     <string name="youtube_auto">YouTube otomatik oynatma</string>
+    <string name="youtube_pip">YouTube PIP düğmesi</string>
     <string name="back_play">Arka planda oynatma</string>
     <string name="back_play_info">YouTube politikası nedeniyle, YouTube arka plan oynatımı desteklenmiyor.</string>
     <string name="normal_rate">Normal</string>
@@ -577,7 +572,6 @@
     <string name="default_title">Varsayılan</string>
     <string name="user_defined">Görenek</string>
     <string name="cast_on">Yayınlamayı etkinleştir</string>
-    <string name="show_full">Video oynatıcı düğmesi</string>
     <string name="icon_color">Düğme rengi</string>
     <string name="icon_pos">Düğme konumu</string>
     <string name="storage_guide_1">Android 10 için güncellendi.</string>

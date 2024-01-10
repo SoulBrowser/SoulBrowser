@@ -187,7 +187,6 @@
     <string name="show_detail">Detaillierte Info anzeigen</string>
     <string name="show_single">Einzeiliger Titel</string>
     <string name="show_recent">Markiere die letzte Datei</string>
-    <string name="open_as">Öffnen als</string>
     <string name="open_continue">In der vorherigen Position öffnen</string>
     <string name="pull_refresh">Zum Aktualisieren nach unten ziehen</string>
     <string name="refresh">Aktualisierung</string>
@@ -251,7 +250,6 @@
     <string name="camera">Kamera</string>
     <string name="camcorder">Camcorder</string>
     <string name="web_edit_hint">URL suchen oder eingeben</string>
-    <string name="web_search">Websuche</string>
     <string name="search_engine">Suchmaschine</string>
     <string name="search_url">Suche</string>
     <string name="screen_off">Bildschirmtimeout</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">Lautstärkeregler</string>
     <string name="volume">Lautstärke</string>
     <string name="control_seek">Bildschirmnavigation</string>
-    <string name="pip_finish">Der PIP-Modus wurde beendet.</string>
     <string name="pip_mode">PIP-Modus</string>
-    <string name="pip_guide">Durch Drehen des Bildschirms wird möglicherweise der PIP-Modus beendet.\nUnterschiedliche Websites haben unterschiedliches Verhalten.</string>
+    <string name="pip_info">Der PIP-Modus wird ab Android 8 unterstützt.</string>
     <string name="wait_retry">Laden&#8230;\nBitte versuche es später noch einmal.</string>
     <string name="ads_retry">Die Anzeige ist noch nicht fertig.\nBitte versuchen Sie es später noch einmal.</string>
     <string name="rate_app">App bewerten</string>
@@ -438,7 +435,7 @@
     <string name="start_page">Startseite</string>
     <string name="show_image_info">Bildinformationen anzeigen.</string>
     <string name="video_download">Video Herunterladen</string>
-    <string name="show_video_button">Position der Video-Download-Schaltfläche</string>
+    <string name="video_manager">Schaltfläche „Videomanager“.</string>
     <string name="two_finger">(Zwei Finger)</string>
     <string name="two_finger_info_1">Streichen Sie mit zwei Fingern nach links und rechts, um der Tab zu verschieben.</string>
     <string name="two_finger_info_2">Wischen Sie mit zwei Fingern nach unten, um der Tab zu entfernen.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">Wählen Sie das Symbol für die TV-Liste.</string>
     <string name="local_cast_guide_2">Bitte wählen Sie einen Artikel.</string>
     <string name="video_down_guide_0">Besuchen Sie die Website mit dem Video.</string>
-    <string name="video_down_guide_1">Wenn ein Video erkannt wird, wird eine Download-Schaltfläche auf dem Bildschirm angezeigt.</string>
-    <string name="video_down_guide_3">Einige Seiten müssen das Video abspielen, bevor das Video erkannt wird.</string>
-    <string name="video_down_guide_4">Aufgrund der YouTube-Richtlinie können YouTube Videos nicht heruntergeladen werden.</string>
-    <string name="video_full_guide_1">Spielen Sie herunterladbare Videos mit dem Videoplayer ab.</string>
+    <string name="video_down_guide_1">Wenn ein Video erkannt wird, erscheint eine Schaltfläche auf dem Bildschirm.</string>
+    <string name="video_down_guide_2">Einige Seiten müssen das Video abspielen, bevor das Video erkannt wird.</string>
+    <string name="video_down_guide_3">Aufgrund der YouTube-Richtlinie können YouTube Videos nicht heruntergeladen werden.</string>
     <string name="down_limit">Gleichzeitige Downloads</string>
     <string name="down_limit_info">Das gleichzeitige Herunterladen zu vieler Dateien kann ihr Gerät verlangsamen und Probleme verursachen.</string>
     <string name="not_allow">Nicht erlaubt</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">Inkognito Modus beenden</string>
     <string name="direct_input">Direkte Eingabe</string>
     <string name="direct_select">Direkte Auswahl</string>
-    <string name="resize">Größe ändern</string>
     <string name="added">Hinzugefügt</string>
     <string name="changed">Geändert</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Fehler melden</string>
     <string name="report_site">Website melden</string>
     <string name="report_down">Bitte geben Sie die Adresse der Seite an, auf der das Video nicht heruntergeladen werden kann.</string>
-    <string name="report_dark">Bitte geben Sie die Adresse der Seite an, auf der Probleme mit dem dunklen Thema auftreten.</string>
     <string name="youtube_unmute">Stummschaltung von YouTube aufheben</string>
     <string name="youtube_speed">Speichern Sie die YouTube-Wiedergabegeschwindigkeit</string>
     <string name="youtube_auto">YouTube-Autoplay</string>
+    <string name="youtube_pip">YouTube-PIP-Schaltfläche</string>
     <string name="back_play">Hintergrundwiedergabe</string>
     <string name="back_play_info">Aufgrund der YouTube-Richtlinie wird die Wiedergabe im Hintergrund nicht unterstützt.</string>
     <string name="normal_rate">Normal</string>
@@ -577,7 +572,6 @@
     <string name="default_title">Standard</string>
     <string name="user_defined">Benutzerdefiniert</string>
     <string name="cast_on">Anzeige aktivieren</string>
-    <string name="show_full">Video-Player-Schaltfläche</string>
     <string name="icon_color">Tastenfarbe</string>
     <string name="icon_pos">Schaltflächenposition</string>
     <string name="storage_guide_1">Aktualisiert für Android 10.</string>

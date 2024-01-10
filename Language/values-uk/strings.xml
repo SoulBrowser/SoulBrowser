@@ -187,7 +187,6 @@
     <string name="show_detail">Показати детальну інформацію</string>
     <string name="show_single">Заголовок одним рядком</string>
     <string name="show_recent">Позначити останній файл</string>
-    <string name="open_as">Відкрити як</string>
     <string name="open_continue">Відкрити на попередній позиції</string>
     <string name="pull_refresh">Потягніть, щоб оновити</string>
     <string name="refresh">Оновити</string>
@@ -251,7 +250,6 @@
     <string name="camera">Камера</string>
     <string name="camcorder">Відеокамера</string>
     <string name="web_edit_hint">Пошук або введіть URL-адресу</string>
-    <string name="web_search">Пошук в Інтернеті</string>
     <string name="search_engine">Пошукова система</string>
     <string name="search_url">Пошук</string>
     <string name="screen_off">Час очікування екрана</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">Контроль гучності</string>
     <string name="volume">Гучність</string>
     <string name="control_seek">Екранна навігація</string>
-    <string name="pip_finish">Режим PIP був вимкнений.</string>
     <string name="pip_mode">Режим PIP</string>
-    <string name="pip_guide">Обертання екрана може вийти з режиму PIP.\nРізні сайти мають різну поведінку.</string>
+    <string name="pip_info">Режим PIP підтримується, починаючи з Android 8.</string>
     <string name="wait_retry">Завантаження&#8230;\nБудь ласка спробуйте пізніше.</string>
     <string name="ads_retry">Реклама ще не готова.\nБудь-ласка спробуйте пізніше.</string>
     <string name="rate_app">Оцініть додаток</string>
@@ -438,7 +435,7 @@
     <string name="start_page">Початкова сторінка</string>
     <string name="show_image_info">Відображення зображень веб-сторінки.</string>
     <string name="video_download">Завантажити Відео</string>
-    <string name="show_video_button">Розташування кнопки завантаження відео</string>
+    <string name="video_manager">Кнопка менеджера відео</string>
     <string name="two_finger">(Два пальці)</string>
     <string name="two_finger_info_1">Щоб перемістити вкладку, проведіть двома пальцями вліво і вправо.</string>
     <string name="two_finger_info_2">Щоб закрити вкладку, проведіть вниз двома пальцями.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">Виберіть піктограму списку телепередач.</string>
     <string name="local_cast_guide_2">Виберіть пункт.</string>
     <string name="video_down_guide_0">Завітайте на сайт з відео.</string>
-    <string name="video_down_guide_1">Коли відео виявлено, на екрані з’являється кнопка завантаження.</string>
-    <string name="video_down_guide_3">Деякі сайти потребують відтворення відео перед його виявленням.</string>
-    <string name="video_down_guide_4">Через політику YouTube відео YouTube не можна завантажувати.</string>
-    <string name="video_full_guide_1">Відтворюйте відео, які можна завантажити, за допомогою відеопрогравача.</string>
+    <string name="video_down_guide_1">Коли буде виявлено відео, на екрані з’явиться кнопка.</string>
+    <string name="video_down_guide_2">Деякі сайти потребують відтворення відео перед його виявленням.</string>
+    <string name="video_down_guide_3">Через політику YouTube відео YouTube не можна завантажувати.</string>
     <string name="down_limit">Одночасне завантаження</string>
     <string name="down_limit_info">Одночасне завантаження занадто багатьох файлів може сповільнити пристрій і спричинити проблеми.</string>
     <string name="not_allow">Не дозволяти</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">Вийти із режиму анонімного перегляду</string>
     <string name="direct_input">Пряме введення</string>
     <string name="direct_select">Прямий вибір</string>
-    <string name="resize">Змініть розмір</string>
     <string name="added">Додано</string>
     <string name="changed">Змінено</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Повідомити про помилку</string>
     <string name="report_site">Повідомити про сайт</string>
     <string name="report_down">Вкажіть, будь ласка, адресу веб-сайту, на якому неможливо завантажити відео.</string>
-    <string name="report_dark">Будь ласка, вкажіть адресу веб-сайту, який має проблеми з темною темою.</string>
     <string name="youtube_unmute">Увімкнути YouTube</string>
     <string name="youtube_speed">Збережіть швидкість відтворення YouTube</string>
     <string name="youtube_auto">Автозапуск YouTube</string>
+    <string name="youtube_pip">Кнопка YouTube PIP</string>
     <string name="back_play">Фонове відтворення</string>
     <string name="back_play_info">Через політику YouTube відтворення фонового режиму YouTube не підтримується.</string>
     <string name="normal_rate">Нормальний</string>
@@ -577,7 +572,6 @@
     <string name="default_title">За замовчуванням</string>
     <string name="user_defined">Користувацька</string>
     <string name="cast_on">Увімкнути трансляцію</string>
-    <string name="show_full">Кнопка відеопрогравача</string>
     <string name="icon_color">Колір кнопки</string>
     <string name="icon_pos">Розташування кнопки</string>
     <string name="storage_guide_1">Оновлено для Android 10.</string>

@@ -187,7 +187,6 @@
     <string name="show_detail">Show detail info</string>
     <string name="show_single">Single line title</string>
     <string name="show_recent">Mark recent file</string>
-    <string name="open_as">Open as</string>
     <string name="open_continue">Open at previous position</string>
     <string name="pull_refresh">Pull to refresh</string>
     <string name="refresh">Refresh</string>
@@ -251,7 +250,6 @@
     <string name="camera">Camera</string>
     <string name="camcorder">Camcorder</string>
     <string name="web_edit_hint">Search or type URL</string>
-    <string name="web_search">Web search</string>
     <string name="search_engine">Search engine</string>
     <string name="search_url">Search</string>
     <string name="screen_off">Screen timeout</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">Volume control</string>
     <string name="volume">Volume</string>
     <string name="control_seek">Screen navigation</string>
-    <string name="pip_finish">PIP mode has been exited.</string>
     <string name="pip_mode">PIP mode</string>
-    <string name="pip_guide">Rotating the screen may exit the PIP mode.\nDifferent sites have different behavior.</string>
+    <string name="pip_info">PIP mode is supported starting from Android 8.</string>
     <string name="wait_retry">Loading&#8230;\nPlease try again later.</string>
     <string name="ads_retry">The advertisement is not ready yet.\nPlease try again later.</string>
     <string name="rate_app">Rate app</string>
@@ -438,7 +435,7 @@
     <string name="start_page">Start page</string>
     <string name="show_image_info">Display images of a webpage.</string>
     <string name="video_download">Download Video</string>
-    <string name="show_video_button">Video download button location</string>
+    <string name="video_manager">Video manager button</string>
     <string name="two_finger">(Two fingers)</string>
     <string name="two_finger_info_1">Swipe left and right with two fingers to move tab.</string>
     <string name="two_finger_info_2">Swipe down with two fingers to remove tab.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">Select the TV cast list icon.</string>
     <string name="local_cast_guide_2">Select an item.</string>
     <string name="video_down_guide_0">Visit the site with the video.</string>
-    <string name="video_down_guide_1">When a video is detected, a download button appears on the screen.</string>
-    <string name="video_down_guide_3">Some sites need to play the video before the video is detected.</string>
-    <string name="video_down_guide_4">Due to YouTube policy, YouTube videos can not be downloaded.</string>
-    <string name="video_full_guide_1">Play downloadable videos with video player.</string>
+    <string name="video_down_guide_1">When video is detected, a button will appear on the screen.</string>
+    <string name="video_down_guide_2">Some sites need to play the video before the video is detected.</string>
+    <string name="video_down_guide_3">Due to YouTube policy, YouTube videos can not be downloaded.</string>
     <string name="down_limit">Concurrent download</string>
     <string name="down_limit_info">Downloading too many files at the same time can slow device and cause problems.</string>
     <string name="not_allow">Do not allow</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">Exit incognito mode</string>
     <string name="direct_input">Direct input</string>
     <string name="direct_select">Direct selection</string>
-    <string name="resize">Resize</string>
     <string name="added">Added</string>
     <string name="changed">Changed</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Report error</string>
     <string name="report_site">Report site</string>
     <string name="report_down">Please provide the address of the site where the video can not be downloaded.</string>
-    <string name="report_dark">Please provide the address of the site that is having problems with the dark theme.</string>
     <string name="youtube_unmute">Unmute YouTube</string>
     <string name="youtube_speed">Save YouTube playback speed</string>
     <string name="youtube_auto">YouTube autoplay</string>
+    <string name="youtube_pip">YouTube PIP button</string>
     <string name="back_play">Background playback</string>
     <string name="back_play_info">Due to YouTube policy, YouTube background playback is not supported.</string>
     <string name="normal_rate">Normal</string>
@@ -577,7 +572,6 @@
     <string name="default_title">Default</string>
     <string name="user_defined">Custom</string>
     <string name="cast_on">Enable cast</string>
-    <string name="show_full">Video player button</string>
     <string name="icon_color">Button color</string>
     <string name="icon_pos">Button location</string>
     <string name="storage_guide_1">Updated for Android 10.</string>

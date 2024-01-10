@@ -187,7 +187,6 @@
     <string name="show_detail">Tampilkan info detail</string>
     <string name="show_single">Judul baris tunggal</string>
     <string name="show_recent">Tandai file terkini</string>
-    <string name="open_as">Buka sebagai</string>
     <string name="open_continue">Buka di posisi sebelumnya</string>
     <string name="pull_refresh">Tarik menyegarkan</string>
     <string name="refresh">Segarkan</string>
@@ -251,7 +250,6 @@
     <string name="camera">Camera</string>
     <string name="camcorder">Camcorder</string>
     <string name="web_edit_hint">Cari atau ketik URL</string>
-    <string name="web_search">Pencarian web</string>
     <string name="search_engine">Mesin pencari</string>
     <string name="search_url">Cari</string>
     <string name="screen_off">Waktu tunggu layar</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">Kontrol volume</string>
     <string name="volume">Volume</string>
     <string name="control_seek">Navigasi layar</string>
-    <string name="pip_finish">Mode PIP telah keluar.</string>
     <string name="pip_mode">Mode PIP</string>
-    <string name="pip_guide">Memutar layar dapat keluar dari mode PIP.\nSitus yang berbeda memiliki perilaku yang berbeda pula.</string>
+    <string name="pip_info">Mode PIP didukung mulai dari Android 8.</string>
     <string name="wait_retry">Memuat&#8230;\nSilakan coba lagi nanti.</string>
     <string name="ads_retry">Iklannya belum siap.\nSilakan coba lagi nanti.</string>
     <string name="rate_app">Beri peringkat aplikasi</string>
@@ -438,7 +435,7 @@
     <string name="start_page">Halaman awal</string>
     <string name="show_image_info">Tampilkan gambar halaman web.</string>
     <string name="video_download">Unduh Video</string>
-    <string name="show_video_button">Lokasi tombol unduh video</string>
+    <string name="video_manager">Tombol pengelola video</string>
     <string name="two_finger">(Dua jari)</string>
     <string name="two_finger_info_1">Geser ke kiri dan kanan dengan dua jari untuk memindahkan tab.</string>
     <string name="two_finger_info_2">Geser ke bawah dengan dua jari untuk menghapus tab.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">Pilih ikon daftar pemain TV.</string>
     <string name="local_cast_guide_2">Silakan pilih satu item.</string>
     <string name="video_down_guide_0">Kunjungi situs dengan video.</string>
-    <string name="video_down_guide_1">Saat video terdeteksi, tombol unduh muncul di layar.</string>
-    <string name="video_down_guide_3">Beberapa situs perlu memutar video sebelum video terdeteksi.</string>
-    <string name="video_down_guide_4">Karena kebijakan YouTube, video YouTube tidak dapat diunduh.</string>
-    <string name="video_full_guide_1">Putar video yang dapat diunduh dengan pemutar video.</string>
+    <string name="video_down_guide_1">Ketika video terdeteksi, sebuah tombol akan muncul di layar.</string>
+    <string name="video_down_guide_2">Beberapa situs perlu memutar video sebelum video terdeteksi.</string>
+    <string name="video_down_guide_3">Karena kebijakan YouTube, video YouTube tidak dapat diunduh.</string>
     <string name="down_limit">Pengunduhan secara bersamaan</string>
     <string name="down_limit_info">Mengunduh terlalu banyak file secara bersamaan dapat memperlambat perangkat Anda dan menyebabkan masalah.</string>
     <string name="not_allow">Jangan izinkan</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">Keluar dari mode penyamaran</string>
     <string name="direct_input">Masukan langsung</string>
     <string name="direct_select">Seleksi langsung</string>
-    <string name="resize">Ubah ukuran</string>
     <string name="added">Ditambahkan</string>
     <string name="changed">Berubah</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Laporan kesalahan</string>
     <string name="report_site">Laporkan situs</string>
     <string name="report_down">Harap berikan alamat situs tempat Anda tidak dapat mengunduh video.</string>
-    <string name="report_dark">Berikan alamat situs yang mengalami masalah dengan tema gelap.</string>
     <string name="youtube_unmute">Suarakan YouTube</string>
     <string name="youtube_speed">Hemat kecepatan pemutaran YouTube</string>
     <string name="youtube_auto">Putar otomatis YouTube</string>
+    <string name="youtube_pip">Tombol PIP YouTube</string>
     <string name="back_play">Pemutaran latar belakang</string>
     <string name="back_play_info">Karena kebijakan YouTube, pemutaran latar belakang YouTube tidak didukung.</string>
     <string name="normal_rate">Normal</string>
@@ -577,7 +572,6 @@
     <string name="default_title">Default</string>
     <string name="user_defined">Kebiasaan</string>
     <string name="cast_on">Aktifkan pemeran</string>
-    <string name="show_full">Tombol pemutar video</string>
     <string name="icon_color">Warna tombol</string>
     <string name="icon_pos">Lokasi tombol</string>
     <string name="storage_guide_1">Diperbarui untuk Android 10.</string>

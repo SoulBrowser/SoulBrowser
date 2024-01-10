@@ -187,7 +187,6 @@
     <string name="show_detail">แสดงข้อมูลรายละเอียด</string>
     <string name="show_single">ชื่อบรรทัดเดียว</string>
     <string name="show_recent">ทำเครื่องหมายไฟล์ล่าสุด</string>
-    <string name="open_as">เปิดเป็น</string>
     <string name="open_continue">เปิดที่ตำแหน่งก่อนหน้า</string>
     <string name="pull_refresh">ดึงเพื่อรีเฟรช</string>
     <string name="refresh">รีเฟรช</string>
@@ -251,7 +250,6 @@
     <string name="camera">กล้อง</string>
     <string name="camcorder">กล้องวีดีโอ</string>
     <string name="web_edit_hint">ค้นหาหรือพิมพ์ URL</string>
-    <string name="web_search">การค้นหาเว็บ</string>
     <string name="search_engine">เครื่องมือค้นหา</string>
     <string name="search_url">ค้นหา</string>
     <string name="screen_off">หมดเวลาหน้าจอ</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">การควบคุมระดับเสียง</string>
     <string name="volume">ปริมาณ</string>
     <string name="control_seek">การนำทางหน้าจอ</string>
-    <string name="pip_finish">ออกจากโหมด PIP แล้ว</string>
     <string name="pip_mode">โหมด PIP</string>
-    <string name="pip_guide">การหมุนหน้าจออาจออกจากโหมด PIP\nไซต์ที่ต่างกันมีพฤติกรรมที่แตกต่างกัน</string>
+    <string name="pip_info">รองรับโหมด PIP เริ่มต้นจาก Android 8</string>
     <string name="wait_retry">กำลังโหลด&#8230;\nกรุณาลองใหม่อีกครั้งในภายหลัง.</string>
     <string name="ads_retry">โฆษณายังไม่พร้อม\nกรุณาลองใหม่อีกครั้งในภายหลัง.</string>
     <string name="rate_app">ให้คะแนนแอป</string>
@@ -438,7 +435,7 @@
     <string name="start_page">หน้าเริ่มต้น</string>
     <string name="show_image_info">แสดงภาพของหน้าเว็บ</string>
     <string name="video_download">ดาวน์โหลดวิดีโอ</string>
-    <string name="show_video_button">ตำแหน่งปุ่มดาวน์โหลดวิดีโอ</string>
+    <string name="video_manager">ปุ่มจัดการวิดีโอ</string>
     <string name="two_finger">(สองนิ้ว)</string>
     <string name="two_finger_info_1">ปัดไปทางซ้ายและขวาด้วยสองนิ้วเพื่อเลื่อนแท็บ</string>
     <string name="two_finger_info_2">ปัดสองนิ้วลงเพื่อลบแท็บ</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">เลือกไอคอนรายการทีวี</string>
     <string name="local_cast_guide_2">กรุณาเลือกรายการ</string>
     <string name="video_down_guide_0">เยี่ยมชมเว็บไซต์ด้วยวิดีโอ</string>
-    <string name="video_down_guide_1">เมื่อตรวจพบวิดีโอปุ่มดาวน์โหลดจะปรากฏบนหน้าจอ</string>
-    <string name="video_down_guide_3">บางเว็บไซต์จำเป็นต้องเล่นวิดีโอก่อนตรวจพบวิดีโอ</string>
-    <string name="video_down_guide_4">เนื่องจากนโยบาย YouTube ไม่สามารถดาวน์โหลดวิดีโอ YouTube ได้</string>
-    <string name="video_full_guide_1">เล่นวิดีโอที่ดาวน์โหลดได้ด้วยเครื่องเล่นวิดีโอ</string>
+    <string name="video_down_guide_1">เมื่อตรวจพบวิดีโอ ปุ่มจะปรากฏขึ้นบนหน้าจอ</string>
+    <string name="video_down_guide_2">บางเว็บไซต์จำเป็นต้องเล่นวิดีโอก่อนตรวจพบวิดีโอ</string>
+    <string name="video_down_guide_3">เนื่องจากนโยบาย YouTube ไม่สามารถดาวน์โหลดวิดีโอ YouTube ได้</string>
     <string name="down_limit">ดาวน์โหลดพร้อมกัน</string>
     <string name="down_limit_info">การดาวน์โหลดไฟล์มากเกินไปในเวลาเดียวกันอาจทำให้อุปกรณ์ของคุณช้าลงและทำให้เกิดปัญหา</string>
     <string name="not_allow">ไม่อนุญาต</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">ออกจากโหมดไม่ระบุตัวตน</string>
     <string name="direct_input">ป้อนข้อมูลโดยตรง</string>
     <string name="direct_select">การเลือกโดยตรง</string>
-    <string name="resize">ปรับขนาด</string>
     <string name="added">ที่เพิ่ม</string>
     <string name="changed">การเปลี่ยนแปลง</string>
     <string name="vpn">DNS</string>
     <string name="report_error">รายงานข้อผิดพลาด</string>
     <string name="report_site">เว็บไซต์รายงาน</string>
     <string name="report_down">โปรดระบุที่อยู่ของเว็บไซต์ที่คุณไม่สามารถดาวน์โหลดวิดีโอได้</string>
-    <string name="report_dark">โปรดระบุที่อยู่ของไซต์ที่มีปัญหากับธีมสีเข้ม</string>
     <string name="youtube_unmute">เปิดเสียง YouTube</string>
     <string name="youtube_speed">บันทึกความเร็วในการเล่น YouTube</string>
     <string name="youtube_auto">เล่นอัตโนมัติของ YouTube</string>
+    <string name="youtube_pip">ปุ่ม YouTube PIP</string>
     <string name="back_play">การเล่นพื้นหลัง</string>
     <string name="back_play_info">เนื่องจากนโยบายของ YouTube จึงไม่รองรับการเล่นพื้นหลังของ YouTube</string>
     <string name="normal_rate">ปกติ</string>
@@ -577,7 +572,6 @@
     <string name="default_title">ค่าเริ่มต้น</string>
     <string name="user_defined">ประเพณี</string>
     <string name="cast_on">เปิดใช้งานการส่ง</string>
-    <string name="show_full">ปุ่มเครื่องเล่นวิดีโอ</string>
     <string name="icon_color">สีของปุ่ม</string>
     <string name="icon_pos">ตำแหน่งปุ่ม</string>
     <string name="storage_guide_1">อัปเดตสำหรับ Android 10.</string>

@@ -187,7 +187,6 @@
     <string name="show_detail">详细信息</string>
     <string name="show_single">单行标题</string>
     <string name="show_recent">显示最近的文件</string>
-    <string name="open_as">打开为</string>
     <string name="open_continue">在上次位置打开</string>
     <string name="pull_refresh">下拉刷新</string>
     <string name="refresh">刷新</string>
@@ -251,7 +250,6 @@
     <string name="camera">相机</string>
     <string name="camcorder">摄像机</string>
     <string name="web_edit_hint">搜索或输入网址</string>
-    <string name="web_search">网络搜索</string>
     <string name="search_engine">搜索引擎</string>
     <string name="search_url">搜索</string>
     <string name="screen_off">自动息屏</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">音量控制</string>
     <string name="volume">音量</string>
     <string name="control_seek">屏幕导航</string>
-    <string name="pip_finish">画中画模式已退出</string>
     <string name="pip_mode">画中画模式</string>
-    <string name="pip_guide">旋转屏幕可能会退出画中画模式。\n不同的站点具有不同的行为</string>
+    <string name="pip_info">从 Android 8 开始支持 PIP 模式</string>
     <string name="wait_retry">正在加载\n请稍后再试</string>
     <string name="ads_retry">广告尚未准备好\n请稍后再试</string>
     <string name="rate_app">给应用打分</string>
@@ -438,7 +435,7 @@
     <string name="start_page">首页</string>
     <string name="show_image_info">显示网页图像</string>
     <string name="video_download">下载视频</string>
-    <string name="show_video_button">视频下载按钮位置</string>
+    <string name="video_manager">视频管理器按钮</string>
     <string name="two_finger">（双指）</string>
     <string name="two_finger_info_1">用双指左右滑动以移动标签</string>
     <string name="two_finger_info_2">用双指向下滑动以移除标签</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">选择电视广播列表图标</string>
     <string name="local_cast_guide_2">请选择一个项目</string>
     <string name="video_down_guide_0">浏览附有视频的网站</string>
-    <string name="video_down_guide_1">检测到视频时，屏幕上会出现一个下载按钮</string>
-    <string name="video_down_guide_3">某些站点需要播放视频之后才能检测到</string>
-    <string name="video_down_guide_4">由于 YouTube 政策，无法下载 YouTube 视频</string>
-    <string name="video_full_guide_1">使用视频播放器播放可下载的视频</string>
+    <string name="video_down_guide_1">检测到视频时，屏幕上会出现一个按钮</string>
+    <string name="video_down_guide_2">某些站点需要播放视频之后才能检测到</string>
+    <string name="video_down_guide_3">由于 YouTube 政策，无法下载 YouTube 视频</string>
     <string name="down_limit">同时下载数</string>
     <string name="down_limit_info">同时下载太多文件可能会降低设备速度并出现问题</string>
     <string name="not_allow">不允许</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">退出无痕模式</string>
     <string name="direct_input">直接输入</string>
     <string name="direct_select">直接选择</string>
-    <string name="resize">调整大小</string>
     <string name="added">已添加</string>
     <string name="changed">已变更</string>
     <string name="vpn">DNS</string>
     <string name="report_error">报告错误</string>
     <string name="report_site">反馈网站</string>
     <string name="report_down">请提供无法下载视频的网站地址</string>
-    <string name="report_dark">请提供深色主题有问题的网站地址</string>
     <string name="youtube_unmute">取消静音 YouTube</string>
     <string name="youtube_speed">保存 YouTube 播放速度</string>
     <string name="youtube_auto">YouTube 自动播放</string>
+    <string name="youtube_pip">YouTube PIP 按钮</string>
     <string name="back_play">后台播放</string>
     <string name="back_play_info">根据 YouTube 政策，不支持 YouTube 后台播放</string>
     <string name="normal_rate">正常</string>
@@ -577,7 +572,6 @@
     <string name="default_title">默认</string>
     <string name="user_defined">自定义</string>
     <string name="cast_on">启用投屏</string>
-    <string name="show_full">视频播放器按钮</string>
     <string name="icon_color">按钮颜色</string>
     <string name="icon_pos">按钮位置</string>
     <string name="storage_guide_1">已针对 Android 10 更新</string>

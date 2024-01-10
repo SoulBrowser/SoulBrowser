@@ -187,7 +187,6 @@
     <string name="show_detail">عرض التفاصيل</string>
     <string name="show_single">إظهار سطر واحد من العنوان</string>
     <string name="show_recent">إظهار الملفات الأخيرة</string>
-    <string name="open_as">مفتوحة مع</string>
     <string name="open_continue">فتح من الموقع السابق</string>
     <string name="pull_refresh">سحب لتحديث</string>
     <string name="refresh">ينعش</string>
@@ -251,7 +250,6 @@
     <string name="camera">كاميرا</string>
     <string name="camcorder">كاميرا الفيديو</string>
     <string name="web_edit_hint">أدخل مصطلح البحث أو URL</string>
-    <string name="web_search">البحث في الويب</string>
     <string name="search_engine">محرك البحث</string>
     <string name="search_url">بحث</string>
     <string name="screen_off">إيقاف تشغيل الشاشة تلقائيًا</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">التحكم في مستوى الصوت</string>
     <string name="volume">الصوت</string>
     <string name="control_seek">التنقل على الشاشة</string>
-    <string name="pip_finish">انتهى وضع PIP.</string>
     <string name="pip_mode">وضع PIP</string>
-    <string name="pip_guide">قد يؤدي تدوير الشاشة إلى الخروج من وضع PIP.\nالمواقع المختلفة لها سلوكيات مختلفة.</string>
+    <string name="pip_info">يتم دعم وضع PIP بدءًا من Android 8.</string>
     <string name="wait_retry">جار التحميل.\nيرجى المحاولة مرة أخرى في بضع دقائق.</string>
     <string name="ads_retry">الإعلان ليس جاهزًا بعد.\nالرجاء معاودة المحاولة في وقت لاحق.</string>
     <string name="rate_app">قيم التطبيق</string>
@@ -438,7 +435,7 @@
     <string name="start_page">أبدأ الصفحة</string>
     <string name="show_image_info">يعرض صورة لصفحة الويب.</string>
     <string name="video_download">تحميل الفيديو</string>
-    <string name="show_video_button">موقع زر تنزيل الفيديو</string>
+    <string name="video_manager">زر مدير الفيديو</string>
     <string name="two_finger">(إصبعين)</string>
     <string name="two_finger_info_1">اسحب لليسار أو لليمين بإصبعين لتحريك الصنبور.</string>
     <string name="two_finger_info_2">اسحب لأسفل بإصبعين لإزالة علامة التبويب.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">حدد أيقونة TV Cast List.</string>
     <string name="local_cast_guide_2">الرجاء تحديد عنصر.</string>
     <string name="video_down_guide_0">قم بزيارة موقع بالفيديو.</string>
-    <string name="video_down_guide_1">عند اكتشاف مقطع فيديو ، يظهر زر التنزيل على الشاشة.</string>
-    <string name="video_down_guide_3">تحتاج بعض المواقع إلى تشغيل الفيديو قبل اكتشاف الفيديو.</string>
-    <string name="video_down_guide_4">نظرًا لسياسة YouTube ، لا يمكن تنزيل مقاطع فيديو YouTube.</string>
-    <string name="video_full_guide_1">قم بتشغيل مقاطع الفيديو القابلة للتنزيل باستخدام مشغل الفيديو.</string>
+    <string name="video_down_guide_1">عند اكتشاف الفيديو، سيظهر زر على الشاشة.</string>
+    <string name="video_down_guide_2">تحتاج بعض المواقع إلى تشغيل الفيديو قبل اكتشاف الفيديو.</string>
+    <string name="video_down_guide_3">نظرًا لسياسة YouTube ، لا يمكن تنزيل مقاطع فيديو YouTube.</string>
     <string name="down_limit">تنزيل متزامن</string>
     <string name="down_limit_info">قد يؤدي تنزيل عدد كبير جدًا من الملفات في نفس الوقت إلى إبطاء جهازك والتسبب في حدوث مشكلات.</string>
     <string name="not_allow">غير مسموح</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">اخرج من وضع التصفح المتخفي</string>
     <string name="direct_input">المساهمة المباشرة</string>
     <string name="direct_select">اختيار مباشر</string>
-    <string name="resize">تغيير الحجم</string>
     <string name="added">تمت إضافة.</string>
     <string name="changed">تغير.</string>
     <string name="vpn">DNS</string>
     <string name="report_error">الإبلاغ عن خطأ</string>
     <string name="report_site">تقرير الموقع</string>
     <string name="report_down">يرجى تقديم عنوان الموقع حيث لا يمكن تنزيل الفيديو.</string>
-    <string name="report_dark">من فضلك قل لي عنوان الموقع الذي يواجه مشاكل مع المظهر الداكن.</string>
     <string name="youtube_unmute">إعادة صوت YouTube</string>
     <string name="youtube_speed">حفظ سرعة تشغيل YouTube</string>
     <string name="youtube_auto">يوتيوب التشغيل التلقائي</string>
+    <string name="youtube_pip">زر يوتيوب PIP</string>
     <string name="back_play">تشغيل في الخلفية</string>
     <string name="back_play_info">لا تدعم سياسة YouTube تشغيل الخلفية في YouTube.</string>
     <string name="normal_rate">مستخدم</string>
@@ -577,7 +572,6 @@
     <string name="default_title">أساسي</string>
     <string name="user_defined">مخصص</string>
     <string name="cast_on">استخدام المصبوب</string>
-    <string name="show_full">زر مشغل الفيديو</string>
     <string name="icon_color">لون الزر</string>
     <string name="icon_pos">موقع الزر</string>
     <string name="storage_guide_1">تم التحديث لنظام Android 10.</string>

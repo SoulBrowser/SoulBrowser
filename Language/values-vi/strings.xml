@@ -187,7 +187,6 @@
     <string name="show_detail">Hiển thị thông tin chi tiết</string>
     <string name="show_single">Tiêu đề dòng đơn</string>
     <string name="show_recent">Đánh dấu tệp gần đây</string>
-    <string name="open_as">Mở ra như</string>
     <string name="open_continue">Mở ở vị trí trước</string>
     <string name="pull_refresh">Kéo để làm mới</string>
     <string name="refresh">Làm tươi</string>
@@ -251,7 +250,6 @@
     <string name="camera">Máy ảnh</string>
     <string name="camcorder">Máy quay phim</string>
     <string name="web_edit_hint">Tìm kiếm hoặc nhập địa chỉ</string>
-    <string name="web_search">Tìm kiếm trên web</string>
     <string name="search_engine">Công cụ tìm kiếm</string>
     <string name="search_url">Tìm kiếm</string>
     <string name="screen_off">Thời gian chờ màn hình</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">Điều khiển âm lượng</string>
     <string name="volume">Âm lượng</string>
     <string name="control_seek">Điều hướng màn hình</string>
-    <string name="pip_finish">Chế độ PIP đã được thoát.</string>
     <string name="pip_mode">Chế độ PIP</string>
-    <string name="pip_guide">Xoay màn hình có thể thoát khỏi chế độ PIP.\nCác trang web khác nhau có hành vi khác nhau.</string>
+    <string name="pip_info">Chế độ PIP được hỗ trợ bắt đầu từ Android 8.</string>
     <string name="wait_retry">Tải&#8230;\nVui lòng thử lại sau.</string>
     <string name="ads_retry">Quảng cáo vẫn chưa sẵn sàng.\nVui lòng thử lại sau.</string>
     <string name="rate_app">Đánh giá ứng dụng</string>
@@ -438,7 +435,7 @@
     <string name="start_page">Trang bắt đầu</string>
     <string name="show_image_info">Hiển thị hình ảnh của một trang web.</string>
     <string name="video_download">Tải Video</string>
-    <string name="show_video_button">Vị trí nút tải video</string>
+    <string name="video_manager">Nút quản lý video</string>
     <string name="two_finger">(Hai ngón tay)</string>
     <string name="two_finger_info_1">Vuốt sang trái và phải bằng hai ngón tay để di chuyển các tab.</string>
     <string name="two_finger_info_2">Vuốt xuống bằng hai ngón tay để xóa tab.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">Chọn biểu tượng danh sách truyền màn hình.</string>
     <string name="local_cast_guide_2">Vui lòng chọn một mục.</string>
     <string name="video_down_guide_0">Truy cập trang web với video.</string>
-    <string name="video_down_guide_1">Khi phát hiện thấy video, nút tải xuống sẽ xuất hiện trên màn hình.</string>
-    <string name="video_down_guide_3">Một số trang web cần phát video trước khi phát hiện video.</string>
-    <string name="video_down_guide_4">Do chính sách của YouTube, video YouTube không thể được tải xuống.</string>
-    <string name="video_full_guide_1">Phát video có thể tải xuống bằng trình phát video.</string>
+    <string name="video_down_guide_1">Khi phát hiện video, một nút sẽ xuất hiện trên màn hình.</string>
+    <string name="video_down_guide_2">Một số trang web cần phát video trước khi phát hiện video.</string>
+    <string name="video_down_guide_3">Do chính sách của YouTube, video YouTube không thể được tải xuống.</string>
     <string name="down_limit">Tải xuống đồng thời</string>
     <string name="down_limit_info">Tải xuống quá nhiều tệp cùng một lúc có thể làm chậm thiết bị của bạn và gây ra sự cố.</string>
     <string name="not_allow">Không cho phép</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">Thoát chế độ ẩn danh</string>
     <string name="direct_input">Đầu vào trực tiếp</string>
     <string name="direct_select">Lựa chọn trực tiếp</string>
-    <string name="resize">Thay đổi kích thước</string>
     <string name="added">Đã thêm</string>
     <string name="changed">Thay đổi</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Báo lỗi</string>
     <string name="report_site">Trang web báo cáo</string>
     <string name="report_down">Vui lòng cung cấp địa chỉ của trang web nơi bạn không thể tải xuống video.</string>
-    <string name="report_dark">Vui lòng cung cấp địa chỉ của trang web đang gặp sự cố với chủ đề tối.</string>
     <string name="youtube_unmute">Bật tiếng YouTube</string>
     <string name="youtube_speed">Tiết kiệm tốc độ phát YouTube</string>
     <string name="youtube_auto">Tự động phát trên YouTube</string>
+    <string name="youtube_pip">Nút PIP của YouTube</string>
     <string name="back_play">Phát lại nền</string>
     <string name="back_play_info">Do chính sách của YouTube, phát lại nền YouTube không được hỗ trợ.</string>
     <string name="normal_rate">Bình thường</string>
@@ -577,7 +572,6 @@
     <string name="default_title">Mặc định</string>
     <string name="user_defined">Tùy chỉnh</string>
     <string name="cast_on">Cho phép truyền màn hình</string>
-    <string name="show_full">Nút trình phát video</string>
     <string name="icon_color">Màu nút</string>
     <string name="icon_pos">Vị trí nút</string>
     <string name="storage_guide_1">Đã cập nhật cho Android 10.</string>

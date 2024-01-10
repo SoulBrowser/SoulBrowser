@@ -187,7 +187,6 @@
     <string name="show_detail">Mostrar detalhes</string>
     <string name="show_single">Título de linha única</string>
     <string name="show_recent">Marcar arquivo recente</string>
-    <string name="open_as">Abrir como</string>
     <string name="open_continue">Abrir na posição anterior</string>
     <string name="pull_refresh">Puxe para atualizar</string>
     <string name="refresh">Atualizar</string>
@@ -251,7 +250,6 @@
     <string name="camera">Câmera</string>
     <string name="camcorder">Filmadora</string>
     <string name="web_edit_hint">Pesquisar ou digitar URL</string>
-    <string name="web_search">Pesquisa na web</string>
     <string name="search_engine">Motor de pesquisa</string>
     <string name="search_url">Pesquisa</string>
     <string name="screen_off">Tempo limite da tela</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">Controle de volume</string>
     <string name="volume">Volume</string>
     <string name="control_seek">Navegação na tela</string>
-    <string name="pip_finish">O modo PIP foi encerrado.</string>
     <string name="pip_mode">Modo PIP</string>
-    <string name="pip_guide">Girar a tela pode sair do modo PIP.\nSites diferentes têm comportamentos diferentes.</string>
+    <string name="pip_info">O modo PIP é compatível a partir do Android 8.</string>
     <string name="wait_retry">Carregando&#8230;\nPor favor, tente novamente mais tarde.</string>
     <string name="ads_retry">O anúncio ainda não está pronto.\nPor favor, tente novamente mais tarde.</string>
     <string name="rate_app">Avaliar aplicativo</string>
@@ -438,7 +435,7 @@
     <string name="start_page">Página inicial</string>
     <string name="show_image_info">Exibir imagens de uma página da web.</string>
     <string name="video_download">Baixar Vídeo</string>
-    <string name="show_video_button">Localização do botão de download de vídeo</string>
+    <string name="video_manager">Botão gerenciador de vídeo</string>
     <string name="two_finger">(Dois dedos)</string>
     <string name="two_finger_info_1">Deslize para a esquerda e a direita com dois dedos para mover guias.</string>
     <string name="two_finger_info_2">Deslize para baixo com dois dedos para fechar a guia.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">Selecione o ícone da lista de transmissão para TV.</string>
     <string name="local_cast_guide_2">Por favor, selecione um item.</string>
     <string name="video_down_guide_0">Visitar o site com o vídeo.</string>
-    <string name="video_down_guide_1">Quando um vídeo é detectado, um botão de download aparece na tela.</string>
-    <string name="video_down_guide_3">Alguns sites precisam reproduzir o vídeo antes que o vídeo seja detectado.</string>
-    <string name="video_down_guide_4">Devido à política do YouTube, os vídeos do YouTube não podem ser baixados.</string>
-    <string name="video_full_guide_1">Reproduza vídeos para download com o player de vídeo.</string>
+    <string name="video_down_guide_1">Quando o vídeo for detectado, um botão aparecerá na tela.</string>
+    <string name="video_down_guide_2">Alguns sites precisam reproduzir o vídeo antes que o vídeo seja detectado.</string>
+    <string name="video_down_guide_3">Devido à política do YouTube, os vídeos do YouTube não podem ser baixados.</string>
     <string name="down_limit">Download simultâneo</string>
     <string name="down_limit_info">Baixar muitos arquivos ao mesmo tempo pode diminuir a velocidade do seu dispositivo e causar problemas.</string>
     <string name="not_allow">Não permitir</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">Sair do modo de navegação anônima</string>
     <string name="direct_input">Entrada direta</string>
     <string name="direct_select">Seleção direta</string>
-    <string name="resize">Redimensionar</string>
     <string name="added">Adicionado</string>
     <string name="changed">Alterado</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Reportar erro</string>
     <string name="report_site">Reportar site</string>
     <string name="report_down">Forneça o endereço do site onde você não consegue baixar vídeo.</string>
-    <string name="report_dark">Forneça o endereço do site que está tendo problemas com o tema escuro.</string>
     <string name="youtube_unmute">Ativar o som do YouTube</string>
     <string name="youtube_speed">Salve a velocidade de reprodução do YouTube</string>
     <string name="youtube_auto">Reprodução automática do YouTube</string>
+    <string name="youtube_pip">Botão PIP do YouTube</string>
     <string name="back_play">Reprodução em segundo plano</string>
     <string name="back_play_info">Devido à política do YouTube, a reprodução em segundo plano do YouTube não é suportada.</string>
     <string name="normal_rate">Normal</string>
@@ -577,7 +572,6 @@
     <string name="default_title">Padrão</string>
     <string name="user_defined">Personalizado</string>
     <string name="cast_on">Ativar transmissão</string>
-    <string name="show_full">Botão do player de vídeo</string>
     <string name="icon_color">Cor do botão</string>
     <string name="icon_pos">Localização do botão</string>
     <string name="storage_guide_1">Atualizado para o Android 10.</string>

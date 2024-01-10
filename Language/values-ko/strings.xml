@@ -175,7 +175,7 @@
     <string name="password_save">비밀번호 저장</string>
     <string name="password_confirm">비밀번호를 저장하시겠습니까?</string>
     <string name="password_info">일반 모드와 시크릿 모드의 비밀 번호를 별도로 저장합니다.</string>
-    <string name="password_button">비밀번호 관리 버튼</string>
+    <string name="password_button">비밀번호 매니저 버튼</string>
     <string name="password_lock_1">잠금화면을 먼저 설정해 주세요.</string>
     <string name="password_lock_2">개인 정보 보호를 위해서입니다.</string>
     <string name="password_reset_guide">초기화하면 비밀번호와 관련된 모든 데이터가 삭제됩니다.</string>
@@ -187,7 +187,6 @@
     <string name="show_detail">상세 정보 보기</string>
     <string name="show_single">제목 한줄 보기</string>
     <string name="show_recent">최근 파일 표시</string>
-    <string name="open_as">다음으로 열기</string>
     <string name="open_continue">이전 위치에서 열기</string>
     <string name="pull_refresh">당겨서 새로 고침</string>
     <string name="refresh">새로 고침</string>
@@ -251,7 +250,6 @@
     <string name="camera">카메라</string>
     <string name="camcorder">캠코더</string>
     <string name="web_edit_hint">검색어 또는 URL 입력</string>
-    <string name="web_search">웹 검색</string>
     <string name="search_engine">검색 엔진</string>
     <string name="search_url">검색</string>
     <string name="screen_off">화면 자동 꺼짐</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">음량 조절</string>
     <string name="volume">음량</string>
     <string name="control_seek">화면 탐색</string>
-    <string name="pip_finish">PIP 모드가 종료되었습니다.</string>
     <string name="pip_mode">PIP 모드</string>
-    <string name="pip_guide">화면을 돌리면 PIP 모드가 종료 될 수 있습니다.\n사이트마다 동작이 다릅니다.</string>
+    <string name="pip_info">PIP 모드는 Android 8부터 지원됩니다.</string>
     <string name="wait_retry">로딩 중입니다.\n잠시 후 다시 시도해 주세요.</string>
     <string name="ads_retry">광고가 아직 준비되지 않았습니다.\n나중에 다시 시도해 주세요.</string>
     <string name="rate_app">앱 평가하기</string>
@@ -438,7 +435,7 @@
     <string name="start_page">시작페이지</string>
     <string name="show_image_info">웹페이지의 이미지를 표시합니다.</string>
     <string name="video_download">동영상 다운로드</string>
-    <string name="show_video_button">동영상 다운로드 버튼 위치</string>
+    <string name="video_manager">비디오 매니저 버튼</string>
     <string name="two_finger">(두 손가락)</string>
     <string name="two_finger_info_1">두 손가락으로 좌우로 스와이프하여 탭을 이동합니다.</string>
     <string name="two_finger_info_2">두 손가락으로 아래로 스와이프하여 탭을 제거합니다.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">TV 캐스트 목록 아이콘을 선택합니다.</string>
     <string name="local_cast_guide_2">항목을 선택하십시오.</string>
     <string name="video_down_guide_0">동영상이 있는 사이트를 방문합니다.</string>
-    <string name="video_down_guide_1">동영상이 감지되면, 화면에 다운로드 버튼이 나타납니다.</string>
-    <string name="video_down_guide_3">일부 사이트는 동영상을 재생해야 동영상이 감지됩니다.</string>
-    <string name="video_down_guide_4">YouTube 정책에 의해, YouTube 동영상은 다운로드할 수 없습니다.</string>
-    <string name="video_full_guide_1">다운로드 가능한 동영상을 비디오 플레이어로 재생합니다.</string>
+    <string name="video_down_guide_1">동영상이 감지되면, 화면에 버튼이 나타납니다.</string>
+    <string name="video_down_guide_2">일부 사이트는 동영상을 재생해야 동영상이 감지됩니다.</string>
+    <string name="video_down_guide_3">YouTube 정책에 의해, YouTube 동영상은 다운로드할 수 없습니다.</string>
     <string name="down_limit">동시 다운로드</string>
     <string name="down_limit_info">너무 많은 파일을 동시에 다운로드하면, 디바이스가 느려지고 문제가 발생할 수 있습니다.</string>
     <string name="not_allow">허용 안함</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">시크릿 모드 종료</string>
     <string name="direct_input">직접 입력</string>
     <string name="direct_select">직접 선택</string>
-    <string name="resize">크기 조정</string>
     <string name="added">추가되었습니다.</string>
     <string name="changed">변경되었습니다.</string>
     <string name="vpn">DNS</string>
     <string name="report_error">오류 보고</string>
     <string name="report_site">사이트 제보</string>
     <string name="report_down">동영상을 다운로드할 수 없는 사이트의 주소를 알려주세요.</string>
-    <string name="report_dark">어두운 테마에 문제가 있는 사이트의 주소를 알려주세요.</string>
     <string name="youtube_unmute">YouTube 음소거 해제</string>
     <string name="youtube_speed">YouTube 재생 속도 저장</string>
     <string name="youtube_auto">YouTube 자동 재생</string>
+    <string name="youtube_pip">YouTube PIP 버튼</string>
     <string name="back_play">백그라운드 재생</string>
     <string name="back_play_info">YouTube 정책에 의해, YouTube 백그라운드 재생은 지원되지 않습니다.</string>
     <string name="normal_rate">보통</string>
@@ -577,7 +572,6 @@
     <string name="default_title">기본</string>
     <string name="user_defined">사용자 정의</string>
     <string name="cast_on">캐스트 사용</string>
-    <string name="show_full">비디오 플레이어 버튼</string>
     <string name="icon_color">버튼 색상</string>
     <string name="icon_pos">버튼 위치</string>
     <string name="storage_guide_1">Android 10 용으로 업데이트되었습니다.</string>

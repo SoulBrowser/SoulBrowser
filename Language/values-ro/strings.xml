@@ -187,7 +187,6 @@
     <string name="show_detail">Afișează informații despre detalii</string>
     <string name="show_single">Titlu de o singură linie</string>
     <string name="show_recent">Marcați fișierul recent</string>
-    <string name="open_as">Deschideți ca</string>
     <string name="open_continue">Deschis la poziția anterioară</string>
     <string name="pull_refresh">Trageți pentru a reîmprospăta</string>
     <string name="refresh">Reîmprospăta</string>
@@ -251,7 +250,6 @@
     <string name="camera">Cameră foto</string>
     <string name="camcorder">Cameră video</string>
     <string name="web_edit_hint">Căutați sau tastați adresa URL</string>
-    <string name="web_search">Căutare Web</string>
     <string name="search_engine">Motorul de căutare</string>
     <string name="search_url">Căutare</string>
     <string name="screen_off">Timeout ecran</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">Controlul volumului</string>
     <string name="volume">Volum</string>
     <string name="control_seek">Navigare pe ecran</string>
-    <string name="pip_finish">Modul PIP a fost părăsit.</string>
     <string name="pip_mode">Modul PIP</string>
-    <string name="pip_guide">Rotirea ecranului poate ieși din modul PIP.\nSite site-uri diferite au un comportament diferit.</string>
+    <string name="pip_info">Modul PIP este acceptat începând cu Android 8.</string>
     <string name="wait_retry">Se încarcă&#8230;\nÎncercați din nou mai târziu.</string>
     <string name="ads_retry">Reclama nu este încă pregătită.\nVă rugăm să încercați din nou mai târziu.</string>
     <string name="rate_app">Evaluează aplicația</string>
@@ -438,7 +435,7 @@
     <string name="start_page">Pagina de pornire</string>
     <string name="show_image_info">Afișează imagini ale unei pagini web.</string>
     <string name="video_download">Descărcați Videoclipul</string>
-    <string name="show_video_button">Locația butonului de descărcare video</string>
+    <string name="video_manager">Butonul manager video</string>
     <string name="two_finger">(Două degete)</string>
     <string name="two_finger_info_1">Glisați spre stânga și spre dreapta cu două degete pentru a muta file.</string>
     <string name="two_finger_info_2">Glisați în jos cu două degete pentru a elimina fila.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">Selectați pictograma în lista de distribuție TV.</string>
     <string name="local_cast_guide_2">Vă rugăm să selectați un articol.</string>
     <string name="video_down_guide_0">Accesați site-ul cu videoclipul.</string>
-    <string name="video_down_guide_1">Când este detectat un videoclip, pe ecran apare un buton de descărcare.</string>
-    <string name="video_down_guide_3">Unele site-uri trebuie să redea videoclipul înainte de detectarea videoclipului.</string>
-    <string name="video_down_guide_4">Datorită politicii YouTube, videoclipurile YouTube nu pot fi descărcate.</string>
-    <string name="video_full_guide_1">Redați videoclipuri descărcabile cu player video.</string>
+    <string name="video_down_guide_1">Când este detectat un videoclip, va apărea un buton pe ecran.</string>
+    <string name="video_down_guide_2">Unele site-uri trebuie să redea videoclipul înainte de detectarea videoclipului.</string>
+    <string name="video_down_guide_3">Datorită politicii YouTube, videoclipurile YouTube nu pot fi descărcate.</string>
     <string name="down_limit">Descărcare simultană</string>
     <string name="down_limit_info">Descărcarea prea multor fișiere în același timp poate încetini dispozitivul și provoca probleme.</string>
     <string name="not_allow">Nu permiteți</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">Ieșiți din modul incognito</string>
     <string name="direct_input">Intrare directă</string>
     <string name="direct_select">Selecție directă</string>
-    <string name="resize">Redimensionare</string>
     <string name="added">Adăugat</string>
     <string name="changed">Schimbat</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Raportează eroarea</string>
     <string name="report_site">Site raport</string>
     <string name="report_down">Vă rugăm să furnizați adresa site-ului unde videoclipul nu poate fi descărcat.</string>
-    <string name="report_dark">Vă rugăm să furnizați adresa site-ului care are probleme cu tema întunecată.</string>
     <string name="youtube_unmute">Activați sunetul YouTube</string>
     <string name="youtube_speed">Salvați viteza de redare YouTube</string>
     <string name="youtube_auto">Redare automată YouTube</string>
+    <string name="youtube_pip">butonul YouTube PIP</string>
     <string name="back_play">Redare fundal</string>
     <string name="back_play_info">Datorită politicii YouTube, redarea pe fundalul YouTube nu este acceptată.</string>
     <string name="normal_rate">Normal</string>
@@ -577,7 +572,6 @@
     <string name="default_title">Implicit</string>
     <string name="user_defined">Personalizat</string>
     <string name="cast_on">Activați cast</string>
-    <string name="show_full">Butonul de redare video</string>
     <string name="icon_color">Culoarea butonului</string>
     <string name="icon_pos">Locația butonului</string>
     <string name="storage_guide_1">Actualizat pentru Android 10.</string>

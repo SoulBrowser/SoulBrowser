@@ -187,7 +187,6 @@
     <string name="show_detail">विस्तार से जानकारी दिखाएं</string>
     <string name="show_single">सिंगल लाइन टाइटल</string>
     <string name="show_recent">हाल की फ़ाइल को चिह्नित करें</string>
-    <string name="open_as">इस तरह खोलें</string>
     <string name="open_continue">पिछली स्थिति में खोलें</string>
     <string name="pull_refresh">रीफ़्रेश करने के लिए खींचें</string>
     <string name="refresh">ताज़ा करना</string>
@@ -251,7 +250,6 @@
     <string name="camera">कैमरा</string>
     <string name="camcorder">कैमकॉर्डर</string>
     <string name="web_edit_hint">URL खोजें या टाइप करें</string>
-    <string name="web_search">वेब खोज</string>
     <string name="search_engine">खोज इंजन</string>
     <string name="search_url">खोज</string>
     <string name="screen_off">स्क्रीन टाइमआउट</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">वॉल्यूम नियंत्रण</string>
     <string name="volume">मात्रा</string>
     <string name="control_seek">स्क्रीन नेविगेशन</string>
-    <string name="pip_finish">पीआईपी मोड से बाहर कर दिया गया है।</string>
     <string name="pip_mode">पीआईपी मोड</string>
-    <string name="pip_guide">स्क्रीन को घुमाने से PIP मोड से बाहर निकल सकता है।\nविभिन्न साइटों का व्यवहार भिन्न होता है।</string>
+    <string name="pip_info">एंड्रॉइड 8 से शुरू होकर पीआईपी मोड समर्थित है।</string>
     <string name="wait_retry">लोड हो रहा है&#8230;\nकृपया बाद में पुन: प्रयास करें।</string>
     <string name="ads_retry">विज्ञापन अभी तैयार नहीं है।\nकृपया बाद में पुन: प्रयास करें।</string>
     <string name="rate_app">एप्प का मूल्यांकन</string>
@@ -438,7 +435,7 @@
     <string name="start_page">पृष्ठ प्रारंभ करें</string>
     <string name="show_image_info">एक वेबपेज की छवियों को प्रदर्शित करें।</string>
     <string name="video_download">वीडियो डाउनलोड करें J</string>
-    <string name="show_video_button">वीडियो डाउनलोड बटन स्थान</string>
+    <string name="video_manager">वीडियो प्रबंधक बटन</string>
     <string name="two_finger">(दो उंगलियाँ)</string>
     <string name="two_finger_info_1">टैब को स्थानांतरित करने के लिए दो अंगुलियों से बाएं और दाएं स्वाइप करें।</string>
     <string name="two_finger_info_2">टैब निकालने के लिए दो अंगुलियों से नीचे की ओर स्वाइप करें.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">टीवी कास्ट सूची आइकन चुनें।</string>
     <string name="local_cast_guide_2">कोई वस्तु चुनें।</string>
     <string name="video_down_guide_0">वीडियो के साथ साइट पर जाएं।</string>
-    <string name="video_down_guide_1">जब किसी वीडियो का पता चलता है, तो स्क्रीन पर एक डाउनलोड बटन दिखाई देता है।</string>
-    <string name="video_down_guide_3">वीडियो का पता चलने से पहले कुछ साइटों को वीडियो चलाने की आवश्यकता होती है।</string>
-    <string name="video_down_guide_4">YouTube नीति के कारण, YouTube वीडियो डाउनलोड नहीं किए जा सकते।</string>
-    <string name="video_full_guide_1">वीडियो प्लेयर के साथ डाउनलोड करने योग्य वीडियो चलाएं।</string>
+    <string name="video_down_guide_1">जब वीडियो का पता चल जाएगा, तो स्क्रीन पर एक बटन दिखाई देगा।</string>
+    <string name="video_down_guide_2">वीडियो का पता चलने से पहले कुछ साइटों को वीडियो चलाने की आवश्यकता होती है।</string>
+    <string name="video_down_guide_3">YouTube नीति के कारण, YouTube वीडियो डाउनलोड नहीं किए जा सकते।</string>
     <string name="down_limit">समवर्ती डाउनलोड</string>
     <string name="down_limit_info">एक ही समय में बहुत सारी फ़ाइलें डाउनलोड करने से डिवाइस धीमा हो सकता है और समस्याएँ पैदा हो सकती हैं।</string>
     <string name="not_allow">इजाजत न दें</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">गुप्त मोड से बाहर निकलें</string>
     <string name="direct_input">प्रत्यक्ष निवेश</string>
     <string name="direct_select">प्रत्यक्ष चयन</string>
-    <string name="resize">आकार</string>
     <string name="added">जोड़ा</string>
     <string name="changed">बदला हुआ</string>
     <string name="vpn">डीएनएस</string>
     <string name="report_error">त्रुटि की रिपोर्ट करें</string>
     <string name="report_site">रिपोर्ट साइट</string>
     <string name="report_down">कृपया उस साइट का पता प्रदान करें जहां वीडियो डाउनलोड नहीं किया जा सकता है।</string>
-    <string name="report_dark">कृपया उस साइट का पता प्रदान करें जिसमें डार्क थीम की समस्या है।</string>
     <string name="youtube_unmute">YouTube अनम्यूट करें</string>
     <string name="youtube_speed">YouTube प्लेबैक गति बचाएं</string>
     <string name="youtube_auto">यूट्यूब ऑटोप्ले</string>
+    <string name="youtube_pip">यूट्यूब पीआईपी बटन</string>
     <string name="back_play">पृष्ठभूमि प्लेबैक</string>
     <string name="back_play_info">YouTube नीति के कारण, YouTube पृष्ठभूमि प्लेबैक समर्थित नहीं है।</string>
     <string name="normal_rate">सामान्य</string>
@@ -577,7 +572,6 @@
     <string name="default_title">चूक</string>
     <string name="user_defined">रीति</string>
     <string name="cast_on">कास्ट सक्षम करें</string>
-    <string name="show_full">वीडियो प्लेयर बटन</string>
     <string name="icon_color">बटन का रंग</string>
     <string name="icon_pos">बटन स्थान</string>
     <string name="storage_guide_1">Android 10 के लिए अपडेट किया गया।</string>

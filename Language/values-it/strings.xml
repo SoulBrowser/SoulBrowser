@@ -187,7 +187,6 @@
     <string name="show_detail">Mostra informazioni dettagliate</string>
     <string name="show_single">Titolo della linea singola</string>
     <string name="show_recent">Segna il file recente</string>
-    <string name="open_as">Apri come</string>
     <string name="open_continue">Apri nella posizione precedente</string>
     <string name="pull_refresh">Tira per aggiornare</string>
     <string name="refresh">Ricarica</string>
@@ -251,7 +250,6 @@
     <string name="camera">Fotocamera</string>
     <string name="camcorder">Videocamera</string>
     <string name="web_edit_hint">Cerca o digita l\'URL</string>
-    <string name="web_search">Ricerca sul web</string>
     <string name="search_engine">Motore di ricerca</string>
     <string name="search_url">Ricerca</string>
     <string name="screen_off">Autospegnimento dello schermo</string>
@@ -390,9 +388,8 @@
     <string name="control_volume">Controllo del volume</string>
     <string name="volume">Volume</string>
     <string name="control_seek">Navigazione schermo</string>
-    <string name="pip_finish">La modalità PIP è stata chiusa.</string>
     <string name="pip_mode">Modalità PIP</string>
-    <string name="pip_guide">La rotazione dello schermo potrebbe uscire dalla modalità PIP.\nSiti diversi hanno comportamenti diversi.</string>
+    <string name="pip_info">La modalità PIP è supportata a partire da Android 8.</string>
     <string name="wait_retry">Caricamento in corso&#8230;\nPer favore riprova più tardi.</string>
     <string name="ads_retry">L\'annuncio non è ancora pronto.\nPer favore riprova più tardi.</string>
     <string name="rate_app">Valuta app</string>
@@ -438,7 +435,7 @@
     <string name="start_page">Pagina iniziale</string>
     <string name="show_image_info">Visualizza un\'immagine di una pagina web.</string>
     <string name="video_download">Scarica Video</string>
-    <string name="show_video_button">Posizione del pulsante di download del video</string>
+    <string name="video_manager">Pulsante Gestione video</string>
     <string name="two_finger">(Due dita)</string>
     <string name="two_finger_info_1">Scorri a sinistra e a destra con due dita per spostare le schede.</string>
     <string name="two_finger_info_2">Scorri verso il basso con due dita per rimuovere la schede.</string>
@@ -465,10 +462,9 @@
     <string name="local_cast_guide_1">Seleziona l\'icona Cast TV dell\'elenco.</string>
     <string name="local_cast_guide_2">Seleziona un file.</string>
     <string name="video_down_guide_0">Visita il sito con il video.</string>
-    <string name="video_down_guide_1">Quando viene rilevato un video, sullo schermo viene visualizzato un pulsante di download.</string>
-    <string name="video_down_guide_3">Alcuni siti devono riprodurre il video prima che il video venga rilevato.</string>
-    <string name="video_down_guide_4">A causa delle norme di YouTube, i video di YouTube non possono essere scaricati.</string>
-    <string name="video_full_guide_1">Riproduci video scaricabili con il lettore video.</string>
+    <string name="video_down_guide_1">Quando viene rilevato il video, sullo schermo verrà visualizzato un pulsante.</string>
+    <string name="video_down_guide_2">Alcuni siti devono riprodurre il video prima che il video venga rilevato.</string>
+    <string name="video_down_guide_3">A causa delle norme di YouTube, i video di YouTube non possono essere scaricati.</string>
     <string name="down_limit">Download simultaneo</string>
     <string name="down_limit_info">Il download di troppi file contemporaneamente può rallentare il dispositivo e causare problemi.</string>
     <string name="not_allow">Non consentire</string>
@@ -538,17 +534,16 @@
     <string name="secret_exit">Esci dalla modalità di navigazione in incognito</string>
     <string name="direct_input">Input diretto</string>
     <string name="direct_select">Selezione diretta</string>
-    <string name="resize">Ridimensionamento</string>
     <string name="added">Aggiunto</string>
     <string name="changed">Cambiato</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Segnala errore</string>
     <string name="report_site">Segnala sito</string>
     <string name="report_down">Fornisci l\'indirizzo del sito in cui non è possibile scaricare il video.</string>
-    <string name="report_dark">Fornisci l\'indirizzo del sito che ha problemi con il tema scuro.</string>
     <string name="youtube_unmute">Riattiva YouTube</string>
     <string name="youtube_speed">Salva la velocità di riproduzione di YouTube</string>
     <string name="youtube_auto">Riproduzione automatica di YouTube</string>
+    <string name="youtube_pip">Pulsante PIP di YouTube</string>
     <string name="back_play">Riproduzione in background</string>
     <string name="back_play_info">A causa delle norme di YouTube, la riproduzione in background di YouTube non è supportata.</string>
     <string name="normal_rate">Normale</string>
@@ -577,7 +572,6 @@
     <string name="default_title">Predefinito</string>
     <string name="user_defined">Personalizzato</string>
     <string name="cast_on">Abilita cast</string>
-    <string name="show_full">Pulsante del lettore video</string>
     <string name="icon_color">Colore pulsante</string>
     <string name="icon_pos">Posizione del pulsante</string>
     <string name="storage_guide_1">Aggiornato per Android 10.</string>
