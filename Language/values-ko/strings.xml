@@ -565,7 +565,6 @@
     <string name="tv_cast">TV 캐스트</string>
     <string name="media_route_menu_title">재생&#8230;</string>
     <string name="introducing_cast">터치하여 미디어를 TV로 전송하세요.</string>
-    <string name="cast_info_4">다운로드 팝업에서 재생 아이콘을 클릭하여 TV로 스트리밍하십시오.</string>
     <string name="cast_info_6">YouTube는 지원되지 않습니다.</string>
     <string name="cast_info_7">일부 포맷은 지원되지 않습니다.</string>
     <string name="user_agent">유저 에이전트</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">현재 페이지의 메모리 해제 방지</string>
     <string name="mem_block_list">메모리 해제 방지 목록</string>
     <string name="down_manager">다운로드 매니저</string>
-    <string name="down_manager_info1">선호하는 다운로더 앱을 다운로드 매니저로 사용하실 수 있습니다.</string>
-    <string name="down_manager_info3">브라우저와 다운로드를 분리하여 웹 서핑을 더 빠르게 할 수 있습니다.</string>
     <string name="other_app">다른 앱</string>
     <string name="web_title">웹</string>
     <string name="color_title">색상</string>

@@ -565,7 +565,6 @@
     <string name="tv_cast">電視投放</string>
     <string name="media_route_menu_title">繼續播放&#8230;</string>
     <string name="introducing_cast">輕觸即可將媒體投放到電視上</string>
-    <string name="cast_info_4">單擊下載彈出視窗中的播放圖示，將串流媒體傳輸到電視</string>
     <string name="cast_info_6">不支援 YouTube</string>
     <string name="cast_info_7">不支援某些格式</string>
     <string name="user_agent">使用者代理</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">防止當前頁面的記憶體釋放</string>
     <string name="mem_block_list">記憶體釋放預防列表</string>
     <string name="down_manager">下載管理器</string>
-    <string name="down_manager_info1">您可以將自己喜歡的下載應用程式用作下載管理器</string>
-    <string name="down_manager_info3">通過分離瀏覽器和下載，您可以更快地上網</string>
     <string name="other_app">其他應用程式</string>
     <string name="web_title">網頁</string>
     <string name="color_title">顏色</string>

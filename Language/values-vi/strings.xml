@@ -565,7 +565,6 @@
     <string name="tv_cast">Truyền màn hình lên TV</string>
     <string name="media_route_menu_title">Chơi trên&#8230;</string>
     <string name="introducing_cast">Chạm để truyền phương tiện tới TV của bạn</string>
-    <string name="cast_info_4">Nhấp vào biểu tượng phát trong cửa sổ bật lên tải xuống để truyền phát đến TV của bạn.</string>
     <string name="cast_info_6">YouTube không được hỗ trợ.</string>
     <string name="cast_info_7">Một số định dạng không được hỗ trợ.</string>
     <string name="user_agent">Tác nhân người dùng</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">Ngăn giải phóng bộ nhớ cho trang hiện tại</string>
     <string name="mem_block_list">Danh sách ngăn chặn giải phóng bộ nhớ</string>
     <string name="down_manager">Quản lý tải xuống</string>
-    <string name="down_manager_info1">Bạn có thể sử dụng ứng dụng trình tải xuống yêu thích của mình làm trình quản lý tải xuống.</string>
-    <string name="down_manager_info3">Bạn có thể lướt web nhanh hơn bằng cách tách trình duyệt và tải xuống.</string>
     <string name="other_app">Những ứng dụng khác</string>
     <string name="web_title">Web</string>
     <string name="color_title">Màu sắc</string>

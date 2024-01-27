@@ -565,7 +565,6 @@
     <string name="tv_cast">TVキャスト</string>
     <string name="media_route_menu_title">でプレイ&#8230;</string>
     <string name="introducing_cast">タップしてメディアをテレビにキャストします</string>
-    <string name="cast_info_4">ダウンロードポップアップで再生アイコンをクリックして、TVにストリーミングしてください。</string>
     <string name="cast_info_6">YouTubeはサポートされていません。</string>
     <string name="cast_info_7">いくつかのフォーマットはサポートされていません。</string>
     <string name="user_agent">ユーザーエージェント</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">現在のページのメモリ解放防止</string>
     <string name="mem_block_list">メモリ解放防止リスト</string>
     <string name="down_manager">ダウンロードマネージャー</string>
-    <string name="down_manager_info1">好ましいダウンローダアプリをダウンロードマネージャとして使用することができます。</string>
-    <string name="down_manager_info3">ブラウザとダウンロードを分離して、Webサーフィンをより速くすることができます。</string>
     <string name="other_app">他のアプリ</string>
     <string name="web_title">ウェブ</string>
     <string name="color_title">色</string>

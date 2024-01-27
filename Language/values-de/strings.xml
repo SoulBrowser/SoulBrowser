@@ -565,7 +565,6 @@
     <string name="tv_cast">TV-Anzeige</string>
     <string name="media_route_menu_title">Weiterspielen&#8230;</string>
     <string name="introducing_cast">Berühren, um Medien auf ihr Fernsehgerät zu übertragen</string>
-    <string name="cast_info_4">Klicken Sie im Download-Popup auf das Wiedergabesymbol, um auf Ihren Fernseher zu streamen.</string>
     <string name="cast_info_6">YouTube wird nicht unterstützt.</string>
     <string name="cast_info_7">Einige Formate werden nicht unterstützt.</string>
     <string name="user_agent">User agent</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">Speicherfreigabe für aktuelle Seite verhindern</string>
     <string name="mem_block_list">Liste zur Verhinderung der Speicherfreigabe</string>
     <string name="down_manager">Download-Manager</string>
-    <string name="down_manager_info1">Sie können Ihre bevorzugte Downloader-App als Download-Manager verwenden.</string>
-    <string name="down_manager_info3">Sie können schneller im Internet surfen, indem Sie Ihren Browser von Downloads trennen.</string>
     <string name="other_app">Andere Apps</string>
     <string name="web_title">Netz</string>
     <string name="color_title">Farbe</string>

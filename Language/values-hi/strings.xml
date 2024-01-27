@@ -565,7 +565,6 @@
     <string name="tv_cast">टीवी कलाकार</string>
     <string name="media_route_menu_title">पर चलाएं&#8230;</string>
     <string name="introducing_cast">मीडिया को अपने टीवी पर कास्ट करने के लिए स्पर्श करें</string>
-    <string name="cast_info_4">इसे अपने टीवी पर स्ट्रीम करने के लिए डाउनलोड पॉपअप में प्ले आइकन पर क्लिक करें।</string>
     <string name="cast_info_6">यूट्यूब समर्थित नहीं है।</string>
     <string name="cast_info_7">कुछ प्रारूप समर्थित नहीं हैं।</string>
     <string name="user_agent">उपभोक्ता अभिकर्ता</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">वर्तमान पृष्ठ के लिए मेमोरी रिलीज़ को रोकें</string>
     <string name="mem_block_list">मेमोरी रिलीज रोकथाम सूची</string>
     <string name="down_manager">अधःभारण प्रबंधक</string>
-    <string name="down_manager_info1">आप अपने पसंदीदा डाउनलोडर ऐप को डाउनलोड मैनेजर के रूप में उपयोग कर सकते हैं।</string>
-    <string name="down_manager_info3">आप अपने ब्राउज़र और डाउनलोड को अलग करके वेब पर तेजी से सर्फ कर सकते हैं।</string>
     <string name="other_app">दूसरे एप्लिकेशन</string>
     <string name="web_title">वेब</string>
     <string name="color_title">रंग</string>

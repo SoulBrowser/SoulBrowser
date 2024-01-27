@@ -565,7 +565,6 @@
     <string name="tv_cast">ТВ трансляції</string>
     <string name="media_route_menu_title">Вiдтворювати на&#8230;</string>
     <string name="introducing_cast">Торкніться, щоб передавати медіа на ТВ</string>
-    <string name="cast_info_4">Натисніть піктограму відтворення у спливаючому вікні для завантаження, щоб передати її на ТВ.</string>
     <string name="cast_info_6">YouTube не підтримується.</string>
     <string name="cast_info_7">Деякі формати не підтримуються.</string>
     <string name="user_agent">Агент користувача</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">Запобігти звільненню пам\'яті для поточної сторінки</string>
     <string name="mem_block_list">Список запобігання звільненню пам\'яті</string>
     <string name="down_manager">Менеджер завантажень</string>
-    <string name="down_manager_info1">Ви можете використовувати свій улюблений додаток у якості менеджера завантажень.</string>
-    <string name="down_manager_info3">Ви можете швидше переглядати веб-сторінки, відокремлюючи браузер та завантаження.</string>
     <string name="other_app">Інші програми</string>
     <string name="web_title">Інтернет</string>
     <string name="color_title">Колір</string>

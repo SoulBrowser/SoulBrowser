@@ -565,7 +565,6 @@
     <string name="tv_cast">TV yayını</string>
     <string name="media_route_menu_title">Oynamak&#8230;</string>
     <string name="introducing_cast">Medyayı TV\'nize yayınlamak için dokunun</string>
-    <string name="cast_info_4">İndirme açılır penceresinde, TV\'nize akış yapmak için oynat simgesini tıklayın.</string>
     <string name="cast_info_6">YouTube desteklenmiyor.</string>
     <string name="cast_info_7">Bazı biçimler desteklenmez.</string>
     <string name="user_agent">Kullanıcı aracısı</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">Geçerli sayfa için belleğin serbest bırakılmasını önle</string>
     <string name="mem_block_list">Bellek serbest bırakılmasını önleme listesi</string>
     <string name="down_manager">İndirme yöneticisi</string>
-    <string name="down_manager_info1">En sevdiğiniz indirme uygulamasını bir indirme yöneticisi olarak kullanabilirsiniz.</string>
-    <string name="down_manager_info3">Tarayıcınızı ve indirilenleri ayırarak web\'de daha hızlı gezinebilirsiniz.</string>
     <string name="other_app">Diğer uygulamalar</string>
     <string name="web_title">Ağ</string>
     <string name="color_title">Renk</string>

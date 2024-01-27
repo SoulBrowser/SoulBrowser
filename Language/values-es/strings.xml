@@ -565,7 +565,6 @@
     <string name="tv_cast">Enviar a TV</string>
     <string name="media_route_menu_title">Aprovecharse de&#8230;</string>
     <string name="introducing_cast">Toca para transmitir contenido multimedia a tu TV</string>
-    <string name="cast_info_4">En la ventana emergente de descarga, haga clic en el icono de reproducción para transmitir a su televisor.</string>
     <string name="cast_info_6">YouTube no es compatible.</string>
     <string name="cast_info_7">Algunos formatos no son compatibles.</string>
     <string name="user_agent">Agente de usuario</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">Evitar la liberación de memoria para la página actual</string>
     <string name="mem_block_list">Lista de prevención de liberación de memoria</string>
     <string name="down_manager">Gestor de descargas</string>
-    <string name="down_manager_info1">Puede usar su aplicación de descarga favorita como administrador de descargas.</string>
-    <string name="down_manager_info3">Puede navegar por la web más rápido separando su navegador y las descargas.</string>
     <string name="other_app">Otras aplicaciones</string>
     <string name="web_title">Web</string>
     <string name="color_title">Color</string>

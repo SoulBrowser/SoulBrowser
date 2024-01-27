@@ -565,7 +565,6 @@
     <string name="tv_cast">Трансляция</string>
     <string name="media_route_menu_title">Играть&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>
-    <string name="cast_info_4">Во всплывающем окне загрузки щёлкните значок воспроизведения для трансляции на телевизор.</string>
     <string name="cast_info_6">YouTube не поддерживается.</string>
     <string name="cast_info_7">Некоторые форматы не поддерживаются.</string>
     <string name="user_agent">Пользовательский агент</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">Запретить освобождение памяти для текущей страницы</string>
     <string name="mem_block_list">Список предотвращения освобождения памяти</string>
     <string name="down_manager">Менеджер загрузки</string>
-    <string name="down_manager_info1">Можно использовать свой менеджер загрузок.</string>
-    <string name="down_manager_info3">Просмотр веб-страниц быстро: браузер + отдельный менеджер загрузок.</string>
     <string name="other_app">Другие приложения</string>
     <string name="web_title">Интернет</string>
     <string name="color_title">Цвет</string>

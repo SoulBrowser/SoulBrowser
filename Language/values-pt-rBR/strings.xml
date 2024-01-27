@@ -565,7 +565,6 @@
     <string name="tv_cast">Transmissão para TV</string>
     <string name="media_route_menu_title">Reproduzir em&#8230;</string>
     <string name="introducing_cast">Toque para transmitir mídia à sua TV</string>
-    <string name="cast_info_4">No popup de download, clique no ícone de reprodução para transmitir para sua TV.</string>
     <string name="cast_info_6">O YouTube não é suportado.</string>
     <string name="cast_info_7">Alguns formatos não são suportados.</string>
     <string name="user_agent">Agente de usuário</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">Impedir a liberação de memória para a página atual</string>
     <string name="mem_block_list">Lista de prevenção de liberação de memória</string>
     <string name="down_manager">Gerenciador de downloads</string>
-    <string name="down_manager_info1">Você pode usar seu aplicativo de download favorito como gerenciador de download.</string>
-    <string name="down_manager_info3">Você pode navegar na web mais rápido separando o navegador e os downloads.</string>
     <string name="other_app">Outros aplicativos</string>
     <string name="web_title">Rede</string>
     <string name="color_title">Cor</string>

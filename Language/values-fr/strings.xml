@@ -565,7 +565,6 @@
     <string name="tv_cast">Diffusion TV</string>
     <string name="media_route_menu_title">Jouer sur&#8230;</string>
     <string name="introducing_cast">Touchez pour diffuser du contenu multimédia sur votre téléviseur</string>
-    <string name="cast_info_4">Dans la fenêtre contextuelle de téléchargement, cliquez sur l\'icône de lecture pour diffuser sur votre téléviseur.</string>
     <string name="cast_info_6">YouTube n\'est pas pris en charge.</string>
     <string name="cast_info_7">Certains formats ne sont pas pris en charge.</string>
     <string name="user_agent">Agent utilisateur</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">Empêcher la libération de mémoire pour la page actuelle</string>
     <string name="mem_block_list">Liste de prévention de libération de mémoire</string>
     <string name="down_manager">Gestionnaire de téléchargements</string>
-    <string name="down_manager_info1">Vous pouvez utiliser votre application de téléchargement préférée comme gestionnaire de téléchargements.</string>
-    <string name="down_manager_info3">Vous pouvez surfer plus rapidement sur le Web en séparant votre navigateur et vos téléchargements.</string>
     <string name="other_app">Autres applications</string>
     <string name="web_title">Internet</string>
     <string name="color_title">Couleur</string>

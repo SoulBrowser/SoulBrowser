@@ -565,7 +565,6 @@
     <string name="tv_cast">Obsada telewizyjna</string>
     <string name="media_route_menu_title">Graj na&#8230;</string>
     <string name="introducing_cast">Dotknij, aby przesłać multimedia na telewizor</string>
-    <string name="cast_info_4">Kliknij ikonę odtwarzania w wyskakującym oknie pobierania, aby przesłać ją strumieniowo do telewizora.</string>
     <string name="cast_info_6">YouTube nie jest obsługiwany.</string>
     <string name="cast_info_7">Niektóre formaty nie są obsługiwane.</string>
     <string name="user_agent">Agent użytkownika</string>
@@ -813,8 +812,6 @@
     <string name="mem_block_page">Zapobiegaj zwolnieniu pamięci dla bieżącej strony</string>
     <string name="mem_block_list">Lista zapobiegania zwalnianiu pamięci</string>
     <string name="down_manager">Menadżer pobierania</string>
-    <string name="down_manager_info1">Możesz używać swojej ulubionej aplikacji do pobierania jako menedżera pobierania.</string>
-    <string name="down_manager_info3">Możesz szybciej surfować po Internecie, oddzielając przeglądarkę od pobierania.</string>
     <string name="other_app">Inne aplikacje</string>
     <string name="web_title">Sieć</string>
     <string name="color_title">Kolor</string>
