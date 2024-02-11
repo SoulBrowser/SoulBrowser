@@ -969,4 +969,16 @@
     <string name="recent_delete">Tüm son aramaları silmek istediğinizden emin misiniz?</string>
     <string name="recent_lang">Son kayıt</string>
     <string name="lang_delete">Tüm son kayıtları silmek istediğinizden emin misiniz?</string>
+    <string name="ocr_guide_1">Bu özellik çizgi roman çevirisi için optimize edilmiştir.</string>
+    <string name="ocr_guide_2">Resimde yer alan dili seçmelisiniz.</string>
+    <string name="ocr_guide_3">Uygun dili seçmezseniz karakterler tanınmayabilir.</string>
+    <string name="ocr_load_1">Metin modülü yükleniyor.</string>
+    <string name="ocr_load_2">Metin modülü yüklemesi her dil için yalnızca bir kez yapılır.</string>
+    <string name="ocr_load_3">Metin modülü yükleme tamamlandı</string>
+    <string name="ocr_fail">Karakter tanınmadı.</string>
+    <string name="ocr_zoom_info_1">Harfler çok küçükse tanınmayabilir veya yanlış tercüme edilebilir.</string>
+    <string name="ocr_zoom_info_2">Büyütmeyi artırmak doğruluğu artırır.</string>
+    <string name="zoom_title">Büyütme</string>
+    <string name="color_black">Siyah</string>
+    <string name="color_white">Beyaz</string>
 </resources>

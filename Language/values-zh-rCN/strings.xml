@@ -969,4 +969,16 @@
     <string name="recent_delete">您确定要删除所有最近的搜索吗？</string>
     <string name="recent_lang">近期记录</string>
     <string name="lang_delete">您确定要删除所有最近的记录吗？</string>
+    <string name="ocr_guide_1">此功能针对漫画书翻译进行了优化</string>
+    <string name="ocr_guide_2">您必须选择图像中包含的语言</string>
+    <string name="ocr_guide_3">如果您没有选择适当的语言，则可能无法识别字符</string>
+    <string name="ocr_load_1">正在加载文本模块</string>
+    <string name="ocr_load_2">每种语言的文本模块加载仅完成一次</string>
+    <string name="ocr_load_3">文本模块加载完成</string>
+    <string name="ocr_fail">该角色未被识别</string>
+    <string name="ocr_zoom_info_1">如果字母太小，可能无法识别或翻译错误</string>
+    <string name="ocr_zoom_info_2">增加放大倍数可以提高精度</string>
+    <string name="zoom_title">放大</string>
+    <string name="color_black">黑色的</string>
+    <string name="color_white">白色的</string>
 </resources>

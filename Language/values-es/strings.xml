@@ -969,4 +969,16 @@
     <string name="recent_delete">¿Está seguro de que desea eliminar todas las búsquedas recientes?</string>
     <string name="recent_lang">Registro reciente</string>
     <string name="lang_delete">¿Está seguro de que desea eliminar todos los registros recientes?</string>
+    <string name="ocr_guide_1">Esta función está optimizada para la traducción de cómics.</string>
+    <string name="ocr_guide_2">Debes seleccionar el idioma incluido en la imagen.</string>
+    <string name="ocr_guide_3">Si no selecciona el idioma apropiado, es posible que no se reconozcan los caracteres.</string>
+    <string name="ocr_load_1">Cargando módulo de texto.</string>
+    <string name="ocr_load_2">La carga del módulo de texto se realiza solo una vez para cada idioma.</string>
+    <string name="ocr_load_3">Carga del módulo de texto completa</string>
+    <string name="ocr_fail">El personaje no fue reconocido.</string>
+    <string name="ocr_zoom_info_1">Si las letras son demasiado pequeñas, es posible que no se reconozcan o se traduzcan incorrectamente.</string>
+    <string name="ocr_zoom_info_2">Aumentar la ampliación aumenta la precisión.</string>
+    <string name="zoom_title">Aumento</string>
+    <string name="color_black">Negro</string>
+    <string name="color_white">Blanco</string>
 </resources>

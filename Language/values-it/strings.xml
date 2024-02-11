@@ -969,4 +969,16 @@
     <string name="recent_delete">Sei sicuro di voler eliminare tutte le ricerche recenti?</string>
     <string name="recent_lang">Record recente</string>
     <string name="lang_delete">Sei sicuro di voler eliminare tutti i record recenti?</string>
+    <string name="ocr_guide_1">Questa funzionalità è ottimizzata per la traduzione di fumetti.</string>
+    <string name="ocr_guide_2">È necessario selezionare la lingua inclusa nell\'immagine.</string>
+    <string name="ocr_guide_3">Se non si seleziona la lingua appropriata, i caratteri potrebbero non essere riconosciuti.</string>
+    <string name="ocr_load_1">Caricamento modulo di testo.</string>
+    <string name="ocr_load_2">Il caricamento dei moduli di testo viene effettuato una sola volta per ciascuna lingua.</string>
+    <string name="ocr_load_3">Caricamento del modulo di testo completato</string>
+    <string name="ocr_fail">Il personaggio non è stato riconosciuto.</string>
+    <string name="ocr_zoom_info_1">Se le lettere sono troppo piccole, potrebbero non essere riconosciute o tradotte in modo errato.</string>
+    <string name="ocr_zoom_info_2">Aumentando l\'ingrandimento aumenta la precisione.</string>
+    <string name="zoom_title">Ingrandimento</string>
+    <string name="color_black">Nero</string>
+    <string name="color_white">Bianco</string>
 </resources>

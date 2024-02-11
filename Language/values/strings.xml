@@ -969,4 +969,16 @@
     <string name="recent_delete">Are you sure you want to delete all recent searches?</string>
     <string name="recent_lang">Recent record</string>
     <string name="lang_delete">Are you sure you want to delete all recent records?</string>
+    <string name="ocr_guide_1">This feature is optimized for comic book translation.</string>
+    <string name="ocr_guide_2">You must select the language included in the image.</string>
+    <string name="ocr_guide_3">If you do not select the appropriate language, characters may not be recognized.</string>
+    <string name="ocr_load_1">Loading text module.</string>
+    <string name="ocr_load_2">Text module loading is done only once for each language.</string>
+    <string name="ocr_load_3">Text module loading complete</string>
+    <string name="ocr_fail">The character was not recognized.</string>
+    <string name="ocr_zoom_info_1">If letters are too small, they may not be recognized or translated incorrectly.</string>
+    <string name="ocr_zoom_info_2">Increasing the magnification increases accuracy.</string>
+    <string name="zoom_title">Magnification</string>
+    <string name="color_black">Black</string>
+    <string name="color_white">White</string>
 </resources>

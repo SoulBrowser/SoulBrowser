@@ -969,4 +969,16 @@
     <string name="recent_delete">Czy na pewno chcesz usunąć wszystkie ostatnie wyszukiwania?</string>
     <string name="recent_lang">Najnowszy rekord</string>
     <string name="lang_delete">Czy na pewno chcesz usunąć wszystkie ostatnie rekordy?</string>
+    <string name="ocr_guide_1">Ta funkcja jest zoptymalizowana pod kątem tłumaczenia komiksów.</string>
+    <string name="ocr_guide_2">Musisz wybrać język zawarty w obrazie.</string>
+    <string name="ocr_guide_3">Jeśli nie wybierzesz odpowiedniego języka, znaki mogą nie zostać rozpoznane.</string>
+    <string name="ocr_load_1">Ładowanie modułu tekstowego.</string>
+    <string name="ocr_load_2">Ładowanie modułu tekstowego odbywa się tylko raz dla każdego języka.</string>
+    <string name="ocr_load_3">Ładowanie modułu tekstowego zakończone</string>
+    <string name="ocr_fail">Postać nie została rozpoznana.</string>
+    <string name="ocr_zoom_info_1">Jeśli litery są za małe, mogą nie zostać rozpoznane lub nieprawidłowo przetłumaczone.</string>
+    <string name="ocr_zoom_info_2">Zwiększanie powiększenia zwiększa dokładność.</string>
+    <string name="zoom_title">Powiększenie</string>
+    <string name="color_black">Czarny</string>
+    <string name="color_white">Biały</string>
 </resources>

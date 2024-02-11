@@ -969,4 +969,16 @@
     <string name="recent_delete">Ви впевнені, що бажаєте видалити всі останні пошуки?</string>
     <string name="recent_lang">Недавній запис</string>
     <string name="lang_delete">Ви впевнені, що бажаєте видалити всі останні записи?</string>
+    <string name="ocr_guide_1">Ця функція оптимізована для перекладу коміксів.</string>
+    <string name="ocr_guide_2">Ви повинні вибрати мову, включену в зображення.</string>
+    <string name="ocr_guide_3">Якщо не вибрати відповідну мову, символи можуть не розпізнаватися.</string>
+    <string name="ocr_load_1">Завантаження текстового модуля.</string>
+    <string name="ocr_load_2">Завантаження текстового модуля виконується тільки один раз для кожної мови.</string>
+    <string name="ocr_load_3">Завантаження текстового модуля завершено</string>
+    <string name="ocr_fail">Персонаж не впізнали.</string>
+    <string name="ocr_zoom_info_1">Якщо літери занадто малі, вони можуть не розпізнаватися або перекладатися неправильно.</string>
+    <string name="ocr_zoom_info_2">Збільшення збільшення підвищує точність.</string>
+    <string name="zoom_title">Збільшення</string>
+    <string name="color_black">Чорний</string>
+    <string name="color_white">Білий</string>
 </resources>

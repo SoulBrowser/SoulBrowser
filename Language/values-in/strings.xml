@@ -969,4 +969,16 @@
     <string name="recent_delete">Apakah Anda yakin ingin menghapus semua pencarian terbaru?</string>
     <string name="recent_lang">Rekor terkini</string>
     <string name="lang_delete">Apakah Anda yakin ingin menghapus semua rekaman terbaru?</string>
+    <string name="ocr_guide_1">Fitur ini dioptimalkan untuk terjemahan buku komik.</string>
+    <string name="ocr_guide_2">Anda harus memilih bahasa yang disertakan dalam gambar.</string>
+    <string name="ocr_guide_3">Jika Anda tidak memilih bahasa yang sesuai, karakter mungkin tidak dapat dikenali.</string>
+    <string name="ocr_load_1">Memuat modul teks.</string>
+    <string name="ocr_load_2">Pemuatan modul teks hanya dilakukan satu kali untuk setiap bahasa.</string>
+    <string name="ocr_load_3">Pemuatan modul teks selesai</string>
+    <string name="ocr_fail">Karakternya tidak dikenali.</string>
+    <string name="ocr_zoom_info_1">Jika hurufnya terlalu kecil, hurufnya mungkin tidak dikenali atau diterjemahkan secara tidak benar.</string>
+    <string name="ocr_zoom_info_2">Meningkatkan pembesaran akan meningkatkan akurasi.</string>
+    <string name="zoom_title">Pembesaran</string>
+    <string name="color_black">Hitam</string>
+    <string name="color_white">Putih</string>
 </resources>

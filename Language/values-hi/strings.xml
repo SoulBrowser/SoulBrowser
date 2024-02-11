@@ -969,4 +969,16 @@
     <string name="recent_delete">क्या आप वाकई हाल की सभी खोजों को हटाना चाहते हैं?</string>
     <string name="recent_lang">हाल का रिकॉर्ड</string>
     <string name="lang_delete">क्या आप वाकई हाल के सभी रिकॉर्ड हटाना चाहते हैं?</string>
+    <string name="ocr_guide_1">यह सुविधा कॉमिक बुक अनुवाद के लिए अनुकूलित है।</string>
+    <string name="ocr_guide_2">आपको छवि में शामिल भाषा का चयन करना होगा.</string>
+    <string name="ocr_guide_3">यदि आप उपयुक्त भाषा का चयन नहीं करते हैं, तो वर्ण पहचाने नहीं जा सकेंगे।</string>
+    <string name="ocr_load_1">टेक्स्ट मॉड्यूल लोड हो रहा है.</string>
+    <string name="ocr_load_2">प्रत्येक भाषा के लिए टेक्स्ट मॉड्यूल लोडिंग केवल एक बार की जाती है।</string>
+    <string name="ocr_load_3">टेक्स्ट मॉड्यूल लोड हो रहा है</string>
+    <string name="ocr_fail">किरदार की पहचान नहीं हो पाई.</string>
+    <string name="ocr_zoom_info_1">यदि अक्षर बहुत छोटे हैं, तो उन्हें पहचाना नहीं जा सकेगा या गलत अनुवाद किया जा सकेगा।</string>
+    <string name="ocr_zoom_info_2">आवर्धन बढ़ाने से सटीकता बढ़ती है।</string>
+    <string name="zoom_title">बढ़ाई</string>
+    <string name="color_black">काला</string>
+    <string name="color_white">सफ़ेद</string>
 </resources>

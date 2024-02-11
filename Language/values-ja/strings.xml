@@ -969,4 +969,16 @@
     <string name="recent_delete">最近のクエリをすべて削除しますか？</string>
     <string name="recent_lang">最近の記録</string>
     <string name="lang_delete">最近の履歴をすべて削除しますか？</string>
+    <string name="ocr_guide_1">この機能は漫画本の翻訳に最適化されています。</string>
+    <string name="ocr_guide_2">画像に含まれる言語を選択する必要があります。</string>
+    <string name="ocr_guide_3">その言語を選択しないと、文字が認識されない可能性があります。</string>
+    <string name="ocr_load_1">テキストモジュールをロードしています。</string>
+    <string name="ocr_load_2">テキストモジュールのロードは、各言語に対して一度だけ実行されます。</string>
+    <string name="ocr_load_3">テキストモジュールのロード完了</string>
+    <string name="ocr_fail">文字が認識されませんでした。</string>
+    <string name="ocr_zoom_info_1">文字が小さすぎると、認識されないか誤って翻訳される可能性があります。</string>
+    <string name="ocr_zoom_info_2">倍率を上げると精度が高くなります。</string>
+    <string name="zoom_title">倍率</string>
+    <string name="color_black">黒</string>
+    <string name="color_white">白</string>
 </resources>

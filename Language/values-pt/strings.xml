@@ -969,4 +969,16 @@
     <string name="recent_delete">Tem certeza de que deseja excluir todas as pesquisas recentes?</string>
     <string name="recent_lang">Registro recente</string>
     <string name="lang_delete">Tem certeza de que deseja excluir todos os registros recentes?</string>
+    <string name="ocr_guide_1">Este recurso é otimizado para tradução de quadrinhos.</string>
+    <string name="ocr_guide_2">Você deve selecionar o idioma incluído na imagem.</string>
+    <string name="ocr_guide_3">Se você não selecionar o idioma apropriado, os caracteres poderão não ser reconhecidos.</string>
+    <string name="ocr_load_1">Carregando módulo de texto.</string>
+    <string name="ocr_load_2">O carregamento do módulo de texto é feito apenas uma vez para cada idioma.</string>
+    <string name="ocr_load_3">Carregamento do módulo de texto concluído</string>
+    <string name="ocr_fail">O personagem não foi reconhecido.</string>
+    <string name="ocr_zoom_info_1">Se as letras forem muito pequenas, elas poderão não ser reconhecidas ou traduzidas incorretamente.</string>
+    <string name="ocr_zoom_info_2">Aumentar a ampliação aumenta a precisão.</string>
+    <string name="zoom_title">Ampliação</string>
+    <string name="color_black">Preto</string>
+    <string name="color_white">Branco</string>
 </resources>

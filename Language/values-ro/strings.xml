@@ -969,4 +969,16 @@
     <string name="recent_delete">Sigur doriți să ștergeți toate căutările recente?</string>
     <string name="recent_lang">Record recent</string>
     <string name="lang_delete">Sigur doriți să ștergeți toate înregistrările recente?</string>
+    <string name="ocr_guide_1">Această caracteristică este optimizată pentru traducerea de benzi desenate.</string>
+    <string name="ocr_guide_2">Trebuie să selectați limba inclusă în imagine.</string>
+    <string name="ocr_guide_3">Dacă nu selectați limba corespunzătoare, este posibil ca caracterele să nu fie recunoscute.</string>
+    <string name="ocr_load_1">Se încarcă modulul de text.</string>
+    <string name="ocr_load_2">Încărcarea modulului de text se face o singură dată pentru fiecare limbă.</string>
+    <string name="ocr_load_3">Încărcarea modulului de text s-a încheiat</string>
+    <string name="ocr_fail">Personajul nu a fost recunoscut.</string>
+    <string name="ocr_zoom_info_1">Dacă literele sunt prea mici, este posibil să nu fie recunoscute sau traduse incorect.</string>
+    <string name="ocr_zoom_info_2">Creșterea măririi crește precizia.</string>
+    <string name="zoom_title">Mărire</string>
+    <string name="color_black">Negru</string>
+    <string name="color_white">Alb</string>
 </resources>

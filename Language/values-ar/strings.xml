@@ -969,4 +969,16 @@
     <string name="recent_delete">هل أنت متأكد أنك تريد حذف جميع عمليات البحث الأخيرة؟</string>
     <string name="recent_lang">السجل الأخير</string>
     <string name="lang_delete">هل أنت متأكد أنك تريد حذف كافة السجلات الحديثة؟</string>
+    <string name="ocr_guide_1">تم تحسين هذه الميزة لترجمة الكتب المصورة.</string>
+    <string name="ocr_guide_2">يجب عليك تحديد اللغة المضمنة في الصورة.</string>
+    <string name="ocr_guide_3">إذا لم تقم بتحديد اللغة المناسبة، فقد لا يتم التعرف على الأحرف.</string>
+    <string name="ocr_load_1">تحميل وحدة النص.</string>
+    <string name="ocr_load_2">يتم تحميل وحدة النص مرة واحدة فقط لكل لغة.</string>
+    <string name="ocr_load_3">اكتمل تحميل وحدة النص</string>
+    <string name="ocr_fail">لم يتم التعرف على الشخصية.</string>
+    <string name="ocr_zoom_info_1">إذا كانت الحروف صغيرة جدًا، فقد لا يتم التعرف عليها أو ترجمتها بشكل غير صحيح.</string>
+    <string name="ocr_zoom_info_2">زيادة التكبير يزيد من الدقة.</string>
+    <string name="zoom_title">التكبير</string>
+    <string name="color_black">أسود</string>
+    <string name="color_white">أبيض</string>
 </resources>

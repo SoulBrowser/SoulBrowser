@@ -969,4 +969,16 @@
     <string name="recent_delete">Bạn có chắc chắn muốn xóa tất cả các tìm kiếm gần đây không?</string>
     <string name="recent_lang">Kỷ lục gần đây</string>
     <string name="lang_delete">Bạn có chắc chắn muốn xóa tất cả các bản ghi gần đây không?</string>
+    <string name="ocr_guide_1">Tính năng này được tối ưu hóa cho việc dịch truyện tranh.</string>
+    <string name="ocr_guide_2">Bạn phải chọn ngôn ngữ có trong hình ảnh.</string>
+    <string name="ocr_guide_3">Nếu bạn không chọn ngôn ngữ thích hợp, các ký tự có thể không được nhận dạng.</string>
+    <string name="ocr_load_1">Đang tải mô-đun văn bản.</string>
+    <string name="ocr_load_2">Việc tải mô-đun văn bản chỉ được thực hiện một lần cho mỗi ngôn ngữ.</string>
+    <string name="ocr_load_3">Quá trình tải mô-đun văn bản đã hoàn tất</string>
+    <string name="ocr_fail">Nhân vật không được công nhận.</string>
+    <string name="ocr_zoom_info_1">Nếu chữ quá nhỏ, chúng có thể không được nhận dạng hoặc dịch không chính xác.</string>
+    <string name="ocr_zoom_info_2">Tăng độ phóng đại làm tăng độ chính xác.</string>
+    <string name="zoom_title">Phóng đại</string>
+    <string name="color_black">Đen</string>
+    <string name="color_white">Trắng</string>
 </resources>

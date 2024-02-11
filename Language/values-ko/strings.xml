@@ -969,4 +969,16 @@
     <string name="recent_delete">최근 검색어를 모두 삭제하시겠습니까?</string>
     <string name="recent_lang">최근 기록</string>
     <string name="lang_delete">최근 기록을 모두 삭제하시겠습니까?</string>
+    <string name="ocr_guide_1">이 기능은 만화책 번역에 최적화되어 있습니다.</string>
+    <string name="ocr_guide_2">이미지에 포함된 언어를 선택해야 합니다.</string>
+    <string name="ocr_guide_3">해당 언어를 선택하지 않으면 문자가 인식되지 않을 수 있습니다.</string>
+    <string name="ocr_load_1">텍스트 모듈을 로드하는 중입니다.</string>
+    <string name="ocr_load_2">텍스트 모듈 로딩은 각 언어에 대해 한 번만 수행됩니다.</string>
+    <string name="ocr_load_3">텍스트 모듈 로딩 완료</string>
+    <string name="ocr_fail">문자가 인식되지 않았습니다.</string>
+    <string name="ocr_zoom_info_1">글자가 너무 작으면 인식되지 않거나 잘못 번역될 수 있습니다.</string>
+    <string name="ocr_zoom_info_2">배율을 높이면 정확도가 높아집니다.</string>
+    <string name="zoom_title">배율</string>
+    <string name="color_black">검은색</string>
+    <string name="color_white">하얀색</string>
 </resources>
