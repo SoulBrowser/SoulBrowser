@@ -978,6 +978,8 @@
     <string name="ocr_fail">Il personaggio non è stato riconosciuto.</string>
     <string name="ocr_zoom_info_1">Se le lettere sono troppo piccole, potrebbero non essere riconosciute o tradotte in modo errato.</string>
     <string name="ocr_zoom_info_2">Aumentando l\'ingrandimento aumenta la precisione.</string>
+    <string name="ocr_trans_reload_1">Questa funzione ritraduce le immagini tradotte.</string>
+    <string name="ocr_trans_reload_2">Questa funzione è per i casi in cui sono presenti errori nei risultati della traduzione.</string>
     <string name="zoom_title">Ingrandimento</string>
     <string name="color_black">Nero</string>
     <string name="color_white">Bianco</string>

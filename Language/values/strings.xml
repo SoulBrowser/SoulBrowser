@@ -978,6 +978,8 @@
     <string name="ocr_fail">The character was not recognized.</string>
     <string name="ocr_zoom_info_1">If letters are too small, they may not be recognized or translated incorrectly.</string>
     <string name="ocr_zoom_info_2">Increasing the magnification increases accuracy.</string>
+    <string name="ocr_trans_reload_1">This function re-translates translated images.</string>
+    <string name="ocr_trans_reload_2">This function is for cases where there are errors in the translation results.</string>
     <string name="zoom_title">Magnification</string>
     <string name="color_black">Black</string>
     <string name="color_white">White</string>

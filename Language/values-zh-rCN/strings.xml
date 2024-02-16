@@ -978,6 +978,8 @@
     <string name="ocr_fail">该角色未被识别</string>
     <string name="ocr_zoom_info_1">如果字母太小，可能无法识别或翻译错误</string>
     <string name="ocr_zoom_info_2">增加放大倍数可以提高精度</string>
+    <string name="ocr_trans_reload_1">此功能重新翻译翻译后的图像</string>
+    <string name="ocr_trans_reload_2">此功能适用于翻译结果有错误的情况</string>
     <string name="zoom_title">放大</string>
     <string name="color_black">黑色的</string>
     <string name="color_white">白色的</string>

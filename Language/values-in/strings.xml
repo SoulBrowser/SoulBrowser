@@ -978,6 +978,8 @@
     <string name="ocr_fail">Karakternya tidak dikenali.</string>
     <string name="ocr_zoom_info_1">Jika hurufnya terlalu kecil, hurufnya mungkin tidak dikenali atau diterjemahkan secara tidak benar.</string>
     <string name="ocr_zoom_info_2">Meningkatkan pembesaran akan meningkatkan akurasi.</string>
+    <string name="ocr_trans_reload_1">Fungsi ini menerjemahkan ulang gambar yang diterjemahkan.</string>
+    <string name="ocr_trans_reload_2">Fungsi ini untuk kasus dimana terdapat kesalahan pada hasil terjemahan.</string>
     <string name="zoom_title">Pembesaran</string>
     <string name="color_black">Hitam</string>
     <string name="color_white">Putih</string>

@@ -978,6 +978,8 @@
     <string name="ocr_fail">Personajul nu a fost recunoscut.</string>
     <string name="ocr_zoom_info_1">Dacă literele sunt prea mici, este posibil să nu fie recunoscute sau traduse incorect.</string>
     <string name="ocr_zoom_info_2">Creșterea măririi crește precizia.</string>
+    <string name="ocr_trans_reload_1">Această funcție retraduce imaginile traduse.</string>
+    <string name="ocr_trans_reload_2">Această funcție este pentru cazurile în care există erori în rezultatele traducerii.</string>
     <string name="zoom_title">Mărire</string>
     <string name="color_black">Negru</string>
     <string name="color_white">Alb</string>
