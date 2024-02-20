@@ -89,7 +89,7 @@
     <string name="apply_url_equal">Se aplica por igual a los demás</string>
     <string name="apply_pass_equal">Se aplica por igual a los demás</string>
     <string name="change_before">Antes del cambio</string>
-	    <string name="change_after">después del cambio</string>
+	  <string name="change_after">después del cambio</string>
     <string name="estimated">Tiempo estimado</string>
     <string name="edit">Editar</string>
     <string name="share">Compartir</string>
@@ -977,7 +977,14 @@
     <string name="ocr_fail">El carácter no fue reconocido.</string>
     <string name="ocr_zoom_info_1">Si las letras son demasiado pequeñas, es posible que no se reconozcan o se traduzcan incorrectamente.</string>
     <string name="ocr_zoom_info_2">Aumentar la ampliación incrementa la precisión.</string>
+    <string name="ocr_trans_reload_1">Esta función vuelve a traducir las imágenes traducidas.</string>
+
+    <string name="ocr_trans_reload_2">Esta función es para los casos en que hay errores en los resultados de la traducción.</string>
+
     <string name="zoom_title">Ampliación</string>
+
     <string name="color_black">Negro</string>
+
     <string name="color_white">Blanco</string>
+
 </resources>

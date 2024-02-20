@@ -978,6 +978,8 @@
     <string name="ocr_fail">لم يتم التعرف على الشخصية.</string>
     <string name="ocr_zoom_info_1">إذا كانت الحروف صغيرة جدًا، فقد لا يتم التعرف عليها أو ترجمتها بشكل غير صحيح.</string>
     <string name="ocr_zoom_info_2">زيادة التكبير يزيد من الدقة.</string>
+    <string name="ocr_trans_reload_1">تقوم هذه الوظيفة بإعادة ترجمة الصور المترجمة.</string>
+    <string name="ocr_trans_reload_2">هذه الوظيفة مخصصة للحالات التي توجد فيها أخطاء في نتائج الترجمة.</string>
     <string name="zoom_title">التكبير</string>
     <string name="color_black">أسود</string>
     <string name="color_white">أبيض</string>

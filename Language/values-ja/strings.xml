@@ -978,6 +978,8 @@
     <string name="ocr_fail">文字が認識されませんでした。</string>
     <string name="ocr_zoom_info_1">文字が小さすぎると、認識されないか誤って翻訳される可能性があります。</string>
     <string name="ocr_zoom_info_2">倍率を上げると精度が高くなります。</string>
+    <string name="ocr_trans_reload_1">翻訳された画像を再翻訳する機能です。</string>
+    <string name="ocr_trans_reload_2">翻訳結果に誤りがある場合のための機能です。</string>
     <string name="zoom_title">倍率</string>
     <string name="color_black">黒</string>
     <string name="color_white">白</string>

@@ -978,6 +978,8 @@
     <string name="ocr_fail">Персонаж не был опознан.</string>
     <string name="ocr_zoom_info_1">Если буквы слишком маленькие, они могут быть не распознаны или переведены неправильно.</string>
     <string name="ocr_zoom_info_2">Увеличение увеличения увеличивает точность.</string>
+    <string name="ocr_trans_reload_1">Эта функция повторно переводит переведенные изображения.</string>
+    <string name="ocr_trans_reload_2">Эта функция предназначена для случаев, когда в результатах перевода есть ошибки.</string>
     <string name="zoom_title">Увеличение</string>
     <string name="color_black">Черный</string>
     <string name="color_white">Белый</string>

@@ -978,6 +978,8 @@
     <string name="ocr_fail">Nhân vật không được công nhận.</string>
     <string name="ocr_zoom_info_1">Nếu chữ quá nhỏ, chúng có thể không được nhận dạng hoặc dịch không chính xác.</string>
     <string name="ocr_zoom_info_2">Tăng độ phóng đại làm tăng độ chính xác.</string>
+    <string name="ocr_trans_reload_1">Chức năng này dịch lại hình ảnh đã dịch.</string>
+    <string name="ocr_trans_reload_2">Chức năng này dành cho trường hợp kết quả dịch thuật có sai sót.</string>
     <string name="zoom_title">Phóng đại</string>
     <string name="color_black">Đen</string>
     <string name="color_white">Trắng</string>

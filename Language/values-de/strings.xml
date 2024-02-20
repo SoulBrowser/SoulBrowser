@@ -978,6 +978,8 @@
     <string name="ocr_fail">Der Charakter wurde nicht erkannt.</string>
     <string name="ocr_zoom_info_1">Zu kleine Buchstaben können dazu führen, dass sie nicht erkannt oder falsch übersetzt werden.</string>
     <string name="ocr_zoom_info_2">Durch Erhöhen der Vergrößerung wird die Genauigkeit erhöht.</string>
+    <string name="ocr_trans_reload_1">Diese Funktion übersetzt übersetzte Bilder erneut.</string>
+    <string name="ocr_trans_reload_2">Diese Funktion ist für Fälle vorgesehen, in denen die Übersetzungsergebnisse fehlerhaft sind.</string>
     <string name="zoom_title">Vergrößerung</string>
     <string name="color_black">Schwarz</string>
     <string name="color_white">Weiß</string>

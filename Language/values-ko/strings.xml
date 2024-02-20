@@ -978,6 +978,8 @@
     <string name="ocr_fail">문자가 인식되지 않았습니다.</string>
     <string name="ocr_zoom_info_1">글자가 너무 작으면 인식되지 않거나 잘못 번역될 수 있습니다.</string>
     <string name="ocr_zoom_info_2">배율을 높이면 정확도가 높아집니다.</string>
+    <string name="ocr_trans_reload_1">번역된 이미지를 다시 번역하는 기능입니다.</string>
+    <string name="ocr_trans_reload_2">번역 결과에 오류가 있는 경우를 위한 기능입니다.</string>
     <string name="zoom_title">배율</string>
     <string name="color_black">검은색</string>
     <string name="color_white">하얀색</string>

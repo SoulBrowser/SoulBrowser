@@ -978,6 +978,8 @@
     <string name="ocr_fail">ไม่รู้จักตัวละครนี้</string>
     <string name="ocr_zoom_info_1">หากตัวอักษรมีขนาดเล็กเกินไป ระบบอาจจดจำหรือแปลไม่ถูกต้อง</string>
     <string name="ocr_zoom_info_2">การเพิ่มกำลังขยายจะเพิ่มความแม่นยำ</string>
+    <string name="ocr_trans_reload_1">ฟังก์ชันนี้จะแปลรูปภาพที่แปลแล้วใหม่</string>
+    <string name="ocr_trans_reload_2">ฟังก์ชันนี้ใช้สำหรับกรณีที่มีข้อผิดพลาดในผลลัพธ์การแปล</string>
     <string name="zoom_title">กำลังขยาย</string>
     <string name="color_black">สีดำ</string>
     <string name="color_white">สีขาว</string>

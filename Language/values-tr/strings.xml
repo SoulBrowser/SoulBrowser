@@ -978,6 +978,8 @@
     <string name="ocr_fail">Karakter tanınmadı.</string>
     <string name="ocr_zoom_info_1">Harfler çok küçükse tanınmayabilir veya yanlış tercüme edilebilir.</string>
     <string name="ocr_zoom_info_2">Büyütmeyi artırmak doğruluğu artırır.</string>
+    <string name="ocr_trans_reload_1">Bu işlev çevrilmiş görüntüleri yeniden çevirir.</string>
+    <string name="ocr_trans_reload_2">Bu işlev çeviri sonuçlarında hataların olduğu durumlar içindir.</string>
     <string name="zoom_title">Büyütme</string>
     <string name="color_black">Siyah</string>
     <string name="color_white">Beyaz</string>
