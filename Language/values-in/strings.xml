@@ -957,9 +957,6 @@
     <string name="filter_link_4">Filter mungkin tidak diperbarui jika alamat filter berubah.</string>
     <string name="filter_link_5">Dalam hal ini, harap informasikan kepada pengembang.</string>
     <string name="open_source">Terima kasih kepada pengembang sumber terbuka. ❤</string>
-    <string name="video_icon_tap">Ketuk layar</string>
-    <string name="video_icon_long">Tekan lama di layar</string>
-    <string name="video_icon_guide">Tekan dan tahan layar untuk membuka tombol fungsi.</string>
     <string name="change_in_setting">Anda dapat mengubahnya di pengaturan.</string>
     <string name="check_brfore">Periksa sebelum dijalankan</string>
     <string name="check_ver">Periksa versi</string>

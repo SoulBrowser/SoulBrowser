@@ -957,9 +957,6 @@
     <string name="filter_link_4">قد لا يتم تحديث عوامل التصفية إذا تغير عنوان المرشح.</string>
     <string name="filter_link_5">في هذه الحالة ، يرجى إبلاغ المطور.</string>
     <string name="open_source">بفضل مطوري البرامج مفتوحة المصدر. ❤</string>
-    <string name="video_icon_tap">اضغط على الشاشة</string>
-    <string name="video_icon_long">الضغط لفترة طويلة على الشاشة</string>
-    <string name="video_icon_guide">اضغط مع الاستمرار على الشاشة للكشف عن أزرار الوظائف.</string>
     <string name="change_in_setting">يمكنك تغييره في الإعدادات.</string>
     <string name="check_brfore">تحقق قبل الجري</string>
     <string name="check_ver">تحقق من الإصدار</string>

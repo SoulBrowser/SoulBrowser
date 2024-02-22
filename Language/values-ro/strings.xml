@@ -957,9 +957,6 @@
     <string name="filter_link_4">Este posibil ca filtrele să nu fie actualizate dacă adresa filtrului se modifică.</string>
     <string name="filter_link_5">Neste caso, informe o desenvolvedor.</string>
     <string name="open_source">Mulțumim dezvoltatorilor open source. ❤</string>
-    <string name="video_icon_tap">Atingeți ecranul</string>
-    <string name="video_icon_long">Apăsați lung pe ecran</string>
-    <string name="video_icon_guide">Apăsați și mențineți apăsat ecranul pentru a afișa butoanele de funcție.</string>
     <string name="change_in_setting">Îl poți schimba în setări.</string>
     <string name="check_brfore">Verificați înainte de a alerga</string>
     <string name="check_ver">Verifica versiunea</string>

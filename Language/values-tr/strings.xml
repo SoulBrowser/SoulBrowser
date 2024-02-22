@@ -957,9 +957,6 @@
     <string name="filter_link_4">Filtre adresi değişirse filtreler güncellenmeyebilir.</string>
     <string name="filter_link_5">Bu durumda, lütfen geliştiriciyi bilgilendirin.</string>
     <string name="open_source">Açık kaynak geliştiricilere teşekkürler. ❤</string>
-    <string name="video_icon_tap">Ekrana dokunun</string>
-    <string name="video_icon_long">Ekrana uzun basın</string>
-    <string name="video_icon_guide">İşlev düğmelerini ortaya çıkarmak için ekrana basın ve basılı tutun.</string>
     <string name="change_in_setting">Ayarlardan değiştirebilirsiniz.</string>
     <string name="check_brfore">Çalıştırmadan önce kontrol edin</string>
     <string name="check_ver">Sürümü kontrol et</string>

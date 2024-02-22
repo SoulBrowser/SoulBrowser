@@ -957,9 +957,6 @@
     <string name="filter_link_4">Os filtros podem não ser atualizados se o endereço do filtro for alterado.</string>
     <string name="filter_link_5">Neste caso, informe o desenvolvedor.</string>
     <string name="open_source">Obrigado aos desenvolvedores de código aberto. ❤</string>
-    <string name="video_icon_tap">Toque na tela</string>
-    <string name="video_icon_long">Toque longo na tela</string>
-    <string name="video_icon_guide">Pressione e segure a tela para revelar os botões de função.</string>
     <string name="change_in_setting">Você pode alterá-lo nas configurações.</string>
     <string name="check_brfore">Verifique antes de executar</string>
     <string name="check_ver">Verifique a versão</string>

@@ -957,9 +957,6 @@
     <string name="filter_link_4">Filter werden möglicherweise nicht aktualisiert, wenn sich die Filteradresse ändert.</string>
     <string name="filter_link_5">Bitte informieren Sie in diesem Fall den Entwickler.</string>
     <string name="open_source">Danke an die Open-Source-Entwickler. ❤</string>
-    <string name="video_icon_tap">Berühre den Bildschirm</string>
-    <string name="video_icon_long">Lange auf den Bildschirm drücken</string>
-    <string name="video_icon_guide">Halten Sie den Bildschirm gedrückt, um die Funktionstasten anzuzeigen.</string>
     <string name="change_in_setting">Sie können es in den Einstellungen ändern.</string>
     <string name="check_brfore">Prüfen Sie vor dem Laufen</string>
     <string name="check_ver">Version prüfen</string>

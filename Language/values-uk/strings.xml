@@ -957,9 +957,6 @@
     <string name="filter_link_4">Фільтри можуть не оновлюватися, якщо змінюється адреса фільтра.</string>
     <string name="filter_link_5">У цьому випадку повідомте розробника.</string>
     <string name="open_source">Спасибі розробникам з відкритим кодом. ❤</string>
-    <string name="video_icon_tap">Торкніться екрана</string>
-    <string name="video_icon_long">Довго натискайте на екрані</string>
-    <string name="video_icon_guide">Натисніть і утримуйте екран, щоб відкрити функціональні кнопки.</string>
     <string name="change_in_setting">Ви можете змінити це в налаштуваннях.</string>
     <string name="check_brfore">Перевірте перед запуском</string>
     <string name="check_ver">Перевірити версію</string>

@@ -957,9 +957,6 @@
     <string name="filter_link_4">如果過濾器地址更改，過濾器可能不會更新</string>
     <string name="filter_link_5">在這種情況下，請通知開發商</string>
     <string name="open_source">感謝開源開發者 ❤</string>
-    <string name="video_icon_tap">點擊屏幕</string>
-    <string name="video_icon_long">長按屏幕</string>
-    <string name="video_icon_guide">按住屏幕以顯示功能按鈕</string>
     <string name="change_in_setting">您可以在設置中更改它</string>
     <string name="check_brfore">運行前檢查</string>
     <string name="check_ver">檢查版本</string>

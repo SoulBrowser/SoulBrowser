@@ -957,9 +957,6 @@
     <string name="filter_link_4">Filters may not be updated if the filter address changes.</string>
     <string name="filter_link_5">In this case, please inform the developer.</string>
     <string name="open_source">Thanks to the open source developers. ❤</string>
-    <string name="video_icon_tap">Tap the screen</string>
-    <string name="video_icon_long">Long press on the screen</string>
-    <string name="video_icon_guide">Press and hold the screen to reveal function buttons.</string>
     <string name="change_in_setting">You can change it in settings.</string>
     <string name="check_brfore">Check before running</string>
     <string name="check_ver">Check version</string>

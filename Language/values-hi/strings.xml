@@ -957,9 +957,6 @@
     <string name="filter_link_4">यदि फ़िल्टर का पता बदल जाता है, तो हो सकता है कि फ़िल्टर अपडेट न हों।</string>
     <string name="filter_link_5">इस मामले में, कृपया डेवलपर को सूचित करें।</string>
     <string name="open_source">ओपन सोर्स डेवलपर्स को धन्यवाद। ❤</string>
-    <string name="video_icon_tap">स्क्रीन पर टैप करें</string>
-    <string name="video_icon_long">स्क्रीन पर देर तक दबाएं</string>
-    <string name="video_icon_guide">फ़ंक्शन बटन प्रकट करने के लिए स्क्रीन को दबाकर रखें।</string>
     <string name="change_in_setting">आप इसे सेटिंग में बदल सकते हैं।</string>
     <string name="check_brfore">दौड़ने से पहले जांच लें</string>
     <string name="check_ver">जाँच संस्करण</string>

@@ -957,9 +957,6 @@
     <string name="filter_link_4">フィルタアドレスが変更されると、フィルタが更新されないことがあります。</string>
     <string name="filter_link_5">In questo caso, si prega di informare lo sviluppatore.</string>
     <string name="open_source">オープンソースの開発者に感謝します。 ❤</string>
-    <string name="video_icon_tap">画面をタップ</string>
-    <string name="video_icon_long">画面を長押し</string>
-    <string name="video_icon_guide">画面を長押しすると機能ボタンが表示されます。</string>
     <string name="change_in_setting">設定で変更できます。</string>
     <string name="check_brfore">実行前の確認</string>
     <string name="check_ver">バージョン確認</string>
