@@ -812,6 +812,7 @@
     <string name="mem_block_page">Запретить освобождение памяти для текущей страницы</string>
     <string name="mem_block_list">Список предотвращения освобождения памяти</string>
     <string name="down_manager">Менеджер загрузки</string>
+    <string name="down_exit">Выйти из диспетчера загрузок</string>
     <string name="other_app">Другие приложения</string>
     <string name="web_title">Интернет</string>
     <string name="color_title">Цвет</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">Жесты не работают на сайтах, которые есть в этом списке.</string>
     <string name="gesture_block_info_2">Применяется только к жестам в центре экрана.</string>
     <string name="gesture_block_info_3">Не влияет на жесты по краям экрана.</string>
-    <string name="down_service">Сервис загрузки</string>
-    <string name="service_exit">Прекращение обслуживания</string>
     <string name="auto_comp">Автозаполнение</string>
     <string name="check_element">Контроль элементов</string>
     <string name="check_ele_info_0">(точечная блокировка)</string>

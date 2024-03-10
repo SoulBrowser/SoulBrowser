@@ -812,6 +812,7 @@
     <string name="mem_block_page">Zapobiegaj zwolnieniu pamięci dla bieżącej strony</string>
     <string name="mem_block_list">Lista zapobiegania zwalnianiu pamięci</string>
     <string name="down_manager">Menadżer pobierania</string>
+    <string name="down_exit">Wyjdź z menedżera pobierania</string>
     <string name="other_app">Inne aplikacje</string>
     <string name="web_title">Sieć</string>
     <string name="color_title">Kolor</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">Możesz zarejestrować strony, które nie używają gestów.</string>
     <string name="gesture_block_info_2">Dotyczy tylko gestów na środku ekranu.</string>
     <string name="gesture_block_info_3">Nie dotyczy gestów na krawędziach ekranu.</string>
-    <string name="down_service">Usługa pobierania</string>
-    <string name="service_exit">Zakończenie usługi</string>
     <string name="auto_comp">Autouzupełnienie</string>
     <string name="check_element">Kontrola elementów</string>
     <string name="check_ele_info_0">(bardziej drobnoziarniste blokowanie)</string>

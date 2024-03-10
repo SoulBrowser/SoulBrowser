@@ -812,6 +812,7 @@
     <string name="mem_block_page">منع تحرير الذاكرة للصفحة الحالية</string>
     <string name="mem_block_list">قائمة منع تحرير الذاكرة</string>
     <string name="down_manager">مدير التحميل</string>
+    <string name="down_exit">الخروج من مدير التحميل</string>
     <string name="other_app">تطبيقات أخرى</string>
     <string name="web_title">الويب</string>
     <string name="color_title">اللون</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">يمكنك تسجيل المواقع التي لا تستخدم الإيماءات.</string>
     <string name="gesture_block_info_2">ينطبق فقط على الإيماءات في وسط الشاشة.</string>
     <string name="gesture_block_info_3">لا ينطبق على الإيماءات على حواف الشاشة.</string>
-    <string name="down_service">خدمة التنزيل</string>
-    <string name="service_exit">إنهاء الخدمة</string>
     <string name="auto_comp">الإكمال التلقائي</string>
     <string name="check_element">فحص العنصر</string>
     <string name="check_ele_info_0">(مزيد من الحجب الدقيق)</string>

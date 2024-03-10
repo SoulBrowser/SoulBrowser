@@ -812,6 +812,7 @@
     <string name="mem_block_page">वर्तमान पृष्ठ के लिए मेमोरी रिलीज़ को रोकें</string>
     <string name="mem_block_list">मेमोरी रिलीज रोकथाम सूची</string>
     <string name="down_manager">अधःभारण प्रबंधक</string>
+    <string name="down_exit">डाउनलोड प्रबंधक से बाहर निकलें</string>
     <string name="other_app">दूसरे एप्लिकेशन</string>
     <string name="web_title">वेब</string>
     <string name="color_title">रंग</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">आप उन साइटों को पंजीकृत कर सकते हैं जो इशारों का उपयोग नहीं करती हैं।</string>
     <string name="gesture_block_info_2">केवल स्क्रीन के केंद्र में जेस्चर पर लागू होता है।</string>
     <string name="gesture_block_info_3">यह स्क्रीन के किनारों पर जेस्चर पर लागू नहीं होता है।</string>
-    <string name="down_service">सेवा डाउनलोड करें</string>
-    <string name="service_exit">सेवा समाप्ति</string>
     <string name="auto_comp">स्वतः पूर्ण</string>
     <string name="check_element">तत्व निरीक्षण</string>
     <string name="check_ele_info_0">(अधिक सुक्ष्म अवरोधन)</string>

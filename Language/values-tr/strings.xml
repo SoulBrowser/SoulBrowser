@@ -812,6 +812,7 @@
     <string name="mem_block_page">Geçerli sayfa için belleğin serbest bırakılmasını önle</string>
     <string name="mem_block_list">Bellek serbest bırakılmasını önleme listesi</string>
     <string name="down_manager">İndirme yöneticisi</string>
+    <string name="down_exit">İndirme yöneticisinden çık</string>
     <string name="other_app">Diğer uygulamalar</string>
     <string name="web_title">Ağ</string>
     <string name="color_title">Renk</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">Hareket kullanılmayacak siteleri kaydedebilirsiniz.</string>
     <string name="gesture_block_info_2">Yalnızca ekranın ortasındaki hareketler için geçerlidir.</string>
     <string name="gesture_block_info_3">Ekranın kenarlarındaki hareketler için geçerli değildir.</string>
-    <string name="down_service">İndirme hizmeti</string>
-    <string name="service_exit">Hizmeti sonlandır</string>
     <string name="auto_comp">Otomatik tamamlama</string>
     <string name="check_element">Element denetimi</string>
     <string name="check_ele_info_0">(daha ince taneli engelleme)</string>

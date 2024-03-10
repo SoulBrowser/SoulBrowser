@@ -812,6 +812,7 @@
     <string name="mem_block_page">Empêcher la libération de mémoire pour la page actuelle</string>
     <string name="mem_block_list">Liste de prévention de libération de mémoire</string>
     <string name="down_manager">Gestionnaire de téléchargements</string>
+    <string name="down_exit">Quitter le gestionnaire de téléchargement</string>
     <string name="other_app">Autres applications</string>
     <string name="web_title">Internet</string>
     <string name="color_title">Couleur</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">Pour enregistrer des sites où les gestes sont désactivés.</string>
     <string name="gesture_block_info_2">S\'applique uniquement aux gestes au centre de l\'écran.</string>
     <string name="gesture_block_info_3">Ne s\'applique pas aux gestes sur les bords de l\'écran.</string>
-    <string name="down_service">Service de téléchargement</string>
-    <string name="service_exit">Résiliation du service</string>
     <string name="auto_comp">Saisie automatique</string>
     <string name="check_element">Inspection des éléments</string>
     <string name="check_ele_info_0">(blocage plus fin)</string>

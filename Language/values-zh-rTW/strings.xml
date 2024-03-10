@@ -812,6 +812,7 @@
     <string name="mem_block_page">防止當前頁面的記憶體釋放</string>
     <string name="mem_block_list">記憶體釋放預防列表</string>
     <string name="down_manager">下載管理器</string>
+    <string name="down_exit">退出下載管理器</string>
     <string name="other_app">其他應用程式</string>
     <string name="web_title">網頁</string>
     <string name="color_title">顏色</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">您可以輸入不使用手勢的網站</string>
     <string name="gesture_block_info_2">僅適用於螢幕中央手勢</string>
     <string name="gesture_block_info_3">不適用於螢幕邊緣手勢</string>
-    <string name="down_service">下載服務</string>
-    <string name="service_exit">服務終止</string>
     <string name="auto_comp">自動完成</string>
     <string name="check_element">元素檢查</string>
     <string name="check_ele_info_0">（更細粒度的封鎖）</string>

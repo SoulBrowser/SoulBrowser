@@ -812,6 +812,7 @@
     <string name="mem_block_page">Impedisce il rilascio di memoria per la pagina corrente</string>
     <string name="mem_block_list">Elenco di prevenzione del rilascio della memoria</string>
     <string name="down_manager">Download manager</string>
+    <string name="down_exit">Esci dal gestore dei download</string>
     <string name="other_app">Altre app</string>
     <string name="web_title">Titolo pagina</string>
     <string name="color_title">Colore</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">Puoi salvare i siti che non utilizzano i gesti.</string>
     <string name="gesture_block_info_2">Si applica solo ai gesti al centro dello schermo.</string>
     <string name="gesture_block_info_3">Non si applica ai gesti ai bordi dello schermo.</string>
-    <string name="down_service">Scarica il servizio</string>
-    <string name="service_exit">Cessazione del servizio</string>
     <string name="auto_comp">Completamento automatico</string>
     <string name="check_element">Ispezione degli elementi</string>
     <string name="check_ele_info_0">(blocco più preciso)</string>

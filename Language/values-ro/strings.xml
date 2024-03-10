@@ -812,6 +812,7 @@
     <string name="mem_block_page">Preveniți eliberarea memoriei pentru pagina curentă</string>
     <string name="mem_block_list">Lista de prevenire a eliberării memoriei</string>
     <string name="down_manager">Administrator de descărcări</string>
+    <string name="down_exit">Ieșiți din managerul de descărcare</string>
     <string name="other_app">Alte aplicatii</string>
     <string name="web_title">Web</string>
     <string name="color_title">Culoare</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">Puteți înregistra site-uri care nu folosesc gesturi.</string>
     <string name="gesture_block_info_2">Se aplică numai gesturilor din centrul ecranului.</string>
     <string name="gesture_block_info_3">Nu se aplică gesturilor de pe marginile ecranului.</string>
-    <string name="down_service">Serviciu de descărcare</string>
-    <string name="service_exit">Încetarea serviciului</string>
     <string name="auto_comp">Completare automată</string>
     <string name="check_element">Inspecția elementelor</string>
     <string name="check_ele_info_0">(blocare mai fină)</string>

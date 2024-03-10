@@ -812,6 +812,7 @@
     <string name="mem_block_page">Speicherfreigabe für aktuelle Seite verhindern</string>
     <string name="mem_block_list">Liste zur Verhinderung der Speicherfreigabe</string>
     <string name="down_manager">Download-Manager</string>
+    <string name="down_exit">Beenden Sie den Download-Manager</string>
     <string name="other_app">Andere Apps</string>
     <string name="web_title">Netz</string>
     <string name="color_title">Farbe</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">Sie können Websites registrieren, die keine Gesten verwenden.</string>
     <string name="gesture_block_info_2">Gilt nur für Gesten in der Mitte des Bildschirms.</string>
     <string name="gesture_block_info_3">Dies gilt nicht für Gesten an den Bildschirmrändern.</string>
-    <string name="down_service">Download-Dienst</string>
-    <string name="service_exit">Dienstbeendigung</string>
     <string name="auto_comp">Automatische Vervollständigung</string>
     <string name="check_element">Elementinspektion</string>
     <string name="check_ele_info_0">(feinkörnigere Blockierung)</string>

@@ -812,6 +812,7 @@
     <string name="mem_block_page">ป้องกันการปล่อยหน่วยความจำสำหรับหน้าปัจจุบัน</string>
     <string name="mem_block_list">รายการป้องกันการปลดปล่อยหน่วยความจำ</string>
     <string name="down_manager">ตัวจัดการการดาวน์โหลด</string>
+    <string name="down_exit">ออกจากตัวจัดการการดาวน์โหลด</string>
     <string name="other_app">แอพอื่น ๆ</string>
     <string name="web_title">เว็บ</string>
     <string name="color_title">สี</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">คุณสามารถลงทะเบียนไซต์ที่ไม่ใช้ท่าทางสัมผัส</string>
     <string name="gesture_block_info_2">ใช้กับท่าทางสัมผัสตรงกลางหน้าจอเท่านั้น</string>
     <string name="gesture_block_info_3">ไม่ใช้กับท่าทางสัมผัสที่ขอบหน้าจอ</string>
-    <string name="down_service">ดาวน์โหลดบริการ</string>
-    <string name="service_exit">การยกเลิกบริการ</string>
     <string name="auto_comp">เติมข้อความอัตโนมัติ</string>
     <string name="check_element">การตรวจสอบองค์ประกอบ</string>
     <string name="check_ele_info_0">(การปิดกั้นแบบละเอียดยิ่งขึ้น)</string>

@@ -812,6 +812,7 @@
     <string name="mem_block_page">現在のページのメモリ解放防止</string>
     <string name="mem_block_list">メモリ解放防止リスト</string>
     <string name="down_manager">ダウンロードマネージャー</string>
+    <string name="down_exit">ダウンロードマネージャーを終了する</string>
     <string name="other_app">他のアプリ</string>
     <string name="web_title">ウェブ</string>
     <string name="color_title">色</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">ジェスチャーを使用しないサイトを登録できます。</string>
     <string name="gesture_block_info_2">画面中央のジェスチャーのみ適用されます。</string>
     <string name="gesture_block_info_3">画面の端のジェスチャーは適用されません。</string>
-    <string name="down_service">ダウンロードサービス</string>
-    <string name="service_exit">サービス終了</string>
     <string name="auto_comp">オートコンプリート</string>
     <string name="check_element">要素を検証</string>
     <string name="check_ele_info_0">（より細かいブロック）</string>

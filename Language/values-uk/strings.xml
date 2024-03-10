@@ -812,6 +812,7 @@
     <string name="mem_block_page">Запобігти звільненню пам\'яті для поточної сторінки</string>
     <string name="mem_block_list">Список запобігання звільненню пам\'яті</string>
     <string name="down_manager">Менеджер завантажень</string>
+    <string name="down_exit">Вийти з менеджера завантажень</string>
     <string name="other_app">Інші програми</string>
     <string name="web_title">Інтернет</string>
     <string name="color_title">Колір</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">Ви можете зареєструвати сайти, які не використовують жести.</string>
     <string name="gesture_block_info_2">Застосовується лише до жестів у центрі екрана.</string>
     <string name="gesture_block_info_3">Це не стосується жестів по краях екрана.</string>
-    <string name="down_service">Сервіс завантаження</string>
-    <string name="service_exit">Припинення обслуговування</string>
     <string name="auto_comp">Автозаповнення</string>
     <string name="check_element">Перевірка елементів</string>
     <string name="check_ele_info_0">(більш дрібнозернисте блокування)</string>

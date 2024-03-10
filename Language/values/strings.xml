@@ -812,6 +812,7 @@
     <string name="mem_block_page">Prevent memory release for current page</string>
     <string name="mem_block_list">Memory release prevention list</string>
     <string name="down_manager">Download manager</string>
+    <string name="down_exit">Exit download manager</string>
     <string name="other_app">Other apps</string>
     <string name="web_title">Web</string>
     <string name="color_title">Color</string>
@@ -838,8 +839,6 @@
     <string name="gesture_block_info_1">You can register sites that do not use gestures.</string>
     <string name="gesture_block_info_2">Applies only to gestures in the center of the screen.</string>
     <string name="gesture_block_info_3">It does not apply to gestures at the edges of the screen.</string>
-    <string name="down_service">Download service</string>
-    <string name="service_exit">Service termination</string>
     <string name="auto_comp">Auto complete</string>
     <string name="check_element">Element inspection</string>
     <string name="check_ele_info_0">(more fine-grained blocking)</string>
