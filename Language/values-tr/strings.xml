@@ -78,6 +78,7 @@
     <string name="history">Geçmiş</string>
     <string name="setting">Ayarlar</string>
     <string name="create_folder">Klasör oluştur</string>
+    <string name="new_folder">Yeni dosya</string>
     <string name="move">Taşı</string>
     <string name="delete">Sil</string>
     <string name="delete_file">Dosyayı sil</string>
@@ -587,8 +588,8 @@
     <string name="file_found">%d dosya bulundu</string>
     <string name="storage_device">Cihaz</string>
     <string name="storage_sdcard">SD kart</string>
-    <string name="sort_guide_1">Düzenleme moduna geçmek için listeyi basılı tutun.</string>
-    <string name="sort_guide_2">Sağ oku sürükleyerek konumu değiştirebilirsiniz.</string>
+    <string name="sort_guide_1">Listeyi basılı tutarak taşıyabilirsiniz.</string>
+    <string name="sort_guide_2">Listeleri çakıştırarak klasörler oluşturabilirsiniz.</string>
     <string name="add_book">Yer işaretine ekle</string>
     <string name="add_quick">Soul ana sayfasına ekle</string>
     <string name="add_home_1">Ana ekrana ekle</string>

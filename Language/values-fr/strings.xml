@@ -78,6 +78,7 @@
     <string name="history">Historique</string>
     <string name="setting">Paramètres</string>
     <string name="create_folder">Créer un dossier</string>
+    <string name="new_folder">Nouveau dossier</string>
     <string name="move">Déplacer</string>
     <string name="delete">Effacer</string>
     <string name="delete_file">Supprimer le fichier</string>
@@ -587,8 +588,8 @@
     <string name="file_found">%d fichiers trouvés</string>
     <string name="storage_device">Dispositif</string>
     <string name="storage_sdcard">Carte SD</string>
-    <string name="sort_guide_1">Appuyez et maintenez la liste pour passer en mode édition.</string>
-    <string name="sort_guide_2">Vous pouvez modifier la position en faisant glisser la flèche droite.</string>
+    <string name="sort_guide_1">Vous pouvez déplacer la liste en appuyant longuement dessus.</string>
+    <string name="sort_guide_2">Vous pouvez créer des dossiers en superposant des listes.</string>
     <string name="add_book">Ajouter aux signets</string>
     <string name="add_quick">Ajouter à la page d\'accueil Soul</string>
     <string name="add_home_1">Ajouter à l\'écran d\'accueil</string>

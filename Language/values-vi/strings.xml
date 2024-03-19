@@ -78,6 +78,7 @@
     <string name="history">Lịch sử</string>
     <string name="setting">Cài đặt</string>
     <string name="create_folder">Tạo thư mục</string>
+    <string name="new_folder">Thư mục mới</string>
     <string name="move">Di chuyển</string>
     <string name="delete">Xóa bỏ</string>
     <string name="delete_file">Xóa tài liệu</string>
@@ -587,8 +588,8 @@
     <string name="file_found">%d tập tin được tìm thấy</string>
     <string name="storage_device">Thiết bị</string>
     <string name="storage_sdcard">Thẻ SD</string>
-    <string name="sort_guide_1">Nhấn và giữ danh sách để thay đổi để chỉnh sửa chế độ.</string>
-    <string name="sort_guide_2">Bạn có thể thay đổi vị trí bằng cách kéo mũi tên phải.</string>
+    <string name="sort_guide_1">Bạn có thể di chuyển danh sách bằng cách nhấn và giữ nó.</string>
+    <string name="sort_guide_2">Bạn có thể tạo các thư mục bằng cách xếp chồng các danh sách.</string>
     <string name="add_book">Thêm vào dấu trang</string>
     <string name="add_quick">Thêm vào trang chủ Soul</string>
     <string name="add_home_1">Thêm vào màn hình chính</string>

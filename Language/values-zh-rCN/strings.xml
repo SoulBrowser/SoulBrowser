@@ -78,6 +78,7 @@
     <string name="history">历史记录</string>
     <string name="setting">设置</string>
     <string name="create_folder">创建文件夹</string>
+    <string name="new_folder">新建文件夹</string>
     <string name="move">移动</string>
     <string name="delete">删除</string>
     <string name="delete_file">删除文件</string>
@@ -587,8 +588,8 @@
     <string name="file_found">已找到 %d 个文件</string>
     <string name="storage_device">设备</string>
     <string name="storage_sdcard">闪存卡</string>
-    <string name="sort_guide_1">长按列表以切换为编辑模式</string>
-    <string name="sort_guide_2">你可以通过拖动右端箭头标志来更改位置</string>
+    <string name="sort_guide_1">您可以通过按住列表来移动该列表</string>
+    <string name="sort_guide_2">您可以通过重叠列表创建文件夹</string>
     <string name="add_book">添加到书签</string>
     <string name="add_quick">添加到 Soul 主页</string>
     <string name="add_home_1">添加到主屏幕</string>

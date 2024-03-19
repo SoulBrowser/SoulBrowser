@@ -78,6 +78,7 @@
     <string name="history">방문 기록</string>
     <string name="setting">설정</string>
     <string name="create_folder">폴더 생성</string>
+    <string name="new_folder">새 폴더</string>
     <string name="move">이동</string>
     <string name="delete">삭제</string>
     <string name="delete_file">파일 삭제</string>
@@ -587,8 +588,8 @@
     <string name="file_found">파일 %d 개 발견됨</string>
     <string name="storage_device">디바이스</string>
     <string name="storage_sdcard">SD 카드</string>
-    <string name="sort_guide_1">목록을 길게 누르면 편집 모드로 변경됩니다.</string>
-    <string name="sort_guide_2">오른쪽 화살표를 드래그하여 위치를 변경할 수 있습니다.</string>
+    <string name="sort_guide_1">목록을 길게 눌러 이동할 수 있습니다.</string>
+    <string name="sort_guide_2">목록을 겹쳐서 폴더를 만들 수 있습니다.</string>
     <string name="add_book">북마크에 추가</string>
     <string name="add_quick">Soul 홈페이지에 추가</string>
     <string name="add_home_1">홈 화면에 추가</string>

@@ -78,6 +78,7 @@
     <string name="history">ประวัติการเข้าชม</string>
     <string name="setting">การตั้งค่า</string>
     <string name="create_folder">สร้างโฟลเดอร์</string>
+    <string name="new_folder">แฟ้มใหม่</string>
     <string name="move">ย้าย</string>
     <string name="delete">ลบ</string>
     <string name="delete_file">ลบไฟล์</string>
@@ -587,8 +588,8 @@
     <string name="file_found">พบ %d ไฟล์</string>
     <string name="storage_device">อุปกรณ์</string>
     <string name="storage_sdcard">การ์ด SD</string>
-    <string name="sort_guide_1">กดรายการค้างไว้เพื่อเปลี่ยนเป็นโหมดแก้ไข</string>
-    <string name="sort_guide_2">คุณสามารถเปลี่ยนตำแหน่งโดยการลากลูกศรขวา</string>
+    <string name="sort_guide_1">คุณสามารถย้ายรายการได้โดยกดค้างไว้</string>
+    <string name="sort_guide_2">คุณสามารถสร้างโฟลเดอร์ได้โดยรายการที่ทับซ้อนกัน</string>
     <string name="add_book">เพิ่มในบุ๊กมาร์ก</string>
     <string name="add_quick">เพิ่มไปยังหน้าแรกของ Soul</string>
     <string name="add_home_1">เพิ่มไปที่หน้าจอหลัก</string>

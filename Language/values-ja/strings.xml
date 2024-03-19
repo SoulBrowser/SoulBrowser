@@ -78,6 +78,7 @@
     <string name="history">履歴</string>
     <string name="setting">設定</string>
     <string name="create_folder">フォルダの作成</string>
+    <string name="new_folder">新しいフォルダー</string>
     <string name="move">移動</string>
     <string name="delete">削除</string>
     <string name="delete_file">ファイルを削除</string>
@@ -587,8 +588,8 @@
     <string name="file_found">%dファイルが見つかりました</string>
     <string name="storage_device">デバイス</string>
     <string name="storage_sdcard">SDカード</string>
-    <string name="sort_guide_1">リストを長く押して編集モードに変更します。</string>
-    <string name="sort_guide_2">右矢印をドラッグして位置を変更することができます。</string>
+    <string name="sort_guide_1">リストを長押しして移動できます。</string>
+    <string name="sort_guide_2">リストを重ねてフォルダを作成できます。</string>
     <string name="add_book">ブックマークに追加</string>
     <string name="add_quick">Soulホームページに追加</string>
     <string name="add_home_1">ホーム画面に追加</string>

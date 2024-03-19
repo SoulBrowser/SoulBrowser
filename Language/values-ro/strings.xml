@@ -78,6 +78,7 @@
     <string name="history">Istorie</string>
     <string name="setting">Setări</string>
     <string name="create_folder">Creeaza dosar</string>
+    <string name="new_folder">Dosar nou</string>
     <string name="move">Mutare</string>
     <string name="delete">Ștergeți</string>
     <string name="delete_file">Ștergeți fișierul</string>
@@ -587,8 +588,8 @@
     <string name="file_found">%d fișiere găsite</string>
     <string name="storage_device">Dispozitiv</string>
     <string name="storage_sdcard">Card SD</string>
-    <string name="sort_guide_1">Apăsați și mențineți apăsat lista pentru a schimba modul de editare.</string>
-    <string name="sort_guide_2">Puteți schimba poziția prin glisarea săgeții drepte.</string>
+    <string name="sort_guide_1">Puteți muta lista apăsând-o și menținând-o apăsată.</string>
+    <string name="sort_guide_2">Puteți crea foldere suprapunând liste.</string>
     <string name="add_book">Adăugați la marcaj</string>
     <string name="add_quick">Adăugați pe pagina de pornire Soul</string>
     <string name="add_home_1">Adăugați pe ecranul de start</string>

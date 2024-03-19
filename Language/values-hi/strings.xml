@@ -78,6 +78,7 @@
     <string name="history">इतिहास</string>
     <string name="setting">समायोजन</string>
     <string name="create_folder">फोल्डर बनाएं</string>
+    <string name="new_folder">नया फ़ोल्डर</string>
     <string name="move">कदम</string>
     <string name="delete">मिटाना</string>
     <string name="delete_file">फ़ाइल को हटाएं</string>
@@ -587,8 +588,8 @@
     <string name="file_found">%d फ़ाइलें मिलीं</string>
     <string name="storage_device">उपकरण</string>
     <string name="storage_sdcard">एसडी कार्ड</string>
-    <string name="sort_guide_1">संपादन मोड में बदलने के लिए सूची को दबाकर रखें।</string>
-    <string name="sort_guide_2">आप दायां तीर खींचकर स्थिति बदल सकते हैं।</string>
+    <string name="sort_guide_1">आप सूची को दबाकर रख कर उसे स्थानांतरित कर सकते हैं।</string>
+    <string name="sort_guide_2">आप सूचियों को ओवरलैप करके फ़ोल्डर बना सकते हैं.</string>
     <string name="add_book">बुकमार्क में जोड़ें</string>
     <string name="add_quick">आत्मा होमपेज में जोड़ें</string>
     <string name="add_home_1">होम स्क्रीन में शामिल करें</string>

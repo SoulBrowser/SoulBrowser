@@ -78,6 +78,7 @@
     <string name="history">Historia</string>
     <string name="setting">Ustawienia</string>
     <string name="create_folder">Utwórz folder</string>
+    <string name="new_folder">Nowy folder</string>
     <string name="move">Przenieś</string>
     <string name="delete">Usuń</string>
     <string name="delete_file">Usuń plik</string>
@@ -587,8 +588,8 @@
     <string name="file_found">Znaleziono %d pliki</string>
     <string name="storage_device">Urządzenie</string>
     <string name="storage_sdcard">Karta SD</string>
-    <string name="sort_guide_1">Naciśnij i przytrzymaj listę, aby przejść do trybu edycji.</string>
-    <string name="sort_guide_2">Możesz zmienić pozycję, przeciągając strzałkę w prawo.</string>
+    <string name="sort_guide_1">Listę można przesuwać, naciskając ją i przytrzymując.</string>
+    <string name="sort_guide_2">Foldery można tworzyć poprzez nakładanie się list.</string>
     <string name="add_book">Dodaj do zakładek</string>
     <string name="add_quick">Dodaj do strony głównej Soul</string>
     <string name="add_home_1">Dodaj do ekranu głównego</string>

@@ -78,6 +78,7 @@
     <string name="history">Cronologia</string>
     <string name="setting">Impostazioni</string>
     <string name="create_folder">Creare una cartella</string>
+    <string name="new_folder">Nuova cartella</string>
     <string name="move">Sposta</string>
     <string name="delete">Elimina</string>
     <string name="delete_file">Cancella il file</string>
@@ -587,8 +588,8 @@
     <string name="file_found">%d file trovati</string>
     <string name="storage_device">Dispositivo</string>
     <string name="storage_sdcard">Schede SD</string>
-    <string name="sort_guide_1">Tenere premuto l\'elenco per passare alla modalità di modifica.</string>
-    <string name="sort_guide_2">È possibile modificare la posizione trascinando la freccia destra.</string>
+    <string name="sort_guide_1">È possibile spostare l\'elenco tenendolo premuto.</string>
+    <string name="sort_guide_2">È possibile creare cartelle sovrapponendo elenchi.</string>
     <string name="add_book">Aggiungi ai segnalibri</string>
     <string name="add_quick">Aggiungi alla home page di Soul</string>
     <string name="add_home_1">Aggiungi alla schermata home</string>

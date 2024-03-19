@@ -78,6 +78,7 @@
     <string name="history">Riwayat</string>
     <string name="setting">Pengaturan</string>
     <string name="create_folder">Buat folder</string>
+    <string name="new_folder">Folder baru</string>
     <string name="move">Pindahkan</string>
     <string name="delete">Hapus</string>
     <string name="delete_file">Hapus berkas</string>
@@ -587,8 +588,8 @@
     <string name="file_found">%d file ditemukan</string>
     <string name="storage_device">Perangkat</string>
     <string name="storage_sdcard">kartu SD</string>
-    <string name="sort_guide_1">Tekan dan tahan daftar untuk mengubah ke mode edit.</string>
-    <string name="sort_guide_2">Anda dapat mengubah posisi dengan menyeret panah kanan.</string>
+    <string name="sort_guide_1">Anda dapat memindahkan daftar dengan menekan dan menahannya.</string>
+    <string name="sort_guide_2">Anda dapat membuat folder dengan daftar yang tumpang tindih.</string>
     <string name="add_book">Tambahkan ke bookmark</string>
     <string name="add_quick">Tambahkan ke beranda Soul</string>
     <string name="add_home_1">Tambahkan ke layar beranda</string>

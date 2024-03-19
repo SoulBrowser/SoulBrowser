@@ -78,6 +78,7 @@
     <string name="history">History</string>
     <string name="setting">Settings</string>
     <string name="create_folder">Create folder</string>
+    <string name="new_folder">New folder</string>
     <string name="move">Move</string>
     <string name="delete">Delete</string>
     <string name="delete_file">Delete file</string>
@@ -587,8 +588,8 @@
     <string name="file_found">%d files found</string>
     <string name="storage_device">Device</string>
     <string name="storage_sdcard">SD card</string>
-    <string name="sort_guide_1">Press and hold the list to change to edit mode.</string>
-    <string name="sort_guide_2">You can change the position by dragging the right arrow.</string>
+    <string name="sort_guide_1">You can move the list by pressing and holding it.</string>
+    <string name="sort_guide_2">You can create folders by overlapping lists.</string>
     <string name="add_book">Add to bookmark</string>
     <string name="add_quick">Add to Soul homepage</string>
     <string name="add_home_1">Add to home screen</string>

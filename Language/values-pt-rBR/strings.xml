@@ -78,6 +78,7 @@
     <string name="history">Histórico</string>
     <string name="setting">Configurações</string>
     <string name="create_folder">Criar pasta</string>
+    <string name="new_folder">Nova pasta</string>
     <string name="move">Mover</string>
     <string name="delete">Excluir</string>
     <string name="delete_file">Excluir arquivo</string>
@@ -587,8 +588,8 @@
     <string name="file_found">%d arquivos encontrados</string>
     <string name="storage_device">Dispositivo</string>
     <string name="storage_sdcard">Cartão SD</string>
-    <string name="sort_guide_1">Pressione e segure a lista para mudar para o modo de edição.</string>
-    <string name="sort_guide_2">Você pode alterar a posição arrastando a seta direita.</string>
+    <string name="sort_guide_1">Você pode mover a lista pressionando e segurando-a.</string>
+    <string name="sort_guide_2">Você pode criar pastas sobrepondo listas.</string>
     <string name="add_book">Adicionar aos favoritos</string>
     <string name="add_quick">Adicionar à página inicial do Soul</string>
     <string name="add_home_1">Adicionar à tela inicial</string>

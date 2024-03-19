@@ -78,6 +78,7 @@
     <string name="history">歷史紀錄</string>
     <string name="setting">設定</string>
     <string name="create_folder">建立資料夾</string>
+    <string name="new_folder">新建資料夾</string>
     <string name="move">移動</string>
     <string name="delete">刪除</string>
     <string name="delete_file">刪除檔案</string>
@@ -587,8 +588,8 @@
     <string name="file_found">找到 %d 個檔案</string>
     <string name="storage_device">裝置</string>
     <string name="storage_sdcard">SD卡</string>
-    <string name="sort_guide_1">按住列表以變更為編輯模式</string>
-    <string name="sort_guide_2">您可以透過拖曳右箭頭來變更位置</string>
+    <string name="sort_guide_1">您可以按住清單來移動該清單</string>
+    <string name="sort_guide_2">您可以透過重疊清單建立資料夾</string>
     <string name="add_book">新增到書籤</string>
     <string name="add_quick">添加到 Soul 主頁</string>
     <string name="add_home_1">添加到主屏幕</string>

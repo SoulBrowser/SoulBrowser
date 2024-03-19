@@ -78,6 +78,7 @@
     <string name="history">История</string>
     <string name="setting">Настройки</string>
     <string name="create_folder">Создать папку</string>
+    <string name="new_folder">Новая папка</string>
     <string name="move">Переместить</string>
     <string name="delete">Удалить</string>
     <string name="delete_file">Удалить файл</string>
@@ -587,8 +588,8 @@
     <string name="file_found">Найдено %d файлов</string>
     <string name="storage_device">Устройство</string>
     <string name="storage_sdcard">SD карта</string>
-    <string name="sort_guide_1">Нажмите и удерживайте список, чтобы перейти в режим редактирования.</string>
-    <string name="sort_guide_2">Вы можете изменить положение, перетаскивая стрелку вправо.</string>
+    <string name="sort_guide_1">Вы можете переместить список, нажав и удерживая его.</string>
+    <string name="sort_guide_2">Вы можете создавать папки, перекрывая списки.</string>
     <string name="add_book">Добавить в закладки</string>
     <string name="add_quick">Добавить на главную страницу Soul</string>
     <string name="add_home_1">Добавить на домашний экран</string>

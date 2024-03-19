@@ -78,6 +78,7 @@
     <string name="history">سجل الزيارة</string>
     <string name="setting">إعدادات</string>
     <string name="create_folder">أنشئ مجلد</string>
+    <string name="new_folder">ملف جديد</string>
     <string name="move">يتحرك</string>
     <string name="delete">حذف</string>
     <string name="delete_file">حذف الملفات</string>
@@ -587,8 +588,8 @@
     <string name="file_found">تم العثور على %d ملفات</string>
     <string name="storage_device">جهاز</string>
     <string name="storage_sdcard">بطاقة الذاكرة</string>
-    <string name="sort_guide_1">الضغط لفترة طويلة على القائمة للتغيير إلى وضع التحرير.</string>
-    <string name="sort_guide_2">يمكنك تغيير الموضع عن طريق سحب السهم الأيمن.</string>
+    <string name="sort_guide_1">يمكنك نقل القائمة بالضغط مع الاستمرار عليها.</string>
+    <string name="sort_guide_2">يمكنك إنشاء مجلدات عن طريق القوائم المتداخلة.</string>
     <string name="add_book">أضف إلى المفضلة</string>
     <string name="add_quick">أضف إلى صفحة Soul الرئيسية</string>
     <string name="add_home_1">أضف إلى الشاشة الرئيسية</string>
