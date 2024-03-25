@@ -812,6 +812,8 @@
     <string name="mem_block_site">वर्तमान साइट के लिए मेमोरी रिलीज़ को रोकें</string>
     <string name="mem_block_page">वर्तमान पृष्ठ के लिए मेमोरी रिलीज़ को रोकें</string>
     <string name="mem_block_list">मेमोरी रिलीज रोकथाम सूची</string>
+    <string name="mem_keep">स्मृति अवधारण अवधि</string>
+    <string name="mem_keep_info">यदि आप मेमोरी को बहुत लंबा रखते हैं, तो आपका ब्राउज़र धीमा हो सकता है।</string>
     <string name="down_manager">अधःभारण प्रबंधक</string>
     <string name="down_exit">डाउनलोड प्रबंधक से बाहर निकलें</string>
     <string name="other_app">दूसरे एप्लिकेशन</string>
@@ -885,7 +887,8 @@
     <string name="vpn_ip_guide_1">डोमेन द्वारा खोज परिणाम।</string>
     <string name="vpn_ip_guide_2">यदि यह वह नहीं है जो आप चाहते हैं, तो आप इसे स्वयं संपादित कर सकते हैं।</string>
     <string name="out_of_memory">अपर्याप्त मेमॉरी।</string>
-    <string name="auto_detect">स्वचालित पहचान</string>
+    <string name="auto_detect">स्वतः पता लगाना</string>
+    <string name="automatic">स्वचालित</string>
     <string name="allow_all_site">सभी साइटों की अनुमति है</string>
     <string name="block_harm_site">हानिकारक साइटों को ब्लॉक करें</string>
     <string name="two_lines">2 पंक्तियाँ</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">यह सुविधा कॉमिक बुक अनुवाद के लिए अनुकूलित है।</string>
     <string name="ocr_guide_2">आपको छवि में शामिल भाषा का चयन करना होगा.</string>
     <string name="ocr_guide_3">यदि आप उपयुक्त भाषा का चयन नहीं करते हैं, तो वर्ण पहचाने नहीं जा सकेंगे।</string>
-    <string name="ocr_load_1">टेक्स्ट मॉड्यूल लोड हो रहा है.</string>
-    <string name="ocr_load_2">प्रत्येक भाषा के लिए टेक्स्ट मॉड्यूल लोडिंग केवल एक बार की जाती है।</string>
-    <string name="ocr_load_3">टेक्स्ट मॉड्यूल लोड हो रहा है</string>
+    <string name="ocr_load_1">टेक्स्ट मॉड्यूल अपडेट कर रहा है.</string>
+    <string name="ocr_load_2">यह प्रत्येक भाषा के लिए केवल एक बार किया जाता है।</string>
+    <string name="ocr_load_3">अपडेट पूर्ण हो गया</string>
     <string name="ocr_fail">किरदार की पहचान नहीं हो पाई.</string>
     <string name="ocr_zoom_info_1">यदि अक्षर बहुत छोटे हैं, तो उन्हें पहचाना नहीं जा सकेगा या गलत अनुवाद किया जा सकेगा।</string>
     <string name="ocr_zoom_info_2">आवर्धन बढ़ाने से सटीकता बढ़ती है।</string>

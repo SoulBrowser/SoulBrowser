@@ -812,6 +812,8 @@
     <string name="mem_block_site">Impedir a liberação de memória para o site atual</string>
     <string name="mem_block_page">Impedir a liberação de memória para a página atual</string>
     <string name="mem_block_list">Lista de prevenção de liberação de memória</string>
+    <string name="mem_keep">período de retenção de memória</string>
+    <string name="mem_keep_info">Se você mantiver a memória por muito tempo, seu navegador poderá ficar mais lento.</string>
     <string name="down_manager">Gerenciador de download</string>
     <string name="down_exit">Sair do gerenciador de downloads</string>
     <string name="other_app">Outros aplicativos</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">Se não for o que você deseja, você mesmo pode editá-lo.</string>
     <string name="out_of_memory">Memória insuficiente.</string>
     <string name="auto_detect">Detecção automática</string>
+    <string name="automatic">Automático</string>
     <string name="allow_all_site">Todos os sites são permitidos</string>
     <string name="block_harm_site">Bloquear sites prejudiciais</string>
     <string name="two_lines">2 linhas</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">Este recurso é otimizado para tradução de quadrinhos.</string>
     <string name="ocr_guide_2">Você deve selecionar o idioma incluído na imagem.</string>
     <string name="ocr_guide_3">Se você não selecionar o idioma apropriado, os caracteres poderão não ser reconhecidos.</string>
-    <string name="ocr_load_1">Carregando módulo de texto.</string>
-    <string name="ocr_load_2">O carregamento do módulo de texto é feito apenas uma vez para cada idioma.</string>
-    <string name="ocr_load_3">Carregamento do módulo de texto concluído</string>
+    <string name="ocr_load_1">Atualizando o módulo de texto.</string>
+    <string name="ocr_load_2">Isso é feito apenas uma vez para cada idioma.</string>
+    <string name="ocr_load_3">Atualização completa</string>
     <string name="ocr_fail">O personagem não foi reconhecido.</string>
     <string name="ocr_zoom_info_1">Se as letras forem muito pequenas, elas poderão não ser reconhecidas ou traduzidas incorretamente.</string>
     <string name="ocr_zoom_info_2">Aumentar a ampliação aumenta a precisão.</string>

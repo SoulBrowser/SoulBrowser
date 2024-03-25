@@ -812,6 +812,8 @@
     <string name="mem_block_site">防止当前站点的内存释放</string>
     <string name="mem_block_page">防止当前页面的内存释放</string>
     <string name="mem_block_list">内存释放预防列表</string>
+    <string name="mem_keep">记忆保留期</string>
+    <string name="mem_keep_info">如果你保留内存太久，你的浏览器可能会变慢</string>
     <string name="down_manager">下载管理器</string>
     <string name="down_exit">退出下载管理器</string>
     <string name="other_app">其他应用</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">如果不是您想要的，您可以自己编辑</string>
     <string name="out_of_memory">内存不足</string>
     <string name="auto_detect">自动检测</string>
+    <string name="automatic">自动的</string>
     <string name="allow_all_site">允许所有网站</string>
     <string name="block_harm_site">阻止有害站点</string>
     <string name="two_lines">2 行</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">此功能针对漫画书翻译进行了优化</string>
     <string name="ocr_guide_2">您必须选择图像中包含的语言</string>
     <string name="ocr_guide_3">如果您没有选择适当的语言，则可能无法识别字符</string>
-    <string name="ocr_load_1">正在加载文本模块</string>
-    <string name="ocr_load_2">每种语言的文本模块加载仅完成一次</string>
-    <string name="ocr_load_3">文本模块加载完成</string>
+    <string name="ocr_load_1">更新文本模块</string>
+    <string name="ocr_load_2">对于每种语言，此操作仅执行一次</string>
+    <string name="ocr_load_3">更新完成</string>
     <string name="ocr_fail">该角色未被识别</string>
     <string name="ocr_zoom_info_1">如果字母太小，可能无法识别或翻译错误</string>
     <string name="ocr_zoom_info_2">增加放大倍数可以提高精度</string>

@@ -812,6 +812,8 @@
     <string name="mem_block_site">現在のサイトのメモリ解放防止</string>
     <string name="mem_block_page">現在のページのメモリ解放防止</string>
     <string name="mem_block_list">メモリ解放防止リスト</string>
+    <string name="mem_keep">メモリ保持期間</string>
+    <string name="mem_keep_info">メモリが長すぎると、ブラウザが遅くなる可能性があります。</string>
     <string name="down_manager">ダウンロードマネージャー</string>
     <string name="down_exit">ダウンロードマネージャーを終了する</string>
     <string name="other_app">他のアプリ</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">必要なものでない場合は、自分で編集できます。</string>
     <string name="out_of_memory">メモリが不足しています。</string>
     <string name="auto_detect">自動検出</string>
+    <string name="automatic">自動</string>
     <string name="allow_all_site">すべてのサイトを許可</string>
     <string name="block_harm_site">有害サイトをブロック</string>
     <string name="two_lines">2ライン</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">この機能は漫画本の翻訳に最適化されています。</string>
     <string name="ocr_guide_2">画像に含まれる言語を選択する必要があります。</string>
     <string name="ocr_guide_3">その言語を選択しないと、文字が認識されない可能性があります。</string>
-    <string name="ocr_load_1">テキストモジュールをロードしています。</string>
-    <string name="ocr_load_2">テキストモジュールのロードは、各言語に対して一度だけ実行されます。</string>
-    <string name="ocr_load_3">テキストモジュールのロード完了</string>
+    <string name="ocr_load_1">テキストモジュールを更新しています。</string>
+    <string name="ocr_load_2">これは各言語で一度だけ行われます。</string>
+    <string name="ocr_load_3">アップデート完了</string>
     <string name="ocr_fail">文字が認識されませんでした。</string>
     <string name="ocr_zoom_info_1">文字が小さすぎると、認識されないか誤って翻訳される可能性があります。</string>
     <string name="ocr_zoom_info_2">倍率を上げると精度が高くなります。</string>

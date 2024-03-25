@@ -812,6 +812,8 @@
     <string name="mem_block_site">Speicherfreigabe für aktuelle Site verhindern</string>
     <string name="mem_block_page">Speicherfreigabe für aktuelle Seite verhindern</string>
     <string name="mem_block_list">Liste zur Verhinderung der Speicherfreigabe</string>
+    <string name="mem_keep">Aufbewahrungsfrist für den Speicher</string>
+    <string name="mem_keep_info">Wenn Sie den Speicher zu lange behalten, wird Ihr Browser möglicherweise langsamer.</string>
     <string name="down_manager">Download-Manager</string>
     <string name="down_exit">Beenden Sie den Download-Manager</string>
     <string name="other_app">Andere Apps</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">Wenn es nicht Ihren Wünschen entspricht, können Sie es selbst bearbeiten.</string>
     <string name="out_of_memory">Nicht genügend Speicher.</string>
     <string name="auto_detect">Automatische Erkennung</string>
+    <string name="automatic">Automatisch</string>
     <string name="allow_all_site">Alle Websites erlaubt</string>
     <string name="block_harm_site">Blockieren Sie schädliche Websites</string>
     <string name="two_lines">2 Zeilen</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">Diese Funktion ist für die Übersetzung von Comics optimiert.</string>
     <string name="ocr_guide_2">Sie müssen die im Bild enthaltene Sprache auswählen.</string>
     <string name="ocr_guide_3">Wenn Sie nicht die entsprechende Sprache auswählen, werden Zeichen möglicherweise nicht erkannt.</string>
-    <string name="ocr_load_1">Textmodul wird geladen.</string>
-    <string name="ocr_load_2">Das Laden von Textmodulen erfolgt nur einmal für jede Sprache.</string>
-    <string name="ocr_load_3">Das Laden des Textmoduls ist abgeschlossen</string>
+    <string name="ocr_load_1">Aktualisierung des Textmoduls.</string>
+    <string name="ocr_load_2">Dies wird für jede Sprache nur einmal durchgeführt.</string>
+    <string name="ocr_load_3">Update abgeschlossen</string>
     <string name="ocr_fail">Der Charakter wurde nicht erkannt.</string>
     <string name="ocr_zoom_info_1">Zu kleine Buchstaben können dazu führen, dass sie nicht erkannt oder falsch übersetzt werden.</string>
     <string name="ocr_zoom_info_2">Durch Erhöhen der Vergrößerung wird die Genauigkeit erhöht.</string>

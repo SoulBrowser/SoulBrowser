@@ -812,6 +812,8 @@
     <string name="mem_block_site">현재 사이트의 메모리 해제 방지</string>
     <string name="mem_block_page">현재 페이지의 메모리 해제 방지</string>
     <string name="mem_block_list">메모리 해제 방지 목록</string>
+    <string name="mem_keep">메모리 유지 기간</string>
+    <string name="mem_keep_info">메모리를 너무 오래 유지하면, 브라우저가 느려질 수 있습니다.</string>
     <string name="down_manager">다운로드 매니저</string>
     <string name="down_exit">다운로드 매니저 종료</string>
     <string name="other_app">다른 앱</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">원하는 내용이 아닌 경우, 직접 수정할 수 있습니다.</string>
     <string name="out_of_memory">메모리가 부족합니다.</string>
     <string name="auto_detect">자동 감지</string>
+    <string name="automatic">자동</string>
     <string name="allow_all_site">모든 사이트 허용</string>
     <string name="block_harm_site">유해 사이트 차단</string>
     <string name="two_lines">2 라인</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">이 기능은 만화책 번역에 최적화되어 있습니다.</string>
     <string name="ocr_guide_2">이미지에 포함된 언어를 선택해야 합니다.</string>
     <string name="ocr_guide_3">해당 언어를 선택하지 않으면 문자가 인식되지 않을 수 있습니다.</string>
-    <string name="ocr_load_1">텍스트 모듈을 로드하는 중입니다.</string>
-    <string name="ocr_load_2">텍스트 모듈 로딩은 각 언어에 대해 한 번만 수행됩니다.</string>
-    <string name="ocr_load_3">텍스트 모듈 로딩 완료</string>
+    <string name="ocr_load_1">텍스트 모듈을 업데이트하는 중입니다.</string>
+    <string name="ocr_load_2">이 작업은 각 언어에 대해 한 번만 수행됩니다.</string>
+    <string name="ocr_load_3">업데이트 완료</string>
     <string name="ocr_fail">문자가 인식되지 않았습니다.</string>
     <string name="ocr_zoom_info_1">글자가 너무 작으면 인식되지 않거나 잘못 번역될 수 있습니다.</string>
     <string name="ocr_zoom_info_2">배율을 높이면 정확도가 높아집니다.</string>

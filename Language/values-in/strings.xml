@@ -812,6 +812,8 @@
     <string name="mem_block_site">Cegah pelepasan memori untuk situs saat ini</string>
     <string name="mem_block_page">Cegah pelepasan memori untuk halaman saat ini</string>
     <string name="mem_block_list">Daftar pencegahan pelepasan memori</string>
+    <string name="mem_keep">periode retensi memori</string>
+    <string name="mem_keep_info">Jika Anda menyimpan memori terlalu lama, browser Anda mungkin menjadi lebih lambat.</string>
     <string name="down_manager">Manajer unduhan</string>
     <string name="down_exit">Keluar dari pengelola unduhan</string>
     <string name="other_app">Aplikasi lain</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">Jika bukan itu yang Anda inginkan, Anda dapat mengeditnya sendiri.</string>
     <string name="out_of_memory">Memori tidak cukup.</string>
     <string name="auto_detect">Deteksi otomatis</string>
+    <string name="automatic">Otomatis</string>
     <string name="allow_all_site">Semua situs diizinkan</string>
     <string name="block_harm_site">Blokir situs berbahaya</string>
     <string name="two_lines">2 baris</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">Fitur ini dioptimalkan untuk terjemahan buku komik.</string>
     <string name="ocr_guide_2">Anda harus memilih bahasa yang disertakan dalam gambar.</string>
     <string name="ocr_guide_3">Jika Anda tidak memilih bahasa yang sesuai, karakter mungkin tidak dapat dikenali.</string>
-    <string name="ocr_load_1">Memuat modul teks.</string>
-    <string name="ocr_load_2">Pemuatan modul teks hanya dilakukan satu kali untuk setiap bahasa.</string>
-    <string name="ocr_load_3">Pemuatan modul teks selesai</string>
+    <string name="ocr_load_1">Memperbarui modul teks.</string>
+    <string name="ocr_load_2">Ini dilakukan hanya sekali untuk setiap bahasa.</string>
+    <string name="ocr_load_3">Pembaruan selesai</string>
     <string name="ocr_fail">Karakternya tidak dikenali.</string>
     <string name="ocr_zoom_info_1">Jika hurufnya terlalu kecil, hurufnya mungkin tidak dikenali atau diterjemahkan secara tidak benar.</string>
     <string name="ocr_zoom_info_2">Meningkatkan pembesaran akan meningkatkan akurasi.</string>

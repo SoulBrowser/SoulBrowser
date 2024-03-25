@@ -812,6 +812,8 @@
     <string name="mem_block_site">Impedisce il rilascio di memoria per il sito corrente</string>
     <string name="mem_block_page">Impedisce il rilascio di memoria per la pagina corrente</string>
     <string name="mem_block_list">Elenco di prevenzione del rilascio della memoria</string>
+    <string name="mem_keep">periodo di conservazione della memoria</string>
+    <string name="mem_keep_info">Se mantieni la memoria troppo a lungo, il tuo browser potrebbe diventare più lento.</string>
     <string name="down_manager">Download manager</string>
     <string name="down_exit">Esci dal gestore dei download</string>
     <string name="other_app">Altre app</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">Se non è quello che vuoi, puoi modificarlo tu stesso.</string>
     <string name="out_of_memory">Memoria insufficiente.</string>
     <string name="auto_detect">Rilevamento automatico</string>
+    <string name="automatic">Automatico</string>
     <string name="allow_all_site">Tutti i siti consentiti</string>
     <string name="block_harm_site">Blocca i siti dannosi</string>
     <string name="two_lines">2 linee</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">Questa funzionalità è ottimizzata per la traduzione di fumetti.</string>
     <string name="ocr_guide_2">È necessario selezionare la lingua inclusa nell\'immagine.</string>
     <string name="ocr_guide_3">Se non si seleziona la lingua appropriata, i caratteri potrebbero non essere riconosciuti.</string>
-    <string name="ocr_load_1">Caricamento modulo di testo.</string>
-    <string name="ocr_load_2">Il caricamento dei moduli di testo viene effettuato una sola volta per ciascuna lingua.</string>
-    <string name="ocr_load_3">Caricamento del modulo di testo completato</string>
+    <string name="ocr_load_1">Aggiornamento del modulo di testo.</string>
+    <string name="ocr_load_2">Questa operazione viene eseguita una sola volta per ciascuna lingua.</string>
+    <string name="ocr_load_3">Aggiornamento completato</string>
     <string name="ocr_fail">Il personaggio non è stato riconosciuto.</string>
     <string name="ocr_zoom_info_1">Se le lettere sono troppo piccole, potrebbero non essere riconosciute o tradotte in modo errato.</string>
     <string name="ocr_zoom_info_2">Aumentando l\'ingrandimento aumenta la precisione.</string>

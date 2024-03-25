@@ -812,6 +812,8 @@
     <string name="mem_block_site">Запретить освобождение памяти для текущего сайта</string>
     <string name="mem_block_page">Запретить освобождение памяти для текущей страницы</string>
     <string name="mem_block_list">Список предотвращения освобождения памяти</string>
+    <string name="mem_keep">период сохранения памяти</string>
+    <string name="mem_keep_info">Если вы храните память слишком долго, ваш браузер может работать медленнее.</string>
     <string name="down_manager">Менеджер загрузки</string>
     <string name="down_exit">Выйти из диспетчера загрузок</string>
     <string name="other_app">Другие приложения</string>
@@ -885,7 +887,8 @@
     <string name="vpn_ip_guide_1">Результаты поиска по домену.</string>
     <string name="vpn_ip_guide_2">Если это не то, что вы хотите, вы можете отредактировать его самостоятельно.</string>
     <string name="out_of_memory">Недостаточно памяти.</string>
-    <string name="auto_detect">Определять автоматически</string>
+    <string name="auto_detect">Автоматическое обнаружение</string>
+    <string name="automatic">Автоматический</string>
     <string name="allow_all_site">Все сайты разрешены</string>
     <string name="block_harm_site">Блокировать вредоносные сайты</string>
     <string name="two_lines">2 строки</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">Эта функция оптимизирована для перевода комиксов.</string>
     <string name="ocr_guide_2">Вы должны выбрать язык, включенный в изображение.</string>
     <string name="ocr_guide_3">Если вы не выберете подходящий язык, символы могут не распознаваться.</string>
-    <string name="ocr_load_1">Загрузка текстового модуля.</string>
-    <string name="ocr_load_2">Загрузка текстового модуля производится только один раз для каждого языка.</string>
-    <string name="ocr_load_3">Загрузка текстового модуля завершена</string>
+    <string name="ocr_load_1">Обновление текстового модуля.</string>
+    <string name="ocr_load_2">Это делается только один раз для каждого языка.</string>
+    <string name="ocr_load_3">Обновление завершено</string>
     <string name="ocr_fail">Персонаж не был опознан.</string>
     <string name="ocr_zoom_info_1">Если буквы слишком маленькие, они могут быть не распознаны или переведены неправильно.</string>
     <string name="ocr_zoom_info_2">Увеличение увеличения увеличивает точность.</string>

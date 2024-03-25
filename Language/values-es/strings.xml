@@ -812,6 +812,8 @@
     <string name="mem_block_site">Evitar la liberación de memoria para el sitio actual</string>
     <string name="mem_block_page">Evitar la liberación de memoria para la página actual</string>
     <string name="mem_block_list">Lista de prevención de liberación de memoria</string>
+    <string name="mem_keep">periodo de retención de memoria</string>
+    <string name="mem_keep_info">Si mantiene la memoria por mucho tiempo, su navegador puede volverse más lento.</string>
     <string name="down_manager">Gestor de descargas</string>
     <string name="down_exit">Salir del administrador de descargas</string>
     <string name="other_app">Otras aplicaciones</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">Si no es lo que quieres, puedes editarlo tú mismo.</string>
     <string name="out_of_memory">Memoria insuficiente.</string>
     <string name="auto_detect">Detección automática</string>
+    <string name="automatic">Automático</string>
     <string name="allow_all_site">Todos los sitios permitidos</string>
     <string name="block_harm_site">Bloquear sitios dañinos</string>
     <string name="two_lines">2 líneas</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">Esta función está optimizada para la traducción de cómics.</string>
     <string name="ocr_guide_2">Debes seleccionar el idioma incluido en la imagen.</string>
     <string name="ocr_guide_3">Si no selecciona el idioma apropiado, es posible que no se reconozcan los caracteres.</string>
-    <string name="ocr_load_1">Cargando módulo de texto.</string>
-    <string name="ocr_load_2">La carga del módulo de texto se realiza solo una vez para cada idioma.</string>
-    <string name="ocr_load_3">Carga del módulo de texto completa</string>
+    <string name="ocr_load_1">Actualización del módulo de texto.</string>
+    <string name="ocr_load_2">Esto se hace sólo una vez para cada idioma.</string>
+    <string name="ocr_load_3">Actualización completada</string>
     <string name="ocr_fail">El personaje no fue reconocido.</string>
     <string name="ocr_zoom_info_1">Si las letras son demasiado pequeñas, es posible que no se reconozcan o se traduzcan incorrectamente.</string>
     <string name="ocr_zoom_info_2">Aumentar la ampliación aumenta la precisión.</string>

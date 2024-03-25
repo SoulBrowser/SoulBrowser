@@ -812,6 +812,8 @@
     <string name="mem_block_site">Preveniți eliberarea memoriei pentru site-ul curent</string>
     <string name="mem_block_page">Preveniți eliberarea memoriei pentru pagina curentă</string>
     <string name="mem_block_list">Lista de prevenire a eliberării memoriei</string>
+    <string name="mem_keep">perioada de păstrare a memoriei</string>
+    <string name="mem_keep_info">Dacă păstrați memoria prea mult timp, browserul dvs. poate deveni mai lent.</string>
     <string name="down_manager">Administrator de descărcări</string>
     <string name="down_exit">Ieșiți din managerul de descărcare</string>
     <string name="other_app">Alte aplicatii</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">Dacă nu este ceea ce doriți, îl puteți edita singur.</string>
     <string name="out_of_memory">Memorie insuficienta.</string>
     <string name="auto_detect">Detectare automată</string>
+    <string name="automatic">Automat</string>
     <string name="allow_all_site">Toate site-urile sunt permise</string>
     <string name="block_harm_site">Blocați site-urile dăunătoare</string>
     <string name="two_lines">2 rânduri</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">Această caracteristică este optimizată pentru traducerea de benzi desenate.</string>
     <string name="ocr_guide_2">Trebuie să selectați limba inclusă în imagine.</string>
     <string name="ocr_guide_3">Dacă nu selectați limba corespunzătoare, este posibil ca caracterele să nu fie recunoscute.</string>
-    <string name="ocr_load_1">Se încarcă modulul de text.</string>
-    <string name="ocr_load_2">Încărcarea modulului de text se face o singură dată pentru fiecare limbă.</string>
-    <string name="ocr_load_3">Încărcarea modulului de text s-a încheiat</string>
+    <string name="ocr_load_1">Actualizarea modulului de text.</string>
+    <string name="ocr_load_2">Acest lucru se face o singură dată pentru fiecare limbă.</string>
+    <string name="ocr_load_3">Actualizare finalizată</string>
     <string name="ocr_fail">Personajul nu a fost recunoscut.</string>
     <string name="ocr_zoom_info_1">Dacă literele sunt prea mici, este posibil să nu fie recunoscute sau traduse incorect.</string>
     <string name="ocr_zoom_info_2">Creșterea măririi crește precizia.</string>

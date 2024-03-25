@@ -812,6 +812,8 @@
     <string name="mem_block_site">Geçerli site için belleğin serbest bırakılmasını önle</string>
     <string name="mem_block_page">Geçerli sayfa için belleğin serbest bırakılmasını önle</string>
     <string name="mem_block_list">Bellek serbest bırakılmasını önleme listesi</string>
+    <string name="mem_keep">hafıza tutma süresi</string>
+    <string name="mem_keep_info">Belleği çok uzun süre tutarsanız tarayıcınız yavaşlayabilir.</string>
     <string name="down_manager">İndirme yöneticisi</string>
     <string name="down_exit">İndirme yöneticisinden çık</string>
     <string name="other_app">Diğer uygulamalar</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">İstediğiniz gibi değilse, kendiniz düzenleyebilirsiniz.</string>
     <string name="out_of_memory">Yetersiz hafıza.</string>
     <string name="auto_detect">Otomatik algılama</string>
+    <string name="automatic">Otomatik</string>
     <string name="allow_all_site">Tüm sitelere izin verilir</string>
     <string name="block_harm_site">Zararlı siteleri engelle</string>
     <string name="two_lines">2 satır</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">Bu özellik çizgi roman çevirisi için optimize edilmiştir.</string>
     <string name="ocr_guide_2">Resimde yer alan dili seçmelisiniz.</string>
     <string name="ocr_guide_3">Uygun dili seçmezseniz karakterler tanınmayabilir.</string>
-    <string name="ocr_load_1">Metin modülü yükleniyor.</string>
-    <string name="ocr_load_2">Metin modülü yüklemesi her dil için yalnızca bir kez yapılır.</string>
-    <string name="ocr_load_3">Metin modülü yükleme tamamlandı</string>
+    <string name="ocr_load_1">Metin modülünün güncellenmesi.</string>
+    <string name="ocr_load_2">Bu, her dil için yalnızca bir kez yapılır.</string>
+    <string name="ocr_load_3">Güncelleme tamamlandı</string>
     <string name="ocr_fail">Karakter tanınmadı.</string>
     <string name="ocr_zoom_info_1">Harfler çok küçükse tanınmayabilir veya yanlış tercüme edilebilir.</string>
     <string name="ocr_zoom_info_2">Büyütmeyi artırmak doğruluğu artırır.</string>

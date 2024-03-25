@@ -812,6 +812,8 @@
     <string name="mem_block_site">منع تحرير الذاكرة للموقع الحالي</string>
     <string name="mem_block_page">منع تحرير الذاكرة للصفحة الحالية</string>
     <string name="mem_block_list">قائمة منع تحرير الذاكرة</string>
+    <string name="mem_keep">فترة الاحتفاظ بالذاكرة</string>
+    <string name="mem_keep_info">إذا احتفظت بالذاكرة لفترة طويلة جدًا، فقد يصبح متصفحك أبطأ.</string>
     <string name="down_manager">مدير التحميل</string>
     <string name="down_exit">الخروج من مدير التحميل</string>
     <string name="other_app">تطبيقات أخرى</string>
@@ -885,7 +887,8 @@
     <string name="vpn_ip_guide_1">نتائج البحث حسب المجال.</string>
     <string name="vpn_ip_guide_2">إذا لم يكن هذا ما تريده ، يمكنك تعديله بنفسك.</string>
     <string name="out_of_memory">الذاكرة غير كافية.</string>
-    <string name="auto_detect">كشف ألي</string>
+    <string name="auto_detect">الكشف التلقائي</string>
+    <string name="automatic">تلقائي</string>
     <string name="allow_all_site">جميع المواقع مسموح بها</string>
     <string name="block_harm_site">منع المواقع الضارة</string>
     <string name="two_lines">2 خطوط</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">تم تحسين هذه الميزة لترجمة الكتب المصورة.</string>
     <string name="ocr_guide_2">يجب عليك تحديد اللغة المضمنة في الصورة.</string>
     <string name="ocr_guide_3">إذا لم تقم بتحديد اللغة المناسبة، فقد لا يتم التعرف على الأحرف.</string>
-    <string name="ocr_load_1">تحميل وحدة النص.</string>
-    <string name="ocr_load_2">يتم تحميل وحدة النص مرة واحدة فقط لكل لغة.</string>
-    <string name="ocr_load_3">اكتمل تحميل وحدة النص</string>
+    <string name="ocr_load_1">تحديث وحدة النص.</string>
+    <string name="ocr_load_2">ويتم ذلك مرة واحدة فقط لكل لغة.</string>
+    <string name="ocr_load_3">تحديث الانتهاء</string>
     <string name="ocr_fail">لم يتم التعرف على الشخصية.</string>
     <string name="ocr_zoom_info_1">إذا كانت الحروف صغيرة جدًا، فقد لا يتم التعرف عليها أو ترجمتها بشكل غير صحيح.</string>
     <string name="ocr_zoom_info_2">زيادة التكبير يزيد من الدقة.</string>

@@ -812,6 +812,8 @@
     <string name="mem_block_site">Ngăn chặn việc giải phóng bộ nhớ cho trang hiện tại</string>
     <string name="mem_block_page">Ngăn giải phóng bộ nhớ cho trang hiện tại</string>
     <string name="mem_block_list">Danh sách ngăn chặn giải phóng bộ nhớ</string>
+    <string name="mem_keep">thời gian lưu giữ trí nhớ</string>
+    <string name="mem_keep_info">Nếu bạn giữ bộ nhớ quá lâu, trình duyệt của bạn có thể trở nên chậm hơn.</string>
     <string name="down_manager">Quản lý tải xuống</string>
     <string name="down_exit">Thoát trình quản lý tải xuống</string>
     <string name="other_app">Những ứng dụng khác</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">Nếu không như ý muốn, bạn có thể tự chỉnh sửa.</string>
     <string name="out_of_memory">Không đủ bộ nhớ.</string>
     <string name="auto_detect">Tự động phát hiện</string>
+    <string name="automatic">Tự động</string>
     <string name="allow_all_site">Tất cả các trang web được phép</string>
     <string name="block_harm_site">Chặn các trang web có hại</string>
     <string name="two_lines">2 dòng</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">Tính năng này được tối ưu hóa cho việc dịch truyện tranh.</string>
     <string name="ocr_guide_2">Bạn phải chọn ngôn ngữ có trong hình ảnh.</string>
     <string name="ocr_guide_3">Nếu bạn không chọn ngôn ngữ thích hợp, các ký tự có thể không được nhận dạng.</string>
-    <string name="ocr_load_1">Đang tải mô-đun văn bản.</string>
-    <string name="ocr_load_2">Việc tải mô-đun văn bản chỉ được thực hiện một lần cho mỗi ngôn ngữ.</string>
-    <string name="ocr_load_3">Quá trình tải mô-đun văn bản đã hoàn tất</string>
+    <string name="ocr_load_1">Cập nhật mô-đun văn bản.</string>
+    <string name="ocr_load_2">Việc này chỉ được thực hiện một lần cho mỗi ngôn ngữ.</string>
+    <string name="ocr_load_3">Hoàn thành cập nhật</string>
     <string name="ocr_fail">Nhân vật không được công nhận.</string>
     <string name="ocr_zoom_info_1">Nếu chữ quá nhỏ, chúng có thể không được nhận dạng hoặc dịch không chính xác.</string>
     <string name="ocr_zoom_info_2">Tăng độ phóng đại làm tăng độ chính xác.</string>

@@ -812,6 +812,8 @@
     <string name="mem_block_site">防止當前站點的記憶體釋放</string>
     <string name="mem_block_page">防止當前頁面的記憶體釋放</string>
     <string name="mem_block_list">記憶體釋放預防列表</string>
+    <string name="mem_keep">記憶保留期</string>
+    <string name="mem_keep_info">如果你保留記憶體太久，你的瀏覽器可能會變慢</string>
     <string name="down_manager">下載管理器</string>
     <string name="down_exit">退出下載管理器</string>
     <string name="other_app">其他應用程式</string>
@@ -885,7 +887,8 @@
     <string name="vpn_ip_guide_1">按域搜索結果</string>
     <string name="vpn_ip_guide_2">如果不是您想要的，您可以自己編輯</string>
     <string name="out_of_memory">記憶體不足</string>
-    <string name="auto_detect">自動檢測</string>
+    <string name="auto_detect">自動偵測</string>
+    <string name="automatic">自動的</string>
     <string name="allow_all_site">允許所有網站</string>
     <string name="block_harm_site">封鎖危害網站</string>
     <string name="two_lines">2 行</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">此功能針對漫畫書翻譯進行了最佳化</string>
     <string name="ocr_guide_2">您必須選擇圖像中包含的語言</string>
     <string name="ocr_guide_3">如果您沒有選擇適當的語言，則可能無法辨識字元</string>
-    <string name="ocr_load_1">正在載入文字模組</string>
-    <string name="ocr_load_2">每種語言的文字模組載入僅完成一次</string>
-    <string name="ocr_load_3">文字模組載入完成</string>
+    <string name="ocr_load_1">更新文字模組</string>
+    <string name="ocr_load_2">對於每種語言，此操作僅執行一次</string>
+    <string name="ocr_load_3">更新完成</string>
     <string name="ocr_fail">該角色未被識別</string>
     <string name="ocr_zoom_info_1">如果字母太小，可能無法辨識或翻譯錯誤</string>
     <string name="ocr_zoom_info_2">增加放大倍率可以提高精度</string>

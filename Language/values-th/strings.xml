@@ -812,6 +812,8 @@
     <string name="mem_block_site">ป้องกันการปล่อยหน่วยความจำสำหรับไซต์ปัจจุบัน</string>
     <string name="mem_block_page">ป้องกันการปล่อยหน่วยความจำสำหรับหน้าปัจจุบัน</string>
     <string name="mem_block_list">รายการป้องกันการปลดปล่อยหน่วยความจำ</string>
+    <string name="mem_keep">ระยะเวลาการเก็บความทรงจำ</string>
+    <string name="mem_keep_info">หากคุณเก็บหน่วยความจำไว้นานเกินไป เบราว์เซอร์ของคุณอาจทำงานช้าลง</string>
     <string name="down_manager">ตัวจัดการการดาวน์โหลด</string>
     <string name="down_exit">ออกจากตัวจัดการการดาวน์โหลด</string>
     <string name="other_app">แอพอื่น ๆ</string>
@@ -886,6 +888,7 @@
     <string name="vpn_ip_guide_2">หากไม่ใช่สิ่งที่คุณต้องการ คุณสามารถแก้ไขได้เอง</string>
     <string name="out_of_memory">หน่วยความจำไม่เพียงพอ.</string>
     <string name="auto_detect">การตรวจจับอัตโนมัติ</string>
+    <string name="automatic">อัตโนมัติ</string>
     <string name="allow_all_site">อนุญาตทุกไซต์</string>
     <string name="block_harm_site">บล็อกไซต์ที่เป็นอันตราย</string>
     <string name="two_lines">2 เส้น</string>
@@ -969,9 +972,9 @@
     <string name="ocr_guide_1">คุณสมบัตินี้ได้รับการปรับให้เหมาะสมสำหรับการแปลหนังสือการ์ตูน</string>
     <string name="ocr_guide_2">คุณต้องเลือกภาษาที่รวมอยู่ในรูปภาพ</string>
     <string name="ocr_guide_3">หากคุณไม่เลือกภาษาที่เหมาะสม ระบบอาจไม่รู้จักอักขระ</string>
-    <string name="ocr_load_1">กำลังโหลดโมดูลข้อความ</string>
-    <string name="ocr_load_2">การโหลดโมดูลข้อความทำได้เพียงครั้งเดียวสำหรับแต่ละภาษา</string>
-    <string name="ocr_load_3">การโหลดโมดูลข้อความเสร็จสมบูรณ์</string>
+    <string name="ocr_load_1">กำลังอัปเดตโมดูลข้อความ</string>
+    <string name="ocr_load_2">ซึ่งทำได้เพียงครั้งเดียวสำหรับแต่ละภาษา</string>
+    <string name="ocr_load_3">การอัปเดตเสร็จสมบูรณ์</string>
     <string name="ocr_fail">ไม่รู้จักตัวละครนี้</string>
     <string name="ocr_zoom_info_1">หากตัวอักษรมีขนาดเล็กเกินไป ระบบอาจจดจำหรือแปลไม่ถูกต้อง</string>
     <string name="ocr_zoom_info_2">การเพิ่มกำลังขยายจะเพิ่มความแม่นยำ</string>
