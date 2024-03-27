@@ -30,7 +30,7 @@ b|whe|y2mate.com|ruc|common.js
 b|whe|mangareader.net|ruc|click
 a|whe|straitstimes.com|rhc|securepubads.g.doubleclick.net
 a|whe|hpjav.tv|ruc|cdn.tsyndicate.com/sdk
-a|whe|nicovideo.jp|rue|amazon-adsystem.com/aax2/apstag.js
+a|whe|nicovideo.jp|rhe|nicovideo.jp
 b|whc|9anime|rue|invoke.js
 b|whc|9anime|rhe|doubleclick.net
 b|whc|9anime|rhe|adsco.re
