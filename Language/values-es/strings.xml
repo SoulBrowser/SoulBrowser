@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Por favor seleccione una imagen.</string>
     <string name="local_cast_guide_1">Selecciona el ícono de la lista de TV Cast.</string>
     <string name="local_cast_guide_2">Por favor seleccione un artículo.</string>
+    <string name="local_cast_guide_3">Su teléfono inteligente y Chromecast deben estar conectados a la misma red.</string>
+    <string name="local_cast_guide_4">Por ejemplo, si utiliza una VPN, es posible que no funcione correctamente.</string>
     <string name="video_down_guide_0">Visita el sitio con el video.</string>
     <string name="video_down_guide_1">Cuando se detecte vídeo, aparecerá un botón en la pantalla.</string>
     <string name="video_down_guide_2">Algunos sitios necesitan reproducir el video antes de que se detecte el video.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">Es posible que los filtros no se actualicen si cambia la dirección del filtro.</string>
     <string name="filter_link_5">En este caso, informe al desarrollador.</string>
     <string name="open_source">Gracias a los desarrolladores de código abierto. ❤</string>
+    <string name="video_icon_tap">Toca la pantalla</string>
+    <string name="video_icon_long">Pulsación larga en la pantalla</string>
+    <string name="video_icon_guide">Mantenga presionada la pantalla para revelar los botones de función.</string>
     <string name="change_in_setting">Puedes cambiarlo en la configuración.</string>
     <string name="check_brfore">Comprobar antes de correr</string>
     <string name="check_ver">Ver versión</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Aumento</string>
     <string name="color_black">Negro</string>
     <string name="color_white">Blanco</string>
+    <string name="restart_guide_1">Esta es la función para reiniciar la aplicación.</string>
+    <string name="restart_guide_2">Al utilizar un navegador, puede encontrar situaciones en las que no pueda acceder sin problemas a Internet por diversos motivos, como problemas del servidor en el sitio que está visitando o memoria insuficiente.</string>
+    <string name="restart_guide_3">En ese caso, haga clic en este botón.</string>
+    <string name="restart_guide_4">La aplicación se reiniciará de forma segura en un estado limpio y se eliminará la memoria innecesaria.</string>
 </resources>

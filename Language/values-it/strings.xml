@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Seleziona un\'immagine.</string>
     <string name="local_cast_guide_1">Seleziona l\'icona Cast TV dell\'elenco.</string>
     <string name="local_cast_guide_2">Seleziona un file.</string>
+    <string name="local_cast_guide_3">Lo smartphone e il Chromecast devono essere collegati alla stessa rete.</string>
+    <string name="local_cast_guide_4">Ad esempio, se utilizzi una VPN, potrebbe non funzionare correttamente.</string>
     <string name="video_down_guide_0">Visita il sito con il video.</string>
     <string name="video_down_guide_1">Quando viene rilevato il video, sullo schermo verrà visualizzato un pulsante.</string>
     <string name="video_down_guide_2">Alcuni siti devono riprodurre il video prima che il video venga rilevato.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">I filtri potrebbero non essere aggiornati se l\'indirizzo del filtro cambia.</string>
     <string name="filter_link_5">In questo caso, si prega di informare lo sviluppatore.</string>
     <string name="open_source">Grazie agli sviluppatori open source. ❤</string>
+    <string name="video_icon_tap">Tocca lo schermo</string>
+    <string name="video_icon_long">Premere a lungo sullo schermo</string>
+    <string name="video_icon_guide">Tieni premuto lo schermo per visualizzare i pulsanti funzione.</string>
     <string name="change_in_setting">Puoi cambiarlo nelle impostazioni.</string>
     <string name="check_brfore">Controlla prima di eseguire</string>
     <string name="check_ver">Verifica versione</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Ingrandimento</string>
     <string name="color_black">Nero</string>
     <string name="color_white">Bianco</string>
+    <string name="restart_guide_1">Questa è la funzione per riavviare l\'app.</string>
+    <string name="restart_guide_2">Quando utilizzi un browser, potresti riscontrare situazioni in cui non è possibile accedere facilmente a Internet per vari motivi, come problemi del server nel sito che stai visitando o memoria insufficiente.</string>
+    <string name="restart_guide_3">In tal caso, fare clic su questo pulsante.</string>
+    <string name="restart_guide_4">L\'app si riavvierà in modo sicuro in uno stato pulito con l\'eliminazione della memoria non necessaria.</string>
 </resources>

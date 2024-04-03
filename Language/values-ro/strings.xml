@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Selectați o imagine.</string>
     <string name="local_cast_guide_1">Selectați pictograma în lista de distribuție TV.</string>
     <string name="local_cast_guide_2">Vă rugăm să selectați un articol.</string>
+    <string name="local_cast_guide_3">Smartphone-ul și Chromecastul trebuie să fie conectate la aceeași rețea.</string>
+    <string name="local_cast_guide_4">De exemplu, dacă utilizați un VPN, este posibil să nu funcționeze corect.</string>
     <string name="video_down_guide_0">Accesați site-ul cu videoclipul.</string>
     <string name="video_down_guide_1">Când este detectat un videoclip, va apărea un buton pe ecran.</string>
     <string name="video_down_guide_2">Unele site-uri trebuie să redea videoclipul înainte de detectarea videoclipului.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">Este posibil ca filtrele să nu fie actualizate dacă adresa filtrului se modifică.</string>
     <string name="filter_link_5">Neste caso, informe o desenvolvedor.</string>
     <string name="open_source">Mulțumim dezvoltatorilor open source. ❤</string>
+    <string name="video_icon_tap">Atingeți ecranul</string>
+    <string name="video_icon_long">Apăsați lung pe ecran</string>
+    <string name="video_icon_guide">Apăsați și mențineți apăsat ecranul pentru a afișa butoanele de funcție.</string>
     <string name="change_in_setting">Îl poți schimba în setări.</string>
     <string name="check_brfore">Verificați înainte de a alerga</string>
     <string name="check_ver">Verifica versiunea</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Mărire</string>
     <string name="color_black">Negru</string>
     <string name="color_white">Alb</string>
+    <string name="restart_guide_1">Aceasta este funcția de repornire a aplicației.</string>
+    <string name="restart_guide_2">Când utilizați un browser, puteți întâlni situații în care nu puteți accesa fără probleme Internetul din diverse motive, cum ar fi probleme cu serverul de pe site-ul pe care îl vizitați sau memorie insuficientă.</string>
+    <string name="restart_guide_3">În acest caz, vă rugăm să faceți clic pe acest buton.</string>
+    <string name="restart_guide_4">Aplicația va reporni în siguranță într-o stare curată, cu orice memorie inutilă ștearsă.</string>
 </resources>

@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Veuillez sélectionner une image.</string>
     <string name="local_cast_guide_1">Sélectionnez l\'icône de liste de diffusion TV.</string>
     <string name="local_cast_guide_2">Veuillez sélectionner un article.</string>
+    <string name="local_cast_guide_3">Votre smartphone et Chromecast doivent être connectés au même réseau.</string>
+    <string name="local_cast_guide_4">Par exemple, si vous utilisez un VPN, il risque de ne pas fonctionner correctement.</string>
     <string name="video_down_guide_0">Visitez le site avec la vidéo.</string>
     <string name="video_down_guide_1">Lorsqu\'une vidéo est détectée, un bouton apparaîtra sur l\'écran.</string>
     <string name="video_down_guide_2">Certains sites doivent lire la vidéo avant que la vidéo ne soit détectée.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">Les filtres peuvent ne pas être mis à jour si l\'adresse du filtre change.</string>
     <string name="filter_link_5">Dans ce cas, veuillez en informer le développeur.</string>
     <string name="open_source">Merci aux développeurs open source. ❤</string>
+    <string name="video_icon_tap">Appuyez sur l\'écran</string>
+    <string name="video_icon_long">Appui long sur l\'écran</string>
+    <string name="video_icon_guide">Appuyez longuement sur l\'écran pour afficher les boutons de fonction.</string>
     <string name="change_in_setting">Vous pouvez le modifier dans les paramètres.</string>
     <string name="check_brfore">Vérifier avant de courir</string>
     <string name="check_ver">Vérifier la version</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Grossissement</string>
     <string name="color_black">Noir</string>
     <string name="color_white">Blanc</string>
+    <string name="restart_guide_1">C\'est la fonction pour redémarrer l\'application.</string>
+    <string name="restart_guide_2">Lorsque vous utilisez un navigateur, vous pouvez rencontrer des situations dans lesquelles vous ne pouvez pas accéder facilement à Internet pour diverses raisons, telles que des problèmes de serveur sur le site que vous visitez ou une mémoire insuffisante.</string>
+    <string name="restart_guide_3">Dans ce cas, veuillez cliquer sur ce bouton.</string>
+    <string name="restart_guide_4">L\'application redémarrera en toute sécurité dans un état propre avec toute mémoire inutile supprimée.</string>
 </resources>

@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Виберіть зображення.</string>
     <string name="local_cast_guide_1">Виберіть піктограму списку телепередач.</string>
     <string name="local_cast_guide_2">Виберіть пункт.</string>
+    <string name="local_cast_guide_3">Ваш смартфон і Chromecast мають бути підключені до однієї мережі.</string>
+    <string name="local_cast_guide_4">Наприклад, якщо ви використовуєте VPN, він може не працювати належним чином.</string>
     <string name="video_down_guide_0">Завітайте на сайт з відео.</string>
     <string name="video_down_guide_1">Коли буде виявлено відео, на екрані з’явиться кнопка.</string>
     <string name="video_down_guide_2">Деякі сайти потребують відтворення відео перед його виявленням.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">Фільтри можуть не оновлюватися, якщо змінюється адреса фільтра.</string>
     <string name="filter_link_5">У цьому випадку повідомте розробника.</string>
     <string name="open_source">Спасибі розробникам з відкритим кодом. ❤</string>
+    <string name="video_icon_tap">Торкніться екрана</string>
+    <string name="video_icon_long">Довго натискайте на екрані</string>
+    <string name="video_icon_guide">Натисніть і утримуйте екран, щоб відкрити функціональні кнопки.</string>
     <string name="change_in_setting">Ви можете змінити це в налаштуваннях.</string>
     <string name="check_brfore">Перевірте перед запуском</string>
     <string name="check_ver">Перевірити версію</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Збільшення</string>
     <string name="color_black">Чорний</string>
     <string name="color_white">Білий</string>
+    <string name="restart_guide_1">Це функція для перезапуску програми.</string>
+    <string name="restart_guide_2">Під час користування браузером ви можете зіткнутися з ситуаціями, коли ви не можете безперебійно отримати доступ до Інтернету з різних причин, наприклад, проблеми з сервером на сайті, який ви відвідуєте, або недостатньо пам’яті.</string>
+    <string name="restart_guide_3">У такому випадку натисніть цю кнопку.</string>
+    <string name="restart_guide_4">Програма безпечно перезапуститься в чистому стані з видаленням непотрібної пам’яті.</string>
 </resources>

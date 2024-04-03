@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">画像を選択してください。</string>
     <string name="local_cast_guide_1">TVキャストリストのアイコンを選択します。</string>
     <string name="local_cast_guide_2">項目を選択してください。</string>
+    <string name="local_cast_guide_3">スマートフォンとChromecastが同じネットワークに接続されている必要があります。</string>
+    <string name="local_cast_guide_4">たとえば、VPN を使用している場合、正常に動作しない可能性があります。</string>
     <string name="video_down_guide_0">ビデオがあるサイトをご覧ください。</string>
     <string name="video_down_guide_1">ビデオが検出されると、画面にボタンが表示されます。</string>
     <string name="video_down_guide_2">いくつかのサイトは、ビデオを再生しなければならビデオが検出されます。</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">フィルタアドレスが変更されると、フィルタが更新されないことがあります。</string>
     <string name="filter_link_5">In questo caso, si prega di informare lo sviluppatore.</string>
     <string name="open_source">オープンソースの開発者に感謝します。 ❤</string>
+    <string name="video_icon_tap">画面をタップ</string>
+    <string name="video_icon_long">画面を長押し</string>
+    <string name="video_icon_guide">画面を長押しすると機能ボタンが表示されます。</string>
     <string name="change_in_setting">設定で変更できます。</string>
     <string name="check_brfore">実行前の確認</string>
     <string name="check_ver">バージョン確認</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">倍率</string>
     <string name="color_black">黒</string>
     <string name="color_white">白</string>
+    <string name="restart_guide_1">アプリを再起動する機能です。</string>
+    <string name="restart_guide_2">ブラウザを使ってみると、訪れるサイトのサーバーの問題やメモリ不足など、さまざまな理由でインターネットにスムーズにアクセスできない状況が発生することがあります。</string>
+    <string name="restart_guide_3">その場合はこのボタンをクリックしてください。</string>
+    <string name="restart_guide_4">不要なメモリが削除されたクリーンな状態でアプリが安全に再起動されます。</string>
 </resources>

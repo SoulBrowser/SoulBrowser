@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Silakan pilih satu gambar.</string>
     <string name="local_cast_guide_1">Pilih ikon daftar pemain TV.</string>
     <string name="local_cast_guide_2">Silakan pilih satu item.</string>
+    <string name="local_cast_guide_3">Ponsel cerdas dan Chromecast Anda harus terhubung ke jaringan yang sama.</string>
+    <string name="local_cast_guide_4">Misalnya, jika Anda menggunakan VPN, VPN tersebut mungkin tidak berfungsi dengan baik.</string>
     <string name="video_down_guide_0">Kunjungi situs dengan video.</string>
     <string name="video_down_guide_1">Ketika video terdeteksi, sebuah tombol akan muncul di layar.</string>
     <string name="video_down_guide_2">Beberapa situs perlu memutar video sebelum video terdeteksi.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">Filter mungkin tidak diperbarui jika alamat filter berubah.</string>
     <string name="filter_link_5">Dalam hal ini, harap informasikan kepada pengembang.</string>
     <string name="open_source">Terima kasih kepada pengembang sumber terbuka. ❤</string>
+    <string name="video_icon_tap">Ketuk layar</string>
+    <string name="video_icon_long">Tekan lama di layar</string>
+    <string name="video_icon_guide">Tekan dan tahan layar untuk membuka tombol fungsi.</string>
     <string name="change_in_setting">Anda dapat mengubahnya di pengaturan.</string>
     <string name="check_brfore">Periksa sebelum dijalankan</string>
     <string name="check_ver">Periksa versi</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Pembesaran</string>
     <string name="color_black">Hitam</string>
     <string name="color_white">Putih</string>
+    <string name="restart_guide_1">Ini adalah fungsi untuk memulai ulang aplikasi.</string>
+    <string name="restart_guide_2">Saat menggunakan browser, Anda mungkin menghadapi situasi di mana Anda tidak dapat mengakses Internet dengan lancar karena berbagai alasan, seperti masalah server di situs yang Anda kunjungi atau memori tidak mencukupi.</string>
+    <string name="restart_guide_3">Jika demikian, silakan klik tombol ini.</string>
+    <string name="restart_guide_4">Aplikasi akan dimulai ulang dengan aman dalam keadaan bersih dengan semua memori yang tidak perlu dihapus.</string>
 </resources>

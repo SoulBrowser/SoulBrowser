@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">请选择一张图片</string>
     <string name="local_cast_guide_1">选择电视广播列表图标</string>
     <string name="local_cast_guide_2">请选择一个项目</string>
+    <string name="local_cast_guide_3">您的智能手机和 Chromecast 必须连接到同一网络</string>
+    <string name="local_cast_guide_4">例如，如果您使用VPN，它可能无法正常工作</string>
     <string name="video_down_guide_0">浏览附有视频的网站</string>
     <string name="video_down_guide_1">检测到视频时，屏幕上会出现一个按钮</string>
     <string name="video_down_guide_2">某些站点需要播放视频之后才能检测到</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">如果过滤器地址更改，过滤器可能不会更新</string>
     <string name="filter_link_5">在这种情况下，请通知开发商</string>
     <string name="open_source">感谢开源开发者 ❤</string>
+    <string name="video_icon_tap">点击屏幕</string>
+    <string name="video_icon_long">长按屏幕</string>
+    <string name="video_icon_guide">按住屏幕以显示功能按钮</string>
     <string name="change_in_setting">您可以在设置中更改它</string>
     <string name="check_brfore">运行前检查</string>
     <string name="check_ver">检查版本</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">放大</string>
     <string name="color_black">黑色的</string>
     <string name="color_white">白色的</string>
+    <string name="restart_guide_1">这是重新启动应用程序的功能</string>
+    <string name="restart_guide_2">在使用浏览器时，您可能会遇到由于各种原因而无法顺利访问互联网的情况，例如您访问的站点服务器问题或内存不足等</string>
+    <string name="restart_guide_3">在这种情况下，请单击此按钮</string>
+    <string name="restart_guide_4">该应用程序将以干净的状态安全地重新启动，并删除所有不必要的内存</string>
 </resources>

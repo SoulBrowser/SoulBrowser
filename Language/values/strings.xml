@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Select an image.</string>
     <string name="local_cast_guide_1">Select the TV cast list icon.</string>
     <string name="local_cast_guide_2">Select an item.</string>
+    <string name="local_cast_guide_3">Your smartphone and Chromecast must be connected to the same network.</string>
+    <string name="local_cast_guide_4">For example, if you use a VPN, it may not work properly.</string>
     <string name="video_down_guide_0">Visit the site with the video.</string>
     <string name="video_down_guide_1">When video is detected, a button will appear on the screen.</string>
     <string name="video_down_guide_2">Some sites need to play the video before the video is detected.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">Filters may not be updated if the filter address changes.</string>
     <string name="filter_link_5">In this case, please inform the developer.</string>
     <string name="open_source">Thanks to the open source developers. ❤</string>
+    <string name="video_icon_tap">Tap the screen</string>
+    <string name="video_icon_long">Long press on the screen</string>
+    <string name="video_icon_guide">Press and hold the screen to reveal function buttons.</string>
     <string name="change_in_setting">You can change it in settings.</string>
     <string name="check_brfore">Check before running</string>
     <string name="check_ver">Check version</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Magnification</string>
     <string name="color_black">Black</string>
     <string name="color_white">White</string>
+    <string name="restart_guide_1">This is the function to restart the app.</string>
+    <string name="restart_guide_2">When using a browser, you may encounter situations where you cannot smoothly access the Internet for various reasons, such as server problems at the site you are visiting or insufficient memory.</string>
+    <string name="restart_guide_3">In that case, please click this button.</string>
+    <string name="restart_guide_4">The app will safely restart in a clean state with any unnecessary memory deleted.</string>
 </resources>

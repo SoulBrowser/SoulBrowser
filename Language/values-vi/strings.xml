@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Vui lòng chọn một hình ảnh.</string>
     <string name="local_cast_guide_1">Chọn biểu tượng danh sách truyền màn hình.</string>
     <string name="local_cast_guide_2">Vui lòng chọn một mục.</string>
+    <string name="local_cast_guide_3">Điện thoại thông minh và Chromecast của bạn phải được kết nối với cùng một mạng.</string>
+    <string name="local_cast_guide_4">Ví dụ: nếu bạn sử dụng VPN, nó có thể không hoạt động bình thường.</string>
     <string name="video_down_guide_0">Truy cập trang web với video.</string>
     <string name="video_down_guide_1">Khi phát hiện video, một nút sẽ xuất hiện trên màn hình.</string>
     <string name="video_down_guide_2">Một số trang web cần phát video trước khi phát hiện video.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">Bộ lọc có thể không được cập nhật nếu địa chỉ bộ lọc thay đổi.</string>
     <string name="filter_link_5">Trong trường hợp này, vui lòng thông báo cho nhà phát triển.</string>
     <string name="open_source">Cảm ơn các nhà phát triển mã nguồn mở. ❤</string>
+    <string name="video_icon_tap">Chạm vào màn hình</string>
+    <string name="video_icon_long">Nhấn lâu vào màn hình</string>
+    <string name="video_icon_guide">Nhấn và giữ màn hình để hiển thị các nút chức năng.</string>
     <string name="change_in_setting">Bạn có thể thay đổi nó trong cài đặt.</string>
     <string name="check_brfore">Kiểm tra trước khi chạy</string>
     <string name="check_ver">Kiểm tra phiên bản</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Phóng đại</string>
     <string name="color_black">Đen</string>
     <string name="color_white">Trắng</string>
+    <string name="restart_guide_1">Đây là chức năng khởi động lại ứng dụng.</string>
+    <string name="restart_guide_2">Khi sử dụng trình duyệt, bạn có thể gặp phải tình huống không thể truy cập Internet một cách trơn tru vì nhiều lý do khác nhau, chẳng hạn như sự cố máy chủ tại trang bạn đang truy cập hoặc không đủ bộ nhớ.</string>
+    <string name="restart_guide_3">Trong trường hợp đó, vui lòng nhấp vào nút này.</string>
+    <string name="restart_guide_4">Ứng dụng sẽ khởi động lại an toàn ở trạng thái sạch và xóa mọi bộ nhớ không cần thiết.</string>
 </resources>

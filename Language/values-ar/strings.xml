@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">اختر صورة.</string>
     <string name="local_cast_guide_1">حدد أيقونة TV Cast List.</string>
     <string name="local_cast_guide_2">الرجاء تحديد عنصر.</string>
+    <string name="local_cast_guide_3">يجب أن يكون هاتفك الذكي وجهاز Chromecast متصلين بنفس الشبكة.</string>
+    <string name="local_cast_guide_4">على سبيل المثال، إذا كنت تستخدم VPN، فقد لا تعمل بشكل صحيح.</string>
     <string name="video_down_guide_0">قم بزيارة موقع بالفيديو.</string>
     <string name="video_down_guide_1">عند اكتشاف الفيديو، سيظهر زر على الشاشة.</string>
     <string name="video_down_guide_2">تحتاج بعض المواقع إلى تشغيل الفيديو قبل اكتشاف الفيديو.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">قد لا يتم تحديث عوامل التصفية إذا تغير عنوان المرشح.</string>
     <string name="filter_link_5">في هذه الحالة ، يرجى إبلاغ المطور.</string>
     <string name="open_source">بفضل مطوري البرامج مفتوحة المصدر. ❤</string>
+    <string name="video_icon_tap">اضغط على الشاشة</string>
+    <string name="video_icon_long">الضغط لفترة طويلة على الشاشة</string>
+    <string name="video_icon_guide">اضغط مع الاستمرار على الشاشة للكشف عن أزرار الوظائف.</string>
     <string name="change_in_setting">يمكنك تغييره في الإعدادات.</string>
     <string name="check_brfore">تحقق قبل الجري</string>
     <string name="check_ver">تحقق من الإصدار</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">التكبير</string>
     <string name="color_black">أسود</string>
     <string name="color_white">أبيض</string>
+    <string name="restart_guide_1">هذه هي الوظيفة لإعادة تشغيل التطبيق.</string>
+    <string name="restart_guide_2">عند استخدام المتصفح، قد تواجه مواقف لا يمكنك فيها الوصول إلى الإنترنت بسلاسة لأسباب مختلفة، مثل مشاكل الخادم في الموقع الذي تزوره أو عدم كفاية الذاكرة.</string>
+    <string name="restart_guide_3">في هذه الحالة، الرجاء الضغط على هذا الزر.</string>
+    <string name="restart_guide_4">سيتم إعادة تشغيل التطبيق بأمان في حالة نظيفة مع حذف أي ذاكرة غير ضرورية.</string>
 </resources>

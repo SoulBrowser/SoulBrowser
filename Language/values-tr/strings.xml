@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Lütfen bir resim seçin.</string>
     <string name="local_cast_guide_1">TV yayın listesi simgesini seçin.</string>
     <string name="local_cast_guide_2">Lütfen bir öğe seçin.</string>
+    <string name="local_cast_guide_3">Akıllı telefonunuz ve Chromecast\'iniz aynı ağa bağlı olmalıdır.</string>
+    <string name="local_cast_guide_4">Örneğin bir VPN kullanıyorsanız düzgün çalışmayabilir.</string>
     <string name="video_down_guide_0">Videonun bulunduğu siteyi ziyaret edin.</string>
     <string name="video_down_guide_1">Video algılandığında ekranda bir düğme görünecektir.</string>
     <string name="video_down_guide_2">Bazı sitelerin video algılanmadan önce videoyu oynatması gerekir.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">Filtre adresi değişirse filtreler güncellenmeyebilir.</string>
     <string name="filter_link_5">Bu durumda, lütfen geliştiriciyi bilgilendirin.</string>
     <string name="open_source">Açık kaynak geliştiricilere teşekkürler. ❤</string>
+    <string name="video_icon_tap">Ekrana dokunun</string>
+    <string name="video_icon_long">Ekrana uzun basın</string>
+    <string name="video_icon_guide">İşlev düğmelerini ortaya çıkarmak için ekrana basın ve basılı tutun.</string>
     <string name="change_in_setting">Ayarlardan değiştirebilirsiniz.</string>
     <string name="check_brfore">Çalıştırmadan önce kontrol edin</string>
     <string name="check_ver">Sürümü kontrol et</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Büyütme</string>
     <string name="color_black">Siyah</string>
     <string name="color_white">Beyaz</string>
+    <string name="restart_guide_1">Bu, uygulamayı yeniden başlatma işlevidir.</string>
+    <string name="restart_guide_2">Tarayıcı kullanırken, ziyaret ettiğiniz sitedeki sunucu sorunları veya hafızanın yetersiz olması gibi çeşitli nedenlerle internete sorunsuz bir şekilde erişemediğiniz durumlarla karşılaşabilirsiniz.</string>
+    <string name="restart_guide_3">Bu durumda lütfen bu butona tıklayın.</string>
+    <string name="restart_guide_4">Uygulama, gereksiz hafızanın silinmesiyle temiz bir durumda güvenli bir şekilde yeniden başlatılacaktır.</string>
 </resources>

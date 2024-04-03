@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">กรุณาเลือกภาพ</string>
     <string name="local_cast_guide_1">เลือกไอคอนรายการทีวี</string>
     <string name="local_cast_guide_2">กรุณาเลือกรายการ</string>
+    <string name="local_cast_guide_3">สมาร์ทโฟนและ Chromecast ของคุณต้องเชื่อมต่อกับเครือข่ายเดียวกัน</string>
+    <string name="local_cast_guide_4">ตัวอย่างเช่น หากคุณใช้ VPN VPN อาจทำงานไม่ถูกต้อง</string>
     <string name="video_down_guide_0">เยี่ยมชมเว็บไซต์ด้วยวิดีโอ</string>
     <string name="video_down_guide_1">เมื่อตรวจพบวิดีโอ ปุ่มจะปรากฏขึ้นบนหน้าจอ</string>
     <string name="video_down_guide_2">บางเว็บไซต์จำเป็นต้องเล่นวิดีโอก่อนตรวจพบวิดีโอ</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">ตัวกรองอาจไม่ได้รับการอัปเดตหากมีการเปลี่ยนแปลงที่อยู่ตัวกรอง</string>
     <string name="filter_link_5">ในกรณีนี้ โปรดแจ้งผู้พัฒนา</string>
     <string name="open_source">ขอขอบคุณผู้พัฒนาโอเพ่นซอร์ส ❤</string>
+    <string name="video_icon_tap">แตะที่หน้าจอ</string>
+    <string name="video_icon_long">กดค้างบนหน้าจอ</string>
+    <string name="video_icon_guide">กดหน้าจอค้างไว้เพื่อแสดงปุ่มฟังก์ชั่น</string>
     <string name="change_in_setting">คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="check_brfore">ตรวจสอบก่อนวิ่ง</string>
     <string name="check_ver">ตรวจสอบรุ่น</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">กำลังขยาย</string>
     <string name="color_black">สีดำ</string>
     <string name="color_white">สีขาว</string>
+    <string name="restart_guide_1">นี่คือฟังก์ชันในการรีสตาร์ทแอป</string>
+    <string name="restart_guide_2">เมื่อใช้เบราว์เซอร์ คุณอาจพบสถานการณ์ที่คุณไม่สามารถเข้าถึงอินเทอร์เน็ตได้อย่างราบรื่นด้วยเหตุผลหลายประการ เช่น ปัญหาเซิร์ฟเวอร์ที่ไซต์ที่คุณกำลังเยี่ยมชมหรือหน่วยความจำไม่เพียงพอ</string>
+    <string name="restart_guide_3">ในกรณีนั้นกรุณาคลิกที่ปุ่มนี้</string>
+    <string name="restart_guide_4">แอปจะรีสตาร์ทอย่างปลอดภัยในสถานะใหม่โดยลบหน่วยความจำที่ไม่จำเป็นออกไป</string>
 </resources>

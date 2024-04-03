@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Wybierz obraz.</string>
     <string name="local_cast_guide_1">Wybierz ikonę listy transmisji TV.</string>
     <string name="local_cast_guide_2">Wybierz element.</string>
+    <string name="local_cast_guide_3">Twój smartfon i Chromecast muszą być podłączone do tej samej sieci.</string>
+    <string name="local_cast_guide_4">Na przykład, jeśli korzystasz z VPN, może on nie działać poprawnie.</string>
     <string name="video_down_guide_0">Odwiedź stronę z wideo.</string>
     <string name="video_down_guide_1">Po wykryciu wideo na ekranie pojawi się przycisk.</string>
     <string name="video_down_guide_2">Niektóre strony muszą odtworzyć wideo, zanim zostanie wykryty.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">Filtry mogą nie zostać zaktualizowane, jeśli zmieni się adres filtra.</string>
     <string name="filter_link_5">W takim przypadku prosimy o poinformowanie dewelopera.</string>
     <string name="open_source">Dzięki programistom open source. ❤</string>
+    <string name="video_icon_tap">Dotknij ekranu</string>
+    <string name="video_icon_long">Długie naciśnięcie ekranu</string>
+    <string name="video_icon_guide">Naciśnij i przytrzymaj ekran, aby wyświetlić przyciski funkcyjne.</string>
     <string name="change_in_setting">Możesz to zmienić w ustawieniach.</string>
     <string name="check_brfore">Sprawdź przed biegiem</string>
     <string name="check_ver">Sprawdź wersję</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Powiększenie</string>
     <string name="color_black">Czarny</string>
     <string name="color_white">Biały</string>
+    <string name="restart_guide_1">Jest to funkcja umożliwiająca ponowne uruchomienie aplikacji.</string>
+    <string name="restart_guide_2">Podczas korzystania z przeglądarki możesz spotkać się z sytuacjami, w których z różnych powodów nie będziesz mógł płynnie uzyskać dostępu do Internetu, np. problemy z serwerem odwiedzanej witryny lub niewystarczającą ilość pamięci.</string>
+    <string name="restart_guide_3">W takim przypadku kliknij ten przycisk.</string>
+    <string name="restart_guide_4">Aplikacja zostanie bezpiecznie uruchomiona ponownie w czystym stanie, po usunięciu niepotrzebnej pamięci.</string>
 </resources>

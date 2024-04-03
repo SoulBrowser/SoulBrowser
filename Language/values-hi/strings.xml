@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">एक छवि का चयन करें।</string>
     <string name="local_cast_guide_1">टीवी कास्ट सूची आइकन चुनें।</string>
     <string name="local_cast_guide_2">कोई वस्तु चुनें।</string>
+    <string name="local_cast_guide_3">आपका स्मार्टफ़ोन और Chromecast एक ही नेटवर्क से कनेक्ट होने चाहिए.</string>
+    <string name="local_cast_guide_4">उदाहरण के लिए, यदि आप वीपीएन का उपयोग करते हैं, तो यह ठीक से काम नहीं कर सकता है।</string>
     <string name="video_down_guide_0">वीडियो के साथ साइट पर जाएं।</string>
     <string name="video_down_guide_1">जब वीडियो का पता चल जाएगा, तो स्क्रीन पर एक बटन दिखाई देगा।</string>
     <string name="video_down_guide_2">वीडियो का पता चलने से पहले कुछ साइटों को वीडियो चलाने की आवश्यकता होती है।</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">यदि फ़िल्टर का पता बदल जाता है, तो हो सकता है कि फ़िल्टर अपडेट न हों।</string>
     <string name="filter_link_5">इस मामले में, कृपया डेवलपर को सूचित करें।</string>
     <string name="open_source">ओपन सोर्स डेवलपर्स को धन्यवाद। ❤</string>
+    <string name="video_icon_tap">स्क्रीन पर टैप करें</string>
+    <string name="video_icon_long">स्क्रीन पर देर तक दबाएं</string>
+    <string name="video_icon_guide">फ़ंक्शन बटन प्रकट करने के लिए स्क्रीन को दबाकर रखें।</string>
     <string name="change_in_setting">आप इसे सेटिंग में बदल सकते हैं।</string>
     <string name="check_brfore">दौड़ने से पहले जांच लें</string>
     <string name="check_ver">जाँच संस्करण</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">बढ़ाई</string>
     <string name="color_black">काला</string>
     <string name="color_white">सफ़ेद</string>
+    <string name="restart_guide_1">यह ऐप को पुनः आरंभ करने का कार्य है।</string>
+    <string name="restart_guide_2">ब्राउज़र का उपयोग करते समय, आपको ऐसी स्थितियों का सामना करना पड़ सकता है जहां आप विभिन्न कारणों से इंटरनेट तक आसानी से नहीं पहुंच सकते हैं, जैसे कि जिस साइट पर आप जा रहे हैं वहां सर्वर की समस्या या अपर्याप्त मेमोरी।</string>
+    <string name="restart_guide_3">उस स्थिति में, कृपया इस बटन पर क्लिक करें।</string>
+    <string name="restart_guide_4">ऐप किसी भी अनावश्यक मेमोरी को हटाए जाने के साथ स्वच्छ स्थिति में सुरक्षित रूप से पुनरारंभ हो जाएगा।</string>
 </resources>

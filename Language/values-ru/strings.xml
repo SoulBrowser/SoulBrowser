@@ -462,6 +462,8 @@
     <string name="image_cast_guide_3">Выберите изображение.</string>
     <string name="local_cast_guide_1">Выберите значок списка телевиз. кастов.</string>
     <string name="local_cast_guide_2">Пожалуйста, выберите элемент.</string>
+    <string name="local_cast_guide_3">Ваш смартфон и Chromecast должны быть подключены к одной сети.</string>
+    <string name="local_cast_guide_4">Например, если вы используете VPN, он может работать некорректно.</string>
     <string name="video_down_guide_0">Посетите сайт с видео.</string>
     <string name="video_down_guide_1">Когда видео обнаружено, на экране появится кнопка.</string>
     <string name="video_down_guide_2">Некоторые сайты должны воспроизводить видео до его обнаружения.</string>
@@ -960,6 +962,9 @@
     <string name="filter_link_4">Фильтры могут не обновляться при изменении адреса фильтра.</string>
     <string name="filter_link_5">В этом случае сообщите об этом разработчику.</string>
     <string name="open_source">Спасибо разработчикам с открытым исходным кодом. ❤</string>
+    <string name="video_icon_tap">Коснитесь экрана</string>
+    <string name="video_icon_long">Долгое нажатие на экран</string>
+    <string name="video_icon_guide">Нажмите и удерживайте экран, чтобы открыть функциональные кнопки.</string>
     <string name="change_in_setting">Вы можете изменить его в настройках.</string>
     <string name="check_brfore">Проверьте перед запуском</string>
     <string name="check_ver">Проверить версию</string>
@@ -983,4 +988,8 @@
     <string name="zoom_title">Увеличение</string>
     <string name="color_black">Черный</string>
     <string name="color_white">Белый</string>
+    <string name="restart_guide_1">Это функция перезапуска приложения.</string>
+    <string name="restart_guide_2">При использовании браузера вы можете столкнуться с ситуациями, когда вы не можете беспрепятственно получить доступ к Интернету по разным причинам, например, из-за проблем с сервером на посещаемом вами сайте или недостаточной памяти.</string>
+    <string name="restart_guide_3">В этом случае нажмите эту кнопку.</string>
+    <string name="restart_guide_4">Приложение безопасно перезапустится в чистом состоянии с удалением всей ненужной памяти.</string>
 </resources>
