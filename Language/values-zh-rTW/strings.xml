@@ -373,7 +373,7 @@
     <string name="link_reset_guide">重置將刪除所有被阻止的鏈接</string>
     <string name="show_image">顯示圖片</string>
     <string name="block_images">禁用圖片</string>
-    <string name="block_a_image">阻止圖片（阻止廣告）</string>
+    <string name="block_a_image">阻止圖片</string>
     <string name="blocked_image">已隱藏的圖片</string>
     <string name="item_block_site">在當前站點上阻止</string>
     <string name="item_block_page">在當前頁面上阻止</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">使用瀏覽器時，您可能會遇到因各種原因而無法順利存取網路的情況，例如您造訪的網站伺服器問題或記憶體不足等</string>
     <string name="restart_guide_3">在這種情況下，請按一下此按鈕</string>
     <string name="restart_guide_4">該應用程式將以乾淨的狀態安全地重新啟動，並刪除所有不必要的記憶體</string>
+    <string name="block_area">區域封鎖</string>
+    <string name="area_guide_1">您可以選擇要刪除的區域</string>
+    <string name="area_guide_2">與所選區域具有相同屬性的所有區域都將被刪除</string>
+    <string name="area_guide_3">它保存在以下位置</string>
+    <string name="area_filter_guide_1">封鎖區域可能會再次出現</string>
+    <string name="area_filter_guide_2">這是因為封鎖區域的屬性發生了變化</string>
+    <string name="area_filter_guide_3">廣告區域通常會不時改變屬性</string>
+    <string name="area_filter_guide_4">您可以透過編輯過濾器來解決該問題</string>
+    <string name="area_edit_guide_1">顯示所選區域的所有屬性</string>
+    <string name="area_edit_guide_2">您可以使用任何您想要的組合來建立過濾器</string>
+    <string name="area_edit_guide_3">如果編輯不正確，您的廣告攔截器可能無法運作</string>
+    <string name="area_edit_guide_4">但無需擔心</string>
+    <string name="area_edit_guide_5">您可以隨時再次編輯它</string>
+    <string name="area_edit_guide_6">請隨意嘗試</string>
 </resources>

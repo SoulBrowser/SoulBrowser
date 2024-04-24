@@ -373,7 +373,7 @@
     <string name="link_reset_guide">एक रीसेट सभी अवरुद्ध लिंक हटा देगा।</string>
     <string name="show_image">चित्र दिखाएं</string>
     <string name="block_images">छवियों को ब्लॉक करें</string>
-    <string name="block_a_image">छवि को ब्लॉक करें (विज्ञापनों को ब्लॉक करें)</string>
+    <string name="block_a_image">छवि को ब्लॉक करें</string>
     <string name="blocked_image">अवरुद्ध चित्र</string>
     <string name="item_block_site">वर्तमान साइट पर ब्लॉक करें</string>
     <string name="item_block_page">वर्तमान पेज पर ब्लॉक करें</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">ब्राउज़र का उपयोग करते समय, आपको ऐसी स्थितियों का सामना करना पड़ सकता है जहां आप विभिन्न कारणों से इंटरनेट तक आसानी से नहीं पहुंच सकते हैं, जैसे कि जिस साइट पर आप जा रहे हैं वहां सर्वर की समस्या या अपर्याप्त मेमोरी।</string>
     <string name="restart_guide_3">उस स्थिति में, कृपया इस बटन पर क्लिक करें।</string>
     <string name="restart_guide_4">ऐप किसी भी अनावश्यक मेमोरी को हटाए जाने के साथ स्वच्छ स्थिति में सुरक्षित रूप से पुनरारंभ हो जाएगा।</string>
+    <string name="block_area">ज़ोन अवरोधन</string>
+    <string name="area_guide_1">आप वह क्षेत्र चुन सकते हैं जिसे आप हटाना चाहते हैं.</string>
+    <string name="area_guide_2">चयनित क्षेत्र के समान गुणों वाले सभी क्षेत्र हटा दिए जाते हैं।</string>
+    <string name="area_guide_3">इसे निम्नलिखित स्थान पर सहेजा गया है</string>
+    <string name="area_filter_guide_1">अवरुद्ध क्षेत्र पुनः प्रकट हो सकते हैं.</string>
+    <string name="area_filter_guide_2">ऐसा इसलिए है क्योंकि अवरुद्ध क्षेत्र के गुण बदल गए हैं।</string>
+    <string name="area_filter_guide_3">विज्ञापन क्षेत्र आमतौर पर समय-समय पर संपत्तियों में बदलाव करते हैं।</string>
+    <string name="area_filter_guide_4">आप फ़िल्टर को संपादित करके समस्या को ठीक कर सकते हैं.</string>
+    <string name="area_edit_guide_1">चयनित क्षेत्र की सभी संपत्तियाँ प्रदर्शित की जाती हैं।</string>
+    <string name="area_edit_guide_2">आप अपने इच्छित किसी भी संयोजन से फ़िल्टर बना सकते हैं।</string>
+    <string name="area_edit_guide_3">यदि आप इसे गलत तरीके से संपादित करते हैं, तो आपका विज्ञापन अवरोधक काम नहीं कर सकता है।</string>
+    <string name="area_edit_guide_4">लेकिन चिंता करने की कोई जरूरत नहीं है.</string>
+    <string name="area_edit_guide_5">आप इसे किसी भी समय दोबारा संपादित कर सकते हैं.</string>
+    <string name="area_edit_guide_6">बेझिझक इसे आज़माएं।</string>
 </resources>

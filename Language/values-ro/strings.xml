@@ -373,7 +373,7 @@
     <string name="link_reset_guide">O resetare va șterge toate linkurile blocate.</string>
     <string name="show_image">Afișare imagini</string>
     <string name="block_images">Blocați imagini</string>
-    <string name="block_a_image">Blocați imaginea (Blocați reclamele)</string>
+    <string name="block_a_image">Blocați imaginea</string>
     <string name="blocked_image">Imagini blocate</string>
     <string name="item_block_site">Blocați pe site-ul actual</string>
     <string name="item_block_page">Blocați pe pagina curentă</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">Când utilizați un browser, puteți întâlni situații în care nu puteți accesa fără probleme Internetul din diverse motive, cum ar fi probleme cu serverul de pe site-ul pe care îl vizitați sau memorie insuficientă.</string>
     <string name="restart_guide_3">În acest caz, vă rugăm să faceți clic pe acest buton.</string>
     <string name="restart_guide_4">Aplicația va reporni în siguranță într-o stare curată, cu orice memorie inutilă ștearsă.</string>
+    <string name="block_area">Blocarea zonei</string>
+    <string name="area_guide_1">Puteți selecta zona pe care doriți să o eliminați.</string>
+    <string name="area_guide_2">Toate regiunile cu aceleași proprietăți ca și regiunea selectată sunt eliminate.</string>
+    <string name="area_guide_3">Este salvat în următoarea locație</string>
+    <string name="area_filter_guide_1">Zonele blocate pot reapărea.</string>
+    <string name="area_filter_guide_2">Acest lucru se datorează faptului că proprietățile zonei blocate s-au schimbat.</string>
+    <string name="area_filter_guide_3">Zonele de publicitate își schimbă de obicei proprietăți din când în când.</string>
+    <string name="area_filter_guide_4">Puteți rezolva problema editând filtrul.</string>
+    <string name="area_edit_guide_1">Sunt afișate toate proprietățile zonei selectate.</string>
+    <string name="area_edit_guide_2">Puteți crea filtre cu orice combinație doriți.</string>
+    <string name="area_edit_guide_3">Dacă îl editați incorect, este posibil ca dispozitivul de blocare a anunțurilor să nu funcționeze.</string>
+    <string name="area_edit_guide_4">Dar nu trebuie să vă faceți griji.</string>
+    <string name="area_edit_guide_5">Îl puteți edita din nou oricând.</string>
+    <string name="area_edit_guide_6">Simțiți-vă liber să-l încercați.</string>
 </resources>

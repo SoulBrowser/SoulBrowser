@@ -373,7 +373,7 @@
     <string name="link_reset_guide">Ein Reset löscht alle blockierten Links.</string>
     <string name="show_image">Bild anzeigen</string>
     <string name="block_images">Bilder blockieren</string>
-    <string name="block_a_image">Bild blockieren (Werbung blockieren)</string>
+    <string name="block_a_image">Bild blockieren</string>
     <string name="blocked_image">Blockierte Bilder</string>
     <string name="item_block_site">Auf aktueller Seite sperren</string>
     <string name="item_block_page">Auf aktueller Seite blockieren</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">Bei der Verwendung eines Browsers kann es vorkommen, dass Sie aus verschiedenen Gründen nicht reibungslos auf das Internet zugreifen können, beispielsweise aufgrund von Serverproblemen auf der von Ihnen besuchten Website oder aufgrund von unzureichendem Speicher.</string>
     <string name="restart_guide_3">Klicken Sie in diesem Fall bitte auf diese Schaltfläche.</string>
     <string name="restart_guide_4">Die App wird sicher in einem sauberen Zustand neu gestartet, wobei unnötiger Speicher gelöscht wird.</string>
+    <string name="block_area">Zonenblockierung</string>
+    <string name="area_guide_1">Sie können den Bereich auswählen, den Sie entfernen möchten.</string>
+    <string name="area_guide_2">Alle Regionen mit denselben Eigenschaften wie die ausgewählte Region werden entfernt.</string>
+    <string name="area_guide_3">Es wird an folgendem Ort gespeichert</string>
+    <string name="area_filter_guide_1">Gesperrte Bereiche können wieder auftauchen.</string>
+    <string name="area_filter_guide_2">Dies liegt daran, dass sich die Eigenschaften des gesperrten Bereichs geändert haben.</string>
+    <string name="area_filter_guide_3">Werbeflächen ändern in der Regel von Zeit zu Zeit ihre Eigenschaften.</string>
+    <string name="area_filter_guide_4">Sie können das Problem beheben, indem Sie den Filter bearbeiten.</string>
+    <string name="area_edit_guide_1">Alle Eigenschaften des ausgewählten Bereichs werden angezeigt.</string>
+    <string name="area_edit_guide_2">Sie können Filter mit jeder gewünschten Kombination erstellen.</string>
+    <string name="area_edit_guide_3">Wenn Sie es falsch bearbeiten, funktioniert Ihr Werbeblocker möglicherweise nicht.</string>
+    <string name="area_edit_guide_4">Aber kein Grund zur Sorge.</string>
+    <string name="area_edit_guide_5">Sie können es jederzeit wieder bearbeiten.</string>
+    <string name="area_edit_guide_6">Probieren Sie es gerne aus.</string>
 </resources>

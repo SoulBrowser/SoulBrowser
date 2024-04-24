@@ -373,7 +373,7 @@
     <string name="link_reset_guide">初期化すると、ブロックされたすべてのリンクが削除されます。</string>
     <string name="show_image">画像表示</string>
     <string name="block_images">ブロック画像</string>
-    <string name="block_a_image">画像をブロック (広告をブロック)</string>
+    <string name="block_a_image">画像をブロック</string>
     <string name="blocked_image">ブロックされた画像に</string>
     <string name="item_block_site">現在のサイトでブロック</string>
     <string name="item_block_page">現在のページからブロック</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">ブラウザを使ってみると、訪れるサイトのサーバーの問題やメモリ不足など、さまざまな理由でインターネットにスムーズにアクセスできない状況が発生することがあります。</string>
     <string name="restart_guide_3">その場合はこのボタンをクリックしてください。</string>
     <string name="restart_guide_4">不要なメモリが削除されたクリーンな状態でアプリが安全に再起動されます。</string>
+    <string name="block_area">エリアブロック</string>
+    <string name="area_guide_1">削除する領域を選択できます。</string>
+    <string name="area_guide_2">選択した領域と同じ属性を持つすべての領域が削除されます。</string>
+    <string name="area_guide_3">次の場所に保存されます。</string>
+    <string name="area_filter_guide_1">ブロックされた領域が再び表示されることがあります。</string>
+    <string name="area_filter_guide_2">ブロックされた領域の属性が変更されたためです。</string>
+    <string name="area_filter_guide_3">通常、広告領域は頻繁に属性が変更されます。</string>
+    <string name="area_filter_guide_4">フィルタを編集して問題を解決できます。</string>
+    <string name="area_edit_guide_1">選択した領域のすべての属性が表示されます。</string>
+    <string name="area_edit_guide_2">任意の組み合わせでフィルタを作成できます。</string>
+    <string name="area_edit_guide_3">誤って編集すると、広告ブロッカーが機能しなくなる可能性があります。</string>
+    <string name="area_edit_guide_4">しかし、心配する必要はありません。</string>
+    <string name="area_edit_guide_5">いつでも再編集できます。</string>
+    <string name="area_edit_guide_6">自由に試してみてください。</string>
 </resources>

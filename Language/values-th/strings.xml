@@ -373,7 +373,7 @@
     <string name="link_reset_guide">การรีเซ็ตจะลบลิงก์ที่ถูกบล็อกทั้งหมด</string>
     <string name="show_image">แสดงภาพ</string>
     <string name="block_images">บล็อกภาพ</string>
-    <string name="block_a_image">บล็อกรูปภาพ (บล็อกโฆษณา)</string>
+    <string name="block_a_image">บล็อกรูปภาพ</string>
     <string name="blocked_image">รูปภาพที่ถูกบล็อก</string>
     <string name="item_block_site">บล็อกบนเว็บไซต์ปัจจุบัน</string>
     <string name="item_block_page">บล็อกในหน้าปัจจุบัน</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">เมื่อใช้เบราว์เซอร์ คุณอาจพบสถานการณ์ที่คุณไม่สามารถเข้าถึงอินเทอร์เน็ตได้อย่างราบรื่นด้วยเหตุผลหลายประการ เช่น ปัญหาเซิร์ฟเวอร์ที่ไซต์ที่คุณกำลังเยี่ยมชมหรือหน่วยความจำไม่เพียงพอ</string>
     <string name="restart_guide_3">ในกรณีนั้นกรุณาคลิกที่ปุ่มนี้</string>
     <string name="restart_guide_4">แอปจะรีสตาร์ทอย่างปลอดภัยในสถานะใหม่โดยลบหน่วยความจำที่ไม่จำเป็นออกไป</string>
+    <string name="block_area">การปิดกั้นโซน</string>
+    <string name="area_guide_1">คุณสามารถเลือกพื้นที่ที่คุณต้องการลบ</string>
+    <string name="area_guide_2">ภูมิภาคทั้งหมดที่มีคุณสมบัติเดียวกันกับภูมิภาคที่เลือกจะถูกลบออก</string>
+    <string name="area_guide_3">มันถูกบันทึกไว้ในตำแหน่งต่อไปนี้</string>
+    <string name="area_filter_guide_1">พื้นที่ที่ถูกบล็อกอาจปรากฏขึ้นอีกครั้ง</string>
+    <string name="area_filter_guide_2">เนื่องจากคุณสมบัติของพื้นที่ที่ถูกบล็อกมีการเปลี่ยนแปลง</string>
+    <string name="area_filter_guide_3">พื้นที่โฆษณามักจะเปลี่ยนแปลงคุณสมบัติเป็นครั้งคราว</string>
+    <string name="area_filter_guide_4">คุณแก้ไขปัญหาได้โดยแก้ไขตัวกรอง</string>
+    <string name="area_edit_guide_1">คุณสมบัติทั้งหมดของพื้นที่ที่เลือกจะปรากฏขึ้น</string>
+    <string name="area_edit_guide_2">คุณสามารถสร้างตัวกรองด้วยชุดค่าผสมใดก็ได้ที่คุณต้องการ</string>
+    <string name="area_edit_guide_3">หากคุณแก้ไขไม่ถูกต้อง ตัวบล็อกโฆษณาของคุณอาจไม่ทำงาน</string>
+    <string name="area_edit_guide_4">แต่ไม่ต้องกังวล</string>
+    <string name="area_edit_guide_5">คุณสามารถแก้ไขได้อีกครั้งเมื่อใดก็ได้</string>
+    <string name="area_edit_guide_6">รู้สึกอิสระที่จะลอง</string>
 </resources>

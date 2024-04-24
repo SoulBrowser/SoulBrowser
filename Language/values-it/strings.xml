@@ -373,7 +373,7 @@
     <string name="link_reset_guide">Un ripristino eliminerà tutti i collegamenti bloccati.</string>
     <string name="show_image">Mostra immagini</string>
     <string name="block_images">Blocca immagini</string>
-    <string name="block_a_image">Blocca immagine (Blocca annunci)</string>
+    <string name="block_a_image">Blocca immagine</string>
     <string name="blocked_image">Immagini bloccate</string>
     <string name="item_block_site">Blocca sul sito corrente</string>
     <string name="item_block_page">Blocca nella pagina corrente</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">Quando utilizzi un browser, potresti riscontrare situazioni in cui non è possibile accedere facilmente a Internet per vari motivi, come problemi del server nel sito che stai visitando o memoria insufficiente.</string>
     <string name="restart_guide_3">In tal caso, fare clic su questo pulsante.</string>
     <string name="restart_guide_4">L\'app si riavvierà in modo sicuro in uno stato pulito con l\'eliminazione della memoria non necessaria.</string>
+    <string name="block_area">Blocco delle zone</string>
+    <string name="area_guide_1">Puoi selezionare l\'area che desideri rimuovere.</string>
+    <string name="area_guide_2">Tutte le regioni con le stesse proprietà della regione selezionata verranno rimosse.</string>
+    <string name="area_guide_3">Viene salvato nel seguente percorso</string>
+    <string name="area_filter_guide_1">Le aree bloccate potrebbero riapparire.</string>
+    <string name="area_filter_guide_2">Ciò è dovuto al fatto che le proprietà dell\'area bloccata sono cambiate.</string>
+    <string name="area_filter_guide_3">Le aree pubblicitarie in genere cambiano proprietà di tanto in tanto.</string>
+    <string name="area_filter_guide_4">Puoi risolvere il problema modificando il filtro.</string>
+    <string name="area_edit_guide_1">Vengono visualizzate tutte le proprietà dell\'area selezionata.</string>
+    <string name="area_edit_guide_2">Puoi creare filtri con qualsiasi combinazione desideri.</string>
+    <string name="area_edit_guide_3">Se lo modifichi in modo errato, il blocco degli annunci potrebbe non funzionare.</string>
+    <string name="area_edit_guide_4">Ma non c\'è bisogno di preoccuparsi.</string>
+    <string name="area_edit_guide_5">Puoi modificarlo nuovamente in qualsiasi momento.</string>
+    <string name="area_edit_guide_6">Sentiti libero di provarlo.</string>
 </resources>

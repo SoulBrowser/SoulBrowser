@@ -373,7 +373,7 @@
     <string name="link_reset_guide">Sıfırlama, engellenen tüm bağlantıları siler.</string>
     <string name="show_image">Resmi göster</string>
     <string name="block_images">Resmi engelle</string>
-    <string name="block_a_image">Resmi engelle (Reklamları engelle)</string>
+    <string name="block_a_image">Resmi engelle</string>
     <string name="blocked_image">Engellenen resimler</string>
     <string name="item_block_site">Mevcut sitede engelle</string>
     <string name="item_block_page">Geçerli sayfada engelle</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">Tarayıcı kullanırken, ziyaret ettiğiniz sitedeki sunucu sorunları veya hafızanın yetersiz olması gibi çeşitli nedenlerle internete sorunsuz bir şekilde erişemediğiniz durumlarla karşılaşabilirsiniz.</string>
     <string name="restart_guide_3">Bu durumda lütfen bu butona tıklayın.</string>
     <string name="restart_guide_4">Uygulama, gereksiz hafızanın silinmesiyle temiz bir durumda güvenli bir şekilde yeniden başlatılacaktır.</string>
+    <string name="block_area">Bölge engelleme</string>
+    <string name="area_guide_1">Kaldırmak istediğiniz alanı seçebilirsiniz.</string>
+    <string name="area_guide_2">Seçilen bölgeyle aynı özelliklere sahip tüm bölgeler kaldırılır.</string>
+    <string name="area_guide_3">Aşağıdaki konuma kaydedilir</string>
+    <string name="area_filter_guide_1">Engellenen alanlar yeniden görünebilir.</string>
+    <string name="area_filter_guide_2">Bunun nedeni engellenen alanın özelliklerinin değişmesidir.</string>
+    <string name="area_filter_guide_3">Genel olarak reklam alanları sıklıkla özellik değiştirmektedir.</string>
+    <string name="area_filter_guide_4">Filtreyi düzenleyerek sorunu çözebilirsiniz.</string>
+    <string name="area_edit_guide_1">Seçilen alanın tüm özellikleri görüntülenir.</string>
+    <string name="area_edit_guide_2">İstediğiniz kombinasyonla filtreler oluşturabilirsiniz.</string>
+    <string name="area_edit_guide_3">Yanlış düzenlerseniz reklam engelleyiciniz çalışmayabilir.</string>
+    <string name="area_edit_guide_4">Ama endişelenmenize gerek yok.</string>
+    <string name="area_edit_guide_5">İstediğiniz zaman tekrar düzenleyebilirsiniz.</string>
+    <string name="area_edit_guide_6">Denemekten çekinmeyin.</string>
 </resources>

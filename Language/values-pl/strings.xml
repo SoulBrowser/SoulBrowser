@@ -373,7 +373,7 @@
     <string name="link_reset_guide">Reset usunie wszystkie zablokowane linki.</string>
     <string name="show_image">Pokaż obrazy</string>
     <string name="block_images">Blokuj obrazy</string>
-    <string name="block_a_image">Zablokuj obraz (Blokuj reklamy)</string>
+    <string name="block_a_image">Zablokuj obraz</string>
     <string name="blocked_image">Zablokowane obrazy</string>
     <string name="item_block_site">Blokuj w bieżącej witrynie</string>
     <string name="item_block_page">Blokuj na bieżącej stronie</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">Podczas korzystania z przeglądarki możesz spotkać się z sytuacjami, w których z różnych powodów nie będziesz mógł płynnie uzyskać dostępu do Internetu, np. problemy z serwerem odwiedzanej witryny lub niewystarczającą ilość pamięci.</string>
     <string name="restart_guide_3">W takim przypadku kliknij ten przycisk.</string>
     <string name="restart_guide_4">Aplikacja zostanie bezpiecznie uruchomiona ponownie w czystym stanie, po usunięciu niepotrzebnej pamięci.</string>
+    <string name="block_area">Blokowanie strefy</string>
+    <string name="area_guide_1">Możesz wybrać obszar, który chcesz usunąć.</string>
+    <string name="area_guide_2">Wszystkie regiony o takich samych właściwościach jak wybrany region zostaną usunięte.</string>
+    <string name="area_guide_3">Jest on zapisany w następującej lokalizacji</string>
+    <string name="area_filter_guide_1">Zablokowane obszary mogą pojawić się ponownie.</string>
+    <string name="area_filter_guide_2">Dzieje się tak, ponieważ zmieniły się właściwości zablokowanego obszaru.</string>
+    <string name="area_filter_guide_3">Powierzchnie reklamowe zazwyczaj od czasu do czasu zmieniają swoje właściwości.</string>
+    <string name="area_filter_guide_4">Możesz rozwiązać problem, edytując filtr.</string>
+    <string name="area_edit_guide_1">Wyświetlone zostaną wszystkie właściwości wybranego obszaru.</string>
+    <string name="area_edit_guide_2">Możesz tworzyć filtry z dowolną kombinacją.</string>
+    <string name="area_edit_guide_3">Jeśli dokonasz nieprawidłowej edycji, moduł blokujący reklamy może nie działać.</string>
+    <string name="area_edit_guide_4">Ale nie musisz się martwić.</string>
+    <string name="area_edit_guide_5">Możesz go ponownie edytować w dowolnym momencie.</string>
+    <string name="area_edit_guide_6">Nie wahaj się spróbować.</string>
 </resources>

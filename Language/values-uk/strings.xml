@@ -373,7 +373,7 @@
     <string name="link_reset_guide">Скидання призведе до видалення всіх заблокованих посилань.</string>
     <string name="show_image">Показати зображення</string>
     <string name="block_images">Блокувати зображення</string>
-    <string name="block_a_image">Блокувати зображення (блокувати рекламу)</string>
+    <string name="block_a_image">Блокувати зображення</string>
     <string name="blocked_image">Заблоковані зображення</string>
     <string name="item_block_site">Заблокувати на поточному сайті</string>
     <string name="item_block_page">Заблокувати на поточній сторінці</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">Під час користування браузером ви можете зіткнутися з ситуаціями, коли ви не можете безперебійно отримати доступ до Інтернету з різних причин, наприклад, проблеми з сервером на сайті, який ви відвідуєте, або недостатньо пам’яті.</string>
     <string name="restart_guide_3">У такому випадку натисніть цю кнопку.</string>
     <string name="restart_guide_4">Програма безпечно перезапуститься в чистому стані з видаленням непотрібної пам’яті.</string>
+    <string name="block_area">Зонне блокування</string>
+    <string name="area_guide_1">Ви можете вибрати область, яку хочете видалити.</string>
+    <string name="area_guide_2">Усі регіони з тими ж властивостями, що й вибраний регіон, буде видалено.</string>
+    <string name="area_guide_3">Він збережений у такому місці</string>
+    <string name="area_filter_guide_1">Заблоковані ділянки можуть з\'явитися знову.</string>
+    <string name="area_filter_guide_2">Це тому, що змінилися властивості заблокованої області.</string>
+    <string name="area_filter_guide_3">Зазвичай рекламні площі час від часу змінюють властивості.</string>
+    <string name="area_filter_guide_4">Ви можете вирішити проблему, відредагувавши фільтр.</string>
+    <string name="area_edit_guide_1">Відображаються всі властивості вибраної області.</string>
+    <string name="area_edit_guide_2">Ви можете створювати фільтри з будь-якою комбінацією.</string>
+    <string name="area_edit_guide_3">Якщо ви відредагуєте його неправильно, блокувальник реклами може не працювати.</string>
+    <string name="area_edit_guide_4">Але хвилюватися не варто.</string>
+    <string name="area_edit_guide_5">Ви можете будь-коли редагувати його знову.</string>
+    <string name="area_edit_guide_6">Не соромтеся спробувати.</string>
 </resources>

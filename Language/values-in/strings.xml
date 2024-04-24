@@ -373,7 +373,7 @@
     <string name="link_reset_guide">Reset akan menghapus semua tautan yang diblokir.</string>
     <string name="show_image">Tampilkan gambar</string>
     <string name="block_images">Blokir gambar</string>
-    <string name="block_a_image">Blokir gambar (Blokir iklan)</string>
+    <string name="block_a_image">Blokir gambar</string>
     <string name="blocked_image">Gambar yang diblokir</string>
     <string name="item_block_site">Blokir di situs saat ini</string>
     <string name="item_block_page">Blokir di halaman saat ini</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">Saat menggunakan browser, Anda mungkin menghadapi situasi di mana Anda tidak dapat mengakses Internet dengan lancar karena berbagai alasan, seperti masalah server di situs yang Anda kunjungi atau memori tidak mencukupi.</string>
     <string name="restart_guide_3">Jika demikian, silakan klik tombol ini.</string>
     <string name="restart_guide_4">Aplikasi akan dimulai ulang dengan aman dalam keadaan bersih dengan semua memori yang tidak perlu dihapus.</string>
+    <string name="block_area">Pemblokiran zona</string>
+    <string name="area_guide_1">Anda dapat memilih area yang ingin Anda hapus.</string>
+    <string name="area_guide_2">Semua wilayah dengan properti yang sama dengan wilayah yang dipilih akan dihapus.</string>
+    <string name="area_guide_3">Itu disimpan di lokasi berikut</string>
+    <string name="area_filter_guide_1">Area yang diblokir mungkin muncul kembali.</string>
+    <string name="area_filter_guide_2">Hal ini karena properti area yang diblokir telah berubah.</string>
+    <string name="area_filter_guide_3">Area periklanan biasanya mengubah properti dari waktu ke waktu.</string>
+    <string name="area_filter_guide_4">Anda dapat memperbaiki masalah ini dengan mengedit filter.</string>
+    <string name="area_edit_guide_1">Semua properti dari area yang dipilih ditampilkan.</string>
+    <string name="area_edit_guide_2">Anda dapat membuat filter dengan kombinasi apa pun yang Anda inginkan.</string>
+    <string name="area_edit_guide_3">Jika Anda salah mengeditnya, pemblokir iklan Anda mungkin tidak berfungsi.</string>
+    <string name="area_edit_guide_4">Tapi tidak perlu khawatir.</string>
+    <string name="area_edit_guide_5">Anda dapat mengeditnya lagi kapan saja.</string>
+    <string name="area_edit_guide_6">Jangan ragu untuk mencobanya.</string>
 </resources>

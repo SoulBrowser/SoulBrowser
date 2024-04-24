@@ -373,7 +373,7 @@
     <string name="link_reset_guide">Une réinitialisation supprimera tous les liens bloqués.</string>
     <string name="show_image">Montrer l\'image</string>
     <string name="block_images">Bloquer les images</string>
-    <string name="block_a_image">Bloquer l\'image (Bloquer les publicités)</string>
+    <string name="block_a_image">Bloquer l\'image</string>
     <string name="blocked_image">Images bloquées</string>
     <string name="item_block_site">Bloquer sur le site actuel</string>
     <string name="item_block_page">Bloquer sur la page actuelle</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">Lorsque vous utilisez un navigateur, vous pouvez rencontrer des situations dans lesquelles vous ne pouvez pas accéder facilement à Internet pour diverses raisons, telles que des problèmes de serveur sur le site que vous visitez ou une mémoire insuffisante.</string>
     <string name="restart_guide_3">Dans ce cas, veuillez cliquer sur ce bouton.</string>
     <string name="restart_guide_4">L\'application redémarrera en toute sécurité dans un état propre avec toute mémoire inutile supprimée.</string>
+    <string name="block_area">Blocage de zones</string>
+    <string name="area_guide_1">Vous pouvez sélectionner la zone que vous souhaitez supprimer.</string>
+    <string name="area_guide_2">Toutes les régions ayant les mêmes propriétés que la région sélectionnée sont supprimées.</string>
+    <string name="area_guide_3">Il est enregistré à l\'emplacement suivant</string>
+    <string name="area_filter_guide_1">Les zones bloquées peuvent réapparaître.</string>
+    <string name="area_filter_guide_2">Cela est dû au fait que les propriétés de la zone bloquée ont changé.</string>
+    <string name="area_filter_guide_3">Les zones publicitaires changent généralement de propriétés de temps en temps.</string>
+    <string name="area_filter_guide_4">Vous pouvez résoudre le problème en modifiant le filtre.</string>
+    <string name="area_edit_guide_1">Toutes les propriétés de la zone sélectionnée sont affichées.</string>
+    <string name="area_edit_guide_2">Vous pouvez créer des filtres avec n\'importe quelle combinaison de votre choix.</string>
+    <string name="area_edit_guide_3">Si vous le modifiez incorrectement, votre bloqueur de publicités risque de ne pas fonctionner.</string>
+    <string name="area_edit_guide_4">Mais ne vous inquiétez pas.</string>
+    <string name="area_edit_guide_5">Vous pouvez le modifier à nouveau à tout moment.</string>
+    <string name="area_edit_guide_6">N\'hésitez pas à l\'essayer.</string>
 </resources>

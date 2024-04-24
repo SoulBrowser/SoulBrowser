@@ -373,7 +373,7 @@
     <string name="link_reset_guide">Uma redefinição excluirá todos os links bloqueados.</string>
     <string name="show_image">Mostrar imagens</string>
     <string name="block_images">Bloquear imagens</string>
-    <string name="block_a_image">Bloquear imagem (bloquear anúncios)</string>
+    <string name="block_a_image">Bloquear imagem</string>
     <string name="blocked_image">Imagens bloqueadas</string>
     <string name="item_block_site">Bloquear no site atual</string>
     <string name="item_block_page">Bloquear na página atual</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">Ao usar um navegador, você pode encontrar situações em que não consegue acessar a Internet sem problemas por vários motivos, como problemas no servidor do site que está visitando ou memória insuficiente.</string>
     <string name="restart_guide_3">Nesse caso, clique neste botão.</string>
     <string name="restart_guide_4">O aplicativo será reiniciado com segurança em um estado limpo, com qualquer memória desnecessária excluída.</string>
+    <string name="block_area">Bloqueio de zona</string>
+    <string name="area_guide_1">Você pode selecionar a área que deseja remover.</string>
+    <string name="area_guide_2">Todas as regiões com as mesmas propriedades da região selecionada são removidas.</string>
+    <string name="area_guide_3">Ele é salvo no seguinte local</string>
+    <string name="area_filter_guide_1">As áreas bloqueadas podem reaparecer.</string>
+    <string name="area_filter_guide_2">Isso ocorre porque as propriedades da área bloqueada foram alteradas.</string>
+    <string name="area_filter_guide_3">As áreas de publicidade normalmente mudam de propriedade de tempos em tempos.</string>
+    <string name="area_filter_guide_4">Você pode corrigir o problema editando o filtro.</string>
+    <string name="area_edit_guide_1">Todas as propriedades da área selecionada são exibidas.</string>
+    <string name="area_edit_guide_2">Você pode criar filtros com qualquer combinação que desejar.</string>
+    <string name="area_edit_guide_3">Se você editá-lo incorretamente, seu bloqueador de anúncios poderá não funcionar.</string>
+    <string name="area_edit_guide_4">Mas não precisa se preocupar.</string>
+    <string name="area_edit_guide_5">Você pode editá-lo novamente a qualquer momento.</string>
+    <string name="area_edit_guide_6">Sinta-se à vontade para experimentar.</string>
 </resources>

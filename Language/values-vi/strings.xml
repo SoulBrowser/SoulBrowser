@@ -373,7 +373,7 @@
     <string name="link_reset_guide">Đặt lại sẽ xóa tất cả các liên kết bị chặn.</string>
     <string name="show_image">Hiển thị hình ảnh</string>
     <string name="block_images">Chặn hình ảnh</string>
-    <string name="block_a_image">Chặn hình ảnh (Chặn quảng cáo)</string>
+    <string name="block_a_image">Chặn hình ảnh</string>
     <string name="blocked_image">Hình ảnh bị chặn</string>
     <string name="item_block_site">Chặn trên trang web hiện tại</string>
     <string name="item_block_page">Chặn trên trang hiện tại</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">Khi sử dụng trình duyệt, bạn có thể gặp phải tình huống không thể truy cập Internet một cách trơn tru vì nhiều lý do khác nhau, chẳng hạn như sự cố máy chủ tại trang bạn đang truy cập hoặc không đủ bộ nhớ.</string>
     <string name="restart_guide_3">Trong trường hợp đó, vui lòng nhấp vào nút này.</string>
     <string name="restart_guide_4">Ứng dụng sẽ khởi động lại an toàn ở trạng thái sạch và xóa mọi bộ nhớ không cần thiết.</string>
+    <string name="block_area">Chặn vùng</string>
+    <string name="area_guide_1">Bạn có thể chọn khu vực bạn muốn loại bỏ.</string>
+    <string name="area_guide_2">Tất cả các vùng có cùng thuộc tính với vùng đã chọn sẽ bị xóa.</string>
+    <string name="area_guide_3">Nó được lưu ở vị trí sau</string>
+    <string name="area_filter_guide_1">Các khu vực bị chặn có thể xuất hiện trở lại.</string>
+    <string name="area_filter_guide_2">Điều này là do các thuộc tính của khu vực bị chặn đã thay đổi.</string>
+    <string name="area_filter_guide_3">Các khu vực quảng cáo thường thay đổi thuộc tính theo thời gian.</string>
+    <string name="area_filter_guide_4">Bạn có thể khắc phục sự cố bằng cách chỉnh sửa bộ lọc.</string>
+    <string name="area_edit_guide_1">Tất cả các thuộc tính của vùng được chọn sẽ được hiển thị.</string>
+    <string name="area_edit_guide_2">Bạn có thể tạo bộ lọc với bất kỳ sự kết hợp nào bạn muốn.</string>
+    <string name="area_edit_guide_3">Nếu bạn chỉnh sửa không chính xác, trình chặn quảng cáo của bạn có thể không hoạt động.</string>
+    <string name="area_edit_guide_4">Nhưng không cần phải lo lắng.</string>
+    <string name="area_edit_guide_5">Bạn có thể chỉnh sửa lại bất cứ lúc nào.</string>
+    <string name="area_edit_guide_6">Hãy thử nó.</string>
 </resources>

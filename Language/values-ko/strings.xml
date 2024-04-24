@@ -373,7 +373,7 @@
     <string name="link_reset_guide">초기화하면 차단된 모든 링크가 삭제됩니다.</string>
     <string name="show_image">이미지 표시</string>
     <string name="block_images">이미지 차단</string>
-    <string name="block_a_image">이미지 차단 (광고 차단)</string>
+    <string name="block_a_image">이미지 차단</string>
     <string name="blocked_image">차단된 이미지</string>
     <string name="item_block_site">현재 사이트에서 차단</string>
     <string name="item_block_page">현재 페이지에서 차단</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">브라우저를 사용하다 보면 방문하는 사이트의 서버 문제나 메모리 부족 등 다양한 이유로 인터넷에 원활하게 접속할 수 없는 상황이 발생할 수 있습니다.</string>
     <string name="restart_guide_3">그 경우에는 이 버튼을 클릭해 주세요.</string>
     <string name="restart_guide_4">불필요한 메모리가 삭제된 깨끗한 상태에서 앱이 안전하게 다시 시작됩니다.</string>
+    <string name="block_area">영역 차단</string>
+    <string name="area_guide_1">제거하려는 영역을 선택할 수 있습니다.</string>
+    <string name="area_guide_2">선택한 영역과 동일한 속성을 가진 모든 영역이 제거됩니다.</string>
+    <string name="area_guide_3">다음 위치에 저장됩니다.</string>
+    <string name="area_filter_guide_1">차단된 영역이 다시 나타날 수 있습니다.</string>
+    <string name="area_filter_guide_2">차단된 영역의 속성이 변경되었기 때문입니다.</string>
+    <string name="area_filter_guide_3">일반적으로 광고 영역은 수시로 속성이 변경됩니다.</string>
+    <string name="area_filter_guide_4">필터를 편집하여 문제를 해결할 수 있습니다.</string>
+    <string name="area_edit_guide_1">선택한 영역의 모든 속성이 표시됩니다.</string>
+    <string name="area_edit_guide_2">원하는 조합으로 필터를 만들 수 있습니다.</string>
+    <string name="area_edit_guide_3">잘못 편집하면 광고 차단기가 작동하지 않을 수 있습니다.</string>
+    <string name="area_edit_guide_4">하지만 걱정할 필요가 없습니다.</string>
+    <string name="area_edit_guide_5">언제든지 다시 편집할 수 있습니다.</string>
+    <string name="area_edit_guide_6">자유롭게 시도해 보세요.</string>
 </resources>

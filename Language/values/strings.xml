@@ -373,7 +373,7 @@
     <string name="link_reset_guide">A reset will delete all blocked links.</string>
     <string name="show_image">Show images</string>
     <string name="block_images">Block images</string>
-    <string name="block_a_image">Block image (Block ads)</string>
+    <string name="block_a_image">Block image</string>
     <string name="blocked_image">Blocked images</string>
     <string name="item_block_site">Block on current site</string>
     <string name="item_block_page">Block on current page</string>
@@ -992,4 +992,18 @@
     <string name="restart_guide_2">When using a browser, you may encounter situations where you cannot smoothly access the Internet for various reasons, such as server problems at the site you are visiting or insufficient memory.</string>
     <string name="restart_guide_3">In that case, please click this button.</string>
     <string name="restart_guide_4">The app will safely restart in a clean state with any unnecessary memory deleted.</string>
+    <string name="block_area">Block area</string>
+    <string name="area_guide_1">You can select the area you want to remove.</string>
+    <string name="area_guide_2">All areas with the same properties as the selected area are removed.</string>
+    <string name="area_guide_3">It is saved in the following location</string>
+    <string name="area_filter_guide_1">Blocked areas may reappear.</string>
+    <string name="area_filter_guide_2">This is because the properties of the blocked area have changed.</string>
+    <string name="area_filter_guide_3">Advertising areas typically change properties from time to time.</string>
+    <string name="area_filter_guide_4">You can fix the problem by editing the filter.</string>
+    <string name="area_edit_guide_1">All properties of the selected area are displayed.</string>
+    <string name="area_edit_guide_2">You can create filters with any combination you want.</string>
+    <string name="area_edit_guide_3">If you edit it incorrectly, your ad blocker may not work.</string>
+    <string name="area_edit_guide_4">But no need to worry.</string>
+    <string name="area_edit_guide_5">You can edit it again at any time.</string>
+    <string name="area_edit_guide_6">Feel free to try it.</string>
 </resources>
