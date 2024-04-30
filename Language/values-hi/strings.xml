@@ -195,6 +195,7 @@
     <string name="group_by">समूह द्वारा</string>
     <string name="folder_dir">निर्देशिका</string>
     <string name="sub_dir">उपनिर्देशिका</string>
+    <string name="used_on">इस्तेमाल किया गया</string>
     <string name="not_used">उपयोग नहीं किया</string>
     <string name="sort_by">इसके अनुसार क्रमबद्ध करें</string>
     <string name="sort_name">नाम</string>
@@ -995,7 +996,11 @@
     <string name="block_area">ज़ोन अवरोधन</string>
     <string name="area_guide_1">आप वह क्षेत्र चुन सकते हैं जिसे आप हटाना चाहते हैं.</string>
     <string name="area_guide_2">चयनित क्षेत्र के समान गुणों वाले सभी क्षेत्र हटा दिए जाते हैं।</string>
-    <string name="area_guide_3">इसे निम्नलिखित स्थान पर सहेजा गया है</string>
+    <string name="area_guide_3">जब ओवरलैपिंग परतें होती हैं</string>
+    <string name="area_guide_4">ओवरलैपिंग परतें शामिल हैं.</string>
+    <string name="area_guide_5">ओवरलैपिंग परतें शामिल नहीं हैं.</string>
+    <string name="area_guide_6">इसे निम्नलिखित स्थान पर सहेजा गया है</string>
+    <string name="area_guide_7">दृश्यमान रूप और वास्तविक स्रोत कोड संरचना भिन्न हो सकती है।</string>
     <string name="area_filter_guide_1">अवरुद्ध क्षेत्र पुनः प्रकट हो सकते हैं.</string>
     <string name="area_filter_guide_2">ऐसा इसलिए है क्योंकि अवरुद्ध क्षेत्र के गुण बदल गए हैं।</string>
     <string name="area_filter_guide_3">विज्ञापन क्षेत्र आमतौर पर समय-समय पर संपत्तियों में बदलाव करते हैं।</string>

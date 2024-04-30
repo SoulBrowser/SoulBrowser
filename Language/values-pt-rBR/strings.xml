@@ -195,6 +195,7 @@
     <string name="group_by">Agrupar por</string>
     <string name="folder_dir">Diretório</string>
     <string name="sub_dir">Subdiretório</string>
+    <string name="used_on">Usado</string>
     <string name="not_used">Não usado</string>
     <string name="sort_by">Ordenar por</string>
     <string name="sort_name">Nome</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Bloqueio de zona</string>
     <string name="area_guide_1">Você pode selecionar a área que deseja remover.</string>
     <string name="area_guide_2">Todas as regiões com as mesmas propriedades da região selecionada são removidas.</string>
-    <string name="area_guide_3">Ele é salvo no seguinte local</string>
+    <string name="area_guide_3">Quando há camadas sobrepostas</string>
+    <string name="area_guide_4">Camadas sobrepostas estão incluídas.</string>
+    <string name="area_guide_5">Camadas sobrepostas não estão incluídas.</string>
+    <string name="area_guide_6">Ele é salvo no seguinte local</string>
+    <string name="area_guide_7">A forma visível e a estrutura real do código-fonte podem ser diferentes.</string>
     <string name="area_filter_guide_1">As áreas bloqueadas podem reaparecer.</string>
     <string name="area_filter_guide_2">Isso ocorre porque as propriedades da área bloqueada foram alteradas.</string>
     <string name="area_filter_guide_3">As áreas de publicidade normalmente mudam de propriedade de tempos em tempos.</string>

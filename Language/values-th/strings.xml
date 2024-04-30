@@ -195,6 +195,7 @@
     <string name="group_by">จัดกลุ่มตาม</string>
     <string name="folder_dir">ไดเรกทอรี</string>
     <string name="sub_dir">ไดเรกทอรีย่อย</string>
+    <string name="used_on">ใช้แล้ว</string>
     <string name="not_used">ไม่ได้ใช้</string>
     <string name="sort_by">จัดเรียงตาม</string>
     <string name="sort_name">ชื่อ</string>
@@ -995,7 +996,11 @@
     <string name="block_area">การปิดกั้นโซน</string>
     <string name="area_guide_1">คุณสามารถเลือกพื้นที่ที่คุณต้องการลบ</string>
     <string name="area_guide_2">ภูมิภาคทั้งหมดที่มีคุณสมบัติเดียวกันกับภูมิภาคที่เลือกจะถูกลบออก</string>
-    <string name="area_guide_3">มันถูกบันทึกไว้ในตำแหน่งต่อไปนี้</string>
+    <string name="area_guide_3">เมื่อมีชั้นซ้อนกัน</string>
+    <string name="area_guide_4">รวมชั้นที่ทับซ้อนกันไว้ด้วย</string>
+    <string name="area_guide_5">ไม่รวมชั้นที่ทับซ้อนกัน</string>
+    <string name="area_guide_6">มันถูกบันทึกไว้ในตำแหน่งต่อไปนี้</string>
+    <string name="area_guide_7">รูปแบบที่มองเห็นได้และโครงสร้างซอร์สโค้ดจริงอาจแตกต่างกัน</string>
     <string name="area_filter_guide_1">พื้นที่ที่ถูกบล็อกอาจปรากฏขึ้นอีกครั้ง</string>
     <string name="area_filter_guide_2">เนื่องจากคุณสมบัติของพื้นที่ที่ถูกบล็อกมีการเปลี่ยนแปลง</string>
     <string name="area_filter_guide_3">พื้นที่โฆษณามักจะเปลี่ยนแปลงคุณสมบัติเป็นครั้งคราว</string>

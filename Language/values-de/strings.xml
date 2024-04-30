@@ -195,6 +195,7 @@
     <string name="group_by">Gruppiere nach</string>
     <string name="folder_dir">Verzeichnis</string>
     <string name="sub_dir">Unterverzeichnis</string>
+    <string name="used_on">Gebraucht</string>
     <string name="not_used">Nicht benutzt</string>
     <string name="sort_by">Sortiere nach</string>
     <string name="sort_name">Name</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Zonenblockierung</string>
     <string name="area_guide_1">Sie können den Bereich auswählen, den Sie entfernen möchten.</string>
     <string name="area_guide_2">Alle Regionen mit denselben Eigenschaften wie die ausgewählte Region werden entfernt.</string>
-    <string name="area_guide_3">Es wird an folgendem Ort gespeichert</string>
+    <string name="area_guide_3">Wenn es überlappende Schichten gibt</string>
+    <string name="area_guide_4">Überlappende Schichten sind enthalten.</string>
+    <string name="area_guide_5">Überlappende Ebenen werden nicht berücksichtigt.</string>
+    <string name="area_guide_6">Es wird an folgendem Ort gespeichert</string>
+    <string name="area_guide_7">Die sichtbare Form und die tatsächliche Struktur des Quellcodes können abweichen.</string>
     <string name="area_filter_guide_1">Gesperrte Bereiche können wieder auftauchen.</string>
     <string name="area_filter_guide_2">Dies liegt daran, dass sich die Eigenschaften des gesperrten Bereichs geändert haben.</string>
     <string name="area_filter_guide_3">Werbeflächen ändern in der Regel von Zeit zu Zeit ihre Eigenschaften.</string>

@@ -195,6 +195,7 @@
     <string name="group_by">Dikelompokkan oleh</string>
     <string name="folder_dir">Direktori</string>
     <string name="sub_dir">Subdirektori</string>
+    <string name="used_on">Digunakan</string>
     <string name="not_used">Tidak digunakan</string>
     <string name="sort_by">Sortir dengan</string>
     <string name="sort_name">Nama</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Pemblokiran zona</string>
     <string name="area_guide_1">Anda dapat memilih area yang ingin Anda hapus.</string>
     <string name="area_guide_2">Semua wilayah dengan properti yang sama dengan wilayah yang dipilih akan dihapus.</string>
-    <string name="area_guide_3">Itu disimpan di lokasi berikut</string>
+    <string name="area_guide_3">Ketika ada lapisan yang tumpang tindih</string>
+    <string name="area_guide_4">Lapisan yang tumpang tindih disertakan.</string>
+    <string name="area_guide_5">Lapisan yang tumpang tindih tidak termasuk.</string>
+    <string name="area_guide_6">Itu disimpan di lokasi berikut</string>
+    <string name="area_guide_7">Bentuk yang terlihat dan struktur kode sumber sebenarnya mungkin berbeda.</string>
     <string name="area_filter_guide_1">Area yang diblokir mungkin muncul kembali.</string>
     <string name="area_filter_guide_2">Hal ini karena properti area yang diblokir telah berubah.</string>
     <string name="area_filter_guide_3">Area periklanan biasanya mengubah properti dari waktu ke waktu.</string>

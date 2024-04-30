@@ -195,6 +195,7 @@
     <string name="group_by">التجمع</string>
     <string name="folder_dir">الدليل</string>
     <string name="sub_dir">دليل فرعي</string>
+    <string name="used_on">مستخدم</string>
     <string name="not_used">غير مستعمل</string>
     <string name="sort_by">ترتيب حسب</string>
     <string name="sort_name">اسم</string>
@@ -995,7 +996,11 @@
     <string name="block_area">حجب المنطقة</string>
     <string name="area_guide_1">يمكنك تحديد المنطقة التي تريد إزالتها.</string>
     <string name="area_guide_2">تتم إزالة كافة المناطق التي لها نفس خصائص المنطقة المحددة.</string>
-    <string name="area_guide_3">ويتم حفظه في الموقع التالي</string>
+    <string name="area_guide_3">عندما تكون هناك طبقات متداخلة</string>
+    <string name="area_guide_4">يتم تضمين طبقات متداخلة.</string>
+    <string name="area_guide_5">لا يتم تضمين الطبقات المتداخلة.</string>
+    <string name="area_guide_6">ويتم حفظه في الموقع التالي</string>
+    <string name="area_guide_7">قد يختلف النموذج المرئي وبنية كود المصدر الفعلي.</string>
     <string name="area_filter_guide_1">قد تظهر المناطق المحظورة مرة أخرى.</string>
     <string name="area_filter_guide_2">وذلك لأن خصائص المنطقة المحجوبة قد تغيرت.</string>
     <string name="area_filter_guide_3">عادةً ما تغير المناطق الإعلانية خصائصها من وقت لآخر.</string>

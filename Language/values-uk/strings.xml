@@ -195,6 +195,7 @@
     <string name="group_by">Групувати за</string>
     <string name="folder_dir">Довідник</string>
     <string name="sub_dir">Підкаталог</string>
+    <string name="used_on">Використовується</string>
     <string name="not_used">Не використовувати</string>
     <string name="sort_by">Сортувати за</string>
     <string name="sort_name">Ім\'я</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Зонне блокування</string>
     <string name="area_guide_1">Ви можете вибрати область, яку хочете видалити.</string>
     <string name="area_guide_2">Усі регіони з тими ж властивостями, що й вибраний регіон, буде видалено.</string>
-    <string name="area_guide_3">Він збережений у такому місці</string>
+    <string name="area_guide_3">Коли є накладання шарів</string>
+    <string name="area_guide_4">Включаються шари, що перекриваються.</string>
+    <string name="area_guide_5">Шари, що перекриваються, не включені.</string>
+    <string name="area_guide_6">Він збережений у такому місці</string>
+    <string name="area_guide_7">Видима форма та фактична структура вихідного коду можуть відрізнятися.</string>
     <string name="area_filter_guide_1">Заблоковані ділянки можуть з\'явитися знову.</string>
     <string name="area_filter_guide_2">Це тому, що змінилися властивості заблокованої області.</string>
     <string name="area_filter_guide_3">Зазвичай рекламні площі час від часу змінюють властивості.</string>

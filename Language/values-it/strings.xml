@@ -195,6 +195,7 @@
     <string name="group_by">Raggruppa per</string>
     <string name="folder_dir">Elenco</string>
     <string name="sub_dir">Sotto cartella</string>
+    <string name="used_on">Usato</string>
     <string name="not_used">Non usato</string>
     <string name="sort_by">Ordina per</string>
     <string name="sort_name">Nome</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Blocco delle zone</string>
     <string name="area_guide_1">Puoi selezionare l\'area che desideri rimuovere.</string>
     <string name="area_guide_2">Tutte le regioni con le stesse proprietà della regione selezionata verranno rimosse.</string>
-    <string name="area_guide_3">Viene salvato nel seguente percorso</string>
+    <string name="area_guide_3">Quando ci sono strati sovrapposti</string>
+    <string name="area_guide_4">Sono inclusi gli strati sovrapposti.</string>
+    <string name="area_guide_5">Gli strati sovrapposti non sono inclusi.</string>
+    <string name="area_guide_6">Viene salvato nel seguente percorso</string>
+    <string name="area_guide_7">La forma visibile e la struttura effettiva del codice sorgente potrebbero differire.</string>
     <string name="area_filter_guide_1">Le aree bloccate potrebbero riapparire.</string>
     <string name="area_filter_guide_2">Ciò è dovuto al fatto che le proprietà dell\'area bloccata sono cambiate.</string>
     <string name="area_filter_guide_3">Le aree pubblicitarie in genere cambiano proprietà di tanto in tanto.</string>

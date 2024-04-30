@@ -195,6 +195,7 @@
     <string name="group_by">A se grupa cu</string>
     <string name="folder_dir">Director</string>
     <string name="sub_dir">Subdirector</string>
+    <string name="used_on">Folosit</string>
     <string name="not_used">Nu este folosit</string>
     <string name="sort_by">Filtrează după</string>
     <string name="sort_name">Nume</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Blocarea zonei</string>
     <string name="area_guide_1">Puteți selecta zona pe care doriți să o eliminați.</string>
     <string name="area_guide_2">Toate regiunile cu aceleași proprietăți ca și regiunea selectată sunt eliminate.</string>
-    <string name="area_guide_3">Este salvat în următoarea locație</string>
+    <string name="area_guide_3">Când există straturi suprapuse</string>
+    <string name="area_guide_4">Sunt incluse straturi suprapuse.</string>
+    <string name="area_guide_5">Straturile suprapuse nu sunt incluse.</string>
+    <string name="area_guide_6">Este salvat în următoarea locație</string>
+    <string name="area_guide_7">Forma vizibilă și structura reală a codului sursă pot diferi.</string>
     <string name="area_filter_guide_1">Zonele blocate pot reapărea.</string>
     <string name="area_filter_guide_2">Acest lucru se datorează faptului că proprietățile zonei blocate s-au schimbat.</string>
     <string name="area_filter_guide_3">Zonele de publicitate își schimbă de obicei proprietăți din când în când.</string>

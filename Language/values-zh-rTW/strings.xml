@@ -195,6 +195,7 @@
     <string name="group_by">分組方式</string>
     <string name="folder_dir">目錄</string>
     <string name="sub_dir">子目錄</string>
+    <string name="used_on">使用</string>
     <string name="not_used">停用</string>
     <string name="sort_by">排序方式</string>
     <string name="sort_name">名稱</string>
@@ -995,7 +996,11 @@
     <string name="block_area">區域封鎖</string>
     <string name="area_guide_1">您可以選擇要刪除的區域</string>
     <string name="area_guide_2">與所選區域具有相同屬性的所有區域都將被刪除</string>
-    <string name="area_guide_3">它保存在以下位置</string>
+    <string name="area_guide_3">當有重疊層時</string>
+    <string name="area_guide_4">包括重疊層</string>
+    <string name="area_guide_5">不包括重疊層</string>
+    <string name="area_guide_6">它保存在以下位置</string>
+    <string name="area_guide_7">可見形式和實際原始碼結構可能有所不同</string>
     <string name="area_filter_guide_1">封鎖區域可能會再次出現</string>
     <string name="area_filter_guide_2">這是因為封鎖區域的屬性發生了變化</string>
     <string name="area_filter_guide_3">廣告區域通常會不時改變屬性</string>

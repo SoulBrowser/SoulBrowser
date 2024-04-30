@@ -195,6 +195,7 @@
     <string name="group_by">Grupuj według</string>
     <string name="folder_dir">Katalog</string>
     <string name="sub_dir">Podkatalog</string>
+    <string name="used_on">Używany</string>
     <string name="not_used">Nieużywany</string>
     <string name="sort_by">Sortuj według</string>
     <string name="sort_name">Imię</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Blokowanie strefy</string>
     <string name="area_guide_1">Możesz wybrać obszar, który chcesz usunąć.</string>
     <string name="area_guide_2">Wszystkie regiony o takich samych właściwościach jak wybrany region zostaną usunięte.</string>
-    <string name="area_guide_3">Jest on zapisany w następującej lokalizacji</string>
+    <string name="area_guide_3">Gdy warstwy nakładają się na siebie</string>
+    <string name="area_guide_4">Nakładające się warstwy są uwzględnione.</string>
+    <string name="area_guide_5">Nakładające się warstwy nie są uwzględniane.</string>
+    <string name="area_guide_6">Jest on zapisany w następującej lokalizacji</string>
+    <string name="area_guide_7">Widoczna forma i rzeczywista struktura kodu źródłowego mogą się różnić.</string>
     <string name="area_filter_guide_1">Zablokowane obszary mogą pojawić się ponownie.</string>
     <string name="area_filter_guide_2">Dzieje się tak, ponieważ zmieniły się właściwości zablokowanego obszaru.</string>
     <string name="area_filter_guide_3">Powierzchnie reklamowe zazwyczaj od czasu do czasu zmieniają swoje właściwości.</string>

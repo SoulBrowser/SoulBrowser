@@ -195,6 +195,7 @@
     <string name="group_by">Группировать по</string>
     <string name="folder_dir">Каталог</string>
     <string name="sub_dir">Подкаталог</string>
+    <string name="used_on">Использовал</string>
     <string name="not_used">Не используется</string>
     <string name="sort_by">Сортировать по</string>
     <string name="sort_name">Имя</string>
@@ -995,7 +996,11 @@
     <string name="block_area">блокировка зоны</string>
     <string name="area_guide_1">Вы можете выбрать область, которую хотите удалить.</string>
     <string name="area_guide_2">Все регионы с теми же свойствами, что и выбранный регион, будут удалены.</string>
-    <string name="area_guide_3">Он сохраняется в следующем месте</string>
+    <string name="area_guide_3">Когда есть перекрывающиеся слои</string>
+    <string name="area_guide_4">Перекрывающиеся слои включены.</string>
+    <string name="area_guide_5">Перекрывающиеся слои не учитываются.</string>
+    <string name="area_guide_6">Он сохраняется в следующем месте</string>
+    <string name="area_guide_7">Видимая форма и фактическая структура исходного кода могут отличаться.</string>
     <string name="area_filter_guide_1">Заблокированные области могут появиться снова.</string>
     <string name="area_filter_guide_2">Это связано с тем, что свойства заблокированной области изменились.</string>
     <string name="area_filter_guide_3">Рекламные площади обычно время от времени меняют свойства.</string>

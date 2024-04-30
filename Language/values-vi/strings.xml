@@ -195,6 +195,7 @@
     <string name="group_by">Nhóm bởi</string>
     <string name="folder_dir">Thư mục</string>
     <string name="sub_dir">Thư mục con</string>
+    <string name="used_on">Đã sử dụng</string>
     <string name="not_used">Vô hiệu hoá</string>
     <string name="sort_by">Sắp xếp theo</string>
     <string name="sort_name">Tên</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Chặn vùng</string>
     <string name="area_guide_1">Bạn có thể chọn khu vực bạn muốn loại bỏ.</string>
     <string name="area_guide_2">Tất cả các vùng có cùng thuộc tính với vùng đã chọn sẽ bị xóa.</string>
-    <string name="area_guide_3">Nó được lưu ở vị trí sau</string>
+    <string name="area_guide_3">Khi có các lớp chồng lên nhau</string>
+    <string name="area_guide_4">Các lớp chồng chéo được bao gồm.</string>
+    <string name="area_guide_5">Các lớp chồng chéo không được bao gồm.</string>
+    <string name="area_guide_6">Nó được lưu ở vị trí sau</string>
+    <string name="area_guide_7">Hình thức hiển thị và cấu trúc mã nguồn thực tế có thể khác nhau.</string>
     <string name="area_filter_guide_1">Các khu vực bị chặn có thể xuất hiện trở lại.</string>
     <string name="area_filter_guide_2">Điều này là do các thuộc tính của khu vực bị chặn đã thay đổi.</string>
     <string name="area_filter_guide_3">Các khu vực quảng cáo thường thay đổi thuộc tính theo thời gian.</string>

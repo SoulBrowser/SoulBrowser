@@ -195,6 +195,7 @@
     <string name="group_by">Par groupe</string>
     <string name="folder_dir">Répertoire</string>
     <string name="sub_dir">Sous-répertoire</string>
+    <string name="used_on">Utilisé</string>
     <string name="not_used">Non utilisé</string>
     <string name="sort_by">Trier par</string>
     <string name="sort_name">Nom</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Blocage de zones</string>
     <string name="area_guide_1">Vous pouvez sélectionner la zone que vous souhaitez supprimer.</string>
     <string name="area_guide_2">Toutes les régions ayant les mêmes propriétés que la région sélectionnée sont supprimées.</string>
-    <string name="area_guide_3">Il est enregistré à l\'emplacement suivant</string>
+    <string name="area_guide_3">Lorsqu\'il y a des couches qui se chevauchent</string>
+    <string name="area_guide_4">Les couches superposées sont incluses.</string>
+    <string name="area_guide_5">Les calques qui se chevauchent ne sont pas inclus.</string>
+    <string name="area_guide_6">Il est enregistré à l\'emplacement suivant</string>
+    <string name="area_guide_7">La forme visible et la structure réelle du code source peuvent différer.</string>
     <string name="area_filter_guide_1">Les zones bloquées peuvent réapparaître.</string>
     <string name="area_filter_guide_2">Cela est dû au fait que les propriétés de la zone bloquée ont changé.</string>
     <string name="area_filter_guide_3">Les zones publicitaires changent généralement de propriétés de temps en temps.</string>

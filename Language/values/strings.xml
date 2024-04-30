@@ -195,6 +195,7 @@
     <string name="group_by">Group by</string>
     <string name="folder_dir">Directory</string>
     <string name="sub_dir">Subdirectory</string>
+    <string name="used_on">Used</string>
     <string name="not_used">Not used</string>
     <string name="sort_by">Sort by</string>
     <string name="sort_name">Name</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Block area</string>
     <string name="area_guide_1">You can select the area you want to remove.</string>
     <string name="area_guide_2">All areas with the same properties as the selected area are removed.</string>
-    <string name="area_guide_3">It is saved in the following location</string>
+    <string name="area_guide_3">When there are overlapping layers</string>
+    <string name="area_guide_4">Overlapping layers are included.</string>
+    <string name="area_guide_5">Overlapping layers are not included.</string>
+    <string name="area_guide_6">It is saved in the following location</string>
+    <string name="area_guide_7">The visible form and actual source code structure may differ.</string>
     <string name="area_filter_guide_1">Blocked areas may reappear.</string>
     <string name="area_filter_guide_2">This is because the properties of the blocked area have changed.</string>
     <string name="area_filter_guide_3">Advertising areas typically change properties from time to time.</string>

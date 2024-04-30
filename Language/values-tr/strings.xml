@@ -195,6 +195,7 @@
     <string name="group_by">Gruplama ölçütü</string>
     <string name="folder_dir">Dizin</string>
     <string name="sub_dir">Alt Dizin</string>
+    <string name="used_on">Kullanılmış</string>
     <string name="not_used">Kullanılmadı</string>
     <string name="sort_by">Göre sırala</string>
     <string name="sort_name">Ad</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Bölge engelleme</string>
     <string name="area_guide_1">Kaldırmak istediğiniz alanı seçebilirsiniz.</string>
     <string name="area_guide_2">Seçilen bölgeyle aynı özelliklere sahip tüm bölgeler kaldırılır.</string>
-    <string name="area_guide_3">Aşağıdaki konuma kaydedilir</string>
+    <string name="area_guide_3">Üst üste binen katmanlar olduğunda</string>
+    <string name="area_guide_4">Üst üste binen katmanlar dahildir.</string>
+    <string name="area_guide_5">Örtüşen katmanlar dahil değildir.</string>
+    <string name="area_guide_6">Aşağıdaki konuma kaydedilir</string>
+    <string name="area_guide_7">Görünür biçim ve gerçek kaynak kodu yapısı farklı olabilir.</string>
     <string name="area_filter_guide_1">Engellenen alanlar yeniden görünebilir.</string>
     <string name="area_filter_guide_2">Bunun nedeni engellenen alanın özelliklerinin değişmesidir.</string>
     <string name="area_filter_guide_3">Genel olarak reklam alanları sıklıkla özellik değiştirmektedir.</string>

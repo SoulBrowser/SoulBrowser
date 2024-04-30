@@ -195,6 +195,7 @@
     <string name="group_by">グループ化</string>
     <string name="folder_dir">ディレクトリ</string>
     <string name="sub_dir">サブディレクトリ</string>
+    <string name="used_on">使用</string>
     <string name="not_used">を無効にする</string>
     <string name="sort_by">並び替え</string>
     <string name="sort_name">名前</string>
@@ -995,7 +996,11 @@
     <string name="block_area">エリアブロック</string>
     <string name="area_guide_1">削除する領域を選択できます。</string>
     <string name="area_guide_2">選択した領域と同じ属性を持つすべての領域が削除されます。</string>
-    <string name="area_guide_3">次の場所に保存されます。</string>
+    <string name="area_guide_3">レイヤーが重なっている場合</string>
+    <string name="area_guide_4">重なったレイヤーも含まれます。</string>
+    <string name="area_guide_5">重なっているレイヤーは含まれません。</string>
+    <string name="area_guide_6">次の場所に保存されます。</string>
+    <string name="area_guide_7">見える形式と実際のソースコード構造は異なる場合があります。</string>
     <string name="area_filter_guide_1">ブロックされた領域が再び表示されることがあります。</string>
     <string name="area_filter_guide_2">ブロックされた領域の属性が変更されたためです。</string>
     <string name="area_filter_guide_3">通常、広告領域は頻繁に属性が変更されます。</string>

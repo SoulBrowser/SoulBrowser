@@ -195,6 +195,7 @@
     <string name="group_by">Agrupar por</string>
     <string name="folder_dir">Directorio</string>
     <string name="sub_dir">Subdirectorio</string>
+    <string name="used_on">Usado</string>
     <string name="not_used">No utilizado</string>
     <string name="sort_by">Ordenar por</string>
     <string name="sort_name">Nombre</string>
@@ -995,7 +996,11 @@
     <string name="block_area">Bloqueo de zona</string>
     <string name="area_guide_1">Puede seleccionar el área que desea eliminar.</string>
     <string name="area_guide_2">Se eliminan todas las regiones con las mismas propiedades que la región seleccionada.</string>
-    <string name="area_guide_3">Se guarda en la siguiente ubicación</string>
+    <string name="area_guide_3">Cuando hay capas superpuestas</string>
+    <string name="area_guide_4">Se incluyen capas superpuestas.</string>
+    <string name="area_guide_5">Las capas superpuestas no están incluidas.</string>
+    <string name="area_guide_6">Se guarda en la siguiente ubicación</string>
+    <string name="area_guide_7">La forma visible y la estructura del código fuente real pueden diferir.</string>
     <string name="area_filter_guide_1">Es posible que reaparezcan áreas bloqueadas.</string>
     <string name="area_filter_guide_2">Esto se debe a que las propiedades del área bloqueada han cambiado.</string>
     <string name="area_filter_guide_3">Las áreas publicitarias suelen cambiar de propiedad de vez en cuando.</string>
