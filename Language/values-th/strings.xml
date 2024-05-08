@@ -848,9 +848,7 @@
     <string name="auto_comp">เติมข้อความอัตโนมัติ</string>
     <string name="check_element">การตรวจสอบองค์ประกอบ</string>
     <string name="check_ele_info_0">(การปิดกั้นแบบละเอียดยิ่งขึ้น)</string>
-    <string name="check_ele_info_1">ประสิทธิภาพของคุณลักษณะนี้ขึ้นอยู่กับเว็บไซต์ที่คุณเข้าชมบ่อยๆ</string>
-    <string name="check_ele_info_2">หากไม่มีความแตกต่างระหว่างก่อนและหลังการเปิดใช้งานคุณลักษณะนี้ เราขอแนะนำให้ปิดใช้งานเพื่อประหยัดหน่วยความจำ</string>
-    <string name="check_ele_info_3">ทำให้เบราว์เซอร์ของคุณเร็วขึ้นด้วยการจัดการหน่วยความจำที่เหมาะกับคุณ</string>
+    <string name="check_ele_info_1">คุณลักษณะนี้ใช้ทรัพยากรจำนวนมากเนื่องจากจะวิเคราะห์ทุกองค์ประกอบของหน้าเว็บ</string>
     <string name="quick_guide_1">1. คุณสามารถย้ายได้โดยกดไอคอนค้างไว้</string>
     <string name="quick_guide_2">2. คุณสามารถสร้างโฟลเดอร์โดยใช้ไอคอนที่ทับซ้อนกัน</string>
     <string name="column_count">จำนวนคอลัมน์</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">ปิดการใช้งาน Google AMP</string>
     <string name="block_amp_info">ปิดใช้งาน Google AMP ในผลการค้นหาของ Google</string>
     <string name="pre_raster">โหลดหน้าเว็บล่วงหน้า</string>
-    <string name="filter_guide_1">การบล็อกโฆษณาขึ้นอยู่กับตัวกรอง</string>
-    <string name="filter_guide_2">หากคุณมีไซต์ที่ไม่ปิดกั้นโฆษณา ให้เพิ่มตัวกรองที่เหมาะสม</string>
-    <string name="filter_guide_3">การเพิ่มตัวกรองมากเกินไปอาจทำให้เบราว์เซอร์ช้าลง</string>
-    <string name="filter_guide_4">ค้นหาชุดค่าผสมที่เหมาะกับคุณ</string>
-    <string name="filter_guide_5">ชุดค่าผสมที่แนะนำคือตัวกรองพื้นฐานและตัวกรองภาษา</string>
-    <string name="filter_guide_6">หากตัวกรองที่ให้มาไม่ได้บล็อกโฆษณา โปรดเพิ่มกฎตัวกรองของคุณเองหรือติดต่อผู้ดูแลระบบตัวกรอง</string>
+    <string name="filter_guide_1">หากคุณมีไซต์ที่ไม่ปิดกั้นโฆษณา ให้เพิ่มตัวกรองที่เหมาะสม</string>
+    <string name="filter_guide_2">การเพิ่มตัวกรองจะทำให้การใช้หน่วยความจำเพิ่มขึ้น</string>
+    <string name="filter_guide_3">เราขอแนะนำให้คุณเพิ่มตัวกรองที่เหมาะกับคุณเท่านั้น</string>
     <string name="filter_link_1">ลิขสิทธิ์ตัวกรองยังคงอยู่กับผู้สร้างตัวกรองหรือซัพพลายเออร์ตัวกรอง</string>
     <string name="filter_link_2">Soul Browser ไม่มีสิทธิ์ในการกรองไฟล์</string>
     <string name="filter_link_3">ขอบคุณผู้สร้างตัวกรอง</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">แต่ไม่ต้องกังวล</string>
     <string name="area_edit_guide_5">คุณสามารถแก้ไขได้อีกครั้งเมื่อใดก็ได้</string>
     <string name="area_edit_guide_6">รู้สึกอิสระที่จะลอง</string>
+    <string name="area_recom_1">ลองใช้คุณสมบัติ \'%s\'</string>
+    <string name="area_recom_2">คุณสมบัติ \'%s\' ช่วยให้คุณสามารถเลือกสิ่งที่คุณต้องการบล็อกได้โดยตรง</string>
 </resources>

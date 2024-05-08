@@ -848,9 +848,7 @@
     <string name="auto_comp">Автозаповнення</string>
     <string name="check_element">Перевірка елементів</string>
     <string name="check_ele_info_0">(більш дрібнозернисте блокування)</string>
-    <string name="check_ele_info_1">Ефективність цієї функції залежить від сайтів, які ви часто відвідуєте.</string>
-    <string name="check_ele_info_2">Якщо немає різниці між увімкненням цієї функції до та після, радимо вимкнути її, щоб заощадити пам’ять.</string>
-    <string name="check_ele_info_3">Зробіть свій браузер швидшим за допомогою керування пам’яттю, яке підходить саме вам.</string>
+    <string name="check_ele_info_1">Ця функція використовує багато ресурсів, оскільки вона аналізує кожен елемент веб-сторінки.</string>
     <string name="quick_guide_1">1. Ви можете рухатися, натискаючи та утримуючи піктограму.</string>
     <string name="quick_guide_2">2. Ви можете створювати папки, перекриваючи піктограми.</string>
     <string name="column_count">Колонки підраховуються</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Вимкніть Google AMP</string>
     <string name="block_amp_info">Вимкніть Google AMP у результатах пошуку Google.</string>
     <string name="pre_raster">Попереднє завантаження веб-сторінки</string>
-    <string name="filter_guide_1">Блокування реклами засноване на фільтрах.</string>
-    <string name="filter_guide_2">Якщо у вас є сайт, який не блокує рекламу, додайте відповідний фільтр.</string>
-    <string name="filter_guide_3">Додавання занадто великої кількості фільтрів може уповільнити роботу браузера.</string>
-    <string name="filter_guide_4">Знайдіть поєднання, яке підходить саме вам.</string>
-    <string name="filter_guide_5">Рекомендованою комбінацією є основний фільтр і мовний фільтр.</string>
-    <string name="filter_guide_6">Якщо наданий фільтр не блокує рекламу, додайте власне правило фільтра або зверніться до адміністратора фільтра.</string>
+    <string name="filter_guide_1">Якщо у вас є сайт, який не блокує рекламу, додайте відповідний фільтр.</string>
+    <string name="filter_guide_2">Додавання фільтрів збільшує використання пам’яті.</string>
+    <string name="filter_guide_3">Рекомендуємо додавати лише ті фільтри, які вам підходять.</string>
     <string name="filter_link_1">Авторські права на фільтр залишаються за його творцем або постачальником.</string>
     <string name="filter_link_2">Soul Browser не має права фільтрувати файли.</string>
     <string name="filter_link_3">Спасибі творцям фільтра.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">Але хвилюватися не варто.</string>
     <string name="area_edit_guide_5">Ви можете будь-коли редагувати його знову.</string>
     <string name="area_edit_guide_6">Не соромтеся спробувати.</string>
+    <string name="area_recom_1">Спробуйте скористатися функцією \'%s\'.</string>
+    <string name="area_recom_2">Функція \'%s\' дозволяє вам безпосередньо вибрати, що ви хочете заблокувати.</string>
 </resources>

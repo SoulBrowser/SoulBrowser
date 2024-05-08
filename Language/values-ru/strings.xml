@@ -848,9 +848,7 @@
     <string name="auto_comp">Автозаполнение</string>
     <string name="check_element">Контроль элементов</string>
     <string name="check_ele_info_0">(точечная блокировка)</string>
-    <string name="check_ele_info_1">Эффективность этой функции зависит от того, какие сайты вы часто посещаете.</string>
-    <string name="check_ele_info_2">Если нет разницы между состоянием до и после включения этой функции, мы рекомендуем отключить ее для экономии памяти.</string>
-    <string name="check_ele_info_3">Сделайте свой браузер быстрее с помощью управления памятью, которое подходит именно вам.</string>
+    <string name="check_ele_info_1">Эта функция использует много ресурсов, поскольку анализирует каждый элемент веб-страницы.</string>
     <string name="quick_guide_1">1. Можно переместить любой значок, удерживая его.</string>
     <string name="quick_guide_2">2. Можно создавать папки, перетаскивая значки.</string>
     <string name="column_count">Кол-во столбцов</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Отключить Google AMP</string>
     <string name="block_amp_info">Отключите Google AMP в результатах поиска Google.</string>
     <string name="pre_raster">Предварительная загрузка веб-страницы</string>
-    <string name="filter_guide_1">Блокировка рекламы основана на фильтрах.</string>
-    <string name="filter_guide_2">Если у вас есть сайт, который не блокирует рекламу, добавьте соответствующий фильтр.</string>
-    <string name="filter_guide_3">Добавление слишком большого количества фильтров может замедлить работу браузера.</string>
-    <string name="filter_guide_4">Найдите комбинацию, которая подходит именно вам.</string>
-    <string name="filter_guide_5">Рекомендуемая комбинация — базовый фильтр и языковой фильтр.</string>
-    <string name="filter_guide_6">Если предоставленный фильтр не блокирует рекламу, добавьте собственное правило фильтра или свяжитесь с администратором фильтра.</string>
+    <string name="filter_guide_1">Если у вас есть сайт, который не блокирует рекламу, добавьте соответствующий фильтр.</string>
+    <string name="filter_guide_2">Добавление фильтров увеличивает использование памяти.</string>
+    <string name="filter_guide_3">Мы рекомендуем добавлять только те фильтры, которые подходят именно вам.</string>
     <string name="filter_link_1">Авторские права на фильтр остаются за создателем фильтра или поставщиком фильтра.</string>
     <string name="filter_link_2">Soul Browser не имеет права фильтровать файлы.</string>
     <string name="filter_link_3">Спасибо создателям фильтра.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">Но не стоит беспокоиться.</string>
     <string name="area_edit_guide_5">Вы можете отредактировать его снова в любое время.</string>
     <string name="area_edit_guide_6">Не стесняйтесь попробовать.</string>
+    <string name="area_recom_1">Попробуйте использовать функцию \'%s\'.</string>
+    <string name="area_recom_2">Функция \'%s\' позволяет вам напрямую выбирать, что вы хотите заблокировать.</string>
 </resources>

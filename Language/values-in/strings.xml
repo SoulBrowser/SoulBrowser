@@ -848,9 +848,7 @@
     <string name="auto_comp">Pelengkapan otomatis</string>
     <string name="check_element">Pemeriksaan elemen</string>
     <string name="check_ele_info_0">(pemblokiran yang lebih halus)</string>
-    <string name="check_ele_info_1">Efektivitas fitur ini tergantung pada situs yang sering Anda kunjungi.</string>
-    <string name="check_ele_info_2">Jika tidak ada perbedaan antara sebelum dan sesudah mengaktifkan fitur ini, kami sarankan untuk menonaktifkannya untuk menghemat memori.</string>
-    <string name="check_ele_info_3">Jadikan browser Anda lebih cepat dengan manajemen memori yang tepat untuk Anda.</string>
+    <string name="check_ele_info_1">Fitur ini menggunakan banyak sumber daya karena menganalisis setiap elemen halaman web.</string>
     <string name="quick_guide_1">1. Anda dapat bergerak dengan menekan dan menahan ikon.</string>
     <string name="quick_guide_2">2. Anda dapat membuat folder dengan ikon yang tumpang tindih.</string>
     <string name="column_count">Jumlah kolom</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Nonaktifkan Google AMP</string>
     <string name="block_amp_info">Nonaktifkan Google AMP di hasil pencarian Google.</string>
     <string name="pre_raster">Pramuat halaman web</string>
-    <string name="filter_guide_1">Pemblokiran iklan didasarkan pada filter.</string>
-    <string name="filter_guide_2">Jika Anda memiliki situs yang tidak memblokir iklan, tambahkan filter yang sesuai.</string>
-    <string name="filter_guide_3">Menambahkan terlalu banyak filter dapat memperlambat browser.</string>
-    <string name="filter_guide_4">Temukan kombinasi yang tepat untuk Anda.</string>
-    <string name="filter_guide_5">Kombinasi yang disarankan adalah filter dasar dan filter bahasa.</string>
-    <string name="filter_guide_6">Jika filter yang disediakan tidak memblokir iklan, tambahkan aturan filter Anda sendiri atau hubungi administrator filter.</string>
+    <string name="filter_guide_1">Jika Anda memiliki situs yang tidak memblokir iklan, tambahkan filter yang sesuai.</string>
+    <string name="filter_guide_2">Menambahkan filter meningkatkan penggunaan memori.</string>
+    <string name="filter_guide_3">Kami menyarankan Anda hanya menambahkan filter yang sesuai untuk Anda.</string>
     <string name="filter_link_1">Hak cipta filter tetap pada pembuat filter atau pemasok filter.</string>
     <string name="filter_link_2">Soul Browser tidak memiliki hak untuk memfilter file.</string>
     <string name="filter_link_3">Terima kasih kepada pembuat filter.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">Tapi tidak perlu khawatir.</string>
     <string name="area_edit_guide_5">Anda dapat mengeditnya lagi kapan saja.</string>
     <string name="area_edit_guide_6">Jangan ragu untuk mencobanya.</string>
+    <string name="area_recom_1">Coba gunakan fitur \'%s\'.</string>
+    <string name="area_recom_2">Fitur \'%s\' memungkinkan Anda memilih langsung apa yang ingin Anda blokir.</string>
 </resources>

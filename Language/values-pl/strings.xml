@@ -848,9 +848,7 @@
     <string name="auto_comp">Autouzupełnienie</string>
     <string name="check_element">Kontrola elementów</string>
     <string name="check_ele_info_0">(bardziej drobnoziarniste blokowanie)</string>
-    <string name="check_ele_info_1">Skuteczność tej funkcji zależy od często odwiedzanych witryn.</string>
-    <string name="check_ele_info_2">Jeśli nie ma różnicy między włączeniem tej funkcji przed i po jej włączeniu, zalecamy wyłączenie jej w celu zaoszczędzenia pamięci.</string>
-    <string name="check_ele_info_3">Przyspiesz swoją przeglądarkę dzięki odpowiedniemu dla Ciebie zarządzaniu pamięcią.</string>
+    <string name="check_ele_info_1">Ta funkcja zużywa dużo zasobów, ponieważ analizuje każdy element strony internetowej.</string>
     <string name="quick_guide_1">1. Możesz poruszać się naciskając i przytrzymując ikonę.</string>
     <string name="quick_guide_2">2. Możesz tworzyć foldery, nakładając na siebie ikony.</string>
     <string name="column_count">Liczba kolumn</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Wyłącz Google AMP</string>
     <string name="block_amp_info">Wyłącz Google AMP w wynikach wyszukiwania Google.</string>
     <string name="pre_raster">Wstępne ładowanie strony internetowej</string>
-    <string name="filter_guide_1">Blokowanie reklam opiera się na filtrach.</string>
-    <string name="filter_guide_2">Jeśli masz witrynę, która nie blokuje reklam, dodaj odpowiedni filtr.</string>
-    <string name="filter_guide_3">Dodanie zbyt wielu filtrów może spowolnić przeglądarkę.</string>
-    <string name="filter_guide_4">Znajdź kombinację odpowiednią dla siebie.</string>
-    <string name="filter_guide_5">Zalecaną kombinacją jest filtr podstawowy i filtr językowy.</string>
-    <string name="filter_guide_6">Jeśli podany filtr nie blokuje reklam, dodaj własną regułę filtrowania lub skontaktuj się z administratorem filtrów.</string>
+    <string name="filter_guide_1">Jeśli masz witrynę, która nie blokuje reklam, dodaj odpowiedni filtr.</string>
+    <string name="filter_guide_2">Dodanie filtrów zwiększa wykorzystanie pamięci.</string>
+    <string name="filter_guide_3">Zalecamy dodawanie wyłącznie filtrów odpowiednich dla Ciebie.</string>
     <string name="filter_link_1">Prawa autorskie do filtra pozostają w gestii twórcy filtra lub dostawcy filtra.</string>
     <string name="filter_link_2">Soul Browser nie ma uprawnień do filtrowania plików.</string>
     <string name="filter_link_3">Dzięki twórcom filtra.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">Ale nie musisz się martwić.</string>
     <string name="area_edit_guide_5">Możesz go ponownie edytować w dowolnym momencie.</string>
     <string name="area_edit_guide_6">Nie wahaj się spróbować.</string>
+    <string name="area_recom_1">Spróbuj użyć funkcji \'%s\'.</string>
+    <string name="area_recom_2">Funkcja \'%s\' pozwala bezpośrednio wybrać, co chcesz zablokować.</string>
 </resources>

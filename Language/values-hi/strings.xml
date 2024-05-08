@@ -848,9 +848,7 @@
     <string name="auto_comp">स्वतः पूर्ण</string>
     <string name="check_element">तत्व निरीक्षण</string>
     <string name="check_ele_info_0">(अधिक सुक्ष्म अवरोधन)</string>
-    <string name="check_ele_info_1">इस सुविधा की प्रभावशीलता उन साइटों पर निर्भर करती है जिन पर आप अक्सर जाते हैं।</string>
-    <string name="check_ele_info_2">यदि इस सुविधा को सक्षम करने से पहले और बाद में कोई अंतर नहीं है, तो हम अनुशंसा करते हैं कि स्मृति को बचाने के लिए इसे अक्षम कर दिया जाए।</string>
-    <string name="check_ele_info_3">स्मृति प्रबंधन के साथ अपने ब्राउज़र को तेज़ बनाएं जो आपके लिए सही हो।</string>
+    <string name="check_ele_info_1">यह सुविधा बहुत सारे संसाधनों का उपयोग करती है क्योंकि यह वेब पेज के प्रत्येक तत्व का विश्लेषण करती है।</string>
     <string name="quick_guide_1">1. आप आइकन को दबाकर रख कर आगे बढ़ सकते हैं।</string>
     <string name="quick_guide_2">2. आप आइकनों को ओवरलैप करके फोल्डर बना सकते हैं।</string>
     <string name="column_count">कॉलम गिनती</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Google AMP अक्षम करें</string>
     <string name="block_amp_info">Google खोज परिणामों में Google AMP अक्षम करें।</string>
     <string name="pre_raster">वेब पेज प्रीलोड</string>
-    <string name="filter_guide_1">विज्ञापन अवरोधन फ़िल्टर पर आधारित है।</string>
-    <string name="filter_guide_2">यदि आपके पास ऐसी साइट है जो विज्ञापनों को अवरुद्ध नहीं करती है, तो एक उपयुक्त फ़िल्टर जोड़ें।</string>
-    <string name="filter_guide_3">बहुत अधिक फ़िल्टर जोड़ने से ब्राउज़र धीमा हो सकता है।</string>
-    <string name="filter_guide_4">वह संयोजन खोजें जो आपके लिए सही हो।</string>
-    <string name="filter_guide_5">अनुशंसित संयोजन मूल फ़िल्टर और भाषा फ़िल्टर है।</string>
-    <string name="filter_guide_6">यदि प्रदान किया गया फ़िल्टर विज्ञापनों को अवरुद्ध नहीं करता है, तो कृपया अपना स्वयं का फ़िल्टर नियम जोड़ें या फ़िल्टर व्यवस्थापक से संपर्क करें।</string>
+    <string name="filter_guide_1">यदि आपके पास ऐसी साइट है जो विज्ञापनों को अवरुद्ध नहीं करती है, तो एक उपयुक्त फ़िल्टर जोड़ें।</string>
+    <string name="filter_guide_2">फ़िल्टर जोड़ने से मेमोरी का उपयोग बढ़ जाता है।</string>
+    <string name="filter_guide_3">हमारा सुझाव है कि आप केवल वही फ़िल्टर जोड़ें जो आपके लिए उपयुक्त हों।</string>
     <string name="filter_link_1">फ़िल्टर कॉपीराइट फ़िल्टर निर्माता या फ़िल्टर आपूर्तिकर्ता के पास रहता है।</string>
     <string name="filter_link_2">सोल ब्राउजर के पास फाइलों को फिल्टर करने का कोई अधिकार नहीं है।</string>
     <string name="filter_link_3">फ़िल्टर के रचनाकारों को धन्यवाद।</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">लेकिन चिंता करने की कोई जरूरत नहीं है.</string>
     <string name="area_edit_guide_5">आप इसे किसी भी समय दोबारा संपादित कर सकते हैं.</string>
     <string name="area_edit_guide_6">बेझिझक इसे आज़माएं।</string>
+    <string name="area_recom_1">\'%s\' सुविधा का उपयोग करने का प्रयास करें।</string>
+    <string name="area_recom_2">\'%s\' सुविधा आपको सीधे यह चुनने की अनुमति देती है कि आप क्या ब्लॉक करना चाहते हैं।</string>
 </resources>

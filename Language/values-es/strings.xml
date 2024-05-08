@@ -848,9 +848,7 @@
     <string name="auto_comp">Autocompletar</string>
     <string name="check_element">Inspección de elementos</string>
     <string name="check_ele_info_0">(bloqueo más detallado)</string>
-    <string name="check_ele_info_1">La eficacia de esta función depende de los sitios que visite con frecuencia.</string>
-    <string name="check_ele_info_2">Si no hay diferencia entre antes y después de habilitar esta función, recomendamos deshabilitarla para ahorrar memoria.</string>
-    <string name="check_ele_info_3">Haga que su navegador sea más rápido con la administración de memoria adecuada para usted.</string>
+    <string name="check_ele_info_1">Esta función utiliza muchos recursos porque analiza cada elemento de la página web.</string>
     <string name="quick_guide_1">1. Puedes moverte presionando y manteniendo presionado el ícono.</string>
     <string name="quick_guide_2">2. Puede crear carpetas superponiendo iconos.</string>
     <string name="column_count">Recuento de columnas</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Desactivar Google AMP</string>
     <string name="block_amp_info">Deshabilite Google AMP en los resultados de búsqueda de Google.</string>
     <string name="pre_raster">Precarga de la página web</string>
-    <string name="filter_guide_1">El bloqueo de anuncios se basa en filtros.</string>
-    <string name="filter_guide_2">Si tiene un sitio que no bloquea los anuncios, agregue un filtro apropiado.</string>
-    <string name="filter_guide_3">Agregar demasiados filtros puede ralentizar el navegador.</string>
-    <string name="filter_guide_4">Encuentra la combinación adecuada para ti.</string>
-    <string name="filter_guide_5">La combinación recomendada es el filtro básico y el filtro de idioma.</string>
-    <string name="filter_guide_6">Si el filtro proporcionado no bloquea los anuncios, agregue su propia regla de filtro o comuníquese con el administrador del filtro.</string>
+    <string name="filter_guide_1">Si tiene un sitio que no bloquea los anuncios, agregue un filtro apropiado.</string>
+    <string name="filter_guide_2">Agregar filtros aumenta el uso de memoria.</string>
+    <string name="filter_guide_3">Le recomendamos que solo agregue filtros que sean apropiados para usted.</string>
     <string name="filter_link_1">Los derechos de autor del filtro permanecen con el creador del filtro o el proveedor del filtro.</string>
     <string name="filter_link_2">Soul Browser no tiene derechos para filtrar archivos.</string>
     <string name="filter_link_3">Gracias a los creadores del filtro.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">Pero no hay necesidad de preocuparse.</string>
     <string name="area_edit_guide_5">Puedes editarlo nuevamente en cualquier momento.</string>
     <string name="area_edit_guide_6">No dudes en probarlo.</string>
+    <string name="area_recom_1">Intente utilizar la función \'%s\'.</string>
+    <string name="area_recom_2">La función \'%s\' le permite seleccionar directamente lo que desea bloquear.</string>
 </resources>

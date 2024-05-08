@@ -848,9 +848,7 @@
     <string name="auto_comp">Auto complete</string>
     <string name="check_element">Element inspection</string>
     <string name="check_ele_info_0">(more fine-grained blocking)</string>
-    <string name="check_ele_info_1">The effectiveness of this feature depends on the sites you visit frequently.</string>
-    <string name="check_ele_info_2">If there is no difference between before and after enabling this feature, we recommend disabling it to save memory.</string>
-    <string name="check_ele_info_3">Make your browser faster with memory management that\'s right for you.</string>
+    <string name="check_ele_info_1">This feature uses a lot of resources because it analyzes every element of the web page.</string>
     <string name="quick_guide_1">1. You can move by pressing and holding the icon.</string>
     <string name="quick_guide_2">2. You can create folders by overlapping icons.</string>
     <string name="column_count">Columns count</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Disable Google AMP</string>
     <string name="block_amp_info">Disable Google AMP in Google search results.</string>
     <string name="pre_raster">Web page preload</string>
-    <string name="filter_guide_1">Ad blocking is based on filters.</string>
-    <string name="filter_guide_2">If you have a site that doesn\'t block ads, add an appropriate filter.</string>
-    <string name="filter_guide_3">Adding too many filters can slow down browser.</string>
-    <string name="filter_guide_4">Find the combination that\'s right for you.</string>
-    <string name="filter_guide_5">The recommended combination is the basic filter and the language filter.</string>
-    <string name="filter_guide_6">If the provided filter does not block ads, please add your own filter rule or contact filter administrator.</string>
+    <string name="filter_guide_1">If you have a site that doesn\'t block ads, add an appropriate filter.</string>
+    <string name="filter_guide_2">Adding filters increases memory usage.</string>
+    <string name="filter_guide_3">We recommend that you only add filters that are appropriate for you.</string>
     <string name="filter_link_1">Filter copyright remains with the filter creator or filter supplier.</string>
     <string name="filter_link_2">Soul Browser has no rights to filter files.</string>
     <string name="filter_link_3">Thanks to the creators of the filter.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">But no need to worry.</string>
     <string name="area_edit_guide_5">You can edit it again at any time.</string>
     <string name="area_edit_guide_6">Feel free to try it.</string>
+    <string name="area_recom_1">Try using the \'%s\' feature.</string>
+    <string name="area_recom_2">The \'%s\' feature allows you to directly select what you want to block.</string>
 </resources>

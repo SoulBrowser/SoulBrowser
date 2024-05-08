@@ -848,9 +848,7 @@
     <string name="auto_comp">自动完成</string>
     <string name="check_element">元素检查</string>
     <string name="check_ele_info_0">（更细粒度的阻塞）</string>
-    <string name="check_ele_info_1">此功能的有效性取决于您经常访问的网站</string>
-    <string name="check_ele_info_2">如果启用此功能之前和之后没有区别，我们建议禁用它以节省内存</string>
-    <string name="check_ele_info_3">使用适合您的内存管理让您的浏览器更快</string>
+    <string name="check_ele_info_1">此功能使用大量资源，因为它会分析网页的每个元素</string>
     <string name="quick_guide_1">1. 您可以按住图标来移动</string>
     <string name="quick_guide_2">2. 您可以通过重叠图标来创建文件夹</string>
     <string name="column_count">列数</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">禁用 Google AMP</string>
     <string name="block_amp_info">在 Google 搜索结果中禁用 Google AMP</string>
     <string name="pre_raster">网页预加载</string>
-    <string name="filter_guide_1">广告拦截基于过滤器</string>
-    <string name="filter_guide_2">如果您的网站不屏蔽广告，请添加适当的过滤器</string>
-    <string name="filter_guide_3">添加太多过滤器会降低浏览器的速度</string>
-    <string name="filter_guide_4">找到适合您的组合</string>
-    <string name="filter_guide_5">推荐的组合是基本过滤器和语言过滤器</string>
-    <string name="filter_guide_6">如果提供的过滤器没有屏蔽广告，请添加您自己的过滤器规则或联系过滤器管理员</string>
+    <string name="filter_guide_1">如果您的网站不屏蔽广告，请添加适当的过滤器</string>
+    <string name="filter_guide_2">添加过滤器会增加内存使用量</string>
+    <string name="filter_guide_3">我们建议您仅添加适合您的过滤器</string>
     <string name="filter_link_1">滤镜版权归滤镜创建者或滤镜供应商所有</string>
     <string name="filter_link_2">Soul Browser 无权过滤文件</string>
     <string name="filter_link_3">感谢过滤器的创建者</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">但无需担心</string>
     <string name="area_edit_guide_5">您可以随时再次编辑它</string>
     <string name="area_edit_guide_6">请随意尝试一下</string>
+    <string name="area_recom_1">尝试使用\'%s\'功能</string>
+    <string name="area_recom_2">\'%s\'功能允许您直接选择要阻止的内容</string>
 </resources>

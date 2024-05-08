@@ -848,9 +848,7 @@
     <string name="auto_comp">Saisie automatique</string>
     <string name="check_element">Inspection des éléments</string>
     <string name="check_ele_info_0">(blocage plus fin)</string>
-    <string name="check_ele_info_1">L\'efficacité de cette fonctionnalité dépend des sites que vous visitez fréquemment.</string>
-    <string name="check_ele_info_2">S\'il n\'y a pas de différence entre avant et après l\'activation de cette fonctionnalité, nous vous recommandons de la désactiver pour économiser de la mémoire.</string>
-    <string name="check_ele_info_3">Rendez votre navigateur plus rapide avec une gestion de la mémoire qui vous convient.</string>
+    <string name="check_ele_info_1">Cette fonctionnalité utilise beaucoup de ressources car elle analyse chaque élément de la page Web.</string>
     <string name="quick_guide_1">1. Vous pouvez déplacer par un appui long sur les icônes.</string>
     <string name="quick_guide_2">2. Vous pouvez créer des dossiers en superposant des icônes.</string>
     <string name="column_count">Nombre de colonnes</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Désactiver Google AMP</string>
     <string name="block_amp_info">Désactivez Google AMP dans les résultats de recherche Google.</string>
     <string name="pre_raster">Préchargement de la page Web</string>
-    <string name="filter_guide_1">Le blocage des publicités est basé sur des filtres.</string>
-    <string name="filter_guide_2">Si vous avez un site qui ne bloque pas les publicités, ajoutez un filtre approprié.</string>
-    <string name="filter_guide_3">L\'ajout de trop de filtres peut ralentir le navigateur.</string>
-    <string name="filter_guide_4">Trouvez la combinaison qui vous convient.</string>
-    <string name="filter_guide_5">La combinaison recommandée est le filtre de base et le filtre de langue.</string>
-    <string name="filter_guide_6">Si le filtre fourni ne bloque pas les publicités, veuillez ajouter votre propre règle de filtrage ou contacter l\'administrateur du filtre.</string>
+    <string name="filter_guide_1">Si vous avez un site qui ne bloque pas les publicités, ajoutez un filtre approprié.</string>
+    <string name="filter_guide_2">L\'ajout de filtres augmente l\'utilisation de la mémoire.</string>
+    <string name="filter_guide_3">Nous vous recommandons d\'ajouter uniquement les filtres qui vous conviennent.</string>
     <string name="filter_link_1">Le droit d\'auteur du filtre appartient au créateur du filtre ou au fournisseur du filtre.</string>
     <string name="filter_link_2">Soul Browser n\'a pas le droit de filtrer les fichiers.</string>
     <string name="filter_link_3">Merci aux créateurs du filtre.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">Mais ne vous inquiétez pas.</string>
     <string name="area_edit_guide_5">Vous pouvez le modifier à nouveau à tout moment.</string>
     <string name="area_edit_guide_6">N\'hésitez pas à l\'essayer.</string>
+    <string name="area_recom_1">Essayez d\'utiliser la fonction \'%s\'.</string>
+    <string name="area_recom_2">La fonctionnalité \'%s\' vous permet de sélectionner directement ce que vous souhaitez bloquer.</string>
 </resources>

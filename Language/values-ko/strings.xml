@@ -848,9 +848,7 @@
     <string name="auto_comp">자동 완성</string>
     <string name="check_element">요소 검사</string>
     <string name="check_ele_info_0">(더 세밀한 차단)</string>
-    <string name="check_ele_info_1">이 기능의 효과는 자주 방문하는 사이트에 따라 다릅니다.</string>
-    <string name="check_ele_info_2">이 기능을 활성화하기 전과 후에 차이가 없다면, 메모리를 절약하기 위해 비활성화하는 것이 좋습니다.</string>
-    <string name="check_ele_info_3">나에게 맞는 메모리 관리로 브라우저를 더 빠르게 만드세요.</string>
+    <string name="check_ele_info_1">이 기능은 웹페이지의 모든 요소를 분석하기 때문에 많은 리소스를 사용합니다.</string>
     <string name="quick_guide_1">1. 아이콘을 길게 눌러 이동할 수 있습니다.</string>
     <string name="quick_guide_2">2. 아이콘을 겹쳐서 폴더를 만들 수 있습니다.</string>
     <string name="column_count">열 수</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Google AMP 비활성화</string>
     <string name="block_amp_info">Google 검색 결과에서 Google AMP를 비활성화합니다.</string>
     <string name="pre_raster">웹페이지 미리 로드</string>
-    <string name="filter_guide_1">광고 차단은 필터를 기반으로 합니다.</string>
-    <string name="filter_guide_2">광고를 차단하지 않는 사이트가 있는 경우, 적절한 필터를 추가하세요.</string>
-    <string name="filter_guide_3">필터를 너무 많이 추가하면 브라우저가 느려질 수 있습니다.</string>
-    <string name="filter_guide_4">나에게 맞는 조합을 찾아보세요.</string>
-    <string name="filter_guide_5">권장 조합은 기본 필터와 언어 필터입니다.</string>
-    <string name="filter_guide_6">제공된 필터가 광고를 차단하지 않는 경우, 자신의 필터 규칙을 추가하거나 필터 관리자에게 문의하세요.</string>
+    <string name="filter_guide_1">광고를 차단하지 않는 사이트가 있는 경우, 적절한 필터를 추가하세요.</string>
+    <string name="filter_guide_2">필터를 추가하면 메모리 사용량이 늘어납니다.</string>
+    <string name="filter_guide_3">자신에게 적합한 필터만 추가하는 것이 좋습니다.</string>
     <string name="filter_link_1">필터 저작권은 필터 제작자 또는 필터 제공자에게 있습니다.</string>
     <string name="filter_link_2">Soul Browser는 필터 파일에 대한 권리가 없습니다.</string>
     <string name="filter_link_3">필터 제작자분들께 감사드립니다.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">하지만 걱정할 필요가 없습니다.</string>
     <string name="area_edit_guide_5">언제든지 다시 편집할 수 있습니다.</string>
     <string name="area_edit_guide_6">자유롭게 시도해 보세요.</string>
+    <string name="area_recom_1">\'%s\' 기능을 사용해 보세요.</string>
+    <string name="area_recom_2">\'%s\' 기능을 사용하면 차단하려는 대상을 직접 선택할 수 있습니다.</string>
 </resources>

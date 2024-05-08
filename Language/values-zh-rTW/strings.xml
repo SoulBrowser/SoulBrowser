@@ -848,9 +848,7 @@
     <string name="auto_comp">自動完成</string>
     <string name="check_element">元素檢查</string>
     <string name="check_ele_info_0">（更細粒度的封鎖）</string>
-    <string name="check_ele_info_1">此功能的有效性取決於您經常訪問的網站</string>
-    <string name="check_ele_info_2">如果啟用此功能之前和之後沒有區別，我們建議禁用它以節省內存</string>
-    <string name="check_ele_info_3">使用適合您的內存管理讓您的瀏覽器更快</string>
+    <string name="check_ele_info_1">此功能使用大量資源，因為它會分析網頁的每個元素</string>
     <string name="quick_guide_1">1. 您可以按住圖示來移動</string>
     <string name="quick_guide_2">2. 您可以透過重疊圖示來建立資料夾</string>
     <string name="column_count">列數</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">禁用 Google AMP</string>
     <string name="block_amp_info">在 Google 搜索結果中禁用 Google AMP</string>
     <string name="pre_raster">網頁預加載</string>
-    <string name="filter_guide_1">廣告攔截基於過濾器</string>
-    <string name="filter_guide_2">如果您的網站不屏蔽廣告，請添加適當的過濾器</string>
-    <string name="filter_guide_3">添加太多過濾器會降低瀏覽器的速度</string>
-    <string name="filter_guide_4">找到適合您的組合</string>
-    <string name="filter_guide_5">推薦的組合是基本過濾器和語言過濾器</string>
-    <string name="filter_guide_6">如果提供的過濾器沒有屏蔽廣告，請添加您自己的過濾器規則或聯繫過濾器管理員</string>
+    <string name="filter_guide_1">如果您的網站不屏蔽廣告，請添加適當的過濾器</string>
+    <string name="filter_guide_2">新增過濾器會增加記憶體使用量</string>
+    <string name="filter_guide_3">我們建議您僅添加適合您的濾鏡</string>
     <string name="filter_link_1">濾鏡版權歸濾鏡創建者或濾鏡供應商所有</string>
     <string name="filter_link_2">Soul Browser 無權過濾文件</string>
     <string name="filter_link_3">感謝過濾器的創建者</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">但無需擔心</string>
     <string name="area_edit_guide_5">您可以隨時再次編輯它</string>
     <string name="area_edit_guide_6">請隨意嘗試</string>
+    <string name="area_recom_1">嘗試使用\'%s\'功能</string>
+    <string name="area_recom_2">\'%s\'功能可讓您直接選擇要封鎖的內容</string>
 </resources>

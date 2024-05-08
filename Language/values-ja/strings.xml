@@ -848,9 +848,7 @@
     <string name="auto_comp">オートコンプリート</string>
     <string name="check_element">要素を検証</string>
     <string name="check_ele_info_0">（より細かいブロック）</string>
-    <string name="check_ele_info_1">この機能の効果は、頻繁に訪れるサイトによって異なります。</string>
-    <string name="check_ele_info_2">この機能を有効にする前と後の間に違いがない場合は、メモリを節約するために無効にすることをお勧めします。</string>
-    <string name="check_ele_info_3">自分に合ったメモリ管理でブラウザをすばやく作成できます。</string>
+    <string name="check_ele_info_1">この機能はWebページのすべての要素を分析するため、多くのリソースを使用します。</string>
     <string name="quick_guide_1">1. アイコンを長押しして移動することができます。</string>
     <string name="quick_guide_2">2. アイコンを重ねフォルダを作成することができます。</string>
     <string name="column_count">列数</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Google AMPを無効にする</string>
     <string name="block_amp_info">Google 検索結果で Google AMPを無効にします。</string>
     <string name="pre_raster">Webページのプリロード</string>
-    <string name="filter_guide_1">広告のブロックはフィルターに基づいています。</string>
-    <string name="filter_guide_2">広告をブロックしないサイトがある場合は、適切なフィルターを追加してください。</string>
-    <string name="filter_guide_3">フィルタを追加しすぎると、ブラウザの速度が低下する可能性があります。</string>
-    <string name="filter_guide_4">私に合った組み合わせを見つけてください。</string>
-    <string name="filter_guide_5">推奨される組み合わせは、基本フィルターと言語フィルターです。</string>
-    <string name="filter_guide_6">提供されたフィルターで広告がブロックされない場合は、独自のフィルター ルールを追加するか、フィルター管理者に連絡してください。</string>
+    <string name="filter_guide_1">広告をブロックしないサイトがある場合は、適切なフィルターを追加してください。</string>
+    <string name="filter_guide_2">フィルタを追加すると、メモリ使用量が増えます。</string>
+    <string name="filter_guide_3">自分に適したフィルタのみを追加することをお勧めします。</string>
     <string name="filter_link_1">フィルタ著作権は、フィルタ作成者またはフィルタプロバイダにあります。</string>
     <string name="filter_link_2">Soul Browserにはフィルタファイルの権利はありません。</string>
     <string name="filter_link_3">フィルターメーカーに感謝します。</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">しかし、心配する必要はありません。</string>
     <string name="area_edit_guide_5">いつでも再編集できます。</string>
     <string name="area_edit_guide_6">自由に試してみてください。</string>
+    <string name="area_recom_1">\'%s\'機能を試してください。</string>
+    <string name="area_recom_2">\'%s\'機能を使用すると、ブロックしたいターゲットを直接選択できます。</string>
 </resources>

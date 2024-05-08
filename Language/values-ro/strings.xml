@@ -848,9 +848,7 @@
     <string name="auto_comp">Completare automată</string>
     <string name="check_element">Inspecția elementelor</string>
     <string name="check_ele_info_0">(blocare mai fină)</string>
-    <string name="check_ele_info_1">Eficacitatea acestei funcții depinde de site-urile pe care le vizitați frecvent.</string>
-    <string name="check_ele_info_2">Dacă nu există nicio diferență între înainte și după activarea acestei funcții, vă recomandăm să o dezactivați pentru a economisi memorie.</string>
-    <string name="check_ele_info_3">Faceți-vă browserul mai rapid cu gestionarea memoriei potrivită pentru dvs.</string>
+    <string name="check_ele_info_1">Această caracteristică folosește o mulțime de resurse deoarece analizează fiecare element al paginii web.</string>
     <string name="quick_guide_1">1. Vă puteți mișca apăsând și menținând apăsată pictograma.</string>
     <string name="quick_guide_2">2. Puteți crea foldere prin suprapunerea pictogramelor.</string>
     <string name="column_count">Numărul de coloane</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Dezactivați Google AMP</string>
     <string name="block_amp_info">Dezactivați Google AMP în rezultatele căutării Google.</string>
     <string name="pre_raster">Preîncărcarea paginii web</string>
-    <string name="filter_guide_1">Blocarea anunțurilor se bazează pe filtre.</string>
-    <string name="filter_guide_2">Dacă aveți un site care nu blochează reclamele, adăugați un filtru adecvat.</string>
-    <string name="filter_guide_3">Adăugarea prea multor filtre poate încetini browserul.</string>
-    <string name="filter_guide_4">Găsiți combinația potrivită pentru dvs.</string>
-    <string name="filter_guide_5">Combinația recomandată este filtrul de bază și filtrul de limbă.</string>
-    <string name="filter_guide_6">Dacă filtrul furnizat nu blochează reclamele, vă rugăm să adăugați propria regulă de filtru sau să contactați administratorul filtrului.</string>
+    <string name="filter_guide_1">Dacă aveți un site care nu blochează reclamele, adăugați un filtru adecvat.</string>
+    <string name="filter_guide_2">Adăugarea de filtre crește utilizarea memoriei.</string>
+    <string name="filter_guide_3">Vă recomandăm să adăugați numai filtre adecvate pentru dvs.</string>
     <string name="filter_link_1">Drepturile de autor ale filtrului aparțin creatorului sau furnizorului de filtre.</string>
     <string name="filter_link_2">Soul Browser nu are drepturi de filtrare a fișierelor.</string>
     <string name="filter_link_3">Mulțumim creatorilor filtrului.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">Dar nu trebuie să vă faceți griji.</string>
     <string name="area_edit_guide_5">Îl puteți edita din nou oricând.</string>
     <string name="area_edit_guide_6">Simțiți-vă liber să-l încercați.</string>
+    <string name="area_recom_1">Încercați să utilizați funcția \'%s\'.</string>
+    <string name="area_recom_2">Funcția \'%s\' vă permite să selectați direct ceea ce doriți să blocați.</string>
 </resources>

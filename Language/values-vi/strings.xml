@@ -848,9 +848,7 @@
     <string name="auto_comp">Tự động hoàn thành</string>
     <string name="check_element">Kiểm tra phần tử</string>
     <string name="check_ele_info_0">(chặn chi tiết hơn)</string>
-    <string name="check_ele_info_1">Hiệu quả của tính năng này phụ thuộc vào các trang web bạn truy cập thường xuyên.</string>
-    <string name="check_ele_info_2">Nếu không có sự khác biệt giữa trước và sau khi bật tính năng này, chúng tôi khuyên bạn nên tắt nó để tiết kiệm bộ nhớ.</string>
-    <string name="check_ele_info_3">Làm cho trình duyệt của bạn nhanh hơn với tính năng quản lý bộ nhớ phù hợp với bạn.</string>
+    <string name="check_ele_info_1">Tính năng này sử dụng nhiều tài nguyên vì nó phân tích mọi thành phần của trang web.</string>
     <string name="quick_guide_1">1. Bạn có thể di chuyển bằng cách nhấn và giữ biểu tượng.</string>
     <string name="quick_guide_2">2. Bạn có thể tạo thư mục bằng các biểu tượng chồng lên nhau.</string>
     <string name="column_count">Số cột</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Tắt Google AMP</string>
     <string name="block_amp_info">Tắt Google AMP trong kết quả tìm kiếm của Google.</string>
     <string name="pre_raster">Tải trước trang web</string>
-    <string name="filter_guide_1">Việc chặn quảng cáo dựa trên các bộ lọc.</string>
-    <string name="filter_guide_2">Nếu bạn có một trang web không chặn quảng cáo, hãy thêm một bộ lọc thích hợp.</string>
-    <string name="filter_guide_3">Thêm quá nhiều bộ lọc có thể làm chậm trình duyệt.</string>
-    <string name="filter_guide_4">Tìm sự kết hợp phù hợp với bạn.</string>
-    <string name="filter_guide_5">Sự kết hợp được đề xuất là bộ lọc cơ bản và bộ lọc ngôn ngữ.</string>
-    <string name="filter_guide_6">Nếu bộ lọc được cung cấp không chặn quảng cáo, vui lòng thêm quy tắc bộ lọc của riêng bạn hoặc liên hệ với quản trị viên bộ lọc.</string>
+    <string name="filter_guide_1">Nếu bạn có một trang web không chặn quảng cáo, hãy thêm một bộ lọc thích hợp.</string>
+    <string name="filter_guide_2">Việc thêm bộ lọc sẽ tăng mức sử dụng bộ nhớ.</string>
+    <string name="filter_guide_3">Chúng tôi khuyên bạn chỉ nên thêm các bộ lọc phù hợp với mình.</string>
     <string name="filter_link_1">Bản quyền bộ lọc vẫn thuộc về người tạo bộ lọc hoặc nhà cung cấp bộ lọc.</string>
     <string name="filter_link_2">Soul Browser không có quyền lọc tệp.</string>
     <string name="filter_link_3">Cảm ơn những người tạo ra bộ lọc.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">Nhưng không cần phải lo lắng.</string>
     <string name="area_edit_guide_5">Bạn có thể chỉnh sửa lại bất cứ lúc nào.</string>
     <string name="area_edit_guide_6">Hãy thử nó.</string>
+    <string name="area_recom_1">Hãy thử sử dụng tính năng \'%s\'.</string>
+    <string name="area_recom_2">Tính năng \'%s\' cho phép bạn trực tiếp chọn những gì bạn muốn chặn.</string>
 </resources>

@@ -848,9 +848,7 @@
     <string name="auto_comp">Otomatik tamamlama</string>
     <string name="check_element">Element denetimi</string>
     <string name="check_ele_info_0">(daha ince taneli engelleme)</string>
-    <string name="check_ele_info_1">Bu özelliğin etkinliği, sık ziyaret ettiğiniz sitelere bağlıdır.</string>
-    <string name="check_ele_info_2">Bu özelliği etkinleştirmeden önce ve sonra arasında bir fark yoksa, bellekten tasarruf etmek için devre dışı bırakmanızı öneririz.</string>
-    <string name="check_ele_info_3">Size uygun bellek yönetimi ile tarayıcınızı daha hızlı hale getirin.</string>
+    <string name="check_ele_info_1">Bu özellik, web sayfasının her öğesini analiz ettiğinden çok fazla kaynak kullanır.</string>
     <string name="quick_guide_1">1. Simgeye basılı tutarak hareket edebilirsiniz.</string>
     <string name="quick_guide_2">2. Üst üste gelen simgelerle klasörler oluşturabilirsiniz.</string>
     <string name="column_count">Sütun sayısı</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">Google AMP\'yi devre dışı bırak</string>
     <string name="block_amp_info">Google arama sonuçlarında Google AMP\'yi devre dışı bırakın.</string>
     <string name="pre_raster">Web sayfası önyüklemesi</string>
-    <string name="filter_guide_1">Reklam engelleme, filtrelere dayalıdır.</string>
-    <string name="filter_guide_2">Reklamları engellemeyen bir siteniz varsa uygun bir filtre ekleyin.</string>
-    <string name="filter_guide_3">Çok fazla filtre eklemek tarayıcıyı yavaşlatabilir.</string>
-    <string name="filter_guide_4">Size uygun kombinasyonu bulun.</string>
-    <string name="filter_guide_5">Önerilen kombinasyon, temel filtre ve dil filtresidir.</string>
-    <string name="filter_guide_6">Sağlanan filtre reklamları engellemiyorsa, lütfen kendi filtre kuralınızı ekleyin veya filtre yöneticisiyle iletişime geçin.</string>
+    <string name="filter_guide_1">Reklamları engellemeyen bir siteniz varsa uygun bir filtre ekleyin.</string>
+    <string name="filter_guide_2">Filtre eklemek bellek kullanımını artırır.</string>
+    <string name="filter_guide_3">Yalnızca sizin için uygun olan filtreleri eklemenizi öneririz.</string>
     <string name="filter_link_1">Filtre telif hakkı, filtre oluşturucu veya filtre tedarikçisinde kalır.</string>
     <string name="filter_link_2">Soul Browser\'ın dosyaları filtreleme hakkı yoktur.</string>
     <string name="filter_link_3">Filtrenin yaratıcılarına teşekkürler.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">Ama endişelenmenize gerek yok.</string>
     <string name="area_edit_guide_5">İstediğiniz zaman tekrar düzenleyebilirsiniz.</string>
     <string name="area_edit_guide_6">Denemekten çekinmeyin.</string>
+    <string name="area_recom_1">\'%s\' özelliğini kullanmayı deneyin.</string>
+    <string name="area_recom_2">\'%s\' özelliği, engellemek istediğiniz şeyi doğrudan seçmenize olanak tanır.</string>
 </resources>

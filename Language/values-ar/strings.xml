@@ -848,9 +848,7 @@
     <string name="auto_comp">الإكمال التلقائي</string>
     <string name="check_element">فحص العنصر</string>
     <string name="check_ele_info_0">(مزيد من الحجب الدقيق)</string>
-    <string name="check_ele_info_1">تعتمد فعالية هذه الميزة على المواقع التي تزورها بشكل متكرر.</string>
-    <string name="check_ele_info_2">إذا لم يكن هناك فرق بين قبل وبعد تمكين هذه الميزة ، نوصي بتعطيلها لحفظ الذاكرة.</string>
-    <string name="check_ele_info_3">اجعل متصفحك أسرع مع إدارة الذاكرة المناسبة لك.</string>
+    <string name="check_ele_info_1">تستخدم هذه الميزة الكثير من الموارد لأنها تحلل كل عنصر في صفحة الويب.</string>
     <string name="quick_guide_1">1. يمكنك التحرك بالضغط مع الاستمرار على الأيقونة.</string>
     <string name="quick_guide_2">2. يمكنك إنشاء مجلدات من خلال تداخل الرموز.</string>
     <string name="column_count">عدد الأعمدة</string>
@@ -951,12 +949,9 @@
     <string name="block_amp">تعطيل Google AMP</string>
     <string name="block_amp_info">تعطيل Google AMP في نتائج بحث Google.</string>
     <string name="pre_raster">تحميل مسبق لصفحة الويب</string>
-    <string name="filter_guide_1">منع الإعلان يعتمد على الفلاتر.</string>
-    <string name="filter_guide_2">إذا كان لديك موقع لا يمنع الإعلانات ، فأضف عامل تصفية مناسب.</string>
-    <string name="filter_guide_3">يمكن أن تؤدي إضافة الكثير من المرشحات إلى إبطاء المتصفح.</string>
-    <string name="filter_guide_4">اعثر على المجموعة المناسبة لك.</string>
-    <string name="filter_guide_5">التركيبة الموصى بها هي عامل التصفية الأساسي ومرشح اللغة.</string>
-    <string name="filter_guide_6">إذا كان الفلتر المقدم لا يمنع الإعلانات ، فالرجاء إضافة قاعدة الفلتر الخاصة بك أو الاتصال بمسؤول التصفية.</string>
+    <string name="filter_guide_1">إذا كان لديك موقع لا يمنع الإعلانات ، فأضف عامل تصفية مناسب.</string>
+    <string name="filter_guide_2">تؤدي إضافة المرشحات إلى زيادة استخدام الذاكرة.</string>
+    <string name="filter_guide_3">ننصحك بإضافة الفلاتر المناسبة لك فقط.</string>
     <string name="filter_link_1">تبقى حقوق نشر الفلتر مع منشئ المرشح أو مورد المرشح.</string>
     <string name="filter_link_2">ليس لدى Soul Browser أي حقوق لتصفية الملفات.</string>
     <string name="filter_link_3">بفضل المبدعين من الفلتر.</string>
@@ -1011,4 +1006,6 @@
     <string name="area_edit_guide_4">ولكن لا داعي للقلق.</string>
     <string name="area_edit_guide_5">ويمكنك تعديله مرة أخرى في أي وقت.</string>
     <string name="area_edit_guide_6">لا تتردد في محاولة ذلك.</string>
+    <string name="area_recom_1">حاول استخدام ميزة \'%s\'.</string>
+    <string name="area_recom_2">تتيح لك ميزة \'%s\' تحديد ما تريد حظره مباشرة.</string>
 </resources>
