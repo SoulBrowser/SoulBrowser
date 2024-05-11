@@ -418,11 +418,11 @@
     <string name="gesture">Gesten</string>
     <string name="show_status">Statusleiste anzeigen</string>
     <string name="show_navi">Navigationsleiste anzeigen</string>
-    <string name="address_label">Label der Suchleiste</string>
+    <string name="address_label">Beschriftung der Adressleiste</string>
     <string name="address_icon">Schaltfläche in der Suchleiste</string>
     <string name="addr_icon_info">2. Sie können es entfernen, indem Sie auf das Symbol klicken.</string>
-    <string name="address_bar">Suchleiste</string>
-    <string name="address_menu">Menü der Suchleiste</string>
+    <string name="address_bar">Adressleiste</string>
+    <string name="address_menu">Menü der Adressleiste</string>
     <string name="show_tab_bar">Tableiste anzeigen</string>
     <string name="tab_swipe_up">Wischen Sie der Tableiste nach oben</string>
     <string name="tab_swipe_dn">Wischen Sie über der Tableiste</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">Probieren Sie es gerne aus.</string>
     <string name="area_recom_1">Versuchen Sie es mit der Funktion \'%s\'.</string>
     <string name="area_recom_2">Mit der Funktion \'%s\' können Sie direkt auswählen, was Sie blockieren möchten.</string>
+    <string name="area_info_1">Heutzutage gibt es im World Wide Web über 1,5 Milliarden Websites.</string>
+    <string name="area_info_2">Aus diesem Grund enthält der Filter Informationen zu vielen Websites.</string>
+    <string name="area_info_3">Allerdings besuchen Benutzer normalerweise nur wenige Websites.</string>
+    <string name="area_info_4">Nur ein kleiner Teil der im Filter enthaltenen Informationen entspricht den Bedürfnissen des Benutzers.</string>
+    <string name="area_info_5">Benutzer fügen häufig Zehntausende Filterzeilen hinzu, um die wenigen Informationszeilen zu erhalten, die sie benötigen.</string>
+    <string name="area_info_6">Dies bedeutet, dass viel Speicher verschwendet wird.</string>
+    <string name="area_info_7">Um dieses Problem zu lösen, benötigen Sie einen benutzerdefinierten Filter, der für Sie funktioniert.</string>
+    <string name="area_info_8">Das Erstellen eines Filters erfordert jedoch Kenntnisse über Filter.</string>
+    <string name="area_info_9">Aus diesem Grund verzichten viele Benutzer auf die Erstellung benutzerdefinierter Filter.</string>
+    <string name="area_info_10">Für die Funktion \'%s\' sind keine Filterkenntnisse erforderlich.</string>
+    <string name="area_info_11">Jeder kann ganz einfach benutzerdefinierte Filter erstellen.</string>
+    <string name="area_info_12">Drücken Sie lange auf das Objekt, das Sie blockieren möchten, und ein Menü wird angezeigt.</string>
+    <string name="area_info_13">Wenn Sie die Funktion \'%s\' ausführen und anwenden, wird automatisch ein Filter erstellt.</string>
+    <string name="area_info_14">Es ist sehr leicht.</string>
+    <string name="area_info_15">Probieren Sie es gleich aus.</string>
 </resources>

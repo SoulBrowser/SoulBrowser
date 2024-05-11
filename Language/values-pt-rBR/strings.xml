@@ -418,11 +418,11 @@
     <string name="gesture">Gestos</string>
     <string name="show_status">Mostrar barra status</string>
     <string name="show_navi">Mostrar barra de navegação</string>
-    <string name="address_label">Etiqueta da barra de pesquisa</string>
+    <string name="address_label">Etiqueta da barra de endereço</string>
     <string name="address_icon">Botão da barra de pesquisa</string>
     <string name="addr_icon_info">2. Você pode removê-lo clicando no ícone.</string>
-    <string name="address_bar">Barra de pesquisa</string>
-    <string name="address_menu">Menu da barra de pesquisa</string>
+    <string name="address_bar">Barra de endereço</string>
+    <string name="address_menu">Menu da barra de endereço</string>
     <string name="show_tab_bar">Mostrar barra de guias</string>
     <string name="tab_swipe_up">Deslizar barra de guias para cima</string>
     <string name="tab_swipe_dn">Deslizar barra de guias para baixo</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">Sinta-se à vontade para experimentar.</string>
     <string name="area_recom_1">Tente usar o recurso \'%s\'.</string>
     <string name="area_recom_2">O recurso \'%s\' permite selecionar diretamente o que deseja bloquear.</string>
+    <string name="area_info_1">Existem mais de 1,5 bilhão de sites na rede mundial de computadores hoje.</string>
+    <string name="area_info_2">É por isso que o filtro contém informações sobre muitos sites.</string>
+    <string name="area_info_3">No entanto, os usuários normalmente visitam apenas alguns sites.</string>
+    <string name="area_info_4">Apenas uma pequena parte das informações contidas no filtro é o que o usuário precisa.</string>
+    <string name="area_info_5">Os usuários costumam adicionar dezenas de milhares de linhas de filtros para obter as poucas linhas de informações de que precisam.</string>
+    <string name="area_info_6">Isso significa que muita memória está sendo desperdiçada.</string>
+    <string name="area_info_7">Para resolver esse problema, você precisa de um filtro personalizado que funcione para você.</string>
+    <string name="area_info_8">Contudo, criar um filtro requer conhecimento sobre filtros.</string>
+    <string name="area_info_9">Por esse motivo, muitos usuários desistem de criar filtros personalizados.</string>
+    <string name="area_info_10">A função \'%s\' não requer nenhum conhecimento de filtros.</string>
+    <string name="area_info_11">Qualquer pessoa pode criar facilmente filtros personalizados.</string>
+    <string name="area_info_12">Pressione longamente o objeto que deseja bloquear e um menu aparecerá.</string>
+    <string name="area_info_13">Ao executar e aplicar a função \'%s\', um filtro será criado automaticamente.</string>
+    <string name="area_info_14">É muito fácil.</string>
+    <string name="area_info_15">Experimente agora mesmo.</string>
 </resources>

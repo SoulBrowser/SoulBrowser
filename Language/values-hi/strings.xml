@@ -418,11 +418,11 @@
     <string name="gesture">हाव-भाव</string>
     <string name="show_status">स्थिति बार दिखाएं</string>
     <string name="show_navi">नेविगेशन बार दिखाएं</string>
-    <string name="address_label">खोज बार लेबल</string>
+    <string name="address_label">पता बार लेबल</string>
     <string name="address_icon">खोज बार बटन</string>
     <string name="addr_icon_info">2. आप आइकन पर क्लिक करके इसे हटा सकते हैं।</string>
-    <string name="address_bar">खोज पट्टी</string>
-    <string name="address_menu">खोज बार मेनू</string>
+    <string name="address_bar">पता पट्टी</string>
+    <string name="address_menu">पता बार मेनू</string>
     <string name="show_tab_bar">टैब बार दिखाएं</string>
     <string name="tab_swipe_up">टैब बार ऊपर स्वाइप करें</string>
     <string name="tab_swipe_dn">टैब बार नीचे स्वाइप करें</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">बेझिझक इसे आज़माएं।</string>
     <string name="area_recom_1">\'%s\' सुविधा का उपयोग करने का प्रयास करें।</string>
     <string name="area_recom_2">\'%s\' सुविधा आपको सीधे यह चुनने की अनुमति देती है कि आप क्या ब्लॉक करना चाहते हैं।</string>
+    <string name="area_info_1">आज वर्ल्ड वाइड वेब पर 1.5 अरब से अधिक वेबसाइटें हैं।</string>
+    <string name="area_info_2">इसीलिए फ़िल्टर में कई साइटों के बारे में जानकारी होती है।</string>
+    <string name="area_info_3">हालाँकि, उपयोगकर्ता आमतौर पर केवल कुछ ही साइटों पर जाते हैं।</string>
+    <string name="area_info_4">फ़िल्टर में मौजूद जानकारी का केवल एक छोटा सा हिस्सा ही उपयोगकर्ता को चाहिए।</string>
+    <string name="area_info_5">उपयोगकर्ता अक्सर अपनी आवश्यक जानकारी प्राप्त करने के लिए हजारों पंक्तियों के फिल्टर जोड़ते हैं।</string>
+    <string name="area_info_6">इसका मतलब है कि बहुत सारी मेमोरी बर्बाद हो रही है।</string>
+    <string name="area_info_7">इस समस्या को हल करने के लिए, आपको एक कस्टम फ़िल्टर की आवश्यकता है जो आपके लिए काम करे।</string>
+    <string name="area_info_8">हालाँकि, फ़िल्टर बनाने के लिए फ़िल्टर के बारे में ज्ञान की आवश्यकता होती है।</string>
+    <string name="area_info_9">इस कारण से, कई उपयोगकर्ता कस्टम फ़िल्टर बनाना छोड़ देते हैं।</string>
+    <string name="area_info_10">\'%s\' फ़ंक्शन के लिए फ़िल्टर के किसी ज्ञान की आवश्यकता नहीं है।</string>
+    <string name="area_info_11">कोई भी व्यक्ति आसानी से कस्टम फ़िल्टर बना सकता है.</string>
+    <string name="area_info_12">जिस ऑब्जेक्ट को आप ब्लॉक करना चाहते हैं उस पर देर तक दबाएं और एक मेनू दिखाई देगा।</string>
+    <string name="area_info_13">जब आप \'%s\' फ़ंक्शन चलाते हैं और लागू करते हैं, तो एक फ़िल्टर स्वचालित रूप से बन जाएगा।</string>
+    <string name="area_info_14">यह बहुत आसान है।</string>
+    <string name="area_info_15">इसे अभी आज़माएं.</string>
 </resources>

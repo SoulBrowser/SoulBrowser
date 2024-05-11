@@ -418,11 +418,11 @@
     <string name="gesture">Жесты</string>
     <string name="show_status">Показывать строку состояния</string>
     <string name="show_navi">Показать панель навигации</string>
-    <string name="address_label">Контент панели поиска</string>
+    <string name="address_label">Ярлык адресной строки</string>
     <string name="address_icon">Кнопки панели поиска</string>
     <string name="addr_icon_info">2. Можно удалить значок, нажав на него.</string>
-    <string name="address_bar">Панель поиска</string>
-    <string name="address_menu">Меню панели поиска</string>
+    <string name="address_bar">Адресная строка</string>
+    <string name="address_menu">Меню адресной строки</string>
     <string name="show_tab_bar">Показать панель вкладок</string>
     <string name="tab_swipe_up">Свайп вверх по панели вкладок</string>
     <string name="tab_swipe_dn">Свайп вниз по панели вкладок</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">Не стесняйтесь попробовать.</string>
     <string name="area_recom_1">Попробуйте использовать функцию \'%s\'.</string>
     <string name="area_recom_2">Функция \'%s\' позволяет вам напрямую выбирать, что вы хотите заблокировать.</string>
+    <string name="area_info_1">Сегодня во всемирной паутине насчитывается более 1,5 миллиардов веб-сайтов.</string>
+    <string name="area_info_2">Поэтому фильтр содержит информацию о многих сайтах.</string>
+    <string name="area_info_3">Однако пользователи обычно посещают лишь несколько сайтов.</string>
+    <string name="area_info_4">Лишь небольшая часть информации, содержащейся в фильтре, — это то, что нужно пользователю.</string>
+    <string name="area_info_5">Пользователи часто добавляют десятки тысяч строк фильтров, чтобы получить несколько строк необходимой им информации.</string>
+    <string name="area_info_6">Это означает, что много памяти тратится впустую.</string>
+    <string name="area_info_7">Чтобы решить эту проблему, вам понадобится специальный фильтр, который подойдет именно вам.</string>
+    <string name="area_info_8">Однако создание фильтра требует знаний о фильтрах.</string>
+    <string name="area_info_9">По этой причине многие пользователи отказываются от создания собственных фильтров.</string>
+    <string name="area_info_10">Функция \'%s\' не требует каких-либо знаний о фильтрах.</string>
+    <string name="area_info_11">Любой может легко создавать собственные фильтры.</string>
+    <string name="area_info_12">Нажмите и удерживайте объект, который хотите заблокировать, и появится меню.</string>
+    <string name="area_info_13">Когда вы запустите и примените функцию \'%s\', фильтр будет создан автоматически.</string>
+    <string name="area_info_14">Это очень легко.</string>
+    <string name="area_info_15">Попробуйте прямо сейчас.</string>
 </resources>

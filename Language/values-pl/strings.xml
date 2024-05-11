@@ -418,11 +418,11 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Pokaż pasek stanu</string>
     <string name="show_navi">Pokaż pasek nawigacyjny</string>
-    <string name="address_label">Etykieta paska wyszukiwania</string>
+    <string name="address_label">Etykieta paska adresu</string>
     <string name="address_icon">Przycisk paska wyszukiwania</string>
     <string name="addr_icon_info">2. Możesz go usunąć, klikając ikonę.</string>
-    <string name="address_bar">Pasek wyszukiwania</string>
-    <string name="address_menu">Menu paska wyszukiwania</string>
+    <string name="address_bar">Pasek adresu</string>
+    <string name="address_menu">Menu paska adresu</string>
     <string name="show_tab_bar">Pokaż pasek kart</string>
     <string name="tab_swipe_up">Przesuń w górę pasek kart</string>
     <string name="tab_swipe_dn">Przeciągnij w dół pasek kart</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">Nie wahaj się spróbować.</string>
     <string name="area_recom_1">Spróbuj użyć funkcji \'%s\'.</string>
     <string name="area_recom_2">Funkcja \'%s\' pozwala bezpośrednio wybrać, co chcesz zablokować.</string>
+    <string name="area_info_1">Obecnie w sieci WWW istnieje ponad 1,5 miliarda witryn internetowych.</string>
+    <string name="area_info_2">Dlatego filtr zawiera informacje o wielu witrynach.</string>
+    <string name="area_info_3">Jednak użytkownicy zazwyczaj odwiedzają tylko kilka witryn.</string>
+    <string name="area_info_4">Tylko niewielka część informacji zawartych w filtrze jest tym, czego potrzebuje użytkownik.</string>
+    <string name="area_info_5">Użytkownicy często dodają dziesiątki tysięcy linii filtrów, aby uzyskać kilka linii potrzebnych informacji.</string>
+    <string name="area_info_6">Oznacza to, że marnuje się dużo pamięci.</string>
+    <string name="area_info_7">Aby rozwiązać ten problem, potrzebujesz niestandardowego filtra, który będzie dla Ciebie odpowiedni.</string>
+    <string name="area_info_8">Jednak utworzenie filtra wymaga wiedzy na temat filtrów.</string>
+    <string name="area_info_9">Z tego powodu wielu użytkowników rezygnuje z tworzenia własnych filtrów.</string>
+    <string name="area_info_10">Funkcja \'%s\' nie wymaga znajomości filtrów.</string>
+    <string name="area_info_11">Każdy może z łatwością tworzyć własne filtry.</string>
+    <string name="area_info_12">Naciśnij i przytrzymaj obiekt, który chcesz zablokować, a pojawi się menu.</string>
+    <string name="area_info_13">Po uruchomieniu i zastosowaniu funkcji \'%s\' filtr zostanie utworzony automatycznie.</string>
+    <string name="area_info_14">To jest bardzo łatwe.</string>
+    <string name="area_info_15">Spróbuj już teraz.</string>
 </resources>

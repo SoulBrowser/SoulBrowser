@@ -418,11 +418,11 @@
     <string name="gesture">Gesture</string>
     <string name="show_status">Tampilkan bilah status</string>
     <string name="show_navi">Tampilkan bilah navigasi</string>
-    <string name="address_label">Label bilah pencarian</string>
+    <string name="address_label">Label bilah alamat</string>
     <string name="address_icon">Tombol bilah pencarian</string>
     <string name="addr_icon_info">2. Anda dapat menghapusnya dengan mengklik ikon.</string>
-    <string name="address_bar">Bilah pencarian</string>
-    <string name="address_menu">Menu bilah pencarian</string>
+    <string name="address_bar">Bilah alamat</string>
+    <string name="address_menu">Menu bilah alamat</string>
     <string name="show_tab_bar">Tampilkan bilah tab</string>
     <string name="tab_swipe_up">Geser bilah tab ke atas</string>
     <string name="tab_swipe_dn">Geser bilah tab ke bawah</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">Jangan ragu untuk mencobanya.</string>
     <string name="area_recom_1">Coba gunakan fitur \'%s\'.</string>
     <string name="area_recom_2">Fitur \'%s\' memungkinkan Anda memilih langsung apa yang ingin Anda blokir.</string>
+    <string name="area_info_1">Ada lebih dari 1,5 miliar situs web di world wide web saat ini.</string>
+    <string name="area_info_2">Itu sebabnya filter berisi informasi tentang banyak situs.</string>
+    <string name="area_info_3">Namun, pengguna biasanya hanya mengunjungi beberapa situs.</string>
+    <string name="area_info_4">Hanya sebagian kecil informasi yang terdapat dalam filter yang dibutuhkan pengguna.</string>
+    <string name="area_info_5">Pengguna sering kali menambahkan puluhan ribu baris filter untuk mendapatkan beberapa baris informasi yang mereka perlukan.</string>
+    <string name="area_info_6">Ini berarti banyak memori yang terbuang.</string>
+    <string name="area_info_7">Untuk mengatasi masalah ini, Anda memerlukan filter khusus yang sesuai untuk Anda.</string>
+    <string name="area_info_8">Namun, membuat filter memerlukan pengetahuan tentang filter.</string>
+    <string name="area_info_9">Karena alasan ini, banyak pengguna menyerah dalam membuat filter khusus.</string>
+    <string name="area_info_10">Fungsi \'%s\' tidak memerlukan pengetahuan tentang filter.</string>
+    <string name="area_info_11">Siapa pun dapat dengan mudah membuat filter khusus.</string>
+    <string name="area_info_12">Tekan lama pada objek yang ingin Anda blokir dan sebuah menu akan muncul.</string>
+    <string name="area_info_13">Saat Anda menjalankan dan menerapkan fungsi \'%s\', filter akan dibuat secara otomatis.</string>
+    <string name="area_info_14">Ini sangat mudah.</string>
+    <string name="area_info_15">Cobalah sekarang.</string>
 </resources>

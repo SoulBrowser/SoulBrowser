@@ -418,11 +418,11 @@
     <string name="gesture">Hareketler</string>
     <string name="show_status">Durum çubuğunu göster</string>
     <string name="show_navi">Gezinme çubuğunu göster</string>
-    <string name="address_label">Arama çubuğu etiketi</string>
+    <string name="address_label">Adres çubuğu etiketi</string>
     <string name="address_icon">Arama çubuğu düğmesi</string>
     <string name="addr_icon_info">2. Simgeye tıklayarak kaldırabilirsiniz.</string>
-    <string name="address_bar">Arama çubuğu</string>
-    <string name="address_menu">Arama çubuğu menüsü</string>
+    <string name="address_bar">Adres çubuğu</string>
+    <string name="address_menu">Adres çubuğu menüsü</string>
     <string name="show_tab_bar">Sekme çubuğunu göster</string>
     <string name="tab_swipe_up">Sekme çubuğunu yukarı kaydırın</string>
     <string name="tab_swipe_dn">Sekme çubuğunu aşağı kaydırın</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">Denemekten çekinmeyin.</string>
     <string name="area_recom_1">\'%s\' özelliğini kullanmayı deneyin.</string>
     <string name="area_recom_2">\'%s\' özelliği, engellemek istediğiniz şeyi doğrudan seçmenize olanak tanır.</string>
+    <string name="area_info_1">Bugün dünya çapında ağda 1,5 milyardan fazla web sitesi var.</string>
+    <string name="area_info_2">Bu nedenle filtre birçok site hakkında bilgi içerir.</string>
+    <string name="area_info_3">Ancak kullanıcılar genellikle yalnızca birkaç siteyi ziyaret eder.</string>
+    <string name="area_info_4">Filtrenin içerdiği bilgilerin yalnızca küçük bir kısmı kullanıcının ihtiyaç duyduğu şeydir.</string>
+    <string name="area_info_5">Kullanıcılar ihtiyaç duydukları birkaç satırlık bilgiyi elde etmek için genellikle onbinlerce satırlık filtre eklerler.</string>
+    <string name="area_info_6">Bu, çok fazla belleğin boşa harcandığı anlamına gelir.</string>
+    <string name="area_info_7">Bu sorunu çözmek için işinize yarayacak özel bir filtreye ihtiyacınız var.</string>
+    <string name="area_info_8">Ancak filtre oluşturmak, filtreler hakkında bilgi sahibi olmayı gerektirir.</string>
+    <string name="area_info_9">Bu nedenle birçok kullanıcı özel filtre oluşturmaktan vazgeçiyor.</string>
+    <string name="area_info_10">\'%s\' işlevi, filtreler hakkında herhangi bir bilgi gerektirmez.</string>
+    <string name="area_info_11">Herkes kolayca özel filtreler oluşturabilir.</string>
+    <string name="area_info_12">Engellemek istediğiniz nesneye uzun bastığınızda bir menü görünecektir.</string>
+    <string name="area_info_13">\'%s\' fonksiyonunu çalıştırıp uyguladığınızda otomatik olarak bir filtre oluşturulacaktır.</string>
+    <string name="area_info_14">Bu çok kolay.</string>
+    <string name="area_info_15">Hemen deneyin.</string>
 </resources>

@@ -418,11 +418,11 @@
     <string name="gesture">Gest</string>
     <string name="show_status">Afișează bara de stare</string>
     <string name="show_navi">Afișează bara de navigare</string>
-    <string name="address_label">Eticheta barei de căutare</string>
+    <string name="address_label">Eticheta barei de adrese</string>
     <string name="address_icon">Butonul din bara de căutare</string>
     <string name="addr_icon_info">2. Puteți să-l eliminați făcând clic pe pictogramă.</string>
-    <string name="address_bar">Bara de căutare</string>
-    <string name="address_menu">Meniul barei de căutare</string>
+    <string name="address_bar">Bara de adresa</string>
+    <string name="address_menu">Meniul barei de adrese</string>
     <string name="show_tab_bar">Afișează bara de file</string>
     <string name="tab_swipe_up">Glisați în sus bara de file</string>
     <string name="tab_swipe_dn">Glisați în jos pe bara de file</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">Simțiți-vă liber să-l încercați.</string>
     <string name="area_recom_1">Încercați să utilizați funcția \'%s\'.</string>
     <string name="area_recom_2">Funcția \'%s\' vă permite să selectați direct ceea ce doriți să blocați.</string>
+    <string name="area_info_1">Există peste 1,5 miliarde de site-uri web astăzi pe world wide web.</string>
+    <string name="area_info_2">De aceea, filtrul conține informații despre multe site-uri.</string>
+    <string name="area_info_3">Cu toate acestea, utilizatorii vizitează de obicei doar câteva site-uri.</string>
+    <string name="area_info_4">Doar o mică parte din informațiile conținute în filtru este ceea ce are nevoie utilizatorul.</string>
+    <string name="area_info_5">Utilizatorii adaugă adesea zeci de mii de linii de filtre pentru a obține cele câteva rânduri de informații de care au nevoie.</string>
+    <string name="area_info_6">Aceasta înseamnă că se irosește multă memorie.</string>
+    <string name="area_info_7">Pentru a rezolva această problemă, aveți nevoie de un filtru personalizat care funcționează pentru dvs.</string>
+    <string name="area_info_8">Cu toate acestea, crearea unui filtru necesită cunoștințe despre filtre.</string>
+    <string name="area_info_9">Din acest motiv, mulți utilizatori renunță la crearea de filtre personalizate.</string>
+    <string name="area_info_10">Funcția \'%s\' nu necesită cunoștințe despre filtre.</string>
+    <string name="area_info_11">Oricine poate crea cu ușurință filtre personalizate.</string>
+    <string name="area_info_12">Apăsați lung pe obiectul pe care doriți să-l blocați și va apărea un meniu.</string>
+    <string name="area_info_13">Când rulați și aplicați funcția \'%s\', va fi creat automat un filtru.</string>
+    <string name="area_info_14">Este foarte usor.</string>
+    <string name="area_info_15">Încercați-l chiar acum.</string>
 </resources>

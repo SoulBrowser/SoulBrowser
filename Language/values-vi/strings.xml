@@ -418,11 +418,11 @@
     <string name="gesture">Cử chỉ</string>
     <string name="show_status">Thanh trạng thái chương trình</string>
     <string name="show_navi">Hiển thị thanh điều hướng</string>
-    <string name="address_label">Nhãn thanh tìm kiếm</string>
+    <string name="address_label">Nhãn thanh địa chỉ</string>
     <string name="address_icon">Nút thanh tìm kiếm</string>
     <string name="addr_icon_info">2. Bạn có thể loại bỏ nó bằng cách nhấp vào biểu tượng.</string>
-    <string name="address_bar">Thanh tìm kiếm</string>
-    <string name="address_menu">Menu thanh tìm kiếm</string>
+    <string name="address_bar">Thanh địa chỉ</string>
+    <string name="address_menu">Trình đơn thanh địa chỉ</string>
     <string name="show_tab_bar">Hiển thị thanh tab</string>
     <string name="tab_swipe_up">Vuốt thanh tab lên</string>
     <string name="tab_swipe_dn">Vuốt thanh tab xuống</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">Hãy thử nó.</string>
     <string name="area_recom_1">Hãy thử sử dụng tính năng \'%s\'.</string>
     <string name="area_recom_2">Tính năng \'%s\' cho phép bạn trực tiếp chọn những gì bạn muốn chặn.</string>
+    <string name="area_info_1">Hiện nay có hơn 1,5 tỷ trang web trên mạng toàn cầu.</string>
+    <string name="area_info_2">Đó là lý do tại sao bộ lọc chứa thông tin về nhiều trang web.</string>
+    <string name="area_info_3">Tuy nhiên, người dùng thường chỉ truy cập một vài trang web.</string>
+    <string name="area_info_4">Chỉ một phần nhỏ thông tin chứa trong bộ lọc là những gì người dùng cần.</string>
+    <string name="area_info_5">Người dùng thường thêm hàng chục nghìn dòng bộ lọc để có được vài dòng thông tin họ cần.</string>
+    <string name="area_info_6">Điều này có nghĩa là rất nhiều bộ nhớ đang bị lãng phí.</string>
+    <string name="area_info_7">Để giải quyết vấn đề này, bạn cần một bộ lọc tùy chỉnh phù hợp với mình.</string>
+    <string name="area_info_8">Tuy nhiên, việc tạo bộ lọc đòi hỏi phải có kiến ​​thức về bộ lọc.</string>
+    <string name="area_info_9">Vì lý do này, nhiều người dùng từ bỏ việc tạo bộ lọc tùy chỉnh.</string>
+    <string name="area_info_10">Chức năng \'%s\' không yêu cầu bất kỳ kiến ​​thức nào về bộ lọc.</string>
+    <string name="area_info_11">Bất cứ ai cũng có thể dễ dàng tạo các bộ lọc tùy chỉnh.</string>
+    <string name="area_info_12">Nhấn và giữ đối tượng bạn muốn chặn và một menu sẽ xuất hiện.</string>
+    <string name="area_info_13">Khi bạn chạy và áp dụng chức năng \'%s\', bộ lọc sẽ được tạo tự động.</string>
+    <string name="area_info_14">Nó rất dễ.</string>
+    <string name="area_info_15">Hãy thử nó ngay bây giờ.</string>
 </resources>

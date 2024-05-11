@@ -418,11 +418,11 @@
     <string name="gesture">ジェスチャー</string>
     <string name="show_status">ステータスバーを表示</string>
     <string name="show_navi">ナビゲーションバーを表示する</string>
-    <string name="address_label">検索バーのラベル</string>
+    <string name="address_label">アドレスバーのラベル</string>
     <string name="address_icon">検索バーボタン</string>
     <string name="addr_icon_info">2.アイコンをクリックして削除することができます。</string>
-    <string name="address_bar">検索バー</string>
-    <string name="address_menu">検索バーメニュー</string>
+    <string name="address_bar">アドレスバー</string>
+    <string name="address_menu">アドレスバーメニュー</string>
     <string name="show_tab_bar">タブバーを表示</string>
     <string name="tab_swipe_up">タブバー上スワイプ</string>
     <string name="tab_swipe_dn">タブバー下スワイプ</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">自由に試してみてください。</string>
     <string name="area_recom_1">\'%s\'機能を試してください。</string>
     <string name="area_recom_2">\'%s\'機能を使用すると、ブロックしたいターゲットを直接選択できます。</string>
+    <string name="area_info_1">現在、ワールド ワイド ウェブ上には 15 億を超える Web サイトがあります。</string>
+    <string name="area_info_2">そのため、フィルタには多くのサイトに関する情報が含まれています。</string>
+    <string name="area_info_3">ただし、ユーザーは通常少数のサイトしか訪問しません。</string>
+    <string name="area_info_4">フィルタに含まれる情報のほんの一部だけがユーザーに必要な情報です。</string>
+    <string name="area_info_5">ユーザは、必要な数行の情報を得るために数万行のフィルタを追加することが多い。</string>
+    <string name="area_info_6">これは、多くのメモリが無駄になっていることを意味します。</string>
+    <string name="area_info_7">この問題を解決するには、自分に合ったカスタムフィルタが必要です。</string>
+    <string name="area_info_8">ただし、フィルタを作成するにはフィルタに関する知識が必要です。</string>
+    <string name="area_info_9">このため、多くのユーザーがカスタムフィルタの作成を放棄します。</string>
+    <string name="area_info_10">\'%s\'機能にはフィルタに関する知識は必要ありません。</string>
+    <string name="area_info_11">誰でも簡単にカスタマイズ可能なフィルタを作成できます。</string>
+    <string name="area_info_12">ブロックしたいオブジェクトを押し続けるとメニューが表示されます。</string>
+    <string name="area_info_13">\'%s\'機能を実行して適用すると、自動的にフィルタが生成されます。</string>
+    <string name="area_info_14">それはとても簡単です。</string>
+    <string name="area_info_15">今すぐ使ってみてください。</string>
 </resources>

@@ -418,11 +418,11 @@
     <string name="gesture">手勢</string>
     <string name="show_status">顯示通知欄</string>
     <string name="show_navi">顯示導航欄</string>
-    <string name="address_label">搜尋欄標籤</string>
+    <string name="address_label">網址列標籤</string>
     <string name="address_icon">搜尋欄按鈕</string>
     <string name="addr_icon_info">2. 您可以透過單擊圖示將其刪除</string>
-    <string name="address_bar">搜尋欄</string>
-    <string name="address_menu">搜尋欄選單</string>
+    <string name="address_bar">網址</string>
+    <string name="address_menu">網址列選單</string>
     <string name="show_tab_bar">顯示分頁欄</string>
     <string name="tab_swipe_up">向上滑動分頁欄</string>
     <string name="tab_swipe_dn">向下滑動分頁欄</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">請隨意嘗試</string>
     <string name="area_recom_1">嘗試使用\'%s\'功能</string>
     <string name="area_recom_2">\'%s\'功能可讓您直接選擇要封鎖的內容</string>
+    <string name="area_info_1">現今萬維網上有超過 15 億個網站</string>
+    <string name="area_info_2">这就是过滤器包含有关许多站点的信息的原因</string>
+    <string name="area_info_3">然而，用户通常只访问几个站点</string>
+    <string name="area_info_4">過濾器中包含的資訊中只有一小部分是使用者需要的</string>
+    <string name="area_info_5">使用者經常添加數萬行過濾器來獲取他們需要的幾行資訊</string>
+    <string name="area_info_6">这意味着大量内存被浪费</string>
+    <string name="area_info_7">为了解决这个问题，您需要一个适合您的自定义过滤器</string>
+    <string name="area_info_8">然而，创建过滤器需要有关过滤器的知识</string>
+    <string name="area_info_9">因此，许多用户放弃创建自定义过滤器</string>
+    <string name="area_info_10">\'%s\'功能不需要任何过滤器知识</string>
+    <string name="area_info_11">任何人都可以轻松创建自定义过滤器</string>
+    <string name="area_info_12">长按要阻止的对象，会出现一个菜单</string>
+    <string name="area_info_13">当您运行并应用\'%s\'功能时，将自动创建一个过滤器</string>
+    <string name="area_info_14">这很容易</string>
+    <string name="area_info_15">现在就尝试一下</string>
 </resources>

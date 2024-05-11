@@ -418,11 +418,11 @@
     <string name="gesture">Жест</string>
     <string name="show_status">Показати рядок стану</string>
     <string name="show_navi">Показати панель навігації</string>
-    <string name="address_label">Мітка рядка пошуку</string>
+    <string name="address_label">Мітка адресного рядка</string>
     <string name="address_icon">Кнопка рядка пошуку</string>
     <string name="addr_icon_info">2. Ви можете видалити його, натиснувши значок.</string>
-    <string name="address_bar">Панель пошуку</string>
-    <string name="address_menu">Меню рядка пошуку</string>
+    <string name="address_bar">Адресний рядок</string>
+    <string name="address_menu">Меню адресного рядка</string>
     <string name="show_tab_bar">Показувати панель вкладок</string>
     <string name="tab_swipe_up">Проведіть пальцем по вкладці вгору</string>
     <string name="tab_swipe_dn">Проведіть вниз по панелі вкладок</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">Не соромтеся спробувати.</string>
     <string name="area_recom_1">Спробуйте скористатися функцією \'%s\'.</string>
     <string name="area_recom_2">Функція \'%s\' дозволяє вам безпосередньо вибрати, що ви хочете заблокувати.</string>
+    <string name="area_info_1">Сьогодні у всесвітній павутині налічується понад 1,5 мільярда веб-сайтів.</string>
+    <string name="area_info_2">Тому фільтр містить інформацію про багато сайтів.</string>
+    <string name="area_info_3">Однак користувачі зазвичай відвідують лише кілька сайтів.</string>
+    <string name="area_info_4">Лише невелика частина інформації, що міститься у фільтрі, потрібна користувачеві.</string>
+    <string name="area_info_5">Користувачі часто додають десятки тисяч рядків фільтрів, щоб отримати кілька рядків необхідної інформації.</string>
+    <string name="area_info_6">Це означає, що витрачається багато пам’яті.</string>
+    <string name="area_info_7">Щоб вирішити цю проблему, вам потрібен спеціальний фільтр, який вам підходить.</string>
+    <string name="area_info_8">Однак для створення фільтра потрібні знання про фільтри.</string>
+    <string name="area_info_9">З цієї причини багато користувачів відмовляються від створення спеціальних фільтрів.</string>
+    <string name="area_info_10">Функція \'%s\' не потребує знання фільтрів.</string>
+    <string name="area_info_11">Кожен може легко створювати спеціальні фільтри.</string>
+    <string name="area_info_12">Тривале натискання на об’єкт, який потрібно заблокувати, з’явиться меню.</string>
+    <string name="area_info_13">Коли ви запускаєте та застосовуєте функцію \'%s\', фільтр буде створено автоматично.</string>
+    <string name="area_info_14">Це дуже просто.</string>
+    <string name="area_info_15">Спробуйте прямо зараз.</string>
 </resources>

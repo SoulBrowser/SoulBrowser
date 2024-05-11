@@ -418,11 +418,11 @@
     <string name="gesture">手势</string>
     <string name="show_status">显示通知栏</string>
     <string name="show_navi">显示导航栏</string>
-    <string name="address_label">搜索栏标签</string>
+    <string name="address_label">地址栏标签</string>
     <string name="address_icon">搜索栏按钮</string>
     <string name="addr_icon_info">2. 您可以通过单击图标将其删除</string>
-    <string name="address_bar">搜索栏</string>
-    <string name="address_menu">搜索栏菜单</string>
+    <string name="address_bar">地址栏</string>
+    <string name="address_menu">地址栏菜单</string>
     <string name="show_tab_bar">标签栏显示</string>
     <string name="tab_swipe_up">上划标签栏</string>
     <string name="tab_swipe_dn">下划标签栏</string>
@@ -1008,4 +1008,19 @@
     <string name="area_edit_guide_6">请随意尝试一下</string>
     <string name="area_recom_1">尝试使用\'%s\'功能</string>
     <string name="area_recom_2">\'%s\'功能允许您直接选择要阻止的内容</string>
+    <string name="area_info_1">当今万维网上有超过 15 亿个网站</string>
+    <string name="area_info_2">这就是过滤器包含有关许多站点的信息的原因</string>
+    <string name="area_info_3">然而，用户通常只访问几个站点</string>
+    <string name="area_info_4">过滤器中包含的信息中只有一小部分是用户需要的</string>
+    <string name="area_info_5">用户经常添加数万行过滤器来获取他们需要的几行信息</string>
+    <string name="area_info_6">这意味着大量内存被浪费</string>
+    <string name="area_info_7">为了解决这个问题，您需要一个适合您的自定义过滤器</string>
+    <string name="area_info_8">然而，创建过滤器需要有关过滤器的知识</string>
+    <string name="area_info_9">因此，许多用户放弃创建自定义过滤器</string>
+    <string name="area_info_10">\'%s\'功能不需要任何过滤器知识</string>
+    <string name="area_info_11">任何人都可以轻松创建自定义过滤器</string>
+    <string name="area_info_12">长按要阻止的对象，会出现一个菜单</string>
+    <string name="area_info_13">当您运行并应用\'%s\'功能时，将自动创建一个过滤器</string>
+    <string name="area_info_14">这很容易</string>
+    <string name="area_info_15">现在就尝试一下</string>
 </resources>
