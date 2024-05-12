@@ -1012,15 +1012,16 @@
     <string name="area_info_2">ولهذا السبب يحتوي الفلتر على معلومات حول العديد من المواقع.</string>
     <string name="area_info_3">ومع ذلك، يقوم المستخدمون عادةً بزيارة عدد قليل من المواقع فقط.</string>
     <string name="area_info_4">فقط جزء صغير من المعلومات الموجودة في الفلتر هو ما يحتاجه المستخدم.</string>
-    <string name="area_info_5">غالبًا ما يضيف المستخدمون عشرات الآلاف من أسطر المرشحات للحصول على الأسطر القليلة من المعلومات التي يحتاجون إليها.</string>
-    <string name="area_info_6">وهذا يعني أن الكثير من الذاكرة يتم إهدارها.</string>
-    <string name="area_info_7">لحل هذه المشكلة، أنت بحاجة إلى مرشح مخصص يناسبك.</string>
-    <string name="area_info_8">ومع ذلك، يتطلب إنشاء مرشح معرفة حول المرشحات.</string>
-    <string name="area_info_9">لهذا السبب، يتخلى العديد من المستخدمين عن إنشاء مرشحات مخصصة.</string>
-    <string name="area_info_10">لا تتطلب وظيفة \'%s\' أي معرفة بالمرشحات.</string>
-    <string name="area_info_11">يمكن لأي شخص بسهولة إنشاء مرشحات مخصصة.</string>
-    <string name="area_info_12">اضغط لفترة طويلة على الكائن الذي تريد حظره وستظهر القائمة.</string>
-    <string name="area_info_13">عند تشغيل وظيفة \'%s\' وتطبيقها، سيتم إنشاء عامل تصفية تلقائيًا.</string>
-    <string name="area_info_14">انه سهل جدا.</string>
-    <string name="area_info_15">جربه الآن.</string>
+    <string name="area_info_5">ومن الصعب جدًا معرفة أي مرشح يحتوي على المعلومات التي تحتاجها.</string>
+    <string name="area_info_6">غالبًا ما يضيف المستخدمون عشرات الآلاف من أسطر المرشحات للحصول على الأسطر القليلة من المعلومات التي يحتاجون إليها.</string>
+    <string name="area_info_7">وهذا يعني أن الكثير من الذاكرة يتم إهدارها.</string>
+    <string name="area_info_8">لحل هذه المشكلة، أنت بحاجة إلى مرشح مخصص يناسبك.</string>
+    <string name="area_info_9">ومع ذلك، يتطلب إنشاء مرشح معرفة حول المرشحات.</string>
+    <string name="area_info_10">لهذا السبب، يتخلى العديد من المستخدمين عن إنشاء مرشحات مخصصة.</string>
+    <string name="area_info_11">لا تتطلب وظيفة \'%s\' أي معرفة بالمرشحات.</string>
+    <string name="area_info_12">يمكن لأي شخص بسهولة إنشاء مرشحات مخصصة.</string>
+    <string name="area_info_13">اضغط لفترة طويلة على الكائن الذي تريد حظره وستظهر القائمة.</string>
+    <string name="area_info_14">عند تشغيل وظيفة \'%s\' وتطبيقها، سيتم إنشاء عامل تصفية تلقائيًا.</string>
+    <string name="area_info_15">انه سهل جدا.</string>
+    <string name="area_info_16">جربه الآن.</string>
 </resources>

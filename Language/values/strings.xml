@@ -1012,15 +1012,16 @@
     <string name="area_info_2">That\'s why the filter contains information about many sites.</string>
     <string name="area_info_3">However, users typically visit only a few sites.</string>
     <string name="area_info_4">Only a small portion of the information contained in the filter is what the user needs.</string>
-    <string name="area_info_5">Users often add tens of thousands of lines of filters to get the few lines of information they need.</string>
-    <string name="area_info_6">This means a lot of memory is being wasted.</string>
-    <string name="area_info_7">To solve this problem, you need a custom filter that works for you.</string>
-    <string name="area_info_8">However, creating a filter requires knowledge about filters.</string>
-    <string name="area_info_9">For this reason, many users give up on creating custom filters.</string>
-    <string name="area_info_10">The \'%s\' function does not require any knowledge of filters.</string>
-    <string name="area_info_11">Anyone can easily create custom filters.</string>
-    <string name="area_info_12">Long press on the object you want to block and a menu will appear.</string>
-    <string name="area_info_13">When you run and apply the \'%s\' function, a filter will be created automatically.</string>
-    <string name="area_info_14">It\'s very easy.</string>
-    <string name="area_info_15">Try it right now.</string>
+    <string name="area_info_5">And it is very difficult to know which filter contains the information you need.</string>
+    <string name="area_info_6">Users often add tens of thousands of lines of filters to get the few lines of information they need.</string>
+    <string name="area_info_7">This means a lot of memory is being wasted.</string>
+    <string name="area_info_8">To solve this problem, you need a custom filter that works for you.</string>
+    <string name="area_info_9">However, creating a filter requires knowledge about filters.</string>
+    <string name="area_info_10">For this reason, many users give up on creating custom filters.</string>
+    <string name="area_info_11">The \'%s\' function does not require any knowledge of filters.</string>
+    <string name="area_info_12">Anyone can easily create custom filters.</string>
+    <string name="area_info_13">Long press on the object you want to block and a menu will appear.</string>
+    <string name="area_info_14">When you run and apply the \'%s\' function, a filter will be created automatically.</string>
+    <string name="area_info_15">It\'s very easy.</string>
+    <string name="area_info_16">Try it right now.</string>
 </resources>

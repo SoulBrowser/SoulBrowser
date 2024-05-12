@@ -1012,15 +1012,16 @@
     <string name="area_info_2">Itu sebabnya filter berisi informasi tentang banyak situs.</string>
     <string name="area_info_3">Namun, pengguna biasanya hanya mengunjungi beberapa situs.</string>
     <string name="area_info_4">Hanya sebagian kecil informasi yang terdapat dalam filter yang dibutuhkan pengguna.</string>
-    <string name="area_info_5">Pengguna sering kali menambahkan puluhan ribu baris filter untuk mendapatkan beberapa baris informasi yang mereka perlukan.</string>
-    <string name="area_info_6">Ini berarti banyak memori yang terbuang.</string>
-    <string name="area_info_7">Untuk mengatasi masalah ini, Anda memerlukan filter khusus yang sesuai untuk Anda.</string>
-    <string name="area_info_8">Namun, membuat filter memerlukan pengetahuan tentang filter.</string>
-    <string name="area_info_9">Karena alasan ini, banyak pengguna menyerah dalam membuat filter khusus.</string>
-    <string name="area_info_10">Fungsi \'%s\' tidak memerlukan pengetahuan tentang filter.</string>
-    <string name="area_info_11">Siapa pun dapat dengan mudah membuat filter khusus.</string>
-    <string name="area_info_12">Tekan lama pada objek yang ingin Anda blokir dan sebuah menu akan muncul.</string>
-    <string name="area_info_13">Saat Anda menjalankan dan menerapkan fungsi \'%s\', filter akan dibuat secara otomatis.</string>
-    <string name="area_info_14">Ini sangat mudah.</string>
-    <string name="area_info_15">Cobalah sekarang.</string>
+    <string name="area_info_5">Dan sangat sulit untuk mengetahui filter mana yang berisi informasi yang Anda butuhkan.</string>
+    <string name="area_info_6">Pengguna sering kali menambahkan puluhan ribu baris filter untuk mendapatkan beberapa baris informasi yang mereka perlukan.</string>
+    <string name="area_info_7">Ini berarti banyak memori yang terbuang.</string>
+    <string name="area_info_8">Untuk mengatasi masalah ini, Anda memerlukan filter khusus yang sesuai untuk Anda.</string>
+    <string name="area_info_9">Namun, membuat filter memerlukan pengetahuan tentang filter.</string>
+    <string name="area_info_10">Karena alasan ini, banyak pengguna menyerah dalam membuat filter khusus.</string>
+    <string name="area_info_11">Fungsi \'%s\' tidak memerlukan pengetahuan tentang filter.</string>
+    <string name="area_info_12">Siapa pun dapat dengan mudah membuat filter khusus.</string>
+    <string name="area_info_13">Tekan lama pada objek yang ingin Anda blokir dan sebuah menu akan muncul.</string>
+    <string name="area_info_14">Saat Anda menjalankan dan menerapkan fungsi \'%s\', filter akan dibuat secara otomatis.</string>
+    <string name="area_info_15">Ini sangat mudah.</string>
+    <string name="area_info_16">Cobalah sekarang.</string>
 </resources>

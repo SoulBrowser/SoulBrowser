@@ -1012,15 +1012,16 @@
     <string name="area_info_2">Ecco perché il filtro contiene informazioni su molti siti.</string>
     <string name="area_info_3">Tuttavia, gli utenti in genere visitano solo pochi siti.</string>
     <string name="area_info_4">Solo una piccola parte delle informazioni contenute nel filtro è ciò di cui l\'utente ha bisogno.</string>
-    <string name="area_info_5">Gli utenti spesso aggiungono decine di migliaia di righe di filtri per ottenere le poche righe di informazioni di cui hanno bisogno.</string>
-    <string name="area_info_6">Ciò significa che viene sprecata molta memoria.</string>
-    <string name="area_info_7">Per risolvere questo problema, hai bisogno di un filtro personalizzato che funzioni per te.</string>
-    <string name="area_info_8">Tuttavia, la creazione di un filtro richiede la conoscenza dei filtri.</string>
-    <string name="area_info_9">Per questo motivo molti utenti rinunciano a creare filtri personalizzati.</string>
-    <string name="area_info_10">La funzione \'%s\' non richiede alcuna conoscenza dei filtri.</string>
-    <string name="area_info_11">Chiunque può facilmente creare filtri personalizzati.</string>
-    <string name="area_info_12">Premi a lungo sull\'oggetto che desideri bloccare e verrà visualizzato un menu.</string>
-    <string name="area_info_13">Quando esegui e applichi la funzione \'%s\', verrà creato automaticamente un filtro.</string>
-    <string name="area_info_14">È molto facile.</string>
-    <string name="area_info_15">Provalo adesso.</string>
+    <string name="area_info_5">Ed è molto difficile sapere quale filtro contiene le informazioni di cui hai bisogno.</string>
+    <string name="area_info_6">Gli utenti spesso aggiungono decine di migliaia di righe di filtri per ottenere le poche righe di informazioni di cui hanno bisogno.</string>
+    <string name="area_info_7">Ciò significa che viene sprecata molta memoria.</string>
+    <string name="area_info_8">Per risolvere questo problema, hai bisogno di un filtro personalizzato che funzioni per te.</string>
+    <string name="area_info_9">Tuttavia, la creazione di un filtro richiede la conoscenza dei filtri.</string>
+    <string name="area_info_10">Per questo motivo molti utenti rinunciano a creare filtri personalizzati.</string>
+    <string name="area_info_11">La funzione \'%s\' non richiede alcuna conoscenza dei filtri.</string>
+    <string name="area_info_12">Chiunque può facilmente creare filtri personalizzati.</string>
+    <string name="area_info_13">Premi a lungo sull\'oggetto che desideri bloccare e verrà visualizzato un menu.</string>
+    <string name="area_info_14">Quando esegui e applichi la funzione \'%s\', verrà creato automaticamente un filtro.</string>
+    <string name="area_info_15">È molto facile.</string>
+    <string name="area_info_16">Provalo adesso.</string>
 </resources>

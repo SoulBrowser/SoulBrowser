@@ -1012,15 +1012,16 @@
     <string name="area_info_2">Dlatego filtr zawiera informacje o wielu witrynach.</string>
     <string name="area_info_3">Jednak użytkownicy zazwyczaj odwiedzają tylko kilka witryn.</string>
     <string name="area_info_4">Tylko niewielka część informacji zawartych w filtrze jest tym, czego potrzebuje użytkownik.</string>
-    <string name="area_info_5">Użytkownicy często dodają dziesiątki tysięcy linii filtrów, aby uzyskać kilka linii potrzebnych informacji.</string>
-    <string name="area_info_6">Oznacza to, że marnuje się dużo pamięci.</string>
-    <string name="area_info_7">Aby rozwiązać ten problem, potrzebujesz niestandardowego filtra, który będzie dla Ciebie odpowiedni.</string>
-    <string name="area_info_8">Jednak utworzenie filtra wymaga wiedzy na temat filtrów.</string>
-    <string name="area_info_9">Z tego powodu wielu użytkowników rezygnuje z tworzenia własnych filtrów.</string>
-    <string name="area_info_10">Funkcja \'%s\' nie wymaga znajomości filtrów.</string>
-    <string name="area_info_11">Każdy może z łatwością tworzyć własne filtry.</string>
-    <string name="area_info_12">Naciśnij i przytrzymaj obiekt, który chcesz zablokować, a pojawi się menu.</string>
-    <string name="area_info_13">Po uruchomieniu i zastosowaniu funkcji \'%s\' filtr zostanie utworzony automatycznie.</string>
-    <string name="area_info_14">To jest bardzo łatwe.</string>
-    <string name="area_info_15">Spróbuj już teraz.</string>
+    <string name="area_info_5">Bardzo trudno jest ustalić, który filtr zawiera potrzebne informacje.</string>
+    <string name="area_info_6">Użytkownicy często dodają dziesiątki tysięcy linii filtrów, aby uzyskać kilka linii potrzebnych informacji.</string>
+    <string name="area_info_7">Oznacza to, że marnuje się dużo pamięci.</string>
+    <string name="area_info_8">Aby rozwiązać ten problem, potrzebujesz niestandardowego filtra, który będzie dla Ciebie odpowiedni.</string>
+    <string name="area_info_9">Jednak utworzenie filtra wymaga wiedzy na temat filtrów.</string>
+    <string name="area_info_10">Z tego powodu wielu użytkowników rezygnuje z tworzenia własnych filtrów.</string>
+    <string name="area_info_11">Funkcja \'%s\' nie wymaga znajomości filtrów.</string>
+    <string name="area_info_12">Każdy może z łatwością tworzyć własne filtry.</string>
+    <string name="area_info_13">Naciśnij i przytrzymaj obiekt, który chcesz zablokować, a pojawi się menu.</string>
+    <string name="area_info_14">Po uruchomieniu i zastosowaniu funkcji \'%s\' filtr zostanie utworzony automatycznie.</string>
+    <string name="area_info_15">To jest bardzo łatwe.</string>
+    <string name="area_info_16">Spróbuj już teraz.</string>
 </resources>

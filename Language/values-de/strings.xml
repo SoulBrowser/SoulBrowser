@@ -1012,15 +1012,16 @@
     <string name="area_info_2">Aus diesem Grund enthält der Filter Informationen zu vielen Websites.</string>
     <string name="area_info_3">Allerdings besuchen Benutzer normalerweise nur wenige Websites.</string>
     <string name="area_info_4">Nur ein kleiner Teil der im Filter enthaltenen Informationen entspricht den Bedürfnissen des Benutzers.</string>
-    <string name="area_info_5">Benutzer fügen häufig Zehntausende Filterzeilen hinzu, um die wenigen Informationszeilen zu erhalten, die sie benötigen.</string>
-    <string name="area_info_6">Dies bedeutet, dass viel Speicher verschwendet wird.</string>
-    <string name="area_info_7">Um dieses Problem zu lösen, benötigen Sie einen benutzerdefinierten Filter, der für Sie funktioniert.</string>
-    <string name="area_info_8">Das Erstellen eines Filters erfordert jedoch Kenntnisse über Filter.</string>
-    <string name="area_info_9">Aus diesem Grund verzichten viele Benutzer auf die Erstellung benutzerdefinierter Filter.</string>
-    <string name="area_info_10">Für die Funktion \'%s\' sind keine Filterkenntnisse erforderlich.</string>
-    <string name="area_info_11">Jeder kann ganz einfach benutzerdefinierte Filter erstellen.</string>
-    <string name="area_info_12">Drücken Sie lange auf das Objekt, das Sie blockieren möchten, und ein Menü wird angezeigt.</string>
-    <string name="area_info_13">Wenn Sie die Funktion \'%s\' ausführen und anwenden, wird automatisch ein Filter erstellt.</string>
-    <string name="area_info_14">Es ist sehr leicht.</string>
-    <string name="area_info_15">Probieren Sie es gleich aus.</string>
+    <string name="area_info_5">Und es ist sehr schwierig zu wissen, welcher Filter die benötigten Informationen enthält.</string>
+    <string name="area_info_6">Benutzer fügen häufig Zehntausende Filterzeilen hinzu, um die wenigen Informationszeilen zu erhalten, die sie benötigen.</string>
+    <string name="area_info_7">Dies bedeutet, dass viel Speicher verschwendet wird.</string>
+    <string name="area_info_8">Um dieses Problem zu lösen, benötigen Sie einen benutzerdefinierten Filter, der für Sie funktioniert.</string>
+    <string name="area_info_9">Das Erstellen eines Filters erfordert jedoch Kenntnisse über Filter.</string>
+    <string name="area_info_10">Aus diesem Grund verzichten viele Benutzer auf die Erstellung benutzerdefinierter Filter.</string>
+    <string name="area_info_11">Für die Funktion \'%s\' sind keine Filterkenntnisse erforderlich.</string>
+    <string name="area_info_12">Jeder kann ganz einfach benutzerdefinierte Filter erstellen.</string>
+    <string name="area_info_13">Drücken Sie lange auf das Objekt, das Sie blockieren möchten, und ein Menü wird angezeigt.</string>
+    <string name="area_info_14">Wenn Sie die Funktion \'%s\' ausführen und anwenden, wird automatisch ein Filter erstellt.</string>
+    <string name="area_info_15">Es ist sehr leicht.</string>
+    <string name="area_info_16">Probieren Sie es gleich aus.</string>
 </resources>
