@@ -149,7 +149,7 @@
     <string name="preview_image">Предварительный просмотр изображения</string>
     <string name="view_image">Просмотреть изображение</string>
     <string name="tab_image">Открыть изображение в новая вкладка</string>
-    <string name="only_image">Просмотр только изображений</string>
+    <string name="only_image">Просмотр изображений</string>
     <string name="downall_image">Сохранить все изображения</string>
     <string name="tab_list">Список вкладок</string>
     <string name="tab_item">Вкладка</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">Больше не показывать это сообщение</string>
     <string name="brightness">Яркость</string>
     <string name="default_image">Изображение по умолчанию</string>
-    <string name="photo_editor">Редактор фотографий</string>
+    <string name="photo_editor">Редактор изображений</string>
     <string name="color_size">Толщина</string>
     <string name="color_alpha">Прозрачность</string>
     <string name="add_icon">Кнопка добавления</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">Разрешить всплывающее окно на текущей странице</string>
     <string name="image_list">Список изображений</string>
     <string name="image_cast_guide_1">Открыть сайт с изображением.</string>
-    <string name="image_cast_guide_2">Выберите \'Просмотр только изображений\' или \'Сохранить все изображения\'.</string>
+    <string name="image_cast_guide_2">Выберите \'%1$s\' или \'%2$s\'.</string>
     <string name="image_cast_guide_3">Выберите изображение.</string>
     <string name="local_cast_guide_1">Выберите значок списка телевиз. кастов.</string>
     <string name="local_cast_guide_2">Пожалуйста, выберите элемент.</string>

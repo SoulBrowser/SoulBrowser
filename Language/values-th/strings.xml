@@ -149,7 +149,7 @@
     <string name="preview_image">ดูตัวอย่างรูปภาพ</string>
     <string name="view_image">ดูรูปภาพ</string>
     <string name="tab_image">เปิดรูปภาพในแท็บใหม่</string>
-    <string name="only_image">ดูภาพเท่านั้น</string>
+    <string name="only_image">โปรแกรมดูรูปภาพ</string>
     <string name="downall_image">บันทึกภาพทั้งหมด</string>
     <string name="tab_list">รายการแท็บ</string>
     <string name="tab_item">แถบ</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">อย่าแสดงข้อความนี้อีกครั้ง</string>
     <string name="brightness">ความสว่าง</string>
     <string name="default_image">รูปภาพเริ่มต้น</string>
-    <string name="photo_editor">ตัวแก้ไขรูปภาพ</string>
+    <string name="photo_editor">โปรแกรมแก้ไขรูปภาพ</string>
     <string name="color_size">ความหนา</string>
     <string name="color_alpha">ความโปร่งใส</string>
     <string name="add_icon">ปุ่มเพิ่ม</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">อนุญาตป๊อปอัปในหน้าปัจจุบัน</string>
     <string name="image_list">รายการรูปภาพ</string>
     <string name="image_cast_guide_1">เยี่ยมชมเว็บไซต์ด้วยภาพ</string>
-    <string name="image_cast_guide_2">เลือก \'ดูภาพเท่านั้น\' หรือ \'บันทึกภาพทั้งหมด\'</string>
+    <string name="image_cast_guide_2">เลือก \'%1$s\' หรือ \'%2$s\'</string>
     <string name="image_cast_guide_3">กรุณาเลือกภาพ</string>
     <string name="local_cast_guide_1">เลือกไอคอนรายการทีวี</string>
     <string name="local_cast_guide_2">กรุณาเลือกรายการ</string>

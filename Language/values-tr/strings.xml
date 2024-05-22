@@ -149,7 +149,7 @@
     <string name="preview_image">Resmi önizle</string>
     <string name="view_image">Resmi görüntüle</string>
     <string name="tab_image">Resmi yeni sekmede aç</string>
-    <string name="only_image">Sadece görüntüleri göster</string>
+    <string name="only_image">Resim görüntüleyici</string>
     <string name="downall_image">Tüm resimleri kaydet</string>
     <string name="tab_list">Sekme listesi</string>
     <string name="tab_item">Sekme</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">Bu mesajı bir daha gösterme</string>
     <string name="brightness">Parlaklık</string>
     <string name="default_image">Varsayılan resim</string>
-    <string name="photo_editor">Fotoğraf düzenleyici</string>
+    <string name="photo_editor">Resim düzenleyici</string>
     <string name="color_size">Kalınlık</string>
     <string name="color_alpha">Şeffaflık</string>
     <string name="add_icon">Ekle düğmesi</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">Mevcut sayfada popup izin ver</string>
     <string name="image_list">Görüntü listesi</string>
     <string name="image_cast_guide_1">Resmi içeren siteyi ziyaret edin.</string>
-    <string name="image_cast_guide_2">\'Sadece görüntüleri göster\' veya \'Tüm resimleri kaydet\' i seçin.</string>
+    <string name="image_cast_guide_2">\'%1$s\' veya \'%2$s\' i seçin.</string>
     <string name="image_cast_guide_3">Lütfen bir resim seçin.</string>
     <string name="local_cast_guide_1">TV yayın listesi simgesini seçin.</string>
     <string name="local_cast_guide_2">Lütfen bir öğe seçin.</string>

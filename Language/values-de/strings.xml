@@ -149,7 +149,7 @@
     <string name="preview_image">Vorschaubild</string>
     <string name="view_image">Bild ansehen</string>
     <string name="tab_image">Öffne das Bild in einem neuen Tab</string>
-    <string name="only_image">Nur Bilder anzeigen</string>
+    <string name="only_image">Bildbetrachter</string>
     <string name="downall_image">Alle Bilder speichern</string>
     <string name="tab_list">Tab-Liste</string>
     <string name="tab_item">Tab</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">Nachricht nicht noch einmal zeigen</string>
     <string name="brightness">Helligkeit</string>
     <string name="default_image">Standardbild</string>
-    <string name="photo_editor">Fotoeditor</string>
+    <string name="photo_editor">Bildbearbeiter</string>
     <string name="color_size">Größe</string>
     <string name="color_alpha">Transparenz</string>
     <string name="add_icon">Schaltfläche Hinzufügen</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">Popup auf aktueller Adresse zulassen</string>
     <string name="image_list">Bildliste</string>
     <string name="image_cast_guide_1">Besuchen Sie die Website des Bildes.</string>
-    <string name="image_cast_guide_2">Wähle \'Nur Bilder anzeigen\' oder \'Alle Bilder speichern\'.</string>
+    <string name="image_cast_guide_2">Wähle \'%1$s\' oder \'%2$s\'.</string>
     <string name="image_cast_guide_3">Bitte wählen Sie ein Bild aus.</string>
     <string name="local_cast_guide_1">Wählen Sie das Symbol für die TV-Liste.</string>
     <string name="local_cast_guide_2">Bitte wählen Sie einen Artikel.</string>

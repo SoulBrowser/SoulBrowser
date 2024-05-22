@@ -149,7 +149,7 @@
     <string name="preview_image">Попередній перегляд зображення</string>
     <string name="view_image">Переглянути зображення</string>
     <string name="tab_image">Відкрити зображення в новій вкладці</string>
-    <string name="only_image">Перегляд лише зображень</string>
+    <string name="only_image">Переглядач зображень</string>
     <string name="downall_image">Зберегти всі зображення</string>
     <string name="tab_list">Список вкладок</string>
     <string name="tab_item">Вкладка</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">Не показувати цю пораду знову</string>
     <string name="brightness">Яскравість</string>
     <string name="default_image">Зображення за замовчуванням</string>
-    <string name="photo_editor">фоторедактор</string>
+    <string name="photo_editor">Редактор зображень</string>
     <string name="color_size">Товщина</string>
     <string name="color_alpha">Прозорість</string>
     <string name="add_icon">Кнопка додати</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">Дозволити спливаюче вікно на поточній сторінці</string>
     <string name="image_list">Список зображень</string>
     <string name="image_cast_guide_1">Завітайте на сайт із зображенням.</string>
-    <string name="image_cast_guide_2">Виберіть \'Перегляд лише зображень\' або \'Зберегти всі зображення\'.</string>
+    <string name="image_cast_guide_2">Виберіть \'%1$s\' або \'%2$s\'.</string>
     <string name="image_cast_guide_3">Виберіть зображення.</string>
     <string name="local_cast_guide_1">Виберіть піктограму списку телепередач.</string>
     <string name="local_cast_guide_2">Виберіть пункт.</string>

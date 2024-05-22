@@ -149,7 +149,7 @@
     <string name="preview_image">معاينة الصورة</string>
     <string name="view_image">عرض الصورة</string>
     <string name="tab_image">إفتح الصورة بصفحة جديدة</string>
-    <string name="only_image">عرض الصورة فقط</string>
+    <string name="only_image">عارض الصور</string>
     <string name="downall_image">احفظ كل الصور</string>
     <string name="tab_list">قائمة الجدولة</string>
     <string name="tab_item">التبويب</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">لا تظهر هذه الرسالة مرة أخرى</string>
     <string name="brightness">سطوع</string>
     <string name="default_image">الصورة الأساسية</string>
-    <string name="photo_editor">معدل الصور</string>
+    <string name="photo_editor">محرر الصور</string>
     <string name="color_size">سماكة</string>
     <string name="color_alpha">الشفافية</string>
     <string name="add_icon">زر الإضافة</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">السماح بالقافزة المنبثقة على الصفحة الحالية</string>
     <string name="image_list">قائمة الصور</string>
     <string name="image_cast_guide_1">قم بزيارة موقع بالصور.</string>
-    <string name="image_cast_guide_2">حدد عرض الصور فقط أو حفظ كل الصور.</string>
+    <string name="image_cast_guide_2">اختر \'%1$s\' أو \'%2$s\'.</string>
     <string name="image_cast_guide_3">اختر صورة.</string>
     <string name="local_cast_guide_1">حدد أيقونة TV Cast List.</string>
     <string name="local_cast_guide_2">الرجاء تحديد عنصر.</string>

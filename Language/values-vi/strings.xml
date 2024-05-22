@@ -149,7 +149,7 @@
     <string name="preview_image">Xem trước hình ảnh</string>
     <string name="view_image">Xem hình ảnh</string>
     <string name="tab_image">Mở hình ảnh trong trang mới</string>
-    <string name="only_image">Chỉ xem hình ảnh</string>
+    <string name="only_image">Xem ảnh</string>
     <string name="downall_image">Lưu tất cả hình ảnh</string>
     <string name="tab_list">Danh sách tab</string>
     <string name="tab_item">Tab</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">Không hiển thị thông báo này nữa</string>
     <string name="brightness">Độ sáng</string>
     <string name="default_image">Hình ảnh mặc định</string>
-    <string name="photo_editor">Trình chỉnh sửa ảnh</string>
+    <string name="photo_editor">Biên tập hình ảnh</string>
     <string name="color_size">Độ dày</string>
     <string name="color_alpha">Minh bạch</string>
     <string name="add_icon">Thêm nút</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">Cho phép cửa sổ bật lên trên trang hiện tại</string>
     <string name="image_list">Danh sách hình ảnh</string>
     <string name="image_cast_guide_1">Ghé thăm trang web với hình ảnh.</string>
-    <string name="image_cast_guide_2">Chọn \'Chỉ xem hình ảnh\' hoặc \'Lưu tất cả hình ảnh\'.</string>
+    <string name="image_cast_guide_2">Chọn \'%1$s\' hoặc \'%2$s\'.</string>
     <string name="image_cast_guide_3">Vui lòng chọn một hình ảnh.</string>
     <string name="local_cast_guide_1">Chọn biểu tượng danh sách truyền màn hình.</string>
     <string name="local_cast_guide_2">Vui lòng chọn một mục.</string>

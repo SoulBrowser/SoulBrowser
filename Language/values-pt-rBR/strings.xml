@@ -149,7 +149,7 @@
     <string name="preview_image">Prever imagem</string>
     <string name="view_image">Ver imagem</string>
     <string name="tab_image">Abra a imagem em uma nova guia</string>
-    <string name="only_image">Ver apenas imagens</string>
+    <string name="only_image">Visualizador de imagens</string>
     <string name="downall_image">Salvar todas as imagens</string>
     <string name="tab_list">Lista de guias</string>
     <string name="tab_item">Guia</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">Não mostrar esta mensagem novamente</string>
     <string name="brightness">Brilho</string>
     <string name="default_image">Imagem padrão</string>
-    <string name="photo_editor">Editor de fotos</string>
+    <string name="photo_editor">Editor de imagem</string>
     <string name="color_size">Espessura</string>
     <string name="color_alpha">Transparência</string>
     <string name="add_icon">Botão adicionar</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">Permitir popup na página atual</string>
     <string name="image_list">Lista imagens</string>
     <string name="image_cast_guide_1">Visitar o site com a imagem.</string>
-    <string name="image_cast_guide_2">Selecione \'Ver apenas imagens\' ou \'Salvar todas as imagens\'.</string>
+    <string name="image_cast_guide_2">Selecione \'%1$s\' ou \'%2$s\'.</string>
     <string name="image_cast_guide_3">Selecione uma imagem.</string>
     <string name="local_cast_guide_1">Selecione o ícone da lista de transmissão para TV.</string>
     <string name="local_cast_guide_2">Por favor, selecione um item.</string>

@@ -149,7 +149,7 @@
     <string name="preview_image">Previzualizați imagine</string>
     <string name="view_image">Vizualizare imagine</string>
     <string name="tab_image">Deschideți imaginea într-o filă nouă</string>
-    <string name="only_image">Vizualizați doar imagini</string>
+    <string name="only_image">Vizualizator de imagini</string>
     <string name="downall_image">Salvați toate imaginile</string>
     <string name="tab_list">Lista file</string>
     <string name="tab_item">Tab</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">Nu afișați din nou acest mesaj</string>
     <string name="brightness">Luminozitate</string>
     <string name="default_image">Imagine implicită</string>
-    <string name="photo_editor">Editor foto</string>
+    <string name="photo_editor">Editor de imagini</string>
     <string name="color_size">Grosime</string>
     <string name="color_alpha">Transparență</string>
     <string name="add_icon">Buton adăugare</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">Permite popup pe pagina curentă</string>
     <string name="image_list">Listă de imagini</string>
     <string name="image_cast_guide_1">Accesați site-ul cu imaginea.</string>
-    <string name="image_cast_guide_2">Selectați \'Afișați doar imagini\' sau \'Salvați toate imaginile\'.</string>
+    <string name="image_cast_guide_2">Selectați \'%1$s\' sau \'%2$s\'.</string>
     <string name="image_cast_guide_3">Selectați o imagine.</string>
     <string name="local_cast_guide_1">Selectați pictograma în lista de distribuție TV.</string>
     <string name="local_cast_guide_2">Vă rugăm să selectați un articol.</string>

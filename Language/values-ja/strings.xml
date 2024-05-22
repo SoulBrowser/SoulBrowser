@@ -149,7 +149,7 @@
     <string name="preview_image">プレビュー画像</string>
     <string name="view_image">画像を見る</string>
     <string name="tab_image">新しいタブで画像を開く</string>
-    <string name="only_image">画像のみを表示</string>
+    <string name="only_image">画像ビューア</string>
     <string name="downall_image">すべての画像を保存</string>
     <string name="tab_list">タブ一覧</string>
     <string name="tab_item">タブ</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">このメッセージを次から表示しない</string>
     <string name="brightness">輝度</string>
     <string name="default_image">基本画像</string>
-    <string name="photo_editor">フォトエディター</string>
+    <string name="photo_editor">画像エディタ</string>
     <string name="color_size">太さ</string>
     <string name="color_alpha">透明度</string>
     <string name="add_icon">追加ボタン</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">現在のページでポップアップを許可する</string>
     <string name="image_list">画像リスト</string>
     <string name="image_cast_guide_1">画像があるサイトをご覧ください。</string>
-    <string name="image_cast_guide_2">\'画像のみを表示\'や\'すべての画像を保存\'を選択します</string>
+    <string name="image_cast_guide_2">\'%1$s\'や\'%2$s\'を選択します</string>
     <string name="image_cast_guide_3">画像を選択してください。</string>
     <string name="local_cast_guide_1">TVキャストリストのアイコンを選択します。</string>
     <string name="local_cast_guide_2">項目を選択してください。</string>

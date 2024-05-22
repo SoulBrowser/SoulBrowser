@@ -149,7 +149,7 @@
     <string name="preview_image">预览图片</string>
     <string name="view_image">查看图片</string>
     <string name="tab_image">在新标签页中打开图像</string>
-    <string name="only_image">看图模式</string>
+    <string name="only_image">图片浏览器</string>
     <string name="downall_image">保存所有图像</string>
     <string name="tab_list">标签列表</string>
     <string name="tab_item">标签</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">不要再显示此消息</string>
     <string name="brightness">亮度</string>
     <string name="default_image">默认图像</string>
-    <string name="photo_editor">图像编辑器</string>
+    <string name="photo_editor">图片编辑器</string>
     <string name="color_size">厚度</string>
     <string name="color_alpha">透明度</string>
     <string name="add_icon">添加按钮</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">允许在当前页面上弹出窗口</string>
     <string name="image_list">图片列表</string>
     <string name="image_cast_guide_1">访问带有图片的网站</string>
-    <string name="image_cast_guide_2">选择\'仅查看图像\'或\'保存所有图像\'</string>
+    <string name="image_cast_guide_2">选择\'%1$s\'或\'%2$s\'</string>
     <string name="image_cast_guide_3">请选择一张图片</string>
     <string name="local_cast_guide_1">选择电视广播列表图标</string>
     <string name="local_cast_guide_2">请选择一个项目</string>

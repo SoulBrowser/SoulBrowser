@@ -149,7 +149,7 @@
     <string name="preview_image">Imagen de vista previa</string>
     <string name="view_image">Ver imagen</string>
     <string name="tab_image">Abierta la imagen en una nueva pestaña</string>
-    <string name="only_image">Ver solo imágenes</string>
+    <string name="only_image">Visor de imágenes</string>
     <string name="downall_image">Guardar todas las imágenes</string>
     <string name="tab_list">Lista pestañas</string>
     <string name="tab_item">Pestaña</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">No mostrar este mensaje de nuevo</string>
     <string name="brightness">Brillo</string>
     <string name="default_image">Imagen por defecto</string>
-    <string name="photo_editor">Editor de fotos</string>
+    <string name="photo_editor">Editor de imagen</string>
     <string name="color_size">Espesor</string>
     <string name="color_alpha">Transparencia</string>
     <string name="add_icon">Botón agregar</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">Permitir ventana emergente en la página actual</string>
     <string name="image_list">Lista de imágenes</string>
     <string name="image_cast_guide_1">Visita el sitio con la imagen.</string>
-    <string name="image_cast_guide_2">Seleccione \'Ver solo imágenes\' o \'Guarda todas imágenes\'.</string>
+    <string name="image_cast_guide_2">Seleccione \'%1$s\' o \'%2$s\'.</string>
     <string name="image_cast_guide_3">Por favor seleccione una imagen.</string>
     <string name="local_cast_guide_1">Selecciona el ícono de la lista de TV Cast.</string>
     <string name="local_cast_guide_2">Por favor seleccione un artículo.</string>

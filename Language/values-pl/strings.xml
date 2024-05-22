@@ -149,7 +149,7 @@
     <string name="preview_image">Podgląd obrazu</string>
     <string name="view_image">Wyświetl obraz</string>
     <string name="tab_image">Otwórz obraz w nowej karcie</string>
-    <string name="only_image">Wyświetl tylko obrazy</string>
+    <string name="only_image">Przeglądarka obrazów</string>
     <string name="downall_image">Zapisz wszystkie obrazy</string>
     <string name="tab_list">Lista kart</string>
     <string name="tab_item">Karta</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">Nie pokazuj więcej tego komunikatu</string>
     <string name="brightness">Jasność</string>
     <string name="default_image">Domyślny obraz</string>
-    <string name="photo_editor">Edytor zdjęć</string>
+    <string name="photo_editor">Edytor obrazów</string>
     <string name="color_size">Grubość</string>
     <string name="color_alpha">Przezroczystość</string>
     <string name="add_icon">Dodaj przycisk</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">Zezwól na wyskakujące okienka na bieżącej stronie</string>
     <string name="image_list">Lista obrazków</string>
     <string name="image_cast_guide_1">Odwiedź stronę z obrazem.</string>
-    <string name="image_cast_guide_2">Wybierz „Wyświetl tylko obrazy” lub „Zapisz wszystkie obrazy”.</string>
+    <string name="image_cast_guide_2">Wybierz \'%1$s\' lub \'%2$s\'.</string>
     <string name="image_cast_guide_3">Wybierz obraz.</string>
     <string name="local_cast_guide_1">Wybierz ikonę listy transmisji TV.</string>
     <string name="local_cast_guide_2">Wybierz element.</string>

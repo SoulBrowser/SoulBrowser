@@ -149,7 +149,7 @@
     <string name="preview_image">पूर्वावलोकन छवि</string>
     <string name="view_image">छवि देखें</string>
     <string name="tab_image">नए टैब में चित्र को खोलें</string>
-    <string name="only_image">केवल चित्र देखें</string>
+    <string name="only_image">छवि दर्शक</string>
     <string name="downall_image">सभी इमेज सेव करें</string>
     <string name="tab_list">टैब सूची</string>
     <string name="tab_item">टैब</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">इस संदेश को फिर ना दिखाना</string>
     <string name="brightness">चमक</string>
     <string name="default_image">डिफ़ॉल्ट छवि</string>
-    <string name="photo_editor">तस्वीर संपादक</string>
+    <string name="photo_editor">छवि संपादक</string>
     <string name="color_size">मोटाई</string>
     <string name="color_alpha">पारदर्शिता</string>
     <string name="add_icon">बटन जोड़ें</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">वर्तमान पृष्ठ पर पॉपअप की अनुमति दें</string>
     <string name="image_list">छवि सूची</string>
     <string name="image_cast_guide_1">छवि के साथ साइट पर जाएँ।</string>
-    <string name="image_cast_guide_2">\'केवल चित्र देखें\' या \'सभी चित्र सहेजें\' चुनें।</string>
+    <string name="image_cast_guide_2">\'%1$s\' या \'%2$s\' चुनें।</string>
     <string name="image_cast_guide_3">एक छवि का चयन करें।</string>
     <string name="local_cast_guide_1">टीवी कास्ट सूची आइकन चुनें।</string>
     <string name="local_cast_guide_2">कोई वस्तु चुनें।</string>

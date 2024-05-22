@@ -149,7 +149,7 @@
     <string name="preview_image">預覽圖片</string>
     <string name="view_image">查看圖片</string>
     <string name="tab_image">在新分頁中開啟圖片</string>
-    <string name="only_image">看圖模式</string>
+    <string name="only_image">圖片瀏覽器</string>
     <string name="downall_image">儲存所有圖片</string>
     <string name="tab_list">分頁列表</string>
     <string name="tab_item">分頁</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">不再顯示此訊息</string>
     <string name="brightness">亮度</string>
     <string name="default_image">預設圖片</string>
-    <string name="photo_editor">照片編輯器</string>
+    <string name="photo_editor">圖片編輯器</string>
     <string name="color_size">濃度</string>
     <string name="color_alpha">透明度</string>
     <string name="add_icon">新增按鈕</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">允許在當前頁面上彈出窗口</string>
     <string name="image_list">圖片列表</string>
     <string name="image_cast_guide_1">訪問帶有圖片的網站</string>
-    <string name="image_cast_guide_2">選擇\'僅查看圖片\'或\'儲存所有圖片\'</string>
+    <string name="image_cast_guide_2">選擇\'%1$s\'或\'%2$s\'</string>
     <string name="image_cast_guide_3">請選擇一張圖片</string>
     <string name="local_cast_guide_1">選擇電視投放列表圖示</string>
     <string name="local_cast_guide_2">請選擇一個項目</string>

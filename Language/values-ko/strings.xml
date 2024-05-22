@@ -149,7 +149,7 @@
     <string name="preview_image">이미지 미리보기</string>
     <string name="view_image">이미지 보기</string>
     <string name="tab_image">새 탭에서 이미지 열기</string>
-    <string name="only_image">이미지만 보기</string>
+    <string name="only_image">이미지 뷰어</string>
     <string name="downall_image">이미지 모두 저장</string>
     <string name="tab_list">탭 목록</string>
     <string name="tab_item">탭</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">이 메시지를 다시 표시하지 않음</string>
     <string name="brightness">밝기</string>
     <string name="default_image">기본 이미지</string>
-    <string name="photo_editor">포토 에디터</string>
+    <string name="photo_editor">이미지 편집</string>
     <string name="color_size">굵기</string>
     <string name="color_alpha">투명도</string>
     <string name="add_icon">추가 버튼</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">현재 페이지에서 팝업 허용</string>
     <string name="image_list">이미지 목록</string>
     <string name="image_cast_guide_1">이미지가 있는 사이트를 방문합니다.</string>
-    <string name="image_cast_guide_2">\'이미지만 보기\'나 \'이미지 모두 저장\'을 선택합니다.</string>
+    <string name="image_cast_guide_2">\'%1$s\'나 \'%2$s\'을 선택합니다.</string>
     <string name="image_cast_guide_3">이미지를 선택하십시오.</string>
     <string name="local_cast_guide_1">TV 캐스트 목록 아이콘을 선택합니다.</string>
     <string name="local_cast_guide_2">항목을 선택하십시오.</string>

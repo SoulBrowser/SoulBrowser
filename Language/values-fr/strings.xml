@@ -149,7 +149,7 @@
     <string name="preview_image">Aperçu image</string>
     <string name="view_image">Voir image</string>
     <string name="tab_image">Ouvrir l\'image dans un nouvel onglet</string>
-    <string name="only_image">Voir seulement les images</string>
+    <string name="only_image">Visionneuse d\'images</string>
     <string name="downall_image">Enregistrer toutes les images</string>
     <string name="tab_list">Liste onglets</string>
     <string name="tab_item">Onglet</string>
@@ -323,7 +323,7 @@
     <string name="message_confirm">Ne plus afficher ce message</string>
     <string name="brightness">Luminosité</string>
     <string name="default_image">Image par défaut</string>
-    <string name="photo_editor">Éditeur de photos</string>
+    <string name="photo_editor">Éditeur d\'images</string>
     <string name="color_size">Épaisseur</string>
     <string name="color_alpha">Transparence</string>
     <string name="add_icon">Ajouter un bouton</string>
@@ -459,7 +459,7 @@
     <string name="pop_allow_page">Autoriser les fenêtres contextuelles sur la page actuelle</string>
     <string name="image_list">Liste images</string>
     <string name="image_cast_guide_1">Visitez le site avec l\'image.</string>
-    <string name="image_cast_guide_2">Sélectionnez \'Voir seulement les images\' ou \'Enregistrer toutes images\'.</string>
+    <string name="image_cast_guide_2">Sélectionnez \'%1$s\' ou \'%2$s\'.</string>
     <string name="image_cast_guide_3">Veuillez sélectionner une image.</string>
     <string name="local_cast_guide_1">Sélectionnez l\'icône de liste de diffusion TV.</string>
     <string name="local_cast_guide_2">Veuillez sélectionner un article.</string>
