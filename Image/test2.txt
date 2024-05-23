@@ -89,7 +89,6 @@ whs|marumaru|div[class*="banner"]
 wh=|dft_yap|a[target="_blank"]
 //eg
 yahoo.com##div[class*="pencil-ad"],div[class="caas-da"],div[id*="ad_wp"],div[id*="pencilAd"],li[class*="native-ad"],li[class*="stream-ad"],li[class*="stream-sm-ad"]
-reddit.com##a[rel="nofollow"],a[rel="noopener"],a[rel="sponsored"],[class^="xPromo"]
 pornhub.com##div[class*="adContainer"],div[class*="removeAdLink"],div[id=adSpot],a[href^="https://a.adtng.com/"],ins[class="adsbytrafficjunky"]
 avgle.com##div[class=video-banner],div[id*="ps32-container"]
 dailymotion.com##div[id*="google_ads_iframe"]
