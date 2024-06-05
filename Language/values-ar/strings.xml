@@ -125,8 +125,7 @@
     <string name="app_site">افتح في المتصفح</string>
     <string name="app_block_info1">منع الموقع من تشغيل تطبيقات أخرى.</string>
     <string name="app_block_info2">إذا كانت معلومات الموقع متوفرة ، افتح الموقع.</string>
-    <string name="app_block_noti">أحاول تشغيل تطبيق آخر على الموقع.</string>
-    <string name="open_app">برنامج</string>
+    <string name="app_block_noti">تم حظر التطبيق</string>
     <string name="link_app">افتح الرابط مع التطبيق</string>
     <string name="link">حلقة الوصل</string>
     <string name="open_url">فتح</string>
@@ -164,7 +163,6 @@
     <string name="undelete">الحذف</string>
     <string name="close">أغلق</string>
     <string name="app_exit">اخرج من التطبيق</string>
-    <string name="open">فتح</string>
     <string name="image_fail">فشل تحميل الصورة</string>
     <string name="time_day">يوم</string>
     <string name="time_h">الوقت</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">نظرًا لسياسة YouTube ، لا يمكن تنزيل مقاطع فيديو YouTube.</string>
     <string name="down_limit">تنزيل متزامن</string>
     <string name="down_limit_info">قد يؤدي تنزيل عدد كبير جدًا من الملفات في نفس الوقت إلى إبطاء جهازك والتسبب في حدوث مشكلات.</string>
+    <string name="down_noti">تنزيل إشعار الانتهاء</string>
     <string name="not_allow">غير مسموح</string>
     <string name="quick_access">الاختصارات</string>
     <string name="quick_home">استخدم في الصفحة الرئيسية</string>
@@ -937,7 +936,6 @@
     <string name="float_button">زر عائم</string>
     <string name="button_title">زر</string>
     <string name="always_visible">دائما مرئي</string>
-    <string name="guide_tsfile">إذا تم تشفير الملف ، فلا يمكن تشغيله.</string>
     <string name="view_certi">مشاهدة الشهادة</string>
     <string name="no_info">لا يوجد معلومات</string>
     <string name="size_guide_1">في بعض الأحيان عند تنزيل ملف ، يتغير الحجم الإجمالي للملف باستمرار.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">عند تشغيل وظيفة \'%s\' وتطبيقها، سيتم إنشاء عامل تصفية تلقائيًا.</string>
     <string name="area_info_15">انه سهل جدا.</string>
     <string name="area_info_16">جربه الآن.</string>
+    <string name="freq_asked">أسئلة مكررة</string>
 </resources>

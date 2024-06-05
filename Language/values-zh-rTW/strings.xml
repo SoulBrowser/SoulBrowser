@@ -125,8 +125,7 @@
     <string name="app_site">在瀏覽器中開啟</string>
     <string name="app_block_info1">阻止該網站運行其他應用程式</string>
     <string name="app_block_info2">如果網站資訊可用，則開啟網站</string>
-    <string name="app_block_noti">該網站正在嘗試運行另一個應用程式</string>
-    <string name="open_app">應用程式</string>
+    <string name="app_block_noti">應用程式被阻止</string>
     <string name="link_app">使用應用程式開啟連結</string>
     <string name="link">連結</string>
     <string name="open_url">開啟</string>
@@ -164,7 +163,6 @@
     <string name="undelete">復原</string>
     <string name="close">關閉</string>
     <string name="app_exit">退出應用程式</string>
-    <string name="open">開啟</string>
     <string name="image_fail">無法載入圖片</string>
     <string name="time_day">天</string>
     <string name="time_h">小時</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">由於 YouTube 政策，無法下載 YouTube 影片</string>
     <string name="down_limit">同時下載數</string>
     <string name="down_limit_info">同時下載太多檔案時，可能會減慢裝置速度並造成問題</string>
+    <string name="down_noti">下載完成通知</string>
     <string name="not_allow">不允許</string>
     <string name="quick_access">捷徑</string>
     <string name="quick_home">在主頁上使用</string>
@@ -937,7 +936,6 @@
     <string name="float_button">浮動按鈕</string>
     <string name="button_title">按鈕</string>
     <string name="always_visible">始終可見</string>
-    <string name="guide_tsfile">如果檔案被加密，則無法播放</string>
     <string name="view_certi">查看證書</string>
     <string name="no_info">無資訊</string>
     <string name="size_guide_1">有時，當您下載文件時，文件的整體大小會不斷變化</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">当您运行并应用\'%s\'功能时，将自动创建一个过滤器</string>
     <string name="area_info_15">这很容易</string>
     <string name="area_info_16">现在就尝试一下</string>
+    <string name="freq_asked">經常問的問題</string>
 </resources>

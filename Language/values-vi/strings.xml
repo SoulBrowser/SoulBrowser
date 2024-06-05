@@ -125,8 +125,7 @@
     <string name="app_site">Mở trong trình duyệt</string>
     <string name="app_block_info1">Chặn trang web chạy các ứng dụng khác.</string>
     <string name="app_block_info2">Nếu thông tin trang web có sẵn, hãy mở trang web.</string>
-    <string name="app_block_noti">Trang web đang cố gắng chạy một ứng dụng khác.</string>
-    <string name="open_app">Ứng dụng</string>
+    <string name="app_block_noti">Ứng dụng bị chặn</string>
     <string name="link_app">Mở liên kết với ứng dụng</string>
     <string name="link">Liên kết</string>
     <string name="open_url">Mở</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Phục hồi</string>
     <string name="close">Đóng</string>
     <string name="app_exit">Thoát ứng dụng</string>
-    <string name="open">Mở</string>
     <string name="image_fail">Không thể tải hình ảnh</string>
     <string name="time_day">ngày</string>
     <string name="time_h">g</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">Do chính sách của YouTube, video YouTube không thể được tải xuống.</string>
     <string name="down_limit">Tải xuống đồng thời</string>
     <string name="down_limit_info">Tải xuống quá nhiều tệp cùng một lúc có thể làm chậm thiết bị của bạn và gây ra sự cố.</string>
+    <string name="down_noti">Thông báo hoàn tất tải xuống</string>
     <string name="not_allow">Không cho phép</string>
     <string name="quick_access">Phím tắt</string>
     <string name="quick_home">Sử dụng trên trang chủ</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Nút nổi</string>
     <string name="button_title">Cái nút</string>
     <string name="always_visible">Luôn luôn nhìn thấy</string>
-    <string name="guide_tsfile">Nếu tệp được mã hóa, nó không thể phát được.</string>
     <string name="view_certi">Xem chứng chỉ</string>
     <string name="no_info">Không có thông tin</string>
     <string name="size_guide_1">Đôi khi khi bạn tải xuống một tệp, kích thước tổng thể của tệp liên tục thay đổi.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">Khi bạn chạy và áp dụng chức năng \'%s\', bộ lọc sẽ được tạo tự động.</string>
     <string name="area_info_15">Nó rất dễ.</string>
     <string name="area_info_16">Hãy thử nó ngay bây giờ.</string>
+    <string name="freq_asked">Các câu hỏi thường gặp</string>
 </resources>

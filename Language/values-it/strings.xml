@@ -125,8 +125,7 @@
     <string name="app_site">Apri nel browser</string>
     <string name="app_block_info1">Impedisci al sito di eseguire altre app.</string>
     <string name="app_block_info2">Se sono disponibili informazioni sul sito, aprilo.</string>
-    <string name="app_block_noti">Il sito sta tentando di eseguire un\'altra app.</string>
-    <string name="open_app">App</string>
+    <string name="app_block_noti">Applicazione bloccata</string>
     <string name="link_app">Apri link nelle app</string>
     <string name="link">Collegamento</string>
     <string name="open_url">Apri</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Annulla eliminazione</string>
     <string name="close">Chiudi</string>
     <string name="app_exit">Esci app</string>
-    <string name="open">Apri</string>
     <string name="image_fail">Impossibile caricare l\'immagine</string>
     <string name="time_day">giorno</string>
     <string name="time_h">o</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">A causa delle norme di YouTube, i video di YouTube non possono essere scaricati.</string>
     <string name="down_limit">Download simultaneo</string>
     <string name="down_limit_info">Il download di troppi file contemporaneamente può rallentare il dispositivo e causare problemi.</string>
+    <string name="down_noti">Scarica la notifica di completamento</string>
     <string name="not_allow">Non consentire</string>
     <string name="quick_access">Scorciatoie</string>
     <string name="quick_home">Utilizza nella home page</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Pulsante mobile</string>
     <string name="button_title">Pulsante</string>
     <string name="always_visible">Sempre visibile</string>
-    <string name="guide_tsfile">Se il file è crittografato, non può essere riprodotto.</string>
     <string name="view_certi">Visualizza certificato</string>
     <string name="no_info">Nessuna informazione</string>
     <string name="size_guide_1">A volte, quando scarichi un file, la dimensione complessiva del file continua a cambiare.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">Quando esegui e applichi la funzione \'%s\', verrà creato automaticamente un filtro.</string>
     <string name="area_info_15">È molto facile.</string>
     <string name="area_info_16">Provalo adesso.</string>
+    <string name="freq_asked">Domande frequenti</string>
 </resources>

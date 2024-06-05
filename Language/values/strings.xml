@@ -125,8 +125,7 @@
     <string name="app_site">Open in browser</string>
     <string name="app_block_info1">Block the site from running other apps.</string>
     <string name="app_block_info2">If site information is available, open the site.</string>
-    <string name="app_block_noti">The site is trying to run another app.</string>
-    <string name="open_app">App</string>
+    <string name="app_block_noti">App blocked</string>
     <string name="link_app">Open link with app</string>
     <string name="link">Link</string>
     <string name="open_url">Open</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Undelete</string>
     <string name="close">Close</string>
     <string name="app_exit">Exit app</string>
-    <string name="open">Open</string>
     <string name="image_fail">Failed to load image</string>
     <string name="time_day">day</string>
     <string name="time_h">h</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">Due to YouTube policy, YouTube videos can not be downloaded.</string>
     <string name="down_limit">Concurrent download</string>
     <string name="down_limit_info">Downloading too many files at the same time can slow device and cause problems.</string>
+    <string name="down_noti">Download completion notification</string>
     <string name="not_allow">Do not allow</string>
     <string name="quick_access">Shortcuts</string>
     <string name="quick_home">Use on home page</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Floating button</string>
     <string name="button_title">Button</string>
     <string name="always_visible">Always visible</string>
-    <string name="guide_tsfile">If the file is encrypted, it cannot be played.</string>
     <string name="view_certi">View Certificate</string>
     <string name="no_info">No information</string>
     <string name="size_guide_1">Sometimes when you download a file, the overall size of the file keeps changing.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">When you run and apply the \'%s\' function, a filter will be created automatically.</string>
     <string name="area_info_15">It\'s very easy.</string>
     <string name="area_info_16">Try it right now.</string>
+    <string name="freq_asked">Frequently asked questions</string>
 </resources>

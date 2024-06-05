@@ -125,8 +125,7 @@
     <string name="app_site">Otwórz w przeglądarce</string>
     <string name="app_block_info1">Zablokuj witrynie uruchamianie innych aplikacji.</string>
     <string name="app_block_info2">Jeśli informacje o witrynie są dostępne, otwórz witrynę.</string>
-    <string name="app_block_noti">Witryna próbuje uruchomić inną aplikację.</string>
-    <string name="open_app">Aplikacja</string>
+    <string name="app_block_noti">Aplikacja zablokowana</string>
     <string name="link_app">Otwórz link za pomocą aplikacji</string>
     <string name="link">Połączyć</string>
     <string name="open_url">Otwórz</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Cofnij usunięcie</string>
     <string name="close">Zamknij</string>
     <string name="app_exit">Wyjdź z aplikacji</string>
-    <string name="open">Otwórz</string>
     <string name="image_fail">Nie udało się załadować obrazu</string>
     <string name="time_day">dzień</string>
     <string name="time_h">g</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">Ze względu na zasady YouTube nie można pobierać filmów z YouTube.</string>
     <string name="down_limit">Jednoczesne pobieranie</string>
     <string name="down_limit_info">Pobieranie zbyt wielu plików jednocześnie może spowolnić urządzenie i powodować problemy.</string>
+    <string name="down_noti">Powiadomienie o zakończeniu pobierania</string>
     <string name="not_allow">Nie zezwalaj</string>
     <string name="quick_access">Skróty</string>
     <string name="quick_home">Użyj na stronie głównej</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Pływający przycisk</string>
     <string name="button_title">Przycisk</string>
     <string name="always_visible">Zawsze widoczny</string>
-    <string name="guide_tsfile">Jeśli plik jest zaszyfrowany, nie można go odtworzyć.</string>
     <string name="view_certi">Wyświetl certyfikat</string>
     <string name="no_info">Brak informacji</string>
     <string name="size_guide_1">Czasami podczas pobierania pliku zmienia się jego ogólny rozmiar.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">Po uruchomieniu i zastosowaniu funkcji \'%s\' filtr zostanie utworzony automatycznie.</string>
     <string name="area_info_15">To jest bardzo łatwe.</string>
     <string name="area_info_16">Spróbuj już teraz.</string>
+    <string name="freq_asked">Często zadawane pytania</string>
 </resources>

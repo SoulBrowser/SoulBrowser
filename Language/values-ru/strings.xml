@@ -125,8 +125,7 @@
     <string name="app_site">Открыть в браузере</string>
     <string name="app_block_info1">Заблокировать сайт от запуска других приложений.</string>
     <string name="app_block_info2">Если информация о сайте доступна, открыть сайт.</string>
-    <string name="app_block_noti">Сайт пытается запустить другое приложение.</string>
-    <string name="open_app">Приложение</string>
+    <string name="app_block_noti">Приложение заблокировано</string>
     <string name="link_app">Открыть ссылку в приложении</string>
     <string name="link">Ссылка</string>
     <string name="open_url">Открыть</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Отменить удаление</string>
     <string name="close">Закрыть</string>
     <string name="app_exit">Выйти из приложения</string>
-    <string name="open">Открыть</string>
     <string name="image_fail">Не удалось загрузить изображение</string>
     <string name="time_day">день</string>
     <string name="time_h">ч</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">Из-за политики YouTube видео YouTube не могут быть загружены.</string>
     <string name="down_limit">Одновременная загрузка</string>
     <string name="down_limit_info">Загрузка слишком большого количества файлов одновременно может замедлить работу устройства и вызвать проблемы.</string>
+    <string name="down_noti">Уведомление о завершении загрузки</string>
     <string name="not_allow">Не разрешать</string>
     <string name="quick_access">Ярлыки</string>
     <string name="quick_home">Использовать на главной странице</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Плавающая кнопка</string>
     <string name="button_title">Кнопка</string>
     <string name="always_visible">Всегда видимый</string>
-    <string name="guide_tsfile">Если файл зашифрован, его невозможно воспроизвести.</string>
     <string name="view_certi">Просмотреть сертификат</string>
     <string name="no_info">Нет информации</string>
     <string name="size_guide_1">Иногда, когда вы загружаете файл, общий размер файла продолжает меняться.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">Когда вы запустите и примените функцию \'%s\', фильтр будет создан автоматически.</string>
     <string name="area_info_15">Это очень легко.</string>
     <string name="area_info_16">Попробуйте прямо сейчас.</string>
+    <string name="freq_asked">Часто задаваемые вопросы</string>
 </resources>

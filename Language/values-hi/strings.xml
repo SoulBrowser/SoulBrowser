@@ -125,8 +125,7 @@
     <string name="app_site">ब्राउज़र में खोलें</string>
     <string name="app_block_info1">साइट को अन्य ऐप्स चलाने से रोकें।</string>
     <string name="app_block_info2">यदि साइट की जानकारी उपलब्ध है, तो साइट खोलें।</string>
-    <string name="app_block_noti">साइट एक और ऐप चलाने की कोशिश कर रही है।</string>
-    <string name="open_app">अनुप्रयोग</string>
+    <string name="app_block_noti">ऐप ब्लॉक कर दिया गया</string>
     <string name="link_app">ऐप के साथ ओपन लिंक</string>
     <string name="link">संपर्क</string>
     <string name="open_url">खुला हुआ</string>
@@ -164,7 +163,6 @@
     <string name="undelete">हटाना रद्द</string>
     <string name="close">बंद करना</string>
     <string name="app_exit">ऐप से बाहर निकलें</string>
-    <string name="open">खुला हुआ</string>
     <string name="image_fail">छवि लोड करने में विफल</string>
     <string name="time_day">दिन</string>
     <string name="time_h">एच</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">YouTube नीति के कारण, YouTube वीडियो डाउनलोड नहीं किए जा सकते।</string>
     <string name="down_limit">समवर्ती डाउनलोड</string>
     <string name="down_limit_info">एक ही समय में बहुत सारी फ़ाइलें डाउनलोड करने से डिवाइस धीमा हो सकता है और समस्याएँ पैदा हो सकती हैं।</string>
+    <string name="down_noti">पूर्णता अधिसूचना डाउनलोड करें</string>
     <string name="not_allow">इजाजत न दें</string>
     <string name="quick_access">शॉर्टकट</string>
     <string name="quick_home">होम पेज पर प्रयोग करें</string>
@@ -937,7 +936,6 @@
     <string name="float_button">फ्लोटिंग बटन</string>
     <string name="button_title">बटन</string>
     <string name="always_visible">सदैव दृश्य</string>
-    <string name="guide_tsfile">यदि फ़ाइल एन्क्रिप्ट की गई है, तो इसे चलाया नहीं जा सकता।</string>
     <string name="view_certi">प्रमाणपत्र देखें</string>
     <string name="no_info">कोई सूचना नहीं है</string>
     <string name="size_guide_1">कभी-कभी जब आप कोई फ़ाइल डाउनलोड करते हैं, तो फ़ाइल का समग्र आकार बदलता रहता है।</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">जब आप \'%s\' फ़ंक्शन चलाते हैं और लागू करते हैं, तो एक फ़िल्टर स्वचालित रूप से बन जाएगा।</string>
     <string name="area_info_15">यह बहुत आसान है।</string>
     <string name="area_info_16">इसे अभी आज़माएं.</string>
+    <string name="freq_asked">अक्सर पूछे जाने वाले प्रश्नों</string>
 </resources>

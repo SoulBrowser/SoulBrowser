@@ -125,8 +125,7 @@
     <string name="app_site">เปิดในเบราว์เซอร์</string>
     <string name="app_block_info1">บล็อกไซต์ไม่ให้เรียกใช้แอปอื่น ๆ</string>
     <string name="app_block_info2">หากมีข้อมูลไซต์ให้เปิดไซต์</string>
-    <string name="app_block_noti">ไซต์กำลังพยายามเรียกใช้แอปอื่น</string>
-    <string name="open_app">แอป</string>
+    <string name="app_block_noti">แอปถูกบล็อก</string>
     <string name="link_app">เปิดลิงค์ด้วยแอพ</string>
     <string name="link">ลิงค์</string>
     <string name="open_url">เปิด</string>
@@ -164,7 +163,6 @@
     <string name="undelete">ยกเลิกการลบ</string>
     <string name="close">ปิด</string>
     <string name="app_exit">ออกจากแอป</string>
-    <string name="open">เปิด</string>
     <string name="image_fail">ไม่สามารถโหลดภาพ</string>
     <string name="time_day">วัน</string>
     <string name="time_h">ชั่</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">เนื่องจากนโยบาย YouTube ไม่สามารถดาวน์โหลดวิดีโอ YouTube ได้</string>
     <string name="down_limit">ดาวน์โหลดพร้อมกัน</string>
     <string name="down_limit_info">การดาวน์โหลดไฟล์มากเกินไปในเวลาเดียวกันอาจทำให้อุปกรณ์ของคุณช้าลงและทำให้เกิดปัญหา</string>
+    <string name="down_noti">การแจ้งเตือนการดาวน์โหลดเสร็จสิ้น</string>
     <string name="not_allow">ไม่อนุญาต</string>
     <string name="quick_access">ทางลัด</string>
     <string name="quick_home">ใช้ในหน้าแรก</string>
@@ -937,7 +936,6 @@
     <string name="float_button">ปุ่มลอย</string>
     <string name="button_title">ปุ่ม</string>
     <string name="always_visible">มองเห็นได้เสมอ</string>
-    <string name="guide_tsfile">หากไฟล์ถูกเข้ารหัส จะไม่สามารถเล่นได้</string>
     <string name="view_certi">ดูใบรับรอง</string>
     <string name="no_info">ไม่มีข้อมูล</string>
     <string name="size_guide_1">บางครั้งเมื่อคุณดาวน์โหลดไฟล์ ขนาดโดยรวมของไฟล์จะเปลี่ยนแปลงตลอดเวลา</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">เมื่อคุณเรียกใช้และใช้ฟังก์ชัน \'%s\' ตัวกรองจะถูกสร้างขึ้นโดยอัตโนมัติ</string>
     <string name="area_info_15">มันง่ายมาก.</string>
     <string name="area_info_16">ลองตอนนี้เลย</string>
+    <string name="freq_asked">คำถามที่พบบ่อย</string>
 </resources>

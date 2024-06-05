@@ -125,8 +125,7 @@
     <string name="app_site">Im Browser öffnen</string>
     <string name="app_block_info1">Blockieren Sie die Ausführung anderer Websites durch die Seite.</string>
     <string name="app_block_info2">Wenn Site-Informationen verfügbar sind, öffnen Sie die Site.</string>
-    <string name="app_block_noti">Die Seite versucht, eine andere App auszuführen.</string>
-    <string name="open_app">App</string>
+    <string name="app_block_noti">App blockiert</string>
     <string name="link_app">Link mit App öffnen</string>
     <string name="link">Verknüpfung</string>
     <string name="open_url">Öffnen</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Wiederherstellen</string>
     <string name="close">Schließen</string>
     <string name="app_exit">App beenden</string>
-    <string name="open">Öffnen</string>
     <string name="image_fail">Fehler beim Laden des Bildes</string>
     <string name="time_day">Tag</string>
     <string name="time_h">s</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">Aufgrund der YouTube-Richtlinie können YouTube Videos nicht heruntergeladen werden.</string>
     <string name="down_limit">Gleichzeitige Downloads</string>
     <string name="down_limit_info">Das gleichzeitige Herunterladen zu vieler Dateien kann ihr Gerät verlangsamen und Probleme verursachen.</string>
+    <string name="down_noti">Benachrichtigung über den Abschluss des Downloads</string>
     <string name="not_allow">Nicht erlaubt</string>
     <string name="quick_access">Verknüpfung</string>
     <string name="quick_home">Verwendung auf der Homepage</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Schwebende Schaltfläche</string>
     <string name="button_title">Taste</string>
     <string name="always_visible">Immer sichtbar</string>
-    <string name="guide_tsfile">Wenn die Datei verschlüsselt ist, kann sie nicht wiedergegeben werden.</string>
     <string name="view_certi">Zertifikat ansehen</string>
     <string name="no_info">Keine Information</string>
     <string name="size_guide_1">Wenn Sie eine Datei herunterladen, ändert sich manchmal die Gesamtgröße der Datei ständig.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">Wenn Sie die Funktion \'%s\' ausführen und anwenden, wird automatisch ein Filter erstellt.</string>
     <string name="area_info_15">Es ist sehr leicht.</string>
     <string name="area_info_16">Probieren Sie es gleich aus.</string>
+    <string name="freq_asked">Häufig gestellte Fragen</string>
 </resources>

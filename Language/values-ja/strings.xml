@@ -125,8 +125,7 @@
     <string name="app_site">ブラウザで開く</string>
     <string name="app_block_info1">サイトが他のアプリを実行しないようにブロックします。</string>
     <string name="app_block_info2">サイト情報を利用することができている場合は、サイトを開きます。</string>
-    <string name="app_block_noti">サイトが他のアプリを実行しようとします。</string>
-    <string name="open_app">アプリ</string>
+    <string name="app_block_noti">アプリがブロックされました</string>
     <string name="link_app">アプリでリンクを開く</string>
     <string name="link">リンク</string>
     <string name="open_url">オープン</string>
@@ -164,7 +163,6 @@
     <string name="undelete">元に戻す</string>
     <string name="close">閉じる</string>
     <string name="app_exit">アプリを終了</string>
-    <string name="open">オープン</string>
     <string name="image_fail">画像の読み込みに失敗し</string>
     <string name="time_day">日</string>
     <string name="time_h">時間</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">YouTubeのポリシーにより、YouTubeのビデオは、ダウンロードすることができません。</string>
     <string name="down_limit">同時ダウンロード</string>
     <string name="down_limit_info">あまりにも多くのファイルを同時にダウンロードすると、デバイスが遅くなり、問題が発生する可能性があります。</string>
+    <string name="down_noti">ダウンロード完了通知</string>
     <string name="not_allow">許可しない</string>
     <string name="quick_access">ショートカット</string>
     <string name="quick_home">ホームページで使用</string>
@@ -937,7 +936,6 @@
     <string name="float_button">フローティングボタン</string>
     <string name="button_title">ボタン</string>
     <string name="always_visible">いつも見える</string>
-    <string name="guide_tsfile">ファイルが暗号化されていると再生できません。</string>
     <string name="view_certi">ビューの証明書</string>
     <string name="no_info">情報なし</string>
     <string name="size_guide_1">ファイルをダウンロードすると、ファイルの合計サイズが変更され続ける場合があります。</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">\'%s\'機能を実行して適用すると、自動的にフィルタが生成されます。</string>
     <string name="area_info_15">それはとても簡単です。</string>
     <string name="area_info_16">今すぐ使ってみてください。</string>
+    <string name="freq_asked">よくある質問</string>
 </resources>

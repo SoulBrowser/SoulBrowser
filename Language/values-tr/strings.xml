@@ -125,8 +125,7 @@
     <string name="app_site">Tarayıcıda aç</string>
     <string name="app_block_info1">Sitenin diğer uygulamaları çalıştırmasını engelleyin.</string>
     <string name="app_block_info2">Site bilgisi mevcutsa siteyi açın.</string>
-    <string name="app_block_noti">Site başka bir uygulamayı çalıştırmaya çalışıyor.</string>
-    <string name="open_app">Uygulama</string>
+    <string name="app_block_noti">Uygulama engellendi</string>
     <string name="link_app">Bağlantıyı uygulama ile aç</string>
     <string name="link">Bağlantı</string>
     <string name="open_url">Aç</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Silmeyi geri al</string>
     <string name="close">Kapat</string>
     <string name="app_exit">Uygulamadan çık</string>
-    <string name="open">Aç</string>
     <string name="image_fail">Resim yüklenemedi</string>
     <string name="time_day">gün</string>
     <string name="time_h">s</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">YouTube politikası nedeniyle, YouTube videoları indirilemiyor.</string>
     <string name="down_limit">Eşzamanlı indirme</string>
     <string name="down_limit_info">Aynı anda çok fazla dosya indirmek, cihazınızı yavaşlatabilir ve sorunlara neden olabilir.</string>
+    <string name="down_noti">Tamamlama bildirimini indirin</string>
     <string name="not_allow">İzin verme</string>
     <string name="quick_access">Kısayollar</string>
     <string name="quick_home">Ana sayfada kullan</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Kayan düğme</string>
     <string name="button_title">Buton</string>
     <string name="always_visible">Her zaman görünür</string>
-    <string name="guide_tsfile">Dosya şifreliyse oynatılamaz.</string>
     <string name="view_certi">Sertifikayı Görüntüle</string>
     <string name="no_info">Bilgi yok</string>
     <string name="size_guide_1">Bazen bir dosyayı indirdiğinizde dosyanın genel boyutu değişmeye devam eder.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">\'%s\' fonksiyonunu çalıştırıp uyguladığınızda otomatik olarak bir filtre oluşturulacaktır.</string>
     <string name="area_info_15">Bu çok kolay.</string>
     <string name="area_info_16">Hemen deneyin.</string>
+    <string name="freq_asked">Sıkça sorulan sorular</string>
 </resources>

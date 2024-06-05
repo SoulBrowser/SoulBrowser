@@ -125,8 +125,7 @@
     <string name="app_site">Abrir no navegador</string>
     <string name="app_block_info1">Bloqueie o site de executar outros aplicativos.</string>
     <string name="app_block_info2">Se as informações do site estiverem disponíveis, abrir o site.</string>
-    <string name="app_block_noti">O site está tentando executar outro aplicativo.</string>
-    <string name="open_app">Aplicativo</string>
+    <string name="app_block_noti">Aplicativo bloqueado</string>
     <string name="link_app">Abrir link com o aplicativo</string>
     <string name="link">Link</string>
     <string name="open_url">Abrir</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Recuperar</string>
     <string name="close">Fechar</string>
     <string name="app_exit">Sair do app</string>
-    <string name="open">Abrir</string>
     <string name="image_fail">Falha ao carregar a imagem</string>
     <string name="time_day">dia</string>
     <string name="time_h">h</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">Devido à política do YouTube, os vídeos do YouTube não podem ser baixados.</string>
     <string name="down_limit">Download simultâneo</string>
     <string name="down_limit_info">Baixar muitos arquivos ao mesmo tempo pode diminuir a velocidade do seu dispositivo e causar problemas.</string>
+    <string name="down_noti">Notificação de conclusão de download</string>
     <string name="not_allow">Não permitir</string>
     <string name="quick_access">Atalhos</string>
     <string name="quick_home">Usar na página inicial</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Botão flutuante</string>
     <string name="button_title">Botão</string>
     <string name="always_visible">Sempre visível</string>
-    <string name="guide_tsfile">Se o arquivo estiver criptografado, ele não poderá ser reproduzido.</string>
     <string name="view_certi">Ver certificado</string>
     <string name="no_info">Nenhuma informação</string>
     <string name="size_guide_1">Às vezes, quando você baixa um arquivo, o tamanho geral do arquivo continua mudando.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">Ao executar e aplicar a função \'%s\', um filtro será criado automaticamente.</string>
     <string name="area_info_15">É muito fácil.</string>
     <string name="area_info_16">Experimente agora mesmo.</string>
+    <string name="freq_asked">Perguntas frequentes</string>
 </resources>

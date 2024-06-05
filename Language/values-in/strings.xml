@@ -125,8 +125,7 @@
     <string name="app_site">Buka di browser</string>
     <string name="app_block_info1">Blokir situs agar tidak menjalankan aplikasi lain.</string>
     <string name="app_block_info2">Jika informasi situs tersedia, buka situs.</string>
-    <string name="app_block_noti">Situs ini mencoba menjalankan aplikasi lain.</string>
-    <string name="open_app">Aplikasi</string>
+    <string name="app_block_noti">Aplikasi diblokir</string>
     <string name="link_app">Buka tautan dengan aplikasi</string>
     <string name="link">Tautan</string>
     <string name="open_url">Buka</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Batalkan penghapusan</string>
     <string name="close">Tutup</string>
     <string name="app_exit">Keluar aplikasi</string>
-    <string name="open">Buka</string>
     <string name="image_fail">Gagal memuat gambar</string>
     <string name="time_day">hari</string>
     <string name="time_h">j</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">Karena kebijakan YouTube, video YouTube tidak dapat diunduh.</string>
     <string name="down_limit">Pengunduhan secara bersamaan</string>
     <string name="down_limit_info">Mengunduh terlalu banyak file secara bersamaan dapat memperlambat perangkat Anda dan menyebabkan masalah.</string>
+    <string name="down_noti">Pemberitahuan penyelesaian pengunduhan</string>
     <string name="not_allow">Jangan izinkan</string>
     <string name="quick_access">Pintas</string>
     <string name="quick_home">Gunakan di halaman rumah</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Tombol mengambang</string>
     <string name="button_title">Tombol</string>
     <string name="always_visible">Selalu terlihat</string>
-    <string name="guide_tsfile">Jika file dienkripsi, file tidak dapat diputar.</string>
     <string name="view_certi">Lihat Sertifikat</string>
     <string name="no_info">Tidak ada informasi</string>
     <string name="size_guide_1">Terkadang saat Anda mengunduh file, ukuran keseluruhan file terus berubah.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">Saat Anda menjalankan dan menerapkan fungsi \'%s\', filter akan dibuat secara otomatis.</string>
     <string name="area_info_15">Ini sangat mudah.</string>
     <string name="area_info_16">Cobalah sekarang.</string>
+    <string name="freq_asked">Pertanyaan yang sering diajukan</string>
 </resources>

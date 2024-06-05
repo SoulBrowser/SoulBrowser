@@ -10,7 +10,6 @@ a|whe|foxnews.com|rhe|analytics.edgekey.net
 a|whe|foxnews.com|rhe|amazon-adsystem.com
 a|whe|tv.naver.com|ru=|https://ssl.pstatic.net/adimg3.search/adpost/js/ad.js
 b|whe|tv.naver.com|rhe|smrmembers-smr.smartmediarep.com|ruc|.mp4
-b|whe|tv.naver.com|rhe|naver-vod.pstatic.net|ruc|.mp4
 a|whe|naver.com|ru=|https://ssl.pstatic.net/adimg3.search/adpost/js/ad.js
 b|whe|naver.com|ruc|gfp.veta.naver.com/adcall
 a|whe|kakao.com|rhe|t1.daumcdn.net
@@ -86,7 +85,6 @@ whc|9anime|iframe[class*="eww"],div[style*="Player.png"],iframe[class*="padPrelo
 //wk
 whs|manatoki,newtoki|div[class*="id_bbn"],div[class*="banner"]
 whs|marumaru|div[class*="banner"]
-wh=|dft_yap|a[target="_blank"]
 //eg
 yahoo.com##div[class*="pencil-ad"],div[class="caas-da"],div[id*="ad_wp"],div[id*="pencilAd"],li[class*="native-ad"],li[class*="stream-ad"],li[class*="stream-sm-ad"]
 pornhub.com##div[class*="adContainer"],div[class*="removeAdLink"],div[id=adSpot],a[href^="https://a.adtng.com/"],ins[class="adsbytrafficjunky"]

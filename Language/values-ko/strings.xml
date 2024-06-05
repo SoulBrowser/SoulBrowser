@@ -125,8 +125,7 @@
     <string name="app_site">브라우저에서 열기</string>
     <string name="app_block_info1">사이트에서 다른 앱을 실행하지 못하도록 차단합니다.</string>
     <string name="app_block_info2">사이트 정보를 사용할 수 있는 경우, 사이트를 엽니다.</string>
-    <string name="app_block_noti">사이트에서 다른 앱을 실행하려고합니다.</string>
-    <string name="open_app">앱</string>
+    <string name="app_block_noti">앱 차단됨</string>
     <string name="link_app">앱으로 링크 열기</string>
     <string name="link">링크</string>
     <string name="open_url">열기</string>
@@ -164,7 +163,6 @@
     <string name="undelete">삭제 취소</string>
     <string name="close">닫기</string>
     <string name="app_exit">앱 종료</string>
-    <string name="open">열기</string>
     <string name="image_fail">이미지 로딩 실패</string>
     <string name="time_day">일</string>
     <string name="time_h">시간</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">YouTube 정책에 의해, YouTube 동영상은 다운로드할 수 없습니다.</string>
     <string name="down_limit">동시 다운로드</string>
     <string name="down_limit_info">너무 많은 파일을 동시에 다운로드하면, 디바이스가 느려지고 문제가 발생할 수 있습니다.</string>
+    <string name="down_noti">다운로드 완료 알림</string>
     <string name="not_allow">허용 안함</string>
     <string name="quick_access">바로가기</string>
     <string name="quick_home">홈페이지에서 사용</string>
@@ -937,7 +936,6 @@
     <string name="float_button">플로팅 버튼</string>
     <string name="button_title">버튼</string>
     <string name="always_visible">항상 보이기</string>
-    <string name="guide_tsfile">파일이 암호화되어 있으면 재생할 수 없습니다.</string>
     <string name="view_certi">인증서 보기</string>
     <string name="no_info">정보 없음</string>
     <string name="size_guide_1">파일을 다운로드할 때 파일의 전체 크기가 계속 변경되는 경우가 있습니다.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">\'%s\' 기능을 실행하고 적용하면 자동으로 필터가 생성됩니다.</string>
     <string name="area_info_15">매우 쉽습니다.</string>
     <string name="area_info_16">지금 바로 사용해 보세요.</string>
+    <string name="freq_asked">자주 묻는 질문</string>
 </resources>

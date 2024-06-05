@@ -125,8 +125,7 @@
     <string name="app_site">Deschis în browser</string>
     <string name="app_block_info1">Blocați site-ul pentru a rula alte aplicații.</string>
     <string name="app_block_info2">Dacă sunt disponibile informații despre site, deschideți site-ul.</string>
-    <string name="app_block_noti">Site-ul încearcă să ruleze o altă aplicație.</string>
-    <string name="open_app">Aplicație</string>
+    <string name="app_block_noti">Aplicație blocată</string>
     <string name="link_app">Deschideți linkul cu aplicația</string>
     <string name="link">Legătură</string>
     <string name="open_url">Deschide</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Undelete</string>
     <string name="close">Închideți</string>
     <string name="app_exit">Ieșiți din aplicație</string>
-    <string name="open">Deschide</string>
     <string name="image_fail">Nu a putut încărca imaginea</string>
     <string name="time_day">zi</string>
     <string name="time_h">o</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">Datorită politicii YouTube, videoclipurile YouTube nu pot fi descărcate.</string>
     <string name="down_limit">Descărcare simultană</string>
     <string name="down_limit_info">Descărcarea prea multor fișiere în același timp poate încetini dispozitivul și provoca probleme.</string>
+    <string name="down_noti">Descărcați notificarea de finalizare</string>
     <string name="not_allow">Nu permiteți</string>
     <string name="quick_access">Comenzi rapide</string>
     <string name="quick_home">Utilizați pe pagina de pornire</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Buton plutitor</string>
     <string name="button_title">Buton</string>
     <string name="always_visible">Mereu vizibile</string>
-    <string name="guide_tsfile">Dacă fișierul este criptat, nu poate fi redat.</string>
     <string name="view_certi">Vizualizare certificat</string>
     <string name="no_info">Fara informatii</string>
     <string name="size_guide_1">Uneori, atunci când descărcați un fișier, dimensiunea totală a fișierului continuă să se schimbe.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">Când rulați și aplicați funcția \'%s\', va fi creat automat un filtru.</string>
     <string name="area_info_15">Este foarte usor.</string>
     <string name="area_info_16">Încercați-l chiar acum.</string>
+    <string name="freq_asked">Întrebări frecvente</string>
 </resources>

@@ -125,8 +125,7 @@
     <string name="app_site">Ouvrir dans le navigateur</string>
     <string name="app_block_info1">Empêcher le site d\'exécuter d\'autres applications.</string>
     <string name="app_block_info2">Si des informations sur le site sont disponibles, ouvrir le site.</string>
-    <string name="app_block_noti">Le site tente d\'exécuter une autre application.</string>
-    <string name="open_app">App</string>
+    <string name="app_block_noti">Application bloquée</string>
     <string name="link_app">Ouvrir dans une application externe</string>
     <string name="link">Lien</string>
     <string name="open_url">Ouvrir</string>
@@ -164,7 +163,6 @@
     <string name="undelete">Annuler la suppression</string>
     <string name="close">Fermer</string>
     <string name="app_exit">Quitter app</string>
-    <string name="open">Ouvrir</string>
     <string name="image_fail">Impossible de charger image</string>
     <string name="time_day">jour</string>
     <string name="time_h">h</string>
@@ -471,6 +469,7 @@
     <string name="video_down_guide_3">En raison de la politique de YouTube, les vidéos YouTube ne peuvent pas être téléchargées.</string>
     <string name="down_limit">Téléchargement simultané</string>
     <string name="down_limit_info">Télécharger trop de fichiers en même temps peut ralentir votre appareil et provoquer des problèmes.</string>
+    <string name="down_noti">Notification de fin de téléchargement</string>
     <string name="not_allow">Ne pas autoriser</string>
     <string name="quick_access">Raccourci</string>
     <string name="quick_home">Utiliser sur la page d\'accueil</string>
@@ -937,7 +936,6 @@
     <string name="float_button">Bouton flottant</string>
     <string name="button_title">Bouton</string>
     <string name="always_visible">Toujours visible</string>
-    <string name="guide_tsfile">Si le fichier est crypté, il ne peut pas être lu.</string>
     <string name="view_certi">Afficher le certificat</string>
     <string name="no_info">Aucune information</string>
     <string name="size_guide_1">Parfois, lorsque vous téléchargez un fichier, la taille globale du fichier ne cesse de changer.</string>
@@ -1024,4 +1022,5 @@
     <string name="area_info_14">Lorsque vous exécutez et appliquez la fonction \'%s\', un filtre sera créé automatiquement.</string>
     <string name="area_info_15">C\'est très facile.</string>
     <string name="area_info_16">Essayez-le maintenant.</string>
+    <string name="freq_asked">Questions fréquemment posées</string>
 </resources>
