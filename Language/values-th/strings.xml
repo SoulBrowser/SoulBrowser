@@ -8,6 +8,7 @@
     <string name="start">เริ่มต้น</string>
     <string name="info">ข้อมูล</string>
     <string name="app_ver">เวอร์ชันของแอป</string>
+    <string name="version">เวอร์ชัน</string>
     <string name="license">ใบอนุญาตโอเพนซอร์ส</string>
     <string name="show_license">สัญญาอนุญาต</string>
     <string name="feedback">ส่งข้อเสนอแนะ</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">ลบทั้งหมด</string>
     <string name="deleted">ที่ถูกลบ</string>
     <string name="swipe_delete">ปัดลบ</string>
+    <string name="swipe_remove">คุณสามารถปัดเพื่อลบออกได้</string>
     <string name="rename">ตั้งชื่อใหม่</string>
     <string name="apply_url_equal">ใช้กับคนอื่น ๆ อย่างเท่าเทียมกัน</string>
     <string name="apply_pass_equal">ใช้เหมือนกันกับรหัสผ่านอื่น ๆ</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">ปัดหน้าจากหน้าสุดท้ายเพื่อปิดแท็บ</string>
     <string name="last_exit">ลักษณะการทำงานของปุ่มก่อนหน้าในหน้าสุดท้าย</string>
     <string name="title">หัวข้อ</string>
+    <string name="author">ผู้เขียน</string>
     <string name="artist">ศิลปิน</string>
     <string name="album">อัลบั้ม</string>
     <string name="genre">ประเภท</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">ใช้ JavaScript (แนะนำ)</string>
     <string name="java_script_info">คุณสมบัติเบราว์เซอร์บางอย่างจะไม่ทำงานหากปิดการใช้งาน JavaScript</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">ใช้ UserScript</string>
+    <string name="user_script_list">รายการ UserScript</string>
+    <string name="user_script_info">สคริปต์ผู้ใช้ที่ไม่ได้รับการยืนยันอาจรบกวนการทำงานปกติของเบราว์เซอร์หรือทำให้เกิดปัญหาด้านความปลอดภัยร้ายแรง</string>
+    <string name="install">การติดตั้ง</string>
+    <string name="install_confirm">คุณต้องการติดตั้งหรือไม่?</string>
+    <string name="already_install">มีการติดตั้งเรียบร้อยแล้ว</string>
+    <string name="install_fail">การติดตั้งล้มเหลว</string>
+    <string name="check_format">โปรดตรวจสอบว่ามีปัญหากับรูปแบบหรือไม่</string>
     <string name="icon_edit_guide">2. คุณสามารถเปลี่ยนได้โดยคลิกที่ไอคอน</string>
     <string name="long_edit_guide">คุณสามารถตั้งค่าฟังก์ชั่นที่จะใช้เมื่อคุณกดไอคอนบนแถบด้านล่างค้างไว้</string>
     <string name="swipe_edit_guide">คุณสามารถตั้งค่าฟังก์ชั่นที่จะใช้เมื่อปัดขึ้นไอคอนบนแถบด้านล่าง</string>

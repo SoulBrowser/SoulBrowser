@@ -8,6 +8,7 @@
     <string name="start">Début</string>
     <string name="info">Informations</string>
     <string name="app_ver">Version de l\'application</string>
+    <string name="version">Version</string>
     <string name="license">Licences Open Source</string>
     <string name="show_license">Licence</string>
     <string name="feedback">Suggestions et avis</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Supprimer tout</string>
     <string name="deleted">Supprimé</string>
     <string name="swipe_delete">Glisser pour supprimer</string>
+    <string name="swipe_remove">Vous pouvez faire glisser votre doigt pour le supprimer.</string>
     <string name="rename">Renommer</string>
     <string name="apply_url_equal">Appliqué également aux autres</string>
     <string name="apply_pass_equal">Appliquer la même chose aux autres mots de passe</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Faites glisser la page à partir de la dernière page pour fermer l\'onglet</string>
     <string name="last_exit">Comportement du bouton précédent sur la dernière page</string>
     <string name="title">Titre</string>
+    <string name="author">Auteur</string>
     <string name="artist">Artiste</string>
     <string name="album">Album</string>
     <string name="genre">Genre</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Utiliser JavaScript (Recommandé)</string>
     <string name="java_script_info">Certaines fonctionnalités du navigateur ne fonctionneront pas si le JavaScript est désactivé.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">Utiliser UserScript</string>
+    <string name="user_script_list">Liste UserScript</string>
+    <string name="user_script_info">Les scripts utilisateur non vérifiés peuvent interférer avec le fonctionnement normal du navigateur ou provoquer de graves problèmes de sécurité.</string>
+    <string name="install">Installation</string>
+    <string name="install_confirm">Voulez-vous installer?</string>
+    <string name="already_install">Il est déjà installé.</string>
+    <string name="install_fail">L\'installation a échoué</string>
+    <string name="check_format">Veuillez vérifier s\'il y a un problème avec le format.</string>
     <string name="icon_edit_guide">2. Vous pouvez le modifier en cliquant sur l\'icône.</string>
     <string name="long_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous maintenez enfoncée l\'icône sur la barre inférieure.</string>
     <string name="swipe_edit_guide">Vous pouvez définir la fonction à utiliser lorsque vous faites glisser l\'icône sur la barre inférieure.</string>

@@ -8,6 +8,7 @@
     <string name="start">开始</string>
     <string name="info">关于</string>
     <string name="app_ver">应用程式版本</string>
+    <string name="version">版本</string>
     <string name="license">开源许可证</string>
     <string name="show_license">许可</string>
     <string name="feedback">反馈</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">删除所有</string>
     <string name="deleted">删除</string>
     <string name="swipe_delete">滑动删除</string>
+    <string name="swipe_remove">您可以滑动将其删除</string>
     <string name="rename">重命名</string>
     <string name="apply_url_equal">同样适用于其它文件</string>
     <string name="apply_pass_equal">将相同应用于其他密码</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">从最后一页开始滑动页面以关闭选项卡</string>
     <string name="last_exit">最后一页上的上一个按钮行为</string>
     <string name="title">主题</string>
+    <string name="author">作者</string>
     <string name="artist">艺术家</string>
     <string name="album">相册</string>
     <string name="genre">类型</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">使用 JavaScript 脚本（推荐）</string>
     <string name="java_script_info">如果禁用了 JavaScript 脚本，某些网页将不能正常运作</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">使用 UserScript</string>
+    <string name="user_script_list">UserScript 列表</string>
+    <string name="user_script_info">未经验证的用户脚本可能会干扰浏览器的正常运行或导致严重的安全问题</string>
+    <string name="install">安装</string>
+    <string name="install_confirm">您要安装吗？</string>
+    <string name="already_install">它已经安装好了</string>
+    <string name="install_fail">安装失败</string>
+    <string name="check_format">请检查一下格式是否有问题</string>
     <string name="icon_edit_guide">2. 您可以通过单击图标来更改它</string>
     <string name="long_edit_guide">你可以设置按住底栏上的图标时要使用的功能</string>
     <string name="swipe_edit_guide">你可以设置在向上滑动底栏上图标时要使用的功能</string>

@@ -8,6 +8,7 @@
     <string name="start">Начать работу</string>
     <string name="info">Информация</string>
     <string name="app_ver">Версия приложения</string>
+    <string name="version">Версия</string>
     <string name="license">Лицензии с открытым кодом</string>
     <string name="show_license">Лицензия</string>
     <string name="feedback">Отправить отзыв</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Удалить всё</string>
     <string name="deleted">Удалено</string>
     <string name="swipe_delete">Удаление свайпом</string>
+    <string name="swipe_remove">Вы можете провести пальцем, чтобы удалить его.</string>
     <string name="rename">Переименовать</string>
     <string name="apply_url_equal">Применяется одинаково для других</string>
     <string name="apply_pass_equal">Примените то же самое к другим паролям</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Закрывать вкладку с последней страницей свайпом</string>
     <string name="last_exit">Предыдущее поведение кнопки на последней странице</string>
     <string name="title">Заголовок</string>
+    <string name="author">Автор</string>
     <string name="artist">Исполнитель</string>
     <string name="album">Альбом</string>
     <string name="genre">Жанр</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Использовать JavaScript (Рекомендуется)</string>
     <string name="java_script_info">Некоторые функции браузера не будут работать, если JavaScript отключен.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">Используйте UserScript</string>
+    <string name="user_script_list">Список UserScript</string>
+    <string name="user_script_info">Непроверенные пользовательские скрипты могут помешать нормальной работе браузера или вызвать серьезные проблемы с безопасностью.</string>
+    <string name="install">Монтаж</string>
+    <string name="install_confirm">Хотите установить?</string>
+    <string name="already_install">Он уже установлен.</string>
+    <string name="install_fail">Установка не удалась</string>
+    <string name="check_format">Пожалуйста, проверьте, нет ли проблем с форматом.</string>
     <string name="icon_edit_guide">2. Вы можете изменить его, щелкнув значок.</string>
     <string name="long_edit_guide">Можно установить функцию для нажатия и удержания кнопки на нижней панели.</string>
     <string name="swipe_edit_guide">Можно установить функцию для смахивания вверх от кнопки на нижней панели.</string>

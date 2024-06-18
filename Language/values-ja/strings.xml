@@ -8,6 +8,7 @@
     <string name="start">開始</string>
     <string name="info">情報</string>
     <string name="app_ver">アプリのバージョン</string>
+    <string name="version">バージョン</string>
     <string name="license">オープンソースライセンス</string>
     <string name="show_license">ライセンス</string>
     <string name="feedback">フィードバック</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">すべて削除</string>
     <string name="deleted">削除済み</string>
     <string name="swipe_delete">スワイプ削除</string>
+    <string name="swipe_remove">スワイプして削除できます。</string>
     <string name="rename">名前の変更</string>
     <string name="apply_url_equal">他のファイルにも同様に適用</string>
     <string name="apply_pass_equal">他のパスワードにも同様に適用</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">最後のページで、ページをスワイプしてタブを閉じる</string>
     <string name="last_exit">最後のページで前のボタンの動作</string>
     <string name="title">タイトル</string>
+    <string name="author">著者</string>
     <string name="artist">歌手</string>
     <string name="album">アルバム</string>
     <string name="genre">ジャンル</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">JavaScriptを使用して（推奨）</string>
     <string name="java_script_info">JavaScriptが無効になっている場合、一部のブラウザの機能が動作しません。</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">UserScriptを使う</string>
+    <string name="user_script_list">UserScriptリスト</string>
+    <string name="user_script_info">検証されていないユーザースクリプトは、ブラウザの正常な動作を妨げたり、深刻なセキュリティ問題を引き起こす可能性があります。</string>
+    <string name="install">インストール</string>
+    <string name="install_confirm">インストールしますか？</string>
+    <string name="already_install">すでにインストールされています。</string>
+    <string name="install_fail">インストール失敗</string>
+    <string name="check_format">フォーマットに問題がないか確認してください。</string>
     <string name="icon_edit_guide">2. アイコンをクリックして変更することができます。</string>
     <string name="long_edit_guide">下部バーのアイコンを長く押したとき、使用する機能を設定することができます。</string>
     <string name="swipe_edit_guide">下部バーのアイコンを上スワイプするとき、使用する機能を設定することができます。</string>

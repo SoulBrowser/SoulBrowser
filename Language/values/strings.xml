@@ -8,6 +8,7 @@
     <string name="start">Start</string>
     <string name="info">Information</string>
     <string name="app_ver">App version</string>
+    <string name="version">Version</string>
     <string name="license">Open source licenses</string>
     <string name="show_license">License</string>
     <string name="feedback">Send feedback</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Delete all</string>
     <string name="deleted">Deleted</string>
     <string name="swipe_delete">Swipe delete</string>
+    <string name="swipe_remove">You can swipe to remove it.</string>
     <string name="rename">Rename</string>
     <string name="apply_url_equal">Applied equally to others</string>
     <string name="apply_pass_equal">Applied equally to others</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Swipe the page from the last page to close the tab</string>
     <string name="last_exit">Previous button behavior on last page</string>
     <string name="title">Title</string>
+    <string name="author">Author</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>
     <string name="genre">Genre</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Using JavaScript (Recommended)</string>
     <string name="java_script_info">Some browser features will not work if JavaScript is disabled.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">Use UserScript</string>
+    <string name="user_script_list">UserScript list</string>
+    <string name="user_script_info">Unverified user scripts can interfere with the normal operation of the browser or cause serious security problems.</string>
+    <string name="install">Installation</string>
+    <string name="install_confirm">Do you want to install?</string>
+    <string name="already_install">It\'s already installed.</string>
+    <string name="install_fail">Installation failed</string>
+    <string name="check_format">Please check if there is a problem with the format.</string>
     <string name="icon_edit_guide">2. You can change it by clicking the icon.</string>
     <string name="long_edit_guide">You can set the function to use when you press and hold the icon on the bottom bar.</string>
     <string name="swipe_edit_guide">You can set the function to use when swiping up the icon on the bottom bar.</string>

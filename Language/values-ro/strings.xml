@@ -8,6 +8,7 @@
     <string name="start">Start</string>
     <string name="info">Informații</string>
     <string name="app_ver">Versiunea aplicației</string>
+    <string name="version">Versiune</string>
     <string name="license">Licențe open source</string>
     <string name="show_license">Licență</string>
     <string name="feedback">Trimiteți feedback</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Ștergeți toate</string>
     <string name="deleted">Șters</string>
     <string name="swipe_delete">Glisați ștergerea</string>
+    <string name="swipe_remove">Puteți glisa pentru a-l elimina.</string>
     <string name="rename">Redenumește</string>
     <string name="apply_url_equal">Se aplică în mod egal și altora</string>
     <string name="apply_pass_equal">Aplicați același lucru și altor parole</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Glisați pagina din ultima pagină pentru a închide fila</string>
     <string name="last_exit">Comportamentul butonului anterior pe ultima pagină</string>
     <string name="title">Titlu</string>
+    <string name="author">Autor</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>
     <string name="genre">Gen literar</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Folosind JavaScript (Recomandate)</string>
     <string name="java_script_info">Unele funcții ale browserului nu vor funcționa dacă JavaScript este dezactivat.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">Utilizați UserScript</string>
+    <string name="user_script_list">Lista UserScript</string>
+    <string name="user_script_info">Scripturile utilizator neverificate pot interfera cu funcționarea normală a browserului sau pot cauza probleme serioase de securitate.</string>
+    <string name="install">Instalare</string>
+    <string name="install_confirm">Doriți să instalați?</string>
+    <string name="already_install">Este deja instalat.</string>
+    <string name="install_fail">Instalarea a eșuat</string>
+    <string name="check_format">Vă rugăm să verificați dacă există o problemă cu formatul.</string>
     <string name="icon_edit_guide">2. Puteți să o modificați făcând clic pe pictogramă.</string>
     <string name="long_edit_guide">Puteți seta funcția pe care o utilizați când apăsați și țineți apăsată pictograma de pe bara de jos.</string>
     <string name="swipe_edit_guide">Puteți seta funcția pe care o folosiți atunci când treceți pictograma în bara de jos.</string>

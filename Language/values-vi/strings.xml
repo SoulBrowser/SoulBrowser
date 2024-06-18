@@ -8,6 +8,7 @@
     <string name="start">Bắt đầu</string>
     <string name="info">Thông tin</string>
     <string name="app_ver">Phiên bản ứng dụng</string>
+    <string name="version">Phiên bản</string>
     <string name="license">Giấy phép nguồn mở</string>
     <string name="show_license">Giấy phép</string>
     <string name="feedback">Gửi phản hồi</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Xóa hết</string>
     <string name="deleted">Bị xóa</string>
     <string name="swipe_delete">Vuốt xóa</string>
+    <string name="swipe_remove">Bạn có thể vuốt để loại bỏ nó.</string>
     <string name="rename">Đổi tên</string>
     <string name="apply_url_equal">Áp dụng bình đẳng cho người khác</string>
     <string name="apply_pass_equal">Áp dụng tương tự cho các mật khẩu khác</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Vuốt trang từ trang cuối cùng để đóng tab</string>
     <string name="last_exit">Hành vi của nút trước trên trang cuối cùng</string>
     <string name="title">Tiêu đề</string>
+    <string name="author">Tác giả</string>
     <string name="artist">Nghệ sĩ</string>
     <string name="album">Album</string>
     <string name="genre">Thể loại</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Sử dụng JavaScript (Khuyến nghị)</string>
     <string name="java_script_info">Một số tính năng của trình duyệt sẽ không hoạt động nếu JavaScript bị tắt.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">Sử dụng UserScript</string>
+    <string name="user_script_list">Danh sách UserScript</string>
+    <string name="user_script_info">Các tập lệnh người dùng chưa được xác minh có thể can thiệp vào hoạt động bình thường của trình duyệt hoặc gây ra các sự cố bảo mật nghiêm trọng.</string>
+    <string name="install">Cài đặt</string>
+    <string name="install_confirm">Bạn có muốn cài đặt không?</string>
+    <string name="already_install">Nó đã được cài đặt rồi.</string>
+    <string name="install_fail">Cài đặt thất bại</string>
+    <string name="check_format">Vui lòng kiểm tra xem có vấn đề gì với định dạng không.</string>
     <string name="icon_edit_guide">2. Bạn có thể thay đổi nó bằng cách nhấp vào biểu tượng.</string>
     <string name="long_edit_guide">Bạn có thể đặt chức năng sử dụng khi nhấn và giữ biểu tượng trên thanh dưới cùng.</string>
     <string name="swipe_edit_guide">Bạn có thể thiết lập chức năng để sử dụng khi vuốt lên biểu tượng trên thanh dưới cùng.</string>

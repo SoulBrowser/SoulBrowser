@@ -8,6 +8,7 @@
     <string name="start">Inizio</string>
     <string name="info">Informazioni</string>
     <string name="app_ver">Versione dell\'app</string>
+    <string name="version">Versione</string>
     <string name="license">Licenze open source</string>
     <string name="show_license">Licenza</string>
     <string name="feedback">Invia feedback</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Cancella tutto</string>
     <string name="deleted">Eliminato</string>
     <string name="swipe_delete">Scorri per eliminare</string>
+    <string name="swipe_remove">Puoi scorrere per rimuoverlo.</string>
     <string name="rename">Rinominare</string>
     <string name="apply_url_equal">Applicato ugualmente ad altri</string>
     <string name="apply_pass_equal">Applica lo stesso ad altre password</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Scorri la pagina dall\'ultima pagina per chiudere la schede</string>
     <string name="last_exit">Comportamento del pulsante precedente nell\'ultima pagina</string>
     <string name="title">Titolo</string>
+    <string name="author">Autore</string>
     <string name="artist">Artista</string>
     <string name="album">Album</string>
     <string name="genre">Genere</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Utilizza JavaScript (Consigliato)</string>
     <string name="java_script_info">Alcune funzionalità del browser non funzioneranno se JavaScript è disabilitato.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">Utilizza UserScript</string>
+    <string name="user_script_list">Elenco UserScript</string>
+    <string name="user_script_info">Gli script utente non verificati possono interferire con il normale funzionamento del browser o causare seri problemi di sicurezza.</string>
+    <string name="install">Installazione</string>
+    <string name="install_confirm">Vuoi installare?</string>
+    <string name="already_install">È già installato.</string>
+    <string name="install_fail">Installazione fallita</string>
+    <string name="check_format">Controlla se c\'è un problema con il formato.</string>
     <string name="icon_edit_guide">2. Puoi modificarlo facendo clic sull\'icona.</string>
     <string name="long_edit_guide">È possibile impostare la funzione da utilizzare quando si tiene premuta l\'icona sulla barra in basso.</string>
     <string name="swipe_edit_guide">È possibile impostare la funzione da utilizzare quando si scorre verso l\'alto l\'icona sulla barra in basso.</string>

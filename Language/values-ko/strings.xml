@@ -8,6 +8,7 @@
     <string name="start">시작</string>
     <string name="info">정보</string>
     <string name="app_ver">앱 버전</string>
+    <string name="version">버전</string>
     <string name="license">오픈소스 라이선스</string>
     <string name="show_license">라이선스</string>
     <string name="feedback">의견 보내기</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">모두 삭제</string>
     <string name="deleted">삭제되었습니다.</string>
     <string name="swipe_delete">스와이프 삭제</string>
+    <string name="swipe_remove">스와이프하여 제거할 수 있습니다.</string>
     <string name="rename">이름 변경</string>
     <string name="apply_url_equal">다른 URL도 동일하게 적용</string>
     <string name="apply_pass_equal">다른 비밀번호도 동일하게 적용</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">마지막 페이지에서 페이지를 스와이프하여 탭 닫기</string>
     <string name="last_exit">마지막 페이지에서 이전 버튼 동작</string>
     <string name="title">제목</string>
+    <string name="author">저자</string>
     <string name="artist">가수</string>
     <string name="album">앨범</string>
     <string name="genre">장르</string>
@@ -641,6 +644,15 @@
     <string name="js_title">자바스크립트</string>
     <string name="java_script">자바스크립트 사용 (권장)</string>
     <string name="java_script_info">자바스크립트를 비활성화하면 브라우저의 일부 기능이 동작하지 않게 됩니다.</string>
+    <string name="user_script_title">유저스크립트</string>
+    <string name="user_script_on">유저스크립트 사용</string>
+    <string name="user_script_list">유저스크립트 목록</string>
+    <string name="user_script_info">검증되지 않은 유저스크립트는 브라우저의 정상적인 동작을 방해하거나 심각한 보안 문제를 일으킬 수 있습니다.</string>
+    <string name="install">설치</string>
+    <string name="install_confirm">설치하시겠습니까?</string>
+    <string name="already_install">이미 설치되어 있습니다.</string>
+    <string name="install_fail">설치 실패</string>
+    <string name="check_format">포맷에 문제가 있는지 확인해 주세요.</string>
     <string name="icon_edit_guide">2. 아이콘을 클릭해서 변경할 수 있습니다.</string>
     <string name="long_edit_guide">하단바의 아이콘을 길게 눌렀을 때 사용할 기능을 설정할 수 있습니다.</string>
     <string name="swipe_edit_guide">하단바의 아이콘을 위로 스와이프할 때 사용할 기능을 설정할 수 있습니다.</string>

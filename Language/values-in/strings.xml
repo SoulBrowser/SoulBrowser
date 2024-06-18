@@ -8,6 +8,7 @@
     <string name="start">Mulai</string>
     <string name="info">Informasi</string>
     <string name="app_ver">Versi aplikasi</string>
+    <string name="version">Versi: kapan</string>
     <string name="license">Lisensi open source</string>
     <string name="show_license">Lisensi</string>
     <string name="feedback">Kirim umpan balik</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Hapus semua</string>
     <string name="deleted">Dihapus</string>
     <string name="swipe_delete">Geser hapus</string>
+    <string name="swipe_remove">Anda dapat menggeser untuk menghapusnya.</string>
     <string name="rename">Ubah nama</string>
     <string name="apply_url_equal">Diterapkan sama untuk orang lain</string>
     <string name="apply_pass_equal">Terapkan hal yang sama untuk kata sandi lainnya</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Geser halaman dari halaman terakhir untuk menutup tab</string>
     <string name="last_exit">Perilaku tombol sebelumnya di halaman terakhir</string>
     <string name="title">Judul</string>
+    <string name="author">Pengarang</string>
     <string name="artist">Artist</string>
     <string name="album">Album</string>
     <string name="genre">Genre</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Menggunakan JavaScript (Disarankan)</string>
     <string name="java_script_info">Beberapa fitur browser tidak akan berfungsi jika JavaScript dinonaktifkan.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">Gunakan UserScript</string>
+    <string name="user_script_list">Daftar UserScript</string>
+    <string name="user_script_info">Skrip pengguna yang tidak terverifikasi dapat mengganggu pengoperasian normal browser atau menyebabkan masalah keamanan yang serius.</string>
+    <string name="install">Instalasi</string>
+    <string name="install_confirm">Apakah Anda ingin menginstal?</string>
+    <string name="already_install">Itu sudah terinstal.</string>
+    <string name="install_fail">Instalasi gagal</string>
+    <string name="check_format">Silakan periksa apakah ada masalah dengan formatnya.</string>
     <string name="icon_edit_guide">2. Anda dapat mengubahnya dengan mengklik ikon.</string>
     <string name="long_edit_guide">Anda dapat mengatur fungsi untuk digunakan saat Anda menekan dan menahan ikon di bilah bawah.</string>
     <string name="swipe_edit_guide">Anda dapat mengatur fungsi yang akan digunakan saat menggesek ikon di bar bagian bawah.</string>

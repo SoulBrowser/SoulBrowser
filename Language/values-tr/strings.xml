@@ -8,6 +8,7 @@
     <string name="start">Başlat</string>
     <string name="info">Bilgi</string>
     <string name="app_ver">Uygulama sürümü</string>
+    <string name="version">Sürüm</string>
     <string name="license">Açık kaynak lisansları</string>
     <string name="show_license">Lisans</string>
     <string name="feedback">Geri bildirim gönder</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Hepsini sil</string>
     <string name="deleted">Silindi</string>
     <string name="swipe_delete">Kaydır sil</string>
+    <string name="swipe_remove">Kaldırmak için kaydırabilirsiniz.</string>
     <string name="rename">Yeniden Adlandır</string>
     <string name="apply_url_equal">Diğerlerine eşit olarak uygulanır</string>
     <string name="apply_pass_equal">Aynısını diğer şifrelere de uygula</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Sekmeyi kapatmak için sayfayı son sayfadan kaydırın</string>
     <string name="last_exit">Son sayfada önceki düğme davranışı</string>
     <string name="title">Başlık</string>
+    <string name="author">Yazar</string>
     <string name="artist">Sanatçı</string>
     <string name="album">Albüm</string>
     <string name="genre">Tür</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">JavaScript kullanılsın (Önerilir)</string>
     <string name="java_script_info">JavaScript devre dışı bırakılırsa bazı tarayıcı özellikleri çalışmaz.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">UserScript nu kullanın</string>
+    <string name="user_script_list">UserScript listesi</string>
+    <string name="user_script_info">Doğrulanmamış kullanıcı komut dosyaları, tarayıcının normal çalışmasına müdahale edebilir veya ciddi güvenlik sorunlarına neden olabilir.</string>
+    <string name="install">Kurulum</string>
+    <string name="install_confirm">Yüklemek istiyor musunuz?</string>
+    <string name="already_install">Zaten yüklü.</string>
+    <string name="install_fail">Yükleme başarısız</string>
+    <string name="check_format">Lütfen formatta bir sorun olup olmadığını kontrol edin.</string>
     <string name="icon_edit_guide">2. Simgeye tıklayarak değiştirebilirsiniz.</string>
     <string name="long_edit_guide">Alt çubuktaki simgeyi basılı tuttuğunuzda kullanılacak işlevi ayarlayabilirsiniz.</string>
     <string name="swipe_edit_guide">Alt çubuktaki simgeyi yukarı kaydırırken kullanılacak işlevi ayarlayabilirsiniz.</string>

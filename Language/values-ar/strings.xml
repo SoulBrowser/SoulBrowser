@@ -8,6 +8,7 @@
     <string name="start">بداية</string>
     <string name="info">معلومة</string>
     <string name="app_ver">نسخة التطبيق</string>
+    <string name="version">إصدار</string>
     <string name="license">ترخيص مفتوح المصدر</string>
     <string name="show_license">رخصة</string>
     <string name="feedback">ارسل رأيك</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">حذف الكل</string>
     <string name="deleted">قد تم حذف.</string>
     <string name="swipe_delete">انتقد حذف</string>
+    <string name="swipe_remove">يمكنك التمرير لإزالته.</string>
     <string name="rename">تغيير الاسم</string>
     <string name="apply_url_equal">نفس الشيء بالنسبة لعناوين URL الأخرى</string>
     <string name="apply_pass_equal">قم بتطبيق نفس الشيء على كلمات المرور الأخرى</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">انتقد الصفحة من الصفحة الأخيرة لإغلاق علامة التبويب</string>
     <string name="last_exit">سلوك الزر السابق في الصفحة الأخيرة</string>
     <string name="title">لقب</string>
+    <string name="author">مؤلف</string>
     <string name="artist">مغني</string>
     <string name="album">الألبوم</string>
     <string name="genre">النوع</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">استخدم JavaScript (مستحسن)</string>
     <string name="java_script_info">سيؤدي تعطيل JavaScript إلى توقف بعض ميزات المتصفح عن العمل.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">استخدم UserScript</string>
+    <string name="user_script_list">قائمة UserScript</string>
+    <string name="user_script_info">يمكن أن تتداخل البرامج النصية للمستخدم التي لم يتم التحقق منها مع التشغيل العادي للمتصفح أو تسبب مشكلات أمنية خطيرة.</string>
+    <string name="install">تثبيت</string>
+    <string name="install_confirm">هل تريد التثبيت؟</string>
+    <string name="already_install">لقد تم تثبيته بالفعل.</string>
+    <string name="install_fail">فشل التثبيت</string>
+    <string name="check_format">يرجى التحقق مما إذا كانت هناك مشكلة في التنسيق.</string>
     <string name="icon_edit_guide">2. يمكنك تغييره بالضغط على الأيقونة.</string>
     <string name="long_edit_guide">يمكنك ضبط الوظيفة لاستخدامها عند الضغط لفترة طويلة على الرمز الموجود في الشريط السفلي.</string>
     <string name="swipe_edit_guide">يمكنك ضبط الوظيفة لاستخدامها عند التمرير سريعًا فوق الرمز الموجود في الشريط السفلي.</string>

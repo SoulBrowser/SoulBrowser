@@ -8,6 +8,7 @@
     <string name="start">शुरू</string>
     <string name="info">जानकारी</string>
     <string name="app_ver">एप्लिकेशन वेरीज़न</string>
+    <string name="version">संस्करण</string>
     <string name="license">ओपन सोर्स लाइसेंस</string>
     <string name="show_license">लाइसेंस</string>
     <string name="feedback">प्रतिक्रिया भेजें</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">सभी हटा दो</string>
     <string name="deleted">हटाए गए</string>
     <string name="swipe_delete">स्वाइप डिलीट</string>
+    <string name="swipe_remove">इसे हटाने के लिए आप स्वाइप कर सकते हैं.</string>
     <string name="rename">नाम बदलें</string>
     <string name="apply_url_equal">दूसरों के लिए समान रूप से लागू</string>
     <string name="apply_pass_equal">दूसरों के लिए समान रूप से लागू</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">टैब बंद करने के लिए पृष्ठ को अंतिम पृष्ठ से स्वाइप करें</string>
     <string name="last_exit">अंतिम पृष्ठ पर पिछला बटन व्यवहार</string>
     <string name="title">शीर्षक</string>
+    <string name="author">लेखक</string>
     <string name="artist">कलाकार</string>
     <string name="album">एल्बम</string>
     <string name="genre">शैली</string>
@@ -641,6 +644,15 @@
     <string name="js_title">जावास्क्रिप्ट</string>
     <string name="java_script">जावास्क्रिप्ट का उपयोग करना (अनुशंसित)</string>
     <string name="java_script_info">यदि जावास्क्रिप्ट अक्षम है तो कुछ ब्राउज़र सुविधाएँ काम नहीं करेंगी।</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">UserScript का प्रयोग करें</string>
+    <string name="user_script_list">UserScript सूची</string>
+    <string name="user_script_info">असत्यापित उपयोगकर्ता स्क्रिप्ट ब्राउज़र के सामान्य संचालन में हस्तक्षेप कर सकती हैं या गंभीर सुरक्षा समस्याएं पैदा कर सकती हैं।</string>
+    <string name="install">इंस्टालेशन</string>
+    <string name="install_confirm">क्या आप इंस्टॉल करना चाहते हैं?</string>
+    <string name="already_install">यह पहले से ही स्थापित है.</string>
+    <string name="install_fail">स्थापना विफल</string>
+    <string name="check_format">कृपया जाँचें कि क्या प्रारूप में कोई समस्या है।</string>
     <string name="icon_edit_guide">2. आप इसे आइकन पर क्लिक करके बदल सकते हैं।</string>
     <string name="long_edit_guide">जब आप नीचे पट्टी पर आइकन को दबाकर रखते हैं तो आप फ़ंक्शन को उपयोग करने के लिए सेट कर सकते हैं।</string>
     <string name="swipe_edit_guide">निचले बार पर आइकन को स्वाइप करते समय आप फ़ंक्शन को उपयोग करने के लिए सेट कर सकते हैं।</string>

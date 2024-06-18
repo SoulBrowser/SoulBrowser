@@ -8,6 +8,7 @@
     <string name="start">Starten</string>
     <string name="info">Informationen</string>
     <string name="app_ver">App Version</string>
+    <string name="version">Ausführung</string>
     <string name="license">Open source Lizenzen</string>
     <string name="show_license">Lizenz</string>
     <string name="feedback">Feedback senden</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Alles löschen</string>
     <string name="deleted">Gelöscht</string>
     <string name="swipe_delete">Wischen entfernen</string>
+    <string name="swipe_remove">Sie können es entfernen, indem Sie wischen.</string>
     <string name="rename">Umbenennen</string>
     <string name="apply_url_equal">Auf andere URL gleichermaßen anwenden</string>
     <string name="apply_pass_equal">Wenden Sie dasselbe auf andere Passwörter an</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Wischen Sie von der letzten Seite über die Seite, um der Tab zu schließen</string>
     <string name="last_exit">Verhalten der vorherigen Schaltfläche auf der letzten Seite</string>
     <string name="title">Titel</string>
+    <string name="author">Autor</string>
     <string name="artist">Künstler</string>
     <string name="album">Album</string>
     <string name="genre">Genre</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Verwenden von JavaScript (empfohlen)</string>
     <string name="java_script_info">Einige Browserfunktionen funktionieren nicht, wenn JavaScript deaktiviert ist.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">Verwenden Sie UserScript</string>
+    <string name="user_script_list">Liste UserScript</string>
+    <string name="user_script_info">Nicht verifizierte Benutzerskripte können den normalen Betrieb des Browsers beeinträchtigen oder schwerwiegende Sicherheitsprobleme verursachen.</string>
+    <string name="install">Installation</string>
+    <string name="install_confirm">Wollen Sie installieren?</string>
+    <string name="already_install">Es ist bereits installiert.</string>
+    <string name="install_fail">Installation fehlgeschlagen</string>
+    <string name="check_format">Bitte prüfen Sie, ob ein Problem mit dem Format vorliegt.</string>
     <string name="icon_edit_guide">2. Sie können es ändern, indem Sie auf das Symbol klicken.</string>
     <string name="long_edit_guide">Sie können die zu verwendende Funktion einstellen, wenn Sie das Symbol in der unteren Leiste gedrückt halten.</string>
     <string name="swipe_edit_guide">Sie können die Funktion festlegen, die beim Wischen des Symbols in der unteren Leiste verwendet werden soll.</string>

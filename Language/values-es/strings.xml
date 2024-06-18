@@ -8,6 +8,7 @@
     <string name="start">Comenzar</string>
     <string name="info">Información</string>
     <string name="app_ver">Versión de aplicacion</string>
+    <string name="version">Versión</string>
     <string name="license">Licencias de código abierto</string>
     <string name="show_license">Licencia</string>
     <string name="feedback">Enviar comentarios</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Eliminar todos</string>
     <string name="deleted">Eliminado</string>
     <string name="swipe_delete">Deslizar eliminar</string>
+    <string name="swipe_remove">Puedes deslizar para eliminarlo.</string>
     <string name="rename">Renombrar</string>
     <string name="apply_url_equal">Aplicado igualmente a otros</string>
     <string name="apply_pass_equal">Aplicar lo mismo a otras contraseñas</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Desliza la página desde la última página para cerrar la pestaña</string>
     <string name="last_exit">Comportamiento del botón anterior en la última página</string>
     <string name="title">Título</string>
+    <string name="author">Autor</string>
     <string name="artist">Artista</string>
     <string name="album">Álbum</string>
     <string name="genre">Género</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Usando JavaScript (Recomendadas)</string>
     <string name="java_script_info">Algunas funciones del navegador no funcionarán si JavaScript está deshabilitado.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">Utilice UserScript</string>
+    <string name="user_script_list">Lista de UserScript</string>
+    <string name="user_script_info">Los scripts de usuario no verificados pueden interferir con el funcionamiento normal del navegador o causar graves problemas de seguridad.</string>
+    <string name="install">Instalación</string>
+    <string name="install_confirm">¿Quieres instalar?</string>
+    <string name="already_install">Ya está instalado.</string>
+    <string name="install_fail">Instalación fallida</string>
+    <string name="check_format">Por favor verifique si hay algún problema con el formato.</string>
     <string name="icon_edit_guide">2. Puede cambiarlo haciendo clic en el icono.</string>
     <string name="long_edit_guide">Puede configurar la función para usar cuando mantiene presionado el icono en la barra inferior.</string>
     <string name="swipe_edit_guide">Puede configurar la función para usar al deslizar hacia arriba el icono en la barra inferior.</string>

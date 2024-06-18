@@ -8,6 +8,7 @@
     <string name="start">Старт</string>
     <string name="info">Інформація</string>
     <string name="app_ver">Версія програми</string>
+    <string name="version">Версія</string>
     <string name="license">Ліцензії з відкритим кодом</string>
     <string name="show_license">Ліцензія</string>
     <string name="feedback">Надіслати відгук</string>
@@ -87,6 +88,7 @@
     <string name="delete_all">Видалити всі</string>
     <string name="deleted">Видалено</string>
     <string name="swipe_delete">Видалення змахуванням</string>
+    <string name="swipe_remove">Ви можете провести пальцем, щоб видалити його.</string>
     <string name="rename">Перейменуйте</string>
     <string name="apply_url_equal">Застосовується однаково до інших</string>
     <string name="apply_pass_equal">Застосуйте те саме до інших паролів</string>
@@ -233,6 +235,7 @@
     <string name="last_swipe">Проведіть сторінку з останньої сторінки, щоб закрити вкладку</string>
     <string name="last_exit">Поведінка попередньої кнопки на останній сторінці</string>
     <string name="title">Назва</string>
+    <string name="author">Автор</string>
     <string name="artist">Виконавець</string>
     <string name="album">Альбом</string>
     <string name="genre">Жанр</string>
@@ -641,6 +644,15 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Використовувати JavaScript (Рекомендується)</string>
     <string name="java_script_info">Деякі функції браузера не працюватимуть, якщо JavaScript вимкнено.</string>
+    <string name="user_script_title">UserScript</string>
+    <string name="user_script_on">Використовуйте UserScript</string>
+    <string name="user_script_list">Список UserScript</string>
+    <string name="user_script_info">Неперевірені сценарії користувача можуть заважати нормальній роботі браузера або спричиняти серйозні проблеми з безпекою.</string>
+    <string name="install">Установка</string>
+    <string name="install_confirm">Ви хочете встановити?</string>
+    <string name="already_install">Його вже встановлено.</string>
+    <string name="install_fail">Помилка встановлення</string>
+    <string name="check_format">Перевірте, чи є проблема з форматом.</string>
     <string name="icon_edit_guide">2. Ви можете змінити його, натиснувши значок.</string>
     <string name="long_edit_guide">Ви можете встановити функцію, яку потрібно використовувати, натискаючи та утримуючи піктограму на нижній панелі.</string>
     <string name="swipe_edit_guide">Ви можете встановити функцію, яка буде використовуватись під час розгортання значка на нижній панелі.</string>
