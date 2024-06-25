@@ -32,6 +32,7 @@
     <string name="down_page">Sayfayı kaydet</string>
     <string name="down_list">İndirilenler</string>
     <string name="down_start">İndirme başladı</string>
+    <string name="down_system_paused">Android sistemi pilden tasarruf etmek için indirmeleri duraklattı.</string>
     <string name="paused">Duraklatıldı</string>
     <string name="pause">Duraklat</string>
     <string name="resume">Devam Et</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Web\'de gezinme sırasında oluşturulan dosyalar (ör. görüntüler)</string>
     <string name="cookie">Çerez</string>
     <string name="cookie_info">Web\'de gezinme sırasında oluşturulan bilgiler (ör. giriş bilgileri)</string>
+    <string name="delete_cookie">Çerezleri sil</string>
     <string name="screen_rotate">Ekran döndürme</string>
     <string name="vol_scroll">Web sayfalarını ses tuşları ile kaydır</string>
     <string name="double_back">Uygulamadan çıkmak için iki kez geri düğmesi</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Hata bildir</string>
     <string name="report_site">Site bildirin</string>
     <string name="report_down">Lütfen videoyu indiremediğiniz sitenin adresini belirtin.</string>
+    <string name="insta_down">Instagram videolarını sorunsuz bir şekilde indirmek için Instagram’a giriş yapmanız gerekmektedir.</string>
     <string name="youtube_unmute">YouTube\'un sesini aç</string>
     <string name="youtube_speed">YouTube oynatma hızını kaydedin</string>
     <string name="youtube_auto">YouTube otomatik oynatma</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">UserScript nu kullanın</string>
     <string name="user_script_list">UserScript listesi</string>
-    <string name="user_script_info">Doğrulanmamış kullanıcı komut dosyaları, tarayıcının normal çalışmasına müdahale edebilir veya ciddi güvenlik sorunlarına neden olabilir.</string>
+    <string name="user_script_info">Güvenilmeyen kullanıcı komut dosyaları, tarayıcının normal çalışmasına müdahale edebilir veya ciddi güvenlik sorunlarına neden olabilir.</string>
     <string name="install">Kurulum</string>
     <string name="install_confirm">Yüklemek istiyor musunuz?</string>
     <string name="already_install">Zaten yüklü.</string>

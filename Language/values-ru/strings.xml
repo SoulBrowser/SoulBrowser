@@ -32,6 +32,7 @@
     <string name="down_page">Сохранить страницу</string>
     <string name="down_list">Загрузки</string>
     <string name="down_start">Загрузка началась</string>
+    <string name="down_system_paused">Система Android приостановила загрузку для экономии заряда батареи.</string>
     <string name="paused">Приостановлена</string>
     <string name="pause">Пауза</string>
     <string name="resume">Продолжить</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Файлы просмотренных веб-страниц (напр. изображения)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Информация, сохранённая во время просмотра веб-страниц (напр. данные для входа)</string>
+    <string name="delete_cookie">Удалить файлы cookie</string>
     <string name="screen_rotate">Ориентация экрана</string>
     <string name="vol_scroll">Прокрутка страницы клавишами регулировки громкости</string>
     <string name="double_back">Двойное нажатие для выхода из браузера</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Сообщить об ошибке</string>
     <string name="report_site">Сообщить о проблемах с сайтом</string>
     <string name="report_down">Пожалуйста, укажите адрес сайта, где Вы не можете скачать видео.</string>
+    <string name="insta_down">Чтобы беспрепятственно загружать видео из Instagram,\nвам необходимо войти в Instagram.</string>
     <string name="youtube_unmute">Включить YouTube</string>
     <string name="youtube_speed">Сохранить скорость воспроизведения YouTube</string>
     <string name="youtube_auto">Автозапуск YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Используйте UserScript</string>
     <string name="user_script_list">Список UserScript</string>
-    <string name="user_script_info">Непроверенные пользовательские скрипты могут помешать нормальной работе браузера или вызвать серьезные проблемы с безопасностью.</string>
+    <string name="user_script_info">Недоверенные пользовательские скрипты могут помешать нормальной работе браузера или вызвать серьезные проблемы с безопасностью.</string>
     <string name="install">Монтаж</string>
     <string name="install_confirm">Хотите установить?</string>
     <string name="already_install">Он уже установлен.</string>

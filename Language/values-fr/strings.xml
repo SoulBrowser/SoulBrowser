@@ -32,6 +32,7 @@
     <string name="down_page">Sauvegarder page</string>
     <string name="down_list">Télécharger</string>
     <string name="down_start">Téléchargement démarré</string>
+    <string name="down_system_paused">Le système Android a suspendu les téléchargements pour économiser la batterie.</string>
     <string name="paused">En pause</string>
     <string name="pause">Pause</string>
     <string name="resume">Reprendre</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Fichiers créés lors de la navigation sur le web (exemple : images)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informations créés lors de la navigation sur le web (exemple : Informations de connexion)</string>
+    <string name="delete_cookie">Supprimer les cookies</string>
     <string name="screen_rotate">Rotation de l\'écran</string>
     <string name="vol_scroll">Faire défiler les pages web avec les touches de volume</string>
     <string name="double_back">Double appui sur bouton retour pour quitter</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Signaler une erreur</string>
     <string name="report_site">Rapport d\'erreur</string>
     <string name="report_down">Veuillez fournir l\'adresse du site dont vous ne pouvez pas télécharger la vidéo.</string>
+    <string name="insta_down">Pour télécharger des vidéos Instagram en douceur,\nvous devez vous connecter à Instagram.</string>
     <string name="youtube_unmute">Activer YouTube</string>
     <string name="youtube_speed">Enregistrer la vitesse de lecture YouTube</string>
     <string name="youtube_auto">Lecture automatique YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Utiliser UserScript</string>
     <string name="user_script_list">Liste UserScript</string>
-    <string name="user_script_info">Les scripts utilisateur non vérifiés peuvent interférer avec le fonctionnement normal du navigateur ou provoquer de graves problèmes de sécurité.</string>
+    <string name="user_script_info">Les scripts utilisateur non fiables peuvent interférer avec le fonctionnement normal du navigateur ou provoquer de graves problèmes de sécurité.</string>
     <string name="install">Installation</string>
     <string name="install_confirm">Voulez-vous installer?</string>
     <string name="already_install">Il est déjà installé.</string>

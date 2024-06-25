@@ -32,6 +32,7 @@
     <string name="down_page">Salva pagina</string>
     <string name="down_list">Elenco download</string>
     <string name="down_start">Download avviato</string>
+    <string name="down_system_paused">Il sistema Android ha messo in pausa i download per risparmiare batteria.</string>
     <string name="paused">In pausa</string>
     <string name="pause">Pausa</string>
     <string name="resume">Riprendi</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">File creati durante la navigazione web (esempio : immagini)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informazioni create durante la navigazione web (esempio : informazioni di accesso)</string>
+    <string name="delete_cookie">Elimina i cookie</string>
     <string name="screen_rotate">Rotazione dello schermo</string>
     <string name="vol_scroll">Scorri le pagine web con i tasti del volume</string>
     <string name="double_back">Pulsante indietro due volte per uscire da app</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Segnala errore</string>
     <string name="report_site">Segnala sito</string>
     <string name="report_down">Fornisci l\'indirizzo del sito in cui non è possibile scaricare il video.</string>
+    <string name="insta_down">Per scaricare i video di Instagram senza problemi,\ndevi accedere a Instagram.</string>
     <string name="youtube_unmute">Riattiva YouTube</string>
     <string name="youtube_speed">Salva la velocità di riproduzione di YouTube</string>
     <string name="youtube_auto">Riproduzione automatica di YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Utilizza UserScript</string>
     <string name="user_script_list">Elenco UserScript</string>
-    <string name="user_script_info">Gli script utente non verificati possono interferire con il normale funzionamento del browser o causare seri problemi di sicurezza.</string>
+    <string name="user_script_info">Gli script utente non attendibili possono interferire con il normale funzionamento del browser o causare seri problemi di sicurezza.</string>
     <string name="install">Installazione</string>
     <string name="install_confirm">Vuoi installare?</string>
     <string name="already_install">È già installato.</string>

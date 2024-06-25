@@ -32,6 +32,7 @@
     <string name="down_page">Guardar página</string>
     <string name="down_list">Lista de descargas</string>
     <string name="down_start">Descarga iniciada</string>
+    <string name="down_system_paused">El sistema Android ha pausado las descargas para ahorrar batería.</string>
     <string name="paused">En pausa</string>
     <string name="pause">Pausa</string>
     <string name="resume">Reanudar</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Archivos creados durante la navegación web (p.ej. imágenes)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Información creada durante la navegación web (p.ej. información entrar)</string>
+    <string name="delete_cookie">Eliminar las cookies</string>
     <string name="screen_rotate">Rotacion de pantalla</string>
     <string name="vol_scroll">Desplazarse por páginas web con teclas de volumen</string>
     <string name="double_back">Atrás botón dos veces a la salida de la aplicación</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Informar error</string>
     <string name="report_site">Informe del sitio</string>
     <string name="report_down">Proporcione la dirección del sitio donde no puede descargar el video.</string>
+    <string name="insta_down">Para descargar videos de Instagram sin problemas,\ndebe iniciar sesión en Instagram.</string>
     <string name="youtube_unmute">No silenciar YouTube</string>
     <string name="youtube_speed">Guardar la velocidad de reproducción de YouTube</string>
     <string name="youtube_auto">Reproducción automática de YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Utilice UserScript</string>
     <string name="user_script_list">Lista de UserScript</string>
-    <string name="user_script_info">Los scripts de usuario no verificados pueden interferir con el funcionamiento normal del navegador o causar graves problemas de seguridad.</string>
+    <string name="user_script_info">Los scripts de usuarios que no son de confianza pueden interferir con el funcionamiento normal del navegador o provocar graves problemas de seguridad.</string>
     <string name="install">Instalación</string>
     <string name="install_confirm">¿Quieres instalar?</string>
     <string name="already_install">Ya está instalado.</string>

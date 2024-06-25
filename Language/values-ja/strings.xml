@@ -32,6 +32,7 @@
     <string name="down_page">ページ保存</string>
     <string name="down_list">ダウンロード履歴</string>
     <string name="down_start">ダウンロード開始</string>
+    <string name="down_system_paused">Androidシステムでバッテリーを節約するためにダウンロードを一時停止しました。</string>
     <string name="paused">一時停止</string>
     <string name="pause">一時停止</string>
     <string name="resume">再開</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">ウェブ閲覧中に生成されたファイル（例：画像）</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">ウェブ閲覧中に生成された情報（例：ログイン情報）</string>
+    <string name="delete_cookie">クッキーを削除</string>
     <string name="screen_rotate">画面の回転</string>
     <string name="vol_scroll">ボリュームキーWebページのスクロール</string>
     <string name="double_back">戻るボタン二度押しアプリを終了</string>
@@ -546,6 +548,7 @@
     <string name="report_error">エラーを報告</string>
     <string name="report_site">サイト情報提供</string>
     <string name="report_down">動画をダウンロードすることができないサイトのアドレスを教えてください。</string>
+    <string name="insta_down">Instagramの動画をシームレスにダウンロードするには、\nInstagramにログインする必要があります。</string>
     <string name="youtube_unmute">YouTubeのミュートを解除</string>
     <string name="youtube_speed">YouTubeの再生速度を保存</string>
     <string name="youtube_auto">YouTubeの自動再生</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">UserScriptを使う</string>
     <string name="user_script_list">UserScriptリスト</string>
-    <string name="user_script_info">検証されていないユーザースクリプトは、ブラウザの正常な動作を妨げたり、深刻なセキュリティ問題を引き起こす可能性があります。</string>
+    <string name="user_script_info">信頼できないユーザースクリプトは、ブラウザの正常な動作を妨げたり、深刻なセキュリティ問題を引き起こす可能性があります。</string>
     <string name="install">インストール</string>
     <string name="install_confirm">インストールしますか？</string>
     <string name="already_install">すでにインストールされています。</string>

@@ -32,6 +32,7 @@
     <string name="down_page">Lưu trang</string>
     <string name="down_list">Danh sách tải xuống</string>
     <string name="down_start">Bắt đầu tải xuống</string>
+    <string name="down_system_paused">Hệ thống Android đã tạm dừng tải xuống để tiết kiệm pin.</string>
     <string name="paused">Tạm dừng</string>
     <string name="pause">Tạm ngừng</string>
     <string name="resume">Tiếp tục</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Tập tin được tạo trong quá trình duyệt web (ví dụ : hình ảnh)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Thông tin được tạo trong quá trình duyệt web (ví dụ : đăng nhập thông tin)</string>
+    <string name="delete_cookie">Xóa cookie</string>
     <string name="screen_rotate">Xoay màn hình</string>
     <string name="vol_scroll">Cuộn trang web với các phím âm lượng</string>
     <string name="double_back">Nút quay lại hai lần để thoát ứng dụng</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Báo lỗi</string>
     <string name="report_site">Trang web báo cáo</string>
     <string name="report_down">Vui lòng cung cấp địa chỉ của trang web nơi bạn không thể tải xuống video.</string>
+    <string name="insta_down">Để tải video Instagram một cách mượt mà,\nbạn cần đăng nhập vào Instagram.</string>
     <string name="youtube_unmute">Bật tiếng YouTube</string>
     <string name="youtube_speed">Tiết kiệm tốc độ phát YouTube</string>
     <string name="youtube_auto">Tự động phát trên YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Sử dụng UserScript</string>
     <string name="user_script_list">Danh sách UserScript</string>
-    <string name="user_script_info">Các tập lệnh người dùng chưa được xác minh có thể can thiệp vào hoạt động bình thường của trình duyệt hoặc gây ra các sự cố bảo mật nghiêm trọng.</string>
+    <string name="user_script_info">Các tập lệnh người dùng không đáng tin cậy có thể can thiệp vào hoạt động bình thường của trình duyệt hoặc gây ra các sự cố bảo mật nghiêm trọng.</string>
     <string name="install">Cài đặt</string>
     <string name="install_confirm">Bạn có muốn cài đặt không?</string>
     <string name="already_install">Nó đã được cài đặt rồi.</string>

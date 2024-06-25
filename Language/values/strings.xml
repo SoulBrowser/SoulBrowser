@@ -32,6 +32,7 @@
     <string name="down_page">Save page</string>
     <string name="down_list">Downloads</string>
     <string name="down_start">Download started</string>
+    <string name="down_system_paused">The Android system has paused downloads to save battery.</string>
     <string name="paused">Paused</string>
     <string name="pause">Pause</string>
     <string name="resume">Resume</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Files created during web browsing (e.g. images)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Information created during web browsing (e.g. login information)</string>
+    <string name="delete_cookie">Delete cookies</string>
     <string name="screen_rotate">Screen rotation</string>
     <string name="vol_scroll">Scroll web pages with volume keys</string>
     <string name="double_back">Back button twice to app exit</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Report error</string>
     <string name="report_site">Report site</string>
     <string name="report_down">Please provide the address of the site where the video can not be downloaded.</string>
+    <string name="insta_down">To download Instagram videos smoothly,\nyou need to log in to Instagram.</string>
     <string name="youtube_unmute">Unmute YouTube</string>
     <string name="youtube_speed">Save YouTube playback speed</string>
     <string name="youtube_auto">YouTube autoplay</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Use UserScript</string>
     <string name="user_script_list">UserScript list</string>
-    <string name="user_script_info">Unverified user scripts can interfere with the normal operation of the browser or cause serious security problems.</string>
+    <string name="user_script_info">Untrusted user scripts can interfere with the normal operation of the browser or cause serious security problems.</string>
     <string name="install">Installation</string>
     <string name="install_confirm">Do you want to install?</string>
     <string name="already_install">It\'s already installed.</string>

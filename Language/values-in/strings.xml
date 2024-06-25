@@ -32,6 +32,7 @@
     <string name="down_page">Simpan halaman</string>
     <string name="down_list">Unduhan</string>
     <string name="down_start">Unduhan dimulai</string>
+    <string name="down_system_paused">Sistem Android telah menjeda unduhan untuk menghemat baterai.</string>
     <string name="paused">Dijeda</string>
     <string name="pause">Jeda</string>
     <string name="resume">Lanjutkan</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">File yang dibuat selama penjelajahan web (mis. gambar)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informasi yang dibuat selama penjelajahan web (mis. informasi login)</string>
+    <string name="delete_cookie">Hapus cookie</string>
     <string name="screen_rotate">Perputaran layar</string>
     <string name="vol_scroll">Gulir halaman web dengan tombol volume</string>
     <string name="double_back">Tekan tombol kembali dua kali untuk keluar dari aplikasi</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Laporan kesalahan</string>
     <string name="report_site">Laporkan situs</string>
     <string name="report_down">Harap berikan alamat situs tempat Anda tidak dapat mengunduh video.</string>
+    <string name="insta_down">Untuk mendownload video Instagram dengan lancar,\nAnda perlu login ke Instagram.</string>
     <string name="youtube_unmute">Suarakan YouTube</string>
     <string name="youtube_speed">Hemat kecepatan pemutaran YouTube</string>
     <string name="youtube_auto">Putar otomatis YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Gunakan UserScript</string>
     <string name="user_script_list">Daftar UserScript</string>
-    <string name="user_script_info">Skrip pengguna yang tidak terverifikasi dapat mengganggu pengoperasian normal browser atau menyebabkan masalah keamanan yang serius.</string>
+    <string name="user_script_info">Skrip pengguna yang tidak tepercaya dapat mengganggu pengoperasian normal browser atau menyebabkan masalah keamanan yang serius.</string>
     <string name="install">Instalasi</string>
     <string name="install_confirm">Apakah Anda ingin menginstal?</string>
     <string name="already_install">Itu sudah terinstal.</string>

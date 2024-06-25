@@ -32,6 +32,7 @@
     <string name="down_page">บันทึกหน้า</string>
     <string name="down_list">ดาวน์โหลด</string>
     <string name="down_start">การดาวน์โหลดเริ่มต้น</string>
+    <string name="down_system_paused">ระบบ Android หยุดการดาวน์โหลดชั่วคราวเพื่อประหยัดแบตเตอรี่</string>
     <string name="paused">หยุดชั่วคราว</string>
     <string name="pause">หยุดชั่วคราว</string>
     <string name="resume">ประวัติย่อ</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">ไฟล์ที่สร้างขึ้นระหว่างการท่องเว็บ (เช่นภาพ)</string>
     <string name="cookie">คุกกี้</string>
     <string name="cookie_info">ข้อมูลที่สร้างขึ้นระหว่างการท่องเว็บ (เช่นข้อมูลเข้าสู่ระบบ)</string>
+    <string name="delete_cookie">ลบคุกกี้</string>
     <string name="screen_rotate">การหมุนหน้าจอ</string>
     <string name="vol_scroll">เลื่อนหน้าเว็บด้วยปุ่มปรับระดับเสียง</string>
     <string name="double_back">Back สองครั้งเพื่อออกจากแอป</string>
@@ -546,6 +548,7 @@
     <string name="report_error">รายงานข้อผิดพลาด</string>
     <string name="report_site">เว็บไซต์รายงาน</string>
     <string name="report_down">โปรดระบุที่อยู่ของเว็บไซต์ที่คุณไม่สามารถดาวน์โหลดวิดีโอได้</string>
+    <string name="insta_down">หากต้องการดาวน์โหลดวิดีโอ Instagram ได้อย่างราบรื่น คุณต้องเข้าสู่ระบบ Instagram</string>
     <string name="youtube_unmute">เปิดเสียง YouTube</string>
     <string name="youtube_speed">บันทึกความเร็วในการเล่น YouTube</string>
     <string name="youtube_auto">เล่นอัตโนมัติของ YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">ใช้ UserScript</string>
     <string name="user_script_list">รายการ UserScript</string>
-    <string name="user_script_info">สคริปต์ผู้ใช้ที่ไม่ได้รับการยืนยันอาจรบกวนการทำงานปกติของเบราว์เซอร์หรือทำให้เกิดปัญหาด้านความปลอดภัยร้ายแรง</string>
+    <string name="user_script_info">สคริปต์ผู้ใช้ที่ไม่น่าเชื่อถืออาจรบกวนการทำงานปกติของเบราว์เซอร์หรือทำให้เกิดปัญหาด้านความปลอดภัยร้ายแรง</string>
     <string name="install">การติดตั้ง</string>
     <string name="install_confirm">คุณต้องการติดตั้งหรือไม่?</string>
     <string name="already_install">มีการติดตั้งเรียบร้อยแล้ว</string>

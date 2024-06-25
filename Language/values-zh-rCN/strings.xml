@@ -32,6 +32,7 @@
     <string name="down_page">保存页面</string>
     <string name="down_list">下载记录</string>
     <string name="down_start">开始下载</string>
+    <string name="down_system_paused">Android 系统已暂停下载以节省电量</string>
     <string name="paused">已暂停</string>
     <string name="pause">暂停</string>
     <string name="resume">恢复</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">网页浏览期间创建的文件（示例：图像）</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">网页浏览期间创建的信息（示例：登录信息）</string>
+    <string name="delete_cookie">删除 Cookies</string>
     <string name="screen_rotate">屏幕旋转</string>
     <string name="vol_scroll">音量键滚动网页</string>
     <string name="double_back">双击返回按钮退出应用程序</string>
@@ -546,6 +548,7 @@
     <string name="report_error">报告错误</string>
     <string name="report_site">反馈网站</string>
     <string name="report_down">请提供无法下载视频的网站地址</string>
+    <string name="insta_down">要顺利下载 Instagram 视频，\n您需要登录 Instagram</string>
     <string name="youtube_unmute">取消静音 YouTube</string>
     <string name="youtube_speed">保存 YouTube 播放速度</string>
     <string name="youtube_auto">YouTube 自动播放</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">使用 UserScript</string>
     <string name="user_script_list">UserScript 列表</string>
-    <string name="user_script_info">未经验证的用户脚本可能会干扰浏览器的正常运行或导致严重的安全问题</string>
+    <string name="user_script_info">不受信任的用户脚本可能会干扰浏览器的正常运行或导致严重的安全问题</string>
     <string name="install">安装</string>
     <string name="install_confirm">您要安装吗？</string>
     <string name="already_install">它已经安装好了</string>

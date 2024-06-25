@@ -32,6 +32,7 @@
     <string name="down_page">페이지 저장</string>
     <string name="down_list">다운로드</string>
     <string name="down_start">다운로드 시작됨</string>
+    <string name="down_system_paused">Android 시스템에서 배터리 절약을 위해 다운로드를 일시 중지했습니다.</string>
     <string name="paused">일시 중지됨</string>
     <string name="pause">일시 중지</string>
     <string name="resume">계속</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">웹 탐색 ​​중 생성된 파일 (예 : 이미지)</string>
     <string name="cookie">쿠키</string>
     <string name="cookie_info">웹 탐색 ​​중 생성 된 정보 (예 : 로그인 정보)</string>
+    <string name="delete_cookie">쿠키 삭제</string>
     <string name="screen_rotate">화면 회전</string>
     <string name="vol_scroll">볼륨 키로 웹페이지 스크롤</string>
     <string name="double_back">이전 버튼 두번 눌러 앱 종료</string>
@@ -546,6 +548,7 @@
     <string name="report_error">오류 보고</string>
     <string name="report_site">사이트 제보</string>
     <string name="report_down">동영상을 다운로드할 수 없는 사이트의 주소를 알려주세요.</string>
+    <string name="insta_down">인스타그램 동영상을 원활하게 다운로드하려면,\n인스타그램에 로그인해야 합니다.</string>
     <string name="youtube_unmute">YouTube 음소거 해제</string>
     <string name="youtube_speed">YouTube 재생 속도 저장</string>
     <string name="youtube_auto">YouTube 자동 재생</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">유저스크립트</string>
     <string name="user_script_on">유저스크립트 사용</string>
     <string name="user_script_list">유저스크립트 목록</string>
-    <string name="user_script_info">검증되지 않은 유저스크립트는 브라우저의 정상적인 동작을 방해하거나 심각한 보안 문제를 일으킬 수 있습니다.</string>
+    <string name="user_script_info">신뢰할 수 없는 유저스크립트는 브라우저의 정상적인 동작을 방해하거나 심각한 보안 문제를 일으킬 수 있습니다.</string>
     <string name="install">설치</string>
     <string name="install_confirm">설치하시겠습니까?</string>
     <string name="already_install">이미 설치되어 있습니다.</string>

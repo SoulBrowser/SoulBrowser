@@ -32,6 +32,7 @@
     <string name="down_page">Salvar página</string>
     <string name="down_list">Downloads</string>
     <string name="down_start">Download iniciado</string>
+    <string name="down_system_paused">O sistema Android pausou os downloads para economizar bateria.</string>
     <string name="paused">Pausado</string>
     <string name="pause">Pausar</string>
     <string name="resume">Retomar</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Arquivos criados durante a navegação na web (ex: imagens)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informações criadas durante a navegação na web (ex: informação de login)</string>
+    <string name="delete_cookie">Apagar cookies</string>
     <string name="screen_rotate">Rotação da tela</string>
     <string name="vol_scroll">Rolar páginas da web com teclas de volume</string>
     <string name="double_back">Botão voltar duas vezes para sair do app</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Reportar erro</string>
     <string name="report_site">Reportar site</string>
     <string name="report_down">Forneça o endereço do site onde você não consegue baixar vídeo.</string>
+    <string name="insta_down">Para baixar vídeos do Instagram sem problemas,\nvocê precisa fazer login no Instagram.</string>
     <string name="youtube_unmute">Ativar o som do YouTube</string>
     <string name="youtube_speed">Salve a velocidade de reprodução do YouTube</string>
     <string name="youtube_auto">Reprodução automática do YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Use UserScript</string>
     <string name="user_script_list">Lista de UserScript</string>
-    <string name="user_script_info">Scripts de usuários não verificados podem interferir na operação normal do navegador ou causar sérios problemas de segurança.</string>
+    <string name="user_script_info">Scripts de usuários não confiáveis ​​podem interferir na operação normal do navegador ou causar sérios problemas de segurança.</string>
     <string name="install">Instalação</string>
     <string name="install_confirm">Você quer instalar?</string>
     <string name="already_install">Já está instalado.</string>

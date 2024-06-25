@@ -32,6 +32,7 @@
     <string name="down_page">Zapisz stronę</string>
     <string name="down_list">Pobieranie</string>
     <string name="down_start">Pobieranie rozpoczęte</string>
+    <string name="down_system_paused">System Android wstrzymał pobieranie, aby oszczędzać baterię.</string>
     <string name="paused">Wstrzymany</string>
     <string name="pause">Pauza</string>
     <string name="resume">Wznawianie</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Pliki utworzone podczas przeglądania stron internetowych (np. obrazy)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informacje tworzone podczas przeglądania stron internetowych (np. dane logowania)</string>
+    <string name="delete_cookie">Usuń ciasteczka</string>
     <string name="screen_rotate">Obrót ekranu</string>
     <string name="vol_scroll">Przewiń strony internetowe za pomocą klawiszy głośności</string>
     <string name="double_back">Dwa razy przycisk Wstecz, aby wyjść z aplikacji</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Zgłoś błąd</string>
     <string name="report_site">Zgłoś stronę</string>
     <string name="report_down">Podaj adres strony, z której nie można pobrać filmu.</string>
+    <string name="insta_down">Aby płynnie pobierać filmy z Instagrama,\nmusisz zalogować się na Instagram.</string>
     <string name="youtube_unmute">Wyłącz wyciszenie YouTube</string>
     <string name="youtube_speed">Zapisz prędkość odtwarzania YouTube</string>
     <string name="youtube_auto">Autoodtwarzanie w YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Użyj UserScript</string>
     <string name="user_script_list">Lista UserScript</string>
-    <string name="user_script_info">Niezweryfikowane skrypty użytkownika mogą zakłócić normalne działanie przeglądarki lub spowodować poważne problemy z bezpieczeństwem.</string>
+    <string name="user_script_info">Niezaufane skrypty użytkownika mogą zakłócać normalne działanie przeglądarki lub powodować poważne problemy z bezpieczeństwem.</string>
     <string name="install">Instalacja</string>
     <string name="install_confirm">Czy chcesz zainstalować?</string>
     <string name="already_install">Jest już zainstalowany.</string>

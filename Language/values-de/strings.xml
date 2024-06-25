@@ -32,6 +32,7 @@
     <string name="down_page">Seite speichern</string>
     <string name="down_list">Herunterladen</string>
     <string name="down_start">Download wurde gestartet</string>
+    <string name="down_system_paused">Das Android-System hat Downloads angehalten, um Batterie zu sparen.</string>
     <string name="paused">Pausiert</string>
     <string name="pause">Pause</string>
     <string name="resume">Fortsetzen</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Dateien, die beim Surfen im internet erstellt wurden (z.B. Bilder)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informationen, die beim Surfen im Internet erstellt wurden (z.B. Anmeldeinformationen)</string>
+    <string name="delete_cookie">Cookies löschen</string>
     <string name="screen_rotate">Bildschirm Rotation</string>
     <string name="vol_scroll">Mit Lautstärketasten durch Webseiten blättern</string>
     <string name="double_back">Zurücktaste zweimal drücken, um die App zu schließen</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Fehler melden</string>
     <string name="report_site">Website melden</string>
     <string name="report_down">Bitte geben Sie die Adresse der Seite an, auf der das Video nicht heruntergeladen werden kann.</string>
+    <string name="insta_down">Um Instagram-Videos reibungslos herunterzuladen,\nmüssen Sie sich bei Instagram anmelden.</string>
     <string name="youtube_unmute">Stummschaltung von YouTube aufheben</string>
     <string name="youtube_speed">Speichern Sie die YouTube-Wiedergabegeschwindigkeit</string>
     <string name="youtube_auto">YouTube-Autoplay</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Verwenden Sie UserScript</string>
     <string name="user_script_list">Liste UserScript</string>
-    <string name="user_script_info">Nicht verifizierte Benutzerskripte können den normalen Betrieb des Browsers beeinträchtigen oder schwerwiegende Sicherheitsprobleme verursachen.</string>
+    <string name="user_script_info">Nicht vertrauenswürdige Benutzerskripte können den normalen Betrieb des Browsers beeinträchtigen oder schwerwiegende Sicherheitsprobleme verursachen.</string>
     <string name="install">Installation</string>
     <string name="install_confirm">Wollen Sie installieren?</string>
     <string name="already_install">Es ist bereits installiert.</string>

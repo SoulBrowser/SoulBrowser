@@ -32,6 +32,7 @@
     <string name="down_page">Salvare pagina</string>
     <string name="down_list">Descărcări</string>
     <string name="down_start">Descărcarea a început</string>
+    <string name="down_system_paused">Sistemul Android a întrerupt descărcările pentru a economisi bateria.</string>
     <string name="paused">Întreruptă</string>
     <string name="pause">Pauză</string>
     <string name="resume">Reluare</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Fișiere create pe parcursul navigării web (de ex. imagini)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Informații create în timpul navigării web (de exemplu, date de conectare)</string>
+    <string name="delete_cookie">Ștergeți cookie-urile</string>
     <string name="screen_rotate">Rotația ecranului</string>
     <string name="vol_scroll">Parcurgeți paginile web cu tastele de volum</string>
     <string name="double_back">butonul Înapoi de două ori pentru a ieși din aplicație</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Raportează eroarea</string>
     <string name="report_site">Site raport</string>
     <string name="report_down">Vă rugăm să furnizați adresa site-ului unde videoclipul nu poate fi descărcat.</string>
+    <string name="insta_down">Pentru a descărca fără probleme videoclipuri Instagram,\ntrebuie să vă conectați la Instagram.</string>
     <string name="youtube_unmute">Activați sunetul YouTube</string>
     <string name="youtube_speed">Salvați viteza de redare YouTube</string>
     <string name="youtube_auto">Redare automată YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Utilizați UserScript</string>
     <string name="user_script_list">Lista UserScript</string>
-    <string name="user_script_info">Scripturile utilizator neverificate pot interfera cu funcționarea normală a browserului sau pot cauza probleme serioase de securitate.</string>
+    <string name="user_script_info">Scripturile utilizator neîncrezătoare pot interfera cu funcționarea normală a browserului sau pot cauza probleme serioase de securitate.</string>
     <string name="install">Instalare</string>
     <string name="install_confirm">Doriți să instalați?</string>
     <string name="already_install">Este deja instalat.</string>

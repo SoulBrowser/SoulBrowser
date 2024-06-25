@@ -32,6 +32,7 @@
     <string name="down_page">Зберегти сторінку</string>
     <string name="down_list">Завантаження</string>
     <string name="down_start">Завантаження розпочато</string>
+    <string name="down_system_paused">Система Android призупинила завантаження для економії заряду акумулятора.</string>
     <string name="paused">Призупинено</string>
     <string name="pause">Пауза</string>
     <string name="resume">Резюме</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">Файли, створені під час веб-перегляду (наприклад, зображення)</string>
     <string name="cookie">Cookie</string>
     <string name="cookie_info">Інформація, створена під час перегляду веб-сторінок (наприклад, інформація про вхід)</string>
+    <string name="delete_cookie">Видалити файли cookie</string>
     <string name="screen_rotate">Обертання екрану</string>
     <string name="vol_scroll">Прокрутка веб-сторінок клавішами регулювання гучності</string>
     <string name="double_back">Натиснути двічі для виходу із браузера</string>
@@ -546,6 +548,7 @@
     <string name="report_error">Повідомити про помилку</string>
     <string name="report_site">Повідомити про сайт</string>
     <string name="report_down">Вкажіть, будь ласка, адресу веб-сайту, на якому неможливо завантажити відео.</string>
+    <string name="insta_down">Щоб безперешкодно завантажувати відео з Instagram,\nвам потрібно ввійти в Instagram.</string>
     <string name="youtube_unmute">Увімкнути YouTube</string>
     <string name="youtube_speed">Збережіть швидкість відтворення YouTube</string>
     <string name="youtube_auto">Автозапуск YouTube</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">Використовуйте UserScript</string>
     <string name="user_script_list">Список UserScript</string>
-    <string name="user_script_info">Неперевірені сценарії користувача можуть заважати нормальній роботі браузера або спричиняти серйозні проблеми з безпекою.</string>
+    <string name="user_script_info">Ненадійні сценарії користувача можуть заважати нормальній роботі браузера або спричиняти серйозні проблеми з безпекою.</string>
     <string name="install">Установка</string>
     <string name="install_confirm">Ви хочете встановити?</string>
     <string name="already_install">Його вже встановлено.</string>

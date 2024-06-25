@@ -32,6 +32,7 @@
     <string name="down_page">पेज सुरक्षित करें</string>
     <string name="down_list">डाउनलोड</string>
     <string name="down_start">डाउनलोड शुरू हुआ</string>
+    <string name="down_system_paused">एंड्रॉइड सिस्टम ने बैटरी बचाने के लिए डाउनलोड रोक दिया है।</string>
     <string name="paused">रोके गए</string>
     <string name="pause">रोकना</string>
     <string name="resume">फिर शुरू करना</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">वेब ब्राउज़िंग के दौरान बनाई गई फ़ाइलें (उदा. चित्र)</string>
     <string name="cookie">कुकी</string>
     <string name="cookie_info">वेब ब्राउज़िंग के दौरान बनाई गई जानकारी (जैसे लॉगिन जानकारी)</string>
+    <string name="delete_cookie">कुकी हटाएं</string>
     <string name="screen_rotate">स्क्रीन को घुमाना</string>
     <string name="vol_scroll">वॉल्यूम कुंजियों के साथ वेब पेजों को स्क्रॉल करें</string>
     <string name="double_back">ऐप से बाहर निकलने के लिए बैक बटन दो बार</string>
@@ -546,6 +548,7 @@
     <string name="report_error">त्रुटि की रिपोर्ट करें</string>
     <string name="report_site">रिपोर्ट साइट</string>
     <string name="report_down">कृपया उस साइट का पता प्रदान करें जहां वीडियो डाउनलोड नहीं किया जा सकता है।</string>
+    <string name="insta_down">इंस्टाग्राम वीडियो को आसानी से डाउनलोड करने के लिए आपको इंस्टाग्राम पर लॉग इन करना होगा।</string>
     <string name="youtube_unmute">YouTube अनम्यूट करें</string>
     <string name="youtube_speed">YouTube प्लेबैक गति बचाएं</string>
     <string name="youtube_auto">यूट्यूब ऑटोप्ले</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">UserScript का प्रयोग करें</string>
     <string name="user_script_list">UserScript सूची</string>
-    <string name="user_script_info">असत्यापित उपयोगकर्ता स्क्रिप्ट ब्राउज़र के सामान्य संचालन में हस्तक्षेप कर सकती हैं या गंभीर सुरक्षा समस्याएं पैदा कर सकती हैं।</string>
+    <string name="user_script_info">अविश्वसनीय उपयोगकर्ता स्क्रिप्ट ब्राउज़र के सामान्य संचालन में हस्तक्षेप कर सकती हैं या गंभीर सुरक्षा समस्याएं पैदा कर सकती हैं।</string>
     <string name="install">इंस्टालेशन</string>
     <string name="install_confirm">क्या आप इंस्टॉल करना चाहते हैं?</string>
     <string name="already_install">यह पहले से ही स्थापित है.</string>

@@ -32,6 +32,7 @@
     <string name="down_page">احفظ الصفحة</string>
     <string name="down_list">تحميل</string>
     <string name="down_start">بدأ التنزيل</string>
+    <string name="down_system_paused">لقد أوقف نظام Android التنزيلات مؤقتًا لتوفير البطارية.</string>
     <string name="paused">متوقف مؤقتًا</string>
     <string name="pause">يوقف</string>
     <string name="resume">استمر</string>
@@ -225,6 +226,7 @@
     <string name="cache_info">الملفات التي تم إنشاؤها أثناء تصفح الويب (مثل الصور)</string>
     <string name="cookie">بسكويت</string>
     <string name="cookie_info">المعلومات التي يتم إنشاؤها أثناء تصفح الويب (مثل معلومات تسجيل الدخول)</string>
+    <string name="delete_cookie">حذف ملفات تعريف الارتباط</string>
     <string name="screen_rotate">دوران الشاشة</string>
     <string name="vol_scroll">تصفح صفحات الويب باستخدام مفاتيح مستوى الصوت</string>
     <string name="double_back">أغلق التطبيق بالضغط على الزر السابق مرتين</string>
@@ -546,6 +548,7 @@
     <string name="report_error">الإبلاغ عن خطأ</string>
     <string name="report_site">تقرير الموقع</string>
     <string name="report_down">يرجى تقديم عنوان الموقع حيث لا يمكن تنزيل الفيديو.</string>
+    <string name="insta_down">لتنزيل مقاطع فيديو Instagram بسلاسة، تحتاج إلى تسجيل الدخول إلى Instagram.</string>
     <string name="youtube_unmute">إعادة صوت YouTube</string>
     <string name="youtube_speed">حفظ سرعة تشغيل YouTube</string>
     <string name="youtube_auto">يوتيوب التشغيل التلقائي</string>
@@ -647,7 +650,7 @@
     <string name="user_script_title">UserScript</string>
     <string name="user_script_on">استخدم UserScript</string>
     <string name="user_script_list">قائمة UserScript</string>
-    <string name="user_script_info">يمكن أن تتداخل البرامج النصية للمستخدم التي لم يتم التحقق منها مع التشغيل العادي للمتصفح أو تسبب مشكلات أمنية خطيرة.</string>
+    <string name="user_script_info">يمكن أن تتداخل البرامج النصية للمستخدم غير الموثوق بها مع التشغيل العادي للمتصفح أو تسبب مشكلات أمنية خطيرة.</string>
     <string name="install">تثبيت</string>
     <string name="install_confirm">هل تريد التثبيت؟</string>
     <string name="already_install">لقد تم تثبيته بالفعل.</string>
