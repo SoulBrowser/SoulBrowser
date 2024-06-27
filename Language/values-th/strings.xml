@@ -32,7 +32,11 @@
     <string name="down_page">บันทึกหน้า</string>
     <string name="down_list">ดาวน์โหลด</string>
     <string name="down_start">การดาวน์โหลดเริ่มต้น</string>
-    <string name="down_system_paused">ระบบ Android หยุดการดาวน์โหลดชั่วคราวเพื่อประหยัดแบตเตอรี่</string>
+    <string name="down_back_time">หมดเวลาสถานะเบื้องหลัง</string>
+    <string name="time_limit">เวลาที่ จำกัด</string>
+    <string name="down_back_info_1">หากเกินขีดจำกัดเวลาในขณะที่แอปอยู่ในพื้นหลัง การดาวน์โหลดจะหยุดชั่วคราวเพื่อประหยัดแบตเตอรี่</string>
+    <string name="down_back_info_2">ตัวจับเวลาจะปล่อยเมื่อแอปไปที่เบื้องหน้า</string>
+    <string name="down_timeout">การดาวน์โหลดถูกหยุดชั่วคราวเพื่อประหยัดแบตเตอรี่</string>
     <string name="paused">หยุดชั่วคราว</string>
     <string name="pause">หยุดชั่วคราว</string>
     <string name="resume">ประวัติย่อ</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">ออกจากแอป</string>
     <string name="image_fail">ไม่สามารถโหลดภาพ</string>
     <string name="time_day">วัน</string>
+    <string name="time_hour">ชม</string>
     <string name="time_h">ชั่</string>
     <string name="time_m">น</string>
     <string name="time_s">ที่</string>

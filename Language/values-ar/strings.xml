@@ -32,7 +32,11 @@
     <string name="down_page">احفظ الصفحة</string>
     <string name="down_list">تحميل</string>
     <string name="down_start">بدأ التنزيل</string>
-    <string name="down_system_paused">لقد أوقف نظام Android التنزيلات مؤقتًا لتوفير البطارية.</string>
+    <string name="down_back_time">مهلة حالة الخلفية</string>
+    <string name="time_limit">الحد الزمني</string>
+    <string name="down_back_info_1">إذا تم تجاوز الحد الزمني أثناء وجود التطبيق في الخلفية، فسيتم إيقاف التنزيلات مؤقتًا لتوفير طاقة البطارية.</string>
+    <string name="down_back_info_2">يتم تحرير المؤقت عندما ينتقل التطبيق إلى المقدمة.</string>
+    <string name="down_timeout">تم إيقاف التنزيل مؤقتًا لتوفير البطارية.</string>
     <string name="paused">متوقف مؤقتًا</string>
     <string name="pause">يوقف</string>
     <string name="resume">استمر</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">اخرج من التطبيق</string>
     <string name="image_fail">فشل تحميل الصورة</string>
     <string name="time_day">يوم</string>
+    <string name="time_hour">ساعة</string>
     <string name="time_h">الوقت</string>
     <string name="time_m">دقيقة</string>
     <string name="time_s">ثانيا</string>

@@ -32,7 +32,11 @@
     <string name="down_page">Simpan halaman</string>
     <string name="down_list">Unduhan</string>
     <string name="down_start">Unduhan dimulai</string>
-    <string name="down_system_paused">Sistem Android telah menjeda unduhan untuk menghemat baterai.</string>
+    <string name="down_back_time">Batas waktu status latar belakang</string>
+    <string name="time_limit">Batas waktu</string>
+    <string name="down_back_info_1">Jika batas waktu terlampaui saat aplikasi berada di latar belakang, pengunduhan akan dijeda untuk menghemat baterai.</string>
+    <string name="down_back_info_2">Pengatur waktu dilepaskan saat aplikasi berjalan ke latar depan.</string>
+    <string name="down_timeout">Pengunduhan telah dijeda untuk menghemat baterai.</string>
     <string name="paused">Dijeda</string>
     <string name="pause">Jeda</string>
     <string name="resume">Lanjutkan</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">Keluar aplikasi</string>
     <string name="image_fail">Gagal memuat gambar</string>
     <string name="time_day">hari</string>
+    <string name="time_hour">jam</string>
     <string name="time_h">j</string>
     <string name="time_m">m</string>
     <string name="time_s">k</string>

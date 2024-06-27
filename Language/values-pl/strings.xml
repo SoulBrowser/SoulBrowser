@@ -32,7 +32,11 @@
     <string name="down_page">Zapisz stronę</string>
     <string name="down_list">Pobieranie</string>
     <string name="down_start">Pobieranie rozpoczęte</string>
-    <string name="down_system_paused">System Android wstrzymał pobieranie, aby oszczędzać baterię.</string>
+    <string name="down_back_time">Limit czasu stanu tła</string>
+    <string name="time_limit">Limit czasu</string>
+    <string name="down_back_info_1">Jeśli limit czasu zostanie przekroczony, gdy aplikacja działa w tle, pobieranie zostanie wstrzymane, aby oszczędzać baterię.</string>
+    <string name="down_back_info_2">Licznik czasu jest zwalniany, gdy aplikacja przechodzi na pierwszy plan.</string>
+    <string name="down_timeout">Pobieranie zostało wstrzymane, aby oszczędzać baterię.</string>
     <string name="paused">Wstrzymany</string>
     <string name="pause">Pauza</string>
     <string name="resume">Wznawianie</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">Wyjdź z aplikacji</string>
     <string name="image_fail">Nie udało się załadować obrazu</string>
     <string name="time_day">dzień</string>
+    <string name="time_hour">godzina</string>
     <string name="time_h">g</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>

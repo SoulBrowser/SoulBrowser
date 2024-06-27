@@ -32,7 +32,11 @@
     <string name="down_page">Сохранить страницу</string>
     <string name="down_list">Загрузки</string>
     <string name="down_start">Загрузка началась</string>
-    <string name="down_system_paused">Система Android приостановила загрузку для экономии заряда батареи.</string>
+    <string name="down_back_time">Тайм-аут фонового состояния</string>
+    <string name="time_limit">Лимит времени</string>
+    <string name="down_back_info_1">Если лимит времени превышен, пока приложение работает в фоновом режиме, загрузка будет приостановлена ​​для экономии заряда батареи.</string>
+    <string name="down_back_info_2">Таймер срабатывает, когда приложение переходит на передний план.</string>
+    <string name="down_timeout">Загрузка приостановлена ​​для экономии заряда батареи.</string>
     <string name="paused">Приостановлена</string>
     <string name="pause">Пауза</string>
     <string name="resume">Продолжить</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">Выйти из приложения</string>
     <string name="image_fail">Не удалось загрузить изображение</string>
     <string name="time_day">день</string>
+    <string name="time_hour">час</string>
     <string name="time_h">ч</string>
     <string name="time_m">м</string>
     <string name="time_s">с</string>

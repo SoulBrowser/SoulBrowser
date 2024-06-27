@@ -32,7 +32,11 @@
     <string name="down_page">Зберегти сторінку</string>
     <string name="down_list">Завантаження</string>
     <string name="down_start">Завантаження розпочато</string>
-    <string name="down_system_paused">Система Android призупинила завантаження для економії заряду акумулятора.</string>
+    <string name="down_back_time">Тайм-аут фонового стану</string>
+    <string name="time_limit">Термін</string>
+    <string name="down_back_info_1">Якщо ліміт часу перевищено, коли програма працює у фоновому режимі, завантаження буде призупинено для економії заряду акумулятора.</string>
+    <string name="down_back_info_2">Таймер відключається, коли програма переходить на передній план.</string>
+    <string name="down_timeout">Завантаження призупинено для економії заряду акумулятора.</string>
     <string name="paused">Призупинено</string>
     <string name="pause">Пауза</string>
     <string name="resume">Резюме</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">Вихід із додатку</string>
     <string name="image_fail">Не вдалося завантажити зображення</string>
     <string name="time_day">день</string>
+    <string name="time_hour">годину</string>
     <string name="time_h">год</string>
     <string name="time_m">хв</string>
     <string name="time_s">сек</string>

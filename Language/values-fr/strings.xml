@@ -32,7 +32,11 @@
     <string name="down_page">Sauvegarder page</string>
     <string name="down_list">Télécharger</string>
     <string name="down_start">Téléchargement démarré</string>
-    <string name="down_system_paused">Le système Android a suspendu les téléchargements pour économiser la batterie.</string>
+    <string name="down_back_time">Délai d\'expiration de l\'état d\'arrière-plan</string>
+    <string name="time_limit">Limite de temps</string>
+    <string name="down_back_info_1">Si la limite de temps est dépassée alors que l\'application est en arrière-plan, les téléchargements seront suspendus pour économiser la batterie.</string>
+    <string name="down_back_info_2">Le minuteur est libéré lorsque l\'application passe au premier plan.</string>
+    <string name="down_timeout">Le téléchargement a été suspendu pour économiser la batterie.</string>
     <string name="paused">En pause</string>
     <string name="pause">Pause</string>
     <string name="resume">Reprendre</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">Quitter app</string>
     <string name="image_fail">Impossible de charger image</string>
     <string name="time_day">jour</string>
+    <string name="time_hour">heure</string>
     <string name="time_h">h</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>

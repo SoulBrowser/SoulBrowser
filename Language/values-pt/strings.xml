@@ -32,7 +32,11 @@
     <string name="down_page">Salvar página</string>
     <string name="down_list">Download</string>
     <string name="down_start">Download iniciado</string>
-    <string name="down_system_paused">O sistema Android pausou os downloads para economizar bateria.</string>
+    <string name="down_back_time">Tempo limite do estado em segundo plano</string>
+    <string name="time_limit">Limite de tempo</string>
+    <string name="down_back_info_1">Se o limite de tempo for excedido enquanto o aplicativo estiver em segundo plano, os downloads serão pausados ​​para economizar bateria.</string>
+    <string name="down_back_info_2">O cronômetro é liberado quando o aplicativo vai para o primeiro plano.</string>
+    <string name="down_timeout">O download foi pausado para economizar bateria.</string>
     <string name="paused">Pausado</string>
     <string name="pause">Pausa</string>
     <string name="resume">Continuar</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">Sair aplicação</string>
     <string name="image_fail">Falha ao carregar a imagem</string>
     <string name="time_day">dia</string>
+    <string name="time_hour">hora</string>
     <string name="time_h">h</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>

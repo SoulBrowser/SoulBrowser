@@ -32,7 +32,11 @@
     <string name="down_page">ページ保存</string>
     <string name="down_list">ダウンロード履歴</string>
     <string name="down_start">ダウンロード開始</string>
-    <string name="down_system_paused">Androidシステムでバッテリーを節約するためにダウンロードを一時停止しました。</string>
+    <string name="down_back_time">バックグラウンド状態のタイムアウト</string>
+    <string name="time_limit">時間制限</string>
+    <string name="down_back_info_1">アプリがバックグラウンドにある間にタイムアウトを超えると、バッテリーを節約するためにダウンロードが一時停止されます。</string>
+    <string name="down_back_info_2">アプリがフォアグラウンドに切り替わると、タイマーはオフになります。</string>
+    <string name="down_timeout">バッテリーを節約するためにダウンロードが一時停止しました。</string>
     <string name="paused">一時停止</string>
     <string name="pause">一時停止</string>
     <string name="resume">再開</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">アプリを終了</string>
     <string name="image_fail">画像の読み込みに失敗し</string>
     <string name="time_day">日</string>
+    <string name="time_hour">時間</string>
     <string name="time_h">時間</string>
     <string name="time_m">分</string>
     <string name="time_s">秒</string>

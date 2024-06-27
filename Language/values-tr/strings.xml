@@ -32,7 +32,11 @@
     <string name="down_page">Sayfayı kaydet</string>
     <string name="down_list">İndirilenler</string>
     <string name="down_start">İndirme başladı</string>
-    <string name="down_system_paused">Android sistemi pilden tasarruf etmek için indirmeleri duraklattı.</string>
+    <string name="down_back_time">Arka plan durumu zaman aşımı</string>
+    <string name="time_limit">Zaman sınırı</string>
+    <string name="down_back_info_1">Uygulama arka plandayken zaman sınırı aşılırsa pil tasarrufu sağlamak için indirmeler duraklatılır.</string>
+    <string name="down_back_info_2">Uygulama ön plana geçtiğinde zamanlayıcı serbest bırakılır.</string>
+    <string name="down_timeout">Pilden tasarruf etmek için indirme işlemi duraklatıldı.</string>
     <string name="paused">Duraklatıldı</string>
     <string name="pause">Duraklat</string>
     <string name="resume">Devam Et</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">Uygulamadan çık</string>
     <string name="image_fail">Resim yüklenemedi</string>
     <string name="time_day">gün</string>
+    <string name="time_hour">saat</string>
     <string name="time_h">s</string>
     <string name="time_m">d</string>
     <string name="time_s">s</string>

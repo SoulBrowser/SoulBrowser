@@ -32,7 +32,11 @@
     <string name="down_page">Lưu trang</string>
     <string name="down_list">Danh sách tải xuống</string>
     <string name="down_start">Bắt đầu tải xuống</string>
-    <string name="down_system_paused">Hệ thống Android đã tạm dừng tải xuống để tiết kiệm pin.</string>
+    <string name="down_back_time">Hết thời gian chờ trạng thái nền</string>
+    <string name="time_limit">Thời gian giới hạn</string>
+    <string name="down_back_info_1">Nếu vượt quá giới hạn thời gian trong khi ứng dụng ở chế độ nền, quá trình tải xuống sẽ bị tạm dừng để tiết kiệm pin.</string>
+    <string name="down_back_info_2">Bộ hẹn giờ được giải phóng khi ứng dụng chuyển sang nền trước.</string>
+    <string name="down_timeout">Quá trình tải xuống đã bị tạm dừng để tiết kiệm pin.</string>
     <string name="paused">Tạm dừng</string>
     <string name="pause">Tạm ngừng</string>
     <string name="resume">Tiếp tục</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">Thoát ứng dụng</string>
     <string name="image_fail">Không thể tải hình ảnh</string>
     <string name="time_day">ngày</string>
+    <string name="time_hour">giờ</string>
     <string name="time_h">g</string>
     <string name="time_m">p</string>
     <string name="time_s">g</string>

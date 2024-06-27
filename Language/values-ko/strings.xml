@@ -32,7 +32,11 @@
     <string name="down_page">페이지 저장</string>
     <string name="down_list">다운로드</string>
     <string name="down_start">다운로드 시작됨</string>
-    <string name="down_system_paused">Android 시스템에서 배터리 절약을 위해 다운로드를 일시 중지했습니다.</string>
+    <string name="down_back_time">백그라운드 상태 시간 제한</string>
+    <string name="time_limit">시간 제한</string>
+    <string name="down_back_info_1">앱이 백그라운드에 있는 동안 시간 제한을 초과하면, 배터리 절약을 위해 다운로드가 일시 중지됩니다.</string>
+    <string name="down_back_info_2">앱이 포그라운드로 전환되면, 타이머가 해제됩니다.</string>
+    <string name="down_timeout">배터리 절약을 위해 다운로드가 일시 중지되었습니다.</string>
     <string name="paused">일시 중지됨</string>
     <string name="pause">일시 중지</string>
     <string name="resume">계속</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">앱 종료</string>
     <string name="image_fail">이미지 로딩 실패</string>
     <string name="time_day">일</string>
+    <string name="time_hour">시간</string>
     <string name="time_h">시간</string>
     <string name="time_m">분</string>
     <string name="time_s">초</string>

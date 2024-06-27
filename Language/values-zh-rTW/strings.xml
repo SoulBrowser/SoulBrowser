@@ -32,7 +32,11 @@
     <string name="down_page">儲存頁面</string>
     <string name="down_list">下載記錄</string>
     <string name="down_start">開始下載</string>
-    <string name="down_system_paused">Android 系統已暫停下載以節省電力</string>
+    <string name="down_back_time">後台狀態逾時</string>
+    <string name="time_limit">時限</string>
+    <string name="down_back_info_1">如果應用程式在背景運行時超出時間限制，下載將暫停以節省電量</string>
+    <string name="down_back_info_2">當應用程式轉到前台時，計時器將被釋放</string>
+    <string name="down_timeout">下載已暫停以節省電力</string>
     <string name="paused">已暫停</string>
     <string name="pause">暫停</string>
     <string name="resume">恢復</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">退出應用程式</string>
     <string name="image_fail">無法載入圖片</string>
     <string name="time_day">天</string>
+    <string name="time_hour">小時</string>
     <string name="time_h">小時</string>
     <string name="time_m">分</string>
     <string name="time_s">秒</string>

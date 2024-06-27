@@ -32,7 +32,11 @@
     <string name="down_page">Seite speichern</string>
     <string name="down_list">Herunterladen</string>
     <string name="down_start">Download wurde gestartet</string>
-    <string name="down_system_paused">Das Android-System hat Downloads angehalten, um Batterie zu sparen.</string>
+    <string name="down_back_time">Zeitüberschreitung des Hintergrundstatus</string>
+    <string name="time_limit">Zeitlimit</string>
+    <string name="down_back_info_1">Wenn das Zeitlimit überschritten wird, während die App im Hintergrund läuft, werden Downloads angehalten, um Batterie zu sparen.</string>
+    <string name="down_back_info_2">Der Timer wird freigegeben, wenn die App in den Vordergrund geht.</string>
+    <string name="down_timeout">Der Download wurde angehalten, um Batterie zu sparen.</string>
     <string name="paused">Pausiert</string>
     <string name="pause">Pause</string>
     <string name="resume">Fortsetzen</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">App beenden</string>
     <string name="image_fail">Fehler beim Laden des Bildes</string>
     <string name="time_day">Tag</string>
+    <string name="time_hour">Stunde</string>
     <string name="time_h">s</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>

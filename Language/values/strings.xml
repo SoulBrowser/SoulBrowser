@@ -32,7 +32,11 @@
     <string name="down_page">Save page</string>
     <string name="down_list">Downloads</string>
     <string name="down_start">Download started</string>
-    <string name="down_system_paused">The Android system has paused downloads to save battery.</string>
+    <string name="down_back_time">Background state timeout</string>
+    <string name="time_limit">Time limit</string>
+    <string name="down_back_info_1">If the time limit is exceeded while the app is in the background, downloads will be paused to save battery.</string>
+    <string name="down_back_info_2">The timer is released when the app goes to the foreground.</string>
+    <string name="down_timeout">Download has been paused to save battery.</string>
     <string name="paused">Paused</string>
     <string name="pause">Pause</string>
     <string name="resume">Resume</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">Exit app</string>
     <string name="image_fail">Failed to load image</string>
     <string name="time_day">day</string>
+    <string name="time_hour">hours</string>
     <string name="time_h">h</string>
     <string name="time_m">m</string>
     <string name="time_s">s</string>

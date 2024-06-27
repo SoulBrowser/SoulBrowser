@@ -32,7 +32,11 @@
     <string name="down_page">Salvare pagina</string>
     <string name="down_list">Descărcări</string>
     <string name="down_start">Descărcarea a început</string>
-    <string name="down_system_paused">Sistemul Android a întrerupt descărcările pentru a economisi bateria.</string>
+    <string name="down_back_time">Timeout starea de fundal</string>
+    <string name="time_limit">Limita</string>
+    <string name="down_back_info_1">Dacă limita de timp este depășită în timp ce aplicația este în fundal, descărcările vor fi întrerupte pentru a economisi bateria.</string>
+    <string name="down_back_info_2">Cronometrul este eliberat când aplicația trece în prim-plan.</string>
+    <string name="down_timeout">Descărcarea a fost întreruptă pentru a economisi bateria.</string>
     <string name="paused">Întreruptă</string>
     <string name="pause">Pauză</string>
     <string name="resume">Reluare</string>
@@ -168,6 +172,7 @@
     <string name="app_exit">Ieșiți din aplicație</string>
     <string name="image_fail">Nu a putut încărca imaginea</string>
     <string name="time_day">zi</string>
+    <string name="time_hour">oră</string>
     <string name="time_h">o</string>
     <string name="time_m">m</string>
     <string name="time_s">d</string>
