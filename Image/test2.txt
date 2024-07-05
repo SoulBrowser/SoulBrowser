@@ -9,9 +9,7 @@ b|whe|yandex.com|ruc|adsdk.js
 a|whe|foxnews.com|rhe|analytics.edgekey.net
 a|whe|foxnews.com|rhe|amazon-adsystem.com
 a|whe|tv.naver.com|ru=|https://ssl.pstatic.net/adimg3.search/adpost/js/ad.js
-b|whe|tv.naver.com|rhe|smrmembers-smr.smartmediarep.com|ruc|.mp4
 a|whe|naver.com|ru=|https://ssl.pstatic.net/adimg3.search/adpost/js/ad.js
-b|whe|naver.com|ruc|gfp.veta.naver.com/adcall
 a|whe|kakao.com|rhe|t1.daumcdn.net
 a|whe|kakao.com|ruc|videoads.kakao.com/adserver
 a|whe|kakao.com|ruc|.mp4
@@ -70,7 +68,6 @@ a|wus|https://noonoo.tv/?|rus|https://noonoo-images.studiouniversal.net/banner/
 a|wu=|https://noonoo.tv/|rus|https://images.nstatic.org/banner/
 a|wus|https://noonoo.tv/?|rus|https://images.nstatic.org/banner/
 //rg
-b|rus|https://vod-naver.pstatic.net/tveta/owfs_rmc/read
 a|ruc|main_mobileweb
 a|ruc|open_popup_mobileweb
 b|rue|//an.yandex.ru/system/context.js
@@ -103,8 +100,6 @@ spaces-blogs.com##div[style*="max-width: 800px"],div[style*="box-shadow"]
 spac.net##div[style*="max-width: 800px"],div[style*="box-shadow"]
 ketqua.net##div[class*="col-sm-10 kqcenter"],div[class*="baloon"]
 animecomplet.co##div[id*="ad_"]
-blog.naver.com##div[class="_adPost"],div[class="post_adpost"],div[class="section_powerlink"],div[id="ssp-adcontent"],span[id^="adPostInjectArea_"],td[class="adpost_con"],*[id="ssp-adpost"]
-naver.com##div[class=end_ad_bottom],div[class=nmap_wrapper],div[class*="ad_area"],div[class*="ad_box"],div[class*="home_ad"],div[id*="ad_wrap"]
 detik.com##div[class*="ads-slot"],div[class*="box-ads"]
 online.viks.tv##div[style*="display: block; height: 300px; width: 600px"]
 prostomob.com##div[class*="td-g-rec-id-content_top"]
