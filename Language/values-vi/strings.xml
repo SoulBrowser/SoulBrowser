@@ -617,7 +617,7 @@
     <string name="video_link_2">Vui lòng sao chép liên kết và đặt nó trực tiếp.</string>
     <string name="trans_report">Báo cáo lỗi dịch</string>
     <string name="trans_report_info">Xin hãy giúp dịch. ❤</string>
-    <string name="trans_report_guide">[Bản dịch không chính xác] &#62; [Bản dịch chính xác]</string>
+    <string name="trans_report_guide">[Bản dịch sai] &#62; [Bản dịch chính xác]</string>
     <string name="tts_mode">Chuyển văn bản thành giọng nói</string>
     <string name="tts_on">Kích hoạt TTS</string>
     <string name="tts_info_1">Khi bạn bấm vào văn bản được hiển thị trong trình duyệt, nó được đọc bằng giọng nói.</string>
