@@ -94,6 +94,7 @@
     <string name="deleted">Silindi</string>
     <string name="swipe_delete">Kaydır sil</string>
     <string name="swipe_remove">Kaldırmak için kaydırabilirsiniz.</string>
+    <string name="snack_guide">Ayarlardan görüntülenmemesini değiştirebilirsiniz.</string>
     <string name="rename">Yeniden Adlandır</string>
     <string name="apply_url_equal">Diğerlerine eşit olarak uygulanır</string>
     <string name="apply_pass_equal">Aynısını diğer şifrelere de uygula</string>

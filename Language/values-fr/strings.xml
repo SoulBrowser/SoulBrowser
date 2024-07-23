@@ -94,6 +94,7 @@
     <string name="deleted">Supprimé</string>
     <string name="swipe_delete">Glisser pour supprimer</string>
     <string name="swipe_remove">Vous pouvez faire glisser votre doigt pour le supprimer.</string>
+    <string name="snack_guide">Vous pouvez le modifier pour qu\'il ne s\'affiche pas dans les paramètres.</string>
     <string name="rename">Renommer</string>
     <string name="apply_url_equal">Appliqué également aux autres</string>
     <string name="apply_pass_equal">Appliquer la même chose aux autres mots de passe</string>

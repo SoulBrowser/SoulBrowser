@@ -94,6 +94,7 @@
     <string name="deleted">Eliminado</string>
     <string name="swipe_delete">Deslizar eliminar</string>
     <string name="swipe_remove">Puedes deslizar para eliminarlo.</string>
+    <string name="snack_guide">Puede cambiarlo para que no se muestre en la configuración.</string>
     <string name="rename">Renombrar</string>
     <string name="apply_url_equal">Aplicado igualmente a otros</string>
     <string name="apply_pass_equal">Aplicar lo mismo a otras contraseñas</string>

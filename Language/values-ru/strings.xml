@@ -94,6 +94,7 @@
     <string name="deleted">Удалено</string>
     <string name="swipe_delete">Удаление свайпом</string>
     <string name="swipe_remove">Вы можете провести пальцем, чтобы удалить его.</string>
+    <string name="snack_guide">Вы можете изменить его, чтобы он не отображался в настройках.</string>
     <string name="rename">Переименовать</string>
     <string name="apply_url_equal">Применяется одинаково для других</string>
     <string name="apply_pass_equal">Примените то же самое к другим паролям</string>

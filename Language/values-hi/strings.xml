@@ -94,6 +94,7 @@
     <string name="deleted">हटाए गए</string>
     <string name="swipe_delete">स्वाइप डिलीट</string>
     <string name="swipe_remove">इसे हटाने के लिए आप स्वाइप कर सकते हैं.</string>
+    <string name="snack_guide">आप इसे सेटिंग्स में प्रदर्शित न होने के लिए बदल सकते हैं।</string>
     <string name="rename">नाम बदलें</string>
     <string name="apply_url_equal">दूसरों के लिए समान रूप से लागू</string>
     <string name="apply_pass_equal">दूसरों के लिए समान रूप से लागू</string>

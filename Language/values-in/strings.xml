@@ -94,6 +94,7 @@
     <string name="deleted">Dihapus</string>
     <string name="swipe_delete">Geser hapus</string>
     <string name="swipe_remove">Anda dapat menggeser untuk menghapusnya.</string>
+    <string name="snack_guide">Anda dapat mengubahnya agar tidak ditampilkan di pengaturan.</string>
     <string name="rename">Ubah nama</string>
     <string name="apply_url_equal">Diterapkan sama untuk orang lain</string>
     <string name="apply_pass_equal">Terapkan hal yang sama untuk kata sandi lainnya</string>

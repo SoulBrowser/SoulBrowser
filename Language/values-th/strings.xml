@@ -94,6 +94,7 @@
     <string name="deleted">ที่ถูกลบ</string>
     <string name="swipe_delete">ปัดลบ</string>
     <string name="swipe_remove">คุณสามารถปัดเพื่อลบออกได้</string>
+    <string name="snack_guide">คุณสามารถเปลี่ยนไม่ให้แสดงในการตั้งค่าได้</string>
     <string name="rename">ตั้งชื่อใหม่</string>
     <string name="apply_url_equal">ใช้กับคนอื่น ๆ อย่างเท่าเทียมกัน</string>
     <string name="apply_pass_equal">ใช้เหมือนกันกับรหัสผ่านอื่น ๆ</string>

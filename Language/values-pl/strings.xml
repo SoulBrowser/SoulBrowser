@@ -94,6 +94,7 @@
     <string name="deleted">Usunięte</string>
     <string name="swipe_delete">Przesuń i usuń</string>
     <string name="swipe_remove">Możesz przesunąć, aby go usunąć.</string>
+    <string name="snack_guide">Możesz zmienić, aby nie był wyświetlany w ustawieniach.</string>
     <string name="rename">Zmień nazwę</string>
     <string name="apply_url_equal">Stosowane w równym stopniu do innych</string>
     <string name="apply_pass_equal">Zastosuj to samo do innych haseł</string>

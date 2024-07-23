@@ -94,6 +94,7 @@
     <string name="deleted">Bị xóa</string>
     <string name="swipe_delete">Vuốt xóa</string>
     <string name="swipe_remove">Bạn có thể vuốt để loại bỏ nó.</string>
+    <string name="snack_guide">Bạn có thể thay đổi nó để không hiển thị trong cài đặt.</string>
     <string name="rename">Đổi tên</string>
     <string name="apply_url_equal">Áp dụng bình đẳng cho người khác</string>
     <string name="apply_pass_equal">Áp dụng tương tự cho các mật khẩu khác</string>

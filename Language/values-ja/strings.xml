@@ -94,6 +94,7 @@
     <string name="deleted">削除済み</string>
     <string name="swipe_delete">スワイプ削除</string>
     <string name="swipe_remove">スワイプして削除できます。</string>
+    <string name="snack_guide">設定で表示されないように変更できます。</string>
     <string name="rename">名前の変更</string>
     <string name="apply_url_equal">他のファイルにも同様に適用</string>
     <string name="apply_pass_equal">他のパスワードにも同様に適用</string>

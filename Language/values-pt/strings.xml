@@ -94,6 +94,7 @@
     <string name="deleted">Excluído</string>
     <string name="swipe_delete">Deslizar rapidamente excluir</string>
     <string name="swipe_remove">Você pode deslizar para removê-lo.</string>
+    <string name="snack_guide">Pode alterá-lo para não ser apresentado nas definições.</string>
     <string name="rename">Renomear</string>
     <string name="apply_url_equal">Aplica se também a outras pessoas</string>
     <string name="apply_pass_equal">Aplique o mesmo a outras senhas</string>

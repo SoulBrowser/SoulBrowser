@@ -94,6 +94,7 @@
     <string name="deleted">Gelöscht</string>
     <string name="swipe_delete">Wischen entfernen</string>
     <string name="swipe_remove">Sie können es entfernen, indem Sie wischen.</string>
+    <string name="snack_guide">Sie können in den Einstellungen ändern, dass es nicht angezeigt wird.</string>
     <string name="rename">Umbenennen</string>
     <string name="apply_url_equal">Auf andere URL gleichermaßen anwenden</string>
     <string name="apply_pass_equal">Wenden Sie dasselbe auf andere Passwörter an</string>

@@ -94,6 +94,7 @@
     <string name="deleted">Deleted</string>
     <string name="swipe_delete">Swipe delete</string>
     <string name="swipe_remove">You can swipe to remove it.</string>
+    <string name="snack_guide">You can change it not to be displayed in the settings.</string>
     <string name="rename">Rename</string>
     <string name="apply_url_equal">Applied equally to others</string>
     <string name="apply_pass_equal">Applied equally to others</string>

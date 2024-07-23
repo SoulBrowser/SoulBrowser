@@ -94,6 +94,7 @@
     <string name="deleted">删除</string>
     <string name="swipe_delete">滑动删除</string>
     <string name="swipe_remove">您可以滑动将其删除</string>
+    <string name="snack_guide">您可以将其更改为不在设置中显示</string>
     <string name="rename">重命名</string>
     <string name="apply_url_equal">同样适用于其它文件</string>
     <string name="apply_pass_equal">将相同应用于其他密码</string>

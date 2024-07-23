@@ -94,6 +94,7 @@
     <string name="deleted">قد تم حذف.</string>
     <string name="swipe_delete">انتقد حذف</string>
     <string name="swipe_remove">يمكنك التمرير لإزالته.</string>
+    <string name="snack_guide">يمكنك تغييره بحيث لا يتم عرضه في الإعدادات.</string>
     <string name="rename">تغيير الاسم</string>
     <string name="apply_url_equal">نفس الشيء بالنسبة لعناوين URL الأخرى</string>
     <string name="apply_pass_equal">قم بتطبيق نفس الشيء على كلمات المرور الأخرى</string>
