@@ -1039,8 +1039,8 @@
     <string name="area_info_10">このため、多くのユーザーがカスタムフィルタの作成を放棄します。</string>
     <string name="area_info_11">\'%s\'機能にはフィルタに関する知識は必要ありません。</string>
     <string name="area_info_12">誰でも簡単にカスタマイズ可能なフィルタを作成できます。</string>
-    <string name="area_info_13">ブロックしたいオブジェクトを押し続けるとメニューが表示されます。</string>
-    <string name="area_info_14">\'%s\'機能を実行して適用すると、自動的にフィルタが生成されます。</string>
+    <string name="area_info_13">メニューから\'%s\'機能を実行してみてください。</string>
+    <string name="area_info_14">ブロックするオブジェクトを選択して適用すると、自動的にフィルタが作成されます。</string>
     <string name="area_info_15">それはとても簡単です。</string>
     <string name="area_info_16">今すぐ使ってみてください。</string>
     <string name="freq_asked">よくある質問</string>

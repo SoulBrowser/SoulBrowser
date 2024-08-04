@@ -1039,8 +1039,8 @@
     <string name="area_info_10">ด้วยเหตุนี้ ผู้ใช้จำนวนมากจึงเลิกสร้างตัวกรองแบบกำหนดเอง</string>
     <string name="area_info_11">ฟังก์ชัน \'%s\' ไม่จำเป็นต้องมีความรู้เกี่ยวกับตัวกรองใดๆ</string>
     <string name="area_info_12">ใครๆ ก็สามารถสร้างตัวกรองแบบกำหนดเองได้อย่างง่ายดาย</string>
-    <string name="area_info_13">กดบนวัตถุที่คุณต้องการบล็อกค้างไว้แล้วเมนูจะปรากฏขึ้น</string>
-    <string name="area_info_14">เมื่อคุณเรียกใช้และใช้ฟังก์ชัน \'%s\' ตัวกรองจะถูกสร้างขึ้นโดยอัตโนมัติ</string>
+    <string name="area_info_13">ลองเรียกใช้ฟังก์ชัน \'%s\' ในเมนู</string>
+    <string name="area_info_14">เลือกวัตถุที่คุณต้องการบล็อก นำไปใช้ จากนั้นตัวกรองจะถูกสร้างขึ้นโดยอัตโนมัติ</string>
     <string name="area_info_15">มันง่ายมาก.</string>
     <string name="area_info_16">ลองตอนนี้เลย</string>
     <string name="freq_asked">คำถามที่พบบ่อย</string>

@@ -1039,8 +1039,8 @@
     <string name="area_info_10">Por esse motivo, muitos usuários desistem de criar filtros personalizados.</string>
     <string name="area_info_11">A função \'%s\' não requer nenhum conhecimento de filtros.</string>
     <string name="area_info_12">Qualquer pessoa pode criar facilmente filtros personalizados.</string>
-    <string name="area_info_13">Pressione longamente o objeto que deseja bloquear e um menu aparecerá.</string>
-    <string name="area_info_14">Ao executar e aplicar a função \'%s\', um filtro será criado automaticamente.</string>
+    <string name="area_info_13">Experimente executar a função \'%s\' no menu.</string>
+    <string name="area_info_14">Selecione os objetos que pretende bloquear, aplique-os e será criado automaticamente um filtro.</string>
     <string name="area_info_15">É muito fácil.</string>
     <string name="area_info_16">Experimente agora mesmo.</string>
     <string name="freq_asked">Perguntas frequentes</string>

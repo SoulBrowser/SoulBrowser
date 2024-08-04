@@ -1039,8 +1039,8 @@
     <string name="area_info_10">لهذا السبب، يتخلى العديد من المستخدمين عن إنشاء مرشحات مخصصة.</string>
     <string name="area_info_11">لا تتطلب وظيفة \'%s\' أي معرفة بالمرشحات.</string>
     <string name="area_info_12">يمكن لأي شخص بسهولة إنشاء مرشحات مخصصة.</string>
-    <string name="area_info_13">اضغط لفترة طويلة على الكائن الذي تريد حظره وستظهر القائمة.</string>
-    <string name="area_info_14">عند تشغيل وظيفة \'%s\' وتطبيقها، سيتم إنشاء عامل تصفية تلقائيًا.</string>
+    <string name="area_info_13">حاول تشغيل وظيفة \'%s\' في القائمة.</string>
+    <string name="area_info_14">حدد الكائنات التي تريد حظرها، وقم بتطبيقها، وسيتم إنشاء عامل تصفية تلقائيًا.</string>
     <string name="area_info_15">انه سهل جدا.</string>
     <string name="area_info_16">جربه الآن.</string>
     <string name="freq_asked">أسئلة مكررة</string>

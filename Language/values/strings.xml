@@ -1039,8 +1039,8 @@
     <string name="area_info_10">For this reason, many users give up on creating custom filters.</string>
     <string name="area_info_11">The \'%s\' function does not require any knowledge of filters.</string>
     <string name="area_info_12">Anyone can easily create custom filters.</string>
-    <string name="area_info_13">Long press on the object you want to block and a menu will appear.</string>
-    <string name="area_info_14">When you run and apply the \'%s\' function, a filter will be created automatically.</string>
+    <string name="area_info_13">Try running the \'%s\' function in the menu.</string>
+    <string name="area_info_14">Select the objects you want to block, apply them, and a filter will be created automatically.</string>
     <string name="area_info_15">It\'s very easy.</string>
     <string name="area_info_16">Try it right now.</string>
     <string name="freq_asked">Frequently asked questions</string>

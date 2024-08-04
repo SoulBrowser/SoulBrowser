@@ -1039,8 +1039,8 @@
     <string name="area_info_10">Karena alasan ini, banyak pengguna menyerah dalam membuat filter khusus.</string>
     <string name="area_info_11">Fungsi \'%s\' tidak memerlukan pengetahuan tentang filter.</string>
     <string name="area_info_12">Siapa pun dapat dengan mudah membuat filter khusus.</string>
-    <string name="area_info_13">Tekan lama pada objek yang ingin Anda blokir dan sebuah menu akan muncul.</string>
-    <string name="area_info_14">Saat Anda menjalankan dan menerapkan fungsi \'%s\', filter akan dibuat secara otomatis.</string>
+    <string name="area_info_13">Coba jalankan fungsi \'%s\' di menu.</string>
+    <string name="area_info_14">Pilih objek yang ingin Anda blokir, terapkan, dan filter akan dibuat secara otomatis.</string>
     <string name="area_info_15">Ini sangat mudah.</string>
     <string name="area_info_16">Cobalah sekarang.</string>
     <string name="freq_asked">Pertanyaan yang sering diajukan</string>
