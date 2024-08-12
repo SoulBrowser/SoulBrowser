@@ -1039,8 +1039,8 @@
     <string name="area_info_10">Vì lý do này, nhiều người dùng từ bỏ việc tạo bộ lọc tùy chỉnh.</string>
     <string name="area_info_11">Chức năng \'%s\' không yêu cầu bất kỳ kiến ​​thức nào về bộ lọc.</string>
     <string name="area_info_12">Bất cứ ai cũng có thể dễ dàng tạo các bộ lọc tùy chỉnh.</string>
-    <string name="area_info_13">Hãy thử chạy chức năng \'%s\' trong menu.</string>
-    <string name="area_info_14">Chọn các đối tượng bạn muốn chặn, áp dụng chúng và bộ lọc sẽ được tạo tự động.</string>
+    <string name="area_info_13">Nhấn và giữ đối tượng bạn muốn chặn và một menu sẽ xuất hiện.</string>
+    <string name="area_info_14">Khi bạn chạy và áp dụng chức năng \'%s\', bộ lọc sẽ được tạo tự động.</string>
     <string name="area_info_15">Nó rất dễ.</string>
     <string name="area_info_16">Hãy thử nó ngay bây giờ.</string>
     <string name="freq_asked">Các câu hỏi thường gặp</string>

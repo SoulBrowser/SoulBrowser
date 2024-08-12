@@ -1039,8 +1039,8 @@
     <string name="area_info_10">Z tego powodu wielu użytkowników rezygnuje z tworzenia własnych filtrów.</string>
     <string name="area_info_11">Funkcja \'%s\' nie wymaga znajomości filtrów.</string>
     <string name="area_info_12">Każdy może z łatwością tworzyć własne filtry.</string>
-    <string name="area_info_13">Spróbuj uruchomić w menu funkcję \'%s\'.</string>
-    <string name="area_info_14">Wybierz obiekty, które chcesz zablokować, zastosuj je, a filtr zostanie utworzony automatycznie.</string>
+    <string name="area_info_13">Naciśnij i przytrzymaj obiekt, który chcesz zablokować, a pojawi się menu.</string>
+    <string name="area_info_14">Po uruchomieniu i zastosowaniu funkcji \'%s\' filtr zostanie utworzony automatycznie.</string>
     <string name="area_info_15">To jest bardzo łatwe.</string>
     <string name="area_info_16">Spróbuj już teraz.</string>
     <string name="freq_asked">Często zadawane pytania</string>

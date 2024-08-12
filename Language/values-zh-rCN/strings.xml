@@ -1039,8 +1039,8 @@
     <string name="area_info_10">因此，许多用户放弃创建自定义过滤器</string>
     <string name="area_info_11">\'%s\'功能不需要任何过滤器知识</string>
     <string name="area_info_12">任何人都可以轻松创建自定义过滤器</string>
-    <string name="area_info_13">尝试运行菜单中的\'%s\'功能</string>
-    <string name="area_info_14">选择要阻止的对象，应用它们，然后将自动创建过滤器</string>
+    <string name="area_info_13">长按要阻止的对象，会出现一个菜单</string>
+    <string name="area_info_14">当您运行并应用\'%s\'功能时，将自动创建一个过滤器</string>
     <string name="area_info_15">这很容易</string>
     <string name="area_info_16">现在就尝试一下</string>
     <string name="freq_asked">经常问的问题</string>

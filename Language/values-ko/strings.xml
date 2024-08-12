@@ -1039,8 +1039,8 @@
     <string name="area_info_10">이러한 이유로 많은 사용자가 맞춤 필터 만들기를 포기합니다.</string>
     <string name="area_info_11">\'%s\' 기능은 필터에 대한 지식이 필요하지 않습니다.</string>
     <string name="area_info_12">누구나 쉽게 맞춤형 필터를 만들 수 있습니다.</string>
-    <string name="area_info_13">메뉴에서 \'%s\' 기능을 실행해 보세요.</string>
-    <string name="area_info_14">차단하려는 개체를 선택하고 적용하면 자동으로 필터가 생성됩니다.</string>
+    <string name="area_info_13">차단하려는 개체를 길게 누르면 메뉴가 나타납니다.</string>
+    <string name="area_info_14">\'%s\' 기능을 실행하고 적용하면 자동으로 필터가 생성됩니다.</string>
     <string name="area_info_15">매우 쉽습니다.</string>
     <string name="area_info_16">지금 바로 사용해 보세요.</string>
     <string name="freq_asked">자주 묻는 질문</string>
