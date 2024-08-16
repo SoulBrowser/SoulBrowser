@@ -353,6 +353,8 @@
     <string name="permission_denied">Permissão negada</string>
     <string name="permission_removed">Permissão removida</string>
     <string name="no_permission">Sem permissão</string>
+    <string name="ask_rem_pms">Gostaria de remover o acesso à sua conta?</string>
+    <string name="remove_pms">Remover permissão</string>
     <string name="noti_pms">Permissão de notificação</string>
     <string name="noti_pms_guide_1">\'Permissão de notificação\' é necessária para notificações de status para os recursos abaixo.</string>
     <string name="ads_block">Bloqueador de ads</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">Arquivos de backup de versões anteriores não são mais suportados.</string>
     <string name="backup_changed_3">Por favor, crie um novo arquivo de backup.</string>
     <string name="need_login">Por favor entre.</string>
-    <string name="login_google">Faça login no Google</string>
-    <string name="log_out">Sair</string>
     <string name="auto_update">Atualização automática</string>
     <string name="update_time">Ciclo de atualização</string>
     <string name="onehand_mode">Modo de uma mão</string>

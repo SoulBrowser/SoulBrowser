@@ -353,6 +353,8 @@
     <string name="permission_denied">У дозволі відмовлено</string>
     <string name="permission_removed">Дозвіл видалено</string>
     <string name="no_permission">Немає дозволу</string>
+    <string name="ask_rem_pms">Хочете скасувати доступ до свого облікового запису?</string>
+    <string name="remove_pms">Видалити дозвіл</string>
     <string name="noti_pms">Дозвіл на сповіщення</string>
     <string name="noti_pms_guide_1">\'Дозвіл на сповіщення\' потрібен для сповіщень про статус для наведених нижче функцій.</string>
     <string name="ads_block">Блокатор реклами</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">Резервні копії файлів попередніх версій більше не підтримуються.</string>
     <string name="backup_changed_3">Будь ласка, створіть новий файл резервної копії.</string>
     <string name="need_login">Увійдіть, будь ласка.</string>
-    <string name="login_google">Увійдіть у Google</string>
-    <string name="log_out">Вийти</string>
     <string name="auto_update">Автоматичне оновлення</string>
     <string name="update_time">Цикл оновлення</string>
     <string name="onehand_mode">Режим однією рукою</string>

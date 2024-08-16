@@ -353,6 +353,8 @@
     <string name="permission_denied">Permission denied</string>
     <string name="permission_removed">Permission removed</string>
     <string name="no_permission">No permission</string>
+    <string name="ask_rem_pms">Would you like to remove access to your account?</string>
+    <string name="remove_pms">Remove permission</string>
     <string name="noti_pms">Notification permission</string>
     <string name="noti_pms_guide_1">\'Notification permission\' is required for status notifications for the features below.</string>
     <string name="ads_block">Ad blocker</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">Backup files from previous versions are no longer supported.</string>
     <string name="backup_changed_3">Please create a new backup file.</string>
     <string name="need_login">Please sign in.</string>
-    <string name="login_google">Sign in with Google</string>
-    <string name="log_out">Sign out</string>
     <string name="auto_update">Auto update</string>
     <string name="update_time">Update cycle</string>
     <string name="onehand_mode">One-handed mode</string>

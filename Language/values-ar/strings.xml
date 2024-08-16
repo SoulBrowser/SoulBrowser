@@ -353,6 +353,8 @@
     <string name="permission_denied">طلب الاذن مرفوض</string>
     <string name="permission_removed">تمت إزالة الإذن</string>
     <string name="no_permission">لا يوجد إذن</string>
+    <string name="ask_rem_pms">هل ترغب في إزالة الوصول إلى حسابك؟</string>
+    <string name="remove_pms">إزالة إذن</string>
     <string name="noti_pms">إذن الإخطار</string>
     <string name="noti_pms_guide_1">مطلوب \'إذن الإعلام\' لإشعارات الحالة للميزات أدناه.</string>
     <string name="ads_block">حظر الإعلانات</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">لم تعد ملفات النسخ الاحتياطي من الإصدارات السابقة مدعومة.</string>
     <string name="backup_changed_3">الرجاء إنشاء ملف نسخ احتياطي جديد.</string>
     <string name="need_login">الرجاء تسجيل الدخول.</string>
-    <string name="login_google">الدخول مع جوجل</string>
-    <string name="log_out">تسجيل خروج</string>
     <string name="auto_update">التحديث التلقائي</string>
     <string name="update_time">دورة التحديث</string>
     <string name="onehand_mode">الوضع بيد واحدة</string>

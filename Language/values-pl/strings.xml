@@ -353,6 +353,8 @@
     <string name="permission_denied">Odmowa dostępu</string>
     <string name="permission_removed">Uprawnienie zostało usunięte</string>
     <string name="no_permission">Brak uprawnień</string>
+    <string name="ask_rem_pms">Czy chcesz usunąć dostęp do swojego konta?</string>
+    <string name="remove_pms">Usuń pozwolenie</string>
     <string name="noti_pms">Pozwolenie na powiadomienie</string>
     <string name="noti_pms_guide_1">Aby otrzymywać powiadomienia o stanie poniższych funkcji, wymagane jest \'Uprawnienie do powiadomień\'.</string>
     <string name="ads_block">Blokowanie reklam</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">Pliki kopii zapasowych z poprzednich wersji nie są już obsługiwane.</string>
     <string name="backup_changed_3">Utwórz nowy plik kopii zapasowej.</string>
     <string name="need_login">Proszę się zalogować.</string>
-    <string name="login_google">Zaloguj się przez Google</string>
-    <string name="log_out">Wyloguj</string>
     <string name="auto_update">Automatyczna aktualizacja</string>
     <string name="update_time">Cykl aktualizacji</string>
     <string name="onehand_mode">Tryb jednoręczny</string>

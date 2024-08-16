@@ -353,6 +353,8 @@
     <string name="permission_denied">Izin ditolak</string>
     <string name="permission_removed">Izin dihapus</string>
     <string name="no_permission">Tidak ada izin</string>
+    <string name="ask_rem_pms">Apakah Anda ingin menghapus akses ke akun Anda?</string>
+    <string name="remove_pms">Hapus izin</string>
     <string name="noti_pms">Izin pemberitahuan</string>
     <string name="noti_pms_guide_1">\'Izin pemberitahuan\' diperlukan untuk pemberitahuan status untuk fitur di bawah.</string>
     <string name="ads_block">Pemblokir iklan</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">File cadangan dari versi sebelumnya tidak lagi didukung.</string>
     <string name="backup_changed_3">Silakan buat file cadangan baru.</string>
     <string name="need_login">Silahkan masuk.</string>
-    <string name="login_google">Masuk dengan Google</string>
-    <string name="log_out">Keluar</string>
     <string name="auto_update">Pembaruan otomatis</string>
     <string name="update_time">Siklus pembaruan</string>
     <string name="onehand_mode">Mode satu tangan</string>

@@ -353,6 +353,8 @@
     <string name="permission_denied">İzin reddedildi</string>
     <string name="permission_removed">İzin kaldırıldı</string>
     <string name="no_permission">İzin yok</string>
+    <string name="ask_rem_pms">Hesabınıza erişimi kaldırmak ister misiniz?</string>
+    <string name="remove_pms">Izni kaldır</string>
     <string name="noti_pms">Bildirim izni</string>
     <string name="noti_pms_guide_1">Aşağıdaki özellikler için durum bildirimleri için \'Bildirim izni\' gereklidir.</string>
     <string name="ads_block">Reklam engelleme</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">Önceki sürümlerden yedekleme dosyaları artık desteklenmemektedir.</string>
     <string name="backup_changed_3">Lütfen yeni bir yedekleme dosyası oluşturun.</string>
     <string name="need_login">Lütfen giriş yapın.</string>
-    <string name="login_google">Google ile giriş yapın</string>
-    <string name="log_out">Çıkış Yap</string>
     <string name="auto_update">Otomatik güncelleme</string>
     <string name="update_time">Güncelleme döngüsü</string>
     <string name="onehand_mode">Tek el modu</string>

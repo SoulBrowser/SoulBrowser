@@ -353,6 +353,8 @@
     <string name="permission_denied">Permisul refuzat</string>
     <string name="permission_removed">Permisiunea eliminată</string>
     <string name="no_permission">Fără permisiune</string>
+    <string name="ask_rem_pms">Doriți să eliminați accesul la contul dvs.?</string>
+    <string name="remove_pms">Elimina permisiunea</string>
     <string name="noti_pms">Permisiune de notificare</string>
     <string name="noti_pms_guide_1">\'Permisiunea de notificare\' este necesară pentru notificările de stare pentru funcțiile de mai jos.</string>
     <string name="ads_block">Blocator de anunțuri</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">Fișierele de rezervă din versiunile anterioare nu mai sunt acceptate.</string>
     <string name="backup_changed_3">Creați un nou fișier de rezervă.</string>
     <string name="need_login">Va rugam sa va logati.</string>
-    <string name="login_google">Conectați-vă cu Google</string>
-    <string name="log_out">Deconectează-te</string>
     <string name="auto_update">Actualizare automată</string>
     <string name="update_time">Ciclu de actualizare</string>
     <string name="onehand_mode">Modul cu o singură mână</string>

@@ -353,6 +353,8 @@
     <string name="permission_denied">アクセス拒否</string>
     <string name="permission_removed">権限が削除されました</string>
     <string name="no_permission">権限なし</string>
+    <string name="ask_rem_pms">アカウントへのアクセス権を削除してもよろしいですか？</string>
+    <string name="remove_pms">権限の削除</string>
     <string name="noti_pms">通知許可</string>
     <string name="noti_pms_guide_1">以下の機能のステータス通知には\'通知権限\'が必要です。</string>
     <string name="ads_block">広告ブロック</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">以前のバージョンのバックアップファイルはサポートされなくなりました。</string>
     <string name="backup_changed_3">新しいバックアップファイルを作成してください。</string>
     <string name="need_login">ログインしてください。</string>
-    <string name="login_google">Googleでサインイン</string>
-    <string name="log_out">ログアウト</string>
     <string name="auto_update">自動更新</string>
     <string name="update_time">更新頻度</string>
     <string name="onehand_mode">片手モード</string>

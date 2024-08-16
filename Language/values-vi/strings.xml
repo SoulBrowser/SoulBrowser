@@ -353,6 +353,8 @@
     <string name="permission_denied">Quyền bị từ chối</string>
     <string name="permission_removed">Quyền đã bị xóa</string>
     <string name="no_permission">Không cho phép</string>
+    <string name="ask_rem_pms">Bạn có muốn xóa quyền truy cập vào tài khoản của mình không?</string>
+    <string name="remove_pms">Xóa quyền</string>
     <string name="noti_pms">Quyền thông báo</string>
     <string name="noti_pms_guide_1">Cần có \'Quyền thông báo\' đối với thông báo trạng thái cho các tính năng bên dưới.</string>
     <string name="ads_block">Chặn quảng cáo</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">Các tệp sao lưu từ các phiên bản trước không còn được hỗ trợ.</string>
     <string name="backup_changed_3">Vui lòng tạo một tệp sao lưu mới.</string>
     <string name="need_login">Xin vui lòng đăng nhập.</string>
-    <string name="login_google">Đăng nhập bằng Google</string>
-    <string name="log_out">Đăng xuất</string>
     <string name="auto_update">Cập nhật tự động</string>
     <string name="update_time">Chu kỳ cập nhật</string>
     <string name="onehand_mode">Chế độ một tay</string>

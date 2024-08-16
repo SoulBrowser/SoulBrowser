@@ -353,6 +353,8 @@
     <string name="permission_denied">Erlaubnis verweigert</string>
     <string name="permission_removed">Berechtigung entfernt</string>
     <string name="no_permission">Keine Erlaubnis</string>
+    <string name="ask_rem_pms">Möchten Sie den Zugriff auf Ihr Konto entfernen?</string>
+    <string name="remove_pms">Berechtigung entfernen</string>
     <string name="noti_pms">Benachrichtigungsberechtigung</string>
     <string name="noti_pms_guide_1">Für Statusbenachrichtigungen für die folgenden Funktionen ist \'Benachrichtigungserlaubnis\' erforderlich.</string>
     <string name="ads_block">Werbung blockieren</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">Sicherungsdateien aus früheren Versionen werden nicht mehr unterstützt.</string>
     <string name="backup_changed_3">Bitte erstellen Sie eine neue Sicherungsdatei.</string>
     <string name="need_login">Bitte loggen Sie sich ein.</string>
-    <string name="login_google">Anmeldung mit Google</string>
-    <string name="log_out">Ausloggen</string>
     <string name="auto_update">Automatisches Update</string>
     <string name="update_time">Aktualisierungszyklus</string>
     <string name="onehand_mode">Einhandmodus</string>

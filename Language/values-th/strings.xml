@@ -353,6 +353,8 @@
     <string name="permission_denied">ปฏิเสธการอนุญาต</string>
     <string name="permission_removed">ลบสิทธิ์</string>
     <string name="no_permission">ไม่ได้รับอนุญาต</string>
+    <string name="ask_rem_pms">คุณต้องการยกเลิกการเข้าถึงบัญชีของคุณหรือไม่?</string>
+    <string name="remove_pms">ลบการอนุญาต</string>
     <string name="noti_pms">ขออนุญาตแจ้ง</string>
     <string name="noti_pms_guide_1">จำเป็นต้องมี \'สิทธิ์ในการแจ้งเตือน\' สำหรับการแจ้งเตือนสถานะสำหรับคุณสมบัติด้านล่าง</string>
     <string name="ads_block">บล็อกโฆษณา</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">ไม่รองรับไฟล์สำรองจากเวอร์ชันก่อนหน้าอีกต่อไป</string>
     <string name="backup_changed_3">โปรดสร้างไฟล์สำรองใหม่</string>
     <string name="need_login">กรุณาเข้าสู่ระบบ.</string>
-    <string name="login_google">ลงชื่อเข้าใช้ด้วย Google</string>
-    <string name="log_out">ออกจากระบบ</string>
     <string name="auto_update">อัปเดตอัตโนมัติ</string>
     <string name="update_time">รอบการอัพเดท</string>
     <string name="onehand_mode">โหมดมือเดียว</string>

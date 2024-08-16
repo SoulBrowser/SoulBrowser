@@ -353,6 +353,8 @@
     <string name="permission_denied">没有权限</string>
     <string name="permission_removed">已删除权限</string>
     <string name="no_permission">没有权限</string>
+    <string name="ask_rem_pms">您想删除对您帐户的访问权限吗？</string>
+    <string name="remove_pms">删除权限</string>
     <string name="noti_pms">通知权限</string>
     <string name="noti_pms_guide_1">以下功能的状态通知需要\'通知权限\'</string>
     <string name="ads_block">广告拦截</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">不再支持以前版本的备份文件</string>
     <string name="backup_changed_3">请创建一个新的备份文件</string>
     <string name="need_login">请登录</string>
-    <string name="login_google">使用 Google 登录</string>
-    <string name="log_out">登出</string>
     <string name="auto_update">自动更新</string>
     <string name="update_time">更新周期</string>
     <string name="onehand_mode">单手模式</string>

@@ -353,6 +353,8 @@
     <string name="permission_denied">권한 거부됨</string>
     <string name="permission_removed">권한 제거됨</string>
     <string name="no_permission">권한 없음</string>
+    <string name="ask_rem_pms">계정에 대한 액세스 권한을 제거하시겠습니까?</string>
+    <string name="remove_pms">권한 제거</string>
     <string name="noti_pms">알림 권한</string>
     <string name="noti_pms_guide_1">아래 기능에 대한 상태 알림을 위해 \'알림 권한\'이 필요합니다.</string>
     <string name="ads_block">광고 차단</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">이전 버전의 백업 파일은 더 이상 지원되지 않습니다.</string>
     <string name="backup_changed_3">새 백업 파일을 만들어 주세요.</string>
     <string name="need_login">로그인 해주세요.</string>
-    <string name="login_google">Google로 로그인</string>
-    <string name="log_out">로그 아웃</string>
     <string name="auto_update">자동 업데이트</string>
     <string name="update_time">업데이트 주기</string>
     <string name="onehand_mode">한 손 사용 모드</string>

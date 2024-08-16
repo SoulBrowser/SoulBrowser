@@ -353,6 +353,8 @@
     <string name="permission_denied">Доступ запрещен</string>
     <string name="permission_removed">Разрешение удалено</string>
     <string name="no_permission">Нет разрешения</string>
+    <string name="ask_rem_pms">Вы хотите закрыть доступ к своему аккаунту?</string>
+    <string name="remove_pms">Удалить разрешение</string>
     <string name="noti_pms">Разрешение на уведомление</string>
     <string name="noti_pms_guide_1">\'Разрешение на уведомление\' требуется для уведомлений о состоянии для перечисленных ниже функций.</string>
     <string name="ads_block">Блокировщик рекламы</string>
@@ -924,8 +926,6 @@
     <string name="backup_changed_2">Файлы резервных копий из предыдущих версий больше не поддерживаются.</string>
     <string name="backup_changed_3">Пожалуйста, создайте новый файл резервной копии.</string>
     <string name="need_login">Пожалуйста, войдите.</string>
-    <string name="login_google">Войти через Google</string>
-    <string name="log_out">Выйти</string>
     <string name="auto_update">Автоматическое обновление</string>
     <string name="update_time">Цикл обновления</string>
     <string name="onehand_mode">Одноручный режим</string>
