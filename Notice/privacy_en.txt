@@ -19,10 +19,10 @@ In order to help understanding of users who do not have Korean as their mother t
 
 2.1. Google Drive SDK
 Collected data : name, email address
-Purpose of collection : identification of users when backing up data
+Purpose of collection : Access to your Google Drive account when backing up data
 * This information is collected by Google.
-* Collected only when logging in to Google Drive.
-* No information is collected unless you log in to Google Drive.
+* Collected only when you request access to your Google Drive account.
+* Users can remove access to their account at any time.
 
 2.2. Google Mobile Ads SDK
 Collected data : crash logs, diagnostics, view ads and tap ads, device or other identifiers
@@ -71,4 +71,4 @@ If you need to declare or consult about infringement of other personal informati
 Company frequently uses company's Privacy Policy for various reasons, such as improving the processing procedures of user's personal information, reflecting changes to company's services, or complying with related laws You can change.
 
 
-Last updated : June 17, 2023
+Last updated : August 17, 2024
