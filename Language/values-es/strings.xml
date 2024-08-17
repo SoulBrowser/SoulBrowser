@@ -925,7 +925,6 @@
     <string name="backup_changed_1">El formato del archivo de respaldo ha cambiado.</string>
     <string name="backup_changed_2">Los archivos de respaldo de versiones anteriores ya no son compatibles.</string>
     <string name="backup_changed_3">Cree un nuevo archivo de copia de seguridad.</string>
-    <string name="need_login">Por favor Iniciar sesión.</string>
     <string name="auto_update">Actualización automática</string>
     <string name="update_time">Ciclo de actualización</string>
     <string name="onehand_mode">Modo de una mano</string>

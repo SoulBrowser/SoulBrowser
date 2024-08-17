@@ -925,7 +925,6 @@
     <string name="backup_changed_1">बैकअप फ़ाइल स्वरूप बदल गया है।</string>
     <string name="backup_changed_2">पिछले संस्करणों की बैकअप फ़ाइलें अब समर्थित नहीं हैं।</string>
     <string name="backup_changed_3">कृपया एक नई बैकअप फ़ाइल बनाएँ।</string>
-    <string name="need_login">कृपया साइन इन करें।</string>
     <string name="auto_update">स्वयमेव अद्यतन हो जाना</string>
     <string name="update_time">अद्यतन चक्र</string>
     <string name="onehand_mode">वन-हैंडेड मोड</string>

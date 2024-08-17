@@ -925,7 +925,6 @@
     <string name="backup_changed_1">Le format du fichier de sauvegarde a changé.</string>
     <string name="backup_changed_2">Les fichiers de sauvegarde des versions précédentes ne sont plus pris en charge.</string>
     <string name="backup_changed_3">Veuillez créer un nouveau fichier de sauvegarde.</string>
-    <string name="need_login">Veuillez vous connecter.</string>
     <string name="auto_update">Mise à jour automatique</string>
     <string name="update_time">Cycle de mise à jour</string>
     <string name="onehand_mode">Mode à une main</string>

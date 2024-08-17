@@ -925,7 +925,6 @@
     <string name="backup_changed_1">Формат файла резервной копии изменился.</string>
     <string name="backup_changed_2">Файлы резервных копий из предыдущих версий больше не поддерживаются.</string>
     <string name="backup_changed_3">Пожалуйста, создайте новый файл резервной копии.</string>
-    <string name="need_login">Пожалуйста, войдите.</string>
     <string name="auto_update">Автоматическое обновление</string>
     <string name="update_time">Цикл обновления</string>
     <string name="onehand_mode">Одноручный режим</string>

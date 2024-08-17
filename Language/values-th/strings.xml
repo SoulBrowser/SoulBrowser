@@ -925,7 +925,6 @@
     <string name="backup_changed_1">รูปแบบไฟล์สำรองมีการเปลี่ยนแปลง</string>
     <string name="backup_changed_2">ไม่รองรับไฟล์สำรองจากเวอร์ชันก่อนหน้าอีกต่อไป</string>
     <string name="backup_changed_3">โปรดสร้างไฟล์สำรองใหม่</string>
-    <string name="need_login">กรุณาเข้าสู่ระบบ.</string>
     <string name="auto_update">อัปเดตอัตโนมัติ</string>
     <string name="update_time">รอบการอัพเดท</string>
     <string name="onehand_mode">โหมดมือเดียว</string>

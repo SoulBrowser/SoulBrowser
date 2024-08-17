@@ -925,7 +925,6 @@
     <string name="backup_changed_1">Il formato del file di backup è cambiato.</string>
     <string name="backup_changed_2">I file di backup delle versioni precedenti non sono più supportati.</string>
     <string name="backup_changed_3">Si prega di creare un nuovo file di backup.</string>
-    <string name="need_login">Accesso richiesto.</string>
     <string name="auto_update">Aggiornamento automatico</string>
     <string name="update_time">Ciclo di aggiornamento</string>
     <string name="onehand_mode">Modalità a una mano</string>

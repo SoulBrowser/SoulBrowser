@@ -925,7 +925,6 @@
     <string name="backup_changed_1">Formatul fișierului de rezervă s-a schimbat.</string>
     <string name="backup_changed_2">Fișierele de rezervă din versiunile anterioare nu mai sunt acceptate.</string>
     <string name="backup_changed_3">Creați un nou fișier de rezervă.</string>
-    <string name="need_login">Va rugam sa va logati.</string>
     <string name="auto_update">Actualizare automată</string>
     <string name="update_time">Ciclu de actualizare</string>
     <string name="onehand_mode">Modul cu o singură mână</string>

@@ -925,7 +925,6 @@
     <string name="backup_changed_1">Định dạng tệp sao lưu đã thay đổi.</string>
     <string name="backup_changed_2">Các tệp sao lưu từ các phiên bản trước không còn được hỗ trợ.</string>
     <string name="backup_changed_3">Vui lòng tạo một tệp sao lưu mới.</string>
-    <string name="need_login">Xin vui lòng đăng nhập.</string>
     <string name="auto_update">Cập nhật tự động</string>
     <string name="update_time">Chu kỳ cập nhật</string>
     <string name="onehand_mode">Chế độ một tay</string>
