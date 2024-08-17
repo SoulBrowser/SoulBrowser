@@ -21,7 +21,7 @@ In order to help understanding of users who do not have Korean as their mother t
 Collected data : name, email address
 Purpose of collection : Access to your Google Drive account when backing up data
 * This information is collected by Google.
-* Collected only when you request access to your Google Drive account.
+* Collected only when you access your Google Drive account.
 * Users can remove access to their account at any time.
 
 2.2. Google Mobile Ads SDK
