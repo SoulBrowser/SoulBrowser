@@ -82,6 +82,10 @@ whc|9anime|iframe[class*="eww"],div[style*="Player.png"],iframe[class*="padPrelo
 //wk
 whs|manatoki,newtoki|div[class*="id_bbn"],div[class*="banner"]
 whs|marumaru|div[class*="banner"]
+//es
+hani.co.kr
+namu.wiki
+news.kr
 //eg
 yahoo.com##div[class*="pencil-ad"],div[class="caas-da"],div[id*="ad_wp"],div[id*="pencilAd"],li[class*="native-ad"],li[class*="stream-ad"],li[class*="stream-sm-ad"]
 pornhub.com##div[class*="adContainer"],div[class*="removeAdLink"],div[id=adSpot],a[href^="https://a.adtng.com/"],ins[class="adsbytrafficjunky"]
