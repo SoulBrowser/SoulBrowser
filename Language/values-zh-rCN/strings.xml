@@ -449,6 +449,8 @@
     <string name="show_image_info">显示网页图像</string>
     <string name="video_download">下载视频</string>
     <string name="video_manager">视频管理器按钮</string>
+    <string name="youtube_manager">YouTube 管理器按钮</string>
+    <string name="play_speed">播放速度</string>
     <string name="two_finger">（双指）</string>
     <string name="two_finger_info_1">用双指左右滑动以移动标签</string>
     <string name="two_finger_info_2">用双指向下滑动以移除标签</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">直接输入</string>
     <string name="direct_select">直接选择</string>
     <string name="added">已添加</string>
+    <string name="do_change">改变</string>
     <string name="changed">已变更</string>
     <string name="vpn">DNS</string>
     <string name="report_error">报告错误</string>
@@ -558,9 +561,7 @@
     <string name="report_down">请提供无法下载视频的网站地址</string>
     <string name="insta_down">要顺利下载 Instagram 视频，\n您需要登录 Instagram</string>
     <string name="youtube_unmute">取消静音 YouTube</string>
-    <string name="youtube_speed">保存 YouTube 播放速度</string>
     <string name="youtube_auto">YouTube 自动播放</string>
-    <string name="youtube_pip">YouTube PIP 按钮</string>
     <string name="back_play">后台播放</string>
     <string name="back_play_info">根据 YouTube 政策，不支持 YouTube 后台播放</string>
     <string name="normal_rate">正常</string>

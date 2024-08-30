@@ -449,6 +449,8 @@
     <string name="show_image_info">Hiển thị hình ảnh của một trang web.</string>
     <string name="video_download">Tải Video</string>
     <string name="video_manager">Nút quản lý video</string>
+    <string name="youtube_manager">Nút quản lý YouTube</string>
+    <string name="play_speed">Tốc độ phát lại</string>
     <string name="two_finger">(Hai ngón tay)</string>
     <string name="two_finger_info_1">Vuốt sang trái và phải bằng hai ngón tay để di chuyển các tab.</string>
     <string name="two_finger_info_2">Vuốt xuống bằng hai ngón tay để xóa tab.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Đầu vào trực tiếp</string>
     <string name="direct_select">Lựa chọn trực tiếp</string>
     <string name="added">Đã thêm</string>
+    <string name="do_change">Thay đổi</string>
     <string name="changed">Thay đổi</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Báo lỗi</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Vui lòng cung cấp địa chỉ của trang web nơi bạn không thể tải xuống video.</string>
     <string name="insta_down">Để tải video Instagram một cách mượt mà,\nbạn cần đăng nhập vào Instagram.</string>
     <string name="youtube_unmute">Bật tiếng YouTube</string>
-    <string name="youtube_speed">Tiết kiệm tốc độ phát YouTube</string>
     <string name="youtube_auto">Tự động phát trên YouTube</string>
-    <string name="youtube_pip">Nút PIP của YouTube</string>
     <string name="back_play">Phát lại nền</string>
     <string name="back_play_info">Do chính sách của YouTube, phát lại nền YouTube không được hỗ trợ.</string>
     <string name="normal_rate">Bình thường</string>

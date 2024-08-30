@@ -449,6 +449,8 @@
     <string name="show_image_info">Wyświetl obrazy strony internetowej.</string>
     <string name="video_download">Ściągnij Wideo</string>
     <string name="video_manager">Przycisk menedżera wideo</string>
+    <string name="youtube_manager">Przycisk menedżera YouTube</string>
+    <string name="play_speed">Prędkość odtwarzania</string>
     <string name="two_finger">(Dwa palce)</string>
     <string name="two_finger_info_1">Przesuń dwoma palcami w lewo i w prawo, aby przenieść tabulatory.</string>
     <string name="two_finger_info_2">Przesuń dwoma palcami w dół, aby usunąć kartę.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Bezpośrednie wprowadzanie danych</string>
     <string name="direct_select">Wybór bezpośredni</string>
     <string name="added">Dodano</string>
+    <string name="do_change">Zmiana</string>
     <string name="changed">Zmieniono</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Zgłoś błąd</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Podaj adres strony, z której nie można pobrać filmu.</string>
     <string name="insta_down">Aby płynnie pobierać filmy z Instagrama,\nmusisz zalogować się na Instagram.</string>
     <string name="youtube_unmute">Wyłącz wyciszenie YouTube</string>
-    <string name="youtube_speed">Zapisz prędkość odtwarzania YouTube</string>
     <string name="youtube_auto">Autoodtwarzanie w YouTube</string>
-    <string name="youtube_pip">Przycisk YouTube PIP</string>
     <string name="back_play">Odtwarzanie w tle</string>
     <string name="back_play_info">Ze względu na zasady YouTube odtwarzanie w tle YouTube nie jest obsługiwane.</string>
     <string name="normal_rate">Normalna</string>

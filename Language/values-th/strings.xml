@@ -449,6 +449,8 @@
     <string name="show_image_info">แสดงภาพของหน้าเว็บ</string>
     <string name="video_download">ดาวน์โหลดวิดีโอ</string>
     <string name="video_manager">ปุ่มจัดการวิดีโอ</string>
+    <string name="youtube_manager">ปุ่มจัดการ YouTube</string>
+    <string name="play_speed">ความเร็วในการเล่น</string>
     <string name="two_finger">(สองนิ้ว)</string>
     <string name="two_finger_info_1">ปัดไปทางซ้ายและขวาด้วยสองนิ้วเพื่อเลื่อนแท็บ</string>
     <string name="two_finger_info_2">ปัดสองนิ้วลงเพื่อลบแท็บ</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">ป้อนข้อมูลโดยตรง</string>
     <string name="direct_select">การเลือกโดยตรง</string>
     <string name="added">ที่เพิ่ม</string>
+    <string name="do_change">เปลี่ยน</string>
     <string name="changed">การเปลี่ยนแปลง</string>
     <string name="vpn">DNS</string>
     <string name="report_error">รายงานข้อผิดพลาด</string>
@@ -558,9 +561,7 @@
     <string name="report_down">โปรดระบุที่อยู่ของเว็บไซต์ที่คุณไม่สามารถดาวน์โหลดวิดีโอได้</string>
     <string name="insta_down">หากต้องการดาวน์โหลดวิดีโอ Instagram ได้อย่างราบรื่น คุณต้องเข้าสู่ระบบ Instagram</string>
     <string name="youtube_unmute">เปิดเสียง YouTube</string>
-    <string name="youtube_speed">บันทึกความเร็วในการเล่น YouTube</string>
     <string name="youtube_auto">เล่นอัตโนมัติของ YouTube</string>
-    <string name="youtube_pip">ปุ่ม YouTube PIP</string>
     <string name="back_play">การเล่นพื้นหลัง</string>
     <string name="back_play_info">เนื่องจากนโยบายของ YouTube จึงไม่รองรับการเล่นพื้นหลังของ YouTube</string>
     <string name="normal_rate">ปกติ</string>

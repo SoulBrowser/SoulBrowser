@@ -449,6 +449,8 @@
     <string name="show_image_info">Afișează imagini ale unei pagini web.</string>
     <string name="video_download">Descărcați Videoclipul</string>
     <string name="video_manager">Butonul manager video</string>
+    <string name="youtube_manager">butonul de manager YouTube</string>
+    <string name="play_speed">Viteza de redare</string>
     <string name="two_finger">(Două degete)</string>
     <string name="two_finger_info_1">Glisați spre stânga și spre dreapta cu două degete pentru a muta file.</string>
     <string name="two_finger_info_2">Glisați în jos cu două degete pentru a elimina fila.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Intrare directă</string>
     <string name="direct_select">Selecție directă</string>
     <string name="added">Adăugat</string>
+    <string name="do_change">Schimba</string>
     <string name="changed">Schimbat</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Raportează eroarea</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Vă rugăm să furnizați adresa site-ului unde videoclipul nu poate fi descărcat.</string>
     <string name="insta_down">Pentru a descărca fără probleme videoclipuri Instagram,\ntrebuie să vă conectați la Instagram.</string>
     <string name="youtube_unmute">Activați sunetul YouTube</string>
-    <string name="youtube_speed">Salvați viteza de redare YouTube</string>
     <string name="youtube_auto">Redare automată YouTube</string>
-    <string name="youtube_pip">butonul YouTube PIP</string>
     <string name="back_play">Redare fundal</string>
     <string name="back_play_info">Datorită politicii YouTube, redarea pe fundalul YouTube nu este acceptată.</string>
     <string name="normal_rate">Normal</string>

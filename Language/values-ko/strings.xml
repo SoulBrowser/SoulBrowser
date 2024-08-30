@@ -449,6 +449,8 @@
     <string name="show_image_info">웹페이지의 이미지를 표시합니다.</string>
     <string name="video_download">동영상 다운로드</string>
     <string name="video_manager">비디오 매니저 버튼</string>
+    <string name="youtube_manager">YouTube 매니저 버튼</string>
+    <string name="play_speed">재생 속도</string>
     <string name="two_finger">(두 손가락)</string>
     <string name="two_finger_info_1">두 손가락으로 좌우로 스와이프하여 탭을 이동합니다.</string>
     <string name="two_finger_info_2">두 손가락으로 아래로 스와이프하여 탭을 제거합니다.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">직접 입력</string>
     <string name="direct_select">직접 선택</string>
     <string name="added">추가되었습니다.</string>
+    <string name="do_change">변경</string>
     <string name="changed">변경되었습니다.</string>
     <string name="vpn">DNS</string>
     <string name="report_error">오류 보고</string>
@@ -558,9 +561,7 @@
     <string name="report_down">동영상을 다운로드할 수 없는 사이트의 주소를 알려주세요.</string>
     <string name="insta_down">인스타그램 동영상을 원활하게 다운로드하려면,\n인스타그램에 로그인해야 합니다.</string>
     <string name="youtube_unmute">YouTube 음소거 해제</string>
-    <string name="youtube_speed">YouTube 재생 속도 저장</string>
     <string name="youtube_auto">YouTube 자동 재생</string>
-    <string name="youtube_pip">YouTube PIP 버튼</string>
     <string name="back_play">백그라운드 재생</string>
     <string name="back_play_info">YouTube 정책에 의해, YouTube 백그라운드 재생은 지원되지 않습니다.</string>
     <string name="normal_rate">보통</string>

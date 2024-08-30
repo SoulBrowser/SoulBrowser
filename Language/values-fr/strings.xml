@@ -449,6 +449,8 @@
     <string name="show_image_info">Afficher une image d\'une page Web.</string>
     <string name="video_download">Télécharger la Video</string>
     <string name="video_manager">Bouton du gestionnaire vidéo</string>
+    <string name="youtube_manager">Bouton du gestionnaire YouTube</string>
+    <string name="play_speed">Vitesse de lecture</string>
     <string name="two_finger">(Deux doigts)</string>
     <string name="two_finger_info_1">Glissez vers la gauche et la droite avec deux doigts pour déplacer les onglets.</string>
     <string name="two_finger_info_2">Glissez vers le bas avec deux doigts pour retirer l\'onglet.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Entrée directe</string>
     <string name="direct_select">Sélection directe</string>
     <string name="added">Ajouté</string>
+    <string name="do_change">Changement</string>
     <string name="changed">Changé</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Signaler une erreur</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Veuillez fournir l\'adresse du site dont vous ne pouvez pas télécharger la vidéo.</string>
     <string name="insta_down">Pour télécharger des vidéos Instagram en douceur,\nvous devez vous connecter à Instagram.</string>
     <string name="youtube_unmute">Activer YouTube</string>
-    <string name="youtube_speed">Enregistrer la vitesse de lecture YouTube</string>
     <string name="youtube_auto">Lecture automatique YouTube</string>
-    <string name="youtube_pip">Bouton YouTube PIP</string>
     <string name="back_play">Lecture en arrière plan</string>
     <string name="back_play_info">En raison de la politique de YouTube, la lecture en arrière plan de YouTube n\'est pas prise en charge.</string>
     <string name="normal_rate">Ordinaire</string>

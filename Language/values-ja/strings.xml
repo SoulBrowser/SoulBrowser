@@ -449,6 +449,8 @@
     <string name="show_image_info">Webページの画像を表示します。</string>
     <string name="video_download">ビデオをダウンロード</string>
     <string name="video_manager">ビデオマネージャーボタン</string>
+    <string name="youtube_manager">YouTube マネージャー ボタン</string>
+    <string name="play_speed">再生速度</string>
     <string name="two_finger">（二本の指）</string>
     <string name="two_finger_info_1">二本の指で左右にスワイプしてタブを移動します。</string>
     <string name="two_finger_info_2">二本の指で下にスワイプしてタブを削除します。</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">直接入力</string>
     <string name="direct_select">直接選択</string>
     <string name="added">追加された</string>
+    <string name="do_change">変化</string>
     <string name="changed">変更された</string>
     <string name="vpn">DNS</string>
     <string name="report_error">エラーを報告</string>
@@ -558,9 +561,7 @@
     <string name="report_down">動画をダウンロードすることができないサイトのアドレスを教えてください。</string>
     <string name="insta_down">Instagramの動画をシームレスにダウンロードするには、\nInstagramにログインする必要があります。</string>
     <string name="youtube_unmute">YouTubeのミュートを解除</string>
-    <string name="youtube_speed">YouTubeの再生速度を保存</string>
     <string name="youtube_auto">YouTubeの自動再生</string>
-    <string name="youtube_pip">YouTube PIPボタン</string>
     <string name="back_play">バックグラウンド再生</string>
     <string name="back_play_info">YouTubeのポリシーにより、YouTubeのバックグラウンド再生はサポートされていません。</string>
     <string name="normal_rate">通常</string>

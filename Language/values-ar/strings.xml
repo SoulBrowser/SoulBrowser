@@ -449,6 +449,8 @@
     <string name="show_image_info">يعرض صورة لصفحة الويب.</string>
     <string name="video_download">تحميل الفيديو</string>
     <string name="video_manager">زر مدير الفيديو</string>
+    <string name="youtube_manager">زر مدير اليوتيوب</string>
+    <string name="play_speed">سرعة التشغيل</string>
     <string name="two_finger">(إصبعين)</string>
     <string name="two_finger_info_1">اسحب لليسار أو لليمين بإصبعين لتحريك الصنبور.</string>
     <string name="two_finger_info_2">اسحب لأسفل بإصبعين لإزالة علامة التبويب.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">المساهمة المباشرة</string>
     <string name="direct_select">اختيار مباشر</string>
     <string name="added">تمت إضافة.</string>
+    <string name="do_change">يتغير</string>
     <string name="changed">تغير.</string>
     <string name="vpn">DNS</string>
     <string name="report_error">الإبلاغ عن خطأ</string>
@@ -558,9 +561,7 @@
     <string name="report_down">يرجى تقديم عنوان الموقع حيث لا يمكن تنزيل الفيديو.</string>
     <string name="insta_down">لتنزيل مقاطع فيديو Instagram بسلاسة، تحتاج إلى تسجيل الدخول إلى Instagram.</string>
     <string name="youtube_unmute">إعادة صوت YouTube</string>
-    <string name="youtube_speed">حفظ سرعة تشغيل YouTube</string>
     <string name="youtube_auto">يوتيوب التشغيل التلقائي</string>
-    <string name="youtube_pip">زر يوتيوب PIP</string>
     <string name="back_play">تشغيل في الخلفية</string>
     <string name="back_play_info">لا تدعم سياسة YouTube تشغيل الخلفية في YouTube.</string>
     <string name="normal_rate">مستخدم</string>

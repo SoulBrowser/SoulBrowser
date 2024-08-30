@@ -449,6 +449,8 @@
     <string name="show_image_info">Bir web sayfasının resmini görüntüleyin.</string>
     <string name="video_download">Video İndir</string>
     <string name="video_manager">Video yöneticisi düğmesi</string>
+    <string name="youtube_manager">YouTube yöneticisi düğmesi</string>
+    <string name="play_speed">Oynatma hızı</string>
     <string name="two_finger">(İki parmak)</string>
     <string name="two_finger_info_1">Sekmeleri taşımak için iki parmağınızla sola ve sağa kaydırın.</string>
     <string name="two_finger_info_2">Sekmeyi çıkarmak için iki parmağınızla aşağı kaydırın.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Direkt girin</string>
     <string name="direct_select">Direkt seçim</string>
     <string name="added">Eklendi</string>
+    <string name="do_change">Değiştirmek</string>
     <string name="changed">Değiştirildi</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Hata bildir</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Lütfen videoyu indiremediğiniz sitenin adresini belirtin.</string>
     <string name="insta_down">Instagram videolarını sorunsuz bir şekilde indirmek için Instagram’a giriş yapmanız gerekmektedir.</string>
     <string name="youtube_unmute">YouTube\'un sesini aç</string>
-    <string name="youtube_speed">YouTube oynatma hızını kaydedin</string>
     <string name="youtube_auto">YouTube otomatik oynatma</string>
-    <string name="youtube_pip">YouTube PIP düğmesi</string>
     <string name="back_play">Arka planda oynatma</string>
     <string name="back_play_info">YouTube politikası nedeniyle, YouTube arka plan oynatımı desteklenmiyor.</string>
     <string name="normal_rate">Normal</string>

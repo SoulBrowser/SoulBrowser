@@ -449,6 +449,8 @@
     <string name="show_image_info">顯示網頁圖片</string>
     <string name="video_download">下載影片</string>
     <string name="video_manager">視訊管理器按鈕</string>
+    <string name="youtube_manager">YouTube 管理器按鈕</string>
+    <string name="play_speed">播放速度</string>
     <string name="two_finger">（雙指滑動）</string>
     <string name="two_finger_info_1">用雙指滑動左右滑動以移動分頁</string>
     <string name="two_finger_info_2">用雙指滑動向下滑動以移除分頁</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">直接輸入</string>
     <string name="direct_select">直接選擇</string>
     <string name="added">已新增</string>
+    <string name="do_change">改變</string>
     <string name="changed">已變更</string>
     <string name="vpn">DNS</string>
     <string name="report_error">報告錯誤</string>
@@ -558,9 +561,7 @@
     <string name="report_down">請提供您無法下載影片的網站網址</string>
     <string name="insta_down">要順利下載 Instagram 視頻，\n您需要登入 Instagram</string>
     <string name="youtube_unmute">取消靜音 YouTube</string>
-    <string name="youtube_speed">保存 YouTube 播放速度</string>
     <string name="youtube_auto">YouTube 自動播放</string>
-    <string name="youtube_pip">YouTube PIP 按鈕</string>
     <string name="back_play">背景播放</string>
     <string name="back_play_info">根據 YouTube 政策，不支援 YouTube 背景播放</string>
     <string name="normal_rate">正常</string>

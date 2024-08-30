@@ -449,6 +449,8 @@
     <string name="show_image_info">Відображення зображень веб-сторінки.</string>
     <string name="video_download">Завантажити Відео</string>
     <string name="video_manager">Кнопка менеджера відео</string>
+    <string name="youtube_manager">Кнопка менеджера YouTube</string>
+    <string name="play_speed">Швидкість відтворення</string>
     <string name="two_finger">(Два пальці)</string>
     <string name="two_finger_info_1">Щоб перемістити вкладку, проведіть двома пальцями вліво і вправо.</string>
     <string name="two_finger_info_2">Щоб закрити вкладку, проведіть вниз двома пальцями.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Пряме введення</string>
     <string name="direct_select">Прямий вибір</string>
     <string name="added">Додано</string>
+    <string name="do_change">Зміна</string>
     <string name="changed">Змінено</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Повідомити про помилку</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Вкажіть, будь ласка, адресу веб-сайту, на якому неможливо завантажити відео.</string>
     <string name="insta_down">Щоб безперешкодно завантажувати відео з Instagram,\nвам потрібно ввійти в Instagram.</string>
     <string name="youtube_unmute">Увімкнути YouTube</string>
-    <string name="youtube_speed">Збережіть швидкість відтворення YouTube</string>
     <string name="youtube_auto">Автозапуск YouTube</string>
-    <string name="youtube_pip">Кнопка YouTube PIP</string>
     <string name="back_play">Фонове відтворення</string>
     <string name="back_play_info">Через політику YouTube відтворення фонового режиму YouTube не підтримується.</string>
     <string name="normal_rate">Нормальний</string>

@@ -448,7 +448,9 @@
     <string name="start_page">Startseite</string>
     <string name="show_image_info">Bildinformationen anzeigen.</string>
     <string name="video_download">Video Herunterladen</string>
-    <string name="video_manager">Schaltfläche „Videomanager“.</string>
+    <string name="video_manager">Schaltfläche Videomanager</string>
+    <string name="youtube_manager">Schaltfläche YouTube-Manager</string>
+    <string name="play_speed">Wiedergabegeschwindigkeit</string>
     <string name="two_finger">(Zwei Finger)</string>
     <string name="two_finger_info_1">Streichen Sie mit zwei Fingern nach links und rechts, um der Tab zu verschieben.</string>
     <string name="two_finger_info_2">Wischen Sie mit zwei Fingern nach unten, um der Tab zu entfernen.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Direkte Eingabe</string>
     <string name="direct_select">Direkte Auswahl</string>
     <string name="added">Hinzugefügt</string>
+    <string name="do_change">Ändern</string>
     <string name="changed">Geändert</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Fehler melden</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Bitte geben Sie die Adresse der Seite an, auf der das Video nicht heruntergeladen werden kann.</string>
     <string name="insta_down">Um Instagram-Videos reibungslos herunterzuladen,\nmüssen Sie sich bei Instagram anmelden.</string>
     <string name="youtube_unmute">Stummschaltung von YouTube aufheben</string>
-    <string name="youtube_speed">Speichern Sie die YouTube-Wiedergabegeschwindigkeit</string>
     <string name="youtube_auto">YouTube-Autoplay</string>
-    <string name="youtube_pip">YouTube-PIP-Schaltfläche</string>
     <string name="back_play">Hintergrundwiedergabe</string>
     <string name="back_play_info">Aufgrund der YouTube-Richtlinie wird die Wiedergabe im Hintergrund nicht unterstützt.</string>
     <string name="normal_rate">Normal</string>

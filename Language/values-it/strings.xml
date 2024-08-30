@@ -449,6 +449,8 @@
     <string name="show_image_info">Visualizza un\'immagine di una pagina web.</string>
     <string name="video_download">Scarica Video</string>
     <string name="video_manager">Pulsante Gestione video</string>
+    <string name="youtube_manager">Pulsante del gestore di YouTube</string>
+    <string name="play_speed">Velocità di riproduzione</string>
     <string name="two_finger">(Due dita)</string>
     <string name="two_finger_info_1">Scorri a sinistra e a destra con due dita per spostare le schede.</string>
     <string name="two_finger_info_2">Scorri verso il basso con due dita per rimuovere la schede.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Input diretto</string>
     <string name="direct_select">Selezione diretta</string>
     <string name="added">Aggiunto</string>
+    <string name="do_change">Modifica</string>
     <string name="changed">Cambiato</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Segnala errore</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Fornisci l\'indirizzo del sito in cui non è possibile scaricare il video.</string>
     <string name="insta_down">Per scaricare i video di Instagram senza problemi,\ndevi accedere a Instagram.</string>
     <string name="youtube_unmute">Riattiva YouTube</string>
-    <string name="youtube_speed">Salva la velocità di riproduzione di YouTube</string>
     <string name="youtube_auto">Riproduzione automatica di YouTube</string>
-    <string name="youtube_pip">Pulsante PIP di YouTube</string>
     <string name="back_play">Riproduzione in background</string>
     <string name="back_play_info">A causa delle norme di YouTube, la riproduzione in background di YouTube non è supportata.</string>
     <string name="normal_rate">Normale</string>

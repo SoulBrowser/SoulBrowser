@@ -449,6 +449,8 @@
     <string name="show_image_info">Tampilkan gambar halaman web.</string>
     <string name="video_download">Unduh Video</string>
     <string name="video_manager">Tombol pengelola video</string>
+    <string name="youtube_manager">Tombol pengelola YouTube</string>
+    <string name="play_speed">Kecepatan pemutaran</string>
     <string name="two_finger">(Dua jari)</string>
     <string name="two_finger_info_1">Geser ke kiri dan kanan dengan dua jari untuk memindahkan tab.</string>
     <string name="two_finger_info_2">Geser ke bawah dengan dua jari untuk menghapus tab.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Masukan langsung</string>
     <string name="direct_select">Seleksi langsung</string>
     <string name="added">Ditambahkan</string>
+    <string name="do_change">Mengubah</string>
     <string name="changed">Berubah</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Laporan kesalahan</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Harap berikan alamat situs tempat Anda tidak dapat mengunduh video.</string>
     <string name="insta_down">Untuk mendownload video Instagram dengan lancar,\nAnda perlu login ke Instagram.</string>
     <string name="youtube_unmute">Suarakan YouTube</string>
-    <string name="youtube_speed">Hemat kecepatan pemutaran YouTube</string>
     <string name="youtube_auto">Putar otomatis YouTube</string>
-    <string name="youtube_pip">Tombol PIP YouTube</string>
     <string name="back_play">Pemutaran latar belakang</string>
     <string name="back_play_info">Karena kebijakan YouTube, pemutaran latar belakang YouTube tidak didukung.</string>
     <string name="normal_rate">Normal</string>

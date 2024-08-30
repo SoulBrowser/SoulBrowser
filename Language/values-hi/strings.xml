@@ -449,6 +449,8 @@
     <string name="show_image_info">एक वेबपेज की छवियों को प्रदर्शित करें।</string>
     <string name="video_download">वीडियो डाउनलोड करें J</string>
     <string name="video_manager">वीडियो प्रबंधक बटन</string>
+    <string name="youtube_manager">यूट्यूब प्रबंधक बटन</string>
+    <string name="play_speed">प्लेबैक गति</string>
     <string name="two_finger">(दो उंगलियाँ)</string>
     <string name="two_finger_info_1">टैब को स्थानांतरित करने के लिए दो अंगुलियों से बाएं और दाएं स्वाइप करें।</string>
     <string name="two_finger_info_2">टैब निकालने के लिए दो अंगुलियों से नीचे की ओर स्वाइप करें.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">प्रत्यक्ष निवेश</string>
     <string name="direct_select">प्रत्यक्ष चयन</string>
     <string name="added">जोड़ा</string>
+    <string name="do_change">परिवर्तन</string>
     <string name="changed">बदला हुआ</string>
     <string name="vpn">डीएनएस</string>
     <string name="report_error">त्रुटि की रिपोर्ट करें</string>
@@ -558,9 +561,7 @@
     <string name="report_down">कृपया उस साइट का पता प्रदान करें जहां वीडियो डाउनलोड नहीं किया जा सकता है।</string>
     <string name="insta_down">इंस्टाग्राम वीडियो को आसानी से डाउनलोड करने के लिए आपको इंस्टाग्राम पर लॉग इन करना होगा।</string>
     <string name="youtube_unmute">YouTube अनम्यूट करें</string>
-    <string name="youtube_speed">YouTube प्लेबैक गति बचाएं</string>
     <string name="youtube_auto">यूट्यूब ऑटोप्ले</string>
-    <string name="youtube_pip">यूट्यूब पीआईपी बटन</string>
     <string name="back_play">पृष्ठभूमि प्लेबैक</string>
     <string name="back_play_info">YouTube नीति के कारण, YouTube पृष्ठभूमि प्लेबैक समर्थित नहीं है।</string>
     <string name="normal_rate">सामान्य</string>

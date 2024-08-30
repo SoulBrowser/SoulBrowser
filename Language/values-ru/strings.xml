@@ -449,6 +449,8 @@
     <string name="show_image_info">Показывать изображения веб-страницы.</string>
     <string name="video_download">Скачать Видео</string>
     <string name="video_manager">Кнопка менеджера видео</string>
+    <string name="youtube_manager">Кнопка менеджера YouTube</string>
+    <string name="play_speed">Скорость воспроизведения</string>
     <string name="two_finger">(Два пальца)</string>
     <string name="two_finger_info_1">Проведите двумя пальцами влево и вправо для переключения вкладок.</string>
     <string name="two_finger_info_2">Проведите двумя пальцами вниз, чтобы закрыть вкладку.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Прямой ввод</string>
     <string name="direct_select">Прямой выбор</string>
     <string name="added">Добавлено</string>
+    <string name="do_change">Изменять</string>
     <string name="changed">Изменено</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Сообщить об ошибке</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Пожалуйста, укажите адрес сайта, где Вы не можете скачать видео.</string>
     <string name="insta_down">Чтобы беспрепятственно загружать видео из Instagram,\nвам необходимо войти в Instagram.</string>
     <string name="youtube_unmute">Включить YouTube</string>
-    <string name="youtube_speed">Сохранить скорость воспроизведения YouTube</string>
     <string name="youtube_auto">Автозапуск YouTube</string>
-    <string name="youtube_pip">Кнопка YouTube PIP</string>
     <string name="back_play">Фоновое воспроизведение</string>
     <string name="back_play_info">Из-за политики YouTube фоновое воспроизведение YouTube не поддерживается.</string>
     <string name="normal_rate">Обычный</string>

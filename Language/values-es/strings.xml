@@ -449,6 +449,8 @@
     <string name="show_image_info">Mostrar una imagen de una página web.</string>
     <string name="video_download">Descargar Video</string>
     <string name="video_manager">Botón del administrador de vídeos</string>
+    <string name="youtube_manager">Botón de administrador de YouTube</string>
+    <string name="play_speed">Velocidad de reproducción</string>
     <string name="two_finger">(Dos dedos)</string>
     <string name="two_finger_info_1">Deslice hacia la izquierda y hacia la derecha con dos dedos para mover las pestañas.</string>
     <string name="two_finger_info_2">Deslice hacia abajo con dos dedos para quitar la pestaña.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Entrada directa</string>
     <string name="direct_select">Selección directa</string>
     <string name="added">Agregado</string>
+    <string name="do_change">Cambiar</string>
     <string name="changed">Cambiado</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Informar error</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Proporcione la dirección del sitio donde no puede descargar el video.</string>
     <string name="insta_down">Para descargar videos de Instagram sin problemas,\ndebe iniciar sesión en Instagram.</string>
     <string name="youtube_unmute">No silenciar YouTube</string>
-    <string name="youtube_speed">Guardar la velocidad de reproducción de YouTube</string>
     <string name="youtube_auto">Reproducción automática de YouTube</string>
-    <string name="youtube_pip">Botón PIP de YouTube</string>
     <string name="back_play">Reproducción de fondo</string>
     <string name="back_play_info">Debido a la política de YouTube, la reproducción en segundo plano de YouTube no es compatible.</string>
     <string name="normal_rate">Normal</string>

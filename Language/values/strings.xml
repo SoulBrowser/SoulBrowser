@@ -449,6 +449,8 @@
     <string name="show_image_info">Display images of a webpage.</string>
     <string name="video_download">Download Video</string>
     <string name="video_manager">Video manager button</string>
+    <string name="youtube_manager">YouTube manager button</string>
+    <string name="play_speed">Playback speed</string>
     <string name="two_finger">(Two fingers)</string>
     <string name="two_finger_info_1">Swipe left and right with two fingers to move tab.</string>
     <string name="two_finger_info_2">Swipe down with two fingers to remove tab.</string>
@@ -551,6 +553,7 @@
     <string name="direct_input">Direct input</string>
     <string name="direct_select">Direct selection</string>
     <string name="added">Added</string>
+    <string name="do_change">Change</string>
     <string name="changed">Changed</string>
     <string name="vpn">DNS</string>
     <string name="report_error">Report error</string>
@@ -558,9 +561,7 @@
     <string name="report_down">Please provide the address of the site where the video can not be downloaded.</string>
     <string name="insta_down">To download Instagram videos smoothly,\nyou need to log in to Instagram.</string>
     <string name="youtube_unmute">Unmute YouTube</string>
-    <string name="youtube_speed">Save YouTube playback speed</string>
     <string name="youtube_auto">YouTube autoplay</string>
-    <string name="youtube_pip">YouTube PIP button</string>
     <string name="back_play">Background playback</string>
     <string name="back_play_info">Due to YouTube policy, YouTube background playback is not supported.</string>
     <string name="normal_rate">Normal</string>
