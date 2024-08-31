@@ -561,6 +561,7 @@
     <string name="report_down">โปรดระบุที่อยู่ของเว็บไซต์ที่คุณไม่สามารถดาวน์โหลดวิดีโอได้</string>
     <string name="insta_down">หากต้องการดาวน์โหลดวิดีโอ Instagram ได้อย่างราบรื่น คุณต้องเข้าสู่ระบบ Instagram</string>
     <string name="youtube_unmute">เปิดเสียง YouTube</string>
+    <string name="youtube_speed">บันทึกความเร็วในการเล่น</string>
     <string name="youtube_auto">เล่นอัตโนมัติของ YouTube</string>
     <string name="back_play">การเล่นพื้นหลัง</string>
     <string name="back_play_info">เนื่องจากนโยบายของ YouTube จึงไม่รองรับการเล่นพื้นหลังของ YouTube</string>

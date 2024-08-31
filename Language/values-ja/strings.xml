@@ -561,6 +561,7 @@
     <string name="report_down">動画をダウンロードすることができないサイトのアドレスを教えてください。</string>
     <string name="insta_down">Instagramの動画をシームレスにダウンロードするには、\nInstagramにログインする必要があります。</string>
     <string name="youtube_unmute">YouTubeのミュートを解除</string>
+    <string name="youtube_speed">再生速度を保存</string>
     <string name="youtube_auto">YouTubeの自動再生</string>
     <string name="back_play">バックグラウンド再生</string>
     <string name="back_play_info">YouTubeのポリシーにより、YouTubeのバックグラウンド再生はサポートされていません。</string>

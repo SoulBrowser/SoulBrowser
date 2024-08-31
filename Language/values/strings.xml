@@ -561,6 +561,7 @@
     <string name="report_down">Please provide the address of the site where the video can not be downloaded.</string>
     <string name="insta_down">To download Instagram videos smoothly,\nyou need to log in to Instagram.</string>
     <string name="youtube_unmute">Unmute YouTube</string>
+    <string name="youtube_speed">Save playback speed</string>
     <string name="youtube_auto">YouTube autoplay</string>
     <string name="back_play">Background playback</string>
     <string name="back_play_info">Due to YouTube policy, YouTube background playback is not supported.</string>

@@ -561,6 +561,7 @@
     <string name="report_down">Vui lòng cung cấp địa chỉ của trang web nơi bạn không thể tải xuống video.</string>
     <string name="insta_down">Để tải video Instagram một cách mượt mà,\nbạn cần đăng nhập vào Instagram.</string>
     <string name="youtube_unmute">Bật tiếng YouTube</string>
+    <string name="youtube_speed">Tiết kiệm tốc độ phát lại</string>
     <string name="youtube_auto">Tự động phát trên YouTube</string>
     <string name="back_play">Phát lại nền</string>
     <string name="back_play_info">Do chính sách của YouTube, phát lại nền YouTube không được hỗ trợ.</string>

@@ -561,6 +561,7 @@
     <string name="report_down">Пожалуйста, укажите адрес сайта, где Вы не можете скачать видео.</string>
     <string name="insta_down">Чтобы беспрепятственно загружать видео из Instagram,\nвам необходимо войти в Instagram.</string>
     <string name="youtube_unmute">Включить YouTube</string>
+    <string name="youtube_speed">Сохранение скорости воспроизведения</string>
     <string name="youtube_auto">Автозапуск YouTube</string>
     <string name="back_play">Фоновое воспроизведение</string>
     <string name="back_play_info">Из-за политики YouTube фоновое воспроизведение YouTube не поддерживается.</string>

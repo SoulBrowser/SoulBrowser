@@ -561,6 +561,7 @@
     <string name="report_down">Fornisci l\'indirizzo del sito in cui non è possibile scaricare il video.</string>
     <string name="insta_down">Per scaricare i video di Instagram senza problemi,\ndevi accedere a Instagram.</string>
     <string name="youtube_unmute">Riattiva YouTube</string>
+    <string name="youtube_speed">Salva la velocità di riproduzione</string>
     <string name="youtube_auto">Riproduzione automatica di YouTube</string>
     <string name="back_play">Riproduzione in background</string>
     <string name="back_play_info">A causa delle norme di YouTube, la riproduzione in background di YouTube non è supportata.</string>

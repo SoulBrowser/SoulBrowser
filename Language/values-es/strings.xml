@@ -561,6 +561,7 @@
     <string name="report_down">Proporcione la dirección del sitio donde no puede descargar el video.</string>
     <string name="insta_down">Para descargar videos de Instagram sin problemas,\ndebe iniciar sesión en Instagram.</string>
     <string name="youtube_unmute">No silenciar YouTube</string>
+    <string name="youtube_speed">Guardar velocidad de reproducción</string>
     <string name="youtube_auto">Reproducción automática de YouTube</string>
     <string name="back_play">Reproducción de fondo</string>
     <string name="back_play_info">Debido a la política de YouTube, la reproducción en segundo plano de YouTube no es compatible.</string>

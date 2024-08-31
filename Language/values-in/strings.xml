@@ -561,6 +561,7 @@
     <string name="report_down">Harap berikan alamat situs tempat Anda tidak dapat mengunduh video.</string>
     <string name="insta_down">Untuk mendownload video Instagram dengan lancar,\nAnda perlu login ke Instagram.</string>
     <string name="youtube_unmute">Suarakan YouTube</string>
+    <string name="youtube_speed">Hemat kecepatan pemutaran</string>
     <string name="youtube_auto">Putar otomatis YouTube</string>
     <string name="back_play">Pemutaran latar belakang</string>
     <string name="back_play_info">Karena kebijakan YouTube, pemutaran latar belakang YouTube tidak didukung.</string>

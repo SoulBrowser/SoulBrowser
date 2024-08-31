@@ -561,6 +561,7 @@
     <string name="report_down">Veuillez fournir l\'adresse du site dont vous ne pouvez pas télécharger la vidéo.</string>
     <string name="insta_down">Pour télécharger des vidéos Instagram en douceur,\nvous devez vous connecter à Instagram.</string>
     <string name="youtube_unmute">Activer YouTube</string>
+    <string name="youtube_speed">Enregistrer la vitesse de lecture</string>
     <string name="youtube_auto">Lecture automatique YouTube</string>
     <string name="back_play">Lecture en arrière plan</string>
     <string name="back_play_info">En raison de la politique de YouTube, la lecture en arrière plan de YouTube n\'est pas prise en charge.</string>

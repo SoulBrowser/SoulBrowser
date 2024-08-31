@@ -561,6 +561,7 @@
     <string name="report_down">कृपया उस साइट का पता प्रदान करें जहां वीडियो डाउनलोड नहीं किया जा सकता है।</string>
     <string name="insta_down">इंस्टाग्राम वीडियो को आसानी से डाउनलोड करने के लिए आपको इंस्टाग्राम पर लॉग इन करना होगा।</string>
     <string name="youtube_unmute">YouTube अनम्यूट करें</string>
+    <string name="youtube_speed">प्लेबैक गति सहेजें</string>
     <string name="youtube_auto">यूट्यूब ऑटोप्ले</string>
     <string name="back_play">पृष्ठभूमि प्लेबैक</string>
     <string name="back_play_info">YouTube नीति के कारण, YouTube पृष्ठभूमि प्लेबैक समर्थित नहीं है।</string>

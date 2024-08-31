@@ -561,6 +561,7 @@
     <string name="report_down">Podaj adres strony, z której nie można pobrać filmu.</string>
     <string name="insta_down">Aby płynnie pobierać filmy z Instagrama,\nmusisz zalogować się na Instagram.</string>
     <string name="youtube_unmute">Wyłącz wyciszenie YouTube</string>
+    <string name="youtube_speed">Zapisz prędkość odtwarzania</string>
     <string name="youtube_auto">Autoodtwarzanie w YouTube</string>
     <string name="back_play">Odtwarzanie w tle</string>
     <string name="back_play_info">Ze względu na zasady YouTube odtwarzanie w tle YouTube nie jest obsługiwane.</string>

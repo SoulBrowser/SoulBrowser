@@ -561,6 +561,7 @@
     <string name="report_down">Forneça o endereço do site onde você não pode baixar o vídeo.</string>
     <string name="insta_down">Para baixar vídeos do Instagram sem problemas,\nvocê precisa fazer login no Instagram.</string>
     <string name="youtube_unmute">Ativar o som do YouTube</string>
+    <string name="youtube_speed">Guardar velocidade de reprodução</string>
     <string name="youtube_auto">Reprodução automática do YouTube</string>
     <string name="back_play">Reprodução em segundo plano</string>
     <string name="back_play_info">Devido à política do YouTube, a reprodução em segundo plano do YouTube não é suportada.</string>

@@ -561,6 +561,7 @@
     <string name="report_down">Lütfen videoyu indiremediğiniz sitenin adresini belirtin.</string>
     <string name="insta_down">Instagram videolarını sorunsuz bir şekilde indirmek için Instagram’a giriş yapmanız gerekmektedir.</string>
     <string name="youtube_unmute">YouTube\'un sesini aç</string>
+    <string name="youtube_speed">Oynatma hızından tasarruf edin</string>
     <string name="youtube_auto">YouTube otomatik oynatma</string>
     <string name="back_play">Arka planda oynatma</string>
     <string name="back_play_info">YouTube politikası nedeniyle, YouTube arka plan oynatımı desteklenmiyor.</string>

@@ -561,6 +561,7 @@
     <string name="report_down">请提供无法下载视频的网站地址</string>
     <string name="insta_down">要顺利下载 Instagram 视频，\n您需要登录 Instagram</string>
     <string name="youtube_unmute">取消静音 YouTube</string>
+    <string name="youtube_speed">保存播放速度</string>
     <string name="youtube_auto">YouTube 自动播放</string>
     <string name="back_play">后台播放</string>
     <string name="back_play_info">根据 YouTube 政策，不支持 YouTube 后台播放</string>

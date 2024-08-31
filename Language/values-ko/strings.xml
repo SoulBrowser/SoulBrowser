@@ -561,6 +561,7 @@
     <string name="report_down">동영상을 다운로드할 수 없는 사이트의 주소를 알려주세요.</string>
     <string name="insta_down">인스타그램 동영상을 원활하게 다운로드하려면,\n인스타그램에 로그인해야 합니다.</string>
     <string name="youtube_unmute">YouTube 음소거 해제</string>
+    <string name="youtube_speed">재생 속도 저장</string>
     <string name="youtube_auto">YouTube 자동 재생</string>
     <string name="back_play">백그라운드 재생</string>
     <string name="back_play_info">YouTube 정책에 의해, YouTube 백그라운드 재생은 지원되지 않습니다.</string>

@@ -561,6 +561,7 @@
     <string name="report_down">Vă rugăm să furnizați adresa site-ului unde videoclipul nu poate fi descărcat.</string>
     <string name="insta_down">Pentru a descărca fără probleme videoclipuri Instagram,\ntrebuie să vă conectați la Instagram.</string>
     <string name="youtube_unmute">Activați sunetul YouTube</string>
+    <string name="youtube_speed">Salvați viteza de redare</string>
     <string name="youtube_auto">Redare automată YouTube</string>
     <string name="back_play">Redare fundal</string>
     <string name="back_play_info">Datorită politicii YouTube, redarea pe fundalul YouTube nu este acceptată.</string>

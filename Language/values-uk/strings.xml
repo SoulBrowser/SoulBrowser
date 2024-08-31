@@ -561,6 +561,7 @@
     <string name="report_down">Вкажіть, будь ласка, адресу веб-сайту, на якому неможливо завантажити відео.</string>
     <string name="insta_down">Щоб безперешкодно завантажувати відео з Instagram,\nвам потрібно ввійти в Instagram.</string>
     <string name="youtube_unmute">Увімкнути YouTube</string>
+    <string name="youtube_speed">Збережіть швидкість відтворення</string>
     <string name="youtube_auto">Автозапуск YouTube</string>
     <string name="back_play">Фонове відтворення</string>
     <string name="back_play_info">Через політику YouTube відтворення фонового режиму YouTube не підтримується.</string>

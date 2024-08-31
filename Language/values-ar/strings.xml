@@ -561,6 +561,7 @@
     <string name="report_down">يرجى تقديم عنوان الموقع حيث لا يمكن تنزيل الفيديو.</string>
     <string name="insta_down">لتنزيل مقاطع فيديو Instagram بسلاسة، تحتاج إلى تسجيل الدخول إلى Instagram.</string>
     <string name="youtube_unmute">إعادة صوت YouTube</string>
+    <string name="youtube_speed">حفظ سرعة التشغيل</string>
     <string name="youtube_auto">يوتيوب التشغيل التلقائي</string>
     <string name="back_play">تشغيل في الخلفية</string>
     <string name="back_play_info">لا تدعم سياسة YouTube تشغيل الخلفية في YouTube.</string>
