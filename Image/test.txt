@@ -67,6 +67,8 @@ a|wu=|https://noonoo.tv/|rus|https://noonoo-images.studiouniversal.net/banner/
 a|wus|https://noonoo.tv/?|rus|https://noonoo-images.studiouniversal.net/banner/
 a|wu=|https://noonoo.tv/|rus|https://images.nstatic.org/banner/
 a|wus|https://noonoo.tv/?|rus|https://images.nstatic.org/banner/
+a|whe|postype.com|rhe|cloudfront.net
+a|whe|postype.com|rhe|googletagmanager.com
 //rg
 a|ruc|main_mobileweb
 a|ruc|open_popup_mobileweb
