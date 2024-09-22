@@ -638,6 +638,7 @@
     <string name="stop_icon">Nút dừng</string>
     <string name="stop_icon_info">Xuất hiện trên màn hình trong khi giọng nói đang phát.</string>
     <string name="long_move_guide">Bạn có thể di chuyển bằng cách nhấn và giữ nút.</string>
+    <string name="drag_move_guide">Bạn có thể di chuyển nó bằng cách kéo nút.</string>
     <string name="not_support_device">Không được hỗ trợ trên thiết bị này.</string>
     <string name="drag_seek">Điều hướng màn hình bằng cách chạm</string>
     <string name="drag_seek_info">Kéo màn hình sang trái hoặc phải để điều hướng màn hình.</string>

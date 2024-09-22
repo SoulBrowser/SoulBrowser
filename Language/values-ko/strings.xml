@@ -638,6 +638,7 @@
     <string name="stop_icon">정지 버튼</string>
     <string name="stop_icon_info">음성이 재생되는 동안 화면에 나타납니다.</string>
     <string name="long_move_guide">버튼을 길게 눌러 이동할 수 있습니다.</string>
+    <string name="drag_move_guide">버튼을 드래그하여 이동할 수 있습니다.</string>
     <string name="not_support_device">이 디바이스에서는 지원되지 않습니다.</string>
     <string name="drag_seek">터치로 화면 탐색</string>
     <string name="drag_seek_info">화면을 좌우로 드래그해서 화면을 탐색합니다.</string>

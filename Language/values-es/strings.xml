@@ -638,6 +638,7 @@
     <string name="stop_icon">Botón detener</string>
     <string name="stop_icon_info">Aparece en la pantalla mientras se reproduce la voz.</string>
     <string name="long_move_guide">Puede moverse manteniendo presionado el botón.</string>
+    <string name="drag_move_guide">Puedes moverlo arrastrando el botón.</string>
     <string name="not_support_device">No es compatible con este dispositivo.</string>
     <string name="drag_seek">Navegación por pantalla táctil</string>
     <string name="drag_seek_info">Arrastre la pantalla hacia la izquierda o hacia la derecha para navegar por la pantalla.</string>

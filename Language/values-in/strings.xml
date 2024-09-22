@@ -638,6 +638,7 @@
     <string name="stop_icon">Tombol berhenti</string>
     <string name="stop_icon_info">Muncul di layar saat suara diputar</string>
     <string name="long_move_guide">Anda dapat bergerak dengan menekan dan menahan tombol.</string>
+    <string name="drag_move_guide">Anda dapat memindahkannya dengan menyeret tombol.</string>
     <string name="not_support_device">Tidak didukung pada perangkat ini.</string>
     <string name="drag_seek">Navigasi layar dengan sentuhan</string>
     <string name="drag_seek_info">Seret layar ke kiri atau kanan untuk menavigasi layar.</string>

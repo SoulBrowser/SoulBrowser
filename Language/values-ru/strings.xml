@@ -638,6 +638,7 @@
     <string name="stop_icon">Кнопка остановки</string>
     <string name="stop_icon_info">Появляется на экране во время воспроизведения голоса.</string>
     <string name="long_move_guide">Кнопку можно перемещать по экрану долгим нажатием.</string>
+    <string name="drag_move_guide">Вы можете переместить его, перетащив кнопку.</string>
     <string name="not_support_device">Не поддерживается на этом устройстве.</string>
     <string name="drag_seek">Сенсорная навигация по экрану</string>
     <string name="drag_seek_info">Проведите влево или вправо для перемотки.</string>

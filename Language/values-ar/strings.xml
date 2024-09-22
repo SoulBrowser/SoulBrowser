@@ -638,6 +638,7 @@
     <string name="stop_icon">زر التوقف</string>
     <string name="stop_icon_info">يظهر على الشاشة أثناء تشغيل الصوت.</string>
     <string name="long_move_guide">يمكنك التحرك بالضغط مع الاستمرار على الزر.</string>
+    <string name="drag_move_guide">يمكنك تحريكه عن طريق سحب الزر.</string>
     <string name="not_support_device">ليست مدعمة علي هذا الجهاز.</string>
     <string name="drag_seek">التنقل على الشاشة عن طريق اللمس</string>
     <string name="drag_seek_info">اسحب الشاشة إلى اليسار أو اليمين للتنقل على الشاشة.</string>

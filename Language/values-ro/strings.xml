@@ -638,6 +638,7 @@
     <string name="stop_icon">Buton de oprire</string>
     <string name="stop_icon_info">Apare pe ecran în timp ce se redă vocea.</string>
     <string name="long_move_guide">Vă puteți deplasa apăsând și apăsat butonul.</string>
+    <string name="drag_move_guide">Îl poți muta trăgând butonul.</string>
     <string name="not_support_device">Nu este acceptat pe acest dispozitiv.</string>
     <string name="drag_seek">Navigare pe ecran prin atingere</string>
     <string name="drag_seek_info">Trageți ecranul spre stânga sau spre dreapta pentru a naviga pe ecran.</string>

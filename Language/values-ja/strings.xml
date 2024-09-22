@@ -638,6 +638,7 @@
     <string name="stop_icon">停止ボタン</string>
     <string name="stop_icon_info">音声の再生中に画面に表示されます。</string>
     <string name="long_move_guide">ボタンを長押しして移動できます。</string>
+    <string name="drag_move_guide">ボタンをドラッグして移動できます。</string>
     <string name="not_support_device">この装置ではサポートされていません。</string>
     <string name="drag_seek">タッチで画面のナビゲーション</string>
     <string name="drag_seek_info">画面を左右にドラッグして画面を移動します。</string>

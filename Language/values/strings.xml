@@ -638,6 +638,7 @@
     <string name="stop_icon">Stop button</string>
     <string name="stop_icon_info">Appears on the screen while the voice is playing.</string>
     <string name="long_move_guide">You can move by pressing and holding the button.</string>
+    <string name="drag_move_guide">You can move the button by dragging it.</string>
     <string name="not_support_device">Not supported on this device.</string>
     <string name="drag_seek">Screen navigation by touch</string>
     <string name="drag_seek_info">Drag the screen left or right to navigate the screen.</string>

@@ -638,6 +638,7 @@
     <string name="stop_icon">स्टॉप बटन</string>
     <string name="stop_icon_info">आवाज बजने पर स्क्रीन पर दिखाई देता है।</string>
     <string name="long_move_guide">आप बटन को दबाकर रख कर आगे बढ़ सकते हैं।</string>
+    <string name="drag_move_guide">आप बटन को खींचकर इसे स्थानांतरित कर सकते हैं।</string>
     <string name="not_support_device">इस डिवाइस पर समर्थित नहीं है।</string>
     <string name="drag_seek">स्पर्श द्वारा स्क्रीन नेविगेशन</string>
     <string name="drag_seek_info">स्क्रीन पर नेविगेट करने के लिए स्क्रीन को बाएँ या दाएँ खींचें।</string>

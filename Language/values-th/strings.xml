@@ -638,6 +638,7 @@
     <string name="stop_icon">ปุ่มหยุด</string>
     <string name="stop_icon_info">ปรากฏขึ้นบนหน้าจอขณะที่กำลังเล่นเสียง</string>
     <string name="long_move_guide">คุณสามารถย้ายโดยกดปุ่มค้างไว้</string>
+    <string name="drag_move_guide">คุณสามารถย้ายได้โดยการลากปุ่ม</string>
     <string name="not_support_device">ไม่รองรับอุปกรณ์นี้</string>
     <string name="drag_seek">การนำทางหน้าจอด้วยการสัมผัส</string>
     <string name="drag_seek_info">ลากหน้าจอไปทางซ้ายหรือขวาเพื่อนำทางหน้าจอ</string>

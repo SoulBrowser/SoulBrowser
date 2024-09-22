@@ -638,6 +638,7 @@
     <string name="stop_icon">Botão de parada</string>
     <string name="stop_icon_info">Aparece na tela enquanto a voz está tocando.</string>
     <string name="long_move_guide">Você pode mover pressionando e segurando o botão.</string>
+    <string name="drag_move_guide">Pode movê-lo arrastando o botão.</string>
     <string name="not_support_device">Não suportado neste dispositivo.</string>
     <string name="drag_seek">Navegação na tela por toque</string>
     <string name="drag_seek_info">Arraste a tela para a esquerda ou direita para navegar na tela.</string>

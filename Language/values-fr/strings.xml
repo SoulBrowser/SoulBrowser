@@ -638,6 +638,7 @@
     <string name="stop_icon">Bouton d\'arrêt</string>
     <string name="stop_icon_info">Apparaît à l\'écran pendant la lecture de la voix.</string>
     <string name="long_move_guide">Vous pouvez vous déplacer en appuyant longuement sur le bouton.</string>
+    <string name="drag_move_guide">Vous pouvez le déplacer en faisant glisser le bouton.</string>
     <string name="not_support_device">Non pris en charge sur cet appareil.</string>
     <string name="drag_seek">Navigation par écran tactile</string>
     <string name="drag_seek_info">Faites glisser l\'écran vers la gauche ou la droite pour parcourir l\'écran.</string>

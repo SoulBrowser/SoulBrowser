@@ -638,6 +638,7 @@
     <string name="stop_icon">Durdurma düğmesi</string>
     <string name="stop_icon_info">Ses çalarken ekranda belirir.</string>
     <string name="long_move_guide">Düğmeye basılı tutarak hareket edebilirsiniz.</string>
+    <string name="drag_move_guide">Düğmeyi sürükleyerek taşıyabilirsiniz.</string>
     <string name="not_support_device">Bu cihazda desteklenmiyor.</string>
     <string name="drag_seek">Dokunarak ekran navigasyonu</string>
     <string name="drag_seek_info">Ekranda gezinmek için ekranı sola veya sağa sürükleyin.</string>
