@@ -619,7 +619,6 @@
     <string name="setted">設定されています。</string>
     <string name="no_down_video">ダウンロード可能なビデオがありません。</string>
     <string name="video_link_1">動画リンクが見つかりません。</string>
-    <string name="video_link_2">リンクをコピーして直接入れてください。</string>
     <string name="trans_report">翻訳エラーを報告</string>
     <string name="trans_report_info">翻訳を助けてください。 ❤</string>
     <string name="trans_report_guide">[誤った翻訳] &#62; [正しい翻訳]</string>

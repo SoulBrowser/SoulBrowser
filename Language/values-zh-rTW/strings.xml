@@ -619,7 +619,6 @@
     <string name="setted">已設定</string>
     <string name="no_down_video">沒有可下載的影片</string>
     <string name="video_link_1">找不到視頻鏈接</string>
-    <string name="video_link_2">請複制鏈接並直接粘貼</string>
     <string name="trans_report">回報錯誤翻譯</string>
     <string name="trans_report_info">請幫忙翻譯 ❤</string>
     <string name="trans_report_guide">[錯誤的翻譯] &#62; [正確的翻譯]</string>

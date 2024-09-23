@@ -619,7 +619,6 @@
     <string name="setted">Has been set.</string>
     <string name="no_down_video">There are no downloadable videos.</string>
     <string name="video_link_1">Video link not found.</string>
-    <string name="video_link_2">Please copy the link and put it directly.</string>
     <string name="trans_report">Report translation errors</string>
     <string name="trans_report_info">Please help translate. ❤</string>
     <string name="trans_report_guide">[Incorrect translation] &#62; [Correct translation]</string>

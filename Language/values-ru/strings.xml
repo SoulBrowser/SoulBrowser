@@ -619,7 +619,6 @@
     <string name="setted">Установлено.</string>
     <string name="no_down_video">Нет загружаемых видео.</string>
     <string name="video_link_1">Ссылка на видео не найдена.</string>
-    <string name="video_link_2">Пожалуйста, скопируйте ссылку и поместите ее прямо.</string>
     <string name="trans_report">Сообщить об ошибках перевода</string>
     <string name="trans_report_info">Пожалуйста, помогите перевести. ❤</string>
     <string name="trans_report_guide">[Неверный перевод] &#62; [Правильный перевод]</string>

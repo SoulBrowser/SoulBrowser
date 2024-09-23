@@ -619,7 +619,6 @@
     <string name="setted">ได้มีการตั้งค่า</string>
     <string name="no_down_video">ไม่มีวิดีโอที่สามารถดาวน์โหลดได้</string>
     <string name="video_link_1">ไม่พบลิงค์วิดีโอ</string>
-    <string name="video_link_2">กรุณาคัดลอกลิงค์และใส่โดยตรง</string>
     <string name="trans_report">รายงานข้อผิดพลาดการแปล</string>
     <string name="trans_report_info">โปรดช่วยแปล ❤</string>
     <string name="trans_report_guide">[แปลไม่ถูกต้อง] &#62; [แปลถูกต้อง]</string>

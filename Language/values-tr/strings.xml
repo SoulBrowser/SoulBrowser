@@ -619,7 +619,6 @@
     <string name="setted">Ayarlandı.</string>
     <string name="no_down_video">İndirilebilir video yok.</string>
     <string name="video_link_1">Video bağlantısı bulunamadı.</string>
-    <string name="video_link_2">Lütfen bağlantıyı kopyalayın ve doğrudan koyun.</string>
     <string name="trans_report">Çeviri hatalarını bildirin</string>
     <string name="trans_report_info">Lütfen çeviriye yardım edin. ❤</string>
     <string name="trans_report_guide">[Yanlış çeviri] &#62; [Doğru çeviri]</string>

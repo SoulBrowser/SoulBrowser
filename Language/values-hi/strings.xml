@@ -619,7 +619,6 @@
     <string name="setted">सेट कर दिया गया है।</string>
     <string name="no_down_video">कोई डाउनलोड करने योग्य वीडियो नहीं हैं।</string>
     <string name="video_link_1">वीडियो लिंक नहीं मिला.</string>
-    <string name="video_link_2">कृपया लिंक को कॉपी करें और सीधे डालें।</string>
     <string name="trans_report">अनुवाद त्रुटियों की रिपोर्ट करें</string>
     <string name="trans_report_info">कृपया अनुवाद करने में सहायता करें। ❤</string>
     <string name="trans_report_guide">[गलत अनुवाद] &#62; [सही अनुवाद]</string>

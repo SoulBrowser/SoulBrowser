@@ -619,7 +619,6 @@
     <string name="setted">Đã được thiết lập.</string>
     <string name="no_down_video">Không có video tải về.</string>
     <string name="video_link_1">Không tìm thấy liên kết video.</string>
-    <string name="video_link_2">Vui lòng sao chép liên kết và đặt nó trực tiếp.</string>
     <string name="trans_report">Báo cáo lỗi dịch</string>
     <string name="trans_report_info">Xin hãy giúp dịch. ❤</string>
     <string name="trans_report_guide">[Bản dịch sai] &#62; [Bản dịch chính xác]</string>

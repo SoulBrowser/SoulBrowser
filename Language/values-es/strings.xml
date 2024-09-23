@@ -619,7 +619,6 @@
     <string name="setted">Ha sido establecido.</string>
     <string name="no_down_video">No hay videos descargables.</string>
     <string name="video_link_1">Enlace de vídeo no encontrado.</string>
-    <string name="video_link_2">Copie el enlace y colóquelo directamente.</string>
     <string name="trans_report">Informar errores de traducción</string>
     <string name="trans_report_info">Por favor ayuda a traducir. ❤</string>
     <string name="trans_report_guide">[Traducción incorrecta] &#62; [Traducción correcta]</string>
