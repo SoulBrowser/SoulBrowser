@@ -43,7 +43,20 @@ Users can store their backup data in the following locations
 Settings > Backup > Google Drive > Import / Export
 
 
-4. Rights and exercise methods of users and legal representatives
+4. Remove a Google account from your phone
+
+You can delete the Google account used for Google Drive at any time.
+1) Open your device's Settings app.
+2) Tap Passwords & accounts. If you can't find "Accounts," tap Users & accounts.
+3) Under "Accounts," tap the account you want to remove And then Remove account.
+4) To confirm, tap Remove account And then Remove account.
+5) If this is the only Google account on the device, you'll need to enter your device's pattern, PIN, or password for security.
+
+* When you remove an account, everything associated with that account is also deleted from your phone. This includes email, contacts, and settings.
+* Once you delete your Google account, you will not be able to recover it after 30 days. Also, you cannot create a new account with the same email address, so you will need to send the verification code to a different email.
+
+
+5. Rights and exercise methods of users and legal representatives
 
 Users can withdraw their consent to collect and use personal information through deletion of the application at any time.
 For children under the age of 14, the legal representative reserves the right to withdraw the consent to collect and use the child's personal information.
@@ -54,7 +67,7 @@ Company does not deliberately collect personal information to children by unders
 If it is confirmed that the company collected personal information from the child by mistake not intended, the company will take reasonable measures to solve the problem promptly.
 
 
-5. Questions / Opinions / complaints related to management of personal information
+6. Questions / Opinions / complaints related to management of personal information
 
 If you have any questions related to your personal information, please contact us below.
 Soul Browser Mail : soulbrowser.com@outlook.com
@@ -66,9 +79,9 @@ If you need to declare or consult about infringement of other personal informati
 3) Cyber safety office of the National Police Agency (cyberbureau.police.go.kr / no station number 182)
 
 
-6. Change of personal information protection policy
+7. Change of personal information protection policy
 
 Company frequently uses company's Privacy Policy for various reasons, such as improving the processing procedures of user's personal information, reflecting changes to company's services, or complying with related laws You can change.
 
 
-Last updated : August 17, 2024
+Last updated : October 6, 2024
