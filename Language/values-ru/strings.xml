@@ -69,7 +69,7 @@
     <string name="trans_blocked">Переводчик не может быть запущен в соответствии с политикой сайта.</string>
     <string name="trans_allowed">Временно разрешено</string>
     <string name="google_trans">Google Переводчик</string>
-    <string name="original">Oригинальный</string>
+    <string name="original">Оригинальный</string>
     <string name="select_lang">Пожалуйста, выберите язык</string>
     <string name="find_word">Найти на странице</string>
     <string name="verify_image">Проверить изображение</string>
@@ -101,7 +101,7 @@
     <string name="change_before">До изменения</string>
     <string name="change_after">После изменения</string>
     <string name="estimated">Расчётное время</string>
-    <string name="edit">Pедактировать</string>
+    <string name="edit">Редактировать</string>
     <string name="share">Поделиться</string>
     <string name="details">Подробности</string>
     <string name="move_to">Перейти к</string>
@@ -461,7 +461,7 @@
     <string name="album_shortcut">Создать ярлык PDF</string>
     <string name="album_short_info">Создайте ярлык PDF-файла на главном экране.</string>
     <string name="cast_shortcut">Создайте ярлык для трансляции на ТВ</string>
-    <string name="cast_short_info">Создайте ярлык ТВ-трансляции на главном экране.</string>
+    <string name="cast_short_info">Создайте ярлык трансляции на главном экране.</string>
     <string name="list_menu">Меню</string>
     <string name="ads_white">Белый список рекламы</string>
     <string name="ads_allow_site">Разрешить рекламу на текущем сайте</string>
@@ -511,7 +511,7 @@
     <string name="lock_type">Блокировка экрана</string>
     <string name="only_secret">Относится только к режиму инкогнито</string>
     <string name="unlock">Разблокировать</string>
-    <string name="lock_pin">ПИН-код</string>
+    <string name="lock_pin">Пин-код</string>
     <string name="lock_pattern">Графический ключ</string>
     <string name="input">Пожалуйста, введите</string>
     <string name="reinput">Пожалуйста, введите его снова</string>
@@ -571,7 +571,7 @@
     <string name="show_center">Центр</string>
     <string name="show_right">Справа</string>
     <string name="tip">Подсказка</string>
-    <string name="web_content">Веб-контент</string>
+    <string name="web_content">Содержимое сайтов</string>
     <string name="composition">Состав</string>
     <string name="font">Шрифт</string>
     <string name="font_default">Шрифт по умолчанию</string>
@@ -615,7 +615,7 @@
     <string name="phone_home">Главный экран телефона</string>
     <string name="set_homepage">Установить как домашнюю страницу</string>
     <string name="set_startpage">Сделать стартовой страницей</string>
-    <string name="soul_home">Домашнаяя страница браузера Soul</string>
+    <string name="soul_home">Домашная страница браузера Soul</string>
     <string name="setted">Установлено.</string>
     <string name="no_down_video">Нет загружаемых видео.</string>
     <string name="video_link_1">Ссылка на видео не найдена.</string>
@@ -629,15 +629,15 @@
     <string name="tts_guide_1">Поддерживаемые языки зависят от используемого механизма синтеза речи.</string>
     <string name="tts_guide_2">Движок синтеза речи можно изменить в настройках устройства.</string>
     <string name="speak_page">Читать вслух</string>
-    <string name="auto_speak">Автоговорить</string>
-    <string name="auto_speak_guide">TTS запускается автоматически при запуске режима чтения.</string>
+    <string name="auto_speak">Автоматическое чтение</string>
+    <string name="auto_speak_guide">Синтез речи запускается автоматически при запуске режима чтения.</string>
     <string name="detail_setting">Расширенные настройки</string>
     <string name="voice_speed">Скорость голоса</string>
     <string name="voice_tone">Тон голоса</string>
     <string name="stop_icon">Кнопка остановки</string>
     <string name="stop_icon_info">Появляется на экране во время воспроизведения голоса.</string>
     <string name="long_move_guide">Кнопку можно перемещать по экрану долгим нажатием.</string>
-    <string name="drag_move_guide">Чтобы переместить кнопку удерживайте её.</string>
+    <string name="drag_move_guide">Удерживайте кнопку для перемещения.</string>
     <string name="not_support_device">Не поддерживается на этом устройстве.</string>
     <string name="drag_seek">Сенсорная навигация по экрану</string>
     <string name="drag_seek_info">Проведите влево или вправо для перемотки.</string>
@@ -646,7 +646,7 @@
     <string name="drag_volume">Регулировка громкости жестом</string>
     <string name="drag_volume_info">Проведите в правой части экрана, чтобы изменить громкость.</string>
     <string name="local_file">Файл с устройства</string>
-    <string name="web_stream">(Веб-трансляция)</string>
+    <string name="web_stream">(Стрим)</string>
     <string name="thumb_mode">Режим миниатюр</string>
     <string name="list_mode">Режим списка</string>
     <string name="simple_mode">Простой режим</string>
@@ -760,7 +760,7 @@
     <string name="search_suggest">Предложения поиска</string>
     <string name="at_bottom">Внизу</string>
     <string name="clean_data_info">Накопление устаревших данных замедляет работу браузера.\nРекомендуется периодически очищать данные.</string>
-    <string name="txt_viewer">Просмотрщик текста</string>
+    <string name="txt_viewer">Просмотр текста</string>
     <string name="purchase">Покупки</string>
     <string name="donation">Пожертвование</string>
     <string name="inapp_ads">Реклама в браузере</string>
@@ -833,9 +833,9 @@
     <string name="open_limit">Ограничение открытых вкладок</string>
     <string name="mem_save">Экономия памяти</string>
     <string name="mem_limit">Ограничение памяти</string>
-    <string name="limit_info_1">При привышении ограничения удаляется первая вкладка.</string>
-    <string name="limit_info_2">При привышении ограничения освобождается память, начиная с самых старых вкладок.</string>
-    <string name="limit_info_3">При привышении ограничения освобождается память, начиная с самых старых страниц.</string>
+    <string name="limit_info_1">При превышении ограничения удаляется первая вкладка.</string>
+    <string name="limit_info_2">При превышении ограничения освобождается память, начиная с самых старых вкладок.</string>
+    <string name="limit_info_3">При превышении ограничения освобождается память, начиная с самых старых страниц.</string>
     <string name="mem_block_site">Запретить освобождение памяти для текущего сайта</string>
     <string name="mem_block_page">Запретить освобождение памяти для текущей страницы</string>
     <string name="mem_block_list">Список предотвращения освобождения памяти</string>
@@ -884,7 +884,7 @@
     <string name="auto_group_info">Автогруппировка при открытии нового сайта.</string>
     <string name="tab_guide_1">1. Перемещайте вкладку длинным нажатием на ней.</string>
     <string name="tab_guide_2">2. Создавайте папки, перекрывая другие вкладки.</string>
-    <string name="debug_mode">Веб-отладка</string>
+    <string name="debug_mode">Режим отладки</string>
     <string name="debug_mode_info">Отладка по USB.</string>
     <string name="default_browser">Установить как браузер по умолчанию</string>
     <string name="news_title">Новости</string>
@@ -984,10 +984,10 @@
     <string name="change_in_setting">Вы можете изменить его в настройках.</string>
     <string name="check_brfore">Проверять перед запуском</string>
     <string name="check_ver">Проверить версию</string>
-    <string name="dark_guide_1">Если веб-просмотр системы Android не является последней версией, тёмная тема может отображаться неправильно.</string>
+    <string name="dark_guide_1">Используйте последнюю версию Android System WebView для корректной работы тёмной темы.</string>
     <string name="recent_search">Недавние поиски</string>
     <string name="recent_secret">Сохраняйте недавние поиски в режиме инкогнито</string>
-    <string name="recent_delete">Вы уверены, что хотите удалить все недавние поисковые запросы?</string>
+    <string name="recent_delete">Удалить все недавние поисковые запросы?</string>
     <string name="recent_lang">Недавняя запись</string>
     <string name="lang_delete">Удалить все последние записи?</string>
     <string name="ocr_guide_1">Эта функция оптимизирована для перевода комиксов.</string>
