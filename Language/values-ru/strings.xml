@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Нажимая кнопку «Начать работу», Вы соглашаетесь с %1$s и %2$s браузера Soul.</string>
+    <string name="notice">Нажимая кнопку «Начать работу», вы соглашаетесь с %1$s и %2$s браузера Soul.</string>
     <string name="notice_tos">Условия использования</string>
     <string name="notice_privacy">Политика конфиденциальности</string>
     <string name="start">Начать работу</string>
@@ -165,7 +165,7 @@
     <string name="no_image">Без изображений</string>
     <string name="no_title">Без заголовка</string>
     <string name="no_ext">Без расширения</string>
-    <string name="apply">Применить</string>
+    <string name="apply">Принять</string>
     <string name="save">Сохранить</string>
     <string name="cancel">Отмена</string>
     <string name="undelete">Отменить удаление</string>
@@ -235,8 +235,8 @@
     <string name="delete_cookie">Удалить файлы cookie</string>
     <string name="screen_rotate">Ориентация экрана</string>
     <string name="vol_scroll">Прокрутка страницы клавишами регулировки громкости</string>
-    <string name="double_back">Двойное нажатие для выхода из браузера</string>
-    <string name="press_again">Нажмите ещё раз для выхода.</string>
+    <string name="double_back">Для выхода нажимать «Назад» дважды</string> 
+    <string name="press_again">Для выхода нажмите «Назад» ещё раз.</string>
     <string name="last_noti">Уведомление о последней странице</string>
     <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление.</string>
     <string name="last_page_noti">Это последняя страница вкладки.</string>
@@ -374,10 +374,10 @@
     <string name="web_page">Веб-страница</string>
     <string name="text_size">Размер текста</string>
     <string name="free_scale">Увеличение двумя пальцами</string>
-    <string name="mobile_mode">Мобильный</string>
-    <string name="desk_mode">Мобильный/ПК режим</string>
-    <string name="desk_one">Режим ПК (Текущая вкладка)</string>
-    <string name="desk_all">Режим ПК (Все вкладка)</string>
+    <string name="mobile_mode">Мобильная версия</string>
+    <string name="desk_mode">Мобильный / ПК</string>
+    <string name="desk_one">ПК (Текущая вкладка)</string>
+    <string name="desk_all">ПК (Все вкладка)</string>
     <string name="block_link">Заблокировать ссылку</string>
     <string name="blocked_link">Заблокированные ссылки</string>
     <string name="link_block_site">Заблокировать сайт ссылки</string>
@@ -459,9 +459,9 @@
     <string name="qrcode_title">QR-код</string>
     <string name="voice_title">Голосовой поиск</string>
     <string name="album_shortcut">Создать ярлык PDF</string>
-    <string name="album_short_info">Создайте кнопку быстрого доступа к PDF-файлу на главном экране.</string>
-    <string name="cast_shortcut">Создайте ярлык TV Cast</string>
-    <string name="cast_short_info">Создайте кнопку быстрого доступа TV Cast на главном экране.</string>
+    <string name="album_short_info">Создайте ярлык PDF-файла на главном экране.</string>
+    <string name="cast_shortcut">Создайте ярлык для трансляции на ТВ</string>
+    <string name="cast_short_info">Создайте ярлык ТВ-трансляции на главном экране.</string>
     <string name="list_menu">Меню</string>
     <string name="ads_white">Белый список рекламы</string>
     <string name="ads_allow_site">Разрешить рекламу на текущем сайте</string>
@@ -471,17 +471,17 @@
     <string name="pop_allow_site">Разрешить всплывающее окно на текущем сайте</string>
     <string name="pop_allow_page">Разрешить всплывающее окно на текущей странице</string>
     <string name="image_list">Список изображений</string>
-    <string name="image_cast_guide_1">Открыть сайт с изображением.</string>
-    <string name="image_cast_guide_2">Выберите \'%1$s\' или \'%2$s\'.</string>
-    <string name="image_cast_guide_3">Выберите изображение.</string>
-    <string name="local_cast_guide_1">Выберите значок списка телевиз. кастов.</string>
-    <string name="local_cast_guide_2">Пожалуйста, выберите элемент.</string>
-    <string name="local_cast_guide_3">Ваш смартфон и Chromecast должны быть подключены к одной сети.</string>
-    <string name="local_cast_guide_4">Например, если вы используете VPN, он может работать некорректно.</string>
+    <string name="image_cast_guide_1">Посетите сайт с картинками.</string>
+    <string name="image_cast_guide_2">Нажмите \«%1$s\» или \«%2$s\».</string>
+    <string name="image_cast_guide_3">Выберите картинку.</string>
+    <string name="local_cast_guide_1">Нажмите иконку «Трансляция на ТВ».</string>
+    <string name="local_cast_guide_2">Выберите, что транслировать.</string>
+    <string name="local_cast_guide_3">Ваш смартфон и Chromecast должны быть в одной сети.</string>
+    <string name="local_cast_guide_4">Например, при использовании VPN возможны неполадки.</string>
     <string name="video_down_guide_0">Посетите сайт с видео.</string>
-    <string name="video_down_guide_1">Когда видео обнаружено, на экране появится кнопка.</string>
-    <string name="video_down_guide_2">Некоторые сайты должны воспроизводить видео до его обнаружения.</string>
-    <string name="video_down_guide_3">Из-за политики YouTube видео YouTube не могут быть загружены.</string>
+    <string name="video_down_guide_1">Когда браузер обнаружит видео, на экране появится кнопка.</string>
+    <string name="video_down_guide_2">На некоторых сайтах нужно запустить видео, чтобы браузер его нашёл.</string>
+    <string name="video_down_guide_3">Из-за правил YouTube загрузка оттуда ограничена.</string>
     <string name="down_limit">Одновременная загрузка</string>
     <string name="down_limit_info">Загрузка слишком большого количества файлов одновременно может замедлить работу устройства и вызвать проблемы.</string>
     <string name="down_noti">Уведомление о завершении загрузки</string>
@@ -581,7 +581,7 @@
     <string name="font_guide_1">Каждый шрифт имеет набор поддерживаемых языков.</string>
     <string name="font_guide_2">Большинство шрифтов обычно поддерживают только буквы и цифры.</string>
     <string name="font_guide_3">Проверьте предварительный просмотр, чтобы увидеть, поддерживает ли выбранный шрифт определенный язык.</string>
-    <string name="tv_cast">Трансляция</string>
+    <string name="tv_cast">Трансляция на ТВ</string>
     <string name="media_route_menu_title">Играть&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>
     <string name="cast_info_6">YouTube не поддерживается.</string>
@@ -589,7 +589,7 @@
     <string name="user_agent">Пользовательский агент</string>
     <string name="default_title">По умолчанию</string>
     <string name="user_defined">Пользовательский</string>
-    <string name="cast_on">Включить трансляцию</string>
+    <string name="cast_on">Включить трансляцию на ТВ</string>
     <string name="icon_color">Цвет кнопки</string>
     <string name="icon_pos">Расположение кнопки</string>
     <string name="storage_guide_1">Обновлено для Android 10.</string>
@@ -626,8 +626,8 @@
     <string name="tts_on">Включить синтез речи</string>
     <string name="tts_info_1">Когда вы нажимаете текст, отображаемый в браузере, он читается вслух.</string>
     <string name="tts_info_2">Когда вы нажимаете текст, он читается вслух.</string>
-    <string name="tts_guide_1">Поддерживаемые языки зависят от используемого механизма TTS.</string>
-    <string name="tts_guide_2">Движок TTS можно изменить в настройках устройства.</string>
+    <string name="tts_guide_1">Поддерживаемые языки зависят от используемого механизма синтеза речи.</string>
+    <string name="tts_guide_2">Движок синтеза речи можно изменить в настройках устройства.</string>
     <string name="speak_page">Читать вслух</string>
     <string name="auto_speak">Автоговорить</string>
     <string name="auto_speak_guide">TTS запускается автоматически при запуске режима чтения.</string>
@@ -645,7 +645,7 @@
     <string name="drag_bright_info">Проведите в левой части экрана, чтобы изменить яркость.</string>
     <string name="drag_volume">Регулировка громкости жестом</string>
     <string name="drag_volume_info">Проведите в правой части экрана, чтобы изменить громкость.</string>
-    <string name="local_file">Локальный файл</string>
+    <string name="local_file">Файл с устройства</string>
     <string name="web_stream">(Веб-трансляция)</string>
     <string name="thumb_mode">Режим миниатюр</string>
     <string name="list_mode">Режим списка</string>
@@ -693,8 +693,8 @@
     <string name="prev_tab">Предыдущая вкладка</string>
     <string name="next_tab">Следующая вкладка</string>
     <string name="tts_highlight">Основные моменты TTS</string>
-    <string name="app_keyboard">Активировать клавиатуру при запуске приложения</string>
-    <string name="tab_keyboard">Активировать клавиатуру при добавлении вкладки</string>
+    <string name="app_keyboard">Открывать клавиатуру при запуске</string>
+    <string name="tab_keyboard">Открывать клавиатуру при добавлении вкладки</string>
     <string name="swipe">Свайп</string>
     <string name="page_move">Переместить страницу</string>
     <string name="tab_move">Переместить вкладку</string>
@@ -793,10 +793,10 @@
     <string name="bright_info">Может не применяться, если включена авторегулировка яркости.</string>
     <string name="subtitle">Субтитры</string>
     <string name="subtitle_info_1">Только локальные файлы поддерживают субтитры.</string>
-    <string name="subtitle_info_2">Поместите файл субтитров в ту же папку, что и видеофайл.</string>
-    <string name="subtitle_info_3">Видеофайл и файл субтитров должны иметь одно и то же имя.</string>
-    <string name="subtitle_info_4">Поддерживает форматы VTT и SRT.</string>
-    <string name="subtitle_info_5">Скорость загрузки формата VTT выше.</string>
+    <string name="subtitle_info_2">Поместите файл субтитров в ту же папку, что и видео.</string>
+    <string name="subtitle_info_3">Видео и файл субтитров должны иметь одинаковые имена.</string>
+    <string name="subtitle_info_4">Поддерживаются форматы VTT и SRT.</string>
+    <string name="subtitle_info_5">У формата VTT выше скорость загрузки.</string>
     <string name="subtitle_info_6">Рекомендуется формат VTT.</string>
     <string name="subtitle_info_7">Если кодировка отличается от UTF-8, символы могут отображаться некорректно.</string>
     <string name="android_shot">Скриншот Android</string>
@@ -912,7 +912,7 @@
     <string name="vpn_ip_guide_1">Результаты поиска по домену.</string>
     <string name="vpn_ip_guide_2">Если это не то, что вы хотите, вы можете отредактировать его самостоятельно.</string>
     <string name="out_of_memory">Недостаточно памяти.</string>
-    <string name="auto_detect">Автоматическое обнаружение</string>
+    <string name="auto_detect">Определять автоматически</string>
     <string name="automatic">Автоматический</string>
     <string name="allow_all_site">Все сайты разрешены</string>
     <string name="block_harm_site">Блокировать вредоносные сайты</string>
