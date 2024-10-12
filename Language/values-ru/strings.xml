@@ -64,7 +64,7 @@
     <string name="trans_always">Всегда переводить</string>
     <string name="trans_block_site">Блокировать автоматические переводы на текущем сайте</string>
     <string name="trans_block_page">Блокировать автоматические переводы на текущей странице</string>
-    <string name="trans_except">Чёрный список автоеревода</string>
+    <string name="trans_except">Чёрный список автоперевода</string>
     <string name="trans_except_info">Сайты, исключенные из автоперевода.</string>
     <string name="trans_blocked">Переводчик не может быть запущен в соответствии с политикой сайта.</string>
     <string name="trans_allowed">Временно разрешено</string>
@@ -192,8 +192,8 @@
     <string name="canceling">Отмена&#8230;</string>
     <string name="checking">Проверка&#8230;</string>
     <string name="finishing">в конце&#160;</string>
-    <string name="show_detail">Показать подробную информацию</string>
-    <string name="show_single">Заголовок одной строкой</string>
+    <string name="show_detail">Показывать детали</string>
+    <string name="show_single">Однострочный заголовок</string>
     <string name="show_recent">Отметить недавний файл</string>
     <string name="open_continue">Открыть в предыдущей позиции</string>
     <string name="pull_refresh">Обновить страницу свайпом вниз</string>
@@ -203,7 +203,7 @@
     <string name="folder_dir">Каталог</string>
     <string name="sub_dir">Подкаталог</string>
     <string name="used_on">Использовал</string>
-    <string name="not_used">Не используется</string>
+    <string name="not_used">Отключено</string>
     <string name="sort_by">Сортировать по</string>
     <string name="sort_name">Имя</string>
     <string name="sort_data">Тип</string>
@@ -328,7 +328,7 @@
     <string name="pdf_crop_guide">Удалить поля из PDF файлов.</string>
     <string name="guide_pinch">Увеличить / Уменьшить</string>
     <string name="dark_mode">Тема</string>
-    <string name="dark_mode_info_2">Будьте осторожны при использовании.</string>
+    <string name="dark_mode_info_2">Будьте осторожны.</string>
     <string name="message_confirm">Больше не показывать это сообщение</string>
     <string name="brightness">Яркость</string>
     <string name="default_image">Изображение по умолчанию</string>
@@ -392,7 +392,7 @@
     <string name="reset">Сбросить</string>
     <string name="reset_setting">Сбросить настройки?</string>
     <string name="reset_confirm">Вы хотите сбросить свою работу?</string>
-    <string name="set_reset_guide">Настройки, относящиеся к перечисленным ниже функциям, не сбросятся.</string>
+    <string name="set_reset_guide">Настройки, относящиеся к перечисленным ниже функциям, не изменятся.</string>
     <string name="check_network">Проверьте состояние сети.</string>
     <string name="server_error">Сервер не отвечает.</string>
     <string name="server_delay">Ответ сервера медленный.</string>
@@ -446,7 +446,7 @@
     <string name="scroll_top">Верхняя полоса прокручивается</string>
     <string name="scroll_bot">Нижняя полоса прокручивается</string>
     <string name="start_page">Начальная страница</string>
-    <string name="show_image_info">Показывать изображения веб-страницы.</string>
+    <string name="show_image_info">Показывать изображения на веб-страницах.</string>
     <string name="video_download">Загрузка видео</string>
     <string name="video_manager">Кнопка менеджера видео</string>
     <string name="youtube_manager">Кнопка менеджера YouTube</string>
@@ -577,10 +577,10 @@
     <string name="font_default">Шрифт по умолчанию</string>
     <string name="font_bold">Жирный шрифт</string>
     <string name="font_preview">Шрифт применяется к этому тексту.</string>
-    <string name="font_info_1">Вы можете изменить шрифт веб страниц TTF файлами из внутренней памяти или с SD-карты.</string>
+    <string name="font_info_1">Вы можете изменить шрифт веб-страниц TTF-файлами из внутренней памяти или с SD-карты.</string>
     <string name="font_guide_1">Каждый шрифт имеет набор поддерживаемых языков.</string>
-    <string name="font_guide_2">Большинство шрифтов обычно поддерживают только буквы и цифры.</string>
-    <string name="font_guide_3">Проверьте предварительный просмотр, чтобы увидеть, поддерживает ли выбранный шрифт определенный язык.</string>
+    <string name="font_guide_2">Большинство шрифтовподдерживают только буквы и цифры.</string>
+    <string name="font_guide_3">Ориентируйтесь на предварительный просмотр, чтобы увидеть, поддерживает ли выбранный шрифт нужный язык.</string>
     <string name="tv_cast">Трансляция на ТВ</string>
     <string name="media_route_menu_title">Играть&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>
@@ -657,10 +657,10 @@
     <string name="js_title">JavaScript</string>
     <string name="java_script">Использовать JavaScript (Рекомендуется)</string>
     <string name="java_script_info">Некоторые функции браузера не будут работать, если JavaScript отключен.</string>
-    <string name="user_script_title">UserScript</string>
-    <string name="user_script_on">Используйте UserScript</string>
-    <string name="user_script_list">Список UserScript</string>
-    <string name="user_script_info">Недоверенные пользовательские скрипты могут помешать нормальной работе браузера или вызвать серьезные проблемы с безопасностью.</string>
+    <string name="user_script_title">Скрипты</string>
+    <string name="user_script_on">Использовать скрипты</string>
+    <string name="user_script_list">Список скриптов</string>
+    <string name="user_script_info">Непроверенные пользовательские скрипты могут помешать нормальной работе браузера или вызвать серьезные проблемы с безопасностью.</string>
     <string name="install">Монтаж</string>
     <string name="install_confirm">Хотите установить?</string>
     <string name="already_install">Он уже установлен.</string>
@@ -742,7 +742,7 @@
     <string name="active_function">Активируйте функцию.</string>
     <string name="tab_loop">Зациклить вкладки</string>
     <string name="tab_loop_info">Переключаться между первой и последней вкладками</string>
-    <string name="swipe_sense">Чувствительность свайпа</string>
+    <string name="swipe_sense">Области свайпа</string>
     <string name="only_text">Только текст</string>
     <string name="default_size">Размер по умолчанию</string>
     <string name="text_zoom">Увеличить текст</string>
@@ -866,7 +866,7 @@
     <string name="gesture_block_site">Блокировать жесты на текущем сайте</string>
     <string name="gesture_block_page">Блокировать жесты на текущей странице</string>
     <string name="gesture_block_list">Чёрный список жестов</string>
-    <string name="gesture_block_info_1">Жесты не работают на сайтах, которые есть в этом списке.</string>
+    <string name="gesture_block_info_1">Сайты, где жесты отключены.</string>
     <string name="gesture_block_info_2">Применяется только к жестам в центре экрана.</string>
     <string name="gesture_block_info_3">Не влияет на жесты по краям экрана.</string>
     <string name="auto_comp">Автозаполнение</string>
@@ -982,7 +982,7 @@
     <string name="video_icon_long">Долгое нажатие на экран</string>
     <string name="video_icon_guide">Нажмите и удерживайте экран, чтобы открыть функциональные кнопки.</string>
     <string name="change_in_setting">Вы можете изменить его в настройках.</string>
-    <string name="check_brfore">Проверьте перед запуском</string>
+    <string name="check_brfore">Проверять перед запуском</string>
     <string name="check_ver">Проверить версию</string>
     <string name="dark_guide_1">Если веб-просмотр системы Android не является последней версией, темная тема может отображаться неправильно.</string>
     <string name="recent_search">Недавние поиски</string>
