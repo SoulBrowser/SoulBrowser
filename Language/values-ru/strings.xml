@@ -34,7 +34,7 @@
     <string name="down_start">Загрузка началась</string>
     <string name="down_back_time">Тайм-аут фонового состояния</string>
     <string name="time_limit">Ограничение времени</string>
-    <string name="down_back_info_1">При работе в фоновом режиме дольше ограничения, загрузки браузера будут приостановлена ​​для экономии батареи.</string>
+    <string name="down_back_info_1">При работе в фоновом режиме дольше ограничения, загрузки браузера будут приостановлены ​​для экономии батареи.</string>
     <string name="down_back_info_2">Таймер срабатывает, когда браузер в фокусе.</string>
     <string name="down_timeout">Загрузка приостановлена ​​для экономии заряда батареи.</string>
     <string name="paused">Приостановлена</string>
@@ -377,7 +377,7 @@
     <string name="mobile_mode">Мобильная версия</string>
     <string name="desk_mode">Моб. версия / ПК</string>
     <string name="desk_one">ПК (Текущая вкладка)</string>
-    <string name="desk_all">ПК (Все вкладка)</string>
+    <string name="desk_all">ПК (Все вкладки)</string>
     <string name="block_link">Заблокировать ссылку</string>
     <string name="blocked_link">Заблокированные ссылки</string>
     <string name="link_block_site">Заблокировать сайт ссылки</string>
@@ -519,7 +519,7 @@
     <string name="continue_input">Продолжить</string>
     <string name="pip_home">Переключитесь в режим PIP с помощью кнопки главного экрана</string>
     <string name="memory_warning_1">Эта функция использует больше памяти.</string>
-    <string name="secret_data_info">Разделение данных, таких как куки и кеш, поддерживается начиная с Android 9.</string>
+    <string name="secret_data_info">Разделение данных, таких как куки и кеш, поддерживается с Android 9.</string>
     <string name="secret_hist">Сохранять историю</string>
     <string name="secret_hist_info">Сохранять историю в режиме инкогнито. История инкогнито не отображается в обычном режиме.</string>
     <string name="secret_down">Сохранять историю загрузок</string>
@@ -577,7 +577,7 @@
     <string name="font_default">Шрифт по умолчанию</string>
     <string name="font_bold">Жирный шрифт</string>
     <string name="font_preview">Шрифт применяется к этому тексту.</string>
-    <string name="font_info_1">Вы можете изменить шрифт сайтов, используя TTF-файлы из внутренней памяти или SD-карты.</string>
+    <string name="font_info_1">Вы можете изменить шрифт сайтов, используя TTF-файлы с внутренней памяти или SD-карты.</string>
     <string name="font_guide_1">Каждый шрифт имеет набор поддерживаемых языков.</string>
     <string name="font_guide_2">Большинство шрифтов поддерживают только буквы и цифры.</string>
     <string name="font_guide_3">Ориентируйтесь на предварительный просмотр, чтобы увидеть, поддерживает ли выбранный шрифт нужный язык.</string>
@@ -593,7 +593,7 @@
     <string name="icon_color">Цвет кнопки</string>
     <string name="icon_pos">Расположение кнопки</string>
     <string name="storage_guide_1">Обновлено для Android 10.</string>
-    <string name="storage_guide_2">Начиная с Android 10 применяется политика \«Scoped storage\».</string>
+    <string name="storage_guide_2">Политика \«Scoped storage\» применяется с Android 10.</string>
     <string name="storage_guide_3">Сохранение списка и сохранение пути были инициализированы.</string>
     <string name="storage_guide_4">Файлы сохраняются.</string>
     <string name="not_selected">Не выбран</string>
@@ -623,7 +623,7 @@
     <string name="trans_report_info">Пожалуйста, помогите перевести. ❤</string>
     <string name="trans_report_guide">[Неверный перевод] &#62; [Правильный перевод]</string>
     <string name="tts_mode">Синтез речи</string>
-    <string name="tts_on">Включить синтез речи</string>
+    <string name="tts_on">Синтез речи</string>
     <string name="tts_info_1">Когда вы нажимаете текст, отображаемый в браузере, он читается вслух.</string>
     <string name="tts_info_2">Когда вы нажимаете текст, он читается вслух.</string>
     <string name="tts_guide_1">Поддерживаемые языки зависят от используемого механизма синтеза речи.</string>
@@ -650,12 +650,12 @@
     <string name="thumb_mode">Режим миниатюр</string>
     <string name="list_mode">Режим списка</string>
     <string name="simple_mode">Простой режим</string>
-    <string name="accept_cookie">Разрешать куки (Рекомендуется)</string>
+    <string name="accept_cookie">Разрешать куки (рекомендуется)</string>
     <string name="accept_cookie_info_1">Позволяет сайту хранить или читать куки.</string>
     <string name="accept_cookie_info_2">Некоторые сайты могут работать некорректно, если вы не разрешаете куки.</string>
     <string name="third_cookie">Сторонние куки</string>
     <string name="js_title">JavaScript</string>
-    <string name="java_script">JavaScript (Рекомендуется)</string>
+    <string name="java_script">JavaScript (рекомендуется)</string>
     <string name="java_script_info">Некоторые функции браузера не будут работать, если JavaScript отключен.</string>
     <string name="user_script_title">Скрипты</string>
     <string name="user_script_on">Пользовательские скрипты</string>
@@ -694,7 +694,7 @@
     <string name="next_tab">Следующая вкладка</string>
     <string name="tts_highlight">Основные моменты TTS</string>
     <string name="app_keyboard">Открывать клавиатуру при запуске</string>
-    <string name="tab_keyboard">Открывать клавиатуру при добавлении вкладки</string>
+    <string name="tab_keyboard">Открывать клавиатуру при создании вкладки</string>
     <string name="swipe">Свайп</string>
     <string name="page_move">Переместить страницу</string>
     <string name="tab_move">Переместить вкладку</string>
@@ -714,7 +714,7 @@
     <string name="display_cutout_info">На устройствах с вырезами дисплея содержимое отображается в области выреза.</string>
     <string name="scroll_mode">Режим прокрутки</string>
     <string name="scroll_guide_1">1. Отображает страницу, загруженную до сих пор.</string>
-    <string name="scroll_guide_2">2. Отображает страницу в пределах доступного ограничения памяти.</string>
+    <string name="scroll_guide_2">2. Отображает страницу в пределах ограничения памяти.</string>
     <string name="estimated_size">Расчётный размер</string>
     <string name="estimated_info">Предполагаемые и фактические размеры могут отличаться.</string>
     <string name="unknown">Неизвестный</string>
@@ -738,7 +738,7 @@
     <string name="saving">Сохранение&#8230;</string>
     <string name="save_empty">Нечего сохранять.</string>
     <string name="not_changed">Никаких изменений не было сделано.</string>
-    <string name="app_restart">Вам необходимо перезапустить браузер.</string>
+    <string name="app_restart">Требуется перезапуск браузера.</string>
     <string name="active_function">Активируйте функцию.</string>
     <string name="tab_loop">Зациклить вкладки</string>
     <string name="tab_loop_info">Переключаться между первой и последней вкладками</string>
@@ -766,16 +766,16 @@
     <string name="inapp_ads">Реклама в браузере</string>
     <string name="website_ads">Объявления на сайте</string>
     <string name="greeting">Привет</string>
-    <string name="remove_ads">Удалить рекламу в браузере</string>
+    <string name="remove_ads">Убрать рекламу в браузере</string>
     <string name="remove_ads_info_1">Один платеж навсегда удалит рекламу в браузере.</string>
     <string name="remove_ads_info_2">Он всегда действителен, если счёт, используемый для оплаты, тот же.</string>
     <string name="remove_ads_info_3">Реклама в браузере отличается от рекламы на сайтах.</string>
     <string name="remove_ads_info_4">Реклама на сайтах блокируется бесплатно.</string>
     <string name="ads_guide_1">Реклама в приложениях — это реклама, отображаемая приложениями.</string>
     <string name="ads_guide_2">Реклама в Soul Browser вас не беспокоит.</string>
-    <string name="ads_guide_3">Она появляется только в очень редких местах.</string>
+    <string name="ads_guide_3">Она появляется в редких местах.</string>
     <string name="ads_guide_4">Цель Soul Browser — обеспечить удобство и комфорт пользователей.</string>
-    <string name="ads_guide_5">Реклама сайтов — это реклама, отображаемая администраторами сайтов.</string>
+    <string name="ads_guide_5">Реклама сайтов — это реклама, которую показывают владельцы сайтов.</string>
     <string name="ads_guide_6">Она не связана с Soul Browser.</string>
     <string name="ads_guide_7">Soul Browser не отображает рекламу свою рекламу на сайтах.</string>
     <string name="ads_guide_8">Все функции Soul Browser бесплатны.</string>
@@ -840,7 +840,7 @@
     <string name="mem_block_page">Запретить освобождение памяти для текущей страницы</string>
     <string name="mem_block_list">Список предотвращения освобождения памяти</string>
     <string name="mem_keep">Период хранения данных</string>
-    <string name="mem_keep_info">Если вы храните данные слишком долго, ваш браузер замедлится.</string>
+    <string name="mem_keep_info">Браузер замедлится, если хранить данные слишком долго.</string>
     <string name="down_manager">Менеджер загрузки</string>
     <string name="down_exit">Выйти из диспетчера загрузок</string>
     <string name="other_app">Другие приложения</string>
@@ -854,7 +854,7 @@
     <string name="keyboard_secure_info_2">Некоторые клавиатуры не поддерживаются.</string>
     <string name="noti_invalid">Недействительная</string>
     <string name="original_size">Оригинальный размер</string>
-    <string name="reduced_size">Уменьшенный размер (Рекомендуется)</string>
+    <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
     <string name="finger_print">Отпечаток пальца</string>
     <string name="finger_unavailable">Пользователь не может пройти аутентификацию, так как оборудование недоступно. Попробуйте позже.</string>
     <string name="finger_register">Пользователь не может пройти аутентификацию, так как отпечаток пальца не зарегистрирован.</string>
@@ -987,7 +987,7 @@
     <string name="dark_guide_1">Используйте последнюю версию Android System WebView для корректной работы тёмной темы.</string>
     <string name="recent_search">Недавние поиски</string>
     <string name="recent_secret">Сохраняйте недавние поиски в режиме инкогнито</string>
-    <string name="recent_delete">Удалить все недавние поисковые запросы?</string>
+    <string name="recent_delete">Удалить все недавние поиски?</string>
     <string name="recent_lang">Недавняя запись</string>
     <string name="lang_delete">Удалить все последние записи?</string>
     <string name="ocr_guide_1">Эта функция оптимизирована для перевода комиксов.</string>
@@ -1027,7 +1027,7 @@
     <string name="area_edit_guide_5">Вы можете отредактировать его снова в любое время.</string>
     <string name="area_edit_guide_6">Не стесняйтесь попробовать.</string>
     <string name="area_recom_1">Попробуйте использовать функцию \«%s\».</string>
-    <string name="area_recom_2">Функция \«%s\» позволяет вам напрямую выбирать, что вы хотите заблокировать.</string>
+    <string name="area_recom_2">Функция \«%s\» позволяет напрямую выбирать, что заблокировать.</string>
     <string name="area_info_1">Сегодня во всемирной паутине насчитывается более 1,5 миллиардов веб-сайтов.</string>
     <string name="area_info_2">Поэтому фильтр содержит информацию о многих сайтах.</string>
     <string name="area_info_3">Однако пользователи обычно посещают лишь несколько сайтов.</string>
@@ -1040,7 +1040,7 @@
     <string name="area_info_10">По этой причине многие пользователи отказываются от создания собственных фильтров.</string>
     <string name="area_info_11">Функция \«%s\» не требует каких-либо знаний о фильтрах.</string>
     <string name="area_info_12">Любой может легко создавать собственные фильтры.</string>
-    <string name="area_info_13">Чтобы вызвать меню, нажмите и удерживайте элемент, который хотите заблокировать.</string>
+    <string name="area_info_13">Чтобы вызвать меню, зажмите элемент, который хотите заблокировать.</string>
     <string name="area_info_14">Когда вы запустите и примените функцию \«%s\», фильтр будет создан автоматически.</string>
     <string name="area_info_15">Это очень легко.</string>
     <string name="area_info_16">Попробуйте прямо сейчас.</string>
