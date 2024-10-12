@@ -266,7 +266,7 @@
     <string name="screen_off">Тайм-аут экрана</string>
     <string name="screen_hour">1 час</string>
     <string name="screen_always">Всегда включен</string>
-    <string name="screen_info_system">Зависит от настроек системы</string>
+    <string name="screen_info_system">Использовать системные настройки</string>
     <string name="screen_info_hour">После 1 часа бездействия</string>
     <string name="rotation">Поворот</string>
     <string name="view_port">Вертикально</string>
@@ -709,7 +709,7 @@
     <string name="large_list">Крупный список</string>
     <string name="full_screen">Полный экран</string>
     <string name="full_tool">Полный экран и панель инструментов</string>
-    <string name="display_title">Дисплей</string>
+    <string name="display_title">Отображение</string>
     <string name="display_cutout">Вырез дисплея</string>
     <string name="display_cutout_info">На устройствах с вырезами дисплея содержимое отображается в области выреза.</string>
     <string name="scroll_mode">Режим прокрутки</string>
@@ -1005,7 +1005,7 @@
     <string name="color_black">Чёрный</string>
     <string name="color_white">Белый</string>
     <string name="restart_guide_1">Функция перезапуска браузера.</string>
-    <string name="restart_guide_2">При использовании браузера вы можете столкнуться с ситуациями, когда беспрепятственый доступ к интернету будет затруднён по разным причинам. Например, из-за проблем с серверами сайтов или недостатке памяти.</string>
+    <string name="restart_guide_2">При использовании браузера вы можете столкнуться с ситуациями, когда беспрепятственный доступ к интернету будет затруднён по разным причинам. Например, из-за проблем с серверами сайтов или недостатке памяти.</string>
     <string name="restart_guide_3">В этом случае нажмите кнопку «Перезапуска браузера».</string>
     <string name="restart_guide_4">Безопасный перезапуск браузера позволит удалить лишнюю информацию из памяти.</string>
     <string name="block_area">Заблокировать область</string>
