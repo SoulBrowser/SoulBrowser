@@ -133,4 +133,4 @@ fmkorea.com##div[class*="adpost"]
 mlbpark.donga.com##.sub_lists_today li.items::before
 kr.sogirl.so##div[class*="happy"],div[class*="textwidget"],a[rel*="noopener"],div[class*="adde_modal"]
 kr.4kjav.co##div[class*="happy"],div[class*="textwidget"],a[rel*="noopener"],div[class*="adde_modal"],div[class*="demo-wrapper"],div[class*="ads"]
-tv.wiki##div[class*="partner-banner"]
+tv.wiki##div[class*="partner-banner"],div[class*="video-long-banner"]
