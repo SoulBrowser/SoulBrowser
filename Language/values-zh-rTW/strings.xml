@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">使用瀏覽器時，您可能會遇到因各種原因而無法順利存取網路的情況，例如您造訪的網站伺服器問題或記憶體不足等</string>
     <string name="restart_guide_3">在這種情況下，請按一下此按鈕</string>
     <string name="restart_guide_4">該應用程式將以乾淨的狀態安全地重新啟動，並刪除所有不必要的記憶體</string>
+    <string name="restart_noti">您想重新啟動應用程式嗎？</string>
+    <string name="restart_title">重新啟動</string>
     <string name="block_area">區域封鎖</string>
+    <string name="remove_area">您確定要刪除所選區域嗎？</string>
+    <string name="remove_title">消除</string>
     <string name="area_guide_1">您可以選擇要刪除的區域</string>
     <string name="area_guide_2">與所選區域具有相同屬性的所有區域都將被刪除</string>
     <string name="area_guide_3">當有重疊層時</string>

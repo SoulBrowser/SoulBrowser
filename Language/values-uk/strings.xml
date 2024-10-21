@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">Під час користування браузером ви можете зіткнутися з ситуаціями, коли ви не можете безперебійно отримати доступ до Інтернету з різних причин, наприклад, проблеми з сервером на сайті, який ви відвідуєте, або недостатньо пам’яті.</string>
     <string name="restart_guide_3">У такому випадку натисніть цю кнопку.</string>
     <string name="restart_guide_4">Програма безпечно перезапуститься в чистому стані з видаленням непотрібної пам’яті.</string>
+    <string name="restart_noti">Бажаєте перезапустити програму?</string>
+    <string name="restart_title">Перезапустіть</string>
     <string name="block_area">Зонне блокування</string>
+    <string name="remove_area">Ви впевнені, що бажаєте видалити вибрану область?</string>
+    <string name="remove_title">Видалити</string>
     <string name="area_guide_1">Ви можете вибрати область, яку хочете видалити.</string>
     <string name="area_guide_2">Усі регіони з тими ж властивостями, що й вибраний регіон, буде видалено.</string>
     <string name="area_guide_3">Коли є накладання шарів</string>

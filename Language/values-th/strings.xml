@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">เมื่อใช้เบราว์เซอร์ คุณอาจพบสถานการณ์ที่คุณไม่สามารถเข้าถึงอินเทอร์เน็ตได้อย่างราบรื่นด้วยเหตุผลหลายประการ เช่น ปัญหาเซิร์ฟเวอร์ที่ไซต์ที่คุณกำลังเยี่ยมชมหรือหน่วยความจำไม่เพียงพอ</string>
     <string name="restart_guide_3">ในกรณีนั้นกรุณาคลิกที่ปุ่มนี้</string>
     <string name="restart_guide_4">แอปจะรีสตาร์ทอย่างปลอดภัยในสถานะใหม่โดยลบหน่วยความจำที่ไม่จำเป็นออกไป</string>
+    <string name="restart_noti">คุณต้องการรีสตาร์ทแอปหรือไม่</string>
+    <string name="restart_title">เริ่มใหม่อีกครั้ง</string>
     <string name="block_area">การปิดกั้นโซน</string>
+    <string name="remove_area">คุณแน่ใจหรือไม่ว่าต้องการลบพื้นที่ที่เลือก</string>
+    <string name="remove_title">ลบ</string>
     <string name="area_guide_1">คุณสามารถเลือกพื้นที่ที่คุณต้องการลบ</string>
     <string name="area_guide_2">ภูมิภาคทั้งหมดที่มีคุณสมบัติเดียวกันกับภูมิภาคที่เลือกจะถูกลบออก</string>
     <string name="area_guide_3">เมื่อมีชั้นซ้อนกัน</string>

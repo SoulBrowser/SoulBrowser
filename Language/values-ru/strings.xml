@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">При использовании браузера вы можете столкнуться с ситуациями, когда вы не можете беспрепятственно получить доступ к Интернету по разным причинам, например, из-за проблем с сервером на посещаемом вами сайте или недостаточной памяти.</string>
     <string name="restart_guide_3">В этом случае нажмите эту кнопку.</string>
     <string name="restart_guide_4">Приложение безопасно перезапустится в чистом состоянии с удалением всей ненужной памяти.</string>
+    <string name="restart_noti">Хотите перезапустить приложение?</string>
+    <string name="restart_title">Перезапуск</string>
     <string name="block_area">блокировка зоны</string>
+    <string name="remove_area">Вы уверены, что хотите удалить выбранную область?</string>
+    <string name="remove_title">Удалять</string>
     <string name="area_guide_1">Вы можете выбрать область, которую хотите удалить.</string>
     <string name="area_guide_2">Все регионы с теми же свойствами, что и выбранный регион, будут удалены.</string>
     <string name="area_guide_3">Когда есть перекрывающиеся слои</string>

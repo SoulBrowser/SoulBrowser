@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">Bei der Verwendung eines Browsers kann es vorkommen, dass Sie aus verschiedenen Gründen nicht reibungslos auf das Internet zugreifen können, beispielsweise aufgrund von Serverproblemen auf der von Ihnen besuchten Website oder aufgrund von unzureichendem Speicher.</string>
     <string name="restart_guide_3">Klicken Sie in diesem Fall bitte auf diese Schaltfläche.</string>
     <string name="restart_guide_4">Die App wird sicher in einem sauberen Zustand neu gestartet, wobei unnötiger Speicher gelöscht wird.</string>
+    <string name="restart_noti">Möchten Sie die App neu starten?</string>
+    <string name="restart_title">Neustart</string>
     <string name="block_area">Zonenblockierung</string>
+    <string name="remove_area">Möchten Sie den ausgewählten Bereich wirklich entfernen?</string>
+    <string name="remove_title">Entfernen</string>
     <string name="area_guide_1">Sie können den Bereich auswählen, den Sie entfernen möchten.</string>
     <string name="area_guide_2">Alle Regionen mit denselben Eigenschaften wie die ausgewählte Region werden entfernt.</string>
     <string name="area_guide_3">Wenn es überlappende Schichten gibt</string>

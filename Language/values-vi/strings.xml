@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">Khi sử dụng trình duyệt, bạn có thể gặp phải tình huống không thể truy cập Internet một cách trơn tru vì nhiều lý do khác nhau, chẳng hạn như sự cố máy chủ tại trang bạn đang truy cập hoặc không đủ bộ nhớ.</string>
     <string name="restart_guide_3">Trong trường hợp đó, vui lòng nhấp vào nút này.</string>
     <string name="restart_guide_4">Ứng dụng sẽ khởi động lại an toàn ở trạng thái sạch và xóa mọi bộ nhớ không cần thiết.</string>
+    <string name="restart_noti">Bạn có muốn khởi động lại ứng dụng không?</string>
+    <string name="restart_title">Khởi động lại</string>
     <string name="block_area">Chặn vùng</string>
+    <string name="remove_area">Bạn có chắc chắn muốn xóa vùng đã chọn không?</string>
+    <string name="remove_title">Di dời</string>
     <string name="area_guide_1">Bạn có thể chọn khu vực bạn muốn loại bỏ.</string>
     <string name="area_guide_2">Tất cả các vùng có cùng thuộc tính với vùng đã chọn sẽ bị xóa.</string>
     <string name="area_guide_3">Khi có các lớp chồng lên nhau</string>

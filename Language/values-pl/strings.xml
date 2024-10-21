@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">Podczas korzystania z przeglądarki możesz spotkać się z sytuacjami, w których z różnych powodów nie będziesz mógł płynnie uzyskać dostępu do Internetu, np. problemy z serwerem odwiedzanej witryny lub niewystarczającą ilość pamięci.</string>
     <string name="restart_guide_3">W takim przypadku kliknij ten przycisk.</string>
     <string name="restart_guide_4">Aplikacja zostanie bezpiecznie uruchomiona ponownie w czystym stanie, po usunięciu niepotrzebnej pamięci.</string>
+    <string name="restart_noti">Czy chcesz ponownie uruchomić aplikację?</string>
+    <string name="restart_title">Uruchom ponownie</string>
     <string name="block_area">Blokowanie strefy</string>
+    <string name="remove_area">Czy na pewno chcesz usunąć zaznaczony obszar?</string>
+    <string name="remove_title">Usunąć</string>
     <string name="area_guide_1">Możesz wybrać obszar, który chcesz usunąć.</string>
     <string name="area_guide_2">Wszystkie regiony o takich samych właściwościach jak wybrany region zostaną usunięte.</string>
     <string name="area_guide_3">Gdy warstwy nakładają się na siebie</string>

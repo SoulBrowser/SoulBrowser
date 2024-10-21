@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">브라우저를 사용하다 보면 방문하는 사이트의 서버 문제나 메모리 부족 등 다양한 이유로 인터넷에 원활하게 접속할 수 없는 상황이 발생할 수 있습니다.</string>
     <string name="restart_guide_3">그 경우에는 이 버튼을 클릭해 주세요.</string>
     <string name="restart_guide_4">불필요한 메모리가 삭제된 깨끗한 상태에서 앱이 안전하게 다시 시작됩니다.</string>
+    <string name="restart_noti">앱을 다시 시작하시겠습니까?</string>
+    <string name="restart_title">다시 시작</string>
     <string name="block_area">영역 차단</string>
+    <string name="remove_area">선택한 영역을 제거하시겠습니까?</string>
+    <string name="remove_title">제거</string>
     <string name="area_guide_1">제거하려는 영역을 선택할 수 있습니다.</string>
     <string name="area_guide_2">선택한 영역과 동일한 속성을 가진 모든 영역이 제거됩니다.</string>
     <string name="area_guide_3">겹치는 레이어가 있는 경우</string>

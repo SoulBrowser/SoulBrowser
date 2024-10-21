@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">عند استخدام المتصفح، قد تواجه مواقف لا يمكنك فيها الوصول إلى الإنترنت بسلاسة لأسباب مختلفة، مثل مشاكل الخادم في الموقع الذي تزوره أو عدم كفاية الذاكرة.</string>
     <string name="restart_guide_3">في هذه الحالة، الرجاء الضغط على هذا الزر.</string>
     <string name="restart_guide_4">سيتم إعادة تشغيل التطبيق بأمان في حالة نظيفة مع حذف أي ذاكرة غير ضرورية.</string>
+    <string name="restart_noti">هل ترغب في إعادة تشغيل التطبيق؟</string>
+    <string name="restart_title">إعادة تشغيل</string>
     <string name="block_area">حجب المنطقة</string>
+    <string name="remove_area">هل أنت متأكد أنك تريد إزالة المنطقة المحددة؟</string>
+    <string name="remove_title">يزيل</string>
     <string name="area_guide_1">يمكنك تحديد المنطقة التي تريد إزالتها.</string>
     <string name="area_guide_2">تتم إزالة كافة المناطق التي لها نفس خصائص المنطقة المحددة.</string>
     <string name="area_guide_3">عندما تكون هناك طبقات متداخلة</string>

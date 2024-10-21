@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">Lorsque vous utilisez un navigateur, vous pouvez rencontrer des situations dans lesquelles vous ne pouvez pas accéder facilement à Internet pour diverses raisons, telles que des problèmes de serveur sur le site que vous visitez ou une mémoire insuffisante.</string>
     <string name="restart_guide_3">Dans ce cas, veuillez cliquer sur ce bouton.</string>
     <string name="restart_guide_4">L\'application redémarrera en toute sécurité dans un état propre avec toute mémoire inutile supprimée.</string>
+    <string name="restart_noti">Souhaitez-vous redémarrer l\'application ?</string>
+    <string name="restart_title">Redémarrage</string>
     <string name="block_area">Blocage de zones</string>
+    <string name="remove_area">Êtes-vous sûr de vouloir supprimer la zone sélectionnée ?</string>
+    <string name="remove_title">Retirer</string>
     <string name="area_guide_1">Vous pouvez sélectionner la zone que vous souhaitez supprimer.</string>
     <string name="area_guide_2">Toutes les régions ayant les mêmes propriétés que la région sélectionnée sont supprimées.</string>
     <string name="area_guide_3">Lorsqu\'il y a des couches qui se chevauchent</string>

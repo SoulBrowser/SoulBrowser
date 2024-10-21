@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">Saat menggunakan browser, Anda mungkin menghadapi situasi di mana Anda tidak dapat mengakses Internet dengan lancar karena berbagai alasan, seperti masalah server di situs yang Anda kunjungi atau memori tidak mencukupi.</string>
     <string name="restart_guide_3">Jika demikian, silakan klik tombol ini.</string>
     <string name="restart_guide_4">Aplikasi akan dimulai ulang dengan aman dalam keadaan bersih dengan semua memori yang tidak perlu dihapus.</string>
+    <string name="restart_noti">Apakah Anda ingin memulai ulang aplikasi?</string>
+    <string name="restart_title">Mulai ulang</string>
     <string name="block_area">Pemblokiran zona</string>
+    <string name="remove_area">Apakah Anda yakin ingin menghapus area yang dipilih?</string>
+    <string name="remove_title">Menghapus</string>
     <string name="area_guide_1">Anda dapat memilih area yang ingin Anda hapus.</string>
     <string name="area_guide_2">Semua wilayah dengan properti yang sama dengan wilayah yang dipilih akan dihapus.</string>
     <string name="area_guide_3">Ketika ada lapisan yang tumpang tindih</string>

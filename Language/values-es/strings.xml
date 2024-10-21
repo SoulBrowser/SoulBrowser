@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">Al utilizar un navegador, puede encontrar situaciones en las que no pueda acceder sin problemas a Internet por diversos motivos, como problemas del servidor en el sitio que está visitando o memoria insuficiente.</string>
     <string name="restart_guide_3">En ese caso, haga clic en este botón.</string>
     <string name="restart_guide_4">La aplicación se reiniciará de forma segura en un estado limpio y se eliminará la memoria innecesaria.</string>
+    <string name="restart_noti">¿Quieres reiniciar la aplicación?</string>
+    <string name="restart_title">Reanudar</string>
     <string name="block_area">Bloqueo de zona</string>
+    <string name="remove_area">¿Está seguro de que desea eliminar el área seleccionada?</string>
+    <string name="remove_title">Eliminar</string>
     <string name="area_guide_1">Puede seleccionar el área que desea eliminar.</string>
     <string name="area_guide_2">Se eliminan todas las regiones con las mismas propiedades que la región seleccionada.</string>
     <string name="area_guide_3">Cuando hay capas superpuestas</string>

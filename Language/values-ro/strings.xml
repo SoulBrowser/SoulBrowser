@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">Când utilizați un browser, puteți întâlni situații în care nu puteți accesa fără probleme Internetul din diverse motive, cum ar fi probleme cu serverul de pe site-ul pe care îl vizitați sau memorie insuficientă.</string>
     <string name="restart_guide_3">În acest caz, vă rugăm să faceți clic pe acest buton.</string>
     <string name="restart_guide_4">Aplicația va reporni în siguranță într-o stare curată, cu orice memorie inutilă ștearsă.</string>
+    <string name="restart_noti">Doriți să reporniți aplicația?</string>
+    <string name="restart_title">Repornire</string>
     <string name="block_area">Blocarea zonei</string>
+    <string name="remove_area">Sigur doriți să eliminați zona selectată?</string>
+    <string name="remove_title">Elimina</string>
     <string name="area_guide_1">Puteți selecta zona pe care doriți să o eliminați.</string>
     <string name="area_guide_2">Toate regiunile cu aceleași proprietăți ca și regiunea selectată sunt eliminate.</string>
     <string name="area_guide_3">Când există straturi suprapuse</string>

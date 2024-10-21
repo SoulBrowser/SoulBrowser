@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">Tarayıcı kullanırken, ziyaret ettiğiniz sitedeki sunucu sorunları veya hafızanın yetersiz olması gibi çeşitli nedenlerle internete sorunsuz bir şekilde erişemediğiniz durumlarla karşılaşabilirsiniz.</string>
     <string name="restart_guide_3">Bu durumda lütfen bu butona tıklayın.</string>
     <string name="restart_guide_4">Uygulama, gereksiz hafızanın silinmesiyle temiz bir durumda güvenli bir şekilde yeniden başlatılacaktır.</string>
+    <string name="restart_noti">Uygulamayı yeniden başlatmak ister misiniz?</string>
+    <string name="restart_title">Tekrar başlat</string>
     <string name="block_area">Bölge engelleme</string>
+    <string name="remove_area">Seçilen alanı kaldırmak istediğinizden emin misiniz?</string>
+    <string name="remove_title">Kaldırmak</string>
     <string name="area_guide_1">Kaldırmak istediğiniz alanı seçebilirsiniz.</string>
     <string name="area_guide_2">Seçilen bölgeyle aynı özelliklere sahip tüm bölgeler kaldırılır.</string>
     <string name="area_guide_3">Üst üste binen katmanlar olduğunda</string>

@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">When using a browser, you may encounter situations where you cannot smoothly access the Internet for various reasons, such as server problems at the site you are visiting or insufficient memory.</string>
     <string name="restart_guide_3">In that case, please click this button.</string>
     <string name="restart_guide_4">The app will safely restart in a clean state with any unnecessary memory deleted.</string>
+    <string name="restart_noti">Would you like to restart the app?</string>
+    <string name="restart_title">Restart</string>
     <string name="block_area">Block area</string>
+    <string name="remove_area">Do you want to remove the selected area?</string>
+    <string name="remove_title">Remove</string>
     <string name="area_guide_1">You can select the area you want to remove.</string>
     <string name="area_guide_2">All areas with the same properties as the selected area are removed.</string>
     <string name="area_guide_3">When there are overlapping layers</string>

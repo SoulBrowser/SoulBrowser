@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">ブラウザを使ってみると、訪れるサイトのサーバーの問題やメモリ不足など、さまざまな理由でインターネットにスムーズにアクセスできない状況が発生することがあります。</string>
     <string name="restart_guide_3">その場合はこのボタンをクリックしてください。</string>
     <string name="restart_guide_4">不要なメモリが削除されたクリーンな状態でアプリが安全に再起動されます。</string>
+    <string name="restart_noti">アプリを再起動しますか？</string>
+    <string name="restart_title">再起動</string>
     <string name="block_area">エリアブロック</string>
+    <string name="remove_area">選択した領域を削除しますか？</string>
+    <string name="remove_title">取り除く</string>
     <string name="area_guide_1">削除する領域を選択できます。</string>
     <string name="area_guide_2">選択した領域と同じ属性を持つすべての領域が削除されます。</string>
     <string name="area_guide_3">レイヤーが重なっている場合</string>

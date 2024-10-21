@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">Quando utilizzi un browser, potresti riscontrare situazioni in cui non è possibile accedere facilmente a Internet per vari motivi, come problemi del server nel sito che stai visitando o memoria insufficiente.</string>
     <string name="restart_guide_3">In tal caso, fare clic su questo pulsante.</string>
     <string name="restart_guide_4">L\'app si riavvierà in modo sicuro in uno stato pulito con l\'eliminazione della memoria non necessaria.</string>
+    <string name="restart_noti">Desideri riavviare l\'app?</string>
+    <string name="restart_title">Ricomincia</string>
     <string name="block_area">Blocco delle zone</string>
+    <string name="remove_area">Sei sicuro di voler rimuovere l\'area selezionata?</string>
+    <string name="remove_title">Rimuovere</string>
     <string name="area_guide_1">Puoi selezionare l\'area che desideri rimuovere.</string>
     <string name="area_guide_2">Tutte le regioni con le stesse proprietà della regione selezionata verranno rimosse.</string>
     <string name="area_guide_3">Quando ci sono strati sovrapposti</string>

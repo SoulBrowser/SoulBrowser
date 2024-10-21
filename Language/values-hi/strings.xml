@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">ब्राउज़र का उपयोग करते समय, आपको ऐसी स्थितियों का सामना करना पड़ सकता है जहां आप विभिन्न कारणों से इंटरनेट तक आसानी से नहीं पहुंच सकते हैं, जैसे कि जिस साइट पर आप जा रहे हैं वहां सर्वर की समस्या या अपर्याप्त मेमोरी।</string>
     <string name="restart_guide_3">उस स्थिति में, कृपया इस बटन पर क्लिक करें।</string>
     <string name="restart_guide_4">ऐप किसी भी अनावश्यक मेमोरी को हटाए जाने के साथ स्वच्छ स्थिति में सुरक्षित रूप से पुनरारंभ हो जाएगा।</string>
+    <string name="restart_noti">क्या आप ऐप को पुनः आरंभ करना चाहेंगे?</string>
+    <string name="restart_title">पुनः आरंभ करें</string>
     <string name="block_area">ज़ोन अवरोधन</string>
+    <string name="remove_area">क्या आप वाकई चयनित क्षेत्र को हटाना चाहते हैं?</string>
+    <string name="remove_title">निकालना</string>
     <string name="area_guide_1">आप वह क्षेत्र चुन सकते हैं जिसे आप हटाना चाहते हैं.</string>
     <string name="area_guide_2">चयनित क्षेत्र के समान गुणों वाले सभी क्षेत्र हटा दिए जाते हैं।</string>
     <string name="area_guide_3">जब ओवरलैपिंग परतें होती हैं</string>

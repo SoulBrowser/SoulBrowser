@@ -1008,7 +1008,11 @@
     <string name="restart_guide_2">在使用浏览器时，您可能会遇到由于各种原因而无法顺利访问互联网的情况，例如您访问的站点服务器问题或内存不足等</string>
     <string name="restart_guide_3">在这种情况下，请单击此按钮</string>
     <string name="restart_guide_4">该应用程序将以干净的状态安全地重新启动，并删除所有不必要的内存</string>
+    <string name="restart_noti">您想重新启动应用程序吗？</string>
+    <string name="restart_title">重启</string>
     <string name="block_area">区域封锁</string>
+    <string name="remove_area">您确定要删除所选区域吗？</string>
+    <string name="remove_title">消除</string>
     <string name="area_guide_1">您可以选择要删除的区域</string>
     <string name="area_guide_2">与所选区域具有相同属性的所有区域都将被删除</string>
     <string name="area_guide_3">当有重叠层时</string>
