@@ -704,6 +704,7 @@
     <string name="move_right">Droite</string>
     <string name="swipe_guide_1">1. Cliquez sur la zone pour changer la fonction.</string>
     <string name="swipe_guide_2">2. Faites glisser la zone pour modifier la taille.</string>
+    <string name="swipe_guide_3">Si le mode gestuel est activé dans les paramètres du système Android,\nles paramètres du système Android sont prioritaires.</string>
     <string name="big_icon">Grande icône</string>
     <string name="small_list">Petite liste</string>
     <string name="large_list">Grande liste</string>

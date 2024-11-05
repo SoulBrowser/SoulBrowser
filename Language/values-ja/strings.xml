@@ -704,6 +704,7 @@
     <string name="move_right">右</string>
     <string name="swipe_guide_1">1. 領域をクリックして、機能を変更してください。</string>
     <string name="swipe_guide_2">2. 領域をドラッグして、サイズを変更してください。</string>
+    <string name="swipe_guide_3">Androidシステム設定でジェスチャーモードが有効になっている場合は、\nAndroidシステム設定が優先されます。</string>
     <string name="big_icon">大きなアイコン</string>
     <string name="small_list">小さなリスト</string>
     <string name="large_list">大きなリスト</string>

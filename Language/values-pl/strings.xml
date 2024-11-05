@@ -704,6 +704,7 @@
     <string name="move_right">Prawo</string>
     <string name="swipe_guide_1">1. Kliknij obszar, aby zmienić funkcję.</string>
     <string name="swipe_guide_2">2. Przeciągnij obszar, aby zmienić rozmiar.</string>
+    <string name="swipe_guide_3">Jeśli w ustawieniach systemu Android włączono tryb gestów,\npierwszeństwo mają ustawienia systemu Android.</string>
     <string name="big_icon">Duża ikona</string>
     <string name="small_list">Mała lista</string>
     <string name="large_list">Duża lista</string>

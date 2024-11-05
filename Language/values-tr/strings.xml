@@ -704,6 +704,7 @@
     <string name="move_right">Sağ</string>
     <string name="swipe_guide_1">1. İşlevi değiştirmek için alanı tıklayın.</string>
     <string name="swipe_guide_2">2. Boyutu değiştirmek için alanı sürükleyin.</string>
+    <string name="swipe_guide_3">Android sistem ayarlarında hareket modu etkinleştirilirse Android sistem ayarları öncelikli olur.</string>
     <string name="big_icon">Büyük simge</string>
     <string name="small_list">Küçük liste</string>
     <string name="large_list">Geniş liste</string>

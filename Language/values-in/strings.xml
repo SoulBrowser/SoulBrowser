@@ -704,6 +704,7 @@
     <string name="move_right">Kanan</string>
     <string name="swipe_guide_1">1. Klik pada area untuk mengubah fungsi.</string>
     <string name="swipe_guide_2">2. Seret area untuk mengubah ukuran.</string>
+    <string name="swipe_guide_3">Jika mode isyarat diaktifkan di pengaturan sistem Android,\npengaturan sistem Android akan diutamakan.</string>
     <string name="big_icon">ikon besar</string>
     <string name="small_list">Daftar kecil</string>
     <string name="large_list">Daftar besar</string>

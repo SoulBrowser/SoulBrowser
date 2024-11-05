@@ -704,6 +704,7 @@
     <string name="move_right">오른쪽</string>
     <string name="swipe_guide_1">1. 영역을 클릭하여 기능을 변경하세요.</string>
     <string name="swipe_guide_2">2. 영역을 드래그하여 크기를 변경하세요.</string>
+    <string name="swipe_guide_3">Android 시스템 설정에서 제스처 모드가 활성화된 경우,\nAndroid 시스템 설정이 우선합니다.</string>
     <string name="big_icon">큰 아이콘</string>
     <string name="small_list">작은 리스트</string>
     <string name="large_list">큰 리스트</string>

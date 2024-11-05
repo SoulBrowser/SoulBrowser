@@ -704,6 +704,7 @@
     <string name="move_right">Phải</string>
     <string name="swipe_guide_1">1. Nhấn vào khu vực để thay đổi chức năng.</string>
     <string name="swipe_guide_2">2. Kéo khu vực để thay đổi kích thước.</string>
+    <string name="swipe_guide_3">Nếu chế độ cử chỉ được bật trong cài đặt hệ thống Android thì cài đặt hệ thống Android sẽ được ưu tiên.</string>
     <string name="big_icon">Biểu tượng lớn</string>
     <string name="small_list">Danh sách nhỏ</string>
     <string name="large_list">Danh sách lớn</string>

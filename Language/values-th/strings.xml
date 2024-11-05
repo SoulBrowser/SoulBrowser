@@ -704,6 +704,7 @@
     <string name="move_right">ขวา</string>
     <string name="swipe_guide_1">1. คลิกที่พื้นที่เพื่อเปลี่ยนฟังก์ชั่น</string>
     <string name="swipe_guide_2">2. ลากพื้นที่เพื่อเปลี่ยนขนาด</string>
+    <string name="swipe_guide_3">หากเปิดใช้งานโหมดท่าทางในการตั้งค่าระบบ Android การตั้งค่าระบบ Android จะมีความสำคัญกว่า</string>
     <string name="big_icon">ไอคอนขนาดใหญ่</string>
     <string name="small_list">รายการเล็ก ๆ</string>
     <string name="large_list">รายการใหญ่</string>

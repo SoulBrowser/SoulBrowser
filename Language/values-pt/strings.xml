@@ -704,6 +704,7 @@
     <string name="move_right">Direita</string>
     <string name="swipe_guide_1">1. Clique na área para alterar a função.</string>
     <string name="swipe_guide_2">2. Arraste a área para alterar o tamanho.</string>
+    <string name="swipe_guide_3">Se o modo de gesto estiver ativado nas definições do sistema Android,\nas definições do sistema Android terão precedência.</string>
     <string name="big_icon">Ícone grande</string>
     <string name="small_list">Lista pequena</string>
     <string name="large_list">Lista grande</string>

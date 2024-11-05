@@ -704,6 +704,7 @@
     <string name="move_right">右</string>
     <string name="swipe_guide_1">1. 单击该区域以更改功能</string>
     <string name="swipe_guide_2">2. 拖动区域以更改大小</string>
+    <string name="swipe_guide_3">如果 Android 系统设置中启用了手势模式，\n则 Android 系统设置优先</string>
     <string name="big_icon">大图标</string>
     <string name="small_list">小列表</string>
     <string name="large_list">大列表</string>

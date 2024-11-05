@@ -704,6 +704,7 @@
     <string name="move_right">Nach rechts</string>
     <string name="swipe_guide_1">1. Klicken Sie auf den Bereich, um die Funktion zu ändern.</string>
     <string name="swipe_guide_2">2. Ziehen Sie den Bereich, um die Größe zu ändern.</string>
+    <string name="swipe_guide_3">Wenn der Gestenmodus in den Android-Systemeinstellungen aktiviert ist,\nhaben die Android-Systemeinstellungen Vorrang.</string>
     <string name="big_icon">Großes Symbol</string>
     <string name="small_list">Kleine Liste</string>
     <string name="large_list">Große Liste</string>

@@ -704,6 +704,7 @@
     <string name="move_right">Праворуч</string>
     <string name="swipe_guide_1">1. Натиснiть на область, щоб змінити функцію.</string>
     <string name="swipe_guide_2">2. Перетягніть область, щоб змінити розмір.</string>
+    <string name="swipe_guide_3">Якщо в налаштуваннях системи Android увімкнено режим жестів,\nналаштування системи Android мають пріоритет.</string>
     <string name="big_icon">Велика ікона</string>
     <string name="small_list">Список (зменшений шрифт)</string>
     <string name="large_list">Список (збільшений шрифт)</string>

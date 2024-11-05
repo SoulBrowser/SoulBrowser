@@ -704,6 +704,7 @@
     <string name="move_right">Right</string>
     <string name="swipe_guide_1">1. Click the area to change the function.</string>
     <string name="swipe_guide_2">2. Drag the area to change the size.</string>
+    <string name="swipe_guide_3">If gesture mode is enabled in Android system settings,\nAndroid system settings take precedence.</string>
     <string name="big_icon">Big icon</string>
     <string name="small_list">Small list</string>
     <string name="large_list">Large list</string>
