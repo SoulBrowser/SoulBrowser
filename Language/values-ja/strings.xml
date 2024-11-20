@@ -488,7 +488,6 @@
     <string name="not_allow">許可しない</string>
     <string name="quick_access">ショートカット</string>
     <string name="quick_home">ホームページで使用</string>
-    <string name="quick_search">検索モードで使用</string>
     <string name="add_folder">フォルダの追加</string>
     <string name="add_site">現在のサイトを追加</string>
     <string name="add_page">現在のページを追加</string>
@@ -704,7 +703,6 @@
     <string name="move_right">右</string>
     <string name="swipe_guide_1">1. 領域をクリックして、機能を変更してください。</string>
     <string name="swipe_guide_2">2. 領域をドラッグして、サイズを変更してください。</string>
-    <string name="swipe_guide_3">Androidシステム設定でジェスチャーモードが有効になっている場合は、\nAndroidシステム設定が優先されます。</string>
     <string name="big_icon">大きなアイコン</string>
     <string name="small_list">小さなリスト</string>
     <string name="large_list">大きなリスト</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">1つ以上のハードウェアセンサーでセキュリティの脆弱性が発見されたため、ユーザーは認証できません。</string>
     <string name="finger_unsupported">指定されたオプションが現在のAndroidバージョンと互換性がないため、ユーザーは認証できません。</string>
     <string name="finger_unknown">ユーザーが認証できるかどうかを判断できません。</string>
-    <string name="use_gesture">ジェスチャの使用</string>
-    <string name="gesture_block_site">現在のサイトでジェスチャーをブロック</string>
-    <string name="gesture_block_page">現在のページでジェスチャーをブロックする</string>
-    <string name="gesture_block_list">ジェスチャーブラックリスト</string>
-    <string name="gesture_block_info_1">ジェスチャーを使用しないサイトを登録できます。</string>
-    <string name="gesture_block_info_2">画面中央のジェスチャーのみ適用されます。</string>
-    <string name="gesture_block_info_3">画面の端のジェスチャーは適用されません。</string>
     <string name="auto_comp">オートコンプリート</string>
     <string name="check_element">要素を検証</string>
     <string name="check_ele_info_0">（より細かいブロック）</string>

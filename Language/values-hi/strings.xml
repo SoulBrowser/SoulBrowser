@@ -488,7 +488,6 @@
     <string name="not_allow">इजाजत न दें</string>
     <string name="quick_access">शॉर्टकट</string>
     <string name="quick_home">होम पेज पर प्रयोग करें</string>
-    <string name="quick_search">खोज मोड में उपयोग करें</string>
     <string name="add_folder">फ़ोल्डर जोड़ें</string>
     <string name="add_site">वर्तमान साइट जोड़ें</string>
     <string name="add_page">वर्तमान पृष्ठ जोड़ें</string>
@@ -704,7 +703,6 @@
     <string name="move_right">सही</string>
     <string name="swipe_guide_1">1. फ़ंक्शन बदलने के लिए क्षेत्र पर क्लिक करें।</string>
     <string name="swipe_guide_2">2. आकार बदलने के लिए क्षेत्र को खींचें।</string>
-    <string name="swipe_guide_3">यदि एंड्रॉइड सिस्टम सेटिंग्स में जेस्चर मोड सक्षम है,\nतो एंड्रॉइड सिस्टम सेटिंग्स को प्राथमिकता दी जाती है।</string>
     <string name="big_icon">बड़ा आइकन</string>
     <string name="small_list">छोटी सूची</string>
     <string name="large_list">बड़ी सूची</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">उपयोगकर्ता प्रमाणित नहीं कर सकता क्योंकि एक या अधिक हार्डवेयर सेंसर के साथ सुरक्षा भेद्यता का पता चला है।</string>
     <string name="finger_unsupported">उपयोगकर्ता प्रमाणित नहीं कर सकता क्योंकि निर्दिष्ट विकल्प वर्तमान Android संस्करण के साथ असंगत हैं।</string>
     <string name="finger_unknown">यह निर्धारित करने में असमर्थ कि उपयोगकर्ता प्रमाणित कर सकता है या नहीं।</string>
-    <string name="use_gesture">इशारों का प्रयोग करें</string>
-    <string name="gesture_block_site">वर्तमान साइट पर जेस्चर ब्लॉक करें</string>
-    <string name="gesture_block_page">वर्तमान पेज पर जेस्चर को ब्लॉक करें</string>
-    <string name="gesture_block_list">जेस्चर ब्लैकलिस्ट</string>
-    <string name="gesture_block_info_1">आप उन साइटों को पंजीकृत कर सकते हैं जो इशारों का उपयोग नहीं करती हैं।</string>
-    <string name="gesture_block_info_2">केवल स्क्रीन के केंद्र में जेस्चर पर लागू होता है।</string>
-    <string name="gesture_block_info_3">यह स्क्रीन के किनारों पर जेस्चर पर लागू नहीं होता है।</string>
     <string name="auto_comp">स्वतः पूर्ण</string>
     <string name="check_element">तत्व निरीक्षण</string>
     <string name="check_ele_info_0">(अधिक सुक्ष्म अवरोधन)</string>

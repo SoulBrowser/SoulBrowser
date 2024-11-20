@@ -488,7 +488,6 @@
     <string name="not_allow">Не дозволяти</string>
     <string name="quick_access">Ярлики</string>
     <string name="quick_home">Використовувати на домашній сторінці</string>
-    <string name="quick_search">Використовуйте в режимі пошуку</string>
     <string name="add_folder">Додати папку</string>
     <string name="add_site">Додати поточний сайт</string>
     <string name="add_page">Додати поточну сторінку</string>
@@ -704,7 +703,6 @@
     <string name="move_right">Праворуч</string>
     <string name="swipe_guide_1">1. Натиснiть на область, щоб змінити функцію.</string>
     <string name="swipe_guide_2">2. Перетягніть область, щоб змінити розмір.</string>
-    <string name="swipe_guide_3">Якщо в налаштуваннях системи Android увімкнено режим жестів,\nналаштування системи Android мають пріоритет.</string>
     <string name="big_icon">Велика ікона</string>
     <string name="small_list">Список (зменшений шрифт)</string>
     <string name="large_list">Список (збільшений шрифт)</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">Користувач не може пройти автентифікацію, оскільки виявлено вразливість системи безпеки за допомогою одного або декількох апаратних датчиків.</string>
     <string name="finger_unsupported">Користувач не може автентифікуватися, оскільки вказані параметри несумісні з поточною версією Android.</string>
     <string name="finger_unknown">Неможливо визначити, чи може користувач пройти автентифікацію.</string>
-    <string name="use_gesture">Використовуйте жести</string>
-    <string name="gesture_block_site">Блокувати жести на поточному сайті</string>
-    <string name="gesture_block_page">Блокувати жести на поточній сторінці</string>
-    <string name="gesture_block_list">Чорний список жестів</string>
-    <string name="gesture_block_info_1">Ви можете зареєструвати сайти, які не використовують жести.</string>
-    <string name="gesture_block_info_2">Застосовується лише до жестів у центрі екрана.</string>
-    <string name="gesture_block_info_3">Це не стосується жестів по краях екрана.</string>
     <string name="auto_comp">Автозаповнення</string>
     <string name="check_element">Перевірка елементів</string>
     <string name="check_ele_info_0">(більш дрібнозернисте блокування)</string>

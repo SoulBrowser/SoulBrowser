@@ -488,7 +488,6 @@
     <string name="not_allow">Jangan izinkan</string>
     <string name="quick_access">Pintas</string>
     <string name="quick_home">Gunakan di halaman rumah</string>
-    <string name="quick_search">Gunakan dalam mode pencarian</string>
     <string name="add_folder">Tambahkan folder</string>
     <string name="add_site">Tambahkan situs saat ini</string>
     <string name="add_page">Tambahkan halaman saat ini</string>
@@ -704,7 +703,6 @@
     <string name="move_right">Kanan</string>
     <string name="swipe_guide_1">1. Klik pada area untuk mengubah fungsi.</string>
     <string name="swipe_guide_2">2. Seret area untuk mengubah ukuran.</string>
-    <string name="swipe_guide_3">Jika mode isyarat diaktifkan di pengaturan sistem Android,\npengaturan sistem Android akan diutamakan.</string>
     <string name="big_icon">ikon besar</string>
     <string name="small_list">Daftar kecil</string>
     <string name="large_list">Daftar besar</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">Pengguna tidak dapat mengautentikasi karena kerentanan keamanan telah ditemukan dengan satu atau beberapa sensor perangkat keras.</string>
     <string name="finger_unsupported">Pengguna tidak dapat mengautentikasi karena opsi yang ditentukan tidak kompatibel dengan versi Android saat ini.</string>
     <string name="finger_unknown">Tidak dapat menentukan apakah pengguna dapat mengautentikasi.</string>
-    <string name="use_gesture">Gunakan gerakan</string>
-    <string name="gesture_block_site">Blokir gerakan di situs saat ini</string>
-    <string name="gesture_block_page">Blokir gerakan di halaman saat ini</string>
-    <string name="gesture_block_list">Daftar hitam gerakan</string>
-    <string name="gesture_block_info_1">Anda dapat mendaftarkan situs yang tidak menggunakan isyarat.</string>
-    <string name="gesture_block_info_2">Berlaku hanya untuk isyarat di tengah layar.</string>
-    <string name="gesture_block_info_3">Ini tidak berlaku untuk isyarat di tepi layar.</string>
     <string name="auto_comp">Pelengkapan otomatis</string>
     <string name="check_element">Pemeriksaan elemen</string>
     <string name="check_ele_info_0">(pemblokiran yang lebih halus)</string>

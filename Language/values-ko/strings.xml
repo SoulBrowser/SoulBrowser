@@ -488,7 +488,6 @@
     <string name="not_allow">허용 안함</string>
     <string name="quick_access">바로가기</string>
     <string name="quick_home">홈페이지에서 사용</string>
-    <string name="quick_search">검색 모드에서 사용</string>
     <string name="add_folder">폴더 추가</string>
     <string name="add_site">현재 사이트 추가</string>
     <string name="add_page">현재 페이지 추가</string>
@@ -704,7 +703,6 @@
     <string name="move_right">오른쪽</string>
     <string name="swipe_guide_1">1. 영역을 클릭하여 기능을 변경하세요.</string>
     <string name="swipe_guide_2">2. 영역을 드래그하여 크기를 변경하세요.</string>
-    <string name="swipe_guide_3">Android 시스템 설정에서 제스처 모드가 활성화된 경우,\nAndroid 시스템 설정이 우선합니다.</string>
     <string name="big_icon">큰 아이콘</string>
     <string name="small_list">작은 리스트</string>
     <string name="large_list">큰 리스트</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">하나 이상의 하드웨어 센서에서 보안 취약점이 발견되었기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unsupported">지정된 옵션이 현재 Android 버전과 호환되지 않기 때문에 사용자가 인증할 수 없습니다.</string>
     <string name="finger_unknown">사용자가 인증할 수 있는지 여부를 확인할 수 없습니다.</string>
-    <string name="use_gesture">제스처 사용</string>
-    <string name="gesture_block_site">현재 사이트에서 제스처 차단</string>
-    <string name="gesture_block_page">현재 페이지에서 제스처 차단</string>
-    <string name="gesture_block_list">제스처 차단 목록</string>
-    <string name="gesture_block_info_1">제스처를 사용하지 않는 사이트를 등록할 수 있습니다.</string>
-    <string name="gesture_block_info_2">화면 중앙의 제스처에만 적용됩니다.</string>
-    <string name="gesture_block_info_3">화면 가장자리의 제스처에는 적용되지 않습니다.</string>
     <string name="auto_comp">자동 완성</string>
     <string name="check_element">요소 검사</string>
     <string name="check_ele_info_0">(더 세밀한 차단)</string>

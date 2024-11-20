@@ -488,7 +488,6 @@
     <string name="not_allow">Không cho phép</string>
     <string name="quick_access">Phím tắt</string>
     <string name="quick_home">Sử dụng trên trang chủ</string>
-    <string name="quick_search">Sử dụng trong chế độ tìm kiếm</string>
     <string name="add_folder">Thêm thư mục</string>
     <string name="add_site">Thêm trang web hiện tại</string>
     <string name="add_page">Thêm trang hiện tại</string>
@@ -704,7 +703,6 @@
     <string name="move_right">Phải</string>
     <string name="swipe_guide_1">1. Nhấn vào khu vực để thay đổi chức năng.</string>
     <string name="swipe_guide_2">2. Kéo khu vực để thay đổi kích thước.</string>
-    <string name="swipe_guide_3">Nếu chế độ cử chỉ được bật trong cài đặt hệ thống Android thì cài đặt hệ thống Android sẽ được ưu tiên.</string>
     <string name="big_icon">Biểu tượng lớn</string>
     <string name="small_list">Danh sách nhỏ</string>
     <string name="large_list">Danh sách lớn</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">Người dùng không thể xác thực vì lỗ hổng bảo mật đã được phát hiện với một hoặc nhiều cảm biến phần cứng.</string>
     <string name="finger_unsupported">Người dùng không thể xác thực vì các tùy chọn được chỉ định không tương thích với phiên bản Android hiện tại.</string>
     <string name="finger_unknown">Không thể xác định xem người dùng có thể xác thực hay không.</string>
-    <string name="use_gesture">Sử dụng cử chỉ</string>
-    <string name="gesture_block_site">Chặn cử chỉ trên trang web hiện tại</string>
-    <string name="gesture_block_page">Chặn cử chỉ trên trang hiện tại</string>
-    <string name="gesture_block_list">Danh sách đen cử chỉ</string>
-    <string name="gesture_block_info_1">Bạn có thể đăng ký các trang web không sử dụng cử chỉ.</string>
-    <string name="gesture_block_info_2">Chỉ áp dụng cho các cử chỉ ở giữa màn hình.</string>
-    <string name="gesture_block_info_3">Nó không áp dụng cho các cử chỉ ở các cạnh của màn hình.</string>
     <string name="auto_comp">Tự động hoàn thành</string>
     <string name="check_element">Kiểm tra phần tử</string>
     <string name="check_ele_info_0">(chặn chi tiết hơn)</string>

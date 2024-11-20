@@ -488,7 +488,6 @@
     <string name="not_allow">Не разрешать</string>
     <string name="quick_access">Ярлыки</string>
     <string name="quick_home">Использовать на главной странице</string>
-    <string name="quick_search">Использовать в режиме поиска</string>
     <string name="add_folder">Добавить папку</string>
     <string name="add_site">Добавить текущий сайт</string>
     <string name="add_page">Добавить текущую страницу</string>
@@ -704,7 +703,6 @@
     <string name="move_right">Вправо</string>
     <string name="swipe_guide_1">1. Нажмите, чтобы изменить функцию.</string>
     <string name="swipe_guide_2">2. Перетащите, чтобы изменить размер.</string>
-    <string name="swipe_guide_3">Если в настройках системы Android включен режим жестов,\nнастройки системы Android имеют приоритет.</string>
     <string name="big_icon">Большая иконка</string>
     <string name="small_list">Компактный список</string>
     <string name="large_list">Крупный список</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">Пользователь не может пройти аутентификацию, так как в одном или нескольких аппаратных датчиках обнаружена уязвимость системы безопасности.</string>
     <string name="finger_unsupported">Пользователь не может пройти аутентификацию, так как указанные параметры несовместимы с текущей версией Android.</string>
     <string name="finger_unknown">Невозможно определить, может ли пользователь пройти аутентификацию.</string>
-    <string name="use_gesture">Использовать жесты</string>
-    <string name="gesture_block_site">Блокировать жесты на текущем сайте</string>
-    <string name="gesture_block_page">Блокировать жесты на текущей странице</string>
-    <string name="gesture_block_list">Черный список жестов</string>
-    <string name="gesture_block_info_1">Жесты не работают на сайтах, которые есть в этом списке.</string>
-    <string name="gesture_block_info_2">Применяется только к жестам в центре экрана.</string>
-    <string name="gesture_block_info_3">Не влияет на жесты по краям экрана.</string>
     <string name="auto_comp">Автозаполнение</string>
     <string name="check_element">Контроль элементов</string>
     <string name="check_ele_info_0">(точечная блокировка)</string>

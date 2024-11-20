@@ -488,7 +488,6 @@
     <string name="not_allow">Nie zezwalaj</string>
     <string name="quick_access">Skróty</string>
     <string name="quick_home">Użyj na stronie głównej</string>
-    <string name="quick_search">Użyj w trybie wyszukiwania</string>
     <string name="add_folder">Dodaj folder</string>
     <string name="add_site">Dodaj bieżącą witrynę</string>
     <string name="add_page">Dodaj bieżącą stronę</string>
@@ -704,7 +703,6 @@
     <string name="move_right">Prawo</string>
     <string name="swipe_guide_1">1. Kliknij obszar, aby zmienić funkcję.</string>
     <string name="swipe_guide_2">2. Przeciągnij obszar, aby zmienić rozmiar.</string>
-    <string name="swipe_guide_3">Jeśli w ustawieniach systemu Android włączono tryb gestów,\npierwszeństwo mają ustawienia systemu Android.</string>
     <string name="big_icon">Duża ikona</string>
     <string name="small_list">Mała lista</string>
     <string name="large_list">Duża lista</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">Użytkownik nie może się uwierzytelnić, ponieważ wykryto lukę w zabezpieczeniach co najmniej jednego czujnika sprzętowego.</string>
     <string name="finger_unsupported">Użytkownik nie może się uwierzytelnić, ponieważ określone opcje są niezgodne z bieżącą wersją Androida.</string>
     <string name="finger_unknown">Nie można określić, czy użytkownik może się uwierzytelnić.</string>
-    <string name="use_gesture">Używaj gestów</string>
-    <string name="gesture_block_site">Blokuj gesty w bieżącej witrynie</string>
-    <string name="gesture_block_page">Blokuj gesty na bieżącej stronie</string>
-    <string name="gesture_block_list">Czarna lista gestów</string>
-    <string name="gesture_block_info_1">Możesz zarejestrować strony, które nie używają gestów.</string>
-    <string name="gesture_block_info_2">Dotyczy tylko gestów na środku ekranu.</string>
-    <string name="gesture_block_info_3">Nie dotyczy gestów na krawędziach ekranu.</string>
     <string name="auto_comp">Autouzupełnienie</string>
     <string name="check_element">Kontrola elementów</string>
     <string name="check_ele_info_0">(bardziej drobnoziarniste blokowanie)</string>

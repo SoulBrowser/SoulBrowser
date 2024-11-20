@@ -488,7 +488,6 @@
     <string name="not_allow">ไม่อนุญาต</string>
     <string name="quick_access">ทางลัด</string>
     <string name="quick_home">ใช้ในหน้าแรก</string>
-    <string name="quick_search">ใช้ในโหมดค้นหา</string>
     <string name="add_folder">เพิ่มโฟลเดอร์</string>
     <string name="add_site">เพิ่มไซต์ปัจจุบัน</string>
     <string name="add_page">เพิ่มหน้าปัจจุบัน</string>
@@ -704,7 +703,6 @@
     <string name="move_right">ขวา</string>
     <string name="swipe_guide_1">1. คลิกที่พื้นที่เพื่อเปลี่ยนฟังก์ชั่น</string>
     <string name="swipe_guide_2">2. ลากพื้นที่เพื่อเปลี่ยนขนาด</string>
-    <string name="swipe_guide_3">หากเปิดใช้งานโหมดท่าทางในการตั้งค่าระบบ Android การตั้งค่าระบบ Android จะมีความสำคัญกว่า</string>
     <string name="big_icon">ไอคอนขนาดใหญ่</string>
     <string name="small_list">รายการเล็ก ๆ</string>
     <string name="large_list">รายการใหญ่</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากมีการค้นพบช่องโหว่ด้านความปลอดภัยด้วยเซ็นเซอร์ฮาร์ดแวร์อย่างน้อยหนึ่งตัว</string>
     <string name="finger_unsupported">ผู้ใช้ไม่สามารถพิสูจน์ตัวตนได้เนื่องจากตัวเลือกที่ระบุไม่เข้ากันกับ Android เวอร์ชันปัจจุบัน</string>
     <string name="finger_unknown">ไม่สามารถระบุได้ว่าผู้ใช้สามารถตรวจสอบสิทธิ์ได้หรือไม่</string>
-    <string name="use_gesture">ใช้ท่าทาง</string>
-    <string name="gesture_block_site">บล็อกท่าทางบนไซต์ปัจจุบัน</string>
-    <string name="gesture_block_page">บล็อกท่าทางบนหน้าปัจจุบัน</string>
-    <string name="gesture_block_list">บัญชีดำท่าทาง</string>
-    <string name="gesture_block_info_1">คุณสามารถลงทะเบียนไซต์ที่ไม่ใช้ท่าทางสัมผัส</string>
-    <string name="gesture_block_info_2">ใช้กับท่าทางสัมผัสตรงกลางหน้าจอเท่านั้น</string>
-    <string name="gesture_block_info_3">ไม่ใช้กับท่าทางสัมผัสที่ขอบหน้าจอ</string>
     <string name="auto_comp">เติมข้อความอัตโนมัติ</string>
     <string name="check_element">การตรวจสอบองค์ประกอบ</string>
     <string name="check_ele_info_0">(การปิดกั้นแบบละเอียดยิ่งขึ้น)</string>

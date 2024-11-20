@@ -488,7 +488,6 @@
     <string name="not_allow">Do not allow</string>
     <string name="quick_access">Shortcuts</string>
     <string name="quick_home">Use on home page</string>
-    <string name="quick_search">Use in search mode</string>
     <string name="add_folder">Add folder</string>
     <string name="add_site">Add current site</string>
     <string name="add_page">Add current page</string>
@@ -704,7 +703,6 @@
     <string name="move_right">Right</string>
     <string name="swipe_guide_1">1. Click the area to change the function.</string>
     <string name="swipe_guide_2">2. Drag the area to change the size.</string>
-    <string name="swipe_guide_3">If gesture mode is enabled in Android system settings,\nAndroid system settings take precedence.</string>
     <string name="big_icon">Big icon</string>
     <string name="small_list">Small list</string>
     <string name="large_list">Large list</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">The user can\'t authenticate because a security vulnerability has been discovered with one or more hardware sensors.</string>
     <string name="finger_unsupported">The user can\'t authenticate because the specified options are incompatible with the current Android version.</string>
     <string name="finger_unknown">Unable to determine whether the user can authenticate.</string>
-    <string name="use_gesture">Use gestures</string>
-    <string name="gesture_block_site">Block gestures on current site</string>
-    <string name="gesture_block_page">Block gestures on current page</string>
-    <string name="gesture_block_list">Gesture blacklist</string>
-    <string name="gesture_block_info_1">You can register sites that do not use gestures.</string>
-    <string name="gesture_block_info_2">Applies only to gestures in the center of the screen.</string>
-    <string name="gesture_block_info_3">It does not apply to gestures at the edges of the screen.</string>
     <string name="auto_comp">Auto complete</string>
     <string name="check_element">Element inspection</string>
     <string name="check_ele_info_0">(more fine-grained blocking)</string>

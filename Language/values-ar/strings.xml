@@ -488,7 +488,6 @@
     <string name="not_allow">غير مسموح</string>
     <string name="quick_access">الاختصارات</string>
     <string name="quick_home">استخدم في الصفحة الرئيسية</string>
-    <string name="quick_search">استخدم في وضع البحث</string>
     <string name="add_folder">أضف المجلد</string>
     <string name="add_site">أضف الموقع الحالي</string>
     <string name="add_page">أضف الصفحة الحالية</string>
@@ -704,7 +703,6 @@
     <string name="move_right">الجانب الأيمن</string>
     <string name="swipe_guide_1">1. انقر فوق المنطقة لتغيير الوظيفة.</string>
     <string name="swipe_guide_2">2. اسحب المنطقة لتغيير حجمها.</string>
-    <string name="swipe_guide_3">إذا تم تمكين وضع الإيماءة في إعدادات نظام Android، فستكون الأولوية لإعدادات نظام Android.</string>
     <string name="big_icon">أيقونة كبيرة</string>
     <string name="small_list">قائمة صغيرة</string>
     <string name="large_list">قائمة كبيرة</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">لا يمكن للمستخدم المصادقة لأنه تم العثور على ثغرة أمنية في واحد أو أكثر من أجهزة استشعار الأجهزة.</string>
     <string name="finger_unsupported">لا يمكن للمستخدم المصادقة لأن الخيار المحدد غير متوافق مع إصدار Android الحالي.</string>
     <string name="finger_unknown">لا يمكن تحديد ما إذا كان يمكن للمستخدم المصادقة.</string>
-    <string name="use_gesture">استخدم الإيماءات</string>
-    <string name="gesture_block_site">إيماءات الحظر على الموقع الحالي</string>
-    <string name="gesture_block_page">إيماءات الحظر على الصفحة الحالية</string>
-    <string name="gesture_block_list">القائمة السوداء للإيماءات</string>
-    <string name="gesture_block_info_1">يمكنك تسجيل المواقع التي لا تستخدم الإيماءات.</string>
-    <string name="gesture_block_info_2">ينطبق فقط على الإيماءات في وسط الشاشة.</string>
-    <string name="gesture_block_info_3">لا ينطبق على الإيماءات على حواف الشاشة.</string>
     <string name="auto_comp">الإكمال التلقائي</string>
     <string name="check_element">فحص العنصر</string>
     <string name="check_ele_info_0">(مزيد من الحجب الدقيق)</string>

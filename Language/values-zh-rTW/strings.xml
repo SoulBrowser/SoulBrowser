@@ -488,7 +488,6 @@
     <string name="not_allow">不允許</string>
     <string name="quick_access">捷徑</string>
     <string name="quick_home">在主頁上使用</string>
-    <string name="quick_search">在搜索模式下使用</string>
     <string name="add_folder">新增資料夾</string>
     <string name="add_site">新增目前網站</string>
     <string name="add_page">新增目前頁面</string>
@@ -704,7 +703,6 @@
     <string name="move_right">右</string>
     <string name="swipe_guide_1">1. 點選該區域以變更功能</string>
     <string name="swipe_guide_2">2. 拖曳區域以變更大小</string>
-    <string name="swipe_guide_3">如果 Android 系統設定中啟用了手勢模式，\n則 Android 系統設定優先</string>
     <string name="big_icon">大圖標</string>
     <string name="small_list">小清單</string>
     <string name="large_list">大清單</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">使用者無法進行身份驗證，因為已透過一個或多個硬體傳感器發現了安全漏洞</string>
     <string name="finger_unsupported">由於指定的選項與目前的 Android 版本不相容，因此使用者無法進行身份驗證</string>
     <string name="finger_unknown">無法確定使用者是否可以進行身份驗證</string>
-    <string name="use_gesture">使用手勢</string>
-    <string name="gesture_block_site">阻止當前站點上的手勢</string>
-    <string name="gesture_block_page">阻止當前頁面上的手勢</string>
-    <string name="gesture_block_list">手勢黑名單</string>
-    <string name="gesture_block_info_1">您可以輸入不使用手勢的網站</string>
-    <string name="gesture_block_info_2">僅適用於螢幕中央手勢</string>
-    <string name="gesture_block_info_3">不適用於螢幕邊緣手勢</string>
     <string name="auto_comp">自動完成</string>
     <string name="check_element">元素檢查</string>
     <string name="check_ele_info_0">（更細粒度的封鎖）</string>

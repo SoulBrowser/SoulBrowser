@@ -488,7 +488,6 @@
     <string name="not_allow">No permitir</string>
     <string name="quick_access">Acceso directo</string>
     <string name="quick_home">Usar en la página de inicio</string>
-    <string name="quick_search">Usar en modo de búsqueda</string>
     <string name="add_folder">Agregar carpeta</string>
     <string name="add_site">Agregar sitio actual</string>
     <string name="add_page">Agregar página actual</string>
@@ -704,7 +703,6 @@
     <string name="move_right">Derecha</string>
     <string name="swipe_guide_1">1. Haga clic en el área para cambiar la función.</string>
     <string name="swipe_guide_2">2. Arrastre el área para cambiar el tamaño.</string>
-    <string name="swipe_guide_3">Si el modo de gestos está habilitado en la configuración del sistema Android,\nla configuración del sistema Android tiene prioridad.</string>
     <string name="big_icon">Gran icono</string>
     <string name="small_list">Pequeña lista</string>
     <string name="large_list">Lista grande</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">El usuario no puede autenticarse porque se ha descubierto una vulnerabilidad de seguridad con uno o más sensores de hardware.</string>
     <string name="finger_unsupported">El usuario no puede autenticarse porque las opciones especificadas son incompatibles con la versión actual de Android.</string>
     <string name="finger_unknown">No se puede determinar si el usuario puede autenticarse.</string>
-    <string name="use_gesture">Usa gestos</string>
-    <string name="gesture_block_site">Bloquear gestos en el sitio actual</string>
-    <string name="gesture_block_page">Bloquear gestos en la página actual</string>
-    <string name="gesture_block_list">Lista negra de gestos</string>
-    <string name="gesture_block_info_1">Puede registrar sitios que no utilizan gestos.</string>
-    <string name="gesture_block_info_2">Se aplica solo a los gestos en el centro de la pantalla.</string>
-    <string name="gesture_block_info_3">No se aplica a los gestos en los bordes de la pantalla.</string>
     <string name="auto_comp">Autocompletar</string>
     <string name="check_element">Inspección de elementos</string>
     <string name="check_ele_info_0">(bloqueo más detallado)</string>

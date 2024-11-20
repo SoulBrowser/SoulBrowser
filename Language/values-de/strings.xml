@@ -488,7 +488,6 @@
     <string name="not_allow">Nicht erlaubt</string>
     <string name="quick_access">Verknüpfung</string>
     <string name="quick_home">Verwendung auf der Homepage</string>
-    <string name="quick_search">Im Suchmodus verwenden</string>
     <string name="add_folder">Ordner hinzufügen</string>
     <string name="add_site">Aktuelle Domain hinzufügen</string>
     <string name="add_page">Aktuelle Seite hinzufügen</string>
@@ -704,7 +703,6 @@
     <string name="move_right">Nach rechts</string>
     <string name="swipe_guide_1">1. Klicken Sie auf den Bereich, um die Funktion zu ändern.</string>
     <string name="swipe_guide_2">2. Ziehen Sie den Bereich, um die Größe zu ändern.</string>
-    <string name="swipe_guide_3">Wenn der Gestenmodus in den Android-Systemeinstellungen aktiviert ist,\nhaben die Android-Systemeinstellungen Vorrang.</string>
     <string name="big_icon">Großes Symbol</string>
     <string name="small_list">Kleine Liste</string>
     <string name="large_list">Große Liste</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">Der Benutzer kann sich nicht authentifizieren, da mit einem oder mehreren Hardwaresensoren eine Sicherheitslücke entdeckt wurde.</string>
     <string name="finger_unsupported">Der Benutzer kann sich nicht authentifizieren, da die angegebenen Optionen nicht mit der aktuellen Android-Version kompatibel sind.</string>
     <string name="finger_unknown">Es kann nicht festgestellt werden, ob sich der Benutzer authentifizieren kann.</string>
-    <string name="use_gesture">Verwenden Sie Gesten</string>
-    <string name="gesture_block_site">Gesten auf der aktuellen Seite blockieren</string>
-    <string name="gesture_block_page">Gesten von der aktuellen Adresse blockieren</string>
-    <string name="gesture_block_list">Schwarze Liste für Gesten</string>
-    <string name="gesture_block_info_1">Sie können Websites registrieren, die keine Gesten verwenden.</string>
-    <string name="gesture_block_info_2">Gilt nur für Gesten in der Mitte des Bildschirms.</string>
-    <string name="gesture_block_info_3">Dies gilt nicht für Gesten an den Bildschirmrändern.</string>
     <string name="auto_comp">Automatische Vervollständigung</string>
     <string name="check_element">Elementinspektion</string>
     <string name="check_ele_info_0">(feinkörnigere Blockierung)</string>

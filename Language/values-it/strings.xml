@@ -488,7 +488,6 @@
     <string name="not_allow">Non consentire</string>
     <string name="quick_access">Scorciatoie</string>
     <string name="quick_home">Utilizza nella home page</string>
-    <string name="quick_search">Utilizza in modalità di ricerca</string>
     <string name="add_folder">Aggiungi cartella</string>
     <string name="add_site">Aggiungi il sito corrente</string>
     <string name="add_page">Aggiungi la pagina corrente</string>
@@ -704,7 +703,6 @@
     <string name="move_right">Destra</string>
     <string name="swipe_guide_1">1. Fare clic sull\'area per modificare la funzione.</string>
     <string name="swipe_guide_2">2. Trascina l\'area per modificare le dimensioni.</string>
-    <string name="swipe_guide_3">Se la modalità gesto è abilitata nelle impostazioni del sistema Android,\nle impostazioni del sistema Android hanno la precedenza.</string>
     <string name="big_icon">Icone grandi</string>
     <string name="small_list">Lista compatta</string>
     <string name="large_list">Elenco ampio</string>
@@ -863,13 +861,6 @@
     <string name="finger_security">L\'utente non può autenticarsi perché è stata scoperta una vulnerabilità di sicurezza con uno o più sensori hardware.</string>
     <string name="finger_unsupported">L\'utente non può autenticarsi perché le opzioni specificate non sono compatibili con la versione corrente di Android.</string>
     <string name="finger_unknown">Impossibile determinare se l\'utente può autenticarsi.</string>
-    <string name="use_gesture">Utilizza i gesti</string>
-    <string name="gesture_block_site">Blocca i gesti sul sito corrente</string>
-    <string name="gesture_block_page">Blocca i gesti nella pagina corrente</string>
-    <string name="gesture_block_list">Lista nera dei gesti</string>
-    <string name="gesture_block_info_1">Puoi salvare i siti che non utilizzano i gesti.</string>
-    <string name="gesture_block_info_2">Si applica solo ai gesti al centro dello schermo.</string>
-    <string name="gesture_block_info_3">Non si applica ai gesti ai bordi dello schermo.</string>
     <string name="auto_comp">Completamento automatico</string>
     <string name="check_element">Ispezione degli elementi</string>
     <string name="check_ele_info_0">(blocco più preciso)</string>
