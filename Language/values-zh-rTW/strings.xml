@@ -57,11 +57,11 @@
     <string name="translator">譯者</string>
     <string name="trans_detect">檢測語言</string>
     <string name="trans_auto_info">如果檢測到可翻譯的語言，它將被翻譯</string>
-    <string name="trans_icon_info">如果檢測到可翻譯的語言，則會顯示一個翻譯按鈕</string>
     <string name="trans_always_info">所有頁面總是被翻譯</string>
     <string name="trans_icon">按鈕顯示</string>
     <string name="trans_auto">自動翻譯</string>
     <string name="trans_always">總是翻譯</string>
+    <string name="trans_icon_always">始終顯示翻譯按鈕</string>
     <string name="trans_block_site">阻止當前站點上的自動翻譯</string>
     <string name="trans_block_page">在當前頁面阻止自動翻譯</string>
     <string name="trans_except">自動翻譯黑名單</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">刪除檔案</string>
     <string name="delete_record">刪除記錄</string>
     <string name="clear_data">刪除資料</string>
+    <string name="del_all_confirm">您確定要刪除全部嗎？</string>
     <string name="delete_all">刪除所有</string>
     <string name="deleted">刪除</string>
     <string name="swipe_delete">滑動刪除</string>

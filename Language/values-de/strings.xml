@@ -57,11 +57,11 @@
     <string name="translator">Übersetzer</string>
     <string name="trans_detect">Sprache erkennen</string>
     <string name="trans_auto_info">Wenn eine übersetzbare Sprache erkannt wird, wird diese übersetzt.</string>
-    <string name="trans_icon_info">Wenn eine übersetzbare Sprache erkannt wird, wird eine Schaltfläche zum Übersetzen angezeigt.</string>
     <string name="trans_always_info">Alle Seiten werden immer übersetzt.</string>
     <string name="trans_icon">Tastenanzeige</string>
     <string name="trans_auto">Automatische Übersetzung</string>
     <string name="trans_always">Immer übersetzen</string>
+    <string name="trans_icon_always">Übersetzungsschaltfläche immer anzeigen</string>
     <string name="trans_block_site">Automatische Übersetzungen auf der aktuellen Seite blockieren</string>
     <string name="trans_block_page">Automatische Übersetzungen auf der aktuellen Adresse blockieren</string>
     <string name="trans_except">Schwarze Liste für automatische Übersetzungen</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">Datei löschen</string>
     <string name="delete_record">Aufzeichnung löschen</string>
     <string name="clear_data">Daten löschen</string>
+    <string name="del_all_confirm">Sind Sie sicher, dass Sie alle löschen möchten?</string>
     <string name="delete_all">Alles löschen</string>
     <string name="deleted">Gelöscht</string>
     <string name="swipe_delete">Wischen entfernen</string>

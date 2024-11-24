@@ -57,11 +57,11 @@
     <string name="translator">Çevirmen</string>
     <string name="trans_detect">Dili algılamak</string>
     <string name="trans_auto_info">Çevrilebilir bir dil algılanırsa, tercüme edilecektir.</string>
-    <string name="trans_icon_info">Çevrilebilir bir dil algılanırsa, tercüme düğmesi görüntülenir.</string>
     <string name="trans_always_info">Tüm sayfalar her zaman çevrilir.</string>
     <string name="trans_icon">Düğme ekranı</string>
     <string name="trans_auto">Otomatik çeviri</string>
     <string name="trans_always">Her zaman çevir</string>
+    <string name="trans_icon_always">Çeviri düğmesini her zaman göster düğmesi</string>
     <string name="trans_block_site">Mevcut sitede otomatik çevirileri engelle</string>
     <string name="trans_block_page">Mevcut sayfada otomatik çevirileri engelle</string>
     <string name="trans_except">Otomatik çeviri kara listesi</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">Dosyayı sil</string>
     <string name="delete_record">Kaydı sil</string>
     <string name="clear_data">Verileri sil</string>
+    <string name="del_all_confirm">Tümünü silmek istediğinizden emin misiniz?</string>
     <string name="delete_all">Hepsini sil</string>
     <string name="deleted">Silindi</string>
     <string name="swipe_delete">Kaydır sil</string>

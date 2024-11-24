@@ -57,11 +57,11 @@
     <string name="translator">अनुवादक</string>
     <string name="trans_detect">भाषा की जांच करो</string>
     <string name="trans_auto_info">यदि अनुवाद योग्य भाषा का पता चलता है, तो इसका अनुवाद किया जाएगा।</string>
-    <string name="trans_icon_info">यदि अनुवाद योग्य भाषा का पता चलता है, तो अनुवाद बटन प्रदर्शित होता है।</string>
     <string name="trans_always_info">सभी पृष्ठ हमेशा अनुवादित होते हैं।</string>
     <string name="trans_icon">बटन प्रदर्शन</string>
     <string name="trans_auto">स्वचालित अनुवाद</string>
     <string name="trans_always">हमेशा अनुवाद करें</string>
+    <string name="trans_icon_always">हमेशा अनुवाद बटन दिखाएं</string>
     <string name="trans_block_site">वर्तमान साइट पर स्वचालित अनुवादों को ब्लॉक करें</string>
     <string name="trans_block_page">वर्तमान पृष्ठ पर स्वचालित अनुवादों को ब्लॉक करें</string>
     <string name="trans_except">स्वचालित अनुवाद ब्लैकलिस्ट</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">फ़ाइल को हटाएं</string>
     <string name="delete_record">रिकॉर्ड हटाएं</string>
     <string name="clear_data">स्पष्ट डेटा</string>
+    <string name="del_all_confirm">क्या आप वाकई सभी को हटाना चाहते हैं?</string>
     <string name="delete_all">सभी हटा दो</string>
     <string name="deleted">हटाए गए</string>
     <string name="swipe_delete">स्वाइप डिलीट</string>

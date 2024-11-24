@@ -57,11 +57,11 @@
     <string name="translator">นักแปล</string>
     <string name="trans_detect">ตรวจจับภาษา</string>
     <string name="trans_auto_info">หากตรวจพบภาษาที่แปลได้ ภาษานั้นจะถูกแปล</string>
-    <string name="trans_icon_info">หากตรวจพบภาษาที่แปลได้ ปุ่มแปลจะปรากฏขึ้น</string>
     <string name="trans_always_info">ทุกหน้าจะถูกแปลเสมอ</string>
     <string name="trans_icon">ปุ่มแสดงผล</string>
     <string name="trans_auto">การแปลอัตโนมัติ</string>
     <string name="trans_always">แปลเสมอ</string>
+    <string name="trans_icon_always">แสดงปุ่มการแปลเสมอ</string>
     <string name="trans_block_site">บล็อกการแปลอัตโนมัติในไซต์ปัจจุบัน</string>
     <string name="trans_block_page">บล็อกการแปลอัตโนมัติในหน้าปัจจุบัน</string>
     <string name="trans_except">บัญชีดำการแปลอัตโนมัติ</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">ลบไฟล์</string>
     <string name="delete_record">ลบบันทึก</string>
     <string name="clear_data">ลบข้อมูล</string>
+    <string name="del_all_confirm">คุณแน่ใจหรือไม่ว่าต้องการลบทั้งหมด</string>
     <string name="delete_all">ลบทั้งหมด</string>
     <string name="deleted">ที่ถูกลบ</string>
     <string name="swipe_delete">ปัดลบ</string>

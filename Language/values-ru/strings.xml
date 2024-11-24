@@ -57,11 +57,11 @@
     <string name="translator">Переводчик</string>
     <string name="trans_detect">Определить язык</string>
     <string name="trans_auto_info">Если обнаружен переводимый язык, он будет переведен.</string>
-    <string name="trans_icon_info">Если обнаружен переводимый язык, отображается кнопка перевода.</string>
     <string name="trans_always_info">Все страницы всегда переведены.</string>
     <string name="trans_icon">Дисплей кнопки</string>
     <string name="trans_auto">Автоперевод</string>
     <string name="trans_always">Всегда переводить</string>
+    <string name="trans_icon_always">Всегда показывать кнопку перевода</string>
     <string name="trans_block_site">Блокировать автоматические переводы на текущем сайте</string>
     <string name="trans_block_page">Блокировать автоматические переводы на текущей странице</string>
     <string name="trans_except">Черный список автоматического перевода</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">Удалить файл</string>
     <string name="delete_record">Удалить запись</string>
     <string name="clear_data">Удалить данные</string>
+    <string name="del_all_confirm">Вы уверены, что хотите удалить все?</string>
     <string name="delete_all">Удалить всё</string>
     <string name="deleted">Удалено</string>
     <string name="swipe_delete">Удаление свайпом</string>

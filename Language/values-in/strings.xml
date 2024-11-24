@@ -57,11 +57,11 @@
     <string name="translator">Penerjemah</string>
     <string name="trans_detect">Mendeteksi bahasa</string>
     <string name="trans_auto_info">Jika bahasa yang dapat diterjemahkan terdeteksi, itu akan diterjemahkan.</string>
-    <string name="trans_icon_info">Jika bahasa yang dapat diterjemahkan terdeteksi, tombol terjemahan akan ditampilkan.</string>
     <string name="trans_always_info">Semua halaman selalu diterjemahkan.</string>
     <string name="trans_icon">Tampilan tombol</string>
     <string name="trans_auto">Terjemahan otomatis</string>
     <string name="trans_always">Selalu terjemahkan</string>
+    <string name="trans_icon_always">Selalu tampilkan tombol terjemahan</string>
     <string name="trans_block_site">Blokir terjemahan otomatis di situs saat ini</string>
     <string name="trans_block_page">Blokir terjemahan otomatis di halaman saat ini</string>
     <string name="trans_except">Daftar hitam terjemahan otomatis</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">Hapus berkas</string>
     <string name="delete_record">Hapus catatan</string>
     <string name="clear_data">Hapus data</string>
+    <string name="del_all_confirm">Apakah Anda yakin ingin menghapus semuanya?</string>
     <string name="delete_all">Hapus semua</string>
     <string name="deleted">Dihapus</string>
     <string name="swipe_delete">Geser hapus</string>

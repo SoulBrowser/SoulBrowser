@@ -57,11 +57,11 @@
     <string name="translator">Traduction</string>
     <string name="trans_detect">Détecter la langue</string>
     <string name="trans_auto_info">Si une langue traduisible est détectée, elle sera traduite.</string>
-    <string name="trans_icon_info">Si une langue traduisible est détectée, un bouton de traduction s\'affiche.</string>
     <string name="trans_always_info">Toutes les pages sont toujours traduites.</string>
     <string name="trans_icon">Affichage des boutons</string>
     <string name="trans_auto">Traduction automatique</string>
     <string name="trans_always">Traduisez toujours</string>
+    <string name="trans_icon_always">Toujours afficher le bouton de traduction</string>
     <string name="trans_block_site">Bloquer les traductions automatiques sur le site actuel</string>
     <string name="trans_block_page">Bloquer les traductions automatiques sur la page en cours</string>
     <string name="trans_except">Liste noire de traduction automatique</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">Supprimer le fichier</string>
     <string name="delete_record">Supprimer l\'enregistrement</string>
     <string name="clear_data">Supprimer les données</string>
+    <string name="del_all_confirm">Êtes-vous sûr de vouloir tout supprimer ?</string>
     <string name="delete_all">Supprimer tout</string>
     <string name="deleted">Supprimé</string>
     <string name="swipe_delete">Glisser pour supprimer</string>

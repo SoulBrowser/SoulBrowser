@@ -57,11 +57,11 @@
     <string name="translator">Translator</string>
     <string name="trans_detect">Detect language</string>
     <string name="trans_auto_info">If a translatable language is detected, it will be translated.</string>
-    <string name="trans_icon_info">If a translatable language is detected, a translate button is displayed.</string>
     <string name="trans_always_info">All pages are always translated.</string>
     <string name="trans_icon">Button display</string>
     <string name="trans_auto">Automatic translation</string>
     <string name="trans_always">Always translate</string>
+    <string name="trans_icon_always">Always show translate button</string>
     <string name="trans_block_site">Block automatic translations on current site</string>
     <string name="trans_block_page">Block automatic translations on current page</string>
     <string name="trans_except">Automatic translation blacklist</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">Delete file</string>
     <string name="delete_record">Delete record</string>
     <string name="clear_data">Clear data</string>
+    <string name="del_all_confirm">Are you sure you want to delete all?</string>
     <string name="delete_all">Delete all</string>
     <string name="deleted">Deleted</string>
     <string name="swipe_delete">Swipe delete</string>

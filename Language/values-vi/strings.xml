@@ -57,11 +57,11 @@
     <string name="translator">Người phiên dịch</string>
     <string name="trans_detect">Phát hiện ngôn ngữ</string>
     <string name="trans_auto_info">Nếu một ngôn ngữ có thể dịch được phát hiện, nó sẽ được dịch.</string>
-    <string name="trans_icon_info">Nếu một ngôn ngữ có thể dịch được phát hiện, một nút dịch sẽ được hiển thị.</string>
     <string name="trans_always_info">Tất cả các trang luôn được dịch.</string>
     <string name="trans_icon">Nút hiển thị</string>
     <string name="trans_auto">Bản dịch tự động</string>
     <string name="trans_always">Luôn dịch</string>
+    <string name="trans_icon_always">Luôn hiển thị nút dịch</string>
     <string name="trans_block_site">Chặn các bản dịch tự động trên trang web hiện tại</string>
     <string name="trans_block_page">Chặn các bản dịch tự động trên trang hiện tại</string>
     <string name="trans_except">Bản dịch tự động danh sách cấm</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">Xóa tài liệu</string>
     <string name="delete_record">Xóa hồ sơ</string>
     <string name="clear_data">Xóa dữ liệu</string>
+    <string name="del_all_confirm">Bạn có chắc chắn muốn xóa tất cả?</string>
     <string name="delete_all">Xóa hết</string>
     <string name="deleted">Bị xóa</string>
     <string name="swipe_delete">Vuốt xóa</string>

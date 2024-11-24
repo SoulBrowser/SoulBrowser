@@ -57,11 +57,11 @@
     <string name="translator">Traducător</string>
     <string name="trans_detect">Detecteaza limba</string>
     <string name="trans_auto_info">Dacă este detectată o limbă traducabilă, aceasta va fi tradusă.</string>
-    <string name="trans_icon_info">Dacă este detectată o limbă traducabilă, este afișat un buton de traducere.</string>
     <string name="trans_always_info">Toate paginile sunt întotdeauna traduse.</string>
     <string name="trans_icon">Afișaj cu butoane</string>
     <string name="trans_auto">Traducere automată</string>
     <string name="trans_always">Traduceți întotdeauna</string>
+    <string name="trans_icon_always">Afișează întotdeauna butonul de traducere</string>
     <string name="trans_block_site">Blocați traducerile automate pe site-ul curent</string>
     <string name="trans_block_page">Blocați traducerile automate pe pagina curentă</string>
     <string name="trans_except">Lista neagră de traducere automată</string>
@@ -90,6 +90,7 @@
     <string name="delete_file">Ștergeți fișierul</string>
     <string name="delete_record">Ștergeți înregistrarea</string>
     <string name="clear_data">Ștergeți datele</string>
+    <string name="del_all_confirm">Sigur doriți să ștergeți totul?</string>
     <string name="delete_all">Ștergeți toate</string>
     <string name="deleted">Șters</string>
     <string name="swipe_delete">Glisați ștergerea</string>
