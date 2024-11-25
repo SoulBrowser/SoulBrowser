@@ -51,8 +51,8 @@
     <string name="save_fail">Simpan gagal</string>
     <string name="capture">Tangkapan layar</string>
     <string name="print_page">Cetak / PDF</string>
-    <string name="print_success">Keberhasilan cetak</string>
-    <string name="print_fail">Print Failed</string>
+    <string name="print_success">Cetak berhasil</string>
+    <string name="print_fail">Cetak gagal</string>
     <string name="translate">Terjemahan</string>
     <string name="translator">Penerjemah</string>
     <string name="trans_detect">Mendeteksi bahasa</string>
@@ -118,7 +118,7 @@
     <string name="next_page">Halaman berikutnya</string>
     <string name="tab_gesture">Gerakan tab</string>
     <string name="over_block">Pemblokir overlay</string>
-    <string name="over_white">Hamparan Daftar Putih</string>
+    <string name="over_white">Overlay yang diizinkan</string>
     <string name="over_block_guide_1">Menghapus elemen yang muncul di atas layar halaman web.</string>
     <string name="over_block_guide_2">Meskipun terutama iklan, elemen non-iklan juga dapat dihapus.</string>
     <string name="over_block_guide_3">Ini diterapkan dengan sangat ringan sehingga elemen non-iklan tidak dihilangkan.</string>
@@ -197,8 +197,8 @@
     <string name="show_single">Judul baris tunggal</string>
     <string name="show_recent">Tandai file terkini</string>
     <string name="open_continue">Buka di posisi sebelumnya</string>
-    <string name="pull_refresh">Tarik menyegarkan</string>
-    <string name="refresh">Segarkan</string>
+    <string name="pull_refresh">Tarik untuk muat ulang halaman</string>
+    <string name="refresh">Muat ulang</string>
     <string name="sort">Sortir</string>
     <string name="group_by">Dikelompokkan oleh</string>
     <string name="folder_dir">Direktori</string>
@@ -256,7 +256,7 @@
     <string name="domain_name">Domain</string>
     <string name="domain_url">Domain atau URL</string>
     <string name="add">Tambah</string>
-    <string name="home_page">Halaman rumah</string>
+    <string name="home_page">Beranda</string>
     <string name="last_page">Halaman yang terakhir dikunjungi</string>
     <string name="input_url">Masukkan URL</string>
     <string name="camera">Camera</string>
@@ -273,7 +273,7 @@
     <string name="view_port">Potret</string>
     <string name="view_land">Lanskap</string>
     <string name="land_mode">Mode lanskap</string>
-    <string name="type">Ketik</string>
+    <string name="type">Model</string>
     <string name="page_effect">Efek halaman</string>
     <string name="page_scroll">Gulir halaman</string>
     <string name="list_hori">Daftar (Horizontal)</string>
@@ -295,7 +295,7 @@
     <string name="ok">OK</string>
     <string name="success">Sukses</string>
     <string name="fail">Gagal</string>
-    <string name="play">Bermain</string>
+    <string name="play">Mainkan</string>
     <string name="play_error">Kesalahan putar</string>
     <string name="not_loaded">Tidak dimuat</string>
     <string name="invalid_url">URL tidak valid</string>
@@ -363,7 +363,7 @@
     <string name="filtered_image">Gambar yang difilter (%d)</string>
     <string name="update">Memperbarui</string>
     <string name="update_fail">Pembaruan gagal.</string>
-    <string name="guide_ads_allow">Anda dapat mendaftarkan situs yang diizinkan Ad.</string>
+    <string name="guide_ads_allow">Anda dapat mendaftarkan situs iklan yang diizinkan.</string>
     <string name="guide_over_allow">Anda dapat mendaftarkan situs yang mengizinkan overlay.</string>
     <string name="guide_pop_allow">Anda dapat mendaftarkan situs yang diizinkan popup.</string>
     <string name="now_delete">Pilih item yang akan dihapus</string>
@@ -464,10 +464,10 @@
     <string name="cast_shortcut">Buat pintasan Transmisi TV</string>
     <string name="cast_short_info">Buat tombol pintasan TV Cast di layar beranda.</string>
     <string name="list_menu">Menu</string>
-    <string name="ads_white">Daftar putih Ad</string>
+    <string name="ads_white">Daftar iklan terpercaya</string>
     <string name="ads_allow_site">Izinkan iklan di situs saat ini</string>
     <string name="ads_allow_page">Izinkan iklan di halaman saat ini</string>
-    <string name="pop_white">Daftar putih popup</string>
+    <string name="pop_white">Daftar popup yang diizinkan</string>
     <string name="pop_allow">Izinkan munculan</string>
     <string name="pop_allow_site">Izinkan popup di situs saat ini</string>
     <string name="pop_allow_page">Izinkan popup di halaman saat ini</string>
@@ -488,7 +488,7 @@
     <string name="down_noti">Pemberitahuan penyelesaian pengunduhan</string>
     <string name="not_allow">Jangan izinkan</string>
     <string name="quick_access">Pintas</string>
-    <string name="quick_home">Gunakan di halaman rumah</string>
+    <string name="quick_home">Gunakan di beranda</string>
     <string name="add_folder">Tambahkan folder</string>
     <string name="add_site">Tambahkan situs saat ini</string>
     <string name="add_page">Tambahkan halaman saat ini</string>
@@ -517,7 +517,7 @@
     <string name="reinput">Silakan masukkan lagi</string>
     <string name="wrong_input">Input tidak valid</string>
     <string name="continue_input">Terus</string>
-    <string name="pip_home">Beralih ke PIP dengan kunci rumah</string>
+    <string name="pip_home">Beralih ke PIP dengan mode kunci layar rumah</string>
     <string name="memory_warning_1">Fitur ini menggunakan lebih banyak memori.</string>
     <string name="secret_data_info">Pemisahan data seperti cookie dan cache didukung mulai dari Android 9.</string>
     <string name="secret_hist">Simpan riwayat</string>
@@ -550,7 +550,7 @@
     <string name="keep_login">Tetap masuk</string>
     <string name="keep_login_info">Informasi login mode penyamaran dipertahankan saat Anda mengubah ke mode normal.</string>
     <string name="secret_exit">Keluar dari mode penyamaran</string>
-    <string name="direct_input">Masukan langsung</string>
+    <string name="direct_input">Kustom</string>
     <string name="direct_select">Seleksi langsung</string>
     <string name="added">Ditambahkan</string>
     <string name="do_change">Mengubah</string>
@@ -686,8 +686,8 @@
     <string name="site_warning">Peringatan keamanan</string>
     <string name="site_exit">Pergi ke halaman yang aman</string>
     <string name="site_continue">Lanjutan (Tidak aman)</string>
-    <string name="header_title">Tajuk</string>
-    <string name="header_color">Warna tajuk</string>
+    <string name="header_title">Tema</string>
+    <string name="header_color">Warna tema</string>
     <string name="site_theme">Tema situs</string>
     <string name="site_theme_info">Jika situs yang Anda kunjungi mendukung tema, itu berlaku untuk browser Anda.</string>
     <string name="prev_tab">Tab sebelumnya</string>
@@ -709,7 +709,7 @@
     <string name="large_list">Daftar besar</string>
     <string name="full_screen">Layar penuh</string>
     <string name="full_tool">Layar penuh dan Bilah Alat</string>
-    <string name="display_title">Menampilkan</string>
+    <string name="display_title">Tampilan</string>
     <string name="display_cutout">Potongan tampilan</string>
     <string name="display_cutout_info">Pada perangkat dengan potongan tampilan, konten dirender ke area potongan.</string>
     <string name="scroll_mode">Mode gulir</string>
@@ -754,14 +754,14 @@
     <string name="js_black_info">Anda dapat mendaftarkan situs yang memblokir JavaScript.</string>
     <string name="theme_light">Tema terang</string>
     <string name="theme_dark">Tema gelap</string>
-    <string name="dark_home">Rumah tema gelap</string>
+    <string name="dark_home">Tema beranda gelap</string>
     <string name="dark_home_info">Menyetel wallpaper akan selalu menyetel beranda ke tema gelap.</string>
     <string name="background">Latar Belakang</string>
     <string name="search_suggest">Saran pencarian</string>
     <string name="at_bottom">Di dasar</string>
     <string name="clean_data_info">Mengumpulkan data lama dapat memperlambat browser Anda.\nSebaiknya bersihkan data Anda secara berkala.</string>
     <string name="txt_viewer">Penampil teks</string>
-    <string name="purchase">Membeli</string>
+    <string name="purchase">Pembelian</string>
     <string name="donation">Sumbangan</string>
     <string name="inapp_ads">Iklan dalam aplikasi</string>
     <string name="website_ads">Iklan situs web</string>
@@ -830,7 +830,7 @@
     <string name="save_data">Simpan data</string>
     <string name="level_strong">Kuat</string>
     <string name="level_weak">Lemah</string>
-    <string name="open_limit">Batas terbuka</string>
+    <string name="open_limit">Batas tab</string>
     <string name="mem_save">Penghematan memori</string>
     <string name="mem_limit">Batas memori</string>
     <string name="limit_info_1">Jika melebihi batas, tab pertama akan otomatis terhapus.</string>
@@ -887,7 +887,7 @@
     <string name="news_info_2">Berita Google</string>
     <string name="news_locale">Bahasa dan wilayah</string>
     <string name="news_trans">Terjemahan judul berita</string>
-    <string name="news_topic_headline">Tajuk utama</string>
+    <string name="news_topic_headline">Topik utama</string>
     <string name="news_topic_world">Dunia</string>
     <string name="news_topic_nation">Berita Lokal</string>
     <string name="news_topic_business">Bisnis</string>
