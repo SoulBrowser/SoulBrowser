@@ -638,6 +638,8 @@
     <string name="stop_icon_info">Apare pe ecran în timp ce se redă vocea.</string>
     <string name="long_move_guide">Vă puteți deplasa apăsând și apăsat butonul.</string>
     <string name="drag_move_guide">Îl poți muta trăgând butonul.</string>
+    <string name="move_long">Apăsați lung pentru a vă deplasa</string>
+    <string name="move_free">Mișcă-te liber</string>
     <string name="not_support_device">Nu este acceptat pe acest dispozitiv.</string>
     <string name="drag_seek">Navigare pe ecran prin atingere</string>
     <string name="drag_seek_info">Trageți ecranul spre stânga sau spre dreapta pentru a naviga pe ecran.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">Jos</string>
     <string name="move_left">Stânga</string>
     <string name="move_right">Dreapta</string>
+    <string name="gesture_guide">Puteți schimba metoda gesturilor în setări.</string>
     <string name="swipe_guide_1">1. Faceți clic pe zonă pentru a schimba funcția.</string>
     <string name="swipe_guide_2">2. Trageți zona pentru a schimba dimensiunea.</string>
     <string name="big_icon">Pictogramă mare</string>

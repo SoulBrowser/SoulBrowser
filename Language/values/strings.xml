@@ -638,6 +638,8 @@
     <string name="stop_icon_info">Appears on the screen while the voice is playing.</string>
     <string name="long_move_guide">You can move by pressing and holding the button.</string>
     <string name="drag_move_guide">You can move the button by dragging it.</string>
+    <string name="move_long">Long press to move</string>
+    <string name="move_free">Move freely</string>
     <string name="not_support_device">Not supported on this device.</string>
     <string name="drag_seek">Screen navigation by touch</string>
     <string name="drag_seek_info">Drag the screen left or right to navigate the screen.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">Down</string>
     <string name="move_left">Left</string>
     <string name="move_right">Right</string>
+    <string name="gesture_guide">You can change the gesture method in Settings.</string>
     <string name="swipe_guide_1">1. Click the area to change the function.</string>
     <string name="swipe_guide_2">2. Drag the area to change the size.</string>
     <string name="big_icon">Big icon</string>

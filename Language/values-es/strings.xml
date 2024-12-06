@@ -638,6 +638,8 @@
     <string name="stop_icon_info">Aparece en la pantalla mientras se reproduce la voz.</string>
     <string name="long_move_guide">Puede moverse manteniendo presionado el botón.</string>
     <string name="drag_move_guide">Puedes moverlo arrastrando el botón.</string>
+    <string name="move_long">Mantenga pulsado para mover</string>
+    <string name="move_free">Muévete libremente</string>
     <string name="not_support_device">No es compatible con este dispositivo.</string>
     <string name="drag_seek">Navegación por pantalla táctil</string>
     <string name="drag_seek_info">Arrastre la pantalla hacia la izquierda o hacia la derecha para navegar por la pantalla.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">Abajo</string>
     <string name="move_left">Izquierda</string>
     <string name="move_right">Derecha</string>
+    <string name="gesture_guide">Puede cambiar el método del gesto en la configuración.</string>
     <string name="swipe_guide_1">1. Haga clic en el área para cambiar la función.</string>
     <string name="swipe_guide_2">2. Arrastre el área para cambiar el tamaño.</string>
     <string name="big_icon">Gran icono</string>

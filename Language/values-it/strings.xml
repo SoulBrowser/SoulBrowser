@@ -638,6 +638,8 @@
     <string name="stop_icon_info">Appare sullo schermo mentre la voce viene riprodotta.</string>
     <string name="long_move_guide">Puoi spostarti tenendo premuto il pulsante.</string>
     <string name="drag_move_guide">Puoi spostarlo trascinando il pulsante.</string>
+    <string name="move_long">Premere a lungo per muoversi</string>
+    <string name="move_free">Muoversi liberamente</string>
     <string name="not_support_device">Non supportato su questo dispositivo.</string>
     <string name="drag_seek">Navigazione sullo schermo al tocco</string>
     <string name="drag_seek_info">Trascina lo schermo a sinistra o destra per navigare nello schermo.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">Giù</string>
     <string name="move_left">Sinistra</string>
     <string name="move_right">Destra</string>
+    <string name="gesture_guide">Puoi modificare il metodo del gesto nelle impostazioni.</string>
     <string name="swipe_guide_1">1. Fare clic sull\'area per modificare la funzione.</string>
     <string name="swipe_guide_2">2. Trascina l\'area per modificare le dimensioni.</string>
     <string name="big_icon">Icone grandi</string>

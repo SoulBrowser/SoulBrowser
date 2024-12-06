@@ -638,6 +638,8 @@
     <string name="stop_icon_info">Muncul di layar saat suara diputar</string>
     <string name="long_move_guide">Anda dapat bergerak dengan menekan dan menahan tombol.</string>
     <string name="drag_move_guide">Anda dapat memindahkannya dengan menyeret tombol.</string>
+    <string name="move_long">Tekan lama untuk bergerak</string>
+    <string name="move_free">Bergerak bebas</string>
     <string name="not_support_device">Tidak didukung pada perangkat ini.</string>
     <string name="drag_seek">Navigasi layar dengan sentuhan</string>
     <string name="drag_seek_info">Seret layar ke kiri atau kanan untuk menavigasi layar.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">Bawah</string>
     <string name="move_left">Kiri</string>
     <string name="move_right">Kanan</string>
+    <string name="gesture_guide">Anda dapat mengubah metode isyarat di pengaturan.</string>
     <string name="swipe_guide_1">1. Klik pada area untuk mengubah fungsi.</string>
     <string name="swipe_guide_2">2. Seret area untuk mengubah ukuran.</string>
     <string name="big_icon">ikon besar</string>

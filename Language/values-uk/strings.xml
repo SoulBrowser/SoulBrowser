@@ -638,6 +638,8 @@
     <string name="stop_icon_info">З\'являється на екрані під час відтворення голосу.</string>
     <string name="long_move_guide">Ви можете рухатися, натиснувши та утримуючи кнопку.</string>
     <string name="drag_move_guide">Ви можете перемістити його, перетягнувши кнопку.</string>
+    <string name="move_long">Тривале натискання для переміщення</string>
+    <string name="move_free">Рухайтеся вільно</string>
     <string name="not_support_device">Не підтримується на цьому пристрої.</string>
     <string name="drag_seek">Екранна навігація на дотик</string>
     <string name="drag_seek_info">Перетягніть екран вліво або вправо для навігації по екрану.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">Вниз</string>
     <string name="move_left">Ліворуч</string>
     <string name="move_right">Праворуч</string>
+    <string name="gesture_guide">Ви можете змінити метод жестів у налаштуваннях.</string>
     <string name="swipe_guide_1">1. Натиснiть на область, щоб змінити функцію.</string>
     <string name="swipe_guide_2">2. Перетягніть область, щоб змінити розмір.</string>
     <string name="big_icon">Велика ікона</string>

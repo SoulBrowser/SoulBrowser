@@ -638,6 +638,8 @@
     <string name="stop_icon_info">播放声音时出现在屏幕上</string>
     <string name="long_move_guide">您可以通过按住按钮移动</string>
     <string name="drag_move_guide">您可以通过拖动按钮来移动它</string>
+    <string name="move_long">长按移动</string>
+    <string name="move_free">自由移动</string>
     <string name="not_support_device">该设备不支持</string>
     <string name="drag_seek">触摸屏导航</string>
     <string name="drag_seek_info">向左或向右拖动屏幕以浏览屏幕</string>
@@ -702,6 +704,7 @@
     <string name="move_down">下</string>
     <string name="move_left">左</string>
     <string name="move_right">右</string>
+    <string name="gesture_guide">您可以在设置中更改手势方法</string>
     <string name="swipe_guide_1">1. 单击该区域以更改功能</string>
     <string name="swipe_guide_2">2. 拖动区域以更改大小</string>
     <string name="big_icon">大图标</string>

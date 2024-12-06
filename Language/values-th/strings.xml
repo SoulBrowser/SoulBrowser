@@ -638,6 +638,8 @@
     <string name="stop_icon_info">ปรากฏขึ้นบนหน้าจอขณะที่กำลังเล่นเสียง</string>
     <string name="long_move_guide">คุณสามารถย้ายโดยกดปุ่มค้างไว้</string>
     <string name="drag_move_guide">คุณสามารถย้ายได้โดยการลากปุ่ม</string>
+    <string name="move_long">กดยาวเพื่อย้าย</string>
+    <string name="move_free">เคลื่อนไหวได้อย่างอิสระ</string>
     <string name="not_support_device">ไม่รองรับอุปกรณ์นี้</string>
     <string name="drag_seek">การนำทางหน้าจอด้วยการสัมผัส</string>
     <string name="drag_seek_info">ลากหน้าจอไปทางซ้ายหรือขวาเพื่อนำทางหน้าจอ</string>
@@ -702,6 +704,7 @@
     <string name="move_down">ลง</string>
     <string name="move_left">ซ้าย</string>
     <string name="move_right">ขวา</string>
+    <string name="gesture_guide">คุณสามารถเปลี่ยนวิธีท่าทางได้ในการตั้งค่า</string>
     <string name="swipe_guide_1">1. คลิกที่พื้นที่เพื่อเปลี่ยนฟังก์ชั่น</string>
     <string name="swipe_guide_2">2. ลากพื้นที่เพื่อเปลี่ยนขนาด</string>
     <string name="big_icon">ไอคอนขนาดใหญ่</string>

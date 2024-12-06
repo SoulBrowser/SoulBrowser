@@ -638,6 +638,8 @@
     <string name="stop_icon_info">Apparaît à l\'écran pendant la lecture de la voix.</string>
     <string name="long_move_guide">Vous pouvez vous déplacer en appuyant longuement sur le bouton.</string>
     <string name="drag_move_guide">Vous pouvez le déplacer en faisant glisser le bouton.</string>
+    <string name="move_long">Appuyez longuement pour vous déplacer</string>
+    <string name="move_free">Déplacez-vous librement</string>
     <string name="not_support_device">Non pris en charge sur cet appareil.</string>
     <string name="drag_seek">Navigation par écran tactile</string>
     <string name="drag_seek_info">Faites glisser l\'écran vers la gauche ou la droite pour parcourir l\'écran.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">Bas</string>
     <string name="move_left">Gauche</string>
     <string name="move_right">Droite</string>
+    <string name="gesture_guide">Vous pouvez modifier la méthode gestuelle dans les paramètres.</string>
     <string name="swipe_guide_1">1. Cliquez sur la zone pour changer la fonction.</string>
     <string name="swipe_guide_2">2. Faites glisser la zone pour modifier la taille.</string>
     <string name="big_icon">Grande icône</string>

@@ -638,6 +638,8 @@
     <string name="stop_icon_info">يظهر على الشاشة أثناء تشغيل الصوت.</string>
     <string name="long_move_guide">يمكنك التحرك بالضغط مع الاستمرار على الزر.</string>
     <string name="drag_move_guide">يمكنك تحريكه عن طريق سحب الزر.</string>
+    <string name="move_long">اضغط لفترة طويلة للتحرك</string>
+    <string name="move_free">التحرك بحرية</string>
     <string name="not_support_device">ليست مدعمة علي هذا الجهاز.</string>
     <string name="drag_seek">التنقل على الشاشة عن طريق اللمس</string>
     <string name="drag_seek_info">اسحب الشاشة إلى اليسار أو اليمين للتنقل على الشاشة.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">تحت</string>
     <string name="move_left">اليسار</string>
     <string name="move_right">الجانب الأيمن</string>
+    <string name="gesture_guide">يمكنك تغيير طريقة الإيماءة في الإعدادات.</string>
     <string name="swipe_guide_1">1. انقر فوق المنطقة لتغيير الوظيفة.</string>
     <string name="swipe_guide_2">2. اسحب المنطقة لتغيير حجمها.</string>
     <string name="big_icon">أيقونة كبيرة</string>

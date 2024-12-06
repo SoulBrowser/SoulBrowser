@@ -638,6 +638,8 @@
     <string name="stop_icon_info">Pojawia się na ekranie podczas odtwarzania głosu.</string>
     <string name="long_move_guide">Możesz poruszać się, naciskając i przytrzymując przycisk.</string>
     <string name="drag_move_guide">Można go przesuwać przeciągając przycisk.</string>
+    <string name="move_long">Naciśnij i przytrzymaj, aby przesunąć</string>
+    <string name="move_free">Poruszaj się swobodnie</string>
     <string name="not_support_device">Nieobsługiwane na tym urządzeniu.</string>
     <string name="drag_seek">Nawigacja po ekranie dotykiem</string>
     <string name="drag_seek_info">Przeciągnij ekran w lewo lub w prawo, aby poruszać się po ekranie.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">Dół</string>
     <string name="move_left">Lewo</string>
     <string name="move_right">Prawo</string>
+    <string name="gesture_guide">Metodę gestów możesz zmienić w ustawieniach.</string>
     <string name="swipe_guide_1">1. Kliknij obszar, aby zmienić funkcję.</string>
     <string name="swipe_guide_2">2. Przeciągnij obszar, aby zmienić rozmiar.</string>
     <string name="big_icon">Duża ikona</string>

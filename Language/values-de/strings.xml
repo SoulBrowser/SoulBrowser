@@ -638,6 +638,8 @@
     <string name="stop_icon_info">Erscheint auf dem Bildschirm, während die Stimme abgespielt wird.</string>
     <string name="long_move_guide">Sie können sich bewegen, indem Sie die Taste gedrückt halten.</string>
     <string name="drag_move_guide">Sie können es verschieben, indem Sie die Schaltfläche ziehen.</string>
+    <string name="move_long">Zum Verschieben lange drücken</string>
+    <string name="move_free">Bewegen Sie sich frei</string>
     <string name="not_support_device">Wird auf diesem Gerät nicht unterstützt.</string>
     <string name="drag_seek">Bildschirmnavigation durch Berühren</string>
     <string name="drag_seek_info">Ziehen Sie den Bildschirm nach links oder rechts, um durch den Bildschirm zu navigieren.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">Nach unten</string>
     <string name="move_left">Nach links</string>
     <string name="move_right">Nach rechts</string>
+    <string name="gesture_guide">Sie können die Gestenmethode in den Einstellungen ändern.</string>
     <string name="swipe_guide_1">1. Klicken Sie auf den Bereich, um die Funktion zu ändern.</string>
     <string name="swipe_guide_2">2. Ziehen Sie den Bereich, um die Größe zu ändern.</string>
     <string name="big_icon">Großes Symbol</string>

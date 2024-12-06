@@ -638,6 +638,8 @@
     <string name="stop_icon_info">Xuất hiện trên màn hình trong khi giọng nói đang phát.</string>
     <string name="long_move_guide">Bạn có thể di chuyển bằng cách nhấn và giữ nút.</string>
     <string name="drag_move_guide">Bạn có thể di chuyển nó bằng cách kéo nút.</string>
+    <string name="move_long">Nhấn lâu để di chuyển</string>
+    <string name="move_free">Di chuyển tự do</string>
     <string name="not_support_device">Không được hỗ trợ trên thiết bị này.</string>
     <string name="drag_seek">Điều hướng màn hình bằng cách chạm</string>
     <string name="drag_seek_info">Kéo màn hình sang trái hoặc phải để điều hướng màn hình.</string>
@@ -702,6 +704,7 @@
     <string name="move_down">Xuống</string>
     <string name="move_left">Trái</string>
     <string name="move_right">Phải</string>
+    <string name="gesture_guide">Bạn có thể thay đổi phương thức cử chỉ trong cài đặt.</string>
     <string name="swipe_guide_1">1. Nhấn vào khu vực để thay đổi chức năng.</string>
     <string name="swipe_guide_2">2. Kéo khu vực để thay đổi kích thước.</string>
     <string name="big_icon">Biểu tượng lớn</string>
