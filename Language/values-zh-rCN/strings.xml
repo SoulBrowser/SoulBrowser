@@ -883,6 +883,7 @@
     <string name="debug_mode">网页调试</string>
     <string name="debug_mode_info">您可以使用 USB 进行调试</string>
     <string name="default_browser">设置为默认浏览器</string>
+    <string name="news_start">在一处查看来自世界各地的新闻</string>
     <string name="news_title">新闻</string>
     <string name="news_loading">新闻加载&#8230;</string>
     <string name="news_show">显示新闻</string>

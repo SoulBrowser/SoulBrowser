@@ -883,6 +883,7 @@
     <string name="debug_mode">Depuração da web</string>
     <string name="debug_mode_info">Você pode depurar com USB.</string>
     <string name="default_browser">Defina como navegador padrão</string>
+    <string name="news_start">Confira notícias de todo o mundo num só lugar.</string>
     <string name="news_title">Notícias</string>
     <string name="news_loading">Carregando notícias&#8230;</string>
     <string name="news_show">Mostrar notícias</string>

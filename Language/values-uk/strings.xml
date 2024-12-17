@@ -883,6 +883,7 @@
     <string name="debug_mode">Веб-налагодження</string>
     <string name="debug_mode_info">Ви можете налагодити за допомогою USB.</string>
     <string name="default_browser">Встановити як браузер за замовчуванням</string>
+    <string name="news_start">Переглядайте новини з усього світу в одному місці.</string>
     <string name="news_title">Новини</string>
     <string name="news_loading">Завантаження новин&#8230;</string>
     <string name="news_show">Показати новини</string>

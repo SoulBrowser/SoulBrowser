@@ -883,6 +883,7 @@
     <string name="debug_mode">Веб-отладка</string>
     <string name="debug_mode_info">Отладка по USB.</string>
     <string name="default_browser">Установить как браузер по умолчанию</string>
+    <string name="news_start">Следите за новостями со всего мира в одном месте.</string>
     <string name="news_title">Новости</string>
     <string name="news_loading">Загрузка новостей&#8230;</string>
     <string name="news_show">Показать новости</string>

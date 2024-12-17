@@ -883,6 +883,7 @@
     <string name="debug_mode">Debug web</string>
     <string name="debug_mode_info">Puoi eseguire il debug con USB.</string>
     <string name="default_browser">Imposta come browser predefinito</string>
+    <string name="news_start">Scopri le notizie da tutto il mondo in un unico posto.</string>
     <string name="news_title">Notizie</string>
     <string name="news_loading">Caricamento delle notizie&#8230;</string>
     <string name="news_show">Mostra notizie</string>

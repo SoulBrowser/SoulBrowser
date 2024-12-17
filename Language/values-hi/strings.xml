@@ -883,6 +883,7 @@
     <string name="debug_mode">वेब डिबगिंग</string>
     <string name="debug_mode_info">आप यूएसबी के साथ डीबग कर सकते हैं।</string>
     <string name="default_browser">डिफ़ॉल्ट ब्राउज़र के रूप में सेट करें</string>
+    <string name="news_start">दुनिया भर की खबरें एक ही स्थान पर देखें।</string>
     <string name="news_title">समाचार</string>
     <string name="news_loading">समाचार लोड हो रहा है&#8230;</string>
     <string name="news_show">समाचार दिखाएं</string>

@@ -883,6 +883,7 @@
     <string name="debug_mode">การแก้ไขข้อบกพร่องของเว็บ</string>
     <string name="debug_mode_info">คุณสามารถแก้ไขข้อบกพร่องด้วย USB</string>
     <string name="default_browser">ตั้งเป็นเบราว์เซอร์เริ่มต้น</string>
+    <string name="news_start">ตรวจสอบข่าวสารจากทั่วโลกได้ในที่เดียว</string>
     <string name="news_title">ข่าว</string>
     <string name="news_loading">กำลังโหลดข่าว&#8230;</string>
     <string name="news_show">แสดงข่าว</string>

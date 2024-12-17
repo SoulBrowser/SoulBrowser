@@ -883,6 +883,7 @@
     <string name="debug_mode">Debugowanie sieci</string>
     <string name="debug_mode_info">Możesz debugować za pomocą USB.</string>
     <string name="default_browser">Ustaw jako domyślną przeglądarkę</string>
+    <string name="news_start">Sprawdź wiadomości z całego świata w jednym miejscu.</string>
     <string name="news_title">Aktualności</string>
     <string name="news_loading">Wczytywanie wiadomości&#8230;</string>
     <string name="news_show">Pokaż wiadomości</string>

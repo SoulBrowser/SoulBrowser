@@ -27,7 +27,7 @@
     <string name="download">다운로드</string>
     <string name="down_set">다운로드</string>
     <string name="fast_down">빠른 다운로드</string>
-    <string name="fast_down_guide">이 기능은 더 많은 자원을 사용합니다.</string>
+    <string name="fast_down_guide">이 기능은 더 많은 리소스를 사용합니다.</string>
     <string name="down_again">다시 다운로드</string>
     <string name="down_page">페이지 저장</string>
     <string name="down_list">다운로드</string>
@@ -883,6 +883,7 @@
     <string name="debug_mode">웹 디버깅</string>
     <string name="debug_mode_info">USB로 디버깅할 수 있습니다.</string>
     <string name="default_browser">기본 브라우저로 설정</string>
+    <string name="news_start">전 세계의 뉴스를 한 곳에서 확인하세요.</string>
     <string name="news_title">뉴스</string>
     <string name="news_loading">뉴스 로딩 중&#8230;</string>
     <string name="news_show">뉴스 보기</string>

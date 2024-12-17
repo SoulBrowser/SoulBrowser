@@ -883,6 +883,7 @@
     <string name="debug_mode">Gỡ lỗi web</string>
     <string name="debug_mode_info">Bạn có thể gỡ lỗi bằng USB.</string>
     <string name="default_browser">Đặt làm trình duyệt mặc định</string>
+    <string name="news_start">Kiểm tra tin tức từ khắp nơi trên thế giới ở một nơi.</string>
     <string name="news_title">Tin tức</string>
     <string name="news_loading">Đang tải tin tức&#8230;</string>
     <string name="news_show">Hiển thị tin tức</string>

@@ -883,6 +883,7 @@
     <string name="debug_mode">Debugging web</string>
     <string name="debug_mode_info">Anda dapat men-debug dengan USB.</string>
     <string name="default_browser">Setel sebagai browser default</string>
+    <string name="news_start">Lihat berita dari seluruh dunia di satu tempat.</string>
     <string name="news_title">Berita</string>
     <string name="news_loading">Pemuatan berita&#8230;</string>
     <string name="news_show">Tampilkan berita</string>

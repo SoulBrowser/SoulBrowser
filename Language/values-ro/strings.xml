@@ -883,6 +883,7 @@
     <string name="debug_mode">Depanare web</string>
     <string name="debug_mode_info">Puteți depana cu USB.</string>
     <string name="default_browser">Setați ca browser implicit</string>
+    <string name="news_start">Consultați știrile din întreaga lume într-un singur loc.</string>
     <string name="news_title">Știri</string>
     <string name="news_loading">Încărcare știri&#8230;</string>
     <string name="news_show">Afișează știri</string>

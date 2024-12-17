@@ -883,6 +883,7 @@
     <string name="debug_mode">Webデバッグ</string>
     <string name="debug_mode_info">USBでデバッグすることができます。</string>
     <string name="default_browser">デフォルトのブラウザとして設定</string>
+    <string name="news_start">世界中のニュースを1か所で確認してください。</string>
     <string name="news_title">ニュース</string>
     <string name="news_loading">ニュースの読み込み&#8230;</string>
     <string name="news_show">ニュースを表示</string>

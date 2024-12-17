@@ -883,6 +883,7 @@
     <string name="debug_mode">Web hata ayıklama</string>
     <string name="debug_mode_info">USB ile hata ayıklayabilirsiniz.</string>
     <string name="default_browser">Varsayılan tarayıcı olarak ayarlayın</string>
+    <string name="news_start">Dünyanın dört bir yanından gelen haberlere tek bir yerden göz atın.</string>
     <string name="news_title">Haberler</string>
     <string name="news_loading">Haber yükleniyor&#8230;</string>
     <string name="news_show">Haberleri göster</string>

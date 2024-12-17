@@ -883,6 +883,7 @@
     <string name="debug_mode">تصحيح أخطاء الويب</string>
     <string name="debug_mode_info">يمكنك التصحيح باستخدام USB.</string>
     <string name="default_browser">تعيين كمتصفح إفتراضي</string>
+    <string name="news_start">اطلع على الأخبار من جميع أنحاء العالم في مكان واحد.</string>
     <string name="news_title">أخبار</string>
     <string name="news_loading">تحميل الأخبار&#8230;</string>
     <string name="news_show">عرض الأخبار</string>

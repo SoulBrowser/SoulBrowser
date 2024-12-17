@@ -883,6 +883,7 @@
     <string name="debug_mode">Débogage Web</string>
     <string name="debug_mode_info">Vous pouvez déboguer avec USB.</string>
     <string name="default_browser">Définir comme navigateur par défaut</string>
+    <string name="news_start">Consultez l\'actualité du monde entier en un seul endroit.</string>
     <string name="news_title">Nouvelles</string>
     <string name="news_loading">Chargement des actualités&#8230;</string>
     <string name="news_show">Afficher les actualités</string>
