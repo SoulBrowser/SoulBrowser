@@ -372,7 +372,7 @@
     <string name="exit_del_noti">Powiadomienie po usunięciu</string>
     <string name="exit_noti_1">&#60; Wyczyść przy wyjściu &#62;\n%s usunięte.</string>
     <string name="exit_noti_2">&#60; Wyczyść przy wyjściu &#62;\n%s usunięte.</string>
-    <string name="web_page">Strona internetowa</string>
+    <string name="web_page">Strona internet</string>
     <string name="text_size">Rozmiar tekstu</string>
     <string name="free_scale">Powiększ dwoma palcami</string>
     <string name="mobile_mode">Mobilny</string>
@@ -424,8 +424,8 @@
     <string name="real_name">Prawdziwe imię</string>
     <string name="prefix">Prefiks</string>
     <string name="clean_mode">Tryb czyszczenia</string>
-    <string name="site">Internetowa</string>
-    <string name="storage">Przechowywanie</string>
+    <string name="site">Internet</string>
+    <string name="storage">Pamięć urządzenia</string>
     <string name="system_name">System</string>
     <string name="gesture">Gest</string>
     <string name="show_status">Pokaż pasek stanu</string>
@@ -571,7 +571,7 @@
     <string name="show_center">Centrum</string>
     <string name="show_right">Prawo</string>
     <string name="tip">Wskazówka</string>
-    <string name="web_content">Treść internetowa</string>
+    <string name="web_content">Treść internet</string>
     <string name="composition">Kompozycja</string>
     <string name="font">Czcionka</string>
     <string name="font_default">Domyślna czcionka</string>
@@ -653,7 +653,7 @@
     <string name="list_mode">Tryb listy</string>
     <string name="simple_mode">Tryb prosty</string>
     <string name="accept_cookie">Pliki cookie są akceptowane (Zalecane)</string>
-    <string name="accept_cookie_info_1">Pozwala stronie na przechowywanie lub odczytywanie plików cookie.</string>
+    <string name="accept_cookie_info_1">Pozwala stronie na pamięć urządzenia lub odczytywanie plików cookie.</string>
     <string name="accept_cookie_info_2">Niektóre witryny mogą nie działać poprawnie, jeśli nie akceptujesz plików cookie.</string>
     <string name="third_cookie">Pliki cookie stron trzecich</string>
     <string name="js_title">JavaScript</string>
@@ -722,7 +722,7 @@
     <string name="estimated_info">Szacowane i rzeczywiste rozmiary mogą się różnić.</string>
     <string name="unknown">Nieznany</string>
     <string name="move_top">Powrót do góry</string>
-    <string name="move_bot">Do dna</string>
+    <string name="move_bot">Na dół</string>
     <string name="scroll_up">Przewiń do góry</string>
     <string name="scroll_down">Przewiń w dół</string>
     <string name="open_with">Otwórz za pomocą</string>
@@ -734,7 +734,7 @@
     <string name="not_support_locale">Może nie być obsługiwany we wszystkich regionach.</string>
     <string name="ads_filter">Filtr reklam</string>
     <string name="user_filter">Filtr użytkownika</string>
-    <string name="backup_title">Zapasowej</string>
+    <string name="backup_title">Kopia zapasowa</string>
     <string name="backup_import">Importuj</string>
     <string name="backup_export">Eksportuj</string>
     <string name="backup_target">Wybierz cel.</string>
@@ -981,7 +981,7 @@
     <string name="change_in_setting">Możesz to zmienić w ustawieniach.</string>
     <string name="check_brfore">Sprawdź przed biegiem</string>
     <string name="check_ver">Sprawdź wersję</string>
-    <string name="dark_guide_1">Jeśli przeglądarka internetowa systemu Android nie jest najnowszą wersją, ciemny motyw może nie wyświetlać się normalnie.</string>
+    <string name="dark_guide_1">Jeśli przeglądarka internet systemu Android nie jest najnowszą wersją, ciemny motyw może nie wyświetlać się normalnie.</string>
     <string name="recent_search">Ostatnie wyszukiwania</string>
     <string name="recent_secret">Zapisz ostatnie wyszukiwania w trybie incognito</string>
     <string name="recent_delete">Czy na pewno chcesz usunąć wszystkie ostatnie wyszukiwania?</string>
