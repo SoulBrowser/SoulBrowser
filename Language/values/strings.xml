@@ -475,7 +475,7 @@
     <string name="image_cast_guide_1">Visit the site with the image.</string>
     <string name="image_cast_guide_2">Select \'%1$s\' or \'%2$s\'.</string>
     <string name="image_cast_guide_3">Select an image.</string>
-    <string name="local_cast_guide_1">Select the TV cast list icon.</string>
+    <string name="local_cast_guide_1">Select the TV Cast list icon.</string>
     <string name="local_cast_guide_2">Select an item.</string>
     <string name="local_cast_guide_3">Your smartphone and Chromecast must be connected to the same network.</string>
     <string name="local_cast_guide_4">For example, if you use a VPN, it may not work properly.</string>
@@ -581,7 +581,7 @@
     <string name="font_guide_1">Each font has a set of supported languages.</string>
     <string name="font_guide_2">Most fonts usually only support alphabets and numbers.</string>
     <string name="font_guide_3">Check the preview to see if the selected font supports the specific language.</string>
-    <string name="tv_cast">TV cast</string>
+    <string name="tv_cast">TV Cast</string>
     <string name="media_route_menu_title">Play on&#8230;</string>
     <string name="introducing_cast">Touch to cast media to your TV</string>
     <string name="cast_info_6">YouTube is not supported.</string>

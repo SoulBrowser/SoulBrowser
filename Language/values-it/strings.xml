@@ -49,7 +49,7 @@
     <string name="live_fail">Il video live non può essere scaricato.</string>
     <string name="save_success">Salvato con successo</string>
     <string name="save_fail">Salvataggio fallito</string>
-    <string name="capture">Immagine dello schermo</string>
+    <string name="capture">Cattura schermata</string>
     <string name="print_page">Stampa / PDF</string>
     <string name="print_success">Stampato con successo</string>
     <string name="print_fail">Stampa fallita</string>
@@ -138,9 +138,9 @@
     <string name="link_app">Apri link nelle app</string>
     <string name="link">Collegamento</string>
     <string name="open_url">Apri</string>
-    <string name="new_url">Nuove schede</string>
+    <string name="new_url">Nuova scheda</string>
     <string name="group_url">Gruppo schede</string>
-    <string name="back_url">Sfondo schede</string>
+    <string name="back_url">Scheda in secondo piano</string>
     <string name="copy_url">Copia URL</string>
     <string name="paste_url">Incolla l\'URL</string>
     <string name="open_copied_url">Apri l\'URL copiato</string>
@@ -157,7 +157,7 @@
     <string name="preview_image">Anteprima immagine</string>
     <string name="view_image">Guarda immagine</string>
     <string name="tab_image">Apri l\'immagine in una nuova scheda</string>
-    <string name="only_image">Visualizzatore di immagini</string>
+    <string name="only_image">Visualizzatore immagini</string>
     <string name="downall_image">Salva tutte le immagini</string>
     <string name="tab_list">Elenco schede</string>
     <string name="tab_item">Schede</string>
@@ -171,7 +171,7 @@
     <string name="cancel">Annulla</string>
     <string name="undelete">Annulla eliminazione</string>
     <string name="close">Chiudi</string>
-    <string name="app_exit">Esci app</string>
+    <string name="app_exit">Esci dall\'app</string>
     <string name="image_fail">Impossibile caricare l\'immagine</string>
     <string name="time_day">giorno</string>
     <string name="time_hour">ora</string>
@@ -263,7 +263,7 @@
     <string name="camcorder">Videocamera</string>
     <string name="web_edit_hint">Cerca o digita l\'URL</string>
     <string name="search_engine">Motore di ricerca</string>
-    <string name="search_url">Ricerca</string>
+    <string name="search_url">Cerca</string>
     <string name="screen_off">Autospegnimento dello schermo</string>
     <string name="screen_hour">1 ora</string>
     <string name="screen_always">Sempre acceso</string>
@@ -333,7 +333,7 @@
     <string name="message_confirm">Non mostrare più questo messaggio</string>
     <string name="brightness">Luminosità</string>
     <string name="default_image">Immagine predefinita</string>
-    <string name="photo_editor">Editor di immagini</string>
+    <string name="photo_editor">Editor immagini</string>
     <string name="color_size">Spessore</string>
     <string name="color_alpha">Trasparenza</string>
     <string name="add_icon">Pulsante aggiungi</string>
@@ -461,13 +461,13 @@
     <string name="voice_title">Ricerca vocale</string>
     <string name="album_shortcut">Crea un collegamento PDF</string>
     <string name="album_short_info">Crea un pulsante di scelta rapida PDF nella schermata iniziale.</string>
-    <string name="cast_shortcut">Crea un collegamento per Cast TV</string>
+    <string name="cast_shortcut">Crea un collegamento per TV Cast</string>
     <string name="cast_short_info">Crea un pulsante di scelta rapida TV Cast nella schermata principale.</string>
     <string name="list_menu">Menu</string>
-    <string name="ads_white">Lista bianca annunci</string>
+    <string name="ads_white">Annunci consentiti</string>
     <string name="ads_allow_site">Consenti annunci sul sito corrente</string>
     <string name="ads_allow_page">Consenti annunci nella pagina corrente</string>
-    <string name="pop_white">Lista bianca popup</string>
+    <string name="pop_white">Popup consentiti</string>
     <string name="pop_allow">Consenti popup</string>
     <string name="pop_allow_site">Consenti popup sul sito corrente</string>
     <string name="pop_allow_page">Consenti popup nella pagina corrente</string>
@@ -475,7 +475,7 @@
     <string name="image_cast_guide_1">Visita il sito con l\'immagine.</string>
     <string name="image_cast_guide_2">Seleziona \'%1$s\' o \'%2$s\'.</string>
     <string name="image_cast_guide_3">Seleziona un\'immagine.</string>
-    <string name="local_cast_guide_1">Seleziona l\'icona Cast TV dell\'elenco.</string>
+    <string name="local_cast_guide_1">Seleziona l\'icona TV Cast dell\'elenco.</string>
     <string name="local_cast_guide_2">Seleziona un file.</string>
     <string name="local_cast_guide_3">Lo smartphone e il Chromecast devono essere collegati alla stessa rete.</string>
     <string name="local_cast_guide_4">Ad esempio, se utilizzi una VPN, potrebbe non funzionare correttamente.</string>
@@ -581,7 +581,7 @@
     <string name="font_guide_1">Ogni carattere ha una serie di lingue supportate.</string>
     <string name="font_guide_2">La maggior parte dei font di solito supporta solo alfabeti e numeri.</string>
     <string name="font_guide_3">Controlla l\'anteprima per vedere se il carattere selezionato supporta la lingua specifica.</string>
-    <string name="tv_cast">Cast TV</string>
+    <string name="tv_cast">TV Cast</string>
     <string name="media_route_menu_title">Continua a rirpodurre&#8230;</string>
     <string name="introducing_cast">Tocca per trasmettere contenuti multimediali alla TV</string>
     <string name="cast_info_6">YouTube non è supportato.</string>
@@ -675,9 +675,9 @@
     <string name="swipe_up">Scorrimento verso l\'alto</string>
     <string name="memo_title">Promemoria</string>
     <string name="memo_guide">È possibile registrare frasi utilizzate di frequente.</string>
-    <string name="page_source">Fonte della pagina</string>
-    <string name="tab_menu">Menù scheda</string>
-    <string name="delete_tab">Chiudi schede</string>
+    <string name="page_source">Sorgente pagina</string>
+    <string name="tab_menu">Menu scheda</string>
+    <string name="delete_tab">Chiudi scheda</string>
     <string name="delete_all_tab">Chiudi tutte le schede</string>
     <string name="delete_other_tab">Chiudi le altre schede</string>
     <string name="group_other_tab">Chiudi le altre schede all\'interno del gruppo</string>
@@ -696,7 +696,7 @@
     <string name="next_tab">Scheda successiva</string>
     <string name="tts_highlight">Punti salienti TTS</string>
     <string name="app_keyboard">Attivazione della tastiera all\'avvio dell\'app</string>
-    <string name="tab_keyboard">Attiva la tastiera quando aggiungi nuove schede</string>
+    <string name="tab_keyboard">Attiva la tastiera quando aggiungi nuova scheda</string>
     <string name="swipe">Scorri</string>
     <string name="page_move">Sposta pagina</string>
     <string name="tab_move">Sposta schede</string>
@@ -763,7 +763,7 @@
     <string name="search_suggest">Suggerimenti di ricerca</string>
     <string name="at_bottom">In fondo</string>
     <string name="clean_data_info">L\'accumulo di dati obsoleti può rallentare il browser.\nÈ una buona idea pulire periodicamente i dati.</string>
-    <string name="txt_viewer">Visualizzatore di testo</string>
+    <string name="txt_viewer">Visualizzatore testo</string>
     <string name="purchase">Acquista</string>
     <string name="donation">Donazione</string>
     <string name="inapp_ads">Annunci in-app</string>
@@ -818,7 +818,7 @@
     <string name="size_fit">Adatta allo schermo</string>
     <string name="block_ssl">Blocco degli errori SSL</string>
     <string name="block_ssl_info">Quando si verifica un errore SSL, la pagina passa automaticamente a una pagina sicura.</string>
-    <string name="screen_filter">Filtro a schermo</string>
+    <string name="screen_filter">Filtro colore</string>
     <string name="filter_color">Colore del filtro</string>
     <string name="always_use">Utilizza sempre</string>
     <string name="only_use_secret">Utilizzato solo in modalità di navigazione in incognito</string>
@@ -872,7 +872,7 @@
     <string name="quick_guide_1">1. Puoi muoverti tenendo premuta l\'icona.</string>
     <string name="quick_guide_2">2. È possibile creare cartelle sovrapponendo le icone.</string>
     <string name="column_count">Conteggio colonne</string>
-    <string name="tab_add_pos">Posizione nuove schede</string>
+    <string name="tab_add_pos">Posizione nuova scheda</string>
     <string name="tab_add_next">Accanto alla scheda corrente</string>
     <string name="tab_add_last">Fine dell\'elenco delle schede</string>
     <string name="group_title">Gruppo</string>
@@ -1007,7 +1007,7 @@
     <string name="restart_guide_4">L\'app si riavvierà in modo sicuro in uno stato pulito con l\'eliminazione della memoria non necessaria.</string>
     <string name="restart_noti">Desideri riavviare l\'app?</string>
     <string name="restart_title">Ricomincia</string>
-    <string name="block_area">Blocco delle zone</string>
+    <string name="block_area">Blocco elementi</string>
     <string name="remove_area">Sei sicuro di voler rimuovere l\'area selezionata?</string>
     <string name="remove_title">Rimuovere</string>
     <string name="area_guide_1">Puoi selezionare l\'area che desideri rimuovere.</string>
