@@ -93,8 +93,8 @@
     <string name="del_all_confirm">Vuoi davvero eliminare i dati di navigazione?</string>
     <string name="delete_all">Cancella tutto</string>
     <string name="deleted">Eliminazione completata</string>
-    <string name="swipe_delete">Scorri per chiudere</string>
-    <string name="swipe_remove">Scorri per rimuovere</string>
+    <string name="swipe_delete">Trascina fuori per chiudere</string>
+    <string name="swipe_remove">Trascina per rimuovere</string>
     <string name="snack_guide">Puoi modificare le impostazioni in modo che non sia visualizzato.</string>
     <string name="rename">Rinomina</string>
     <string name="apply_url_equal">Applica a tutto</string>
@@ -169,7 +169,7 @@
     <string name="apply">Applica</string>
     <string name="save">Salva</string>
     <string name="cancel">Annulla</string>
-    <string name="undelete">Riapri scheda chiusa</string>
+    <string name="undelete">Riapri scheda</string>
     <string name="close">Chiudi</string>
     <string name="app_exit">Esci dall\'app</string>
     <string name="image_fail">Impossibile caricare l\'immagine</string>
