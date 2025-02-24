@@ -169,7 +169,7 @@
     <string name="apply">Applica</string>
     <string name="save">Salva</string>
     <string name="cancel">Annulla</string>
-    <string name="undelete">Riapri scheda</string>
+    <string name="undelete">Annulla chiusura...</string>
     <string name="close">Chiudi</string>
     <string name="app_exit">Esci dall\'app</string>
     <string name="image_fail">Impossibile caricare l\'immagine</string>
