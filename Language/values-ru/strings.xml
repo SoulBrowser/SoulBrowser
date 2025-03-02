@@ -329,7 +329,7 @@
     <string name="pdf_crop_guide">Удалить поля из PDF файлов.</string>
     <string name="guide_pinch">Увеличить / Уменьшить</string>
     <string name="dark_mode">Тема</string>
-    <string name="dark_mode_info_2">Будьте осторожны при использовании этой функции./string>
+    <string name="dark_mode_info_2">Будьте осторожны при использовании этой функции.</string>
     <string name="message_confirm">Больше не показывать это сообщение</string>
     <string name="brightness">Яркость</string>
     <string name="default_image">Изображение по умолчанию</string>
@@ -599,7 +599,7 @@
     <string name="not_selected">Не выбрано</string>
     <string name="select_dir">Выберите каталог</string>
     <string name="scan_dir">Сканировать каталог</string>
-    <string name="dir_scanning">Сканирование каталога&#8230</string>
+    <string name="dir_scanning">Сканирование каталога&#8230;</string>
     <string name="no_added">Нет файлов для добавления</string>
     <string name="file_added">Добавлено %d файлов</string>
     <string name="no_found">Файлы не найдены</string>
