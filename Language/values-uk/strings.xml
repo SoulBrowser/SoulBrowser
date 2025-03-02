@@ -548,7 +548,7 @@
     <string name="keep_tab">Зберігати вкладки</string>
     <string name="keep_tab_info">Вкладки інкогніто зберігаються при переході у звичайний режим.</string>
     <string name="keep_login">Зберігати вхід</string>
-    <string name="keep_login_info">У режимі інкогніто дані для входу зберігаються, навіть при переході у звичайний режим.</string>---------------
+    <string name="keep_login_info">У режимі інкогніто дані для входу зберігаються, навіть при переході у звичайний режим.</string>
     <string name="secret_exit">Вихід з режиму інкогніто</string>
     <string name="direct_input">Ввід вручну</string>
     <string name="direct_select">Вибір вручну</string>
@@ -599,7 +599,7 @@
     <string name="not_selected">Не вибрано</string>
     <string name="select_dir">Виберіть каталог</string>
     <string name="scan_dir">Сканувати каталог</string>
-    <string name="dir_scanning">Сканування каталогу&#8230</string>
+    <string name="dir_scanning">Сканування каталогу&#8230;</string>
     <string name="no_added">Немає файлів для додавання</string>
     <string name="file_added">Додано %d файлів</string>
     <string name="no_found">Файли не знайдено</string>
@@ -801,7 +801,7 @@
     <string name="subtitle_info_4">Підтримує формати VTT та SRT.</string>
     <string name="subtitle_info_5">Швидкість завантаження формату VTT вища.</string>
     <string name="subtitle_info_6">Рекомендовано формат VTT.</string>
-    <string name="subtitle_info_7">Якщо кодування відрізняється від UTF-8, символи можуть відображатися некоректно.</string>---------
+    <string name="subtitle_info_7">Якщо кодування відрізняється від UTF-8, символи можуть відображатися некоректно.</string>
     <string name="android_shot">Знімок екрана Android</string>
     <string name="always_allow">Завжди дозволено</string>
     <string name="always_block">Завжди блокувати</string>
