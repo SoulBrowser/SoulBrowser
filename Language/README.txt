@@ -20,6 +20,7 @@ values-ro        Romania
 values-ru        Russian
 values-th        Thai
 values-tr        Turkey
+values-uk        Ukrainian
 values-vi        Vietnamese
 values-zh-rCN    Chinese Simplified
 values-zh-rTW    Chinese Traditional
