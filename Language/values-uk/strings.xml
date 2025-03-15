@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Натиснувши кнопку «Почати роботу», ви погоджуєтесь із %1$s і %2$s браузера Soul.</string>
+    <string name="notice">Натиснувши кнопку \'Почати роботу\', ви погоджуєтесь із %1$s і %2$s браузера Soul.</string>
     <string name="notice_tos">Умови використання</string>
     <string name="notice_privacy">Політика конфіденційності</string>
     <string name="start">Почати роботу</string>
@@ -236,13 +236,13 @@
     <string name="delete_cookie">Видалити файли cookie</string>
     <string name="screen_rotate">Орієнтація екрану</string>
     <string name="vol_scroll">Прокрутка сторінок за допомогою клавіш гучності</string>
-    <string name="double_back">Двічі натисніть кнопку «Назад», щоб вийти із застосунку</string>
+    <string name="double_back">Двічі натисніть кнопку \'Назад\', щоб вийти із застосунку</string>
     <string name="press_again">Натисніть ще раз, щоб вийти</string>
     <string name="last_noti">Повідомлення про останню сторінку</string>
-    <string name="last_noti_info">При натисканні кнопки «Назад» на останній сторінці вкладки з\'явиться повідомлення.</string>
+    <string name="last_noti_info">При натисканні кнопки \'Назад\' на останній сторінці вкладки з\'явиться повідомлення.</string>
     <string name="last_page_noti">Це остання сторінка вкладки</string>
     <string name="last_swipe">Закривати свайпом вкладку з останньої сторінки</string>
-    <string name="last_exit">Поведінка кнопки «Назад» на останній сторінці</string>
+    <string name="last_exit">Поведінка кнопки \'Назад\' на останній сторінці</string>
     <string name="title">Заголовок</string>
     <string name="author">Автор</string>
     <string name="artist">Виконавець</string>
@@ -276,8 +276,8 @@
     <string name="type">Тип</string>
     <string name="page_effect">Ефект сторінки</string>
     <string name="page_scroll">Прокрутка сторінки</string>
-    <string name="list_hori">Список (горизонтальний)</string>
-    <string name="list_vert">Список (вертикальний)</string>
+    <string name="list_hori">Список (Горизонтальний)</string>
+    <string name="list_vert">Список (Вертикальний)</string>
     <string name="best_size">Оптимальний розмір</string>
     <string name="best_info">Оптимальний розмір для поточного типу</string>
     <string name="reduce_image">Зменшити зображення</string>
@@ -329,7 +329,7 @@
     <string name="pdf_crop_guide">Видалити поля з PDF файлів.</string>
     <string name="guide_pinch">Збільшити / Зменшити</string>
     <string name="dark_mode">Тема</string>
-    <string nme="dark_mode_info_2">Будьте обережні при використанні цієї функції.</string>
+    <string name="dark_mode_info_2">Будьте обережні при використанні цієї функції.</string>
     <string name="message_confirm">Більше не показувати це повідомлення</string>
     <string name="brightness">Яскравість</string>
     <string name="default_image">Стандартне зображення</string>
@@ -357,7 +357,7 @@
     <string name="ask_rem_pms">Видалити дозвіл на доступ до аккаунту?</string>
     <string name="remove_pms">Видалити дозвіл</string>
     <string name="noti_pms">Дозвіл на сповіщення</string>
-    <string name="noti_pms_guide_1">«Дозвіл на сповіщення» потрібен для сповіщень про статус наступних функцій.</string>
+    <string name="noti_pms_guide_1">\'Дозвіл на сповіщення\' потрібен для сповіщень про статус наступних функцій.</string>
     <string name="ads_block">Блокувальник реклами</string>
     <string name="ads_block_info">Для блокування реклами має бути активний хоча б один фільтр.</string>
     <string name="filtered_image">Відфільтровано зображень (%d)</string>
@@ -377,8 +377,8 @@
     <string name="free_scale">Збільшення двома пальцями</string>
     <string name="mobile_mode">Мобільний режим</string>
     <string name="desk_mode">Режим ПК</string>
-    <string name="desk_one">Режим ПК (поточна вкладка)</string>
-    <string name="desk_all">Режим ПК (всі вкладки)</string>
+    <string name="desk_one">Режим ПК (Поточна вкладка)</string>
+    <string name="desk_all">Режим ПК (Всі вкладки)</string>
     <string name="block_link">Заблокувати посилання</string>
     <string name="blocked_link">Заблоковані посилання</string>
     <string name="link_block_site">Заблокувати веб-сайт за посиланням</string>
@@ -452,7 +452,7 @@
     <string name="video_manager">Кнопка менеджера відео</string>
     <string name="youtube_manager">Кнопка менеджера YouTube</string>
     <string name="play_speed">Швидкість відтворення</string>
-    <string name="two_finger">(два пальці)</string>
+    <string name="two_finger">(Два пальці)</string>
     <string name="two_finger_info_1">Перемикайте вкладки, проводячи двома пальцями вліво або вправо.</string>
     <string name="two_finger_info_2">Проведіть двома пальцями вниз, щоб закрити вкладку.</string>
     <string name="show_scroll">Показувати смугу прокрутки</string>
@@ -473,7 +473,7 @@
     <string name="pop_allow_page">Дозволити спливаюче вікно на поточній сторінці</string>
     <string name="image_list">Список зображень</string>
     <string name="image_cast_guide_1">Відкрийте сайт із зображеннями.</string>
-    <string name="image_cast_guide_2">Виберіть «%1$s» або «%2$s».</string>
+    <string name="image_cast_guide_2">Виберіть \'%1$s\' або \'%2$s\'.</string>
     <string name="image_cast_guide_3">Виберіть зображення.</string>
     <string name="local_cast_guide_1">Виберіть іконку списку TV Cast.</string>
     <string name="local_cast_guide_2">Виберіть елемент.</string>
@@ -517,7 +517,7 @@
     <string name="reinput">Будь ласка, введіть ще раз</string>
     <string name="wrong_input">Невірний ввід</string>
     <string name="continue_input">Продовжити</string>
-    <string name="pip_home">Перемикатися в режим PIP за допомогою кнопки «Додому»</string>
+    <string name="pip_home">Перемикатися в режим PIP за допомогою кнопки \'Додому\'</string>
     <string name="memory_warning_1">Ця функція використовує більше пам\'яті.</string>
     <string name="secret_data_info">Розділення даних (cookie, кеш тощо) підтримується починаючи з Android 9.</string>
     <string name="secret_hist">Зберігати історію відвідувань</string>
@@ -593,7 +593,7 @@
     <string name="icon_color">Колір кнопки</string>
     <string name="icon_pos">Розташування кнопки</string>
     <string name="storage_guide_1">Оновлено для Android 10.</string>
-    <string name="storage_guide_2">Починаючи з Android 10 застосовується політика «Scoped storage».</string>
+    <string name="storage_guide_2">Починаючи з Android 10 застосовується політика \'Scoped storage\'.</string>
     <string name="storage_guide_3">Список сховищ та шлях зберігання були скинуті.</string>
     <string name="storage_guide_4">Файли зберігаються.</string>
     <string name="not_selected">Не вибрано</string>
@@ -648,16 +648,16 @@
     <string name="drag_volume">Регулювання гучності за допомогою жестів</string>
     <string name="drag_volume_info">Проведіть у правій частині екрану, щоб змінити гучність.</string>
     <string name="local_file">Локальний файл</string>
-    <string name="web_stream">(веб-трансляція)</string>
+    <string name="web_stream">(Веб-трансляція)</string>
     <string name="thumb_mode">Режим мініатюр</string>
     <string name="list_mode">Режим списку</string>
     <string name="simple_mode">Простий режим</string>
-    <string name="accept_cookie">Дозволити cookie (рекомендовано)</string>
+    <string name="accept_cookie">Дозволити cookie (Рекомендовано)</string>
     <string name="accept_cookie_info_1">Дозволяє сайту зберігати або читати cookie.</string>
     <string name="accept_cookie_info_2">Якщо ви не дозволите cookie, деякі сайти можуть працювати некоректно.</string>
     <string name="third_cookie">Сторонні файли cookie</string>
     <string name="js_title">JavaScript</string>
-    <string name="java_script">Використовувати JavaScript (рекомендовано)</string>
+    <string name="java_script">Використовувати JavaScript (Рекомендовано)</string>
     <string name="java_script_info">Деякі функції браузера не працюватимуть, якщо JavaScript відключено.</string>
     <string name="user_script_title">Користувацькі скрипти</string>
     <string name="user_script_on">Увімкнути користувацькі скрипти</string>
@@ -687,7 +687,7 @@
     <string name="reader_empty">На цій сторінці немає тексту</string>
     <string name="site_warning">Попередження про безпеку</string>
     <string name="site_exit">Перейти на безпечну сторінку</string>
-    <string name="site_continue">Продовжити (небезпечно)</string>
+    <string name="site_continue">Продовжити (Небезпечно)</string>
     <string name="header_title">Заголовок</string>
     <string name="header_color">Колір заголовка</string>
     <string name="site_theme">Тема сайту</string>
@@ -810,7 +810,7 @@
     <string name="only_https">Підключатися через HTTPS</string>
     <string name="only_https_info">Підключатися через протокол HTTPS.\nСайти, що не підтримують HTTPS, можуть не завантажитись.</string>
     <string name="http_warning">На HTTP-сайтах (не захищених сайтах) виконання неможливе.</string>
-    <string name="page_home_info">При натисканні на іконку «Додому»</string>
+    <string name="page_home_info">При натисканні на іконку \'Додому\'</string>
     <string name="page_start_info">При запуску застосунку</string>
     <string name="page_tab_info">При створенні нової вкладки</string>
     <string name="filter_user_1">Ви можете додати фільтри для блокування більшої кількості реклами.</string>
@@ -857,7 +857,7 @@
     <string name="keyboard_secure_info_2">Деякі клавіатури можуть не підтримуватись.</string>
     <string name="noti_invalid">Недійсно</string>
     <string name="original_size">Оригінальний розмір</string>
-    <string name="reduced_size">Зменшений розмір (рекомендовано)</string>
+    <string name="reduced_size">Зменшений розмір (Рекомендовано)</string>
     <string name="finger_print">Відбиток пальця</string>
     <string name="finger_unavailable">Апаратне забеспечення недоступне, тому автентифікація неможлива. Спробуйте повторити пізніше.</string>
     <string name="finger_register">Немає зареєстрованих відбитків пальців, тому автентифікація неможлива.</string>
@@ -1027,8 +1027,8 @@
     <string name="area_edit_guide_4">Але не хвилюйтеся.</string>
     <string name="area_edit_guide_5">Ви завжди зможете відредагувати його знову.</string>
     <string name="area_edit_guide_6">Не соромтеся спробувати.</string>
-    <string name="area_recom_1">Спробуйте використати функцію «%s».</string>
-    <string name="area_recom_2">Функція «%s» дозволяє безпосередньо вибрати те, що ви хочете заблокувати.</string>
+    <string name="area_recom_1">Спробуйте використати функцію \'%s\'.</string>
+    <string name="area_recom_2">Функція \'%s\' дозволяє безпосередньо вибрати те, що ви хочете заблокувати.</string>
     <string name="area_info_1">Сьогодні у всесвітньому павутинні налічується понад 1.5 мільярда веб-сайтів.</string>
     <string name="area_info_2">Саме тому фільтр містить інформацію про безліч сайтів.</string>
     <string name="area_info_3">Проте користувачі зазвичай відвідують лише кілька сайтів.</string>
@@ -1039,10 +1039,10 @@
     <string name="area_info_8">Щоб вирішити цю проблему, вам потрібен індивідуальний фільтр, який працює для вас.</string>
     <string name="area_info_9">Однак створення фільтра вимагає знань про фільтри.</string>
     <string name="area_info_10">З цієї причини багато користувачів відмовляються від створення власних фільтрів.</string>
-    <string name="area_info_11">Функція «%s» не вимагає жодних знань про фільтри.</string>
+    <string name="area_info_11">Функція \'%s\' не вимагає жодних знань про фільтри.</string>
     <string name="area_info_12">Будь-хто може легко створювати власні фільтри.</string>
     <string name="area_info_13">Натисніть та утримуйте об\'єкт, який хочете заблокувати, щоб відкрити меню.</string>
-    <string name="area_info_14">Коли ви запустите та єте функцію «%s», фільтр буде створено автоматично.</string>
+    <string name="area_info_14">Коли ви запустите та єте функцію \'%s\', фільтр буде створено автоматично.</string>
     <string name="area_info_15">Це дуже просто.</string>
     <string name="area_info_16">Спробуйте прямо зараз.</string>
     <string name="freq_asked">Часто задавані питання</string>
