@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Нажав кнопку «Начать работу», вы соглашаетесь с %1$s и %2$s браузера Soul.</string>
+    <string name="notice">Нажав кнопку \'Начать работу\', вы соглашаетесь с %1$s и %2$s браузера Soul.</string>
     <string name="notice_tos">Условия использования</string>
     <string name="notice_privacy">Политика конфиденциальности</string>
     <string name="start">Начать работу</string>
@@ -236,13 +236,13 @@
     <string name="delete_cookie">Удалить файлы cookie</string>
     <string name="screen_rotate">Ориентация экрана</string>
     <string name="vol_scroll">Прокрутка страниц с помощью клавиш громкости</string>
-    <string name="double_back">Дважды нажмите кнопку «Назад», чтобы выйти из приложения</string>
+    <string name="double_back">Дважды нажмите кнопку \'Назад\', чтобы выйти из приложения</string>
     <string name="press_again">Нажмите еще раз, чтобы выйти</string>
     <string name="last_noti">Уведомление о последней странице</string>
-    <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление.</string>
+    <string name="last_noti_info">При нажатии кнопки \'Назад\' на последней странице вкладки, появится уведомление.</string>
     <string name="last_page_noti">Это последняя страница вкладки</string>
     <string name="last_swipe">Закрывать свайпом вкладку с последней страницы</string>
-    <string name="last_exit">Поведение кнопки «Назад» на последней странице</string>
+    <string name="last_exit">Поведение кнопки \'Назад\' на последней странице</string>
     <string name="title">Заголовок</string>
     <string name="author">Автор</string>
     <string name="artist">Исполнитель</string>
@@ -276,8 +276,8 @@
     <string name="type">Тип</string>
     <string name="page_effect">Эффект страницы</string>
     <string name="page_scroll">Прокрутка страницы</string>
-    <string name="list_hori">Список (горизонтальный))</string>
-    <string name="list_vert">Список (вертикальный)</string>
+    <string name="list_hori">Список (Горизонтальный))</string>
+    <string name="list_vert">Список (Вертикальный)</string>
     <string name="best_size">Оптимальный размер</string>
     <string name="best_info">Оптимальный размер для текущего типа</string>
     <string name="reduce_image">Уменьшить изображение</string>
@@ -357,7 +357,7 @@
     <string name="ask_rem_pms">Удалить разрешение на доступ к аккаунту?</string>
     <string name="remove_pms">Удалить разрешение</string>
     <string name="noti_pms">Разрешение на уведомления</string>
-    <string name="noti_pms_guide_1">«Разрешение на уведомления» требуется для уведомлений о статусе следующих функций.</string>
+    <string name="noti_pms_guide_1">\'Разрешение на уведомления\' требуется для уведомлений о статусе следующих функций.</string>
     <string name="ads_block">Блокировщик рекламы</string>
     <string name="ads_block_info">Для блокировки рекламы должен быть активен хотя бы один фильтр.</string>
     <string name="filtered_image">Отфильтровано изображений (%d)</string>
@@ -377,8 +377,8 @@
     <string name="free_scale">Увеличение двумя пальцами</string>
     <string name="mobile_mode">Мобильный режим</string>
     <string name="desk_mode">Режим ПК</string>
-    <string name="desk_one">Режим ПК (текущая вкладка)</string>
-    <string name="desk_all">Режим ПК (все вкладки)</string>
+    <string name="desk_one">Режим ПК (Текущая вкладка)</string>
+    <string name="desk_all">Режим ПК (Все вкладки)</string>
     <string name="block_link">Заблокировать ссылку</string>
     <string name="blocked_link">Заблокированные ссылки</string>
     <string name="link_block_site">Заблокировать веб-сайт по ссылке</string>
@@ -452,7 +452,7 @@
     <string name="video_manager">Кнопка менеджера видео</string>
     <string name="youtube_manager">Кнопка менеджера YouTube</string>
     <string name="play_speed">Скорость воспроизведения</string>
-    <string name="two_finger">(два пальца)</string>
+    <string name="two_finger">(Два пальца)</string>
     <string name="two_finger_info_1">Переключайте вкладки, проводя двумя пальцами влево или вправо.</string>
     <string name="two_finger_info_2">Проведите двумя пальцами вниз, чтобы закрыть вкладку.</string>
     <string name="show_scroll">Показывать полосу прокрутки</string>
@@ -473,7 +473,7 @@
     <string name="pop_allow_page">Разрешить всплывающее окно на текущей странице</string>
     <string name="image_list">Список изображений</string>
     <string name="image_cast_guide_1">Откройте сайт с изображениями.</string>
-    <string name="image_cast_guide_2">Выберите «%1$s» или «%2$s».</string>
+    <string name="image_cast_guide_2">Выберите \'%1$s\' или \'%2$s\'.</string>
     <string name="image_cast_guide_3">Выберите изображение.</string>
     <string name="local_cast_guide_1">Выберите иконку списка TV Cast.</string>
     <string name="local_cast_guide_2">Выберите элемент.</string>
@@ -502,7 +502,7 @@
     <string name="history_none">Неограниченно</string>
     <string name="history_info_zero">Ваша история не будет сохранена.\nВсе ранее сохраненные записи будут удалены.</string>
     <string name="history_info_limit">Записи, старше установленного срока хранения, удаляются автоматически.</string>
-    <string name="history_info_none">Вся история сохранена.\При накоплении большого объема данных производительность браузера может снизиться.</string>
+    <string name="history_info_none">Вся история сохранена.\nПри накоплении большого объема данных производительность браузера может снизиться.</string>
     <string name="list">Список</string>
     <string name="touch_lock_info">Экран блокировки для разблокировки сенсора во время воспроизведения видео.</string>
     <string name="touch_locked">Сенсор заблокирован</string>
@@ -517,7 +517,7 @@
     <string name="reinput">Пожалуйста, введите еще раз</string>
     <string name="wrong_input">Неверный ввод</string>
     <string name="continue_input">Продолжить</string>
-    <string name="pip_home">Переключаться в режим PIP с помощью кнопки «Домой»</string>
+    <string name="pip_home">Переключаться в режим PIP с помощью кнопки \'Домой\'</string>
     <string name="memory_warning_1">Эта функция использует больше памяти.</string>
     <string name="secret_data_info">Разделение данных (cookie, кэш и т.д.) поддерживается начиная с Android 9.</string>
     <string name="secret_hist">Сохранять историю посещений</string>
@@ -593,7 +593,7 @@
     <string name="icon_color">Цвет кнопки</string>
     <string name="icon_pos">Расположение кнопки</string>
     <string name="storage_guide_1">Обновлено для Android 10.</string>
-    <string name="storage_guide_2">Начиная с Android 10 применяется политика «Scoped storage».</string>
+    <string name="storage_guide_2">Начиная с Android 10 применяется политика \'Scoped storage\'.</string>
     <string name="storage_guide_3">Список хранилищ и путь хранения были сброшены.</string>
     <string name="storage_guide_4">Файлы сохраняются.</string>
     <string name="not_selected">Не выбрано</string>
@@ -648,16 +648,16 @@
     <string name="drag_volume">Регулировка громкости с помощью жестов</string>
     <string name="drag_volume_info">Проведите в правой части экрана, чтобы изменить громкость.</string>
     <string name="local_file">Локальный файл</string>
-    <string name="web_stream">(веб-трансляция)</string>
+    <string name="web_stream">(Веб-трансляция)</string>
     <string name="thumb_mode">Режим миниатюр</string>
     <string name="list_mode">Режим списка</string>
     <string name="simple_mode">Простой режим</string>
-    <string name="accept_cookie">Разрешить cookie (рекомендуется)</string>
+    <string name="accept_cookie">Разрешить cookie (Рекомендуется)</string>
     <string name="accept_cookie_info_1">Разрешает сайту сохранять или читать cookie.</string>
     <string name="accept_cookie_info_2">Если вы не разрешите cookie, некоторые сайты могут работать некорректно.</string>
     <string name="third_cookie">Сторонние файлы cookie</string>
     <string name="js_title">JavaScript</string>
-    <string name="java_script">Использовать JavaScript (рекомендуется)</string>
+    <string name="java_script">Использовать JavaScript (Рекомендуется)</string>
     <string name="java_script_info">Некоторые функции браузера не будут работать, если JavaScript отключен.</string>
     <string name="user_script_title">Пользовательские скрипты</string>
     <string name="user_script_on">Включить пользовательские скрипты</string>
@@ -687,7 +687,7 @@
     <string name="reader_empty">На этой странице нет текста</string>
     <string name="site_warning">Предупреждение о безопасности</string>
     <string name="site_exit">Перейти на безопасную страницу</string>
-    <string name="site_continue">Продолжить (небезопасно)</string>
+    <string name="site_continue">Продолжить (Небезопасно)</string>
     <string name="header_title">Заголовок</string>
     <string name="header_color">Цвет заголовка</string>
     <string name="site_theme">Тема сайта</string>
@@ -810,7 +810,7 @@
     <string name="only_https">Подключаться по HTTPS</string>
     <string name="only_https_info">По умолчанию подключаться по протоколу HTTPS.\nСайты, не поддерживающие HTTPS, могут не загрузиться.</string>
     <string name="http_warning">На HTTP-сайтах (не защищенных сайтах) выполнение невозможно.</string>
-    <string name="page_home_info">При нажатии на на иконку «Домой»</string>
+    <string name="page_home_info">При нажатии на на иконку \'Домой\'</string>
     <string name="page_start_info">При запуске приложения</string>
     <string name="page_tab_info">При создании новой вкладки</string>
     <string name="filter_user_1">Вы можете добавить фильтры для блокировки большего количества рекламы.</string>
@@ -857,7 +857,7 @@
     <string name="keyboard_secure_info_2">Некоторые клавиатуры могут не поддерживаться.</string>
     <string name="noti_invalid">Недействительно</string>
     <string name="original_size">Оригинальный размер</string>
-    <string name="reduced_size">Уменьшенный размер (рекомендуется)</string>
+    <string name="reduced_size">Уменьшенный размер (Рекомендуется)</string>
     <string name="finger_print">Отпечаток пальца</string>
     <string name="finger_unavailable">Аппаратное обеспечение недоступно, поэтому аутентификация невозможна. Попробуйте повторить попытку позже.</string>
     <string name="finger_register">Нет зарегистрированных отпечатков пальцев, поэтому аутентификация невозможна.</string>
@@ -1027,8 +1027,8 @@
     <string name="area_edit_guide_4">Но не переживайте.</string>
     <string name="area_edit_guide_5">Вы всегда сможете отредактировать его снова.</string>
     <string name="area_edit_guide_6">Не стесняйтесь попробовать.</string>
-    <string name="area_recom_1">Попробуйте использовать функцию «%s».</string>
-    <string name="area_recom_2">Функция «%s» позволяет напрямую выбрать то, что вы хотите заблокировать.</string>
+    <string name="area_recom_1">Попробуйте использовать функцию \'%s\'.</string>
+    <string name="area_recom_2">Функция \'%s\' позволяет напрямую выбрать то, что вы хотите заблокировать.</string>
     <string name="area_info_1">Сегодня во всемирной паутине насчитывается более 1.5 миллиардов веб-сайтов.</string>
     <string name="area_info_2">Именно поэтому фильтр содержит информацию о многих сайтах.</string>
     <string name="area_info_3">Однако пользователи обычно посещают только несколько сайтов.</string>
@@ -1039,10 +1039,10 @@
     <string name="area_info_8">Чтобы решить эту проблему, вам нужен индивидуальный фильтр, который работает для вас.</string>
     <string name="area_info_9">Однако создание фильтра требует знаний о фильтрах.</string>
     <string name="area_info_10">По этой причине многие пользователи отказываются от создания собственных фильтров.</string>
-    <string name="area_info_11">Функция «%s» не требует каких-либо знаний о фильтрах.</string>
+    <string name="area_info_11">Функция \'%s\' не требует каких-либо знаний о фильтрах.</string>
     <string name="area_info_12">Любой может легко создавать собственные фильтры.</string>
     <string name="area_info_13">Нажмите и удерживайте объект который хотите заблокировать, чтобы открыть меню.</string>
-    <string name="area_info_14">Когда вы запустите и примените функцию «%s», фильтр будет создан автоматически.</string>
+    <string name="area_info_14">Когда вы запустите и примените функцию \'%s\', фильтр будет создан автоматически.</string>
     <string name="area_info_15">Это очень легко.</string>
     <string name="area_info_16">Попробуйте прямо сейчас.</string>
     <string name="freq_asked">Часто задаваемые вопросы</string>
