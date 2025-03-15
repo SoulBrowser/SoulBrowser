@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Натиснув кнопку «Почати роботу», ви погоджуєтесь із %1$s і %2$s браузера Soul.</string>
+    <string name="notice">Натиснувши кнопку «Почати роботу», ви погоджуєтесь із %1$s і %2$s браузера Soul.</string>
     <string name="notice_tos">Умови використання</string>
     <string name="notice_privacy">Політика конфіденційності</string>
     <string name="start">Почати роботу</string>
@@ -12,8 +12,8 @@
     <string name="license">Ліцензії з відкритим кодом</string>
     <string name="show_license">Ліцензія</string>
     <string name="feedback">Надіслати відгук</string>
-    <string name="item">&#160;пункт</string>
-    <string name="items">&#160;пунктiв</string>
+    <string name="item">&#160;об\'єкт</string>
+    <string name="items">&#160;об\'єктів</string>
     <string name="down_location">Папка завантажень</string>
     <string name="save_location">Місце збереження</string>
     <string name="file">Файл</string>
@@ -120,7 +120,7 @@
     <string name="over_block">Блокувальник оверлеїв</string>
     <string name="over_white">Білий список оверлеїв</string>
     <string name="over_block_guide_1">Видаляє елементи, які з\'являються поверх веб-сторінки.</string>
-    <string name="over_block_guide_2">Хоча насамперед це реклама, можуть бути видалені й нерекламні елементи.</string>
+    <string name="over_block_guide_2">Хоча насамперед це реклама, можуть бути видалені і нерекламні елементи.</string>
     <string name="over_block_guide_3">Застосовується дуже обережно, щоб нерекламні елементи не видалялися.</string>
     <string name="over_block_info">Перевіряти лише при зміні сторінки.</string>
     <string name="check_once">Перевірити один раз</string>
@@ -289,7 +289,7 @@
     <string name="reverse">Назад</string>
     <string name="show_thumb">Попередній перегляд мініатюр</string>
     <string name="show_thumb_info">Для швидшої роботи вимкніть це налаштування.</string>
-    <string name="show_page_guide">Посібник з прокрутки сторінок</string>
+    <string name="show_page_guide">Відображати підказки з прокрутки сторінок</string>
     <string name="tap_turn">Прокрутка сторінок за допомогою дотика</string>
     <string name="volume_turn">Прокрутка сторінок за допомогою клавіш гучності</string>
     <string name="ok">OK</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Розмір тексту</string>
     <string name="free_scale">Збільшення двома пальцями</string>
     <string name="mobile_mode">Мобільний режим</string>
-    <string name="desk_mode">Мобільний/ПК режим</string>
+    <string name="desk_mode">Режим ПК</string>
     <string name="desk_one">Режим ПК (поточна вкладка)</string>
     <string name="desk_all">Режим ПК (всі вкладки)</string>
     <string name="block_link">Заблокувати посилання</string>
