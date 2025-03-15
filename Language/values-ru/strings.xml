@@ -12,8 +12,8 @@
     <string name="license">Лицензии с открытым кодом</string>
     <string name="show_license">Лицензия</string>
     <string name="feedback">Отправить отзыв</string>
-    <string name="item">&#160;пункт</string>
-    <string name="items">&#160;пунктов</string>
+    <string name="item">&#160;объект</string>
+    <string name="items">&#160;объектов</string>
     <string name="down_location">Папка загрузок</string>
     <string name="save_location">Место хранения</string>
     <string name="file">Файл</string>
@@ -289,7 +289,7 @@
     <string name="reverse">Назад</string>
     <string name="show_thumb">Предпросмотр миниатюр</string>
     <string name="show_thumb_info">Для более быстрой работы отключите эту настройку.</string>
-    <string name="show_page_guide">Руководство по прокрутке страниц</string>
+    <string name="show_page_guide">Отображать подсказки по прокрутке страниц</string>
     <string name="tap_turn">Прокрутка страниц при помощи касания</string>
     <string name="volume_turn">Прокрутка страниц с помощью клавиш громкости</string>
     <string name="ok">OK</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Размер текста</string>
     <string name="free_scale">Увеличение двумя пальцами</string>
     <string name="mobile_mode">Мобильный режим</string>
-    <string name="desk_mode">Мобильный/ПК режим</string>
+    <string name="desk_mode">Режим ПК</string>
     <string name="desk_one">Режим ПК (текущая вкладка)</string>
     <string name="desk_all">Режим ПК (все вкладки)</string>
     <string name="block_link">Заблокировать ссылку</string>
