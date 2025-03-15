@@ -18,6 +18,7 @@ values-pt-rBR    Brazilian Portuguese
 values-pt        Portuguese
 values-ro        Romania
 values-ru        Russian
+values-sat       Santali
 values-th        Thai
 values-tr        Turkey
 values-uk        Ukrainian

@@ -688,8 +688,8 @@
     <string name="site_warning">Peringatan keamanan</string>
     <string name="site_exit">Pergi ke halaman yang aman</string>
     <string name="site_continue">Lanjutan (Tidak aman)</string>
-    <string name="header_title">Tema</string>
-    <string name="header_color">Warna tema</string>
+    <string name="header_title">Tajuk</string>
+    <string name="header_color">Warna tajuk</string>
     <string name="site_theme">Tema situs</string>
     <string name="site_theme_info">Jika situs yang Anda kunjungi mendukung tema, itu berlaku untuk browser Anda.</string>
     <string name="prev_tab">Tab sebelumnya</string>
