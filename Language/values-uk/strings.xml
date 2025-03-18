@@ -979,7 +979,7 @@
     <string name="video_icon_long">Тривале натискання на екран</string>
     <string name="video_icon_guide">Натисніть та утримуйте екран для відображення кнопок функцій.</string>
     <string name="change_in_setting">Ви можете змінити це в налаштуваннях.</string>
-    <string name="check_brfore">Перевірте перед запуском</string>
+    <string name="check_brfore">Перевіряти перед запуском</string>
     <string name="check_ver">Перевірити версію</string>
     <string name="dark_guide_1">Якщо веб-компонент Android не оновлено до останньої версії, темна тема може відображатися некоректно.</string>
     <string name="recent_search">Останні пошукові запити</string>
