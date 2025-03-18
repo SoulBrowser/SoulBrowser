@@ -181,7 +181,7 @@
     <string name="password">Паролі</string>
     <string name="input_password">Введіть пароль</string>
     <string name="invalid_password">Невірний пароль</string>
-    <string name="password_save">Зберегти пароль</string>
+    <string name="password_save">Зберігати пароль</string>
     <string name="password_confirm">Ви впевнені, що хочете зберегти пароль?</string>
     <string name="password_info">Паролі для звичайного та інкогніто режиму зберігаються окремо.</string>
     <string name="password_button">Кнопка менеджера паролів</string>
@@ -509,7 +509,7 @@
     <string name="touch_unlocked">Сенсор розблоковано</string>
     <string name="app_lock">Блокування застосунку</string>
     <string name="lock_type">Блокування екрану</string>
-    <string name="only_secret">Застосовується лише в режимі інкогніто</string>
+    <string name="only_secret">Застосовувати лише в режимі інкогніто</string>
     <string name="unlock">Розблокувати</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Графічний ключ</string>
@@ -886,7 +886,7 @@
     <string name="news_start">Слідкуйте за новинами з усього світу в одному місці.</string>
     <string name="news_title">Новини</string>
     <string name="news_loading">Завантаження новин&#8230;</string>
-    <string name="news_show">Показати новини</string>
+    <string name="news_show">Показувати новини</string>
     <string name="news_info_1">Джерело новин</string>
     <string name="news_info_2">Google Новини</string>
     <string name="news_locale">Мова та регіон</string>
