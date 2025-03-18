@@ -181,7 +181,7 @@
     <string name="password">Пароли</string>
     <string name="input_password">Введите пароль</string>
     <string name="invalid_password">Неверный пароль</string>
-    <string name="password_save">Сохранить пароль</string>
+    <string name="password_save">Сохранять пароль</string>
     <string name="password_confirm">Вы уверены, что хотите сохранить пароль?</string>
     <string name="password_info">Пароли для обычного и режима инкогнито сохраняются отдельно.</string>
     <string name="password_button">Кнопка менеджера паролей</string>
@@ -509,7 +509,7 @@
     <string name="touch_unlocked">Сенсор разблокирован</string>
     <string name="app_lock">Блокировка приложения</string>
     <string name="lock_type">Блокировка экрана</string>
-    <string name="only_secret">Применяется только в режиме инкогнито</string>
+    <string name="only_secret">Применять только в режиме инкогнито</string>
     <string name="unlock">Разблокировать</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Графический ключ</string>
@@ -810,7 +810,7 @@
     <string name="only_https">Подключаться по HTTPS</string>
     <string name="only_https_info">По умолчанию подключаться по протоколу HTTPS.\nСайты, не поддерживающие HTTPS, могут не загрузиться.</string>
     <string name="http_warning">На HTTP-сайтах (не защищенных сайтах) выполнение невозможно.</string>
-    <string name="page_home_info">При нажатии на на иконку \'Домой\'</string>
+    <string name="page_home_info">При нажатии на иконку \'Домой\'</string>
     <string name="page_start_info">При запуске приложения</string>
     <string name="page_tab_info">При создании новой вкладки</string>
     <string name="filter_user_1">Вы можете добавить фильтры для блокировки большего количества рекламы.</string>
@@ -886,7 +886,7 @@
     <string name="news_start">Следите за новостями со всего мира в одном месте.</string>
     <string name="news_title">Новости</string>
     <string name="news_loading">Загрузка новостей&#8230;</string>
-    <string name="news_show">Показать новости</string>
+    <string name="news_show">Показывать новости</string>
     <string name="news_info_1">Источник новостей</string>
     <string name="news_info_2">Google Новости</string>
     <string name="news_locale">Язык и регион</string>
