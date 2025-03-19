@@ -236,7 +236,7 @@
     <string name="delete_cookie">Удалить файлы cookie</string>
     <string name="screen_rotate">Ориентация экрана</string>
     <string name="vol_scroll">Прокрутка страниц с помощью клавиш громкости</string>
-    <string name="double_back">Выходить из приложения двойным нажатием кнопки \'Назад\'</string>
+    <string name="double_back">Выход из приложения двойным нажатием кнопки \'Назад\'</string>
     <string name="press_again">Нажмите еще раз, чтобы выйти</string>
     <string name="last_noti">Уведомление о последней странице</string>
     <string name="last_noti_info">При нажатии кнопки \'Назад\' на последней странице вкладки, появится уведомление.</string>
