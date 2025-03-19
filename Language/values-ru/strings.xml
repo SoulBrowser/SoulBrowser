@@ -215,7 +215,7 @@
     <string name="order_by">Порядок</string>
     <string name="order_ascend">По возрастанию</string>
     <string name="order_descend">По убыванию</string>
-    <string name="folder_top">Переместить папку вверх</string>
+    <string name="folder_top">Отображать папки вверху списка</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -276,7 +276,7 @@
     <string name="type">Тип</string>
     <string name="page_effect">Эффект страницы</string>
     <string name="page_scroll">Прокрутка страницы</string>
-    <string name="list_hori">Список (Горизонтальный))</string>
+    <string name="list_hori">Список (Горизонтальный)</string>
     <string name="list_vert">Список (Вертикальный)</string>
     <string name="best_size">Оптимальный размер</string>
     <string name="best_info">Оптимальный размер для текущего типа</string>
@@ -367,7 +367,7 @@
     <string name="guide_over_allow">Вы можете добавить сайты, на которых разрешены оверлеи.</string>
     <string name="guide_pop_allow">Вы можете добавить сайты, на которых разрешены всплывающие окна.</string>
     <string name="now_delete">Выбрать элементы и удалить их прямо сейчас</string>
-    <string name="exit_delete">Выберите элементы для удаления при выходе из приложения</string>
+    <string name="exit_delete">Выбрать элементы для удаления при выходе из приложения</string>
     <string name="exit_guide">При закрытии приложения выбранные элементы будут удалены.</string>
     <string name="exit_del_noti">Уведомление при удалении</string>
     <string name="exit_noti_1">&#60; Очистка при выходе &#62;\nУдалено: %s.</string>
@@ -550,8 +550,8 @@
     <string name="keep_login">Сохранять вход</string>
     <string name="keep_login_info">В режиме инкогнито данные для входа сохраняются, даже при переходе в обычный режим.</string>
     <string name="secret_exit">Выход из режима инкогнито</string>
-    <string name="direct_input">Ввод вручную</string>
-    <string name="direct_select">Выбор вручную</string>
+    <string name="direct_input">Ввести вручную</string>
+    <string name="direct_select">Выбрать вручную</string>
     <string name="added">Добавлено</string>
     <string name="do_change">Изменить</string>
     <string name="changed">Изменено</string>
@@ -628,7 +628,7 @@
     <string name="tts_info_2">Нажмите на текст, чтобы прослушать его.</string>
     <string name="tts_guide_1">Доступные языки зависят от используемого движка TTS.</string>
     <string name="tts_guide_2">Вы можете изменить движок TTS в настройках устройства.</string>
-    <string name="speak_page">Прочитать страницу вслух</string>
+    <string name="speak_page">Озвучить страницу</string>
     <string name="auto_speak">Автоматическое озвучивание</string>
     <string name="auto_speak_guide">TTS будет запускаться автоматически при активации режима чтения.</string>
     <string name="detail_setting">Расширенные настройки</string>
