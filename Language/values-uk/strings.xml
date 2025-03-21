@@ -560,9 +560,9 @@
     <string name="report_site">Повідомити про проблеми із сайтом</string>
     <string name="report_down">Будь ласка, вкажіть адресу сайту, з якого ви не можете завантажити відео.</string>
     <string name="insta_down">Для коректного завантаження відео з Instagram,\nвам знадобиться вхід в акаунт Instagram.</string>
-    <string name="youtube_unmute">Увімкнути звук на YouTube</string>
-    <string name="youtube_speed">Збереження швидкості відтворення</string>
-    <string name="youtube_auto">Автовідтворення на YouTube</string>
+    <string name="youtube_unmute">Автоматичне увімкнення звуку на YouTube</string>
+    <string name="youtube_speed">Зберегти швидкість відтворення</string>
+    <string name="youtube_auto">Автовідтворення відео на YouTube</string>
     <string name="back_play">Фонове відтворення</string>
     <string name="back_play_info">Відповідно до політики YouTube, фонове відтворення YouTube не підтримується.</string>
     <string name="normal_rate">Звичайний</string>
