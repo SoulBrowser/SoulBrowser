@@ -79,7 +79,7 @@
     <string name="retry_count">Количество попыток</string>
     <string name="retry_count_info">Количество попыток в случае сбоя соединения</string>
     <string name="general">Основные</string>
-    <string name="advanced">Дополнительно</string>
+    <string name="advanced">Расширенные</string>
     <string name="bookmark">Закладки</string>
     <string name="history">История</string>
     <string name="setting">Настройки</string>
@@ -117,7 +117,7 @@
     <string name="prev_page">Предыдущая страница</string>
     <string name="next_page">Следующая страница</string>
     <string name="tab_gesture">Жест вкладки</string>
-    <string name="over_block">Блокировщик оверлеев</string>
+    <string name="over_block">Блокировка оверлеев</string>
     <string name="over_white">Белый список оверлеев</string>
     <string name="over_block_guide_1">Удаляет элементы, которые появляются поверх веб-страницы.</string>
     <string name="over_block_guide_2">Хотя в первую очередь это реклама, могут быть удалены и нерекламные элементы.</string>
@@ -130,12 +130,12 @@
     <string name="pop_block_info1">Блокировать все всплывающие окна</string>
     <string name="pop_block_info2">Блокировать при открытии других сайтов (включая рекламные)</string>
     <string name="pop_block_info3">Блокировать только подозрительные рекламные окна</string>
-    <string name="app_block">Блокировка запуска приложений</string>
+    <string name="app_block">Блокировка запуска сторонних приложений</string>
     <string name="app_site">Открыть в браузере</string>
-    <string name="app_block_info1">Запрещать сайтам запускать другие приложения.</string>
+    <string name="app_block_info1">Запретить сайтам запускать другие приложения.</string>
     <string name="app_block_info2">Открывать сайт, если информация о нем доступна.</string>
     <string name="app_block_noti">Приложение заблокировано</string>
-    <string name="link_app">Открывать ссылку в приложении</string>
+    <string name="link_app">Открывать ссылку с помощью приложения</string>
     <string name="link">Ссылка</string>
     <string name="open_url">Открыть</string>
     <string name="new_url">Новая вкладка</string>
@@ -341,7 +341,7 @@
     <string name="size_width">Ширина</string>
     <string name="size_height">Высота</string>
     <string name="exit_with_save">Сохранить и выйти</string>
-    <string name="exit_without_save">Выход без сохранения</string>
+    <string name="exit_without_save">Выйти без сохранения</string>
     <string name="camera_fail">Не удалось запустить камеру</string>
     <string name="barcode_guide">Поместите QR-код или штрих-код в указанную область</string>
     <string name="barcode_fail">На изображении не обнаружено QR-код или штрих-код</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Имя файла</string>
     <string name="real_name">Настоящее имя</string>
     <string name="prefix">Префикс</string>
-    <string name="clean_mode">Чистый режим</string>
+    <string name="clean_mode">Блокировка рекламы</string>
     <string name="site">Сайты</string>
     <string name="storage">Хранилище</string>
     <string name="system_name">Система</string>
@@ -580,7 +580,7 @@
     <string name="font_info_1">С помощью TTF-файлов из внутреннего хранилища или SD-карты можно изменить шрифт веб-страницы.</string>
     <string name="font_guide_1">Каждый шрифт поддерживает свой набор языков.</string>
     <string name="font_guide_2">Обычно шрифты поддерживают только буквы и цифры.</string>
-    <string name="font_guide_3">Перед выбором шрифта убедитесь, что он поддерживает нужный язык, просмотрев пример текста.</string>
+    <string name="font_guide_3">Перед выбором шрифта убедитесь, что он корректно поддерживает требуемый язык, ознакомившись с примером текста для проверки.</string>
     <string name="tv_cast">Трансляция</string>
     <string name="media_route_menu_title">Воспроизвести на&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>
@@ -682,7 +682,7 @@
     <string name="delete_other_tab">Закрыть другие вкладки</string>
     <string name="group_other_tab">Закрыть другие вкладки в группе</string>
     <string name="mini_mode">Мини-режим</string>
-    <string name="home_close">Закрывать все вкладки при нажатии кнопки домашней страницы</string>
+    <string name="home_close">Закрыть все вкладки при нажатии кнопки домашней страницы</string>
     <string name="reader_mode">Режим чтения</string>
     <string name="reader_empty">На этой странице нет текста</string>
     <string name="site_warning">Предупреждение о безопасности</string>
@@ -841,7 +841,7 @@
     <string name="limit_info_3">При превышении лимита память будет освобождена автоматически, начиная с самых старых страниц.</string>
     <string name="mem_block_site">Запретить освобождение памяти для текущего сайта</string>
     <string name="mem_block_page">Запретить освобождение памяти для текущей страницы</string>
-    <string name="mem_block_list">Список исключений для освобождения памяти</string>
+    <string name="mem_block_list">Список исключений из освобождения памяти</string>
     <string name="mem_keep">Период сохранения памяти</string>
     <string name="mem_keep_info">При длительном сохранении памяти браузер может работать медленно.</string>
     <string name="down_manager">Менеджер загрузок</string>
@@ -867,7 +867,7 @@
     <string name="finger_unknown">Невозможно определить, доступна ли аутентификация пользователя.</string>
     <string name="auto_comp">Автозаполнение</string>
     <string name="check_element">Проверка элементов</string>
-    <string name="check_ele_info_0">(точечная блокировка)</string>
+    <string name="check_ele_info_0">(более точная блокировка)</string>
     <string name="check_ele_info_1">Эта функция использует много ресурсов, поскольку анализирует каждый элемент веб-страницы.</string>
     <string name="quick_guide_1">1. Можно переместить любой значок, удерживая его.</string>
     <string name="quick_guide_2">2. Можно создавать папки, перетаскивая значки.</string>
@@ -1007,7 +1007,7 @@
     <string name="restart_guide_4">Приложение безопасно перезапустится в чистом состоянии и с удалением ненужной памяти.</string>
     <string name="restart_noti">Вы уверены, что хотите перезапустить приложение?</string>
     <string name="restart_title">Перезапуск</string>
-    <string name="block_area">Заблокировать область</string>
+    <string name="block_area">Блокировка области</string>
     <string name="remove_area">Вы уверены, что хотите удалить выбранную область?</string>
     <string name="remove_title">Удалить</string>
     <string name="area_guide_1">Вы можете выбрать область для удаления.</string>
