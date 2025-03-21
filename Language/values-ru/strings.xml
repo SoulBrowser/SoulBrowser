@@ -975,7 +975,7 @@
     <string name="filter_link_4">Фильтры могут не обновляться, если изменится адрес фильтра.</string>
     <string name="filter_link_5">В этом случае, пожалуйста, сообщите об этом разработчику.</string>
     <string name="open_source">Благодарим разработчиков с открытым исходным кодом. ❤</string>
-    <string name="video_icon_tap">Коснитесь экрана</string>
+    <string name="video_icon_tap">Коснуться экрана</string>
     <string name="video_icon_long">Долгое нажатие на экран</string>
     <string name="video_icon_guide">Нажмите и удерживайте экран для отображения кнопок функций.</string>
     <string name="change_in_setting">Вы можете изменить это в настройках.</string>
