@@ -1042,7 +1042,7 @@
     <string name="area_info_11">Функція \'%s\' не вимагає жодних знань про фільтри.</string>
     <string name="area_info_12">Будь-хто може легко створювати власні фільтри.</string>
     <string name="area_info_13">Натисніть та утримуйте об\'єкт, який хочете заблокувати, щоб відкрити меню.</string>
-    <string name="area_info_14">Коли ви запустите та єте функцію \'%s\', фільтр буде створено автоматично.</string>
+    <string name="area_info_14">Коли ви запустите та застосуєте функцію \'%s\', фільтр буде створено автоматично.</string>
     <string name="area_info_15">Це дуже просто.</string>
     <string name="area_info_16">Спробуйте прямо зараз.</string>
     <string name="freq_asked">Часто задавані питання</string>
