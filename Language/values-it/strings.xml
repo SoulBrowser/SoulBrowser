@@ -86,12 +86,12 @@
     <string name="create_folder">Crea una cartella</string>
     <string name="new_folder">Nuova cartella</string>
     <string name="move">Sposta</string>
-    <string name="delete">Elimina</string>
+    <string name="delete">Chiudi</string>
     <string name="delete_file">Elimina file</string>
     <string name="delete_record">Elimina elemento</string>
     <string name="clear_data">Elimina i dati</string>
     <string name="del_all_confirm">Vuoi davvero eliminare i dati di navigazione?</string>
-    <string name="delete_all">Cancella tutto</string>
+    <string name="delete_all">Chiudi tutte</string>
     <string name="deleted">Eliminazione completata</string>
     <string name="swipe_delete">Trascina fuori per chiudere</string>
     <string name="swipe_remove">Trascina per rimuovere</string>
