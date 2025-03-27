@@ -4,6 +4,7 @@ Reference 1 : values-ko  Korean
 Reference 2 : values     English
 
 values-ar        Arabic
+values-cs        Czech
 values-de        German
 values-es        Spanish
 values-fr        French
@@ -17,8 +18,10 @@ values-pt-rBR    Brazilian Portuguese
 values-pt        Portuguese
 values-ro        Romania
 values-ru        Russian
+values-sat       Santali
 values-th        Thai
 values-tr        Turkey
+values-uk        Ukrainian
 values-vi        Vietnamese
 values-zh-rCN    Chinese Simplified
 values-zh-rTW    Chinese Traditional
