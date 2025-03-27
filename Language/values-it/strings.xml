@@ -27,7 +27,7 @@
     <string name="download">Scarica</string>
     <string name="down_set">Download</string>
     <string name="fast_down">Download veloce</string>
-    <string name="fast_down_guide">Più veloce, ma utilizza più risorse.</string>
+    <string name="fast_down_guide">Più veloce (utilizza più risorse).</string>
     <string name="down_again">Scarica di nuovo</string>
     <string name="down_page">Salva pagina</string>
     <string name="down_list">Elenco download</string>
