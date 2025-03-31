@@ -1,9 +1,9 @@
 ⭐ Language
 
-Reference 1 : values-ko  Korean
+Reference 1 : values-en  English
 Reference 2 : values     English
-
-values-ar        Arabic
+values-en      English
+values-ar        Arabi
 values-cs        Czech
 values-de        German
 values-es        Spanish
