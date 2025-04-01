@@ -328,7 +328,7 @@
     <string name="crop_save">Kırp</string>
     <string name="pdf_crop_guide">PDF dosyalarındaki kenar boşluklarını kaldırın.</string>
     <string name="guide_pinch">Yakınlaştır / Uzaklaştır</string>
-    <string name="dark_mode">Tema</string>
+    <string name="dark_mode">Karanlık mod</string>
     <string name="dark_mode_info_2">Lütfen kullanırken dikkatli olun.</string>
     <string name="message_confirm">Bu mesajı bir daha gösterme</string>
     <string name="brightness">Parlaklık</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Metin boyutu</string>
     <string name="free_scale">İki parmağınızla yakınlaştırın</string>
     <string name="mobile_mode">Mobil</string>
-    <string name="desk_mode">Mobil / Masaüstü</string>
+    <string name="desk_mode">Masaüstü</string>
     <string name="desk_one">Masaüstü (Geçerli sekme)</string>
     <string name="desk_all">Masaüstü (Tüm sekmeler)</string>
     <string name="block_link">Bağlantıyı engelle</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Dosya adı</string>
     <string name="real_name">Gerçek adı</string>
     <string name="prefix">Ön-ek</string>
-    <string name="clean_mode">Temiz mod</string>
+    <string name="clean_mode">Web temizleyici</string>
     <string name="site">Site</string>
     <string name="storage">Depolama</string>
     <string name="system_name">Sistem</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Mevcut sayfada JavaScript\'i engelle</string>
     <string name="js_black">JavaScript kara listesi</string>
     <string name="js_black_info">JavaScript\'i engelleyen sitelere kaydolabilirsiniz.</string>
-    <string name="theme_light">Açık tema</string>
-    <string name="theme_dark">Koyu tema</string>
-    <string name="dark_home">Koyu tema ana sayfası</string>
-    <string name="dark_home_info">Duvar kağıdını ayarlamak, ana sayfayı her zaman karanlık bir temaya ayarlar.</string>
+    <string name="theme_light">İşık</string>
+    <string name="theme_dark">Karanlık</string>
+    <string name="dark_home">Karanlık mod Ana sayfa</string>
+    <string name="dark_home_info">Duvar kağıdı ayarladığınızda ana sayfanız her zaman karanlık modda olacaktır.</string>
     <string name="background">Arka plan</string>
+    <string name="dark_image">Karanlık görüntü</string>
+    <string name="img_bright">Görüntü parlaklığı</string>
+    <string name="img_brt_info">Yalnızca web sayfası karanlık moddayken geçerlidir.</string>
     <string name="search_suggest">Arama önerileri</string>
     <string name="at_bottom">Altta</string>
     <string name="clean_data_info">Eski verilerin biriktirilmesi tarayıcınızı yavaşlatabilir.\nVerilerinizi düzenli aralıklarla temizlemek iyi bir fikirdir.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Ayarlardan değiştirebilirsiniz.</string>
     <string name="check_brfore">Çalıştırmadan önce kontrol edin</string>
     <string name="check_ver">Sürümü kontrol et</string>
-    <string name="dark_guide_1">Android sistem web görünümü en son sürüm değilse koyu tema normal şekilde görüntülenmeyebilir.</string>
+    <string name="dark_guide_1">Android System WebView son sürüm değilse karanlık mod düzgün görüntülenmeyebilir.</string>
     <string name="recent_search">Son aramalar</string>
     <string name="recent_secret">Son aramaları gizli modda kaydet</string>
     <string name="recent_delete">Tüm son aramaları silmek istediğinizden emin misiniz?</string>

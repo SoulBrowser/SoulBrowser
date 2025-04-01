@@ -328,7 +328,7 @@
     <string name="crop_save">裁剪</string>
     <string name="pdf_crop_guide">從 PDF 檔案中刪除邊距</string>
     <string name="guide_pinch">展開／收起</string>
-    <string name="dark_mode">主題</string>
+    <string name="dark_mode">暗黑模式</string>
     <string name="dark_mode_info_2">使用時請注意</string>
     <string name="message_confirm">不再顯示此訊息</string>
     <string name="brightness">亮度</string>
@@ -376,7 +376,7 @@
     <string name="text_size">字型大小</string>
     <string name="free_scale">雙指滑動放大</string>
     <string name="mobile_mode">移動模式</string>
-    <string name="desk_mode">移動模式／桌面模式</string>
+    <string name="desk_mode">桌面模式</string>
     <string name="desk_one">桌面模式（目前分頁）</string>
     <string name="desk_all">桌面模式（所有分頁）</string>
     <string name="block_link">阻止鏈接</string>
@@ -423,7 +423,7 @@
     <string name="file_name">檔案名稱</string>
     <string name="real_name">真正的名稱</string>
     <string name="prefix">字首</string>
-    <string name="clean_mode">廣告封鎖</string>
+    <string name="clean_mode">網狀清潔器</string>
     <string name="site">網站</string>
     <string name="storage">儲存空間</string>
     <string name="system_name">系統</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">在當前頁面上阻止 JavaScript</string>
     <string name="js_black">JavaScript 黑名單</string>
     <string name="js_black_info">您可以輸入封鎖 JavaScript 的網站</string>
-    <string name="theme_light">淺色主題</string>
-    <string name="theme_dark">深色主題</string>
-    <string name="dark_home">深色主題首頁</string>
-    <string name="dark_home_info">設置壁紙將始終將主頁設置為深色主題</string>
+    <string name="theme_light">亮</string>
+    <string name="theme_dark">暗</string>
+    <string name="dark_home">暗黑模式首頁</string>
+    <string name="dark_home_info">當您設定桌布時，您的主頁將始終處於暗模式</string>
     <string name="background">背景</string>
+    <string name="dark_image">暗影像</string>
+    <string name="img_bright">影像亮度</string>
+    <string name="img_brt_info">僅適用於網頁處於暗黑模式時</string>
     <string name="search_suggest">搜尋建議</string>
     <string name="at_bottom">在底部</string>
     <string name="clean_data_info">累積過多的資料可能會降低瀏覽器的速度\n定期清理資料是一個好主意！</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">您可以在設置中更改它</string>
     <string name="check_brfore">運行前檢查</string>
     <string name="check_ver">檢查版本</string>
-    <string name="dark_guide_1">如果Android系統webview不是最新版本，深色主題可能無法正常顯示</string>
+    <string name="dark_guide_1">如果Android System WebView不是最新版本，暗黑模式可能無法正常顯示。</string>
     <string name="recent_search">最近搜索</string>
     <string name="recent_secret">以隱身模式保存最近的搜索</string>
     <string name="recent_delete">您確定要刪除所有最近的搜索嗎？</string>

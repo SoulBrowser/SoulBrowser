@@ -328,7 +328,7 @@
     <string name="crop_save">トリミング</string>
     <string name="pdf_crop_guide">PDFファイルの余白を削除します。</string>
     <string name="guide_pinch">拡大／縮小</string>
-    <string name="dark_mode">テーマ</string>
+    <string name="dark_mode">ダークモード</string>
     <string name="dark_mode_info_2">使用時に、注意してください。</string>
     <string name="message_confirm">このメッセージを次から表示しない</string>
     <string name="brightness">輝度</string>
@@ -376,7 +376,7 @@
     <string name="text_size">文字サイズ</string>
     <string name="free_scale">二本の指で拡大</string>
     <string name="mobile_mode">モバイル</string>
-    <string name="desk_mode">モバイル／デスクトップ</string>
+    <string name="desk_mode">デスクトップ</string>
     <string name="desk_one">デスクトップ（現在のタブ）</string>
     <string name="desk_all">デスクトップ（すべてのタブ）</string>
     <string name="block_link">ブロックリンク</string>
@@ -423,7 +423,7 @@
     <string name="file_name">ファイル名</string>
     <string name="real_name">本名</string>
     <string name="prefix">プレフィックス</string>
-    <string name="clean_mode">クリーンモード</string>
+    <string name="clean_mode">Webクリーナー</string>
     <string name="site">サイト</string>
     <string name="storage">ストレージ</string>
     <string name="system_name">システム</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">現在のページでJavaScriptをブロック</string>
     <string name="js_black">JavaScriptブラックリスト</string>
     <string name="js_black_info">JavaScriptをブロックするサイトを登録することができます。</string>
-    <string name="theme_light">ライトテーマ</string>
-    <string name="theme_dark">暗いテーマ</string>
-    <string name="dark_home">ダークテーマ ホーム</string>
-    <string name="dark_home_info">壁紙を設定すると、ホームページは常に暗いテーマに設定されます。</string>
+    <string name="theme_light">明るい</string>
+    <string name="theme_dark">暗い</string>
+    <string name="dark_home">ダークモード ホーム</string>
+    <string name="dark_home_info">壁紙を設定すると、ホームページは常にダークモードに設定されます。</string>
     <string name="background">背景</string>
+    <string name="dark_image">暗い画像</string>
+    <string name="img_bright">画像の明るさ</string>
+    <string name="img_brt_info">Webページがダークモードの場合にのみ適用されます。</string>
     <string name="search_suggest">検索候補</string>
     <string name="at_bottom">下部に</string>
     <string name="clean_data_info">古いデータが蓄積されると、ブラウザの速度が遅くなることがあります。\n定期的にデータを整理することをお勧め。</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">設定で変更できます。</string>
     <string name="check_brfore">実行前の確認</string>
     <string name="check_ver">バージョン確認</string>
-    <string name="dark_guide_1">AndroidシステムのWebビューが最新バージョンではない場合、ダークテーマが正常に表示されないことがあります。</string>
+    <string name="dark_guide_1">AndroidシステムのWebビューが最新バージョンではない場合、ダークモードが正常に表示されないことがあります。</string>
     <string name="recent_search">最近の検索</string>
     <string name="recent_secret">シークレットモードで最近検索を保存する</string>
     <string name="recent_delete">最近のクエリをすべて削除しますか？</string>

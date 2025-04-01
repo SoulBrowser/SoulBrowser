@@ -328,7 +328,7 @@
     <string name="crop_save">Crop</string>
     <string name="pdf_crop_guide">Remove margins from PDF files.</string>
     <string name="guide_pinch">Zoom in / out</string>
-    <string name="dark_mode">Theme</string>
+    <string name="dark_mode">Dark mode</string>
     <string name="dark_mode_info_2">Please be careful when using it.</string>
     <string name="message_confirm">Do not show this message again</string>
     <string name="brightness">Brightness</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Text size</string>
     <string name="free_scale">Zoom in with two fingers</string>
     <string name="mobile_mode">Mobile</string>
-    <string name="desk_mode">Mobile / Desktop</string>
+    <string name="desk_mode">Desktop</string>
     <string name="desk_one">Desktop (Current tab)</string>
     <string name="desk_all">Desktop (All tabs)</string>
     <string name="block_link">Block link</string>
@@ -423,7 +423,7 @@
     <string name="file_name">File name</string>
     <string name="real_name">Real name</string>
     <string name="prefix">Prefix</string>
-    <string name="clean_mode">Clean mode</string>
+    <string name="clean_mode">Web cleaner</string>
     <string name="site">Site</string>
     <string name="storage">Storage</string>
     <string name="system_name">System</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Block JavaScript on current page</string>
     <string name="js_black">JavaScript blacklist</string>
     <string name="js_black_info">You can register sites that block JavaScript.</string>
-    <string name="theme_light">Light theme</string>
-    <string name="theme_dark">Dark theme</string>
-    <string name="dark_home">Dark theme home</string>
-    <string name="dark_home_info">Setting the wallpaper will always set the homepage to a dark theme.</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="dark_home">Dark mode Home</string>
+    <string name="dark_home_info">When you set a wallpaper, your homepage will always be in dark mode.</string>
     <string name="background">Background</string>
+    <string name="dark_image">Dark image</string>
+    <string name="img_bright">Image brightness</string>
+    <string name="img_brt_info">Applies only when the webpage is in dark mode.</string>
     <string name="search_suggest">Search suggestions</string>
     <string name="at_bottom">At the bottom</string>
     <string name="clean_data_info">Accumulation of stale data can slow down your browser.\nIt is a good idea to clean up your data periodically.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">You can change it in settings.</string>
     <string name="check_brfore">Check before running</string>
     <string name="check_ver">Check version</string>
-    <string name="dark_guide_1">If the Android system webview is not the latest version, the dark theme may not be displayed normally.</string>
+    <string name="dark_guide_1">If the Android System WebView is not the latest version, dark mode may not be displayed properly.</string>
     <string name="recent_search">Recent searches</string>
     <string name="recent_secret">Save recent searches in incognito mode</string>
     <string name="recent_delete">Are you sure you want to delete all recent searches?</string>

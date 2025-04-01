@@ -328,7 +328,7 @@
     <string name="crop_save">ᱠᱷᱟᱴᱚ</string>
     <string name="pdf_crop_guide">PDF ᱨᱮᱫᱽ ᱠᱷᱚᱱ ᱥᱤᱢᱟ ᱚᱪᱚᱜᱽ ᱢᱮ ᱾</string>
     <string name="guide_pinch">ᱚᱲᱮᱡ ᱵᱷᱤᱛᱨᱤ / ᱵᱟᱦᱨᱮ ᱧᱮᱞ</string>
-    <string name="dark_mode">ᱛᱷᱤᱢ</string>
+    <string name="dark_mode">ᱧᱩᱛ ᱢᱚᱰ</string>
     <string name="dark_mode_info_2">ᱱᱚᱶᱟ ᱵᱮᱵᱷᱟᱨ ᱡᱷᱚᱜ ᱦᱩᱥᱤᱭᱟᱨ ᱛᱟᱦᱮᱸᱱ ᱢᱮ ᱾</string>
     <string name="message_confirm">ᱱᱚᱶᱟ ᱠᱷᱚᱵᱚᱨ ᱟᱨ ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱟᱞᱚᱢ ᱫᱮᱠᱷᱟᱣᱟ</string>
     <string name="brightness">ᱡᱷᱟᱞᱠᱟᱣ</string>
@@ -376,7 +376,7 @@
     <string name="text_size">ᱚᱞ ᱢᱟᱯ</string>
     <string name="free_scale">ᱵᱟᱨᱭᱟ ᱠᱟᱹᱴᱩᱵ ᱛᱮ ᱚᱲᱮᱡ ᱵᱷᱤᱛᱤᱨ ᱢᱮ</string>
     <string name="mobile_mode">ᱢᱚᱵᱟᱤᱞ</string>
-    <string name="desk_mode">ᱢᱚᱵᱟᱭᱤᱞ / ᱰᱮᱥᱠᱴᱚᱯ</string>
+    <string name="desk_mode">ᱰᱮᱥᱠᱴᱚᱯ</string>
     <string name="desk_one">ᱰᱮᱥᱠᱴᱚᱯ (ᱱᱤᱛᱚᱜᱟᱜ ᱴᱮᱵᱽ)</string>
     <string name="desk_all">ᱰᱮᱥᱠᱴᱚᱯ (ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽᱠᱚ)</string>
     <string name="block_link">ᱞᱤᱝᱠ ᱟᱠᱚᱴ ᱢᱮ</string>
@@ -423,7 +423,7 @@
     <string name="file_name">ᱨᱮᱫᱽ ᱧᱩᱛᱩᱢ</string>
     <string name="real_name">ᱚᱥᱚᱞ ᱧᱩᱛᱩᱢ</string>
     <string name="prefix">ᱮᱦᱚᱵᱽᱥᱚᱜᱮ</string>
-    <string name="clean_mode">ᱥᱟᱯᱷᱟ ᱢᱳᱰ</string>
+    <string name="clean_mode">ᱣᱮᱵᱽ ᱠᱞᱤᱱᱟᱨ</string>
     <string name="site">ᱥᱟᱭᱤᱴ</string>
     <string name="storage">ᱫᱚᱦᱚ</string>
     <string name="system_name">ᱥᱮᱥᱴᱮᱢ</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">ᱱᱮᱛᱟᱨᱟᱜ ᱥᱟᱦᱴᱟ ᱨᱮ JavaScript ᱟᱠᱚᱴ ᱢᱮ</string>
     <string name="js_black">JavaScript ᱵᱞᱮᱠᱞᱤᱥᱴ</string>
     <string name="js_black_info">ᱟᱢ JavaScript ᱟᱠᱚᱴ ᱟᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱨᱮ ᱥᱮᱞᱮᱫ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾</string>
-    <string name="theme_light">ᱞᱟᱭᱤᱴ ᱛᱷᱤᱢ</string>
-    <string name="theme_dark">ᱧᱩᱛ ᱪᱷᱮᱨ</string>
-    <string name="dark_home">ᱚᱲᱟᱜ ᱧᱩᱛ ᱧᱩᱛᱩᱢ</string>
-    <string name="dark_home_info">ᱣᱟᱞᱯᱮᱯᱚᱨ ᱥᱮᱴ ᱞᱮᱠᱷᱟᱱ ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱫᱚ ᱧᱩᱛ ᱛᱷᱤᱢ ᱛᱮᱜᱮ ᱡᱟᱹᱣᱜᱮ ᱥᱮᱴ ᱛᱟᱦᱮᱸᱱᱟ ᱾</string>
+    <string name="theme_light">ᱢᱟᱨᱥᱟᱞ</string>
+    <string name="theme_dark">темный</string>
+    <string name="dark_home">ᱧᱩᱛ ᱢᱚᱰ ᱚᱲᱟᱜ</string>
+    <string name="dark_home_info">ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱣᱟᱞᱯᱮᱯᱟᱨ ᱥᱮᱴ ᱮᱫᱟᱢ, ᱟᱢᱟᱜ ᱦᱚᱢᱯᱮᱡᱽ ᱥᱟᱨᱟ ᱜᱷᱟᱹᱲᱤᱡ ᱰᱟᱨᱠ ᱢᱚᱰ ᱨᱮ ᱛᱟᱦᱮᱱᱟ ᱾</string>
     <string name="background">ᱵᱮᱠᱜᱨᱟᱩᱸᱰ</string>
+    <string name="dark_image">ᱦᱮᱱᱫᱮ ᱪᱤᱛᱟᱹᱨ</string>
+    <string name="img_bright">ᱪᱤᱛᱟᱹᱨ ᱨᱮᱭᱟᱜ ᱡᱷᱟᱞᱠᱟᱣ</string>
+    <string name="img_brt_info">ᱣᱮᱵᱽᱥᱟᱦᱴᱟ ᱫᱚ ᱰᱟᱨᱠ ᱢᱚᱰ ᱨᱮ ᱛᱟᱦᱮᱱ ᱠᱷᱟᱱ ᱜᱮ ᱞᱟᱹᱜᱩᱜᱼᱟ ᱾</string>
     <string name="search_suggest">ᱥᱮᱸᱫᱽᱨᱟ ᱦᱩᱫᱤᱥ ᱠᱚ ᱵᱟᱛᱟᱣ</string>
     <string name="at_bottom">ᱞᱟᱛᱟᱨ ᱨᱮ</string>
     <string name="clean_data_info">ᱥᱴᱮᱞ ᱰᱟᱴᱟ ᱡᱟᱣᱨᱟ ᱞᱮᱠᱷᱟᱱ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱵᱟᱹᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾\n ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱥᱚᱢᱚᱭ ᱥᱚᱢᱚᱭ ᱨᱮ ᱥᱟᱯᱷᱟ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾ </string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">ᱟᱢ ᱱᱚᱶᱟ ᱥᱟᱡᱟᱣ ᱨᱮ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾</string>
     <string name="check_brfore">ᱪᱟᱞᱟᱜ ᱢᱟᱬᱟᱝ ᱨᱮ ᱧᱮᱞ ᱢᱮ</string>
     <string name="check_ver">ᱵᱷᱚᱨᱥᱚᱱ ᱧᱮᱞ ᱵᱤᱰᱟᱣ ᱢᱮ</string>
-    <string name="dark_guide_1">ᱡᱩᱫᱤ Android ᱥᱤᱥᱴᱚᱢ ᱣᱮᱵᱽᱵᱷᱤᱣ ᱫᱚ ᱞᱮᱴᱮᱥᱴ ᱵᱷᱚᱨᱥᱚᱱ ᱵᱟᱝ ᱠᱟᱱᱟ, ᱧᱩᱛ ᱛᱷᱤᱢ ᱫᱚ ᱵᱮᱥ ᱞᱮᱠᱟᱛᱮ ᱵᱟᱝ ᱫᱮᱠᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾</string>
+    <string name="dark_guide_1">ᱡᱩᱫᱤ ᱮᱱᱰᱨᱳᱭᱮᱰ ᱥᱤᱥᱴᱚᱢ ᱣᱮᱵᱽᱵᱷᱤᱭᱩ ᱱᱟᱶᱟ ᱵᱷᱟᱨᱥᱚᱱ ᱵᱟᱝ ᱠᱟᱱᱟ, ᱰᱟᱨᱠ ᱢᱚᱰ ᱫᱚ ᱵᱮᱥ ᱞᱮᱠᱟ ᱵᱟᱝ ᱩᱫᱩᱜ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾</string>
     <string name="recent_search">ᱱᱤᱛᱚᱜᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱚ</string>
     <string name="recent_secret">ᱩᱠᱩ ᱢᱳᱰ ᱨᱮ ᱱᱤᱛᱚᱜᱟᱜ ᱥᱮᱸᱫᱽᱨᱟᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱢᱮ</string>
     <string name="recent_delete">ᱟᱢ ᱥᱟᱹᱨᱤ ᱜᱮ ᱟᱢ ᱡᱷᱚᱛᱚ ᱥᱤᱛᱚᱜᱚᱜ ᱥᱮᱸᱫᱽᱨᱟᱠᱚ ᱢᱮᱴᱟᱣ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ?</string>

@@ -328,7 +328,7 @@
     <string name="crop_save">A decupa</string>
     <string name="pdf_crop_guide">Eliminați marginile din fișierele PDF.</string>
     <string name="guide_pinch">Zoom in / out</string>
-    <string name="dark_mode">Tema</string>
+    <string name="dark_mode">Modul întunecat</string>
     <string name="dark_mode_info_2">Vă rugăm să aveți grijă când îl utilizați.</string>
     <string name="message_confirm">Nu afișați din nou acest mesaj</string>
     <string name="brightness">Luminozitate</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Dimensiunea textului</string>
     <string name="free_scale">Măriți cu două degete</string>
     <string name="mobile_mode">Mobil</string>
-    <string name="desk_mode">Mobil / Desktop</string>
+    <string name="desk_mode">Desktop</string>
     <string name="desk_one">Desktop (Fila curentă)</string>
     <string name="desk_all">Desktop (Toate filele)</string>
     <string name="block_link">Blocați legătura</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Nume fișier</string>
     <string name="real_name">Numele real</string>
     <string name="prefix">Prefix</string>
-    <string name="clean_mode">Modul de curățare</string>
+    <string name="clean_mode">Curățător web</string>
     <string name="site">Site</string>
     <string name="storage">Depozitare</string>
     <string name="system_name">Sistem</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Blocați JavaScript pe pagina curentă</string>
     <string name="js_black">Lista neagră JavaScript</string>
     <string name="js_black_info">Puteți înregistra site-uri care blochează JavaScript.</string>
-    <string name="theme_light">Tema ușoară</string>
-    <string name="theme_dark">Tema întunecată</string>
-    <string name="dark_home">Acasă cu tema întunecată</string>
-    <string name="dark_home_info">Setarea imaginii de fundal va seta întotdeauna pagina de pornire la o temă întunecată.</string>
+    <string name="theme_light">Aprinde</string>
+    <string name="theme_dark">Întuneric</string>
+    <string name="dark_home">Modul întunecat Acasă</string>
+    <string name="dark_home_info">Când setați un tapet, pagina dvs. de pornire va fi întotdeauna în modul întunecat.</string>
     <string name="background">Fundal</string>
+    <string name="dark_image">Imagine întunecată</string>
+    <string name="img_bright">Luminozitatea imaginii</string>
+    <string name="img_brt_info">Se aplică numai când pagina web este în modul întunecat.</string>
     <string name="search_suggest">Sugestii de căutare</string>
     <string name="at_bottom">În partea de jos</string>
     <string name="clean_data_info">Acumularea de date vechi poate încetini browserul.\nEste o idee bună să vă curățați periodic datele.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Îl poți schimba în setări.</string>
     <string name="check_brfore">Verificați înainte de a alerga</string>
     <string name="check_ver">Verifica versiunea</string>
-    <string name="dark_guide_1">Dacă vizualizarea web a sistemului Android nu este cea mai recentă versiune, este posibil ca tema întunecată să nu fie afișată normal.</string>
+    <string name="dark_guide_1">Dacă Android System WebView nu este cea mai recentă versiune, este posibil ca modul întunecat să nu fie afișat corect.</string>
     <string name="recent_search">Căutări recente</string>
     <string name="recent_secret">Salvați căutările recente în modul incognito</string>
     <string name="recent_delete">Sigur doriți să ștergeți toate căutările recente?</string>

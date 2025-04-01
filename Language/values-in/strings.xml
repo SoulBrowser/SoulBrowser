@@ -328,7 +328,7 @@
     <string name="crop_save">Pangkas</string>
     <string name="pdf_crop_guide">Hapus margin dari file PDF.</string>
     <string name="guide_pinch">Memperbesar / memperkecil</string>
-    <string name="dark_mode">Tema</string>
+    <string name="dark_mode">Mode gelap</string>
     <string name="dark_mode_info_2">Harap berhati hati saat menggunakannya.</string>
     <string name="message_confirm">Jangan tampilkan pesan ini lagi</string>
     <string name="brightness">Kecerahan</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Ukuran teks</string>
     <string name="free_scale">Perbesar dengan dua jari</string>
     <string name="mobile_mode">Mobile</string>
-    <string name="desk_mode">Mobile / Desktop</string>
+    <string name="desk_mode">Desktop</string>
     <string name="desk_one">Desktop (Tab saat ini)</string>
     <string name="desk_all">Desktop (Semua tab)</string>
     <string name="block_link">Blokir tautan</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Nama file</string>
     <string name="real_name">Nama asli</string>
     <string name="prefix">Awalan</string>
-    <string name="clean_mode">Mode bersih</string>
+    <string name="clean_mode">Pembersih web</string>
     <string name="site">Situs</string>
     <string name="storage">Penyimpanan</string>
     <string name="system_name">Sistem</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Blokir JavaScript di halaman saat ini</string>
     <string name="js_black">Daftar hitam JavaScript</string>
     <string name="js_black_info">Anda dapat mendaftarkan situs yang memblokir JavaScript.</string>
-    <string name="theme_light">Tema terang</string>
-    <string name="theme_dark">Tema gelap</string>
-    <string name="dark_home">Tema beranda gelap</string>
-    <string name="dark_home_info">Menyetel wallpaper akan selalu menyetel beranda ke tema gelap.</string>
+    <string name="theme_light">Lampu</string>
+    <string name="theme_dark">Gelap</string>
+    <string name="dark_home">Mode gelap Beranda</string>
+    <string name="dark_home_info">Saat Anda mengatur wallpaper, beranda Anda akan selalu dalam mode gelap.</string>
     <string name="background">Latar Belakang</string>
+    <string name="dark_image">Gambar gelap</string>
+    <string name="img_bright">Kecerahan gambar</string>
+    <string name="img_brt_info">Hanya berlaku saat halaman web dalam mode gelap.</string>
     <string name="search_suggest">Saran pencarian</string>
     <string name="at_bottom">Di dasar</string>
     <string name="clean_data_info">Mengumpulkan data lama dapat memperlambat browser Anda.\nSebaiknya bersihkan data Anda secara berkala.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Anda dapat mengubahnya di pengaturan.</string>
     <string name="check_brfore">Periksa sebelum dijalankan</string>
     <string name="check_ver">Periksa versi</string>
-    <string name="dark_guide_1">Jika tampilan web sistem Android bukan versi terbaru, tema gelap mungkin tidak ditampilkan secara normal.</string>
+    <string name="dark_guide_1">Jika Android System WebView bukan versi terbaru, mode gelap mungkin tidak ditampilkan dengan benar.</string>
     <string name="recent_search">Pencarian terkini</string>
     <string name="recent_secret">Simpan pencarian terbaru dalam mode penyamaran</string>
     <string name="recent_delete">Apakah Anda yakin ingin menghapus semua pencarian terbaru?</string>

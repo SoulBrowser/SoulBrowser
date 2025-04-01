@@ -328,7 +328,7 @@
     <string name="crop_save">ครอบตัด</string>
     <string name="pdf_crop_guide">ลบระยะขอบออกจากไฟล์ PDF</string>
     <string name="guide_pinch">ซูมเข้า / ออก</string>
-    <string name="dark_mode">ธีม</string>
+    <string name="dark_mode">โหมดมืด</string>
     <string name="dark_mode_info_2">โปรดระวังเมื่อใช้งาน</string>
     <string name="message_confirm">อย่าแสดงข้อความนี้อีกครั้ง</string>
     <string name="brightness">ความสว่าง</string>
@@ -376,7 +376,7 @@
     <string name="text_size">ขนาดตัวอักษร</string>
     <string name="free_scale">ซูมเข้าด้วยสองนิ้ว</string>
     <string name="mobile_mode">มือถือ</string>
-    <string name="desk_mode">มือถือ / เดสก์ท็อป</string>
+    <string name="desk_mode">เดสก์ท็อป</string>
     <string name="desk_one">เดสก์ท็อป (แท็บปัจจุบัน)</string>
     <string name="desk_all">เดสก์ท็อป (แท็บทั้งหมด)</string>
     <string name="block_link">บล็อกลิงค์</string>
@@ -423,7 +423,7 @@
     <string name="file_name">ชื่อไฟล์</string>
     <string name="real_name">ชื่อจริง</string>
     <string name="prefix">อุปสรรค</string>
-    <string name="clean_mode">โหมดทำความสะอาด</string>
+    <string name="clean_mode">โปรแกรมทำความสะอาดเว็บ</string>
     <string name="site">เว็บไซต์</string>
     <string name="storage">กรุ</string>
     <string name="system_name">ระบบ</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">บล็อก JavaScript บนหน้าปัจจุบัน</string>
     <string name="js_black">บัญชีดำของ JavaScript</string>
     <string name="js_black_info">คุณสามารถลงทะเบียนไซต์ที่บล็อก JavaScript ได้</string>
-    <string name="theme_light">ธีมแสง</string>
-    <string name="theme_dark">ธีมสีเข้ม</string>
-    <string name="dark_home">บ้านธีมมืด</string>
-    <string name="dark_home_info">การตั้งค่าวอลเปเปอร์จะทำให้หน้าแรกเป็นธีมสีเข้มเสมอ</string>
+    <string name="theme_light">แสงสว่าง</string>
+    <string name="theme_dark">มืด</string>
+    <string name="dark_home">โหมดมืดหน้าแรก</string>
+    <string name="dark_home_info">เมื่อคุณตั้งค่าพื้นหลัง หน้าแรกของคุณจะอยู่ในโหมดมืดเสมอ</string>
     <string name="background">พื้นหลัง</string>
+    <string name="dark_image">ภาพมืด</string>
+    <string name="img_bright">ความสว่างของภาพ</string>
+    <string name="img_brt_info">ใช้ได้เฉพาะเมื่อเว็บเพจอยู่ในโหมดมืดเท่านั้น</string>
     <string name="search_suggest">คำแนะนำการค้นหา</string>
     <string name="at_bottom">ที่ส่วนลึกสุด</string>
     <string name="clean_data_info">การสะสมข้อมูลเก่าอาจทำให้เบราว์เซอร์ของคุณทำงานช้าลง\nเป็นความคิดที่ดีที่จะล้างข้อมูลของคุณเป็นระยะ</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">คุณสามารถเปลี่ยนได้ในการตั้งค่า</string>
     <string name="check_brfore">ตรวจสอบก่อนวิ่ง</string>
     <string name="check_ver">ตรวจสอบรุ่น</string>
-    <string name="dark_guide_1">หากเว็บวิวระบบ Android ไม่ใช่เวอร์ชันล่าสุด ธีมสีเข้มอาจไม่แสดงตามปกติ</string>
+    <string name="dark_guide_1">หาก Android System WebView ไม่ใช่เวอร์ชันล่าสุด โหมดมืดอาจไม่แสดงอย่างถูกต้อง</string>
     <string name="recent_search">การค้นหาล่าสุด</string>
     <string name="recent_secret">บันทึกการค้นหาล่าสุดในโหมดไม่ระบุตัวตน</string>
     <string name="recent_delete">คุณแน่ใจหรือไม่ว่าต้องการลบการค้นหาล่าสุดทั้งหมด</string>

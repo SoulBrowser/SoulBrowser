@@ -328,7 +328,7 @@
     <string name="crop_save">完成</string>
     <string name="pdf_crop_guide">从 PDF 文件中删除边距</string>
     <string name="guide_pinch">放大／缩小</string>
-    <string name="dark_mode">主题</string>
+    <string name="dark_mode">暗黑模式</string>
     <string name="dark_mode_info_2">使用时请注意</string>
     <string name="message_confirm">不要再显示此消息</string>
     <string name="brightness">亮度</string>
@@ -376,7 +376,7 @@
     <string name="text_size">字体大小</string>
     <string name="free_scale">用两根手指放大</string>
     <string name="mobile_mode">移动模式</string>
-    <string name="desk_mode">移动模式／桌面模式</string>
+    <string name="desk_mode">桌面模式</string>
     <string name="desk_one">桌面模式（当前标签）</string>
     <string name="desk_all">桌面模式（所有标签）</string>
     <string name="block_link">阻止链接</string>
@@ -423,7 +423,7 @@
     <string name="file_name">文件名称</string>
     <string name="real_name">真正的名字</string>
     <string name="prefix">字首</string>
-    <string name="clean_mode">纯净模式</string>
+    <string name="clean_mode">网状清洁器</string>
     <string name="site">网站</string>
     <string name="storage">存储</string>
     <string name="system_name">系统</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">在当前页面上阻止 JavaScript</string>
     <string name="js_black">JavaScript 黑名单</string>
     <string name="js_black_info">添加禁用 JavaScript 的网站</string>
-    <string name="theme_light">浅色主题</string>
-    <string name="theme_dark">深色主题</string>
-    <string name="dark_home">深色主题首页</string>
-    <string name="dark_home_info">设置壁纸将始终将主页设置为深色主题</string>
+    <string name="theme_light">亮</string>
+    <string name="theme_dark">暗</string>
+    <string name="dark_home">暗黑模式主页</string>
+    <string name="dark_home_info">当您设置壁纸时，您的主页将始终处于暗模式</string>
     <string name="background">背景</string>
+    <string name="dark_image">暗图像</string>
+    <string name="img_bright">图像亮度</string>
+    <string name="img_brt_info">仅适用于网页处于暗黑模式时</string>
     <string name="search_suggest">搜索建议</string>
     <string name="at_bottom">在底部</string>
     <string name="clean_data_info">过多的数据会拖慢浏览器的速度\n建议养成一个定期清理数据的好习惯</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">您可以在设置中更改它</string>
     <string name="check_brfore">运行前检查</string>
     <string name="check_ver">检查版本</string>
-    <string name="dark_guide_1">如果Android系统webview不是最新版本，深色主题可能无法正常显示</string>
+    <string name="dark_guide_1">如果Android System WebView不是最新版本，暗黑模式可能无法正常显示。</string>
     <string name="recent_search">最近搜索</string>
     <string name="recent_secret">以隐身模式保存最近的搜索</string>
     <string name="recent_delete">您确定要删除所有最近的搜索吗？</string>

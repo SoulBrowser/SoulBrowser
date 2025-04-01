@@ -328,7 +328,7 @@
     <string name="crop_save">फसल</string>
     <string name="pdf_crop_guide">पीडीएफ फाइलों से मार्जिन निकालें।</string>
     <string name="guide_pinch">ज़ूम इन / आउट</string>
-    <string name="dark_mode">थीम</string>
+    <string name="dark_mode">डार्क मोड</string>
     <string name="dark_mode_info_2">कृपया इसका उपयोग करते समय सावधान रहें।</string>
     <string name="message_confirm">इस संदेश को फिर ना दिखाना</string>
     <string name="brightness">चमक</string>
@@ -376,7 +376,7 @@
     <string name="text_size">टेक्स्ट का साइज़</string>
     <string name="free_scale">दो अंगुलियों से ज़ूम इन करें</string>
     <string name="mobile_mode">गतिमान</string>
-    <string name="desk_mode">मोबाइल / डेस्कटॉप</string>
+    <string name="desk_mode">डेस्कटॉप</string>
     <string name="desk_one">डेस्कटॉप (वर्तमान टैब)</string>
     <string name="desk_all">डेस्कटॉप (सभी टैब)</string>
     <string name="block_link">ब्लॉक लिंक</string>
@@ -423,7 +423,7 @@
     <string name="file_name">फ़ाइल का नाम</string>
     <string name="real_name">वास्तविक नाम</string>
     <string name="prefix">उपसर्ग</string>
-    <string name="clean_mode">स्वच्छ मोड</string>
+    <string name="clean_mode">वेब क्लीनर</string>
     <string name="site">साइट</string>
     <string name="storage">भंडारण</string>
     <string name="system_name">व्यवस्था</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">वर्तमान पृष्ठ पर जावास्क्रिप्ट को ब्लॉक करें</string>
     <string name="js_black">जावास्क्रिप्ट ब्लैकलिस्ट</string>
     <string name="js_black_info">आप उन साइटों को पंजीकृत कर सकते हैं जो जावास्क्रिप्ट को ब्लॉक करती हैं।</string>
-    <string name="theme_light">लाइट थीम</string>
-    <string name="theme_dark">डार्क थीम</string>
-    <string name="dark_home">डार्क थीम होम</string>
-    <string name="dark_home_info">वॉलपेपर सेट करने से होमपेज हमेशा डार्क थीम पर सेट हो जाएगा।</string>
+    <string name="theme_light">रोशनी</string>
+    <string name="theme_dark">अँधेरा</string>
+    <string name="dark_home">डार्क मोड होम</string>
+    <string name="dark_home_info">जब आप वॉलपेपर सेट करेंगे तो आपका होमपेज हमेशा डार्क मोड में रहेगा।</string>
     <string name="background">पार्श्वभूमि</string>
+    <string name="dark_image">काली छवि</string>
+    <string name="img_bright">छवि चमक</string>
+    <string name="img_brt_info">यह तभी लागू होता है जब वेबपेज डार्क मोड में हो।</string>
     <string name="search_suggest">खोज सुझाव</string>
     <string name="at_bottom">तल पर</string>
     <string name="clean_data_info">पुराने डेटा का संचय आपके ब्राउज़र को धीमा कर सकता है।\nअपने डेटा को समय-समय पर साफ़ करना एक अच्छा विचार है।</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">आप इसे सेटिंग में बदल सकते हैं।</string>
     <string name="check_brfore">दौड़ने से पहले जांच लें</string>
     <string name="check_ver">जाँच संस्करण</string>
-    <string name="dark_guide_1">यदि Android सिस्टम वेबव्यू नवीनतम संस्करण नहीं है, तो हो सकता है कि डार्क थीम सामान्य रूप से प्रदर्शित न हो।</string>
+    <string name="dark_guide_1">यदि Android सिस्टम वेबव्यू नवीनतम संस्करण नहीं है, तो डार्क मोड ठीक से प्रदर्शित नहीं हो सकता है।</string>
     <string name="recent_search">हाल की खोजें</string>
     <string name="recent_secret">हाल की खोजों को गुप्त मोड में सहेजें</string>
     <string name="recent_delete">क्या आप वाकई हाल की सभी खोजों को हटाना चाहते हैं?</string>

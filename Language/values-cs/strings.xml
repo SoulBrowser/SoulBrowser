@@ -328,7 +328,7 @@
     <string name="crop_save">Oříznout</string>
     <string name="pdf_crop_guide">Odstranit odsazení z PDF souborů</string>
     <string name="guide_pinch">Přiblížit/Oddálit</string>
-    <string name="dark_mode">Motiv</string>
+    <string name="dark_mode">Tmavý režim</string>
     <string name="dark_mode_info_2">Prosím buďte obezřetní při jeho používání</string>
     <string name="message_confirm">Již nezobrazovat</string>
     <string name="brightness">Jas</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Velikost písma</string>
     <string name="free_scale">Přibližovat dvěma prsty</string>
     <string name="mobile_mode">Mobilní</string>
-    <string name="desk_mode">Mobil / Počítač</string>
+    <string name="desk_mode">Počítač</string>
     <string name="desk_one">Počítač (aktuální karta)</string>
     <string name="desk_all">Počítač (všechny karty)</string>
     <string name="block_link">Blokovat odkaz</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Název souboru</string>
     <string name="real_name">Skutečný název</string>
     <string name="prefix">Prefix</string>
-    <string name="clean_mode">Režim nanečisto</string>
+    <string name="clean_mode">Čistič webu</string>
     <string name="site">Stránka</string>
     <string name="storage">Uložiště</string>
     <string name="system_name">Systém</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Blokkovat JavaScipt na této stránce</string>
     <string name="js_black">Černá listina JavaScript</string>
     <string name="js_black_info">Můžete zapisovat stránky u kterých bude JavaScript blokován</string>
-    <string name="theme_light">Světlý motiv</string>
-    <string name="theme_dark">Tmavý motiv</string>
-    <string name="dark_home">Tmavý motiv na domovské oborazovce</string>
-    <string name="dark_home_info">Nastavením tapety bude domovská stránka vždy nastavena s tmavým motivem</string>
+    <string name="theme_light">Světlo</string>
+    <string name="theme_dark">Tmavé</string>
+    <string name="dark_home">Tmavý režim Domů</string>
+    <string name="dark_home_info">Když nastavíte tapetu, vaše domovská stránka bude vždy v tmavém režimu.</string>
     <string name="background">Pozadí</string>
+    <string name="dark_image">Tmavý obraz</string>
+    <string name="img_bright">Jas obrazu</string>
+    <string name="img_brt_info">Platí pouze v případě, že je webová stránka v tmavém režimu.</string>
     <string name="search_suggest">Našeptávač vyhledávání</string>
     <string name="at_bottom">Vespod</string>
     <string name="clean_data_info">Hromadění zastaralých dat může zpomalit prohlížeč.\nJe dobré data pravidelně čistit.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Můžete to změnit v nastavení</string>
     <string name="check_brfore">Zkontrolovat při spuštění</string>
     <string name="check_ver">Zkontrolovat verzi</string>
-    <string name="dark_guide_1">Pokud není Webview Androidu akualizováno, tmavý motiv se nemusí zobrazovat správně.</string>
+    <string name="dark_guide_1">Pokud Android System WebView není nejnovější verze, tmavý režim se nemusí zobrazit správně.</string>
     <string name="recent_search">Nedávná vyhledávání</string>
     <string name="recent_secret">Ukládat historii vyhledávání v režimu inkognito</string>
     <string name="recent_delete">Skutečně chcete smazat historii nedávných vyhledávání?</string>

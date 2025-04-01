@@ -328,7 +328,7 @@
     <string name="crop_save">Zuschneiden</string>
     <string name="pdf_crop_guide">Ränder aus PDF-Dateien entfernen.</string>
     <string name="guide_pinch">Zoom in / out</string>
-    <string name="dark_mode">Thema</string>
+    <string name="dark_mode">Dunkelmodus</string>
     <string name="dark_mode_info_2">Bitte seien Sie vorsichtig, wenn Sie es verwenden.</string>
     <string name="message_confirm">Nachricht nicht noch einmal zeigen</string>
     <string name="brightness">Helligkeit</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Textgröße</string>
     <string name="free_scale">Zwei-Finger-Zoom</string>
     <string name="mobile_mode">Mobil</string>
-    <string name="desk_mode">Mobil / Desktop</string>
+    <string name="desk_mode">Desktop</string>
     <string name="desk_one">Desktop (Aktueller Tab)</string>
     <string name="desk_all">Desktop (Alle Tabs)</string>
     <string name="block_link">Link blockieren</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Dateiname</string>
     <string name="real_name">Echter Name</string>
     <string name="prefix">Präfix</string>
-    <string name="clean_mode">Sauberer Modus</string>
+    <string name="clean_mode">Web Cleaner</string>
     <string name="site">Seite</string>
     <string name="storage">Speichern</string>
     <string name="system_name">System</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Blockieren Sie JavaScript von der aktuellen Adresse</string>
     <string name="js_black">JavaScript Blacklist</string>
     <string name="js_black_info">Sie können Websites registrieren, die JavaScript blockieren.</string>
-    <string name="theme_light">Helles Thema</string>
-    <string name="theme_dark">Dunkles Thema</string>
-    <string name="dark_home">Zuhause mit dunklem Thema</string>
-    <string name="dark_home_info">Wenn Sie das Hintergrundbild festlegen, wird die Homepage immer auf ein dunkles Thema eingestellt.</string>
+    <string name="theme_light">Licht</string>
+    <string name="theme_dark">Dunkel</string>
+    <string name="dark_home">Dunkelmodus Startseite</string>
+    <string name="dark_home_info">Wenn Sie ein Hintergrundbild festlegen, wird Ihre Homepage immer im Dunkelmodus angezeigt.</string>
     <string name="background">Hintergrund</string>
+    <string name="dark_image">Dunkles Bild</string>
+    <string name="img_bright">Bildhelligkeit</string>
+    <string name="img_brt_info">Gilt nur, wenn sich die Webseite im Dunkelmodus befindet.</string>
     <string name="search_suggest">Suchvorschläge</string>
     <string name="at_bottom">Unten</string>
     <string name="clean_data_info">Das Sammeln veralteter Daten kann Ihren Browser verlangsamen.\nEs ist eine gute Idee, Ihre Daten regelmäßig zu bereinigen.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Sie können es in den Einstellungen ändern.</string>
     <string name="check_brfore">Prüfen Sie vor dem Laufen</string>
     <string name="check_ver">Version prüfen</string>
-    <string name="dark_guide_1">Wenn die Webansicht des Android-Systems nicht die neueste Version ist, wird das dunkle Design möglicherweise nicht normal angezeigt.</string>
+    <string name="dark_guide_1">Wenn Android System WebView nicht die neueste Version ist, wird der Dunkelmodus möglicherweise nicht richtig angezeigt.</string>
     <string name="recent_search">Letzte Suchen</string>
     <string name="recent_secret">Speichern Sie die letzten Suchen im Inkognito-Modus</string>
     <string name="recent_delete">Möchten Sie wirklich alle letzten Suchen löschen?</string>

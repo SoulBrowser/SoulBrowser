@@ -328,7 +328,7 @@
     <string name="crop_save">شق</string>
     <string name="pdf_crop_guide">قم بإزالة الهوامش في ملفات PDF.</string>
     <string name="guide_pinch">تكبير التصغير</string>
-    <string name="dark_mode">المظهر</string>
+    <string name="dark_mode">الوضع المظلم</string>
     <string name="dark_mode_info_2">يرجى توخي الحذر عند استخدامه.</string>
     <string name="message_confirm">لا تظهر هذه الرسالة مرة أخرى</string>
     <string name="brightness">سطوع</string>
@@ -376,7 +376,7 @@
     <string name="text_size">حجم الخط</string>
     <string name="free_scale">تكبير بإصبعين</string>
     <string name="mobile_mode">التليفون المحمول</string>
-    <string name="desk_mode">موبايل / سطح المكتب</string>
+    <string name="desk_mode">سطح المكتب</string>
     <string name="desk_one">سطح المكتب (علامة التبويب الحالية)</string>
     <string name="desk_all">سطح المكتب (جميع علامات التبويب)</string>
     <string name="block_link">رابط الحظر</string>
@@ -423,7 +423,7 @@
     <string name="file_name">اسم الملف</string>
     <string name="real_name">الاسم الحقيقي</string>
     <string name="prefix">اختصار</string>
-    <string name="clean_mode">الوضع النظيف</string>
+    <string name="clean_mode">منظف ​​الويب</string>
     <string name="site">موقع</string>
     <string name="storage">تخزين</string>
     <string name="system_name">النظام</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">منع جافا سكريبت في الصفحة الحالية</string>
     <string name="js_black">قائمة حظر جافا سكريبت</string>
     <string name="js_black_info">يمكنك تسجيل المواقع التي تحظر JavaScript.</string>
-    <string name="theme_light">موضوع مشرق</string>
-    <string name="theme_dark">مظهر داكن</string>
-    <string name="dark_home">الصفحة الرئيسية ذات المظهر الداكن</string>
-    <string name="dark_home_info">سيؤدي تعيين خلفية الشاشة دائمًا إلى تعيين الصفحة الرئيسية على سمة داكنة.</string>
+    <string name="theme_light">ضوء</string>
+    <string name="theme_dark">مظلم</string>
+    <string name="dark_home">الوضع المظلم الصفحة الرئيسية</string>
+    <string name="dark_home_info">عندما تقوم بتعيين خلفية، ستكون صفحتك الرئيسية دائمًا في الوضع المظلم.</string>
     <string name="background">معرفتي</string>
+    <string name="dark_image">صورة مظلمة</string>
+    <string name="img_bright">سطوع الصورة</string>
+    <string name="img_brt_info">ينطبق فقط عندما تكون صفحة الويب في الوضع المظلم.</string>
     <string name="search_suggest">اقتراحات البحث</string>
     <string name="at_bottom">في الأسفل</string>
     <string name="clean_data_info">إذا تراكمت البيانات القديمة ، فقد يتباطأ متصفحك.\nإنها لفكرة جيدة أن تقوم بتنظيف بياناتك بشكل دوري.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">يمكنك تغييره في الإعدادات.</string>
     <string name="check_brfore">تحقق قبل الجري</string>
     <string name="check_ver">تحقق من الإصدار</string>
-    <string name="dark_guide_1">إذا لم يكن عرض الويب لنظام Android هو أحدث إصدار ، فقد لا يتم عرض السمة الداكنة بشكل طبيعي.</string>
+    <string name="dark_guide_1">إذا لم يكن Android System WebView هو الإصدار الأحدث، فقد لا يتم عرض الوضع المظلم بشكل صحيح.</string>
     <string name="recent_search">عمليات البحث الأخيرة</string>
     <string name="recent_secret">حفظ عمليات البحث الأخيرة في وضع التصفح المتخفي</string>
     <string name="recent_delete">هل أنت متأكد أنك تريد حذف جميع عمليات البحث الأخيرة؟</string>

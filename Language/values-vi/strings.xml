@@ -328,7 +328,7 @@
     <string name="crop_save">Cây trồng</string>
     <string name="pdf_crop_guide">Xóa lề khỏi tệp PDF.</string>
     <string name="guide_pinch">Phóng to / Thu nhỏ</string>
-    <string name="dark_mode">Chủ đề</string>
+    <string name="dark_mode">Chế độ tối</string>
     <string name="dark_mode_info_2">Hãy cẩn thận khi sử dụng nó.</string>
     <string name="message_confirm">Không hiển thị thông báo này nữa</string>
     <string name="brightness">Độ sáng</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Cỡ chữ</string>
     <string name="free_scale">Phóng to bằng hai ngón tay</string>
     <string name="mobile_mode">Di động</string>
-    <string name="desk_mode">Di động / Máy tính để bàn</string>
+    <string name="desk_mode">Máy tính để bàn</string>
     <string name="desk_one">Máy tính để bàn (Tab hiện tại)</string>
     <string name="desk_all">Máy tính để bàn (Tất cả các tab)</string>
     <string name="block_link">Chặn liên kết</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Tên tệp</string>
     <string name="real_name">Tên thật</string>
     <string name="prefix">Tiền tố</string>
-    <string name="clean_mode">Chế độ sạch</string>
+    <string name="clean_mode">Trình dọn dẹp web</string>
     <string name="site">Trang web</string>
     <string name="storage">Vị trí tải xuống</string>
     <string name="system_name">Hệ thống</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Chặn JavaScript trên trang hiện tại</string>
     <string name="js_black">Danh sách đen JavaScript</string>
     <string name="js_black_info">Bạn có thể đăng ký các trang web chặn JavaScript.</string>
-    <string name="theme_light">Chủ đề sáng</string>
-    <string name="theme_dark">Chủ đề tối</string>
-    <string name="dark_home">Nhà chủ đề tối</string>
-    <string name="dark_home_info">Đặt hình nền sẽ luôn đặt trang chủ thành chủ đề tối.</string>
+    <string name="theme_light">Ánh sáng</string>
+    <string name="theme_dark">Tối tăm</string>
+    <string name="dark_home">Chế độ tối Trang chủ</string>
+    <string name="dark_home_info">Khi bạn đặt hình nền, trang chủ của bạn sẽ luôn ở chế độ tối.</string>
     <string name="background">Lý lịch</string>
+    <string name="dark_image">Hình ảnh tối</string>
+    <string name="img_bright">Độ sáng của hình ảnh</string>
+    <string name="img_brt_info">Chỉ áp dụng khi trang web ở chế độ tối.</string>
     <string name="search_suggest">Đề xuất tìm kiếm</string>
     <string name="at_bottom">Ở dưới cùng</string>
     <string name="clean_data_info">Tích lũy dữ liệu cũ có thể làm chậm trình duyệt của bạn.\nBạn nên dọn dẹp dữ liệu của mình theo định kỳ.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Bạn có thể thay đổi nó trong cài đặt.</string>
     <string name="check_brfore">Kiểm tra trước khi chạy</string>
     <string name="check_ver">Kiểm tra phiên bản</string>
-    <string name="dark_guide_1">Nếu chế độ xem web của hệ thống Android không phải là phiên bản mới nhất, chủ đề tối có thể không hiển thị bình thường.</string>
+    <string name="dark_guide_1">Nếu Android System WebView không phải là phiên bản mới nhất, chế độ tối có thể không hiển thị đúng cách.</string>
     <string name="recent_search">Tìm kiếm gần đây</string>
     <string name="recent_secret">Lưu các tìm kiếm gần đây ở chế độ ẩn danh</string>
     <string name="recent_delete">Bạn có chắc chắn muốn xóa tất cả các tìm kiếm gần đây không?</string>

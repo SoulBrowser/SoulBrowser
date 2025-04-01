@@ -328,7 +328,7 @@
     <string name="crop_save">Обрезать</string>
     <string name="pdf_crop_guide">Удалить поля из PDF файлов.</string>
     <string name="guide_pinch">Увеличить / Уменьшить</string>
-    <string name="dark_mode">Тема</string>
+    <string name="dark_mode">Темный режим</string>
     <string name="dark_mode_info_2">Будьте осторожны при использовании этой функции.</string>
     <string name="message_confirm">Больше не показывать это сообщение</string>
     <string name="brightness">Яркость</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Имя файла</string>
     <string name="real_name">Настоящее имя</string>
     <string name="prefix">Префикс</string>
-    <string name="clean_mode">Блокировка рекламы</string>
+    <string name="clean_mode">Веб-очиститель</string>
     <string name="site">Сайты</string>
     <string name="storage">Хранилище</string>
     <string name="system_name">Система</string>
@@ -473,7 +473,7 @@
     <string name="pop_allow_page">Разрешить всплывающее окно на текущей странице</string>
     <string name="image_list">Список изображений</string>
     <string name="image_cast_guide_1">Откройте сайт с изображениями.</string>
-    <string name="image_cast_guide_2">Выберите \'%1$s\' или \'%2$s\'.</string>
+    <string name="image_cast_guide_2">Выберите «%1$s» или «%2$s».</string>
     <string name="image_cast_guide_3">Выберите изображение.</string>
     <string name="local_cast_guide_1">Выберите иконку списка TV Cast.</string>
     <string name="local_cast_guide_2">Выберите элемент.</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Блокировать JavaScript на текущей странице</string>
     <string name="js_black">Черный список JavaScript</string>
     <string name="js_black_info">Вы можете добавить сайты, блокирующие JavaScript.</string>
-    <string name="theme_light">Светлая тема</string>
-    <string name="theme_dark">Темная тема</string>
-    <string name="dark_home">Темная тема для домашней страницы</string>
-    <string name="dark_home_info">Установка фона всегда включает темную тему на домашней странице.</string>
+    <string name="theme_light">Свет</string>
+    <string name="theme_dark">Темный</string>
+    <string name="dark_home">Темный режим Главная</string>
+    <string name="dark_home_info">При установке обоев ваша домашняя страница всегда будет в темном режиме.</string>
     <string name="background">Фон</string>
+    <string name="dark_image">Темное изображение</string>
+    <string name="img_bright">Яркость изображения</string>
+    <string name="img_brt_info">Применяется только тогда, когда веб-страница находится в темном режиме.</string>
     <string name="search_suggest">Предложения поиска</string>
     <string name="at_bottom">Внизу</string>
     <string name="clean_data_info">Накопление устаревших данных может замедлить работу вашего браузера.\nРекомендуется периодически очищать данные.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Вы можете изменить это в настройках.</string>
     <string name="check_brfore">Проверять перед запуском</string>
     <string name="check_ver">Проверить версию</string>
-    <string name="dark_guide_1">Если веб-компонент Android не обновлен до последней версии, темная тема может отображаться некорректно.</string>
+    <string name="dark_guide_1">Если версия Android System WebView не является последней, темный режим может отображаться некорректно.</string>
     <string name="recent_search">Последние поисковые запросы</string>
     <string name="recent_secret">Сохранять последние поисковые запросы в режиме инкогнито</string>
     <string name="recent_delete">Вы уверены, что хотите удалить все недавние поисковые запросы?</string>

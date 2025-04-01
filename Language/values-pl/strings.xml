@@ -328,7 +328,7 @@
     <string name="crop_save">Przytnij</string>
     <string name="pdf_crop_guide">Usuń marginesy z plików PDF.</string>
     <string name="guide_pinch">Powiększ / pomniejsz</string>
-    <string name="dark_mode">Motyw</string>
+    <string name="dark_mode">Tryb ciemny</string>
     <string name="dark_mode_info_2">Zachowaj ostrożność podczas korzystania z niego.</string>
     <string name="message_confirm">Nie pokazuj więcej tego komunikatu</string>
     <string name="brightness">Jasność</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Rozmiar tekstu</string>
     <string name="free_scale">Powiększ dwoma palcami</string>
     <string name="mobile_mode">Mobilny</string>
-    <string name="desk_mode">Mobilny / Pulpit</string>
+    <string name="desk_mode">Pulpit</string>
     <string name="desk_one">Pulpit (Bieżąca karta)</string>
     <string name="desk_all">Pulpit (Wszystkie karty)</string>
     <string name="block_link">Zablokuj link</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Nazwa pliku</string>
     <string name="real_name">Prawdziwe imię</string>
     <string name="prefix">Prefiks</string>
-    <string name="clean_mode">Tryb czyszczenia</string>
+    <string name="clean_mode">Czyszczenie sieci</string>
     <string name="site">Internet</string>
     <string name="storage">Pamięć urządzenia</string>
     <string name="system_name">System</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Blokuj JavaScript na bieżącej stronie</string>
     <string name="js_black">Czarna lista JavaScript</string>
     <string name="js_black_info">Możesz zarejestrować witryny, które blokują JavaScript.</string>
-    <string name="theme_light">Jasny motyw</string>
-    <string name="theme_dark">Ciemny motyw</string>
-    <string name="dark_home">Dom z ciemnym motywem</string>
-    <string name="dark_home_info">Ustawienie tapety zawsze spowoduje ustawienie ciemnego motywu strony głównej.</string>
+    <string name="theme_light">Światło</string>
+    <string name="theme_dark">Ciemny</string>
+    <string name="dark_home">Tryb ciemny Strona główna</string>
+    <string name="dark_home_info">Po ustawieniu tapety Twoja strona główna będzie zawsze wyświetlana w trybie ciemnym.</string>
     <string name="background">Tło</string>
+    <string name="dark_image">Ciemny obraz</string>
+    <string name="img_bright">Jasność obrazu</string>
+    <string name="img_brt_info">Dotyczy tylko sytuacji, gdy strona internetowa jest w trybie ciemnym.</string>
     <string name="search_suggest">Sugestie wyszukiwania</string>
     <string name="at_bottom">Na dnie</string>
     <string name="clean_data_info">Nagromadzenie nieaktualnych danych może spowolnić przeglądarkę.\nWarto okresowo czyścić dane.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Możesz to zmienić w ustawieniach.</string>
     <string name="check_brfore">Sprawdź przed biegiem</string>
     <string name="check_ver">Sprawdź wersję</string>
-    <string name="dark_guide_1">Jeśli przeglądarka internet systemu Android nie jest najnowszą wersją, ciemny motyw może nie wyświetlać się normalnie.</string>
+    <string name="dark_guide_1">Jeśli wersja Android System WebView nie jest najnowsza, tryb ciemny może nie być wyświetlany poprawnie.</string>
     <string name="recent_search">Ostatnie wyszukiwania</string>
     <string name="recent_secret">Zapisz ostatnie wyszukiwania w trybie incognito</string>
     <string name="recent_delete">Czy na pewno chcesz usunąć wszystkie ostatnie wyszukiwania?</string>

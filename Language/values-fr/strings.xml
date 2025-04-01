@@ -328,7 +328,7 @@
     <string name="crop_save">Redimensionner</string>
     <string name="pdf_crop_guide">Supprimer les marges des fichiers PDF.</string>
     <string name="guide_pinch">Zoom avant / arrière</string>
-    <string name="dark_mode">Thème</string>
+    <string name="dark_mode">Mode sombre</string>
     <string name="dark_mode_info_2">Veuillez faire attention lors de son utilisation.</string>
     <string name="message_confirm">Ne plus afficher ce message</string>
     <string name="brightness">Luminosité</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Taille de texte</string>
     <string name="free_scale">Zoom avant avec deux doigts</string>
     <string name="mobile_mode">Mobile</string>
-    <string name="desk_mode">Mobile / Bureau</string>
+    <string name="desk_mode">Bureau</string>
     <string name="desk_one">Bureau (Onglet actuel)</string>
     <string name="desk_all">Bureau (Tous les onglets)</string>
     <string name="block_link">Bloquer le lien</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Fichier nom</string>
     <string name="real_name">Vrai nom</string>
     <string name="prefix">Préfixe</string>
-    <string name="clean_mode">Mode propre</string>
+    <string name="clean_mode">Nettoyeur Web</string>
     <string name="site">Site</string>
     <string name="storage">Emplacement</string>
     <string name="system_name">Système</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Bloquer JavaScript sur la page en cours</string>
     <string name="js_black">Liste noire JavaScript</string>
     <string name="js_black_info">Vous pouvez enregistrer des sites qui bloquent le JavaScript.</string>
-    <string name="theme_light">Thème clair</string>
-    <string name="theme_dark">Thème sombre</string>
-    <string name="dark_home">Maison à thème sombre</string>
-    <string name="dark_home_info">Définir le fond d\'écran définira toujours la page d\'accueil sur un thème sombre.</string>
+    <string name="theme_light">Lumière</string>
+    <string name="theme_dark">Sombre</string>
+    <string name="dark_home">Mode sombre Accueil</string>
+    <string name="dark_home_info">Lorsque vous définissez un fond d\'écran, votre page d\'accueil sera toujours en mode sombre.</string>
     <string name="background">Contexte</string>
+    <string name="dark_image">Image sombre</string>
+    <string name="img_bright">Luminosité de l\'image</string>
+    <string name="img_brt_info">S\'applique uniquement lorsque la page Web est en mode sombre.</string>
     <string name="search_suggest">Suggestions de recherche</string>
     <string name="at_bottom">En bas</string>
     <string name="clean_data_info">L\'accumulation de données anciennes peut ralentir votre navigateur.\nC\'est une bonne idée de nettoyer régulièrement vos données.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Vous pouvez le modifier dans les paramètres.</string>
     <string name="check_brfore">Vérifier avant de courir</string>
     <string name="check_ver">Vérifier la version</string>
-    <string name="dark_guide_1">Si la vue Web du système Android n\'est pas la dernière version, le thème sombre peut ne pas s\'afficher normalement.</string>
+    <string name="dark_guide_1">Si la version WebView du système Android n\'est pas la dernière version, le mode sombre peut ne pas s\'afficher correctement.</string>
     <string name="recent_search">Recherches récentes</string>
     <string name="recent_secret">Enregistrer les recherches récentes en mode incognito</string>
     <string name="recent_delete">Voulez-vous vraiment supprimer toutes les recherches récentes ?</string>

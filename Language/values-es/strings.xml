@@ -328,7 +328,7 @@
     <string name="crop_save">Cosecha</string>
     <string name="pdf_crop_guide">Eliminar márgenes de los archivos PDF.</string>
     <string name="guide_pinch">Ampliar / Reducir</string>
-    <string name="dark_mode">Tema</string>
+    <string name="dark_mode">Modo oscuro</string>
     <string name="dark_mode_info_2">Tenga cuidado al usarlo.</string>
     <string name="message_confirm">No mostrar este mensaje de nuevo</string>
     <string name="brightness">Brillo</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Tamaño del texto</string>
     <string name="free_scale">Acercar con dos dedos</string>
     <string name="mobile_mode">Móvil</string>
-    <string name="desk_mode">Móvil / Escritorio</string>
+    <string name="desk_mode">Escritorio</string>
     <string name="desk_one">Escritorio (Pestaña actual)</string>
     <string name="desk_all">Escritorio (Todas las pestañas)</string>
     <string name="block_link">Bloquear enlace</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Nombre del archivo</string>
     <string name="real_name">Nombre real</string>
     <string name="prefix">Prefijo</string>
-    <string name="clean_mode">Modo limpieza</string>
+    <string name="clean_mode">Limpiador web</string>
     <string name="site">Sitio</string>
     <string name="storage">Almacenamiento</string>
     <string name="system_name">Sistema</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Bloquear JavaScript en la página actual</string>
     <string name="js_black">Lista negra de JavaScript</string>
     <string name="js_black_info">Puede registrar sitios que bloquean JavaScript.</string>
-    <string name="theme_light">Tema claro</string>
-    <string name="theme_dark">Tema oscuro</string>
-    <string name="dark_home">Hogar de tema oscuro</string>
-    <string name="dark_home_info">Configurar el fondo de pantalla siempre establecerá la página de inicio en un tema oscuro.</string>
+    <string name="theme_light">Luz</string>
+    <string name="theme_dark">Oscuro</string>
+    <string name="dark_home">Modo oscuro Inicio</string>
+    <string name="dark_home_info">Cuando configuras un fondo de pantalla, tu página de inicio siempre estará en modo oscuro.</string>
     <string name="background">Fondo</string>
+    <string name="dark_image">Imagen oscura</string>
+    <string name="img_bright">Brillo de la imagen</string>
+    <string name="img_brt_info">Se aplica solo cuando la página web está en modo oscuro.</string>
     <string name="search_suggest">Sugerencias de búsqueda</string>
     <string name="at_bottom">En el fondo</string>
     <string name="clean_data_info">La acumulación de datos obsoletos puede ralentizar su navegador.\nEs una buena idea limpiar sus datos periódicamente.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Puedes cambiarlo en la configuración.</string>
     <string name="check_brfore">Comprobar antes de correr</string>
     <string name="check_ver">Ver versión</string>
-    <string name="dark_guide_1">Si la vista web del sistema Android no es la última versión, es posible que el tema oscuro no se muestre normalmente.</string>
+    <string name="dark_guide_1">Si la versión WebView del sistema Android no es la última versión, es posible que el modo oscuro no se muestre correctamente.</string>
     <string name="recent_search">Búsquedas recientes</string>
     <string name="recent_secret">Guardar búsquedas recientes en modo incógnito</string>
     <string name="recent_delete">¿Está seguro de que desea eliminar todas las búsquedas recientes?</string>

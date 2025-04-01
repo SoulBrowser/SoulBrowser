@@ -328,7 +328,7 @@
     <string name="crop_save">Colheita</string>
     <string name="pdf_crop_guide">Remover margens de arquivos PDF.</string>
     <string name="guide_pinch">Zoom aumentar / diminuir</string>
-    <string name="dark_mode">Tema</string>
+    <string name="dark_mode">Modo escuro</string>
     <string name="dark_mode_info_2">Tenha cuidado ao usá lo.</string>
     <string name="message_confirm">Não mostrar esta mensagem novamente</string>
     <string name="brightness">Brilho</string>
@@ -376,7 +376,7 @@
     <string name="text_size">Texto tamanho</string>
     <string name="free_scale">Amplie com dois dedos</string>
     <string name="mobile_mode">Móvel</string>
-    <string name="desk_mode">Móvel / Desktop</string>
+    <string name="desk_mode">Desktop</string>
     <string name="desk_one">Desktop (Guia atual)</string>
     <string name="desk_all">Desktop (Todas as guias)</string>
     <string name="block_link">Bloquear link</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Nome arquivo</string>
     <string name="real_name">Nome verdadeiro</string>
     <string name="prefix">Prefixo</string>
-    <string name="clean_mode">Modo de limpeza</string>
+    <string name="clean_mode">Limpador de teia</string>
     <string name="site">Site</string>
     <string name="storage">Loja</string>
     <string name="system_name">Sistema</string>
@@ -755,11 +755,14 @@
     <string name="js_block_page">Bloquear JavaScript na página atual</string>
     <string name="js_black">Lista negra de JavaScript</string>
     <string name="js_black_info">Você pode registrar sites que bloqueiam JavaScript.</string>
-    <string name="theme_light">Tema claro</string>
-    <string name="theme_dark">Tema escuro</string>
-    <string name="dark_home">Casa com tema escuro</string>
-    <string name="dark_home_info">Definir o papel de parede sempre definirá a página inicial para um tema escuro.</string>
+    <string name="theme_light">Luz</string>
+    <string name="theme_dark">Escuro</string>
+    <string name="dark_home">Modo escuro Início</string>
+    <string name="dark_home_info">Ao definir um papel de parede, a sua página inicial estará sempre no modo escuro.</string>
     <string name="background">Fundo</string>
+    <string name="dark_image">Imagem escura</string>
+    <string name="img_bright">Brilho da imagem</string>
+    <string name="img_brt_info">Aplica-se apenas quando a página web está no modo escuro.</string>
     <string name="search_suggest">Sugestões de pesquisa</string>
     <string name="at_bottom">No fundo</string>
     <string name="clean_data_info">O acúmulo de dados desatualizados pode tornar seu navegador mais lento.\nÉ uma boa ideia limpar seus dados periodicamente.</string>
@@ -981,7 +984,7 @@
     <string name="change_in_setting">Você pode alterá-lo nas configurações.</string>
     <string name="check_brfore">Verifique antes de executar</string>
     <string name="check_ver">Verifique a versão</string>
-    <string name="dark_guide_1">Se a visualização da web do sistema Android não for a versão mais recente, o tema escuro pode não ser exibido normalmente.</string>
+    <string name="dark_guide_1">Se o Android System WebView não for a versão mais recente, o modo escuro poderá não ser apresentado corretamente.</string>
     <string name="recent_search">Pesquisas recentes</string>
     <string name="recent_secret">Salvar pesquisas recentes no modo de navegação anônima</string>
     <string name="recent_delete">Tem certeza de que deseja excluir todas as pesquisas recentes?</string>
