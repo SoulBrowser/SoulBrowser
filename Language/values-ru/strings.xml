@@ -2,7 +2,7 @@
 
 <resources>
     <string name="app_name">Soul</string>
-    <string name="notice">Нажав кнопку \'Начать работу\', вы соглашаетесь с %1$s и %2$s браузера Soul.</string>
+    <string name="notice">Нажав кнопку «Начать работу», вы соглашаетесь с %1$s и %2$s браузера Soul.</string>
     <string name="notice_tos">Условия использования</string>
     <string name="notice_privacy">Политика конфиденциальности</string>
     <string name="start">Начать работу</string>
@@ -79,7 +79,7 @@
     <string name="retry_count">Количество попыток</string>
     <string name="retry_count_info">Количество попыток в случае сбоя соединения</string>
     <string name="general">Основные</string>
-    <string name="advanced">Дополнительно</string>
+    <string name="advanced">Расширенные</string>
     <string name="bookmark">Закладки</string>
     <string name="history">История</string>
     <string name="setting">Настройки</string>
@@ -117,7 +117,7 @@
     <string name="prev_page">Предыдущая страница</string>
     <string name="next_page">Следующая страница</string>
     <string name="tab_gesture">Жест вкладки</string>
-    <string name="over_block">Блокировщик оверлеев</string>
+    <string name="over_block">Блокировка оверлеев</string>
     <string name="over_white">Белый список оверлеев</string>
     <string name="over_block_guide_1">Удаляет элементы, которые появляются поверх веб-страницы.</string>
     <string name="over_block_guide_2">Хотя в первую очередь это реклама, могут быть удалены и нерекламные элементы.</string>
@@ -130,12 +130,12 @@
     <string name="pop_block_info1">Блокировать все всплывающие окна</string>
     <string name="pop_block_info2">Блокировать при открытии других сайтов (включая рекламные)</string>
     <string name="pop_block_info3">Блокировать только подозрительные рекламные окна</string>
-    <string name="app_block">Блокировка запуска приложений</string>
+    <string name="app_block">Блокировка запуска сторонних приложений</string>
     <string name="app_site">Открыть в браузере</string>
-    <string name="app_block_info1">Запрещать сайтам запускать другие приложения.</string>
+    <string name="app_block_info1">Запретить сайтам запускать другие приложения.</string>
     <string name="app_block_info2">Открывать сайт, если информация о нем доступна.</string>
     <string name="app_block_noti">Приложение заблокировано</string>
-    <string name="link_app">Открывать ссылку в приложении</string>
+    <string name="link_app">Открывать ссылку с помощью приложения</string>
     <string name="link">Ссылка</string>
     <string name="open_url">Открыть</string>
     <string name="new_url">Новая вкладка</string>
@@ -181,7 +181,7 @@
     <string name="password">Пароли</string>
     <string name="input_password">Введите пароль</string>
     <string name="invalid_password">Неверный пароль</string>
-    <string name="password_save">Сохранить пароль</string>
+    <string name="password_save">Сохранять пароль</string>
     <string name="password_confirm">Вы уверены, что хотите сохранить пароль?</string>
     <string name="password_info">Пароли для обычного и режима инкогнито сохраняются отдельно.</string>
     <string name="password_button">Кнопка менеджера паролей</string>
@@ -215,7 +215,7 @@
     <string name="order_by">Порядок</string>
     <string name="order_ascend">По возрастанию</string>
     <string name="order_descend">По убыванию</string>
-    <string name="folder_top">Переместить папку вверх</string>
+    <string name="folder_top">Отображать папки вверху списка</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -236,13 +236,13 @@
     <string name="delete_cookie">Удалить файлы cookie</string>
     <string name="screen_rotate">Ориентация экрана</string>
     <string name="vol_scroll">Прокрутка страниц с помощью клавиш громкости</string>
-    <string name="double_back">Дважды нажмите кнопку \'Назад\', чтобы выйти из приложения</string>
+    <string name="double_back">Дважды нажмите кнопку «Назад», чтобы выйти из приложения</string>
     <string name="press_again">Нажмите еще раз, чтобы выйти</string>
     <string name="last_noti">Уведомление о последней странице</string>
-    <string name="last_noti_info">При нажатии кнопки \'Назад\' на последней странице вкладки, появится уведомление.</string>
+    <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление.</string>
     <string name="last_page_noti">Это последняя страница вкладки</string>
     <string name="last_swipe">Закрывать свайпом вкладку с последней страницы</string>
-    <string name="last_exit">Поведение кнопки \'Назад\' на последней странице</string>
+    <string name="last_exit">Поведение кнопки «Назад» на последней странице</string>
     <string name="title">Заголовок</string>
     <string name="author">Автор</string>
     <string name="artist">Исполнитель</string>
@@ -276,7 +276,7 @@
     <string name="type">Тип</string>
     <string name="page_effect">Эффект страницы</string>
     <string name="page_scroll">Прокрутка страницы</string>
-    <string name="list_hori">Список (Горизонтальный))</string>
+    <string name="list_hori">Список (Горизонтальный)</string>
     <string name="list_vert">Список (Вертикальный)</string>
     <string name="best_size">Оптимальный размер</string>
     <string name="best_info">Оптимальный размер для текущего типа</string>
@@ -341,7 +341,7 @@
     <string name="size_width">Ширина</string>
     <string name="size_height">Высота</string>
     <string name="exit_with_save">Сохранить и выйти</string>
-    <string name="exit_without_save">Выход без сохранения</string>
+    <string name="exit_without_save">Выйти без сохранения</string>
     <string name="camera_fail">Не удалось запустить камеру</string>
     <string name="barcode_guide">Поместите QR-код или штрих-код в указанную область</string>
     <string name="barcode_fail">На изображении не обнаружено QR-код или штрих-код</string>
@@ -357,7 +357,7 @@
     <string name="ask_rem_pms">Удалить разрешение на доступ к аккаунту?</string>
     <string name="remove_pms">Удалить разрешение</string>
     <string name="noti_pms">Разрешение на уведомления</string>
-    <string name="noti_pms_guide_1">\'Разрешение на уведомления\' требуется для уведомлений о статусе следующих функций.</string>
+    <string name="noti_pms_guide_1">«Разрешение на уведомления» требуется для уведомлений о статусе следующих функций.</string>
     <string name="ads_block">Блокировщик рекламы</string>
     <string name="ads_block_info">Для блокировки рекламы должен быть активен хотя бы один фильтр.</string>
     <string name="filtered_image">Отфильтровано изображений (%d)</string>
@@ -367,7 +367,7 @@
     <string name="guide_over_allow">Вы можете добавить сайты, на которых разрешены оверлеи.</string>
     <string name="guide_pop_allow">Вы можете добавить сайты, на которых разрешены всплывающие окна.</string>
     <string name="now_delete">Выбрать элементы и удалить их прямо сейчас</string>
-    <string name="exit_delete">Выберите элементы для удаления при выходе из приложения</string>
+    <string name="exit_delete">Выбрать элементы для удаления при выходе из приложения</string>
     <string name="exit_guide">При закрытии приложения выбранные элементы будут удалены.</string>
     <string name="exit_del_noti">Уведомление при удалении</string>
     <string name="exit_noti_1">&#60; Очистка при выходе &#62;\nУдалено: %s.</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Имя файла</string>
     <string name="real_name">Настоящее имя</string>
     <string name="prefix">Префикс</string>
-    <string name="clean_mode">Чистый режим</string>
+    <string name="clean_mode">Блокировка рекламы</string>
     <string name="site">Сайты</string>
     <string name="storage">Хранилище</string>
     <string name="system_name">Система</string>
@@ -509,7 +509,7 @@
     <string name="touch_unlocked">Сенсор разблокирован</string>
     <string name="app_lock">Блокировка приложения</string>
     <string name="lock_type">Блокировка экрана</string>
-    <string name="only_secret">Применяется только в режиме инкогнито</string>
+    <string name="only_secret">Применять только в режиме инкогнито</string>
     <string name="unlock">Разблокировать</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Графический ключ</string>
@@ -517,7 +517,7 @@
     <string name="reinput">Пожалуйста, введите еще раз</string>
     <string name="wrong_input">Неверный ввод</string>
     <string name="continue_input">Продолжить</string>
-    <string name="pip_home">Переключаться в режим PIP с помощью кнопки \'Домой\'</string>
+    <string name="pip_home">Переключаться в режим PIP с помощью кнопки «Домой»</string>
     <string name="memory_warning_1">Эта функция использует больше памяти.</string>
     <string name="secret_data_info">Разделение данных (cookie, кэш и т.д.) поддерживается начиная с Android 9.</string>
     <string name="secret_hist">Сохранять историю посещений</string>
@@ -550,8 +550,8 @@
     <string name="keep_login">Сохранять вход</string>
     <string name="keep_login_info">В режиме инкогнито данные для входа сохраняются, даже при переходе в обычный режим.</string>
     <string name="secret_exit">Выход из режима инкогнито</string>
-    <string name="direct_input">Ввод вручную</string>
-    <string name="direct_select">Выбор вручную</string>
+    <string name="direct_input">Ввести вручную</string>
+    <string name="direct_select">Выбрать вручную</string>
     <string name="added">Добавлено</string>
     <string name="do_change">Изменить</string>
     <string name="changed">Изменено</string>
@@ -560,9 +560,9 @@
     <string name="report_site">Сообщить о проблемах с сайтом</string>
     <string name="report_down">Пожалуйста, укажите адрес сайта, с которого вы не можете скачать видео.</string>
     <string name="insta_down">Для корректного скачивания видео с Instagram,\nвам потребуется вход в аккаунт Instagram.</string>
-    <string name="youtube_unmute">Включать звук на YouTube</string>
-    <string name="youtube_speed">Сохранение скорости воспроизведения</string>
-    <string name="youtube_auto">Автовоспроизведение на YouTube</string>
+    <string name="youtube_unmute">Автовключение звука на YouTube</string>
+    <string name="youtube_speed">Сохранить скорость воспроизведения</string>
+    <string name="youtube_auto">Автовоспроизведение видео на YouTube</string>
     <string name="back_play">Фоновое воспроизведение</string>
     <string name="back_play_info">В соответствии с политикой YouTube, фоновое воспроизведение YouTube не поддерживается.</string>
     <string name="normal_rate">Обычный</string>
@@ -580,7 +580,7 @@
     <string name="font_info_1">С помощью TTF-файлов из внутреннего хранилища или SD-карты можно изменить шрифт веб-страницы.</string>
     <string name="font_guide_1">Каждый шрифт поддерживает свой набор языков.</string>
     <string name="font_guide_2">Обычно шрифты поддерживают только буквы и цифры.</string>
-    <string name="font_guide_3">Перед выбором шрифта убедитесь, что он поддерживает нужный язык, просмотрев пример текста.</string>
+    <string name="font_guide_3">Перед выбором шрифта убедитесь, что он корректно поддерживает требуемый язык, ознакомившись с примером текста для проверки.</string>
     <string name="tv_cast">Трансляция</string>
     <string name="media_route_menu_title">Воспроизвести на&#8230;</string>
     <string name="introducing_cast">Нажмите, чтобы транслировать мультимедиа на телевизор</string>
@@ -593,7 +593,7 @@
     <string name="icon_color">Цвет кнопки</string>
     <string name="icon_pos">Расположение кнопки</string>
     <string name="storage_guide_1">Обновлено для Android 10.</string>
-    <string name="storage_guide_2">Начиная с Android 10 применяется политика \'Scoped storage\'.</string>
+    <string name="storage_guide_2">Начиная с Android 10 применяется политика «Scoped storage».</string>
     <string name="storage_guide_3">Список хранилищ и путь хранения были сброшены.</string>
     <string name="storage_guide_4">Файлы сохраняются.</string>
     <string name="not_selected">Не выбрано</string>
@@ -628,7 +628,7 @@
     <string name="tts_info_2">Нажмите на текст, чтобы прослушать его.</string>
     <string name="tts_guide_1">Доступные языки зависят от используемого движка TTS.</string>
     <string name="tts_guide_2">Вы можете изменить движок TTS в настройках устройства.</string>
-    <string name="speak_page">Прочитать страницу вслух</string>
+    <string name="speak_page">Озвучить страницу</string>
     <string name="auto_speak">Автоматическое озвучивание</string>
     <string name="auto_speak_guide">TTS будет запускаться автоматически при активации режима чтения.</string>
     <string name="detail_setting">Расширенные настройки</string>
@@ -682,7 +682,7 @@
     <string name="delete_other_tab">Закрыть другие вкладки</string>
     <string name="group_other_tab">Закрыть другие вкладки в группе</string>
     <string name="mini_mode">Мини-режим</string>
-    <string name="home_close">Закрывать все вкладки при нажатии кнопки домашней страницы</string>
+    <string name="home_close">Закрыть все вкладки при нажатии кнопки домашней страницы</string>
     <string name="reader_mode">Режим чтения</string>
     <string name="reader_empty">На этой странице нет текста</string>
     <string name="site_warning">Предупреждение о безопасности</string>
@@ -810,7 +810,7 @@
     <string name="only_https">Подключаться по HTTPS</string>
     <string name="only_https_info">По умолчанию подключаться по протоколу HTTPS.\nСайты, не поддерживающие HTTPS, могут не загрузиться.</string>
     <string name="http_warning">На HTTP-сайтах (не защищенных сайтах) выполнение невозможно.</string>
-    <string name="page_home_info">При нажатии на на иконку \'Домой\'</string>
+    <string name="page_home_info">При нажатии на на иконку «Домой»</string>
     <string name="page_start_info">При запуске приложения</string>
     <string name="page_tab_info">При создании новой вкладки</string>
     <string name="filter_user_1">Вы можете добавить фильтры для блокировки большего количества рекламы.</string>
@@ -841,7 +841,7 @@
     <string name="limit_info_3">При превышении лимита память будет освобождена автоматически, начиная с самых старых страниц.</string>
     <string name="mem_block_site">Запретить освобождение памяти для текущего сайта</string>
     <string name="mem_block_page">Запретить освобождение памяти для текущей страницы</string>
-    <string name="mem_block_list">Список исключений для освобождения памяти</string>
+    <string name="mem_block_list">Список исключений из освобождения памяти</string>
     <string name="mem_keep">Период сохранения памяти</string>
     <string name="mem_keep_info">При длительном сохранении памяти браузер может работать медленно.</string>
     <string name="down_manager">Менеджер загрузок</string>
@@ -867,7 +867,7 @@
     <string name="finger_unknown">Невозможно определить, доступна ли аутентификация пользователя.</string>
     <string name="auto_comp">Автозаполнение</string>
     <string name="check_element">Проверка элементов</string>
-    <string name="check_ele_info_0">(точечная блокировка)</string>
+    <string name="check_ele_info_0">(более точная блокировка)</string>
     <string name="check_ele_info_1">Эта функция использует много ресурсов, поскольку анализирует каждый элемент веб-страницы.</string>
     <string name="quick_guide_1">1. Можно переместить любой значок, удерживая его.</string>
     <string name="quick_guide_2">2. Можно создавать папки, перетаскивая значки.</string>
@@ -886,7 +886,7 @@
     <string name="news_start">Следите за новостями со всего мира в одном месте.</string>
     <string name="news_title">Новости</string>
     <string name="news_loading">Загрузка новостей&#8230;</string>
-    <string name="news_show">Показать новости</string>
+    <string name="news_show">Показывать новости</string>
     <string name="news_info_1">Источник новостей</string>
     <string name="news_info_2">Google Новости</string>
     <string name="news_locale">Язык и регион</string>
@@ -975,11 +975,11 @@
     <string name="filter_link_4">Фильтры могут не обновляться, если изменится адрес фильтра.</string>
     <string name="filter_link_5">В этом случае, пожалуйста, сообщите об этом разработчику.</string>
     <string name="open_source">Благодарим разработчиков с открытым исходным кодом. ❤</string>
-    <string name="video_icon_tap">Коснитесь экрана</string>
+    <string name="video_icon_tap">Коснуться экрана</string>
     <string name="video_icon_long">Долгое нажатие на экран</string>
     <string name="video_icon_guide">Нажмите и удерживайте экран для отображения кнопок функций.</string>
     <string name="change_in_setting">Вы можете изменить это в настройках.</string>
-    <string name="check_brfore">Проверьте перед запуском</string>
+    <string name="check_brfore">Проверять перед запуском</string>
     <string name="check_ver">Проверить версию</string>
     <string name="dark_guide_1">Если веб-компонент Android не обновлен до последней версии, темная тема может отображаться некорректно.</string>
     <string name="recent_search">Последние поисковые запросы</string>
@@ -1007,7 +1007,7 @@
     <string name="restart_guide_4">Приложение безопасно перезапустится в чистом состоянии и с удалением ненужной памяти.</string>
     <string name="restart_noti">Вы уверены, что хотите перезапустить приложение?</string>
     <string name="restart_title">Перезапуск</string>
-    <string name="block_area">Заблокировать область</string>
+    <string name="block_area">Блокировка области</string>
     <string name="remove_area">Вы уверены, что хотите удалить выбранную область?</string>
     <string name="remove_title">Удалить</string>
     <string name="area_guide_1">Вы можете выбрать область для удаления.</string>
@@ -1027,8 +1027,8 @@
     <string name="area_edit_guide_4">Но не переживайте.</string>
     <string name="area_edit_guide_5">Вы всегда сможете отредактировать его снова.</string>
     <string name="area_edit_guide_6">Не стесняйтесь попробовать.</string>
-    <string name="area_recom_1">Попробуйте использовать функцию \'%s\'.</string>
-    <string name="area_recom_2">Функция \'%s\' позволяет напрямую выбрать то, что вы хотите заблокировать.</string>
+    <string name="area_recom_1">Попробуйте использовать функцию «%s».</string>
+    <string name="area_recom_2">Функция «%s» позволяет напрямую выбрать то, что вы хотите заблокировать.</string>
     <string name="area_info_1">Сегодня во всемирной паутине насчитывается более 1.5 миллиардов веб-сайтов.</string>
     <string name="area_info_2">Именно поэтому фильтр содержит информацию о многих сайтах.</string>
     <string name="area_info_3">Однако пользователи обычно посещают только несколько сайтов.</string>
@@ -1039,10 +1039,10 @@
     <string name="area_info_8">Чтобы решить эту проблему, вам нужен индивидуальный фильтр, который работает для вас.</string>
     <string name="area_info_9">Однако создание фильтра требует знаний о фильтрах.</string>
     <string name="area_info_10">По этой причине многие пользователи отказываются от создания собственных фильтров.</string>
-    <string name="area_info_11">Функция \'%s\' не требует каких-либо знаний о фильтрах.</string>
+    <string name="area_info_11">Функция «%s» не требует каких-либо знаний о фильтрах.</string>
     <string name="area_info_12">Любой может легко создавать собственные фильтры.</string>
     <string name="area_info_13">Нажмите и удерживайте объект который хотите заблокировать, чтобы открыть меню.</string>
-    <string name="area_info_14">Когда вы запустите и примените функцию \'%s\', фильтр будет создан автоматически.</string>
+    <string name="area_info_14">Когда вы запустите и примените функцию «%s», фильтр будет создан автоматически.</string>
     <string name="area_info_15">Это очень легко.</string>
     <string name="area_info_16">Попробуйте прямо сейчас.</string>
     <string name="freq_asked">Часто задаваемые вопросы</string>
