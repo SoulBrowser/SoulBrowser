@@ -79,7 +79,7 @@
     <string name="retry_count">Кількість спроб</string>
     <string name="retry_count_info">Кількість спроб у разі збою підключення</string>
     <string name="general">Загальні</string>
-    <string name="advanced">Додатково</string>
+    <string name="advanced">Розширені</string>
     <string name="bookmark">Закладки</string>
     <string name="history">Історія</string>
     <string name="setting">Налаштування</string>
@@ -117,7 +117,7 @@
     <string name="prev_page">Попередня сторінка</string>
     <string name="next_page">Наступна сторінка</string>
     <string name="tab_gesture">Жест вкладки</string>
-    <string name="over_block">Блокувальник оверлеїв</string>
+    <string name="over_block">Блокування оверлеїв</string>
     <string name="over_white">Білий список оверлеїв</string>
     <string name="over_block_guide_1">Видаляє елементи, які з\'являються поверх веб-сторінки.</string>
     <string name="over_block_guide_2">Хоча насамперед це реклама, можуть бути видалені і нерекламні елементи.</string>
@@ -130,12 +130,12 @@
     <string name="pop_block_info1">Блокувати всі спливаючі вікна</string>
     <string name="pop_block_info2">Блокувати при відкритті інших сайтів (включаючи рекламні)</string>
     <string name="pop_block_info3">Блокувати лише підозрілі рекламні вікна</string>
-    <string name="app_block">Блокування запуску застосунків</string>
+    <string name="app_block">Блокування запуску сторонніх застосунків</string>
     <string name="app_site">Відкрити у браузері</string>
-    <string name="app_block_info1">Забороняти сайтам запускати інші застосунки.</string>
+    <string name="app_block_info1">Заборонити сайтам запускати інші застосунки.</string>
     <string name="app_block_info2">Відкривати сайт, якщо інформація про нього доступна.</string>
     <string name="app_block_noti">Застосунок заблоковано</string>
-    <string name="link_app">Відкривати посилання у застосунку</string>
+    <string name="link_app">Відкривати посилання за допомогою застосунку</string>
     <string name="link">Посилання</string>
     <string name="open_url">Відкрити</string>
     <string name="new_url">Нова вкладка</string>
@@ -181,7 +181,7 @@
     <string name="password">Паролі</string>
     <string name="input_password">Введіть пароль</string>
     <string name="invalid_password">Невірний пароль</string>
-    <string name="password_save">Зберегти пароль</string>
+    <string name="password_save">Зберігати пароль</string>
     <string name="password_confirm">Ви впевнені, що хочете зберегти пароль?</string>
     <string name="password_info">Паролі для звичайного та інкогніто режиму зберігаються окремо.</string>
     <string name="password_button">Кнопка менеджера паролів</string>
@@ -215,7 +215,7 @@
     <string name="order_by">Порядок</string>
     <string name="order_ascend">За зростанням</string>
     <string name="order_descend">За спаданням</string>
-    <string name="folder_top">Перемістити папку вгору</string>
+    <string name="folder_top">Відображати папки вгорі списку</string>
     <string name="google">Google</string>
     <string name="bing">Bing</string>
     <string name="yahoo">Yahoo</string>
@@ -236,7 +236,7 @@
     <string name="delete_cookie">Видалити файли cookie</string>
     <string name="screen_rotate">Орієнтація екрану</string>
     <string name="vol_scroll">Прокрутка сторінок за допомогою клавіш гучності</string>
-    <string name="double_back">Двічі натисніть кнопку \'Назад\', щоб вийти із застосунку</string>
+    <string name="double_back">Вихід із застосунку подвійним натисканням кнопки \'Назад\'</string>
     <string name="press_again">Натисніть ще раз, щоб вийти</string>
     <string name="last_noti">Повідомлення про останню сторінку</string>
     <string name="last_noti_info">При натисканні кнопки \'Назад\' на останній сторінці вкладки з\'явиться повідомлення.</string>
@@ -264,7 +264,7 @@
     <string name="web_edit_hint">Введіть запит або URL</string>
     <string name="search_engine">Пошукова система</string>
     <string name="search_url">Пошук</string>
-    <string name="screen_off">Автовимикання екрану</string>
+    <string name="screen_off">Автовимкнення екрану</string>
     <string name="screen_hour">1 година</string>
     <string name="screen_always">Завжди увімкнено</string>
     <string name="screen_info_system">Використовувати налаштування системи</string>
@@ -341,7 +341,7 @@
     <string name="size_width">Ширина</string>
     <string name="size_height">Висота</string>
     <string name="exit_with_save">Зберегти та вийти</string>
-    <string name="exit_without_save">Вихід без збереження</string>
+    <string name="exit_without_save">Вийти без збереження</string>
     <string name="camera_fail">Не вдалося запустити камеру</string>
     <string name="barcode_guide">Розмістіть QR-код або штрих-код у вказаній області</string>
     <string name="barcode_fail">На зображенні не виявлено QR-код або штрих-код</string>
@@ -366,8 +366,8 @@
     <string name="guide_ads_allow">Ви можете додати сайти, на яких дозволена реклама.</string>
     <string name="guide_over_allow">Ви можете додати сайти, на яких дозволені оверлеї.</string>
     <string name="guide_pop_allow">Ви можете додати сайти, на яких дозволені спливаючі вікна.</string>
-    <string name="now_delete">Виберіть елементи та видаліть їх прямо зараз</string>
-    <string name="exit_delete">Виберіть елементи для видалення при виході із застосунку</string>
+    <string name="now_delete">Вибрати елементи та видалити їх прямо зараз</string>
+    <string name="exit_delete">Вибрати елементи для видалення при виході із застосунку</string>
     <string name="exit_guide">Під час закриття застосунку вибрані елементи будуть видалені.</string>
     <string name="exit_del_noti">Сповіщення про видалення</string>
     <string name="exit_noti_1">&#60; Очищення при виході &#62;\nВидалено: %s.</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Ім\'я файлу</string>
     <string name="real_name">Справжнє ім\'я</string>
     <string name="prefix">Префікс</string>
-    <string name="clean_mode">Чистий режим</string>
+    <string name="clean_mode">Блокування реклами</string>
     <string name="site">Сайти</string>
     <string name="storage">Сховище</string>
     <string name="system_name">Система</string>
@@ -509,7 +509,7 @@
     <string name="touch_unlocked">Сенсор розблоковано</string>
     <string name="app_lock">Блокування застосунку</string>
     <string name="lock_type">Блокування екрану</string>
-    <string name="only_secret">Застосовується лише в режимі інкогніто</string>
+    <string name="only_secret">Застосовувати лише в режимі інкогніто</string>
     <string name="unlock">Розблокувати</string>
     <string name="lock_pin">PIN</string>
     <string name="lock_pattern">Графічний ключ</string>
@@ -550,8 +550,8 @@
     <string name="keep_login">Зберігати вхід</string>
     <string name="keep_login_info">У режимі інкогніто дані для входу зберігаються, навіть при переході у звичайний режим.</string>
     <string name="secret_exit">Вихід з режиму інкогніто</string>
-    <string name="direct_input">Ввід вручну</string>
-    <string name="direct_select">Вибір вручну</string>
+    <string name="direct_input">Ввести вручну</string>
+    <string name="direct_select">Вибрати вручну</string>
     <string name="added">Додано</string>
     <string name="do_change">Змінити</string>
     <string name="changed">Змінено</string>
@@ -560,9 +560,9 @@
     <string name="report_site">Повідомити про проблеми із сайтом</string>
     <string name="report_down">Будь ласка, вкажіть адресу сайту, з якого ви не можете завантажити відео.</string>
     <string name="insta_down">Для коректного завантаження відео з Instagram,\nвам знадобиться вхід в акаунт Instagram.</string>
-    <string name="youtube_unmute">Увімкнути звук на YouTube</string>
-    <string name="youtube_speed">Збереження швидкості відтворення</string>
-    <string name="youtube_auto">Автовідтворення на YouTube</string>
+    <string name="youtube_unmute">Автоматичне увімкнення звуку на YouTube</string>
+    <string name="youtube_speed">Зберегти швидкість відтворення</string>
+    <string name="youtube_auto">Автовідтворення відео на YouTube</string>
     <string name="back_play">Фонове відтворення</string>
     <string name="back_play_info">Відповідно до політики YouTube, фонове відтворення YouTube не підтримується.</string>
     <string name="normal_rate">Звичайний</string>
@@ -580,7 +580,7 @@
     <string name="font_info_1">За допомогою TTF-файлів із внутрішнього сховища або SD-карти можна змінити шрифт веб-сторінки.</string>
     <string name="font_guide_1">Кожен шрифт підтримує свій набір мов.</string>
     <string name="font_guide_2">Зазвичай шрифти підтримують лише літери та цифри.</string>
-    <string name="font_guide_3">Перед вибором шрифту переконайтеся, що він підтримує потрібну мову, переглянувши приклад тексту.</string>
+    <string name="font_guide_3">Перед вибором шрифту переконайтеся, що він коректно підтримує необхідну мову, ознайомившись із зразком тексту для перевірки.</string>
     <string name="tv_cast">Трансляція</string>
     <string name="media_route_menu_title">Вiдтворити на&#8230;</string>
     <string name="introducing_cast">Натисніть, щоб транслювати мультимедіа на телевізор</string>
@@ -622,17 +622,17 @@
     <string name="trans_report">Повідомити про помилки перекладу</string>
     <string name="trans_report_info">Допоможіть з перекладом. ❤</string>
     <string name="trans_report_guide">[Некоректний переклад] &#62; [Правильний переклад]</string>
-    <string name="tts_mode">Текст у мову</string>
+    <string name="tts_mode">Текст у голос</string>
     <string name="tts_on">Увімкнути TTS</string>
     <string name="tts_info_1">Натисніть на текст на сторінці, щоб прослухати його.</string>
     <string name="tts_info_2">Натисніть на текст, щоб прослухати його.</string>
     <string name="tts_guide_1">Доступні мови залежать від використовуваного рушія TTS.</string>
     <string name="tts_guide_2">Ви можете змінити рушій TTS у налаштуваннях пристрою.</string>
-    <string name="speak_page">Прочитати сторінку вголос</string>
+    <string name="speak_page">Озвучити сторінку</string>
     <string name="auto_speak">Автоматичне озвучування</string>
     <string name="auto_speak_guide">TTS запускатиметься автоматично при активації режиму читання.</string>
     <string name="detail_setting">Розширені налаштування</string>
-    <string name="voice_speed">Швидкість мови</string>
+    <string name="voice_speed">Швидкість мовлення</string>
     <string name="voice_tone">Тон голосу</string>
     <string name="stop_icon">Кнопка зупинки озвучування</string>
     <string name="stop_icon_info">Відображається на екрані під час озвучування тексту.</string>
@@ -682,7 +682,7 @@
     <string name="delete_other_tab">Закрити інші вкладки</string>
     <string name="group_other_tab">Закрити інші вкладки у групі</string>
     <string name="mini_mode">Міні-режим</string>
-    <string name="home_close">Закривати всі вкладки при натисканні кнопки домашньої сторінки</string>
+    <string name="home_close">Закрити всі вкладки при натисканні кнопки домашньої сторінки</string>
     <string name="reader_mode">Режим читання</string>
     <string name="reader_empty">На цій сторінці немає тексту</string>
     <string name="site_warning">Попередження про безпеку</string>
@@ -722,7 +722,7 @@
     <string name="estimated_info">Приблизний та фактичний розміри можуть відрізнятися.</string>
     <string name="unknown">Невідомо</string>
     <string name="move_top">На початок</string>
-    <string name="move_bot">У кінець</string>
+    <string name="move_bot">В кінець</string>
     <string name="scroll_up">Прокрутити вгору</string>
     <string name="scroll_down">Прокрутити вниз</string>
     <string name="open_with">Відкрити за допомогою</string>
@@ -754,7 +754,7 @@
     <string name="js_block_site">Блокувати JavaScript на поточному сайті</string>
     <string name="js_block_page">Блокувати JavaScript на поточній сторінці</string>
     <string name="js_black">Чорний список JavaScript</string>
-    <string name="js_black_info">Ви можете додати сайти, що блокують JavaScript.</string>
+    <string name="js_black_info">Ви можете додати сайти, які блокують JavaScript.</string>
     <string name="theme_light">Світла тема</string>
     <string name="theme_dark">Темна тема</string>
     <string name="dark_home">Темна тема для домашньої сторінки</string>
@@ -841,7 +841,7 @@
     <string name="limit_info_3">При перевищенні ліміту пам\'ять буде звільнятися автоматично, починаючи з найстаріших сторінок.</string>
     <string name="mem_block_site">Заборонити звільнення пам\'яті для поточного сайту</string>
     <string name="mem_block_page">Заборонити звільнення пам\'яті для поточної сторінки</string>
-    <string name="mem_block_list">Список винятків для звільнення пам\'яті</string>
+    <string name="mem_block_list">Список винятків із звільнення пам\'яті</string>
     <string name="mem_keep">Період збереження пам\'яті</string>
     <string name="mem_keep_info">При тривалому збереженні пам\'яті браузер може працювати повільніше.</string>
     <string name="down_manager">Менеджер завантажень</string>
@@ -867,7 +867,7 @@
     <string name="finger_unknown">Неможливо визначити, чи доступна автентифікація користувача.</string>
     <string name="auto_comp">Автозаповнення</string>
     <string name="check_element">Перевірка елементів</string>
-    <string name="check_ele_info_0">(точкове блокування)</string>
+    <string name="check_ele_info_0">(більш точне блокування)</string>
     <string name="check_ele_info_1">Ця функція використовує багато ресурсів, оскільки аналізує кожен елемент веб-сторінки.</string>
     <string name="quick_guide_1">1. Будь-яку іконку можна перемістити, утримуючи її.</string>
     <string name="quick_guide_2">2. Можна створювати папки, перетягуючи іконки.</string>
@@ -886,7 +886,7 @@
     <string name="news_start">Слідкуйте за новинами з усього світу в одному місці.</string>
     <string name="news_title">Новини</string>
     <string name="news_loading">Завантаження новин&#8230;</string>
-    <string name="news_show">Показати новини</string>
+    <string name="news_show">Показувати новини</string>
     <string name="news_info_1">Джерело новин</string>
     <string name="news_info_2">Google Новини</string>
     <string name="news_locale">Мова та регіон</string>
@@ -975,11 +975,11 @@
     <string name="filter_link_4">Фільтри можуть не оновлюватися, якщо зміниться адреса фільтра.</string>
     <string name="filter_link_5">У такому випадку, будь ласка, повідомте про це розробнику.</string>
     <string name="open_source">Дякуємо розробникам з відкритим вихідним кодом. ❤</string>
-    <string name="video_icon_tap">Торкніться екрану</string>
+    <string name="video_icon_tap">Доторкнутися до екрану</string>
     <string name="video_icon_long">Тривале натискання на екран</string>
     <string name="video_icon_guide">Натисніть та утримуйте екран для відображення кнопок функцій.</string>
     <string name="change_in_setting">Ви можете змінити це в налаштуваннях.</string>
-    <string name="check_brfore">Перевірте перед запуском</string>
+    <string name="check_brfore">Перевіряти перед запуском</string>
     <string name="check_ver">Перевірити версію</string>
     <string name="dark_guide_1">Якщо веб-компонент Android не оновлено до останньої версії, темна тема може відображатися некоректно.</string>
     <string name="recent_search">Останні пошукові запити</string>
@@ -1007,7 +1007,7 @@
     <string name="restart_guide_4">Застосунок безпечно перезапуститься в чистому стані та з видаленням непотрібної пам\'яті.</string>
     <string name="restart_noti">Ви впевнені, що хочете перезапустити застосунок?</string>
     <string name="restart_title">Перезапуск</string>
-    <string name="block_area">Заблокувати область</string>
+    <string name="block_area">Блокування області</string>
     <string name="remove_area">Ви впевнені, що хочете видалити вибрану область?</string>
     <string name="remove_title">Видалити</string>
     <string name="area_guide_1">Ви можете вибрати область для видалення.</string>
@@ -1042,7 +1042,7 @@
     <string name="area_info_11">Функція \'%s\' не вимагає жодних знань про фільтри.</string>
     <string name="area_info_12">Будь-хто може легко створювати власні фільтри.</string>
     <string name="area_info_13">Натисніть та утримуйте об\'єкт, який хочете заблокувати, щоб відкрити меню.</string>
-    <string name="area_info_14">Коли ви запустите та єте функцію \'%s\', фільтр буде створено автоматично.</string>
+    <string name="area_info_14">Коли ви запустите та застосуєте функцію \'%s\', фільтр буде створено автоматично.</string>
     <string name="area_info_15">Це дуже просто.</string>
     <string name="area_info_16">Спробуйте прямо зараз.</string>
     <string name="freq_asked">Часто задавані питання</string>
