@@ -347,7 +347,7 @@
     <string name="barcode_fail">На зображенні не виявлено QR-код або штрих-код</string>
     <string name="allow">Дозволити</string>
     <string name="deny">Заборонити</string>
-    <string name="location">Місцезнаходження</string>
+    <string name="location">Розташування</string>
     <string name="permission">Дозволи</string>
     <string name="site_permission">Цей сайт запитує наступні дозволи</string>
     <string name="permission_granted">Дозвіл надано</string>
@@ -396,7 +396,7 @@
     <string name="set_reset_guide">Налаштування, що стосуються наступних функцій, не будуть скинуті.</string>
     <string name="check_network">Перевірте стан мережі</string>
     <string name="server_error">Сервер не відповідає</string>
-    <string name="server_delay">Відповідь сервера повільна</string>
+    <string name="server_delay">Повільна відповідь сервера</string>
     <string name="not_support_video">Ця функція не підтримується для цього відео.</string>
     <string name="control_bright">Керування яскравістю</string>
     <string name="control_volume">Керування гучністю</string>
@@ -410,7 +410,7 @@
     <string name="share_app">Порекомендувати другу</string>
     <string name="extract">Витягти</string>
     <string name="loading">Завантаження&#8230;</string>
-    <string name="waiting">Будь ласка, зачекайте</string>
+    <string name="waiting">Очікування&#8230;</string>
     <string name="repeat_on">Режим повтору увімкнено</string>
     <string name="repeat_off">Режим повтору вимкнено</string>
     <string name="repeat_play">Повторити відтворення</string>
@@ -755,12 +755,12 @@
     <string name="js_block_page">Блокувати JavaScript на поточній сторінці</string>
     <string name="js_black">Чорний список JavaScript</string>
     <string name="js_black_info">Ви можете додати сайти, які блокують JavaScript.</string>
-    <string name="theme_light">Світло</string>
-    <string name="theme_dark">Темний</string>
-    <string name="dark_home">Темний режим Home</string>
+    <string name="theme_light">Світлий режим</string>
+    <string name="theme_dark">Темний режим</string>
+    <string name="dark_home">Темний режим для домашньої сторінки</string>
     <string name="dark_home_info">Коли ви встановлюєте шпалери, ваша домашня сторінка завжди буде в темному режимі.</string>
     <string name="background">Фон</string>
-    <string name="dark_image">Темне зображення</string>
+    <string name="dark_image">Затемнення зображень</string>
     <string name="img_bright">Яскравість зображення</string>
     <string name="img_brt_info">Застосовується, лише коли веб-сторінка знаходиться в темному режимі.</string>
     <string name="search_suggest">Пропозиції пошуку</string>
