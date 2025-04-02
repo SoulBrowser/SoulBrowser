@@ -290,7 +290,7 @@
     <string name="show_thumb">Предпросмотр миниатюр</string>
     <string name="show_thumb_info">Для более быстрой работы отключите эту настройку.</string>
     <string name="show_page_guide">Отображать подсказки по прокрутке страниц</string>
-    <string name="tap_turn">Прокрутка страниц при помощи касания</string>
+    <string name="tap_turn">Прокрутка страниц с помощью касания</string>
     <string name="volume_turn">Прокрутка страниц с помощью клавиш громкости</string>
     <string name="ok">OK</string>
     <string name="success">Успешно</string>
@@ -347,7 +347,7 @@
     <string name="barcode_fail">На изображении не обнаружено QR-код или штрих-код</string>
     <string name="allow">Разрешить</string>
     <string name="deny">Запретить</string>
-    <string name="location">Местоположение</string>
+    <string name="location">Расположение</string>
     <string name="permission">Разрешения</string>
     <string name="site_permission">Этот сайт запрашивает следующие разрешения</string>
     <string name="permission_granted">Разрешение предоставлено</string>
@@ -396,7 +396,7 @@
     <string name="set_reset_guide">Настройки, относящиеся к следующим функциям, не будут сброшены.</string>
     <string name="check_network">Проверьте состояние сети</string>
     <string name="server_error">Сервер не отвечает</string>
-    <string name="server_delay">Ответ сервера медленный</string>
+    <string name="server_delay">Медленный ответ сервера</string>
     <string name="not_support_video">Эта функция не поддерживается для данного видео.</string>
     <string name="control_bright">Управление яркостью</string>
     <string name="control_volume">Управление громкостью</string>
@@ -410,7 +410,7 @@
     <string name="share_app">Порекомендовать другу</string>
     <string name="extract">Извлечь</string>
     <string name="loading">Загрузка&#8230;</string>
-    <string name="waiting">Пожалуйста, подождите</string>
+    <string name="waiting">Ожидание&#8230;</string>
     <string name="repeat_on">Режим повтора включен</string>
     <string name="repeat_off">Режим повтора отключен</string>
     <string name="repeat_play">Повторить воспроизведение</string>
@@ -755,12 +755,12 @@
     <string name="js_block_page">Блокировать JavaScript на текущей странице</string>
     <string name="js_black">Черный список JavaScript</string>
     <string name="js_black_info">Вы можете добавить сайты, блокирующие JavaScript.</string>
-    <string name="theme_light">Свет</string>
-    <string name="theme_dark">Темный</string>
-    <string name="dark_home">Темный режим Главная</string>
+    <string name="theme_light">Светлый режим</string>
+    <string name="theme_dark">Темный режим</string>
+    <string name="dark_home">Темный режим для домашней страницы</string>
     <string name="dark_home_info">При установке обоев ваша домашняя страница всегда будет в темном режиме.</string>
     <string name="background">Фон</string>
-    <string name="dark_image">Темное изображение</string>
+    <string name="dark_image">Затемнение зображений</string>
     <string name="img_bright">Яркость изображения</string>
     <string name="img_brt_info">Применяется только тогда, когда веб-страница находится в темном режиме.</string>
     <string name="search_suggest">Предложения поиска</string>
