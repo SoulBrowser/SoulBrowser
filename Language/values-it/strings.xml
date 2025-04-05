@@ -185,7 +185,7 @@
     <string name="password_confirm">Vuoi salvare la password?</string>
     <string name="password_info">Memorizza separatamente le password della modalità normale e quelle della modalità in incognito.</string>
     <string name="password_button">Pulsante \'Gestione password\'</string>
-    <string name="password_lock_1">Per procedere, imposta il blocco schermo.</string>
+    <string name="password_lock_1">È necessaria l\'attivazione del blocco schermo.</string>
     <string name="password_lock_2">Si tratta di una misura di sicurezza per proteggere le tue password.</string>
     <string name="password_reset_guide">Il ripristino cancellerà tutti i dati, incluse le password.</string>
     <string name="login_lock">Blocco schermo</string>
