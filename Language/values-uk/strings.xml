@@ -131,7 +131,7 @@
     <string name="pop_block_info2">Блокувати при відкритті інших сайтів (включаючи рекламні)</string>
     <string name="pop_block_info3">Блокувати лише підозрілі рекламні вікна</string>
     <string name="app_block">Блокування запуску сторонніх застосунків</string>
-    <string name="app_site">Відкрити у браузері</string>
+    <string name="app_site">Відкривати у браузері</string>
     <string name="app_block_info1">Заборонити сайтам запускати інші застосунки.</string>
     <string name="app_block_info2">Відкривати сайт, якщо інформація про нього доступна.</string>
     <string name="app_block_noti">Застосунок заблоковано</string>
@@ -197,7 +197,7 @@
     <string name="show_single">Заголовок одним рядком</string>
     <string name="show_recent">Позначити останній файл</string>
     <string name="open_continue">Відкрити на попередній позиції</string>
-    <string name="pull_refresh">Оновлювати сторінку свайпом вниз</string>
+    <string name="pull_refresh">Оновлення сторінки свайпом вниз</string>
     <string name="refresh">Оновити</string>
     <string name="sort">Сортувати</string>
     <string name="group_by">Групувати</string>
@@ -236,12 +236,12 @@
     <string name="delete_cookie">Видалити файли cookie</string>
     <string name="screen_rotate">Орієнтація екрану</string>
     <string name="vol_scroll">Прокрутка сторінок за допомогою клавіш гучності</string>
-    <string name="double_back">Двічі натисніть кнопку «Назад», щоб вийти із застосунку</string>
+    <string name="double_back">Вихід із застосунку подвійним натисканням кнопки «Назад»</string>
     <string name="press_again">Натисніть ще раз, щоб вийти</string>
     <string name="last_noti">Повідомлення про останню сторінку</string>
     <string name="last_noti_info">При натисканні кнопки «Назад» на останній сторінці вкладки з\'явиться повідомлення.</string>
     <string name="last_page_noti">Це остання сторінка вкладки</string>
-    <string name="last_swipe">Закривати свайпом вкладку з останньої сторінки</string>
+    <string name="last_swipe">Закриття свайпом вкладки з останньої сторінки</string>
     <string name="last_exit">Поведінка кнопки «Назад» на останній сторінці</string>
     <string name="title">Заголовок</string>
     <string name="author">Автор</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Ім\'я файлу</string>
     <string name="real_name">Справжнє ім\'я</string>
     <string name="prefix">Префікс</string>
-    <string name="clean_mode">Web cleaner</string>
+    <string name="clean_mode">Блокування веб-реклами</string>
     <string name="site">Сайти</string>
     <string name="storage">Сховище</string>
     <string name="system_name">Система</string>
@@ -682,7 +682,7 @@
     <string name="delete_other_tab">Закрити інші вкладки</string>
     <string name="group_other_tab">Закрити інші вкладки у групі</string>
     <string name="mini_mode">Міні-режим</string>
-    <string name="home_close">Закрити всі вкладки при натисканні кнопки домашньої сторінки</string>
+    <string name="home_close">Закриття всіх вкладок при натисканні кнопки домашньої сторінки</string>
     <string name="reader_mode">Режим читання</string>
     <string name="reader_empty">На цій сторінці немає тексту</string>
     <string name="site_warning">Попередження про безпеку</string>
@@ -695,8 +695,8 @@
     <string name="prev_tab">Попередня вкладка</string>
     <string name="next_tab">Наступна вкладка</string>
     <string name="tts_highlight">Підсвічування читаємого тексту</string>
-    <string name="app_keyboard">Активувати клавіатуру при запуску застосунку</string>
-    <string name="tab_keyboard">Активувати клавіатуру при додаванні вкладки</string>
+    <string name="app_keyboard">Активація клавіатури при запуску застосунку</string>
+    <string name="tab_keyboard">Активація клавіатури при додаванні вкладки</string>
     <string name="swipe">Свайп</string>
     <string name="page_move">Перемістити сторінку</string>
     <string name="tab_move">Перемістити вкладку</string>
@@ -810,7 +810,7 @@
     <string name="always_block">Завжди блокувати</string>
     <string name="block_in_secret">Блокувати лише в режимі інкогніто</string>
     <string name="block_back">Блокувати лише у фоновому режимі</string>
-    <string name="only_https">Підключатися через HTTPS</string>
+    <string name="only_https">Підключення по HTTPS</string>
     <string name="only_https_info">Підключатися через протокол HTTPS.\nСайти, що не підтримують HTTPS, можуть не завантажитись.</string>
     <string name="http_warning">На HTTP-сайтах (не захищених сайтах) виконання неможливе.</string>
     <string name="page_home_info">При натисканні на іконку «Додому»</string>
