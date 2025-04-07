@@ -131,7 +131,7 @@
     <string name="pop_block_info2">Блокировать при открытии других сайтов (включая рекламные)</string>
     <string name="pop_block_info3">Блокировать только подозрительные рекламные окна</string>
     <string name="app_block">Блокировка запуска сторонних приложений</string>
-    <string name="app_site">Открыть в браузере</string>
+    <string name="app_site">Открывать в браузере</string>
     <string name="app_block_info1">Запретить сайтам запускать другие приложения.</string>
     <string name="app_block_info2">Открывать сайт, если информация о нем доступна.</string>
     <string name="app_block_noti">Приложение заблокировано</string>
@@ -197,7 +197,7 @@
     <string name="show_single">Заголовок в одну строку</string>
     <string name="show_recent">Отметить последний файл</string>
     <string name="open_continue">Открыть с предыдущей позиции</string>
-    <string name="pull_refresh">Обновлять страницу свайпом вниз</string>
+    <string name="pull_refresh">Обновление страницы свайпом вниз</string>
     <string name="refresh">Обновить</string>
     <string name="sort">Сортировать</string>
     <string name="group_by">Группировать</string>
@@ -236,12 +236,12 @@
     <string name="delete_cookie">Удалить файлы cookie</string>
     <string name="screen_rotate">Ориентация экрана</string>
     <string name="vol_scroll">Прокрутка страниц с помощью клавиш громкости</string>
-    <string name="double_back">Дважды нажмите кнопку «Назад», чтобы выйти из приложения</string>
+    <string name="double_back">Выход из приложения двойным нажатием кнопки «Назад»</string>
     <string name="press_again">Нажмите еще раз, чтобы выйти</string>
     <string name="last_noti">Уведомление о последней странице</string>
     <string name="last_noti_info">При нажатии кнопки «Назад» на последней странице вкладки, появится уведомление.</string>
     <string name="last_page_noti">Это последняя страница вкладки</string>
-    <string name="last_swipe">Закрывать свайпом вкладку с последней страницы</string>
+    <string name="last_swipe">Закрытие свайпом вкладки с последней страницы</string>
     <string name="last_exit">Поведение кнопки «Назад» на последней странице</string>
     <string name="title">Заголовок</string>
     <string name="author">Автор</string>
@@ -369,7 +369,7 @@
     <string name="now_delete">Выбрать элементы и удалить их прямо сейчас</string>
     <string name="exit_delete">Выбрать элементы для удаления при выходе из приложения</string>
     <string name="exit_guide">При закрытии приложения выбранные элементы будут удалены.</string>
-    <string name="exit_del_noti">Уведомление при удалении</string>
+    <string name="exit_del_noti">Уведомление об удалении</string>
     <string name="exit_noti_1">&#60; Очистка при выходе &#62;\nУдалено: %s.</string>
     <string name="exit_noti_2">&#60; Очистка при выходе &#62;\nУдалено: %s.</string>
     <string name="web_page">Веб-страница</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Имя файла</string>
     <string name="real_name">Настоящее имя</string>
     <string name="prefix">Префикс</string>
-    <string name="clean_mode">Веб-очиститель</string>
+    <string name="clean_mode">Блокировка веб-рекламы</string>
     <string name="site">Сайты</string>
     <string name="storage">Хранилище</string>
     <string name="system_name">Система</string>
@@ -682,7 +682,7 @@
     <string name="delete_other_tab">Закрыть другие вкладки</string>
     <string name="group_other_tab">Закрыть другие вкладки в группе</string>
     <string name="mini_mode">Мини-режим</string>
-    <string name="home_close">Закрыть все вкладки при нажатии кнопки домашней страницы</string>
+    <string name="home_close">Закрытие всех вкладок при нажатии кнопки домашней страницы</string>
     <string name="reader_mode">Режим чтения</string>
     <string name="reader_empty">На этой странице нет текста</string>
     <string name="site_warning">Предупреждение о безопасности</string>
@@ -695,8 +695,8 @@
     <string name="prev_tab">Предыдущая вкладка</string>
     <string name="next_tab">Следующая вкладка</string>
     <string name="tts_highlight">Подсветка читаемого текста</string>
-    <string name="app_keyboard">Активировать клавиатуру при запуске приложения</string>
-    <string name="tab_keyboard">Активировать клавиатуру при добавлении вкладки</string>
+    <string name="app_keyboard">Активация клавиатуры при запуске приложения</string>
+    <string name="tab_keyboard">Активация клавиатуры при добавлении вкладки</string>
     <string name="swipe">Свайп</string>
     <string name="page_move">Переместить страницу</string>
     <string name="tab_move">Переместить вкладку</string>
@@ -810,7 +810,7 @@
     <string name="always_block">Всегда блокировать</string>
     <string name="block_in_secret">Блокировать только в режиме инкогнито</string>
     <string name="block_back">Блокировать только в фоновом режиме</string>
-    <string name="only_https">Подключаться по HTTPS</string>
+    <string name="only_https">Подключение по HTTPS</string>
     <string name="only_https_info">По умолчанию подключаться по протоколу HTTPS.\nСайты, не поддерживающие HTTPS, могут не загрузиться.</string>
     <string name="http_warning">На HTTP-сайтах (не защищенных сайтах) выполнение невозможно.</string>
     <string name="page_home_info">При нажатии на на иконку «Домой»</string>
