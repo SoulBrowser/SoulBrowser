@@ -760,7 +760,7 @@
     <string name="dark_home">Темный режим для домашней страницы</string>
     <string name="dark_home_info">При установке обоев ваша домашняя страница всегда будет в темном режиме.</string>
     <string name="background">Фон</string>
-    <string name="dark_image">Затемнение зображений</string>
+    <string name="dark_image">Затемнение изображений</string>
     <string name="img_bright">Яркость изображения</string>
     <string name="img_brt_info">Применяется только тогда, когда веб-страница находится в темном режиме.</string>
     <string name="search_suggest">Предложения поиска</string>
