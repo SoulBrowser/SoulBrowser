@@ -619,9 +619,6 @@
     <string name="setted">Telah di atur.</string>
     <string name="no_down_video">Tidak ada video yang dapat diunduh.</string>
     <string name="video_link_1">Tautan video tidak ditemukan.</string>
-    <string name="trans_report">Laporkan kesalahan terjemahan</string>
-    <string name="trans_report_info">Tolong bantu terjemahkan. ❤</string>
-    <string name="trans_report_guide">[Terjemahan salah] &#62; [Terjemahan yang benar]</string>
     <string name="tts_mode">Teks pidato</string>
     <string name="tts_on">Aktifkan TTS</string>
     <string name="tts_info_1">Ketika Anda mengklik teks yang ditampilkan di browser, itu dibaca dengan suara.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Apakah Anda ingin memulai ulang aplikasi?</string>
     <string name="restart_title">Mulai ulang</string>
     <string name="block_area">Pemblokiran zona</string>
-    <string name="remove_area">Apakah Anda yakin ingin menghapus area yang dipilih?</string>
     <string name="remove_title">Menghapus</string>
     <string name="area_guide_1">Anda dapat memilih area yang ingin Anda hapus.</string>
     <string name="area_guide_2">Semua wilayah dengan properti yang sama dengan wilayah yang dipilih akan dihapus.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Hal ini karena properti area yang diblokir telah berubah.</string>
     <string name="area_filter_guide_3">Area periklanan biasanya mengubah properti dari waktu ke waktu.</string>
     <string name="area_filter_guide_4">Anda dapat memperbaiki masalah ini dengan mengedit filter.</string>
-    <string name="area_edit_guide_1">Semua properti dari area yang dipilih ditampilkan.</string>
-    <string name="area_edit_guide_2">Anda dapat membuat filter dengan kombinasi apa pun yang Anda inginkan.</string>
-    <string name="area_edit_guide_3">Jika Anda salah mengeditnya, pemblokir iklan Anda mungkin tidak berfungsi.</string>
-    <string name="area_edit_guide_4">Tapi tidak perlu khawatir.</string>
-    <string name="area_edit_guide_5">Anda dapat mengeditnya lagi kapan saja.</string>
-    <string name="area_edit_guide_6">Jangan ragu untuk mencobanya.</string>
     <string name="area_recom_1">Coba gunakan fitur \'%s\'.</string>
     <string name="area_recom_2">Fitur \'%s\' memungkinkan Anda memilih langsung apa yang ingin Anda blokir.</string>
     <string name="area_info_1">Ada lebih dari 1,5 miliar situs web di world wide web saat ini.</string>

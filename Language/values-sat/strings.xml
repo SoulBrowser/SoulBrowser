@@ -619,9 +619,6 @@
     <string name="setted">ᱫᱚ ᱵᱷᱮᱡᱟ ᱟᱠᱟᱱᱟ ᱾</string>
     <string name="no_down_video">ᱰᱟᱩᱱᱞᱚᱰ ᱞᱟᱹᱜᱤᱫ ᱵᱷᱤᱰᱤᱭᱳ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱾</string>
     <string name="video_link_1">ᱵᱷᱤᱰᱤᱭᱳ ᱞᱤᱸᱠ ᱵᱟᱝ ᱧᱟᱢ ᱟᱠᱟᱱᱟ ᱾</string>
-    <string name="trans_report">ᱛᱚᱨᱡᱚᱢᱟ ᱵᱷᱩᱞᱠᱚ ᱤᱛᱞᱟᱹᱭ ᱢᱮ</string>
-    <string name="trans_report_info">ᱫᱚᱭᱟᱠᱟᱛᱮ ᱛᱚᱨᱡᱚᱢᱟ ᱨᱮ ᱜᱚᱲᱚ ᱮᱢᱚᱜ ᱢᱮ ᱾ ❤</string>
-    <string name="trans_report_guide">[ᱵᱷᱩᱞ ᱛᱚᱨᱡᱚᱢᱟ] &gt; [ᱴᱷᱤᱠ ᱛᱚᱨᱡᱚᱢᱟ]</string>
     <string name="tts_mode">ᱚᱞ ᱠᱷᱚᱱ ᱨᱚᱲ</string>
     <string name="tts_on">TTS ᱮᱢᱪᱷᱚᱭ ᱢᱮ</string>
     <string name="tts_info_1">ᱡᱚᱠᱷᱚᱱ ᱟᱢ ᱵᱽᱨᱟᱣᱩᱡᱚᱨ ᱨᱮᱭᱟᱜ ᱚᱞ ᱨᱮ ᱚᱛᱟᱭ ᱟ, ᱱᱚᱶᱟ ᱟᱲᱟᱝ ᱛᱮ ᱯᱟᱲᱦᱟᱣ ᱦᱩᱭᱩᱜᱼᱟ ᱾</string>
@@ -771,7 +768,7 @@
     <string name="donation">ᱰᱳᱱᱮᱥᱚᱱ</string>
     <string name="inapp_ads">ᱤᱱ-ᱮᱯ ᱰᱷᱟᱶᱨᱟ</string>
     <string name="website_ads">ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱰᱷᱟᱶᱨᱟ</string>
-    <string name="greeting">ᱥᱟᱨᱦᱟᱣ</string>
+    <string name="greeting">ᱡᱚᱦᱟᱨ</string>
     <string name="remove_ads">ᱤᱱᱼᱟᱯ ᱰᱷᱟᱶᱨᱟ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ</string>
     <string name="remove_ads_info_1">ᱢᱤᱫ ᱡᱮᱠᱷᱟ ᱫᱚᱱᱚᱝ ᱮᱢ ᱞᱮᱠᱷᱟᱱ ᱤᱱᱼᱮᱯ ᱰᱷᱟᱶᱨᱟ ᱡᱟᱹᱣ ᱞᱟᱹᱜᱤ ᱛᱮ ᱚᱪᱚᱜᱽ ᱟ ᱾</string>
     <string name="remove_ads_info_2">ᱱᱚᱶᱟ ᱫᱚ ᱡᱩᱫᱤ ᱮᱠᱮᱱ ᱮᱠᱟᱶᱴ ᱨᱮᱜᱮ ᱯᱮᱨᱮᱡ ᱟᱠᱟᱱᱟ ᱮᱱᱠᱷᱟᱱ ᱜᱮ ᱴᱷᱤᱠ ᱠᱟᱱᱟ ᱾</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">ᱪᱮᱫ ᱟᱢ ᱮᱯ ᱫᱚᱦᱲᱟ ᱪᱟᱹᱞᱩ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ?</string>
     <string name="restart_title">ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ ᱢᱮ</string>
     <string name="block_area">ᱵᱞᱚᱠ ᱴᱚᱴᱷᱟ</string>
-    <string name="remove_area">ᱪᱮᱫ ᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱ ᱡᱟᱭᱜᱟ ᱚᱪᱚᱜ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ?</string>
     <string name="remove_title">ᱪᱟᱵᱟᱭ ᱢᱮ</string>
     <string name="area_guide_1">ᱟᱢ ᱚᱱᱟ ᱡᱟᱭᱜᱟ ᱵᱟᱪᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱡᱟᱦᱟᱸ ᱟᱢ ᱚᱪᱚᱜ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ᱾</string>
     <string name="area_guide_2">ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱ ᱴᱚᱴᱷᱟ ᱞᱮᱠᱟ ᱥᱚᱢᱟᱱ ᱜᱩᱱ ᱛᱟᱦᱮᱱ ᱥᱟᱱᱟᱢ ᱴᱚᱴᱷᱟ ᱚᱪᱚᱜᱚᱜᱼᱟ ᱾</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">ᱱᱚᱣᱟ ᱫᱚ ᱱᱚᱣᱟ ᱠᱷᱟᱹᱛᱤᱨ ᱜᱮ ᱡᱮ ᱵᱚᱱᱫᱚ ᱟᱠᱟᱱ ᱡᱟᱭᱜᱟ ᱨᱮᱭᱟᱜ ᱜᱩᱱ ᱠᱚ ᱵᱚᱫᱚᱞ ᱟᱠᱟᱱᱟ ᱾</string>
     <string name="area_filter_guide_3">ᱡᱟᱣᱞᱮᱠᱟᱛᱮ, ᱵᱤᱜᱽᱭᱟᱯᱚᱱ ᱴᱚᱴᱷᱟ ᱚᱠᱛᱚ ᱚᱠᱛᱚ ᱨᱮ ᱥᱚᱢᱯᱚᱛᱤ ᱠᱚ ᱵᱚᱫᱚᱞᱟ᱾</string>
     <string name="area_filter_guide_4">ᱟᱢ ᱯᱷᱤᱞᱴᱟᱨ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱠᱟᱛᱮ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱥᱚᱢᱵᱷᱚᱵᱚᱱ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾</string>
-    <string name="area_edit_guide_1">ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱ ᱴᱚᱴᱷᱟ ᱨᱮᱭᱟᱜ ᱡᱚᱛᱚ ᱜᱩᱱ ᱩᱫᱩᱜ ᱟᱠᱟᱱᱟ ᱾</string>
-    <string name="area_edit_guide_2">ᱟᱢ ᱡᱟᱦᱟᱱᱟᱜ ᱢᱤᱞᱟᱹᱣ ᱠᱟᱛᱮ ᱯᱷᱤᱞᱴᱟᱨ ᱵᱮᱱᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾</string>
-    <string name="area_edit_guide_3">ᱡᱩᱫᱤ ᱵᱷᱩᱞ ᱛᱮ ᱥᱟᱥᱟᱯᱲᱟᱣ ᱞᱮᱱᱠᱷᱟᱱ, ᱮᱰ ᱵᱞᱚᱠᱟᱨ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ᱾</string>
-    <string name="area_edit_guide_4">ᱢᱮᱱᱠᱷᱟᱱ ᱩᱰᱤ ᱵᱷᱟᱵᱽᱱᱟᱜ ᱞᱟᱹᱠᱛᱤ ᱵᱟᱹᱱᱩᱜᱼᱟ᱾</string>
-    <string name="area_edit_guide_5">ᱟᱢ ᱱᱚᱣᱟ ᱡᱟᱦᱟᱸ ᱚᱠᱛᱚ ᱨᱮᱜᱮ ᱫᱚᱦᱲᱟ ᱮᱰᱤᱴ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾</string>
-    <string name="area_edit_guide_6">ᱱᱚᱣᱟ ᱵᱤᱰᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱯᱷᱩᱨᱜᱟᱹᱞ ᱢᱚᱱᱮ ᱢᱮ᱾</string>
     <string name="area_recom_1">\'%s\' ᱯᱷᱟᱱᱥᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ᱾</string>
     <string name="area_recom_2">\'%s\' ᱯᱷᱤᱪᱟᱨ ᱫᱚ ᱟᱢ ᱥᱚᱡᱷᱮ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱮ ᱜᱚᱲᱚ ᱟᱢᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱵᱞᱚᱠ ᱥᱟᱱᱟᱭᱮᱫ ᱢᱮᱭᱟ᱾</string>
     <string name="area_info_1">ᱛᱮᱦᱮᱧ ᱣᱟᱨᱞᱰ ᱣᱟᱭᱤᱰ ᱣᱮᱵᱽ ᱨᱮ ᱑.᱕ ᱟᱨᱟᱵᱽ ᱠᱷᱚᱱ ᱦᱚᱸ ᱵᱟᱹᱲᱛᱤ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱢᱮᱱᱟᱜᱼᱟ ᱾</string>

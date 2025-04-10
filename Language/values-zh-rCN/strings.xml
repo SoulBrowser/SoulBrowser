@@ -619,9 +619,6 @@
     <string name="setted">已设置</string>
     <string name="no_down_video">没有可下载的视频</string>
     <string name="video_link_1">找不到视频链接</string>
-    <string name="trans_report">反馈翻译错误</string>
-    <string name="trans_report_info">请帮忙翻译 ❤</string>
-    <string name="trans_report_guide">[错误的翻译] &#62; [正确的翻译]</string>
     <string name="tts_mode">文字转语音</string>
     <string name="tts_on">启用文字转语音</string>
     <string name="tts_info_1">单击浏览器中显示的文本时，将通过语音读取</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">您想重新启动应用程序吗？</string>
     <string name="restart_title">重启</string>
     <string name="block_area">区域封锁</string>
-    <string name="remove_area">您确定要删除所选区域吗？</string>
     <string name="remove_title">消除</string>
     <string name="area_guide_1">您可以选择要删除的区域</string>
     <string name="area_guide_2">与所选区域具有相同属性的所有区域都将被删除</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">这是因为封锁区域的属性发生了变化</string>
     <string name="area_filter_guide_3">广告区域通常会不时改变属性</string>
     <string name="area_filter_guide_4">您可以通过编辑过滤器来解决该问题</string>
-    <string name="area_edit_guide_1">显示所选区域的所有属性</string>
-    <string name="area_edit_guide_2">您可以使用任何您想要的组合来创建过滤器</string>
-    <string name="area_edit_guide_3">如果编辑不正确，您的广告拦截器可能无法工作</string>
-    <string name="area_edit_guide_4">但无需担心</string>
-    <string name="area_edit_guide_5">您可以随时再次编辑它</string>
-    <string name="area_edit_guide_6">请随意尝试一下</string>
     <string name="area_recom_1">尝试使用\'%s\'功能</string>
     <string name="area_recom_2">\'%s\'功能允许您直接选择要阻止的内容</string>
     <string name="area_info_1">当今万维网上有超过 15 亿个网站</string>

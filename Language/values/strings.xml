@@ -619,9 +619,6 @@
     <string name="setted">Has been set.</string>
     <string name="no_down_video">There are no downloadable videos.</string>
     <string name="video_link_1">Video link not found.</string>
-    <string name="trans_report">Report translation errors</string>
-    <string name="trans_report_info">Please help translate. ❤</string>
-    <string name="trans_report_guide">[Incorrect translation] &#62; [Correct translation]</string>
     <string name="tts_mode">Text to Speech</string>
     <string name="tts_on">Enable TTS</string>
     <string name="tts_info_1">When you click the text displayed in the browser, it is read by voice.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Would you like to restart the app?</string>
     <string name="restart_title">Restart</string>
     <string name="block_area">Block area</string>
-    <string name="remove_area">Do you want to remove the selected area?</string>
     <string name="remove_title">Remove</string>
     <string name="area_guide_1">You can select the area you want to remove.</string>
     <string name="area_guide_2">All areas with the same properties as the selected area are removed.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">This is because the properties of the blocked area have changed.</string>
     <string name="area_filter_guide_3">Advertising areas typically change properties from time to time.</string>
     <string name="area_filter_guide_4">You can fix the problem by editing the filter.</string>
-    <string name="area_edit_guide_1">All properties of the selected area are displayed.</string>
-    <string name="area_edit_guide_2">You can create filters with any combination you want.</string>
-    <string name="area_edit_guide_3">If you edit it incorrectly, your ad blocker may not work.</string>
-    <string name="area_edit_guide_4">But no need to worry.</string>
-    <string name="area_edit_guide_5">You can edit it again at any time.</string>
-    <string name="area_edit_guide_6">Feel free to try it.</string>
     <string name="area_recom_1">Try using the \'%s\' feature.</string>
     <string name="area_recom_2">The \'%s\' feature allows you to directly select what you want to block.</string>
     <string name="area_info_1">There are over 1.5 billion websites on the world wide web today.</string>

@@ -410,7 +410,7 @@
     <string name="share_app">Порекомендувати другу</string>
     <string name="extract">Витягти</string>
     <string name="loading">Завантаження&#8230;</string>
-    <string name="waiting">Очікування&#8230;</string>
+    <string name="waiting">Будь ласка, зачекайте.</string>
     <string name="repeat_on">Режим повтору увімкнено</string>
     <string name="repeat_off">Режим повтору вимкнено</string>
     <string name="repeat_play">Повторити відтворення</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Ім\'я файлу</string>
     <string name="real_name">Справжнє ім\'я</string>
     <string name="prefix">Префікс</string>
-    <string name="clean_mode">Блокування веб-реклами</string>
+    <string name="clean_mode">Веб-очищувач</string>
     <string name="site">Сайти</string>
     <string name="storage">Сховище</string>
     <string name="system_name">Система</string>
@@ -619,9 +619,6 @@
     <string name="setted">Встановлено</string>
     <string name="no_down_video">Немає завантажуваних відео</string>
     <string name="video_link_1">Посилання на відео не знайдено</string>
-    <string name="trans_report">Повідомити про помилки перекладу</string>
-    <string name="trans_report_info">Допоможіть з перекладом. ❤</string>
-    <string name="trans_report_guide">[Некоректний переклад] &#62; [Правильний переклад]</string>
     <string name="tts_mode">Текст у голос</string>
     <string name="tts_on">Увімкнути TTS</string>
     <string name="tts_info_1">Натисніть на текст на сторінці, щоб прослухати його.</string>
@@ -755,8 +752,8 @@
     <string name="js_block_page">Блокувати JavaScript на поточній сторінці</string>
     <string name="js_black">Чорний список JavaScript</string>
     <string name="js_black_info">Ви можете додати сайти, які блокують JavaScript.</string>
-    <string name="theme_light">Світлий режим</string>
-    <string name="theme_dark">Темний режим</string>
+    <string name="theme_light">Світлий</string>
+    <string name="theme_dark">Темний</string>
     <string name="dark_home">Темний режим для домашньої сторінки</string>
     <string name="dark_home_info">Коли ви встановлюєте шпалери, ваша домашня сторінка завжди буде в темному режимі.</string>
     <string name="background">Фон</string>
@@ -771,7 +768,7 @@
     <string name="donation">Пожертвування</string>
     <string name="inapp_ads">Реклама в застосунку</string>
     <string name="website_ads">Реклама на сайті</string>
-    <string name="greeting">Привіт</string>
+    <string name="greeting">вітаю</string>
     <string name="remove_ads">Видалити рекламу в застосунку</string>
     <string name="remove_ads_info_1">Одноразовий платіж назавжди видаляє рекламу в застосунку.</string>
     <string name="remove_ads_info_2">Він завжди залишається дійсним, якщо для оплати використовується той же рахунок.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Ви впевнені, що хочете перезапустити застосунок?</string>
     <string name="restart_title">Перезапуск</string>
     <string name="block_area">Блокування області</string>
-    <string name="remove_area">Ви впевнені, що хочете видалити вибрану область?</string>
     <string name="remove_title">Видалити</string>
     <string name="area_guide_1">Ви можете вибрати область для видалення.</string>
     <string name="area_guide_2">Усі області з такими ж властивостями, як вибрана, будуть видалені.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Це пов\'язано з тим, що властивості заблокованої області змінилися.</string>
     <string name="area_filter_guide_3">Рекламні області часто змінюють свої властивості.</string>
     <string name="area_filter_guide_4">Проблему можна вирішити, відредагувавши фільтр.</string>
-    <string name="area_edit_guide_1">Відобразяться всі властивості вибраної області.</string>
-    <string name="area_edit_guide_2">Ви можете створювати фільтри з будь-якими комбінаціями.</string>
-    <string name="area_edit_guide_3">Якщо ви відредагуєте його неправильно, ваш блокувальник реклами може не працювати.</string>
-    <string name="area_edit_guide_4">Але не хвилюйтеся.</string>
-    <string name="area_edit_guide_5">Ви завжди зможете відредагувати його знову.</string>
-    <string name="area_edit_guide_6">Не соромтеся спробувати.</string>
     <string name="area_recom_1">Спробуйте використати функцію «%s».</string>
     <string name="area_recom_2">Функція «%s» дозволяє безпосередньо вибрати те, що ви хочете заблокувати.</string>
     <string name="area_info_1">Сьогодні у всесвітньому павутинні налічується понад 1.5 мільярда веб-сайтів.</string>

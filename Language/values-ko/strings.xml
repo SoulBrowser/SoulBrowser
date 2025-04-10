@@ -619,9 +619,6 @@
     <string name="setted">설정되었습니다.</string>
     <string name="no_down_video">다운로드 가능한 동영상이 없습니다.</string>
     <string name="video_link_1">비디오 링크를 찾을 수 없습니다.</string>
-    <string name="trans_report">번역 오류 신고</string>
-    <string name="trans_report_info">번역을 도와주세요. ❤</string>
-    <string name="trans_report_guide">[잘못된 번역] &#62; [올바른 번역]</string>
     <string name="tts_mode">텍스트 음성 지원</string>
     <string name="tts_on">TTS 사용</string>
     <string name="tts_info_1">브라우저에 표시된 문자를 클릭하면, 음성으로 읽어줍니다.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">앱을 다시 시작하시겠습니까?</string>
     <string name="restart_title">다시 시작</string>
     <string name="block_area">영역 차단</string>
-    <string name="remove_area">선택한 영역을 제거하시겠습니까?</string>
     <string name="remove_title">제거</string>
     <string name="area_guide_1">제거하려는 영역을 선택할 수 있습니다.</string>
     <string name="area_guide_2">선택한 영역과 동일한 속성을 가진 모든 영역이 제거됩니다.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">차단된 영역의 속성이 변경되었기 때문입니다.</string>
     <string name="area_filter_guide_3">일반적으로 광고 영역은 수시로 속성이 변경됩니다.</string>
     <string name="area_filter_guide_4">필터를 편집하여 문제를 해결할 수 있습니다.</string>
-    <string name="area_edit_guide_1">선택한 영역의 모든 속성이 표시됩니다.</string>
-    <string name="area_edit_guide_2">원하는 조합으로 필터를 만들 수 있습니다.</string>
-    <string name="area_edit_guide_3">잘못 편집하면 광고 차단기가 작동하지 않을 수 있습니다.</string>
-    <string name="area_edit_guide_4">하지만 걱정할 필요가 없습니다.</string>
-    <string name="area_edit_guide_5">언제든지 다시 편집할 수 있습니다.</string>
-    <string name="area_edit_guide_6">자유롭게 시도해 보세요.</string>
     <string name="area_recom_1">\'%s\' 기능을 사용해 보세요.</string>
     <string name="area_recom_2">\'%s\' 기능을 사용하면 차단하려는 대상을 직접 선택할 수 있습니다.</string>
     <string name="area_info_1">오늘날 월드 와이드 웹에는 15억 개가 넘는 웹사이트가 있습니다.</string>

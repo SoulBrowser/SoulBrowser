@@ -619,9 +619,6 @@
     <string name="setted">सेट कर दिया गया है।</string>
     <string name="no_down_video">कोई डाउनलोड करने योग्य वीडियो नहीं हैं।</string>
     <string name="video_link_1">वीडियो लिंक नहीं मिला.</string>
-    <string name="trans_report">अनुवाद त्रुटियों की रिपोर्ट करें</string>
-    <string name="trans_report_info">कृपया अनुवाद करने में सहायता करें। ❤</string>
-    <string name="trans_report_guide">[गलत अनुवाद] &#62; [सही अनुवाद]</string>
     <string name="tts_mode">लिखे हुए को बोलने में बदलना</string>
     <string name="tts_on">टीटीएस सक्षम करें</string>
     <string name="tts_info_1">जब आप ब्राउज़र में प्रदर्शित टेक्स्ट पर क्लिक करते हैं, तो वह ध्वनि द्वारा पढ़ा जाता है।</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">क्या आप ऐप को पुनः आरंभ करना चाहेंगे?</string>
     <string name="restart_title">पुनः आरंभ करें</string>
     <string name="block_area">ज़ोन अवरोधन</string>
-    <string name="remove_area">क्या आप वाकई चयनित क्षेत्र को हटाना चाहते हैं?</string>
     <string name="remove_title">निकालना</string>
     <string name="area_guide_1">आप वह क्षेत्र चुन सकते हैं जिसे आप हटाना चाहते हैं.</string>
     <string name="area_guide_2">चयनित क्षेत्र के समान गुणों वाले सभी क्षेत्र हटा दिए जाते हैं।</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">ऐसा इसलिए है क्योंकि अवरुद्ध क्षेत्र के गुण बदल गए हैं।</string>
     <string name="area_filter_guide_3">विज्ञापन क्षेत्र आमतौर पर समय-समय पर संपत्तियों में बदलाव करते हैं।</string>
     <string name="area_filter_guide_4">आप फ़िल्टर को संपादित करके समस्या को ठीक कर सकते हैं.</string>
-    <string name="area_edit_guide_1">चयनित क्षेत्र की सभी संपत्तियाँ प्रदर्शित की जाती हैं।</string>
-    <string name="area_edit_guide_2">आप अपने इच्छित किसी भी संयोजन से फ़िल्टर बना सकते हैं।</string>
-    <string name="area_edit_guide_3">यदि आप इसे गलत तरीके से संपादित करते हैं, तो आपका विज्ञापन अवरोधक काम नहीं कर सकता है।</string>
-    <string name="area_edit_guide_4">लेकिन चिंता करने की कोई जरूरत नहीं है.</string>
-    <string name="area_edit_guide_5">आप इसे किसी भी समय दोबारा संपादित कर सकते हैं.</string>
-    <string name="area_edit_guide_6">बेझिझक इसे आज़माएं।</string>
     <string name="area_recom_1">\'%s\' सुविधा का उपयोग करने का प्रयास करें।</string>
     <string name="area_recom_2">\'%s\' सुविधा आपको सीधे यह चुनने की अनुमति देती है कि आप क्या ब्लॉक करना चाहते हैं।</string>
     <string name="area_info_1">आज वर्ल्ड वाइड वेब पर 1.5 अरब से अधिक वेबसाइटें हैं।</string>

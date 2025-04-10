@@ -410,7 +410,7 @@
     <string name="share_app">Порекомендовать другу</string>
     <string name="extract">Извлечь</string>
     <string name="loading">Загрузка&#8230;</string>
-    <string name="waiting">Ожидание&#8230;</string>
+    <string name="waiting">Пожалуйста, подождите.</string>
     <string name="repeat_on">Режим повтора включен</string>
     <string name="repeat_off">Режим повтора отключен</string>
     <string name="repeat_play">Повторить воспроизведение</string>
@@ -423,7 +423,7 @@
     <string name="file_name">Имя файла</string>
     <string name="real_name">Настоящее имя</string>
     <string name="prefix">Префикс</string>
-    <string name="clean_mode">Блокировка веб-рекламы</string>
+    <string name="clean_mode">Веб-очиститель</string>
     <string name="site">Сайты</string>
     <string name="storage">Хранилище</string>
     <string name="system_name">Система</string>
@@ -619,9 +619,6 @@
     <string name="setted">Установлено</string>
     <string name="no_down_video">Нет загружаемых видео</string>
     <string name="video_link_1">Ссылка на видео не найдена</string>
-    <string name="trans_report">Сообщить об ошибках перевода</string>
-    <string name="trans_report_info">Помогите с переводом. ❤</string>
-    <string name="trans_report_guide">[Неверный перевод] &#62; [Правильный перевод]</string>
     <string name="tts_mode">Текст в речь</string>
     <string name="tts_on">Включить TTS</string>
     <string name="tts_info_1">Нажмите на текст на странице, чтобы прослушать его.</string>
@@ -755,8 +752,8 @@
     <string name="js_block_page">Блокировать JavaScript на текущей странице</string>
     <string name="js_black">Черный список JavaScript</string>
     <string name="js_black_info">Вы можете добавить сайты, блокирующие JavaScript.</string>
-    <string name="theme_light">Светлый режим</string>
-    <string name="theme_dark">Темный режим</string>
+    <string name="theme_light">Светлый</string>
+    <string name="theme_dark">Темный</string>
     <string name="dark_home">Темный режим для домашней страницы</string>
     <string name="dark_home_info">При установке обоев ваша домашняя страница всегда будет в темном режиме.</string>
     <string name="background">Фон</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Вы уверены, что хотите перезапустить приложение?</string>
     <string name="restart_title">Перезапуск</string>
     <string name="block_area">Блокировка области</string>
-    <string name="remove_area">Вы уверены, что хотите удалить выбранную область?</string>
     <string name="remove_title">Удалить</string>
     <string name="area_guide_1">Вы можете выбрать область для удаления.</string>
     <string name="area_guide_2">Все области с такими же свойствами как выбранная, будут удалены.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Это связано с тем, что свойства заблокированной области изменились.</string>
     <string name="area_filter_guide_3">Рекламные области часто изменяют свои свойства.</string>
     <string name="area_filter_guide_4">Проблему можно решить, отредактировав фильтр.</string>
-    <string name="area_edit_guide_1">Отобразятся все свойства выбранной области.</string>
-    <string name="area_edit_guide_2">Вы можете создать фильтры с любыми комбинациями.</string>
-    <string name="area_edit_guide_3">Если вы отредактируете его неправильно, ваш блокировщик рекламы может не работать.</string>
-    <string name="area_edit_guide_4">Но не переживайте.</string>
-    <string name="area_edit_guide_5">Вы всегда сможете отредактировать его снова.</string>
-    <string name="area_edit_guide_6">Не стесняйтесь попробовать.</string>
     <string name="area_recom_1">Попробуйте использовать функцию «%s».</string>
     <string name="area_recom_2">Функция «%s» позволяет напрямую выбрать то, что вы хотите заблокировать.</string>
     <string name="area_info_1">Сегодня во всемирной паутине насчитывается более 1.5 миллиардов веб-сайтов.</string>

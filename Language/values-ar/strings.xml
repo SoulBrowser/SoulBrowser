@@ -619,9 +619,6 @@
     <string name="setted">تم تعيينه.</string>
     <string name="no_down_video">لا توجد مقاطع فيديو قابلة للتنزيل.</string>
     <string name="video_link_1">رابط الفيديو غير موجود.</string>
-    <string name="trans_report">الإبلاغ عن أخطاء الترجمة</string>
-    <string name="trans_report_info">الرجاء مساعدتي في الترجمة. ❤</string>
-    <string name="trans_report_guide">[ترجمة غير صحيحة] > [الترجمة الصحيحة]</string>
     <string name="tts_mode">دعم تحويل النص إلى كلام</string>
     <string name="tts_on">استخدام تحويل النص إلى كلام</string>
     <string name="tts_info_1">عند النقر فوق حرف معروض في المتصفح ، تتم قراءته بصوت عالٍ.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">هل ترغب في إعادة تشغيل التطبيق؟</string>
     <string name="restart_title">إعادة تشغيل</string>
     <string name="block_area">حجب المنطقة</string>
-    <string name="remove_area">هل أنت متأكد أنك تريد إزالة المنطقة المحددة؟</string>
     <string name="remove_title">يزيل</string>
     <string name="area_guide_1">يمكنك تحديد المنطقة التي تريد إزالتها.</string>
     <string name="area_guide_2">تتم إزالة كافة المناطق التي لها نفس خصائص المنطقة المحددة.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">وذلك لأن خصائص المنطقة المحجوبة قد تغيرت.</string>
     <string name="area_filter_guide_3">عادةً ما تغير المناطق الإعلانية خصائصها من وقت لآخر.</string>
     <string name="area_filter_guide_4">يمكنك حل المشكلة عن طريق تحرير عامل التصفية.</string>
-    <string name="area_edit_guide_1">يتم عرض كافة خصائص المنطقة المحددة.</string>
-    <string name="area_edit_guide_2">يمكنك إنشاء مرشحات بأي مجموعة تريدها.</string>
-    <string name="area_edit_guide_3">إذا قمت بتحريره بشكل غير صحيح، فقد لا يعمل مانع الإعلانات الخاص بك.</string>
-    <string name="area_edit_guide_4">ولكن لا داعي للقلق.</string>
-    <string name="area_edit_guide_5">ويمكنك تعديله مرة أخرى في أي وقت.</string>
-    <string name="area_edit_guide_6">لا تتردد في محاولة ذلك.</string>
     <string name="area_recom_1">حاول استخدام ميزة \'%s\'.</string>
     <string name="area_recom_2">تتيح لك ميزة \'%s\' تحديد ما تريد حظره مباشرة.</string>
     <string name="area_info_1">هناك أكثر من 1.5 مليار موقع على شبكة الإنترنت العالمية اليوم.</string>

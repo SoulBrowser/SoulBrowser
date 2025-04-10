@@ -619,9 +619,6 @@
     <string name="setted">Đã được thiết lập.</string>
     <string name="no_down_video">Không có video tải về.</string>
     <string name="video_link_1">Không tìm thấy liên kết video.</string>
-    <string name="trans_report">Báo cáo lỗi dịch</string>
-    <string name="trans_report_info">Xin hãy giúp dịch. ❤</string>
-    <string name="trans_report_guide">[Bản dịch sai] &#62; [Bản dịch chính xác]</string>
     <string name="tts_mode">Chuyển văn bản thành giọng nói</string>
     <string name="tts_on">Kích hoạt TTS</string>
     <string name="tts_info_1">Khi bạn bấm vào văn bản được hiển thị trong trình duyệt, nó được đọc bằng giọng nói.</string>
@@ -771,7 +768,7 @@
     <string name="donation">Quyên góp</string>
     <string name="inapp_ads">Quảng cáo trong ứng dụng</string>
     <string name="website_ads">Quảng cáo trang web</string>
-    <string name="greeting">Lời chào hỏi</string>
+    <string name="greeting">Xin chào</string>
     <string name="remove_ads">Xóa quảng cáo trong ứng dụng</string>
     <string name="remove_ads_info_1">Một lần thanh toán sẽ xóa quảng cáo trong ứng dụng vĩnh viễn.</string>
     <string name="remove_ads_info_2">Nó luôn hợp lệ nếu tài khoản được sử dụng để thanh toán giống nhau.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Bạn có muốn khởi động lại ứng dụng không?</string>
     <string name="restart_title">Khởi động lại</string>
     <string name="block_area">Chặn vùng</string>
-    <string name="remove_area">Bạn có chắc chắn muốn xóa vùng đã chọn không?</string>
     <string name="remove_title">Di dời</string>
     <string name="area_guide_1">Bạn có thể chọn khu vực bạn muốn loại bỏ.</string>
     <string name="area_guide_2">Tất cả các vùng có cùng thuộc tính với vùng đã chọn sẽ bị xóa.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Điều này là do các thuộc tính của khu vực bị chặn đã thay đổi.</string>
     <string name="area_filter_guide_3">Các khu vực quảng cáo thường thay đổi thuộc tính theo thời gian.</string>
     <string name="area_filter_guide_4">Bạn có thể khắc phục sự cố bằng cách chỉnh sửa bộ lọc.</string>
-    <string name="area_edit_guide_1">Tất cả các thuộc tính của vùng được chọn sẽ được hiển thị.</string>
-    <string name="area_edit_guide_2">Bạn có thể tạo bộ lọc với bất kỳ sự kết hợp nào bạn muốn.</string>
-    <string name="area_edit_guide_3">Nếu bạn chỉnh sửa không chính xác, trình chặn quảng cáo của bạn có thể không hoạt động.</string>
-    <string name="area_edit_guide_4">Nhưng không cần phải lo lắng.</string>
-    <string name="area_edit_guide_5">Bạn có thể chỉnh sửa lại bất cứ lúc nào.</string>
-    <string name="area_edit_guide_6">Hãy thử nó.</string>
     <string name="area_recom_1">Hãy thử sử dụng tính năng \'%s\'.</string>
     <string name="area_recom_2">Tính năng \'%s\' cho phép bạn trực tiếp chọn những gì bạn muốn chặn.</string>
     <string name="area_info_1">Hiện nay có hơn 1,5 tỷ trang web trên mạng toàn cầu.</string>

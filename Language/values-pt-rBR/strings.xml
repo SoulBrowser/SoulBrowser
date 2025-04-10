@@ -619,9 +619,6 @@
     <string name="setted">Definição realizada.</string>
     <string name="no_down_video">Não há vídeos para download.</string>
     <string name="video_link_1">Link do vídeo não encontrado.</string>
-    <string name="trans_report">Relatar erros de tradução</string>
-    <string name="trans_report_info">Por favor, ajude a traduzir. ❤</string>
-    <string name="trans_report_guide">[Tradução incorreta] &#62; [Tradução correta]</string>
     <string name="tts_mode">Texto Para Voz</string>
     <string name="tts_on">Ativar TTS</string>
     <string name="tts_info_1">Quando você clica no texto exibido no navegador, ele é lido em voz alta.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Deseja reiniciar o aplicativo?</string>
     <string name="restart_title">Reiniciar</string>
     <string name="block_area">Bloqueio de zona</string>
-    <string name="remove_area">Tem certeza de que deseja remover a área selecionada?</string>
     <string name="remove_title">Remover</string>
     <string name="area_guide_1">Você pode selecionar a área que deseja remover.</string>
     <string name="area_guide_2">Todas as regiões com as mesmas propriedades da região selecionada são removidas.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Isso ocorre porque as propriedades da área bloqueada foram alteradas.</string>
     <string name="area_filter_guide_3">As áreas de publicidade normalmente mudam de propriedade de tempos em tempos.</string>
     <string name="area_filter_guide_4">Você pode corrigir o problema editando o filtro.</string>
-    <string name="area_edit_guide_1">Todas as propriedades da área selecionada são exibidas.</string>
-    <string name="area_edit_guide_2">Você pode criar filtros com qualquer combinação que desejar.</string>
-    <string name="area_edit_guide_3">Se você editá-lo incorretamente, seu bloqueador de anúncios poderá não funcionar.</string>
-    <string name="area_edit_guide_4">Mas não precisa se preocupar.</string>
-    <string name="area_edit_guide_5">Você pode editá-lo novamente a qualquer momento.</string>
-    <string name="area_edit_guide_6">Sinta-se à vontade para experimentar.</string>
     <string name="area_recom_1">Tente usar o recurso \'%s\'.</string>
     <string name="area_recom_2">O recurso \'%s\' permite selecionar diretamente o que deseja bloquear.</string>
     <string name="area_info_1">Existem mais de 1,5 bilhão de sites na rede mundial de computadores hoje.</string>

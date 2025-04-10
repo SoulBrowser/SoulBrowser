@@ -619,9 +619,6 @@
     <string name="setted">Impostazioni salvate.</string>
     <string name="no_down_video">Non ci sono video scaricabili.</string>
     <string name="video_link_1">Collegamento video non trovato.</string>
-    <string name="trans_report">Segnala errori di traduzione</string>
-    <string name="trans_report_info">Per favore aiutaci a tradurre. ❤</string>
-    <string name="trans_report_guide">[Traduzione errata] &#62; [Traduzione corretta]</string>
     <string name="tts_mode">Sintesi vocale</string>
     <string name="tts_on">Abilita TTS (Text-to-Speech)</string>
     <string name="tts_info_1">Tocca un paragrafo sulla pagina per farlo leggere dalla voce di sistema.</string>
@@ -771,7 +768,7 @@
     <string name="donation">Donazione</string>
     <string name="inapp_ads">Annunci in-app</string>
     <string name="website_ads">Pubblicità sul Web</string>
-    <string name="greeting">Ringraziamenti</string>
+    <string name="greeting">Saluti</string>
     <string name="remove_ads">Rimuovi gli annunci in-app</string>
     <string name="remove_ads_info_1">Un pagamento rimuoverà per sempre gli annunci in-app.</string>
     <string name="remove_ads_info_2">È sempre valido (senza scadenza) e vale per più dispositivi, se sono connessi allo stesso account Google.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Vuoi riavviare l\'app?</string>
     <string name="restart_title">Ricomincia</string>
     <string name="block_area">Blocco elementi</string>
-    <string name="remove_area">Vuoi davvero rimuovere l\'area selezionata?</string>
     <string name="remove_title">Crea filtro</string>
     <string name="area_guide_1">Seleziona l\'area che desideri rimuovere.</string>
     <string name="area_guide_2">Tutti gli elementi con le stesse proprietà di quello selezionato saranno rimossi.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Potrebbe accadere ad esempio se le proprietà dell\'area bloccata cambiano.</string>
     <string name="area_filter_guide_3">Le aree pubblicitarie tendono a cambiare proprietà di tanto in tanto.</string>
     <string name="area_filter_guide_4">Puoi risolvere il problema modificando il filtro.</string>
-    <string name="area_edit_guide_1">Sono visualizzate tutte le proprietà dell\'area selezionata.</string>
-    <string name="area_edit_guide_2">Puoi creare filtri con qualsiasi combinazione di regole.</string>
-    <string name="area_edit_guide_3">Se lo modifichi in modo errato, il blocco pubblicità potrebbe non funzionare.</string>
-    <string name="area_edit_guide_4">Ma niente paura!</string>
-    <string name="area_edit_guide_5">Puoi modificarlo nuovamente in qualsiasi momento e tutte le volte che vuoi.</string>
-    <string name="area_edit_guide_6">Fai tutte le prove che desideri.</string>
     <string name="area_recom_1">Prova a utilizzare la funzione \'%s\'.</string>
     <string name="area_recom_2">La funzione \'%s\' ti consente di selezionare direttamente ciò che desideri bloccare.</string>
     <string name="area_info_1">Oggi sul Web sono presenti oltre 1,5 miliardi di siti.</string>

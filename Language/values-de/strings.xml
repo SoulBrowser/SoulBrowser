@@ -619,9 +619,6 @@
     <string name="setted">Wurde festgelegt.</string>
     <string name="no_down_video">Es gibt keine herunterladbaren Videos.</string>
     <string name="video_link_1">Videolink nicht gefunden.</string>
-    <string name="trans_report">Übersetzungsfehler melden</string>
-    <string name="trans_report_info">Bitte helfen Sie beim Übersetzen. ❤</string>
-    <string name="trans_report_guide">[Falsche Übersetzung] &#62; [Korrekte Übersetzung]</string>
     <string name="tts_mode">Text to Speech</string>
     <string name="tts_on">TTS aktivieren</string>
     <string name="tts_info_1">Wenn Sie auf den im Browser angezeigten Text klicken, wird er per Spracheingabe gelesen.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Möchten Sie die App neu starten?</string>
     <string name="restart_title">Neustart</string>
     <string name="block_area">Zonenblockierung</string>
-    <string name="remove_area">Möchten Sie den ausgewählten Bereich wirklich entfernen?</string>
     <string name="remove_title">Entfernen</string>
     <string name="area_guide_1">Sie können den Bereich auswählen, den Sie entfernen möchten.</string>
     <string name="area_guide_2">Alle Regionen mit denselben Eigenschaften wie die ausgewählte Region werden entfernt.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Dies liegt daran, dass sich die Eigenschaften des gesperrten Bereichs geändert haben.</string>
     <string name="area_filter_guide_3">Werbeflächen ändern in der Regel von Zeit zu Zeit ihre Eigenschaften.</string>
     <string name="area_filter_guide_4">Sie können das Problem beheben, indem Sie den Filter bearbeiten.</string>
-    <string name="area_edit_guide_1">Alle Eigenschaften des ausgewählten Bereichs werden angezeigt.</string>
-    <string name="area_edit_guide_2">Sie können Filter mit jeder gewünschten Kombination erstellen.</string>
-    <string name="area_edit_guide_3">Wenn Sie es falsch bearbeiten, funktioniert Ihr Werbeblocker möglicherweise nicht.</string>
-    <string name="area_edit_guide_4">Aber kein Grund zur Sorge.</string>
-    <string name="area_edit_guide_5">Sie können es jederzeit wieder bearbeiten.</string>
-    <string name="area_edit_guide_6">Probieren Sie es gerne aus.</string>
     <string name="area_recom_1">Versuchen Sie es mit der Funktion \'%s\'.</string>
     <string name="area_recom_2">Mit der Funktion \'%s\' können Sie direkt auswählen, was Sie blockieren möchten.</string>
     <string name="area_info_1">Heutzutage gibt es im World Wide Web über 1,5 Milliarden Websites.</string>

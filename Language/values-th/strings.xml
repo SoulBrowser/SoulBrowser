@@ -619,9 +619,6 @@
     <string name="setted">ได้มีการตั้งค่า</string>
     <string name="no_down_video">ไม่มีวิดีโอที่สามารถดาวน์โหลดได้</string>
     <string name="video_link_1">ไม่พบลิงค์วิดีโอ</string>
-    <string name="trans_report">รายงานข้อผิดพลาดการแปล</string>
-    <string name="trans_report_info">โปรดช่วยแปล ❤</string>
-    <string name="trans_report_guide">[แปลไม่ถูกต้อง] &#62; [แปลถูกต้อง]</string>
     <string name="tts_mode">ข้อความเป็นคำพูด</string>
     <string name="tts_on">เปิดใช้งาน TTS</string>
     <string name="tts_info_1">เมื่อคุณคลิกข้อความที่แสดงในเบราว์เซอร์จะถูกอ่านด้วยเสียง</string>
@@ -771,7 +768,7 @@
     <string name="donation">การบริจาค</string>
     <string name="inapp_ads">โฆษณาในแอป</string>
     <string name="website_ads">โฆษณาบนเว็บไซต์</string>
-    <string name="greeting">ทักทาย</string>
+    <string name="greeting">สวัสดี</string>
     <string name="remove_ads">ลบโฆษณาในแอป</string>
     <string name="remove_ads_info_1">การชำระเงินครั้งเดียวจะลบโฆษณาในแอปตลอดไป</string>
     <string name="remove_ads_info_2">จะใช้ได้เสมอหากบัญชีที่ใช้ในการชำระเงินเหมือนกัน</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">คุณต้องการรีสตาร์ทแอปหรือไม่</string>
     <string name="restart_title">เริ่มใหม่อีกครั้ง</string>
     <string name="block_area">การปิดกั้นโซน</string>
-    <string name="remove_area">คุณแน่ใจหรือไม่ว่าต้องการลบพื้นที่ที่เลือก</string>
     <string name="remove_title">ลบ</string>
     <string name="area_guide_1">คุณสามารถเลือกพื้นที่ที่คุณต้องการลบ</string>
     <string name="area_guide_2">ภูมิภาคทั้งหมดที่มีคุณสมบัติเดียวกันกับภูมิภาคที่เลือกจะถูกลบออก</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">เนื่องจากคุณสมบัติของพื้นที่ที่ถูกบล็อกมีการเปลี่ยนแปลง</string>
     <string name="area_filter_guide_3">พื้นที่โฆษณามักจะเปลี่ยนแปลงคุณสมบัติเป็นครั้งคราว</string>
     <string name="area_filter_guide_4">คุณแก้ไขปัญหาได้โดยแก้ไขตัวกรอง</string>
-    <string name="area_edit_guide_1">คุณสมบัติทั้งหมดของพื้นที่ที่เลือกจะปรากฏขึ้น</string>
-    <string name="area_edit_guide_2">คุณสามารถสร้างตัวกรองด้วยชุดค่าผสมใดก็ได้ที่คุณต้องการ</string>
-    <string name="area_edit_guide_3">หากคุณแก้ไขไม่ถูกต้อง ตัวบล็อกโฆษณาของคุณอาจไม่ทำงาน</string>
-    <string name="area_edit_guide_4">แต่ไม่ต้องกังวล</string>
-    <string name="area_edit_guide_5">คุณสามารถแก้ไขได้อีกครั้งเมื่อใดก็ได้</string>
-    <string name="area_edit_guide_6">รู้สึกอิสระที่จะลอง</string>
     <string name="area_recom_1">ลองใช้คุณสมบัติ \'%s\'</string>
     <string name="area_recom_2">คุณสมบัติ \'%s\' ช่วยให้คุณสามารถเลือกสิ่งที่คุณต้องการบล็อกได้โดยตรง</string>
     <string name="area_info_1">ปัจจุบันมีเว็บไซต์มากกว่า 1.5 พันล้านเว็บไซต์บนเวิลด์ไวด์เว็บ</string>

@@ -619,9 +619,6 @@
     <string name="setted">已設定</string>
     <string name="no_down_video">沒有可下載的影片</string>
     <string name="video_link_1">找不到視頻鏈接</string>
-    <string name="trans_report">回報錯誤翻譯</string>
-    <string name="trans_report_info">請幫忙翻譯 ❤</string>
-    <string name="trans_report_guide">[錯誤的翻譯] &#62; [正確的翻譯]</string>
     <string name="tts_mode">文字轉語音</string>
     <string name="tts_on">啟用 TTS</string>
     <string name="tts_info_1">單擊瀏覽器中顯示的文字時，透過語音朗讀</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">您想重新啟動應用程式嗎？</string>
     <string name="restart_title">重新啟動</string>
     <string name="block_area">區域封鎖</string>
-    <string name="remove_area">您確定要刪除所選區域嗎？</string>
     <string name="remove_title">消除</string>
     <string name="area_guide_1">您可以選擇要刪除的區域</string>
     <string name="area_guide_2">與所選區域具有相同屬性的所有區域都將被刪除</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">這是因為封鎖區域的屬性發生了變化</string>
     <string name="area_filter_guide_3">廣告區域通常會不時改變屬性</string>
     <string name="area_filter_guide_4">您可以透過編輯過濾器來解決該問題</string>
-    <string name="area_edit_guide_1">顯示所選區域的所有屬性</string>
-    <string name="area_edit_guide_2">您可以使用任何您想要的組合來建立過濾器</string>
-    <string name="area_edit_guide_3">如果編輯不正確，您的廣告攔截器可能無法運作</string>
-    <string name="area_edit_guide_4">但無需擔心</string>
-    <string name="area_edit_guide_5">您可以隨時再次編輯它</string>
-    <string name="area_edit_guide_6">請隨意嘗試</string>
     <string name="area_recom_1">嘗試使用\'%s\'功能</string>
     <string name="area_recom_2">\'%s\'功能可讓您直接選擇要封鎖的內容</string>
     <string name="area_info_1">現今萬維網上有超過 15 億個網站</string>

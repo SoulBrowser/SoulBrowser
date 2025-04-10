@@ -619,9 +619,6 @@
     <string name="setted">A fost setat.</string>
     <string name="no_down_video">Nu există videoclipuri descărcabile.</string>
     <string name="video_link_1">Link video nu a fost găsit.</string>
-    <string name="trans_report">Raportați erori de traducere</string>
-    <string name="trans_report_info">Vă rugăm să ajutați la traducere. ❤</string>
-    <string name="trans_report_guide">[Traducere incorectă] &#62; [Traducere corectă]</string>
     <string name="tts_mode">Text la vorbire</string>
     <string name="tts_on">Activați TTS</string>
     <string name="tts_info_1">Când faceți clic pe textul afișat în browser, acesta este citit prin voce.</string>
@@ -771,7 +768,7 @@
     <string name="donation">Donare</string>
     <string name="inapp_ads">Anunțuri în aplicație</string>
     <string name="website_ads">Reclame pe site</string>
-    <string name="greeting">Salutari</string>
+    <string name="greeting">Salutări</string>
     <string name="remove_ads">Eliminați anunțurile în aplicație</string>
     <string name="remove_ads_info_1">O singură plată va elimina definitiv anunțurile în aplicație.</string>
     <string name="remove_ads_info_2">Este întotdeauna valabil dacă contul utilizat pentru plată este același.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Doriți să reporniți aplicația?</string>
     <string name="restart_title">Repornire</string>
     <string name="block_area">Blocarea zonei</string>
-    <string name="remove_area">Sigur doriți să eliminați zona selectată?</string>
     <string name="remove_title">Elimina</string>
     <string name="area_guide_1">Puteți selecta zona pe care doriți să o eliminați.</string>
     <string name="area_guide_2">Toate regiunile cu aceleași proprietăți ca și regiunea selectată sunt eliminate.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Acest lucru se datorează faptului că proprietățile zonei blocate s-au schimbat.</string>
     <string name="area_filter_guide_3">Zonele de publicitate își schimbă de obicei proprietăți din când în când.</string>
     <string name="area_filter_guide_4">Puteți rezolva problema editând filtrul.</string>
-    <string name="area_edit_guide_1">Sunt afișate toate proprietățile zonei selectate.</string>
-    <string name="area_edit_guide_2">Puteți crea filtre cu orice combinație doriți.</string>
-    <string name="area_edit_guide_3">Dacă îl editați incorect, este posibil ca dispozitivul de blocare a anunțurilor să nu funcționeze.</string>
-    <string name="area_edit_guide_4">Dar nu trebuie să vă faceți griji.</string>
-    <string name="area_edit_guide_5">Îl puteți edita din nou oricând.</string>
-    <string name="area_edit_guide_6">Simțiți-vă liber să-l încercați.</string>
     <string name="area_recom_1">Încercați să utilizați funcția \'%s\'.</string>
     <string name="area_recom_2">Funcția \'%s\' vă permite să selectați direct ceea ce doriți să blocați.</string>
     <string name="area_info_1">Există peste 1,5 miliarde de site-uri web astăzi pe world wide web.</string>

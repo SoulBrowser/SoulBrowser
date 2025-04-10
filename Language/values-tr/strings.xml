@@ -619,9 +619,6 @@
     <string name="setted">Ayarlandı.</string>
     <string name="no_down_video">İndirilebilir video yok.</string>
     <string name="video_link_1">Video bağlantısı bulunamadı.</string>
-    <string name="trans_report">Çeviri hatalarını bildirin</string>
-    <string name="trans_report_info">Lütfen çeviriye yardım edin. ❤</string>
-    <string name="trans_report_guide">[Yanlış çeviri] &#62; [Doğru çeviri]</string>
     <string name="tts_mode">Sesli Metin Okuma</string>
     <string name="tts_on">TTS\'yi etkinleştir</string>
     <string name="tts_info_1">Tarayıcıda görüntülenen metni tıklattığınızda, sesli olarak okunur.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Uygulamayı yeniden başlatmak ister misiniz?</string>
     <string name="restart_title">Tekrar başlat</string>
     <string name="block_area">Bölge engelleme</string>
-    <string name="remove_area">Seçilen alanı kaldırmak istediğinizden emin misiniz?</string>
     <string name="remove_title">Kaldırmak</string>
     <string name="area_guide_1">Kaldırmak istediğiniz alanı seçebilirsiniz.</string>
     <string name="area_guide_2">Seçilen bölgeyle aynı özelliklere sahip tüm bölgeler kaldırılır.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Bunun nedeni engellenen alanın özelliklerinin değişmesidir.</string>
     <string name="area_filter_guide_3">Genel olarak reklam alanları sıklıkla özellik değiştirmektedir.</string>
     <string name="area_filter_guide_4">Filtreyi düzenleyerek sorunu çözebilirsiniz.</string>
-    <string name="area_edit_guide_1">Seçilen alanın tüm özellikleri görüntülenir.</string>
-    <string name="area_edit_guide_2">İstediğiniz kombinasyonla filtreler oluşturabilirsiniz.</string>
-    <string name="area_edit_guide_3">Yanlış düzenlerseniz reklam engelleyiciniz çalışmayabilir.</string>
-    <string name="area_edit_guide_4">Ama endişelenmenize gerek yok.</string>
-    <string name="area_edit_guide_5">İstediğiniz zaman tekrar düzenleyebilirsiniz.</string>
-    <string name="area_edit_guide_6">Denemekten çekinmeyin.</string>
     <string name="area_recom_1">\'%s\' özelliğini kullanmayı deneyin.</string>
     <string name="area_recom_2">\'%s\' özelliği, engellemek istediğiniz şeyi doğrudan seçmenize olanak tanır.</string>
     <string name="area_info_1">Bugün dünya çapında ağda 1,5 milyardan fazla web sitesi var.</string>

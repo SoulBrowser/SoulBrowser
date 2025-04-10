@@ -619,9 +619,6 @@
     <string name="setted">Effectué.</string>
     <string name="no_down_video">Il n\'y a pas de vidéos téléchargeables.</string>
     <string name="video_link_1">Lien vidéo introuvable.</string>
-    <string name="trans_report">Signaler des erreurs de traduction</string>
-    <string name="trans_report_info">Aidez-nous à traduire. ❤</string>
-    <string name="trans_report_guide">[Traduction incorrecte] &#62; [Traduction correcte]</string>
     <string name="tts_mode">Texte pour parler</string>
     <string name="tts_on">Activer TTS</string>
     <string name="tts_info_1">Lorsque vous cliquez sur le texte affiché dans le navigateur, il est lu par la voix.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Souhaitez-vous redémarrer l\'application ?</string>
     <string name="restart_title">Redémarrage</string>
     <string name="block_area">Blocage de zones</string>
-    <string name="remove_area">Êtes-vous sûr de vouloir supprimer la zone sélectionnée ?</string>
     <string name="remove_title">Retirer</string>
     <string name="area_guide_1">Vous pouvez sélectionner la zone que vous souhaitez supprimer.</string>
     <string name="area_guide_2">Toutes les régions ayant les mêmes propriétés que la région sélectionnée sont supprimées.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Cela est dû au fait que les propriétés de la zone bloquée ont changé.</string>
     <string name="area_filter_guide_3">Les zones publicitaires changent généralement de propriétés de temps en temps.</string>
     <string name="area_filter_guide_4">Vous pouvez résoudre le problème en modifiant le filtre.</string>
-    <string name="area_edit_guide_1">Toutes les propriétés de la zone sélectionnée sont affichées.</string>
-    <string name="area_edit_guide_2">Vous pouvez créer des filtres avec n\'importe quelle combinaison de votre choix.</string>
-    <string name="area_edit_guide_3">Si vous le modifiez incorrectement, votre bloqueur de publicités risque de ne pas fonctionner.</string>
-    <string name="area_edit_guide_4">Mais ne vous inquiétez pas.</string>
-    <string name="area_edit_guide_5">Vous pouvez le modifier à nouveau à tout moment.</string>
-    <string name="area_edit_guide_6">N\'hésitez pas à l\'essayer.</string>
     <string name="area_recom_1">Essayez d\'utiliser la fonction \'%s\'.</string>
     <string name="area_recom_2">La fonctionnalité \'%s\' vous permet de sélectionner directement ce que vous souhaitez bloquer.</string>
     <string name="area_info_1">Il existe aujourd’hui plus de 1,5 milliard de sites Web sur le Web.</string>

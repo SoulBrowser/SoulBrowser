@@ -619,9 +619,6 @@
     <string name="setted">Ustawiono.</string>
     <string name="no_down_video">Brak filmów do pobrania.</string>
     <string name="video_link_1">Nie znaleziono łącza wideo.</string>
-    <string name="trans_report">Zgłoś błędy w tłumaczeniu</string>
-    <string name="trans_report_info">Proszę pomóż przetłumaczyć. ❤</string>
-    <string name="trans_report_guide">[Niepoprawne tłumaczenie] &#62; [Poprawne tłumaczenie]</string>
     <string name="tts_mode">Tekst na mowę</string>
     <string name="tts_on">Włącz TTS</string>
     <string name="tts_info_1">Po kliknięciu tekstu wyświetlanego w przeglądarce jest on odczytywany głosem.</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Czy chcesz ponownie uruchomić aplikację?</string>
     <string name="restart_title">Uruchom ponownie</string>
     <string name="block_area">Blokowanie strefy</string>
-    <string name="remove_area">Czy na pewno chcesz usunąć zaznaczony obszar?</string>
     <string name="remove_title">Usunąć</string>
     <string name="area_guide_1">Możesz wybrać obszar, który chcesz usunąć.</string>
     <string name="area_guide_2">Wszystkie regiony o takich samych właściwościach jak wybrany region zostaną usunięte.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Dzieje się tak, ponieważ zmieniły się właściwości zablokowanego obszaru.</string>
     <string name="area_filter_guide_3">Powierzchnie reklamowe zazwyczaj od czasu do czasu zmieniają swoje właściwości.</string>
     <string name="area_filter_guide_4">Możesz rozwiązać problem, edytując filtr.</string>
-    <string name="area_edit_guide_1">Wyświetlone zostaną wszystkie właściwości wybranego obszaru.</string>
-    <string name="area_edit_guide_2">Możesz tworzyć filtry z dowolną kombinacją.</string>
-    <string name="area_edit_guide_3">Jeśli dokonasz nieprawidłowej edycji, moduł blokujący reklamy może nie działać.</string>
-    <string name="area_edit_guide_4">Ale nie musisz się martwić.</string>
-    <string name="area_edit_guide_5">Możesz go ponownie edytować w dowolnym momencie.</string>
-    <string name="area_edit_guide_6">Nie wahaj się spróbować.</string>
     <string name="area_recom_1">Spróbuj użyć funkcji \'%s\'.</string>
     <string name="area_recom_2">Funkcja \'%s\' pozwala bezpośrednio wybrać, co chcesz zablokować.</string>
     <string name="area_info_1">Obecnie w sieci WWW istnieje ponad 1,5 miliarda witryn internetowych.</string>

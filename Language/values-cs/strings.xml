@@ -619,9 +619,6 @@
     <string name="setted">Bylo nastaveno.</string>
     <string name="no_down_video">Stažitelná videa nenalezena.</string>
     <string name="video_link_1">Odkaz na stažení videa nenalezen.</string>
-    <string name="trans_report">Nahlásit chyby v překladu</string>
-    <string name="trans_report_info">Prosím pomozte překládat. ❤</string>
-    <string name="trans_report_guide">[Chybný překlad] &gt; [Správný překlad]</string>
     <string name="tts_mode">Text na řeč</string>
     <string name="tts_on">Zapnout Text na řeč</string>
     <string name="tts_info_1">Při kliknutí na text, zobrazen v prohlížeči, Vám bude jeho obsah předčítán.</string>
@@ -771,7 +768,7 @@
     <string name="donation">Přispět</string>
     <string name="inapp_ads">Reklamy v aplikaci</string>
     <string name="website_ads">Reklamy na stránkách</string>
-    <string name="greeting">Pozdravy</string>
+    <string name="greeting">Zdravím vás</string>
     <string name="remove_ads">Odebrat reklamy v aplikaci</string>
     <string name="remove_ads_info_1">Jednorázová platba navždy odebere reklamy v aplikaci.</string>
     <string name="remove_ads_info_2">Platí pro všechna zařízení pod stejným platebním účtem</string>
@@ -1011,7 +1008,6 @@
     <string name="restart_noti">Chcete aplikaci restartovat?</string>
     <string name="restart_title">Začněte znovu</string>
     <string name="block_area">Oblast bloku</string>
-    <string name="remove_area">Chcete odstranit vybranou oblast?</string>
     <string name="remove_title">Odstranit</string>
     <string name="area_guide_1">Můžete vybrat oblast, kterou chcete odstranit.</string>
     <string name="area_guide_2">Všechny oblasti se stejnými vlastnostmi jako vybraná oblast budou odstraněny.</string>
@@ -1024,12 +1020,6 @@
     <string name="area_filter_guide_2">Důvodem je změna vlastností blokované oblasti.</string>
     <string name="area_filter_guide_3">Reklamní plochy obvykle čas od času mění vlastnosti.</string>
     <string name="area_filter_guide_4">Problém můžete vyřešit úpravou filtru.</string>
-    <string name="area_edit_guide_1">Zobrazí se všechny vlastnosti vybrané oblasti.</string>
-    <string name="area_edit_guide_2">Filtry můžete vytvářet s libovolnou kombinací, kterou chcete.</string>
-    <string name="area_edit_guide_3">Při nesprávné úpravě nemusí blokovače reklam fungovat.</string>
-    <string name="area_edit_guide_4">Ale není třeba se obávat.</string>
-    <string name="area_edit_guide_5">Kdykoli jej můžete znovu upravit.</string>
-    <string name="area_edit_guide_6">Neváhejte a vyzkoušejte.</string>
     <string name="area_recom_1">Zkuste použít funkci \'%s\'.</string>
     <string name="area_recom_2">Funkce \'%s\' umožňuje přímo vybrat cíl, který chcete zablokovat.</string>
     <string name="area_info_1">Dnes je na World Wide Web více než 1,5 miliardy webových stránek.</string>
