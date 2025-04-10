@@ -410,7 +410,7 @@
     <string name="share_app">Порекомендувати другу</string>
     <string name="extract">Витягти</string>
     <string name="loading">Завантаження&#8230;</string>
-    <string name="waiting">Будь ласка, зачекайте.</string>
+    <string name="waiting">Будь ласка, зачекайте&#8230;</string>
     <string name="repeat_on">Режим повтору увімкнено</string>
     <string name="repeat_off">Режим повтору вимкнено</string>
     <string name="repeat_play">Повторити відтворення</string>
@@ -647,7 +647,7 @@
     <string name="local_file">Локальний файл</string>
     <string name="web_stream">(Веб-трансляція)</string>
     <string name="thumb_mode">Режим мініатюр</string>
-    <string name="list_mode">Режим списку</string>
+    <string name="list_mode">Список</string>
     <string name="simple_mode">Простий режим</string>
     <string name="accept_cookie">Дозволити cookie (Рекомендовано)</string>
     <string name="accept_cookie_info_1">Дозволяє сайту зберігати або читати cookie.</string>
@@ -731,7 +731,7 @@
     <string name="not_support_locale">Деякі регіони можуть не підтримуватись.</string>
     <string name="ads_filter">Фільтр реклами</string>
     <string name="user_filter">Користувацький фільтр</string>
-    <string name="backup_title">Резервне копіювання та відновлення</string>
+    <string name="backup_title">Резервне копіювання</string>
     <string name="backup_import">Імпорт</string>
     <string name="backup_export">Експорт</string>
     <string name="backup_target">Виберіть цільовий об\'єкт.</string>
@@ -768,7 +768,7 @@
     <string name="donation">Пожертвування</string>
     <string name="inapp_ads">Реклама в застосунку</string>
     <string name="website_ads">Реклама на сайті</string>
-    <string name="greeting">вітаю</string>
+    <string name="greeting">Вітаю</string>
     <string name="remove_ads">Видалити рекламу в застосунку</string>
     <string name="remove_ads_info_1">Одноразовий платіж назавжди видаляє рекламу в застосунку.</string>
     <string name="remove_ads_info_2">Він завжди залишається дійсним, якщо для оплати використовується той же рахунок.</string>
