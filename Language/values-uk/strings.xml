@@ -633,7 +633,7 @@
     <string name="voice_tone">Тон голосу</string>
     <string name="stop_icon">Кнопка зупинки озвучування</string>
     <string name="stop_icon_info">Відображається на екрані під час озвучування тексту.</string>
-    <string name="long_move_guide">Кнопку можна переміщувати по екрану, утримуючи її.</string>
+    <string name="long_move_guide">Для переміщення кнопки по екрану натисніть і утримуйте її.</string>
     <string name="drag_move_guide">Ви можете переміщувати кнопку, утримуючи та перетягуючи її.</string>
     <string name="move_long">Тривале натискання для переміщення</string>
     <string name="move_free">Вільне переміщення</string>
@@ -688,7 +688,7 @@
     <string name="header_title">Заголовок</string>
     <string name="header_color">Колір заголовка</string>
     <string name="site_theme">Тема сайту</string>
-    <string name="site_theme_info">Якщо відвідуваний сайт підтримує тему, вона буде застосована в браузері.</string>
+    <string name="site_theme_info">Якщо веб-сайт має свою тему оформлення, її буде застосовано в браузері.</string>
     <string name="prev_tab">Попередня вкладка</string>
     <string name="next_tab">Наступна вкладка</string>
     <string name="tts_highlight">Підсвічування читаємого тексту</string>
