@@ -410,7 +410,7 @@
     <string name="share_app">Порекомендовать другу</string>
     <string name="extract">Извлечь</string>
     <string name="loading">Загрузка&#8230;</string>
-    <string name="waiting">Пожалуйста, подождите.</string>
+    <string name="waiting">Пожалуйста, подождите&#8230;</string>
     <string name="repeat_on">Режим повтора включен</string>
     <string name="repeat_off">Режим повтора отключен</string>
     <string name="repeat_play">Повторить воспроизведение</string>
@@ -633,7 +633,7 @@
     <string name="voice_tone">Тон голоса</string>
     <string name="stop_icon">Кнопка остановки озвучивания</string>
     <string name="stop_icon_info">Отображается на экране во время озвучивания текста.</string>
-    <string name="long_move_guide">Кнопку можно перемещать по экрану, удерживая её.</string>
+    <string name="long_move_guide">Для перемещения кнопки по экрану нажмите и удерживайте её.</string>
     <string name="drag_move_guide">Вы можете перемещать кнопку, удерживая и перетаскивая её.</string>
     <string name="move_long">Долгое нажатие для перемещения</string>
     <string name="move_free">Свободное перемещение</string>
@@ -647,7 +647,7 @@
     <string name="local_file">Локальный файл</string>
     <string name="web_stream">(Веб-трансляция)</string>
     <string name="thumb_mode">Режим миниатюр</string>
-    <string name="list_mode">Режим списка</string>
+    <string name="list_mode">Список</string>
     <string name="simple_mode">Простой режим</string>
     <string name="accept_cookie">Разрешить cookie (Рекомендуется)</string>
     <string name="accept_cookie_info_1">Разрешает сайту сохранять или читать cookie.</string>
@@ -688,7 +688,7 @@
     <string name="header_title">Заголовок</string>
     <string name="header_color">Цвет заголовка</string>
     <string name="site_theme">Тема сайта</string>
-    <string name="site_theme_info">Если посещаемый сайт поддерживает тему, она будет применена в браузере.</string>
+    <string name="site_theme_info">Если веб-сайт имеет свою тему оформления, она будет применена в браузере.</string>
     <string name="prev_tab">Предыдущая вкладка</string>
     <string name="next_tab">Следующая вкладка</string>
     <string name="tts_highlight">Подсветка читаемого текста</string>
@@ -731,7 +731,7 @@
     <string name="not_support_locale">Некоторые регионы могут не поддерживаться.</string>
     <string name="ads_filter">Фильтр рекламы</string>
     <string name="user_filter">Пользовательский фильтр</string>
-    <string name="backup_title">Резервное копирование и восстановление</string>
+    <string name="backup_title">Резервное копирование</string>
     <string name="backup_import">Импорт</string>
     <string name="backup_export">Экспорт</string>
     <string name="backup_target">Выберите целевой объект.</string>
