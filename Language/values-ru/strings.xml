@@ -410,7 +410,7 @@
     <string name="share_app">Порекомендовать другу</string>
     <string name="extract">Извлечь</string>
     <string name="loading">Загрузка&#8230;</string>
-    <string name="waiting">Пожалуйста, подождите&#8230;</string>
+    <string name="waiting">Пожалуйста, подождите.</string>
     <string name="repeat_on">Режим повтора включен</string>
     <string name="repeat_off">Режим повтора отключен</string>
     <string name="repeat_play">Повторить воспроизведение</string>
