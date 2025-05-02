@@ -10,6 +10,7 @@ values-es        Spanish
 values-fa        Persian
 values-fr        French
 values-hi        Hindi
+values-hu        Hungary
 values-in        Indonesia
 values-it        Italian
 values-ja        Japanese
