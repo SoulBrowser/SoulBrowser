@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
     <string name="app_name">Soul</string>
     <string name="notice">بالضغط على زر البدء، فإنك توافق على %1$s و %2$s الخاصة بمتصفح سول.</string>
@@ -11,8 +12,8 @@
     <string name="license">تراخيص المصادر المفتوحة</string>
     <string name="show_license">الترخيص</string>
     <string name="feedback">إرسال ملاحظات</string>
-    <string name="item"> عنصر</string>
-    <string name="items"> عناصر</string>
+    <string name="item">&#160;عنصر</string>
+    <string name="items">&#160;عناصر</string>
     <string name="down_location">موقع التنزيل</string>
     <string name="save_location">موقع التخزين</string>
     <string name="file">ملف</string>
@@ -189,9 +190,9 @@
     <string name="password_reset_guide">ستؤدي إعادة التعيين إلى حذف جميع البيانات المرتبطة بكلمة المرور.</string>
     <string name="login_lock">قفل تسجيل الدخول</string>
     <string name="login_lock_info">سيتم تشغيل شاشة القفل قبل تسجيل الدخول باستخدام كلمة المرور المحفوظة.</string>
-    <string name="canceling">جارٍ الإلغاء…</string>
-    <string name="checking">جارٍ التحقق…</string>
-    <string name="finishing">جارٍ الإنهاء </string>
+    <string name="canceling">جارٍ الإلغاء&#8230;</string>
+    <string name="checking">جارٍ التحقق&#8230;</string>
+    <string name="finishing">جارٍ الإنهاء&#160;</string>
     <string name="show_detail">عرض المعلومات التفصيلية</string>
     <string name="show_single">عنوان في سطر واحد</string>
     <string name="show_recent">تمييز الملفات الحديثة</string>
@@ -369,8 +370,8 @@
     <string name="exit_delete">حدد العناصر المراد حذفها عند الخروج من التطبيق</string>
     <string name="exit_guide">عند إغلاق التطبيق، يتم حذف العنصر المحدد.</string>
     <string name="exit_del_noti">إشعار عند الحذف</string>
-    <string name="exit_noti_1">< مسح عند الخروج >\nتم حذف %s.</string>
-    <string name="exit_noti_2">< مسح عند الخروج >\nتم حذف %s.</string>
+    <string name="exit_noti_1">&#60; مسح عند الخروج &#62;\nتم حذف %s.</string>
+    <string name="exit_noti_2">&#60; مسح عند الخروج &#62;\nتم حذف %s.</string>
     <string name="web_page">صفحة ويب</string>
     <string name="text_size">حجم النص</string>
     <string name="free_scale">تكبير بإصبعين</string>
@@ -403,12 +404,12 @@
     <string name="control_seek">التنقل في الشاشة</string>
     <string name="pip_mode">وضع صورة داخل صورة</string>
     <string name="pip_info">وضع صورة داخل صورة مدعوم بدءاً من أندرويد 8.</string>
-    <string name="wait_retry">جارٍ التحميل…\nالرجاء المحاولة مرة أخرى لاحقًا.</string>
+    <string name="wait_retry">جارٍ التحميل&#8230;\nالرجاء المحاولة مرة أخرى لاحقًا.</string>
     <string name="ads_retry">الإعلان ليس جاهزًا بعد.\nالرجاء المحاولة مرة أخرى لاحقًا.</string>
     <string name="rate_app">تقييم التطبيق</string>
     <string name="share_app">أوصي به لصديق</string>
     <string name="extract">استخراج</string>
-    <string name="loading">جارٍ التحميل…</string>
+    <string name="loading">جارٍ التحميل&#8230;</string>
     <string name="waiting">الرجاء الانتظار.</string>
     <string name="repeat_on">وضع التكرار قيد التشغيل</string>
     <string name="repeat_off">وضع التكرار متوقف</string>
@@ -581,7 +582,7 @@
     <string name="font_guide_2">معظم الخطوط عادة ما تدعم فقط الحروف الأبجدية والأرقام.</string>
     <string name="font_guide_3">تحقق من المعاينة لمعرفة ما إذا كان الخط المحدد يدعم اللغة المحددة.</string>
     <string name="tv_cast">بث التلفزيون</string>
-    <string name="media_route_menu_title">تشغيل على…</string>
+    <string name="media_route_menu_title">تشغيل على&#8230;</string>
     <string name="introducing_cast">المس لبث الوسائط إلى جهاز التلفزيون</string>
     <string name="cast_info_6">يوتيوب غير مدعوم.</string>
     <string name="cast_info_7">بعض التنسيقات غير مدعومة.</string>
@@ -592,7 +593,7 @@
     <string name="icon_color">لون الزر</string>
     <string name="icon_pos">موقع الزر</string>
     <string name="storage_guide_1">تم التحديث لأندرويد 10.</string>
-    <string name="storage_guide_2">اعتبارًا من أندرويد 10، يتم تطبيق سياسة "التخزين المحدد النطاق".</string>
+    <string name="storage_guide_2">اعتبارًا من أندرويد 10، يتم تطبيق سياسة \'التخزين المحدد النطاق\'.</string>
     <string name="storage_guide_3">تمت تهيئة قائمة الحفظ ومسار الحفظ.</string>
     <string name="storage_guide_4">يتم الاحتفاظ بالملفات.</string>
     <string name="not_selected">غير محدد</string>
@@ -734,7 +735,7 @@
     <string name="backup_import">استيراد</string>
     <string name="backup_export">تصدير</string>
     <string name="backup_target">الرجاء تحديد هدف.</string>
-    <string name="saving">جارٍ الحفظ…</string>
+    <string name="saving">جارٍ الحفظ&#8230;</string>
     <string name="save_empty">لا يوجد شيء للحفظ.</string>
     <string name="not_changed">لم يتم إجراء أي تغييرات.</string>
     <string name="app_restart">تحتاج إلى إعادة تشغيل التطبيق.</string>
@@ -884,7 +885,7 @@
     <string name="default_browser">تعيين كمتصفح افتراضي</string>
     <string name="news_start">اطلع على الأخبار من جميع أنحاء العالم في مكان واحد.</string>
     <string name="news_title">الأخبار</string>
-    <string name="news_loading">جارٍ تحميل الأخبار…</string>
+    <string name="news_loading">جارٍ تحميل الأخبار&#8230;</string>
     <string name="news_show">عرض الأخبار</string>
     <string name="news_info_1">مصدر الأخبار</string>
     <string name="news_info_2">أخبار جوجل</string>
