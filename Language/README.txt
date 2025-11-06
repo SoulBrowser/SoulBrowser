@@ -28,3 +28,10 @@ values-vi        Vietnamese
 values-zh-rCN    Chinese Simplified
 values-zh-rTW    Chinese Traditional
 values           English
+
+
+Run the coverage script: 
+1. change folder name on script
+2. python3 test_coverage.py
+
+All keys are translated. ✅ 100% complete.
